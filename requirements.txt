@@ -1,0 +1,7 @@
+requests
+bs4
+io
+csv
+os
+time
+pypdf
