@@ -1,6 +1,5 @@
 import streamlit as st
-import requests, bs4, io, csv, requests, os, time, random
-from pypdf import PdfReader
+import csv, os
 
 st.set_page_config(
     page_title="Home",
