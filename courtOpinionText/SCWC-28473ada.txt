@@ -1,0 +1,1236 @@
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+Electronically Filed 
+Supreme Court SCWC-28473 15-DEC-2011 12:40 PM 
+IN THE SUPREME COURT OF THE STATE OF HAWAI
+'I 
+---o0o--­
+MICHELE R. STEIGMAN, Petitioner-Plaintiff-Appellant,
+ 
+v.
+ 
+OUTRIGGER ENTERPRISES, INC., dba OHANA SURF HOTEL,
+Respondent-Defendant-Appellee.
+ 
+NO. SCWC-28473
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS 
+(ICA NO. 28473; CIV. NO. 05-1-0274) 
+DECEMBER 15, 2011
+ 
+RECKTENWALD, C.J., NAKAYAMA AND DUFFY, JJ.,
+AND CIRCUIT JUDGE WILSON, ASSIGNED BY REASON OF VACANCY;
+AND ACOBA, J., CONCURRING SEPARATELY
+ 
+OPINION OF THE COURT BY NAKAYAMA, J.
+ 
+Petitioner-Plaintiff-Appellant Michele R. Steigman
+ 
+brought this tort action to recover damages after suffering a
+ slip-and-fall accident while she was a guest of Respondent­Defendant-Appellee Outrigger Enterprises’ Ohana Surf Hotel. The
+ case went to trial, and a jury found that Outrigger was not
+ negligent.
+1 Steigman’s appeal to the Intermediate Court of
+ 
+1  The  Honorable  Victoria  S.  Marks  presided.
+         
+        
+        
+         
+           
+        
+        
+         
+       
+     *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+Appeals (“ICA”) resulted in a Summary Disposition Order affirming
+ 
+the trial court’s final judgment.
+ 
+Steigman’s application for writ of certiorari presents 
+a question of first impression, namely, whether Hawaii’s comparative negligence statute nullifies the common law tort defense barring recovery for plaintiffs injured by known or obvious dangers. Prior to the legislative enactment of comparative negligence, the courts of this state applied the rule of contributory negligence, and an injured plaintiff was denied recovery upon a showing that her negligence contributed to her own injury. Torres v. Northwest Engineering Co., 86 Hawai' i 383, 
+399 n.8, 949 P.2d 1004, 1020 n.8 (Haw. App. 1997). Then, “[a] legislative perception of unfairness in the common law doctrine of contributory negligence led to the passage of our modified comparative negligence statute in 1969.” Wong v. Hawaiian Scenic 
+Tours, Ltd., 64 Haw. 401, 403-04, 642 P.2d 930, 932 (1982). The statute, Hawai' i Revised Statutes (HRS) § 663-31, states, in 
+relevant part: 
+Contributory negligence shall not bar recovery in any action
+by any person or the person’s legal representative to
+recover damages for negligence resulting in death or in
+injury to person or property, if such negligence was not
+greater than the negligence of the person or in the case of
+more than one person, the aggregate negligence of such
+persons against whom recovery is sought, but any damages
+allowed shall be diminished in proportion to the amount of
+negligence attributable to the person for whose injury,
+damage or death recovery is made.
+ 
+HRS § 663-31(a) (1993). This statute eliminates contributory
+ 
+2
+ *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+negligence, and instead provides that an injured plaintiff may
+ 
+recover against a defendant even if her negligence contributed to
+ her own injury, as long as her negligence is not greater than
+ that of the defendant.
+ 
+Steigman contends that the traditional known or obvious 
+danger defense conflicts with the Legislature’s intent behind the comparative negligence statute. We agree. We therefore hold that in Hawai' i, the known or obvious danger defense is no longer 
+viable as a complete bar to an injured plaintiff’s claim in the context of premises liability. 
+I. BACKGROUND
+ 
+Steigman’s application poses two questions. She asks
+ 
+whether, as a matter of law, the known or obvious danger defense
+ is inconsistent with comparative negligence, and whether, as
+ applied in her case, the jury instruction on the defense was
+ properly given. We answer her first question in the affirmative,
+ eliminating the need to consider her second question; thus a
+ thorough review of the details of her case and the evidence
+ presented over eight full days of trial is unnecessary. 
+Nonetheless, this case is illustrative of the difficulty in
+ applying the known or obvious danger defense. As such, a brief
+ review of the facts of this case follows. 
+A. Trial Proceedings
+ 
+In 2003, Steigman and her family were guests of the
+ 
+3
+           
+             *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+Ohana Surf Hotel in Honolulu. On the afternoon of March 6,
+ 
+Steigman and her family got caught in a rainstorm and returned to
+ their hotel room to dry off. When Steigman went on the lanai
+2 to
+ 
+get a chair, she slipped, slid across the balcony, and sustained
+ injury to her foot when it got trapped under the lanai railing. 
+Steigman filed this lawsuit against Outrigger alleging
+ 
+negligence. At trial, Steigman presented evidence to prove that
+ the hotel lanai was unsafe. An expert witness testified that the
+ lanai’s surface did not have the friction coefficient required by
+ industry standards for exterior surfaces. Steigman’s daughter
+ testified that the lanai had a glossy surface, so it was
+ difficult to determine by sight alone whether it was wet or dry. 
+Steigman also presented evidence that an Outrigger employee had
+ suffered a similar slip-and-fall accident on a lanai at the
+ hotel, and therefore Outrigger knew of the dangerous condition.
+ Throughout the trial, Outrigger argued that Steigman’s injury was
+ caused solely by Steigman’s own negligence because the wet lanai
+ presented a known or obvious danger of being slippery, and she
+ chose to confront that danger.
+ 
+At the conclusion of the trial, Outrigger proposed the
+ 
+following jury instruction: “A danger is open and obvious when a
+ party either knew or should have known of it. Whether the
+ 
+“Lanai” is a Hawaiian word meaning “porch, veranda, [or] balcony.”
+ 
+Mary Kawena Pukui & Samuel H. Elbert, Hawaiian Dictionary 193 (rev. ed. 1986).
+ 
+4
+ 2 *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+Plaintiff actually discovered the danger is irrelevant.” The
+ 
+court refused Outrigger’s instruction and proposed the following
+ instruction, fashioned after the Restatement (Second) of Torts:
+ 
+A  hotel  operator  is  not  liable  to  its  guests  for
+physical  harm  caused  to  them  by  any  activity  or  condition  in
+the  hotel  whose  danger  is  known  or  obvious  to  them,  unless
+the  hotel  operator  should  anticipate  the  harm  despite  such
+knowledge  or  obviousness.
+The  word  “known”  denotes  not  only  knowledge  of
+the  existence  of  the  condition  or  activity  itself,  but  also
+appreciation  of  the  danger  it  involves.   Thus  the  condition
+ 
+or  activity  must  not  only  be  known  to  exist,  but  it  must
+also  be  recognized  that  it  is  dangerous,  and  the  probability
+and  gravity  of  the  threatened  harm  must  be  appreciated.
+  
+“Obvious”  means  that  both  the  condition  and  the  risk  are
+ 
+apparent  to  and  would  be  recognized  by  a  reasonable  man,  in
+the  position  of  the  guest,  exercising  ordinary  perception,
+intelligence,  and  judgment.
+ 
+Steigmen’s counsel objected to this instruction on the grounds
+ that it was not supported by the evidence and that it conflicted
+ with this state’s comparative negligence statute. The court
+ replied “Okay. And the Court’s giving it because [of] the fact
+ that it was raining, and the plaintiff knew it was raining.” 
+The court provided the jury with a special verdict
+ 
+form. The first question asked “Was defendant Outrigger
+ Enterprises, Inc., doing business as Ohana Surf Hotel,
+ negligent?” The jury answered “no”. As instructed by the form,
+ the jury did not answer any further questions. The trial court
+ entered a final judgment in favor of Outrigger, and ordered
+ Steigman to pay Outrigger $29,722.30 for costs. 
+B. The ICA’s June 8, 2010 Summary Disposition Order
+ 
+On appeal before the ICA, Steigman asserted five points
+ 
+5
+          
+        
+       
+         
+            
+         
+   *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+of error. Three points of error are no longer relevant to this
+ 
+appeal. The remaining two of the points of error concerned the
+ known or obvious danger instruction: Steigman argued that the
+ facts of her case did not support the instruction, and that the
+ instruction fundamentally conflicts with Hawaii’s comparative
+ negligence statute. 
+On November 16, 2010, the ICA filed a Summary
+ 
+Disposition Order affirming the trial court’s judgment. Steigman
+ 
+v. Outrigger Enterprises, Inc., No. 28473, 2010 WL 4621838 (App.
+ Nov. 16, 2010) (SDO). Therein the ICA affirmed the trial court’s
+ judgment on all five points of error. With regard to the known
+ or obvious danger arguments, the ICA held that the instruction
+ was proper because there was substantial evidence to support the
+ jury’s finding. Steigman, 2010 WL 4621838 at *7 n.5. The court
+ 
+also held that “there is no inherent conflict between the known
+ or obvious doctrine and the comparative negligence statute,”
+ because the finding of a known or obvious danger completely
+ absolves a landowner of his duty to people on his premises. 
+Steigman, 2010 WL 4621838 at *6. The ICA’s reasoning was as
+ follows:
+ 
+[I]f the finder of fact determines that the hazard falls
+within the known or obvious doctrine, the question of
+comparative negligence is never reached as the defendant
+owes no duty to the plaintiff, and accordingly, cannot be
+negligent as a matter of law. In the absence of a legal duty
+owed to the plaintiff, there is no negligence to compare
+under HRS § 663-31.
+ 
+6
+ *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+Steigman, 2010 WL 4621838 at *6. 
+On December 16, 2010, the ICA filed its Judgment on
+ 
+Appeal. On February 10, 2011, Steigman filed a timely
+ 
+application for writ of certiorari. This court accepted
+ Steigman’s application on March 23, 2011 and heard oral argument
+ on May 5, 2011.
+ 
+II. STANDARD OF REVIEW
+ 
+“Questions of statutory interpretation are questions of 
+law reviewable de novo.” Hawaii Government Employees Ass’n, 
+AFSCME Local 152, AFL-CIO v. Lingle, 124 Hawai' i 197, 201-02, 239 
+P.3d 1, 5-6 (2010) (quoting Gump v. Wal-Mart Stores, Inc., 93 Hawai'i 417, 420, 5 P.3d 407, 410 (2000)). 
+III. DISCUSSION
+ 
+The case at bar presents a question of first
+ 
+impression. However, the central core of the question is
+ familiar, in that it requires this court to reexamine a
+ traditional, judge-made rule of tort law in modern context, an
+ analysis this court has previously undertaken. For example,
+ until 1969, the state followed the common law rule that a
+ landowner’s duty to a visitor was determined by the visitor’s
+ purpose for being on the land; a landowner owed a high duty of
+ care to visitors on the land for business purposes, called
+ “invitees,” but a smaller scope of duty to visitors there for
+ 
+7
+          
+      
+      
+     
+     
+       
+          
+       
+       
+    *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+non-business purposes, called “licensees.” W. Page Keeton, et
+ 
+al., Prosser and Keeton on the Law of Torts §§ 60 and 61, at 412
+ and 419 (5th ed. 1984). Then in 1969, this court abandoned the
+ common law invitee/licensee distinctions and defined premises
+ duty as follows: “an occupier of land has a duty to use
+ reasonable care for the safety of all persons reasonably
+ anticipated to be upon the premises, regardless of the legal
+ status of the individual.” Pickard v. City and County of
+ 
+Honolulu, 51 Haw. 134, 135, 452 P.2d 445, 446 (1969). The court
+ advanced two justifications for the change. First, courts had
+ difficulty applying the common law classifications consistently. 
+The court quoted language from the United States Supreme Court,
+ noting that 
+[i]n an effort to do justice in an industrialized urban
+society, with its complex economic and individual
+relationships, modern common-law courts have found it
+necessary to formulate increasingly subtle verbal
+refinements, to create subclassifications among traditional
+common-law categories, and to delineate fine gradations in
+the standards of care which the landowner owes to each. Yet
+ even within a single jurisdiction, the classifications and
+subclassifications bred by the common law have produced
+confusion and conflict.
+ 
+Id. at 135-36, 452 P.2d at 446 (quoting Kermarec v. Compagnie
+ 
+Generale Transatlantique, 358 U.S. 625, 630-31 (1959)). 
+The second justification for the change was that the
+ 
+distinctions had ceased to comport with modern values. The court
+ quoted Rowland v. Christian, a California Supreme Court decision,
+ which states that 
+8
+           
+          
+           
+        
+       
+         
+         
+        
+          
+        
+      
+        *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+[a] man’s life or limb does not become less worthy of
+protection by the law nor a loss less worthy of compensation
+under the law because he has come upon the land of another
+without permission or with permission but without a business
+purpose. Reasonable people do not ordinarily vary their
+conduct depending upon such matters, and to focus upon the
+status of the injured party as a trespasser, licensee, or
+invitee in order to determine the question whether the
+landowner has a duty of care, is contrary to our modern
+social mores and humanitarian values. The common law rules
+ obscure rather than illuminate the proper considerations
+which should govern determination of the question of duty.
+ 
+Id. at 136, 452 P.2d at 446 (quoting Rowland v. Christian, 443
+ 
+P.2d 561, 568 (Cal. 1968)).
+ 
+We believe that these justifications from the Pickard
+ 
+case apply in this case: we observe that courts have difficulty
+ applying the known or obvious danger defense consistently, and
+ that the defense is incompatible with the modern policy values
+ that tort law seeks to effect. Furthermore, we believe that the
+ known or obvious danger defense is inconsistent with the
+ legislative intent behind our state’s comparative negligence
+ statute. And finally, we note that the majority of states to
+ consider the question have abolished the use of the known or
+ obvious danger defense as a complete bar to an injured
+ plaintiff’s recovery. 
+A.	 The Known Or Obvious Danger Defense Frustrates The
+Legislative Intent Behind Comparative Negligence
+ 
+To resolve Steigman’s question, this court must
+ 
+interpret our state’s comparative negligence statute. The
+ 
+statute, HRS § 663-31, provides:
+ 
+9
+         
+         
+        
+         
+           
+        
+        
+         
+       
+     
+          
+         
+            
+   
+         
+      
+  
+        
+   
+            
+        
+          
+        
+         
+         
+           
+       
+          
+ 
+          
+   *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+(a) Contributory negligence shall not bar recovery in any
+action by any person or the person’s legal representative to
+recover damages for negligence resulting in death or in
+injury to person or property, if such negligence was not
+greater than the negligence of the person or in the case of
+more than one person, the aggregate negligence of such
+persons against whom recovery is sought, but any damages
+allowed shall be diminished in proportion to the amount of
+negligence attributable to the person for whose injury,
+damage or death recovery is made.
+ 
+(b) In any action to which subsection (a) of this section
+applies, the court, in a nonjury trial, shall make findings
+of fact or, in a jury trial, the jury shall return a special
+verdict which shall state:
+ 
+(1) The amount of the damages which would have been
+recoverable if there had been no contributory
+negligence; and
+ 
+(2) The degree of negligence of each party, expressed
+as a percentage.
+ 
+(c) Upon the making of the findings of fact or the return of
+a special verdict, as is contemplated by subsection (b)
+above, the court shall reduce the amount of the award in
+proportion to the amount of negligence attributable to the
+person for whose injury, damage or death recovery is made;
+provided that if the said proportion is greater than the
+negligence of the person or in the case of more than one
+person, the aggregate negligence of such persons against
+whom recovery is sought, the court will enter a judgment for
+the defendant.
+ 
+(d) The court shall instruct the jury regarding the law of
+comparative negligence where appropriate.
+ 
+HRS § 663-31 (1993). The statute is structured as follows:
+ 
+subsection (a) of the statute mandates that a plaintiff’s
+ negligence will not completely bar recovery for that plaintiff,
+ as long as her negligence was not greater than the defendant’s. 
+Subsection (b) requires a special verdict form from the jury with
+ findings of the total amount of damages and the percent of
+ negligence of each party. Subsection (c) guides the court in
+ administering the recovery, and subsection (d) permits the court
+ 
+10
+ *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+to instruct the jury about comparative negligence where 
+appropriate. The plain language of the statute does not expressly include or exclude actions involving known or obvious dangers. Our task then, in order to answer Steigman’s question, is to effect the legislative intent behind the statute. Hawaii 
+Government Employees Ass’n, AFSCME Local 152, AFL-CIO v. Lingle, 124 Hawai' i at 202, 239 P.3d at 6 (2010). 
+This court examined the legislative purpose behind the
+ 
+comparative negligence statute in a past case. In Wong v.
+ Hawaiian Scenic Tours, Ltd., the estate and parents of Wesley Wai
+ Leong Wong brought suit against the City and County of Honolulu
+ (“the City”) and Hawaiian Scenic Tours after Wesley was fatally
+ struck by a school bus. 64 Haw. 401, 402, 642 P.2d 930, 931
+ (1982). At trial, the jury determined that Hawaiian Scenic Tours
+ was eighty percent at fault, the City was six percent at fault,
+ and Wesley was fourteen percent at fault. Id. at 403, 642 P.2d
+ 
+at 931. The City appealed, arguing that Wesley could not recover
+ any damages from the City because the jury found it to be less at
+ fault than Wesley. Id. The supreme court noted that in the time
+ 
+between the accident and the appeal, the Legislature had modified
+ the statute to explicitly permit a plaintiff to recover against
+ joint tortfeasors if their combined negligence was greater than
+ the plaintiff’s. Id. at 402 n.1, 642 P.2d at 931 n.1. However,
+ 
+11
+ *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+the version of the statute that was in place at the time of the
+ 
+accident contained no such provision; therefore the court
+ investigated the legislative intent behind the statute in order
+ to resolve the City’s appeal. Id. As this court wrote:
+ 
+[t]he  legislative  modification  of  the  doctrine  of
+contributory  negligence  in  1969  sought  to  temper  a  phase  of
+the  common  law  deemed  inconsistent  with  contemporary  notions
+of  fairness.   Its  purpose  was  to  allow  one  partly  at  fault
+in  an  accident  resulting  in  injury  to  be  recompensed  for  the
+damages  attributable  to  the  fault  of  another  if  the  former’s
+negligence  was  not  the  primary  cause  of  the  accident.
+   
+Id. at 405, 642 P.2d at 933. Informing this interpretation is a
+ committee report which stated that allowing a plaintiff’s
+ contributory negligence to completely bar her recovery “seems to
+ be unfair and in opposition to the average person’s concept of
+ justice.” Id. at 404 n.2, 642 P.2d at 932 n.2. 
+The supreme
+ 
+court held that the City remained liable even though the jury
+ found that the plaintiff was more at fault than the City, because
+ the point of the statute was to allow a plaintiff’s recovery as
+ long as the plaintiff was not the primary cause of the accident. 
+Id. at 406, 642 P.2d at 933.
+ 
+Applying this legislative intent to the known or
+ 
+obvious danger defense is straightforward. Under the known or
+ obvious danger defense, a plaintiff cannot recover if the
+ plaintiff is injured due to a known or obvious danger. Friedrich
+ 
+v. Department of Transp., 60 Haw. 32, 36, 586 P.2d 1037, 1040
+ (1978) (superseded, in non-relevant part, by statute). This
+ 
+12
+ *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+defense operates as a complete bar; a plaintiff may not recover
+ 
+even if she was extremely cautious in confronting the danger, and
+ a defendant may not be held liable even if he knew the danger had
+ a high likelihood to lead to injury but did nothing to correct
+ it. Id. at 36 n.1, 586 P.2d at 1040 n.1 (citing 2 Harper and
+ 
+James, Torts, s 27.13 (1956)). 
+The known or obvious danger defense is “in opposition to
+ 
+the average person’s concept of justice” because it mandates that
+ a plaintiff must go uncompensated for her injuries, even if she
+ acted with precaution and the defendant did not. The defense is
+ incompatible with the state’s comparative negligence statute
+ because it denies a plaintiff the opportunity to have her fault
+ compared with the fault of the defendant. As such, the known or
+ obvious danger defense conflicts with the intent of the
+ Legislature that the courts apply comparative negligence in the
+ place of “unfair” common law doctrines. 
+B.	 The Known Or Obvious Danger Defense Yields Inconsistent
+Results
+ 
+There are few reported cases applying the known or
+ 
+obvious danger defense in this jurisdiction, however, among those
+ 
+cases, the difficulty in applying the defense is apparent. For
+ example, in Friedrich this court affirmed the award of summary
+ judgment to the state under the known or obvious danger defense. 
+Friedrich, 60 Haw. at 32, 586 P.2d at 1038. The plaintiff in
+ 
+13
+ *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+that case was walking down a state-owned pier in Hanalei Bay on 
+Kaua'i when he slipped and fell over the edge, severely injuring 
+himself. Id. at 34, 586 P.2d at 1039. As described in this 
+court’s opinion, the pier was at least 26 feet wide. Id. at 32, 
+586 P.2d at 1038. This court held that the danger of falling over the edge was known to the plaintiff, and therefore summary judgment in favor of the state was proper. Id. at 37, 586 P.2d 
+at 1041. 
+In Friedrich, the court distinguished that factual
+ 
+scenario from a previous case, Levy v. Kimball. Levy involved a
+ 
+state-controlled seawall that was partially degraded and was
+ anywhere from thirteen inches to two feet wide. 50 Haw. 497,
+ 498, 443 P.2d at 142, 144 (1968). A tourist walked along the
+ seawall and the heel of her shoe got stuck in a “bad spot.” Id.
+ 
+at 498, 443 P.2d at 143. She fell off the side of the seawall
+ onto rocks eight feet below, sustaining injury. Id. In that
+ 
+case, this court reversed the trial court’s judgment for the
+ state, holding that the state was liable for the plaintiff’s
+ injury. Id. at 500, 443 P.2d at 145. There was no argument
+ 
+based on the known or obvious characteristics of the seawall,
+ even though there is reference to a “bad spot” that may have been
+ conspicuous, and even though the very act of walking along a
+ degraded, two-foot wide seawall could be described as obviously
+ 
+14
+ *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+dangerous. 
+Friedrich distinguished Levy, and instead of solely
+ 
+focusing on whether the danger was known or obvious, the court
+ 
+included in the analysis the question of whether the plaintiff
+ could have avoided injury. Friedrich, 60 Haw. at 37, 586 P.2d at
+ 
+1041. The court found no liability for the state in Friedrich
+ because the plaintiff chose a route that placed him close to the
+ pier’s edge. Id. This result is the opposite of the holding in
+ 
+Levy but, according to the court, that was warranted because
+ there was no proof that the plaintiff in Levy had a choice of a
+ different route. Id. at 37, 586 P.2d at 1041. The end result is
+ 
+incongruous: the danger of walking on a 26-foot wide pier falls
+ under the known or obvious defense, even though the danger of
+ crossing a degraded two-foot seawall did not. 
+Another case involving a known or obvious danger, Bidar
+ 
+v. Amfac, 66 Haw. 547, 669 P.2d 154 (1983), is quite similar to
+ the case at bar and illustrates the difficulty in knowing whether
+ the known or obvious danger test applies. In Bidar, the
+ plaintiff, an elderly tourist, was a guest of a hotel on Maui. 
+Id. at 549, 669 P.2d at 157. She used the toilet in the hotel
+ bathroom, and then tried to use the towel bar mounted on an
+ adjacent wall to help pull herself up. Id. The towel bar tore
+ 
+loose from the wall, and plaintiff fell down to the ground,
+ 
+15
+ *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+fracturing her hip and wrist. Id. Plaintiff filed suit and the
+ 
+hotel moved for summary judgment, arguing that it had no duty to
+ 
+provide a towel rack capable of supporting the guest’s weight. 
+Id. at 549-50, 669 P.2d at 157. The trial court agreed and
+ granted summary judgment. Id. at 551, 669 P.2d at 158. On
+ 
+appeal this court reversed, holding that liability turned on the
+ foreseeability of injury, an issue unsuitable for summary
+ adjudication. Id. at 554, 669 P.2d at 160. In his dissent,
+ 
+Judge Spencer, assigned by reason of vacancy, wrote that he would
+ affirm the grant of summary judgment because the towel bar is a
+ known or obvious danger when used to support the weight of a
+ person. Id. at 560, 669 P.2d at 163. 
+Bidar, Friedrich, and Levy show that the application of 
+the known or obvious danger defense has been inconsistent here in Hawai'i. They also illustrate a large obstacle in applying the 
+defense: it can be difficult to even define the danger that led to the injury and to determine whether the known or obvious danger defense should even apply. In Friedrich, the pier was deemed a known or obvious danger not because of any characteristic of the pier itself, but rather because of the way the plaintiff chose to walk on it. Friedrich, 60 Haw. at 35-36, 
+586 P.2d at 1040. The court distinguished the disintegrating, narrow ledge of the Levy case because there the plaintiff did not 
+16
+ *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+have another available route. Id. at 37, 586 P.2d at 1041. In
+ 
+Bidar, one Judge dissented because he believed the known or
+ 
+obvious danger defense should have controlled the outcome of the
+ case. Bidar, 66 Haw. at 560, 669 P.2d at 163. 
+Defining the danger in the case at bar presents a
+ 
+similar challenge. Outrigger seemed to define the danger as a
+ wet lanai, which most people would recognize as being potentially
+ dangerous, and argued that it is not liable for any injury
+ suffered by Steigman when she chose to encounter that known or
+ obvious danger. Plaintiff defined the dangerous condition as the
+ surface of the lanai. She offered evidence that the lanai’s
+ surface did not have the level of slip resistance established by
+ hotel industry standards, and that it was finished with a glossy
+ coating that made it difficult to tell if the surface was wet. 
+Plaintiff argued that a slippery lanai surface was not a known or
+ obvious condition, because an average person could not determine
+ how dangerous it would be to walk on the lanai. The trial court
+ disagreed with Steigman’s argument. The court stated that
+ Outrigger was entitled to the known or obvious danger defense
+ because of “the fact that it was raining, and the plaintiff knew
+ it was raining.”
+ 
+Defining the known or obvious danger as a wet balcony
+ 
+leads to an antithetical result. When it rains, exterior
+ 
+17
+ As past cases and the case at bar illustrate, the known
+ 
+or obvious danger defense presents many difficulties to the
+ 
+courts. We note also that courts of our sister states have
+ similarly struggled, and therefore the defense has come under
+ significant criticism. See Woodard v. ERP Operating Ltd. P’ship,
+ 351 F.Supp.2d 708, 713 (E.D. Mich. 2005) (“The ‘open and obvious’
+ doctrine is one of the most litigated areas of Michigan premises
+ liability law. 
+Despite the fact that Michigan courts have
+ 
+decided hundreds of cases involving the doctrine, inconsistent
+ applications of the doctrine have resulted in a confusing
+ *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+surfaces may become wet, and industry standards requiring non­slip surfaces are established to provide a safe environment even
+ when wet. Allowing landowners to escape liability for injuries
+ caused when guests slip on an untreated surface because the
+ surface was wet—despite the fact that the standards exist to
+ protect people, should the surfaces become wet—is
+ counterproductive. This would provide no incentive for
+ landowners to maintain premises in compliance with safety
+ standards even when the dangers of non-compliance are readily
+ foreseeable. Also, plaintiffs would be unable to recover when
+ injured while premises were in their most dangerous state, even
+ when they could not possibly have known that the surfaces do not
+ comply with ordinary safety standards.
+ 
+18
+      
+       
+           
+         
+          
+         
+        
+        *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+jurisprudence.”) (footnote omitted); Rogers v. Spirit Cruises, 
+Inc., 760 N.Y.S.2d 280, 282 (App. Term 2003) (characterizing the rule as “ancient” and “oft-criticized”);
+ Groleau v. Bjornson Oil 
+Co., Inc., 676 N.W.2d 763, 773 (N.D. 2004) (Maring, J., dissenting in part and concurring in part) (“Therefore, the common law ‘no duty’ rule or ‘open and obvious’ doctrine has endured much criticism from both courts and commentators.”); O’Donnell v. City of Casper, 696 P.2d 1278, 1282 (Wyo. 1985) (“This court has not been consistent in its application of the obvious danger rule since comparative negligence.”). We acknowledge the difficulties our courts and the courts of other jurisdictions have experienced in applying the known or obvious defense, and we believe it would be prudent to prevent Hawai' i 
+courts from further embedding this problematic doctrine into our case law. 
+C.	 The Known Or Obvious Danger Defense Is Incompatible with
+Public Policy
+ 
+The Mississippi Supreme Court’s analysis of the known
+ 
+or obvious danger and tort policy is instructive. As that court
+ 
+explained:
+ 
+This Court should discourage unreasonably dangerous
+conditions rather than fostering them in their obvious
+forms. It is anomalous to find that a defendant has a duty
+to provide reasonably safe premises and at the same time
+deny a plaintiff recovery from a breach of that same duty.
+The party in the best position to eliminate a dangerous
+condition should be burdened with that responsibility. If a
+dangerous condition is obvious to the plaintiff, then surely
+ 
+19
+          
+    *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+it is obvious to the defendant as well. The defendant,
+accordingly, should alleviate the danger.
+ 
+Tharp v. Bunge Corp., 641 So. 2d 20, 25 (Miss. 1994). The
+ 
+Kentucky Supreme Court recently agreed with Mississippi’s
+ analysis. They cited Mississippi’s reasoning for support that
+ abolishing the known or obvious danger defense in favor of
+ comparative negligence “makes good policy sense.” Kentucky River
+ 
+Medical Center v. McIntosh, 319 S.W.3d 385, 391-92 (Ky. 2010). 
+This is because a landowner’s duty “is predicated upon [his]
+ superior knowledge concerning the dangers of his property,” which
+ places the landowner in a better position to anticipate and take
+ action to prevent injury. Id. at 392 (quoting Janis v. Nash
+ 
+Finch Co., 780 N.W.2d 497, 502 (S.D. 2010)).
+ 
+Approaching torts from a policy perspective is germane 
+to Hawai' i jurisprudence; as this court has written, “tort law is 
+primarily designed to vindicate social policy.” Francis v. Lee 
+Enterprises, Inc., 89 Hawai' i 234, 239, 971 P.2d 707, 712 (1999) 
+(citing W. Page Keeton, et al., Prosser and Keeton on the Law of Torts § 1, at 5-6 (5th ed. 1984)) (emphasis omitted). One social policy enacted through the tort system is compensating injured plaintiffs. Fonseca v. Pacific Const. Co., 54 Haw. 578, 584, 513 
+P.2d 156, 160 (1973) (“a basic premise of tort law is to give adequate protection to persons injured through the unreasonable conduct of others. . . .”). When enacted as a complete bar, the 
+20
+            
+             
+          
+             
+   *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+known or obvious defense precludes an injured plaintiff from 
+recovering from even an unreasonable landowner, and opposes this important social policy. Second, tort law seeks to prevent injury where possible by providing incentive to deter negligent acts. See Smith v. Cutter Biological, Inc., 72 Hawai' i 416, 435, 
+823 P.2d 717, 727 (1991). Allowing a landowner to escape liability as a matter of law, even when he has not reasonably maintained his premises, provides no such incentive. We therefore conclude that considerations of public policy counsel against permitting the continuation of the known or obvious defense. 
+D.	 In Abolishing The Known Or Obvious Danger Defense, Hawai' i 
+Joins The Majority Of States That Have Considered The
+Question
+ Hawai'i is not the first jurisdiction to abolish the 
+known or obvious danger defense. Of the states that have 
+directly considered the question of how the advent of comparative negligence modified the known or obvious defense, the majority held that the known or obvious character of a danger does not automatically absolve a landowner of liability.
+3 The analysis 
+typically follows one of two tacks. 
+3
+ A minority of states to consider the issue have retained the known
+ 
+or obvious danger defense as a complete bar to recovery. See O’Sullivan v.
+ 
+Shaw, 726 N.E.2d 951, 956-57 (Mass. 2000); Harrington v. Syufy Enterprises ,
+931 P.2d 1378, 1380 (Nev. 1997); Armstrong v. Best Buy Co., Inc. , 788 N.E.2d
+1088, 1089 (Ohio 2003).
+ 
+21
+           
+         
+ 
+          
+        
+         
+        
+          
+   *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+The courts that have found the defense incompatible
+ 
+with comparative negligence have analyzed the known or obvious
+ 
+characteristic of the danger either as a component of the
+ landowner’s duty, or as a factor to consider when weighing each
+ party’s negligence. The former states, following either their
+ own statutes or the Restatement (Second) of Torts, held that the
+ known or obvious defense is not a complete bar to recovery
+ because the known or obvious characteristic of the danger may not
+ always defeat a landowner’s duty. These states include
+ 
+6 7 8 9
+ Illinois4 , Kentucky5 , Michigan , Missouri , New Mexico , Utah , and
+10
+ Tennessee  .  The latter states held that factfinders should
+ 
+consider the known or obvious quality of a danger as a component
+ of comparative fault, and entirely abolished the defense. 
+These
+ 
+4 Ward v. K Mart Corp. , 554 N.E.2d 223, 228 (Ill. 1990).
+ 
+5 Kentucky River Medical Center v. McIntosh , 319 S.W.3d 385, 390
+ 
+(Ky. 2010).
+ 
+6
+ Lugo v. Ameritech Corp., Inc. , 629 N.W.2d 384, 389 (Mich. 2001).
+ 
+7
+ Harris v. Niehaus , 856 S.W.2d 222, 226 (Mo. 1993).
+ 
+8
+ Klopp v. Wackenhut Corp. , 824 P.2d 293, 295 (N.M. 1992).
+ 
+9
+ Hale v. Beckstead , 116 P.3d 263, 267 (Utah 2005).
+ 
+10
+ Coln v. City of Savannah , 966 S.W.2d 34, 43 (Tenn. 1998)
+ 
+(overruled on other grounds).
+ 
+22
+            
+          
+          
+       
+  
+       
+          
+           
+         
+      
+        
+          
+        
+           
+          *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+, 1 3 , states include  Idaho1 1	 Mississippi 12 , Oregon  Texas1 4
+,  and
+Wyoming1 5
+ .
+1.	 States Analyzing The Known Or Obvious Danger Defense As
+An Aspect Of Duty
+ 
+Some states that have struck the known or obvious
+ 
+danger defense as a complete bar to liability have held that such
+ a bar is incompatible with landowner duty. 
+These states
+ 
+typically adopt the analysis of the Restatement (Second) of
+ Torts, which provides:
+ 
+(1) A possessor of land is not liable to his invitees for
+physical harm caused to them by any activity or condition on
+the land whose danger is known or obvious to them, unless
+the possessor should anticipate the harm despite such
+knowledge or obviousness.
+ 
+(2) In determining whether the possessor should anticipate
+harm from a known or obvious danger, the fact that the
+invitee is entitled to make use of public land, or of the
+facilities of a public utility, is a factor of importance
+indicating that the harm should be anticipated.
+ 
+Restatement (Second) of Torts § 343A (1965). Under this
+ 
+framework, the fact that a danger is known or obvious does not
+ eliminate liability as a matter of law. Instead, a landowner has
+ a duty, and comparative negligence principles apply, when the
+ landowner should anticipate harm from a known or obvious danger
+ 
+11
+ Harrison v. Taylor , 768 P.2d 1321, 1326 (Idaho 1989).
+ 
+12
+ Tharp v. Bunge Corp. , 641 So. 2d 20, 25 (Miss. 1994).
+ 
+13
+ Woolston v. Wells , 687 P.2d 144, 149-50 (Or. 1984).
+ 
+14
+ Parker v. Highland Park, Inc. , 565 S.W.2d 512, 517 (Tex. 1978).
+ 
+15
+ O’Donnell v. City of Casper , 696 P.2d 1278, 1284 (Wyo. 1985).
+ 
+23
+ *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+on his land. 
+The case of Ward v. K Mart Corp., 554 N.E.2d 223 (Ill.
+ 
+1990), provides illustration. In Ward, the plaintiff was exiting
+ 
+a K Mart department store carrying a large item he had just
+ purchased when he walked into a concrete post located directly
+ outside the store’s exit. Id. at 224. The case went to trial,
+ 
+and a jury delivered a verdict in favor of the plaintiff, but
+ reduced the damages 20% to account for the plaintiff’s
+ comparative negligence. Id. at 226. However, the circuit court
+ 
+judge entered a judgment for the defendant notwithstanding the
+ jury’s verdict, finding that the store owed the plaintiff no duty
+ because the post was open and obvious. Id. at 224. A fractured
+ 
+appellate court affirmed, and the plaintiff appealed to the
+ Supreme Court of Illinois. Id. The supreme court reinstated the
+ 
+jury’s verdict, and held that the open and obvious character of
+ the danger did not automatically negate the store’s duty to the
+ plaintiff. Id. Instead of an inflexible rule that denied
+ 
+recovery to all injured plaintiffs, the court held that a more
+ nuanced analysis of the circumstances of injury is necessary, in
+ order to determine whether K Mart could have anticipated that the
+ pole would cause plaintiff’s injury. Id. In this case, the
+ 
+court believed it was foreseeable that a customer may be injured
+ by the concrete post, so the store had a duty to prevent such
+ 
+24
+           
+       
+         
+       
+         
+         
+      *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+injury. Id. 
+The court’s analysis turned on the notion that the
+ 
+ability of a plaintiff to recognize a danger depends heavily on
+ 
+the circumstances in which the plaintiff confronts that danger. 
+As the court noted: 
+there is perhaps no condition the danger of which is so
+obvious that all customers under all circumstances would
+ necessarily see and realize the danger in the absence of
+contributory negligence, and this is particularly true if
+the further principle so often repeated is accepted that the
+customer or business invitee is entitled to assume that the
+ premises are reasonably safe for his use.
+ 
+Id. at 230 (quoting W. Page Keeton, Personal Injuries Resulting
+ 
+from Open and Obvious Conditions, 100 U.Pa.L.Rev. 629, 642
+ (1952)). Thus, the fact that a condition is known or obvious is
+ not an absolute bar to recovery, and instead courts of that
+ jurisdiction must engage a more thorough analysis. Id. at 299. 
+(“Whether in fact the condition itself served as adequate notice
+ of its presence or whether additional precautions were required
+ to satisfy the defendant’s duty are questions properly left to
+ the trier of fact. The trier of fact may also consider whether
+ the plaintiff was in fact guilty of negligence contributing in
+ whole or in part to his injury, and adjust the verdict
+ accordingly.”)
+ 
+Other jurisdictions share the Illinois Supreme Court’s
+ 
+view that the known or obvious defense may not be a complete bar
+ to a plaintiff’s claim, but rather that a landowner has a duty to
+ 
+25
+ *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+protect against, and may be held liable for, foreseeable injuries
+ 
+due to a known or obvious danger. Kentucky River Medical Center
+ 
+v. McIntosh, 319 S.W.3d 385, 390 (Ky. 2010) (“By concluding that
+ a danger was open and obvious, we can conclude that the invitee
+ was negligent for falling victim to it, unless for some reason
+ ‘to a reasonable man in his position the advantages of
+ [encountering the danger] would outweigh the apparent risk.’ But
+ this does not necessarily mean that the land possessor was not
+ also negligent for failing to fix an unreasonable danger in the
+ first place. Under our rule of comparative fault, the defendant
+ should be held responsible for his own negligence, if any.”)
+ (citation omitted); Coln v. City of Savannah, 966 S.W.2d 34, 36
+ (Tenn. 1998) (overruled on other grounds) (“As in any negligence
+ action, we think a risk is unreasonable and gives rise to a duty
+ to act with due care if the foreseeable probability and gravity
+ of harm posed by a defendant’s conduct outweigh the burden upon
+ the defendant to engage in alternative conduct that would prevent
+ the harm. Applying this analysis, if the foreseeability and
+ gravity of harm posed by the defendant’s conduct, even if ‘open
+ and obvious,’ outweigh the burden upon the defendant to engage in
+ alternative conduct, the defendant has a duty to act with
+ reasonable care and the comparative fault principles apply. . .
+ .”) (citations omitted); Hale v. Beckstead, 116 P.3d 263, 269
+ 
+26
+ *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+(Utah 2005) (“The open and obvious danger rule in particular
+ 
+simply defines the reasonable care that possessors of land must
+ show toward invitees. Under that definition, a possessor of land
+ must protect invitees against dangers of which they are unaware,
+ may forget, or may reasonably encounter despite the obviousness
+ of the danger.”) 
+To summarize, in states following the Restatement, the
+ 
+fact that a plaintiff was injured due to a known or obvious
+ danger does not automatically bar the plaintiff’s claim; in those
+ states, a landowner retains a duty to the plaintiff if the
+ plaintiff’s injury was foreseeable.
+ 
+2.	 States Analyzing The Known Or Obvious Danger Defense As
+An Element Of Comparative Fault
+ 
+Other jurisdictions have abolished the known or obvious
+ 
+danger defense entirely due to its incompatibility with
+ comparative negligence. The case considered by the Supreme Court
+ of Wyoming, one of the first to abolish the doctrine, provides an
+ apt illustration. In O’Donnell v. City of Casper, 696 P.2d 1278
+ (Wyo. 1985), that court considered the case of a motorcyclist who
+ sustained injuries when his motorcycle slipped on loose gravel on
+ one of the City’s streets. Id. at 1280. The trial court found
+ 
+that the gravel was open and obvious, and granted the City’s
+ motion for summary judgment on the ground that the City owed no
+ duty to warn of an obvious danger. Id. at 1281. On appeal, the
+ 
+27
+         
+         
+        
+       
+           
+          
+       
+         
+     *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+Supreme Court of Wyoming held that this was error, and reasoned
+ 
+that:
+ 
+[t]he City may have been negligent by not properly
+maintaining the streets, and the negligence of the City, if
+any, should be compared with the negligence of appellant.
+Because appellant knew of the obviously dangerous condition
+of the road he may very well have been negligent, but that
+is for the trier of fact to determine, and the relative
+degree of negligence is all important under comparative
+negligence. Gone are the days when a scintilla of negligence
+by the plaintiff will bar recovery.
+ 
+Id. at 1283-84. Courts of other jurisdictions have agreed that
+ 
+the defense is irreconcilable with comparative negligence. 
+Woolston v. Wells, 687 P.2d 144, 149 (Or. 1984) (“Instructing the
+ jury that defendant has no liability because of actions of the
+ plaintiff, or that defendant is liable only if a reasonable
+ person entering the land would not realize a danger or would not
+ protect himself against it, frustrates the purpose of instituting
+ a system of comparative fault.”); Parker v. Highland Park, Inc.,
+ 565 S.W.2d 512, 518 (Tex. 1978) (“[Comparative Negligence]
+ replaced the harsh system of absolute victory or total defeat of
+ an action by such doctrines as contributory negligence, voluntary
+ assumption of risk, and also the included doctrine known as
+ no-duty. [. . .] The survival of no-duty (plaintiff’s knowledge
+ and appreciation) as a total bar is incompatible with the
+ legislative purpose of the comparative negligence statute.”). 
+In states where the known or obvious danger defense has
+ 
+been abolished, the jury considers the known or obvious character
+ 
+28
+ *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+of the danger as one of the many factors relevant to determining
+ 
+each party’s comparative negligence. Joseph v. City of New
+ 
+Orleans, 842 So. 2d 420, 423 (La. Ct. App. 2003) (“Simply stated,
+ the open and obvious nature of the defect is merely another
+ factor to be weighed in the risk-utility balance.”); Parker v.
+ Highland Park, Inc., 565 S.W.2d 512, 517 (Tex. 1978) (“The
+ reasonableness of an actor’s conduct under the circumstances will
+ be determined under principles of contributory negligence.”);
+ Tharp v. Bunge Corp., 641 So. 2d 20, 25 (Miss. 1994) (“We now
+ abolish the so-called ‘open and obvious’ defense and apply our
+ true comparative negligence doctrine. The jury found that there
+ was negligence in the case at hand; the trial judge erred in
+ construing the open and obvious defense as a complete bar when it
+ really is only a mitigation of damages on a comparative
+ negligence basis under [the state’s comparative negligence
+ statute].”).
+ 
+In summary, in states where the known or obvious
+ 
+defense has been completely abolished, the jury need not make a
+ finding regarding whether the danger was known or obvious because
+ such a determination does not operate as an absolute bar to a
+ plaintiff’s recovery. Instead, a jury may consider all the facts
+ and circumstances of the injury, and apportion liability by
+ comparing the fault of the landowner and the injured plaintiff.
+ 
+29
+  *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+E.	 The Known Or Obvious Defense Is No Longer Viable In Premises
+Liability Actions
+ 
+We now hold that the known or obvious defense is not 
+viable in Hawai' i, thus joining the states described in Section 
+III.D.2, supra. In so holding, we reject the Restatement view 
+followed by the states as described in Section III.D.1, supra. As explained above, the Restatement view permits a plaintiff to recover for an injury caused by a known or obvious danger only when her injury was foreseeable. We believe that such a position does not execute the legislative intent behind our state’s comparative negligence statute. We further believe that the rule is inconsistent with the case law of this state because it requires the trial judge to usurp duties which should be reserved for the factfinder. 
+First, as discussed above, Hawaii’s Comparative
+ 
+Negligence statute “sought to temper a phase of the common law
+ deemed inconsistent with contemporary notions of fairness.” 
+Wong v. Hawaiian Scenic Tours, Ltd., 64 Haw. at 405, 642 P.2d at
+ 933. The legislative purpose of the statute was “to allow one
+ 
+partly at fault in an accident resulting in injury to be
+ recompensed for the damages attributable to the fault of another
+ if the former’s negligence was not the primary cause of the
+ accident.” Id. Applying the absolute logic of the Restatement
+ 
+precludes an injured plaintiff from recovery based on the Judge’s
+ 
+30
+ *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+conclusions that a danger was known or obvious and that injury
+ 
+was not foreseeable. This would not afford an opportunity for
+ the plaintiff’s fault to be compared to the fault of the
+ landowner. In precluding such comparison, the Restatement would
+ not permit the plaintiff “to be recompensed for the damages
+ attributable to the fault of another if the former’s negligence
+ was not the primary cause of the accident.” 
+Second, in rejecting the Restatement view, we join the
+ 
+states that have abolished the known or obvious danger defense in
+ part to affirm the proper role of the jury as factfinder. Those
+ states noted that the determination of whether the known or
+ obvious danger defense applied had been an element of duty
+ analysis, and therefore had fallen to the judge. Many states
+ expressed concern that a judge would decide such a fact-intensive
+ issue. For example, in Harrison v. Taylor, 768 P.2d 1321 (Idaho
+ 1989), the Idaho Supreme Court considered a slip-and-fall case in
+ which plaintiff was injured due to a fault in a sidewalk in front
+ of a store. Id. at 1322. The trial court judge found the
+ 
+sidewalk’s condition to be open and obvious, and granted the
+ store’s motion for summary judgment. Id. at 1323. The supreme
+ 
+court felt it was inappropriate for such a critical question of
+ fact to be decided by a judge without involvement of a jury. Id.
+ 
+at 1328. The court explained:
+ 
+31
+         
+        
+        
+         
+          
+        
+        
+         *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+[t]his discussion points up the major flaw with granting
+defendants’ summary judgment motion based on the open and
+obvious danger doctrine-a judge not a jury, is thereby
+ruling on quintessential issues of fact such as whether the
+injured party knew, or should have known of the danger, the
+obviousness of the danger, whether there was a justifiable
+reason for confronting the danger, and so on. However,
+today’s opinion will correct this problem area in our law.
+ 
+Id. Other jurisdictions have expressed similar concerns. Cox v.
+ 
+J.C. Penney Co., Inc., 741 S.W.2d 28, 30 (Mo. 1987) (“Under
+ 
+comparative fault, we leave to juries the responsibility to
+ assess the relative fault of the parties in tort actions.
+ Respondent’s duty argument fails in this context because it
+ pretermits jury assessment of respondent’s fault for failure to
+ maintain the premises in a reasonably safe condition.”) 
+We share these concerns. In Hawai' i, the existence of 
+a duty is a question of law. Bidar v. Amfac, Inc., 66 Haw. 547, 
+552, 669 P.2d 154, 158 (1983). Accordingly, if this court were to retain the known or obvious danger defense as defeating a landowner’s duty, it would fall to the judge to decide whether the defense applies. That result is undesirable. As our review of the known or obvious cases shows, the characterization of the danger as known or obvious is fact-intensive and depends on the circumstances involved in each case. We believe such an assessment should be reserved for the jury, unless reasonable minds could not differ. See id. at 554, 669 P.2d at 160 (noting 
+that the question of breach must be resolved by a jury if the 
+32
+  
+ *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+court is left with “a definite impression that reasonable minds
+ 
+could draw different inferences from the facts and arrive at
+ 
+conflicting conclusions on relevant factual issues.”) 
+IV. CONCLUSION
+ 
+We hold that the known or obvious danger defense is 
+inconsistent with the legislative intent behind Hawaii’s 
+comparative negligence statute. The known or obvious danger defense yields inconsistent results and is incompatible with the policy values underlying Hawaii’s tort law. Accordingly, we hold that the known or obvious danger defense is no longer viable in Hawai'i. We reject the Restatement’s retention of the doctrine 
+as a factor in determining the landowner’s duty, and instead hold that courts of this state may consider any known or obvious characteristics of the danger as factors in the larger comparative negligence analysis. The Intermediate Court of Appeals’ December 16, 2010 judgment on appeal and the Circuit Court of the First Circuit’s March 6, 2007 judgment are vacated. 
+33
+ *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER ***
+ 
+This case is remanded to the trial court for proceedings
+ 
+consistent with this opinion.
+ 
+Janice P. Kim 
+for Petitioner-
+Plaintiff-Appellant
+ 
+Dennis E. W. O’Connor and
+ 
+Michael J. McGuigan of
+O’Connor Playdon & Guben,
+LLP for Respondent­Defendant-Appellee
+ 
+Arthur Y. Park and 
+John C. McLaren for Amicus Curiae Hawai' i 
+Association for Justice /s/ Mark E. Recktenwald
+ 
+/s/ Paula A. Nakayama
+ /s/ James E. Duffy, Jr.
+ /s/ Michael D. Wilson
+ 
+34
+ 

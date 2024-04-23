@@ -1,0 +1,217 @@
+FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+IN THE INTERMEDIATE COURT OF APPEALS
+OF THE STATE OF 
+HAWAI#I  
+---o0o---
+FREDERICK NITTA, M.D., Appellant-Appellant, v.
+DEPARTMENT OF HUMAN SERVICES, STATE OF HAWAI# I,
+and CATHY BETTS, DIRECTOR,  Appellees-Appellees 
+NO. CAAP-17-0000432 1
+APPEAL FROM THE CIRCUIT COURT OF THE THIRD CIRCUIT 
+(CIVIL NO. 3CC16-1-0000297) 
+FEBRUARY 11, 2022 
+LEONARD, PRESIDING JUDGE, NAKASONE AND MCCULLEN, JJ. 
+OPINION OF THE COURT BY MCCULLEN, J. 
+This is a secondary appeal from an administrative 
+proceeding regarding a physician's eligibility for enhanced 
+payments through Medicaid's Primary Care Physician (PCP) Program. 
+Appellant-Appellant Frederick Nitta, M.D. (
+Dr. Nitta) appeals 
+from the Circuit Court of the Third Circuit's2 judgment and the 
+underlying decision and order in favor of Appellee-Appellee 
+1 Pursuant to Hawaii Rules of Evidence Rule 201 and Hawai #i Rules of 
+Appellate Procedure Rule 43(c)(1), we take judicial notice that Cathy Betts is
+the current Director of the Department of Human Services and she isautomatically substituted as an Appellee-Appellee in place of Pankaj Bhanot. 
+2 The Honorable Greg K. Nakamura presided. FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Department of Human Services (DHS
+), State of Hawai# i. On appeal, 
+Dr. Nitta challenges the Circuit Court's finding that he was 
+ineligible to participate in the PCP Program, thereby entitling DHS to monetary recoupment for Medicaid enhanced payments. 
+I. BACKGROUND 
+Medicaid provides medical assistance to qualifying 
+individuals and families, and is jointly funded and administered by the federal and state governments. 42 U.S.C. § 1396-1. In 2010, Congress enacted the Affordable Care Act, which included a temporary increase in payments to particular physicians who provided primary-care services to Medicaid patients [hereinafter, Medicaid Enhanced Payment Statute] requiring: 
+payment for primary care services (as defined in subsection
+(jj)) furnished in 2013 and 2014 by a physician with a
+primary specialty designation of family medicine, generalinternal medicine, or pediatric medicine at a rate of not 
+less than 100 percent of the payment rate that applies tosuch services and physician under part B of subchapter XVIII(or, if greater, the payment rate that would be applicableunder such part if the conversion factor under section1395w-4(d) of this title for the year involved were theconversion factor under such section for 2009)[.] 
+42 U.S.C. § 1396a(a)(13)(C) (emphasis added). 
+At the federal level, the Centers for Medicare and 
+Medicaid Services (CMS) administers the Medicaid program, and 
+promulgated its rule relating to 42 U.S.C. § 1396a(a)(13)(C), the 
+Final Medicaid Payment Rule. 42 C.F.R. § 447.400. Requiring 
+board certification or a sixty-percent billing threshold, CMS's 
+Final Medicaid Payment Rule provided: 
+(a) States pay for services furnished by a physician as
+defined in § 440.50 of this chapter, or under the personalsupervision of a physician who self-attests to a specialtydesignation of family medicine, general internal medicine orpediatric medicine or a subspecialty recognized by theAmerican Board of Medical Specialties (ABMS), the AmericanBoard of Physician Specialties (ABPS) or the AmericanOsteopathic Association (AOA). Such physician then atteststhat he/she: 
+2 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+(1) Is Board Certified with such a specialty or
+subspecialty and/or 
+(2) Has furnished evaluation and management services
+and vaccine administration services under codes described in paragraph (b) of this section that equalat least 60 percent of the Medicaid codes he or shehas billed during the most recently completed CY or,for newly eligible physicians, the prior month. 
+42 C.F.R. § 447.400(a).3 
+At the state level, DHS, through its Med-QUEST 
+division, is responsible for administering the Medicaid PCP 
+Program in Hawai# i. 42 C.F.R. § 447.400. DHS's online PCP 
+Attestation Form relied on and tracked CMS's Final Medicaid Payment Rule as follows: 
+Increases in reimbursement are limited to physicians who
+attest that they are either: 
+1. Practicing in the specialty of family medicine,general internal medicine, or pediatric medicine, or asubspecialty of one of these specialties recognized bythe American Board of Medical Specialties, theAmerican Osteopathic Association, or the AmericanBoard of Physician Specialties (refer to applicationform); and 
+2. a. Are board certified in the eligible specialty in
+which they practice, or 
+b. Have billed at least 60% of Medicaid services provided, using the E&M vaccine administrationcodes list above, during calendar year 2012.For newly eligible physicians, the 60% billingrequirement will apply to Medicaid claims forthe prior month. 
+Additionally, the instructions for DHS's Attestation Form stated
+that the "attestation may NOT be completed by anyone on the provider's behalf. Attestations that are submitted by anyone  
+3 As a note, paragraph (c), not (b), list the applicable codes: 
+Primary care services designated in the Healthcare Common
+Procedure Coding System (HCPCS) are as follows: 
+(1) Evaluation and Management (E&M) codes 99201 through
+99499. (2) Current Procedural Terminology (CPT) vaccine
+administration codes 90460, 90461, 90471, 90472, 90473 and
+90474, or their successor codes. 
+42 C.F.R. § 447.400(c). 
+3 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+other than the individual provider named in the attestation 
+constitutes a false claim for Medicaid reimbursement which may result in civil and criminal penalties . . . ." 
+Dr. Nitta, a board certified Obstetrician-Gynecologist 
+(
+OB-GYN) who has practiced as both an OB-GYN and a PCP for more 
+than twenty years in Hilo, Hawai# i, enrolled in the PCP Program. 
+Dr. Nitta testified that he treats his patients for any ailments, such as strokes and heart attacks, because his patients do not have other doctors.
+4 Dr. Nitta also testified, "I've been 
+providing primary care in the Big Island, not because I wanted to, it's because the patients don't have doctors. . . . I have no choice. I have to do it." He estimated that over 90 percent of his patients are eligible for Medicaid or Medicare. 
+At the suggestion of an AlohaCare representative, a 
+staff member from Dr. Nitta's office completed the online PCP Attestation Form on DHS's website. Dr. Nitta, himself, was unaware he was participating in the program until he received DHS's July 7, 2015 letter notifying him that he was ineligible for the program. In that letter, DHS informed Dr. Nitta that it found him ineligible because: (1) "[p]ractice characteristics show [he was] not practicing in one of the designated specialties or sub-specialties[;]" (2) "Med-QUEST has no record that [he was] board certified in one of the designated specialties or sub-specialties[;]" and (3) "[a] review of claims history shows the 
+4 To that point, according to the amicus curiae brief filed by the
+Hawaii Medical Association and the American Medical Association, "it can be
+two to three times more difficult to find a primary care physician" on theisland of Hawai #i, forcing residents to seek care at emergency rooms. 
+4 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+designated codes . . . did not comprise at least 60% of all paid 
+Medicaid claims billed to Med-QUEST." 
+DHS subsequently demanded repayment in the amount of 
+$
+205,940.13, prompting Dr. Nitta to request an administrative 
+hearing. Following the administrative hearing, the hearings officer found that Dr. Nitta (1) was not board certified in one of the specified specialties or recognized subspecialties, (2) was not known in the community as a PCP practicing in the specified specialties or recognized subspecialties, (3) did not self-attest, and (4) did not meet the sixty-percent billing threshold. The hearings officer then concluded that DHS correctly determined Dr. Nitta "was not eligible to participate in the [PCP] Program as set forth in Title 42, Code of Federal Regulations §447.400," and that there was an overpayment of $205,220.86. 
+Dr. Nitta filed exceptions and administratively 
+appealed. DHS's deputy director sustained the hearings officer's decision and adopted it as DHS's final decision. 
+On appeal to the Circuit Court, Dr. Nitta attached to 
+his opening brief the complaint in Averett v. U.S. Department of Health and Human Services, a case in the United States District Court, Middle District of Tennessee, filed by a group of Tennessee doctors. In its answering brief, DHS asserted, among other things, that the plaintiffs in Averett were not similarly situated to Dr. Nitta and, thus, were distinguishable. 
+Relying on the Medicaid Enhanced Payment Statute, CMS's 
+Final Medicaid Payment Rule, and DHS's Self Attestation Instruction, the Circuit Court found that Dr. Nitta failed to 
+5 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+self-attest that he satisfied the PCP Program's requirements, and 
+Dr. Nitta was not board certified in one of the specialties. 
+In 
+light of those findings, the Circuit Court concluded there was no need to reach the sixty-percent billing threshold issue. The Circuit Court then found an overpayment of $205,338.88. Dr. Nitta filed a timely appeal with this Court. 
+While this appeal was pending, the United States Court 
+of Appeals for the Sixth Circuit rendered its opinion in Averett v. United States Dep't of Health & Hum. Servs, 943 F.3d 313, 319 (6th Cir. 2019), affirming the lower court's decision invalidating CMS's Final Medicaid Payment Rule. Averett, 306 
+F. Supp. 3d 1005, 1020-21 (M.D. Tenn. 2018). We ordered, and the parties filed, supplemental briefing as to the effect, if any, Averett has on this appeal. Dr. Nitta argues that, based on Averett, he was entitled to enhanced payments. DHS, however, avers that Averett supports its conclusion that Dr. Nitta was "never qualified for the program because he did not practice in a qualified specialty by his own self designation on his Medicaid provider application and his [National Provider Identifier] application." 
+II. STANDARD OF REVIEW 
+This court must determine whether the circuit court was 
+right or wrong in its decision, applying the standards set forth in Hawaii Revised Statutes (HRS) § 91-14(g) (2012) to the 
+agency's decision. HRS § 91-14(g) provides: 
+Upon review of the record the court may affirm the
+decision of the agency or remand the case with instructions
+for further proceedings; or it may reverse or modify thedecision and order if the substantial rights of thepetitioners may have been prejudiced because theadministrative findings, conclusions, decisions, or ordersare: 
+6 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+(1) In violation of constitutional or statutory
+provisions; or 
+(2) In excess of the statutory authority or
+jurisdiction of the agency; or 
+(3) Made upon unlawful procedure; or 
+(4) Affected by other error of law; or (5) Clearly erroneous in view of the reliable,
+probative, and substantial evidence on the whole
+record; or 
+(6) Arbitrary, or capricious, or characterized by
+abuse of discretion or clearly unwarrantedexercise of discretion. 
+"Under HRS § 91-14(g), conclusions of law are reviewable under 
+subsections (1), (2), and (4); questions regarding procedural defects under subsection (3); findings of fact under subsection (5); and an agency's exercise of discretion under subsection (6)." United Pub. Workers, AFSCME, Local 646, AFL-CIO, v. 
+Hanneman, 106 Hawai# i 359, 363, 105 P.3d 236, 240 (2005) 
+(brackets in original omitted) (quoting Paul's Elec. Serv., Inc. v. Befitel, 104 Hawai# i 412, 416, 91 P.3d 494, 498 (2004)). 
+III. DISCUSSION 
+In this appeal, Dr. Nitta raises three points of error 
+challenging the finding that he was disqualified from the PCP Program. Dr. Nitta contends that: (1) his staff completing the Attestation Form was a "mere technical defect;" (2) the statutory and regulatory framework was vague and ambiguous, the CMS regulations and guidance were arbitrary and capricious, and the DHS Attestation Form and Memoranda included misleading and incorrect statements; and (3) "the [sixty-percent] billing threshold and overpayment calculations were based upon redacted data that [he] was not able to fairly address." Starting with 
+7 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Dr. Nitta's challenge to the validity of CMS's Final Medicaid 
+Payment Rule, we look to the federal courts for guidance. 
+A. CMS's Final Medicaid Payment Rule Was Invalid 
+In 
+Averett, the plaintiffs were twenty-one Tennessee 
+physicians practicing family medicine, mostly in disadvantaged 
+rural areas, who received increased payments in 2013 and 2014 for their participation in the Tennessee Medicaid program (TennCare). 
+Averett, 306 F. Supp. 3d at 1011. Each physician attested that 
+he or she was eligible for enhanced payments under the Medicaid Enhanced Payment Statute and the Final Medicaid Payment Rule. Id. None of the physicians were board certified, so they 
+attested to having the required "primary specialty designation" based upon meeting the sixty-percent primary care services billing threshold. Id.Each physician was later audited and 
+found to have not met the sixty-percent billing threshold. TennCare thus sought recoupment from the physicians. Id. 
+The Sixth Circuit first noted that Medicare and 
+Medicaid providers were required to complete forms where they designated a primary specialty. Averett, 943 F.3d at 315. The 
+Sixth Circuit then addressed whether CMS correctly "interpreted the phrase 'primary specialty designation' as used in § 1396a(a), to mandate not only that the physician have the requisite designation of primary specialty, but also that the physician either be board-certified in that specialty or satisfy the 60-percent-of-billings requirement." Id. at 317. In doing so, it 
+compared the Medicare and Medicaid statutes. 
+8 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Under Medicare, to be eligible for the enhanced 
+payments, "a physician must have had a primary specialty 
+designation of certain primary-care services (for example, family medicine or internal medicine)." Id.
+ at 315 (internal quotation 
+marks omitted). "The Medicare provision also required physicians to attest that primary-care services accounted for at least 60 percent of their recent billings under Medicare." Id. at 315-16 
+(internal quotation marks omitted). CMS "interpreted the phrase 'a physician . . . who has a primary specialty designation' to refer simply to physicians who had enrolled in Medicare with a primary specialty designation of one of the specialties recited in § 1395l(x)(2)(A)(i)(I)," and per the Medicare statute, CMS's rule required a sixty-percent billing threshold. Id. at 316 
+(some internal quotation marks & brackets omitted). 
+Under Medicaid, however, the statute "required a 
+physician only to have a primary specialty designation of one of those same primary-care services . . . ." Id. (internal 
+quotation marks omitted). But, CMS interpreted the phrase "a physician with a primary specialty designation" as requiring "the physician to show that (1) she was Board certified in that specialty or that (2) 60 percent of her recent Medicaid billings were for certain primary-care services . . . ." Id. 
+Employing traditional tools of statutory construction, 
+the Sixth Circuit determined that the term "primary specialty" simply refers to "the physician's principal area of practice or expertise," and "designate" means "to indicate or specify; point out." Id. at 317 (brackets omitted). It then determined that 
+Congress, in both the Medicare provision and Medicaid provision 
+9 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+of the Affordable Care Act, "used precisely the same term-
+-
+'primary specialty designation'--in precisely the same context of 
+providing a temporary bump in payments to primary-care providers." Id. 
+Turning to the sixty-percent billing threshold, the 
+Sixth Circuit explained that "the actual content of the Final Medicaid Payment Rule only underscores its lack of any statutory basis," as Congress included a sixty-percent billing threshold in the Medicare Enhanced Payment Statute but chose to omit that requirement in the Medicaid Enhanced Payment Statute. Id. at 
+318. And "[o]mitting a phrase from one statute that Congress has 
+used in another statute with a similar purpose virtually commands the inference that the two statutes have different meanings." Id. (internal quotation marks omitted) (quoting Prewett v. Weems, 749 F.3d 454, 461 (6th Cir. 2014)). 
+By enforcing the sixty-percent billing threshold 
+requirement against Medicaid physicians in its Final Medicaid Payment Rule, the Sixth Circuit held that CMS "overlooked that, where a statute's language carries a plain meaning, the duty of an administrative agency is to follow its commands as written, not to supplant those commands with others it may prefer." Averett, 943 F.3d at 319 (citation, internal quotation marks, and brackets omitted); see also, e.g., Hadden v. United States, 661 F.3d 298, 303 (6th Cir. 2011) (explaining that the question whether "to treat Medicaid [physicians] differently from Medicare ones, is for Congress to decide"). 
+10 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+In sum, the Sixth Circuit held that the phrase "a 
+physician with a primary specialty designation" means "a 
+physician who has himself designated, as his primary specialty, one of the specialties recited in those provisions," and that there was no sixty-percent billing threshold. Id.
+ at 319. The 
+Sixth Circuit further held that the Final Medicaid Payment Rule was "flatly inconsistent" with Congress' intent and, thus, was invalid. Id. 
+In addressing TennCare's argument that invalidating 
+CMS's rule did not entitle the doctors to keep the enhanced payments, the Sixth Circuit stated, "this suit is not so much about whether these doctors are 'entitled to keep' monies paid to them years ago, as about whether the government is entitled to take those monies away." Averett, 943 F.3d at 317. "The 
+payments at issue have been the plaintiff's property for years; the Tennessee Medicaid agency sought to deprive the plaintiffs of that property solely by means of enforcing the Final Medicaid Payment Rule[,]" which was deemed invalid. Id. 
+We find Averett particularly instructive and adopt the 
+Sixth Circuit's analysis. See In re Gardens at W. Maui Vacation 
+Club v. Cty. of Maui, 90 Hawai# i 334, 343-44, 978 P.2d 772, 781-
+82 (1999) (applying the Sixth Circuit's analysis to determine whether county ordinance was unconstitutionally vague); State v. Lee, 75 Haw. 80, 103, 856 P.2d 1246, 1259 (1993) (adopting the federal courts' analyses to ascertain whether state law was void for vagueness). 
+11  FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+B. DHS's Attestation Form Was Invalid 
+DHS's Attestation Form specifically relied on CMS's 
+Final Medicaid Payment Rule stating, "Federal regulation 42 CFR 
+447.400
+ requires that the physician must attest to practicing one 
+of the designating specialities or subspecialties and must attest that s/he" is board certified or meets the sixty-percent billing threshold. But, as the Sixth Circuit explained in Averett, the Medicaid Enhanced Payment Statute simply requires a physician to have a "primary specialty designation" in family, internal, or pediatric medicine. Averett, 943 F.3d at 319; 42 U.S.C. § 
+1396a(a)(13)(C). And it is the "physician who has himself designated, as his primary specialty, one of the specialties recited in those provisions." Averett, 943 F.3d at 319. 
+Because DHS's Attestation Form, like CMS's Final 
+Medicaid Payment Rule, conflicts with the Medicaid Enhanced Payment Statute, it too was invalid and cannot be the basis for which DHS may require repayment. Camara v. Agsalud, 67 Haw. 212, 
+216, 685 P.2d 794, 797 (1984) (commenting that, in order for an agency's decision to be granted deference, it must be consistent with the legislative purpose). 
+Since the Circuit Court relied on DHS's Attestation 
+Form to determine that Dr. Nitta failed to self attest and relied on CMS's Final Medicaid Payment Rule to determine that Dr. Nitta was not board certified in one of the listed specialties, the Circuit Court's conclusion that Dr. Nitta was ineligible under the Medicaid Enhanced Payment Statute was likewise wrong. See 
+12 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Averett, 943 F.3d at 319. 
+Based on our disposition, we need not 
+address Dr. Nitta's remaining points. 
+IV. CONCLUSION 
+The Circuit Court's May 19, 2017 judgment and the 
+underlying April 12, 2017 decision and order is vacated. The DHS 
+Administrative Appeals Office's July 25, 2016 Final Decision on Administrative Appeal is also vacated, and this case is remanded to the DHS Administrative Appeals Office for further proceedings as may be necessary. 
+On the briefs: /s/ Katherine G. Leonard
+Presiding Judge
+/s/ Karen T. Nakasone
+Associate Judge
+/s/ Sonja M.P. McCullen
+Associate JudgeEric A. Seitz Della A. Belatti Bronson Avila for Appellant-Appellant 
+Heidi M. Rian 
+Lili A. YoungDeputy Attorneys Generalfor Appellee-AppelleeDepartment of Human Services,State of Hawai# i 
+Jeffrey S. Portnoy(Cades Schutte)for Amicus Curiae Hawaii Medical Association and American Medical Association 
+13 

@@ -1,0 +1,849 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SCPW-20-0000200  and SCPW- 20-0000213 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAI‘I 
+________________________________________________________________ 
+ 
+SCPW-20-0000200 
+ 
+OFFICE OF THE PUBLIC DEFENDER, Petitioner, 
+ 
+vs. 
+ 
+CLARE E. CONNORS, Attorney General of the State of Hawai ‘i; 
+DONALD S. GUZMAN, Prosecuting Attorney, County of Maui; 
+MITCHELL D. ROTH, Prosecuting Attorney, County of Hawai ‘i; 
+JUSTIN F. KOLLAR, Prosecuting Attorney, County of Kaua ‘i; 
+DWIGHT K. NADAMOTO, Acting Prosecuting Attorney, 
+City and County of Honolulu, Respondents. 
+ 
+---------------------------------------------------------------- 
+ 
+SCPW-20-0000213 
+ 
+STATE OF HAWAI ‘I OFFICE OF THE PUBLIC DEF
+ENDER, Petitioner, 
+ 
+vs. 
+ 
+DAVID Y. IGE, Governor, State of Hawai‘i; NOLAN P. ESPINDA, 
+Director, State of Hawai‘i Department of Public Safety; 
+EDMUND (FRED) K.B. HYUN, Chairperson, Hawai‘i Paroling Authority; 
+Respondents. 
+________________________________________________________________ 
+ 
+ORIGINAL PROCEEDING 
+ Electronically Filed  
+Supreme Court
+SCPW-20-0000200
+08-JUN-2020
+02:12 PM2 AMENDED 
+DISSENT RE: ORDER CONCLUDING MATTERS
+IN THIS CONSOLIDATED PROCEEDING 
+(By: Wilson, J.)  
+I. Introduction
+The Novel coronavirus (“COVID -19” or “the virus”) is 
+spreading around the world at an alarming rate.  On March 11, 
+2020, the World Health Organization declared a global COVID- 19 
+pandemic and called for countries to take “urgent and aggressive 
+action.”1  As of March 27, 2020, the date of our initial order in
+this case,2 the United States surpassed China in its number of
+reported COVID-19 cases, with 93,568 reported cases and over 
+1,400 deaths.3  The number of repor
+ted cases in the United States 
+has since grown at a staggering rate.  As of June 5
+, 2020, the 
+Center for Disease Control reported 1,842,101  total c ases in the 
+United States—14,676 cases more than the day before.4  The virus
+1WHO Director -General’s Opening Remarks , WORLD HEALTH ORGANIZATION (Mar. 
+11, 2020), https://www.who.int/dg/speeches/detail/who -director -general-s-
+opening- remarks- at-the-world-health-assembly  (last visited June 5, 2020).  
+2Interim Order filed Mar 27, 2020.  
+3Coronavirus Map: Tracking the Global Outbreak, N.Y. Times (updated Mar. 
+27, 2020), https://www.nytimes.com/interactive/2020/world/coronavirus -
+maps.html?action=click&pgtype=Article&state=default&module=styln -
+coronavirus&variant=show&region=TOP_BANNER&context=storyline_menu?action=clic
+k&pgtype=Article&state=default&module=styln -
+coronavirus&variant=show&region=TOP_BANNER&context=storyline_menu; Donald G. 
+McNeil Jr., The U.S. Now Leads the World in Confirmed Coronavirus Cases, T HE 
+NEW YORK TIMES (Mar. 26, 2020), https://www.nytimes.com/2020/03/26/health/usa -
+coronavirus- cases.html . 
+4Cases in the U.S., C TRS. FOR DISEASE CONTROL &  PREVENTION (June 5, 2020), 
+https://www.cdc.gov/coronavirus/2019 -ncov/cases- updates/cases -in-us.html. 3 (. . . continued)  5has killed at least 103,700 people in the United States. 
+Science and statistics constitute unequivocal evidence that  
+COVID-19 is a growing lethal threat to citizens in the United
+States.6 
+As a result of the grave nature of this public health 
+threat, Hawai ‘i is now in an officially declared state of 
+emergency.  To protect Hawai  ‘i’s citizens from the present threat 
+to human life, Hawai‘i Governor David Ige, and all four county 
+mayors in Hawai‘i, impose d a state of emergency and issued rules 
+and orders restricting daily activities of residents and 
+businesses.7
+5COVID-19 has killed more  than twice the number of American s killed in 
+the Vietnam War.  David Welna, Coronavirus Has Now Killed More Americans Than 
+Vietnam War, N ATIONAL PUBLIC RADIO (Apr. 28, 2020), 
+https://www.npr.org/sections/coronavirus -live-updates/2020/04/28/846701304/  
+pandemic- death-toll-in-u-s-now-exceeds-vietnam- wars-u-s- fatalities. 
+6Approximately twenty percent of people infected experience life -
+threatening complications requiring hospitalization, and according to World 
+Health Organization director Tedros Adhanom Ghebreyesus, the death rate for 
+those infected is  3.4%.  Brian Resnick and Christina Animashaun, Why COVID- 19 
+Is Worse Than The Flu, IN ONE CHART, VOX (Mar. 18, 2020), 
+https://www.vox.com/science -andhealth/2020/3/18/21184992/coronavirus -covid-
+19-flu-comparison -chart.
+7COVID-19 Emergency Proclamation, O FFICE OF THE G OVERNOR, STATE OF H AW. (Mar. 
+4, 2020), https://governor.hawaii.gov/wp -content/uploads/2020/03/2003020 -GOV-
+Emergency- Proclamation_COVID -19.pdf (last visited June 5, 2020); 
+Supplementary Proclamation, O FFICE OF THE GOVERNOR,  STATE OF HAW. (Mar. 16, 2020), 
+https://governor.hawaii.gov/wp -content/uploads/2020/03/2003109 -ATG_COVID- 19-
+Supplementary- Proclamation -signed.pdf  (last visited June 5, 2020); Second 
+Supplementary Proclamation, O FFICE OF THE GOVERNOR,  STATE OF HAW. (Mar. 21, 2020), 
+https://governor.hawaii.gov/wp -content/uploads/2020/03/2003152 -ATG_Second-
+Supplementary- Proclamation -for-COVID-19-signed.pdf (last visited June 5, 
+2020); Third Supplementary Proclamation,  OFFICE OF THE G OVERNOR, STATE OF H AW. (Mar. 
+23, 2020), 4 On March 23, 2020, following the guidance of the 
+Hawai‘i
+ Department of Health, Governor Ige issued an emergency 
+proclamation “Stay -at-Home Order” (“Order”) that provided 
+mandatory guidance to individuals, businesses, and operations 
+within the State of Hawai‘i.  The Order carries “the force and 
+effect of law” pursuant to HRS § 127A -25, mandating that the 
+people of Hawai ‘i follow strict social distancing guidelines in 
+order to prevent the spread of COVID-19.8 
+ In Governor Ige’s Third Supplementary Proclamation, 
+issued March 23, 2020, he warns of “unmanageable strains on our 
+healthcare system and other catastrophic impacts to the State” 
+posed by “the dangers of COVID -19.”  Third Supplementary 
+Proclamation at 1.  The Governor ordered the State “to mandate 
+and effectuate social distancing measurers throughout the State 
+in order to reduce the spread of COVID- 19.”  Id.  “All persons 
+                                                                              
+(continued. . . )  
+ 
+https://governor.hawaii.gov/wp -content/uploads/2020/03/2003162 -ATG_Third-
+Supplementary- Proclamation -for-COVID-19-signed.pdf (last visited June 5, 
+2020)  [hereinafter Third Supplementary Proclamation]; Public Health 
+Emergency Rules, Amended March 22, 2020, OFFICE OF THE M AYOR, CTY. OF MAUI (Mar. 
+22, 2020),  
+https://www.mauicounty.gov/DocumentCenter/View/121462/Amended -2020-3-22-
+Mayors-Public-Health-Emergency- Rules (last visited June 5, 2020); Mayor’s 
+Emergency Rule #5, O FFICE OF THE M AYOR, CTY. OF KAUA‘I (Mar. 24, 2020),  
+http://www.kauai.gov/Portals/0/Civil_Defense/Emergency%20Proclamations/Mayor%
+27s%20Emergency%20Rule%20%235_20200324.pdf; Mayors COVID -19 Second 
+Supplementary Emergency Proclamation, OFFICE OF THE M AYOR, CTY. OF HAW. (Mar. 24, 
+2020), 
+http://records.hawaiicounty.gov/WebLink/PDF/pfhqbtbqdexu2nzhtx1gt2nn/77/Mayor
+s%20COVID- 19%20Second%20Supplementary%20Emergency%20Proclamation.pdf . 
+ 
+8  Third Supplementary Proclamation , supra note 7. 5  
+(. . . continued)  shall maintain a minimum of six
+-feet of physical separation from
+all other persons to the fullest extent possible.”  Id. at 7.   
+Likewise, the Order requires that “businesses and operations 
+shall make hand sanitizer and sanitizing products readily 
+available for employees and customers.”  Id.   
+ In the week preceding the March 4, 2020 emergency 
+declaration by Governor Ige, a total of 106 cases were 
+confirmed.  Since March 2, 2020, the number of cases has grown 
+to 652 statewide and seventeen people have died.9  The Department 
+of Health for the State of Hawai‘i warned Hawai ‘i’s residents on 
+its website on June 1, 2020 that “Covid -19 is spreading 
+globally, nationally, and now locally.”10  To contend with the 
+emergency and prevent further spread of the virus among the 
+community, tourism has essentially been halted by the 
+requirement of a fourteen day quarantine for those who visit 
+Hawai‘i, restaurants are closed to all but take-out service, and 
+people are requested to stay at home whenever possible.11   
+                     
+9  Latest Cases in Hawai‘i, DISEASE OUTBREAK CONTROL DIV., STATE OF HAW. – DEP’T OF 
+HEALTH, https://health.hawaii.gov/coronavirusdisease2019/(last visited June 5, 
+2020). 
+ 
+10  Current Situation in Hawaii, DISEASE OUTBREAK C ONTROL DIV., STATE OF H AW. – 
+DEP’T OF HEALTH, https://health.hawaii.gov/coronavirusdisease2019/what -you-
+should-know/current -situation- in-hawaii/ (last visited June 5, 2020). 
+ 
+11  The dire nature of the measures taken to protect Hawai ‘i’s people from 
+the COVID
+-19 emergency has caused unprecedented unemployment, with March 2020 
+unemployment claims increasing by 3,766.4% from the same month in 2019.   
+ 6  Preeminent among the protections identified as 
+emergency measures by the Governor t
+o prevent the hyper-
+contagious virus from rampantly spreading from person- to-person 
+is social distancing.  All persons are directed to stay at a 
+distance of six feet from one another whenever practicable.12  
+Our community has rallied behind this common
+-sense method of 
+preventing infection,  practiced by all branches of the Hawai ‘i 
+State Government.  To protect Hawai‘i’s elected leaders and the 
+members of the public from in- person contact at the Hawai ‘i State 
+Capitol, the Hawai ‘i State legislature suspended its current 
+session.13  The Hawai‘i State Judiciary has also instituted 
+practices of social distancing to protect judiciary employees 
+and the public from the spread of the COVID-19 infection.14  
+                                                                              
+(continued. . . )  
+ 
+Olivia Peterkin, Hawaii unemployment reaches historic highs, P ACIFIC B USINESS 
+NEWS (Apr. 3, 2020) . https://www.bizjournals.com/pacific/news/2020/04/03/  
+hawaii-unemployment -reaches- historic- highs.html. 
+ 
+12  Third Supplementary Proclamation , supra note 7. 
+ 
+13  After state Senator Clarence Nishihara tested positive for COVID -19, 
+the Hawai‘ i legislature immediately closed and suspended the legislative 
+session.  Senate President Ron Kouchi stated that “In an abundance of 
+caution, we just thought it would be better to send everybody home and then 
+let the Department of Health start its process[.]”  State Capitol building 
+closes after senator tests positive for coronavirus, H AW. NEWS NOW (Mar. 19, 
+2020), https://www.hawaiinewsnow.com/2020/03/19/state -senator-tests-positive -
+coronavirus- first-known-case-linked-state-capitol- building/ . 
+ 
+14  On March 16, 2020, Chief Justice Mark Recktenwald issued an Order 
+limiting in- person court proceedings and directing “[e]ach judicial circuit 
+[to] issue orders and adjust court operations as warranted to address the  
+urgent and rapidly evolving public healt h conditions[.]”  In the Matter of 
+the Judiciary’s Response to the COVID -19 Outbreak, SCMF- 20-0000152, at 2.  7 Nevertheless, the Majority order assumes that 
+the emergency 
+conditions that caused this court to appoint a special master 
+to 
+act proactively to avoid the spread of COVID- 19 in Hawaii's 
+incarcerated community have passed.15  Majority Order at 3. 
+The incarcerated citizens of Hawai ‘i are powerless to
+ 
+comply with the Governor’s social-distancing directive.  In 
+particular, the women and men held in custody within the O ‘ahu 
+Community Correctional Center (“OCCC”) face a potential COVID-19 
+catastrophe due to overcrowding that prevents social 
+distancing.16  Three incarcerated people are often crowded into 
+                     
+15  The Majority reaches the conclusion that, “the rate of new infections 
+in Hawai‘i remains at very low levels”, presumably to make the point th at an 
+emergency no longer exists.  As noted, our state is in the grip of a 
+collapsing economy and state -wide social distancing that directly contradicts 
+the underlying assumption of the Majority’s order. The June 1, 2020 
+Department of Health warning that “ Covid-19 is spreading globally, 
+nationally, and now locally,”  recognizes that Covid -19 continues to spread as 
+the state awaits the eventual return of tourists from a world community in 
+the throes of the COVID- 19 pandemic.  The majority ignores the projections of 
+a second wave of COVID -19 infections emerging as communities begin to relax 
+the precautions taken in response to the first wave of COVID -19 infection.  
+ 
+Chelsea Davis, The struggle between reopening and preventing a second 
+wave of COVID- 19 cases, Hawaii News Now (May 22, 2020), 
+https://www.hawaiinewsnow.com/2020/05/23/struggle -between-reopening-
+preventing- second-wave-covid-cases/. 
+ 
+Len Strazewski, Harvard epidemiologist:   Beware COVID -19's second wave 
+this fall, American Medical Association (May 8, 2020), https://www.ama-
+assn.org/delivering -care/public- health/harvard -epidemiologist -beware-covid-
+19-s-second-wave-fall. 
+ 
+16  Although this dissent focuses only on OCCC, the issue of achieving 
+social distancing  applies to all correctional facilities in each of Hawai ‘i’s 
+counties.
+ 
+ 
+ 8 cells designed for two.17  The crowding is so extreme that one 
+prisoner must often sleep on the floor with his head next to the 
+toilet.18  
+According to the 2018 Final Report of the House 
+Concurrent Resolution Task Force on Prison Reform to the Hawai ‘i 
+Legislature: 
+Hawai‘i’s prisons are old, dilapidated, and severely 
+overcrowded. Hawai ‘i C
+ommu nity Correctional Center is 
+currently operating at 185% of capacity, Maui Community 
+Correctional Center is operating at 151% of capacity, Kaua ‘i 
+Community Correctional Center is operating at 196% of 
+capacity, and OCCC is operating at 127% of capacity.  At 
+OCCC, three prisoners are crowded into cells designed for 
+two.  As a result, one of the prisoners must sleep on the 
+floor with his head next to the toilet.  Faced with the 
+lack of available cells, OCCC has so many prisoners crowded 
+into one module that it is known as “Thunderdome.”  
+Conditions are so bad throughout the State that most 
+facilities probably do not meet minimum constitutional 
+standards.19 
+ 
+OCCC now contains approximately 823  incarcerated 
+citizens in a building designed to accommodate 628 incarcerated 
+people who are not facing the threat of the coronavirus.20  The 
+conditions posed by the level of crowding within the inmate 
+population are described by a doctor working within its 
+                     
+17  Final Report of the House Concurrent Resolution Task Force on Prison 
+Reform to the Hawaii Legislature  (2019 Regular Session) 5 -6, available at 
+https://www.courts.state.hi.us/wp -content/uploads/2018/12/HCR -
+85_task_force_final_report.pdf  (last visited Mar. 30, 2020) . 
+ 
+18  Id. 
+ 
+19  Id. 
+ 
+20  Id. 
+ 9  
+(. . . continued)  confines.  Doctor Pablo Stewart describes two or three inmates 
+in a cell: 
+I have observed that the vast  majority of people 
+detained in OCCC are still triple -or at least double -
+bunked in each cell,
+ which remain dangerously filthy.  
+Making matters worse, correctional staff themselves 
+do not practice social distancing or adhere to proper 
+hygiene protocols.21 
+ 
+In his capacity as a doctor providing care in OCCC 
+since July 2019,  Dr. Stewart visits OCCC four times a week. He 
+has become “intimately familiar” with OCCC and the response of 
+the Department of Public Safety to the virus.  It is his 
+conclusion that, notwithstanding reports of a decrease in prison 
+population, “people are still crammed two or three to a cell, 
+and hygiene conditions remain abysmal.”22 
+                     
+21  Declaration of Pablo Stewart, M.D., filed April 13, 2020 in 
+SCPW-20-213 at 5.  
+ 
+ 
+22  The Declaration of Pablo Stewart states in relevant part:  
+ 
+I am intimately familiar with DPS correctional 
+facilities.   Since July 2019, I  have been working as 
+the attending psychiatrist supervising psychiatric 
+residents from the John  A. Burns School of Medicine 
+Department of Psychiatry, where we provide 
+psychiatric care to  people detained at  [OCCC].  Also, 
+since the middle of March 2020, I have been visiting 
+and providing care at OCCC at least four times per 
+week.  I thus have become familiar with the jail’s 
+conditions and DPS’s response to the novel 
+coronavirus .  
+ 
+. . . . 
+ 
+It is from this unique vantage point -as someone who 
+has over three decades of  correctional health care 
+experience, who serves as a court -appointed monitor 
+in a prison  conditions lawsuit, and who has been 
+inside OCCC as recently as this morning —that I share  
+ 10 As an experienced court
+-appointed monitor of prison 
+conditions, Dr. Stewart states that the inmates are not able to 
+practice social distancing.  The incarcerated population of OCCC 
+at the time of his April 13 , 2020 observations was approximately 
+the same as it is now.23   As a consequence of the failure to 
+achieve a population reduction sufficient to permit social 
+distancing, Dr. Stewart warns “the present efforts to safeguard 
+against a COVID- 19 outbr eak within DPS facilities are 
+dangerously inadequate.”  Thus, he specifically rejects the  
+conclusion of the Majority that the emergency threat of 
+coronavirus within OCCC has ended: 
+                                                                              
+(continued. . . )  
+ 
+my observations about DPS’s efforts to a ddress COVID -
+19 within its correctional facilities.   
+ 
+. . . . 
+ 
+[W]hile I have heard of DPS reports stating that the 
+OCCC population is smaller than it was a month ago, 
+one would not know that from visiting the facility.  
+As a clinician who moves throughout the facility 
+almost daily, I have not observed any appreciable 
+reduction in the jail population.  The end result is 
+that detainees are no more able to maintain social 
+distance and proper hygiene today than they were one 
+month ago.  
+ 
+Id. at 3-6.   
+ 
+23  The April 8, 2020 Population Report stated that OCCC housed 942 
+inmates. Initial Summary Report of the Special Master at 27 (Apr 9, 2020).  
+By contrast, the May 28 Fifth Summary Report and Recommendation of the 
+Special Master stated that the population at OCCC was 823, a population of 
+195 above the design capacity.  Fifth Summary Report and Recommendations of 
+the Special Master  at 4 (May 28, 2020).  [hereinafter Fifth Summary Report].  
+ 11 DPS’s April 9, 2020 advisory notes that OCCC saw a 
+295-person reduction in its jail population between 
+March 2, 2020 and April 9, 2020 ( i.e., from 1201 to 
+906).  See https://twitter.com/HawaiiPSD/status/  
+1248441500901335041.  But, based on my OCCC visit  
+this morning —i.e., on April 13, 2020— this reduction 
+comes nowhere near to allowing for  adequate COVID -19 
+protocols to be implemented.  People are still 
+crammed two or three to a  cell, and hygiene 
+conditions remain abysmal.  
+ 
+  . . . .   
+ 
+In short, the present efforts to safeguard against a 
+COVID-19 outbreak within DPS facilities are 
+dangerously inadequate.  I urge the Court not only to 
+take action to reduce the jail and prison 
+populations, but to do so immediately.  
+ 
+Id. at 8. (emphasis in original).  
+ 
+ To protect the inmate population from “the likelihood 
+of a devastating outbreak” and achieve social distancing Dr. 
+Stewart concluded that a population reduction to design capacity 
+is necessary:  
+It is clear to me that a much more significant 
+population reduction must be  achieved within DPS 
+facilities.  I spent time over the past week 
+reviewing the relevant data on  DPS jails and prisons.   
+Based on that review, and my thirty -plus years of 
+expertise in  correctional health care oversight, it 
+is my opinion that the first step that the Court 
+should take  is to impose on all stakeholders the 
+mandatory goal of reaching 100% of design bed 
+capacity.  
+ 
+Id. (emphasis in original). 
+Consistent with the recommendation of Dr. Stewart, 
+reduction of the incarcerated population at OCCC to design 
+capacity of 628 has been endorsed by this court.  To achieve 
+social distancing, this 
+court appointed a special master on 
+April 2, 2020; his scope of work was to “include setting forth 12 guidelines to ensure that the State’s correctional centers and 
+facilities are in compliance with social distancing mandates.”24  
+Consistent with the purpose of achieving social distancing 
+within the inmate population, on April 15, 2020 this court  
+ordered that “[e]fforts shall be underta ken to reduce the inmate 
+population of correctional centers and facilities to design 
+capacity.”   Second Interim Order filed April 15, 2020.  Nine days 
+later, we again ordered that “efforts shall continue to be 
+undertaken to reduce the inmate population of correctional centers 
+and facilities to design capacity.”  Third Interim Order filed 
+April 24, 2020.  
+ Meaningful progress toward achieving the design capacity 
+of 628 inmates at OCCC did not occur by April 24, 2020.25  To date, 
+the inmate population remains over the design capacity.   As 
+                     
+24  Order of Consolidation and for Appointment of Special Master (By: 
+Recktenwald, C.J., Nakayama, McKenna, Pollack, and Wilson JJ.)  April 2, 
+2020.  
+ 
+25  “There has not been a meaningful decrease in the number of inmates held 
+at the Oahu Community Correctional  Center since the initial report of the 
+special master was filed on April 9, 2020.   On April 13, 2020, the head count 
+was 909 and the assigned count was 993.  One week later, on April 20, 2020, 
+the population had increased to a head count of 916 and an assigned count of 
+1018.” Department of Public Safety weekly population report April 13, 2020 
+and April 20, 2020.  A chart in the April 23, 2020 report of the special 
+master lists the inmate population on April 23, 2020 as 838 at OCCC —a number 
+that is not identified as either a head count or an assigned count.  
+ 
+This court has ordered: “Efforts shall continue to be undertaken to 
+reduce the inmate population of correctional centers and facilities to design 
+capacity.” The design capacity of OCCC is 628 inmates. Id. As noted, on April 
+13, 2020, the head count for OCCC was 909 and, utilizing the chart in the  
+most recent special master’s report, the population has decreased no more 
+than seventy- one incarcerated citizens since April 13, 2020. ”  Concurrence 
+Re: Interim Order (By: Wilson J.), April 24, 2020. 
+ 13 de
+scribed by Dr. Stewart’s declaration , the population at OCCC 
+remains dangerously overcrowded.  In the 21 days, from May 8 to May 
+29, 2020, the population increased by 58 inmates for a total of 8 23 
+incarcerated women and men.  Crowding of cells with up to three 
+inmates has continued.  On May 13, 2020, with a population of less 
+than the present population of 823, the Department of Public Safety 
+acknowledged conditions “with up to 3 inmates per cell  depending on 
+the daily population.”26 
+In the most recent May 28, 2020 Fifth Report of the 
+Special Master, the special master acknowledged that “this process 
+as mandated by t he court has been difficult for all involved”.  The 
+special master noted that communications between the parties had 
+broken down and achievement of design capacity at OCCC to 
+accomplish social distancing among inmates would not be 
+successfully resolved through mediation.27  The Hawai‘i State Public 
+Defender and the Oversight Commissi on28 consider attainment of 
+design capacity to be essential, while the Attorney General and 
+                     
+26  The incarcerated population on May 13, 2020 was 758.  Exhibit 1 Fourth 
+Summary Report and Recommendations of the Special Master, letter of Public 
+Safety Director Nolan Espinda to Special Master (May 15, 2020).  
+ 
+27  “As of this date, the parties’ attempts to resolve this matter through 
+mediation have not been successful”.   Fifth Summary Report, supra 23 at 3. 
+ 
+28  Hawai‘i Correctional Systems Oversight Commission, which was established 
+by the Hawai‘ i State Legislature pursuant to Act 179, Session Laws Hawai ‘i  
+2019, to, among other things, establish the capacities for all Hawai ‘i 
+correctional facilities and policies and procedures to prevent the inmate 
+population from exceeding the capacity of each correctional facility.   
+   14 c
+ounty prosecutors from O‘ah
+u, Maui and Hawai‘i oppose any further 
+r
+eduction in population through further release.  
+ No
+tably, the special master describes a process that, 
+through the innovative collaboration between parties, has already 
+achieved a reduction of the inmate population with an unusual and 
+promising level of protection to public safety: 
+The criticism of the recidivism rate on early 
+releases has not taken into  consideration what the 
+recidivism rate was prior to the COVID -19 early 
+releases.  According to a report of the State of 
+Hawai‘i Interagency Council on Intermediate  Sanctions 
+(July 2018), the average recidivism rate for those 
+released on probation, parole and upon the completion 
+of their sentences is around 50%. Whereas it is too 
+soon to judge the recidivism rate of COVID -19 early 
+releases, about 650 inmates were released  and, 
+according to some news outlets, 50 to date have been 
+returned with new charges.  That is about an 8% 
+recidivism rate to date, assuming all new charges 
+result in  convictions.
+ 
+ 
+Fifth Summary Report at 7 . 
+ The special master describes the successful attainment 
+of an eight percent recidivism rate for the over 650 inmates 
+released from incarceration state
+-wide.  The result of the 
+process of release ordered by this court,29 as calculated by the 
+special master, is a dramatic reduction from the normal 
+recidivism rate of fifty percent to an eight percent recidivism 
+rate–a change that represents far greater protection of the 
+public from repeat criminal activity by the 650 released 
+                     
+29  Every release occurred only after judicial review of the circumstances 
+and facts pertaining to each case —with every adjudication being made only 
+after input from defense counsel and the prosecutor.  15 citizens as compared to the normal reoffending rate for the 
+population of released inmates.  The reason for this un
+usually 
+low recidivism rate is al luded to by the special master as being 
+a result of constructive collaboration: 
+The parties and stakeholders have acted 
+admirably under difficult circumstances in carrying 
+out this Court’s orders.   Differences among them have 
+been great at times, but all have done their best to 
+work in a collaborative fashion as encouraged by this 
+Court, despite their differences.  
+  
+Id. at 12. 
+ 
+  The thorough, informed process of review that preceded 
+the successful release of 650 inmates state- wide is a 
+demonstrated means by which the population of OCCC can be 
+further reduced —safely-- to design capacity. 
+II. The Special Master Must Be Permitted to Make Recommendations 
+In Accordance with the Order of this Court that Are Not 
+Conditioned on the Agreement of the Parties.  
+ 
+ It is apparent from the special master ’s observations  
+and accomplishments in reducing the inmate population thus far, 
+that achieving the original intent of this court’s order is 
+attainable.  The special master recommends “the parties to 
+continue to work in a collaborative manner to reduce and 
+maintain inmate population levels set by this Court, or by the 
+Oversight Commission should this Court defer to the Commission 
+on this matter”.   Id. at 12.  However, the special master notes 
+that an impasse to achieving inmate population levels has arisen 
+and he is prevented from recommending necessary solutions by his 16 perception that 
+his recommendations can only be based on 
+consensus.  As a consequence, he has thus far declined to 
+provide recommendations to this court with which the parties do 
+not agree: 
+Because the Special Master has been  mandated to work 
+in a collaborative manner with the parties and 
+stakeholders, and  conduct mediation among the parties 
+when appropriate, the Special Master cannot pick a  
+side in these proceedings when  the parties differ, 
+while continuing to work  collaboratively with the 
+parties consistent with the orders of this Court. The 
+Special Master has endeavored to work with the 
+parties in an evenhanded manner while carrying  out 
+the orders of this Court.  
+ 
+Fifth Summary Report at 12.   
+ Thus, the special master is not aware that he does in 
+fact have the authority and duty to provide this court with his 
+independent recommendations regardless of whether the parties 
+agree.  His appointment purpose as stated in this court’s 
+original order appointing the special master is to “effectuate 
+the goals of these consolidated proceedings, even without 
+agreement of all parties.”30  The special master has an important 
+responsibility to provide this court with independent 
+recommendations not conditioned on consensus.   Informed by  his 
+two months of active service, the recommendations of the special 
+master could be of great benefit to the court and the community 
+                     
+30  Order of Consolidation and for Appointment of Special Master (By: 
+Recktenwald, C.J., Nakayama, McKenna, Pollack, and Wilson JJ.) (Apr. 2, 2020)  
+at 7. 
+ 17 to counter the threat of 
+COVID-19 posed by (1) present 
+conditions of incarceration and (2) an increased likelihood of 
+infection among incarcerated citizens from the return of 
+visitors from the rest of the United States and abroad.    
+ The special master’s constructive communication with 
+problem solving community groups and vigilant concerned 
+community leaders31 uniquely positions him to provide innovative 
+candid recommendations —recommendations that could prove critical 
+to resolving the COVID -19 emergency in our correctional 
+institutions.  The special master ’s commitment to  overcome the 
+present impasse and achieve conditions of incarceration 
+permitting social distancing is reflected in his recommendation 
+that he submit a further report on June 11, 2020.  It is evident 
+that to forego the special master ’s report  and his independent 
+recommendations that will be forthcoming in only seven days 
+would be a rush to judgment at great sacrifice to achieving 
+constitutionally safe conditions for incarcerated citizens.    
+  
+                     
+31  The Fifth Master’s report recounts active input and communication with 
+the State House Committee on Public Safety, Veterans & Military Affairs, the 
+Attorney General, prosecutors from Honolulu, Maui, and Hawai ʻi, the Hawaiʻ i 
+State Public Defender, the Hawai ʻi Correctional  System Oversight Commission, 
+and the Emergency Reentry Project.   18 III. Reduction of the Population of Incarcerated Citizens at 
+OCCC is Necessary to Prevent the Spread of the COVID-19 , Remedy 
+Constitutional Violations, and Protect the Community. 
+ 
+ Incarcerated citizens have a constitutional right to 
+be free from cruel and unusual punishment.  U.S. Const. amend. 
+VIII; Haw. Const. art. I, § 8 (incorporating the same).  To 
+establish a violation of the Eighth Amendment, an inmate must 
+show that prison officials are “knowingly and unreasonably 
+disregarding an objectively intolerable risk of harm, and that 
+they will continue to do so . . . into the future.”  Farmer v. 
+Brennan, 511 U.S. 825, 846 (1994). 
+  The “deliberate indifference” needed to establish an 
+Eighth Amendment violation must be examined “in light of the 
+prison authorities' current attitudes and conduct,”  Helling v. 
+McKinney, 509 U.S. 25, 36 (1993), which means “their attitudes 
+and conduct at the time suit is brought and persisting 
+thereafter[.]”  Farmer, 511 U.S. at 845.  The U.S. Supreme Court 
+has held that overcrowding in a prison that deprives “prisoners 
+of basic sustenance, including adequate medical care[,]” 
+violates a prisoner’s right to be free from cruel and unusual 
+punishment under the Eighth  Amendment.  Brown v. Plata , 563 U.S. 
+493, 511 (2011) (“Just as a prisoner may starve if not fed, he 
+or she may suffer or die if not provided adequate medical 
+care”).  Courts have a responsibility to remedy Eighth Amendment 
+violations when jails are overcrowded and inmates are not 19 receiving adequate medical care.  Id.   (“If government fails to 
+fulfill this obligation, the courts have a responsibility to 
+remedy the resulting Eighth Amendment violation”).  Although 
+courts must consider public safety in ordering inmate releases, 
+“[c]ourts may not allow constitutional violations to continue 
+simply because a remedy would involve intrusion into the realm 
+of prison administration.”  Id. at 511.  Additionally, courts 
+and state officials “must bear in mind the need for a timely and 
+efficacious remedy for the ongoing violation of prisoners’  
+constitutional rights.”  Id. at 543.  
+ In Plata, the Court concluded that the overcrowding of 
+inmates bred unconstitutional conditions within the prison: 
+inadequate medical care that resulted in death, the increased 
+incidence of infectious disease, and needless pain and 
+suffering.  563 U.S. at 519 -20.  Thus, the Court held that 
+remedial measures to cure the cruel and unusual conditions in 
+the California prisons were warranted.  Id.   To remedy the 
+violation of the incarcerated populations’ right to be free from 
+cruel and unusual punishment, the United States Supreme Court 
+upheld the lower court’s order placing a cap on the prison’s 
+population.  Id. at 545.  The Supreme Court concluded that 
+courts may enter an order placing limits on prison populations 
+when medical care cannot adequately meet the demands of an 
+overcrowded inmate population.  Id.   The Court capped the prison 20 population to cure and prevent Eighth Amendment violations, and 
+thus had the “effect of  reducing or limiting the prison 
+population” by up to “46,000 persons.”  Id. at 510-11.  
+ The threat to the incarcerated citizens of OCCC is 
+more dire than the threat to California’s incarcerated citizens 
+in Plata.  As in Plata where the correctional facilities in 
+California were operating in excess of their design capacity and 
+therefore exposing inmates to overcrowding that caused death and 
+harm, 563 U.S. at 502, OCCC is  also operating significantly in 
+excess of its capacity, thus creating similar unconstitutional 
+conditions; inmates are crowded two to three in a cell and 
+unable to social distanc
+e.  However, in this case, the current 
+COVID-19 pandemic is a more lethal threat —an officially declared 
+state and national emergency —that eclipses the cruel and unusual 
+conditions of overcrowding and inadequate medical care at issue 
+in Plata.  The conditions in Plata did not include the 
+potentially lethal threat of  Covid-19. 
+ Incarcerated citizens are exposed to the threat of 
+contracting COVID- 19 at a rate significantly higher than someone 
+in the general community.32  The speed with which the virus moves 
+through prisons and jails is rapid, with many infected people 
+                     
+32  See, e.g., COVID- 19 infection rate on Rikers Island is 7 times higher 
+than citywide according to the Legal Aid Society, CBS N.Y. (Mar. 20, 2020) 
+https://newyork.cbslocal.com/2020/03/26/coronavirus -rikers-island/.   
+ 21 spreading the virus before ever showing symptoms.  For example, 
+the virus spread through Rikers Island jail (“Rikers”) in New 
+York from one inmate to 167 in just ten days.33  In the same 
+period of time, the virus infected 137 Rikers staff members.34  
+Jails and prisons are “basically a system designed to spread 
+communicable disease,”35 unless corrective and preventative 
+action is taken.  Whether the state of Hawai ‘i is acting with 
+deliberate indifference to the threat of COVID- 19 is a threshold 
+issue dependent in part on the recommendations and observations 
+of the special master. 
+ Courts throughout the United States have acted 
+promptly in response to 
+the threat the coronavirus poses to 
+incarcerated people.  Cuyahoga County, Ohio, dropped the county 
+jail population from nearly 1,900 to less than 1,300 “in a 
+matter of days”, with Cuyahoga County Presiding Judge Brendan J.
+Sheehan noting that “[w]e really compacted the time frame.”   
+Likewise, New Jersey released  as many as 1,000 people from its 36 
+                     
+33   Jennifer Gonnerman, How Prisons and Jails Can Respond to the 
+Coronavirus, N EW YORKER (Mar. 14, 2020), https://www.newyorker.com/news/q -and-
+a/how-prisons- and-jails-can-respond- to-the-coronavirus. 
+   
+34  Id. 
+ 
+35  Id. 
+ 
+36  Kimberly Kindy, Disaster waiting to happen:  Thousands of inmates 
+released as jails and prisons face coronavirus threat , WASH. POST (Mar. 25, 
+2020), https://www.washingtonpost.com/national/disaster -waiting- to-happen-
+thousands- of-inmates-released- as-jails-face-coronavirus-
+threat/2020/03/24/761c2d84 -6b8c-11ea-b313-df458622c2cc_story.html.  
+ 22 jails to address the risks of the highly contagious coronavirus 
+spreading among the incarcerated population.37  New Jersey’s 
+chief justice, Stuart Rabner, signed an order releasing inmates 
+jailed for probation viola
+tions as well as those convicted in 
+municipal courts or sentenced for low- level crimes in Superior 
+Court.38   
+IV.  Reduction of OCCC Population to Design Capacity.  
+ Releasing
+ incarcerated nonviolent citizens to achieve 
+numbers sufficient to reduce the population of OCCC to its 
+design capacity of 628 is straightforward.  With a present 
+inmate population of 823 people, the release of approximately 
+194 women and men can be achieved with due consideration for 
+public safety by:  (1) releasing low-risk pretrial detainees and 
+placing them on court supervised release; (2) releasing low- risk 
+inmates who are close to finishing their sentences either by 
+modifying their sentence to end without further incarceration; 
+(3) modifying the remaining sentence of nonviolent offenders to 
+be served as a period of probation; and/or (4) transfer ring 
+inmates to other custodial settings.   
+                     
+37   Tracey Tully, 1,000 Inmates Will Be Released From N.J. Jails  to Curb 
+Coronavirus Risk, N.Y. TIMES (Mar. 23, 2020),  
+https://www.nytimes.com/2020/03/23/nyregion/coronavirus -nj-inmates-
+release.html?smid=em -share. 
+ 
+38   Id. 23  The length of sentence for nearly every inmate in OCCC 
+is presently less than 
+twelve months.  With rare exceptions, all 
+sentences being served are either as a result: (1) of a 
+conviction for a nonviolent Class C felony with no more than a 
+year remaining on a probationary sentence; (2) a misdemeanor 
+punishable for no more than a year in jail,39 or; (3) a petty 
+misdemeanor punishable by no more than thirty days in jail.40  
+Thus, each inmate currently serving a sentence at OCCC will have 
+finished their sentence within twelve months, even without an 
+early release in the face of the threat of COVID
+-19.   
+ Low -risk nonviolent offenders should be released 
+and/or be subject to an alternative probationary sentence.  To 
+subject citizens presently serving terms for petty misdemeanors, 
+misdemeanors, or non- violent class C felonies to the lethal 
+threat of COVID-19,  notwithstanding the availability of an 
+alternative probationary sentence, is an unconstitutional 
+violation of their right to be free from cruel and unusual 
+punishment.   
+ Faced with the threat to their lives, and the 
+inability to engage in social distancing amidst the coronavirus 
+                     
+39  See HRS § 701 -107(3) (providing that misdemeanors are punishable by a 
+maximum imprisonment of one year). 
+ 
+40  See HRS § 701 -107(4) (providing that petty misdemeanors are punishable 
+by a maximum imprisonment of thirty days).   24 pandemic, no benefit to the community is achieved from continued 
+incarceration of those serving time for a petty misdemeanor, a 
+misdemeanor, or a nonviolent class C felony.  Commission of a 
+petty misdemeanor, a misdemeanor, or a nonviolent class C felony 
+does not warrant as punishment the exposure to a virus that will 
+possibly kill the incarcerated citizen, and will likely require 
+expenditure of valuable life-saving medical resources.  Inmates 
+serving terms for petty misdemeanor, misdemeanors, or nonviolent 
+class C felonies can have their sentences modified to allow 
+completion of the remaining sentence on court supervised 
+probation, or to be released based on the time served on the 
+sentence.  Protection of the public is provided by adjudication 
+of every proposed release.   
+ The remaining incarcerated citizens at OCCC are 
+pretrial detainees who have not been convicted of a crime; they 
+are citizens presumed to be not guilty,  who are awaiting trial 
+in jail because they could not afford to post bail.  To subject 
+citizens arrested for, but not convicted of, petty misdemeanors, 
+misdemeanors, or nonviolent class C felonies to the lethal 
+threat of COVID- 19 because they are unable to post bail is an 
+unconstitutional violation of their right to be free from cruel 
+and unusual punishment. 
+ The jailing of (1) citizens awaiting trial for 
+nonviolent offenses and (2) nonviolent offenders with less than 25 a year remaining on their sentences
+ not only contributes  to the 
+vast overcrowding in Hawai ‘i corre
+ctional facilities and 
+increases the risk to inmates of contracting COVID- 19, their 
+incarceration also threatens:  (1) the health and safety of 
+correctional workers and public defenders who share the company 
+of the incarcerated citizens; (2) the state’s limited medical 
+teams whom would have to respond to a coronavirus outbreak 
+emergency in the correctional facilities and hospitalize 
+inmates; and (3) the state’s limited medical supplies and 
+testing kits.   
+V.  CONCLUSION 
+ 
+   The special master recognizes the impasse to resolving 
+the coronavirus emergency at OCCC, and nonetheless recommends 
+that the parties continue to work to reduce and maintain 
+population levels set by this court.  In so doing he notes the 
+difficulty of resolving the COVID- 19 threat if he is constrained 
+to offer only recommenda tions arrived at by consensus.  
+Fortunately, the special master was provided just the authority 
+he mistakenly laments that he is without —the authority to 
+“effectuate the goals of these consolidated proceedings, even 
+without agreement of all parties. ”  So empowered, and with the 
+experience of two months of hard and productive work, he should 
+be permitted to submit his independent recommendations about how 
+to resolve the emergency faced by Hawai ‘i’s incarce
+rated women 26  
+ /s/ Michael D. Wilson
+Associate Justice  and men.  Perhaps the reaffirmation of th e importance of  
+independent authority will be reason for a future special 
+master--faced with the present emergency and the increased risk 
+of infection from an imminent influx of tourists
+--to perform an 
+independent site visit of OCCC to see first- hand the crowding 
+and social distancing, if any, employed by inmates and 
+correctional workers. 
+ The alternative chosen by the Majority-- to declare 
+success and claim contrary to the evidence and the Governor’s 
+emergency orders that the emergency is at an end-- perpetuates 
+without justification the lethal risk of infection to those who 
+are held sometimes three to a cell during the coronavirus 
+pandemic emergency.  The emergency identified by the Governor 
+and specifically described within OCCC by Dr. Stewart requires 
+this court to maintain jurisdiction at least until the special 
+master is granted the opportunity to make independent 
+recommendations about how to reduce population levels 
+sufficiently to achieve social distancing. 
+ Dated: Honolulu, Hawaii, June 8 , 2020. 
+    
+    
+ 

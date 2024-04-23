@@ -1,0 +1,1384 @@
+NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+NOS. 28948 and 29105
+ 
+IN THE INTERMEDIATE COURT OF APPEALS
+ 
+OF THE STATE OF HAWAI' I 
+No. 28948
+ 
+PACIFIC LIGHTNET, INC., Plaintiff-Appellant/Cross-Appellee v.
+TIME WARNER TELECOM, INC., and TIME WARNER TELECOM OF HAWAII
+L.P., Defendants-Appellees/Cross-Appellants.
+(Civil No. 03-1-2557)
+ 
+PACIFIC LIGHTNET, INC., Plaintiff-Appellant/Cross-Appellee, v.
+TIME WARNER TELECOM OF HAWAII L.P. a Delaware limited
+ 
+partnership, Defendant-Appellee/Cross-Appellant,
+and
+ 
+ALVEN KAMP, JOHN DOES 1-10, JANE DOES 1-10, DOE CORPORATIONS
+1-10, OR OTHER ENTITIES 1-10, Defendants-Appellees.
+(Civil No. 05-1-0428)
+ 
+and
+ 
+No. 29105
+ 
+PACIFIC LIGHTNET, INC., Plaintiff-Appellee/Cross-Appellant,
+v. TIME WARNER TELECOM, INC., and TIME WARNER TELECOM
+OF HAWAII L.P., Defendants-Appellants/Cross-Appellees.
+(Civil No. 03-1-2557)
+ 
+PACIFIC LIGHTNET, INC., Plaintiff-Appellee/Cross-Appellant v.
+TIME WARNER TELECOM OF HAWAII L.P. a Delaware limited
+ 
+partnership, Defendant-Appellant/Cross-Appellee,
+and
+ 
+ALVEN KAMP, JOHN DOES 1-10, JANE DOES 1-10, DOE CORPORATIONS
+1-10, OR OTHER ENTITIES 1-10, Defendants-Appellees.
+(Civil No. 05-1-0428)
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+MEMORANDUM OPINION
+ 
+(By: Fujise, Presiding Judge, Leonard and Ginoza, JJ.)
+ 
+This appeal involves multiple claims and issues between 
+two telecommunications carriers. This court consolidated 
+appellate case Nos. 28948 and 29105, which arise from two civil actions that were consolidated by stipulation and order before the Circuit Court of the First Circuit (circuit court).
+1 In 
+Civil No. 03-1-2557, Plaintiff-Appellant/Cross-Appellee Pacific Lightnet, Inc. (PLNI) brought claims against Defendants­Appellees/Cross-Appellants Time Warner Telecom, Inc. (TWT Inc.) and its Hawai' i subsidiary, Time Warner Telecom of Hawaii, L.P. 
+(TWT Hawaii) (collectively, TWTC). In Civil No. 05-1-0428, PLNI brought claims against TWT Hawaii and Alven Kamp (Kamp). 
+In the consolidated cases before the circuit court, a
+ 
+Final Judgment was entered in favor of TWTC and against PLNI as
+ to all claims asserted in PLNI's complaints in both actions,
+ notwithstanding a jury verdict in favor of PLNI as to certain
+ claims. Thereafter, TWTC filed post-judgment motions, including
+ a motion for attorneys' fees and costs, which the circuit court
+ granted in part and denied in part.
+ 
+This consolidated appeal addresses appeals by PLNI and
+ 
+TWTC.
+2 PLNI challenges certain interlocutory rulings by the
+ 
+circuit court and the circuit court's grant of attorneys' fees
+ and costs to TWTC. TWTC challenges certain aspects of the trial
+ held below and the circuit court's ruling on its motion for
+ attorneys' fees and costs. For the reasons set forth below, we
+ affirm in part, vacate in part, and remand for further
+ proceedings.
+ 
+1
+ The Honorable Elizabeth E. Hifo presided.
+ 
+2
+ "An appeal from a final judgment 'brings up for review all
+interlocutory orders not appealable directly as of right which deal with
+issues in the case.'" Ueoka v. Szymanski, 107 Hawai' i 386, 396, 114 P.3d 892,
+902 (2005) (citation omitted). Furthermore, "[t]he notice of appeal shall bedeemed to appeal the disposition of all post-judgment motions that are timelyfiled after entry of the judgment or order." Hawai' i Rules of Appellate
+Procedure (HRAP) Rule 4(a)(3). 
+2
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+I. Points of Error on Appeal
+ 
+PLNI raises the following points of error in its
+ 
+appeals:
+ 
+(1) the circuit court erred in dismissing the Feature
+ 
+3
+Group D claims  based on its determination that the Public
+Utilities Commission (PUC) had primary jurisdiction, even though
+ the circuit court had concurrent jurisdiction and the jury had
+ already rendered a verdict in favor of PLNI on these claims; 
+(2) the circuit court erred and violated PLNI's
+ 
+constitutional right to a jury trial when it dismissed the
+ Feature Group D claims and stayed enforcement of the jury verdict
+ in favor of PLNI;
+ 
+(3) the circuit court erred in dismissing, rather than
+ 
+staying, the Feature Group D claims, where the impact of the
+ dismissal would result in time-barring the claims due to the
+ statute of limitations;
+ 
+(4) the circuit court erred in granting partial summary
+ 
+judgment in favor of TWTC because genuine issues of material fact
+ exist as to whether PLNI is a third-party beneficiary to an asset
+ purchase agreement between TWT Inc. and another party, and the
+ circuit court improperly denied further discovery;
+ 
+(5) the circuit court erred in granting attorneys' fees
+ 
+and costs to TWTC related to preliminary injunction proceedings
+ and the Hawaii Island Fiber Network (HIFN) claims;
+ 
+(6) the circuit court erred in not reducing, limiting,
+ 
+or segregating by specific claim the amount of attorneys' fees
+ and costs awarded to TWTC.
+ 
+In TWTC's cross-appeal, it raises the following points
+ 
+of error:
+ 
+(1) the jury verdict must be vacated because: (a) it is
+ 
+contrary to the established law of tariffs which requires
+ mandatory payment for validly received services, precludes
+ 
+3
+ The Feature Group D claims involve billing disputes between the
+parties related to telephone service charges for call termination services. 
+3
+ NOT FOR PUBLICATION IN WEST'S HAWAI �I REPORTS AND PACIFIC REPORTER 
+billing disputes that are not filed within 120 days, and
+ 
+precludes liability for billing and transmission problems beyond
+ TWTC's control; and (b) it is contrary to the law of assignments
+ under which PLNI did not acquire any rights to the GST credit;
+ 
+(2) the circuit court erred in refusing testimony and 
+evidence regarding relevant settlement discussions to negative a claim of undue delay, pursuant to Hawai� i Rules of Evidence (HRE) 
+Rule 408; 
+(3) the circuit court did not properly instruct the
+ 
+jury or provide the jury with a complete special verdict form, in
+ that:
+ 
+(a) the circuit court improperly omitted
+instructions on TWTC's affirmative defenses;
+ 
+(b) jury instructions and the special verdict
+form improperly allowed the jury to infer a
+contractual relationship, as opposed to
+making sure each element of a contract under
+the tariff was present; and
+ 
+(c) based on the foregoing, the circuit court
+improperly excluded numerous jury
+instructions;
+ 
+(4) the circuit court erred in denying in part TWTC's
+ 
+motion for attorneys' fees and costs for the Feature Group D
+ 
+claims based on lack of jurisdiction.
+ 
+(5) the circuit court erred by failing to render a
+ 
+written decision within ninety days following TWTC's motion for
+ attorneys' fees and costs.
+II. Case Background
+A. Summary of Issues On Appeal
+ 
+PLNI and TWTC are telecommunications carriers that 
+operate in Hawai� i, and both acquired interests or rights 
+previously owned by GST Telecommunications, Inc. and its 
+affiliates (collectively, GST) after GST filed for bankruptcy. Although various claims were asserted in Civil No. 03-1-2557 and Civil No. 05-1-0428, the issues relevant on appeal are limited to three areas. 
+4
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+First, in what is referred to as the Feature Group D
+ 
+claims, PLNI claims that via its acquisition of rights previously
+ 
+owned by GST Telecommunications Hawaii, Inc. (GST Hawaii), TWTC
+ owes PLNI credits for telephone service billing credits that TWTC
+ owed to GST Hawaii; and, in ongoing billing disputes, TWTC's
+ pending charges to PLNI should be reduced. The Feature Group D
+ claims went to jury trial and a verdict in favor of PLNI was
+ returned. After the jury verdict, however, the Feature Group D
+ claims were dismissed by the circuit court upon its
+ determination, pursuant to the primary jurisdiction doctrine,
+ that these claims should have been resolved by the Public
+ Utilities Commission (PUC). On appeal, PLNI challenges the
+ circuit court's post-verdict dismissal of the Feature Group D
+ claims. In turn, TWTC, in its appeal, contends that although the
+ circuit court dismissed the Feature Group D claims, the court
+ merely stayed the jury verdict, whereas the verdict should have
+ been vacated altogether.
+ 
+Second, PLNI and TWTC acquired different parts of an
+ 
+undersea cable network referred to as the HIFN cable system. 
+PLNI claims that TWT Inc.'s asset purchase agreement with GST
+ (TWT-GST APA) required TWT Inc. to undertake certain actions
+ related to the maintenance and repair of the HIFN system,
+ including the portion owned by PLNI (cable maintenance claims). 
+In an order issued on June 15, 2007, prior to trial, the circuit
+ court granted TWTC's partial summary judgment motion, ruling that
+ PLNI, "as a non-party to the [TWT-GST APA], does not have
+ standing as an intended third party beneficiary to enforce the
+ provisions of the [TWT-GST APA.]" On appeal, PLNI asserts this
+ ruling was in error.
+ 
+Third, pursuant to Hawai' i Rules of Civil Procedure 
+(HRCP) Rule 54(d) and Hawaii Revised Statutes (HRS) § 607-14 (Supp. 2012), a minute order and a subsequent written order were issued related to TWTC's motion for attorneys' fees and costs (Motion for Fees/Costs). These orders reflect awards of $188,428.04 in attorneys' fees and $9,090.94 in costs to TWTC 
+5
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+from PLNI. PLNI contends on appeal that the circuit court 
+improperly granted attorneys' fees and costs to TWTC related to preliminary injunction proceedings and related to the cable maintenance claims. In turn, TWTC claims in its appeal that it should have been awarded additional fees and costs related to the Feature Group D claims. Regarding TWTC's Motion for Fees/Costs, there is also a dispute whether the motion was automatically deemed denied pursuant to Hawai' i Rules of Appellate Procedure 
+(HRAP) Rule 4(a)(3) because the circuit court did not timely act on the motion. 
+B. Relevant Circuit Court Proceedings
+ 
+On December 30, 2003, PLNI initiated Civil No. 03-1­
+2557 by filing a Verified Complaint for Declaratory Judgment and
+ 
+Injunctive Relief (2003 Complaint). PLNI's 2003 Complaint
+ asserted a variety of claims, including that TWTC wrongfully
+ damaged, disrupted, and diminished the value and life expectancy
+ of PLNI's undersea cable network, and that TWTC mis-billed PLNI
+ for services TWTC never provided. PLNI asserted, inter alia,
+ that it was entitled to damages or an offset from TWTC.
+ 
+On March 11, 2005, PLNI initiated Civil No. 05-1-0428
+ 
+by filing a Verified Complaint for Injunctive Relief and Damages
+ against TWT Hawaii and Kamp (2005 Complaint). PLNI's complaint
+ in this action asserted various claims, including that Time
+ Warner entities had failed to negotiate a joint agreement with
+ PLNI for the repair and maintenance of the shared undersea fiber
+ optic cable.
+4
+ 
+On April 15, 2005, Civil No. 03-1-2557 and Civil No.
+ 
+05-1-0428 were consolidated by stipulation of the parties.
+ 
+With regard to PLNI's cable maintenance claims, the
+ 
+parties filed motions for partial summary judgment. On June 15,
+ 
+4
+ The 2005 Complaint also asserted claims, inter alia , that Kamp had
+breached a non-compete agreement and TWT Hawaii had obtained PLNI's
+confidential information when Kamp resigned from PLNI and began working at TWT
+Hawaii. These claims were dismissed below and are not at issue in this appeal. 
+6  NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+2007, the circuit court entered orders granting TWTC's motion for
+ 
+partial summary judgment and denying PLNI's motion for partial
+ summary judgment on these claims. A key issue was whether PLNI,
+ as a non-party to the September 2000 TWT-GST APA, could enforce
+ the obligations under the TWT-GST APA. The circuit court ruled
+ that, applying Delaware law as required by the TWT-GST APA, PLNI
+ did not have standing as an intended third-party beneficiary to
+ enforce the provisions of the TWT-GST APA. 
+Other claims by PLNI remained pending and TWTC
+ 
+thereafter filed its Answer to the 2003 Complaint on August 30,
+ 2007, asserting thirty defenses. On August 31, 2007, PLNI filed
+ a motion to strike TWTC's Answer, alleging that TWTC's "grossly
+ tardy" filing prejudiced PLNI. The circuit court granted PLNI's
+ motion in part, striking all of TWTC's affirmative defenses
+ except the defense of subject matter jurisdiction. 
+The case proceeded to jury trial only as to the Feature
+ 
+Group D claims. Trial commenced on September 4, 2007, and
+ continued until September 13, 2007, when the jury rendered its
+ verdict as follows: 
+Question No. 1: Did Plaintiff [PLNI], prove breach of
+contract by [TWTC] regarding the billing dispute submitted
+on September 18th, 2001?
+ 
+Answer: Yes. 
+Question No. 2: What are the damages for this breach
+of contract?
+ 
+[Answer:] $327,714.03. 
+Question No. 3: Did [PLNI], prove breach of contract
+by [TWTC] regarding Feature Group D billings for any period
+from October 11th, 2001, through the present? 
+Answer: Yes
+ 
+Question No. 4: What are the damages of this breach of
+contract? 
+Answer: $1. 
+Question No. 5: If you awarded $1 in Question No. 4,
+state whether Plaintiff [PLNI], proved that the pending bill
+should be reduced, and if so, in what amount. 
+Answer: Yes. [$]118,109.58. 
+7
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+On September 5, 2007, one day after the start of trial,
+ 
+TWTC had filed a "Motion to Dismiss for Lack of Subject Matter
+ 
+Jurisdiction Based on the Primary Jurisdiction of the Public
+ Utilities Commission[.]" Rather than delaying the trial to
+ consider the motion, the circuit court heard the motion on
+ September 20, 2007, after trial had been completed and the
+ verdict had been rendered. At that time, the circuit court
+ granted the motion to dismiss. In its written order issued on
+ October 23, 2007, the circuit court dismissed the Feature Group D
+ claims on the basis that the PUC had primary jurisdiction over
+ the claims. At the same time, the circuit court ordered that
+ "due to the dismissal of the Feature Group D Claims, the
+ enforcement of the verdict of the jury entered in this matter on
+ September 13, 2007 is STAYED until further order of the Court."
+ 
+On December 12, 2007, the circuit court entered the
+ 
+Final Judgment, which stated among other things that "[d]ue to
+ the dismissal of all of the Feature Group D Claims, the Court
+ stayed enforcement of the jury verdict in favor of PLNI on the
+ Feature Group D claims entered on September 13, 2007 until
+ further order of the Court." However, the Final Judgment
+ concluded by entering judgment in favor of TWTC and against PLNI
+ "as to all claims asserted in and arising from" the 2003 and 2005
+ complaints.
+ 
+On December 20, 2007, TWTC filed its Motion for
+ 
+Fees/Costs. TWTC sought $411,077.58 in attorneys' fees and
+ $18,951.83 in costs, pursuant to HRS § 607-14 and HRCP Rule
+ 54(d), respectively.
+ 
+On January 11, 2008, PLNI filed a notice of appeal,
+ 
+appealing from the Final Judgment and various interlocutory
+ orders of the circuit court. This appeal was docketed as
+ appellate case No. 28948.
+ 
+On March 14, 2008, the court clerk issued a minute
+ 
+order regarding TWTC's Motion for Fees/Costs. The ninetieth day
+ after TWTC filed its Motion for Fees/Costs was March 19, 2008. 
+8
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+By this date, the circuit court did not issue an order disposing
+ 
+of TWTC's Motion for Fees/Costs.
+ 
+On April 1, 2008, the circuit court issued an Order
+ 
+Granting in Part and Denying in Part TWTC's Motion for Attorneys'
+ Fees and Costs, awarding TWTC $50,822.72 in fees and costs for
+ preliminary injunction proceedings based on or arising out of an
+ alleged breach of contract, and $146,696.26 for fees and costs
+ regarding the HIFN System. The circuit court denied the motion
+ in all other respects. 
+On April 14, 2008, TWTC filed a notice of appeal,
+ 
+seeking to appeal from numerous orders of the circuit court
+ including the April 1, 2008 order granting in part TWTC's Motion
+ for Fees/Costs. This appeal was docketed as appellate case No.
+ 29105. 
+On April 25, 2008, PLNI filed another notice of appeal,
+ 
+seeking to appeal from the April 1, 2008 order granting in part
+ TWTC's Motion for Fees/Costs. This appeal was docketed as part
+ of appellate case No. 29105.
+III. Feature Group D Claims
+ 
+PLNI claims that the circuit court erred in dismissing
+ 
+the Feature Group D claims based on the circuit court's
+ 
+conclusion that the PUC had primary jurisdiction, where the
+ circuit court possessed concurrent jurisdiction over those claims
+ and the jury had already rendered a verdict in favor of PLNI on
+ these claims.
+ 
+In turn, TWTC contends that the jury's verdict on the
+ 
+Feature Group D claims must be vacated because it violates the
+ law of the applicable tariffs and, furthermore, the circuit court
+ committed various errors related to the evidence, jury
+ instructions, and the verdict form.
+ 
+A. Standard of Review
+ 
+The Hawai' i Supreme Court has treated primary 
+jurisdiction as similar to the question of subject matter 
+jurisdiction. Chun v. Emps.' Ret. Sys. of the State of Hawaii, 
+73 Haw. 9, 14, 828 P.2d 260, 263 (1992) (citation omitted). In 
+9
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+Chun, the supreme court stated that, similar to the issue of 
+subject matter jurisdiction, "[t]he stay of proceedings pending administrative review involves a jurisdictional issue which can never be waived by any party at any time." Id. (citation 
+omitted). Therefore, because questions involving subject matter jurisdiction are reviewed de novo, Lingle v. Hawai' i Gov't Emps. 
+Ass'n, AFSCME, Local 152, AFL-CIO, 107 Hawai' i 178, 182, 111 P.3d 
+587, 591 (2005), we will review de novo whether the circuit court properly determined that the PUC had primary jurisdiction. 
+However, if it is determined that primary jurisdiction 
+applies such that PLNI's claims should first be addressed in the PUC, we will review for abuse of discretion the circuit court's decision to dismiss those claims rather than staying the circuit court proceedings on those claims. See Fratinardo v. Emps.' Ret. 
+Sys. of the State of Hawai' i, 121 Hawai' i 462, 469, 220 P.3d 1043, 
+1050 (App. 2009).
+5 
+B. Primary Jurisdiction and the Filed-Rate Doctrine
+ 
+This case requires us to consider and apply primary
+ 
+jurisdiction analysis along with principles under the filed-rate
+ 
+doctrine. First, regarding primary jurisdiction, the Hawai' i 
+Supreme Court has stated:
+ 
+"'Primary jurisdiction' . . . applies where a claim is
+originally cognizable in the courts, and comes into play
+whenever enforcement of the claim requires the resolution of
+issues which, under a regulatory scheme, have been placed
+within the special competence of an administrative body[.]"
+United States v. Western Pac. R.R., 352 U.S. 59, 63-64, 77
+S.Ct. 161, 164-65, 1 L.Ed.2d 126 (1956). When this happens,
+ 
+5 The primary jurisdiction doctrine is "basically a federal concept[.]"
+Wiginton v. Pac. Credit Corp., 2 Haw. App. 435, 441-42 n.11, 634 P.2d 111, 117
+n.11 (1981) (citations omitted). Among the federal courts, different
+standards of review are applied in reviewing the question of primary
+jurisdiction. Some federal courts have articulated an abuse of discretion
+ standard in reviewing questions of primary jurisdiction. See Baykeeper v. NL
+Indus., Inc., 660 F.3d 686, 690 (3d Cir. 2011); TON Servs., Inc. v. Qwest
+Corp., 493 F.3d 1225, 1239 (10th Cir. 2007). Other federal courts have
+ 
+articulated a de novo standard of review. See U.S. v. Rice, 605 F.3d 473, 475
+(8th Cir. 2010); U.S. v. Henderson, 416 F.3d 686, 691 (8th Cir. 2005). The
+ 
+Ninth Circuit appears to have adopted a hybrid standard of review whereby it
+reviews "the ultimate decision to decline to exercise jurisdiction for abuse
+of discretion," but "conduct[s] de novo review of the court's application of
+the primary jurisdiction doctrine[.]" N. Cnty. Commc'ns Corp. v. California
+Catalog & Tech., 594 F.3d 1149, 1154 (9th Cir. 2010) (citation omitted).
+ 
+10
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+"the judicial process is suspended pending referral of such
+issues to the administrative body for its views." Id. at
+ 
+64, 77 S.Ct. at 165 (citation omitted). In effect, "[t]he
+courts are divested of whatever original jurisdiction they
+would otherwise possess[.]" B. Schwartz, supra, § 8.24, at
+488 (emphasis omitted). And "even a seemingly contrary
+statutory provision will yield to the overriding policy
+promoted by the doctrine." Id.
+ 
+Kona Old Hawaiian Trails Group By and Through Serrano v. Lyman,
+ 
+69 Haw. 81, 93, 734 P.2d 161, 168-69 (1987) (emphasis added).6 As
+ 
+further explained in Kona Old, it is
+ 
+now firmly established, that in cases raising issues of fact
+not within the conventional experience of judges or cases
+requiring the exercise of administrative discretion,
+agencies created by [the legislature] for regulating the
+subject matter should not be passed over. This is so even
+though the facts after they have been appraised by
+specialized competence serve as a premise for legal
+consequences to be judicially defined. Uniformity and
+consistency in the regulation of business entrusted to a
+particular agency are secured, and the limited functions of
+review by the judiciary are more rationally exercised, by
+preliminary resort for ascertaining and interpreting the
+circumstances underlying legal issues to agencies that are
+better equipped than courts by specialization, by insight
+gained through experience, and by more flexible procedure.
+ 
+Id. at 94, 734 P.2d at 169 (emphasis added) (quoting Far E.
+ 
+Conference v. United States, 342 U.S. 570, 574-75, 72 S.Ct. 492,
+ 494, 96 L.Ed. 576 (1952)). "The doctrine does not apply where a
+ pure question of law is at issue and technical matters calling
+ for the special competence of the administrative expert are not
+ involved." Aged Hawaiians v. Hawaiian Homes Comm'n, 78 Hawai' i 
+192, 202, 891 P.2d 279, 289 (1995) (citation omitted).
+ 
+Second, we must consider the filed-rate doctrine
+ 
+because it shapes the issues of fact that must be resolved in
+ adjudicating PLNI's Feature Group D claims. That is, PLNI argues
+ 
+6 There is no dispute that the Feature Group D claims were "originally
+cognizable" in the circuit court. That is, these claims were based on alleged
+breaches of contract and the circuit court had original jurisdiction over theclaims. See HRS § 603-21.5(a)(3) (Supp 2012); State v. Kotis, 91 Hawai' i 319,
+984 P.2d 78 (1999). Further, HRS § 269-15 (2007 Repl.) recognizes theconcurrent jurisdiction of the PUC and the courts, stating that the PUC mayinstitute proceedings as specified therein "notwithstanding that the same maybe within the jurisdiction of any court . . . provided that this section shallnot be construed as in any manner limiting or otherwise affecting thejurisdiction of any such court[.]" The disputed question in this case,
+however, is whether the PUC had primary jurisdiction over the Feature Group D
+claims. 
+11
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+that the Feature Group D claims are simple billing disputes that
+ 
+do not require the special competence of the PUC for resolution. 
+TWTC, on the other hand, points to the requirements in the
+ tariffs to argue that resolution of the Feature Group D claims
+ involve much more technical issues.
+ 
+The Feature Group D claims concern whether PLNI and its 
+predecessor GST were over-billed by TWTC for call termination services by TWTC. The filed-rate doctrine, also referred to as the filed-tariff doctrine, prohibits a regulated entity from charging rates for its services that differ from the rates filed with the appropriate regulatory agency. Balthazar v. Verizon 
+Hawaii, Inc., 109 Hawai' i 69, 72, 123 P.3d 194, 197 (2005). The 
+filed-rate doctrine applies to a regulated entity, such as a public utility, subject to the authority of a regulatory agency. Id. at 72, 77, 123 P.3d at 197, 202. Of particular relevance to this case, the filed-rate doctrine bars claims for money damages that "would compromise the rate structure that was set forth in the tariff filed with the [PUC]." Id. at 80, 123 P.3d at 205. 
+Even when a plaintiff's claim does not directly challenge the established rates, an award of damages would violate the filed-rate doctrine if it has "the effect of imposing [a] rate other than that reflected in the filed tariff." Id. (quoting 
+Dreamscape Design, Inc. v. Affinity Network, Inc., 414 F.3d 665 (7th Cir. 2005)). Pursuant to the filed-rate doctrine, "filed tariffs govern a utility's relationship with its customers and have the force and effect of law until suspended or set aside." In re Waikoloa Sanitary Sewer Co., 109 Hawai' i 263, 271, 125 P.3d 
+484, 492 (2005) (citations omitted). 
+With regard to whether PLNI and its predecessor GST
+ 
+were properly billed by TWTC, the tariffs applicable in this case
+ establish that GST and PLNI were responsible for payment of
+ charges for the services that were furnished to them by TWTC. 
+Thus, in order to comply with the filed-rate doctrine, as
+ recognized in Balthazar, any amounts awarded to PLNI and/or
+ reduced from PLNI's pending bills due to the Feature Group D
+ 
+12
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+claims must be based on a determination that PLNI and GST did not
+ 
+receive services for which they were billed by TWTC.
+ 
+Stated differently, given the filed-rate doctrine, a
+ 
+crucial issue of fact that must be resolved for purposes of the
+ Feature Group D claims is whether PLNI and GST received the call
+ termination services for which they were billed. As TWTC points
+ out, even the witnesses for PLNI testified that the only way to
+ determine whether PLNI and GST received the services that were
+ billed would be to evaluate and review call detail records
+ (CDRs). Moreover, TWTC asserts that calls for which PLNI and GST
+ received bills were misrouted, and the parties disagree as to who
+ was responsible for the misrouting (PLNI, TWTC, or a third party)
+ and whether the tariffs place responsibility on TWTC for the
+ misrouting of calls. In other words, the issues that must be
+ resolved to determine the proper billing under the tariffs are
+ not simple billing or accounting disputes, but must be resolved
+ by a review of the CDRs and other technical evidence related to
+ whether calls were placed that resulted in TWTC providing call
+ termination services, and this includes reviewing how calls were
+ routed and whether they were properly billed based on the
+ routing.
+ 
+Under the regulatory scheme set forth in HRS Chapter
+ 
+269 and the applicable rules pertaining to the PUC, the issues
+ involved in resolving the Feature Group D claims have been placed
+ within the special competence of the PUC. Pursuant to HRS § 269­6(a) (Supp. 2012), the general powers and duties of the PUC
+ include:
+ 
+The public utilities commission shall have the general
+supervision hereinafter set forth over all public utilities,
+and shall perform the duties and exercise the powers imposed
+or conferred upon it by this chapter. Included among the
+general powers of the commission is the authority to adopt
+rules pursuant to chapter 91 necessary for the purposes of
+this chapter.
+ 
+The PUC has broad authority under HRS § 269-15 (2007 Repl.) to
+ 
+institute proceedings regarding any public utility and "may
+ examine into any of the matters referred to in section 269-7[.]" 
+13
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+HRS § 269-7 (2007 Repl.), in turn, authorizes the PUC to examine
+ 
+into the condition of a public utility, including "all its
+ financial transactions, its business relations with other
+ persons, companies or corporations, its compliance with all
+ applicable state and federal laws . . . and all matters of every
+ nature affecting the relations and transactions between it and
+ the public or persons or corporations."
+ 
+Further, HRS § 269-37 (2007 Repl.) provides that "[t]he
+ 
+commission shall ensure that telecommunications carriers are
+ compensated on a fair basis for termination of telecommunications
+ services on each other's networks, taking into account, among
+ other things, reasonable and necessary costs to each
+ telecommunications carrier of providing the services in
+ question."
+7
+ 
+In turn and significantly, Hawaii Administrative Rules
+ 
+(HAR) § 6-80-102, a rule authorized under HRS Chapter 269,
+ specifically provides that billing disputes may be submitted to
+ the PUC.
+ 
+§ 6-80-102 Billing disputes.  (a) When a dispute arises
+between a customer and a telecommunications carrier
+ 
+regarding any bill, the carrier may require the customer to
+pay the undisputed portion of the bill. The carrier shall
+ conduct an appropriate investigation of the disputed charge
+or charges and shall provide a report of the investigation
+to the customer. Where the dispute is not reconciled, the
+carrier shall advise the customer that the customer has the
+ right to file a complaint with the commission regarding the
+dispute
+.
+ 
+7 HAR § 6-80-51 similarly provides:
+ 
+§ 6-80-51 Network termination. Telecommunications carriers
+ 
+shall reciprocally compensate each other for the costs
+associated with transporting and terminating
+telecommunications traffic on their respective networks.
+The carriers shall negotiate in good faith and use their
+best efforts to reach agreement on the prices, terms, and
+conditions for terminating traffic on their respective
+networks. . . .
+ 
+Although in this case the parties do not dispute that the tariffs set forth
+the applicable rates for the call termination services involved in the Feature
+Group D claims, HAR § 6-80-51 further underscores that fair compensation for
+such services is of concern to the PUC. Thus, an issue especially suited for
+the PUC to determine is how to resolve proper compensation if calls have been
+misrouted or if it cannot be established how calls were routed. 
+14
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+HAR § 6-80-102(a) (emphasis added).8 The process for the filing
+ 
+of complaints with the PUC is spelled out in HAR §6-61-66 and §6­
+61-67.
+ 
+PLNI argues that it was improper for the circuit court
+ 
+to invoke primary jurisdiction, especially after the jury had
+ rendered a verdict in favor of PLNI. As noted earlier, TWTC's
+ motion to dismiss the Feature Group D claims under the primary
+ jurisdiction doctrine was filed at the beginning of trial, but
+ the court heard and decided the motion after the jury verdict was
+ rendered. PLNI properly recognizes that the issue of primary
+ jurisdiction cannot be waived and may be raised at any time. 
+Chun, 73 Haw. at 14, 828 P.2d at 263 ("The stay of proceedings
+ pending administrative review involves a jurisdictional issue
+ which can never be waived by any party at any time.") (citation
+ omitted). PLNI argues, however, that the circuit court had
+ discretion whether to defer to the PUC and in exercising that
+ discretion should have taken into account when the primary
+ jurisdiction doctrine was raised in the course of the litigation. 
+Given the analysis in Chun, we must disagree.
+ 
+In Chun, the Hawai' i Supreme Court analyzed the primary 
+jurisdiction doctrine and its prior opinion in Kona Old, stating: 
+[In Kona Old,] [t]he court reasoned that under the principle
+of primary jurisdiction, "[u]niformity and consistency in
+the regulation of business entrusted to a particular agency
+are secured, and the limited functions of review by the
+judiciary are more rationally exercised, by preliminary
+resort for ascertaining and interpreting the circumstances
+underlying legal issues to agencies that are better equipped
+than courts by specialization, by insight gained through
+experience, and by more flexible procedure." Id. at 94, 734
+ 
+P.2d at 169.
+ 
+These very same considerations, uniformity and
+consistency in a specialized agency's administration of the
+Employees' Retirement System, mandate suspension of the
+ 
+8
+ We note further that HAR § 6-80-102(a) requires a carrier to "conduct
+an appropriate investigation of the disputed charge" and to "provide a report
+of the investigation to the customer." In addressing the Feature Group D
+claims, the parties dispute whether TWTC properly investigated the claims
+about the over-billing and whether TWTC should have provided PLNI more
+detailed records to assess the propriety of the billing. In light of HAR § 6­80-102(a), this issue is likewise contemplated to be addressed by the PUC.
+ 
+15
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+judicial process pending an initial review of the issues by
+the administrative body.
+ 
+73 Haw. at 12-13, 828 P.2d at 262 (emphasis added). Under Chun, 
+if an agency is determined to have primary jurisdiction over claims, suspension of the judicial process for those claims is mandated. Fratinardo, 121 Hawai' i at 466, 220 P.3d at 1047. 
+PLNI also argues that the circuit court's stay of the 
+jury verdict violated PLNI's right to a jury trial. Given the analysis in Chun as set forth above, and the analysis therein treating primary jurisdiction as similar to subject matter jurisdiction, 73 Haw. at 14, 828 P.2d at 263, we disagree. That is, because the circuit court properly recognized the primary jurisdiction of the PUC, the circuit court was mandated to suspend the judicial proceedings as to the Feature Group D claims. As previously recognized by the Hawai' i Supreme Court, 
+when primary jurisdiction applies, "the judicial process is suspended pending referral of such issues to the administrative body for its views. In effect, the courts are divested of whatever original jurisdiction they would otherwise possess." Kona Old, 68 Haw. at 93, 734 P.2d at 168-69 (internal quotation marks, brackets and citations omitted).
+9 
+We therefore conclude that the circuit court did not
+ 
+err in determining that the PUC had primary jurisdiction to
+ address the Feature Group D claims.
+ 
+9 We also reject PLNI's assertion that deferring jurisdiction to the
+PUC was improper because the PUC has indicated it will decline jurisdiction
+over contract disputes between telecommunications carriers. PLNI cites to
+ Petition of W. Wireless Corp., PUC Decision & Order No. 16171, Docket No. 96­0352 (Jan. 1998). Our reading of this order differs from PLNI. There, the
+PUC did not state or imply that it would not exercise jurisdiction over
+contract disputes between telecommunications carriers. Rather, the PUC noted
+that the matter was essentially a contract dispute and that the petitioner
+"should first seek relief through the alternative dispute resolution process
+agreed to by the parties" as set forth in the applicable agreement. Petition
+ 
+of W. Wireless Corp., at 4 (emphasis added).
+ 
+We also reject PLNI's argument that ceding jurisdiction to the PUC was
+improper because the PUC lacks authority to award damages. Here, all of the
+Feature Group D claims are based on the assertion that PLNI or GST were
+overbilled by TWTC. As set forth above, HAR § 6-80-102(a) specifically
+provides that billing disputes may be submitted to the PUC.
+ 
+16
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+C. The Jury Verdict Must Be Vacated
+ 
+Before considering whether the circuit court adopted
+ 
+the proper remedy in applying the primary jurisdiction doctrine,
+ 
+we first determine whether the jury's verdict may stand. As set
+ out above, TWTC's appeal raises numerous points of error
+ challenging the validity of the jury verdict. We conclude that
+ the jury verdict violates the filed-rate doctrine and therefore
+ must be vacated. 
+The tariffs require, inter alia, that objections to
+ 
+billed charges must be reported to TWTC within 120 days of
+ receipt of the billing. Any claims not filed within the 120 day
+ period are deemed waived under the tariffs. Under the terms of
+ the tariffs, therefore, another issue that must be resolved for
+ purposes of the Feature Group D claims is whether objections to
+ the billed charges were reported to TWTC within 120 days of
+ receipt of the billing. At trial, however, the circuit court
+ precluded this defense because of TWTC's late filing of its
+ Answer.
+ 
+Under the filed-rate doctrine, "filed tariffs govern a 
+utility's relationship with its customers and have the force and effect of law until suspended or set aside." In re Waikoloa 
+Sanitary Sewer Co., 109 Hawai' i at 271, 125 P.3d at 492 (citation 
+omitted). Moreover, knowledge of the tariff terms is imputed to customers. Balthazar, 109 Hawai' i at 78, 123 P.3d at 203. Thus, 
+PLNI was on notice throughout the dispute over the Feature Group D claims that the 120-day limit applied, regardless of whether TWTC formally asserted the 120-day limit as a defense. Given the principles under the filed-rate doctrine, TWTC's late filing of its Answer could not be a basis to preclude application of the 120-day limit set forth in the tariff. 
+Notably, the filed-rate doctrine establishes that
+ 
+tariff provisions, including the time period in which a customer
+ must submit a billing dispute with a carrier, cannot be waived by
+ the carrier. MCI Telecomm. Corp. v. The Best Tel. Co., 898 F.
+ 
+Supp. 868 (S.D. Fla. 1994) (granting summary judgment in favor of
+ 
+17
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+plaintiff seeking to recover unpaid charges for communication
+ 
+services provided to defendant where, inter alia, the defendant
+ did not put plaintiff on written notice of disputed charges
+ within six months of receipt of invoice bearing disputed charges,
+ as required by a tariff provision, and holding that defendant's
+ affirmative defenses, including waiver, are precluded as a matter
+ of law); Qwest Corp. v. AT&T Corp., 371 F. Supp. 2d 1250, 1251
+ (D. Colo. 2005) ("[T]he filed tariff doctrine prevents parties
+ from contractually modifying tariffs. This prohibition includes
+ not only modification of tariffs' rates and terms, but also
+ modification of a party's potential liability under tariffs, such
+ as in the form of a release or waiver."); Powers Law Offices, PC
+ v. Cable & Wireless USA, 326 F. Supp. 2d 190, 192 (D. Mass. 2004)
+ (strictly enforcing a notice provision in tariff that requires
+ customers to bring billing disputes to the carrier's attention
+ within 45 days of the date on the bill, noting that the tariff
+ governs "not only the nature and extent of [the provider's]
+ liability, but also the nature and extent of the [customer's]
+ right of recovery.") (citation omitted); Clancy v. Consol.
+ Freightways, 186 Cal. Rptr. 257, 259 (Cal. App. 1982) ("The
+ provisions found in a carrier's tariffs, including those which
+ limit the time in which to commence an action against the
+ carrier, cannot be waived by the carrier since to permit waiver
+ would be to enable the carrier to discriminate among shippers and
+ this is prohibited by the Interstate Commerce Act[.]") (citation
+ omitted).
+ 
+Given the above, TWTC was entitled to assert under the
+ 
+tariffs that certain portions of the Feature Group D claims were
+ barred under the 120-day requirement. Because TWTC was precluded
+ from having the jury consider the 120-day limit, the jury verdict
+ violates the filed-rate doctrine and it must be vacated. We need
+ not reach TWTC's other challenges to the jury verdict.
+ 
+18
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+D.	 The Remedy for Applying the Primary Jurisdiction
+Doctrine
+ 
+The circuit court had discretion in fashioning the 
+appropriate remedy in applying the primary jurisdiction doctrine. 
+Fratinardo, 121 Hawai' i at 468, 220 P.3d at 1049. In its Final 
+Judgment, the circuit court "dismissed all of the Feature Group D Claims on the basis of the primary jurisdiction doctrine." Further, due to the dismissal of the Feature Group D Claims, the circuit court "stayed enforcement of the jury verdict in favor of PLNI on the Feature Group D claims . . . until further order of the Court." 
+In light of our determination above that the jury
+ 
+verdict must be vacated, the circuit court's stay of enforcement
+ of the jury verdict is likewise vacated.
+ 
+We must now consider whether the circuit court abused 
+its discretion in dismissing the Feature Group D claims. "[W]hen the doctrine of primary jurisdiction applies to a case, the court 'has discretion either to retain jurisdiction or, if the parties would not be unfairly disadvantaged, to dismiss the case without prejudice.'" Fratinardo, 121 Hawai' i at 467, 220 P.3d at 1048 
+(quoting Reiter v. Cooper, 507 U.S. 258, 268-69 (1993)); see also Jou v. Nat'l Interstate Ins. Co. of Hawaii, 114 Hawai' i 122, 129, 
+157 P.3d 561, 568 (App. 2007). The primary jurisdiction doctrine "is a 'prudential' one, under which a court determines that an otherwise cognizable claim implicates technical and policy questions that should be addressed in the first instance by the agency with regulatory authority over the relevant industry rather than by the judicial branch." Fratinardo at 468, 220 P.3d 
+at 1049 (quoting Clark v. Time Warner Cable, 523 F.3d 1110, 1114 (9th Cir. 2008)). 
+In this case, PLNI asserts that the circuit court
+ 
+abused its discretion in dismissing, rather than staying, the
+ Feature Group D claims because the six year statute of
+ limitations under HRS § 657-1 (1993 Repl.) would otherwise bar
+ 
+19
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+the re-filing of these claims in court.10 Under the circumstances
+ 
+of this case, we do not agree that the circuit court abused its
+ 
+discretion.
+ 
+While before the circuit court, PLNI represented to the
+ 
+court that it would not file the Feature Group D claims with the
+ PUC because it believed that the PUC would not want to adjudicate
+ such claims. As we noted above, PLNI's reliance on Petition of
+ Western Wireless Corp., PUC Decision & Order No. 16171, Docket
+ No. 96-0352 (Jan. 1998) for this point is misplaced. We do not
+ read that decision as indicating that the PUC will not address
+ billing disputes between telecommunications carriers.
+ 
+Moreover, the PUC is required to perform the duties
+ 
+conferred upon it by HRS Chapter 269. HRS § 269-6(a) (The PUC
+ "shall have the general supervision hereinafter set forth over
+ all public utilities, and shall perform the duties and exercise
+ the powers imposed or conferred upon it by this chapter."). 
+Under HRS § 269-37, the PUC "shall ensure that telecommunications
+ carriers are compensated on a fair basis for termination of
+ telecommunications services on each other's networks[.]"
+ Additionally, under HAR § 6-80-102(a), the rules pertaining to
+ the PUC specifically recognize that when a billing dispute cannot
+ be reconciled, a customer has the right to file a complaint with
+ the PUC regarding the dispute.
+ 
+Given this circumstance, where PLNI stated to the
+ 
+circuit court that it would not take the claims to the PUC, the
+ circuit court did not abuse its discretion in dismissing the
+ claims. A party cannot undermine the primary jurisdiction
+ doctrine by simply choosing not to take the claims to the
+ appropriate agency for review. Moreover, staying the claims in
+ the circuit court in this circumstance would mean the Feature
+ Group D claims would remain in limbo indefinitely.
+ 
+10 PLNI does not contend or cite to any authority indicating that it
+would be time barred from bringing its Feature Group D claims before the PUC.
+ 
+20
+  NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+The circuit court's dismissal of PLNI's Feature Group D
+ 
+claims may mean those claims are time-barred under HRS § 657-1 in
+ 
+the form of a cause of action for breach of contract. However,
+ this will not preclude PLNI from having the Feature Group D
+ claims later reviewed by a court after the PUC reviews the claims
+ (should PLNI choose to take the claims to the PUC). HRS § 269­15.5 provides that:
+ 
+§269-15.5 Appeals.  An appeal from an order of the
+public utilities commission under this chapter shall lie,
+subject to chapter 602, in the manner provided for civil
+appeals from the circuit courts. Only a person aggrieved in
+a contested case proceeding provided for in this chapter may
+appeal from the order, if the order is final, or if
+preliminary, is of the nature defined by section 91-14(a).
+ 
+The administrative rules adopted pursuant to HRS Chapter 269 set
+ 
+out the procedure for the filing of a formal complaint against a
+ public utility and provide that, after the filing of a
+ respondent's answer, "the commission shall set a hearing on the
+ complaint." HAR §§ 6-61-67, 6-61-68, 6-61-70. Under the
+ applicable statutes and rules, therefore, PLNI will have a
+ contested case hearing on its Feature Group D claims before the
+ PUC and can thereafter appeal the PUC's order for review by a
+ court. Decisions by federal courts have upheld dismissal of
+ claims under the primary jurisdiction doctrine where an appeal
+ will lie from the agency decision. See Far E. Conference v.
+ 
+U.S., 342 U.S. 570, 576-77 (1952); Access Telecomm. v. Sw. Bell
+ Tel. Co., 137 F.3d 605, 609 (8th Cir. 1998) (district court did
+ not abuse its discretion by dismissing suit pursuant to primary
+ jurisdiction doctrine where complaining party could petition the
+ Federal Communications Commission (FCC), FCC was statutorily
+ obligated to investigate party's complaint, and either party
+ could then seek judicial review of the FCC's order); Himmelman v.
+ MCI Commc'ns Corp., 104 F. Supp. 2d 1, 9 (D.D.C. 2000).
+ 
+Under the circumstances of this case, therefore, we
+ 
+conclude that the circuit court did not abuse its discretion in
+ dismissing the Feature Group D claims. Further, although
+ implicit in the circuit court's ruling and judgment, we clarify
+ 
+21
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+that the dismissal is without prejudice to PLNI asserting the
+ 
+Feature Group D claims in the PUC.
+IV. Cable Maintenance Claims
+ 
+Regarding the cable maintenance claims, the issue
+ 
+before us is whether the circuit court erred in ruling, on cross-
+motions for partial summary judgment, that PLNI was not an
+ intended third-party beneficiary under the TWT-GST APA and thus
+ had no standing to enforce alleged rights under that agreement. 
+On appeal, PLNI challenges this ruling and contends that it is
+ entitled to summary judgment on the issue of whether it was a
+ third-party beneficiary under the TWT-GST APA. We conclude that
+ the circuit court erred in granting partial summary judgment for
+ TWTC, but that PLNI also is not entitled to partial summary
+ judgment on this issue given the state of the record.
+ 
+The cable maintenance claims involve disputes between 
+the parties as a result of their respective ownership of separate parts of the HIFN system, which was previously owned by GST. In the TWT-GST APA entered in September 2000, TWT Inc. purchased certain assets of the GST bankruptcy estate, including the outer sheath of the HIFN and 12 of the 24 fibers therein. Subsequently, in March 2001, TM Communications Hawaii, LLC (TM) purchased the rest of the GST assets in Hawai' i, including the 
+remaining 12 fiber strands in the HIFN, via an asset purchase agreement with GST (TM-GST Agreement). In October 2001, TM assigned its rights in the TM-GST Agreement to PLNI, its subsidiary. Thus, based on the undisputed evidence, TWT Inc. owns the outer sheath and 12 of the 24 fibers in the HIFN, and PLNI owns the remaining 12 fibers in the HIFN. 
+In PLNI's 2005 Complaint, the cable maintenance claims
+ 
+are part of PLNI's cause of action for unfair competition and
+ unfair or deceptive acts or practices in violation of HRS § 480-2
+ (2008 Repl.), with PLNI seeking an order requiring TWTC to
+ execute a joint maintenance agreement and to pay its share of
+ costs allegedly owing for maintenance and repair of the undersea
+ fiber optic cable. The basis for these claims is PLNI's
+ 
+22
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+contention that it has enforceable rights pursuant to Section 6.8
+ 
+of the TWT-GST APA, the agreement under which TWT Inc. purchased
+ GST assets.
+ 
+The circuit court issued related orders on the parties'
+ 
+cross-motions for partial summary judgment on the cable
+ maintenance claims. The circuit court held that there were no
+ genuine issues of material fact and as a matter of law, applying
+ Delaware law as required by Section 11.4 of the TWT-GST APA, PLNI
+ does not have standing as an intended third-party beneficiary to
+ enforce the provisions of the TWT-GST APA.
+A. Standard of Review
+ 
+We review de novo the circuit court's ruling on the
+ 
+motions for partial summary judgment. Querubin v. Thronas, 107
+ 
+Hawai'i 48, 56, 109 P.3d 689, 697 (2005). 
+[S]ummary judgment is appropriate if the pleadings,
+depositions, answers to interrogatories, and admissions on
+file, together with the affidavits, if any, show that there
+is no genuine issue as to any material fact and that the
+moving party is entitled to judgment as a matter of law. A
+ fact is material if proof of that fact would have the effect
+of establishing or refuting one of the essential elements of
+a cause of action or defense asserted by the parties. The
+ evidence must be viewed in the light most favorable to the
+non-moving party. In other words, we must view all of the
+evidence and the inferences drawn therefrom in the light
+most favorable to the party opposing the motion.
+ 
+Stanford Carr Dev. Corp. v. Unity House, Inc., 111 Hawai' i 286, 
+295, 141 P.3d 459, 468 (2006) (citation omitted). 
+Interpreting and construing a contract is a question of 
+law subject to de novo review. Tri-S Corp. v. W. World Ins. Co., 
+110 Hawai' i 473, 489, 135 P.3d 82, 98 (2006); Brown v. KFC Nat'l 
+Mgmt. Co., 82 Hawai' i 226, 239, 921 P.2d 146, 159 (1996).
+B. Delaware Law and the TWT-GST APA
+ 
+With regard to the governing substantive law, the
+ 
+parties are in agreement that, pursuant to Section 11.4 of the
+ 
+TWT-GST APA, PLNI's rights under the TWT-GST APA are governed and
+ construed according to the laws of the State of Delaware. 
+Moreover, the parties agree that in order for PLNI to enforce
+ alleged rights under the TWT-GST APA, PLNI must have been an
+ 
+23
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+intended third-party beneficiary of that agreement. Both PLNI
+ 
+and TWTC cite to Delmar News, Inc. v. Jacobs Oil Co., 584 A.2d
+ 531, 534 (Del. Super. Ct. 1990) which states:
+ 
+It is settled law in Delaware that a third-party may
+recover on a contract made for his benefit. Ins. Co. of
+ 
+North America v. Waterhouse, Del.Super., 424 A.2d 675 (1980)
+citing Royal Indemnity Co. v. Alexander Industries, Inc.,
+Del.Sup[e]r., 211 A.2d 919 (1965). However, in order for
+there to be a third-party beneficiary, the contracting
+parties must intend to confer a benefit. Oliver B. Cannon &
+ 
+Sons, Inc. v. Dorr-Oliver, Inc., Del.Super., 312 A.2d 322
+(1973). Where it is the intention of the promisee to secure
+a performance for the benefit of another, either as a gift
+or in satisfaction of an obligation to that person, and the
+promisee makes a contract to do so, then such a third person
+has the right to enforce the contract against the promisor.
+See generally Restatement of Contracts (Second) § 302
+(1979). If, however, the parties to the contract did not
+intend to benefit the third-party but the third-party
+happens to benefit from the performance of the contract
+either indirectly or coincidentally, such third person has
+no rights under the contract. Insituform of North America
+ 
+v. Chandler, Del.Ch., 534 A.2d 257 (1987).
+ 
+(emphasis added).
+ 
+The parties dispute, however, whether PLNI is an
+ 
+intended third-party beneficiary under the TWT-GST APA, each
+ 
+pointing to different provisions in the agreement. PLNI contends
+ it is an intended third-party beneficiary based on Section 6.8 of
+ the TWT-GST APA, which states:
+ 
+Section 6.8 Maintenance of Cable Sheath. Purchaser
+ 
+will assume GST's maintenance contract with Tyco (or enter
+into a new contract with Tyco or other qualified party) for
+maintenance of the cables included in the cable sheath
+ described in Section 1.1(p). The Purchaser's obligation to
+provide such maintenance for cables it does not own is
+subject to Sellers (and each of successors or assigns of the
+cables included in such sheath that constitute Excluded
+ Assets, referred to herein as "Hawaii Owners") sharing the
+cost of such maintenance contract with Purchaser on a per-
+fiber basis. 
+(Bold emphasis added). 
+TWTC, on the other hand, contends that the TWT-GST APA
+ 
+clearly states that third-party rights are not intended under the
+ 
+agreement. TWTC relies on Section 11.10 of the TWT-GST APA,
+ which states in relevant part: "Nothing in this Agreement,
+express or implied, is intended to confer upon any person not a
+party to this Agreement any rights or remedies of any nature
+ 
+24
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+whatsoever under or by reason of this Agreement." (Emphasis
+ 
+added.) 
+For purposes of construing a contract, Delaware law
+ 
+provides:
+ 
+The Court first reviews the language of the contract to
+determine if the intent of the parties can be ascertained
+from the express words chosen by the parties or whether the
+terms of the contract are ambiguous. Unless the contract
+ language is ambiguous, extrinsic evidence may not be used to
+interpret the intent of the parties, to vary the terms of
+the contract or to create an ambiguity. The Court, however,
+cannot conclude that a contract is ambiguous unless it is
+reasonably or fairly susceptible of different
+interpretations or may have two or more different meanings.
+Once the Court determines that the language is ambiguous,
+then all objective extrinsic evidence is considered: the
+overt statements and acts of the parties, the business
+context, prior dealings between the parties, and other
+business customs and usage in the industry. The Court, of
+course, must construe the contract . . . as a whole to
+reconcile, if possible, all of its provisions.
+ 
+In re Explorer Pipeline Co., 781 A.2d 705, 713-14 (Del. Ch. 2001)
+ 
+(footnotes and internal quotation marks omitted); see also Rhone-
+Poulenc Basic Chems. Co. v. Am. Motorists Ins. Co., 616 A.2d
+ 1192, 1196 (Del. 1992).
+ 
+PLNI argues that Section 11.10 of the TWT-GST APA is a
+ 
+general boilerplate provision, and that the more specific
+ language in Section 6.8 that benefits GST's successors or assigns
+ prevails over the boilerplate provision. PLNI cites DCV
+ Holdings, Inc. v. ConAgra, Inc., 889 A.2d 954, 961 (Del. 2005),
+ which states: "Well-settled rules of contract construction
+ require that a contract be construed as a whole, giving effect to
+ the parties' intentions. Specific language in a contract
+ controls over general language, and where specific and general
+ provisions conflict, the specific provision ordinarily qualifies
+ the meaning of the general one." (Footnotes omitted.)
+ 
+TWTC counters in two main parts. First, relying on
+ 
+Kronenberg v. Katz, 872 A.2d 568, 604 (Del. Ch. 2004), TWTC
+ asserts that where parties utilize language disclaiming any third
+ party rights, no intended third party rights are created. The
+ circuit court had relied on Kronenberg in rendering its decision. 
+25
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Second, TWTC contends that, in addition to requiring the intent
+ 
+of the contracting parties to benefit a third party, Delaware law
+ requires that conferring the benefit was a material part of the
+ contract. See Guardian Constr. Co. v. Tetra Tech Richardson,
+ 
+Inc., 583 A.2d 1378, 1386 (Del. Super. Ct. 1990) ("In order for
+ third-party beneficiary rights to be created, not only is it
+ necessary that performance of the contract confer a benefit upon
+ a third person that was intended, but the conferring of the
+ beneficial effect on such third-party, whether it be creditor or
+ donee, should be a material part of the contract's purpose.")
+ (citation omitted).
+ 
+On the narrow question before us of whether the circuit
+ 
+court erred in concluding that PLNI was not an intended third-
+party beneficiary of the TWT-GST APA, we are unconvinced by any
+ of the above arguments, or the evidence presented below, that
+ summary judgment is appropriate for either side. As to PLNI's
+ argument, the language in Section 6.8 is certainly more specific
+ to maintenance of the cables and appears to require TWT Inc. to
+ provide maintenance for cables it does not own, subject to GST or
+ GST's successors or assigns sharing the cost of the referenced
+ maintenance contract on a per-fiber basis. However, given the
+ indirect manner in which Section 6.8 is constructed, it does not
+ necessarily, in and of itself, specifically evidence an intent to
+ confer a benefit on GST's successors or assigns.
+ 
+As to TWTC's arguments, Kronenberg is distinguishable
+ 
+because, although the agreement in that case contained a
+ provision excluding third-party rights, the agreement did not
+ contain an arguably conflicting provision, like Section 6.8 in
+ this case. Further, with regard to TWTC's reliance on Guardian
+ Const. Co. and whether conferring of a benefit on third parties
+ was a material part of the TWT-GST APA, from our reading of the
+ agreement this is not an issue that can be resolved by looking
+ solely at the language of the TWT-GST APA.
+ 
+We thus conclude that it cannot be ascertained from the
+ 
+express language of the TWT-GST APA whether TWT Inc. and GST
+ 
+26
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+intended to confer a benefit on GST's successors or assigns
+ 
+related to cable maintenance. Likewise, looking solely to the
+ agreement, it is unclear whether conferring a benefit on GST's
+ successor or assigns was a material part of the agreement. The
+ TWT-GST APA is ambiguous given the apparently conflicting
+ provisions of Section 6.8 and Section 11.10.
+ 
+Looking to the extrinsic evidence in the record, there
+ 
+is uncontested evidence that Section 6.8 was intended to obligate
+ TWT Inc. related to GST's successors or assigns. The declaration
+ of Tina Davis, a Senior Vice President and Deputy General Counsel
+ of TWT Inc. who participated in negotiating and drafting the TWT­GST APA, states with regard to Section 6.8:
+ 
+It was never the parties' intent that TWTC would be
+obligated to execute a separate maintenance agreement for
+the 12 fibers that TWTC was not purchasing. The intent was
+ 
+that TWTC would only be obligated with respect to
+maintenance of the 12 fibers it was not purchasing if GST,
+its successors or assigns, agreed to share the cost of the
+assumed maintenance contract (i.e., the HIFN System
+Contract) on a per-fiber basis.
+ 
+(Emphasis added.) Thus, TWTC's own evidence establishes that
+ 
+there is no genuine issue of material fact that the contracting
+ parties intended to confer a benefit on GST's successors or
+ assigns for the cables.
+11 It is also uncontested in the record
+ 
+that PLNI obtained ownership of the remaining 12 fibers that were
+ once owned by GST, and PLNI is thus a successor to GST.
+ 
+On the question of whether conferring a benefit on
+ 
+GST's successors or assigns was a material part of the agreement,
+ there is no evidence directly on this point in the record. There
+ is evidence that at the time the TWT-GST APA was entered into in
+ September 2000, GST was in bankruptcy and still owned the other
+ 12 fibers/cables. In these circumstances, it is reasonable to
+ infer that GST would want to benefit its successors and assigns
+ under Section 6.8 in order to assist GST in selling the remaining
+ fibers/cables. However, there is nothing in the record
+ 
+11 The scope of the intended benefit is not an issue on appeal and we
+do not address it.
+ 
+27
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+addressing whether conferring this benefit was a material part of
+ 
+the contract.
+ 
+We thus conclude that the circuit court erred in
+ 
+granting partial summary judgment to TWTC on the cable
+ maintenance claims based on PLNI's lack of standing under the
+ TWT-GST APA. Based on our de novo review, there is no genuine
+ issue of material fact that PLNI is a successor of GST regarding
+ ownership of 12 cables in the HIFN and there was an intent by the
+ parties to the TWT-GST APA to benefit such a successor. There
+ still remain, however, genuine issues of material fact as to
+ whether the conferring of a benefit on GST's successor under
+ Section 6.8 was a material part of the TWT-GST APA. Thus, PLNI
+ also is not entitled to summary judgment on the standing issue.
+V. Attorneys' Fees and Costs
+ 
+We review a trial court's grant or denial of attorneys' 
+fees and/or costs under the abuse of discretion standard. TSA 
+Int'l v. Shimizu Corp., 92 Hawai' i 243, 253, 990 P.2d 713, 723 
+(1999); Pulawa v. GTE Hawaiian Tel., 112 Hawai' i 3, 10-11, 143 
+P.3d 1205, 1212-13 (2006). 
+In this case, the Final Judgment was entered on
+ 
+December 12, 2007. On December 20, 2007, TWTC timely filed,
+ 
+inter alia its Motion for Fees/Costs. On January 11, 2008, PLNI
+ filed a Notice of Appeal from the Final Judgment while the Motion
+ for Fees/Costs was pending.
+ 
+On March 14, 2008, a minute order was issued by the
+ 
+court clerk with respect to TWTC's Motion for Fees/Costs
+ indicating, inter alia, that fees and costs were granted in the
+ total amount of $197,518.98.
+ 
+Subsequently, the ninetieth day after the filing of
+ 
+TWTC's Motion for Fees/Costs passed, on March 19, 2008, without
+ the circuit court filing a written order disposing of the motion.
+ 
+Thereafter, on April 1, 2008, the circuit court issued
+ 
+a written order granting in part and denying in part TWTC's
+ Motion for Fees/Costs. Fees and costs were granted for
+ "Preliminary Injunction Proceedings Based on or Arising Out of
+ 
+28
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Alleged Breach of Contract" in the amount of $48,992.18 for fees
+ 
+and $1,830.54 for costs (for a subtotal of $50,822.72). Fees and
+ 
+costs were also granted "Regarding the HIFN System" in the amount
+ of $139,435.86 for fees and $7,260.40 for costs (for a subtotal
+ of $146,696.26). The total amount awarded was thus $197,518.98.
+ HRAP Rule 4(a)(3) provides in relevant part that:
+ 
+If any party files a timely motion for . . . attorney's fees
+or costs, the time for filing the notice of appeal is
+extended until 30 days after entry of an order disposing of
+the motion; provided, that the failure to dispose of any
+motion by order entered upon the record within 90 days after
+the date the motion was filed shall constitute a denial of
+ the motion.
+ 
+The notice of appeal shall be deemed to appeal the
+disposition of all post-judgment motions that are timely
+filed after entry of the judgment or order.
+ 
+(Emphasis added.)
+ 
+Here, TWTC timely filed its Motion for Fees/Costs on 
+December 20, 2007. See HRCP 54(d). The court clerk issued a 
+minute order on March 14, 2008, which is part of the record on 
+appeal. See HRAP 10(a); Rule 2.20 and Rule 4 of the Hawai' i Court 
+Records Rules. However, HRAP Rule 4(a)(5) provides that an order "is entered when it is filed in the office of the clerk of the court." The March 14, 2008 minute order was not filed in the office of the clerk of the circuit court, as it does not have any file-stamp affixed thereto. More importantly, "[t]hough the substance of the court's decision is captured in the minutes of court proceedings kept by the clerk who attended the hearing, they do not substitute for the requisite written document; they are merely 'prepared for [the court's] own use.'" State v. 
+English, 68 Haw. 46, 52, 705 P.2d 12, 16 (1985) (quoting Rule 27 of the Rules of the Circuit Courts of the State of Hawai' i); 
+Glover v. Grace Pac. Corp., 86 Hawai' i 154, 162, 948 P.2d 575, 583 
+(App. 1997). Therefore, the minute order was not an order entered for purposes of disposing of the Motion for Fees/Costs. 
+The circuit court thus did not enter an order on the
+ 
+record disposing of the Motion for Fees/Costs by March 19, 2008,
+ ninety days after the filing of the motion, and the motion was
+ 
+29
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+deemed denied by operation of HRAP Rule 4(a)(3). See Cnty. of 
+Haw. v. C&J Coupe Family Ltd. P'ship, 119 Hawai' i 352, 367, 198 
+P.3d 615, 630 (2008). Thereafter, on April 1, 2008, the circuit 
+court entered its order purporting to grant in part and deny in part TWTC's Motion for Fees/Costs. By operation of HRAP Rule 4(a)(3), however, the April 1, 2008 order is a nullity. 
+With respect to the disposition of the Motion for
+ 
+Fees/Costs, both PLNI and TWTC focus the bulk of their arguments
+ on appeal on the substance of the circuit court's null April 1,
+ 2008 order. In the alternative, TWTC contends that the circuit
+ court erred in failing to issue a written order within the
+ ninety-day period and this error should be corrected by this
+ court by awarding TWTC its full attorneys' fees and costs.
+ 
+Because the April 1, 2008 order is a nullity, we will 
+not address the parties' points of error related to that document. Moreover, because the circuit court did not issue an order disposing of the Motion for Fees/Costs within ninety days, the motion is deemed denied by operation of HRAP 4(a)(3). In analogous circumstances, the Hawai' i Supreme Court in C&J Coupe 
+Family Ltd. P'ship ruled that, because the circuit court had not issued an order, the basis for the deemed denial of the motion in that case was "indeterminable" and no record existed as to the circuit court's assessment of the motion. 119 Hawai' i at 367, 198 
+P.3d at 630. The supreme court remanded the issue back to the circuit court. Id. at 368, 198 P.3d at 631. 
+In this case, we conclude likewise that there is no
+ 
+record of the circuit court's assessment of TWTC's Motion for
+ Fees/Costs and that remanding those issues is appropriate. We
+ note moreover that, given our rulings in this appeal (i.e., the
+ ruling on the cable maintenance claims), TWTC's claims for
+ attorneys' fees and costs may have been substantively affected. 
+Therefore, although TWTC's previously filed Motion for Fees/Costs
+ is deemed denied, on remand the parties may assert or re-assert
+ their claims for attorneys' fees and costs without prejudice from
+ the deemed denial of TWTC's prior motion.
+ 
+30
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+VI. Conclusion
+ 
+Based on the foregoing, the circuit court's Final
+ 
+Judgment entered on December 12, 2007 is affirmed in part and
+ 
+vacated in part as follows:
+ 
+(1) We affirm the circuit court's dismissal of the
+ 
+Feature Group D claims based on the primary jurisdiction
+ doctrine;
+ 
+(2) We vacate the jury verdict on the Feature Group D
+ 
+claims and likewise vacate the circuit court's stay of the jury
+ verdict on the Feature Group D claims; and
+ 
+(3) We vacate the circuit court's entry of judgment in
+ 
+favor of TWTC and against PLNI related to the cable maintenance
+ claims which was based on the circuit court's orders dated
+ June 15, 2007, granting TWTC's motion for partial summary
+ judgment and denying PLNI's motion for partial summary judgment.
+ 
+Further, we remand to the circuit court the issues 
+related to TWTC's claims for attorneys' fees and costs. 
+This case is remanded to the circuit court for further 
+proceedings consistent with this Memorandum Opinion. 
+DATED: Honolulu, Hawai' i, January 25, 2013. 
+On the briefs:
+ 
+J. Douglas Ing
+Brian A. Kang
+Emi L. M. Kaimuloa (Watanabe Ing LLP)
+for Defendants-Appellees/
+Cross-Appellants
+ Presiding Judge
+Associate Judge
+Associate Judge
+ Margery S. Bronster
+Rex Y. Fujichaku
+(Bronster Hoshibata)
+for Plaintiff-Appellant/
+Cross-Appellee 
+31
+ 

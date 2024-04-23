@@ -1,0 +1,1016 @@
+-----------------------------------------------------------------*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+Electronically Filed 
+Supreme Court SCWC-28314 04-OCT-2011 02:47 PM 
+IN THE SUPREME COURT OF THE STATE OF HAWAI
+'I 
+---O0O--­
+CHUNG MI AHN,
+Respondent/Claimant/Appellant/Appellee-Appellee,
+ 
+vs. 
+LIBERTY MUTUAL FIRE INSURANCE COMPANY,
+Petitioner/Respondent/Appellee/Appellant-Cross-Appellee, 
+and
+ 
+GORDON I. ITO,1
+ Insurance Commissioner, 
+Department of Commerce and Consumer Affairs,
+Respondent/Appellee/Appellee-Cross-Appellant.
+(SCWC NO. 28314)
+KEE SUN KIM,
+Respondent/Claimant/Appellant/Appellee-Appellee, 
+vs.
+ 
+LIBERTY MUTUAL FIRE INSURANCE COMPANY,
+Petitioner/Respondent/Appellee/Appellant-Cross-Appellee, 
+and
+ 
+GORDON I. ITO, Insurance Commissioner,
+Department of Commerce and Consumer Affairs,
+Respondent/Appellee/Appellee-Cross-Appellant.
+(SCWC NO. 28315)
+ 
+1
+ During the pendency of this action, Gordon I. Ito (Ito or
+Insurance Commissioner Ito) succeeded J.P. Schmidt (Schmidt, Insurance
+Commissioner, or Insurance Commissioner Schmidt) as Insurance Commissioner.Therefore, pursuant to Hawai' i Rules of Appellate Procedure (HRAP) Rule
+43(c)(1) (2010), Ito has been substituted for Schmidt. *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS
+ 
+(ICA NO. 28314 (CIV. N0. 05-1-2265) and
+ICA NO. 28315 (CIV. NO. 06-1-0994))
+ 
+OCTOBER 4, 2011
+ 
+NAKAYAMA, ACTING C.J., ACOBA, DUFFY, AND MCKENNA, JJ., AND
+CIRCUIT JUDGE CHANG, IN PLACE OF RECKTENWALD, C.J., RECUSED
+ 
+OPINION OF THE COURT BY MCKENNA, J.
+ 
+I. SUMMARY
+ 
+In Wilson v. AIG Hawaii Ins. Co., 89 Hawai 'i 45, 50-51, 968 
+P.2d 647, 652-53 (1998), we held that unless an insurer’s non­
+2
+payment of personal injury protection (PIP) benefits  jeopardizes
+an insured’s ability to reach the minimum amount of medical
+ 
+3
+expenses required to file a tort lawsuit,  insureds are not “real
+parties in interest” allowed to pursue lawsuits seeking payment
+ of PIP benefits to providers. Although a statute expressly gave
+ insureds the right to seek court review of PIP denials, we
+ concluded that insureds do not have legal rights under
+ 
+2
+ PIP benefits are currently defined by Hawai' i Revised Statutes 
+(HRS) § 431:10C-103.5, and generally refer to expenses for treatment of
+physical and psychological injuries caused by motor vehicle accidents. The underlying facts in Wilson occurred before the Legislature’s 1997 overhaul ofthe no-fault law, in which the Legislature removed PIP benefits from thedefinition of no-fault benefits under HRS § 431:10C-103(10)(A), and createdthe new section HRS § 431:10C-103.5. See generally 1997 Haw. Sess. Laws Act
+251, §§ 2 and 13 at 520-25; see Wilson, 89 Hawai' i at 48-49, 968 P.2d. 650-51,
+for the prior definition of “no-fault benefits,” which also included wage lossand other benefits. The terms PIP benefits and no-fault benefits are used interchangeably in this opinion. 
+3
+ This amount, which changes, is commonly referred to as the “tort
+threshold.”
+ 
+-2­*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+substantive law to enforce payment of PIP benefits to providers 
+See 89 Hawai 'i at 48, 968 P.2d at 650. We also stated that 
+“preservation of the integrity of the therapeutic relationship between physician and patient” was merely an “altruistic concern,” because PIP benefit laws insulated an insured from the billing and payment process. 89 Hawai
+'i at 50, 968 P.2d at 652. 
+Due to developments after Wilson, “cogent reasons and
+ 
+inescapable logic” compel us to overrule its holding, and we now
+ hold that insureds are real parties in interest in actions
+ against insurers regarding PIP benefits.
+ 
+II. BACKGROUND OF THE LAW
+ 
+An explanation of Wilson and its progeny, as well as 
+of Act 198 of 2006, is provided for a better understanding of our
+ 
+analysis. 
+A. Wilson and Its Progeny
+ 
+1. Wilson v. AIG Hawaii Ins. Co.
+ 
+In Wilson, AIG Hawaii Insurance Company (AIG) denied a no-
+fault claim for surgical treatment based on a peer review 
+organization (PRO) report concluding the treatment was neither appropriate nor reasonable. 89 Hawai
+'i at 46, 968 P.2d at 648. 
+Wilson brought suit in the District Court of the First Circuit (district court) based on the then existing PRO statute, HRS § 
+-3­*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+4
+431:10C-308.6(f),  which expressly provided that “any insured or
+provider may . . . seek an administrative hearing, arbitration,
+ 
+or court review of a denial of no-fault benefits based, in whole
+ or in part, upon a peer review organization determination.” Id.
+ 
+(some emphasis in original). 
+Despite the statute, AIG moved for summary judgment based on
+ 
+arguments that (1) Wilson lacked standing to pursue payment of
+ medical bills to her provider; and (2) that the controversy was
+ moot because there was no effective remedy because Wilson bore no
+ liability under the law for payment of the provider’s services. 
+See id. 
+We acknowledged that HRS § 431:10C-308.6(f) expressly gave 
+Wilson the right to seek court review of AIG’s denial of PIP benefits, but noted her admission that she was “effectively bringing the action for the benefit of her primary treating physician.” 89 Hawai
+'i at 48, 968 P.2d at 650. We agreed with 
+the ICA that the issue was not whether Wilson had standing, but whether she was a real party in interest pursuant to District 
+4
+ HRS § 431:10C-308.6(f) provided, in pertinent part:
+(f) An insurer, provider, or insured may request a
+reconsideration by the peer review organization of its
+initial determination . . . . Any insured or provider may,
+in addition to or in lieu of reconsideration, seek an
+administrative hearing, arbitration, or court review of a
+denial of no-fault benefits based, in whole or in part, upon
+a peer review organization determination.
+(Emphasis added). HRS § 431:10C-308.6 was repealed in 1998. See 1997
+ 
+Haw. Sess. Laws Act 251, § 59 at 551. The PRO system was repealed
+because it had “become expensive and time consuming,” and had “resulted
+in litigation between insureds and their insurance companies.” See H.
+ 
+Stand. Comm. Rep. No. 250, in 1997 House Journal, at 1211.
+ 
+-4­*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+Court Rules of Civil Procedure (DCRCP) Rule 17(a).5 89 Hawai 'i 
+at 47-48, 968 P.2d at 649-50.
+ 
+DCRCP Rule 17(a) provided then, as it does now: 
+(a) Real Party in Interest.  Every action shall be
+prosecuted in the name of the real party in interest; except
+that (1) . . . a party authorized by statute may sue in such
+party’s own name without joining with such party the party
+for whose benefit the action is brought[.]
+ 
+Because HRS § 431:10C-308.6(f) expressly gave Wilson the
+ 
+right to pursue court action, based on the clear language of
+ DCRCP Rule 17(a), the ICA had deemed Wilson a real party in
+ interest.
+6
+ 
+Despite the language of DCRCP Rule 17(a), however, we stated
+ 
+that the inquiry could not end there. See 89 Hawai 'i at 48, 968 
+P.2d at 650. We stated, “to qualify as a real party in interest,
+ a party must also have a legal right under substantive law to
+ enforce the claim in question.” Id.
+ 
+We then discussed HRS §§ 431:10C-304(1)(A) and (1)(B),
+7
+ 
+5
+ In discussing “real party in interest” analysis, we referred to
+the ICA’s decision in Lagondino v. Maldonado, 7 Haw. App. 591, 789 P.2d 1129
+(1990). See Wilson, 89 Hawai' i at 47-48, 968 P.2d at 649-50. 
+6
+ Wilson v. AIG Haw. Ins. Co., No. 20349, slip op. (App. Oct. 16, 
+1997) (depublished by Wilson, 89 Hawai' i at 51, 968 P.2d at 653). 
+7
+ When suit was commenced in Wilson, HRS §§ 431:10C-304(1)(A) and
+ 
+(1)(B) read as follows:
+Obligation to pay no-fault benefits. Every no-fault
+insurer shall provide no-fault benefits for accidental harm
+as follows:
+ 
+(1) Except as otherwise provided in section 431:10C­
+305(d):
+ (A) In the case of injury arising out of a motor
+vehicle accident, the insurer shall pay, without
+regard to fault, to the following persons who
+sustain accidental harm as a result of the
+ 
+-5­*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+pursuant to which insurers are required to pay medical expenses
+ 
+directly to providers. 89 Hawai 'i at 48-49, 968 P.2d at 650-51. 
+We noted that under HRS § 431:10C-304(1), an insurer is obligated
+ to make direct payment to the insured only for wage loss,
+ expenses incurred as a result of accidental harm, funeral
+ 
+operation, maintenance or use of the vehicle, an
+amount equal to the no-fault benefits payable
+for wage loss and other expenses to that person
+under section 431:10C-103(10)(A)(iii) and (iv)
+as a result of the injury:
+(i) 	Any person, including the owner, operator,
+occupant, or user of the insured motor
+vehicle;
+(ii) 	Any pedestrian (including bicyclist); or
+(iii) Any user or operator of a moped as defined
+in section 249-1;
+(B) In the case of injury arising out of a motor
+vehicle accident, the insurer shall pay, without
+regard to fault, to a provider of services on
+behalf of the persons listed in item (1)(A)
+charges for services covered under section
+431:10C-103(10)(A)(i) and (ii)[.]
+HRS § 431:10C-103(10)(A)(i) and (ii) related to medical and rehabilitation
+ expenses. In 1997, HRS § 431:10C-304 was amended and the language of HRS §
+431:10C-304(1)(B) was inserted in HRS § 431:10C-304(1). See 1997 Haw. Sess.
+ 
+Laws Act 251, § 41 at 538-39 (effective January 1, 1998). HRS § 431:10C-304
+now reads, in pertinent part, as follows:
+Obligation to pay personal injury protection benefits.
+. . . Every personal injury protection insurer shall provide
+personal injury protection benefits for accidental harm as
+follows:
+ 
+(1)	 Except as otherwise provided in section 431:10C­305(d), in the case of injury arising out of a
+motor vehicle accident, the insurer shall pay,
+without regard to fault, to the provider of
+services on behalf of the following persons who
+sustain accidental harm as a result of the
+ operation, maintenance, or use of the vehicle,
+an amount equal to the personal injury
+protection benefits as defined in section
+431:10C-103.5(a) payable for expenses to that
+person as a result of the injury:
+(A) Any person, including the owner, operator,
+occupant, or user of the insured motor
+vehicle;
+(B) Any pedestrian (including a bicyclist); or
+(C) Any user or operator of a moped as defined
+in section 249-1; . . .
+HRS § 431:10C-304 (2000). No substantive changes were made to HRS § 431:10C­304 (1)(A)-(C) when HRS Chapter 431:10C was amended in 1998 and 2000.
+ 
+-6­*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+services, and attorney’s fees and costs.8 See 89 Hawai 'i at 49, 
+968 P.2d at 651. We pointed out that H.R.S. § 431:10C-304(1) 
+does not confer upon an insured the right to receive payment of medical benefits on behalf of one’s provider, but rather designates billing and payment of medical expenses to flow between insurer and provider. See id. We noted that the insured 
+plays no role in this process. See id. We also cited HRS §§ 
+9 10
+ 431:10C-308.5(e)  and 431:10C-308.6(j)(1993), which prohibited a
+ 
+provider from collecting payment of medical services from an
+ insured. See id. 
+We concluded, “viewing these statutes in pari materia,[ 
+11
+] 
+. . . it is clear that the no-fault law does not allow an insured to enforce a claim for unpaid medical expenses against an insurer on behalf of his or her provider[;]” rather, we stated, “[t]he no-fault statutory scheme strongly suggests that the provider, not the insured, is entitled to pursue payment from the insurer for the cost of unreimbursed medical services to the insured.” 89 Hawai
+'i at 49-50, 968 P.2d at 651-52. Accordingly, we held 
+8
+ These provisions have been moved from HRS § 431:10C-304(1), and
+HRS §§ 431:10C-302(2), (4), and (5) now provide optional coverage for wage
+loss, funeral expenses, and other expenses. See HRS § 431:10C-302 (1998).
+Attorney’s fees are now addressed in HRS § 431:10C-211. 
+9
+ Now HRS § 431:10C-308.5(f).
+ 
+10
+ Repealed in 1998. See 1997 Haw. Sess. Laws Act 251, § 59 at 551.
+ 
+11
+ HRS § 1-16 provides, as it did in 1998:
+Laws in pari materia.  Laws in pari materia, or upon
+the same subject matter, shall be construed with reference
+to each other. What is clear in one statute may be called
+in aid to explain what is doubtful in another.
+ 
+-7­*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+that Wilson was not a real party in interest with respect to her 
+claim against AIG for no-fault benefits to satisfy her provider’s unpaid bill. See 89 Hawai
+'i at 50, 968 P.2d at 652. 
+In so holding, we reversed the ICA’s holding that Wilson was 
+a real party in interest. See 89 Hawai 'i at 51, 968 P.2d at 653. 
+We opined that the ICA’s concerns regarding the insured’s continuing relationship with the provider, and her personal interest in having the insurer pay the provider, were merely altruistic. See 89 Hawai
+'i at 50, 968 P.2d at 652. 
+2. Gamata v. Allstate Ins. Co.
+ 
+Wilson was decided while the appeal in Gamata v. Allstate 
+Ins. Co., 90 Hawai 'i 213, 978 P.2d 179 (App. 1999) was pending. 
+In Gamata, Allstate Insurance Company (Allstate) denied continued PIP benefits based on a medical opinion that the insured’s continued complaints were not caused by the accident. See 90 
+Hawai
+'i at 215, 978 P.2d at 181. Gamata brought suit pursuant to 
+12
+HRS § 431:10C-314  in district court, claiming that Allstate
+violated its statutory and contractual duties to provide no-fault benefits. See id. After filing his complaint, Gamata received 
+and paid for the contested treatment despite Allstate’s denial. See 90 Hawai
+'i at 214, 978 P.2d at 180. 
+The ICA vacated and remanded the district court’s ruling
+ 
+12
+ HRS § 431:10C-314 provides, as it did in 1999:
+Jurisdiction. Any person may bring suit for breach of
+any contractual obligation assumed by an insurer under a
+policy of insurance containing such mandatory or optional
+provisions in any state court of competent jurisdiction.
+ 
+-8­*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+affirming Allstate’s denial because the court had applied an 
+incorrect legal standard.13 90 Hawai 'i at 220-22, 978 P.2d at 
+186-88. Due to Wilson, however, the ICA ruled that any payments made by Gamata to the provider must, “as a logical consequence, be returned to [Gamata].
+”14 90 Hawai 'i at 224, 978 P.2d at 190. 
+In addition, the ICA ruled that if the provider sought reimbursement, he had to become a party plaintiff. See id. 
+3. Dacanay v. Liberty Mut. Ins. Co.
+ 
+In Dacanay v. Liberty Mut. Ins. Co., 108 Hawai
+'i 393, 396, 
+120 P.3d 1128, 1131 (App. 2005), Dacanay initiated proceedings with the Insurance Commissioner pursuant to HRS § 431:10C-212, after Liberty Mutual Insurance Co. (Liberty Mutual) refused to pay several claims for PIP benefits submitted by providers who had treated him after an automobile accident. Liberty Mutual 
+then reached settlement with the providers. See 108 Hawai' i at 
+395, 120 P.3d at 1130. When Dacanay requested attorney’s fees
+ 
+and costs, however, Liberty Mutual asserted, in light of Wilson
+ and Gamata, that Dacanay was not a real party in interest and was
+ therefore not entitled to an award of attorney’s fees and costs. 
+See 108 Hawai' i at 396, 120 P.3d at 1131. 
+13
+ The district court had affirmed Allstate’s denial on the basis 
+that it considered the treatment “palliative” rather than “curative,” not
+“whether the expenses were appropriate, reasonable, and necessarily incurred.”Gamata, 90 Hawai' i at 220-22, 978 P.2d at 186-88. 
+14
+ The ICA also cited to this court’s statement in Gov’t Emp. Ins. 
+Co. v. Hyman, 90 Hawai' i 1, 7, 975 P.2d 211, 217 (1999) that “the insured has
+a right to receive treatment of injuries, [while] the provider has a right toreceive payment for treatment rendered.” (Brackets in original.) 
+-9­*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+The ICA declined to address the real party in interest
+ 
+issue, deeming its resolution unnecessary. See 108 Hawai 'i at 
+399, 120 P.3d at 1134. Based on its review of the record, the
+ 
+ICA concluded that Liberty Mutual had waived any objections to
+ Dacanay’s status as a real party in interest.
+15 See id.
+ 
+The ICA stated in dicta, however, that unlike Wilson and
+ 
+Gamata, which involved lawsuits filed in district court, Dacanay
+ stemmed from an administrative proceeding, and thus, DCRCP Rule
+ 17 did not appear applicable.
+16 See id.
+ 
+B. Act 198 of 2006
+ 
+1. Circumstances Leading to Act 198
+ 
+15
+ The circumstances the ICA considered when concluding that Liberty
+Mutual had waived any objection included that Liberty Mutual (1) addressed its
+denial of Dacanay’s health providers’ claims directly to Dacanay and
+specifically alerted her to the option of seeking an administrative review, if
+she wished to challenge the denials; (2) did not object to Dacanay’s status as
+a real party in interest when she sought review by the Commissioner; (3)
+settled the claims with Dacanay’s providers; (4) stipulated with Dacanay that
+the dispute relating to the denials had been resolved; (5) stipulated to the
+dismissal of Dacanay’s claims before the Commissioner for the denied PIP
+benefits; and (6) only questioned Dacanay’s status as a real party in interest
+after she sought an award of attorney’s fees and costs and it was too late for
+her to substitute her health care providers as the real parties to her case.
+See 108 Hawai' i at 400, 120 P.3d at 1135. 
+16
+ Because we overrule Wilson, we do not address a question raised by 
+the insureds in these cases but not addressed by the ICA: whether the real
+party interest holding, which is based on DCRCP Rule 17(a), is applicable toadministrative proceedings. One of the purposes of administrative remedies isto enable parties to resolve disputes in a less cumbersome and expensivemanner than normally encountered in a trial in court. 2 Am. Jur. 2d Administrative Law § 4. Based on Hawai' i Administrative Rules (HAR) § 16-201­
+1, however, which provides that “[w]henever this chapter is silent on amatter, the authority or hearings officer may refer to the Hawaii Rules ofCivil Procedure for guidance,” Insurance Commissioner Schmidt’s Final Ordersapplied Wilson’s real party in interest holding to these insureds. Althoughwe do not decide the issue, we note that “[i]t is axiomatic that anadministrative rule cannot contradict or conflict with the statute it attemptsto implement[,]" Kaleikini v. Thielen, 124 Hawai' i 1, 33, 237 P.3d 1067, 1099
+(2010) (Acoba, J., concurring) (citation omitted), and HRS § 431:10C-212expressly gives insureds the right seek to administrative review. 
+-10­*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+Act 198 was triggered by our holding in Orthopedic Assocs.
+ 
+of Haw., Inc. v. Haw. Ins. & Guar. Co., Ltd., 109 Hawai 'i 185, 
+124 P.3d 930 (2005). This case involved the “down-coding” of
+ 
+bills submitted by providers to PIP insurers: 
+Between January 1, 1993 and December 31, 1999, each of the
+providers submitted bills to one or more of the insurers for
+non-emergency treatments rendered to thousands of personal
+injury protection (PIP) insureds allegedly injured in motor
+vehicle accidents. The insurers were obligated to pay
+appropriate PIP benefits under HRS chapter 431:10C on behalf
+of their insureds. . . . The insurers, however, rather than
+pay the bills as submitted, or deny the claim (in whole or
+in part), altered the treatment code because they believed
+that, "based on the available information, the services
+rendered appear to be best described by [a different medical
+treatment] code." The resulting effect of changing the
+treatment codes was a reduction in the payment for the
+service rendered, which the parties generally refer to as
+"down-coding." The insurers, thus, (1) paid the bills
+pursuant to the adjusted treatment codes and (2) offered to
+negotiate with the providers as to the unpaid portions.
+ 109 Hawai 'i at 191, 124 P.3d at 936 (footnote omitted). 
+We held:
+ 
+In light of the unambiguous mandatory language of HRS §
+431:10C-304(3)(B), an insurer is required to provide written
+notice of its denial--in whole or in part--of the claim for
+benefits. Written notice to the claimant is required where
+the denial or partial denial relates to the treatment
+service and/or the charges therefor. Where the denial or
+ partial denial involves treatment services, the insurer must
+also provide written notice to the provider. 
+109 Hawai 'i at 196, 124 P.3d at 941. 
+Before Orthopedic Associates, HRS § 431:10C-304(3)(B), which
+ 
+requires that an insurer mail denial notices in triplicate to the
+ 
+claimant, and mail another copy to the provider, was followed by
+ insurers only for complete denials of a provider’s PIP billing. 
+This holding, however, required that such notices be mailed any
+ 
+-11­     "(e)      In the event of a dispute between the provider
+ 
+and the insurer over the amount of a charge or the correct
+fee or procedure code to be used under the workers'
+compensation supplemental medical fee schedule, the insurer
+shall:
+ 
+      *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+time an insurer partially denied a provider’s PIP billing.
+ 
+2. Text of Act 198 of 2006
+ 
+The Legislature responded to Orthopedic Associates through
+ 
+Act 198 of 2006. Act 198 provides as follows:
+ SECTION 1. The legislature notes that section 431:10C­
+308.5, Hawaii Revised Statutes, limits the charges for and
+frequency of medical treatment covered by personal injury
+protection (PIP) benefits. In accordance with this
+limitation on charges, the motor vehicle insurer has an
+obligation to limit payment of the insured's benefits for
+treatment.
+ The legislature finds that, as a result of the Hawaii
+Supreme Court's ruling in Orthopedic Associates of Hawaii,
+Inc. v. Hawaiian Insurance & Guaranty Co., Ltd., No. 24634,
+slip. op. (Dec. 7, 2005), insurers have implemented a
+process of issuing denials of benefits on all payments that
+are less than the amount billed. Some of the larger insurers
+are issuing several thousand denials each month. Copies of
+these denials are given to both the provider and the
+insured. This has prompted many calls from insureds who do
+not understand the process and are concerned that the
+insurer might be denying them access to medical treatment. 
+This Act is intended to clarify the process to be
+followed in any billing adjustment or dispute where an
+insurer receives and does not dispute the treatment rendered
+but finds the billing to exceed the permissible charges.
+This Act is not intended to affect the merits of the amount
+ billed or the amount owed under PIP. Specifically, this Act
+clarifies that any adjustments to payment of the amount
+billed is an acceptance of the treatment and not a denial of
+benefit. Therefore, section 431:10C-304(3), which requires a
+written denial of benefit, is not applicable to an
+adjustment to the amount payable under PIP benefits. Rather
+than issue a denial, this Act clarifies that the insurer's
+obligation is to "pay all undisputed charges" and "negotiate
+in good faith with the provider on the disputed charges."
+ 
+SECTION 2. Section 431:10C-308.5, Hawaii Revised
+Statutes, is amended by amending subsection (e) to read as
+follows:
+ 
+(1) Pay all undisputed charges within thirty days
+after the insurer has received reasonable proof of
+the fact and amount of benefits accrued and demand 
+for payment thereof; and
+ 
+(2) Negotiate in good faith with the provider on the
+   
+disputed charges for a period up to sixty days 
+-12­If the provider and the insurer are unable to resolve
+the dispute[,] after a period of sixty days pursuant to
+paragraph (2), the provider, insurer, or claimant may submit
+the dispute to the commissioner, arbitration, or court of
+competent jurisdiction. The parties shall include
+documentation of the efforts of the insurer and the provider
+to reach a negotiated resolution of the dispute. This
+section shall not be subject to the requirements of section
+431:10C-304(3) with respect to all disputes about the amount
+of a charge or the correct fee and procedure code to be used
+under the workers' compensation supplemental medical fee
+schedule. An insurer who disputes the amount of a charge or
+the correct fee or procedure code under this section shall
+not be deemed to have denied a claim for benefits under
+ section 431:10C-304(3); provided that the insurer shall pay
+what the insurer believes is the amount owed and shall
+ furnish a written explanation of any adjustments to the
+provider and to the claimant at no charge, if requested. The
+provider, claimant, or insurer may submit any dispute
+involving the amount of a charge or the correct fee or
+procedure code to the commissioner, to arbitration, or to a
+court of competent jurisdiction."
+ *** FOR
+ PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+after the insurer has received reasonable proof of
+the fact and amount of benefits accrued and demand 
+for payment thereof.
+ 
+SECTION 3. Statutory material to be repealed is
+bracketed and stricken. New statutory material is
+underscored.
+ 
+SECTION 4. This Act shall take effect upon its
+approval.
+ 
+2006 Haw. Sess. Laws Act 198, §§ 1-4 at 840-41 (effective June
+ 
+14, 2006). 
+III. BACKGROUND OF THESE CONSOLIDATED CASES
+ 
+A. Administrative 
+Proceedings
+ 
+These cases arose from Liberty Mutual Fire Insurance
+ 
+Company’s (Liberty Mutual) denial of PIP benefits to Chung Mi Ahn
+ (Ahn) and Kee Sun Kim (Kim) (collectively Insureds) for
+ treatments after motor vehicle accidents in 2004 and 2005. After
+ the denials, Insureds each sought administrative reviews with the
+ Insurance Division of the Department of Commerce and Consumer
+ Affairs (DCCA) pursuant to HRS § 431:10C-212, which allows
+ 
+-13­*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+insureds to seek administrative review of PIP denials. 
+Based upon our holding in Wilson, Liberty Mutual filed motions
+ 
+for summary judgment, contending that Insureds were not real
+ 
+parties in interest to pursue PIP benefits, and that the claims
+ had to be pursued directly by the providers. The Insurance
+ Commissioner’s Final Orders granting the motions were filed on
+ November 23, 2005, and May 12, 2006, respectively.
+ 
+B. Circuit Court Appeal
+ 
+Insureds appealed to the Circuit Court of the First Circuit
+ 
+(circuit court) pursuant to HRS § 91-14. After a consolidated
+ hearing in October of 2006, the circuit court concluded that Act
+ 198 of 2006, effective June 14, 2006, had “legislatively
+ overruled” Wilson. The circuit court concluded that Insureds
+ were real parties in interest to challenge Liberty Mutual’s
+ denials despite having reached the tort threshold. 
+C. ICA Appeal
+ 
+Both Liberty Mutual and the Insurance Commissioner appealed 
+the circuit court’s ruling to the ICA. In a published opinion in Kim v. Liberty Mut. Fire Ins. Co., 124 Hawai
+'i 415, 416, 245 P.3d 
+488, 489 (App. 2010), the ICA upheld the circuit court, stating: 
+In this appeal, we must determine the impact that Act 198
+and its legislative history have on Wilson v. AIG’s real­
+party-in-interest analysis. We conclude that the
+ Legislature, through Act 198 and its accompanying
+legislative history, has clarified its intent and the nature
+of an insured claimant’s interest in enforcing his or her
+medical provider’s claim for payment, such that Kim
+qualifies as a real party in interest. Accordingly, we hold
+that Kim is a real party in interest and is entitled to
+pursue her administrative action which challenged Liberty
+ 
+-14­*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+Mutual’s refusal to pay Kim’s medical provider for the
+acupuncture treatments provided to Kim. 
+The ICA analyzed our decision in Wilson, Act 198 of 2006, and the 
+legislative history of Act 198 in reaching this conclusion. See 
+generally 124 Hawai 'i at 418-24, 245 P.3d at 491-97. 
+The ICA then ruled in favor of Ahn through a summary
+ 
+disposition order based on its opinion in Kim. See Ahn v.
+ 
+Liberty Mut. Fire Ins. Co., No. 28314 (App. Jan. 25, 2011) (SDO). 
+D.	 Certiorari Applications
+ 
+Liberty Mutual filed applications for writs of certiorari in
+ 
+both cases.17 Liberty Mutual argues the ICA gravely erred in
+ 
+concluding that HRS § 431:10C-308.5(e), as amended by Act 198 of
+ 2006, conferred real party in interest status on Insureds. It
+ argues that the statute governs fee disputes, not complete
+ denials, and that the ICA’s decision conflicts with our holding
+ in Wilson. We accepted certiorari and consolidated the cases for
+ oral argument and disposition.
+ 
+IV. 	DISCUSSION
+ 
+A.	 Act 198 of 2006 is not retrospective; therefore, the
+ICA erred in affirming the circuit court’s reversal of
+the Insurance Commissioner’s Final Orders
+ 
+“Review of a decision made by a court upon its review of an
+ 
+17
+ Although Insurance Commissioner Schmidt appealed the circuit
+court’s consolidated decision to the ICA, Insurance Commissioner Ito did not
+file certiorari applications or responses, and at oral argument, counsel
+stated that Ito defers to our decision on the real party in interest issue.
+ 
+-15­administrative decision is a secondary appeal.” Brescia v. North 
+Shore Ohana, 115 Hawai 'i 477, 491, 168 P.3d 929, 943 
+(2007)(citations omitted). The standard of review is one in 
+which this court must determine whether the court under review, in this case the ICA, was right or wrong in its decision. See 
+id. (citation omitted). The standards as set forth in HRS § 91-14(g) (1993) are applied to the agency's decision. See id. 
+HRS § 91-14(g) provides: *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+(g) Upon review of the record the court may affirm the
+decision of the agency or remand the case with instructions
+for further proceedings; or it may reverse or modify the
+decision and order if the substantial rights of the
+petitioners may have been prejudiced because the
+administrative findings, conclusions, decisions, or orders
+are:
+ 
+....
+ (4) Affected by other error of law[.]
+ 
+Therefore, the ICA’s conclusion regarding the impact of Act 198
+ 
+on our holding in Wilson is a question of law reviewed under the
+ right/wrong standard of review. We now address whether the ICA’s
+ conclusion was right or wrong.
+ 
+Article VI, section 7 of the Hawai
+'i Constitution provides 
+that the "supreme court shall have power to promulgate rules . . . in all civil . . . cases for all courts relating to . . . procedure . . . , which shall have the force and effect of law." Wilson interpreted a rule of civil procedure inconsistently with a prior act of the legislature, HRS § 431:10C-308.6(f),
+18 which 
+18
+ See n.4,  supra.
+  
+-16­*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+provided that an insured could seek court review of a PIP denial. 
+Our procedural rule, DCRCP Rule 17(a), was actually consistent
+ with the statute, and provided that a party given a statutory
+ right of action is a real party in interest. We interpreted the
+ rule in the context of the no-fault statutory scheme, however,
+ and concluded that Wilson was not a real party in interest. In 
+general, when a conflict between two laws is irreconcilable, the
+ later enactment governs. See 73 Am. Jur. 2d Statutes § 169. 
+Therefore, Wilson’s holding prevailed over the statute.
+ 
+In these consolidated cases, the Insurance Commissioner’s
+ 
+Final Orders were issued well before the June 14, 2006 effective
+ date of Act 198 of 2006. Assuming Wilson’s interest holding
+ applied to administrative agencies,
+19 the Insurance Commissioner
+ 
+was required to follow it. Although the circuit court’s agency
+ appeal hearing took place in October 2006, after the effective
+ date of Act 198, pursuant to HRS § 91-14(g), the circuit court
+ sat as an appellate court reviewing an agency decision, and was
+ ruling on whether the Insurance Commissioner’s Final Orders were
+ correct under the law at the time of issuance. Likewise, the ICA
+ was then reviewing whether the circuit court’s decision was
+ correct under the law.
+ 
+Act 198 of 2006, however, was an enactment of the
+ 
+Legislature after Wilson. If, as concluded by the circuit court
+ and the ICA, Act 198 conferred real party in interest on the
+ 
+19
+ See n. 16, supra. 
+-17­   *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+Insureds, the Act would have had to have retrospective effect to
+ 
+be of benefit to these Insureds. 
+HRS § 1-3 governs whether a legislative enactment has
+ 
+retrospective effect, and provides:
+ 
+§1-3 Laws not retrospective.  No law has any
+retrospective operation, unless otherwise expressed or
+obviously intended.
+ 
+Although the Legislature could have expressed its intent to give
+ 
+Act 198 retrospective application, as noted above, Section 4 of
+ Act 198 of 2006 states that “(t)his Act shall take effect upon
+ its approval.” Therefore, the Act does not express an intent to
+ have retrospective application.
+ 
+The parties agreed that the Act had retrospective effect,
+ 
+but party agreements on questions of law are not binding on a
+ court. See Beclar Corp. v. Young, 7 Haw. App. 183, 190, 750 P.2d
+ 
+934, 938 (App. 1988) (citation omitted); see also State v.
+ Tangalin, 66 Haw. 100, 101, 657 P.2d 1025, 1026 (1983) (“[I]t is
+ well established that matters affecting the public interest
+ cannot be made the subject of stipulation so as to control the
+ court's action with respect thereto.") (Citation omitted.) 
+Therefore, Act 198 of 2006 was not effective until June 14,
+ 
+2006, after the Insurance Commissioner’s Final Orders.
+ Accordingly, the ICA erred in affirming the judgment of the
+ circuit court reversing the Commissioner’s Final Orders on the
+ basis of Act 198 of 2006.
+ 
+-18­ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+B. Wilson is overruled
+ 
+Although the ICA erred in affirming the circuit court, it
+ 
+correctly analyzed Act 198 of 2006 and its legislative history,
+ 
+which expounded upon the nature of an insured’s interest in
+ pursuing PIP benefits. Act 198 of 2006 and these consolidated
+ cases provide occasion for us to revisit our holding in 
+Wilson.
+ 
+We do not lightly overrule precedent. As we stated in State
+ 
+v.
+ Garcia, 96 Hawai 'i 200, 205-06, 29 P.3d 919, 924-25 (2001): 
+. . . The "policy of courts to stand by precedent and not to
+disturb settled points" is referred to as the doctrine of
+stare decisis, id. at 1406, and operates "as a principle of
+self-restraint . . . with respect to the overruling of prior
+decisions." Robinson v. Ariyoshi, 65 Haw. 641, 653 n.10,
+658 P.2d 287, 297 n.10 (1982). . . . The benefit of stare
+decisis is that it "furnishes a clear guide for the conduct
+of individuals, to enable them to plan their affairs with
+assurance against untoward surprise; . . . eliminates the
+need to relitigate every relevant proposition in every case;
+and . . . maintains public faith in the judiciary as a
+source of impersonal and reasoned judgments." Id. (citing
+Moragne v. States Marine Lines, Inc., 398 U.S. 375, 403, 26
+L. Ed. 2d 339, 90 S. Ct. 1772 (1970)).
+ 
+While "there is no necessity or sound legal reason to
+perpetuate an error under the doctrine of stare decisis[,]"id. (internal quotation marks and citation omitted), weagree with the proposition expressed by the United StatesSupreme Court that a court should "not depart from thedoctrine of stare decisis without some compellingjustification." Hilton v. South Carolina Pub. Ry. Comm’n,
+502 U.S. 197, 202, 116 L.Ed. 2d 560, 112 S. Ct. 560 (1991)
+(emphasis added). Cf. Dairy Road Partners v. Island Ins.
+Co., Ltd., 92 Hawai' i 398, 421, 992 P.2d 93, 116 (2000)
+(stating that "a court should not overrule its earlierdecisions unless the most cogent reasons and inescapablelogic require it") (internal quotation marks and citations
+omitted)). . . .
+ 
+(Emphasis added.)
+ 
+When we decided Wilson, the Legislature’s intent to allow
+ 
+insureds the right to bring court action to contest denials of
+ 
+PIP benefits, as evidenced by the plain language of the statutes,
+ 
+-19­*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+was clear.20 We concluded, however, that the PIP statutory
+ 
+scheme strongly suggested that only the provider, not the
+ 
+insured, was entitled to pursue PIP payments from the insurer.
+ 
+Various developments, however, compel us to revisit Wilson. 
+In this regard, although Act 198 of 2006 is not retrospective, it
+ may still be instructive. Liberty Mutual argues that, although
+ an insured contesting the amount of PIP benefits paid is now a
+ real party in interest due to the amendment to HRS § 431:10C­308.5(e), the effect of Act 198 is limited by its own language to
+ disputes between a provider and insurer over the amount of a
+ charge and/or the use of a procedural code. It argues that PIP
+ denials are still governed by our holding in Wilson. The
+ Insureds, on the other hand, argue that Act 198 called into
+ question this court’s real party in interest analysis as to both
+ fee disputes and PIP denials.
+ 
+Statutory analysis begins by examining the plain language of 
+the statute at issue. Zanakis-Pico v. Cutter Dodge, Inc., 98 
+Hawai'i 309, 316, 47 P.3d 1222, 1229 (2002). Where the language 
+of the statute is plain and unambiguous, the court’s only duty is 
+to give effect to its plain and obvious meaning. Allstate Ins. 
+Co. v. Schmidt, 104 Hawai' i 261, 265, 88 P.3d 196, 200 (2004). 
+Courts may, however, look to legislative history, including
+ 
+20
+ Both HRS § 431:10C-308.6(f), at issue in Wilson, and § 431:10C­
+314, at issue in Gamata, allowed for court review of PIP denials. Although §
+431:10C-308.6 was repealed in 1997 along with the PRO scheme, see n. 4, supra,
+§ 431:10C-314 remains in effect, but due to Wilson and Gamata, restricts
+insureds from pursuing court action for PIP disputes.
+ 
+-20­*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+committee reports, to aid in ascertaining legislative intent, or
+ 
+as a interpretive tool, when the language of the statute is
+ ambiguous or produces an absurd or unjust result. Estate of
+ 
+Roxas v. Marcos, 121 Hawai' i 59, 68, 214 P.3d 598, 607 (2009) 
+(emphasis added). 
+At first glance, the plain language of HRS § 431:10C­
+308.5(e), as amended by Act 198, appears to support Liberty
+ 
+Mutual’s argument. Indeed, HRS § 431:10C-308.5 is entitled,
+ “[l]imitation on charges.” In amending subsection (e), however,
+ the Act added a redundant phrase in the last sentence: “The
+ provider, claimant, or insurer may submit any dispute involving
+ the amount of a charge or the correct fee or procedure code to
+ the commissioner, to arbitration, or to a court of competent
+ jurisdiction.” Before the amendment, subsection (e) already
+ stated that “the provider, insurer, or claimant may submit the
+ dispute [over the amount of a charge or the correct fee or
+ procedure code to be used] to the commissioner, arbitration, or a
+ court of competent jurisdiction.” Moreover, the added last
+ sentence now allows “any dispute” as compared to “the dispute” to
+ be submitted. In addition, granting real party in interest
+ status only to insureds contesting amounts of PIP benefits, but
+ not to insureds contesting PIP denials, would produce an absurd
+ or unjust result.
+21
+ 
+21
+ Because we overrule Wilson, we do not need to decide whether Act
+ 
+198 of 2006 overruled Wilson in its entirety, and not just with respect to
+disputes covered under HRS § 431:10C-308.5. "[A] fundamental and longstanding
+ 
+-21­   Specifically, this measure allows insurers to adjust fee
+charges to conform them to the applicable fee schedule
+without issuing formal denial notices. This measure also
+provides that fee adjustments constitute the acceptance of
+treatments and not the denials of benefits.
+   Your Committee on Conference finds that recent litigation
+over an insurer's practice of adjusting medical procedure
+codes provided to an insured under a motor vehicle insurance
+policy, paying the provider the undisputed amount billed,
+then seeking to negotiate with the provider over the
+disputed portion of the bill has revealed ambiguities in the
+current law. Pursuant to 
+Orthopedic Assoc. of Hawaii, Inc.
+v. Hawaiian Ins. & Guar. Co., Ltd., 109 Hawaii 185 (2005),
+the Supreme Court ruled that in situations where the insurer
+disputes billing codes or billing amounts, but not the
+treatment provided, and pays the undisputed portion of the
+bill, the insurer is still required to issue a formal denial
+notice pursuant to section 431:10C-304(3)(B), Hawaii Revised
+Statutes. Your Committee on Conference further finds that,
+as a result of the Court's ruling in Orthopedic Assoc. of
+Hawaii, insurers are required to issue denial notices in the
+thousands, in triplicate, each month for billing
+discrepancies, even though the amount disputed may be as
+little as one dollar. The issuance of these denial notices
+ has not only significantly increased the amount of paperwork
+required of insurers, but has also created a great deal of
+stress and concern for the insureds who are confused as to
+ whether and why their treatments have been denied. 
+  *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+Therefore, it is appropriate to review the legislative
+ 
+history of Act 198, in this context. In this regard, Conference
+ 
+Committee Report No. 128, is useful. It states:
+ The purpose of this measure is to streamline the process
+for adjusting fee charges for medical services provided
+under a motor vehicle insurance policy's personal injury
+protection provisions.
+Your Committee on Conference believes that changes to the
+law are necessary to streamline the onerous process required
+by the Supreme Court and to clarify the legislative intent
+that treatment denials and payment disputes should be
+treated differently. Your Committee on Conference further
+believes that an insured or claimant should not be denied
+ the opportunity to contest an insurer's decision to dispute
+a provider's charges. In Wilson v. AIG Hawaii Ins. Co., 89
+Hawaii 45 (1998), the Court held that the statutory scheme
+insulating claimants from personal liability for unpaid
+portions of medical bills reflected a legislative intent not
+to permit insureds to contest payment disputes,
+notwithstanding statutory language permitting any insured to
+contest such disputes. The law should provide a claimant
+ 
+principle of judicial restraint requires that courts avoid reachingconstitutional questions in advance of the necessity of deciding them."Hawai'i Gov’t Emps. Ass'n, AFSCME Local 152, AFL-CIO v. Lingle, 124 Hawai' i 
+197, 208, 239 P.3d 1, 12 (2010) (citation omitted). 
+-22­*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+with the ability to submit a dispute to the commission,
+arbitration, or a court, reflecting the legislative intent
+to allow claimants to contest fee disputes. Patients have a
+direct interest in proper payment to their doctors to
+maintain appropriate treatment and patient-doctor
+relationships. Your Committee on Conference finds that it is
+necessary to permit claimants to contest fee disputes to
+maintain the pool of doctors willing to treat accident
+patients, as many doctors have stopped accepting accident
+patients because of the Wilson case, making needed medical
+treatment unavailable to many patients. Accordingly,
+claimants, insurers, and providers should be statutorily
+afforded real party in interest status and standing to
+contest all fee disputes. 
+2006 House Journal, at 1893, 2006 Senate Journal, at 966
+ 
+(emphasis added).
+ 
+Although the statutory language of Act 198 of 2006 is
+ 
+limited to disputes regarding amounts of PIP payments, its
+ legislative history clearly expresses the Legislature’s view that
+ insureds should be real parties in interest to pursue all PIP
+ disputes, not just disputes under HRS § 431:10C-308.5(e), whether
+ through the Insurance Commissioner, arbitration, or a court.
+ 
+In addition, after Wilson, insureds were denied court review
+ 
+of PIP denials except when the tort threshold had not been met,
+ and providers were required to personally become party plaintiffs
+ to pursue claims against insurance companies for denials of PIP
+ benefits. 
+The consequences of Wilson were not limited to court review
+ 
+of PIP denials. Despite restricting court review,
+22 Wilson and
+ 
+its progeny seemingly left insureds the statutory options of
+ 
+22
+ Although the statute at issue in Wilson, HRS § 431:10C-308.6(f)
+ 
+has been repealed, see n. 4, supra, HRS § 431:10C-314, at issue in Gamata, see
+n.12, supra, remains in effect.
+ 
+-23­ *** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+23  24
+ administrative review or arbitration to pursue PIP disputes.
+ 
+The Insurance Commissioner followed Wilson, however, and also
+ 
+denied insureds with PIP expenses above the tort threshold access
+ to administrative 
+review.25
+ 
+Moreover, pursuant to Gamata, which followed Wilson,
+ 
+providers were required to reimburse insureds who advanced PIP
+ payments while awaiting resolution of PIP payment disputes. 
+Finally, and most importantly, as indicated in the legislative
+ findings, due to Wilson, many doctors stopped accepting accident
+ patients, making needed medical treatment unavailable to many.
+ 
+For these reasons, we are led to the conclusion that
+ 
+legislative clarification, “compelling justification,” and
+ “cogent reasons and inescapable logic” require us to overrule
+ Wilson. Indeed, adherence to Wilson would result in “manifest
+ injustice,” as insureds with PIP expenses above the tort
+ threshold are denied avenues to pursue their contractual rights. 
+not reflect24 HRS § 431:10C-213. 
+25 See text accompanying n. 16, and n. 16, supra. The record does 
+ whether insureds have been able to continue to resort to
+ 23 HRS § 431:10C-212. 
+arbitration under HRS § 431:10C-213 to pursue claims for PIP denials.
+However, subsection (d) of that statute provides that “[a]ny fee or cost of
+the arbitrator shall be borne equally by the parties unless otherwise
+allocated by the arbitrator[,]” a factor that would appear to discourage
+insureds from pursuing this avenue.
+ 
+Also, at oral argument, the Insurance Commissioner requested guidance on
+whether providers would have to be noticed or named should we uphold the ICA’s
+judgment and hold insureds to be real parties in interest. Resolution of this
+ question is inappropriate here because no party has argued or briefed it.
+Lucas v. Liggett & Myers Tobacco Co. , 51 Haw. 346, 350, 461 P.2d 140, 144
+(1969). 
+-24­     /s/ Simeon R. Acoba, Jr.
+*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+Accordingly, we overrule Wilson, and hold that insureds are real
+ 
+parties in interest in actions against insurers regarding PIP
+ benefits.
+ 
+V. CONCLUSION
+ 
+The ICA erred in affirming the circuit court’s judgment
+ 
+overruling the Insurance Commissioner’s Final Orders because Act
+ 
+198 of 2006 was not retrospective, and our real party in interest
+ holding of Wilson was still in effect. “Cogent reasons and
+ inescapable logic,” however, compel us to overrule Wilson. 
+Therefore, we vacate the ICA’s judgments on appeal and the
+ circuit court’s judgments, and remand these cases to the circuit
+ court with instructions for the circuit court to, in turn, remand
+ these cases back to the Insurance Division for proceedings
+ consistent with this opinion.
+ 
+James H. Monma of Matsui, Chung /s/ Paula A. Nakayama
+& Ikehara (Randall Y.S. Chung
+of Matsui, Chung & Ikehara 
+with him on the briefs) for
+Petitioner/Respondent/Appellee /s/ James E. Duffy, Jr.
+/Appellant-Cross-Appellee
+Liberty Mutual Fire Insurance /s/ Sabrina S. McKenna
+Company
+ 
+/s/ Gary W.B. Chang
+Melvin Y. Agena of The Law
+Offices of Melvin Y. Agena
+(Andrew A. Agard of The
+Andrew A. Agard Law Office
+with him on the briefs) for
+Chung Mi Ahn and Kee Sun Kim
+Respondents/Claimants/Appellants
+/Appellees-Appellees
+ 
+Elmira K.L. Tsang, Deputy
+Attorney General, State ofHawai
+'i (David A. Webber and
+Deborah Day Emerson, Deputy 
+-25­*** FOR PUBLICATION IN WEST’S HAWAII REPORTS AND PACIFIC REPORTER *** 
+Attorneys General, State of
+Hawai'i, on the briefs)
+for Respondent/Respondent/Appellee/Appellee-Cross Appellant
+Insurance Commissioner of the 
+Department of Commerce and
+Consumer Affairs 
+-26­

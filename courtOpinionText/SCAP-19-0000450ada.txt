@@ -1,0 +1,1925 @@
+ 
+ 
+ 
+ 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAI‘ I 
+---o0o--- 
+ 
+ 
+STATE OF HAWAII ORGANIZATION OF POLICE OFFICERS,  
+exclusive representative for Bargaining Unit 12, Police,  
+Plaintiff-Appellant/Cross-Appellee, 
+vs. 
+CITY AND COUNTY OF HONOLULU,  
+Defendant/Cross-Claim Defendant-Appellee/Cross-Appellee, 
+ 
+and 
+ 
+HONOLULU CIVIL BEAT, INC.,  
+Intervenor-Defendant/Cross-Claimant-Appellee/Cross-Appellant.  
+ 
+ 
+ 
+SCAP-19-0000450 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT 
+(CAAP-19-0000450; CIV. NO. 18-1-0823-05) 
+ 
+SEPTEMBER 17, 2021 
+ 
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, AND WILSON, JJ., AND 
+CIRCUIT JUDGE CAHILL, IN PLACE OF POLLACK, J., RECUSED 
+ 
+OPINION OF THE COURT BY RECKTENWALD, C.J. 
+I. INTRODUCTION 
+  The Uniform Information Practices Act (UIPA) promotes 
+government transparency and accountability by requiring state Electronically Filed
+Supreme Court
+SCAP-19-0000450
+17-SEP-2021
+07:57 AM
+Dkt. 105 OP2 
+ agencies to make their records available for public scrutiny.  
+Hawai
+‘i Revised Statutes (HRS) § 92F-2 (2012); HRS § 92F-11(a) 
+(2012).  However, “[t]he policy of conducting government 
+business as openly as possible must be tempered by a recognition 
+of the right of the people to privacy, as embodied in section 6 
+. . . of article I of the [Hawai
+‘i Constitution.]”  HRS § 92F-2.  
+Accordingly, UIPA mandates disclosure of public records but 
+furnishes an exception for “[g]overnment records which, if 
+disclosed, would constitute a clearly unwarranted invasion of 
+personal privacy[.]”  HRS § 92F-13(1) (2012).   
+  This case requires us to apply this exception to 
+records about police misconduct.  We have recognized a 
+“compelling public interest in instances of police misconduct 
+given the importance of public oversight of law enforcement.”  
+Peer News LLC v. City & Cty. of Honolulu, 138 Hawai‘ i 53, 74, 376 
+P.3d 1, 22 (2016).  But under UIPA, the public’s interest must 
+be balanced against any countervailing privacy interests.  HRS 
+§ 92F-14(a) (2012).  Here, plaintiff State of Hawaii Organization of Police Officers (SHOPO) sued under UIPA to 
+prevent the disclosure of certain police misconduct records, 
+invoking the privacy exception.  Preliminarily, we hold that 
+there is no private cause of action to prevent, as opposed to 
+compel, the release of public records under UIPA.  The Circuit 
+Court of the First Circuit (circuit court) correctly dismissed 3 
+ SHOPO’s UIPA claims for that reason.  It erred, however, by 
+conflating the constitutional privacy right with the statutory 
+privacy interests codified in UIPA; the core protections of the 
+Hawai
+‘i Constitution remain unaltered when the legislature 
+chooses to extend greater protections than article I, section 6 
+requires. 
+  Nonetheless, we hold that UIPA requires the release of 
+the requested records.  This issue compels us to revisit two 
+cases in which we have previously considered the required scope 
+of disclosure of police misconduct records: State of
+  Hawaiʻi
+Organization of Police Officers v. Society of Professional 
+Journalists – University of Hawaiʻi (SHOPO v. SPJ), 83 Hawaiʻ i 
+378, 927 P.2d 386 (1996), and Peer News.  While SHOPO v. SPJ 
+made clear that police officers did not enjoy a constitutional 
+privacy interest in their misconduct records, Peer News 
+acknowledged that the legislature had recognized a significant privacy interest by statute.  Act 47, however, subsequently 
+rescinded that recognition.  2020 Haw. Sess. Laws Act 47, § 1 at 364.  We apply Act 47 here, and to the extent the records fall 
+within the categories enumerated by HRS § 92F-14(b)(4)(B)(i)-(v) 
+(2012) (excepting certain kinds of misconduct information from 
+the general privacy interest in a personnel file), SHOPO v. 
+SPJ’s holding applies – only a scintilla of public interest will 
+compel disclosure, a threshold easily surpassed here.  To the 4 
+ extent the records fall outside those categories, the balancing 
+test prescribed by Peer News applies.  We agree with the circuit 
+court that, applying the Peer News test, the public interest in 
+disclosure outweighs the significant privacy interest at stake.  
+Moreover, SHOPO’s challenges to the procedures employed by the 
+circuit court and the City, and to the circuit court’s 
+application of the balancing test, are unconvincing.  We 
+accordingly affirm the circuit court’s judgment mandating the 
+records’ release.1 
+II. BACKGROUND 
+  In September 2014, video from a restaurant’s surveillance camera surfaced and was widely disseminated; the 
+video appeared to show, and was widely reported as portraying, 
+Honolulu Police Department (HPD) Sergeant Darren Cachola in a 
+physical altercation with a woman.
+2  In the aftermath of the 
+video, Sergeant Cachola was terminated from HPD.  But after arbitration, he was reinstated with back pay, and the disciplinary action was reduced to a suspension.   
+                     
+1  On December 16, 2020, we lifted the stay of the judgment, and the 
+circuit court thereafter released the records.  We retained concurrent 
+jurisdiction to issue this opinion.  See, e.g., In re AB, 145 Hawai‘i  498, 
+513, 454 P.3d 439, 454 (2019). 
+ 
+2  The events giving rise to this litigation were widely publicized, 
+and many of the news articles covering the video and its aftermath are in the 
+record.  The complaint did not name Sergeant Cachola, and SHOPO has at times 
+objected during this litigation to publicly naming the officer.  However, 
+even before this court ordered the lifting of the stay of the circuit court’s 
+judgment, the record was replete with instances of his name. 5 On February 22, 2018, Civil Beat requested that the 
+City release “the arbitration decision involving Darren Cachola” 
+pursuant to UIPA.  According to SHOPO’s complaint, HPD notified 
+SHOPO that it was considering releasing the records on April 12, 
+2018; on April 14, 2018, SHOPO wrote to the Chief and Deputy 
+Chief of HPD to voice its “strenuous[] object[ion]” to the 
+records’ release.  HPD officials subsequently informed SHOPO 
+that “the public’s interest in the subject records outweighed the privacy interest of [the] officers” and that it intended to 
+release the records in redacted form.   
+A.
+Circuit Court Proceedings
+1. SHOPO’s Complaint
+SHOPO sued the City in the circuit court.3  The
+complaint requested declaratory and injunctive relief under the 
+Hawaiʻi Constitution, UIPA, and the collective bargaining 
+agreement (CBA) between SHOPO and the City.4  SHOPO alleged that 
+the release of information related to an officer’s suspension, 
+including the arbitration decision which ordered his 
+reinstatement, would violate the officer’s right to privacy.
+3The Honorable Jeffrey P. Crabtree presided. 
+4SHOPO also filed a class grievance under the CBA and a prohibited 
+practice complaint with the Hawaiʻ i Labor Relations Board (HLRB).  The record 
+indicates that SHOPO obtained a temporary restraining order from the HLRB, 
+blocking the release of the records pending a final decision in the instant case.  
+ 6 Specifically, SHOPO’s complaint stated that both the 
+“informational privacy” protection enshrined in article I, 
+section 6 of the Hawai ‘i Constitution  and UIPA’s statutory 
+protections in HRS §§ 94F-13  and 92F-14(b)  precluded the City
+from releasing those records to the public.   7 65
+ 
+SHOPO also challenged the lack of “written 
+confirmation or explanation” about HPD’s application of the Peer 
+News balancing test and the basis for the City’s conclusion that 
+the public interest outweighed the privacy interest here.  The 
+City’s “failure to provide a written explanation” regarding the 
+balancing test “stripped SHOPO and its affected members with 
+their right of appeal to the [Office of Information Practices 
+5Article I, section 6 provides: “The right of the people to 
+privacy is recognized and shall not be infringed without the showing of a 
+compelling state interest.  The legislature shall take affirmative steps to 
+implement this right.” 
+6HRS § 92F-13 provides: “[UIPA] shall not require disclosure of 
+. .
+ . [g]overnment records which, if disclosed, would constitute a clearly 
+unwarranted invasion of personal privacy[.]” 
+7HRS § 92F-14(a) provides: “Disclosure of a government record 
+shall not constitute a clearly unwarranted invasion of personal privacy if 
+the public interest in disclosure outweighs the privacy interest of the 
+individual.”
+ 
+In turn, HRS § 92F-14(b) provides that “information in an 
+agency’s personnel file” is an “example[] of information in which the 
+individual has a significant privacy interest.”  While “employment misconduct that results in an employee’s suspension or discharge” is typically excluded from that example, and therefore disclosable, at the time this litigation 
+commenced, misconduct by “a county police department officer” that did not 
+“result[] in the discharge of the officer” was exempted from the exclusion.  
+HRS § 92F-14(b)(4)(B) (2012).  Thus, under HRS § 92F-14 as it existed when 
+the complaint was filed, a county police officer has a significant privacy 
+interest in their personnel file, even if the information therein pertains to 
+misconduct, unless the officer was discharged.  In September 2020, the 
+legislature removed the “county police officer” exception from HRS § 92F-14.  
+2020 Haw. Sess. Laws Act 47, § 3 at 365- 66.   7 
+ (OIP)] or Circuit Court,” citing HRS § 92F-42 (2012) (“The 
+director of the [OIP] . . . [s]hall, upon request, review and 
+rule on an . . . agency’s granting of access[.]”).  Further, 
+SHOPO stated that the CBA between SHOPO and the City was 
+violated by the attempt to release the records because the CBA – 
+which is “consistent with the right to privacy under Hawaii’s 
+Constitution and the UIPA” - required the City to keep 
+confidential all discipline and dismissal matters.   
+  Accordingly, SHOPO requested: (1) “a declaration that 
+Defendant City’s decision to release the subject confidential 
+and private information is a violation of the individual police 
+officers’ privacy rights and in violation of [UIPA]”; (2) “a 
+declaration that Defendant City’s failure to provide SHOPO and 
+its members with information on how it reached its conclusion 
+. . . stripped SHOPO and its affected members [of] their right 
+of appeal to the OIP or Circuit Court” and likewise violated 
+UIPA; (3) “a declaration of law that the right to privacy and the UIPA precludes and prohibits the release of any information 
+regarding HPD officers who were the subject of discipline, 
+unless those officers have exhausted all their administrative 
+remedies and have been discharged due to disciplinary 
+infractions”; and (4) “temporary, preliminary and permanent 8 
+ injunctive relief to prevent and enjoin Defendant City from 
+disclosing the requested information.”8   
+2. 
+August 13, 2018 Order  
+ 
+  Civil Beat was allowed to intervene and moved to 
+dismiss for lack of subject matter jurisdiction and failure to 
+state a claim upon which relief can be granted or, 
+alternatively, for summary judgment (Motion).  The City joined 
+in the Motion.  Civil Beat argued that SHOPO failed to state a claim for a constitutional violation because “police officers do 
+not have a constitutional right of privacy against disclosure of 
+disciplinary suspension records.”  Civil Beat further contended 
+that UIPA furnished no private right of action to parties like 
+SHOPO who “seek[] to withhold records from the public,” and 
+therefore, the court lacked subject matter jurisdiction.  “The 
+UIPA is not a confidentiality law that confers rights on any 
+third party to conceal government information from public view,” 
+Civil Beat contended, but it argued that UIPA compelled the documents’ release in any event.   
+  SHOPO opposed the Motion, arguing that “police 
+officers have a ‘significant privacy interest’ in their 
+disciplinary suspension records,” and those records “must be 
+                     
+8  The City’s answer to the complaint largely admitted the factual 
+allegations, but claimed it did not violate UIPA and that SHOPO was not 
+entitled to information about how the City reached its conclusion.   
+ 9 
+ kept private unless the public’s interest in disclosure 
+outweighs the privacy interest of the individual police 
+officer.”  SHOPO contended it was permitted to enforce UIPA 
+because it had standing to do so.  It also disagreed with the 
+contention that UIPA is not a confidentiality law; as a result, 
+SHOPO argued it could bring this suit because a purpose of UIPA 
+is to assure open access in balance with individual privacy 
+rights.    
+ The circuit court granted the Motion “to the extent 
+[SHOPO]’s claim is based on a violation of the [UIPA]” and denied the Motion in all other respects (August 13, 2018 Order).  
+In the August 13, 2018 Order, the court concluded that “[SHOPO] 
+has no private cause of action for disclosure of government 
+records under the UIPA.”  However, the circuit court “f[ound] 
+SHOPO has a cause of action and standing to assert the 
+constitutional privacy claim.”  It ordered the City to produce 
+the documents for in camera review.   
+3. September 28, 2018 Order 
+ 
+  SHOPO moved to “clarify, modify, or correct” the 
+August 13, 2018 Order (Motion to Clarify).  It argued 
+clarification, modification, or correction was necessary for 
+four reasons: (1) SHOPO “sought declaratory relief pursuant to 
+HRS § 632-1 [(2016)], and injunctive relief to enjoin Defendant 
+City from releasing the subject records” until it performs the 10 
+ balancing test, not “a private cause of action under UIPA”; (2) 
+because its requested relief included a declaration of the 
+City’s UIPA obligations, “[i]t is not clear what is left of 
+Plaintiff’s Complaint . . . because UIPA is the mechanism 
+intended to protect the right to privacy which SHOPO’s Complaint 
+seeks to enforce”; (3) dismissal of all UIPA claims and ordering 
+in camera review contradicted each other; and (4) “[i]t is 
+unclear if Plaintiff will be given the opportunity to conduct discovery” and what information the court would consider.  The 
+City and Civil Beat opposed the motion.  
+ 
+  The circuit court issued an Order (September 28, 2018 
+Order) clarifying that it would “apply a constitutional 
+balancing test as discussed in Peer News.”  It saw “no 
+inconsistency between a constitutional balancing test and its finding of no private cause of action under UIPA” per the 
+August 13, 2018 Order.  “The 
+Hawaiʻi Constitution s ets a floor 
+for privacy interests.  The Legislature can establish more 
+protections by statute (such as UIPA) if it chooses to. . . .  
+This court has now ruled that the legislative protections of UIPA do not apply to Plaintiff under the circumstances of this 
+case.”  The circuit court stated that after in camera review, it 
+would decide “whether any applicable constitutional privacy 
+protections are outweighed by the public interest in disclosure 
+under the applicable facts.”   11 
+ 4. 
+Civil Beat’s Cross-Claim 
+ 
+  Civil Beat moved for, and was granted, permission to 
+file a cross-claim against the City as a requester “aggrieved by 
+a denial of access to a government record” per HRS § 92F-15 
+(2012).  Civil Beat asserted in the motion that “it appears that 
+SHOPO is abandoning its constitutional privacy claims,” in which 
+case, the circuit court may have been compelled to dismiss the 
+case in its entirety.     Civil Beat’s cross-claim against the City alleged that 
+the City denied their renewed UIPA request as a result of the 
+HLRB’s order enjoining the release of the requested records.
+9  
+See supra note 3.  Thus, Civil Beat asked for the court to order 
+the City to release “all information sought” by Civil Beat in 
+its UIPA request – namely, the arbitration award, the closing 
+report, and the full investigation.  The City’s answer to the 
+cross-claim denied that it had violated UIPA, but admitted that 
+“Civil Beat has a right to access the requested records” and that “it has been and remains the City’s intention to disclose 
+the requested records.”   
+5. January 3, 2019 Order 
+ 
+  The circuit court sua sponte reexamined and vacated 
+part of the September 28, 2018 Order (January 3, 2019 Order).  
+                     
+9  The cross- claim alleges that Civil Beat issued another request 
+for the records on August 30, 2018 (while the instant litigation was well 
+underway), which was denied by the City on the grounds of the HLRB order.  12 
+ It recognized that while its prior rulings constituted the law 
+of the case, “so long as a trial court retains jurisdiction, it 
+‘always has the power to reexamine, modify, vacate, correct and 
+reverse its prior rulings and orders,’” especially when it feels
+a prior ruling was “probably erroneous.”  (Quoting Chun v. Board
+of Trustees of the Emp. Ret. Sys., 92 Hawaiʻ i 432, 441, 992 P.2d 
+127, 136 (2000).)
+  The circuit court reasoned that the September
+28, 2018 Order had conflated the question of whether SHOPO had a
+statutory cause of action under UIPA with whether UIPA’s 
+substantive, statutory privacy protections apply.  “[T]he court 
+now recognizes that the UIPA cause of action issue is separate 
+from and does not nullify the legislature’s ability to create orenlarge statutory privacy exceptions to the UIPA’s broad 
+disclosure requirements.”  It determined that   
+ 
+ 
+ 
+the statutory privacy interests granted by the legislature 
+under the UIPA should be applied by this court whether or not the City/HPD chooses to disclose the information or 
+records at issue.  Otherwise, an individual’s statutory 
+privacy interests under the UIPA are ephemeral, and 
+evaporate whenever the agency chooses to disclose, with no 
+relief available from the court. 
+  The circuit court reasoned this approach was more 
+consistent “with the underlying purposes of the UIPA, which 
+include making the ‘government accountable to individuals in the 
+collection, use, and dissemination of information relating to 
+them.’”  (Citing HRS § 92F-2(4).)  13 
+ 6. 
+April 29, 2019 Order 
+ 
+  On April 29, 2019, the circuit court issued an order 
+after in camera review of the records (April 29, 2019 Order).  
+The April 29, 2019 Order granted summary judgment against SHOPO 
+and in favor of the City and Civil Beat as to the arbitration 
+decision and closing report.  It dismissed without prejudice all 
+claims regarding the investigative report, and dismissed all 
+other claims.  The court ruled as follows: 
+ 1. The Court was asked to review three documents in 
+camera: the arbitration award, the closing report, which is 
+143 pages, and the investigative report, which is 767 
+pages. 
+ 
+ 2.
+ The more serious the misconduct, the more likely 
+the public interest outweighs the individual privacy 
+interest.  Here, the alleged misconduct was extremely 
+serious: the use of unauthorized, unjustified, and potentially criminal physical force against another person, 
+completely unrelated to any official law enforcement 
+duties.  
+ 3. The proper performance of public duty is a public 
+concern,
+ and it is given great weight when balancing 
+competing privacy interests. 
+ This is true whether 
+addressing off- duty acts that bear upon a police officer’ s 
+fitness to perform duties, or whether the alleged actions involve official duties.  Here, the alleged acts are 
+essentially personal and off- duty, but clearly can bear 
+upon a police officer’ s fitness to perform duties. 
+ 
+ 4. There is a significant public interest in the 
+public knowing how the Honolulu Police Department (HPD) supervises alleged misconduct, responds to misconduct 
+allegations, and investigates alleged misconduct.  A large 
+portion of the records reviewed in camera (which the 
+City/HPD themselves decided to release) involve HPD’ s 
+investigation and response to the misconduct allegations.
+ 
+ 
+ 5. Little of the conduct described in these records 
+was of a truly personal, private, or intimate nature.  Much 
+of the alleged conduct occurred in front of witnesses, in a restaurant, or in
+ the public areas, and with third parties. 
+  6. For the above reasons, the Court finds that as a 
+matter of law, the public interest in disclosure far 
+outweighs the privacy interests of the records directed to 14 
+ be released in this order.  Put another way, consistent 
+with the UIPA’ s general policy in favor of disclosure, the 
+City/HPD’ s disclosure of these records is not clearly 
+unwarranted. 
+ 
+ 7. Further, there is a separate and independent 
+ground to release the arbitration award - the requirement 
+to disclose adjudicative orders pursuant to HRS
+ § 92F-
+12(a)(2) [(2012)]. 
+  8. Although the arbitration award, as the final 
+adjudication award, is a mandatory disclosure under section 
+92F-12(a)(2), it is still subject to privacy interests per 
+section 92F- 13(1). 
+ 
+ 9.
+ Disclosing the redacted portions of the 
+arbitration award, to include the City/HPD’ s proposed 
+redactions as well as any additional redactions necessary to protect “ personal information
+” as defined by Hawaii 
+Court Records Rules (HCRR) Rule 2.19,[10] is clearly 
+unwarranted when weighed against the privacy interests of the civilians involved. 
+ 
+ 10. The closing report is not a criminal 
+investigation file.  It is a disciplinary action file.  The 
+Court understands the HPD and the City have voluntarily decided to release the closing report, with certain 
+redactions.  This Court is tasked with ruling on the 
+privacy issues presented by the release of the proposed redacted closing report. 
+ 
+ 11.
+ In essence, the closing report contains more 
+details than the arbitration award concerning the events and investigation that led to the officer’ s termination and 
+subsequent reinstatement.  In addition to the information 
+redacted in the arbitration award, the closing report redacts the names of various witnesses, and responding 
+and/or investigating officers.
+  Although these identities 
+are redacted, the person’ s actions and inactions are 
+disclosed.  In other words, with the redacted version, the 
+reader will learn in detail what happened, and will see in 
+detail how the investigation was conducted, but may not 
+learn exactly which witness or exactly which responding or 
+investigating officer did something specific. 
+ 
+ 12. The Court finds that the HPD/City’ s disclosure of 
+the proposed redacted closing report is not clearly 
+unwarranted.  HPD is plainly trying to be transparent 
+regarding the disciplinary investigation of the officer who was discharged and then reinstated, while balancing the 
+privacy interests of everyone else involved.  It is a fine 
+                     
+10  Hawaiʻi Court Records Rule (HCCR) Rule 2.19 defines “personal 
+information.”  HCCR Rule 9 generally prohibits the inclusion of personal information in publicly accessible court filings. 
+ 15 
+ line, and time- consuming, to weigh these issues page by 
+page. 
+ 
+ 13. The bottom line is the Court finds the disclosure 
+and redactions are legally justified.  The public’ s right 
+to know under the UIPA is satisfied by learning the details regarding the discharged/reinstated officer, as well as the 
+details of what the investigation revealed and how the 
+investigation was conducted.  At the same time, the privacy 
+of certain civilian witnesses, and certain information regarding the responding and investigating officers, is redacted.
+  The Court does not believe the redactions 
+materially detract from the voluminous information being 
+disclosed by HPD/City.  The public’ s right to know should 
+be met by seeing both the final adjudicative decision, and HPD’s response to the entire incident. 
+ 
+ 14. The Court respectfully disagrees with SHOPO’ s 
+claim or inference that the City did not conduct any kind of balancing analysis and that therefore this Court is in 
+essence conducting the first balancing test for these records.  The Court sees no evidence in the record to 
+support this claim.  Just because the agency is not 
+required to give a plaintiff a written/reasoned explanation 
+for disclosure does not mean no balancing test was 
+performed.  
+ 15.
+ For the above reasons, the Court hereby orders 
+release of the redacted arbitration award, subject to additional redactions wherever necessary to protect 
+“personal information” as defined by HCRR Rule 2.19.
+ 
+ 
+ 16. The Court further orders the release of the 
+redacted version of the closing report[.11] 
+ 
+  The court also noted that it had only received the 
+unredacted version of the 767-page investigative report; it 
+understood the City to be working on redactions, but it declined to make those decisions itself.  It also “doubt[ed] that the 
+full investigative file adds much to the discussion” as it was 
+duplicative of the arbitration award and closing report; it 
+accordingly did not order the disclosure of the report (except 
+for 72 pages containing “HPD’s policies, procedures and rules 
+                     
+11  The court also ordered further redactions to the closing report.   16 
+ applicable to the incident in question” that did not require 
+redaction).  Claims related to the investigative report were 
+dismissed without prejudice. 
+ 
+ SHOPO moved for, and the circuit court granted, a stay 
+of the judgment pending appeal.12 
+B. Proceedings on Appeal 
+  SHOPO and Civil Beat cross-appealed.  At issue on 
+appeal are the August 13, 2018 Order; the September 28, 2018 Order; the January 3, 2019 Order; and the April 29, 2019 Order. 
+  SHOPO’s appeal raises the following points of error.  
+First, it contends that the circuit court erred by failing to 
+address its request for declaratory relief (a declaration of 
+“Defendant City’s duties and responsibilities under the UIPA” 
+and “guidance on how an agency must apply the UIPA balancing 
+test”) and injunctive relief (“prohibiting Defendant City [from] 
+releasing the subject records until such time that it has 
+complied with UIPA”).     In the alternative, SHOPO argues that the circuit 
+court failed to properly interpret and apply the UIPA balancing 
+                     
+12  Civil Beat petitioned this court for a writ of mandamus, alleging 
+that the circuit court failed to apply the proper test for a stay pending 
+appeal.  See Honolulu Civil Beat Inc. v. Crabtree, SCPW-19-0000622, 2019 WL 
+4678149 (Haw. Sept. 25, 2019) (Order Denying Petition for Writ of Mandamus).   
+We denied the petition.  After this court accepted Civil Beat’s application 
+for transfer, Civil Beat moved to lift the stay pursuant to Hawai‘ i Rules of 
+Appellate Procedure (HRAP) Rule 8(a).  We initially denied the motion on 
+January 24, 2020.  As explained below, however, we later lifted the stay upon 
+Civil Beat’s renewed request.
+ 17 
+ test as set forth in Peer News.  It specifically challenges the 
+City and the circuit court’s application of the balancing test 
+and the procedural integrity of the process, arguing: it was 
+denied due process; the circuit court should have addressed the 
+CBA, including the arbitrator’s decision to seal the arbitration 
+decision pursuant to the CBA; the circuit court erred by 
+conducting the balancing test de novo, as opposed to “the 
+‘highly factual’ standard”; the circuit court erroneously limited its in camera review because it was too “time 
+consuming”; the circuit court’s “separate and independent 
+ground[s]” for releasing the records under HRS § 92F-12(a)(2) 
+was erroneous; the circuit court erroneously concluded the City 
+was not required to issue a written explanation justifying 
+disclosure; and the circuit court should have “prohibit[ed] the 
+disclosure of the full investigative report.”   
+  Civil Beat’s appeal challenges the circuit court’s January 3, 2019 Order, which applied UIPA privacy standards despite reaffirming that SHOPO lacked a cause of action: “The 
+circuit court’s recognition of an unspecified and amorphous 
+implied cause of action based on the mere existence of the UIPA 
+privacy standards directly contradicts the analysis for 
+judicially implying a private right of action from a statute.”  
+It also asks this court to review “[w]hether the constitutional 18 
+ right of privacy standards are the same as the UIPA privacy 
+standards.”  
+ 
+  This court accepted transfer of the appeals on October 24, 2019.  While the appeals were pending, Act 47 became law.  
+Act 47 amended, as relevant here, HRS § 92F-14 to remove the 
+statutory “significant privacy interest” in the employment 
+misconduct records of a county police officer.
+13  The parties 
+                     
+13  More precisely, it removed the exception for county police 
+officers from the exception for disciplinary records from the “personnel 
+file” example on the list of examples of “information in which the individual 
+has a significant privacy interest.”  Act 47 amended HRS § 92F-14 as follows 
+(deleted text represented by strikethrough): 
+ 
+(b) The following are examples of information in which the individual has a significant privacy interest: 
+ . . . . 
+ 
+(4) Information in an agency’s personnel file, .
+ . . 
+except: 
+ 
+. . . . 
+ 
+(B) The following information related to employment misconduct that results in an employee’s sus
+pension 
+or discharge:  
+ (i) The name of the employee; 
+(ii) The nature of the employment related misconduct; 
+(iii) The agency’s summary of the allegations 
+of misconduct; 
+(iv) Findings of fact and conclusions of law; 
+and (v) The disciplinary action taken by the 
+agency; 
+ 
+when the following has occurred: the highest nonjudicial grievance adjustment procedure timely invoked by the employee or the employee’s 
+representative has concluded; a written decision 
+sustaining the suspension or discharge has been 
+issued after this procedure; and thirty calendar days 
+have elapsed following the issuance of the decision or, for decisions involving county police department 
+ 19 
+ requested, and we granted, the opportunity for supplemental 
+briefing that addressed how Act 47 affected the instant case.   
+ 
+ On December 16, 2020, after supplemental briefing and 
+oral argument, we granted Civil Beat’s request to lift the stay of the judgment.  We explained that “[i]t is clear to us that 
+UIPA mandates the disclosure of the documents at issue,” and 
+“[w]e accordingly s[aw] no reason for further delay in 
+effectuating the circuit court’s order[.]”  State of Hawai‘ i 
+Organization of Police Officers v. City and County of Honolulu, 
+SCAP-19-0000450 (Haw. Dec. 16, 2020) (Order Lifting Stay Pending 
+Appeal).  As a result, the redacted arbitration award and 
+closing report were released.  We retained jurisdiction to issue this opinion, and we now elaborate on our reasons for concluding 
+that the records were subject to disclosure.  
+III. STANDARD OF REVIEW 
+On appeal, an order of summary judgment is reviewed under 
+the same standard applied by the circuit courts.  Summary 
+judgment is proper where the moving party demonstrates that 
+there are no genuine issues of material fact and it is 
+entitled to judgment as a matter of law.  In other words, 
+summary judgment is appropriate if the pleadings, depositions, answers to interrogatories, and admissions on 
+file, together with the affidavits, if any, show that there is no genuine issue of material fact and the moving party 
+is entitled to a judgment as a matter of law. 
+ 
+SHOPO v. SPJ, 83 Hawaiʻ i at 389, 927 P.2d at 397. 
+                     
+officers, ninety days have elapsed following the 
+issuance of the decision; [provided that subparagraph 
+(B) shall not apply to a county police department 
+officer except in a case which results in the 
+discharge of the officer;]  
+ 2020 Haw. Sess. Laws Act 47, § 3 at 365- 66. 20 Whether a document is subject to disclosure under UIPA
+is reviewed de novo, HRS § 92F-15(b), as are “constitutional 
+questions.”  Doe v. Doe, 116 Hawai ʻi 323, 326, 172 P.3d 1067, 
+1070 (2007).    
+IV. DISCUSSION
+UIPA requires disclosure of public records unless an 
+exception applies; one of those exceptions lies where disclosure 
+would constitute “a clearly unwarranted invasion of personal 
+privacy.”  HRS § 92F-13.  In turn, HRS § 92F-14(a) provides that 
+“[d]isclosure of a government record shall not constitute a 
+clearly unwarranted invasion of personal privacy if the public 
+interest in disclosure outweighs the privacy interest of the 
+individual.”  HRS § 92F-14(b) supplies a list of examples of 
+information in which an individual has a “significant privacy 
+interest.”  One of those examples is “[i]nformation in an 
+agency’s personnel file.”  HRS § 92F-14(b)(4).  This interest in 
+one’s personnel file, however, is subject to an important 
+exception: particular information related to employee misconduct 
+resulting in suspension or discharge does not enjoy a 
+significant privacy interest.  HRS § 92F-14(b)(4)(B).   
+Two cases interpreting these statutes are critical 
+here.  First, in SHOPO v. SPJ, we held that “information 
+regarding a police officer’s misconduct in the course of his or21 
+ her duties as a police officer is not within the protection of 
+Hawai
+ʻi’s constitutional right to privacy.”  83 Hawaiʻ i at 397, 
+927 P.2d at 405.  Absent a significant privacy interest rooted 
+in statute or the constitution, “a scintilla of public interest 
+in disclosure will preclude a finding of a clearly unwarranted 
+invasion of personal privacy.”  Id. at 383–84, 927 P.2d at 391–
+92 (quoting Conf. Comm. Rep. No. 112–88, in 1988 House Journal, 
+at 817–18).  Said differently, under SHOPO v. SPJ, records in 
+which there is no significant privacy interest – which, at the 
+time SHOPO v. SPJ was decided, was true of police misconduct 
+records – must be released under UIPA if there is at least a 
+scintilla of public interest in disclosure.  
+  Second, in Peer News, we recognized that the 
+legislature had amended UIPA to carve out police misconduct records from the employment misconduct records in which an 
+employee generally enjoys no right to privacy.  Said plainly, 
+the legislature “recognized a ‘significant privacy interest’ in 
+police officers’ disciplinary suspension records in HRS § 92F–
+14(b).”  138 Hawai‘ i at 61, 376 P.3d at 9.  Accordingly, Peer 
+News held that determining whether police misconduct records are 
+subject to disclosure under UIPA requires “balancing that 
+[significant] privacy interest against the public interest in 
+disclosure of the records.”  Id. at 73, 376 P.3d at 21.   22 
+  
+ Accordingly, the following scheme applies when UIPA’s 
+privacy exception is invoked: 
+ The application of section 92F– 14 varies considerably 
+depending on whether or not the privacy interest is 
+considered “significant.”  [ SHOPO v. SPJ, 83 Hawaiʻ i] at 
+383–84, 927 P.2d at 391– 92.  “[O]nce a significant privacy 
+interest is found, the privacy interest will be balanced 
+against the public interest in disclosure.  If the privacy 
+interest is not ‘significant,’ a scintilla of public 
+interest in disclosure will preclude a finding of a clearly 
+unwarranted invasion of personal privacy.”  Id. (quoting 
+Conf. Comm. Rep. No. 112– 88, in 1988 House Journal, at 817–
+18).   
+ 
+Id. at 76, 376 P.3d at 24 (Pollack, J., concurring). 
+ 
+  This case requires us to consider how UIPA, as 
+interpreted by SHOPO v. SPJ and Peer News, applies to the sought 
+records in this case: the redacted arbitration award and closing report.
+14  It also requires us to determine whether and how Act 
+47 changes the analysis insofar as the legislature has now 
+rescinded its recognition of a “significant privacy interest” in 
+police misconduct records.  But first, as a threshold matter, we 
+must consider whether SHOPO had the right to bring this suit at 
+all.   A. There Is No Private Right of Action Under UIPA for a Party 
+to Sue to Prevent the Release of Records that an Agency Has 
+Determined Are Subject to Disclosure 
+ 
+  SHOPO’s complaint challenges the City’s decision to 
+release documents pursuant to UIPA, seeking both declaratory and 
+                     
+14  Civil Beat has not appealed the circuit court’s decision not to 
+order the release of the investigative report.  This opinion accordingly does 
+not address whether UIPA requires the disclosure of that record.  However, we 
+do address SHOPO’s contention that the circuit court should have prohibited 
+the disclosure of the investigative report in Part IV.J below. 23 
+ injunctive relief.  To do so, however, SHOPO must have a right 
+of action.  We hold that there is no private right of action 
+under UIPA for a party seeking to prevent the release of 
+documents. 
+ 
+ As a preliminary matter, SHOPO argues that HRS § 632-
+1, which provides for declaratory relief in certain circumstances, itself creates a right of action.
+15  It does not.  
+An express or implied right of action must sound from some other 
+law before a party may rely on HRS § 632-1’s remedies.  In 
+Alakaʻi Na Keiki, Inc. v. Matayoshi, 127 Hawaiʻ i 263, 277 P.3d 
+988 (2012), the plaintiff – a business that had submitted a 
+proposal to the State to provide health and human services – sought a declaratory judgment that the State had violated HRS 
+Chapter 103F, which establishes rules for health-related 
+procurements by the State.  Id. at 266-67, 277 P.3d at 991-92.  
+Although the plaintiff sought declaratory relief, we explained, 
+                     
+15  SHOPO also argues that “Civil Beat’s [right of action] argument 
+here fails because it ignores . . . [SHOPO’s] clear standing to assert such 
+claims.”  That SHOPO would have standing to seek declaratory relief under Tax 
+Foundation of Hawaiʻi v. State, 144 Hawaiʻ i 175, 439 P.3d 127 (2019), is of no 
+matter if it lacks a cause of action.  As we explained in County of Hawaiʻi v. 
+Ala Loop Homeowners, 123 Hawaiʻi 391, 235 P.3d 1103 (2010):  
+ 
+[O]ur cases make clear that the two inquiries [standing and 
+private right of action] involve distinct policy 
+considerations and distinct tests.  The private right of 
+action inquiry focuses on the question of whether any 
+private party can sue to enforce a statute, while the 
+standing inquiry focuses on whether a particular private 
+party is an appropriate plaintiff. 
+ 
+Id. at 406 n.20, 235 P.3d at 1118 n.20 (citations omitted). 24 
+ “In order for a party to sue for enforcement under HRS § 632–1, 
+HRS chapter 103F must provide for an express or implied private 
+right of action.”  Id. at 285, 277 P.3d at 1010.  Thus, the 
+declaratory judgment statute provides a remedy but does not furnish a cause of action; the substantive law the plaintiff 
+seeks to enforce by way of a declaratory judgment must itself do 
+so.   
+  In order to enforce UIPA, SHOPO’s cause of action must 
+emanate from UIPA itself, the substantive law it seeks to 
+enforce.  First, no express cause of action to prevent 
+disclosure of government records exists under UIPA.  UIPA 
+provides an express cause of action for a specific class of 
+people: those aggrieved by nondisclosure.16  HRS § 92F-15(a) 
+provides: “[a] person aggrieved by a denial of access to a 
+government record may bring an action against the agency at any 
+time within two years after the agency denial to compel 
+disclosure.”  (Emphases added.)  Thus, UIPA provides for 
+                     
+16  Under federal law, some parties may sue to prevent the release of 
+certain documents pursuant to the Freedom of Information Act (FOIA).  CNA 
+Fin. Corp. v. Donovan, 830 F.2d 1132, 1133 n.1 (D.C. Cir. 1987).  While FOIA 
+and related statutes furnish the substantive law in so- called “reverse- FOIA” 
+lawsuits, “§ 10(a) of the Administrative Procedure Act (APA), 5 U.S.C. § 702 
+(1982), supplies the cause of action.”  Id. (citing Chrysler Corp. v. Brown, 
+441 U.S. 281, 317, 317 n.47 (1979)).  Section 10(a) of the APA provides in relevant part: “A person suffering legal wrong because of agency action, or 
+adversely affected or aggrieved by agency action within the meaning of a 
+relevant statute, is entitled to judicial review thereof.”  No party has 
+argued that the judicial review provisions of Chapter 91, 
+Hawaiʻi’s equivalent 
+to the APA, provides a cause of action, and Chapter 91 is meaningfully 
+different from the APA in any event.
+ 25 
+ judicial enforcement by a requester who tried, but failed, to 
+acquire government documents.  SHOPO is not “a person aggrieved 
+by a denial of access”; SHOPO is aggrieved by the agency’s grant 
+of access.  Moreover, SHOPO is not seeking to “compel 
+disclosure” – quite the opposite.  Accordingly, SHOPO is not 
+entitled to invoke Chapter 92F’s judicial enforcement mechanism, 
+and UIPA furnishes no other express cause of action to sustain 
+SHOPO’s suit.  
+  Thus, if a right of action to prevent disclosure 
+exists under Chapter 92F, it must be implied.  To determine 
+whether a statute confers an implied private right of action, 
+this court has adopted the United States Supreme Court’s 
+analysis in Cort v. Ash, 422 U.S. 66 (1975).  See, e.g., 
+Reliable Collection Agency, Ltd. v. Cole, 59 Haw. 503, 506–07, 
+584 P.2d 107, 109 (1978); County of Hawaiʻi v. Ala Loop 
+Homeowners, 123 Hawaiʻi 391, 407-08, 235 P.3d 1103, 1119-20 
+(2010), abrogated on other grounds by Tax Found. of Hawaiʻi v. 
+State, 144 Hawaiʻi 175, 439 P.3d 127 (2019); Hungate v. Law 
+Office of David B. Rosen, 139 Hawaiʻi 394, 406, 391 P.3d 1, 13 
+(2017).  Cort set forth “several factors” to determine “whether 
+a private remedy is implicit in a statute not expressly providing one”:  
+First, is the plaintiff ‘one of the class for whose 
+especial benefit the statute was enacted[]’ . . . ?  
+Second, is there any indication of legislative intent, 26 explicit or implicit, either to create such a remedy or to 
+deny one? . . .   Third, is it consistent with the 
+underlying purposes of the legislative scheme to imply such a remedy for the plaintiff? 
+422 U.S. at 78 (citations omitted).17 
+In the intervening years, the United States Supreme 
+Court has refined the inquiry to emphasize legislative intent.  
+See Gonzaga Univ. v. Doe, 536 U.S. 273, 283-84 (2002); Alexander 
+v. Sandoval, 532 U.S. 275, 286 (2001).  This court has followed  
+suit.  In Rees v. Carlisle, 113 Hawai ʻi 446, 153 P.3d 1131,
+(2007), we explained that “we apply Cort’s first three factors  
+in determining whether a statute provides a private right of  
+action though understanding that legislative intent appears to  
+be the determinative factor.”  Id. at 458, 153 P.3d at 1143
+(quoting Whitey’s Boat Cruises, Inc. v. Napali-Kauai Boat  
+Charters, Inc., 110 Hawai ʻi 302, 313 n.20, 132 P.3d 1213, 1224  
+n.20 (2006)).
+Based on this test, there is no implied cause of 
+action under UIPA for SHOPO to sue to prevent the release of 
+records.  Recognizing that UIPA grants county police officers a 
+privacy interest in their personnel files, SHOPO, via its 
+members, is arguably “a member of the class for whose special 
+benefit the statute was enacted” (albeit this contention might
+17The fourth factor in the Cort test is inapplicable here for 
+obvious reasons: “And finally, is the cause of action one traditionally 
+relegated to state law, in an area basically the concern of the States, so 
+that it would be inappropriate to infer a cause of action based solely on 
+federal law?”  422 U.S. at 78. 27 
+ reasonably be called into doubt in light of Act 47).  Hungate, 
+139 
+Hawaiʻi at 406, 391 P.3d at 13.  But neither legislative 
+intent nor the underlying purposes of the legislative scheme 
+indicate that a party in SHOPO’s position is able to sue to 
+prevent the disclosure of public records.  UIPA simply provides 
+no right of nondisclosure. 
+  Legislative intent is given the greatest weight.  In this case, there is a clear and obvious indicator of legislative 
+intent: UIPA already provides for particular kinds of 
+enforcement actions.  “A frequently stated principle of 
+statutory construction is that when legislation expressly 
+provides a particular remedy or remedies, courts should not expand the coverage of the statute to subsume other remedies.”  
+Reliable Collection Agency, 59 Haw. at 510, 584 P.2d at 111 
+(quoting Nat’l R.R. Passenger Corp. v. Nat’l Ass’n of R.R. 
+Passengers, 414 U.S. 453, 458 (1974)).  The legislature chose to 
+provide for judicial review and was quite specific that review is available when a party is aggrieved by an agency’s denial of 
+access.  HRS § 92F-15; see Whitey’s Boat Cruises, 110 Hawaiʻ i at 
+314, 132 P.3d at 1225 (reasoning that the existence of 
+enumerated civil penalties weighed against implying a private 
+right of action); cf. Travelers Ins. Co. v. Hawaii Roofing, 
+Inc., 64 Haw. 380, 387, 641 P.2d 1333, 1338 (1982) (disallowing 
+a lawsuit where suing appeared to be an “attempt at 28 circumvention of statutory dictates”).  And UIPA elsewhere 
+penalizes wrongful disclosure, as HRS § 92F-17(a) (2012) makes 
+it a misdemeanor to “intentionally disclose[] or provide[] a 
+copy of a government record, or any confidential information 
+explicitly described by specific confidentiality statutes, to 
+any person or agency with actual knowledge that disclosure is 
+prohibited[.]”  See Rees, 113 Hawai ʻi at 458–59, 153 P.3d at 
+1143–44 (concluding that private enforcement would be  
+inconsistent with an ordinance when the law explicitly provided 
+for public enforcement); cf. Molfino v. Yuen, 134 Hawai ʻi 181, 
+187, 339 P.3d 679, 685 (2014) (declining to impose tort 
+liability under Chapter 92F because the fact that it “expressly 
+imposes criminal penalties for intentional violations of 
+confidentiality statutes” reflected countervailing legislative 
+intent).   
+The legislative scheme also points against implying a 
+cause of action for SHOPO to sue to prevent disclosure because 
+UIPA itself creates no right of nondisclosure.  SHOPO does not 
+accurately characterize the law when it says that documents are 
+“protected from disclosure” unless the public interest outweighs
+the privacy interest.  In fact, HRS § 92F-13(1) provides that 
+“[UIPA] shall not require disclosure  
+of,” inter alia, “records 
+which, if disclosed, would constitute a clearly unwarranted 
+invasion of personal privacy[.]”  (Emphasis added.)  “The plain 29 language of a statute is ‘the fundamental starting point of 
+statutory interpretation[.]’”  State v. Demello, 136 Hawai ʻi 193, 
+195, 361 P.3d 420, 422 (2015) (citation omitted).  The statutory 
+language here is not prohibitive: that is, HRS § 92F-13 does 
+“not require disclosure” if an exemption applies, but it does 
+not forbid it, either.  The statute does not, for instance, say 
+that such records “shall not be disclosed,” language used in 
+other statutes.   Indeed, UIPA itself uses more restrictive and   
+unequivocal language prohibiting disclosure in other places 
+within the statutory scheme: under HRS § 92F-19(a) (2012), “[n]o 
+agency may disclose or authorize disclosure of government 
+records to any other agency,” unless a defined exception 
+applies.  And the fourth exemption in HRS § 92F-13 provides that 
+an agency need not release “[g]overnment records which, pursuant 
+to state or federal law including an order of any state or 
+federal court, are protected from disclosure[.]”  HRS § 92F-
+13(4) (emphasis added).  This provision recognizes that, unlike 
+documents that are exempt from disclosure per HRS § 92F-13(1), 
+(2), (3), and (5), some records are affirmatively “protected 
+from disclosure” by state or federal law, and an agency does not 18
+18See, e.g., HRS § 37-77.5(b) (2009) (attorney general’s report 
+about claims against the State “shall not be disclosed pursuant to sections 
+92F-13 and 92F- 19(b)”); HRS § 334-5 (Supp. 2014) (records maintained by 
+health care providers “shall not be disclosed by any person”); HRS § 333F-8.7 
+(Supp. 2014) (records identifying a person who received services because of a developmental disability “shall not be disclosed by any person”); HRS § 612-
+13 (2016) (names of jurors “shall not be disclosed”).  30 violate UIPA, which would otherwise mandate disclosure, by 
+abiding by a countervailing directive.  Reading the statute in 
+pari materia, that the legislature could have, but did not, 
+phrase HRS § 92F-13 to prohibit disclosure or protect from 
+disclosure (rather than “not require disclosure”) suggests that
+the difference was purposeful, and “this court must presume 
+that the legislature meant what it said[.]”  Demello, 136 
+Hawaiʻi at 195, 361 P.3d at 422.    
+Civil Beat also points out that the Fair Information 
+Practice law once codified in Chapter 92E, which was repealed 
+and replaced with UIPA in the late 1980s, used to expressly 
+prohibit agency disclosure of “personal record[s].”  HRS § 92E-4 
+(1985).  The same chapter also provided that “[a]n individual 
+may bring a civil [action] against an agency in a circuit court 
+of the State whenever an agency fails to comply with any 
+provision of this chapter[.]”  HRS § 92E-11(a) (1985) (emphasis 
+added).  That these provisions were repealed and replaced by a 
+statutory scheme with no analogues suggests that the legislature 
+acted purposefully when it passed UIPA, both by limiting the 
+scope of judicial review and by making the exceptions to 
+disclosure discretionary. 
+This conclusion also comports with the OIP’s 
+understanding of UIPA, and OIP opinions “shall be considered as 
+precedent” unless “palpably erroneous” under HRS § 92F-15(b).   31 
+ When a requested record falls into one of these exceptions 
+[under HRS § 92F-13], an agency is not required to disclose 
+it, but an agency is not forbidden from waiving the exception and disclosing the record, unless exception [HRS 
+§ 92F-13(4)] applies and the record is protected by a 
+statute or court order. 
+ 
+OIP Op. Ltr. No. 99-04, at 2 (Oct. 15, 1999); see also OIP Op. 
+Ltr. No. 05-03, at 1 (Jan. 19, 2005) (“While the UIPA confers on 
+an agency the discretion to withhold certain types of records 
+(or certain types of information contained in records), it does 
+not require an agency to deny access to those records.”); OIP Op. Ltr. No. 05-18, at 3 (Dec. 9, 2005) (“[G]enerally, the UIPA 
+is a discretionary statute and does not require an agency to 
+withhold a record.”); OIP Op. Ltr. No. 06-04, at 4 (June 14, 
+2006) (“If disclosure ‘would constitute a clearly unwarranted 
+invasion of personal privacy’ of that third party, it is our 
+opinion that the agency may, and generally should, exercise its 
+discretion to withhold that personal information under section 
+92F-13(1).” (emphases added)); OIP Op. Ltr. No. 07-11, at 1 n.3 
+(Sept. 25, 2007) (“OIP notes that the UIPA is not a ‘confidentiality statute’ that requires an agency to withhold 
+records.  Rather, the UIPA allows an agency to withhold those 
+records (or information contained in those records) if an exception to disclosure provided by statute applies.  An agency, 
+therefore, has the discretion to publicly disclose records that 
+could otherwise be withheld under the UIPA.”). 32 
+   Peer News is not to the contrary.  In Peer News, Civil 
+Beat had requested information regarding instances of misconduct 
+from HPD and was denied.  138 Hawaiʻi at 55-57, 376 P.3d at 3-5.  
+The procedural posture of Peer News, then, only gave us the 
+opportunity to review when it is appropriate for the circuit 
+court to order disclosure in a UIPA lawsuit brought by an 
+aggrieved requestor; we did not have the occasion to consider 
+when, if ever, the circuit court should enjoin disclosure, nor 
+did we opine as to when disclosure by the agency is merely 
+discretionary or prohibited outright.  In other words, our 
+statement that “[d]isclosure of records is appropriate only when 
+the public interest in access to the records outweighs [an officer’s] privacy interest,” id. at 55, 376 P.3d at 3, referred 
+to court-mandated disclosure.   
+  Accordingly, there are three classes of documents 
+under UIPA: (1) documents that must be disclosed, (2) documents 
+that may be disclosed, and (3) documents that may not be 
+disclosed.19  Parties denied access to a record (as the Peer News 
+                     
+19  The same is true under FOIA.  FOIA’s exemption provision is also 
+phrased permissively: “This section does not apply to matters that are [one 
+of nine defined exemptions.]”  5 U.S.C. § 552(b).  “Subsection (b), 5 U.S.C. 
+§ 552(b), which lists the exemptions, simply states that the specified 
+material is not subject to the disclosure obligations set out in subsection (a).  By its terms, subsection (b) demarcates the agency’ s obligation to 
+disclose; it does not foreclose disclosure.”  Chrysler Corp., 441 U.S. at 
+292.  Accordingly, FOIA “does not afford [plaintiffs] any right to enjoin 
+agency disclosure.”  Id. at 294.  The success of reverse- FOIA cases brought 
+under the APA often depends on whether another law – in Chrysler Corp., for 
+example, the Trade Secrets Act – independently prohibits disclosure, such 
+ 33 plaintiffs were) may sue using the judicial review provision, 
+HRS § 92F-15, and the circuit court should order disclosure if 
+the sought information falls under category (1).  Parties 
+seeking to enjoin the release of information protected by the 
+constitution (or another confidentiality statute if that statute
+provides a cause of action) may sue to prevent disclosure for 
+documents under category (3), and criminal penalties likewise 
+provide a remedy for wrongful disclosure of category (3) 
+documents.  But it would be inconsistent with the legislative 
+scheme to allow suits to prevent disclosure of documents under 
+category (2) – such as those that, as SHOPO alleges here, are 
+exempted from disclosure under HRS § 92F-13(1) – because the 
+statute gives agencies discretion to disclose notwithstanding 
+the exception.  20 
+ In sum, taking the Cort factors together, SHOPO has no
+right of action to sue to demand nondisclosure.  Not only does 
+UIPA already provide an express cause of action for particular 
+groups, nondisclosure is only mandatory under UIPA where 
+another law – for instance, a state or federal statute, the  
+that the disclosure is “not in accordance with law” under § 10 of the APA.  
+Id. at 318; C anadian Com. Corp. v. Dep’t of Air Force, 514 F.3d 37, 39 (D.C. 
+Cir. 2008) (“[U]nless another statute or a regulation authorizes disclosure 
+of the information, the Trade Secrets Act requires each agency to withhold 
+any information it may withhold under Exemption 4 of the FOIA.”). 
+20We do not opine on the outer bounds of an agency’s discretion to 
+release documents that fall under the second category, but we note that the 
+OIP advises agencies that they “generally should” utilize the privacy 
+exemption when a document qualifies.  OIP Op. Ltr. No. 06- 04, at 4 .  34 
+ constitution, or a court order – independently requires an 
+agency to withhold the sought records.  There is no right of 
+nondisclosure under UIPA, only agency discretion to utilize the 
+enumerated exceptions.  Because there is no “‘right’ at issue in
+order for the court to issue relief,” Rees, 113 Hawaiʻ i at 458, 
+153 P.3d at 1143, the circuit court correctly dismissed all of 
+ 
+SHOPO’s UIPA claims in the August 13, 2018 Order. 
+B. The Legislature’s Adoption of Heightened Privacy 
+Protections Under UIPA Does Not Affect What the 
+Constitution’s Privacy Provision Protects 
+ 
+  This brings us to Civil Beat’s second point of error: 
+whether the circuit court erred by conflating the constitutional 
+privacy standards with the UIPA privacy standards.  In its January 3, 2019 Order, the circuit court applied UIPA’s privacy 
+provisions despite its prior determination, which remained 
+intact, that SHOPO lacked a UIPA cause of action.  But because 
+SHOPO lacked a UIPA cause of action, the circuit court’s review 
+of the documents as related to SHOPO’s complaint should have 
+been limited to whether disclosure would violate the Hawaiʻ i
+ 
+Constitution’s privacy provision.  However, Civil Beat’s cross-
+claim arose directly under HRS § 92F-15, as Civil Beat is an 
+aggrieved requester, and so the circuit court ultimately did not 
+err by evaluating the records under Peer News.  That said, Civil 
+Beat is correct that Peer News and the constitutional privacy 
+inquiry are not the same. 35 
+   The constitutional right of privacy is not coextensive 
+with the privacy interests protected by the legislature.  The 
+plain language of the constitutional provision itself compels 
+this conclusion.  Article I, section 6 provides: “The right of 
+the people to privacy is recognized and shall not be infringed 
+without the showing of a compelling state interest.  The 
+legislature shall take affirmative steps to implement this 
+right.”  SHOPO points to the last sentence of the constitutional privacy guarantee in support of its argument that UIPA and 
+constitutional privacy protections are interrelated and that the 
+legislature may define the scope of the right.  But requiring 
+the legislature to “implement” the right does not mean the 
+legislature is empowered to change its definition.  “To 
+implement” means to “carry out” or to “accomplish.”  Implement, 
+Merriam-Webster Dictionary, https://perma.cc/3M37-WU6M.  That 
+the legislature is charged with “implement[ing]” the privacy 
+protection, then, means that the legislature must take “affirmative steps” to “carry out” the constitution’s 
+protections; this responsibility does not equate to authority to 
+reformulate what it is, exactly, the constitution protects.
+21   
+                     
+21  Contrast the right to privacy with the right to a clean and 
+healthful environment protected by article XI, section 9 of the Hawaiʻ i 
+Constitution.  The latter provides in relevant part: “Each person has the 
+right to a clean and healthful environment, as defined by laws relating to 
+environmental quality[.]”  Haw. Const. art. XI, § 9 (emphasis added).  
+Because the constitution explicitly delegates to the legislature the 
+ 36 As in Peer News, SHOPO has pointed to statements made 
+at the constitutional convention in support of the argument that 
+the legislature may “broaden” what the constitution protects: 
+We in the bill of rights committee could have gone through 
+the process of listing all the different ways in which the 
+right to privacy should be protected, but we felt that this 
+was not our job as constitutional delegates, that we should 
+merely state broad principles and then let the legislature 
+balance all the different kinds of rights - the Freedom of 
+Information Act, the right of the people to know (though 
+not put in our Constitution, it still exists), the right of 
+attorneys to discover information, the freedom of the 
+press.  The legislature should balance all of these 
+different competing rights and then have something which would implement the right of privacy. 
+Peer News, 138  at 66 n.9, 376 P.3d at 14 n.9 (quoting 2 
+Proceedings of the Constitutional Convention of Hawaiʻi of 1978,
+at 639 (1980)).  Hawaiʻi
+ 
+This language is consistent with the conclusion that 
+the constitutional directive to “implement” the right to privacy 
+meant that the legislature was tasked with determining “all the 
+different 
+ways in which the right to privacy should be 
+protected.”  
+Id. (emphases added).  In other words, the drafters 
+envisioned that the legislature would craft laws that struck the 
+right balance between open government and individual privacy, 
+protecting the latter while ensuring the former.  UIPA is one  
+responsibility of defining the right to a clean and healthful environment, 
+the framers “len[t] flexibility to the definition of the right over 
+time. . . .  [It] can be reshaped and redefined through statute, ordinance 
+and administrative rule- making procedures and [is] not inflexibly fixed.”  In 
+re Application of Maui Elec. Co., Ltd., 141 Hawai‘ i 249, 261 , 408 P.3d 1, 13 
+(2017) (citation omitted) (formatting altered).  By contrast, the privacy right is to be implemented, not defined, by the legislature.  This difference 
+is meaningful. 37 
+ such law that “implements article I, section 6[.]”  SHOPO v. 
+SPJ, 83 
+Hawaiʻi at 396, 927 P.2d at 404; see also Painting Indus. 
+of Hawaiʻ i Mkt. R
+ecovery Fund v. Alm, 69 Haw. 449, 452, 746 P.2d 
+79, 81 (1987).  But the plain language of the constitutional 
+provision and the intent of the drafters do not support the 
+contention that the legislature, while obligated to take steps 
+to protect privacy, is empowered to reconstitute what the constitutional provision itself protects.   
+  Indeed, any other conclusion would result in absurdity.  As Civil Beat points out, construing UIPA to be 
+coextensive with the constitution results in the absurdity that, 
+because UIPA bears only on government personnel records, public 
+employees would seem to enjoy heightened constitutional 
+protections relative to the rest of the citizenry.  In fact, 
+because the statute as it existed until Act 47 carved out county 
+police officers specifically, the constitution would offer even 
+more protections to police than to other public employees.  
+These are not tenable results.   
+  Rather, the constitution “establishes a floor” upon which the legislature is free to impose additional privacy 
+protections, and to extend those protections to different 
+considered the legislature’s authority to impose heightened 
+privacy protections in Peer News.  “[A]rticle I, section 6 groups.  Peer News, 138 Hawaiʻ i at 66, 376 P.3d at 14.  We ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+38 
+ establishes a floor for protection of privacy rights, but does 
+not preclude the legislature from providing greater protection.” 
+Id.  Said differently, “the legislature is [not] powerless to 
+amend the statutory right to privacy to provide protections 
+beyond what was discussed in SHOPO v. SPJ.”  Id.  But those 
+legislatively-created protections are, as we noted, statutory.  
+We also went on to reject SHOPO’s contention that “it is the 
+[l]egislature’s exclusive role to ‘define’ the constitutional privacy right.”  Id.  In short, while the content of what the 
+constitutional privacy provision protects remains bedrock, the 
+legislature is tasked with implementing those protections, and 
+it may also heighten them as it deems appropriate.   It has done 
+both in UIPA, first by protecting from disclosure documents “which, if disclosed, would constitute a clearly unwarranted 
+invasion of personal privacy,” HRS § 92F-13(1), and (pre-Act 47) 
+by widening the scope of what constitutes “significant privacy 22 
+                     
+22  SHOPO points to State v. Kam, 69 Haw. 483, 748 P.2d 372 (1988), 
+as an example of this court “broadening [] the right of privacy protected by 
+article I, section 6[.]”  Kam reversed the convictions of two booksellers who 
+had been charged with “promoting pornography” because, “[s]ince a person has the right to view pornographic items at home, there necessarily follows a correlative right to purchase such materials for this personal use, or the 
+underlying privacy right becomes meaningless.”  69 Haw. at 495, 748 P.2d at 
+380.  Rather than representing a “broadening” of the privacy right, the Kam 
+case indeed strikes to the very core of the right to privacy: “the right to control certain highly personal and intimate affairs of his own life,” including what one chooses to read in the sanctuary of the home.  Id. at 492, 
+748 P.2d at 378 (quoting Stand. Comm. Rep. No. 69 in 1 Proceedings of the 
+Constitutional Convention of Hawai‘ i of 1978 , at 674- 75 (1980)). ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+39 
+ interest” beyond what the constitution mandates, HRS § 92F-
+14(b)(4).  
+  This leads to the question: what, exactly, does the constitution protect?  Civil Beat is correct that Peer News did 
+not overrule SHOPO v. SPJ in its entirety.  Peer News concluded 
+that SHOPO v. SPJ was not controlling under the circumstances 
+because SHOPO v. SPJ’s conclusion that a government employee’s 
+misconduct records were not protected by the constitutional privacy right did not bear on the issue of whether “disclosure 
+would violate the police officers’ privacy interests under the 
+UIPA, as amended by Act 242.”  138 Hawaiʻi at 65-66, 376 P.3d at 
+13-14.  Thus, the Peer News court was clear that it was ruling 
+on statutory grounds, and we have more recently cited SHOPO v. 
+SPJ for its constitutional principles.  See Civil Beat Law Ctr. 
+for the Pub. Interest, Inc. v. City and County of Honolulu, 144 
+Hawaiʻi 466, 480, 445 P.3d 47, 61 (2019).  Indeed, we reaffirmed 
+the vitality of SHOPO v. SPJ in Peer News itself, clarifying 
+that information not endowed by a “significant privacy interest” 
+per HRS § 92F-14 was subject to the “scintilla” test: 
+“[p]ursuant to SHOPO v. SPJ, if a police officer is discharged 
+rather than suspended as a result of a disciplinary action” – a carve-out under HRS § 92F-14 but inapplicable to the sought 
+records in that case – “disclosure would be required upon showing a mere ‘scintilla’ of public interest in disclosure.”  ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+40 
+ Peer News, 138 Hawaiʻ i at 68 n.11, 376 P.3d at 16 n.11 (citation 
+omitted).   
+  Thus, SHOPO v. SPJ’s constitutional holding – that 
+“information regarding a police officer’s misconduct in the 
+course of his or her duties as a police officer is not within 
+the protection of Hawaiʻi’s constitutional right to privacy” - 
+remains good law.  83 Hawaiʻ i at 397, 927 P.3d at 405.  The SHOPO 
+v. SPJ court arrived at this conclusion by considering “the 
+history of article 1, section 6 . . . , our prior interpretation 
+of that section, and the great weight of authority from other 
+jurisdictions[.]”  Id.  The court noted that reports from the 
+1978 Constitutional Convention indicate the drafters intended to prevent  
+the possible abuses in the use of highly personal and 
+intimate information in the hands of government or private 
+parties but [privacy] is not intended to deter the 
+government from the legitimate compilation and 
+dissemination of data.  More importantly, this privacy 
+concept encompasses the notion that in certain highly 
+personal and intimate matters, the individual should be 
+afforded freedom of choice absent a compelling state 
+interest. 
+ 
+Id. (citing Comm. Whole Rep. No. 15 in 1 Proceedings of the 
+Constitutional Convention of Hawaiʻi of 1978, at 1024 
+(1980)). 
+  SHOPO v. SPJ analogized “highly personal and intimate 
+information” to that protected by the tort of invasion of 
+privacy: “Sexual relations, for example, are normally entirely 41 private matters, as are family quarrels, many unpleasant or 
+disgraceful or humiliating illnesses, most intimate personal 
+letters, most details of a man’s life in his home, and some of 
+his past history that he would rather forget.”  Id. at 398, 927 
+P.2d at 406 (alterations omitted) (citing Restatement (Second)  
+of Torts § 652D cmt. B (Am. Law Inst. 1977)).  The court agreed  
+with other jurisdictions that had concluded that “information  
+regarding charges of misconduct by police officers, in their  
+capacities as such, that have been sustained after investigation  
+and that have resulted in suspension or discharge is not ‘highly  
+personal and intimate information’ and, therefore, is not within  
+the protection of Hawai ʻi’s constitutional right to privacy.”  Id. 
+at 399, 927 P.2d at 407.  While public employees’ personnel  
+records might 
+contain “highly personal and intimate  
+information,” the contents of those records that related to  
+misconduct did not implicate the constitution.  Id. at 399-400,  
+927 P.2d at 407-08.
+Reading Peer News and SHOPO v. SPJ together, an agency
+may (and “generally should” per OIP Op. Ltr. No. 06-04, at 4) 
+withhold records when the information contained therein 
+implicates a significant privacy interest per HRS § 92F-14 and 
+the public’s interest does not outweigh the privacy interest.  
+If a denied requester brings suit, the court must review whether
+that determination was correct, applying Peer News.  But when an 
+ 
+ 42 
+ agency has determined that it may or must disclose pursuant to 
+UIPA, any recourse is to the constitution (or, if applicable, a 
+different confidentiality statute).  The mere fact that the 
+records relate to a statutory privacy interest recognized by HRS 
+§ 92F-14 does not mean that the agency’s decision to disclose 
+violates the constitution (and indeed, as discussed in Part 
+IV.C.1 below, the statutory privacy interest invoked in this 
+case no longer exists).  Rather, as we settled in SHOPO v. SPJ, 
+the agency’s decision should only be reversed if the information 
+in the records is of a “highly personal and intimate” character.  
+Accordingly, the circuit court erred by applying UIPA’s 
+substantive standards to SHOPO’s complaint after correctly 
+concluding SHOPO lacked a cause of action to enforce UIPA. 
+C. UIPA Compelled Disclosure of the Redacted Arbitration Award 
+and Closing Report 
+ 
+  Although the circuit court erred by applying the Peer 
+News test – which is rooted solely in the statutory protections 
+of UIPA – to SHOPO’s complaint when SHOPO lacked a cause of action to enforce UIPA, Civil Beat’s cross-claim squarely raised 
+the issue of whether UIPA mandates the disclosure of the sought 
+records.  On appeal, SHOPO challenges the circuit court’s application of the Peer News balancing test.  We agree with the 
+circuit court and hold that UIPA requires the disclosure of the redacted arbitration award and closing report. 43 
+ 1.
+ Act 47 governs this case 
+ 
+  We first address what version of UIPA applies to this 
+case in light of the legislature’s passage of Act 47 while the 
+appeal was pending.  HRS § 92F-14(b)(4) recognizes a significant 
+privacy interest in a personnel file, except for employment 
+misconduct information resulting in suspension or discharge; 
+while the misconduct information exception formerly did not 
+apply to “county police department officers” (save those cases resulting in an officer’s discharge), Act 47 amended the law 
+such that officers’ misconduct records are now treated the same 
+as those of any other public employee.  Civil Beat and the City 
+argue that there is now no longer a statutory “significant 
+privacy interest” in police misconduct records, a provision that 
+was the “linchpin” of SHOPO’s arguments throughout the 
+litigation.
+23  SHOPO responds that Act 47 does not apply to this 
+                     
+23  This issue has been framed by the parties as one of mootness.  
+Civil Beat argues that SHOPO “no longer has an effective remedy” because 
+“[i]t would be irrelevant if a court declared whether the public interest 
+outweighed Sgt. Cachola’s privacy interests[.]”  The City agrees, urging us 
+to draw from federal law.  In United States Department of Justice v. 
+Provenzano, 469 U.S. 14 (1984), for instance, the Supreme Court accepted 
+certiorari to resolve the discrete question of whether a certain statute was a “withholding statute” within the meaning of FOIA; when Congress changed the 
+law to make unambiguously clear that the answer was “no,” the Court 
+determined the case was moot.  Id. at 15; see also United States v. Microsoft 
+Corp., 138 S. Ct. 1186, 1188 (2018); United States Dep’t of Treasury v. 
+Galioto, 477 U.S. 556, 559- 60 (1986).  The City contends that, as in those 
+cases, “SHOPO is asking this Court to interpret and apply a provision[] of 
+the law no longer applicable to the records at issue,” and where a change in 
+law “conclusively resolves any question” of the propriety of the challenged 
+disclosure, the dispute is moot.   
+ While we agree Act 47 affects the outcome of this case, we 
+disagree that it moots the case.  “A case is moot if it has lost its 
+ 44 
+ dispute because the request was made before Act 47 took effect,
+and that applying Act 47 would constitute retroactive 
+application of a new law, which is generally forbidden.    24 
+  No one disputes that the records are not subject to the old law simply because they were created before Act 47 was 
+passed.25  The parties disagree, however, about whether the 
+timing of the request for the records should be dispositive.  
+Per SHOPO, we must apply the law in effect at the time of the 
+request (which, here, was pre-Act 47), and any other reading of 
+the law would impose impermissible retroactive effect.  Civil 
+Beat and the City argue the law as it exists now should govern 
+because the legislature intended that “going forward, the public 
+be able to access [these] records,” and applying a new law is 
+only impermissible when a right has vested.   
+                     
+character as a present, live controversy of the kind that must exist if 
+courts are to avoid advisory opinions on abstract propositions of law.”  
+Kahoʻohanohano v. State, 114 Hawai‘ i 302, 332, 162 P.3d 696, 726 (2007).  As 
+explained in this opinion, not all of the records fall outside the purview of 
+Peer News, even applying Act 47, and SHOPO raises procedural arguments that 
+require our attention separate and apart from Act 47.  In short, the dispute 
+remains “live.”  Id.  
+ 
+24  Act 47 took effect “upon its approval” – September 15, 2020.  Act 
+47 § 7. 
+ 
+25  This was settled in SHOPO v. SPJ.  In that case, two separate 
+Acts threatened to affect the litigation, and regarding the first, this court addressed whether records that were created before amendments to UIPA were 
+subject to the old or the new version of the law.  The court held that the relevant Act “affects only an agency’s prospective duty of disclosure” and 
+that duty does not change depending on when the records came into existence.  
+83 
+Hawaiʻi at 389-90, 927 P.2d at 397 -98. 45 Although SHOPO is correct that retroactive application 
+of a new law is disfavored and must be supported by clear 
+legislative intent, applying Act 47 to this case would not be 
+applying it retroactively.  “Every statute which takes away or 
+impairs vested rights acquired under existing laws, or creates a 
+new obligation, imposes a new duty or attaches a new disability 
+in respect to transactions or considerations already past, must 
+be deemed retrospective.”  Taniguchi v. Ass’n of Apartment 
+Owners of King Manor, Inc., 114 Hawaiʻi 37, 47, 155 P.3d 1138, 
+1148 (2007) (quoting Graham Const. Supply, Inc. v. Schrader 
+Const., Inc., 63 Haw. 540, 545, 632 P.2d 649, 652 (1981)).  Act 
+47 “imposes a new duty” of disclosure onto agencies, and that 
+duty applies prospectively – which is why SHOPO is correct that 
+the City is not obligated to review all past UIPA requests and 
+ensure they complied with the Act.   
+“However, a statute does not operate retroactively 
+merely because it relates to antecedent events, or because part 
+of the requisites of its action is drawn from time antecedent to 
+its passing, but is retroactive only when it is applied to rights acquired prior to its enactment.”  Emps. Ret. Sys. of the 
+Territory of Hawaii v. Wah Chew Chang, 42 Haw. 532, 536 (Haw. 
+Terr. 1958) (citation omitted).  Although there are antecedent 
+events at issue here – namely the initial UIPA request – no 
+rights vested by virtue of the fact that the records request was 46 made while the old version of the law was in effect (even under 
+the tenuous assumption that the records could have been withheld 
+pre-Act 47).  In SHOPO v. SPJ, we cited approvingly to a Texas 
+Supreme Court opinion that explained: “The Legislature has not, 
+by determining that government information formerly kept 
+confidential should be disclosed, impaired any vested right of 
+a claimant to the confidentiality of the information.”   Indus.  
+Found. of the S. v. Texas Indus. Acc. Bd., 540 S.W.2d 668, 677 
+(Tex. 1976); SHOPO v. SPJ
+, 83 Hawaiʻi at 390, 927 P.2d at 398 
+(citing to Indus. Found.  for the principle that the “Open 
+Records Act does not impair any vested right”).   26
+Moreover, “[w]hen the intervening statute authorizes 
+or affects the propriety of prospective relief, application of 
+the new provision is not retroactive.”  Landgraf v. USI Film  
+Prod., 511 U.S. 244, 273 (1994).  This litigation turns on 
+relief that is equitable in nature: SHOPO seeks an injunction 
+preventing, essentially, the disclosure of the records, and 
+“relief by injunction operates in futuro[.]”  Id. at 274.  
+Civil Beat seeks the opposite: an order mandating that the 
+records be disclosed.  “Disclosure . . . takes place only in 
+the present or the future.”  
+Wisniewski v. Kownacki, 851 N.E.2d
+1243, 1249 (Ill. 2006).    
+26And indeed, as set forth above, there is simply no right of 
+nondisclosure under UIPA, and no right would therefore be impaired by 
+applying Act 47 to this case. 47 
+   SHOPO v. SPJ arose under similar circumstances, and 
+SHOPO argues we should follow the approach of that case.  Act 
+242 was passed in 1995 during the pendency of the litigation.  
+SHOPO v. SPJ, 83 Hawaiʻi at 384, 927 P.2d at 392.  As we later 
+interpreted it in Peer News, Act 242 expanded the scope of HRS 
+§ 92F-14’s privacy interest for police officers’ misconduct 
+records to extend to all records except those resulting in the 
+officer’s discharge.  We considered whether the change mooted 
+the litigation insofar as it was then clear that at least some 
+of the sought records – those relating to officer suspensions – 
+would not be subject to disclosure after Act 242 took effect: 
+The argument is without merit.  Section 4 of Act 242 
+expressly provides that “[t]his Act does not affect rights 
+and duties that matured, penalties that were incurred, and 
+proceedings that were begun, before its effective date.”  
+1995 Haw. Sess. L. Act 242, § 4 at 643.  The instant 
+proceedings were begun well before the July 6, 1995 
+effective date and are, therefore, not affected by Act 242.  
+Accordingly, we hold that Act 242 does not moot this 
+litigation. 
+ 
+Id. at 391, 927 P.2d at 399. 
+  SHOPO v. SPJ’s mootness holding is distinguishable.  
+Act 47 does not have a savings clause, and there is therefore no 
+evidence the legislature intended ongoing litigation to be 
+unaffected by the Act.  Courts generally apply the law in effect 
+at the time they render their decision.  Gov’t Emps. Ins. Co. v. 
+Hyman, 90 Hawaiʻi 1, 5, 975 P.2d 211, 215 (1999) (citing 
+Landgraf, 511 U.S. at 273, for the principle that, although in 48 
+ tension with the presumption against retroactivity, “in many 
+situations, a court should ‘apply the law in effect at the time 
+it renders its decision.’”).  Although “[t]hese judicial 
+principles of construction . . . do not apply if the legislature 
+expressly limits the temporal scope of the statute,” id., the 
+legislature did not do so here. 
+  SHOPO has pointed to HRS § 1-3 (2009) to suggest that 
+Act 47 does not control here.  HRS § 1-3 provides: “No law has any retrospective operation, unless otherwise expressed or 
+obviously intended.”  But this should not be read as a universal 
+“limit[ation on] the temporal scope of the statute.”  Gov’t 
+Emps. Ins., 90 Hawaiʻi at 5, 975 P.2d at 215.  Rather, HRS § 1-3 
+codifies the common law presumption against retroactivity – of 
+which, as explained above, application of Act 47 does not run 
+afoul because it does not impair existing rights in relation to 
+past events.27 
+  Indeed, the legislature frequently includes savings clauses in legislation.  See, e.g., 1995 Haw. Sess. Laws Act 
+                     
+27  Contrast HRS § 1- 3 with a general savings statute, such as 5 Ill. 
+Comp. Stat. Ann. 70/4 (West 2016).  Under Illinois law, the operation of that 
+statute elides the need to analyze whether any existing rights are impaired 
+by operation of a statute to the given case because the legislature has 
+prescribed that substantive laws shall not be applied to pending cases, while 
+procedural laws shall.  Perry v. Dep’t of Fin. & Pro. Regul., 106 N.E.3d 
+1016, 1027 (Ill. 2018).  In Illinois, “after determining that a change is 
+substantive, we need not reach the issue of whether application of the substantive change would have a retroactive impact or operation” because the 
+legislature has explicitly set out the temporal applicability of substantive 
+amendments.  Id. 
+ 49 
+ 242, § 4 at 643; 2004 Haw. Sess. Laws Act 44, § 29 at 227.  This 
+suggests a savings clause operates differently from the 
+retroactivity prohibition in HRS § 1-3, or else the former would 
+always be redundant.  And Civil Beat correctly points out that 
+the legislature included a savings clause in an earlier draft of 
+Act 47, but ultimately removed it.  HB 285, H.D. 1, S.D.2, Proposed C.D.1 § 10, 30th Leg., Reg. Sess. (2020), available at 
+https://perma.cc/HF5K-ZFCR.  Thus, the presumption that the law as it currently exists applies, unless doing so would give a law 
+impermissible “retroactive operation” under HRS § 1-3 – that is, 
+it would impair existing vested rights – or the legislature has 
+spoken otherwise by, say, including a savings clause. 
+  For the reasons above, the application of Act 47 would not impair existing vested rights, nor has the legislature 
+indicated that Act 47 should not apply to pending cases.  
+Accordingly, Act 47 applies to this case. 
+2. To the extent the sought documents are not of the kind 
+enumerated in HRS § 92F-14(b)(4)(B)(i)-(iv), those 
+portions of the records remain subject to Peer News 
+    That Act 47 applies does not end our analysis.  SHOPO 
+rightly points out that the amendment to HRS § 92F-14 removed 
+the county police officer carve-out but did not alter the 
+general privacy interest in an employee’s personnel file.  That 
+generally-applicable privacy interest is excepted for only five 
+categories of information “related to employee misconduct”: “(i) 50 
+ The name of the employee; (ii) The nature of the employment 
+related misconduct; (iii) The agency’s summary of the 
+allegations of misconduct; (iv) Findings of fact and conclusions 
+of law; and (v) The disciplinary action taken by the agency[.]”  
+HRS § 92F-14(b)(4)(B)(i)-(v).  To the extent information 
+contained in the records does not fall within one of the above 
+five categories, it remains part of the general “personnel file” 
+in which an employee retains a significant privacy interest and, in turn, would be subject to the privacy/public interest 
+balancing test expounded in Peer News.   
+  We must therefore determine whether and which parts of the sought records fall within, and outside of, those five 
+categories.  The arbitration award presents a straightforward 
+question – that record is composed almost entirely of findings 
+of fact and conclusions of law.
+28  HRS § 92F-14(b)(4)(B)(iv).  
+Act 47 has therefore altered the law to remove the arbitration award from the ambit of HRS § 92F-14’s “significant privacy interest[s],” and the lower standard set out in SHOPO v. SPJ, 
+not the more stringent balancing test from Peer News, applies.  
+                     
+28  There is some prefatory language before the findings of fact and 
+conclusions of law describing the arbitration procedure – for instance, the 
+witnesses called and the names of the attorneys.  Disclosure of this 
+information does not pose privacy concerns.  Additionally, the arbitration 
+was redacted to remove, inter alia, the names of some witnesses and other 
+private information. 
+ 51 But whether or not some or all of the closing report 
+falls outside the enumerated categories of HRS § 92F-14(b)(4)(B) 
+presents a closer question.  The closing report certainly 
+contains information about the nature of the misconduct and 
+HPD’s summary of the allegations of misconduct per HRS §§ 92F-
+14(b)(4)(B)(ii)-(iii).  However, the closing report arguably 
+goes beyond those statutory categories insofar as it provides a 
+considerable amount of detail, including extensive interviews with those involved.  But we need not and do not engage in the 
+kind of fine-tuned statutory interpretation of HRS § 92F-
+14(b)(4)(B) that categorizing the closing report demands.  
+Rather, we assume, without deciding, that the closing report in 
+its entirety falls outside the scope of the enumerated 
+categories in HRS § 92F-14(b)(4)(B) and, in turn, remains subject to Peer News.  This is because, as Part IV.C.3 sets 
+forth, the records are subject to disclosure even under Peer 
+News.   
+3. Under SHOPO v. SPJ, more than a scintilla of public
+interest weighs toward disclosure of the arbitration 
+award 
+The arbitration award must be disclosed.  Under SHOPO
+v. SPJ, even a scintilla of public interest warrants disclosure  
+of public records when there is no significant privacy interest  
+on the other side of the ledger, which is true of findings of  
+facts and conclusions of law related to police misconduct  52 resulting in suspension or discharge.  83
+  
+P.2d at 391–92; see also Peer News, 138 Hawai
+ʻi at 69 n.11, 376
+P.3d at 17 n.11.  Black’s Law Dictionary defines “scintilla” as
+a mere “spark or trace.”  Scintilla, Black’s Law Dictionary
+(11th ed. 2019).  The “scintilla” test is therefore a low hurdle
+that the arbitration award clears easily.  The contents of that
+document reveal why Sergeant Cachola – who was terminated aftera widely-circulated video portrayed him apparently assaulting a
+woman – was reinstated to the force.  The public’s interest in
+understanding “the proper performance of public duty” and “how
+the police department supervises its employees and responds to
+allegations of misconduct” far surpasses the required scintilla.
+Peer News, 138 Hawaiʻ i at 73-74, 376 P.3d at 21-22.at 383–84, 927 Hawaiʻi
+4. The Peer News balancing test weighs toward disclosing
+the redacted closing report 
+We assume without deciding that the redacted closing
+report remains subject to Peer News for the reasons stated above 
+in Part IV.C.2.  Applying the balancing test prescribed by that 
+case, we hold that the records must be disclosed. 
+Peer News evaluated the privacy exception codified in 
+HRS §§ 92F-13 and 92F-14 and concluded that “for a ‘significant 
+privacy interest,’” like that conferred to police officers in their disciplinary records, “to constitute a ‘clearly 
+unwarranted invasion of personal privacy,’ the privacy interest 53 at stake must be balanced against the public interest in  
+disclosure of the information.”  138 Hawai ʻi at 68, 376 P.3d at 
+16.
+ In other words, in order for records regarding police  
+misconduct to be exempt from disclosure under UIPA, the public  
+interest cannot outweigh the officer’s privacy interest.  If it  
+does, disclosure would not be a “clearly unwarranted invasion of  
+privacy,” and an agency would be required to release those non-
+exempt records.
+While we did not prescribe the particulars of the 
+balancing test in Peer News, we provided some guiding 
+principles.  We recognized in Peer News that while a police 
+officer has a significant privacy interest in their misconduct 
+records by statute, the public has an interest – often a 
+“compelling” one – in public accountability for the police.  Id. 
+at 74, 376 P.3d at 22.  We opined that based on legislative 
+history, “[t]he more egregious the misconduct, the more likely 
+the public interest would outweigh the individual privacy 
+interest.”  Id. at 71, 376 P.3d at 19.  We also emphasized that 
+records that furnish information to “gauge the police 
+department’s responsiveness to specific instances of misconduct 
+and assess whether the agency is accountable to itself 
+internally” would be of public interest.  Id. at 74, 376 P.3d at 
+22 (brackets omitted) (quoting Rutland Herald v. City of 
+Rutland, 84 A.3d 821, 825 (Vt. 2013)).  The public’s interest 54 
+ extends to those investigating misconduct and those accused of 
+misconduct: “the public should be [as]sured that both the 
+activity of public employees suspected of wrongdoing and the 
+conduct of those public employees who investigate the suspects 
+is open to public scrutiny.”  Id. (citation and brackets 
+omitted).  And we noted: 
+Police officers are entrusted with the right to use force - 
+even deadly force in some circumstances - and this right 
+can be subject to abuse.  Public oversight minimizes the 
+possibility of abuse by ensuring that police departments 
+and officers are held accountable for their actions.  The 
+press’s access to records such as those at issue here is 
+one of the primary channels through which such public 
+oversight can operate. 
+ 
+Id. 
+ 
+  The circuit court correctly applied the Peer News 
+balancing test when it concluded that UIPA mandates the City to 
+disclose the redacted closing report.  The sought records are of 
+significant public interest both for their value in shedding 
+light on HPD’s responsiveness to misconduct and to show why 
+Sergeant Cachola was found fit for public duty.  While Sergeant 
+Cachola had a significant privacy interest in his disciplinary 
+records, the circuit court correctly concluded that, as a matter 
+of law, that interest is outweighed by the public’s interest. 
+  On the public interest side of the ledger, “there is a significant public interest in knowing how the police department supervises its employees and responds to allegations of 
+misconduct.”  Id. at 73–74, 376 P.3d at 21–22.  The redacted 55 closing report provides such information.  First, the closing 
+report, especially viewed in tandem with the arbitration award, 
+provides details worthy of public review about the information 
+giving rise to the initial termination decision and the reasons 
+for reinstatement.  Second, the closing report contains 
+information about how officers immediately responding to the 911 
+call investigated the incident.  The public’s interest in 
+understanding HPD’s response to misconduct extends from the immediate response to the final disposition.  In short, the 
+closing report is valuable to the public because its contents 
+help “gauge the police department’s responsiveness to specific 
+instances of misconduct and assess whether the agency is 
+accountable to itself internally.”  Id. at 74, 376 P.3d at 22 
+(brackets and citations omitted). 
+The public also has an interest in understanding why 
+Sergeant Cachola was ordered back on the force.  “[T]he appropriate concern of the public as to the proper performance of public duty is to be given great weight.”  Id. at 73, 376 
+P.3d at 21 (quoting Cowles Publ’g Co. v. State Patrol, 748 P.2d
+597, 605 (Wash. 1988)).  The closing report reveals the facts
+giving rise to his termination and subsequent reinstatement.
+The allegations against Sergeant Cachola – domestic violence –
+were serious and have been in the public eye for years.  The
+public’s ability to understand the conclusion that termination56 was unwarranted is key to establishing public confidence that 
+Sergeant Cachola was deemed fit for the force. 
+On the other hand, we assume without deciding that 
+Sergeant Cachola has a “significant privacy interest” in his 
+misconduct records pursuant to HRS § 92F-14.  But the public 
+interest here is indeed overwhelming, and the underlying events 
+giving rise to the misconduct allegations took place almost 
+entirely in public.  And though the acts occurred while he was off-duty, if “the off duty acts of a police officer bear upon 
+his or her fitness to perform public duty or if the activities 
+reported in the records involve the performance of a public 
+duty,” the public has an interest in disclosure.  Id. (citation 
+omitted).  
+Throughout the litigation, SHOPO has encouraged 
+adopting the framework expounded by the concurrence in Peer News, but SHOPO has failed to articulate why the factors in the 
+concurrence would point against disclosure.  Nor do we agree with any suggestion that the balancing test constitutes a 
+checklist.  The concurrence identified the following factors 
+based on an OIP opinion letter: officer rank, “degree of 
+wrongdoing and strength of evidence,” other available means to 
+acquire the information, “whether the information sought sheds 
+light on a government activity,” and “whether the information 
+sought is related to job function[.]”  Id. at 81–82, 376 P.3d at
+ 57 
+ 29–30 (Pollack, J., concurring) (citing OIP Op. Ltr. No. 10-03 
+(Oct. 5, 2010)).  While many of the factors cited by the Peer 
+News concurrence might be useful or relevant depending on the 
+circumstances of the individual case, they are neither necessary 
+nor dispositive.   The OIP opinion upon which the concurrence 
+relied was clear that these factors are “nonexclusive.”  OIP Op. 29
+Ltr. No. 10-03.  Accordingly, the circuit court need not apply 
+each in turn to come to the correct legal conclusion.  And that the circuit court in this case did not address factors 
+identified by a concurring opinion, to which it was not bound, 
+is not grounds for reversal of a correct judgment.
+30   
+                     
+ 29  While these factors may sometimes aid an agency or court in 
+evaluating whether UIPA requires disclosure, we offer three observations: 
+First, when it comes to police misconduct, the rank of the officer is 
+relevant insofar as a higher rank would weigh more heavily toward the public 
+interest.  But the opposite is not true; that is, the public’s interest in 
+misconduct by a lower- ranked officer is not diminished simply because of 
+their rank.  Police officers of all ranks “are entrusted with the right to 
+use force - even deadly force in some circumstances - and this right can be 
+subject to abuse.”  Peer News, 138 Hawai‘ i at 74, 376 P.3d at 22.  Misconduct 
+by the rank- and-file is not necessarily shielded from disclosure under UIPA. 
+  Second, for the same reason, “whether the information sheds light 
+on government activity” should not preclude disclosure under UIPA simply 
+because the sought document does not relate to a department’s oversight of 
+misconduct.  Given the unique role police play in the community and the other 
+reasons stated in Peer News, the public has an interest understanding why a 
+particular officer is on the force.  That a sought record can shed light on public oversight can heighten public interest, but that a record bears only 
+on an individual officer should not necessarily diminish it.   
+  Third, any consideration of alternative means of acquiring the 
+sought information should take into consideration the quality and difficulty 
+of obtaining these alternatives.  If all non- private information is already 
+in the public domain, then this factor would counsel against disclosure.  But 
+a requester should not be forced to settle for a poor or incomplete 
+substitute, nor should it be required to incur significant delay or financial 
+loss in seeking alternatives. 
+ 
+30  But applying the relevant factors here de novo, we note that 
+Cachola is a sergeant; he was accused of very serious wrongdoing; there are 
+ 58 In sum, the circuit court correctly concluded that the 
+report must be disclosed because of the seriousness and public 
+nature of the misconduct, and the public’s interest in 
+evaluating “[t]he proper performance of public duty” and 
+understanding how HPD “supervises its employees and responds to 
+allegations of misconduct.”  Peer News, 138 
+Hawai‘i at 73-74, 376 
+P.3d at 21-22 (citation omitted).  UIPA requires the disclosure
+of the redacted closing report.31
+D. SHOPO Is Entitled Neither to Declaratory nor to Injunctive
+Relief, and the City Was Not Required to Supply a Written
+Explanation for Disclosure 
+We next turn to the other arguments raised by SHOPO’s 
+appeal.  First, SHOPO argues that the circuit court did not 
+address its request for declaratory and injunctive relief, which 
+it sought to “explain[] what Defendant City’s duties and 
+responsibilities are under the UIPA following a public request 
+for police suspension records, and to order Defendant City to 
+no readily available alternative means to acquire the information; for the 
+reasons above, the information sheds light on police oversight and response to misconduct; and while Sergeant Cachola was off- duty, the information bears 
+on his suitability to be a police officer.  Contrary to SHOPO’s arguments, these factors weigh toward, not against, disclosure. 
+31While the closing report as a whole is subject to disclosure, we 
+ordered several additional redactions to protect personal, private information of little interest to the public.  Information like where those 
+involved in the incident – particularly nongovernmental witnesses 
+– lived or 
+stayed and personal medical information fall in the ambit of “highly personal 
+and intimate information” protected by the Hawai‘ i Constitut ion.  SHOPO v. 
+SPJ, 83 Hawai‘ i at 3 98, 927 P.2d at 406.  If that information is unrelated to 
+the public’s interest in disclosure – as is the case here – it must be 
+redacted.  59 
+ comply with those duties and responsibilities before releasing 
+confidential information for public dissemination.”   
+ 
+ In fact, in addition to summarily dismissing all 
+remaining claims in the April 29, 2019 Order, the circuit court did issue a conclusion of law regarding this requested relief: 
+ 14. The Court respectfully disagrees with SHOPO’ s 
+claim or inference that the City did not conduct any kind 
+of balancing analysis and that therefore this Court is in 
+essence conducting the first balancing test for these records.  The Court sees no evidence in the record to 
+support this claim.  Just because the agency is not 
+required to give a plaintiff a written/reasoned explanation 
+for disclosure does not mean no balancing test was performed. 
+ 
+  Nonetheless, SHOPO argues declaratory and injunctive 
+relief is warranted because “[the] City cannot be allowed to 
+circumvent its responsibilities and violate the undisputed 
+privacy rights of its employee.”  Otherwise, “a flood of costly 
+litigation wherein the courts, not the responsible agencies, will be forced to conduct the ‘highly factual’ initial balancing 
+test to determine whether the release of private information is 
+appropriate” will ensue.  It urges this court to hold that under 
+UIPA, the agency must conduct the initial balancing inquiry, and 
+“[i]f the public’s interest in disclosure does not outweigh the 
+privacy interests of the individual police officers, such 
+disclosure . . . must be denied.”  Here, SHOPO argues, it was 
+error for the court, not the City, to itself conduct this 
+balancing test. 60 The circuit court correctly dismissed the declaratory 
+and injunctive relief claims because these claims for relief 
+emanate from UIPA.  For the same reasons explained in Part IV.A, 
+SHOPO lacks a cause of action to enforce UIPA here.   
+Even if that were not the case, dismissal of the 
+declaratory and injunctive relief claims would still be correct 
+because there is no basis in the statutory scheme to order the 
+relief for which SHOPO is asking.  The circuit court rightly concluded as a matter of law that “the agency is not required to 
+give a plaintiff a written/reasoned explanation for disclosure.”  
+And SHOPO’s argument that the City has failed to comply with 
+UIPA is premised on an incorrect construction of the statute.  
+As set forth above, UIPA does not forbid disclosure, so an 
+agency’s “duties” under UIPA do not include performing a 
+balancing test to determine whether it must withhold the 
+records.  The opposite is true; the City was required to determine whether the public interest outweighs the private interest such that UIPA mandated that it release the records.  
+The circuit court rightly declined to impose a procedural burden – written opinions by an agency to all affected parties upon
+compliance with its UIPA duties – that nowhere exists in Chapter
+92F.
+SHOPO also claims it was denied the right to appeal to
+the OIP.  This contention is also meritless as SHOPO never had a 
+ 61 right to appeal to the OIP.   The OIP has jurisdiction pursuant 
+to HRS § 92F-42(1) to review  an agency’s granting of access, and 
+we see no reason why SHOPO could not have requested such review 
+here.  But an agency appeal  to the OIP may only be brought under 
+HRS § 92F-15.5 (2012), which, like HRS § 92F-15, allows for 
+agency appeals to those who have been denied  access.32
+  This 
+scheme is consistent with the analysis above: since UIPA 
+exemptions do not require nondisclosure, SHOPO had no right to 
+seek relief from the OIP based on a grant of access.   33
+32For the same reason, the OIP’s regulations in the Hawai‘ i 
+Administrative Rules (HAR) §
+ 2-73-15, which SHOPO argues “could have” been 
+referred to by the circuit court in applying the Peer News test, are 
+irrelevant.  For one, SHOPO was not entitled to appeal to the OIP; for 
+another, that regulation sets forth the procedures for an OIP appeal, not the 
+substantive standard the agency applies.   
+33HRS § 92F-15.5, “Alternative method to appeal a denial of 
+access,” provides: 
+(a)When an agency denies a person access to a government
+record, the person may appeal the denial to the office ofinformation practices in accordance with rules adopted
+pursuant to section 92F- 42(12).  A decision to appeal to
+the office of information practices for review of theagency denial shall not prejudice the person’s right to
+appeal to the circuit court after a decision is made by the
+office of information practices.
+(b)If the decision is to disclose, the office of
+information practices shall notify the person and the
+agency, and the agency shall make the record available.  If
+the denial of access is upheld, in whole or in part, the
+office of information practices shall, in writing, notifythe person of the decision, the reasons for the decision,
+and the right to bring a judicial action under section 92F-
+15(a).62 E. SHOPO Was Not Denied Due Process
+SHOPO’s claim that it was denied due process is also 
+meritless.  SHOPO argues that it was denied “an opportunity to 
+conduct discovery, to review the materials submitted to the 
+Court including the City’s redactions to the subject records, 
+and an opportunity to provide additional materials and 
+information for the Circuit Court’s consideration.”  It contends
+these actions constitute a violation of their due process right 
+to notice and an opportunity to be heard in a meaningful time 
+and in a meaningful manner.    
+SHOPO’s right to due process was not violated, even 
+assuming the circuit court’s actions implicate procedural due 
+process.  “Due process is not a fixed concept requiring a 
+specific procedural course in every situation.”  Bank of Hawaii 
+v. Kunimoto, 91 Hawai ʻi 372, 388, 984 P.2d 1198, 1214 (1999)
+(citing Sandy Beach Def. Fund v. City Council of the City and  
+Cnty. of Honolulu, 70 Haw. 361, 378, 773 P.2d 250, 261 (1989))  
+Rather, “due process is flexible and calls for such procedural  
+protections as a particular situation demands.”  Id. (citing  
+Sandy Beach Def. Fund, 70 Haw. at 378, 773 P.2d at 261).  In  
+civil cases, the Hawai ‘i Rules of Civil Procedure (HRCP) set  
+forth procedures for discovery and summary judgment; pursuant to  
+HRCP Rule 56(f), the circuit court may deny a motion for summary  
+judgment if the opposing party establishes that additional  63 
+ discovery is necessary.  In U.S. Bank National Association v. 
+Castro, 131 Hawaiʻ i 28, 313 P.3d 717 (2013), the defendants 
+argued that the circuit court erred by not granting them 
+additional time for discovery prior to ruling on a motion for 
+summary judgment.  Id. at 39, 313 P.3d at 728.  The defendant’s 
+memorandum in opposition to the motion for summary judgment 
+mentioned a desire for additional time for discovery related to 
+the “underlying transaction”; specifically, the defendants hoped 
+to find an expert on “problems inherent in the securitization, 
+sale and transfer of notes and mortgages, such as predatory 
+lending practices[.]”  Id. (quotation marks omitted).  However, 
+this court noted that the motion for summary judgment was based on an absence of a genuine issue of material fact as to U.S. 
+Bank’s entitlement to a judgment for possession and writ of 
+possession, and that the defendants had not explained how 
+discovery related to issues with mortgage lending as a whole 
+would help them to establish a genuine issue of material fact 
+related to the motion for summary judgment.  Id. at 39-40, 313 
+P.3d at 728-29. 
+  This case resembles U.S. Bank.  SHOPO stated its 
+desire for an opportunity to review the unredacted version of 
+the records submitted to the court and requested the opportunity
+to submit additional information for the court’s review in an 
+opposition brief, but it has not explained how being allowed to  64 
+ do either of these things would enable it to demonstrate that 
+there is a genuine issue of material fact about whether the 
+documents should be disclosed.   In short, SHOPO has not 
+sufficiently explained why additional process was due here.  SHOPO – which is not the custodian of these documents - has no 
+more entitlement to review the in camera records than Civil Beat 
+did.  It would eviscerate the purpose of in camera review to 
+allow an opposing party to see the in camera record in order to frame its argument.  Ultimately, the only evidence required for 
+the circuit court to conclude that UIPA mandated disclosure as a 
+matter of law was the documents themselves, and it does not 
+appear that the circuit court precluded SHOPO from submitting 
+additional materials in any event.  Thus, the circuit court did 
+not violate SHOPO’s due process rights by not providing SHOPO 
+with the opportunity to conduct discovery, review the records, 
+or submit additional materials.   34
+F. The CBA Is Irrelevant 
+  SHOPO contends that the circuit court erred by not 
+considering the fact that “the requested information was 
+confidential under Article 13 of the CBA between SHOPO and [the]
+City.”  This court settled in SHOPO v. SPJ that an agency may  
+                     
+34  To the extent the briefs address why SHOPO needed discovery, it 
+argues that it needed information on how the City conducted the balancing 
+test because of the lack of written explanation.  But for the reasons 
+explained above, SHOPO’s claim regarding this issue was properly dismissed.   65 
+ not collectively bargain away its duties under UIPA – compliance 
+with the statute is “non-negotiable.”  83 Hawaiʻ i at 404–05, 927 
+P.2d at 412–13.  Nothing in Peer News altered this holding.  An 
+agency must comply with UIPA, and if the CBA would prevent that, 
+it is unenforceable.   Id.  Here, UIPA mandates disclosure, and 
+the CBA is therefore irrelevant. 35
+  
+  SHOPO argues that the CBA was relevant insofar as it 
+could have been considered under the Peer News balancing test; 
+if the information could be ascertained in a way that does not run afoul of the CBA, SHOPO relies on Justice Pollack’s 
+concurrence to argue that the “[a]vailability of other means to 
+obtain the information” would weigh against disclosure.  Peer 
+News, 138 Hawaiʻi at 81, 376 P.3d at 29 (Pollack, J., 
+concurring).  Specifically, SHOPO argues that the disclosures required by HRS § 52D-3.5 (Supp. 2020), a provision that 
+requires each county police chief to submit annual reports to 
+the legislature describing misconduct incidents that resulted in 
+the suspension or discharge of a police officer, would suffice 
+to meet Civil Beat’s request without violating the CBA.
+36   
+                     
+35  On the other hand, when it is in the agency’s discretion whether 
+to disclose records to the public – i.e., records for which an exemption 
+applies, but the agency is not forbidden from disclosing (what we described 
+in Part IV.A as category (2) documents) – complying with a CBA’s 
+confidentiality requirement would not violate UIPA.  However, this case does not present such a scenario. 
+ 
+36  Act 47 also amended HRS § 52D-3.5 to add the identity of the 
+disciplined officer to the yearly reports.  2020 Haw. Sess. Laws Act 47, § 2 
+at 365. 66 
+   As explained above, under Peer News, alternative means 
+of acquiring the sought information may sometimes be relevant to 
+the balancing test, but a requester must not be forced to settle 
+for a poor substitute or required to undertake a more burdensome 
+process to ascertain the information if UIPA would otherwise 
+mandate its disclosure.  Either of these consequences would be 
+anathema to the transparency purpose of UIPA.   
+  The legislative disclosures pursuant to HRS § 52D-3.5 
+are indeed a poor substitute for the arbitration award and 
+closing report.  HRS § 52D-3.5 does not require detailed 
+information about the misconduct incident – just a summary of 
+“the facts and the nature of the misconduct,” HRS § 52D-
+3.5(b)(1) – and the yearly disclosures reveal nothing about the 
+justification for a particular disciplinary action or the 
+investigative process, which ultimately form the core of the 
+public interest in UIPA disclosure of police misconduct records.  
+Peer News, 138 Hawaiʻ i at 73-74, 376 P.3d at 21-22.   
+G. The De Novo Standard of Review Is Consistent with a “Highly 
+Factual” Balancing Test 
+ 
+  SHOPO claims that “[t]he [circuit c]ourt’s UIPA 
+balancing test appears to have been conducted ‘as a matter of 
+law’ and not based on the ‘highly factual’ standard required by
+the Hawaii Supreme Court.”  It relies on the fact that in Peer 
+News, we declined to ourselves apply the balancing test “given  67 
+ the limited factual record,”  138 Hawaiʻ i at 55, 376 P.3d at 3,
+as well as Justice Pollack’s concurrence, which described the 
+analysis set forth in OIP opinions as “highly factual[.]”  Id.at 78, 376 P.3d at 26 (Pollack, J., concurring).   
+ 
+  The circuit court did not err by determining that the records must be disclosed “as a matter of law,” nor is this in 
+tension with a “highly factual” balancing test.  HRS § 92F-15(b) 
+instructs that “[i]n an action to compel disclosure” – which 
+Civil Beat’s counterclaim is – “the circuit court shall hear the 
+matter de novo[.]”  The balancing test prescribed by Peer News 
+requires careful consideration of the facts, to be sure, and the circuit court did so here in the course of in camera review, 
+precisely as Peer News instructed.  138 
+Hawaiʻi at 73, 376 P.3d 
+at 21 (“As contemplated by HRS § 92F–15, the court should 
+conduct an in camera review of the records and determine on a 
+case-by-case basis whether disclosure is warranted.” (footnote 
+omitted)).  The facts required to make that determination are, 
+ultimately, the contents of the records.  The outcome of the 
+test based on in camera review – the determination of whether 
+disclosure is required – is a question of law. 
+H. The Circuit Court’s Acknowledgment that the Process Is 
+“Time-Consuming” Did Not Reflect a Lack of Careful Review 
+ 
+  SHOPO faults the circuit court for noting that the 
+process of reviewing the records in camera was “time-consuming.”   68 
+ In context, the circuit court’s “time-consuming” comment was 
+merely an acknowledgement of the difficulty in sifting through 
+records to weigh the public interest against the privacy 
+interest.   Noting this challenge is a far cry from “refusing to 
+conduct a thorough and complete UIPA balancing test,” as SHOPO alleges.  The circuit court’s order reflects thoughtful 
+consideration of the interests on either side of the Peer News 
+balancing test, and as explained above, the court came to the correct conclusion.  The records are subject to disclosure. 37
+I. The Circuit Court Did Not Err by Concluding that HRS  
+§ 92F-12(a)(2) Requires Disclosure of the Arbitration Award 
+ 
+  The circuit court determined that “there is a separate 
+and independent ground to release the arbitration award – the 
+requirement to disclose adjudicative orders pursuant to HRS § 92F-12(a)(2).”  That statute requires disclosure of “[f]inal 
+opinions, including concurring and dissenting opinions, as well 
+as orders made in the adjudication of cases[.]”  HRS § 92F-
+12(a)(2).  SHOPO does not challenge whether the arbitration 
+award falls into that category; rather, it argues that a 
+                     
+37  The full paragraph from the April 29, 2019 order reads:  
+ 
+ The Court finds that the HPD/City’ s disclosure of the 
+proposed redacted closing report is not clearly 
+unwarranted.  HPD is plainly trying to be transparent 
+regarding the disciplinary investigation of the officer who was discharged and then reinstated, while balancing the 
+privacy interests of everyone else involved.  It is a fine 
+line, and time- consuming, to weigh these issues page by 
+page. 
+ 69 
+ disclosure under HRS § 92F-12(a)(2) is not exempt from the 
+exceptions of HRS § 92F-13, and the “[c]ircuit [c]ourt was wrong 
+to conclude that it [was].” 
+ 
+  SHOPO is mistaken; the circuit court did not conclude that the arbitration award was exempt from HRS § 92F-13.  The 
+circuit court’s order stated: “Although the arbitration award, 
+as a final adjudication award, is a mandatory disclosure under 
+section 92F-12(a)(2), it is still subject to the privacy 
+interests per section 92F-13(1).”  (Emphasis added.)  
+J.  This Record Provides No Basis to Prohibit Disclosure of the 
+Investigative Report 
+ 
+  SHOPO is correct that the circuit court’s order does 
+not prohibit the City from releasing the full investigative 
+report.  The order also does not require it, and Civil Beat has not appealed that component of the court’s decision.  SHOPO’s 
+request that we remand for the circuit court to enjoin the 
+report’s disclosure is meritless because SHOPO does not have a 
+cause of action to compel an agency to withhold a record under 
+UIPA for the reasons explained in Part IV.A.  Nor does SHOPO 
+contend on appeal that the investigative report violates the 
+constitutional privacy right.  HRAP Rule 28 (“Points not argued may be deemed waived.”).  There is therefore no basis on this 
+record to order the circuit court to enjoin the disclosure of 
+the investigative report.  70 
+ V. CONCLUSION 
+ 
+ For the foregoing reasons, the circuit court erred by 
+applying UIPA standards to SHOPO’s complaint when SHOPO lacked a 
+cause of action to sue under UIPA, but it nonetheless correctly 
+resolved Civil Beat’s counterclaim by application of the Peer 
+News test and correctly concluded that UIPA mandated the 
+disclosure of the redacted arbitration award and closing report.  
+We accordingly (1) affirm the August 13, 2018 Order; (2) affirm the September 28, 2018 Order, except that to the extent that it 
+conflates the constitutional and statutory balancing tests, that 
+order is vacated; (3) vacate the January 3, Order; and (4)  
+affirm the April 29, 2019 Order.  The circuit court’s May 24, 
+2019 final judgment is affirmed. 
+Keani Alapa (Vladimir 
+Devens with him on the
+briefs) for appellant    /s/ Mark E. Recktenwald 
+  /s/ Paula A. Nakayama 
+  /s/ Sabrina S. McKenna 
+  /s/ Michael D. Wilson   /s/ Peter T. Cahill 
+ 
+ 
+ 
+Robert Brian Black   
+(Lisa Emily Engebretsen 
+with him on the briefs) for cross-appellant  
+ 
+  
+    
+Duane W. H. Pang 
+(Paul S. Aoki and Molly A.Stebbins with him on the 
+briefs) for appellee  
+ 

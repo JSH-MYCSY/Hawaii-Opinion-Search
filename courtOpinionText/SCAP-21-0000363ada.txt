@@ -1,0 +1,1943 @@
+*** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+ 
+ 
+   
+ 
+  
+ 
+  
+IN THE SUPREME COURT OF THE STATE OF HAWAIʻ I 
+ 
+---o0o--- 
+ 
+STATE OF HAWAIʻ I, EX REL. HOLLY T. SHIKADA, ATTORNEY GENERAL,
+Plaintiff-Appellee, 
+ 
+vs. 
+ 
+BRISTOL-MYERS SQUIBB COMPANY; SANOFI-AVENTIS U.S. LLC; 
+SANOFI US SERVICES INC., formerly known as 
+SANOFI-AVENTIS U.S. INC.; and SANOFI-SYNTHELABO LLC, 
+Defendants-Appellants, 
+ 
+and 
+ 
+SANOFI S.A., Defendant-Appellee.  
+ 
+ 
+SCAP-21-0000363 
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS 
+(CAAP-21-0000363; CASE NO. 1CC141000708) 
+ 
+MARCH 15, 2023 
+ 
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, AND EDDINS, JJ.; 
+AND WILSON, J., DISSENTING  
+ 
+OPINION OF THE COURT BY EDDINS, J. 1
+ 
+ 
+1  At the time of this opinion’s publication, Justice Wilson’s dissent is 
+forthcoming. Electronically Filed
+Supreme Court
+SCAP-21-0000363
+15-MAR-2023
+08:05 AM
+Dkt. 67 OP*** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 2 I. INTRODUCTION 
+ 
+This case is about whether two pharmaceutical companies — 
+Defendants-Appellants Bristol-Myers Squibb and Sanofi — violated 
+Hawai
+‘i’s Unfair or Deceptive Acts or Practices law (UDAP) by 
+misleading the public about the safety and efficacy of their 
+antiplatelet drug, Plavix. 
+The State, in a 2014 complaint, alleged that Plavix was 
+less effective in patients who had certain liver-enzyme 
+mutations (poor responders).  It said that people with these 
+mutations had worse outcomes on Plavix than others, and that 
+Defendants knew this fact years before 2009, when the FDA 
+updated Plavix’s label with information about the poor responder issue.   
+The State alleged Defendants violated Hawaiʻ i law i
+ n two 
+ways.  First, it asserted that the companies – despite knowing 
+about the issues with Plavix – failed to update the drug’s 
+warnings to inform the public.  Second, the State claimed the 
+defendant companies intentionally kept the poor responder issue 
+under wraps and suppressed research into it in order to protect 
+their bottom line. 
+The Circuit Court of the First Circuit agreed with the 
+State on both points.  After a bench trial that spanned more 
+than a month, the court held that Bristol-Myers Squibb and *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 3 Sanofi had violated UDAP by engaging in deceptive and unfair 
+acts and practices. 
+The court said the defendant companies misled 
+Hawai‘i 
+consumers by failing to warn them that Plavix was less effective 
+for poor responders.  It found that this omission injured 
+consumers by denying them the drug’s full promised antiplatelet 
+effect, hindering their ability to give informed consent, and 
+preventing them from taking an alternative drug or undergoing 
+genetic testing to determine whether they were poor responders.  
+The court also faulted Defendants for both refusing to 
+adequately research variability of response and suppressing 
+research that might confirm a link between ethnicity or genotype and Plavix responsiveness.   
+For these acts, the court imposed an $834 million penalty.   We vacate this penalty.   
+The court improperly granted the State’s motion for partial 
+summary judgment on a central trial issue: Did the label matter to consumers?  
+The summary judgment ruling on materiality circumscribed 
+the companies’ ability to present a full defense, marred the court’s deceptive acts holding, and affected the penalty award.  
+Bristol-Myers Squibb and Sanofi are entitled to a new trial on 
+the deceptive acts or practices claim. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 4 But there will be no second trial on the unfair acts or 
+practices claim.  The court’s holding that the companies 
+committed unfair acts under UDAP has sufficient, independent 
+evidentiary support.   
+We also conclude that Defendants’ procedural arguments 
+fail.  The court correctly determined that the State’s claims 
+were not barred by UDAP’s safe harbor provision or its statute 
+of limitations.  Nor were they preempted by federal law.   
+We (1) reverse and remand the court’s deceptive acts UDAP 
+holding, (2) vacate the court’s grant of partial summary judgment and the penalty award, (3) affirm the court’s unfair 
+acts UDAP holding, and (4) remand for a penalty award after the 
+deceptive-acts claim is resolved.  
+II. BACKGROUND 
+ 
+A.
+ Factual Background 
+ 
+Defendants-Appellants Bristol-Myers Squibb and Sanofi2 are 
+multinational pharmaceutical companies that developed Plavix, an antiplatelet or “blood thinner” drug.  
+Platelets, tiny pieces of cells in the bloodstream, can 
+form clots which create serious health problems like heart 
+attacks.  Doctors often prescribe Plavix along with aspirin 
+(called dual anti-platelet therapy or DAPT) to patients with 
+ 
+2  The defendant companies are Bristol- Myers Squibb Company (BMS) and 
+Sanofi-Aventis U.S. LLC, Sanofi US Services Inc., formerly known as Sanofi-
+Aventis U.S. Inc., and Sanofi-Synthelabo LLC (Sanofi). 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 5 heart problems or patients who have recently had a procedure
+that might put them at risk for platelet clotting, such as 
+angioplasty  or cardiac stenting.
+ 3 
+Cardiac stents work by propping and holding open arteries 
+to improve blood flow.  Stents can disturb the plaque naturally 
+lining our arteries.  Platelets in the blood can then accumulate 
+around the disruption, forming a clot.  Patients may take blood 
+thinners like Plavix to inhibit this clot formation. 
+Plavix’s chemical name is “clopidogrel.”  Clopidogrel is a 
+“prodrug,” meaning it is only effective once it is changed by the body.  Plavix achieves its antiplatelet effect when it is 
+metabolized by the liver. 
+There are a family of enzymes in the liver, called the 
+“Cytochromes P450” (CYP) that are commonly involved in 
+metabolizing prodrugs. 
+Several CYP450 liver enzymes are involved in metabolizing 
+Plavix.  The liver enzyme CYP2C19 is one of them.
+ 
+Different factors affect how well someone can metabolize 
+Plavix.  “Variability of Response” is “a blanket term that basically reflects that no one person responds the same to any 
+pharmaceutical agent.”  There will be variability of response to 
+ 
+3  Angioplasty is a medical procedure for opening clogged or narrow 
+arteries.  It involves inserting a small catheter with a balloon tip into a 
+blood vessel, and it can also be used to place stents in arteries.  Coronary 
+angioplasty and stents.  https://www.mayoclinic.org/tests-
+procedures/coronary- angioplasty/about/pac- 20384761 [ https://perma.cc/B6SX-
+NM68]. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 6 all drugs.  And it can be caused by intrinsic factors like 
+height, weight, sex, and genetics, or by extrinsic factors like 
+smoking, diet, exercise, and other drugs a patient is taking. 
+If a prodrug is metabolized by CYP2C19, then genetic 
+variation in the CYP2C19 liver enzyme can cause “poor 
+responsiveness” to that drug.  
+Pharmacogeneticists use the star allele system to describe 
+genetic variation in liver enzymes. 
+The *1 genetic version of CYP2C19 (CYP2C19*1) confers fully 
+functional CYP2C19 enzymes.  The other versions of CYP2C19 (CYP2C19*2, *3, *4, *5, *6, *7, or *8) confer a reduced ability 
+to metabolize Plavix.  The CYP2C19*2 and CYP2C19*3 genetic types 
+are the most commonly linked to poor Plavix responsiveness. 
+Each person has two CYP2C19 alleles.  People with two CYP2C19*1 alleles will have a CYP2C19 liver 
+enzyme that is very good at metabolizing Plavix; those with one CYP2C19*1 and one CYP2C19*2 or *3 allele will be “intermediate metabolizers” and someone with two CYP2C19*2 or CYP2C19*3 
+alleles (or one *2 and one *3) will be a “poor responder.”
+ 
+Scientific understandings of CYP2C19’s role in metabolizing 
+Plavix have evolved over time.  
+When Plavix launched in the late 1990s, it was known that 
+the CYP450 enzymes — of which CYP2C19 is one — were involved in 
+metabolizing Plavix.  But the extent of the enzyme’s role in *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 7 metabolizing Plavix and – by extension — the possibility that 
+poor responders might get less benefit from the drug — were not 
+generally known at that time. 
+Terms like “poor responder” or “Plavix resistant” are used 
+(sometimes interchangeably) to refer to two distinct things: (1) 
+the genetic makeup of a person’s CYP2C19 enzymes; and (2) the 
+ability of a person’s liver enzymes (either collectively or 
+isolated CYP2C19 enzymes alone) to metabolize Plavix in a test tube (called platelet-function). 
+There is consensus that a genetic “poor responder” is 
+someone with two *2 or *3 alleles.  But there is less consensus 
+about what level of response to Plavix (either in a test tube or 
+in the real world) makes someone a “poor responder” from a 
+platelet-function perspective.
+4   
+CYP2C19 is not the only enzyme involved in Plavix’s 
+metabolization.  And factors other than CYP2C19 genotype impact 
+the likelihood of adverse clinical outcomes, including blood vessel size, family history, and lifestyle factors like diet or 
+smoking. 
+ 
+4  The trial court collectively called those patients that had less than 
+20% response to the drug or those with zero response to the drug “poor 
+responders.”  The court’s classification of “poor responders” matched the 
+companies’ rubric, which used a cut off of 20% for their meta- analysis.  But 
+a pharmacogenetics team leader for BMS pointed out that the 20% response line 
+was “a somewhat arbitrary distinction,” because it was “not based on clinical 
+outcomes” of the patients.  She added, “what’s the difference between 20 
+percent from the mean or 25 percent from the mean?  It’s an author’s choice.” 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 8 B. Procedural Background 
+ 
+This lawsuit began in March 2014 when the State filed a 
+complaint alleging Bristol-Myers Squibb and Sanofi violated 
+Hawaiʻi’s
+ Unfair or Deceptive Acts or Practices law. 
+ 
+Under UDAP, “unfair or deceptive acts or practices in the 
+conduct of any trade or commerce are unlawful.”  HRS § 480-2(a) 
+(2008).  The State’s complaint alleged that between 1998 and 
+2010 Defendants had violated this law by: (1) failing to 
+disclose that Plavix has diminished or no effect in poor 
+metabolizers; and (2) allowing their research decisions to be 
+driven by profit-seeking.  The State claimed the Defendants’ 
+behavior was both deceptive and unfair. 
+1.
+ Motion for Summary Judgment 
+ 
+The State moved for partial summary judgment on its 
+deceptive acts or practices UDAP allegation.  
+The State’s motion focused on one part of its deceptive 
+acts claim.  A deceptive act is defined as: “(1) a 
+representation, omission, or practice that (2) is likely to 
+mislead consumers acting reasonably under the circumstances 
+where (3) the representation, omission, or practice is 
+material.”  Courbat v. Dahana Ranch, Inc., 111 Hawaiʻ i 254, 262, 
+141 P.3d 427, 435 (2006) (cleaned up).  The State argued that the third part – materiality – should not be up for debate. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 9 The State argued that there was no need for a trial to 
+determine the materiality of information about Plavix’s lower 
+efficacy for poor responders.  There was “no doubt that the 
+information contained in Plavix’s federally mandated black box 
+warning is material as a matter of law.”  Thus, the State asked 
+the court to decide materiality before trial, at summary 
+judgment – it would “eliminate any unnecessary time at trial.”
+ 
+The court resolved the materiality element in the State’s 
+favor.  It decided that there was no genuine dispute of material 
+fact that Defendants’ omission involved “information that is 
+important to consumers and, hence, likely to affect their choice 
+of, or conduct regarding, a product.”  Courbat, 111 Hawaiʻ i at 
+262, 141 P.3d at 435 (cleaned up).   
+The court also gave what the companies dubbed an 
+“alternative holding.”  Since it would fact-find and apply those facts to the law at a bench trial, the court - calling itself 
+the “Ultimate Trier of Fact” - felt it “need not resolve 
+inferences in favor of the non-moving party.”  It found the 
+defendant companies’ evidence “weak and unpersuasive.”  Materiality, an elemental fact to a deceptive acts UDAP 
+violation, would go untested at trial. 
+The court’s summary judgment ruling precluded Bristol-Myers 
+Squibb and Sanofi from presenting trial evidence about the 
+materiality of the warning.  This included evidence showing that 10 *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+Hawaiʻi doctors and patients hadn’t changed how they prescribed 
+or consumed Plavix after information about the poor responder 
+issue was added in 2010 to the black box warning.  The court 
+forbade the defendant companies from introducing evidence about 
+what any person “did or did not do in response to, or as a 
+result of, [t]he addition to the Black Box Warning to the Plavix 
+label in 2010.” 
+The rest of the State’s case proceeded to trial in October 
+and November, 2020. 
+2. Trial5
+The bench trial was a battle royale of testifying
+pharmacology experts, regulatory experts, and medical doctors.  
+The parties presented evidence on everything from the minutiae 
+of FDA regulations to whether St. John’s Wort could enhance 
+Plavix’s efficacy. 
+Much of the trial’s myriad and diverse evidence, however, 
+speaks to three central issues. 
+First, did the defendant companies mislead anyone through 
+omitting the poor responder information from the Plavix label between 1998 and May 2009?  Or were the companies just doing the 
+best they could with incomplete and conflicting scientific 
+information about the causes of variability of response to 
+Plavix? 
+5The Honorable Dean E. Ochiai presided. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 11 Second, did Defendants suppress research into variability 
+of response for financial reasons?  Did greed prevent them from 
+confirming CYP2C19’s role in metabolizing Plavix sooner? 
+And third, did the omission of the poor responder 
+information from Plavix’s label hurt Hawai
+ʻi consumers?  Did this 
+omission hinder consumers’ ability to give informed consent?  Were patients duped into taking a drug that might harm them - or 
+at least not help them - because of Defendants’ omissions? 
+a.
+ Deception through omission? 
+ 
+Regarding the first question of whether Defendants deceived 
+consumers though omission, the parties introduced three major categories of evidence at trial: (1) scientific understanding before Plavix launched in 1998, (2) evidence concerning the 
+scientific community’s changing perspectives between 1998 and 
+2010 on which liver enzymes were principally responsible for 
+metabolizing clopidogrel, and (3) evidence concerning shifts in 
+scientific thinking about the link between CYP2C19 genotypes and 
+clinical outcomes after 2010. 
+i. Pre-approval 
+ 
+Almost four years before the FDA approved Plavix, Dr. Sonia 
+de Morais identified the genetic mutation that causes poor 
+responsiveness in CYP2C19.  She looked at the metabolization of 
+S-mephenytoin - a drug that was known to almost exclusively be 
+metabolized by CYP2C19 – not clopidogrel.  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 12 Dr. de Morais’ 1994 article also introduced the idea of 
+genetic testing for poor response in CYP2C19.6  For her work, she 
+developed a “simple PCR-based genetic test for [identifying] the 
+defective CYP2C19 allele.”  She later clarified that by 
+“simple,” she meant when “compared to the expensive and 
+laborious technique of complete gene sequencing.”  Her test “was 
+only focused on the simple small fragment of DNA that had the 
+mutation”; it was not intended for direct patient use.  
+In addition to identifying (for the first time) CYP2C19*2 
+and CYP2C19*3, Dr. de Morais’ 1994 study found that “[t]here are large interracial differences in the frequency of the poor 
+metabolizer phenotype with [Asian] populations having a five 
+fold greater frequency compared to Caucasians.”  
+Then in 1996, BMS and Sanofi sponsored CAPRIE (Clopidogrel 
+versus Aspirin in Patients at Risk of Ischemic Events): a 
+19,000-person clinical trial designed to compare the relative efficacy of clopidogrel and aspirin in “reducing the risk of a composite outcome cluster of ischaemic stroke, myocardial 
+infarction, or vascular death.”  CAPRIE showed that, compared to 
+aspirin, Plavix conferred a “statistically significant 
+ 
+6  At trial, the State argued that Dr. de Morais’ mid- 90s genetic test 
+could have been used to research any correlation between CYP2C19 gene 
+mutations and poor response to Plavix early in the drug’s development.  But 
+it was also clear that easy access to genetic testing for patients who could 
+be poor responders has only become available since the boxed warning was 
+added. 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 13 reduction” in the risk of death for patients who had recently 
+had a heart attack or stroke or who had peripheral artery 
+disease. 
+ 
+CAPRIE also found a statistically significant relationship 
+between race and treatment outcomes when Whites and non-Whites 
+were compared.  The CAPRIE investigators noted, however, that 
+these results should be interpreted cautiously since only 5% of 
+the study population was non-White.  Also, non-Whites were not well represented in the peripheral artery disease study group 
+(the subgroup for which Plavix was most effective). 
+In 1997, BMS and Sanofi investigated which liver enzymes 
+were involved in Plavix metabolization.  That study showed that 
+the liver enzymes “CYP2B6, CYP2C19 and CYP3A4 are involved in 
+clopidogrel metabolism in human liver microsomes.”  It also 
+“suggest[ed] possible involvement of CYP1A2, CYP2C9 and CYP2E1 
+in clopidogrel metabolism.” 
+On March 5, 1997 – before Plavix’s approval — the companies 
+wrote to the FDA proposing a label that stated in relevant part: “In vitro, the isoenzymes responsible for metabolism of 
+clopidogrel and the carboxylic acid derivative are CYP2B6, 
+CYP2C19 and CYP3A4; evidence also suggests possible involvement 
+of CYP1A2, CYP2C9 and CYP2E1 in clopidogrel metabolism.”  (Emphasis added.) *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 14 The FDA prevented Defendants from including that language 
+on the label.  
+The FDA approved Plavix in November 1997.  
+In its approval 
+letter, the FDA warned Defendants that Plavix’s final printed 
+label “must be identical to the enclosed draft labeling” because 
+“[m]arketing the product with [a label] that is not identical to 
+this draft labeling may render the product misbranded and an 
+unapproved new drug.” 
+ii. Post-approval 
+ 
+After Plavix was approved, Defendants conducted a “meta-
+analysis” of their internal clinical trial data from Phase I and Phase II clinical studies in March of 1998.  The meta-analysis was a retrospective review of prior studies that examined 
+previously available data. 
+The meta-analysis showed there was a variability of 
+response to Plavix.  From the 469 samples examined, 67.8% of 
+patients were considered good responders: the drug was at least 
+20% effective at inhibiting clot formation.  Only 3.4% of 
+patients had no response.  The extent of that variability 
+depended on the test used to measure inhibition: one test showed 
+that 32.2% of patients had less than 20% platelet inhibition while other tests showed 8.5% of patients.
+7 
+ 
+7  At trial, the companies’ witness explained that the 32.2% value 
+encompassed the patients who had tested at least once for less than 20% *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 15 Defendants did not submit the 1998 meta-analysis to the FDA 
+until 2005, seven years after Plavix’s launch.8  When they 
+eventually submitted the meta-analysis to the FDA, it was 
+presented as an appendix to another document. 
+Just before Plavix reached the market in December, Sanofi 
+released a study in November 1998 which concluded that 57% of 
+clopidogrel metabolization was attributable to the liver enzyme 
+CYP3A4, while 13% was attributable to CYP2C19.9  
+The companies theorized that Plavix might principally be 
+metabolized by CYP3A4.  CYP3A4 is “the most abundant” enzyme in the liver, and it has the ability to metabolize a variety of 
+structures.  It does not have a loss-of-function allele.  CYP3A4 
+variations are caused by non-genetic factors like diet and 
+interactions with other drugs. 
+Plavix sales began in December 1998. 
+(1) 1998-2008 
+ 
+From 1998 to 2008, the defendant companies sponsored 
+various studies on Plavix.  Researchers not affiliated with the companies also published on clopidogrel.   
+ 
+inhibition of platelet aggregation.  Of that 32.2%, though, 23% of patients 
+still had an overall inhibition of platelet aggregation over 20%. 
+ 
+8  Defendants submitted the meta- analysis to Swiss medical authorities 
+shortly after its completion in March 1998; the Swiss required the meta-
+analysis before they would approve Plavix. 
+ 
+9  The remaining 30% was attributable to CYP1A2 (18%) and CYP2B6 (12%). *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 16  BMS and Sanofi sponsored a large clinical trial, CURE, 
+beginning in 1998 and ending in 2000.  CURE found that Plavix 
+plus aspirin reduced the risk of cardiovascular death, heart 
+attack, or stroke by 20% more than aspirin plus a placebo did.  
+Of the 12,562 patients enrolled in the CURE trial, 82.1% 
+(10,308) of them were Caucasian and 2% (254) of them were Asian. 
+A 2003 study published by researchers outside the companies 
+examined CYP liver enzymes and clopidogrel metabolization.  The results showed that CYP3A4 and CYP3A5 did the best job 
+metabolizing clopidogrel. 
+In June 2003, a BMS research group published an article on 
+clopidogrel.  The group was led by Dr. Paul Gurbel - an expert 
+on platelet variability of response, then a BMS scientist, and 
+now a qui tam relator suing the companies elsewhere as he 
+testified for the State at trial.  The article described 
+clopidogrel non-responsiveness in 31% of the patient population 
+after procedures such as stenting or angioplasty.  The study did not show a correlation between non-responsiveness to Plavix and 
+adverse clinical outcomes.
+10  But it did show that Plavix didn’t 
+work so well for nearly one in three patients that had stents placed or underwent angioplasty. 
+ 
+10  Dr. Gurbel’s paper implied a connection between clots blocking stents 
+(stent thrombosis) and clopidogrel resistance.  But because the rate of stent 
+thrombosis was much lower than the rate of Plavix resistance, the study noted 
+that the two were possibly unrelated. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 17 The defendant companies sponsored the COMMIT study after 
+CURE.  COMMIT was a clinical trial in China with more than 
+45,000 patients; all enrolled patients were Chinese.  The 
+results published in 2005 showed that when patients who’d had a 
+heart attack were given Plavix and aspirin, their risk of having 
+an adverse cardiac event dropped by 9%.11 
+Next, the defendant companies sponsored the CHARISMA trial.  
+It was a large scale (15,000-patient) clinical trial comparing Plavix’s effects to those of a placebo.  It found that for high-
+risk patients, “clopidogrel plus aspirin was not significantly 
+more effective than aspirin alone in reducing the rate of 
+myocardial infarction, stroke, or death from cardiovascular 
+causes.”  
+But, data from the CHARISMA study (published in 2006) 
+showed that Asian patients had the lowest occurrence of death, 
+heart attack, or stroke while taking Plavix. 
+The shift in focus to CYP2C19 and clopidogrel came in 2006.  
+An independent pharmacogenetics researcher, Dr. Jean-Sebastien Hulot, published a proof-of-concept study which suggested that 
+ 
+11  After the COMMIT study, the FDA approved a new indication for Plavix: 
+it allowed the drug’s prescription to patients who’d had serious heart 
+attacks even if they were no t going to have stents put in. 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 18 CYP2C19 genetic polymorphism was linked to reduced clopidogrel
+responsiveness.12 
+ 
+Then in October 2008, a study came out examining drug 
+interactions between Plavix and Omeprazole.  Omeprazole is a 
+proton pump inhibitor – a type of drug known to impede CYP2C19’s 
+function.  The study showed that patients prescribed both Plavix 
+and Omeprazole were more likely to have diagnostic codes for 
+things like heart attack and stroke than those who weren’t prescribed Omeprazole.  Defendants submitted this study to the 
+FDA “outside of the normal annual cycle of reporting.”  
+Defendants met with the FDA.  An undated document titled 
+“Response to FDA Discussion Held 05 December 2008” prepared by 
+Sanofi summarized the meeting: 
+The discussion centered on whether differences in the 
+formation of the active metabolite could be a primary 
+source of platelet response variability.  It was recognized 
+that the relationship between the variability in platelet 
+response and clinical outcome, as well as the intrinsic and extrinsic factors which modulate the formation of the 
+active metabolite, are not well understood.  A specific 
+focus of the discussion was the extrinsic [proton pump 
+inhibitor drugs] and intrinsic (genetic polymorphisms) 
+factors which impact the formation of the active metabolite through CYP2C19.   
+ 
+At the December 5, 2008 meeting the FDA asked Defendants to 
+prepare a written action plan “in response to the issues 
+raised.”  Defendants did.  They proposed looking at “drug-drug 
+ 
+12  Dr. Hulot wrote that “The CYP2C19*2 loss- of-function allele is 
+associated with a marked decrease in platelet responsiveness to clopidogrel 
+in young, healthy male volunteers and may therefore be an important genetic 
+contributor to clopidogrel resistance in the clinical setting.” 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 19 interaction with proton pump inhibitors” and “genetic 
+polymorphisms and of CYP2C19 and its impact.” 
+(2) 2008-2009 
+ 
+Then on December 22, 2008, Dr. Jessica Mega published the 
+results of a genetic study she had conducted using data collected as part of the TRITON trial.
+  It involved “a head-to-
+head-comparison” of Plavix and Effient (prasugrel), another antiplatelet that was then under development by Defendants’ competitor, Eli Lilly.  Dr. Mega’s study (the Mega study) showed 
+that clopidogrel-treated patients who carried a loss-of-function 
+allele “had a three-fold greater risk of clotting their stent, 
+and a 50 percent greater risk of having a heart attack, a stroke 
+or death.” 
+The Mega study’s results catalyzed discussions between the 
+FDA and Defendants about revising Plavix’s label to include 
+information about CYP2C19.  The FDA pushed the companies to act.  
+It welcomed a counterproposal from the companies, with the understanding it would disregard unsatisfactory suggestions. 
+ In discussing these revisions, a BMS employee wrote 
+in a March 30, 2009 email to his colleagues:
+13 
+ 
+13  The court overruled the defendant companies’ hearsay objection.  The 
+email was not offered for the truth of the matter asserted, the court ruled.  
+Rather, it was evidence of the companies’ knowledge and how the Defendants 
+reacted (or not) to the experts’ comments.  We agree.  The evidence was 
+admissible for non- hearsay purposes.  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 20 Problem is that I don’ t really see a counterproposal but 
+instead it looks like we are into stalling some more.  I 
+have to tell you that I have had in depth 1:1’s with about 
+6 senior [key opinion leaders] since I have been at [the 
+American College of Cardiology] and the mood is very 
+negative towards us (people like Dr. Topol, Gurbel, Eikelboom, Fox are all saying that they have been telling 
+us this for years and we chose to ignore them and bury our 
+head in the sand and so they feel no sympathy toward our 
+current situation!) 
+ 
+In May 2009, the FDA amended the “Precautions” section of 
+Plavix’s label to read: 
+Based on literature data, patients with genetically reduced CYP2C19 function have lower systemic exposure to the active 
+metabolite of clopidogrel and diminished antiplatelet 
+responses, and generally exhibit higher cardiovascular 
+event rates following myocardial infarction than do 
+patients with normal CYP2C19 function (see CLINICAL 
+PHARMACOLOGY: Pharmacogenetics).[14] 
+ 
+(First emphasis added.) 
+The May 2009 label also stated that “patients with an 
+impaired metabolizer status (intermediate and poor combined) had 
+a higher rate of cardiovascular events (death, myocardial 
+infarction, and stroke) or stent thrombosis compared to 
+extensive metabolizers.” 
+Regarding genetic testing, the 2009 label explained that 
+“[p]harmacogenetic testing can identify genotypes associated 
+with variability in CYP2C19 activity.” 
+(3) 2009-2010 
+ 
+Following the May 2009 label update, Defendants and the FDA 
+discussed whether the information should be put in a black box 
+ 
+14  The May 2009 version of the “Pharmogenetics” section stated: 
+“diminished antiplatelet responses to clopidogrel have been described . . . 
+in 21 reported studies,” and that “[t]he relative difference in antiplatelet 
+response between genotype groups . . . is typically greater than 30%.” *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 21 warning — the most prominent type of warning on a drug label. 
+The defendant companies told the FDA that Plavix’s 
+“labeling adequately describes the safety and efficacy of 
+clopidogrel and that a boxed warning [was] not necessary at this 
+time.”
+ 
+Ultimately, the FDA decided to put the CYP2C19 information 
+in a black box warning in 2010.  Like the May 2009 label, the 
+black box included language stating that poor metabolizers taking Plavix are more likely to have adverse cardiac events on 
+the drug than non-poor responders.
+15 
+iii. After the 2010 Black Box Label 
+ 
+In the first half of the 2010s, several research articles 
+called into question the link between CYP2C19 genotype and clinical outcomes identified by the December 2008 Mega study.
+16,17 
+ 
+15  The 2010 Black Box label: 
+ 
+ 
+16  In 2010, Paré et al. published a study that used genomic data collected 
+in connection with two of Defendants’ big trials.  At trial, the companies’ 
+*** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 22 Others appeared to validate the Mega study’s findings. 
+One question the research raised was whether CYP2C19 loss-
+of-function alleles were related to one particular adverse 
+outcome: blood clots blocking stents (stent thrombosis). 
+In a 2015 meta-meta-analysis, Osnabrugge et al. looked at 
+11 meta-analyses.  They found a statistically significant 
+relationship between CYP2C19 loss-of-function alleles and stent 
+thrombosis. 
+But the Osnabrugge study also concluded that the 11 
+studies’ results and conclusions were “discordant.”  It said the primary culprits of this disagreement were between study 
+heterogeneity and publication bias.  And it concluded 
+“[c]onfidence in the presence of an association is limited, and 
+personalized antiplatelet management based on genotyping is not 
+ 
+witness, Dr. Roome, explained that Paré et al.’s article showed that “if you 
+have genomic polymorphisms with loss of function on the CYP2C19, you do not 
+have a worse outcome when you are treated by clopidogrel.  You have an 
+outcome that is comparable to those patients with no genomic polymorphisms on CYP2C19.” 
+ 
+Dr. Gurbel, the State’s witness, faulted Paré et al.’s study for 
+excluding people with stents. 
+ 
+17  In 2011, Holmes et al. published a meta- analysis that synthesized the 
+results of 32 original research studies looking at whether CYP2C19 genotype 
+could predict a person’s response to clopidogrel.  Holmes et al.’s meta-
+analysis found that there was “no evidence for a significant association between CYP2C19 genotype and any important cardiovascular outcome.”  
+Dr. Gurbel criticized Holmes et al.’s work for relying on studies like 
+CURE and CHARISMA, which had heterogeneous study populations.  By casting 
+such a wide net, he said, the meta- analysis “dilute[d] the signal of the 
+importance of *2 [carriage].”  Dr. Gurbel testified that if you just looked 
+at people who’d had stents put in their hearts, then “the totality of the 
+evidence [was] overwhelming” that there was a link between CYP2C19 genotype 
+and clinical outcomes. 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 23 supported by the currently available evidence.”  
+Osnabrugge’s analysis suggested a possible correlation 
+between CYP2C19 and stent thrombosis that was worth further 
+exploration.  Dr. Todd Seto, the medical director of the Center 
+for Outcomes Research and Evaluation at Queen’s Medical Center, 
+testified that the “difficulties” in the 11 meta-analyses 
+prevented Osnabrugge et al. drawing definite conclusions from 
+the results. 
+Dr. Gurbel thought differently about Osnabrugge et al.’s 
+findings.  Concerning the link between CYP2C19 genotype and risk of stent thrombosis, he declared the “totality of the 
+evidence . . . for stent thrombosis,” was “irrefutable.”
+ 
+“There’s no argument against it.  I mean, you have 11 meta-analyses reporting the same thing.” 
+In September 2016, the FDA removed the statement that 
+CYP2C19 poor metabolizers have worse clinical outcomes on Plavix 
+from the boxed warning.
+18 
+ 
+18  The 2016 B lack Box label: 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 24 b. Suppressed research? 
+ 
+The second question the trial focused on was whether 
+defendant companies suppressed research into Plavix’s poor-
+responder issue to protect their profit margins.  The State used 
+internal documents and emails from the companies to support its 
+allegation. 
+i. Internal Company Documents  
+ 
+First, the State pointed to the defendant companies’ 
+internal committee documents.  They argued these established 
+that the companies avoided research that could make Plavix look 
+bad. 
+BMS and Sanofi have a jointly-staffed Plavix “Life Cycle 
+Management” committee (LCM).  The LCM is tasked with “discussing 
+all the new data as well as major trials that were ongoing and 
+sponsored by the companies” and “considering and approving or 
+rejecting local studies from affiliates around the world.” 
+ 
+ 
+*** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 25 The minutes from LCM meetings in January 2001, June 2001, 
+and June 2002 reveal that Defendants declined to fund local 
+studies into variability of response to aspirin.
+  
+The minutes from 2001 reflect that the companies were 
+concerned the studies into variability of response to aspirin 
+might “lead to a similar trial on clopidogrel resistance.”  The 
+June 2002 meeting minutes reflected that Defendants were 
+continuing to refuse funding research into this area because it could lead to a “restrictive positioning of clopidogrel and 
+could open the door to ‘clopidogrel nonresponders.’” 
+Another document summarizing the LCM’s activities in 2002 
+indicated that the committee rejected studies about aspirin 
+nonresponsiveness because “it could lead to the same questions 
+about clopidogrel and because the commercial sensitivity and 
+science of studies in this field is being assessed at a 
+corporate level first.” 
+The June 2003 LCM meeting minutes noted the increase in 
+publications concerning “[v]ariability of response with clopidogrel.”  They identified “[t]hreats for clopidogrel,” 
+related to variability, including “[p]otential threats for 
+future sales.” 
+Then the LCM outlined an “action plan” in 2003 concerning 
+“clopidogrel response variability.”  The first item on the *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 26 action plan was a meta-analysis which would be done exclusively 
+with already-collected data.
+  
+At trial, Dr. Dominique Roome, a Sanofi scientist who 
+worked on Plavix-related issues from 1999 to 2011, conceded that 
+their action plan did not include plans to conduct a large-scale 
+clinical trial on the relationship between CYP2C19 genotype and 
+clinical outcomes; but she explained this omission by saying 
+that the issue of CYP2C19 poor metabolizers “wasn’t even a question that was being discussed or debated in the scientific 
+literature at that point.” 
+ii. Internal Emails 
+ 
+The State also presented internal emails from the early and 
+mid-2000s to demonstrate the companies’ reluctance to engage in aspirin or clopidogrel-resistance studies. 
+In May 2000, a BMS researcher wrote his colleagues to 
+propose a small, clinical trial “comparing the response of 
+blacks vs. whites on ADP-induced platelet aggregation.”  A colleague recommended holding off on the study to see what 
+questions the FDA would ask, noting that the “low number of 
+black people” was not an issue for the FDA in the earlier CAPRIE 
+study.  He added that “[t]he problem is that, given the 
+variability of the test, we always run the risk to show a 
+difference in a pharmacology study . . . and then we really are 
+in trouble.”  A counterpart at Sanofi agreed the proposed study *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 27 “could bear a significant risk” and suggested waiting to see if 
+the FDA would bring it up. 
+In response to another proposed study on aspirin resistance 
+in August 2002, a BMS scientist recounted that “Sanofi hs [sic] 
+generally been ‘down’ on suggestions to study ASA [aspirin] 
+resistance, because they are afraid that ‘clopidogrel 
+resistance’ is right behind.”
+  He later wrote in a separate 
+email: 
+In my opinion, [Sanofi]’s/our reluctance to go down the 
+path toward documentation of clopidogrel resistance is understandable, but it will catch up with us and perhaps be 
+an unpleasant and costly surprise when others document it 
+without asking our permission to do so.   
+ 
+ In June 2003, BMS employees forwarded and discussed Dr. 
+Gurbel’s recently-published article on Plavix non-
+responsiveness.  See supra Section II.B.2.a.ii.(1). 
+ Three emails about Dr. Gurbel’s article were presented at 
+trial. 
+In the first, a BMS researcher wrote that he “view[ed] the 
+paper with mixed feelings.”  He thought some of the data presented were “very positive and encouraging” but also noted 
+that he had “received zero response internally” when he had 
+asked for information on Plavix non-responders. 
+ In the second email, the Vice President of U.S. Marketing 
+for Plavix at the time shared the article and wrote that “BMS U.S. has had difficulty mobilizing the LCM to address the *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 28 importance of understanding Plavix resistance through our data 
+and proactive research.” 
+In the third email, the BMS Vice President for the “Sanofi 
+Alliance” at the time wrote: “Sanofi had an in-house meeting on 
+aspirin resistance in January and presented their data at the 
+January LCM meeting.  However, Sanofi remains adverse [sic] to 
+doing any further work on either aspirin or clopidogrel 
+resistance because of the potential negative marketing implications.” 
+In 2005, the defendant companies determined at a meeting 
+that “[a]dditional studies” were needed on the variability of 
+platelet response issue and suggested using “small trials to 
+help [Defendants] ‘shape the debate.’” 
+In 2006, the defendant companies discussed variability 
+of platelet response during an advisory board meeting.  
+They concluded that while some researchers believed that 
+variability corresponded with “clinical events,” others disputed this relationship. 
+c.
+ Consumer harm? 
+ 
+The last question was whether defendant companies’ acts or 
+practices harmed consumers.  The evidence concerned contemporary understandings of (1) whether CYP2C19 genotype is linked to 
+adverse clinical outcomes and (2) whether non-White *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 29  (particularly Asian) patients on Plavix are more likely to 
+receive little or no benefit from the drug. 
+i. Clinical Outcomes 
+ 
+The State sought to support its theory that poor responders 
+taking Plavix were at a higher risk of adverse clinical outcomes like heart attacks, strokes, or death.  But this link is 
+unclear. 
+In 2019, the State’s witness, Dr. Gurbel, wrote that the 
+link between poor responders and “major adverse cardiovascular events” on Plavix “remains controversial.”
+19  At trial, he 
+emphasized that while the link between major adverse cardiovascular events is not clear, he was “100 percent certain” 
+that a link between adverse events and poor response exists. 
+Dr. Laura Plunkett, the State’s regulatory and pharmacology 
+expert, agreed with Dr. Gurbel.  She testified that “people that 
+can’t metabolize the drug, poor metabolizers, are at an 
+increased risk of experiencing heart attacks and strokes.”  Dr. Plunkett elaborated on why poor responders are at an increased 
+risk: 
+ 
+19  In an April 2010 editorial, Dr. Gurbel also wrote that: 
+ 
+no single study has demonstrated a conclusive link between 
+the presence of a loss- of function genetic polymorphism, 
+suboptimal clopidogrel active metabolite generation (pharmacokinetic measurement), decreased clopidogrel responsiveness (pharmacodynamic measurement), and adverse 
+clinical outcomes.  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 30 if [poor responders] don’t activate [Plavix], they can’t 
+get the benefit.  And don’t forget this is a drug that’s 
+being given to reduce the risk of life- threatening events 
+-- heart attacks and strokes.  So if you don’t activate it 
+and you’re giving the drug to prevent that -- those events, 
+then you’re going to be at increased risk, because obviously without the drug there, you can’t get the 
+benefit. 
+ 
+ Dr. Gurbel and Dr. Plunkett didn’t think that poor 
+responders were more likely to have adverse outcomes on Plavix 
+because the drug was actively harming them.  They thought, 
+rather, that for those who didn’t activate the drug at all, it 
+was effectively a “placebo.” 
+In response, the defendant companies focused on the 
+difference between patients unable to metabolize the drug at all 
+versus those who had a reduced but non-zero response to Plavix.   
+Dr. Seto testified that even a patient with two CYP2C19 
+loss-of-function alleles would still get some benefit from Plavix: “there are papers that have shown benefit in patients, 
+including those who are poor metabolizers.” 
+Dr. de Morais, the scientist who in 1994 identified the 
+genetic mutation that causes poor responsiveness in CYP2C19, 
+testified.  She explained that CYP2C19 poor responders may still 
+metabolize Plavix because “CYP2C19 is not the only enzyme.  
+There are other enzymes that form the active metabolite.”  These 
+other enzymes, she said “will pick up the tab [and metabolize]” Plavix if the CYP2C19 enzyme can’t. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 31 Adding to this, Dr. de Morais expounded on a “very unique” 
+active metabolite that’s produced when liver CYPs oxidize 
+Plavix.  Even for poor responders, patients can receive clinical 
+benefits from Plavix, because the active metabolite forms a 
+long-lasting, stable bond with blood platelets.  This bond makes 
+the platelets slippery so they cannot easily form a clot and 
+stays slippery for a “couple of days or [a] week or so” before 
+it’s excreted from the body. 
+ii.
+ Ethnicity and poor responsiveness 
+ 
+The State also attempted to show that Asian patients faced 
+a greater risk of adverse effects on Plavix. 
+There was no dispute that Asians are more likely to carry 
+the *2 or *3 CYP2C19 alleles than Whites.  Dr. Gurbel elaborated 
+that Asians have a 15% chance of carrying two loss-of-function 
+alleles and a 50% chance of carrying one. 
+ But the parties disagreed about whether Asian patients were 
+likely to have worse outcomes on Plavix than White patients.   The defendant companies maintained that the drug worked 
+for Asian patients.  Dr. Seto testified that a 2005 study 
+conducted at Queen’s Medical Center found that ethnicity did not 
+appear to affect the success rate or complication rate of 
+procedures like stenting or angioplasty.  Dr. Seto said the 
+study confirmed that patients who were getting clopidogrel, 
+“including Asians and our Pacific Islander patients,” did fine. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 32 For the State, Dr. Gurbel testified that Plavix was 
+demonstrably less-effective for Asian patients.  He compared the 
+results of the CURE clinical trial (which had mostly White 
+patients) with the COMMIT clinical trial (which had exclusively 
+Chinese patients).  He pointed out that Plavix had only a 9% 
+risk reduction effect for the Chinese participants in the COMMIT 
+trial, less than half of the 20% risk reduction shown in CURE.  
+Thus, he reasoned, the COMMIT trial showed that Plavix was less effective for Chinese patients.   
+ 
+In response, Dr. Seto disagreed that the CURE and COMMIT 
+studies – which used different methodologies – showed a reduced 
+effectiveness in one group versus another.  He testified that it 
+was not possible to isolate if race or ethnicity was connected 
+to any supposed difference in the results.  He further noted 
+that the 2016 American College of Cardiology/American Heart 
+Association (ACC/AHA) guidelines recommend Plavix as an 
+antiplatelet without any regard to patients’ race or genetics.  And that the guidelines recommend against routine genetic 
+testing even for patients of Asian or Pacific Island descent. 
+3. FOF-COLs 
+ 
+In its Findings of Fact and Conclusions of Law, the court 
+found that the companies had committed both deceptive and unfairacts.  First, it stated that the companies had misled consumers 
+by not informing patients about the poor responder issue from  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 33  the beginning.  Second, the court determined that the companies 
+engaged in a pattern and practice of suppressing inquiry into 
+variability of response for financial reasons.  Third, the court
+decided that the defendant companies’ actions harmed  
+consumers.   Hawaiʻi 
+a. Deceptive Acts by Omission   
+ 
+First, the court focused on Plavix’s labeling, stating that 
+the “facts presented show that Defendants had sufficient 
+knowledge, technology, and ability to update the Plavix label 
+from launch and continuing for many years.” 
+The court listed various facts that Defendants knew at the 
+time of Plavix’s launch.  It highlighted these findings: (1) Defendants’ internal reports revealing that the Cytochrome P450 
+enzymes, including CYP2C19, were involved in Plavix’s 
+metabolization; (2) Defendants’ 1998 meta-analysis finding that 
+32.2% of patients had a reduced response to Plavix when one test 
+was used;
+20 (3) the CAPRIE clinical trial’s showing of a 
+statistically significant difference in Plavix’s effectiveness for White patients as compared to non-White patients; (4) Dr. de Morais’ work showing that “CYP2C19 polymorphisms were found to 
+be a 100% predictor of poor metabolizers (for S-
+ 
+20  In a footnote, the trial court “ consider[ ed] it significant that 
+Defendants did not disclose their 1998 Meta- Analysis to the FDA until after 
+[the] Gurbel study was published.”  See supra Section II.B.2.a.ii(1).  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 34 mephenytoin[ ])”; (5) East Asians were “five-fold” more likely 
+to have a variant of CYP2C19 that made them Plavix poor 
+responders; and (6) a genetic test for CYP2C19 variations had 
+existed for laboratory use since 1994. 21
+The court found that after Dr. Hulot’s 2006 study 
+supporting the hypothesis that CYP2C19 polymorphisms contribute 
+to Plavix variability of response “Defendants took no action to 
+update Plavix’s label to inform prescribing physicians and patients about Plavix resistance” even though “it was already 
+established that these CYP2C19 polymorphisms were more prevalent 
+among certain Asian populations.” 
+The court concluded the companies failed to use the 
+information they had about Plavix’s variability of response to 
+“try to warn the public or the FDA” about the poor responder 
+issue or pursue information about Plavix’s bioactivation. 
+b. Suppressed and Avoided Research 
+ 
+Second, the court faulted Defendants for avoiding any 
+serious examination into CYPC219’s role in driving variability 
+of response to Plavix.  It rejected Defendants’ claim that they 
+had supported clinical trials looking into variability of 
+response.
+22  
+ 
+21  Unlike Plavix, S- mephenytoin is a drug almost exclusively metabolized 
+by CYP2C19. 
+ 
+22  In rejecting this argument, the court relied on Dr. Gurbel’s testimony 
+that Defendants “didn’t . . . I would say broadly, you know, [do] any *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 35 The court found the companies “evidenced a clear intent not 
+to conduct or sponsor any research that might confirm the 
+existence of and/or reason for ‘Plavix resistance’ or 
+‘Variability of Response’ to a patient’s race or other 
+identifiable genetic factors.” 
+It further noted that the companies had a duty to 
+investigate why some patients had a diminished response to 
+Plavix.  The court cited Dr. Plunkett’s testimony that pharmaceutical companies must continue to investigate potential 
+issues with the drugs they sell: “under Section 21 CFR [§] 314, 
+there are specific requirements for companies to perform this 
+type of surveillance of their drugs and the literature . . . in 
+order to understand whether or not there are risks out there”
+23 
+and that this affirmative behavior is “part of good pharmacovigilance practice.” 
+The court also rejected Defendants’ claim that they “did 
+not investigate the impact of CYP2C19 polymorphisms on Plavix 
+ 
+meaningful research, no.”  The court also cited Dr. Plunkett’s testimony that 
+“I haven’t seen a large clinical trial that has been done by the company or 
+anyone else of the power to be able to answer definitively those questions, 
+and specifically for the individuals that carry two loss- of-function alleles, 
+we haven’t completely defined that.  No study has been done.” 
+ 
+23  More specifically, 21 CFR §§ 314.80 ( Postmarketing reporting of adverse 
+drug experiences) and 314.81 (Other postmarketing reports) impose a broad 
+duty of surveillance.  21 CFR §§ 314.80(b) requires, for example, “prompt[] 
+review [of] all adverse drug experience information obtained or otherwise 
+received by the applicant from any source, foreign or domestic, including 
+information derived from commercial marketing experience, postmarketing 
+clinical investigations, postmarketing epidemiological/surveillance studies, 
+reports in the scientific literature, and unpublished scientific papers.”  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 36 Variability of Response because they believed at the time of 
+launch and for many years afterward” that CYP3A4 was the 
+“primary means by which a patient’s body produced Plavix’s 
+active metabolite.”  The court said it found “much more 
+persuasive the words and actions reflected in Defendants’ 
+corporate records, and testimony consistent with them, which 
+evidence a clear intent by Defendants to avoid any studies that 
+might unearth negative information about Plavix.” 
+The court said Defendants’ records showed that their 
+aversion to certain variability of response research was “tied to concerns about the potential impact of adverse clinical trial 
+results on sales of the drug.” 
+The court made a series of factual findings concerning 
+Defendants’ internal records.  For example, it referenced emails 
+from 2000 where Defendants shot down a proposed study comparing 
+clopidogrel response in Black versus White patients as risky.  
+It then quoted a 2001 document showing that the LCM had rejected a proposed study on aspirin resistance because “it could lead to 
+a similar trial on [Plavix] resistance.”  The court also cited 
+two 2002 LCM documents reflecting the committee’s decision to 
+reject aspirin studies “because they ‘could lead to the same 
+questions about [Plavix],’ they ‘could open the door to 
+“[Plavix] non-responders,”’ and because there was ‘no commercial 
+interest’ in such studies.”
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 37 The court also emphasized how the companies’ behavior 
+undermined their claim that they believed CYP3A4 primarily 
+metabolized Plavix.  It pointed to a November 2005 meeting 
+summary (after the COMMIT study was published) where Defendants 
+observed that they could support “small trials” on the 
+variability of platelet response issue that could help them 
+“shape the debate.” 
+c.
+ Consumer Harm 
+ 
+Lastly, the court found that the companies’ behavior harmed 
+consumers. 
+The court relied on the label’s materiality to reach its 
+conclusion.  It noted that boxed warnings are usually reserved 
+“for serious warnings, particularly those that may lead to death 
+or serious injury.”  In response to Defendants’ argument at 
+trial that “the 2016 boxed warning deleted any reference to a 
+causal relationship between CYP2C19 poor metabolizer status and 
+clinical outcomes,” the court said that “since the boxed warning remains on the Plavix label, Defendants’ argument is 
+unpersuasive.” 
+The court found that poor responders to the drug “receive 
+only partial benefit or risk reduction, which may be 
+insufficient to prevent an adverse event.”  It cited to studies 
+from the later 2000s showing “CYP2C19-based poor responsiveness 
+to Plavix led to an increased risk of cardiac events . . . when *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 38 compared to patients who were normal or intermediate 
+responders.”  It also found that “the evidence presented at 
+trial established that Defendants knew . . . at the time of 
+[Plavix’s] launch . . . that Plavix patients who are poor 
+metabolizers are likely at higher risk of a recurrent heart 
+attack or stroke than those who are not poor metabolizers.”
+ 
+The court’s finding about the increased risk for 
+cardiovascular events faced by CYP2C19 poor metabolizers underpinned its conclusions that Defendants’ omission was likely 
+to mislead consumers.  This finding also partly supported the 
+court’s unfair acts or practices ruling, in particular, that the 
+defendant companies’ “conduct was substantially injurious to 
+consumers.”  That finding, in turn, informed the court’s 
+analysis of the “injury to the public” prong of its penalty 
+calculation. 
+The court did not explicitly find that Asian patients were 
+exposed to a high risk of adverse cardiac outcomes while taking Plavix.  But it referenced the notion that Plavix doesn’t work 
+as well for non-Whites in its analysis of the injuries inflicted 
+on consumers.  For example, the court highlighted Dr. Gurbel’s 
+testimony comparing the COMMIT and CURE clinical trials.  It 
+detected “a statistically significant disparity in the number of 
+adverse events suffered by non-[W]hite racial groups.” 
+The court then linked Defendants’ awareness (from the *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 39 CAPRIE clinical trial) that Plavix was less effective for non-
+Whites to their “intent not to conduct or sponsor any research 
+that might confirm the existence of and/or reason for ‘Plavix 
+resistance’ or ‘Variability of Response’ to a patient’s race or 
+other identifiable genetic factors.”  
+From this, the court concluded that the companies “took no 
+action to update Plavix’s label to inform prescribing physicians 
+and patients about Plavix resistance” in spite of the “established” fact that “CYP2C19 polymorphisms [leading to poor 
+response] were more prevalent among certain Asian populations.” 
+4. Appeal 
+ 
+Defendants appealed the circuit court’s judgment to the 
+Intermediate Court of Appeals.  We granted the State’s petition for transfer to this court. 
+On appeal, Defendants challenge nearly all the circuit 
+court’s findings of fact and conclusions of law.   
+Defendants contend the evidence showed they didn’t know 
+about the CYP2C19 metabolization issue until the Mega study came out in December 2008.  So, they argue, there is nothing 
+“deceptive” or “unfair” about their failure to update the Plavix 
+label with poor responder information before then.   
+Defendants stress that they investigated Plavix’s safety 
+and efficacy throughout the 2000s, and they claim that they 
+decided against funding certain studies into variability of *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 40 response because of those studies’ size and design limitations, 
+not because they were trying to protect their profits. 
+Defendants also emphasize the lack of evidence showing the 
+omission of the poor responder information from Plavix’s label 
+injured anyone.  Even poor responders, Defendants assert, can 
+benefit from Plavix. 
+In addition to challenging the substance of the court’s 
+holding, Defendants also raise procedural defenses.   
+First, they argue that the State’s claims about Plavix’s 
+FDA-approved label are barred by UDAP’s “safe harbor” provision, which exempts from UDAP “[c]onduct in compliance with the orders 
+or rules of, or a statute administered by, a federal, state, or 
+local governmental agency.”  HRS § 481A-5(a)(1) (2008).  
+Defendants say that because the FDA approved Plavix’s label they 
+are “in compliance” with the FDA’s regulations and exempt from 
+liability under UDAP.   
+Second, the companies claim that the State’s suit is time-
+barred by UDAP’s four-year statute of limitation.   
+Third, they claim the State’s UDAP claims are preempted by 
+the Federal Food, Drug, and Cosmetic Act (FDCA) because it would be “impossible” for the companies to comply with both the 
+federal law on drug labeling and the duties imposed by Hawai
+ʻi 
+law. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 41 III. DISCUSSION 
+ 
+A. No Procedural Bars to the State’s Claims 
+ 
+First, we address the defendant companies’ procedural 
+arguments.  Neither the UDAP’s safe harbor provision nor its 
+statute of limitations bar the State’s claims.  The claims are also not preempted by federal law.
+ 
+1. No Safe harbor 
+ 
+The UDAP’s safe harbor provision does not block the State’s 
+action. 
+UDAP’s “safe harbor” exempts “[c]onduct in compliance with 
+the orders or rules of, or a statute administered by, a federal, state, or local governmental agency.”  HRS § 481A-5(a)(1). 
+Courts interpreting safe harbor provisions often do so 
+narrowly, holding they bar only conduct which is not specifically allowed or required by another authority.  See 
+Showpiece Homes Corp. v. Assurance Co. of Am., 38 P.3d 47, 56 
+(Colo. 2001) (explaining that “[c]onduct amounting to deceptive 
+or unfair trade practices . . . would not appear to be ‘in 
+compliance’ with other laws” where it was not specifically 
+authorized by those laws). 
+The FDA did not issue the companies a special dispensation 
+absolving them of any state-law duties they may have (above and beyond their obligations under federal law) to update the Plavix 
+label as the relevant science evolves.  The FDA’s approval of *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 42 Plavix’s label does not confer the agency’s imprimatur on the 
+companies’ decision not to add information about variability of
+response to its warnings before 2009.  And Defendants have not 
+pointed to any federal statutes specifically authorizing the 
+omissions and conduct the State alleges violates the UDAP.  
+This is not an old-fashioned false advertising consumer 
+protection case.  The State’s allegations and the circuit 
+court’s FOFs and COLs are concerned with Defendants’ conduct, not only the contents of the Plavix label.  The State’s UDAP 
+allegations also expressly involve Defendants’ approach to 
+publicizing and investigating the variability of response issue.  
+Defendants offer no explanation of why UDAP’s safe harbor should 
+bar the claims that, for instance, Defendants violated the law 
+by failing to disclose the results of their 1998 meta-analysis 
+to the public or by avoiding research on variability of response 
+to protect their profits. 
+Because there is no federal or state law, order, or rule 
+expressly authorizing the omissions the State claims violated the UDAP, and because of the conduct-centric nature of the 
+State’s allegations, we hold that the UDAP’s safe harbor 
+provision does not bar the State’s claims. 
+2. No Statute of Limitations 
+ 
+The State’s action is not time-barred.  
+Under HRS § 657-1.5 (1993), the State is not subject to any *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 43 limitations periods unless it is “specifically designated in 
+such a statute as subject to the limitation period contained 
+therein.”  
+Defendants maintain that HRS § 480-24(b) (2008) 
+“specifically designated” the State as subject to HRS § 480-
+24(a)’s four-year limitations period.  But it does not.  
+A statute does not “specifically designate” the State as 
+subject to its statute of limitations unless it clearly and unambiguously provides that its limitations period applies to 
+the State.  HRS § 480-24(b) identifies three situations in which 
+the State is exempted from subsection (a)’s statute of 
+limitations.
+24  But while those exemptions may imply that the 
+ 
+24  HRS § 480- 24(b) (2008) provides: 
+ 
+(b) The following shall toll the time for commencement of 
+actions by the State under this chapter if at any time: 
+ 
+(1) Any cause of action arising under this chapter 
+accrues against any person, the person is out of the 
+State, the action may be commenced within the terms 
+respectively limited, after the return of the person 
+into the State, and if, after the cause of action has 
+accrued, t he person departs from and resides out of the 
+State, the time of the person’s absence shall not be 
+deemed or taken as any part of the time limited for the 
+commencement of the action. 
+ 
+(2) Any cause of action arising under this chapter 
+accrues against any person, the person has petitioned 
+for relief under the bankruptcy code, the time during 
+which the bankruptcy case is pending shall not be deemed 
+or taken as any part of the time limited for the 
+commencement of the action. 
+ 
+(3) Any cause of action arising under this chapter 
+accrues against any person, there is a criminal action 
+pending which arises out of the same occurrence, the 
+time during which the criminal action is pending shall 
+not be deemed or taken as any part of the time limited *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 44 State is subject to HRS § 480-24(a)’s limitations period, they 
+do not unambiguously and expressly state that HRS § 480-24(a)’s 
+limitations period applies to the State.   
+Under HRS § 657-1.5, then, the State is not subject to the 
+limitations period contained in HRS § 480-24(a).25 
+3. No Preemption 
+ 
+Federal law does not preempt the State’s claims.   
+The companies assert this case is one of implied conflict 
+  law conflicts with or contradicts preemption, that is, Hawaiʻi
+federal law.  See Rodrigues v. United Pub. Workers, AFSCME Local 
+646, AFL-CIO, 135 Hawaiʻ i 316, 323, 349 P.3d 1171, 1178 (2015) 
+(defining “implied conflict preemption” as “when state law is in 
+actual conflict with federal law.”) (citation omitted).  If “it 
+is impossible for a private party to comply with both state and 
+federal requirements,” then implied conflict preemption occurs.  
+ 
+for the commencement of the action.  As used in this 
+paragraph, a criminal action is pending until its final 
+adjudication in the trial court. 
+ 
+25  The legislative history to the 2016 amendment repealing HRS § 480- 24(b) 
+supports this conclusion.  The House bill that eventually became that 
+amendment observed: 
+ 
+In the context of claims brought by the State and its 
+agencies pursuant to chapter 480 of the Hawaiʻ i Revised 
+Statutes, the Hawaiʻ i legislature has never specifically 
+designated the State or its agencies as being subject to 
+any limitation period.  Consequently, no limitation period 
+can apply to actions brought by the State under chapter 
+480, Hawaiʻ i Revised Statutes. 
+ 
+House Bill No. 2329, A Bill for an Act Relating to Consumer Protection. 
+https://www.capitol.hawaii.gov/session2016/bills/HB2329_.pdf 
+[https://perma.cc/C3FT- AHDF]. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 45 Hawaii Mgmt. All. Ass’n v. Ins. Comm’r, 106  21, 30, 100 
+P.3d 952, 961 (2004) (cleaned up)).  Hawaiʻi
+ 
+The companies argue there was no way they could have 
+updated Plavix’s label to provide the warning the State says 
+UDAP requires and at the same time comply with federal law. 
+The Defendants overstate the differences between state and 
+federal law.  The fact that state law imposes a greater duty to 
+warn on drug makers than the FDA, does not give rise to implied 
+conflict preemption.26  On the other hand, if a drug maker cannot 
+comply with both the labeling duties imposed by the FDA and its 
+duties under state law, “federal law controls and . . . state-
+law tort claims must be dismissed.”  Guilbeau v. Pfizer Inc., 
+880 F.3d 304, 310 (7th Cir. 2018). 
+Generally, drug manufacturers only update their products’ 
+labels once the FDA has approved a supplemental application.  But under the agency’s CBE regulation: 
+if a manufacturer is changing a label to “add or strengthen 
+a contraindication, warning, precaution, or adverse 
+reaction” or to “add or strengthen an instruction about 
+dosage and administration that is intended to increase the safe use of the drug product,” it may make the labeling 
+ 
+26  See Motus v. Pfizer Inc., 127 F. Supp. 2d 1085, 1092 (C.D. Cal. 2000) 
+(“[M]ost courts have found that FDA regulations as to design and warning 
+standards are minimum standards which do not preempt state law . . . failure 
+to warn claims.”); Wells v. Ortho Pharm. Corp., 788 F.2d 741, 746 (11th Cir. 
+1986) (“An FDA determination that a warning is not necessary may be 
+sufficient for federal regulatory purposes but still not be sufficient for 
+state tort law purposes.”); Hill v. Searle Lab’ys, a Div. of Searle Parms., 
+Inc., 884 F.2d 1064, 1068 (8th Cir. 1989) (“FDA approval is not a shield to 
+liability. . . .  FDA regulations are generally minimal standards of conduct 
+unless Congress intended to preempt common law, which Congress has not done 
+in this area.”). *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 46 change upon filing its supplemental application with the 
+FDA; it need not wait for FDA approval. 
+ 
+Wyeth v. Levine, 555 U.S. 555, 568 (2009) (quoting 21 CFR 
+§§ 314.70(c)(6)(iii)(A), (C)). 
+ In Wyeth, the Supreme Court said that the maker of a 
+prescription drug could establish that it was impossible for it to comply with both state law and the FDCA with “clear evidence 
+that the FDA would not have approved a change to [the brand name 
+drug’s] label” required by state law.  Id. at 571.  “Clear 
+evidence” that the FDA would not have approved a change requires 
+a showing that the drug maker “fully informed the FDA of the 
+justifications for the warning required by state law and that 
+the FDA, in turn, informed the drug manufacturer that the FDA 
+would not approve changing the drug’s label to include that 
+warning.”27  Merck Sharp & Dohme Corp. v. Albrecht, 139 S. Ct. 
+1668, 1678 (2019).  Here, Defendants have not provided “clear evidence” that 
+the FDA would have rejected an earlier label-update proposal.  
+In fact, as the State points out, the record shows that the FDA 
+eventually put information about the poor responder issue in a 
+ 
+27  The drug maker need not show that the FDA formally rejected the 
+proposed label change, just that it would have rejected it had it been 
+sought.  See In re Zofran (Ondansetron) Prod. Liab. Litig., 541 F. Supp. 3d 
+164, 203 (D. Mass. 2021) (“Multiple courts have found [conflict] preemption 
+where the manufacturer had not requested the precise warning sought by the 
+plaintiffs when the FDA had nonetheless made it clear that it would not 
+accept that label change.”); Seufert v. Merck Sharp & Dohme Corp., 187 F. 
+Supp. 3d 1163, 1170 (S.D. Cal. 2016) (“[M]anufacturer submission of a 
+proposed labeling change is relevant, but not dispositive, in determining 
+whether a defendant can establish conflict preemption.”). *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 47 black box warning on Plavix’s label.  It’s conceivable that the 
+FDA would have rejected any pre-Mega study attempts to update 
+Plavix’s label on the grounds that the CYP2C19 poor responder 
+information wasn’t necessarily clinically relevant.  But there’s 
+no “clear evidence” that would have happened. 
+Defendants’ contention that they could not have used the 
+CBE regulation to update Plavix’s label before December 2008 
+because CBE-updates are only allowed when drug makers have “new information” about a drug is unconvincing.  Wyeth considered - 
+and rejected - the drug maker’s similar argument that it could not have used the CBE regulation to update its label with a 
+warning required by state law because it did not have “newly 
+acquired information” about its product.
+28  The FDA’s definition 
+of “‘newly acquired information’ is not limited to new data, but 
+also encompasses ‘new analyses of previously submitted data.’”  
+Wyeth, 555 U.S. at 569 (citation omitted). 
+The FDA’s expansive definition of “newly acquired 
+information”29 drowns Defendants’ preemption claim.  If, as the 
+ 
+28  The Court explained that this broad definition of newly acquired 
+information “accounts for the fact that risk information accumulates over 
+time and that the same data may take on a different meaning in light of subsequent developments.”  Wyeth, 555 U.S. at 569. 
+ 
+29  The definition of “newly acquired information” provided in 21 CFR 
+§ 314.3(b) is: 
+ 
+Newly acquired information is data, analyses, or other 
+information not previously submitted to the Agency, which 
+may include (but is not limited to) data derived from new 
+clinical studies, reports of adverse events, or new *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 48 State alleges, Defendants knew enough about the poor responder 
+issue to trigger a duty under state law to update the Plavix 
+label, then they would also have enough “newly acquired 
+information” to effectuate that update through the CBE 
+regulations. 
+ Defendants have not established it would have been 
+impossible under federal law for them to add information about 
+the poor responder issue to the Plavix label. 
+B.
+ Summary judgment on materiality 
+ 
+We now turn to the circuit court’s summary judgment ruling 
+on materiality.   
+The defendant companies argue that the court erred by 
+granting partial summary judgment to the State on materiality. They also argue the court made an “alternative” ruling that 
+ignored the summary judgment framework.  We agree.  
+We review a trial court’s grant of summary judgment de 
+novo.  Umberger v. Dep’t of Land & Nat. Res., 140 Hawaiʻ i 500, 
+512, 403 P.3d 277, 289 (2017).  Because materiality is “ordinarily for the trier of fact,” summary judgment on this 
+element is “often inappropriate.”  Courbat, 111 Hawaiʻ i at 263, 
+141 P.3d at 436 (cleaned up).  
+ 
+analyses of previously submitted data (e.g., meta- analyses) 
+if the studies, events, or analyses reveal risks of a 
+different type or greater severity or frequency than 
+previously included in submissions to FDA. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 49 Here, the summary judgment grant was inappropriate for two 
+reasons.  First, the circuit court disregarded evidence that 
+raised genuine factual disputes about the materiality of the 
+information in the 2010 Black Box Warning.  Second, calling 
+itself the “Ultimate Trier of Fact,” the court made an 
+alternative ruling and weighed evidence before trial, finding 
+materiality, and straying from the summary judgment framework. 
+We vacate both the court’s “traditional” and “alternative” 
+summary judgment rulings. 
+1.  Disregarded Evidence  
+Under UDAP, a representation or omission is considered 
+material if it “involves information that is important to consumers and, hence, likely to affect their choice of, or 
+conduct regarding, a product” — in this case, Plavix.  Courbat, 
+111 Hawaiʻ i at 262, 141 P.3d at 435 (cleaned up).  The test is 
+objective, not subjective.  Id.  It considers the viewpoint of 
+the “reasonable consumer, not the particular consumer.”  See 
+Yokoyama v. Midland Nat’l Life Ins. Co., 594 F.3d 1087, 1092 
+(9th Cir. 2010). 
+Urging summary judgment, the State argued that the 
+information placed in the 2010 boxed warning was material to 
+consumers.  The State stressed that a black box warning is the 
+most serious warning the FDA can require.  Both BMS and the FDA 
+considered the information on this label “the most important *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 50 information.”  It also presented eight survey findings from the 
+defendant companies’ 40-doctor telephone survey on how the boxed 
+warning impacted the doctors’ prescribing behavior.
+ 
+The defendant companies did not deny that black box 
+warnings are important in the abstract.  Rather, they argued 
+that in this case, no speculation was necessary about whether 
+the label information relating to poor-responders was “likely” 
+to affect doctors’ prescribing decisions.  There was already a 
+decade of evidence about what Hawaiʻ i doctors actually did in 
+response to the label change: not much. 
+Their expert testimony, the companies said, “uniformly 
+demonstrates that the boxed warning did not affect [doctors’] 
+prescriptions of Plavix.”  The companies stressed that the 
+Hawaiʻi doctors s aid that their clinical practices were not 
+impacted by the disclosure of information about CYP2C19 poor 
+metabolizers.  
+Dr. Todd Seto, for example, stated that even though 70 
+percent of his patients are of Asian or Pacific Island descent, 
+the black box warning hasn’t affected his practice.  
+He 
+maintained that “nearly all” the angioplasty patients at Queen’s Medical Center in Honolulu take Plavix.  Dr. Seto also said that 
+he was “not aware” of any physician at Queen’s who “conducts 
+routine genetic testing before prescribing Plavix” to determine if someone is a poor responder. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 51 The companies also pointed to evidence from the State’s 
+public health journal: it recommended that Hawai
+ʻi doctors not 
+change their prescribing practice based on the boxed warning and 
+that genetic testing not be done.  Adding to that, State public 
+health agencies reimburse for Plavix without regard to race or 
+genotype and without requiring genetic testing.  Further, the 
+companies said, Hawaiʻ i Medicaid reimbursements of Plavix 
+increased after the boxed warning, including for patients of 
+most Asian ethnicities.  
+Taken in the light most favorable to them, the companies 
+argued, the black box warning did not change the medical 
+community’s prescribing practices or genetic testing practices.  
+They maintained that consumers continued to take Plavix despite 
+the warning, raising a strong inference that the warning was not material to consumers.  
+The circuit court disagreed.  It rejected the companies’ 
+materiality evidence, finding that when information relates to 
+safety and health, there’s a presumption that it’s material.  
+Since materiality is determined by an objective, patient-
+oriented test, evidence about the behavior of doctors could 
+never create a genuine issue of material fact.  The court ruled 
+that the defendant companies failed to overcome the materiality 
+presumption. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 52 The court erred.  First, it overstated the presumption of 
+materiality.  Second, in refusing to consider any evidence about 
+doctors’ prescribing behavior, the court misinterpreted the 
+objective, patient-centered materiality test. 
+The presumption of materiality that the court relied on 
+comes from the deceptive advertising context.  See Novartis 
+Corp. v. F.T.C., 223 F.3d 783 (D.C. Cir. 2000); In re Thompson 
+Med. Co., Inc., 104 F.T.C. 648 (1984); In re Simeon Mgmt. Corp., 
+87 F.T.C. 1184 (1976).30 
+A presumption of materiality does not end things.  It’s not 
+“an inflexible rule that eliminates [the] need to look at 
+materiality on a case-by-case basis.”  Thompson Med., 104 F.T.C. 
+at 648 n.45.  Overcoming the presumption of materiality is “not a high hurdle.”  In re Novartis Corp., 127 F.T.C. 580, 686 
+(1999).  Defendants may always counter the presumption with extrinsic evidence, including “expert testimony, consumer 
+research, and evidence of how the networks and other expert bodies interpreted the advertisements.”  Thompson Med., 104 
+F.T.C. at 24. 
+The State’s materiality argument is ultimately one from 
+intuition – the intuition that something the FDA considers very 
+ 
+30  The State only cited Novartis C orp. v. F.T.C. for its presumption of 
+materiality argument.  And the court cited only one case that concerned an 
+omission, rather than affirmative deception.  It involved a company that 
+advertised its product as medical but did not tell consumers the product was 
+not FDA- approved.  In re Simeon Mgmt., 87 F.T.C. 1184.  This case did not 
+mention a presumption of materiality.  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 53 important for consumers to see must be material to those 
+consumers. 
+But materiality is about what consumers do, not what the 
+FDA thinks.  See In re ConAgra Foods, Inc., 90 F. Supp. 3d 919, 
+1020 (C.D. Cal. 2015) (in misleading marketing case the “relevant question” was not whether the FDA requires that GMO 
+food be labeled non-natural, but rather, how a “reasonable 
+consumer” would have understood the term “100% Natural” and whether it would have been “material to [their] purchasing 
+decision”).  If the companies are able to present evidence that 
+the information did not, in fact, change consumer behavior, they 
+are entitled to do so. 
+Nor are the companies’ statements that they considered the 
+label information “important” a slam-dunk for the State.  
+Because the standard is whether the information is material to a 
+reasonable consumer, not the defendants.  See Courbat, 111 
+Hawaiʻi at 262, 141 P.3d at 435; see also In re McCormick & Co., 
+Inc., Pepper Products Mktg. & Sales Practices Litig., 422 F. 
+Supp. 3d 194, 250 (D.D.C. 2019) (observing that “evidence of a 
+defendant’s opinion as to materiality is not an adequate 
+substitute for extrinsic evidence.”). 
+In short, the circle of what the FDA and the companies 
+consider “important” may not wholly overlap with the circle of 
+what consumers consider “material” to their decisions. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 54 The same can be said for what doctors consider important. 
+But while the prescribing decisions of doctors are not 
+synonymous with consumer behavior, they are certainly not 
+irrelevant to it.  
+The reality is that patients do not operate in a vacuum 
+when making decisions about prescription drugs.  Objectively 
+reasonable patients may rely on their doctors to help them make 
+sense of drug labels.  See In re Reglan Litig., 142 A.3d 725, 
+738 n.8 (N.J. 2016) (“While the drug labels are initially 
+disseminated to doctors and pharmacists, they, in turn, inform 
+their patients, passing the warnings on to consumers.”).  
+So, while patients and doctors cannot be conflated, the 
+testimony of prescribing doctors also cannot be completely 
+written off.  The fact that cardiologists in Hawaiʻ i continued to 
+prescribe Plavix to patients of all ethnicities even after the 
+introduction of the black box warning bore on whether a 
+“reasonable” patient would choose to purchase the drug.  The 
+circuit court erred by shutting out this category of evidence 
+entirely. 
+The substantial evidence and testimony the defendant 
+companies mustered that Hawaiʻ i doctors did not change their 
+Plavix prescribing practices after the placement of the label and did not recommend genetic testing to patients was enough to *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 55 create a genuine dispute of material fact on materiality.  To 
+hold otherwise was error. 
+2.  
+Alternative Ruling 
+The circuit court gave a back-up explanation for granting 
+the State’s partial summary judgment motion.  This alternative ruling involved the court weighing the evidence as if it were 
+trying the case.  The court felt “confident” it “would reach the 
+same conclusion” if the materiality issue were presented at trial.  So it ruled on materiality at the summary judgment 
+stage, disregarding the summary judgment framework: “When ruling 
+on summary judgment prior to a bench trial — as here — the court 
+need not resolve inferences in favor of the non-moving party.” 
+That is not how summary judgment works.  A court must 
+consider the evidence “in the light most favorable to the non-
+moving party” at summary judgment.  Ralston v. Yim, 129 Hawaiʻ i 
+46, 56, 292 P.3d 1276, 1286 (2013) (cleaned up).  The moving party bears the burden of persuasion.  Yoneda v. Tom, 110 Hawaiʻ i 
+367, 384, 133 P.3d 796, 813 (2006).  To prevail, the moving 
+party must demonstrate that there’s no genuine dispute about the 
+material facts and the “undisputed facts” show the court should 
+grant summary judgment as a matter of law.  Id. (citing Lee v. 
+Puamana Cmty. Ass’n, 109 Hawaiʻ i 5 61, 567, 128 P.3d 874, 880 
+(2006)).  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 56 Whether a motion for summary judgment is brought in a jury 
+trial or a bench trial makes no difference.  A judge deciding a 
+summary judgment motion may not fact-find, even if the matter is 
+set for a for a bench trial.  See Anderson v. Liberty Lobby, 
+Inc., 477 U.S. 242, 249 (1986) (“[A]t the summary judgment stage 
+the judge’s function is not himself to weigh the evidence and 
+determine the truth of the matter but to determine whether there 
+is a genuine issue for trial.”)  
+Summary judgment is no substitute for trial.  The record is 
+thinner.  There’s no cross-examination.  The court has seen only 
+a small snapshot of the case.  An improvident grant of summary 
+judgment denies a party the chance to fully mount an offense or 
+defense.  
+That is why the summary judgment process has a safeguard – 
+the inference in favor of the non-moving party.  Ralston, 129 
+Hawaiʻi at 56, 292 P.3d at 1286; see also Nolan v. Heald College, 
+551 F.3d 1148, 1154 (9th Cir. 2009) (trial court that weighed 
+evidence at the summary judgment stage “ignor[ed] the 
+protections that summary judgment usually affords the non-moving 
+party”).  Without this safeguard, summary judgment would end-run 
+the trial right. 
+The circuit court deviated from the normal summary judgment
+framework.  The court found a material fact – materiality - before trial, supporting its “alternative ruling” with a  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+57 citation to TransWorld Airlines, Inc. v. Am. Coupon Exch., Inc., 
+913 F.2d 676 (9th Cir. 1990), recommended by the State.  Quoting 
+the Ninth Circuit, the court said: “where the ultimate fact in 
+dispute is destined for decision by the court rather than by a 
+jury, there is no reason why the court and the parties should go 
+through the motions of a trial if the court will eventually end up deciding on the same record.”  TransWorld, 913 F.2d at 684.  
+TransWorld did not prod trial judges to weigh facts at the 
+summary judgment stage.  Rather, in TransWorld the court scolded 
+the judge below for skipping to summary judgment on a “wholly 
+inadequate” factual record.  Id. at 683 (“[W]e conclude that the 
+record is wholly inadequate, and the district court’s own opinion is the most persuasive testimony to that inadequacy.”).  
+TransWorld acknowledged that when a question was pure law, 
+where trial would not alter the factual record, there is no need 
+to “go through the motions of trial.”  Id. at 684.  But, the 
+court stressed, “courts must not rush to dispose summarily of 
+cases — especially novel, complex, or otherwise difficult cases 
+of public importance — unless it is clear that more complete 
+factual development could not possibly alter the outcome and 
+that the credibility of the witnesses’ statements or testimony 
+is not at issue.”  Id. at 684–85.   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 58 For a case like this one – novel, complex, and of great 
+public importance – a developed factual record is essential to a 
+fair trial. 
+Here, the court found the defendant companies’ evidence 
+“weak and unpersuasive.”  It said that “even” if the Defendants 
+presented other evidence, “this Court is convinced that if the 
+issue of materiality were litigated at trial the Court would 
+ultimately conclude that the information in the Black Box Warning is material.”
+ 
+Trial courts have no business factfinding at the summary 
+judgment stage.  We vacate the court’s alternative ruling. 
+C. UDAP – Deceptive Acts or Practices 
+ 
+The court’s grant of summary judgment on materiality 
+reverberated throughout the trial.  Because the materiality 
+ruling formed the basis of the court’s holding that the 
+defendant companies committed deceptive acts or practices, we 
+vacate this part of the holding. 
+Materiality is an essential element of a UDAP deceptive 
+acts violation.  See Courbat, 111 Hawaiʻ i at 262, 1 41 P.3d at 435 
+(To prove a deceptive act or practice under UDAP, a plaintiff must show “(1) a representation, omission, or practice that (2) 
+is likely to mislead consumers acting reasonably under the 
+circumstances where (3) the representation, omission, or practice is material.”)  When the court issued its findings of *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 59 fact and conclusions of law, it remarked that it had “already 
+determined that the information in the 2016 boxed warning was 
+material.”  But we have vacated that determination.  Materiality 
+is now an unproven element.  The deceptive acts holding based on 
+it cannot stand. 
+For deceptive acts liability, the court must also find that 
+the omission in question was likely to mislead consumers.  In 
+its decision, the court found that “the omission of this material
+ information was likely to mislead consumers.”  
+(Emphasis added.)  This phrasing suggests that the court found the omission likely to mislead consumers in part or in whole 
+because it was an omission of material information.  This throws 
+the other main element of deceptive acts liability into doubt as 
+well.  
+Lack of an essential element (or two) is enough to vacate a 
+result.  But the materiality ruling marred the trial outcomes in 
+other, more far-reaching ways.  In its summary judgment order, 
+the court ruled that evidence of “what’s happening in Hawaiʻ i,” 
+such as “prescription practices and genetics testing practices” 
+after the 2010 Black Box Warning could not be introduced at 
+trial.  The court drew a thick line in the sand: it would not 
+hear medical expert testimony on anything that happened after 
+2010, when the FDA first placed its boxed warning on Plavix.  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 60 Based on its materiality ruling, the court granted a motion 
+in limine by the State to substantially limit the testimony of 
+Defendants’ main expert witnesses, three Hawai
+ʻi cardiologists.  
+These doctors were not allowed to testify about “their own 
+practices regarding use of Plavix” after 2010.  Nor could they 
+provide any opinions based on “medical or scientific literature” 
+that drew upon post-2010 data. 
+Defendants had wanted to argue that the Plavix story didn’t 
+end in 2010.  Hawaiʻ i doctors continued to treat patients of all 
+ethnic backgrounds with Plavix, guidelines continued to recommend Plavix treatment, and in 2016, the FDA walked back 
+part of its 2010 warning, removing language that warned of worse 
+clinical outcomes for CYP2C19 poor-responders.  But Defendants 
+could not make this argument; their expert witnesses were not allowed to discuss any of it. 
+At the heart of the State’s case is the notion that, for a 
+large chunk of Hawaiʻ i’s
+ population, Plavix is a bad drug, little 
+better than a placebo.  Bristol-Myers Squibb and Sanofi vehemently disagree.  But unlike the State, they did not have 
+the chance to make their case fully at trial.  We therefore 
+vacate the circuit court’s deceptive acts holding. 
+D. UDAP – Unfair Acts or Practices 
+ 
+Unfair act UDAP claims are distinct from deceptive act UDAP
+claims.  To violate HRS § 480-2, a plaintiff may show that an  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 61 act or practice is deceptive or unfair.  See Bronster v. U.S. 
+Steel Corp., 82 
+Hawaiʻi 32, 50-51, 919 P.2d 294, 312-13 (1996)
+(jury instructions wrongly conflated deceptive acts and unfair
+acts under UDAP).  A practice is unfair if it (1) offended 
+public policy, (2) was immoral, unethical, oppressive, or 
+unscrupulous, or (3) substantially injured Hawaiʻ i
+ consumers. 
+See Hungate v. Law Office of David B. Rosen, 139 Hawaiʻ i 394, 
+411, 391 P.3d 1, 18 (2017).   
+ 
+ 
+The circuit court found that the defendant companies 
+violated the UDAP in each unfair acts or practices way.  
+We conclude that the court’s materiality ruling affected 
+its unfair acts finding on “substantial injury.”  The State, 
+however, proved separate and independent grounds to find the 
+defendant companies’ conduct offended public policy and was 
+immoral under UDAP.  These findings support the court’s unfair 
+acts holding. 
+1. No Substantial Injury 
+ 
+The Defendants argue that the court’s unfair acts holding 
+must meet the same fate as its deceptive acts holding.  Because both were impermissibly tainted by the materiality ruling, 
+neither can stand.   
+The companies acknowledge, as they must, that materiality 
+is not an element of unfair act claims.  But they maintain that the court’s premature materiality ruling prevented them from *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 62 mounting a complete defense on their unfair acts or practice 
+claim.  And they point to language in the court’s holding that 
+assumed the materiality of the black box warning. 
+We agree – up to a point.  The circuit court found the companies’ conduct unfair by 
+every possible measure: it was against public policy; it was immoral, unethical, and unscrupulous; 
+and it was substantially 
+injurious to consumers.  
+The court’s misplaced materiality ruling played a part in 
+some of these findings.  Most significantly, it impacted the 
+court’s finding that the companies’ conduct substantially 
+injured consumers.  
+Substantial injury, more so than the other unfair prongs, 
+focuses on consequences for consumers.  Defendants’ most basic 
+argument against materiality – that in practice, the information 
+in the black box did not matter and patients were not harmed by 
+its absence – goes to substantial injury just as much as it goes to materiality.  And the evidence that Defendants wished to but 
+could not introduce about what actually happened after 2010 is 
+probative to the question of consumer injury.  
+The court first found that consumers were injured because 
+they were denied “the opportunity to consider whether to undergo 
+genetic testing” to determine their response to Plavix.  At 
+summary judgment, Defendants mustered evidence that Hawaiʻ i *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 63 hospitals and doctors do not currently perform genetic testing 
+before prescribing Plavix.  If patients aren’t given genetic 
+testing before taking Plavix now
+, Defendants argued, how were 
+they harmed by not having genetic testing then?  This evidence and this argument were not tested at trial.  The court prevented 
+the companies from introducing any evidence of medical practices 
+after 2010, including genetic testing practices.  
+Second, the court found that “patients with CYP2C19 loss-
+of-function alleles” were injured because they were deprived of “the opportunity to make informed decisions” about taking Plavix 
+versus an alternative treatment.  For a lack of information to 
+harm consumers, that information must be material to them.  It 
+may well have been.  But because the court prematurely decided 
+the materiality issue, findings of harm to consumers that hinge 
+on that materiality also cannot stand. 
+The court similarly found that patients were harmed because 
+they could not “give informed consent to their treatment.”  This more broadly-phrased restatement of the court’s second finding 
+fails for the same reason. 
+Lastly, the court found that the defendant companies harmed 
+“an indeterminate number” of patients who were deprived of the 
+“intended risk reduction [they] were relying on Plavix to 
+provide.”  This holding also rests on a chain of assumptions 
+that the materiality ruling prevented the Defendants from *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 64 contesting.  Namely, Defendants were foreclosed from arguing 
+that if doctors do not currently test patients for CYP2C19 
+alleles before prescribing and still prescribe Plavix regularly 
+across ethnic groups, it is reasonable to infer that the medical 
+community thinks Plavix provides adequate risk reduction.  
+Doctor testimony on their current practice is plainly relevant 
+to the question of whether a drug substantially injures patients 
+by providing lower risk reduction, but the court’s materiality ruling effectively barred that testimony. 
+Materiality mattered for each of the court’s substantial 
+injury findings.  So we throw out that portion of the court’s 
+unfair act holding. 
+2. Hawai
+ʻi Unfair Acts or Practices Law 
+ 
+Substantial injury is out.  Under the Federal Trade 
+Commission Act – the original inspiration for UDAP - this would be the end of the matter: no substantial injury, no unfair acts 
+claim.   
+But under 
+ law, the State didn’t need to run the 
+table on unfair conduct.  Our UDAP caselaw does not require a 
+plaintiff to prove all three prongs of unfair acts.  Rather, 
+“[a] practice may be unfair because of the degree to which it meets one of the criteria or because to a lesser extent it meets 
+all three.”  Hungate, 139 Hawaiʻ i at 411, 391 P.3d at 18 (quotingHawaiʻi
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 65 Kapunakea Partners v. Equilon Enters., LLC, 679 F. Supp. 2d
+1203, 1210 (D. Haw. 2009)).  
+This conflicts with the federal approach.  Congress amended 
+the FTC Act in 1994.  Now, plaintiffs suing under the FTC Act 
+must prove substantial injury (and more) for an unfair acts 
+claim.31  See LabMD, Inc. v. Fed. Trade Comm’n, 894 F.3d 1221, 
+1226 n.10 (11th Cir. 2018) (explaining that “for an act or practice to be unfair, the act or practice [1] causes or is likely to cause substantial injury to consumers [2] which is not 
+reasonably avoidable by consumers themselves and [3] not 
+outweighed by countervailing benefits to consumers or to 
+competition.”) (quoting 15 U.S.C. § 45(n)) (cleaned up)). 
+When interpreting the UDAP, we give “due consideration to 
+the rules, regulations, and decisions of the Federal Trade 
+Commission and the federal courts interpreting section 5(a)(1) 
+of the Federal Trade Commission Act (15 U.S.C. [§] 45(a)(1)), as 
+from time to time amended.”  HRS § 480-2(b).  But no one – not 
+ 
+31  15 U.S.C. § 45(n) (2006) reads:  
+ 
+The Commission shall have no authority under this section 
+or section 57a of this title to declare unlawful an act or 
+practice on the grounds that such act or practice is unfair 
+unless the act or practice causes or is likely to cause 
+substantial injury to consumers which is not reasonably 
+avoidable by consumers themselves and not outweighed by 
+countervailing benefits to consumers or to competition.  In 
+determining whether an act or practice is unfair, the Commission may consider established public policies as 
+evidence to be considered with all other evidence.  Such 
+public policy considerations may not serve as a primary 
+basis for such determination. 
+ 
+(Emphases added.) *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 66 the State, nor the defendant companies – raised the 1994 FTC Act 
+amendment.  (Nor apparently did the parties in our earlier UDAP 
+cases.)  Everyone operated under the assumption that the federal 
+changes did not matter, and the State could win without proving 
+substantial injury.  This assumption must remain. 
+We turn to a separate issue that the circuit court 
+spotlighted: an incongruity in this court’s treatment of UDAP 
+unfair acts or practices suits. 
+The circuit court pointed out that despite Hungate’s “meets 
+one of the criteria” directive, that case also said “[a] practice is unfair when it [1] offends established public policy 
+and [2] when the practice is immoral, unethical, oppressive, 
+unscrupulous or [3] substantially injurious to consumers.”  139 
+Hawaiʻi at 411, 391 P.3d at 18 (citation omitted) (emphases 
+added).  This implied that UDAP plaintiffs must demonstrate public policy plus one of the other elements, while at the same 
+time allowing any one element, alone, to suffice. 
+We clarify Hawaiʻ i’s unfair acts or practices UDAP test in 
+one respect: meeting any one of the three criteria supports an 
+unfair acts or practices UDAP claim. 
+Our approach to unfair acts or practices traces to F.T.C. 
+v. Sperry & Hutchinson Co., 405 U.S. 233 (1972).  In Sperry, the 
+Supreme Court ruled that the FTC Act gave the FTC broad powers 
+to determine practices as unfair or deceptive, despite their *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 67 effect on competition.  Sperry adopted factors the FTC had 
+developed in the cigarette advertising context to determine
+whether a practice was unfair:  
+(1) [W]hether the practice, without necessarily having been 
+previously considered unlawful, offends public policy as it has been established by statutes, the common law, or 
+otherwise— whether, in other words, it is within at least 
+the penumbra of some common- law, statutory, or other 
+established concept of unfairness; (2) whether it is 
+immoral, unethical, oppressive, or unscrupulous; (3) 
+whether it causes substantial injury to consumers . . . 
+ 
+405 U.S. at 244 n.5.  Sperry left open what combination of these 
+factors would be sufficient to show unfair acts liability. 
+In Spiegel, Inc. v. F.T.C., 540 F.2d 287 (7th Cir. 1976), 
+the Seventh Circuit took a “public policy plus” approach to the 
+Sperry factors.  It inserted the disjunctive “or” between 
+Sperry’s second and third criteria, holding that “A practice is 
+unfair when it offends established public policy and when the 
+practice is immoral, unethical, oppressive, unscrupulous or 
+substantially injurious to consumers.”  Id. at 293 (emphases 
+added). 
+Then, in Rosa v. Johnston, 3 Haw. App. 420, 427, 651 P.2d 
+1228, 1234 (1982), the Intermediate Court of Appeals adopted Spiegel’s rearrangement of Sperry.  Later, in the context of 
+holding that deceptive and unfair are distinct under UDAP, we 
+mentioned Rosa in passing and said that the ICA “properly” 
+defined unfair acts.  Bronster, 82 Hawaiʻ i at 51, 919 P.2d at 
+313. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 68 But Spiegel’s interpretation of Sperry was not the only 
+one.  The FTC read Sperry to mean that “[a]ll three criteria do 
+not need to be satisfied to support a finding of unfairness.  A 
+practice may be unfair because of the degree to which it meets 
+one of the criteria or because to a lesser extent it meets all 
+three.”  Promulgation of Trade Regulation Rule and Statement of 
+Basis and Purpose, Disclosure Requirements and Prohibitions 
+Concerning Franchising and Business Opportunity Ventures, 43 
+Fed. Reg. 59614, 59635 (1978). 
+The FTC’s reading worked for the United States District 
+Court for the District of Hawaiʻ i.   Kapunakea, 679 F. 
+Supp. 2d at 
+1210.  Weighing in on HRS § 480-2, the district court referred 
+to Rosa, Bronster, and Spiegel.  Id.  Then it returned to 
+Sperry, noting that the Sperry test came straight from the FTC 
+and that the FTC in 1978 interpreted the three factors to be 
+disjunctive.  The district court followed the FTC’s approach.  
+When we took up the unfair acts issue once more in Hungate, 
+we approved Kapunakea’s reasoning: any one of the three criteria 
+could constitute an unfair practice under HRS § 480-2.  139 
+Hawaiʻi at 411, 3 91 P.3d at 18.  But Hungate inharmoniously 
+retained the “and-or” language from Spiegel.  Hungate didn’t 
+clarify whether the appropriate test was fully disjunctive. 
+We interpret Hawaiʻ i’s consumer protection law in a way that 
+maximizes consumer protection.  The UDAP “was constructed in *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+69 broad language in order to constitute a flexible tool to stop 
+and prevent fraudulent, unfair or deceptive business practices 
+for the protection of both consumers and honest 
+business[people].”  Zanakis-Pico v. Cutter Dodge, Inc., 98 
+Hawai
+ʻi 309, 317, 47 P.3d 1222, 1230 (2002) (citation omitted).  
+ The Spiegel approach does not reflect this breadth.  We 
+conclude that a disjunctive reading of the Sperry factors best 
+aligns with UDAP’s primary purpose - to protect consumers.  
+Other states have reached the same conclusion.  See 
+Cheshire Mortg. Serv., Inc. v. Montes, 612 A.2d 1130, 1143–44 
+(Conn. 1992) (holding that under Sperry, “[a] practice may be 
+unfair because of the degree to which it meets one of the 
+criteria or because to a lesser extent it meets all three.”); 
+see also Robinson v. Toyota Motor Credit Corp., 775 N.E.2d 951, 
+961 (Ill. 2002) (“[A]ll three of the criteria in Sperry do not 
+need to be satisfied to support a finding of unfairness.”).   
+3. Separate, Independent Grounds for UDAP Liability
+Having clarified UDAP unfair acts law, all that remains is
+to apply it to the present case.  
+The circuit court determined that the defendant companies’ 
+conduct violated each of the three elements for an unfair acts 
+or practices claim.  Their conduct: (1) offended public policy; 
+(2) was immoral, unethical, oppressive or unscrupulous; and (3)*** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 70 substantially injured  consumers.  See Hungate, 139 
+ 
+at 411, 391 P.3d at 18. HawaiʻiHawaiʻi
+ The court’s materiality ruling knocked out its 
+substantially injurious findings.  See supra.  
+That error, however, is not enough for the companies to 
+avoid liability.  The court determined that two separate types 
+of unfair acts or practices occurred.  The first type focused on the black box label.  These findings rely on – and thus were 
+tainted by - the materiality finding.  But the second type of 
+conduct – suppressing research and inquiry into the drug for 
+financial reasons – had no connection to the court’s materiality 
+ruling.  The court’s findings about the companies suppressing 
+inquiry into Plavix poor response have nothing to do with the 
+black box label.  They have nothing to do with doctors’ prescribing habits after 2010.  Rather, these findings have 
+everything to do with defendant companies “burying their heads 
+in the sand” over potential issues with a drug on the market. 
+The court’s findings spoke to the other two elements of 
+UDAP unfair acts claims.  The court found sufficient facts to 
+support the State’s allegation that defendant companies’ conduct 
+offended public policy
+32 and was unethical. 
+ 
+32  Defendant companies argue that materiality impacted the court’s public 
+policy findings, pointing out that the court said: “Defendants’ failure to 
+update the Plavix drug warning after learning of the safety risks posed to 
+poor metabolizers offends this well- established public policy.”  We agree 
+with Defendants: this finding is only relevant if the b lack box label matters *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 71 First, we turn to the court’s public policy findings.  
+Public policy covers a broad range, from state and federal law, 
+to common law, to Hawai
+ʻi policy.  See Hungate, 139 Hawaiʻ i at 
+411, 391 P.3d at 18 (“[a] practice may be unfair if it offends 
+public policy as it has been established by statutes, the common 
+law, or otherwise.”)  (Cleaned up.) 
+Pharmaceutical companies have a common law duty to warn 
+consumers “when the risks of a particular drug become apparent.”  
+Albrecht, 139 S. Ct. at 1677.   
+The court-as-factfinder concluded that the companies aimed 
+to avoid their common law duty by: “suppressing research and 
+continuously and repeatedly failing to further investigate the risks of reduced platelet inhibition in poor metabolizers.”  In 
+its findings, the court determined that the companies knew - 
+from the moment Plavix launched - about the diminished effects 
+of Plavix in non-White populations.  It maintained that the 
+companies did not volunteer this information to the FDA.  The 
+court further found the companies avoided funding studies which 
+could draw more attention to the variability of response, for instance, by rejecting a study on aspirin resistance because “it 
+could lead to a similar trial on [Plavix] resistance.”  
+ 
+to consumers.  The court’s materiality ruling foreclosed that evidentiary 
+inquiry.  
+ 
+But the court’s reference to the label formed only one part of the 
+court’s public policy decision.  The other public policy findings had no connection to the black box label or related evidence.   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 72 The companies’ actions, the court found, set back the 
+research into CYP2C19 by consciously, repeatedly, and actively 
+avoiding the poor responder problem.  All this, according to the 
+court, was to avoid “negative marketing implications” for 
+Plavix.  
+Preventing risks from becoming apparent for financial gain 
+offends Hawai
+ʻi public policy.  Hawaiʻ i law cannot incentivize 
+drug companies to ignore safety risks in the hope that everything will turn out all right in the end.  Even if the drug 
+proves to be safe, avoiding investigation into known safety 
+issues in order to keep profits up offends public policy.  See, 
+e.g., 21 CFR §§ 314.80, 314.81 (requiring a continuing duty of 
+surveillance and post-marketing reporting to the FDA of adverse drug experiences).  
+The court’s findings also animate its determination that 
+the companies behaved in an “immoral, unethical, oppressive, 
+unscrupulous” manner.
+33  The court determined that the companies 
+prioritized profits over patients: defendant companies “buried their heads in the sand” about the problems with Plavix to protect the corporate bottom line.  The court found the 
+ 
+33  There is another difference between Hawaiʻ i’s consumer protection law 
+and federal law.  The FTC scrapped Sperry ’s second criteria long ago.  In its 
+1980 Unfairness Policy Statement, the FTC called the “immoral, unethical, 
+oppressive, unscrupulous” features of an unfair act or practice “largely duplicative. ”  “Conduct that is truly unethical or unscrupulous,” the FTC 
+continued, “will almost always injure consumers or violate public policy as well.”  FTC Policy Statement on Unfairness.  https://www.ftc.gov/legal-
+library/browse/ftc- policy-statement- unfairness [ https://perma.cc/3VA6- JMFK]. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+73 companies “continued to deny” the issues surrounding poor 
+response to the drug despite evidence to the contrary, giving 
+the impression that no one had any reason to be alarmed.  See 
+Hawaii Cmty. Fed. Credit Union v. Keka, 94 
+Hawaiʻi 213, 229, 11 
+P.3d 1, 17 (2000) (describing conduct as unethical and
+unscrupulous when defendant attempted to convince a family to
+execute loan documents through false assurances about a lower
+interest rate).
+4. No Clear Error in FOFs
+The defendant companies argue the court clearly erred in
+most of the elemental unfair acts and practice factual findings.  We disagree. 
+The trial court fulfilled its duty as fact-finder.  See In 
+re ASK, 152 Hawaiʻ i 123, 127, 522 P.3d 270, 274 (2022) (“Our view 
+reflects a central feature of any trial: the fact-finder – judge or jury - finds facts, weighs and values those facts, and finds 
+other facts, the facts of consequence.”).  The court weighed the 
+trial evidence; it drew inferences; it made credibility determinations; it valued some testimony and evidence over other 
+testimony and evidence. 
+Clearly erroneous facts are either (1) not supported by 
+substantial evidence in the record, Panoke v. Reef Dev. of 
+Hawaii, Inc., 136  448, 460, 363 P.3d 296, 308 (2015) or 
+(2) ones where “despite evidence to support the finding, theHawaiʻi*** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+74 appellate court is left with the definite and firm conviction 
+that a mistake has been committed.”  Chun v. Bd. of Trs. of the 
+Emps.’ Ret. Sys. of the State of Hawaiʻ i, 106 Hawai ʻi 416, 430, 
+106 P.3d 339, 353 (2005) (cleaned up).  The circuit court’s 
+findings do not leave us with either conviction. 
+The court made sufficient findings of fact that defendant 
+companies’ conduct offended public policy and was immoral under 
+UDAP.  The substantial injury findings drop because they were 
+affected by the materiality ruling.  But the court’s findings as 
+to the other two elements are uncoupled from that error.  These 
+findings support the court’s unfair acts decision.  Thus, the 
+court’s ruling that Defendants committed unfair acts or practices under UDAP stands. 
+E. Penalties
+Lastly, we turn to the penalties.  The defendant companies
+maintain that the court’s materiality ruling impaired its damages calculation.  We agree.   
+We vacate the damage award and remand the penalty issue for 
+determination after the deceptive acts question has been 
+settled.  
+The court based the penalty for violating UDAP on both 
+deceptive and unfair acts.  But now, only the State’s unfair 
+acts UDAP violation remains.  Any penalty for the deceptive acts claim cannot continue to stand pending a new trial. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 75 We find that the court’s heavy reliance on its materiality 
+ruling to reach its penalties determination makes it necessary 
+to remand the entire question of damages.  The court reasoned 
+that the $834 million penalty was justified because Defendants 
+had substantially injured the public.  Those injuries, the court 
+explained, flowed from the fact that Defendants had denied 
+patients material information.  The “injury to the public” 
+paragraph in the court’s penalty award discussion uses the word “material” no fewer than three times.  The court relied on its 
+materiality findings – and thus the deceptive acts UDAP claim – 
+to calculate its penalty award. 
+The per-prescription based penalty also shows the circuit 
+court’s reliance on the materiality ruling.  This type of 
+penalty only makes sense if the missing black box warning was 
+material to consumers.  To illustrate this point, the court used 
+the example of hanging an unlawful billboard versus sending 
+thousands of unlawful mailers.  For the billboard, an appropriate penalty would count every day the billboard hangs; 
+for the mailers, an appropriate penalty would count every mailer 
+sent.  The circuit court thought this case was more like the 
+mailer situation.  But this only fits if the omitted information 
+was material to consumers, making it an injury each time they *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 76 received the prescription without that information.  That is
+what the new trial will consider.34 
+ 
+The claim that Defendants engaged in unfair practices 
+better fits the billboard example.  Here, the State’s claim 
+focuses on the idea that Defendants suppressed research or 
+failed to sufficiently investigate leads.  In these 
+circumstances, an appropriate penalty would correlate more with 
+the length of time the Defendants “buried their heads in the sand.” 
+That the court landed on a per-prescription penalty reveals 
+how crucial materiality was to the damage calculations. 
+Because the penalty award relied on the court’s faulty 
+materiality ruling, it must be vacated.  Only the claim that 
+Defendants committed unfair acts or practices in violation of 
+UDAP remains.  At the new trial, it may be that Defendants will 
+be found to have committed deceptive acts as well, or found to 
+have only committed unfair practices.  The nature of the UDAP violation will determine the proper penalty for that violation. 
+Since the final penalty will be partially contingent on the 
+result, the penalty determination should take place after the 
+new trial, by the judge who conducts that trial. 
+ 
+34  We are unpersuaded by the defendant companies’ arguments regarding 
+“coercive” and “biased” treatment by the trial court.  This case, however, is 
+remanded to a new trial judge. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 77 IV. CONCLUSION 
+ 
+We vacate the circuit court’s grant of partial summary 
+judgment on materiality, the court’s deceptive acts holding, and  
+its penalty award.  The court’s unfair acts holding stands.  We 
+remand only as to the deceptive acts and penalty issues. 
+Neal Kumar Katyal 
+(Paul Alston, Claire Wong Black,Anand Agneshwar, Daniel S. 
+Pariser, Katherine B. Wellington
+on the briefs) for appellants  
+ 
+ 
+Thomas C. Goldstein (L. Richard Fried, Jr., Patrick F. McTernan, Kimberly T. Guidry,
+Nicholas M. Mclean, Daniel 
+Alberstone, Peter Klausner, EvanZucker, Elizabeth Smiley, Catherine H. Dorsey on the 
+briefs) 
+for appellees  
+ /s/ Mark E. Recktenwald 
+/s/ Paula A. Nakayama 
+/s/ Sabrina S. McKenna /s/ Todd W. Eddins 
+ 

@@ -1,0 +1,765 @@
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+NO. CAAP-14-0000842
+ 
+IN THE INTERMEDIATE COURT OF APPEALS
+ 
+OF THE STATE OF HAWAI 'I
+ 
+HAWAIIAN DREDGING CONSTRUCTION COMPANY, INC.,
+Plaintiff-Appellant, v. FUJIKAWA ASSOCIATES INC. dba
+Continental Mechanical of the Pacific, Defendant-Appellee
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT
+ 
+(CIVIL NO. 13-1-0900)
+
+ 
+MEMORANDUM OPINION
+ 
+(By: Leonard, Presiding Judge, Reifurth and Ginoza, JJ.)
+ 
+This case stems from a dispute arising out of an
+ 
+agreement (the Subcontract) between Plaintiff-Appellant Hawaiian
+ 
+Dredging Construction Company, Inc. (HDCC) and Defendant-Appellee
+ Fujikawa Associates, Inc. dba Continental Mechanical of the
+ 
+Pacific (Fujikawa) and an injury suffered by one of HDCC's
+ 
+workers. HDCC appeals from the Judgment (Judgment) entered in
+ favor of Fujikawa and against HDCC, on May 2, 2014, in the
+ 
+Circuit Court of the First Circuit (Circuit Court), after summary
+ 
+judgment was entered in favor Fujikawa.
+1
+ 
+1
+ The Honorable Rhonda A. Nishimura presided.
+     NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+I. BACKGROUND 
+On May 1, 2012, HDCC as "Contractor" and Fujikawa as 
+"Subcontractor" entered into the Subcontract for general repairs 
+to Edmondson Hall at the University of Hawai 'i at Manoa (Work). 
+The Subcontract provides in relevant part: 
+12.4 To the fullest extent permitted by law, Subcontractor
+shall indemnify, and save harmless Contractor and Owner, and
+their agents and employees, from and against all Liabilities
+on account of: . . . (D) any and all damage or injury to
+person or property arising directly or indirectly from the
+performance of the Work and/or the operations of
+Subcontractor to the extent any such damage or injury is
+attributable in whole or in part to the acts or omissions of
+Subcontractor, anyone directly or indirectly employed by
+Subcontractor or anyone for whose acts Subcontractor may be
+liable; and, when requested by Contractor, Subcontractor
+shall defend any and all actions and pay all charges of
+attorneys and other expenses arising therefrom. 
+The Subcontract defines "Liabilities" as "Separately
+ 
+and collectively, any loss, injury, damage, fine, penalty, cost
+ 
+and expense (including legal fees and costs) and other liability
+ whatsoever, and any action, suit, proceeding or claims, relating
+ to such liability."
+ 
+On July 12, 2012, HDCC sent Fujikawa a Notice of Claim
+ 
+and Demand for Indemnification (Notice of Claim), which notified
+ 
+Fujikawa that "one of HDCC's employees, Mr. Gabriel Balon
+ 
+[(Balon)], a 55-year old laborer, sustained injuries at the
+ 
+Project site when he was struck by a piece of an air duct being
+ 
+installed by Fujikawa[.]" HDCC claimed that Fujikawa "bears full
+ responsibility for [Balon's] accident, and that HDCC is entitled
+ to indemnification by [Fujikawa] under the Subcontract[.]" HDCC
+ demanded that Fujikawa "indemnify [HDCC] and its insurer(s) from
+ and against any and all liability, costs and expenses . . . 
+2
+  NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+incurred in connection with the subject accident and the
+ 
+resolution thereof." 
+On March 25, 2013, HDCC filed a Complaint contending
+ 
+that Fujikawa "is obligated under the Subcontract to indemnify
+ and save [HDCC] harmless from the amounts paid by [HDCC] on
+ account of the bodily injury to Gabriel Balon" and asserting that
+ Fujikawa breached the Subcontract because it "refused to
+ indemnify or save [HDCC] harmless from amounts paid by [HDCC] on
+ account of the bodily injury to Gabriel Balon[.]" HDCC sought
+ damages, prejudgment interest, attorneys fees, and "other and
+ further relief as the Court may deem just and equitable." 
+On April 24, 2013, Fujikawa filed an Answer to
+ 
+Complaint (Answer) and asserted defenses of, inter alia,
+ 
+comparative negligence, estoppel, unclean hands, waiver, failure
+ 
+to mitigate damages, and failure to join indispensable parties. 
+Fujikawa denied that Balon's "bodily injury occurred directly or
+ indirectly from [Fujikawa's] performance of Work and/or
+ operations under the Subcontract." Fujikawa also denied that it
+ was obligated under the Subcontract to indemnify HDCC for the
+ amounts paid on account of Balon's bodily injury, and/or that
+ Fujikawa breached its Subcontract. 
+On February 25, 2014, HDCC filed a Motion for Partial
+ 
+Summary Judgment.  HDCC argued that it was entitled to judgment
+ 
+on the issue of liability as a matter of law because there were
+ 
+no genuine issues as to any material fact. HDCC argued that the
+ Subcontract "clearly and unequivocally" requires that Fujikawa
+ indemnify HDCC.
+ 
+3
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+On March 27, 2014, Fujikawa filed a memorandum in
+ 
+opposition, arguing that partial summary judgment should be
+ 
+denied because genuine issues of material fact exist as to
+ whether or not HDCC is entitled to pass on its workers'
+ compensation liability for Balon's injuries to Fujikawa. 
+Fujikawa further argued that summary judgment should be granted
+ in its favor because the "relief sought by HDCC . . . is not
+ contained within the scope of the subject indemnity clause." 
+Finally, Fujikawa argued that, if it was not entitled to summary
+ judgment in its favor, there were genuine issues of material fact
+ concerning whether HDCC is entitled to indemnification for its
+ workers' compensation payments to Balon.
+ 
+In an April 1, 2014 Reply Memorandum, HDCC argued that
+ 
+the issue of indemnification, which does not affect Balon's
+ receipt of workers' compensation benefits, is outside the scope
+ of Chapter 386, and is strictly an issue of contractual dispute. 
+HDCC emphasized that the language of the Subcontract "clearly and
+ unequivocally requires Fujikawa to indemnify HDCC for any and all
+ 
+damage arising from Fujikawa's performance of its work and/or
+ 
+operations." 
+After an April 4, 2014 hearing, the Circuit Court
+ 
+denied HDCC's Motion for Partial Summary Judgment, and granted
+ what the court construed as Fujikawa's cross-motion for partial
+ summary judgment. The Circuit Court explained: 
+In terms of the three Hawaii cases -- the Keawe, the
+Kamali, and the Espaniola -- all three cases are factually
+and procedurally distinguishable, but there are certain
+principles enunciated that lends a certain guidance to the
+court. All parties agree that what you garner from those
+cases is the phrase "clear and unequivocal assumption of
+liability." 
+4
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+So taking that particular phrase and interposing it
+upon the contract that was entered into between the general
+contractor and the subcontractor, in this case HDC[C] and
+Fujikawa, it's a matter of contract interpretation in view
+of the principles enunciated by the three Hawaii cases. So
+ that's the starting point for the court. 
+So we're looking at the particular sections. The
+section at issue is the 12.4 juxtaposed against the
+definitions under liabilities. But in addition in
+ looking at contract interpretation, the court also
+needs to look at the contract in its entirety and not
+in isolation. 
+So in looking at Section 7, 'cause it deals with
+insurance, the purpose of the insurance provision is
+requiring the subcontractor to obtain particular kinds of
+insurance such as workers comp, CGL, and other insurance. In
+looking at 7.1, it says, for example, "Except as may
+otherwise be provided in the contract documents,
+subcontractor Fujikawa shall at its own expense secure and
+maintain insurance of such types, insurance in such amounts
+as may be necessary to protect the subcontractor and the
+contractor against all hazards or risk of loss as
+hereinafter specified. Responsibility of the subcontractor
+to maintain and cause is permitted subcontractor to maintain
+adequate insurance." [sic]
+ 
+So in looking at the purpose underlying why you need
+to -- why the subcontractor needs to procure insurance, the
+subcontractor's fully aware in terms of their obligations
+under Section 7 to procure the necessary insurance to
+protect against certain risks and losses. In addition
+ there's the unemployment and other insurance benefits under
+7.8. 
+What the employ -- what the general contractor HDC[C]
+seeks in terms of invoking Section 12.4 is that in addition
+thereto as an additional cost and expense of doing business;
+to wit, the workers comp or paying workers comp benefits,
+subcontractor Fujikawa were invoking the indemnity provision
+such that if a situation arises where the contractor,
+general contractor has to pay work comp benefits, Fujikawa,
+under the 12.4 indemnity provision as a cost and expense of
+doing business, you need to reimburse us or to pay us back
+or at a future date because it's not definite yet. But in
+ terms of the liability, that is a clear and unequivocal
+assumption of liability. 
+The court disagrees because in looking at the contract
+as a whole in its entirety and the -- not necessarily the
+rationale under Chapter 386 which the court is familiar with
+but in terms of should the cost and expense of doing
+business by the subcontractor include an assumption of
+liability for workers comp under the 12.4 provision, the
+court in looking at the contract and interpreting it that
+there is no clear and unequivocal assumption of liability on
+the part of the subcontractor to assume the risk, to assume
+the cost of expense of the general contractor's doing
+business in paying workers comp benefits for a work-related
+injury, I think that's too far a stretch under the contract
+itself. 
+
+5
+
+ NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+6On April 23, 2014, the Circuit Court entered an Order
+Denying HDCC's Motion for Partial Summary Judgment Filed 2/25/14
+and Granting Fujikawa's Cross-Motion for Summary Judgment.  The
+Circuit Court entered the Judgment on May 2, 2014.  On May 20,
+2014, HDCC filed its notice of appeal. 
+II.POINTS OF ERROR
+On appeal, HDCC contends that the Circuit Court erred
+when the court:  (1) concluded that the proper standard for
+construing the Subcontract was the "clear and unequivocal
+assumption of liability" standard; (2) determined that the
+Subcontract did not clearly and unequivocally require Fujikawa to
+indemnify HDCC for its costs related to Balon's workers'
+compensation claim; and (3) denied HDCC's Motion for Partial
+Summary Judgment, and granted Fujikawa's cross motion. 
+III.APPLICABLE STANDARD OF REVIEW
+On appeal, the grant or denial of summary judgment is
+reviewed de novo.  See State ex rel. Anzai v. City and
+County of Honolulu, 99 Hawai# i 508, [515], 57 P.3d 433,
+[440] (2002); Bitney v. Honolulu Police Dep't, 96 Hawai# i
+243, 250, 30 P.3d 257, 264 (2001).
+[S]ummary judgment is appropriate if the pleadings,
+depositions, answers to interrogatories, and
+admissions on file, together with the affidavits, if
+any, show that there is no genuine issue as to any
+material fact and that the moving party is entitled to
+judgment as a matter of law.  A fact is material if
+proof of that fact would have the effect of
+establishing or refuting one of the essential elements
+of a cause of action or defense asserted by the
+parties.  The evidence must be viewed in the light
+most favorable to the non-moving party.  In other
+words, we must view all of the evidence and inferences
+drawn therefrom in the light most favorable to the
+party opposing the motion.
+Kahale v. City and County of Honolulu, 104 Hawai# i 341, 344,
+90 P.3d 233, 236 (2004) (citation omitted).
+Nuuanu Valley Ass'n v. City & Cty. of Honolulu, 119 Hawai# i 90,
+96, 194 P.3d 531, 537 (2008). NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+With regard to the burdens of the moving and non-moving
+ 
+parties on summary judgment, the Hawai 'i Supreme Court has 
+articulated that: 
+The burden is on the party moving for summary judgment
+(moving party) to show the absence of any genuine issue as
+to all material facts, which, under applicable principles of
+substantive law, entitles the moving party to judgment as a
+matter of law. This burden has two components.
+ 
+First, the moving party has the burden of producing support
+for its claim that: (1) no genuine issue of material fact
+exists with respect to the essential elements of the claim
+or defense which the motion seeks to establish or which the
+ motion questions; and (2) based on the undisputed facts, it
+is entitled to summary judgment as a matter of law. Only
+when the moving party satisfies its initial burden of
+production does the burden shift to the non-moving party to
+respond to the motion for summary judgment and demonstrate
+specific facts, as opposed to general allegations, that
+present a genuine issue worthy of trial.
+ 
+Second, the moving party bears the ultimate burden of
+persuasion. This burden always remains with the moving party
+and requires the moving party to convince the court that no
+genuine issue of material fact exists and that the moving
+party is entitled to summary judgment as a matter of law.
+ 
+Wong v. Cayetano, 111 Hawai 'i 462, 476, 143 P.3d 1, 15 (2006) 
+(quoting French v. Hawaii Pizza Hut, Inc., 105 Hawai 'i 462, 470, 
+99 P.3d 1046, 1054 (2004)). 
+Furthermore, a trial court "may enter judgment for the
+ 
+non-moving party on a motion for summary judgment where there is
+
+ 
+no genuine issue of material fact and the non-moving party is
+ 
+entitled to judgment as a matter of law." Konno v. Cty of Haw.,
+ 
+85 Hawai 'i 61, 76, 937 P.2d 397, 412 (1997) (citing Flint v. 
+MacKenzie, 53 Haw. 672, 673, 501 P.2d 357, 358 (1972) (per
+ curiam)). 
+In addition, Hawai
+'i Rules of Appellate Procedure 
+(HRAP) Rule 28(b)(4) provides that "[p]oints not presented in
+ 
+accordance with [HRAP Rule 28(b)] will be disregarded, except
+ 
+that the appellate court, at its option, may notice a plain error
+ 
+7
+ NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+8not presented."   "[T]he appellate court's discretion to address
+plain error is always to be exercised sparingly."  Okada Trucking
+Co., v. Bd. of Water Supply, 97 Hawai# i 450, 458, 40 P.3d 73, 81
+(2002) (citation omitted).  An appellate court considers three
+factors in its decision to review an issue for plain error,
+"(1) whether consideration of the issue not raised at trial
+requires additional facts; (2) whether its resolution will affect
+the integrity of the trial court's findings of fact; and (3)
+whether the issue is of great public import."  Id.  
+Finally, "[t]he construction and legal effect to be
+given a contract is a question of law freely reviewable by an
+appellate court."  Hawaiian Ass'n of Seventh-Day Adventists v.
+Wong, 130 Hawai #i 36, 45, 305 P.3d 452, 461 (2013) (brackets
+omitted) (quoting Brown v. KFC Nat'l Mgmt. Co. , 82 Hawai #i 226,
+239, 921 P.2d 146, 159 (1996)). 
+ IV.DISCUSSION
+A.The Clear and Unequivocal Assumption of Liability
+Standard
+HDCC argues that the Circuit Court erred as a matter of
+law when it held that the proper standard for construing the
+Subcontract was the clear and unequivocal assumption of liability
+standard.  However, HDCC did not contest the application of this
+standard to the Subcontract in the proceeding before the Circuit
+Court.  In its Motion for Partial Summary Judgment, HDCC argued
+that the Subcontract "'clearly and unequivocally' assigns
+Fujikawa a responsibility to indemnify HDCC."  At the hearing on
+the motion, HDCC's counsel argued:  "So the question that the
+court asked is what did Fujikawa clearly and unequivocally assumeNOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+when it signed this subcontract? And the answer is Fujikawa
+ 
+clearly agreed to indemnify [HDCC] against all of [HDCC's] costs
+ and expenses arising from injury to persons because of Fujikawa's
+ work." Thus, HDCC raised this challenge for the first time on
+ appeal.
+ 
+The supreme court has recognized that "[a]s a general 
+rule, if a party does not raise an argument at trial, that argument will be deemed to have been waived on appeal; this rule applies in both criminal and civil cases." State v. Moses, 102 
+Hawai
+'i 449, 456, 77 P.3d 940, 947 (2003) (citations omitted). 
+However, an appellate court "will consider new arguments on appeal where justice so requires." Id. An appellate court's 
+"discretion to address plain error is always to be exercised sparingly." Okada Trucking, 97 Hawai
+'i at 458, 40 P.3d at 81 
+(citation omitted). An appellate court considers three factors in its decision to review an issue for plain error: "(1) whether consideration of the issue not raised at trial requires additional facts; (2) whether its resolution will affect the integrity of the trial court's findings of fact; and (3) whether the issue is of great public import." Id. 
+Here, the issue involves the proper legal standard and 
+does not require additional facts. In addition, on summary judgment there are no findings of fact whose integrity could be affected on appeal. See Alvarez Family Trust v. Ass'n of 
+Apartment Owners of the Kaanapali Alii, 121 Hawai
+'i 474, 491, 221 
+P.3d 452, 469 (2009). Nevertheless, as the supreme court has observed, "in civil cases, an issue is of 'great public import' 
+9
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+for the purposes of plain error review only when such issue 
+affects the public interest." Id. In Alvarez, the supreme court 
+determined that the issue of whether appellants had the right to challenge the voting procedures of a condominium association's board of directors was not a matter of "public interest" because "(1) such right is of a private nature and (2) the issue applies exclusively to the facts and circumstances of [appellant's] case." Id. at 492, 221 P.3d at 470; see also Cty of Haw. v. C & 
+J Coupe Family Ltd. P'ship, 124 Hawai
+'i 281, 305, 242 P.3d 1136, 
+1160 (2010) ("Whether the court correctly valued the property in Condemnation 2 is not of general public importance."). As in Alvarez, the issue of whether the Circuit Court improperly applied the "clear and unequivocal assumption of liability" standard to the Subcontract applies exclusively to the facts and circumstances of the instant case. Accordingly, we conclude that plain error review of this issue is unwarranted. 
+B.	 Application of the "Clear and Unequivocal Assumption of
+Liability Standard" to the Subcontract
+ 
+HDCC challenges the Circuit Court's conclusion that
+
+ 
+Fujikawa did not clearly and unequivocally agree to indemnify
+ 
+HDCC for the costs HDCC incurred in paying Balon's workers'
+ compensation claims.
+ 
+The supreme court has examined indemnity contracts in
+ 
+the following three cases, which were discussed by parties below
+ and on appeal: 
+Kamali v. Hawaiian Elec. Co. , 54 Haw. 153, 504
+ 
+P.2d 861 (1972); Keawe v. Hawaiian Elec. Co., 65 Haw. 232, 649
+ P.2d 1149 (1982); and Espaniola v. Cawdrey Mars Joint Venture, 68
+ Haw. 171, 707 P.2d 365 (1985). 
+10
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+In Kamali, 54 Haw. at 154, 504 P.2d at 862, an employee
+ 
+of a house moving company was severely burned by uninsulated
+ 
+electric wires, owned and maintained by Hawaiian Electric Company
+ (HECO). The employee filed a complaint against HECO for
+ 
+"negligent construction and maintenance of its electric wires." 
+Id. HECO filed a third-party complaint against the employer for
+ 
+indemnity. Id. HECO argued that the house moving permit
+ 
+(permit) required under a City and County ordinance "form[ed] the
+ 
+basis for [employer's] express contractual agreement to indemnify
+ 
+[HECO] for [employee's] injuries." Id. at 160, 504 P.2d at 865. 
+The permit read in relevant part, "[employer] agrees(s) . . . to
+ assume full responsibility for any damages to [HECO's] property
+ and/or life in connection with our operation under this permit." 
+Id. at 161, 504 P.2d at 866. The supreme court determined that
+ "the language of the permit did not constitute an indemnity
+ contract as a matter of law[.]" Id. The court noted that
+ 
+"contracts of indemnity are strictly construed, particularly
+ where the indemnitee claims that it should be held safe from its
+ own negligence." Id. The court concluded that the permit did
+ 
+"not amount to a clear and unequivocal assumption of liability by
+ the [employer] for [HECO's] negligence." Id. at 162, 504 P.2d at
+ 
+866. 
+In Keawe, 65 Haw. at 233-34, 649 P.2d at 1151, an
+ 
+employee was injured while performing contracting work for his
+ employer. The employee filed a complaint against HECO for
+ damages arising out of his injuries. Id. at 234, 649 P.2d at
+ 
+1151. HECO brought an indemnity action against the employer "for
+ 
+11
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+amounts paid by it in settlement in a personal injury suit." Id.
+ 
+at 233, 649 P.2d at 1150. HECO argued that the "'hold harmless
+ 
+clause' contained in its contract with [employer], required
+ indemnification by [employer.]" 
+Id. at 235, 649 P.2d at 1152. 
+The hold harmless clause provided: 
+The [employer] shall protect, defend, save harmless and
+indemnify [HECO], its employees and the public from claims,
+demands or expenses on account of any injury alleged or real
+to person or persons or damage alleged or real to property
+arising out of anything done or omitted to be done under
+this Contract by [employer] or any subcontractor or anyone
+directly employed by either of them.
+ 
+Id. at 233 n.1, 649 P.2d at 1151 n.1.
+ 
+The supreme court noted that the employee's lawsuit was
+ 
+"termed in language going strictly to HECO's responsibility for
+ 
+the accident." Id. at 238, 649 P.2d at 1153. The court
+ 
+recognized that "in order for the 'hold harmless clause' to
+ effectively bind [employer] . . . for the amount of settlement
+ paid by HECO to [employee], the language of the clause must state
+ in terms 'clear and unequivocal' the responsibility of [employer]
+ for all claims resulting from the acts or omissions by HECO." 
+Id. The court concluded that the employer was not required to
+ 
+indemnify HECO because "far from indemnifying HECO from all
+ claims and liabilities arising from either party's negligence,
+ the clause appears to address only those instances where
+ [employer] alone is responsible." Id. at 238, 649 P.2d at 1154.
+ 
+In Espaniola, 68 Haw. at 173-74, 707 P.2d at 367, a
+ 
+subcontractor and general contractor entered into a subcontract
+ for framing work. An employee of the subcontractor sustained a
+ fatal work injury, and his dependents brought a tort action
+ against the general contractor. Id. at 174-75, 707 P.2d at 367­
+12
+ Id.NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+68. The general contractor filed a third party claim against the
+ 
+subcontractor for "indemnification for any damages resulting from
+ [subcontractor's] negligence." Id. at 175, 707 P.2d at 368. The
+ 
+indemnification provision of the subcontract provides in relevant 
+
+ 
+part: 
+The Sub-contractor shall protect and indemnify said
+Contractor against any loss or damage suffered by any one
+arising through the negligence of the Sub-contractor, or
+those employed by him or his agents or servants; he shall
+bear any expense which the Contractor may have by reason
+thereof, or on account of being charged therewith[.]
+ 
+ 
+Id. at 174 n.2, 707 P.2d at 367 n.2. 
+In other words, the subcontract provided that the
+
+ 
+2
+indemnitor would protect and indemnify the indemnitee  against
+any loss or damage suffered by any one arising through the
+ negligence of the indemnitor.  Following a discussion of
+ 
+Kamali and Keawe, the court concluded that under the language ofthe subcontract, "there has been a 'clear and unequivocal'
+
+ 
+assumption of liability[.]" Id. at 178, 707 P.2d at 370 (citing
+Keawe, 65 Haw. at 237, 649 P.2d at 1153).
+ 
+ 
+
+ 
+In this case, HDCC argues that, under the language of
+
+ 
+the Subcontract, it is entitled to indemnity from Fujikawa for
+ 
+costs and expenses related to Balon's workers' compensation
+ claim. The Subcontract provides in relevant part: 
+12.4 To the fullest extent permitted by law, [Fujikawa]
+shall indemnify, and save harmless [HDCC] and Owner, and
+their agents and employees, from and against all Liabilities
+on account of: . . . (D) any and all damage or injury to
+person or property arising directly or indirectly from the
+performance of the Work and/or the operations of [Fujikawa]
+to the extent any such damage or injury is attributable in
+whole or in part to the acts or omissions of [Fujikawa],
+ 
+2
+ Indemnitor is "[o]ne who indemnifies another." Black's Law
+ 
+Dictionary 837 (9th ed. 2009). 
+Indemnitee is "[o]ne who receives indemnity
+from another." Id.
+
+ 
+13
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+anyone directly or indirectly employed by [Fujikawa] or
+anyone for whose acts [Fujikawa] may be liable; and, when
+requested by [HDCC], [Fujikawa] shall defend any and all
+actions and pay all charges of attorneys and other expenses
+arising therefrom. 
+Thus, the Subcontract requires indemnification for "all
+ 
+Liabilities" arising from Fujikawa's acts or omissions. 
+"Liabilities" is defined as "any loss, injury, damage, fine,
+ penalty, cost and expense (including legal fees and costs) and
+ other liability whatsoever, and any action, suit, proceeding or
+ claims, relating to such liability." Fujikawa argues that the
+ Subcontract's definition of Liabilities does not include any
+ reference to benefits, statutory obligations, compensation,
+ disability payments or benefits. Nevertheless, under the express
+ terms of the Subcontract, Fujikawa owes a duty of indemnification
+ to HDCC for all Liabilities, specifically including any cost or
+ expense that resulted from Fujikawa's acts or omissions. 
+Fujikawa also expressly agreed in Subsection 12.4 to "pay all
+ charges of attorneys and other expenses arising therefrom." 
+Therefore, we conclude that the Subcontract includes the clear
+ and unequivocal agreement of Fujikawa to assume all Liabilities
+ arising from its acts or omissions, including costs and expenses
+ related to Balon's workers compensation claim. Espaniola, 68
+ 
+Haw. at 178, 707 P.2d at 370; see also, e.g., T.L. James & Co.,
+ Inc., v. Sam's Truck Service, Inc., 875 So.2d 977, 980-81 (La.
+ Ct. App. 2004) (recognizing that a subcontractor owed a duty of
+ indemnification to contractor for attorney's fees and damage
+ awards that it paid as a result of defending the worker's
+ compensation claim that resulted from an injury caused by the
+ subcontractor's subcontractor when the agreement provided that a
+ 
+14
+ NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+In 2012, HRS § 386-8 provided, in relevant part: 3
+(a) When a work injury for which compensation is
+payable under this chapter has been sustained under
+circumstances creating in some person other than theemployer or another employee of the employer acting in thecourse of employment a legal liability to pay damages onaccount thereof, the injured employee or the injuredemployee's dependents (hereinafter referred to collectivelyas "the employee") may claim compensation under this chapterand recover damages from that third person.
+. . . . 
+(c) If within nine months after the date of the
+personal injury the employee has not commenced an action
+against a third person, the employer, having paid or being
+liable for compensation under this chapter, shall be
+subrogated to the rights of the injured employee. Except as
+limited by chapter 657, the employee may at any time
+commence an action or join in any action commenced by the
+employer against a third person.
+. . . . 
+(e) If the action is prosecuted by the employer alone,
+the employer shall be entitled to be paid from the proceeds
+received as a result of any judgment for damages, or
+settlement in case the action is compromised before
+judgment, the reasonable litigation expenses incurred in
+preparation and prosecution of the action, together with a
+reasonable attorney's fee, which shall be based solely upon
+the services rendered by the employer's attorney in
+effecting recovery both for the benefit of the employer and
+the employee. After the payment of the expenses and
+attorney's fee, the employer shall apply out of the amount
+of the judgment or settlement proceeds an amount sufficient
+to reimburse the employer for the amount of the employer's
+expenditure for compensation and shall pay any excess to the
+injured employee or other person entitled thereto.
+15subcontractor would indemnify contractor against damages or
+attorney's fees resulting from work performed by subcontractor or
+any of subcontractor's subcontractors).
+Fujikawa further contends that HDCC is attempting to
+evade its statutory workers' compensation obligations.  First,
+Fujikawa argues that HDCC avoided the process outlined in HRS
+§ 386-8 (2015).3  HRS § 386-8 allows injured employees or their
+dependents to bring "negligence or other torts against a third
+party, in addition to the remedies under the worker's
+compensation laws."  Hun v. Ctr. Props., 63 Haw. 273, 277, 626
+P.2d 182, 186 (1981).  HRS § 386-8 also grants a right ofNOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+subrogation to employers who paid or are liable for compensation. 
+"When subrogation occurs, 'the substitute is put in all respects in the place of the party to whose rights he is subrogated.'" Shimabuku v. Montgomery Elevator Co., 79 Hawai
+'i 352, 358, 903 
+P.2d 48, 54 (1995) (quoting Peters v. Weatherwax, 69 Haw. 21, 27, 731 P.2d 157, 161 (1987)). 
+HRS § 386-8 does not, however, require an employer to
+ 
+assert its subrogation interest; nor does it limit an employer to
+ this statutorily-provided remedy. Fujikawa fails to cite any
+ authority, and we find none, to mandate that an employer's
+ exclusive course of action to recover damages from a responsible
+ third party is a subrogation claim under HRS § 386-8. Here, HDCC
+ sought reimbursement based on the indemnification provision in
+ the Subcontract. Accordingly, we reject Fujikawa's contention
+ that HDCC impermissibly evaded the process outlined in HRS § 386­8. 
+Fujikawa also argues that HDCC is avoiding its 
+statutory duty to provide workers' compensation benefits. Under HRS § 386-85 (2015), "it shall be presumed, in the absence of substantial evidence to the contrary . . . [t]hat the claim is for a covered work injury[.]" The presumption of compensability "imposes upon the employer the burden of going forward with the evidence and the burden of persuasion." Van Ness v. State Dep't 
+of Educ., 131 Hawai
+'i 545, 558, 319 P.3d 464, 477 (2014) (citing 
+Akamine v. Hawaiian Packing & Crating Co., 53 Haw. 406, 408, 495 P.2d 1164, 1166 (1972)). 
+[T]he purpose of the Work[ers'] Compensation Law is to
+charge against industry the pecuniary loss arising from
+ 
+16
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+disabling or fatal personal injury, regardless of negligence
+by the employee or lack of negligence by the employer; that
+it is designed to obtain for an injured work[er] or his [or
+her] dependents an assured, certain and prompt compensation
+to replace the doubtful right accorded by common law, and to
+secure for the employer freedom from vexatious, delaying and
+uncertain litigation with its possibilities of heavy
+penalties by way of verdicts and high costs; that it is
+based on the obligation of industry to recognize accidental
+injury and death arising out of employment as one of the
+costs of production. . . .
+ 
+Iddings v. Mee-Lee, 82 Hawai 'i 1, 8, 919 P.2d 263, 270 (1996) 
+(quoting Coates v. Pac. Eng'g, 71 Haw. 358, 364, 791 P.2d 1257, 
+1260-61 (1990)) (emphasis omitted). 
+It is "well settled that contractual indemnification
+ 
+agreements and 'hold harmless' clauses are valid in the workers'
+ compensation context and do not contravene or undermine the
+ purposes underlying workers' compensation in general." Id. at
+ 
+16, 919 P.2d at 278. In Iddings, an employee filed an action
+ against her supervisory co-employee for wilful and wanton
+ misconduct. Id. at 4, 919 P.2d at 266. The supreme court
+ 
+determined that absent a contractual indemnification agreement
+ between the employer, as indemnitor, and the co-employee as
+ indemnitee, the co-employee "will not be able to secure indemnity
+ from [the employer] for a judgment against him in a suit by
+ [employee], should the [employee] prevail." Id. at 16, 919 P.2d
+ 
+at 278. The supreme court recognized that it was "permissible
+ under the workers' compensation scheme for an employer and a
+ supervisory employee to voluntarily enter into a contractual
+ indemnity agreement for 'another layer of insurance coverage.'" 
+Id. at 17, 919 P.3d at 279. 
+Here, it is undisputed that Balon was injured in the
+ 
+course and scope of his employment. HDCC accepted Balon's
+ 
+17
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+workers' compensation claim and Balon received workers'
+ 
+compensation benefits. Thus, HDCC incurred expenses in paying
+ benefits under the workers' compensation law. HDCC's claim for
+ indemnity is based on "an independent duty" created by the
+ indemnification provision in the Subcontract. See id. at 16, 919
+ 
+P.2d at 278. Thus, we conclude that Fujikawa's contention, that
+ by seeking to enforce a contractual indemnification HDCC is
+ avoiding its statutory duty to provide workers' compensation
+ benefits, is without merit. 
+C. Motion for Summary Judgment
+ Finally, HDCC argues that the Circuit Court erred as a
+ 
+matter of law in denying HDCC's Motion for Partial Summary
+ Judgment, as well in granting Fujikawa's cross motion. In its
+ motion, HDCC argued that it was entitled to summary judgment on
+ the issue of liability. HDCC asserted that the "indemnification
+ provision in the Subcontract clearly demonstrates Fujikawa's
+ assumption of liability for Gabriel Balon's accident, there is no
+ reason to delay entering summary judgment on the issue of
+ Fujikawa's liability to HDCC."
+ 
+As discussed above, we agree that the Subcontract
+ 
+required indemnification to HDCC for costs or expenses, including
+ workers' compensation benefits paid to Balon, that resulted from
+ Fujikawa's acts or omissions (as more particularly set forth in
+ Section 12.4 of the Subcontract). In addition, we recognize that
+ HDCC has alleged that Balon's injuries were caused by Fujikawa's
+ acts or omissions because he was reportedly struck by an air duct
+ being installed by Fujikawa. However, upon review of the
+ 
+18
+     NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+declaration of counsel and two exhibits submitted in support of
+ 
+HDCC's Motion for Partial Summary Judgment, we conclude that HDCC
+ failed to provide any evidence supporting its bare contention
+ that Balon's injuries were caused by Fujikawa's acts. 
+Therefore, the Circuit Court did not err when it denied HDCC's
+ motion. See Survivors of Medeiros v. Maui Land & Pineapple Co.,
+ 
+66 Haw. 290, 293, 660 P.2d 1316, 1319 (1983) (citation omitted)
+ (recognizing that our appellate courts have "repeatedly held that
+ where [a] trial court has reached a correct conclusion, its
+ decision will not be disturbed on the ground that the reasons it
+ gave for its actions were erroneous."). 
+Nevertheless, for the reasons discussed above, we agree
+ 
+that the Circuit Court erred when it granted Fujikawa's cross-
+motion based on its conclusion that indemnification for expenses
+ stemming from workers' compensation benefits is not within the
+ scope of the Subcontract's indemnity clause.
+ V. CONCLUSION
+ 
+Accordingly, the Circuit Court's May 2, 2014 Judgment
+ 
+is vacated and this case is remanded to the Circuit Court for
+ further proceedings.
+ 
+DATED: Honolulu, Hawai
+'i, February 17, 2017. 
+On the briefs: 
+Keith K. Hiraoka,
+Jodie D. Roeca,Mark J. Kaetsu,(Roeca Luria Hiraoka, LLP)for Plaintiff-Appellant. Presiding Judge 
+Associate Judge 
+Kenneth K. Fukunaga,
+Sheree Kon-Herrera,(Fukunaga Matayoshi Hershey
+& Ching, LLP)
+for Defendant-Appellee. Associate Judge
+19
+ 

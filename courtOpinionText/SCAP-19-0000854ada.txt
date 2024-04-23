@@ -1,0 +1,1866 @@
+***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ʻI 
+ 
+---oOo--- 
+________________________________________________________________  
+ 
+TRACY YOSHIMURA, Plaintiff-Appellant, 
+ 
+vs. 
+ 
+KEITH KANESHIRO, Defendant- Appellee.  
+________________________________________________________________ 
+ 
+SCAP-19-0000854 
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT
+(CAAP-19-0000854; S.P. NO. 1SP181000465) 
+ 
+FEBRUARY 1, 2021  
+ 
+RECKTENWALD, C.J., McKENNA AND WILSON, JJ., AND EDDINS, J.,   
+IN PLACE OF NAKAYAMA, J., RECUSED, WITH CIRCUIT JUDGE ASHFORD, 
+ASSIGNED BY REASON OF VACANCY 
+ 
+OPINION OF THE COURT BY McKENNA, J.  
+ 
+I.  Introduction 
+ This appeal stems from the Circuit Court of the First 
+Circuit’s1 (“circuit court”) dismissal, for lack of jurisdiction, 
+of Tracy Yoshimura ’s (“Yoshimura”) petition to impeach Honolulu 
+ 
+1  The Honorable Jeffrey P. Crabtree presided.  Electronically Filed
+Supreme Court
+SCAP-19-0000854
+01-FEB-2021
+09:12 AM
+Dkt. 47 OP***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+2 
+ City Prosecutor Keith Kaneshiro  (“Kaneshiro ”) under section   
+12-203 of the Revised Charter of the City and County of Honolulu  
+(2017) (“section 12 -203 of the Revised Charter”).  That 
+provision is titled “Impeachment of the Prosecuting Attorney,” 
+and it states as follows: 
+The prosecuting attorney may be impeached for malfeasance, 
+misfeasance or non -feasance in office.  The courts of the 
+State of Hawaii shall have jurisdiction as provided by 
+applicable law over any proceeding for the removal of the 
+prosecuting attorney who may be charged on any of the 
+foregoing grounds.  The charges shall be set forth in 
+writing in a petition for impeachme nt signed by not less 
+than five hundred duly registered voters of the city, and 
+said signatures shall be necessary only for the purpose of 
+filing the petition.   The petition having once been filed, 
+hearings shall be held on all such charges.  
+ 
+ In December 2018, Yoshimura created an online  petition to 
+impeach Kaneshiro after  Kaneshiro received a target letter from 
+the United States Department of Justice.   Yoshimura asserted his 
+petition was supported by 800+ electronic signatures collected 
+from an online platform called Change.org.   In April 2019, 
+Yoshimura filed a first amended petition purported to be 
+electronically signed by 500+ signatories on a different online 
+platform, DocuSign.  
+ Between February and April 2019, Yoshimura sought the legal 
+opinion of the City Clerk as to what information was necessary 
+to certify that the signatories of his online petition(s) were 
+duly registered voters of the City and County of Honolulu.  In 
+April 2019, Deputy Corporation Counsel Moana Yost (“Yost”) set 
+forth the City’s position in a letter stating that impeachment ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+3 
+ petition(s) must contain the full legible names, handwritten 
+(not electronic) signatures, and residence addresses of at least 
+500 signatories.  
+ Kaneshiro then moved to dismiss the petition, arguing t hat 
+electronic signatures did not satisfy the requirements for a 
+petition to impeach the city prosecutor under section 12 -203 of 
+the Revised Charter.  Yoshimura then moved for leave to amend 
+his petition to file a second amended impeachment petition, 
+adding the City Clerk as a defendant, and seeking a declaratory 
+order that the City must accept electronic signatures under 
+Hawaiʻi Revised Statutes (“HRS”) Chapter 489E  (2008), Hawaiʻi’s 
+Uniform Electronic Transactions Act (“UETA”).  Relevant to this 
+appeal, H RS § 489E -7(d) (2008) states, “If a law requires a 
+signature, an electronic signature satisfies the law.”  HRS     
+§ 489E-18(c) (2008), however, provides  the UETA “does not 
+require a governmental agency of this State to use or permit the 
+use of electronic records or electronic signatures.”  HRS § 
+489E-18(a) (2008) also states “each governmental agency of this 
+State shall determine whether, and the extent t o which, it will 
+send and accept electronic records and signatures to and from 
+other persons  . . . .”  
+  Kaneshiro filed an opposition to Yoshimura’s motion for 
+leave to amend, which he combined with a cross -motion to strike 
+the motion for leave to amend.  The circuit court denied ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+4 
+ Kaneshiro’s motion to dismiss, because Yoshimura’s motion for 
+leave to amend was pending at that time .  At a later hearing on 
+the motion for leave to amend (as well as Kaneshiro’s cross -
+motion to strike the motion for leave to ame nd), however, the 
+circuit court agreed with  the City that signatories to an 
+impeachment petition under section 12 -203 of the Revised Charter 
+must provide their full legible names, handwritten signatures, 
+and residence addresses to enable the City Clerk to certify them 
+as duly registered voters in the City and County of Honolulu and 
+to protect the City’s interest against fraud.  The circuit court 
+denied Yoshimura’s motion for leave to amend, concluding it 
+would be futile, as Yoshimura insisted on providing only 
+electronic signatures without residence addresses, to protect 
+the priv acy interest of signatories.  The circuit court also 
+denied Kaneshiro’s cross -motion to strike Yoshimura’s motion for 
+leave to amend.  The circuit court ultimately dismissed 
+Yoshimura’s first amended petition for lack of jurisdiction, 
+because it did not me et the requirements of section 12 -203 of 
+the Revised Charter.  
+ Yoshimura filed a motion for reconsideration, arguing that 
+the City could not require handwritten signatures and residence 
+addresses under section 12 -203 of the Revised Charter without 
+first engaging in rulemaking under HRS Chapter 91  (2008) (the 
+Hawaiʻi Administrative Procedures Act, or “HAPA”) or otherwise ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+5 
+ setting forth its position in a written policy.  The circuit 
+court denied the motion for reconsideration, concluding 
+Yoshimura raised evid ence and arguments that could have been 
+raised earlier in the litigation, and that the motion lacked 
+merit in any event.  The circuit court then entered its final 
+judgment.  
+ On appeal, Yoshimura argues that electronic signatures are 
+valid under the law  pursuant to HRS § 489E-7 (2008).  He also 
+argues that, to the extent HRS § 489E-18 (2008) provides a 
+government agency discretion to reject electronic signatures, 
+the government agency must first promulgate rules under HAPA, or 
+otherwise set forth a written policy, detailing the 
+circumstances under which electronic signatures may be 
+rejected.   Yoshimura argues the circuit court erred  in 
+concluding HRS § 489E -18 “trumped” HRS § 489E -7’s general 
+validation of electronic signatures.  He asserts the circuit 
+court erred in dismissing his petition for lack of jurisdiction, 
+denying his motion for leave to file a second amended petition, 
+and denying his motion for reconsideration of those rulings.  
+ Two months after oral argument in this case, Steven Alm was 
+elected as City Prosecutor.  He was sworn into office in January 
+2021.  Kaneshiro thereafter moved to dismiss this appeal as 
+moot.  As this case falls under the “public interest” exception 
+to the mootness doctrine, we denied the motion to dismiss and ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+6 
+ now proceed to address the merits of this appeal.  We hold that 
+Hawaiʻi’s UETA does not apply to the petitions for impeachment in 
+this case, principally because application of the UETA requires 
+the consent of the parties to transact governmental business 
+electronically.  In this case, the City did not consent to be a 
+party to a “transaction ” between it and Yoshimura for the 
+purpose of certi fying whether petition signatories were duly 
+registered voters of the City and County of Honolulu.  
+Therefore, the City was not required, under the UETA , to have 
+developed s ome form of written policy regarding the use and 
+acceptance of electronic signature s.  We further hold that the 
+City was not required, under HAPA, to have promulgated a rule 
+concerning electronic signatures.  We therefore affirm th e 
+circuit court’s final judgment.   
+II.  Background  
+A.   Petition for i mpeachment , Yoshimura’s c orrespondence with 
+ Corporation Counsel and the Office of Elections,  and first 
+ amended p etition 
+ 
+ 1.  Petition for i mpeachment  
+ 
+ On December 18, 20182, the circuit court received 
+Yoshimura’s “Petition for Impeachment of Prosecuting Attorney 
+Keith M. Kane shiro Pursuant to Sec. 12 -203 of the Honolulu City 
+Charter etc [.]” (“petition for impeachment”).   Yoshimura had 
+ 
+2  The petition for impeachment was filed December 20, 2018 .   ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+7 
+ circulated an online petition on the platform Change.org 
+alleging that Kaneshiro had committed malfeasance, misfeasance, 
+or nonfeasance in office by failing to take appropriate action 
+with respect to his deputy prosecutors, including Katherine 
+Kealoha.3  At the time Yoshimura circulated his initial online 
+petition, Kealoha had been indicted in federal court,4 and 
+Yoshimura believed two other deputy prosecutors  had received 
+subject letters.5  Yoshimura’s online petition went on to state 
+that Kaneshiro him self had received a target letter but failed 
+to inform officials of the City and County of Honolulu and State 
+of Hawaiʻi, choosing instead to remain on the job.   Yoshimura 
+asserted that Kaneshiro’s continued presence on the job would 
+jeopardize the integrity of past and present criminal 
+prosecutions.    
+ Yoshimura attached an Excel spreadsheet listing the names, 
+cities, states, and zip codes of 861 people represent ed to have 
+electronically signed the Change.org online petition.   In a 
+declaration appended to the petition for impeachment, Yoshimura 
+“acknowledge[d] that some of the individuals that have signed 
+the petition may NOT be duly registered voters in the City and 
+ 
+3  Yoshimura also named two additional deputy prosecutors he believed had 
+received target letters.  One had not.   
+ 
+4  Kealoha has since been convicted and sentenced on federal charges.  
+ 
+5  See supra note 3.  ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+8 
+ County of Honolulu.”   There were alleged signatories identified 
+as being from other counties in the State of Hawaiʻi, as well as 
+from other states and countries.   Additionally, while some 
+signatories listed their city as somewhere within the City and 
+County of Honolulu, they were identified only by their initials  
+or by incomplete or false name s (e.g., “J S,” “Donald Duck ,” 
+“1L”).    
+ 2.   Yoshimura’s c orrespondence with Corporation Counsel  
+  and the Office of Elections  
+ 
+ Sometime after filing the petition for impeachment, it 
+appears Yoshimura became concerned about whether the City Clerk 
+would certify the signatories as duly registered voters of the 
+City and County of Honolulu.  In February 2019, Yoshimura’s 
+counsel wrote to the City and County of Honolulu’s  Corporation 
+Counsel Paul S. Aoki, acknowledging that the City Clerk’s office 
+“certif[ies] that individuals signing the petition are voters,” 
+and that “certification of the individuals who signed the 
+petition . . . may be an issue.”   Although the Change.org 
+petition collected only name, city, and zip code information, 
+Yoshimura’s counsel “propos[ed] to collect the following 
+information from signatories:  full name, last 4 digits of 
+Social Security Number, and zip code of the person’s res idence 
+address.”   Counsel explained that Yoshimura preferred to keep 
+residence addresses of signatories private.   Deputy Corporation ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+9 
+ Counsel Yost responded that the City Clerk w ould await 
+instructions, if any, from the circuit court from an upcoming 
+status conference.    
+ In March 2019,  Yost wrote to Yoshimura’s counsel to inform 
+him that “[p]etitions that the City Clerk reviewed in the past 
+to confirm voter registration have generally included the 
+following information:  (1) date of signature; (2) signature; 
+(3) printed name; and (4) residence address.”   She also pointed 
+out, “As you know, the City Clerk has not received or been 
+instructed to certify or review any petition” in this case.   She 
+repeated her intention to await instructions, if any, fro m the 
+circuit court.    
+ In April 2019,  the parties and their attorneys, as well as 
+Yost, met in person to discuss the City Clerk’s certification 
+process.   That meeting was memorialized in separate letters from 
+Yoshimura’s counsel and Yost, wherein the City ’s position was 
+clear:  the City Clerk required signatories’ residence addresses 
+and would not accept electronic signatures.   In a memorandum in 
+support of an April 2019 status conference, Kaneshiro informed 
+the court that he supported and joined the City’ s position , as 
+set forth in an April 18, 2019 letter from Yost .  The City 
+formalized its opinion in an April 23, 2019 letter authored by 
+Yost.  The City explained that the City Clerk checks residence 
+addresses against the Statewide Voter Registration System to ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+10 
+ confirm that the signatory is a duly registered voter of the 
+city.  The City explained that it also required handwritten 
+signatures to “detect[] fraudulent or questionable signatures.”   
+The City cited to HRS § 489E-18(a) and (c) for t he proposition 
+that it is not required to permit the use of electronic 
+signatures and can “determine whether, and the extent to which, 
+it [would] accept . . .  electronic signatures . . . and rely 
+upon . . . electronic signatures.”   The City also stated in its 
+letter that Yoshimura’s petition had not been presented to the 
+City Clerk for certification of voter registration status of the 
+signatories to the online petition.       
+ 3.  First amended p etition  
+ On April 12, 2019, Yoshimura filed his “First Amended 
+Petition for Impeachment of Prosecuting Attorney Keith M. 
+Kaneshiro Pursuant to Sec. 12 -203 etc.” (“first amended 
+petition”).   In the first amended petition, Yoshimura again 
+acknowled ged that not all signatories to his online petition 
+were register ed voters of the City and County of Honolulu.   He 
+stated that when he was “unable to obtain a formal legal opinion 
+from the City Clerk or Corporation Counsel’s office regarding 
+the validity of electronic signatures, nor the information 
+needed to verify tho se signatures as duly registered voters of 
+the City and County of Honolulu ,” he sought the assistance of 
+State Senator Maile M. Shimabukuro and Nedielyn Bueno, a “Voter ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+11 
+ Services” employee of the State Office of Elections, to 
+determine what information was necessary to verify the identity 
+of a voter during the voter registration process.   He attached 
+an email string between Shimabukuro and Bueno as an exhibit.   In 
+the email string, Senator Shimabukuro wrote to Scott Nago, the 
+director of the Office of Electi ons, on March 25, 2019, to ask 
+“whether a voter’s registration status can be verified via their 
+first and last name, signature, last 4 digits of [ their Social 
+Security number], and zip code.”   She also asked whether a 
+driver’s license number could be used in lieu of the last four 
+digits of a Social Security number.       
+ Bueno responded the following day, stating that the 
+registration status of a voter is verified using a Hawaiʻi 
+driver’s license number or Hawaiʻi state identification number 
+(or, if none, the last four digits of an individual’s Social 
+Security number), along with name, date of birth, and residence 
+address.  She stated that a signature “is not used to verify 
+voter registration status,” but it is us ed to validate a voter’s 
+returned absentee ballot.      
+ Senator Shimabukuro sent a follow -up email two days later 
+relaying “a constituent’s” question asking whether residence 
+addresses were necessary to verify voter registration, given 
+“issues such as iden tity theft and other personal ‘safety’ 
+issues.”   Four days later, on April 1, 2019, Bueno responded by ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+12 
+ stating that the information required to register  to vote online 
+is full name, date of birth, last four digits of a Social 
+Security number, and driver’s license or state identification 
+number.  She clarified a day later that a paper voter 
+registration must include the last four digits of a Social 
+Security number only if the registrant does not have a driver’s 
+license or state identification number.   Thus, Bueno did not 
+answer the voter registration verification  question, instead 
+listing what information was necessary for voter registration .6 
+Yoshimura represented in his first amended petition that, 
+after receiving this information from Senator Shimabukuro and 
+Bueno, he started “re -collecting” electronic signatures on 
+DocuSign, a different online platform, asking signatories for 
+their (1) full names; (2) birthdates; (3) last four digits of 
+their Social Security number, driver’s license number, or state 
+identification number; and (4) zip code.     
+ The content of the re -circulated petition was attached as 
+another exhibit  to the first amended petit ion.  The re-
+circulated petition clarified that one of the deputy prosecuting 
+attorneys Yoshimura had named had not receive d a subject letter, 
+ 
+6  Yoshimura repeatedly represent ed throughout these proceedings and on 
+appeal that Bueno told him verifying  voter registration status required a 
+signatory’s full name, date of birth, last four digits of a Social Security 
+number, and driver’s license or state identification number.  As Kane shiro 
+and the City repeatedly counter -argued throughout these proceedings, Bueno 
+was referring to the requirements for voter registration  in the first 
+instance.  ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+13 
+ contrary to Yoshimura’s belief at the time he circulated his 
+initial online petition.   The petition asked signatories to sign 
+the following acknowledgement:  “I have read the attached 
+Impeachment Petition, and hereby acknowledge by providing my 
+signature and other pertinent information below, that I support 
+the effort to Impeach Prosecutor Keith Kaneshiro, and  do 
+solemnly swear that I am a registered voter in the City and 
+County of Honolulu.”   Signatories were then instructed to enter 
+the following information:  (1) full name, (2) Hawaiʻi driver’s 
+license number, or Hawaiʻi state identification card number, or 
+last four digits of their Social Security number, (3) date of 
+birth, (4) zip code, (5) date, and (6) signature.   The last page 
+of the re -circulated online petition contained Yoshimura’s full 
+name, the last four digits of his Social Security number, his 
+date of birth, his zip code, and his electronic signature 
+(denoted by a frame around his name labeled “DocuSigned by: ).”  
+Unlike the initial impeachment petition filed on December 20, 
+2018, which attached as an exhibit the Excel spreadsheet of the 
+861 signato ries to the Change.org petition, the first amended 
+petition did not attach as an exhibit any signatory information 
+(other than Yoshimura’s) from the re -circulated impeachment 
+petition.      
+ 
+ ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+14 
+ B.  Motion to dismiss, opposition, and r eply 
+ 1.  Kaneshiro’s motion to d ismiss 
+ In May 2019 , Kaneshiro filed a “Motion to Dismiss First 
+Amended Petition for Impeachment of Prosecuting Attorney etc.” 
+(“motion to dismiss”).   He argued that no authority permitted 
+the filing of the first amended petition whe re the initial 
+petition was defective ab initio.   He contended  Yoshimura’s 
+initial petition for impeachment was defective because the City 
+Clerk had not certified that his petition contained 500 
+signatures of registered voters of the City and County of 
+Honolulu prior to the filing of his impeachment petition, as 
+required by section 12 -203 of the Revised Charter.   Kaneshiro 
+argued that Yoshimura should have dismissed the defective 
+initial petition then re -filed an impeachment petition complying 
+with section 12-203 of the Revised Charter.   For the same 
+reason, Kaneshiro argued  that the first amended petition must be 
+dismissed for lack of subject matter jurisdiction or for failure 
+to state a claim.   Kaneshiro included as an exhibit Yost’s April 
+23, 2019 letter from the City to counsel and the court, advising 
+that the City requires a handwritten signature and residence 
+address to determine whether a signatory is a duly registered 
+voter of the city, as required under section 12 -203 of the 
+Revised Charter .  Kaneshiro next pointed out that Yoshimura’s ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+15 
+ first amended petition was supported by just Yoshimura’s 
+signature.      
+2.   Yoshimura’s memorandum in opposition to Kaneshiro’s 
+motion to dismiss  
+ 
+ In his memorandum in opposition to Kaneshiro’s motion to 
+dismiss, Yoshimura newly argued that section 12 -203 of the 
+Revised Charter contains no requirement that the re -circulated 
+impeachment petition’s signatures “need to be certified by the 
+[City] Clerk a t any[]time during this Impeachment process,” 
+including before the petition is filed in circuit court.   
+ As to whether amendment of an impeachment petition is 
+permissible, Yoshimura argued that HRCP Rule 15(a)(1) (2012) 
+permitted him to amend his impeachm ent petition once as a matter 
+of course at any time before a responsive pleading is served, 
+and the first amended petition was filed prior to any filings 
+from Kaneshiro.  
+ Lastly, Yoshimura argued the City must accept electronic 
+signatures and cannot requir e residence addresses.   He stated 
+that his initial Change.org petition was supported by at least 
+500 electronic signatures of duly registered Honolulu voters.   
+He pointed to HRS § 489E-7(d), which states, “If a law requires 
+a signature, an electronic signa ture satisfies the law.”  As to 
+the City’s reliance on HRS § 489E-18 as authority to refuse to 
+accept electronic signatures, Yoshimura argued th e statute ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+16 
+ required the City to have a pre -existing ordinance, charter 
+provision, or written policy on acceptance or rejection of 
+electronic signatures.   To Yoshimura, the City’s April 23, 201 9 
+letter setting forth its position that his impeachment petition 
+must contain handwritten signatures “‘electively’ pick[ed] an 
+unwritten policy out of the sky.”      
+ Yoshimura asked the circuit court to deny Kaneshiro’s 
+motion to dismiss.   He also requested that, if the circuit court 
+found the form of his impeachment petition to be incorrect, he 
+should be granted time to conform the petition.    
+ 3.  Kaneshiro’s reply  
+ In his reply memorandum , Kaneshiro argued that section    
+12-203 of the Revised Charter requires 500 signatures of “duly 
+registered voters” of the City and County of Honolulu, which 
+requires verification by the City Clerk, as a prerequisite to 
+filing.  Kaneshiro also pointed out that Yoshimura sent numerous 
+inquiries to the City asking what information the City Clerk 
+would need to certify his petition, undercutting Yoshimura’s 
+belated argument that certification by the City Clerk is not 
+necessary.   
+ Kaneshiro next argued that the court and parties had always 
+contemplated certification of the impeachment petition(s), 
+consistent with Hawaiʻi law, specifically, based on this court’s 
+order in In the Matter of Impeachment of Honolulu City ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+17 
+ Councilmember Rene Mansho , No. 24858 (2002).   In the Mansho 
+case, th is court  was presented with a petition to impeach a 
+councilmember, pursuant to section 12 -202 of the Revised Charter 
+(1993).  At that time, this court served as “a board of 
+impeachment in any proceeding for the removal of a 
+councilmember,” upon presentation of a “char ge . . . set forth 
+in writing in a petition for impeachment signed by not less than 
+one thousand duly registered voters of the council district for 
+the removal of a council member, and said signatures shall be 
+necessary only for the purpose of filing the p etition.”  Upon 
+receipt of the petition, this court filed an order stat ing that 
+one “preliminary issue” was “whether the signatures in support 
+of the petition are the signatures of registered voters in the 
+Council District 1 of the City and County of Honol ulu.”  This 
+court ordered the petitioners to “submit a copy of the petition 
+with its signature pages to the Clerk of the City and County of 
+Honolulu.  The Clerk of the City and County of Honolulu shall, 
+within 90 days thereafter, review the signatures and submit a 
+declaration concerning whether the petition contains at least 
+one thousand signatures of duly registered voters from Council 
+District 1 of the City and County of Honolulu.”    
+Kaneshiro ended his reply memorandum urging the circuit 
+court to dismis s Yoshimura’s first amended petition for lack of 
+jurisdiction, or for failure to state a claim, because the City ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+18 
+ Clerk had not certified the petition(s), and the petition(s) on 
+the record would not have been certified because they did not 
+contain handwritt en signatures and residence addresses, as the 
+City stated the City Clerk would require under section 12 -203 of 
+the Revised Charter.   
+ The circuit court held a hearing on the motion to dismiss 
+on June 10, 2019 and denied the motion because Yoshimura had 
+filed a motion for leave to amend (described in greater detail 
+in the next section) that was still pending at that time.    
+C.   Yoshimura’s motion for leave to amend petition and 
+Kaneshiro’s opposition and cross -motion to s trike 
+ 
+ Four days after Kaneshiro had filed his motion to dismiss,  
+Yoshimura filed a “Motion for Leave to Amend Petition and to 
+Name City Clerk as Respondent in a Declaratory Judgment 
+Complaint” (“motion for leave to amend”).   Yoshimura’s counsel 
+stated that he sought to name the City Clerk as a respondent to 
+a declaratory judgment action, because the City had taken a 
+position that the City Clerk would require signatories’ 
+residence addresses and not accept electronic signatures, when 
+there was no pre -existing City policy stating  the same.   
+Yoshimura appended a proposed Second Amended Petition as an 
+exhibit.   He sought a declaration from the court requiring the 
+City Clerk to accept an impeachment petition with electronic 
+signatures and without residence addresses of signatories.   ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+19 
+ Kaneshiro filed an “Opposition and Cross -Motion to Strike 
+Petitioner’s Motion for Leave to Amend Petition and to Name City 
+Clerk as a Respondent in a Declaratory Judgment Complaint, Filed 
+on May 6, 2019” (“opposition and cross -motion to strike”).   In 
+addition to reiterating the argument that the circuit court 
+lacked jurisdiction ( over the petition for impeachment , the 
+first amended petition , and any motion for leave to amend to 
+file a second amended petition for impeachment), Kaneshiro 
+argued there was no authority for amending a petition for 
+impeachment , adding a defendant, or combining a petition for 
+impeachment with a complaint for declaratory judgment .     
+ Yoshimura filed a “Memorandum in Opposition to Keith M. 
+Kaneshiro’s Cross -Motion to Strike Petitio ner’s Motion for Leave 
+to Amend and to Name City Clerk as a Respondent in a Declaratory 
+Judgment Complaint.”   In it, he asserted that his re -circulated 
+DocuSign petition did have over 500 signatures  (but none were 
+attached to the opposition or included in this record ).   
+ Kaneshiro filed a “Reply in Support of Cross -Motion to 
+Strike Petitioner’s Motion for Leave to Amend Petition and to 
+Name City Clerk as a Respondent in a Declaratory Judgment 
+Complaint, Filed on May 6, 2019 ,” arguing that leave to amend 
+should be denied based on futility, because the proposed second 
+amended petition did not cure the jurisdictional defect of the 
+prior amendment ( because the petition (s) did not contain 500 ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+20 
+ signatures of duly registered Honolulu voters), and becaus e 
+Yoshimura’s theory of declaratory relief (that HRS § 489E-7 
+requires the City Clerk to accept electronic signatures) is 
+meritless, because HRS § 489E-18(a) and (c) provide the City 
+with discretion to refuse to accept electronic signatures.  
+ The circuit c ourt held a hearing on the motion for leave to 
+amend and the cross -motion to strike the motion for leave to 
+amend on June 24, 2019.   At that hearing, Yoshimura acknowledged 
+“that the proposed second amended petition relies 100 percent on 
+the validity of electronic signatures,” with respect to both the 
+Change.org and DocuSign petitions.   He also acknowledged that 
+there was no dispute “that the City is requiring wet signatures 
+for this petition [.]”  He also conceded, “The second amended 
+[petitio n] does not include residence addresses.”      
+Yoshimura nevertheless went on to argue t hat the “City 
+Council must determine” in writing, and ahead of time (not in 
+response to an inquiry), whether to accept electronic 
+signatures.”   Without a written “across -the-board” policy, 
+Yoshimura argued the City ’s position was ad hoc and “pull[ed] 
+out of the sky.”   By minute order, the circuit court denied 
+Yoshimura’s motion for leave to amend.   Its reasoning was set 
+forth in its Findings of Fact, Conclusions of Law, and Order, 
+summarized next.       ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+21 
+ D.   Circuit court’s findings of f act, conclusions of law, and 
+order  
+   
+ On August 19, 2019, the circuit court filed its “ Findings 
+of Fact, Conclusions of Law, and Order (1) Denying Petitioner’s 
+Motion for Leave to Amend Petition and to Name City Clerk as a 
+Respondent in a Declaratory Judgment Complaint, Filed May 6, 
+2019; (2) Denying Respondent Keith M. Kaneshiro’s Cross -Motion 
+to Strike Petitioner’s Motion for Leave to Amend Petition and to 
+Name City Clerk as a Res pondent in a Declaratory Judgment 
+Complaint, Filed on May 17, 2019; and (3) Dismissing Case for 
+Lack of Jurisdiction .”  Among the findings of fact (“FOFs”) and 
+conclusions of law (“COLs”) relevant to this appeal, the circuit 
+court stated the following:  
+[FOF]4.  Regardless of the exact form of the actual or 
+proposed petition(s), the court finds at no point in this 
+case did Petitioner submit 500 “wet” hand -written 
+signatures along with reasonably verifiable information on 
+whether the “signers” w ere currently duly registered voters 
+in the City & County of Honolulu.  
+ 
+[FOF]5.  The court finds there is no way to tell based on 
+the record in this case whether the actual or proposed 
+“digital signers” of the petitioner(s), were all different 
+people, and whether they were all duly registered voters of 
+the city of Honolulu at the time they “signed” 
+electronically.  
+ 
+[FOF]6.  The parties agreed on the record that on behalf of 
+the City, the Department of the Corporation Counsel issued 
+its written position in a  letter dated April 23, 2019, 
+signed by Deputy Corporation Counsel Moana Yost.  The 
+letter is an exhibit in the record.  The City’s position is 
+that digital signatures are not acceptable for the actual 
+or proposed petition(s) to impeach Mr. Kaneshiro.  Mor e 
+specifically, the City’s reason (as stated in its 4/23/19 
+letter) for not allowing digital signatures is the City’s 
+interest in detecting fraudulent or questionable 
+signatures.  In order to determine the (required) voter 
+registration status, the City is requiring a) the signer’s ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+22 
+ full legible name; b) a hand -written signature; and c) 
+residence address (presumably to determine if the signer is 
+currently a resident of the City of Honolulu, as opposed to 
+when they last registered to vote or last updated their  
+address in the voter rol[l]s).  
+ 
+[COL]7.  The court concludes the language of Section 12 -203 
+means the petition to impeach Mr. Kaneshiro must have the 
+required 500 signatures of duly registered voters of 
+Honolulu County when the petition is filed.  Because no 
+actual or proposed petition for impeachment in this case 
+was or would be signed by 500 duly []registered voters in 
+the City, the actual and proposed petition(s) did not 
+satisfy the requirements of City Charter section 12 -203.  
+ 
+[COL]8.  The court finds and concludes it is not 
+unreasonable or discriminatory for the City to take the 
+position that fraudulent or questionable signatures are a 
+valid concern for online petitions to impeach duly elected 
+public officials. See Perotka v [.] Cron[i]n, 117 Haw[aiʻi] 
+323 (2008).  
+ 
+[COL]9.  Petitioner argues the City must accept digital 
+signatures pursuant to HRS [§] 489E-7, which among other 
+things provides that if a law requires a signature, an 
+electronic signature satisfies the law.  Per the same 
+4/23/l9 letter from Corporation Counsel, the City ’s 
+position is that it is not required to accept digital 
+signatures for impeachment petitions, because HRS        
+[§] 489E-l8(c) gives it the discretion to allow or not 
+allow digital signatures.   The court concludes this 
+discretionary “carve out ” in 489E-18(c) expressly applies 
+to government entities, so in essence HRS [§] 489E-18(c) 
+can trump HRS [§] 489E-7 when a government entity is 
+involved.  
+ 
+[COL]10.  In view of HRS [§] 489E-18(c), and given the 
+City’s concern with both a) handwritten versus electronic 
+signatures, and b) ability to verify a signature is from a 
+duly registered voter, the court respectfully rejects 
+Petitioner ’s argument that the City must accept digital 
+signatures without residentia l addresses for impeachment 
+petitions pursuant to HRS [§] 489E-7.  
+ 
+[COL]11.   Petitioner also argued that the City must 
+formally adopt its position, by rule or other official 
+enactment, that it will not accept digital signatures for 
+impeachment petitions.   The parties agreed on record that 
+the City ’s position is as expressly stated in Corporation 
+Counsel’s 4/23/19 letter which is part of the record.  The 
+court is not aware of any legal requirement that the City ’s 
+position on this finite issue must be formal ly enacted in 
+order to be effective, and therefore declines to adopt 
+Petitioner ’s position.  
+ ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+23 
+ [COL]12.  Respondent argued in his motion to strike that 
+since the original petition was defective, the court never 
+had jurisdiction to even consider the first am ended 
+petition or the second (proposed) amended petition.  The 
+court respectfully disagrees.  As with the court ’s ruling 
+on Respondent ’s motion to dismiss, the court concludes it 
+has jurisdiction to rule on the First Amended Petition and 
+the Proposed Secon d Amended Petition.  The court ’s 
+reasoning is that applying a policy of “once defective, 
+always defective, and petitioner must file a new petition 
+with a new lawsuit ” does not comport with modern rules of 
+civil procedure which permit amendment of even 
+jurisdictionally defective pleadings if the proposed 
+amendment is not futile.  This issue was not discussed in 
+the pre-statehood cases cited by Respondent, and so those 
+cases are non -binding on the particular issue presented 
+here.  
+ 
+[COL]13.  Here, the proposed Second Amended Petition has 
+the same defects as the two earlier petitions as described 
+above.  Since the court concludes the City has the 
+discretion to reject the electronic signatures in this 
+case, and since the proposed Second Amended Petition 
+suffers from the same defects as the prior petitions, the 
+court therefore concludes the proposed petition is futile, 
+and the motion to amend is therefore denied.  
+ 
+[COL]14.  Since there is no valid petition for impeachment 
+before the court that co mplies with Section 12 -203 of the 
+city charter, as determined by the City ’s discretionary and 
+valid requirements regarding actual signatures from 
+demonstrably duly registered voters, the cou rt hereby 
+dismisses this case for lack of  jurisdiction.  
+ 
+The circu it court then denied Yoshimura’s motion for leave to 
+amend his petition to name the City Clerk as a respondent in a 
+declaratory judgment complaint, denied Kaneshiro’s cross -motion 
+to strike Yoshimura’s motion for leave to amend, and dismissed 
+this case for  lack of jurisdiction.  
+E.   Yoshimura’s m otion for reconsideration and the circuit 
+court’s order of denial  
+ 
+ Yoshimura then filed a motion for reconsideration.   He 
+argued that the federal Electronic Signatures in Global and 
+National Commerce Act (the “ESIGN Act,” 15 U.S.C. § 7001 et ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+24 
+ seq.) was an additional authority requiring the City to 
+determine the extent to which it will accept electronic 
+signatures on impeachmen t petitions.7   
+ Yoshimura next argued that the City was required to 
+promulgate a rule under HAPA (HRS chapter 91) as to when it 
+would accept or  reject electronic signatures on impeachment 
+petitions.   He noted that HRS § 91-1 (2008) defines “rule” as an 
+“agency statement of general or particular applicability and 
+future effect that implements, interprets, or prescribes law or 
+policy, or describe s the organization, procedure, or practice 
+requirements of any agency,” but excludes the “internal 
+management” o f an agency.   He went on to cite Application of 
+Terminal Transp ortation , Inc., 54 Haw. 134, 504 P.2d 1214 
+(1972), for the proposition that, “in the absence of clear 
+legislative direction to the contrary, the court will not 
+interpret HAPA so as to give gove rnment even the appearance of 
+being arbitrary or capricious.”   He stated that the City’s ad 
+hoc decision not to accept electronic signatures on his 
+impeachment petition was arbitrary.    
+ 
+7  The Federal ESIGN Act does not apply in this case.  15 U.S.C.          
+§ 7001(a)(1) states, “Notwithstanding any statute, regulation, or other rule 
+of law (other than this subchapter and subchapter II), with respect to any 
+transaction in or affecting interstate or foreign commerce  -- (1) a 
+signature, contract, or other record relating to such tra nsaction may not be 
+denied legal effect, validity, or enforceability solely because it is in 
+electronic form  . . . .”  ( Emphasis added) .  The impeachment of a City 
+prosecutor does not affect interstate or foreign commerce.  The refore, this 
+opinion does not  further discuss the ESIGN Act.  ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+25 
+  Yoshimura next argued that leave to amend a petition should 
+have been “freely given,” citing Keawe v. Hawaiian Elec tric 
+Company, 65 Haw. 232, 649 P.2d 1149 (1982), absent any apparent 
+or declared reason, such as undue delay, bad faith , or dilatory 
+motive o n the part of the movant , or a repeated failure to cure 
+deficiencies in the complaint.  
+ Lastly, Yoshimura cited Anderson v. Bell , 234 P.3d 1147 
+(Utah 2010), as a case in which electronic signatures were 
+accepted on a petition to qualify a candidate for an election.   
+He concluded by asking the circuit court to grant his motion for 
+reconsideration, vacate its dismissal order, require the City to 
+accept electronic signatures and to certify his petition, and 
+allow him to file his second amended petition.  
+ In his memorandum in opposition to Yoshimura’s motion for 
+reconsideration, Kaneshiro argued that three independent reasons 
+supported denying Yoshimura’s motion for reconsideration.   
+First, the circuit court ’s jurisdiction was never triggered 
+because Yoshimura n ever presented it with a petition signed by 
+over 500 duly registered Honolulu voters.   Second, Yoshimura’s 
+motion for reconsideration did not meet the requirements of  HRCP 
+Rule 59(e)  (2000), which permits reconsideration of a court’s 
+order where the parties “present new evidence or arguments that 
+could not have been presented earlier.”   For example, Kaneshiro 
+argued that Yoshimura’s HAPA argument was impermissibly raised ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+26 
+ for the first time in his m otion for reconsideration.   Third, 
+Kaneshiro stated Yoshimura’s arguments were meritless in any 
+event.     
+ Lastly, Kaneshiro distinguished the Anderson  case as 
+involving a state statute that required acceptance of electronic 
+signatures.   He also pointed o ut that Anderson  was an election 
+nomination proceeding, and Utah liberally construes its election 
+statutes.     
+ In Yoshimura’s reply, he asserted  he did have 500 
+signatures on his petition (referring to the initial Change.org 
+petition, which he represented he “never abandoned”), and that 
+the issue was whether the City Clerk would accept electronic 
+signatures.   Yoshimura asked the court to reconside r its order 
+and allow him to “submit a Second Amended Petition which will be 
+supported by at least 500 electronic signatures.”     
+ On October 2, 2019, the circuit court denied Yoshimura’s 
+motion for reconsideration.   The court’s order stated it “still 
+does not have jurisdiction” over the petition and that 
+“everything argued in the Motion [for reconsideration] was or 
+could have been raised earlier.”   Nevertheless, the court 
+concluded that, on the merits, it remained unpersuaded.  
+ 
+ 
+ ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+27 
+ F.  Notice of a ppeal 
+ On November 15, 2019, the circuit court entered its final 
+judgment.   Yoshimura timely appealed.   This court granted 
+transfer of the appeal on April 6, 2020.  
+III.  Standards of Review  
+A.   Interpretation of the Revised Charter of the City and 
+County of Honolul u and the Hawaiʻi Revised Statutes  
+ 
+ Statutory interpretation is a question of law reviewable de 
+novo.  This court’s statutory construction is guided by 
+established rules:  
+First, the fundamental starting point for statutory 
+interpretation is the language of the statute itself.  
+Second, where the statutory language is plain and 
+unambiguous, our sole duty is to give effect to its plain 
+and obvious meaning.  Third, implicit in the task of 
+statutory construction is our foremost obligation to 
+ascertain  and give effect to the intention of the 
+legislature, which is to be obtained primarily from the 
+language contained in the statute itself.  Fourth, when 
+there is doubt, doubleness of meaning, or indistinctiveness 
+or uncertainty of an expression used in a s tatute, an 
+ambiguity exists.  
+When interpreting a municipal ordinance, this court  
+applies the same rules of construction applied to statutes.  
+ 
+Rees v. Carlisle , 113 Hawaiʻi 446, 452, 153 P.3d 1131, 1137 
+(2007) (citations omitted).    
+B.  Conclusions of l aw 
+ “[T]he standard  of review applicable to the circuit court’s 
+conclusions  of law is the right/wrong standard .”  Mehau v. Reed , 
+76 Hawaiʻi 101, 107, 869 P.2d 1320, 1326 (1994).   
+ 
+ ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+28 
+ C.  Motio n for leave to a mend 
+ “The grant or denial or leave to amend under Rule 15(a) is 
+within the discretion of the trial court and is subject to 
+reversal on appeal only for an abuse of discretion.”  Bishop 
+Trust Co. v. Kamokila Dev. Corp. , 57 Haw. 330, 337, 555 P.2d 
+1193, 1198 (1976 ). 
+D.  Motion for r econsideration  
+ “HRCP Rule 59(e) motions for reconsideration are reviewed 
+under the abuse of discretion standard.  The trial court abuses 
+its discretion when it clearly exceeds the bounds of reason or 
+disregards rules o r principles of la w or practice to the 
+substantial detriment of a party litigant.”  Kaneohe Bay 
+Cruises, Inc. v. Hirata , 75 Hawaiʻi 250, 258, 861 P.2d 1, 6 
+(1993) (citation omitted).  
+IV.  Discussion  
+ We first address Kaneshiro ’s motion to dismiss filed after 
+his successor was sworn in on January 2, 2021.   Kaneshiro 
+asserts this case must be dismissed on the basis of mootness.   
+As we preliminarily explain, b ased on the public interest 
+exception  to the mootness doctrine, we address the merits of the 
+issues raised on  appeal.   
+ In his opening brief, Yoshimura argues broadly that 
+electronic signatures are “an important component of direct 
+democracy” in the digital age.   He notes there are only three ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+29 
+ other cases nationwide analyzing the use of electronic 
+signatures to e ffect direct democracy:  Anderson , 234 P.3d 1147; 
+Benjamin v. Walker , No. 16 -0228 (W.Va. Apr. 19, 2020); and Ni v. 
+Slocum, 196 Cal. App. 4th 1636 (Cal. App. 1st Dist. 2011).   This 
+case would be the fourth.  
+Yoshimura raises the following points of error on appeal: 
+A.  [The circuit court]  erred when [it] found, in 
+Conclusion of Law #9, that:  “489E -18(c) expressly applies 
+to government entities, and can trump HRS [§] 489E-7 when a 
+government entity is involved,” because HRS § 489E -18(a) 
+requires that each governmental agency determine whether, 
+and the ext ent to which, it will send and accept electronic 
+records and electronic signatures, and the City failed to 
+make such a determination pursuant to and/or in compliance 
+with the requirements mandated by Chapter 91, the Hawaii 
+Administrative Procedures Act.  
+ 
+. . . . 
+ 
+B.  [The circuit court]  erred when [it] found, in 
+Conclusion of Law #10, that:  “In view of HRS            
+[§] 489E-18(c), and given the City’s concern with both a) 
+handwritten versus electronic signatures, and b) ability to 
+verify a signature is f rom a duly registered voter, the 
+court respectfully rejects Petitioner’s argument that the 
+City must accept digital signatures without residential 
+addresses for impeachment petitions pursuant to HRS      
+[§] 489E-7.” 
+ 
+. . . . 
+ 
+C.  [The circuit court]  erred when [it] found, in 
+Conclusion of Law #11, that:  “Petitioner also argued that 
+the City must formally adopt its position, by rule or other 
+official enactment, that it will not accept digital 
+signatures for impeachment petitions. . . .  The court is 
+not aware of any legal requirement that the City’s position 
+on this finite issue must be formally enacted in order to 
+be effective, and therefore declines to adopt Petitioner’s 
+petition.”  
+ 
+. . . . 
+ 
+D.  [The circuit court]  erred when [it] found, in 
+Conclusion of Law #13, that:  “Since the court concludes 
+the City has the discretion to reject the electronic 
+signatures in this case, and since the proposed Second 
+Amended Petition suffers from the same defects as the prior ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+30 
+ petitions, the court therefore concludes the proposed 
+petition is futile, and the motion to amend is therefore 
+denied.”  
+ 
+. . . . 
+ 
+E.  [The circuit court]  erred when [it] denied Mr. 
+Yoshimura’s motion for reconsideration which asserted:  (A) 
+that the Court erred in focusing on HRS § 489E -18(c), which 
+should have been read together with the entirety of Chapter 
+489E, because § 489E -18(a) requires each governmental 
+agency of this State to determine whether, and . . . the 
+extent to which, it will send and accept electronic records 
+and signatures; (B) the federal ESIGN Act mandates that a 
+state make a determination under what circumstances it 
+would accept electronic signatures a nd thus any such 
+exception to the acceptance of electronic signatures must 
+be set forth in writing, (C) the City is required, by 
+Chapter 91 of the Hawaii Revised Statutes (the Hawaii 
+Administrative Procedures Act, “HAPA”), to make this 
+determination in a m anner consistent with the rulemaking 
+provisions of the HAPA; and (D) as the City has failed to 
+adopt rules in a manner that is in compliance with 
+guidelines and requirements set forth in HAPA and          
+§ 489E-18(a) to determine whether, and the extent t o which, 
+it will send and accept electronic records and electronic 
+signatures, the City is prohibited from asserting that it 
+is not required to use or permit the use of electronic 
+records or signatures.  
+ 
+ Yoshimura’s first three points of error can be comb ined as 
+challenging the circuit court’s conclusion that, under HRS      
+§ 489E-18, the City has the discretion to refuse to accept 
+electronic signatures unaccompanied by residence addresses, 
+without first promulgating a written policy, by rulemaking under 
+HAPA or otherwise.  Yoshimura’s next point of error is that the 
+circuit court abused its discretion by denying his motion for 
+leave to amend.  Yoshimura’s last point of error is that the 
+circuit court abused its discretion in denying his motion for 
+reconsideration.  Each issue will be discussed in turn below.  
+  ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+31 
+ A. The public interest exception to the mootness doctrine 
+ applies 
+ 
+ After his successor was sworn in, Kaneshiro filed a motion 
+to dismiss this case on the basis of mootness.   Kaneshiro points 
+out that Yoshimura seeks impeachment or removal of Kaneshiro 
+from office and that as he no longer holds office, the matter is 
+moot.  
+ As explained in In re Application of Maui Elec tric Company, 
+Ltd., 141 Hawaiʻi 249, 408 P.3d 1 (2017),  however, there is a 
+“public interest ” exception to the mootness doctrine .  “This 
+court reviews three factors in analyzing the public interest 
+exception:  (1) the public or private nature of the question 
+presented, (2) the desirability of an authoritative 
+determination for future guidance of public officers, and (3) 
+the likelihood of future recurrence of the question. ”  141 
+Hawaiʻi at 256-57, 408 P.3d at 8 -9 (internal quotation marks and 
+citations omitted .8 
+ This situation triggers the public  interest exception, as 
+(1) there is a public interest in addressing procedures 
+ 
+8   This court has rejected the notion that the “public interest” 
+exception is part of, or indistinguishable from, the “capable of repetition 
+yet evading review” exception to the mootness doctrine.  See, e.g. , Moana v. 
+Wong, 141 Hawaiʻi 100, 107 n.9, 405 P.3d  536, 543 n. 9 (2017) (“Although the 
+‘capable of repetition, yet evading review’ exception has ‘merged at times’ 
+with the similar public interest exception to the mootness doctrine, ‘they 
+are, in fact, “separate and distinct.”’”); Doe v. Doe , 116 Hawaiʻi 323, 327 
+n.4, 172 P.3d 1067, 1071 n.4 (2007) (same);  Kahoʻohanohano  v. State , 114 
+Hawaiʻi 302, 333 n.23, 162 P.3d 696, 727 n.23 (2007) (same).   
+ ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+32 
+ applicable to impeachment of public officials; (2) determination 
+of issues raised in this case would assist public officers in 
+the future; and (3) the issues raised in this cas e are likely to 
+recur.  
+ Thus, although the matter of Kaneshiro ’s impeachment is now 
+moot, the public interest exception to the mootness doctrine 
+applies, and we address the merits of the issues on appeal.   
+B.  The City can require handwritten signatures and residence 
+addresses in order to certify signatories on an impeachment 
+petition under section 12 -203 of the Revised Charter  
+ 
+ 1.  Arguments on appeal 
+  
+  a.  Yoshimura’s opening brief  
+ 
+ Yoshimura argues that the circuit court erred in finding 
+that HRS § 489E -18(c), which “does not require a governmental 
+agency of this State to use or permit the use of electronic 
+records or electronic signatures,”  can “trump” HRS § 489E -7, 
+which states tha t electronic signatures generally satisfy the 
+law.  He maintains  the circuit court failed to read HRS chapter 
+489E in its entirety.   Specifically, he points to HRS           
+§ 489E-18(a) to argue that the City was required to determine 
+whether and to what extent it will accept electronic records and 
+signatures.   HRS § 489E -18 is titled “Acceptance and 
+distribution of electronic records by governmental agencies.”  
+Subsection (a) provides the following:  ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+33 
+ Except as otherwise provided in section 489E -12(f), each 
+governmental agency of this State shall determine whether, 
+and the extent to which, it will send and accept electronic 
+records and electronic signatures to and from other persons 
+and otherwise create, generate, communicate, store, 
+process, use, and r ely upon electronic records and 
+electronic signatures.     
+ 
+Yoshimura contends the circuit court failed to consider the 
+Anderson  case, in which the Utah Supreme Court held that the 
+Lieutenant Governor was required to accept electronic signatures 
+on a certif icate of nomination, under Utah’s UETA, which is 
+similar to Hawaiʻi’s.  He urges this court to follow the Anderson  
+court’s reasoning.  
+   Yoshimura next asserts the City could have fulfilled HRS   
+§ 489E-18(a)’s requirements by promulgating a written policy to 
+avoid an arbitrary or capricious decision on accepting or 
+rejecting electronic signatures.   Yoshimura argues this could 
+have been accomplished through rulemaking under HAPA.   
+ Yoshimura next argues the circuit court erred in accepting 
+the City’s  fraud-prevention rationale to require an impeachment 
+petition to contain signatories’ handwritten signatures and 
+residence addresses.   He states the City’s “‘concern’ of ‘fraud’ 
+is absurd given the existence of the ESIGN Act, and the 
+acceptance of electro nic signatures throughout the United 
+States.”   He again cites to the Anderson  case, this time for the 
+proposition that electronic signatures “may be a better 
+deterrent to candidate fraud because an electronic signature ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+34 
+ incorporates readily identifiable per sonal, but not -public, 
+information.”  Anderson , 234 P.3d at 1155 n.7.   In this case, 
+Yoshimura posits, a signatory could be confirmed to be a duly 
+registered Honolulu voter using the information provided on the 
+DocuSign petition (full name, date of birth, last four digits of 
+Social Security number or driver’s license number o r state ID 
+number, and zip code).  
+  b.  Kaneshiro’s answering brief  
+ Kaneshiro argues the circuit court did not err in 
+dismissing Yoshimura’s first amended petition, because “(1) the 
+City Clerk never certified any of [Yoshimura’s] petitions for 
+impeachmen t; (2) the City Clerk has the discretion to reject 
+electronic signatures in support of impeachment petitions; and 
+(3) the City Clerk may require residence addresses to certify a 
+signatory’s eligibility to vote on City matters.”   
+  Kaneshiro first argues that the requirements of section  
+12-203 of the Revised Charter (that an impeachment petition is 
+supported by 500 signatories) are jurisdictional and subject to 
+strict construction, again citing the Mansho order.  He argues 
+the City Clerk is responsible under section 3 -301 (2017) of the 
+Revised Charter and HRS § 11-14 (2008 & Supp. 2012 ) for 
+reviewing and certifying impeachment petitions.   Kaneshiro 
+points out Yoshimura never presented any petition to the City 
+Clerk for certification of signatures.   This omission, he says, ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+35 
+ is fatal, and the circuit court did not err in dismissing his 
+petition.   
+Kaneshiro goes on to argue that, even if the petition(s) 
+had been presented to the City Clerk for certification, the 
+petition(s) would not have been certified, because neither 
+contained the information necessary to confirm data store d in 
+the State Voter Registration System: (1) full legible names; (2) 
+handwritten signatures; or (3) residence addresses.   In fact, 
+Kaneshiro argues, only Yoshimura’s signature supported the 
+DocuSign petition.   
+ Kaneshiro next argues that the City is not required to 
+accept electronic signatures in support of a petition for 
+impeachment under the plain language and legislativ e history of 
+Hawaiʻi’s UETA.  He quotes HRS § 489E -18(c), which provides  that 
+Hawaiʻi’s UETA “does not require a governmental agency of this 
+State to use or permit the use of electronic records or 
+electronic signatures.”   He states the legislative history of 
+Hawaiʻi’s UETA, as well as the National Conference of 
+Commissioners on Uniform State Laws (“ NCCUSL”) commentary to the 
+model UETA, both state that “the UETA is permissive and does not 
+mandate governmental use of electronic signatures.”   This is 
+especially so where the parties (here, the City) have not agreed 
+to be part of an electronic transaction.      ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+36 
+ Further, Kaneshiro argues the City Clerk’s determination 
+does not require rulemaking under HAPA, because the decision to 
+reject electronic signatu res is “merely a reiteration or 
+clarification of existing law, both state election law and 
+county impeachment law.”   He also notes that the legislature 
+knows how to mandate further rulemaking in its statutes by 
+expressly cross -referencing HAPA.   He argues that the 
+legislature would have similarly cross-referenced HAPA in HRS   
+§ 489E-18 if governmental agencies were required to create rules 
+as to when they would accept or not accept electronic 
+signatures.   The fact that the legislature did not, Kaneshiro 
+states, distinguishes this case from Anderson , the case upon 
+which Yoshimura heavily relies.  According to Kaneshiro, the 
+Utah UETA interpreted in Anderson  required state governmental 
+agencies to promulgate rules to identify which transactions 
+could be conducted by electronic means, and which transactions 
+would never be conducted by electronic means.   For that reason, 
+the Lieutenant Governor in Anderson  was not authorized to reject 
+electronic signatures on a nomination petition in the absence of 
+rules.  Kaneshiro footnotes that the Utah legislature promptly 
+overrode the Anderson  opinion by amending the Utah UETA to 
+require handwritten signatures on petitions.   See Utah Code Ann. 
+§ 20A-9-502.   ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+37 
+ Kaneshiro points out that, as a matter of logic, 
+Yoshimura’s rulemaking argument fails, because the City would 
+have been in violation of HAPA had it informally decided in this 
+case that it would accept electronic signatu res on impeachment 
+petitions.  
+As to whether signatories’ residence addresses are required 
+on the impeachment petition, Kaneshiro quoted Nader v. Cronin , 
+Civ. No. 04 -00611 ACK -LEK, 2008 WL 1932284 , at *27-29 (D. Haw. 
+May 1, 2008), for the proposition that “providing one’s 
+residence address is the linchpin of being properly registered.”   
+ c.  Yoshimura’s reply brief  
+In his reply brief, Yoshimura  maintains the UETA applies to 
+his impeachment petition because the transaction at issue is not 
+between him and the City Clerk; rather it “is between Mr. 
+Yoshimura, as the circulator of the petition, and the voter 
+desiring to impeach Mr. Kaneshiro.”   Applying the UETA to his 
+petition, he argues the plain language of HRS § 489E-7(d) (“If a 
+law requires a signature, an electronic signature satisfies the 
+law”) reflects the legislature’s “intent . . . to accept, NOT 
+reject, electronic signatures.”   He also argues Kaneshiro and 
+the circuit court “ignored” the plain, mandatory language of HRS 
+§ 489E-18(a), that “each governmental agency of this State shall 
+determine whether, and the extent to which, it will send and 
+accept electronic records and electronic signatures  . . . .”   ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+38 
+   Yoshimura also states that the “underlying issue here, is 
+that there is ver y little guidance in the City Charter provision 
+on what is required for an impeachment petition.”   For example,  
+he reads the Mansho order as permitting an impeachment petition 
+to be filed with a court, with that court further ordering the 
+petition to be su bmitted to the City Clerk for certification.   
+  d.  City’s b rief of amicus c uriae 
+ Before this case was transferred from the ICA, the ICA 
+granted the City’s motion for leave to file a brief of amicus 
+curiae.  The City’s amicus brief focuses solely on the issue of 
+whether the City Clerk can require handwritten signatures, 
+accompanied by residence addresses, on a petition for 
+impeachment under section 12 -203 of the Revised Charter without 
+first promulgating a rul e or other prior written policy.  The 
+City argued that the UETA does not apply to Yoshimura’s 
+petition, because the City did not consent to be a party to this 
+electronic transaction, and HRS § 489E-5(b) (2008) states that 
+Hawaiʻi’s UETA “appl[ies] only to transactions between parties 
+each of which has agreed to conduct transactions by electronic 
+means.”  The City points to the state legislative history and 
+the NCCUSL commentary to the model UETA for the proposition that 
+governmental agenc ies’ acceptance of electronic signatures is 
+“permissive and not obligatory.”   For support, the City cites to 
+WCT&D, LLC v. City of Kansas City , 476 S.W.3d 336, 341 (Mo. App. ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+39 (continued . . .)  
+ 2015) (holding  that a neighbor’s email did not constitute a 
+signature that an appl icant for a liquor license could use, and 
+the city had not consented to accept electronic communications 
+in any event; therefore, the UETA did not apply); and Ni, 196 
+Cal. App. 4 th at 1653 (disallowing submission of thumb drive 
+with electronic signature s to put initiative on California 
+ballot).   In any event, even if the UETA did apply to 
+Yoshimura’s petition, the City argued that HRS § 489E-18 
+provided it with discretion to accept electronic signatures, and 
+that the ICA has previously viewed that statuto ry language as 
+plain and unambiguous, citing Stone v. Admin istrative  Director 
+of the Courts , CAAP-16-0000405, 2019 WL 474116  (Haw. App. Sept. 
+27, 2019).   
+Because the UETA does not apply, the City argues it was 
+free to determine in this case that it w ould reject electronic 
+signatures  and require residence addresses on impeachment 
+petitions under section 12 -203 of the Revised Charter.  
+ The City argues that the City Clerk performs voter 
+registration functions pursuant to section 3 -301 of the Revised 
+Charter9 and HRS § 11-14.10  When an applicant registers to vote 
+ 
+9 Section 3 -301 of the Revised Charter states, “The city clerk shall     
+. . . conduct all voter registration f unctions pursuant to this charter or 
+the laws of the state.”  
+ 
+10  HRS § 11 -14 is titled “General county register; restrictions in use.”  
+It provides that the clerk of each county “shall register all voters in the ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+40 
+ using a paper application, under HRS § 11-15 (2008, Supp. 2012, 
+& Supp. 2016 )11 and HAR § 3-172-20 (2010)12, the applicant must 
+provide a signature.   An applicant registering to vote online 
+must have  a valid government -issued identification card with the 
+applicant’s signature on it, pursuant to HRS § 11-15.3 (Supp. 
+2012).13  The City states that proof of signature allows the City 
+to protect its interest in de tecting fraudulent or questionable 
+signatures, citing Peroutka  v. Cronin , 117 Hawaiʻi 323, 179 P.3d 
+1050 (2008).       
+ Similarly, the City states that a signatory’s residence 
+address is “the cornerstone of becoming a registered voter,” as 
+“[a] person’s res idence dictates where the person can vote and 
+for what office,” citing Nader, 2008 WL 1932284 , at *27-29.  The 
+ 
+(continued . . . ) 
+clerk’s county in the general county registe r,” which “shall contain the name 
+and address of each voter  . . . .”  
+ 
+11  HRS § 11 -15 is titled “Application to register” and requires a person 
+registering to vote to submit an affidavit attesting to that person’s name; 
+Hawaiʻi driver’s license number or Hawaiʻi state identification number, or, if 
+none, the last four digits of the person’s Social Security number, or, if 
+none, a unique number assigned to the applicant for voter registration 
+purposes; date of birth, residence, including mailing address, intent  to make 
+Hawaiʻi the applicant’s legal residence, and citizenship.  
+ 
+12  HAR § 3-172-20 similarly requires a voter registration form to contain, 
+among other items, a residence address and a signature.  
+ 
+13  HRS § 11 -15.3 is titled “Application to register electronically.”  It 
+provides that a person seeking to register to vote electronically 
+“consent[s]” to having election officials confirm information, including the 
+applicant’s signature, “from government dat abases associated with government -
+issued identification.”  The statute goes on to state, “The applicant’s 
+signature obtained from the government database may be utilized by election 
+officials to validate and confirm a voter’s identity in any election -related 
+matter in which a signature is necessary.”   ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+41 
+ Nader opinion went on to state, “The law is clear that providing 
+one’s residence is the linchpin of being properly registered,” 
+and that the Hawaiʻi State Office of Election’s “practice and 
+procedure of requiring residential addresses for confirmatory 
+purposes is also reasonable and nondiscriminatory.”  Id. 
+  e.  Yoshimura’s response to the City’s amicus brief  
+ The ICA permitted both Yoshimura and Kaneshiro to submit 
+responses  to the City’s amicus brief, but only Yoshimura 
+responded .  In his response, Yoshimura asserts that DocuSign 
+“uses a tamper proof audit trail to document each electronic 
+signature and its[] accompanying documents, and th is audit trail 
+has been cited by courts to show reliability in tracking the 
+party that signed the document,” citing 10 Moonwalkers, Inc. v. 
+Banc of Am erica Merchant Services, LLC, 814 S.E.2d 583 (N.C. Ct. 
+App. 2018) , and In re Henrique , 559 B.R. 900 (Bankr. C.D. Cal. 
+2016).  He also argues there is nothing in section 12 -203 of the 
+Revised Charter calling for the use of full legible names, 
+handwritten signatures, and residence addresses of signatories.   
+As for the discretion of governmental agencies under HRS        
+§ 489E-18 to accept or not accept electronic signatures, 
+Yoshimura note s that certain governmental agencies  of the City 
+and County of Honolulu, like the Honolulu Police Department, the 
+Division of Purchasing, and the Department of Planning and 
+Permitting, have written policies on when they will accept ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+42 
+ electronic records, referencing HRS chapter 489E.   Thus, he 
+argues, the City “should not be allowed to selectively deny the 
+acceptance of electronic signatures for petitions while three 
+different City agencies accept electronic signatures.”  
+ 2.  Analysis  
+  a.   The UETA does not apply  in this case.  
+ 
+ Although this appeal is framed in terms of reconciling HRS 
+§ 489E-7(d)’s general validation of electronic signatures and 
+HRS § 489E -18’s grant of discretion to governmental agencies to 
+reject electronic signatures, there is a preliminary question of 
+whether HRS chapter 489E applies at all.  HRS § 489E -3 (2008), 
+titled “Scope,” states that Hawaiʻi’s UETA “shall apply to 
+electronic records and electronic signatures relating to a 
+transaction.”  HRS § 489E -2 (2008) defines “[t]ransaction ” as 
+“an action or set of actions occurring between two or more 
+persons relating to the conduct of business, commer cial, or 
+governmental affairs.”    
+ As the City points out, HRS § 489E -5(b) states, “This 
+chapter shall apply only to transactions between parties each of 
+which has agreed to conduct transactions by electronic means.  
+Whether the parties agree to conduct a  transaction by electronic 
+means is determined from the context and surrounding 
+circumstances, including the parties’ conduct.”  The legislative 
+history to the UETA also emphasizes parties’ consent.  See Sen. ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+43 
+ Stand. Comm. Rep. No. 3265, 2000 Legislative Se ssion (“The Act  
+. . . only applies when parties have agreed to an electronic 
+transaction.”) .  The NCCUSL commentary to the model UETA 
+explains, “[T]he paradigm for the [UETA] involves two willing 
+parties conducting a transaction electronically, mak[ing] it 
+necessary to expressly provide that some form of acquiescence or 
+intent on the part of a pe rson to conduct transactions 
+electronically is necessary before the [UETA] can be invoked.”  
+NCCUSL Commentary at 2.    
+ In this case, the “context and surrounding circumstances, 
+including the parties’ conduct” display that the City never 
+agreed to conduct  the certification of an impeachment petition 
+through electronic means.  As explained in the City ’s amicus 
+brief, governmental agencies’ acceptance of electronic 
+signatures is “permissive and not obligatory. ”  As further  
+reflected in the City’s amicus brie f as well as its April 23, 
+2019 letter , it is clear the City did not agree to the use of 
+electronic signatures as part of its process of certifying duly 
+registered voters on impeachment petitions under section 12 -203 
+of the Revised Charter.  The City is no t one of “two willing 
+parties conducting a transaction electronically, ” and there is 
+no express “acquiescence or intent on the part of [the City]. ”    
+ Thus, the City Clerk’s review of Yoshimura’s electronic 
+petition(s) falls outside the scope of the UETA,  and beyond the ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+44 
+ reach of HRS § 489E -18(a), the statute which Yoshimura argues 
+requires the City to “determine whether, and the extent to 
+which, it will send and accept electronic records and electronic 
+signatures” through rulemaking under HAPA or otherwise . 
+ Although the UETA does not apply, we proceed to address the 
+remaining issues, also based on the public interest except ion to 
+the mootness doctrine.   
+  b.   Even if the UETA did apply, the City was not  
+   required to promulgate a rule or written policy,  
+   under HAPA or otherwise, concerning when it would 
+   accept or reject electronic signatures on   
+   impeachment petitions under section 12 -203 of the 
+   Revised Charter  
+  
+ Even if Hawaiʻi’s UETA applied,  the plain language and 
+legislative history of its statutory provisions, as well as the 
+NCCUSL’s commentary to the model UETA, support the circuit 
+court’s COL 9 that HRS § 489E -18’s discretionary provisions 
+“trump” HRS § 489E -7’s general validation of elec tronic 
+signatures.  The UETA applies to electronic transactions in 
+business, commerce, and governmental affairs.  HRS § 489E -2.  
+HRS § 489E -7 states generally that “[i]f a law requires a 
+signature, an electronic signature satisfies the law.”  When it 
+comes to a specific subset of electronic transactions, however  
+-- those involving governmental agencies -- there exists 
+discretion to reject electronic signatures.  See HRS            
+§ 489E-18(c) (“[T]his chapter does not require a governmental ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+45 
+ agency of this State to use or permit the use of electronic 
+records or electronic signatures.”) .  Under ordinary canons of 
+construction, a more specific statute controls over a more 
+general stat ute.  See, e.g. , Richardson v. City & County of 
+Honolulu , 76 Hawaiʻi 46, 54-55, 868 P.2d 1193, 1201 -02 (1994) 
+(“[W]here there is a ‘plainly irreconcilable’ conflict between a 
+general and a specific statute concerning the same subject 
+matter, the specific w ill be favored.”).  
+ The legislative history of Hawaiʻi’s UETA also reflects a 
+permissive, rather than mandatory, approach to the use of 
+electronic signatures.  See Sen. Stand. Comm. Rep. No. 3265, 
+2000 Legislative Session (“The Act does not mandate the use  of 
+electronic signatures or records, but establishes procedural 
+guidelines for their use  . . . .”).  The NCCUSL Commentary to 
+the model UETA is in accord.  See Commentary at 52 (“Section 18 
+broadly authorizes state agencies to send and receive electronic 
+records and signatures in dealing with non -governmental persons.  
+Again, the provision is permissive and not obligatory  . . . .”).    
+ In this case, the City pr operly exercised its discretion 
+under HRS § 489E -18(c) to prohibit the use of electronic 
+signatures on impeachment petitions in response to Yoshimura’s 
+inquiry.  Yoshimura argues that the City was required to have 
+already had a written policy in place or t o have promulgated a 
+rule under HAPA setting forth when electronic signatures will ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+46 
+ not be accepted on impeachment petitions, pursuant to HRS        
+§ 489E-18(a), which states, in relevant part, “[E]ach 
+governmental agency of this State shall determine wheth er, and 
+the extent to which, it will send and accept electronic records 
+and electronic signatures to and from other persons  . . . .”  
+Under the plain language of this statute, there is no 
+requirement that the City undergo rulemaking for section 12 -203 
+of the Revised Charter or issue written policy statements in 
+anticipation of the advent of electronic impeachment petitions.  
+Therefore, the circuit court’s COL 11 was correct.   
+ To support his view of HRS chapter 489E, Yoshimura relies 
+heavily on  three out -of-state cases.  The first is  Anderson , 234 
+P.3d 1147, a Utah case.  In that case, the issue was whether 
+electronic signatures counted towards a “signed” nomination 
+certificate for a candidate for office.  234 P.3d at 1148.  
+Anderson, a gubernatorial candid ate not affiliated with any 
+political party, was tasked with collecting the signatures of 
+1000 registered voters in order to have his name placed on the 
+ballot.  Id.  He collected both handwritten signatures and 
+electronic signatures through a computer web site.  Id.  Seven 
+county clerks certified that the signatures he collected were 
+valid.  Id.  The signatures were then submitted to the Utah 
+Lieutenant Governor, who excised the electronic signatures as 
+not constituting “ signatures ” under the Utah Election Code.  Id.  ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+47 
+ Without the electronic signatures, Anderson did not have enough 
+signatures to be placed on the gubernatorial ballot.  Id.   
+ Anderson filed an extraordinary writ with the Utah Supreme 
+Court challenging the Lieutenant Go vernor’s action.  Id.  The 
+Utah Supreme Court first noted that the Utah Election Code was 
+to be liberally construed to give unaffiliated candidates every 
+reasonable opportunity to have access to the ballot.  234 P.3d 
+at 1150-51.  The court then noted its s tatutory rules of 
+construction, as well as the UETA, defined signature to include 
+an electronic signature.  234 P.3d at 1152.  The Utah Supreme 
+Court sided with Anderson, who pointed to the Utah UETA 
+provision stating, “If a law requires a signature, an el ectronic 
+signature satisfies the law.”  234 P.3d at 1153.  In so doing, 
+it rejected the Utah Lieutenant Governor’s arguments that he did 
+not consent to the electronic transaction, and that other 
+provisions of the Utah UETA gave him the discretion to reject  
+electronic signatures.  Id.  The Utah Supreme Court concluded 
+that the electronic transaction was not between Anderson and the 
+Lieutenant Governor, but between Anderson and his supporters.  
+234 P.3d at 1155.   
+ Turning to the Utah UETA, the court noted th at one of its 
+provisions allowed government agencies the discretion to decide 
+when they will accept or reject electronic signatures, but only 
+after following Utah’s rulemaking procedures.  234 P.3d at 1154. ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+48 
+ The court concluded the Lieutenant Governor could  not “make 
+informal decisions on what type of transactions cannot be 
+supported by electronic signatures outside of the rulemaking 
+process . . . .”  Id.  The Utah Supreme Court also rejected the 
+Lieutenant Governor’s argument that he did not have to accept 
+electronic signatures under another provision of Utah’s UETA 
+that states, “[N]othing in this chapter requires any state 
+governmental agency to: (a) conduct transactions by electronic 
+means; or (b) use or permit the use of electronic records or 
+electronic s ignatures.”  Id.  The court’s reasoning was that the 
+provision “loses its persuasive effect” when harmonized with the 
+rest of Utah’s UETA provisions and the Utah Election Code.  Id.   
+The Utah Supreme Court thus granted Anderson extraordinary 
+relief and or dered the Lieutenant Governor to recount the 
+signatures submitted.  234 P.3d at 1156.  The following year, 
+the Utah state legislature overrode the Anderson  case by 
+amending the Utah Election Code to prohibit electronic 
+signatures on petitions from unaffiliated candidates.  Benjamin , 
+786 S.E.2d at 211.  The Anderson  case is distinguishable from 
+the instant case in one key respect, and that is the Utah UETA 
+required governmental agencies to promulgate rules before 
+exercising discretion to accept or not accept electronic 
+signatures.  No such requirement exists in HRS § 489E -18, which ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+49 
+ grants governmental agencies the discretion to accept or not 
+accept electronic signatures.   
+ Another UETA case Yoshimura relies on is Benjamin , 786 
+S.E.2d at 212, in which the West Virginia Supreme Court held 
+that the electronic monetary contribution receipts submitted by 
+a candidate for judicial office contained unique transaction 
+codes that allowed individual contributors to be identified; 
+thus, these receipts constituted electronic signatures under 
+West Virginia’s UETA and Public Campaign Finance Program.  The 
+Benjamin  case is factually very different from Yoshimura’s case 
+and therefore not instructive.  In this case, without residence 
+addresses, individual signatories to Yoshimura’s petition(s) 
+could not be identified and verified as duly registered voters 
+by the City Clerk.  
+ The last electronic signature case Yoshimura cites is Ni, 
+196 Cal. App. 4th 1636, in which proponents seeking to place an 
+initiative on the ballot submitted a thumb drive containing an 
+electronic image of an individual’s signature.  196 Cal. App. 
+4th at 1641.  The County rejected the electronic signature as 
+not having been “personally affixed,” which the California 
+Elections Code required, along with “personally affixing” a 
+printed name and address.  Id.   The California Court of Appeal 
+agreed, applying the California Elections Code, and not the ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+50 
+ UETA.  196 Cal.  App. 4th at 1647.  Ni is, therefore, 
+distinguishable.             
+ None of the cases Yoshimura cites ( Anderson , Benjamin , Ni) 
+are persuasive on the issue of whether the City Clerk must 
+accept electronic signatures, or, if the City Clerk chooses to 
+reject electronic signatures, whether such a determination must 
+first be promulgated via written policy or rule.  Therefore, the 
+City was free to determine,  in this case , that it would require 
+full legible names, handwritten signatures, and residence 
+addresses in order to certify the signatories as duly registered 
+voters of the City and County of Honolulu.  Thus, the circuit 
+court’s COL 10 was correct.  
+ To the extent the C ity’s letter decision to reject 
+electronic signatures itself constituted a rule that should have 
+gone through HAPA’s rulemaking procedure, our recent case, Green 
+Party v. Nago , speaks directly to that issue.  138 Hawaiʻi 228, 
+378 P.3d 944 (2016).  That cas e concerned irregularities that 
+occurred during the 2012 election  (i.e., the methodology by 
+which the number of ballots ordered was calculated and the 
+procedure by which votes cast on improper ballots would be 
+counted) .  Id.  This court held that the metho dology and 
+procedure in place to respond to those irregularities were rules 
+that should have been promulgated by rulemaking under HAPA.  138 
+Hawaiʻi at 230-31, 378 P.3d at 946 -47.     ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+51 
+  In that case, during the 2012 General Election, a number of 
+irregularities occurred.  First, insufficient ballots were 
+ordered for various polling places.  138 Hawaiʻi at 231, 378 P.3d 
+at 947.  This happened  because t he Office of Elections had 
+departed fro m its prior practice of ordering General Election 
+ballots equal to 85% of the total number of registered voters.  
+138 Hawaiʻi at 233, 378 P.3d at 949.  Instead, in 2012, it 
+decided to order General Election ballots equal to 125% of the 
+actual number of vot es cast in that year’s Primary Election.  
+Id.  The Office of Elections did not adopt its new methodology 
+as an administrative rule.  Id.     
+ Next, on election day itself, poll workers delivered the 
+wrong reserve ballots to two polling places that had run out of 
+ballots; each polling place received the other’s reserved 
+ballots.  138 Hawaiʻi at 231, 378 P.3d at 947.   Voters at each 
+location had the others’ ballots for voting on state house of 
+representatives, state senate, and city council races.  Id.  The 
+Office of Elections had not adopted an administrative rule 
+setting forth the procedure that would apply when votes are cast 
+on ballots for an incorrect precinct , but the practice in place 
+was to not count the votes cast in races for which the voter was 
+not eligible to vote .  138 Hawaiʻi at 234, 378 P.3d at 950.  
+ After the election, the Green Party filed a complaint 
+asserting that the Office of Elections had violat ed HAPA by, ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+52 
+ inter alia, failing to adopt administrative rules concerning (1) 
+the methodology used to determine the number of ballots ordered 
+and (2) the procedure used to count votes cast on wrong 
+ballots.14  Id.  The circuit court granted the Office of 
+Elections’ motion for summary judgment and held that the 
+challenged methodolog y and procedure concerned only the internal 
+management of the agency and were thus not subject to HAPA’s 
+rulemaking requirement.  138 Hawaiʻi at 235, 378 P.3d at 951.  
+The ICA af firmed the circuit court’s judgment, holding that the 
+methodology for determining the number of ballots to order in 
+2012 was a “one -time calculation/miscalculation” not subject to 
+HAPA’s rulemaking requirement.  Id.  It also held that the 
+situation in whic h votes were cast on the wrong ballots was not 
+foreseeable, and any procedure addressing that situation would 
+be a matter of internal management; therefore, the procedure was 
+not subject to HAPA’s rulemaking requirement.  138 Hawaiʻi at 
+236, 378 P.3d at 95 2.  We vacated the ICA’s judgment to the 
+extent that it affirmed the circuit court’s judgment on the 
+basis that HAPA’s rulemaking requirement did not apply to the 
+methodology for ordering ballots and the procedure for counting 
+ 
+14  The Green Party also alleged that the Office of Elections was required 
+to adopt a rule regarding the procedures by which a precinct requests 
+additional paper ballots.  138 Hawaiʻi at 234, 378 P.3d at 950.  We concluded, 
+however, that there was no evidence of any established procedure addressing 
+this situation; therefore, there was no “rule” in place subject to HAPA’s 
+rulemaking requirement in this instance.  138 Hawaiʻi at 242, 378 P.3d at 958.  ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+53 
+ votes cast on the wrong ballo ts.  138 Hawaiʻi at 243, 378 P.3d at 
+959.  We remanded the case to the circuit court for it to order 
+that the methodology and procedure challenged by the Green Party 
+were indeed invalid.  138 Hawaiʻi at 235, 378 P.3d at 951.   
+ In so doing, we first noted that the relevant question was 
+whether the Office of Elections ’ (1) methodology for ordering 
+ballots and (2) procedure for counting votes on the wrong 
+ballots amounted to the “adopt[ion of]  rule[s], and if so,  . . . 
+whether the rule [s were]  valid.”  138 Hawaiʻi at 237, 378 P.3d at 
+954.  We first noted the distinction between an agency statement  
+that is “legislative,” and thus requires rulemaking, and an 
+agency statement  that is “adjudicatory,” which does not.  138 
+Hawaiʻi at 238, 378 P.3d at 954.  A “legislative” agency 
+statement “operates in the future” and has a “general effect,” 
+while an “adjudicative” agency statement  is “backward looking” 
+and “concerned with the det ermination of past and present rights 
+and liabilities of individuals where ‘issues of fact often are 
+sharply controverted.’”  138 Hawaiʻi at 238, 240, 378 P.3d at 
+954, 956. (citations omitted).  
+ In Green Party , we noted that , if the Office of Elections’ 
+(1) methodology for ordering ballots or (2) procedure for 
+counting votes on the wrong ballots “qualif[ied] as ‘rules’ as 
+defined in HAPA, then they [were] invalid for not complying with ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+54 
+ HAPA’s statutory rulemaking requirements.”  138 Hawaiʻi at 238, 
+378 P.3d at 954.   As to the Office of Elections’ 2012 
+methodology for ordering ballots, we held it was a rule because 
+it was of “general applicability and . . . future effect.”  138 
+Hawaiʻi at 240, 378 P.3d at 956.   We noted the ballot order 
+determination was no t a “backward -looking”  “one-time 
+calculation/miscalculation,” as it was intended to have a  future 
+effect upon the ballots ordered for the upcoming election.  Id.  
+We concluded that the Office of Elections was required to have 
+adopted the methodology pursua nt to the rulemaking requirement 
+under HAPA.  138 Hawaiʻi at 242, 378 P.3d at 958.   
+ As to the procedure for votes cast on the wrong ballots, we 
+held that the Office of Elections appeared to have a procedure 
+in place for counting votes on the wrong ballot:  votes were 
+counted for only those races for which the voter was eligible to 
+vote and not counted for those races for which the voter was 
+ineligible to vote .  Id.  Such a procedure thus demonstrated the 
+“general applicability and future effect” characteristic s of a 
+rule and should have been promulgated as a rule pursuant to 
+HAPA.  138 Hawaiʻi at 242-43, 378 P.3d at 958 -59.   
+ In the instant case, the City’s determination to reject 
+electronic signatures resembles neither the Office of Elections’ 
+(1) methodology for ordering ballots for an upcoming election, 
+nor (2) its procedure for countin g votes cast on the wrong ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+55 
+ ballots.  First, unlike the  Office of Elections’  methodology for 
+ordering ballots for an upcoming election, which was of general 
+applicability and future effect, the City’s determination to 
+reject electronic signatures was an ad hoc, backward -looking 
+decision made in the specific context of Yoshimura’s inquiries 
+with regard to these impeachment petitions.  Second, unlike the 
+Office of Elections’ pre -existing procedure for counting votes 
+cast on the wrong ballots, the City had no pre -existing policy 
+for accepting or rejecting electronic signatures on an 
+impeachment petition under section 12 -203 of the Revised 
+Charter.  In  fact, the City had deferred to the circuit court 
+for months to adjudicate whether electronic signatures should be 
+accepted before ultimately deciding to reject them.  Thus, the 
+City’s det ermination to reject electronic signatures was not a 
+“rule” subject to HAPA’s rulemaking requirements.  The circuit 
+court’s COL 1 1 was therefore correct.        
+  c.   Requiring handwritten signatures and residence  
+   addresses is rationally r elated to pr eventing  
+   fraud in impeachment petitions under section     
+   12-203 of the Revised Charter  
+ 
+ Hawaiʻi courts have already weighed in on the propriety of 
+requiring handwritten signature s and residence address es to 
+verify signatories to a petition.  In Nader, 2008 WL 1932284, 
+the United States District Court for the District of Hawaiʻi 
+addressed the requirements for placing two presidential ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+56 
+ candidates on the Hawaiʻi ballot.  In that case, two presidential 
+candidates (Michael A. Peroutka and Ralph Nader) were required 
+to collect the number of signatures equal to 1% of the votes 
+cast in the last presidential election in order to be placed on 
+the ballot , pursuant to HRS § 11 -113.  2008 WL 1932284 , at *4.  
+A form petition for that purpose required, among other things, a 
+signature and residence address.  Id.  Both candidates fell 
+short of the number of signatories necessary, and each brought 
+suit in federal court challenging the information necessary  to 
+confirm signatories.  Id.  The federal court stated the 
+following:  
+18.  [A] residence address is required in order to 
+determine if a signatory is in fact who he or she claims to 
+be and in ascertaining whether the individual is a 
+“currently registered v oter” in terms of being qualified to 
+sign the petition.  
+ 
+19.  The residence address is the cornerstone of becoming a 
+registered voter.  A person’s residence dictates where the 
+person can vote and for what office. . . .  
+ 
+20.  . . . The law is clear that pro viding one’s residence 
+is the linchpin of being properly registered.  Therefore, 
+the Court finds that the Office of Elections’ practice and 
+procedure of requiring residential addresses for 
+confirmatory purposes is also reasonable and non -
+discriminatory.  
+ 
+2008 WL 1932284 , at *10.   
+ Addressing the same challengers (Peroutka and Nader) in a 
+related proceeding, this court held, with respect to the Office 
+of Elections’ procedures for verifying handwritten signatures, 
+“In light of the state’s interest in detecti ng fraudulent or 
+questionable signatures, we cannot say that it was clearly ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+57 
+ erroneous for the Chief Elections Officer to reject a signature 
+because the signatory provided a different address on the 
+petition form than was provided in the SVRS.”  Peroutka , 117 
+Hawaiʻi at 330.  Thus, both cases support the circuit court’s 
+COLS 8 and 10 that the City could require full legible names, 
+handwritten signatures, and residence addresses in order to 
+certify Yoshimura’s petition(s) and in order to prevent fraud.  
+C.   The circuit court did not abuse its discretion in denying 
+Yoshimura’s motion for leave to amend his petition  
+ 
+ Yoshimura also argues the circuit court should have granted 
+him leave to amend his petition , because amendment was not 
+futile.  Again, he cit ed Keawe, 65 Haw. 232, 649 P.2d 1149, for 
+the proposition that leave to amend a complaint should be freely 
+given, absent any apparent or declared reason, such as undue 
+delay, bad faith , or dilatory motive on the part of the movant, 
+or a repeated failure to cure deficiencies in the complaint.   To 
+support his position, he argues that the circuit court erred in 
+concluding that the City had the discretion to reject electronic 
+signatures.   
+ In his answering brief, Kaneshiro counter -argues that 
+Yoshimura’s second amended petition was futile; therefore, the 
+circuit court did not abuse its discretion in denying 
+Yoshimura’s leave to amend.   Specifically, Kaneshiro states that 
+the proposed second amended petition did not attach a new or ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+58 
+ separate petition; instead, it relied on the same DocuSign 
+petition that did not meet the filing requirements of section 
+12-203 of the Revised Charter (500 handwritten signatures of 
+duly registered Honolulu voters).  
+ In this case, amendment was futile.  Yoshimura made it 
+clear in his proposed second amended petition that he would not 
+support his impeachment petition with handwritten signatures or 
+residence addresses, despite the City’s position on the 
+information it wo uld need to certify his petition.  Thus, the 
+second amended petition would have been dismissed, for the same 
+reasons the first amended petition was dismissed.  Therefore, 
+the proposed second amended petition was futile.  See Adams v. 
+Dole Food Co. , 132 Hawaiʻi 478, 488, 323 P.3d 122, 132 (App. 
+2014) (citing Office of Hawaiian Affairs v. State , 110 Hawaiʻi 
+338, 365, 133 P.3d 767, 794 (2006) (“Where proposed amendments 
+to a complaint would not survive a motion to dismiss, this court 
+should affirm the denial of leave to amend on futility 
+grounds.”).  The circuit court did not abuse its discretion in 
+denying Yoshimura’s motion for leave to amend.  
+D. The circuit court did not abuse its discretion in denying 
+Yoshimura’s motion for reconsideration.  
+ 
+ Lastly, Yoshimura argues that the circuit court erred in 
+denying his motion for reconsideration, because he provided 
+legal authority the circuit court overlooked in concluding HRS  ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+59 
+ § 489E-18 did not require it to have a pre -existing written 
+policy or rule concer ning whether it would accept electronic 
+signatures on impeachment petitions.  
+ In his answering brief, Kaneshiro counter -argues that 
+Yoshimura could have brought his arguments previously in 
+opposition to his motion to dismiss; therefore, the circuit 
+court did not abuse its discretion in denying Yoshimura’s motion 
+for reconsideration.  
+ In this case, the circuit court did not abuse its 
+discretion in denying Yoshimura’s motion for reconsideration, 
+because all of the legal authority Yoshimura marshaled to  
+support his motion for reconsideration (the federal ESIGN Act, 
+HAPA, and the Anderson  case) could have been raised earlier in 
+the litigation, in opposition to Kaneshiro’s motion to dismiss 
+or cross -motion to strike.  Yoshimura’s motion for 
+reconsideration  merely sought to relitigate old matters.  
+Consequently, the circuit court did not abuse its discretion in 
+denying his motion for reconsideration.  See, e.g., Chen v. Mah , 
+146 Hawaiʻi 157, 172, 457 P.3d 796, 811 (2020) (“‘[T]he purpose 
+of a motion for reco nsideration is to allow the parties to 
+present new evidence and/or arguments that could not have been 
+presented during the earlier adjudicated motion.’    
+Reconsideration is not a device to relitigate old matters or to ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+60 
+ raise arguments or evidence that could  and should have been 
+brought during the earlier proceeding.”) (citation omitted).  
+E.   The circuit court properly dismissed the case for lack of  
+ jurisdiction   
+ 
+ Yoshimura  asserts “there is very little guidance in the 
+City Charter provision on what is required for an impeachment 
+petition.”   The Mansho order, No. 24858 , interpret ed Section  
+12-202 of the Revised Charter, which governs impeachment of a 
+City Councilmember.  When that order was issued, Section 12 -202 
+designated this court to serve as “a board of impeachment in any 
+proceeding for the removal of a councilmember,” upon 
+presentation of a “charge . . . set forth in writing in a 
+petition for impeachment signed by not less than one thousand 
+duly registered voters of the council distr ict for the removal 
+of a council member, and said signatures shall be necessary only 
+for the purpose of filing the petition.”  In Mansho, upon 
+receipt of the petition, this court filed an order stating that 
+one “preliminary issue” was “whether the signatur es in support 
+of the petition [we]re the signatures of registered voters in 
+the Council District 1 of the City and County of Honolulu.”  
+Mansho, No. 24858.  This court ordered the petitioners to submit 
+a copy of the petition with its signature pages to the  Clerk of 
+the City and County of Honolulu , who would then review the 
+signatures and submit a declaration as to whether the petition ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+61 
+ was signed by at least one thousand duly registered voters from 
+the councilmember’s district.   Mansho, No. 24858.  The 
+councilmember who was the subject of that impeachment petition 
+resigned before further proceedings could be had in this court.   
+ As indicated by t he Mansho order, the requisite number of 
+signatures are necessary for the purpose of filing an 
+impeachment petition .  In this case, there was no showing of the  
+signatures necessary to support Yoshimura’s impeachment 
+petition(s).  Therefore, the circuit court properly dismissed 
+the case for lack of jurisdiction .    
+V.  Conclusion  
+ For the foregoing reasons,  we affirm the circuit court’s 
+(A) November 15, 2019 Final Judgment ; (B) Findings of Fact, 
+Conclusions of Law, and Order: (1) Denying Petitioner’s Motion 
+for Leave to Amend Petition and to Name City Clerk as a 
+Respondent in a Declaratory Judgment Complaint, (2) Denying 
+Respondent Keith M. Kaneshiro’s Cross -Motion to Strik e 
+Petitioner’s Motion for Leave to Amend Petition and to Name City 
+Clerk as a Respondent in a Declaratory Judgment Complaint, and 
+(3) Dismissing Case for Lack of Jurisdiction Filed on August 19,  
+ 
+ 
+ ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+62 2019; and (C) Order Denying Petitioner’s Motion for 
+Reconsideration Filed on October 2, 2019.  
+Keith M. Kiuchi 
+for plaintiff-appellant /s/ Mark E. Recktenwald 
+/s/ Sabrina S. McKenna 
+/s/ Michael D. Wilson 
+/s/ Todd W. Eddins  
+/s/ James H. Ashford 
+William C. McCorriston 
+(David J. Minkin, 
+Nadine Y. Ando, 
+and Jordan K. Inafuku 
+with him on the briefs)
+for defendant-appellee  

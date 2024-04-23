@@ -1,0 +1,543 @@
+NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+CAAP-11-0000359
+ 
+IN THE INTERMEDIATE COURT OF APPEALS
+ 
+OF THE STATE OF HAWAI 'I 
+STEPHEN KEITH ST. CLAIR, Petitioner-Appellant,
+v.
+ STATE OF HAWAI 'I, Respondent-Appellee. 
+APPEAL FROM THE CIRCUIT COURT OF THE THIRD CIRCUIT
+ 
+KONA DIVISION
+ 
+(S.P.P. NO. 11-1-002K; CR NO. 02-1-0064K)
+ 
+MEMORANDUM OPINION
+ 
+(By: Nakamura, C.J., and Fujise and Leonard, JJ.)
+ 
+Petitioner-Appellant Stephen Keith St. Clair (St.
+ 
+Clair), appearing without a lawyer, appeals from the order
+ 
+denying his petition for post-conviction relief (Order Denying
+ 
+1
+Petition)  filed in the Circuit Court of the Third Circuit
+(Circuit Court).
+2 St. Clair filed his petition for post-
+conviction relief pursuant to Hawai 'i Rules of Penal Procedure 
+Rule (HRPP) Rule 40 (2006). 
+On appeal, St. Clair contends that: (1) by placing him
+ 
+in the Level III level of punishment, the Hawai 'i Paroling 
+Authority (HPA) violated its guidelines for determining his
+ 
+1The full title of the Order Denying Petition is "Order
+Dismissing Petition to Vacate, Set Aside, or Correct Judgment or
+Release Petitioner from Custody, Filed on January 10, 2011 Under
+H.R.P.P 40(G)(2) as Patently Frivolous, Previously Raised and
+Ruled Upon."
+ 
+2The Honorable Elizabeth A. Strance presided over the
+proceedings relevant to this appeal.
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+minimum term of incarceration, and therefore, the Circuit Court
+ 
+erred in upholding the HPA's determination of his minimum term;
+ (2) the Circuit Court erred in imposing restitution because St.
+ Clair asserts that restitution can only be imposed by a jury; and
+ (3) the Circuit Court violated his rights by determining on
+ remand, in its Order Denying Petition, the manner of his
+ restitution payments without a hearing and without providing him
+ with assistance of counsel. 
+As explained in greater detail below, we conclude that
+ 
+the HPA erroneously relied upon the "Degree of Injury/Loss to
+ Person" as one of its two grounds for placing St. Clair in the
+ Level III level of punishment and in determining his minimum
+ term. Because we have no basis for determining whether the HPA
+ would have imposed the same minimum term without its erroneous
+ reliance on this ground, St. Clair's minimum term order must be
+ vacated and the HPA must hold a new hearing to determine his
+ minimum term. We further conclude that St. Clair's argument that
+ restitution can only be determined by a jury is without merit,
+ but that the Circuit Court erred in determining the manner of St.
+ Clair's restitution payments in its Order Denying Petition
+ without a hearing and without providing St. Clair with the
+ assistance of a lawyer. Accordingly, we vacate the Circuit
+ Court's Order Denying Petition and remand for further
+ proceedings.
+ 
+BACKGROUND
+ 
+I.
+ 
+In his underlying criminal case, St. Clair was 
+convicted after a jury trial of manslaughter, operating a vehicle under the influence of an intoxicant (OVUII), and driving without no-fault insurance. See State v. St. Clair, 101 Hawai
+'i 280, 
+283-86, 67 P.3d 779, 782-85 (2003) (hereinafter, "St. Clair I"). St. Clair's convictions stemmed from his driving while intoxicated and striking and killing a pedestrian, Jane O'Brien, on February 23, 2002. Id. at 283, 67 P.3d at 782. At trial, St. 
+Clair admitted that he had consumed at least twelve beers prior 
+2
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+to the accident. Id. at 284, 67 P.3d at 783. The prosecution
+ 
+introduced evidence that St. Clair's blood alcohol content was
+ 
+.211 gram per one hundred milliliters of blood immediately
+ following the accident. Id. In addition, St. Clair stipulated
+ 
+to conduct that had resulted in a prior conviction in Canada for
+ OVUII, namely, that in 1998, he drove his vehicle with a blood
+ alcohol content of 0.19 gram per one hundred milliliters of
+ blood, failed to negotiate a curve, drove over a curb onto a
+ lawn, and struck a parked vehicle forcing it into a second parked
+ vehicle. Id. The trial court excluded evidence of a second
+ 
+prior Canadian OVUII conviction. Id.
+ 
+3
+The Circuit Court  imposed sentence on St. Clair that
+included twenty years of incarceration and restitution of $11,563.04 for his manslaughter conviction and a concurrent term of 30 days of incarceration for his OVUII conviction. The Circuit Court entered its Judgment on August 5, 2002. St. Clair filed a direct appeal of the Circuit Court's Judgment, which the Hawai
+'i Supreme Court affirmed in its published opinion in St. 
+Clair I issued in 2003. Id. at 290, 67 P.3d at 789. 
+II. 
+After the supreme court issued its decision in St. 
+Clair I, St. Clair filed an HRPP Rule 40 Petition (First Petition) on October 1, 2003. See St. Clair v. State, No. 29978, 
+2010 WL 2904829, at *1 (Hawai
+'i App. July 22, 2010) (memorandum 
+opinion) (hereinafter, "St. Clair II"). St. Clair only raised one ground for relief in the First Petition, that his court-appointed counsel provided ineffective assistance in advising him to stipulate to the Canadian charge. Id. 
+On December 6, 2006, St. Clair filed another HRPP Rule
+ 
+40 Petition (Second Petition) which attached a copy of the First
+ Petition. Id. In St. Clair II, this court did not construe the
+ 
+Second Petition as a new petition, but rather as a supplement to
+ the First Petition. Id. In his Second Petition, St. Clair
+ 
+3The Honorable Ronald Ibarra presided.
+ 
+3
+ _______________ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+clarified that the ineffective assistance of counsel claim raised
+ 
+in the First Petition was that counsel was ineffective for
+ allowing a prior bad act into evidence through a factually
+ inaccurate stipulation. Id. The Second Petition also added
+ 
+claims that trial counsel was ineffective for failing to:
+ 
+(1) assert a [Hawaii Rules of Evidence (HRE)] Rule
+404(b) notice requirement when the prosecutor
+brought up other matters beyond what had been
+agreed to in the stipulation; (2) request a
+limiting instruction regarding the stipulation so
+it could not be proved that St. Clair acted in
+conformity with the actions stated in the
+stipulation[;] and (3) object to an order of
+restitution because the circuit court did not
+ enter Findings of Fact and Conclusions o[f] Law,
+the order of restitution did not specify the time
+and manner of payment, and an order of restitution
+may not divest a prisoner's wages received from
+prison labor. 
+Id. In addition, St. Clair argued for the first time that the
+ 
+Circuit Court erred when it admitted the prior bad act evidence
+ 
+because he claimed that such evidence was not admissible to show
+ recklessness. Id. The Circuit Court entered its order denying
+ 
+the First and Second Petitions on September 4, 2009, and St.
+ Clair appealed.
+ 
+In St. Clair II, this court held that the Circuit Court
+ 
+had erred in failing to prescribe the manner of payment for the
+ restitution St. Clair was ordered to pay, and we otherwise
+ affirmed the Circuit Court's denial of St. Clair's First and
+ Second Petitions. Id. at *3-4. We remanded the case with 
+instructions that 
+the circuit court shall enter an amended judgment
+that specifies the manner of restitution payments,
+limited by [Hawaii Revised Statutes (HRS)] § 353­
+2
+22.6 (1993)  while St. Clair is incarcerated, and
+also addresses the manner of restitution payments
+if St. Clair is released from custody.
+ 
+2 HRS § 353-22.6 provides:
+ 
+4
+  NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+§ 353-22.6 Victim restitution. The
+ 
+director of public safety shall enforce
+victim restitution orders against moneys
+earned by the prisoner while incarcerated.
+The amount deducted and paid once annually to
+the victim shall be ten per cent of the
+prisoner's annual earnings. This section
+ shall not apply to moneys earned on work
+furlough pursuant to section 353-17. 
+Id. at *4. St. Clair II was filed on July 22, 2010.
+ 
+III.
+ 
+In the meantime, on December 16, 2002, the HPA held a 
+hearing to set St. Clair's minimum term of imprisonment on his 
+manslaughter conviction. By order dated December 17, 2002, the HPA set St. Clair's minimum term of incarceration at fifteen years. However, the December 17, 2002, order failed to specify the level of punishment or significant criteria on which the HPA's decision was based. In 2007, the Hawai
+'i Supreme Court 
+decided Coulter v. State, 116 Hawai 'i 181, 172 P.3d 493 (2007), 
+which held that a similar HPA minimum-term order, which failed to specify the level of punishment or the significant criteria on which the minimum-term decision was based, violated the HPA's 1989 Guidelines for Establishing Minimum Terms of Incarceration (Guidelines). Coulter, 116 Hawai
+'i at 182-85, 172 P.3d at 494­
+97. The supreme court remanded the case with instructions that
+ 
+the HPA be required to hold a new minimum-term hearing. Id. at
+ 
+187, 172 P.3d at 499. 
+After Coulter was decided, St. Clair asked the HPA to
+ 
+hold a new minimum-term hearing, and the HPA granted St. Clair's
+ request. On October 18, 2010, the HPA held a new minimum-term
+ hearing. By order issued on that same date, the HPA reduced St.
+ Clair's minimum term from fifteen to thirteen years. The HPA's 
+October 18, 2010, order specified that St. Clair's level of
+ punishment was a Level III and that the "[s]ignificant factors
+ identified in determining the level of punishment" were "(1)
+ Nature of Offense; [and] (2) Degree of Injury/Loss to Person."
+ 
+5
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+IV.
+ 
+On January 10, 2011, St. Clair, representing himself, 
+filed the HRPP Rule 40 petition that is the subject of this 
+appeal (2011 Petition).4 St. Clair contended that: (1) the 
+minimum term imposed by the HPA was illegal and imposed in violation of the Guidelines; and (2) he was illegally sentenced to the payment of restitution. Respondent-Appellee State of Hawai
+'i (State) filed oppositions to St. Clair's 2011 Petition 
+through the Attorney General's Office on the minimum-term issue and the Hawai
+'i County Prosecutor's Office on the restitution 
+issue. The opposition filed by the Hawai 'i County Prosecutor's 
+Office referred to this court's decision in St. Clair II, which directed the Circuit Court on remand to enter an amended judgment that specifies the manner of restitution payments, and noted that the Circuit Court had not yet entered an amended judgment. The Hawai
+'i County Prosecutor's Office suggested that the Circuit 
+Court amend its judgment to require St. Clair "to pay 10% of his earnings while incarcerated, as well as 10% of his earnings upon release." 
+St. Clair filed a motion to appoint legal counsel and a
+ 
+request to proceed without paying filing fees due to his poverty. 
+On the same day that the Circuit Court issued its Order Denying
+ Petition, the Circuit Court took judicial notice of St. Clair's
+ indigent status and incarceration and granted his request to
+ proceed in forma pauperis. The Circuit Court, however, denied
+ St. Clair's request for appointment of counsel as moot, in light
+ of its decision to deny St. Clair's 2011 Petition.
+ 
+In its Order Denying Petition, the Circuit Court denied
+ 
+St. Clair's 2011 Petition without a hearing, finding that St.
+ Clair's claims were patently frivolous, failed to state a
+ 
+4St. Clair apparently filed another HRPP Rule 40 petition in
+the Circuit Court of the First Circuit, which was dismissed on
+December 23, 2010, presumably for being filed in the wrong
+circuit. See HRPP Rule 40(b) (requiring petition to be filed
+with the clerk of the court in which the conviction took place).
+ 
+6
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+colorable claim, or had been waived. The Circuit Court found
+ 
+that the HPA did not violate its Guidelines or St. Clair's due
+ process rights in setting his thirteen-year minimum term. The
+ Circuit Court also rejected St. Clair's claim that Judge Ibarra
+ lacked authority to order restitution as part of sentencing. In
+ response to this court's decision in St. Clair II, the Circuit
+ Court ordered that: (1) St. Clair shall make annual restitution 
+7
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+payments in the amount of 10% of his annual prison earnings,
+ 
+pursuant to Hawaii Revised Statutes (HRS) § 353-22.6; (2) any and
+ all moneys earned by St. Clair on work furlough pursuant to HRS 
+§ 353-17 shall be committed toward satisfaction of his
+ restitution; and (3) in the event St. Clair is released, he shall
+ make annual payments of 10% of his gross earnings until a hearing
+ can be held to modify the terms of payment. This appeal
+ followed.
+ 
+DISCUSSION
+ 
+I.
+ A.
+ 
+In Coulter, the supreme court held that the HPA must
+ 
+comply with its Guidelines in setting minimum terms of
+ incarceration. Coulter, 116 Hawai
+'i at 185, 172 P.3d at 497. 
+The Guidelines state:
+ 
+The purpose of minimum sentencing guidelines
+is to provide a degree of uniformity and
+consistency in the setting of minimum terms while
+providing the community-at-large, public policy
+makers and planners, the criminal justice system,
+and victims and offenders with information as to
+ the criteria used in establishing minimum terms of
+imprisonment.
+ 
+. . . .
+ 
+The [HPA] may deviate from the guidelines,
+either above or below, but all deviations shall be
+accompanied by written justification and be made a
+part of the Order Establishing Minimum Terms of
+Imprisonment[.]
+ 
+. . . .
+ 
+The Order Establishing Minimum Terms of
+Imprisonment
+. . . will include the specific minimum terms(s)
+[sic] established in years and/or months, the
+level of punishment (Level I, II, or III) under
+which the inmate falls, and the significant
+criteria upon which the decision was based. 
+Set forth in the Guidelines is the following chart
+ 
+8
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+which shows various imprisonment ranges based on the maximum term 
+9
+    LEVEL I           LEVEL II                       Level of Punishment
+--Range in Years/Months-----NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+imposed by the court and the level of punishment: 
+ ----------------- ------------­
+Maximum Term in
+ Years/Months
+Imposed by the Court  LEVEL III
+ 
+5 years(60 months) 1 - 2 yrs.(12 - 24 mos.) 2 - 3 yrs.(24 -36 mos.) 3 - 5 yrs.(30 - 60 mos.) 
+10 years(120 months) 1 1/2 - 3 yrs.(18 - 36 mos.) 3 - 5 yrs.(36 - 60 mos.) 5 - 10 yrs.(60 - 120 mos.) 
+20 years(240 months) 2 - 5 yrs.(24 - 60 mos.) 5 - 10 yrs.(60 - 120 mos.) 10 - 20 yrs.(120 - 240 mos.) 
+Life with Parole 5 - 10 yrs.(60 - 120 mos.) 10 - 20 yrs.(120 - 240 mos.) 20 - 50 yrs.(240 - 600 mos.) 
+The Guidelines establish three levels or ranges of 
+punishment for each of four classes of felony offenses. Under 
+Hawai'i's indeterminate sentencing scheme, a judge imposing a 
+sentence of imprisonment generally must sentence the defendant to the maximum term prescribed: 5 years for a class C felony; 10 years for a class B felony; 20 years for a class A felony; and life with the possibility of parole for second-degree murder. See HRS §§ 706-656(2) (Supp. 2012), 706-659 (Supp. 2012), 706-660 (1993). Under the Guidelines, for a class A felony like St. Clair's manslaughter conviction, which carries a maximum term of twenty years, the minimum-term ranges applicable to the three levels of punishment are: (1) Level I -- 2 to 5 years; (2) Level II -- 5 to 10 years; and (3) Level III -- 10 to 20 years. 
+B.
+ 
+In setting St. Clair's minimum term of incarceration,
+ 
+the HPA placed him in the Level III level of punishment. Under
+ its Guidelines, the HPA focuses on three primary criteria to
+ determine the appropriate level of punishment and minimum term:
+ (1) Nature of the Offense; (2) Degree of Injury/Loss to Person or
+ Property; and (3) Offender's Criminal History. In its October
+ 18, 2010, order setting St. Clair's minimum term, the HPA cited
+ 
+10
+  NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+"Nature of Offense" and "Degree of Injury/Loss to Person" as the
+ 
+significant factors it relied upon in determining St. Clair's
+ level of punishment. 
+Under the Nature of Offense criteria, the standard for
+ 
+a Level III level of punishment is met if "[t]he offense was
+ against a person(s) and the offender displayed a callous and/or
+ cruel disregard for the safety and welfare of others[.]" Under
+ the Degree of Injury/Loss to Person or Property criteria, the
+ standard for a Level III level of punishment is met if "[t]he
+ injury or loss suffered by the victim(s) was more than those
+ experienced by similarly situated victims."
+ 
+C.
+ 
+St. Clair contends that the HPA violated its Guidelines
+ 
+in placing him in the Level III level of punishment. St. Clair
+ asserts that he did not meet the Level III standard under either
+ the Nature of Offense or Degree of Injury/Loss to Person
+ criteria, which the HPA relied upon to justify his Level III
+ level of punishment. We disagree with St. Clair's claim as to
+ the Nature of Offense, but agree with his claim regarding Degree
+ of Injury/Loss to Person.
+ 
+We first address the Level III standard under the
+ 
+Nature of Offense criteria. In addition to the previously-
+described evidence presented at St. Clair's trial, the record
+ available to the HPA included evidence that on the day of the
+ charged incident, St. Clair was drinking after work. He drank
+ approximately 14 beers, and prior to that approximately two
+ quarts of beer. St. Clair had been waiting for over three hours
+ for someone he had paid $20 to come back with marijuana. St.
+ Clair was angry and went looking for the person to whom he gave
+ the $20. An individual who was with St. Clair told St. Clair not
+ to drive because he was drunk. St. Clair got into his GMC van,
+ drove backward out of the parking lot onto the road, then
+ forward, accelerating and "burning rubber" both ways. While
+ going forward, he lost control and struck and killed a
+ pedestrian, Jane O'Brien, who was standing next to her sister. 
+11
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+The victim's sister also reported that she feared for her life as
+ 
+St. Clair drove his vehicle in a reckless manner in her
+ direction. St. Clair had several prior drunk-driving convictions
+ in Canada, including the one referred to at his trial.
+ 
+We conclude that there was sufficient evidence in the
+ 
+record to support a determination that St. Clair displayed a
+ callous disregard for the safety and welfare of others. The term
+ "callous" is defined to include: "insensitive; indifferent;
+ unsympathetic." Callous Definition, Dictionary.com, 
+http://dictionary.reference.com/browse/callous (last visited Dec.
+ 17, 2013). Evidence in the record shows that St. Clair drank
+ large quantities of alcohol, resulting in his blood alcohol
+ exceeding twice the legal limit, drove recklessly in the middle
+ of the day, struck and killed the victim and almost struck the
+ victim's sister, all after he had previously been convicted
+ several times for drunk driving and had been specifically warned
+ just prior to the incident that he should not drive because he
+ was drunk. There was sufficient evidence to show that in
+ committing the manslaughter offense, St. Clair displayed an
+ insensitive, indifferent, or unsympathetic disregard for the
+ safety and welfare of others. Therefore, the HPA did not err in
+ relying on the Nature of Offense as a significant factor in
+ placing St. Clair in the Level III level of punishment.
+ 
+We further conclude, however, that the HPA erred in
+ 
+relying upon the Degree of Injury/Loss to Person in placing St.
+ Clair within the Level III level of punishment. To fall within 
+Level III under this criteria, the injury or loss suffered by the
+ victim must be "more than those experienced by similarly situated
+ victims." The primary injury or loss suffered by victims of
+ manslaughter is death. The record does not indicate that Ms.
+ O'Brien experienced greater suffering than other manslaughter
+ victims after being struck by St. Clair's vehicle, but rather
+ indicates that she was killed almost instantly. 
+We are not persuaded by the State's argument that the
+ 
+relevant class of "similarly situated victims" is not
+ 
+12
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+manslaughter victims but rather drunk driving victims, who
+ 
+"generally are not killed" but only "suffer property damage or 
+some physical injury[.]" The Guidelines are structured to factor
+ in the seriousness of the underlying offense by imposing higher
+ minimum-term ranges for each level of punishment the more serious
+ the underlying offense. The State's proffered approach is
+ inconsistent with the structure of the Guidelines because it
+ would allow comparisons with less serious offenses to justify
+ increased levels of punishment for more serious offenses. We
+ conclude that "similarly situated victims," for purposes of
+ applying the Degree of Injury/Loss to Person criteria to St.
+ Clair's manslaughter conviction, are not victims of drunk driving
+ in general where the underlying offense is less serious than
+ manslaughter, but refer to manslaughter victims. 
+In this case, the HPA erroneously relied upon one of
+ 
+the two significant factors cited by the HPA in determining St.
+ Clair's level of punishment and minimum term. We have no basis
+ of determining whether the HPA would have placed St. Clair in the
+ same level of punishment or have given him the same minimum term
+ had it correctly applied its Guidelines. Accordingly, the HPA's
+ October 18, 2010, order setting St. Clair's minimum term at
+ thirteen years must be vacated and a new hearing held to
+ determine St. Clair's minimum term.
+ 
+II.
+ 
+St. Clair argues that the Circuit Court erred in
+ 
+imposing restitution because he asserts that restitution can only
+ be imposed by a jury. We disagree. In effect, St. Clair seeks
+ to extend the United States Supreme Court's decision in Apprendi
+ v. New Jersey, 530 U.S. 466 (2000) to the imposition of
+ restitution. In Apprendi, the Court held that "[o]ther than the
+ fact of a prior conviction, any fact that increases the penalty
+ for a crime beyond the prescribed statutory maximum must be
+ submitted to a jury and proved beyond a reasonable doubt." Id.
+ 
+at 490. Here, the jury's finding that St. Clair was guilty of
+ manslaughter exposed him to the requirement to pay restitution,
+ 
+13
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+and no additional fact-finding by a jury was required to impose
+ 
+restitution. See HRS § 706-605 (Supp. 2001); People v. Smith,
+ 
+181 P.3d 324, 326-27 (Col. 2008) (citing cases).
+ 
+III.
+ 
+St. Clair argues that the Circuit Court violated his
+ 
+rights by determining the manner of his restitution payments in
+ its Order Denying Petition without a hearing and without
+ providing him with assistance of counsel. We agree.
+ 
+The imposition of restitution, including the manner of 
+payment, was part of St. Clair's criminal sentence. See HRS 
+§ 706-605; State v. Gaylord, 78 Hawai
+'i 127, 152-53, 890 P.2d 
+1167, 1192-93 (1995). A defendant is entitled to an opportunity to be heard at his or her sentencing hearing, and an indigent defendant is entitled to appointed counsel to represent him or her at sentencing. HRS § 706-604 (1993) (requiring the court to afford the defendant an opportunity to be heard on the issue of the defendant's disposition); HRS § 802-5(a) (Supp. 2012) (providing for appointment of counsel to represent an indigent person charged with an offense punishable by imprisonment at all stages of the proceedings). There is no dispute, and the Circuit Court found, that St. Clair is indigent and unable to afford counsel. 
+In St. Clair II, we remanded the case with directions
+ 
+that the Circuit Court determine the manner of payment of
+ restitution and enter an amended judgment reflecting its
+ decision. The determination of the manner of payment of
+ restitution was part of St. Clair's criminal sentence and part of
+ his criminal case. St. Clair was entitled to a hearing and the
+ assistance of appointed counsel with respect to the Circuit
+ Court's determination of the manner of payment of restitution. 
+See HRS § 706-604; HRS § 802-5(a). We conclude that the Circuit
+ Court erred in ordering the manner of payment of restitution
+ without a hearing and without providing St. Clair with appointed
+ counsel, after St. Clair had moved for the appointment of 
+14
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+counsel. We therefore vacate the manner of payment of
+ 
+restitution ordered by the Circuit Court.
+ 
+CONCLUSION
+ 
+For the foregoing reasons, we vacate the Circuit
+ 
+Court's Order Denying Petition, and we remand the case for
+ further proceedings consistent with this Memorandum Opinion and
+ with instructions that: (1) the Circuit Court order the HPA to
+ vacate its October 18, 2010, minimum-term order and to hold a new
+ minimum-term hearing; (2) the Circuit Court shall hold a hearing
+ to determine the manner of St. Clair's restitution payments and
+ shall appoint counsel to represent St. Clair at such hearing, if
+ counsel is still requested by St. Clair and St. Clair still
+ qualifies for appointment of counsel; and (3) upon determining
+ the manner of payment of restitution, the Circuit Court shall
+ file an amended judgment reflecting its decision. 
+DATED: Honolulu, Hawai
+'i, December 20, 2013. 
+On the briefs:
+ 
+Stephen Keith St. Clair
+Petitioner-Appellant pro se Chief Judge 
+Linda L. Walton Deputy Prosecuting AttorneyCounty of Hawai
+'i 
+for Respondent-Appellee Associate Judge 
+Robert T. NakatsujiDeputy Solicitor GeneralDepartment of the Attorney Generalfor Respondent-Appellee Associate Judge 
+15
+ 

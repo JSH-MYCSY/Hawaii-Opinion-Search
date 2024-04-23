@@ -1,0 +1,1582 @@
+***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ʻI 
+ 
+---o0o--- 
+ 
+ 
+IN THE MATTER OF THE TAX APPEAL OF PRICELINE.COM, INC., ET AL., 
+Petitioners/Taxpayers- Appellants -Appellees -Cross-Appellants, 
+ 
+vs. 
+ 
+DIRECTOR OF TAXATION, STATE OF HAWAI ʻI, 
+Petitioner/Appellee
+-Appellant- Cross-Appellee. 
+ 
+ 
+SCAP-17-0000367 
+ 
+APPEAL FROM THE TAX APPEAL COURT 
+(T.X. NO. 13- 1-0269 AND CONSOLIDATED CASES: 
+13-1-0261 through 13- 1-0270, 14-1 -0001 through 14 -1-0010, 
+and 14-1-0243 through 14- 1-0251) 
+ 
+MARCH 4, 2019 
+ 
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, POLLACK, AND WILSON, JJ. 
+ 
+OPINION OF THE COURT BY POLLACK, J.  
+  This case is a consolidated appeal from twenty- nine 
+General Excise Tax assessments levied by the Director of 
+Taxation of the State of Hawai i against
+ five online travel 
+companies based on car rental transactions that took place in 
+Hawaii between January 1, 2000,  and December 31, 2013.   The Electronically Filed
+Supreme Court
+SCAP-17-0000367
+04-MAR-2019
+09:14 AM***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+2 online travel companies contend that the majority of the 
+assessments are barred because they have already litigated their 
+General Excise Tax liability for the years in question to final 
+judgment in a previous case.  They further argue that the rental 
+car transactions should qualify for a reduced General Excise Tax 
+rate that is calculated based only on the portion of the 
+proceeds that they re tain because rental cars are “tourism 
+related services” within the meaning of a statutory income -
+reducing provision.  The Director of Taxation of the State of 
+Hawai‘i responds that the State cannot be estopped from 
+collecting taxes it is legally owed based on a previous 
+litigation and that the rental car transactions must be taxed at 
+the full rate because no income -reducing provision applies. 
+  We hold on review that, because our precedent does not 
+permit the actions of a specific  government official to impede 
+the fundamental sovereign power of taxation, the assessments are 
+not barred and may be considered on the merits.  We further hold 
+that rental cars are tourism related services and the assessed 
+transactions qualify for the reduced General Excise Tax rate 
+based only on the portion of the proceeds that the online travel 
+companies retained.  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+3 I. BACKGROUND 
+A. The OTCs ’ Business Model 
+ 
+ The taxpayers in this case are five online travel 
+companies1 (the “OTCs”) that provide services similar to those of 
+a traditional travel agent through their respective public 
+websites.2  The OTCs maintain databases of up- to-date information 
+about travel- related services offered by third- party providers, 
+including airline flights  and car and hotel rentals.  Travele rs 
+accessing the websites  can view availability and price data for  
+services associated with a destination and make reservations 
+through the OTCs rather than contacting service providers 
+directly.  The OTCs negotiate and contract with service 
+providers to secure reduced pricing in exchange for providing 
+                     
+ 1 The parties to this appeal and cross -appeal include 
+Priceline.com, Inc. (n/k/a The Priceline Group, Inc.); Expedia, Inc.; 
+Hotwire, Inc.; Orbitz, LLC; and Trip Network, Inc. (d/b/a Cheaptickets.com).  
+Before the tax court,  the consolidated tax appeal also included Hotels.com, 
+L.P.; Internetwork Publishing Corp. (d/b/a Lodging.com); Travelweb LLC; 
+Travelocity.com LP (n/k/a TVL LP); and Site59.com, LLC.  The tax assessments 
+levied against Travelocity.com LP (n/k/a TVL LP) and  Site59.com, LLC were 
+resolved out of court, and the appeal was dismissed with prejudice by 
+stipulation on November 29, 2016.  The tax court entered judgment in favor of 
+Hotels.com, L.P.; Internetwork Publishing Corp. (d/b/a Lodging.com); and 
+Travelweb LLC in the stipulated final judgment filed April 25, 2017, and no 
+party has appealed this portion of the ruling.   
+  No OTC that was a party to any stage of the proceedings in this 
+case was headquartered or had a principal place of business in the State of 
+Hawaii. 
+ 2 Some of the OTCs also operate call centers and process 
+transactions over the telephone using a substantially identical business 
+model. ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+4 global marketing and supplying a  mechanism for connecting 
+customers with excess inventory. 
+  
+In the transactions at issue in this case, the  OTCs 
+utilized a business method called the “merchant model.”   In a 
+merchant model transaction, a customer make s a single payment to 
+an OTC for all purchased services at the time of the 
+reservation--typically as 
+a credit card charge processed through 
+the OTC’s website.  The OTC appear s as the merchant of record 
+for the credit card transaction.  This payment--called the 
+“gross income” or “gross receipts” --includes at least two 
+components: the base price for services set by contract between 
+the OTCs and service providers
+, which the OTCs 
+remit to the 
+service providers, and an amount that the OTCs retain as 
+compensation for facilitating the transaction.   See Hawaii 543
+                     
+ 3 The OTCs also employ the “agency” or “retail” model of 
+transaction, in which customers make reservations thr ough the OTCs’ websites 
+and make payment directly to the service provider at the time of service.  
+The service provider then forwards a portion of the proceeds to the OTC as a 
+commission for facilitating the transaction.  The Director of Taxation of the 
+State of Hawai‘ i has issued separate tax assessments to the OTCs based on 
+their agency- model transactions in the tax years at issue in this case, but 
+the OTCs are not challenging these assessments in this appeal.  
+ 4 The briefs refer to this base price of the service as the “net 
+rate.”  Because “net” may alternatively refer to the amount the OTCs retain 
+after all expenses, see  Net, Black’s Law Dictionary  (10th ed. 2014), this 
+opinion instead uses the term “base rate.”  
+ 5 The briefs alternatively refer to this amount as a “service fee,” 
+“facilitation fee,” “mark -up,” and “margin,” and sometimes characterize it as 
+representing separate charges for facilitating the initial transaction and 
+for providing ongoing customer service related to the reservation.  Any 
+distinction in the compensation retained by the OTCs is not relevant to this 
+appeal, and this Opinion refers to the full amount collectively.  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+5 Revised Statutes (HRS) § 237- 3 (2017) (defining “gross income”).  
+Some of the transactions at issue in this case also included a 
+“tax recovery” charge representing the estimated amount of taxes 
+the service providers would pay on the transaction, which the 
+OTCs also forwarded to the service  providers.6  No component of 
+the gross income is explicitly designated to satisfy  the OTCs’ 
+own tax obligations. 
+  
+The OTCs do not disclose the total amount of gross 
+income collected in each transaction to service providers and do 
+not inform customers  of the separate cost of each component of 
+the payment.  Consequently, only the OTCs know how much money 
+they retain in each 
+merchant model transaction. 
+  With respect to vehicle  rentals, merchant model 
+transactions are further divided into package and stand- alone 
+transactions.  In package transactions, customers purchase 
+multiple travel- related services simultaneously through the OTCs 
+for a single payment.  A customer may reserve  an airline ticket 
+or hotel room at the same time as a rental vehicle , for 
+instance.  The OTCs separate the base rate for each included 
+service and forward t hat amount to  the appropriate service 
+provider.  A stand- alone transaction, by contrast,  involves only 
+                     
+ 6 In those transactions that did not include a tax recovery fee, 
+customers typically paid applicable taxes, fees, and surcharges directly to 
+the service provider at the time of the service.  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+6 a rental vehicle reservation from a single service provider.   
+All of the OTCs engaged in package transactions during the years 
+at issue in this case, but only Priceline.com, Inc. and Hotwire, 
+Inc. also offered stand-alone car rentals as a standard business 
+practice.7 
+B. The 2015 Travelocity Case 
+  Prior to 2011, the OTCs filed no tax returns with and 
+paid no taxes to the State of Hawai i on merchant-model 
+transactions that resulted in the purchase of services rendered 
+within the State.  See Travelocity.com, L.P. v. Dir. of 
+Taxation, 135 Hawaii 88, 95-96, 346 P.3d 157, 164- 65 (2015).  In 
+2011 and 2012, the Director of Taxation of the State of Hawaii 
+(the Director) issued two sets of “Notice[s] of Final Assessment 
+of Additional General Excise And/Or Use Tax” to each OTC .  See 
+id. at 93, 346 P.3d at 162.  The Director retroactively assessed 
+the OTCs for unpaid General Excise Tax (GET)  on the gross income  98
+                     
+ 7 Although a majority of the OTCs generally do not offer stand -
+alone car rentals, the evidence indicates that stand- alone transactions 
+accounted for approximately two -thirds of bookings in all assessed merchant 
+car rentals by revenue and volume.  
+ 8 The final assessment represents the culmination of an 
+administrative procedure in which a taxpayer is first informed of a proposed 
+assessment and given an opportunity to file an administrative protest before 
+the assessment is finalized.  See generally  Matter of Simpson Manor, Inc., 57 
+Haw. 1, 7, 548 P.2d 246, 250 (1976) (describing the procedure as it relates 
+to due process).  
+ 9 As discussed in greater detail below, the GET is a tax assessed 
+“based on the privilege or activity of doing business within the State and 
+ 
+(continued . . .)  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+7 from transactions from 1999 to 2011 that resulted in hotel room 
+rentals within the State of Hawai i, as well as interest and 
+penalties for failing to file and non
+-payment.   Id. at 92, 346 
+P.3d at 161. 10
+  The OTCs appealed the assessments to the tax court, 
+arguing, inter alia, that they were not subject to GET because 
+their business activities did not take place in Hawai i as the 
+authorizing statute
+ required.  Id. at 98-99 , 116, 346 P.3d at 
+168-69, 185 (citing HRS § 237-13 (Supp. 1999) ).  On August 15, 11
+                                                                        
+(. . . continued) 
+ 
+not on the fact of domicile.”  Travelocity, 135 Hawai i at 103, 346 P.3d at 
+172 (quoting Matter of Grayco Land Escrow, Ltd., 57 Haw. 436, 447, 559 P.2d 
+264, 272 (1977)).  It is imposed on gross income derived from, inter alia
+, 
+“any service business” within the State that is not exempted or otherwise 
+provided for in the authorizing statute.  Id.  at 97, 346 P.3d at 166 (quoting 
+HRS § 237- 13 (Supp. 1999)).  The “inherent pervasiveness” of the tax is 
+mitigated by a number of income -reducing provisions specifying that certain 
+classes of transactions are untaxed or taxed on a value less than the gross 
+income derived from the transaction.  Id. at 106, 346 P.3d at 175 (quoting 
+Matter of Tax Appeal of Cent. Union Church
+--Arcadia Ret. Residence, 63 Haw. 
+199, 202, 624 P.2d 1346, 1349 (1981)).  
+ 10 The Director also assessed Travel Accommodations Tax (TAT) and 
+associated interest and penalties on the transactions.  Travelocity, 135 
+Hawaii at 93, 346 P.3d at 162.  The TAT is a tax imposed on the gross rental 
+proceeds derived by “operators” of short -term “transient accommodations” 
+including hotels.  Id.  at 119
+-20, 346 P.3d at 188 -89 (citing HRS § 237 –2 
+(Supp. 1998)).  The OTCs appealed the assessments, and the tax court found 
+that the OTCs were not “operators” subject to TAT under the authorizing 
+statute.  Id. at 127, 346 P.3d at 196.  On review, this court agreed.  Id.  
+ 11 HRS § 237 -13 provides in relevant part: 
+There is hereby levied and shall be assessed and collected 
+annually privilege taxes against persons on account of 
+their business and other activities in the State measured 
+by the application of rates against values of products, 
+gross proceeds of sales, or gross income, whichever is 
+specified, as follows:  
+ 
+(continued . . .)  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+8 2013, the tax court entered final judgment finding the OTCs 
+liable for the full amount of the assessed GET .  Id. at 92, 346 
+P.3d at 161.  The Director and OTCs filed cross appeals, and 
+this court granted transfer.  Order, Travelocity.com, LP v. Dir. 
+of Taxation, No. SCAP-13-0002896, 2013 WL 6822079 (Haw. Dec. 24, 
+2013). 
+  On March 17, 2015, this court issued an opinion 
+affirming in part and vacating in part the tax court’s final 
+judgment.  Travelocity, 135 Hawai i at 127, 346 P.3d at 196.
+  The 
+court first determined that the OTCs ’ merchant hotel room 
+transactions constituted “sufficient ‘business and other 
+activities in the State’ to impose the GET” because the OTCs 
+actively solicited and contracted with Hawai i hotels and Hawai i 
+consumers to profit from the sale of occupancy rights that were 
+wholly exercised in Hawai i.  Id. at 105, 346 P.3d at 174 
+(quoting HRS § 237- 13). 
+                                                                        
+(. . . continued) 
+ 
+. . . . 
+(6) Tax on service business.  
+ (A) Upon every person engaging or continuing within 
+the State in any service business or calling including 
+professional services not otherwise specifically taxed 
+under this chapter, there is likewise hereby levied and 
+shall be assessed and collected a tax equal to four per 
+cent of the gross income of the business . . . .  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+9   The court went on to hold , however, that the assessed 
+transactions qualified for GET apportionment under a related 
+statutory provision because the rented hotel rooms were 
+“transient accommodations . . . furnished through arrangements 
+made by a travel agency . . . at noncommissioned negotiated 
+contract rates” for which the “gross income [was] divided 
+between the operator of transient accommodations . . . and the 
+travel agency.”  Id. at 106, 113, 346 P.3d at 175, 182 (quoting 
+12HRS § 237-18(g) (1993)
+ (emphasis omitted)).   Accordingly, the 
+court held that the OTCs were liable for GET and associated 
+interest and penalties ba sed on only the amounts they retained 
+from the assessed transactions and not the gross income.  Id.  at 
+113, 346 P.3d at 182. 
+  The court therefore remanded the case to the tax court 
+to make a final determination of each OTC ’s GET liability under 
+the ruling.  Id. at 127, 346 P.3d at 196.  The tax court entered 
+                     
+ 12 HRS § 237 -18(g) provides in full:  
+Where transient accommodations are furnished through 
+arrangements made by a travel agency or tour packager at 
+noncommissioned negotiated contract rates and the gross 
+income is divided between the operator of transient 
+accommodations on the one hand and the travel agency or 
+tour packager on the other hand, the tax  imposed by this 
+chapter shall apply to each such person with respect to 
+such person’s respective portion of the proceeds, and no 
+more. ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+10 a set of Stipulated Final Judgments on Remand on September 21, 
+2015, establishing each OTC’s GET liability.  
+C. The Present Case 
+  
+On December 9, 2013, while the cross- appeals of the 
+tax court’ s initial judgment in Travelocity were pending, the 
+Director issued a new set of “Notice[s] of Final Assessment of 
+Additional General Excise And/Or Use Tax” based on the gross 
+income from the OTCs’ merchant renta l car transactions from 2000 
+to 2012.   This was followed on July 18, 2014, by an additional 
+set of GET assessments based on the gross income  from the OTCs’ 
+2013 merchant rental car transactions.  1413
+1. The Tax Court Proceedings 
+  Upon receiving the merchant rental car GET 
+assessments, the OTCs filed timely notices of appeal to the tax 
+court.  The appeals were consolidated, and prior to trial the 
+Director and OTCs filed cross- motions for partial summary 
+judgment.   
+                     
+ 13 The OTCs filed timely administrative protests for all of the 
+assessments at issue in this case.  
+ 14 The 2013 assessmen ts also included GET and TAT on the OTCs’ 
+merchant hotel room rental transactions.  Following this court’s decision in 
+Travelocity, 135 Hawai i at 127, 346 P.3d at 196, the TAT assessments were 
+canceled by stipulation.  The 2013 merchant hotel room rentals ’ GET 
+assessments are also not at issue in this appeal.  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+11 a. The Director’s Motion for Partial Summary Judgment  
+  
+On May 9, 2016, the Director filed a motion seeking  a 
+ruling that the OTCs were liable for GET on the gross income 
+from all merchant rental car transactions in the State of Hawai i 
+from 2000 to 2013, as well as interest and penalties for failing 
+to file and non-payment.  The Director first contend ed that, 
+under our precedents, the assessment of taxes, penalties, and 
+interest are presumed correct, making it the OTCs ’ burden to 
+disprove the accuracy of the challenged assessments.  (Citing 
+Travelocity, 135 Hawai i at 114 -15, 346 P.3d at 1 83-84.)  The 
+Director then argued that Travelocity was dispositive as to the 
+GET’s applicability to the OTCs’  merchant rental car 
+transactions because the rentals constituted business and other 
+activities in Hawaii under HRS § 237- 13 in the same manner as 
+the OTCs’ merchant hotel room rentals.   (Citing 135 Hawaii at 
+103-05, 346 P.3d at 172-74.)   
+  Anticipating the OTCs ’ counter- argument  based on their 
+earlier administrative protests, the Director assert ed that no 
+income-reducing provision applied to the merchant rental car 
+transactions.  Specifically, the Director argued that “the 
+income-reducing provision in HRS § 237- 18(f)15 that applies to 
+                     
+ 15 HRS § 237 -18(f) provides in full  as follows: 
+ 
+(continued . . .)  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+12 ‘tourism related services’ simply does not encompass”  the 
+merchant rental car transactions based on legislative history 
+and principles of statutory construction.   
+  
+Lastly, the Director argued that the OTCs a re subject 
+to penalties under HRS § 231-39(b)16 for their undisputed failure 
+                                                                        
+(. . . continued) 
+ 
+Where tourism related services are furnished through 
+arrangements made by a travel agency or tour packager and 
+the gross income is divided between the provider of the 
+services and the travel agency or tour packager, the tax 
+imposed by this chapter shall apply to each such person 
+with respect to such person’s respective portion of the 
+proceeds, and no more.  
+As used in this subsection “tourism related services” means 
+catamaran cruises, canoe rides, dinner cruises, lei 
+greetings, transportation included in a tour package, 
+sightseeing tours not subject to chapter 239, admissions to 
+luaus, dinner shows, extravaganzas, cultural and 
+educational facilities, and other services rendered 
+directly to the customer or tourist, but only if the 
+providers of the services other than air transportation are 
+subject to a four per cent tax under this chapter or 
+chapter 239.  
+ 16 HRS § 231 -39(b) (2017) provides in relevant part  as follows: 
+(b) There shall be added to and become a part of the tax 
+imposed by such tax or revenue law, and collected as such:  
+(1) Failure to file tax return.  In case of failure 
+to file any tax return required to be filed on the 
+date prescribed therefor (determined with regard to 
+any extension of time for filing), unless it is shown 
+that the failure is due to reasonable cause and not 
+due to neglect, there shall be added to the amount 
+required to be shown as tax on the return five per 
+cent of the amount of the tax if the failure is for 
+not more than one month, with an additional five per 
+cent for each additional month or fraction thereof 
+during which the failure continues, not exceeding 
+twenty-five per cent in the aggregate. . . .  
+(2) Failure to pay tax.  
+ 
+(continued . . .)  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+13 to file returns or pay GET on their merchant rental car 
+transactions because they had not demonstrated the failure was 
+“due to reasonable cause and not due to neglect.”  ( Citing 
+Travelocity, 135 Hawai i at 113, 346 P.3d at 182.)   
+  On July 26, 2016, the OTCs filed an opposition to the 
+Director’s motion for partial summary judgment.   Directing the 
+court to their own cross- motion for partial summary judgment, 
+discussed below, the OTCs argued that the assessments for tax 
+years 2000 to 2011 were barred under the doctrine of res 
+judicata due to GET liability for those years having been 
+litigated to final judgment in Travelocity.   
+  The OTCs then contended that the Director had 
+misapprehended this court’s statements in Travelocity  about the 
+presumption of a tax assessment’s correctness; only the 
+calculation of the amount of tax owed is presumed correct, the 
+OTCs asserted, and questions of law regarding  application of a 
+tax are reviewed de novo. (Citing 135 Hawai i  at 114, 346 P.3d at
+183.)  The OTCs pointed out that our precedents indicate tax  
+                                                                        
+(. . . continued) 
+ 
+(A) If any part of any underpayment is due to 
+negligence or intentional disregard of rules 
+(but without intent to defraud), there shall be 
+added to the tax an amount up to twenty -five 
+per cent of the underpayment as determined by 
+the director. ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+14 statutes should be interpreted strictly with ambiguity resolved 
+in favor of the taxpayer.  (Citing In re Fasi, 63 Haw. 624, 629, 
+634 P.2d 98, 103 (1981).)   
+  The OTCs then argued that the assessments should be 
+vacated because they failed to apply the GET apportioning 
+provision for “tourism  related services ” under HRS § 237 -18(f).  
+The OTCs asserted that vehicle rentals fall squarely within the 
+conventional conception of tourism related services and disputed 
+the Director’s interpretation of legislative history and 
+application of statutory construction
+ principles.  Lastly, the 
+OTCs argued that genuine issues of material fact existed as to 
+which OTCs filed or paid  GET during the years in question, and  
+the determination of penalties should therefore be deferred 
+until after the resolution of the partial summary judgment 
+motions.   
+b. The OTCs’ Cross -Motion for Partial Summary Judgment 
+  
+On July 7, 2016, the OTCs filed a motion seeking a 
+judgment that the GET assessments covering 2000 through 2011 
+were barred by res judicata because the Director had previously 
+assessed and litigated 
+the OTCs’ GET liability for those years 
+to final judgment in Travelocity.   
+Relying on a range of 17
+                     
+ 17 The OTCs also  contended that the assessments should be vacated 
+for failing to apply GET apportionment, utilizing arguments substantially 
+ 
+(continued . . .)  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+15 federal cases, the OTCs argued that established “hornbook 
+principles” of law  make clear that a taxpayer’s liability for a 
+single type of tax during  a single tax year gives rise to a 
+single cause of action.  The OTCs contended the doctrine of res 
+judicata should therefore bar all claims or defenses that were 
+brought or could have been  brought in the previous proceeding to 
+establish their GET liability.   
+  The OTCs further argued that the Director was aware of 
+and could have included the merchant car rental transactions in 
+the first action, pointing to the assessed hotel room 
+transactions in Travelocity that also included a car rental as 
+part of the purchased package.  Public policy also weighed in 
+favor of applying res judicata , the OTCs concluded, because the 
+doctrine serves to promote finality, relieve parties of the cost 
+of multiple lawsuits, conserve judicial resources, and encourage 
+reliance by preventing inconsistent decisions.   
+  On July 26, 2016, the Director filed an opposition to 
+the OTCs’ cross -motion for partial summary judgment.  The 
+Director argued that the OTCs’ res judicata argument fails 
+because the OTCs did not file GET returns and Hawai i tax 
+                                                                        
+(. . . continued) 
+ 
+identical to those included in the OTCs’ opposition to the Director’s motion 
+for partial summary judgment.  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+16 statutes treat non-filers in “a different and more punitive 
+manner than taxpayers who file returns.”  Applying res judicata 
+would encourage tax fraud, the Director continued, 
+by requiring 
+the Director to guess what undisclosed business activities a 
+non-filer has conducted in Hawai i.  The Director further pointed 
+out that article VII, section 1 of the Hawaii Constitution 
+prohibits the surrender or suspension of the taxing power, and 
+that this court has held that estoppel defenses do not apply to 
+the fundamental sovereign power of taxation.  (Citing Dir. Of 
+Taxation v. Med. Underwriters of Cal., 115  Hawaii 180, 194, 166 
+P.3d 353, 367 (2007).)   
+  Additionally, the  Director asserted that no Hawaii 
+court had ever recognized res judicata as a defense to taxation 
+and that the OTCs had not met the technical requirements of the 
+doctrine as applied by Hawai i courts in any event .  Lastly, the 
+Director argued that even if res judicata was an available 
+defense under the circumstances, summary judgment was 
+inappropriate because genuine issues of material fact existed as 
+to whether the Director knew about the OTCs ’ merchant rental car 
+transactions at the time of Travelocity and thus could have 
+included them in the prior proceeding.   
+  The Director’s opposition also included a number of 
+additional arguments that the merchant rental car transactions ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+17 did not qualify as “tourism  related services” for GET 
+apportionment under HRS § 237- 18(f).  Most notably, the Director 
+contended that certain types of rental car transactions could 
+not be characterized as tourism related services under any 
+definition of the term, including rentals to Hawai i residents 
+whose vehicles have broken down or to business persons traveling 
+to the State or among the islands for only business purposes. 
+c. Hearing and the Tax Court’s Ruling  
+  The tax court held a joint hearing on the cross-
+motions on August 5, 2016.  At the hearing, the tax court 
+expressed “legitimate concern about how many times the taxpayers 
+are going to have to come back to . . . defend general excise 
+tax issues” and stated that “there’ s very little dispute that 
+people in the world, including the tax director in Hawaii, knew 
+that car rental services were part of the services that these 
+online travel companies offered” prior to Travelocity .  The 
+court found, however, that this did not equate to knowledge of 
+“actionable conduct” by the OTCs on which additional GET could 
+be assessed.  Because Travelocity and the present case were 
+initiated through separate assessments based on “completely 
+different activity giving rise to the alleged tax liability,” 
+the court found that the present action was not barred by res 
+judicata.   ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+18   Turning to whether the HRS § 237- 18(f) apportioning 
+provision applied, the court found that the primary commonality 
+among the ten enumerated examples of tourism related services in 
+the statute was that they were part of tour packages.  Citing 
+this court’s discussion of the term “tour packager” in 
+Travelocity, the court asserted that the legislature’s inclusion 
+of “transportation included in a tour package” rather than 
+simply “transportation” confirmed that the provision was 
+intended to reach only services packaged together 
+for resale by 
+a travel agent.  Accordingly, the court found that the stand-
+alone merchant rental car transactions did not qualify as 
+tourism related services for GET apportionment under HRS § 237-
+18(f).  The court further found that package transactions, 
+however, in which the rental car was purchased along with at 
+least one other service, qualified as “transportation included 
+in a tour package” and were thus tourism  related services within 
+the meaning of the GET apportionment provision. 
+  On November 4, 2016, the court entered an order 
+corresponding with its oral rulings  granting in part and denying 
+in part the Director and OTCs ’ cross-motions for partial summary 
+judgment.18  On April 25, 2017, the tax court entered a 
+                     
+ 18 The order included failure- to-file penalties against all OTCs for 
+tax years 2000 through 2012, as well as failure-to-pay penalties against all 
+ 
+(continued . . .)  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+19 Stipulated Order and Final Judgment Disposing of All Issues and 
+Claims of All Parties.  Both the Director and the OTCs timely 
+appealed.   Prior to briefing, the Director and the OTCs each 
+filed applications for transfer to this court.  This court 
+granted transfer on August 11, 2017. 
+2. Proceedings Before this Court 
+  Before this court, the Director argues that the tax 
+court erred by applying the HRS § 237-18(f)  GET apportioning 
+provision to the OTC’s package rental car transactions.  The 
+Director contends that, by determin ing that rental cars included 
+in package transactions were “transportation within a tour 
+package,” the court  disregarded the plain language of the law by 
+changing the term “transportation” to “rental cars”  and ignoring 
+the word “tour.”   
+ 
+ The Director further asserts that the legislative 
+history of HRS § 237- 18(f) and other taxing provisions indicates 
+that the legislature intended only those services in which a 
+tourist is conveyed to a second location by another party to be 
+included in the term “transportation,” and that this meaning is 
+reflected by standard rules of statutory construction and in the 
+                                                                        
+(. . . continued) 
+ 
+OTCs for tax years 2000 through 2013 except for priceline.com for the period 
+from May 2013 through December 2013.  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+20 various portions of the Hawai‘i Ad
+ministrative Rules that employ 
+the term.  And, e ven were rent al cars “transportation” for 
+purposes of HRS § 237- 18(f), the Director contend s, the OTCs 
+failed to demonstrate that rental cars are included in a “tour” 
+package.  The Director argues that the OTCs submitted no 
+evidence detailing the components included in the specific 
+assessed transactions, and thus there is no evidence in the 
+record to create a genuine issue of material fact as to whether 
+the transactions constituted “tour” packages.19  An evidentiary 
+presumption in favor of the correctness of the Director ’s tax 
+assessments therefore should have been determinative , the 
+Director contends, regardless of whether the inclusion of 
+airfare or accommodations would qualify a transaction as a tour 
+package.   
+ 
+ The OTCs in turn argue that the tax court erred by 
+failing to find that principles of res judicata bar the Director 
+from collecting additional assessments of a  tax for tax years 
+that have been previously litigated to final judgment.  And even 
+if these assessments 
+are not wholly  barred, the OTCs maintain, 
+                     
+ 19 The Director’s own  submitted evidence included documentation from 
+which it can be reasonably inferred that the assessed transactions included 
+package transactions with accommodations or airfare as a component, including 
+a declaration by a consultant hired by the DOT indicating such package 
+transactions accounted for approximately one -third of the assessed 
+transactions by volume and revenue.  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+21 the tax court’s ruling cannot stand  because it failed to apply 
+the HRS § 237- 18(f) income-apportioning provision to the OTCs 
+stand-alone merchant car rental transactions, which legislative 
+history and principles of statutory con
+struction confirm are 
+“tourism related services” within the meaning of the statute .   
+II. STANDARD OF REVIEW 
+  This court reviews the grant or denial of summary 
+judgment de novo.  Travelocity.com, L.P. v. Dir. of Taxation, 
+135 Hawaii 88, 96–97, 346 P.3d 157, 165 –66 (2015).  “When the 
+facts are undisputed and the sole question is one of law, the 
+decision of the [tax court] is reviewed ‘under the right/wrong 
+standard. ’”  Id. at 97, 436 P.3d at 166 (quoting Kamikawa v. 
+United Parcel Serv., Inc., 88 Hawaii 336, 338, 966 P.2d 648, 650 
+(1998)). 
+III.  DISCUSSION 
+  In reviewing the tax court’s grant or denial of 
+summary judgment, this court applies the same standard as the 
+trial court: “summary judgment is appropriate if the pleadings, 
+depositions, answers to interrogatories, and admissions on file, 
+together with the affidavits, if any, show that there is no 
+genuine issue as to any material fact and that the moving party  
+is entitled to a judgment as a matter of law.”  Travelocity.com, 
+L.P. v. Dir. of Taxation, 135 Hawaii 88, 96–97, 346 P.3d 157, ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+22 165–66 (2015) (quoting Fujimoto v. Au, 95 Hawai i 116, 136, 19 
+P.3d 699, 719 (2001)).  When 
+performing this evaluation, we 
+consider the evidence in the light most favorable to the non-
+moving party.  Umberger v. Dep ’t of Land & Nat. Res., 140 Hawaii 
+500, 528, 403 P.3d 277, 305 (2017) (quoting Lambert v. Waha, 137 
+Hawaii 423, 432 n.9, 375 P.3d 202, 211 n.9 (2016)). 
+In this case, the OTCs argue that the Director was 
+barred by res judicata from bringing an action to enforce any 
+additional GET assessments based on years for which the OTCs’ 
+GET liability was litigated to final judgement in Travelocity.  
+The Director responds that as an estoppel defense, res judicata 
+is not available as a defense against the sovereign power of 
+taxation.  We therefore first examine the development of the 
+doctrine of res judicata, relevant statutory law, and our 
+precedent concerning the application of estoppel defenses in 
+this context.  We then turn to the statutes governing the GET 
+and examine their plain text, legislative history, and 
+applicable canons of statutory construction to determine whether 
+rental car transactions qualify as “tourism  related services” 
+for purposes of the relevant income-reducing provision.  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+23 A. Res Judicata 
+1. Overview 
+  The OTCs argue that the Director is barred from 
+assessing them additional GET for the years 2000- 2011 by res 
+judicata because their GET liability for those years was 
+litigated to final judgment in Travelocity.  The Corpus Juris 
+Secundum defines res judicata as the doctrine that “treats the 
+final determination of an action as speaking the infallible 
+truth as to the rights of the parties as to the entire subject 
+of the controversy, so that such controversy and every part of 
+it must stand irrevocably closed by such determination.”  50 
+C.J.S. Judgments § 926 (2018).  
+This common law doctrine has its 
+roots in the Roman and Germanic 
+legal systems that contributed 
+to Anglo-American law, and similar rules give preclusive effect 
+to final judgments in most contemporary legal systems.  
+Developments in the Law- Res Judicata, 65 Harv. L. Rev. 818, 820 
+(1952). 20
+  As recognized in this court’s early decisions, the 
+doctrine was historically considered to have two interrelated 
+aspects, each arising from the litigation of a matter to final 
+                     
+ 20 The GET assessments in this case also include rental car 
+transactions in the years 2012 and 2013, years which were not included in the 
+Travelocity  assessments and thus not covered by the OTCs’ res judicata  
+defense.  See  supra, notes 13, 14, and accompanying text.   ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+24 judgment: one barring the bringing of a new action between the 
+parties based on the same subject matter as a previous claim, 
+and one barring the relitigation of specific issues previously 
+determined in a case between the same parties.  
+Res judicata  is twofold.  The judgment of a court of 
+competent jurisdiction is a bar to a new action in any 
+court between the same parties or their privies concerning 
+the same subject matter, and precludes the relitigation, 
+not only of the issues which were actually litigated in the 
+first action, but also of all grounds of claim and defense 
+which might have been properly litigated in the first 
+action but were not litigated or decided.  Likewise, the 
+adjudication by a court  of competent jurisdiction of any 
+right, fact or issue arising between the parties and 
+actually litigated by them bars the relitigation between 
+the same parties or their privies in any court of the same 
+right, fact or issue arising in any subsequent action  or 
+suit between the same parties or their privies, and this 
+irrespective of whether the later action or suit relates to 
+the same subject matter.  
+In re Bishop, 36 Haw. 403, 416 –17 (Haw. Terr. 1943) (citing 
+Makainai v. Lalakea, 29 Haw. 482 (Haw. Terr. 1926)).  Thus, res 
+judicata as originally articulated by this court prohibited the 
+assertion of any grounds of 
+claim or defense that was or could 
+have been asserted in a prior litigation between the parties 
+in 
+a later litigation concerning the same subject matter .  This 
+concept was historically called “estoppel by judgment, ”  and is 
+modernly termed “claim preclusion ,” “true res judicata ,” or 
+simply “res judicata .”  See E. A. K., Judgments- Distinction 21
+                     
+ 21 Some formulations further divide claim preclusion into the 
+concepts of “merger,” “bar,” and “splitting.”  See Restatement (Second) of 
+Judgments § 24 (1982).  Merger prevents a plaintiff from asserting a new 
+action on a “claim or any part thereof” when a “final personal judgment” has 
+been rendered in the plaintiff’s favor on that claim.  Id. at § 18(1). Bar 
+ 
+(continued . . .)  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+25 Between Res Judicata and Estoppel by Verdict, 7 Tex. L. Rev. 
+167, 168 (1928); 46 Am. Jur. 2d Judgments § 443 (2018).  The 
+doctrine further prohibited the relitigation of specific 
+issues 
+that were actually decided in a prior litigation against a 
+party--regardless of the subject matter of th
+e subsequent 
+litigation.  This is known as “estoppel by verdict,” “collateral 
+estoppel,” “partial res judicata,” or, in modern times, “issue 
+preclusion.”  E. A. K., supra, at 168; 46 Am. Jur. 2d Judgments 
+§ 443; Hemmings v. C.I.R
+., 104 T.C. 221, 231 (1995). 
+  Although some academics still refer to both concepts 
+as falling “[w]ithin the general doctrine of res judicata ,” 46 
+Am. Jur. 2d Judgments § 443, this court has largely adopted the 
+modern view that “[r]es judicata, or claim preclusion, and 
+collateral estoppel, or is
+sue preclusion, are . . . . separate 
+doctrines that ‘involve [] distinct questions of law.’”   Bremer 
+v. Weeks, 104 Hawai i 43, 53 & n.14, 85 P.3d 150, 160 & n.14 
+(2004) (quoting Dorrance v. Lee, 90 Hawai i 143, 148, 976 P.2d 
+904, 909 (1999)).   22
+                                                                        
+(. . . continued) 
+ 
+prevents a plaintiff from bringing another action on a claim on which the 
+plaintiff has previously lost. Id. at § 19.  Splitting is the rule that 
+multiple claims from a “series of connected transactions ” may not be brought  
+in separate actions.  
+Id. at § 24. 
+ 22 The OTCs argue only that the assessments in this  case are barred 
+by the first concept, claim preclusion.  This opinion therefore addresses 
+issue preclusion only when relevant to its analysis of claim preclusion.  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+26   Under modern formulations, the party asserting claim 
+preclusion has the burden of proving three elements to establish 
+that an action is barred: 1) there was a final judgment on the 
+merits, 2) both parties are the same or are in privity with the 
+same parties in the original suit, and 3) the claim decided in 
+the original suit is identical with the one presented in the 
+action in question.  E. Sav. Bank, FSB v. Esteban, 129 Hawai i 
+154, 159, 296 P.3d 1062, 1067 (2013) (quoting Bremer, 104 Hawai i 
+at 54, 85 P.3d at 161).  Some courts alternat ively phrase the 
+third element as “the same cause of action must be involved in 
+both cases” and explicitly add a fourth requirement: that the 
+first judgment was rendered by a court of competent 
+jurisdiction.  See Batchelor-Robjohns v. United States, 788 F.3d 
+1280, 1285 (11th Cir. 2015).   
+  All but one of the elements are undisputed  in this 
+case; the Director does not contest that there was a final 
+judgment on the merits by a court of competent jurisdiction in 
+Travelocity, nor that the case 
+involved the same parties as the 
+present suit.  Rather, the Director argues that as a matter of 
+law res judicata is not available as a defense in an action by 
+the State to collect GET.
+ 23
+                     
+ 23 Given our disposition of this issue, we need not address whether 
+the OTCs’ GET liability on the merchant rental car transactions constitutes 
+ 
+(continued . . .)  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+27 2. The Statutory Framework  
+  As an initial matter, 
+res judicata is a common law 
+doctrine, and common law may generally be overridden by 
+statute.   See In re Water Use Permit Applications, 94 Hawaii 
+97, 120, 9 P.3d 409, 432 (2000) (holding the legislature may 
+override common law doctr ine “as it deems appropriate or 
+necessary”); cf. Gold Coast Neighborhood Ass’ n v. State, 140 
+Hawaii 437, 451, 403 P.3d 214, 228 (2017) (“However, statutes 
+which abrogate the common law must do so expressly, not 
+impliedly, and such statutes ‘ must be strictly construed. ’” 
+(quoting Burns Int ’l Sec. Servs., Inc. v. Dep’ t of Transp., 66 
+Haw. 607, 611, 671 P.2d 446, 449 (1983))) .  Indeed, many federal 
+courts have reasoned that the federal internal revenue code has 
+displaced the common law
+ rules of claim preclusion when holding 
+that a claim by the federal government for a tax deficiency is 
+not barred by a final judgment in a taxpayer’s previous refund 
+action based on the same tax year.  Hemmings v. C.I.R., 104 T.C. 24
+                                                                        
+(. . . continued) 
+ 
+the same claim litigated in Travelocity or whether the Director as a factual 
+matter could have pursued the OTCs ’ GET liability for the merchant rental car 
+transactions in Travelocity . 
+ 24 There may be exceptions to the legislature’s ability to override 
+the doctrine of res judicata  when to do so would violate the separation of 
+powers by “unconstitutionally interfer[ing] with the judiciary’s authority to 
+manage the judicial process and th[e] court’s ability to finally resolve 
+matters on appeal by precluding subsequent and repetitive efforts to 
+relitigate the same claims.”  Berkson v. LePome, 126 Nev. 492, 495 (2010).  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+28 221, 235 (1995) (citing, inter alia, Pfeiffer Co. v. United 
+States, 518 F.2d 124, 130 (8th Cir. 1975); Caleshu v. United 
+States, 570 F.2d 711, 713 –14 (8th Cir. 1978); Pension Benefit 
+Guaranty Corp. v. Alloytek, Inc., 924 F.2d 620, 626 (6th Cir. 
+1991)).  25
+  The Director contends that two Hawai i statutes are 
+relevant to this appeal.  First, HRS § 237- 40 (2017) provides 
+general guidelines for when the Director may issue a GET 
+assessment.  When a taxpayer files a re turn, the Director may 
+issue an assessment “within three years after the annual ret urn 
+was filed, or within three years of the due date prescribed for 
+the filing of the return, whichever is later.”  HRS § 237- 40(a).  
+When a taxpayer has failed to file a return, however, GET “may 
+be assessed or levied at any time .”  HRS § 237- 40(b).  The 
+Director then points to HRS § 237- 38 (2017), which  further 
+addresses the failure to file a return: “If any person fails, 
+                     
+ 25 In analyzing whether the action was barred by res judicata, 
+Hemmings  considered whether the government’s deficiency claim was a 
+compulsory counterclaim under Federal Rule s of Civil Procedure (FRCP) Rule 
+13(a) (2009), which is substantially identical to Hawaii Rules of Civil 
+Procedure Rule 13(a) (2000).  The rule requires that a  defendant assert in a 
+responsive pleading “any claim that --at the time of its service--the pleader 
+has against an opposing party if the claim . . . arises out of the 
+transaction or occurrence that is the subject matter of the opposing party’s 
+claim.”  FRC P Rule 13(a).  Compulsory counterclaim rules incorporate common 
+law principles of res judicata.  Tyler v. DH Capital Mgmt., Inc., 736 F.3d 
+455, 460 (6th Cir. 2013).  Accordingly, the “classification of compulsory 
+counterclaims is often determinative of ple as of res judicata.”  Cleckner v. 
+Republic Van & Storage Co., 556 F.2d 766, 769 (5th Cir. 1977) (citing 
+Aerojet- General Corp. v. Askew, 511 F.2d 710, 717 (5th Cir. 1975)).  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+29 neglects, or refuses to make a return, the department of 
+taxation may proceed as it deems best to obtain information on 
+which to base the assessment of the tax.  After procuring the 
+information the department shall proceed to assess the tax.”  
+  Although the Director argues that these provisions 
+grant her wide latitude to assess GET in the manner of her 
+choice because the OTCs did not file GET returns for the years 
+in question, neither statute speaks directly to the Director’s 
+authority to issue multiple assessments for the same tax.
+  HRS § 
+237-40’s statement that “the tax may be levied or assessed at 
+any time” is at most ambiguous on the point; an authorization to 
+issue a single assessment at any time is not equivalent to an 
+authorization to issue 
+multiple  assessments .  And, contrary to 
+the Director’s characterization, HRS § 237 -38 does not authorize 
+her to proceed as she deems best generally, but rather only  in 
+“obtain[ing] information on which to base the assessment of the 
+tax.”  
+ 
+  In comparison, the federal statutes that courts have 
+interpreted as displacing  aspects of res judicata  in federal tax 
+cases speak directly on the governmen t’s discretion  in filing a 
+deficiency counterclaim.  See 26 U.S.C. § 7422 (2012) (“[T]he 
+United States may counterclaim in the taxpayer ’s suit.” 
+(emphasis added)); Patzkowski v. United States, 576 F.2d 134, 
+136 n.1 (8th Cir. 1978) (“When a taxpayer has sued for a refund, ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+30 the Government may, of course, assert its collection action as a 
+counterclaim; alternatively, however, it may file a separate 
+collection action. ”).  And in some cases these courts have also 
+found structural indications that the normal preclusion rules 
+would undermine the federal statutory scheme more generally by, 
+for example, allowing a taxpayer to unilaterally shorten the 
+statute of limitations on the government’s deficiency claim by 
+bringing an action for a refund based on the same tax year.  See 
+Pfeiffer, 518 F.2d at 129.   
+  In the absence of such a clear pronouncement from the 
+legislature or an obviously incompatible statutory scheme, this 
+court will not infer an intention to override the normal 
+functioning of res judicata from the statutes governing GET 
+assessments.  See Gold Coast, 140 
+Hawaii at 457, 403 P.3d  at 234 
+(“Abrogation of such a deeply -rooted principle of law is 
+contradictory to our jurisdiction ’s requirement that the common 
+law governs unless ‘otherwise expressly
+ provided.’” (quoting HRS 
+§ 1-1 (2009)). 
+3. Res Judicata, Estoppel, and the Sovereign Taxation Power 
+  The Director argues that res judicata is a form of 
+estoppel and that estoppel defenses do not apply to the 
+fundamental sovereign tax power under this court’s decision in ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+31 Director of Taxation v. Medical Underwriters of California, 115 
+Hawaii 26180, 193 -94, 166 P.3d 353, 366- 67 (2007).   In Medical 
+Underwriters, this court considered whether Medical Underwriters 
+of California (MUC) could assert the defense of equitable 
+estoppel in a tax appeal.  Id.   In the years prior to the case, 
+the insurance division of the State of Hawai i’s Department of 
+Commerce and Consumer Affairs had treated MUC as an insurance 
+company for licensing purposes under the state insurance code.  
+Id. at 183, 166 P.3d at 356.  Relying on this classification, 
+MUC reasoned that it was exempt from GET under HRS § 237- 29.7 
+(2001), which specifically excludes “insurance companies 
+authorized to do business under” the insurance code.  Id.  
+                     
+ 26 The Director also argues that the fundamental sovereign right of 
+taxation is protected by article VII, section 1 of the Hawaii Constitution, 
+which is entitled “Taxing Power Inalienable” and provides that “[t]he power 
+of taxation shall never be surrendered, suspended or contracted away.”  
+Courts interpreting similar provisions have generally held that such 
+provisions bar the State from surrendering the power of taxation through a 
+promise, contract, or transaction.  See Sheehy v. Pub. Emps. Ret. Div., 864 
+P.2d 762, 766 (Mont. 1993) (“Article VIII, Section 2 of the 1972 Constitution 
+[] prohibits the state from surrendering or contracting away the power to 
+tax.  Under that constitutional provision, the state cannot promise any group 
+of taxpayers that it will never tax them.”); Nw. Nat. Life Ins. Co. v. 
+Jordan, 447 F. Supp. 856, 861 (D. Nev.  1978) (“[T]he Round Hill assessment 
+bonds do not attempt to restrict the State of Nevada or the [Tahoe Regional 
+Planning Agency] from promulgating and enforcing land use restrictions in the 
+Lake Tahoe Basin.  Nor would such a promise have been legally binding. . . . 
+[T]he police power and power of eminent domain are generally considered 
+inalienable.  It is presumed that parties contract with knowledge that 
+reservation of essential attributes of sovereign power is written into all 
+contracts.” (citation omit ted)).  The provision is therefore inapposite here, 
+where the State’s taxation power would be incidentally barred as the 
+consequence of prior litigation.  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+32 Accordingly, the company did not file or pay GET from 1985 to 
+1999.  Id. 
+  In 1999, the Director assessed MUC for unpaid GET for 
+these years, arguing that MUC did not meet the statutory 
+requirements to be an “insurance company.”  Id. at 183, 187, 166 
+P.3d at 356, 360.  MUC appealed the assessments, arguing inter 
+alia that the Director was estopped from denying its status as 
+an insurance company because MUC had detrimentally relied on it s 
+classification by the insurance division--another agency of the 
+State government.  Id. at 193, 166 P.3d 366.   
+  This court held  that MUC was not an insurance company 
+for purposes of the GET exemption and that the Director was not 
+estopped from collecting the back-taxes.  Id. at 194, 166 P.3d 
+367.  The court reasoned that, although “generally, ‘the 
+doctrine of equitable estoppel is fully applicable against the 
+government,’” “significant limitations have been placed on the 
+doctrine in this context.”  Id. at 193, 166 P.3d 366 (quoting 
+State v. Zimring, 58 Haw. 106, 126, 566 P.2d 725, 738 (1977); 
+Filipo v. Chang, 62 Haw. 626, 634, 618 P.2d 295, 300 (1980)).  
+One such limitation is that the doctrine cannot be applied to 
+prevent the State from exercising its sovereign power.  Id. 
+(citing Filipo, 62 Haw. at 634, 618 P.2d at 300; Godbold v. 
+Manibog, 36 Haw. 206, 214 (Haw. Terr. 1942)).  Because it was 
+“beyond dispute that the power of taxation is a sovereign power ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+33 of the state,” the court reasoned that “the doctrine of 
+equitable estoppel may not be applied against the government ’s 
+power to tax.”  Id. at 194, 166 P.3d 367 (citing Fitzgerald v. 
+City of Bangor, 726 A.2d 1253, 1255 –56 (Me. 1999); PCS, Inc. v. 
+Ariz. Dep’t of Revenue, 176 Ariz. 628, 630, (Ariz. T.C. 1993)). 
+  In so holding, this court quoted from Fitzgerald v. 
+City of Bangor, a decision by the Supreme Judicial Court of 
+Maine holding that estoppel is unavailable in tax cases in order 
+“to assure that no officer of government has the ability to 
+interfere inadvertently with the government ’s fundamental 
+sovereign power to tax its citizens.”  115 Hawai i at 194, 166 
+P.3d at 367 (quoting Fitzgerald , 726 A.2d at 1255 –56).  The 
+Maine court reason ed that taxation was “the paramount function 
+of government by which it is enabled to exist and function at 
+all.”  Fitzgerald, 726 A.2d at 1256 n.4 (quoting Me.  Sch. Admin. 
+Dist. No. 15 v. Raynolds, 413 A.2d 523, 533 (Me. 1980)).  “An 
+administrative officer charged with the duty of collecting taxes 
+had neither the power to abrogate the state ’s sovereign power to 
+tax nor the power to grant an exemption to a taxpayer,” the 
+court continued.  Id.  Accordingly, tax officials cannot prevent 
+the government from exercising its fundamental tax authority by ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+34 27intentional or unintentional acts, the court concluded.   See 
+id. 
+  The OTCs argue that “ Medical Underwriters is about 
+equitable estoppel” and that “[t]he question of whether a taxing 
+authority may bring an action in the first instance (despite its 
+delay and/or the taxpayer’s reliance) is very different from 
+whether a taxing authority is free to relitigate claims that 
+already were brought, or could have been brought, in a prior 
+action that resulted in a final judgment.”   
+  Equitable estoppel and res judicata share a common 
+ancestry; both “evolved from the medieval common law theory of 
+estoppel by matter in pais (‘in the country’ or ‘on the land’).”  
+Christopher Brown, A Comparative and Critical Assessment of 
+Estoppel in International Law, 50 U. Miami L. Rev. 369, 372 
+(1996).  The rule originally concerned the binding effect of 
+representations made in public.  Id.  As written records became 
+more common, res judicata split off and became a doctrine of its 
+                     
+ 27 It is noted that federal courts do not follow this rule in 
+federal tax litigation, and instead apply a higher standard in determining 
+whether equitable estoppel is available as a defense against the government ’s 
+power of taxation than in other contexts.  See  Norfolk S. Corp. v. C.I.R., 
+104 T.C. 13, 60 (1995), aff’d, 140 F.3d 240 (4th Cir. 1998) (holding  
+government may only be equitably estopped based on a mistake of law when “a 
+taxpayer can prove he or she would suffer an unconscionable injury” and 
+setting forth a five factor test for equitable estoppel based on misstatement 
+of fact).  It is therefore unsurprising that federal courts also consider res 
+judicata  a potential defense against the government’s taxation power when a 
+statute does not provide otherwise.  See, e.g., Erickson v. United States, 
+309 F.2d 760, 768 (Ct. Cl. 1962); Lenny v. Williams, 143  F.Supp. 29, 34 (N.D. 
+Ohio 1956).  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+35 own, premised on the official recording of court proceedings.  
+Id. at 375. 
+  “In spite of the historical association between 
+estoppel by res judicata and the other forms of estoppel, the 
+former is founded on vastly different princ iples.”  Id.  
+Equitable estoppel, as its name implies, exists primarily to 
+ensure fairness to litigants by protecting innocent parties and 
+“prevent[ing] a party from profiting from his or her 
+wrongdoing.”  Major League Baseball v. Morsani, 790 So.2d 1071, 
+1078 (Fla. 2001).  Res judicata likewise protects litigants by 
+“reliev[ing] parties of the cost and vexation of multiple 
+lawsuits” and ensuring finality, thus permitting “reliance on 
+adjudication.”  State by Price v. Magoon, 75 Haw. 164, 189, 858 
+P.2d 712, 724 (1993) (quoting Kauhane v. Acutron Co., 71 Haw. 
+458, 463-64, 795 P.2d 276, 278-79 (1990)).   
+  But res judicata also serves to “conserve judicial 
+resources” and “prevent[] inconsistent decisions.”  Id.  The 
+doctrine is an aspect of “the inherent abili ty of the judiciary 
+to manage litigation and finally resolve cases,” and some courts 
+have held that efforts by the other branches of government to 
+circumvent res judicata violate the separation of powers.  
+Berkson v. LePome, 126 Nev. 492, 499-500, 245 P.3d 560, 565-66 
+(2010) (holding that a 
+statute that permitted plaintiffs whose 
+victories were reversed on appeal to file new actions violated ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+36 the separation of powers); accord  Plaut v. Spendthrift Farm, 
+Inc., 514 U.S. 211, 225 (1995) (holding that a statute 
+permitting plaintiffs to refile actions previously dismissed as 
+untimely violated separation of powers). 
+  Thus, unlike equitable estoppel, res judicata is a 
+rule not only “of fundamental and substantial justice” and 
+“private peace” but of “public policy.”  Magoon, 75 Haw. at 189, 
+858 P.2d at 724 (quoting Kauhane , 71 Haw. at 463- 64, 795 P.2d at 
+278-79).  Some courts have classified this as the doctrine’s 
+primary purpose.  
+See Buromin Co. v. Nat ’l Aluminate Corp., 70 
+F.Supp. 214, 217 (D. Del. 194 7) (“The doctrine of res judicata 
+is primarily one of public policy and only secondarily of 
+private benefit to the individual litigants.  It has its roots 
+in the maxim that it concerns the public that there be an end to 
+litigation when one party has had a full and free opportunity of 
+presenting all the facts pertinent to the controversy.”)   Some 
+commentators argue this distinction is significant enough that 
+“in contemporary practice, [claim and issue preclusion] are not 
+considered estoppels at all in spite of their nomenclature. ”  
+Brown, supra, at 376. 
+  This case therefore presents a conflict between 
+competing doctrines.  On the one hand, Medical Underwriters held 
+that estoppel defenses should not be available 
+against the 
+government in tax cases “to assure that no officer of government ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+37 has the ability to interfere inadvertently with the government ’s 
+fundamental sovereign power to tax its citizens.”  115 Hawai i at 
+194, 166 P.3d at 367 (quoting Fitzgerald
+, 726 A. 2d at 1255–56).  
+On the other, res judicata implicates public policy and 
+fundamental judicial powers such as the ability to finally 
+resolve cases, and the doctrine potentially serves as a check on 
+the other branches of government.  Berkson, 126 Nev. at 500.   
+This is to say that, without some form of preclusion, there is 
+nothing to stop litigants--including the executive and 
+legislative branches--from simply relitigating adverse 
+determinations until they receive a  favorable decision. 
+  In light of the competing considerations of the 
+sovereign power to tax versus the public policy of case 
+finality, we also consider the doctrine of issue preclusion.  
+Although both claim preclusion and issue preclusion were 
+historically considered aspects of 
+res judicata and are 
+nominally forms of estoppel, when considered in relation to each 
+other it becomes clear th at the doctrines serve different 
+purposes.   
+  Claim preclusion “may be viewed as a rule of battle 
+which forces one side to fire all of its guns at once rather 
+than withhold some of its rounds for later in the battle.”  
+Brown, supra, at 375.  It serves to conserve judicial resources 
+by preventing a “multiplicity of suits” and to protect litigants ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+38 against the “cost and vexation of multiple lawsuits.”  Kauhane, 
+71 Haw. at 463, 795 P.2d at 278.  It thus promotes finality 
+generally in that it ensures all of the litigation related to a 
+given incident or transaction is settled at once. 
+  Issue preclusion, by  contrast, protects the core 
+judicial power to render final decisions as to facts and law in 
+specific controversies.  See Berkson, 126 Nev. at 500.  Even in 
+the absence of claim preclusion, issue preclusion 
+makes judicial 
+determinations conclusive and prevents a party from repeatedly 
+litigating adverse decisions in the hopes of securing a more 
+favorable outcome. 
+  W e held in Medical Underwriters that the actions of a 
+specific government official may not deprive the State of Hawai i 
+of its sovereign power to collect the taxes it is legally due.  
+115 Hawai i at 193-94, 166 P.3d at 366- 67.  Our reasoning holds 
+equally true when those actions are in the context of  a prior 
+litigation, and the common law defense of claim preclusion is 
+thus inapplicable against the State in tax cases.   Id.  T his is 
+not to say, however, that the State may relitigate adverse 
+judicial tax decisions ad infinitum.  The core judicial power to 
+make binding determinations of issues that come before the 
+courts remains protected by the doctrine of issue preclusion, 
+which applies with full force in tax litigation. ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+39   Because the doctrine of claim preclusion is 
+inoperative as a defense against the State’s sovereign taxation 
+power, the OTCs may not invoke it to bar the Director’s 
+enforcement of the tax assessments here at issue.28  The tax 
+court was therefore correct to deny the OTCs ’ cross-motion for 
+partial summary judgment. 
+B. GET Apportionment for Tourism Related Services  
+  HRS § 237- 18(f) permits travel agencies to pay GET on 
+only the portion of their proceeds that they retain when the 
+agencies split their gross income from arranging “tourism 
+related services” with third- party service providers.  Both 
+parties challenge the tax court’s conclusion that the provision 
+applies categorically to services sold as part of a travel 
+package.  The Director argues that car rentals are not tourism 
+related services within the meaning of the statute  regardless of 
+whether the rental is a component of a travel package.  
+Conversely, the OTCs contend that vehicle rentals are covered by 
+HRS § 237-18(f) irrespective of their inclusion in a package 
+transaction.  
+                     
+ 28 The OTCs have not raised issue preclusion as a defense, and it is 
+therefore unnecessary for this court to determine whether the OTCs’ GET 
+liability for the assessed years would be an issue entitled to preclusive 
+effect.   ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+40 1. The Presumption of Validity and Interpretory Balance 
+  As a threshold matter, the parties disagree as to the 
+litigant in whose favor this court is obliged to interpret the 
+governing GET statutes.  The Director asserts that GET 
+assessments are presumed correct and that it is the OTCs ’ burden 
+to disprove their accuracy.  By  contrast, the OTCs argue that, 
+under settled cannons of statutory construction, laws imposing 
+taxes are construed strictly against the government with any 
+doubt resolved in favor of the taxpayer.  The Director responds 
+that this court has recognized an exception to the general rule 
+when a taxpayer seeks an exemption from a tax of general 
+applicability, in which case the statute should be interpreted 
+strictly against the taxpayer.    
+  This court has held that GET assessments enjoy a 
+presumption of validity under HRS § 232 –13 (2017), which 
+provides that “the assessment . . . shall be deemed prima facie 
+correct.”  Travelocity, 135 Hawai i at 114- 15, 346 P.3d at 183- 84 
+(emphasis omitted) (citing In re Valley of Temples Corp., 56 
+Haw. 229, 232, 533 P.2d 1218, 1220 (1975)).  The use of the term 
+prima facie, however, indicates that this presumption concerns 
+the evidentiary burden of establishing sufficient facts to 
+prevail.  See Prima Facie Case, Black’s Law Dictionary  (10th ed. 
+2014) (“A party’s production of enough evidence to allow the 
+fact-trier to infer the fact at issue and rule in the party’s ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+41 favor.”); Riv era v. Philip Morris, Inc., 125 Nev. 185, 190 –91 
+(2009) (“The party that carries the burden of production must 
+establish a prima facie case.   The burden of production may be 
+switched from one party to another by a presumption.”  (citations 
+omitted)).  It is  therefore inapplicable to the Director’s legal 
+conclusions, which are reviewable de novo as questions of law.  
+Weinberg v. City & Cnty. of Honolulu, 82 Hawai i 317, 322, 922 
+P.2d 371, 376 (1996).
+ 
+  We have  further recognized that, as applied in tax 
+cases, there is a “rule of strict construction . . . . favoring 
+the taxpayer on provisions imposing the tax or cutting against 
+him on exemptions.”  Honolulu Star Bulletin, Ltd. v. Burns, 50 
+Haw. 603, 604, 446 P.2d 171, 172 (1968) (quoting In re Taxes, 
+Hawaiian Pineapple Co., 45 Haw. 167, 192, 363 P.2d 990, 1003 
+(1961)).  We have held, however, that “the rule of strict 
+construction with regard to taxing statutes is resorted to only 
+‘as an aid to construction when an ambiguity or doubt is 
+apparent on the face of t
+he statute, and then only after other 
+possible extrinsic aids of construction available to resolve the 
+ambiguity have been exhausted.’”  Travelocity, 135 Hawai i at 121 
+n.47, 346 P.3d at 190 n.47 (quoting 
+Bishop Trust Co. v. Burns, 
+46 Haw. 375, 399–400, 381 P.2d 687, 701 (1963)).   
+  This court is therefore  free to interpret GET statutes 
+through normal tools of statutory interpretation and will resort ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+42 to the rule of strict construction only if these methods do not 
+yield a clear answer.   
+2. The Text of the Statute  
+  “Under general principles of statutory construction, 
+courts give words their ordinary meaning unless something in the 
+statute requires a different interpretation. ”  Saranillio v. 
+Silva, 78 Hawai i 1, 10, 889 P.2d 685, 694 (1995) (citing Ross v. 
+Stouffer Hotel Co. ( Hawaii), 76 Hawaii 454, 461, 879 P.2d 1037, 
+1044 (1994)).  Thus, “ [t]he fundamental starting point of 
+statutory interpretation is the language of the statute itself.”  
+State v. Alangcas , 134 Hawaii 515, 525, 345 P.3d 181, 191 (2015) 
+(citing Hawaii Gov ’t Emps. Ass’n v. Lingle, 124 Hawai i 197, 202,  
+239 P.3d 1, 6 (2010)).  “ [W]here the statutory language is plain 
+and unambiguous, our sole duty is to give effect to its plain 
+and obvious meaning.”  Schmidt v. Bd. of Dirs. of Ass’ n of 
+Apartment Owners of Marco Polo Apartments, 73 Haw. 526, 531 –32, 
+836 P.2d 479, 482 (1992) (citations and quotes omitted).  
+  HRS § 237- 18(f) grants GET apportionment for “tourism 
+related services  [] furnished through arrangements made by a 
+travel agency or tour packager” when “the gross income is 
+divided between the provider of the services and the travel ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+43 agency or tour packager. ”29  The statute defines tourism related 
+services as “catamaran cruises, c anoe rides, dinner cruises, lei 
+greetings, transportation included in a tour package,  
+sightseeing tours not subject to chapter 239, admissions to 
+luaus, dinner shows, extravaganzas, cultural and educational 
+facilities, and other services rendered directly to the customer 
+or tourist.”  Thus, the statute on its face imposes three 
+requirements: 1) the arrangement is made by a travel agency or 
+tour packager; 2) the gross income from the transaction is 
+divided between the service provider and the travel agency or 
+tour packager; and 3) the service is a tourism  related service,  
+defined as either one of the enumerated examples or “[an]other  
+service[] rendered directly to the customer or tourist.”  
+                     
+ 29 HRS § 237 -18(f) is restated here as follows:  
+(f)  Where tourism related services are furnished through 
+arrangements made by a travel agency or tour packager and 
+the gross income is divided between the provider of the 
+services and the travel agency or  tour packager, the tax 
+imposed by this chapter shall apply to each such person 
+with respect to such person ’s respective portion of the 
+proceeds, and no more.  
+As used in this subsection “tourism related services” means 
+catamaran cruises, canoe rides, dinner cruises, lei 
+greetings, transportation included in a tour package, 
+sightseeing tours not subject to chapter 239, admissions to 
+luaus, dinner shows, extravaganzas, cultural and 
+educational facilities, and other services rendered 
+directly to the customer or tourist, but only if the 
+providers of the services other than air transportation are 
+subject to a four per cent tax under this chapter or 
+chapter 239.  
+(Emphasis added.) ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+44   As the Director acknowledges, this court determined in 
+Travelocity that the first two requirements are generally met in 
+transactions following the OTCs ’ merchant  business model.30  135 
+Hawaii at 108, 111, 346 P.3d at 177, 180 (“[F]or the purposes of  
+the GET Apportioning Provision, the OTCs operate as travel 
+agencies in the Assessed Transactions. . . . [I]n the Assessed 
+Transactions, gross income is divided, as that term is used in 
+the GET Apportioning Provision.”).   Further, vehicle rentals are  
+“services rendered directly to the customer or tourist”  within 
+the plain meaning of the provision, indicating that they would 
+be tourism related services under a literal reading of the  
+statutory definition.31   
+  Rental cars also fall within the conventional 
+understanding of tourism related services independent of the 
+statutory definit ion.  As the OTCs point out, numerous  
+publications marketed toward tourists visiting Hawai i promote 
+renting a car during a vacation, including many publications 
+released by the State itself.  And the previous State Strategic 
+                     
+ 30 This court held in Travelocity  that the OTCs acted as travel 
+agencies in the specific transactions there at issue.  135 Hawai i at 108, 346 
+P.3d at 177.  Although we did not hold that the OTCs were travel agencies for 
+all purposes, the Director does not dispute the OTCs’ status as trav el 
+agencies in the transactions in this case.  
+ 31 As discussed infra, canons of statutory construction may in some 
+instances justify departing from the plain meaning of this type of “catch -
+all” residual clause.  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+45 Tourism Plan expressly noted that rental cars are commonly 
+thought of as part of the “visitor industry” due to the 
+prominent role they play servicing tourists.  See Hawaii Tourism  
+Authority, Hawai i Tourism Strategic Plan 2005- 2015 at 8, 14, 16 
+(“When speaking about the ‘visitor industry,’ what generally 
+comes to mind are those directly involved in hotels and other  
+accommodations, airlines, car rental agencies, visitor 
+attractions, tour operators, and restaurants and retail 
+operations. . . . Currently, the primary transportation modes 
+used by visitors are air carriers, cruise ships, ferries, public  
+transportation vehicles, private buses, rental cars  and taxis. .  
+. . [N]early all visitors on the neighbor islands (and still 
+many on O ahu) rely on tour buses, taxis or rental cars .” 
+(emphases added)).   
+  Indeed, the Director ultimately does not dispute that 
+“in a general sense, car rentals are part of the tourism 
+industry.”  The Director instead attempts to distinguish 
+services that are part of the tourism industry from “tourism 
+related services.”   But--at least under the common understanding 
+of the term--the distinction is unfounded.  A conventional 
+dictionary defines “related” to simply mean “associated” or ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+46 “connected.”32  Services that are part of the tourism industry 
+are plainly associated or connected with tourism, and thus 
+“tourism related” under the plain meaning of the phrase
+. 
+  Because rental cars are tourism
+ related services under 
+both the plain- text of the statutory definition and conventional 
+definitions of the term, the rental car transactions satisfy HRS 
+§ 237-18(f)’s third requirement.  The text of HRS § 237-18(f) 
+therefore supports extending GET apportionment to the assessed 
+rental car transactions.
+ 
+3. Legislative History 
+ 
+ Even when the meaning of a law is apparent on its 
+face, “[l]egislative history may be used to confirm [the 
+court’s] interpretation of a statute’ s plain language.”  E & J 
+Lounge Operating Co. v. Liquor Comm’n of City & Cty. of 
+Honolulu, 118 Hawai ‘i 320, 335, 18
+9 P.3d 432, 447 (2008).  The 
+legislative history of HRS § 237-18(f) indicates that the 
+provision was intended to protect and encourage the growth of 
+the Hawai i visitor industry.  The statute was enacted in 1986 as 
+part of larger legislation concerning the taxation of tourism.  
+See 1986 Haw. Sess. Laws Act 340, § 7 at 767 .  Both the report 
+of the Senate Committee on Ways and Means and the conference 
+                     
+ 32 Related, Dictionary.com Unabridged, 
+http://www.dictionary.com/browse/related (last visited Feb. 20, 2019 ).   ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+47 committee report on the bill note that HRS § 237- 18(f) was 
+intended to alleviate the effects of pyramiding that “does not 
+serve the interests of the State in encouraging tourism.”  S. 
+Stand. Comm. Rep. No. 651- 86, in 1986 Senate Journal, at 1077; 
+Conf. Comm. Rep. No. 70- 86, in 1986 House Journal, at 962.  
+  In 1991, the legislature expanded the definition of 
+“tourism related services” by a dding six specific services and 
+the catch-all clause for “other services rendered directly to 
+the customer or tourist.”  See 1991 Haw. Sess. Laws Act 287, § 1 
+at 695.  The report of the House Committee on Tourism stated 
+that the change was intended to addr ess “inequities [that] 
+appear to exist in existing statutes regarding the assessment of 
+the general excise tax on the revenues of travel-related 
+companies.”  H. Stand. Comm. Rep. No. 140, in 1991 House 
+Journal, at 891.  
+  Together, these statements evince the legislature’s 
+intention that HRS § 237- 18(f) promote tourism by affording 
+favorable tax treatment to parties that facilitate recreational 
+travel to the State.  As this court observed in Travelocity, the 
+legislature made similar statements when enacting HRS § 237-
+18(g), which provides GET apportionment for transient 
+accommodations booked through a travel agency or tour packager, 
+and HRS § 237-18(h), which provides GET apportionment when motor 
+carriers contract together to provide transportation.  See  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+48 Travelocity, 135 Hawai i at 110, 346 P.3d at 179.  We noted that, 
+in enacting HRS § 237- 18(h), the legislature specifically 
+“identified transportation as an element of the Hawaii visitor 
+industry that needed protection.”  Id.  Considering the three 
+provisions collectively, this court observed that “the 
+legislature repeatedly sought to protect tourism- related 
+industries.”  Id. at 111, 346 P.3d at 180.  We therefore held 
+that the analogous HRS § 237- 18(g) GET apportionment provision 
+“should not be given a const rained interpretation that would 
+frustrate the legislative intent to protect the tourism 
+industry.”  Id. 
+  The record indicates the OTCs’ business model is 
+designed to promote efficiency by providing global marketing for 
+Hawaii service providers and connecting customers with excess 
+inventory and availability.  It reflects that the  OTCs are often 
+able to offer customers decreased prices due to the volume of 
+their sales, as well as a central point from which visitors can 
+book a variety of services at once.  The record therefore 
+indicates that the OTCs’  business model makes Hawaii 
+tourism 
+cheaper for consumers, suggesting that the OTCs are the type of 
+companies to which the legislature intended HRS § 237-18(f) to 
+apply.   ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+49   Further, the legislature expressly stated that the 
+1991 expansion of the definition of tourism related services was 
+intended to eliminate “inequities” in the GET treatment of the 
+income of “travel related companies ”--a descriptor that the OTCs 
+indisputably fit.  See Travelocity, 135 Hawai i  at 106, 346 P.3d 
+at 175 (holding that the OTCs are “travel agencies,” which is 
+conventionally defined as, inter alia , “
+an office or enterprise 
+engaged in selling, arranging, or furnishing information about 
+personal transportation or travel” (quoting Webster’s Third New 
+International Dictionary 2433 (unabr. 1993)).   Thus, the 
+legislative history of HRS § 237- 18(f) supports extending GET 
+apportionment broadly to the services offered by the OTCs that 
+are rendered directly to a customer by a service provider w
+ith 
+whom the OTCs divide the proceeds of the transaction.   
+4. Canons of Statutory Construction  
+  “Whether a statutory term is unambiguous  . . . does 
+not turn solely on dictionary definitions of its component 
+words.”  Yates v. United States, 135 S.Ct. 1074, 1081 (2015).  
+Courts consider the context in which the term occurs, including 
+the role it plays in the 
+larger statutory scheme .  Id. at 1081 -
+82.  In situations in which a statute contains specific examples 
+followed by a general term, courts have generally found 
+sufficient ambiguity to turn to cannons of statutory 
+construction in interpreting the general term.  See  Peterson v. ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+50 Hawaii Elec. Light Co., 85 Hawai i 322, 329, 944 P.2d 1265, 1272 
+(1997) (“If the general words are given their full and natural 
+meaning, they would include the objects designated by the 
+specific words, making the latter superfluous.” (quoting 
+Sutherland Statutory Construction § 47.17 (2000))), superseded 
+on other grounds by HRS § 269 -15.5 (2007).   
+  The primary cannon employed in such instances is 
+ejusdem generis,  which translates as “of the same kind or 
+class.”  Ejusdem Generis
+, Black’s Law Dictionary  (10th ed. 
+2014).  “The doctrine of ejusdem generis states that where 
+general words follow specific words in a statute, those general 
+words are construed to embrace only objects similar in nature to 
+those objects enumerated by the preceding specific words.”  
+Asato v. Procurement Policy Bd., 132 Hawaii 333, 352, 322 P.3d 
+228, 247 (2014) (quoting Singleton v. Liquor Comm’n of Hawaii, 33
+                     
+ 33 This court has also employed a related doctrine, noscitur a 
+sociis (literally, “it is known by its associates”) which we have freely 
+translated as “words of a feather flock together” or “ the meaning of a word 
+is to be judged by the company it keeps.”  Noscitur a Sociis, Black’s Law 
+Dictionary  (10th ed. 2014); State v. Deleon, 72 Haw. 241, 244, 813 P.2d 1382, 
+1384 (1991).  The doctrine “provides that the meaning of words may be 
+determined by reference to their relationship with other associated words and 
+phrases.”  Peterson, 85 Hawai i at 328, 944 P.2d at 1271.  Although the 
+parties’ briefs in this case analyze ejusdem generis  and noscitur a sociis  as 
+separate doctrines, this court has held that ejusdem generis  is an applied 
+“variation” of noscitur a sociis.  Id.; see also  Noscitur a Sociis, Black’s 
+Law Dictionary (10th ed. 2014) (“The ejusdem generis  rule is an example of a 
+broader linguistic rule or practice to which reference is made by the Latin 
+tag noscitur a sociis .” (quoting Rupert Cross, Statutory Interpretation  
+118 (1976) ). ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+51 111 Hawai i 234, 242 n.14, 140 P.3d 1014, 1022 n.14 (2006)) 
+(internal quotations omitted).   Courts employing the doctrine 
+identify the commonality shared by the enumerated examples and 
+use this commonality to limit the reach of the general term.  
+See State v. Kahalewai, 56 Haw. 481, 489, 541 P.2d 1020, 1026 
+(1975). 
+  As the OTCs argue , the Director has consistently 
+failed to identify a commonality shared by all  of the tourism 
+related services identified in the statute--“catamaran cruises, 
+canoe rides, dinner cruises, lei greetings, transportation 
+included in a tour package, sightseeing tours,  . . . admissions 
+to luaus, dinner shows, extravaganzas, [and] cultural and 
+educational facilities.”   Both of the commonalities argued by 
+the Director--that the activities are done primarily for 
+enjoyment and that the services are ends in themselves rather 
+than a means of enjoying other activities
+--are belied by the 
+inclusion of “transporta tion included in a tour package, ” which 
+fits neither description.  Thus, the only clear commonality 
+among all of the enumerated tourism related services is that 
+they are marketed and sold primarily (albeit not exclusively) to 
+tourists.  34
+                     
+ 34 The tax court instead determined that the commonality between the 
+ten items was that they “were part and parcel of . . . tour packages,” and 
+thus concluded that vehicle rentals are tourism  related services only when 
+ 
+(continued . . .)  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+52   Notwithstanding the general applicability of ejusdem 
+generis, this court has held that the cannons of statutory 
+construction are only “aids in ascertaining and giving effect to 
+the legislative intent, [and] these rules cannot be used in 
+contravention of the purpose of the legislature by confining the 
+operation of the statute within narrower limits than intended.”  
+State v. Prevo, 44 Haw. 665, 668 –69, 361 P.2d 1044, 1047 (1961); 
+see also Holi v. AIG Hawaii Ins. Co., 113 Hawai i 196, 204, 150 
+P.3d 845, 853 (Ct. App. 2007) (“The doctrine of ejusdem generis 
+‘is only app
+licable where legislative intent or language 
+expressing that intent is unclear.’” (quoting Sutherland 
+Statutory Construction  § 47.18 (2000)).  The cannons are also 
+not a bar to applying the “sense of the words used which best 
+harmonizes with the design of the statute or the end in view.”  
+Prevo, 44 Haw. at 669, 361 P.2d at 1047.  Thus, this court is 
+not required to employ ejusdem generis
+ if it concludes the 
+                                                                        
+(. . . continued) 
+ 
+included in a travel package.  Although there are some indications that the 
+1991 bill expanding the definition of tourism  related services was initially 
+introduced to add, inter alia , “transportation that is included in tour 
+packages sold for package prices[] and other incidental services included 
+within tour packages,” see H. Stand. Comm. Rep. No. 140, in 1991 House 
+Journal, at 891,  the bill went through substantial revisions prior to 
+enactment.  See  H. Stand. Comm. Rep. No. 683, in 1991 House Journal, at 1081  
+(noting revisions to clarify the provision covered “services rendered to the 
+customer or tourist directly”).  Presently, there is no indication in the 
+text of the statute that it is limited to services included in tour packages, 
+and both parties agree that “[a] ‘stand -alone’ luau is included within HRS § 
+237-18(f) to the same extent as a luau purchased as part of a package.”  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+53 legislature clearly intended HRS § 237- 18(f) to include or 
+exclude the assessed rental car transactions or if it finds that 
+the doctrine is in disharmony with the design of the statute. 
+  Here, HRS § 237-18(f) provides that tourism services 
+may be “rendered directly to the customer or tourist,”  implying 
+that it is not a prerequisite for the term ’s application that 
+the service be primarily marketed and sold to tourists.  
+(Emphasis added.)  And, a s stated, the provision is limited by 
+two other requirements: the service must be arranged by a travel 
+agency or tour packager,  and the income from the transaction 
+must be divided between the arranger and the service provider.  
+Our decision in Travelocity established that, to qualify as a 
+travel agency, a business must
+ generally be “engaged in selling, 
+arranging, or furnishing information about personal 
+transportation or travel” or “engaged in selling and arranging 
+transportation, accommodations, tours and trips for travelers.”  
+135 Hawai i35 at 106, 346 P.3d at 175
+.   Thus, applying the literal 
+meaning of the catch- all clause of HRS § 237-18(f)-- that is, 
+interpreting the clause to encompass all services provided 
+directly to a customer-- does not create an unbounded GET 
+                     
+ 35 (Quoting Travel Agency, Webster ’s Third New International 
+Dictionary  2433 (unabr. 1993); Travel Agency, Merriam –Webster, 
+http://www.merriam -webster.com/dictionary/travel%20agency (last visited Sept. 
+17, 2014).)  ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+54 exemption.  The provision covers  only transactions  by a party 
+whose business model centers on arranging travel services, and 
+only when those services are rendered directly to the consumer 
+by a third-party service provider with whom the proceeds are 
+divided.   
+ 
+ Such an interpretation avoids  the unequal tax 
+treatment disfavoring travel facilitators that would result if 
+this court were to apply ejusdem generis.  Many services 
+commonly used by tourists would likely not qualify as primarily 
+marketed or sold to tourists-- which is, as stated, the only 
+clear commonality shared by all the enumerated examples of 
+“tourism related services” included in HRS § 237 -18(f).  For 
+example, spa or massage treatments are in all likelihood enjoyed 
+by locals and tourists in similar measure.  Under an ejusdem 
+generis interpretation of HRS § 237-18(f), a spa service sold 
+directly to a customer by the spa provider would be subject to 
+GET only once.  By contrast, the same spa service sold to a 
+tourist for the same price as part of a package arranged by a 
+travel agent would be taxed twice--once on the full amount 
+tendered to the arranger
+ and once on the amount remitted to the 
+spa provider.   
+  As discussed supra, the legislature enacted the 1991 
+expansion of HRS § 237-18(f) that added the catch-all clause to 
+the definition of tourism related services specifically to ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+55 correct “inequities [that] appear to exist in existing statutes 
+regarding the assessment of the general excise tax on the 
+revenues of travel- related companies.”   H. Stand. Comm. Rep. No. 
+140, in 1991 House Journal, at 891.   It is apparent that 
+applying the doctrine of ejusdem generis would produce a result 
+that would be inconsistent with the legislative goal of 
+promoting Hawai i tourism by providing special tax treatment to 
+companies that facilitate travel to the State.   
+  Given these indications of incompatibility, we decline 
+to apply the doctrine of ejusdem generis, and instead interpret 
+“tourism related services” in accordance with its plain text and 
+legislative history 
+to include all services rendered directly to 
+customers that satisfy HRS § 237-18(f) ’s other requirements for 
+GET apportionment.
+  Accordingly, the provision of rental 
+vehicles is a “tourism  related service” within the meaning of 
+the statute, and the tax court erred by failing to apply GET 
+apportionment to the assessed stand -alone rental car 
+transactions.  
+IV. CONCLUSION 
+  Based on the foregoing discussion, we  hold that the 
+claim preclusion component of res judicata is not an available 
+defense against the government’s sovereign power of taxation, 
+and all assessments in this case are therefore considered on the 
+merits.  We further hold that car rentals are tourism related ***FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER***  
+56 services that qualify for GET apportionment under these 
+circumstances.  Accordingly, we  vacate the tax court’s 
+Stipulated Order and Final Judgment Disposing of All Issues and 
+Claims of All Parties and remand this case for recalculation of 
+the OTCs’ GET liability  and associated penalties and interest.  
+Paul Alston 
+Ronald I. Heller 
+Pamela Bunn 
+for petitioners/taxpayers-
+appellants-appellees-c ross-
+appellants 
+ 
+Gary Cruciani, pro hac vice  
+Steven D. Wolens, pro hac vice 
+Kenneth T. Okamoto 
+Robert A. Marks 
+Cynthia M. Johiro 
+Warren Price III 
+Hugh R. Jones 
+for petitioner/appellee-
+appellant-cross-a ppellee 
+ /s/ Mark E. Recktenwald  
+/s/ Paula A. Nakayama  
+/s/ Sabrina S. McKenna  
+/s/ Richard W. Pollack  
+/s/ Michael D. Wilson  
+Thomas Yamachika 
+for amicus curiae 
+Tax Foundation of Hawaii 

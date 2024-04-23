@@ -1,0 +1,435 @@
+FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+  The Honorable Victoria S. Marks presided.1IN THE INTERMEDIATE COURT OF APPEALS
+OF THE STATE OF HAWAI #I
+---o0o---
+C. BREWER AND COMPANY, LIMITED, a Hawaii Corporation,
+Plaintiff-Appellee,
+v.
+HAWAII INSURANCE GUARANTY ASSOCIATION, a statutorily
+created non-profit unincorporated legal entity,
+Defendant-Appellant
+NO. 29342
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT
+(CIVIL NO. 05-1-0543)
+APRIL 29, 2010
+NAKAMURA, C.J., FOLEY AND FUJISE, JJ.
+OPINION OF THE COURT BY FOLEY, J.
+Defendant-Appellant Hawaii Insurance Guaranty
+Association (HIGA) appeals from the Stipulated Final Judgment
+filed on August 20, 2008 in the Circuit Court of the First
+Circuit1 (circuit court).  The circuit court entered final
+judgment in favor of Plaintiff-Appellee C. Brewer and Company,
+Limited (C. Brewer) and awarded C. Brewer damages in the amount
+of $106,150.11.  The Stipulated Final Judgment incorporated by
+reference the circuit court's "Order Granting Plaintiff's Motion
+for Partial Summary Judgment Filed May 10, 2006 on Stipulated
+Facts Filed December 4, 2006" (Order Granting MPSJ) filed on
+December 28, 2006, and "Rule 54(b) Judgment" filed on January 11,
+2007.
+On appeal, HIGA contends the circuit court erred in
+granting C. Brewer's May 10, 2006 Motion for Partial Summary
+Judgment (MPSJ) and disputes the portion of the Rule 54(b)FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+  In Bolt v. Merrimack Pharmaceuticals, Inc., 503 F.3d 913, 917 n.62
+(9th Cir. 2007) (citations omitted), the United States Court of Appeals for
+the Ninth Circuit stated the following regarding GAAP:
+GAAP is not found in a single source.  Instead, in the United
+States, GAAP consists of a hodgepodge of accounting sources, which
+find their respective places in the hierarchical structure
+established by the American Institute of Certified Public
+Accountants ("AICPA").  There are five categories in the GAAP
+hierarchy.  Officially established accounting principles, referred
+to as Category (a) authority, are the highest level and include
+the Financial Accounting Standards Board ("FASB") Statements of
+Financial Accounting Standards and Interpretations, Accounting
+Principles Board ("APB") Opinions, and AICPA Accounting Research
+Bulletins. . . . Category (b) authority, the next highest level,
+consists of FASB Technical Bulletins and, if cleared by FASB,
+AICPA Industry Audit and Accounting Guides and AICPA Statements of
+Position.  The third level of authority, Category (c), consists of
+AICPA Accounting Standards Executive Committee Practice Bulletins
+that have been cleared by FASB and consensus positions of the FASB
+Emerging Issue Task Force.  Category (d), the fourth level of
+authority, consists of AICPA accounting interpretations and
+implementation guides published by the FASB staff, and practices
+that are widely recognized and prevalent either generally or in
+the industry.  In the absence of established accounting
+principles, auditors may consider accounting literature in the
+fifth and final level of authority, which includes FASB Statements
+of Financial Accounting Concepts; APB Statements; AICPA Issues
+Papers; International Accounting Standards of the International
+Accounting Standards Committee ("IASC"); Governmental Accounting
+Standards Board ("GASB") Statements, Interpretations, and
+Technical Bulletins; pronouncements of other professional
+associations or regulatory agencies; AICPA Technical Practice
+Aids; and accounting textbooks, handbooks, and articles.
+2Judgment stating that C. Brewer "is entitled to recover under
+[Hawaii Revised Statutes (HRS)] § 431:16-101 et seq., the amount
+of covered claims that would have been paid by the insolvent
+excess workers['] compensation insurer had it not become
+insolvent."  HIGA further contends C. Brewer is not entitled to
+recover under the Hawaii Insurance Guaranty Association Act (the
+Act), codified by HRS § 431:16-101 et seq., because C. Brewer's
+"net worth" on December 31, 2002 exceeded the $25 million
+statutory threshold for recovery.  HIGA argues that "net worth,"
+according to HRS § 431:16-105 (2005 Repl.), should be calculated
+according to a "common sense," dictionary, and "universally
+accepted" definition (hereinafter, "the common sense approach"),
+and according to "the common sense approach," C. Brewer's net
+worth exceeded the threshold.  HIGA's arguments are premised on
+the notion that generally accepted accounting principles (GAAP)2
+and "the common sense approach" are incompatible and that "netFOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+3worth" under HRS § 431:16-105 may not be calculated according to
+GAAP.
+We disagree with HIGA that "net worth" according to HRS
+§ 431:16-105 may not be calculated according to GAAP and affirm
+the Stipulated Final Judgment.
+I.
+The Hawai #i legislature created HIGA to provide claims
+coverage to certain insureds if their insurers become insolvent
+and claims covered under existing policies arise.  Villagonza v.
+Hawaii Ins. Guar. Ass'n, 70 Haw. 406, 408, 772 P.2d 1193, 1195
+(1989); see also HRS § 431:16-108 (2005 Repl.) (describing HIGA's
+powers and duties).  HIGA defrays the cost of covering the claims
+through assessments levied on its members.  Villagonza, 70 Haw.
+at 409-10, 772 P.2d at 1195.  However, HIGA is authorized to pay
+only "covered claims," HRS § 431:16-102 (2005 Repl.), which are
+defined by HRS § 431:16-105:  
+"Covered claim":
+(1) Means an unpaid claim, including one for unearned
+premiums, submitted by a claimant, that arises out of
+and is within the coverage and is subject to the
+applicable limits of an insurance policy to which this
+part applies issued by an insurer, if the insurer
+becomes an insolvent insurer after July 1, 2000, and
+. . . .
+(2) Shall not include:
+. . . .
+(D) Any first party claims by an insured whose net
+worth exceeds $25,000,000 on December 31 of the
+year prior to the year in which the insurer
+becomes an insolvent insurer; provided that an
+insured's net worth on that date shall be deemed
+to include the aggregate net worth of the
+insured and all of its subsidiaries as
+calculated on a consolidated basis[.] 
+(Emphasis added.)
+In the instant case, the following facts are
+undisputed.  C. Brewer bought excess workers' compensation
+insurance coverage from The Home Insurance Company (Home).  On
+June 13, 2003, the New Hampshire Superior Court declared Home
+insolvent.  By December 31, 2004, C. Brewer had paid out roughly
+$322,000 in excess workers' compensation claims, which would have
+been covered under the Home policy.  C. Brewer consequentlyFOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+4turned to HIGA for reimbursement.  To prove its "net worth" as of
+December 31, 2002, C. Brewer submitted Combined Financial
+Statements for fiscal years ending June 30, 2002 and 2003 to
+HIGA.  Although these statements indicated that C. Brewer's total
+equity interest on December 31, 2002 was $15,954,000, HIGA
+treated a $116 million debt that Buyco (C. Brewer's parent
+company) owed C. Brewer as an asset and concluded that
+C. Brewer's "net worth" exceeded $25 million.  On September 28,
+2004, HIGA denied C. Brewer's claim.
+On March 31, 2005, C. Brewer filed a complaint against
+HIGA in circuit court, alleging that HIGA was statutorily
+obligated to reimburse C. Brewer for the losses it suffered
+because of Home's insolvency.  In its April 22, 2005 answer, HIGA
+stated that it was without knowledge or information sufficient to
+form a belief as to the allegation, except as to its rights,
+duties, and obligations as defined in HRS Chapter 431, Article
+16.
+C. Brewer filed its MPSJ, and HIGA filed a memorandum
+in opposition.  In support of its MPSJ, C. Brewer presented
+expert opinion that C. Brewer's "net worth" was calculated
+according to GAAP.  In support of its opposition memorandum, HIGA
+presented expert testimony that C. Brewer's "net worth" should be
+calculated according to other principles.
+On December 4, 2006, the parties filed Stipulated
+Facts, which included the following:  (1) at all relevant times,
+C. Brewer was a wholly owned subsidiary of Buyco; (2) Buyco
+approved a plan to liquidate and dissolve; (3) as part of this
+plan, C. Brewer made distributions to Buyco totaling $116
+million; (4) Buyco would not be able to pay back these
+distributions; (5) the fair market value of C. Brewer's assets as
+of December 31, 2002 exceeded $25 million; (6) C. Brewer's
+audited financial statements and related total equity interest
+computations were prepared in accordance with GAAP; and (7)
+C. Brewer's auditor's position was that GAAP required that
+C. Brewer determine its total equity interest by offsetting the
+$116 million due from Buyco.FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+5At a hearing on the MPSJ on December 22, 2006, the
+circuit court orally held that GAAP should be used to determine
+net worth pursuant to HRS § 413:16-105, stating that GAAP is
+"really the only uniform set of accounting principles that
+apply."  The circuit court filed the Order Granting MPSJ and
+entered the Rule 54(b) Judgment.  HIGA appealed.  This court
+dismissed the appeal because the circuit court had failed to file
+an appealable judgment.  On August 20, 2008, the circuit court
+filed the Stipulated Final Judgment, from which HIGA timely
+appealed.
+II.
+A. Summary Judgment
+The Hawai #i Supreme Court has stated that an appellate
+court 
+reviews the circuit court's grant of summary judgment de
+novo.  Price v. AIG Hawai# i Ins. Co., 107 Hawai# i 106, 110,
+111 P.3d 1, 5 (2005).  Summary judgment is appropriate "if
+the pleadings, depositions, answers to interrogatories, and
+admissions on file, together with the affidavits, if any,
+show that there is no genuine issue as to any material fact
+and that the moving party is entitled to a judgment as a
+matter of law."  [Hawai# i Rules of Civil Procedure] Rule
+56(c).
+Gillan v. Gov't Employees Ins. Co., 119 Hawai #i 109, 114, 194
+P.3d 1071, 1076 (2008).
+B. Conclusions of Law
+[The appellate] court reviews the trial court's COLs
+de novo.  A COL is not binding upon an appellate court and
+is freely reviewable for its correctness.  Moreover, a COL
+that is supported by the trial court's FOFs and that
+reflects an application of the correct rule of law will not
+be overturned.
+Bhakta v. County of Maui, 109 Hawai #i 198, 208, 124 P.3d 943, 953
+(2005) (internal quotation marks, citations, and brackets in
+original omitted).
+C. Statutory Interpretation
+Questions of statutory interpretation are questions of
+law to be reviewed de novo under the right/wrong standard.
+Our statutory construction is guided by the following
+well established principles:
+[When construing a statute,] our foremost obligation
+is to ascertain and give effect to the intention of
+the legislature, which is to be obtained primarily
+from the language contained in the statute itself. 
+And we must read statutory language in the context ofFOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+6the entire statute and construe it in a manner
+consistent with its purpose.
+When there is doubt, doubleness of meaning, or
+indistinctiveness or uncertainty of an expression used
+in a statute, an ambiguity exists.
+In construing an ambiguous statute, the meaning
+of the ambiguous words may be sought by examining the
+context, with which the ambiguous words, phrases, and
+sentences may be compared, in order to ascertain their
+true meaning.  Moreover, the courts may resort to
+extrinsic aids in determining legislative intent.  One
+avenue is the use of legislative history as an
+interpretive tool.
+[The appellate] court may also consider the
+reason and spirit of the law, and the cause which
+induced the legislature to enact it to discover its
+true meaning.
+Lingle v. Hawai #i Gov't Employees Ass'n, AFSCME, Local 152, AFL-
+CIO, 107 Hawai #i 178, 183, 111 P.3d 587, 592 (2005) (internal
+quotation marks, brackets in original, and ellipses omitted)
+(quoting Guth v. Freeland, 96 Hawai #i 147, 149-50, 28 P.3d 982,
+984-85 (2001)).
+III.
+A. "Net worth" under HRS § 431:16-105 may be
+calculated according to GAAP.
+HIGA and C. Brewer fundamentally disagree on the
+meaning and method of valuing "net worth."  C. Brewer argues that
+"net worth" under HRS § 431:16-105 refers to a company's
+shareholder's equity and is "book" or "balance sheet" net worth,
+as indicated on an entity's financial statements prepared in
+accordance with GAAP.  C. Brewer agrees with HIGA that under
+GAAP, "net worth" means recorded assets minus recorded
+liabilities; however, C. Brewer argues that its assets,
+calculated according to GAAP, do not include the $116 million due
+from Buyco.
+HIGA argues the following:  according to the plain
+language of HRS § 431:16-105, the term "net worth" should be
+calculated according to "the common sense approach"; according to
+that approach, C. Brewer's assets should be valued at fair market
+value (FMV) and the $116 million owed to C. Brewer by Buyco
+should be characterized as an asset; and taking into account theFOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+7moneys owed by Buyco and/or the FMV of C. Brewer's assets,
+C. Brewer's "net worth" exceeded the $25 million threshold. 
+Alternatively, HIGA claims that according to "the common sense
+approach," C. Brewer's assets and liabilities at the relevant
+time, as reported by C. Brewer on combined balance sheets
+(attached to MPSJ as Exhibit "C"), may be calculated to arrive at
+C. Brewer's net worth and according to the balance sheets,
+C. Brewer's "total liabilities" of $75 million subtracted from
+the company's reported "net earnings" of $109 million results in
+a net worth amount exceeding $25 million.  HIGA does not
+significantly dispute that calculated according to GAAP,
+C. Brewer's net worth at the relevant time was within the
+threshold set forth in HRS § 410:16-105; rather, HIGA argues that
+"net worth" under HRS § 431:16-105 may not be calculated
+according to GAAP.
+Our review is limited to a single issue:  whether the
+"net worth" of a company, such as C. Brewer, may be determined
+according to GAAP for the purposes of determining whether the
+company's claim is "covered" under HRS § 431:16-105.  If the
+answer to this question is yes, the circuit court did not err in
+issuing the Stipulated Final Judgment.
+We look to the plain language of the Act to discern the
+intended meaning and method of valuing "net worth."  See Lingle,
+107 Hawai #i at 183, 111 P.3d 592.  The Act does not define "net
+worth," except to state that "an insured's net worth on that date
+[December 31 of the year prior to the year in which the insurer
+becomes insolvent] shall be deemed to include the aggregate net
+worth of the insured and all of its subsidiaries as calculated on
+a consolidated basis."  HRS § 431:16-105(2)(D).  When a term in a
+statute is undefined, we also look to dictionaries to determine
+the term's ordinary meaning.  Estate of Roxas v. Marcos, 121
+Hawai#i 59, 66, 214 P.3d 598, 605 (2009).  Black's Law Dictionary
+1639 (8th ed. 2004) defines "net worth" as "[a] measure of one's
+wealth, [usually] calculated as the excess of total assets over
+total liabilities."  Additionally, we interpret terms in a
+statute with reference to the statute's policy and purpose. FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+8Lingle, 107 Hawai# i at 183, 111 P.3d 592.  HRS § 431:16-102
+expressly indicates that the purpose of the Act is "to avoid
+excessive delay in payment and, to the extent provided in this
+part, to minimize financial loss to claimants or policyholders
+because of the insolvency of an insurer."  These interpretative
+tools provide us with little guidance in addressing the issue in
+this case.
+Hawai#i courts have not addressed this issue; hence, we
+look to case law in other jurisdictions for assistance.  See,
+e.g., Sierra Club v. Dep't of Transp. of State of Hawai #i, 120
+Hawai#i 181, 200-03, 202 P.3d 1226, 1245-48 (2009) (where Hawai# i
+Supreme Court considered case law in other jurisdictions to
+interpret constitutional provision because there were no cases on
+point in this jurisdiction); County of Hawai #i v. C & J Coupe
+Family Ltd. P'ship, 119 Hawai #i 352, 369, 198 P.3d 615, 632
+(2008) (stating that a survey of opinions from other
+jurisdictions was useful where no Hawai #i case addressed whether
+abatement was a question of subject matter jurisdiction). 
+Although the act at issue in Sanders v. Jackson, 209
+F.3d 998 (7th Cir. 2000), is dissimilar to the Act in this case,
+Sanders provides guidance in construing "net worth."  Sanders
+concerned the meaning of the term under the portion of the Fair
+Debt Collection Practices Act (FDCPA) limiting recovery of class
+action damages to part of a debt collector's "net worth."  Id. at
+999.  The FDCPA does not define "net worth."  Id. at 1000.  The
+United States Court of Appeals for the Seventh Circuit held that
+"net worth" referred to the debt collector's "book" or "balance
+sheet" net worth.  Id. at 1000-01.  In so holding, the Seventh
+Circuit noted that federal courts have similarly interpreted
+parallel "net worth" provisions in many federal statutes,
+including the Equal Access to Justice Act (EAJA):
+One of these . . . types of statutes is the [EAJA],
+which permits parties that prevail against the government to
+obtain the costs of litigation, but only if the individual's
+"net worth does not exceed $2,000,000."  5 U.S.C.
+§ 504(b)(1)(B).  In Continental Web Press Inc. v. N.L.R.B.,
+we examined the term "net worth" in the context of this EAJA
+provision. 767 F.2d 321, 323 (7th Cir. 1985).  There the
+NLRB [National Labor Relations Board] argued that in
+calculating net worth, Continental's assets should be valued
+at cost rather than cost minus depreciation.  We held thatFOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+9the proper valuation entails a depreciation of assets
+because that is the procedure prescribed by [GAAP].
+Congress did not define the statutory term
+"net worth."  It seems a fair guess that if it
+had thought about the question, it would have
+wanted the courts to refer to [GAAP].  What
+other guideline could there be?  Congress would
+not have wanted us to create a whole new set of
+accounting principles just for use in cases
+under the [EAJA].
+Id.  This holding is consistent with our prior holding in
+Telegraph Savings and Loan Association v. Schilling that
+GAAP should also be used to determine a bank's net worth as
+that term is defined by federal banking statutes. 703 F.2d
+1019, 1027-28 (7th Cir. 1983).  Not surprisingly, when the
+Ninth Circuit was asked to define net worth for purposes of
+the EAJA, it also held that GAAP should govern.  American
+Pac. Concrete Pipe Co., Inc. v. N.L.R.B., 788 F.2d 586, 591
+(9th Cir. 1986) (adopting this reasoning and holding of
+Continental Web Press). 
+Implicit in these holdings is the conclusion that the
+statutory term net worth means book net worth or balance
+sheet net worth, because GAAP has meaning only in the
+context of financial statement reporting –- GAAP dictate the
+standards for reporting and disclosing information on an
+entity's financial statements.  While those cases involved
+different statutes, we believe their reasoning applies
+equally to the FDCPA.  Accordingly, because there is no
+indication in the FDCPA that the term net worth should be
+used in anything but its normal sense, we also look to book
+net worth or balance sheet net worth as reported
+consistently with GAAP.
+209 F.3d at 1001 (footnote omitted).  We find the reasoning in
+Sanders persuasive.
+In the instant case, in light of the foregoing and the
+Hawai#i legislature's silence on the meaning and means of valuing
+"net worth" under HRS § 431:16-105, we hold that "net worth" may
+be "book" or "balance sheet" net worth as governed by GAAP.  This
+interpretation furthers the explicit purpose of the Act -- "to
+avoid excessive delay in payment and . . . to minimize financial
+loss to claimants or policyholders because of the insolvency of
+an insurer" -- because it provides a uniform system for
+efficiently determining eligibility under the Act.  HRS § 431:16-
+102.
+In so holding, we note that GAAP comports with the
+definition of "net worth" set forth in Black's Law Dictionary and
+HIGA has created a false dilemma by distinguishing between the
+two.  See, e.g., Broaddus v. U.S. Army Corps of Eng'rs, 380 F.3d
+162, 166-67 (4th Cir. 2004) (holding that unambiguous meaning ofFOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+10"net worth" under [EAJA] is total assets less total liabilities
+according to GAAP); Sanders, 209 F.3d at 999-1002 (holding that
+plain meaning of "net worth" under FDCPA is total assets less
+total liabilities according to GAAP, which is balance-sheet or
+book net worth).  The main disagreement between the parties in
+this case concerns not whether "net worth" is assets minus
+liabilities, but the "assets" part of that equation, i.e., what
+value to assign a company's assets and whether an amount of money
+owed to a company should be considered an asset.  
+We also note that numerous other HRS statutes call for
+financial accounting according to GAAP.  See, e.g., HRS §§ 489D-6
+(2008 Repl.) (providing that a person licensed under Chapter
+489D, "Money Transmitters Act," shall have a certain net worth,
+calculated according to GAAP); 412:3-108 (2004 Repl.) ("Every
+Hawaii financial institution shall follow [GAAP], except as
+otherwise prescribed by the appropriate federal regulatory
+agency); 40-2 (2009 Repl.) (stating that the University of
+Hawai#i and Hawai# i Department of Education may install accounting
+systems that conform with GAAP); 103D-314 (1993) (providing that
+except with respect to firm fixed-price contracts, no contract by
+a proposed contractor with the government shall be used unless it
+has been determined that "[t]he proposed contractor's accounting
+system is adequate to allocate costs in accordance with [GAAP]");
+302B-1 (2007 Repl.) (partly defining the "organizational
+viability" of a charter school as "operates in accordance with
+[GAAP]"); 323F-22 (Supp. 2009) (stating that the Hawaii Health
+Systems Corporation "shall engage a certified public accountant
+to conduct an annual audit of its financial affairs, books, and
+records in accordance with [GAAP]"); 412:3-112 (2004 Repl.) &
+412:1-109 (2004 Repl.) (providing that trust companies shall file
+written reports with the commissioner of financial institutions 
+containing audited financial statements prepared in accordance
+with GAAP); 449-15 (1993) & 449-1 (1993) (stating that an escrow
+depository must submit to the commissioner of financial
+institutions its annual financial statements, prepared in
+accordance with GAAP); 466-5 (Supp. 2009) & 466-4 (1993 & Supp.FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+112009) (providing that the state board of public accountancy may
+license and grant the designation of "certified public
+accountant" to any person who has completed "one thousand five
+hundred chargeable hours in the performance of audits involving
+the application of [GAAP] and auditing standards earned while in
+public accounting practice"). 
+Last, we note that HIGA has not provided any persuasive
+authority for the notion that GAAP may not be used to calculate
+"net worth" under HRS § 413:16-105, and we find none.
+Accordingly, we hold that the "net worth" of a company,
+such as C. Brewer, may be valued according to GAAP for the
+purposes of determining whether the company's claim is "covered"
+under HRS § 431:16-105.  The circuit court did not err by issuing
+the Stipulated Final Judgment in favor of C. Brewer.
+B. Remaining points
+HIGA's remaining points of error are premised on the
+notion that "net worth" may not be calculated according to GAAP,
+under HRS § 431:16-105.  Because we have already held that the
+converse is true, we need not address these points.
+IV.
+The Stipulated Final Judgment filed August 20, 2008 in
+the Circuit Court of the First Circuit is affirmed. 
+On the briefs:
+Kevin P.H. Sumida
+(Sumida & Tsuchiyama)
+for Defendant-Appellant.
+Gary G. Grimmer
+(Carlsmith Ball LLP)
+for Plaintiff-Appellee.

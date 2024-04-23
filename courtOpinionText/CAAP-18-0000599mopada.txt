@@ -1,0 +1,786 @@
+     
+   NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Electronically Filed 
+Intermediate Court of Appeals CAAP-18-0000599 15-MAY-2020 07:50 AM 
+NO. CAAP-18-0000599 
+IN THE INTERMEDIATE COURT OF APPEALS
+OF THE STATE OF HAWAI# I  
+STATE OF 
+HAWAI# I,
+Plaintiff-Appellee,
+v. 
+SUSAN E. SHAW,
+Defendant-Appellant 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT 
+(CRIMINAL NO. 1CPC-17-0001118) 
+MEMORANDUM OPINION 
+(By:  Ginoza, Chief Judge, Chan and Wadsworth, JJ.) 
+Defendant-Appellant Susan E. Shaw (Shaw) appeals from 
+the Judgment of Conviction and Sentence (Judgment), entered on 
+July 11, 2018, in the Circuit Court of the First Circuit (circuit
+court).  Plaintiff-Appellee State of Hawai# i (State) charged 
+Shaw by indictment with one count of Computer Fraud in the Third Degree (Computer Fraud 3), in violation of Hawaii Revised 
+Statutes (HRS) § 708-891.6 (2014),  and one count of Fraudulent 
+21 
+1 The Honorable Fa'auuga L. T o'oto'o presided. 
+2 HRS § 708-891.6 provides: 
+[§708-891.6]   Co mputer  fraud  in  the  third  degree.   (1)  A 
+person  commits  the  offense  of  computer  fraud  in  the  third
+degree  if  the  person  knowingly  accesses  a  computer,  computer
+system,  or  computer  network  with  the  intent  to  commit  the
+offense  of  theft  in  the  third  or  fourth  degree.           
+             
+        
+          
+           
+ 
+        
+          
+              
+            
+         
+      
+          
+          
+          
+      
+        
+         
+       
+      
+    
+           
+          
+          
+         
+          
+ 
+          
+          
+         
+      . . . NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Use of a Credit Card (Credit Card Fraud), in violation of HRS 
+§ 708-8100(1)(c) (2014).  The Judgment reflects that Shaw was 
+ultimately convicted of both counts as charged. 3
+As explained below, we conclude that the plain language
+of HRS § 708-8100(2) does not allow the offense of Credit Card Fraud to be prosecuted as a class C felony based on an 
+aggregation of the values of multiple transactions involving more
+than one credit card or credit card number. Shaw's conviction 
+for Credit Card Fraud in Count II must therefore be vacated and  
+ 
+(2) Computer fraud in the third degree is a class C
+felony. 
+The offense of Theft in the Third Degree (Theft 3) is defined by HRS
+§ 708-832 (Supp. 2016), which provides, in relevant part: 
+§708-832 Theft in the third degree. (1) A person
+commits the offense of theft in the third degree if the person
+commits theft: 
+(a) Of property or services the value of which exceeds$250[.] 
+HRS § 708-830 (2014) provides, in relevant part: "A person commits
+theft if the person . . . : (1) Obtains or exerts unauthorized control overproperty. A person obtains or exerts unauthorized control over the property ofanother with intent to deprive the other of the property." 
+3 HRS § 708-8100 provides, in relevant part: 
+§708-8100 Fraudulent use of a credit card. (1) A
+person commits the offense of fraudulent use of a credit card,if with intent to defraud the issuer, or another person ororganization providing money, goods, services, or anythingelse of value, or any other person, the person: 
+(
+c) Uses or attempts or conspires to use a credit cardnumber without the consent of the cardholder for the purpose of obtaining money, goods, services,or anything else of value. 
+(2) Fraudulent use of a credit card is a class C felony
+if the value of all money, goods, services, and other thingsof value obtained or attempted to be obtained exceeds $300 inany six-month period. For purposes of this section, eachseparate use of a credit card that exceeds $300 constitutes aseparate offense. 
+(3) Fraudulent use of a credit card is a misdemeanor, if
+the value of all money, goods, services, and other things ofvalue obtained or attempted to be obtained does not exceed$300 in any six-month period. 
+2         
+     NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+the circuit court erred in failing to dismiss Count II for lack 
+of sufficient evidence to establish probable cause. We further 
+conclude that, under the post-conviction liberal construction 
+standard, the Indictment sufficiently charged Shaw in Count I 
+with Computer Fraud 3 based on an aggregation of the values of 
+multiple transactions involving multiple credit cards, even 
+without expressly alleging that Shaw engaged in a scheme or 
+course of conduct. However, the circuit court erred in failing 
+to submit to the jury the factual question of whether the 
+evidence disclosed one general intent or separate and distinct 
+intents. Accordingly, this case must be remanded for a new trial 
+on Count I. 
+I. BACKGROUND 
+A. Charges 
+The charges arise from allegations that, over the 
+course of four months between January 16, 2017, through and 
+including May 18, 2017, Shaw falsely inflated the tip amounts of 
+105 customers' bills at Square Barrels, the restaurant where Shaw 
+worked as a server.4 Over the course of the four months, Shaw 
+was alleged to have falsely inflated tips totaling over $700. 
+On August 15, 2017, the State charged Shaw by 
+Indictment, as follows: 
+COUNT I: On or about January 16, 2017, through and
+including May 18, 2017, in the City and County of Honolulu,
+State of Hawaii, Susan E. Shaw, did knowingly access acomputer, computer system, or computer network with theintent to commit the offense of theft in the third degree,thereby committing the offense of Computer Fraud in theThird Degree in violation of Section 708-891.6 of the HawaiiRevised Statutes. 
+A person commits the offense of theft in the third
+degree if she intentionally obtains and exerts unauthorizedcontrol over property of another, the value of which exceedsTwo Hundred and Fifty Dollars ($250.00), with intent todeprive the other of property valued in excess of TwoHundred and Fifty Dollars ($250.00). Sections 708-832(1)(a)and 708-830(1) of the Hawaii Revised Statutes. (HPD ReportNumber 17189819-002). Count I relates to the access and use 
+4 The terms "server" and "waitress" are used interchangeably to
+reflect their usage during the proceedings. 
+3 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+of a computer, to wit a "point of sale computer terminal",
+with intent [to] commit theft of money valued in excess of$250.00, and the defendant did, in fact, so obtain moneyvalued in excess of $250.00. 
+COUNT II: On or about January 16, 2017, through and
+including May 18, 2017, in the City and County of Honolulu,State of Hawaii, Susan E. Shaw, with intent to defraud theissuer, or another person or organization providing money,services, or anything of value, or any other person, did usecredit card numbers without the consent of the cardholders for [the] purpose of obtaining money, or anything else ofvalue, and the value of all money and other things of valueso obtained exceeded Three Hundred Dollars ($300.00) in anysix-month period, thereby committing the offense ofFraudulent Use of Credit Card, in violation of Sections 708-8100(1)(c) of the Hawaii Revised Statutes. (HPD ReportNumber 17-189819-003). 
+Count II relates to the use of 
+credit card numbers, without the cardholders' consent, forthe purpose of obtaining money valued in excess of $300.00during the time period specified herein, a period of lessthan six months, and the defendant did, in fact, so obtainmoney valued in excess of $300.00. 
+B. Pre-Trial Motion to Dismiss 
+On November 3, 2017, Shaw filed "Defendant's Motion to 
+Dismiss with Prejudice" (Motion to Dismiss), arguing that the 
+State failed to adduce sufficient evidence to establish probable 
+cause for either of the two counts at the grand jury proceedings. 
+As to Count I, the Computer Fraud 3 charge, Shaw argued that the 
+State failed to adduce sufficient evidence: (1) that Shaw used a 
+computer to steal more than $250 from a single victim; (2) that 
+the device Shaw used to process the tips was a "computer," as 
+defined by HRS § 708-890 (2014); and (3) that Shaw lacked 
+authorization. As to Count II, the Credit Card Fraud charge, 
+Shaw argued that the State failed to adduce sufficient evidence: 
+(1) that Shaw used a single credit card number without the 
+cardholder's consent to defraud the bank that issued the card of 
+more than $300; and (2) establishing lack of consent from the 
+cardholders. Shaw also argued that the State failed to adduce 
+evidence that Shaw acted pursuant to a single scheme or course of 
+conduct. As the basis for these arguments, Shaw argued that 
+Computer Fraud 3 could only be prosecuted based on a single 
+victim of theft and Credit Card Fraud could only be prosecuted 
+4       NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+based on the use of a single credit card or credit card number 
+and a single credit card victim. 
+The circuit court held a hearing on November 22, 2017, 
+at which it orally denied the motion, finding that "there was 
+overwhelming evidence to support the indictment against the 
+defendant based on [witness testimony] and the exhibits presented 
+to the grand jury." The circuit court subsequently filed its 
+written Findings of Fact, Conclusions of Law, and Order Denying 
+Defendant's Motion to Dismiss with Prejudice on December 15, 
+2017. 
+C. Trial 
+At trial, the State called three witnesses: Anastasia 
+Bryant (Bryant)5, Chris Duque (Duque), and Thomas Ray (Ray). 
+Bryant testified that she was a customer at Square Barrels on 
+May 9, 2017. She identified Shaw as her server. After 
+discovering that the credit card she used to pay for her bill was 
+charged $10 more than the amount she had written on her copy of 
+the receipt, Bryant reported the discrepancy to Square Barrels 
+management. Duque was an investigator with the Honolulu 
+Prosecutor's office who testified as an expert in the areas of 
+computer forensics as well as computer identification and 
+examination. Duque testified about his examination of the 
+restaurant's computer system and network as part of the State's 
+investigation into this case. Ray was the co-owner of Square 
+Barrels. Ray testified about Shaw's employment and the nature of 
+the restaurant's operations. Ray also testified about the 
+internal audit he and his business partner conducted of every 
+employee's server accountability reports, spurred by Bryant's 
+report of the discrepancy with her transaction. 
+Shaw was the only witness for the defense. The circuit court's instructions to the jury included, 
+inter alia, instructions on the elements of Computer Fraud 3 and 
+5 Bryant was formerly known as Anastasia Vidinha. 
+5 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Credit Card Fraud, and an instruction on the definition of an 
+"inference" and its use with regard to determining lack of 
+consent. 
+The jury found Shaw guilty as charged in both counts. 
+At the sentencing hearing, the State asserted that the two counts 
+merged and, as such, requested that the circuit court only 
+proceed in sentencing on the count for Computer Fraud 3 and take 
+no further action on the count for Credit Card Fraud. Defense 
+counsel agreed that the two counts merged. Despite both parties 
+conceding that the two counts merged, neither party requested a 
+dismissal of Count II, nor did the circuit court enter such an 
+order. 
+The circuit court entered its Judgment on July 11, 
+2018. The Judgment provided: 
+DEFENDANT IS CONVICTED AND FOUND GUILTY OF: 
+CT. 1: COMPUTER FRAUD IN THE THIRD DEGREE 
+CT. 2: FRAUDULENT USE OF CREDIT CARD 
+FINAL JUDGMENT AND SENTENCE OF THE COURT: COUNT 1: IMPRISONMENT TERM OF FIVE (5) YEARS to run
+concurrent with any other term now serving; Mittimus toissue forthwith;MONETARY ASSESSMENT OF $500.00 OR THE ACTUAL COST OF THE DNA ANALYSIS, WHICHEVER IS LESS TO THE DNAREGISTRY SPECIAL FUND;PROVIDE BUCCAL SWAB SAMPLES AND PRINT IMPRESSIONS OF EACH HAND, AND IF REQUIRED BY THE COLLECTING AGENCY'SRULES OR INTERNAL REGULATIONS BLOOD SPECIMENS REQUIREDFOR LAW ENFORCEMENT IDENTIFICATION ANALYSIS. 
+COUNT 2: STATE REQUESTED TO TAKE NO FURTHER ACTION;
+GRANTED BY THE COURT. 
+II. POINTS OF ERROR 
+On appeal, Shaw raises six points of error: (1) the 
+Indictment was fatally defective for failing to allege that Shaw 
+acted pursuant to a scheme or continuing course of conduct; (2) 
+the circuit court erred in denying Shaw's Motion to Dismiss with 
+Prejudice; (3) the circuit court failed to properly instruct the 
+jury; (4) there was insufficient evidence to sustain Shaw's 
+convictions; (5) the circuit court erred in admitting unsworn 
+6 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+hearsay evidence; and (6) the circuit court's evidentiary errors 
+individually and cumulatively violated Shaw's rights to due 
+process and a fair trial. 
+III. STANDARDS OF REVIEW 
+A. Sufficiency of the Indictment 
+"Whether a charge sets forth all the essential elements 
+of a charged offense . . . is a question of law, which we review 
+under the de novo, or right/wrong, standard." State v. Mita, 124 
+Hawai# i 385, 389, 245 P.3d 458, 462 (2010) (citation, internal 
+quotation marks, and brackets omitted). 
+B. Motion to Dismiss Indictment 
+We review de novo a circuit court's order denying a 
+motion to dismiss an indictment based on sufficiency of the 
+evidence to support the indictment. State v. Taylor, 126 Hawai# i 
+205, 215, 269 P.3d 740, 750 (2011). 
+In reviewing the sufficiency of the evidence to establish
+probable cause before the grand jury, every legitimateinference that may be drawn from the evidence must be drawnin favor of the indictment and neither the trial court nor the appellate court on review may substitute its judgment asto the weight of the evidence for that of the Grand Jury.The evidence to support an indictment need not be sufficientto support a conviction. 
+Id. (quoting State v. Ganal, 81 Hawai# i 358, 367, 917 P.2d 370, 
+379 (1996)). 
+C. Jury Instructions 
+When jury instructions are at issue on appeal, the 
+standard of review is whether, when read and considered as a 
+whole, the instructions given are prejudicially insufficient, 
+erroneous, inconsistent, or misleading. State v. Metcalfe, 129 
+Hawai# i 206, 222, 297 P.3d 1062, 1078 (2013) (citation omitted). 
+"Erroneous instructions are presumptively harmful and are a 
+ground for reversal unless it affirmatively appears from the 
+record as a whole that the error was not prejudicial." Id. 
+(citation omitted); see also State v. Nichols, 111 Hawai# i 327, 
+337, 141 P.3d 974, 984 (2006) ("[O]nce instructional error is 
+7  
+        
+            
+             
+            NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+demonstrated, we will vacate, without regard to whether timely 
+objection was made, if there is a reasonable possibility that the 
+error contributed to the defendant's conviction[.]"). 
+D. Sufficiency of Evidence 
+In reviewing the sufficiency of the evidence, we must 
+view the evidence in the light most favorable to the State. 
+State v. Ildefonso, 72 Haw. 573, 576, 827 P.2d 648, 651 (1992). 
+"The test on appeal is not whether guilt [was] established beyond 
+a reasonable doubt, but whether there was substantial evidence to 
+support the conclusion of the trier of fact." State v. Eastman, 
+81 Hawai# i 131, 135, 913 P.2d 57, 61 (1996). "'Substantial 
+evidence' . . . is credible evidence which is of sufficient 
+quality and probative value to enable a man of reasonable caution 
+to reach a conclusion." State v. Naeole, 62 Haw. 563, 565, 617 
+P.2d 820, 823 (1980). 
+E. Admissibility of Evidence 
+[D]ifferent standards of review must be applied to trial
+court decisions regarding the admissibility of evidence,depending on the requirements of the particular rule ofevidence at issue. When application of a particularevidentiary rule can yield only one correct result, theproper standard for appellate review is the right/wrongstandard. However, the traditional abuse of discretionstandard should be applied in the case of those rules ofevidence that require a "judgment call" on the part of thetrial court. 
+Kealoha v. Cty. of Hawaii, 74 Haw. 308, 319, 844 P.2d 670, 676 
+(1993). 
+IV. DISCUSSION 
+A. Sufficiency of the Indictment 
+Shaw argues that, where the Computer Fraud 3 and Credit 
+Card Fraud charges were based on an aggregation of multiple 
+transactions pursuant to HRS § 708-801(6),6 the State was 
+required to allege in the Indictment that Shaw intentionally 
+6 HRS § 708-801(6) (2014) provides, in relevant part: "Amounts
+involved in thefts committed pursuant to one scheme or course of conduct , whether
+the property taken be of one person or several persons, may be aggregated in
+determining the class or grade of the offense." (Emphasis added.) 
+8          
+         NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+engaged in a scheme or criminal course of conduct to commit theft 
+and credit card fraud. Shaw contends that a scheme or course of 
+conduct was an essential fact or required element of the charges 
+and its inclusion in the Indictment was required to provide Shaw 
+with adequate notice and to fully inform Shaw of the nature and 
+cause of the charges brought against her. Thus, Shaw argues that 
+the failure to allege a scheme or course of conduct caused the 
+Indictment to be fatally defective. Shaw argues that the State's 
+aggregation of 105 separate credit card transactions and failure 
+to allege a scheme or course of conduct violated her right to due 
+process, as it relieved the State of its burden to call 105 
+witnesses and deprived Shaw of her right to confront the 105 
+witnesses. 
+Shaw concedes that she challenges the sufficiency of 
+the Indictment for the first time on appeal. As such, we apply 
+the Motta7/Wells8 post-conviction liberal construction rule: 
+Under the Motta/Wells post-conviction liberal construction
+rule, we liberally construe charges challenged for the firsttime on appeal. Under this approach, there is a presumptionof validity for charges challenged subsequent to aconviction. In those circumstances, this court will notreverse a conviction based upon a defective indictment orcomplaint unless the defendant can show prejudice or thatthe indictment or complaint cannot within reason beconstrued to charge a crime. 
+State v. Wheeler, 121 Hawai# i 383, 399-400, 219 P.3d 1170, 1186-
+87 (2009) (citations, internal quotation marks, and brackets 
+omitted). 
+1. Count I (Computer Fraud 3) was legally sufficient under
+the Motta/Wells Rule. 
+We first look at whether Count I can be reasonably 
+construed to charge the offense of Computer Fraud 3. "A 
+complaint, for example, cannot reasonably be construed to charge 
+an offense if it omits an element of the offense or when the 
+7 State v. Motta , 66 Haw. 89, 657 P.2d 1019 (1983). 
+8 State v. Wells , 78 Hawai #i 373, 894 P.2d 70 (1995). 
+9 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+common definition of an element of an offense set forth in the 
+charge does not comport with its statutory definition." State v. 
+Baker, No. SCWC-18-0000454, 2020 WL 1228443, at *7 (Haw. Mar. 13, 2020) (citing State v. Pacquing, 139 Hawai# i 302, 308, 389 P.3d 
+897, 903 (2016), and Wheeler, 121 Hawai# i at 394, 219 P.3d at 
+1181). The supreme court has recognized that "one 'way in which 
+an otherwise deficient count can be reasonably construed to 
+charge a crime is by examination of the charge as a whole.'" 
+State v. Tominiko
+, 126 Hawai# i 68, 76, 266 P.3d 1122, 1130 (2011) 
+(quoting State v. Elliott, 77 Hawai# i 309, 312, 884 P.2d 372, 375 
+(1994)). "Under the liberal construction standard, two counts 
+can be read together." Id. 
+For Count I, the charge tracked the language of the 
+statute for Computer Fraud 3, HRS § 708-891.6. 
+The charge also 
+included the statutory language for the underlying predicate offense of Theft 3 from HRS § 708-832. Thus, on the basis that 
+all elements of the charge as defined by the respective statutes 
+are alleged in the Indictment, the charge for Computer Fraud 3 is 
+not defective. See State v. Treat
+, 67 Haw. 119, 120, 680 P.2d 
+250, 251 (1984) (holding that a theft in the first degree charge was not defective where it tracked the statutory definition of 
+the offense because the charge alleged all of the statutory 
+elements of the offense). 
+Shaw challenges the State's reliance on HRS § 708-
+801(6) to aggregate multiple instances of theft in charging Shaw 
+with Computer Fraud 3 and argues that even if the State's 
+reliance on HRS § 708-801(6) was proper, the State was required 
+to expressly allege that Shaw acted pursuant to a scheme or 
+course of conduct. 
+In State v. Yokota, 143 Hawai# i 200, 205-06, 426 P.3d 
+424, 429-30 (2018), the 
+Hawai# i Supreme Court held that theft can 
+be charged as a continuing course of conduct and that the alleged instances of theft can be aggregated under HRS § 708-801(6). In 
+that case, the circuit court dismissed the counts charging Yokota 
+10    
+        
+      
+         
+     
+       
+      
+       
+        
+     
+           . . . . NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+with Theft in the Second Degree and Identity Theft in the Second
+Degree.  Id. at 204, 426 P.3d at 428. Notably, the charges did
+not include any express allegation of a scheme or course of conduct. Nonetheless, the supreme court held that the circuit 
+court erred in determining that the State was barred from 
+charging theft as a continuing course of conduct and ultimately 
+affirmed this court's decision to vacate the circuit court's 
+order dismissing the Theft in the Second Degree and Identity 
+Theft in the Second Degree counts. Id. at 206-07, 426 P.3d at 
+430-31. The supreme court noted: 9 
+ 
+While Yokota does not argue on certiorari that the
+[Intermediate Court of Appeals] erred in also reinstatingCount VIII (identity theft in the second degree), ourdecision on whether the State could charge Yokota with theftin the second degree directly affects the validity of theidentity theft in the second degree charge. A person canonly be charged with identity theft in the second degree ifthat person makes or causes to be made a transmission of anypersonal information of another, "with the intent to committhe offense of theft in the second degree from any person orentity." HRS § 708-839.7 (2014) (emphasis added). 
+Id. at 205 n.7, 426 P.3d at 429 n.7. 
+In Count I, Shaw was charged with Computer Fraud 3, 
+which requires an allegation that the charged individual 
+"knowingly accesse[d] a computer, computer system, or computer 
+9 The relevant charges were: 
+Count  VI:  Th eft  in  the  Second  Degree,  in  violation  of
+HRS  §  708-831(1)(b),  where  Yokota  "did  obtain  or  exert
+unauthorized  control  over  the  property  of  [Kama]  and/or  [ASB],
+the  value  of  which  exceeds  Three  Hundred  Dollars  ($300.00),  by
+deception,  with  intent  to  deprive  [Kama]  and/or  [ASB]  of  the
+property." 
+C
+ount VIII: Identity Theft in the Second Degree, in
+violation of HRS § 708-839.7, where Yokota 
+did make or cause to be made, either directly or
+indirectly, a transmission of any personalinformation of [Kama] by any oral statement, anywritten statement, or any statement conveyed byelectronic means, with the intent to commit theoffense of Theft in the Second Degree from [Kama]and/or [ASB] . . . . 
+Id. at 202-03, 426 P.3d at 426-27 (footnotes omitted). 
+11 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+network with the intent to commit the offense of theft in the 
+third or fourth degree." HRS § 708-891.6 (emphasis added). 
+Thus, because Computer Fraud 3 is predicated on theft in the 
+third or fourth degree, it follows that Computer Fraud 3 may also 
+be charged as a continuing course of conduct. Cf. Yokota, 143 
+Hawai# i at 205 n.7, 426 P.3d at 429 n.7. We therefore conclude 
+that the State was not barred from aggregating multiple alleged 
+instances of theft in charging Shaw with Computer Fraud 3. 
+We 
+further conclude that, under the Motta
+/Wells rule, it was not 
+necessary to expressly allege in the Indictment that Shaw engaged 
+in a scheme or course of conduct. See id. at 202-03, 426 P.3d at 
+426-27. 
+Regardless, it is clear from reading the Indictment as 
+a whole that the State charged Shaw with Computer Fraud 3 on a continuing course of conduct theory. Count I alleged that "[o]n 
+or about January 16, 2017, through and including May 18, 2017," 
+Shaw "did knowingly access a computer, computer system, or 
+computer network with the intent to commit the offense of theft 
+in the third degree" and that "[a] person commits the offense of 
+theft in the third degree if she intentionally obtains and exerts 
+unauthorized control over property of another, the value of which 
+exceeds Two Hundred and Fifty Dollars ($250.00), with intent to 
+deprive the other of property valued in excess of Two Hundred and 
+Fifty Dollars ($250.00)." Count II identified the same four-
+month time period as Count I and alleged that Shaw "did use 
+credit card numbers without the consent of the cardholders 
+. . . ." It can be reasonably inferred, due to the references to 
+the same time period, that both charges are based on the same 
+underlying conduct. Although Count I did not expressly allege 
+that the conduct involved multiple victims and instances of 
+theft, when read in conjunction with Count II, the charge is 
+sufficient. See Tominiko, 126 Hawai# i at 76, 266 P.3d at 1130 
+(holding that, under the liberal construction standard, a charge for Operating a Vehicle Under the Influence (OVUII) was not 
+12            
+            
+         
+     NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+insufficient for failing to allege that the conduct occurred on a 
+public roadway where a separate count contained the necessary 
+allegation and both counts refer to operating a motor vehicle on 
+the same day in Honolulu, Hawai# i). The Indictment, when read as 
+a whole, apprised Shaw that she was being charged for multiple thefts involving multiple credit card transactions. Shaw has not 
+shown that Count I cannot reasonably be construed to allege a 
+crime under the 
+Motta/
+Wells rule.10 
+Having concluded that the Indictment can reasonably be 
+construed to charge the offense of Computer Fraud 3, we now turn 
+to whether Shaw has shown that she was prejudiced under the 
+Motta/Wells rule. 
+[I]n determining whether the accused's right to be informed
+of the nature and cause of the accusation against him or herhas been violated, we must look to all of the informationsupplied to him or her by the State to the point where thecourt passes upon the contention that the right has beenviolated. 
+State v. Hitchcock, 123 Hawai# i 369, 379, 235 P.3d 365, 375 
+(2010) (emphasis and original brackets omitted). Furthermore, "a 
+defendant's right to be informed of the nature and cause of the 
+accusation can be deemed satisfied if the record 'clearly 
+demonstrate[s] the defendant's 
+actual knowledge' of the charges 
+against him or her." Id.
+ (alteration in original) (quoting State 
+v. Israel, 78 Hawai# i 66, 71, 890 P.2d 303, 308 (1995)). 
+As Shaw only challenges the sufficiency of the 
+Indictment for the first time on appeal, we look to the record 
+below to determine whether Shaw's right to be informed of the 
+nature and cause of the accusations can be deemed satisfied. The 
+record reflects that, at the grand jury proceedings, the State 
+introduced exhibits that consisted of copies of the 105 credit 
+card receipts, as well as a spreadsheet that summarized the 
+10 We emphasize that, with the facts in this case, our analysis is
+based on the liberal construction standard and we do not address whether an 
+analysis under the standard governing pre-conviction challenges to sufficiency ofcharges would reach a different result. 
+13           
+        
+         
+          
+          
+               NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+transactional details of the 105 credit card receipts. In a 
+Motion to Dismiss filed by Shaw, she refers to these documents as 
+appearing to be duplicates of what was produced in discovery, 
+indicating her receipt of the documents. Shaw also specifically 
+acknowledges and discusses the State's aggregation of the amounts 
+involved in multiple credit card transactions upon which the 
+charge was based. Thus, the record is clear that Shaw was fully 
+aware that the charge was based on aggregated amounts. We 
+therefore find no merit in Shaw's contention that she was not 
+provided adequate notice of the nature of the charge against her. 
+We also find no merit in Shaw's contention that she 
+suffered prejudice because the State was relieved of its burden 
+to call all 105 witnesses and Shaw was deprived of her right to 
+confront all 105 witnesses. The prosecution is not required to 
+call as witnesses all individuals who have knowledge of the 
+events disclosed by the evidence and pertaining to the offense 
+alleged to have been committed by the defendant. See State v. 
+Padilla, 114 Hawai# i 507, 516, 164 P.3d 765, 774 (App. 2007). 
+Indeed, the record reflects that the jury in this case was given 
+an instruction stating such, to which Shaw made no objection.11 
+The State therefore did not have a burden to call all 105 cardholders as witnesses and could instead rely on other 
+evidence. 
+Shaw has not shown that Count I cannot be construed to 
+charge Computer Fraud 3, or that she has suffered prejudice from 
+the State's failure to allege a scheme or course of conduct in 
+Count I. Therefore, under the liberal Motta/Wells rule, Shaw has 
+not shown that Count I was insufficient so as to warrant vacating 
+11 The jury instruction was based on Hawai #i Pattern Jury Instructions -
+Criminal (HAWJIC) Instruction 3.12 (1991) and provided as follows: 
+The prosecution is not required to call as witnesses all
+persons who may have been present at any of the eventsdisclosed by the evidence or who may appear to have someknowledge of these events, or to produce all objects ordocuments mentioned or suggested by the evidence. 
+14              
+            
+         NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+her conviction of Computer Fraud 3. 
+2. Count II (Credit Card Fraud) was legally insufficient. 
+For Count II, the charge appears to substantially track 
+the language of the statute for Credit Card Fraud, with one 
+notable difference -- the plain language of HRS § 708-8100(1)(c) 
+is written in the singular, indicating that the offense occurs 
+upon a defendant's fraudulent use of a single credit card, but 
+the State charged Shaw with Credit Card Fraud based on her use of 
+multiple credit cards. Under HRS § 708-8100(1)(c), a person 
+commits Credit Card Fraud if the person "[u]ses or attempts or 
+conspires to use a credit card number without the consent of the 
+cardholder for the purpose of obtaining money, goods, services, 
+or anything else of value." (Emphases added.) Here, the State 
+charged Shaw with "us[ing] credit card numbers without the 
+consent of the cardholders" (emphases added) to obtain money in 
+excess of $300 between January 16, 2017, and May 18, 2017. The 
+State met the $300 threshold to charge Shaw with Credit Card 
+Fraud as a class C felony12 by aggregating numerous transactions 
+involving multiple credit cards because none of the individual transactions exceeded $300 in value. 
+Shaw argues that the State was not allowed to aggregate 
+the use of multiple credit cards in charging Shaw with Credit 
+Card Fraud. Shaw further argues that if such aggregation is 
+allowed, then pursuant to HRS § 708-801(6), the State was 
+required to allege a scheme or course of conduct in Count II to 
+provide Shaw with adequate notice and alert her of precisely what 
+she needed to defend against to avoid a conviction. 
+We first look to the plain language of HRS § 708-8100 
+in determining whether the offense of Credit Card Fraud can be 
+based on an aggregation of transactions involving multiple credit 
+cards. See State v. Demello, 136 Hawai# i 193, 195, 361 P.3d 420, 
+12 Credit Card Fraud is a class C felony "if the value of all money,
+goods, services, and other things of value obtained or attempted to be obtained
+exceeds $300 in any six-month period." HRS § 708-8100(2). 
+15 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+422 (2015) ("The plain language of a statute is 'the fundamental 
+starting point of statutory interpretation.'"). The plain 
+language of HRS § 708-8100 is written in the singular, indicating 
+that the offense is committed based on the use of "a credit card" 
+or "a credit card number" "without the consent of the 
+cardholder." Further, subsection (2) expressly contemplates 
+aggregation of the value of the goods obtained through fraudulent 
+use by referring to "goods, services, and other things of value" 
+in the plural. HRS § 708-8100(2). In the following sentence, it 
+seems the legislature intentionally refers to "each separate use 
+of a credit card" that exceeds $300 as creating a separate 
+offense. Id. (emphasis added). Thus, the legislature carefully 
+distinguished between singular and plural forms in the same statutory provision, indicating an intent to proscribe the 
+fraudulent use of "a credit card," and to provide for the 
+aggregation of dollar values obtained through such use. In this 
+context, the legislature did not provide for the aggregation of 
+transactions involving multiple credit cards. 
+The use of singular language, however, is not 
+conclusive. AlohaCare v. Ito, 126 Hawai# i 326, 347, 271 P.3d 
+621, 642 (2012). 
+HRS § 1-17 (2009) provides the general rule of 
+statutory construction that "[w]ords . . . in the singular or 
+plural number signify both the singular and plural number[.]" 
+Nonetheless, "[t]his court has interpreted statutes using the 
+statutory presumption in HRS § 1-17 only after reviewing the 
+legislative history and context in which a statute was passed to 
+determine whether the legislature intended to signify both the 
+singular and plural forms of a word." AlohaCare, 126 Hawai# i at 
+347, 271 P.3d at 642. 
+Thus, we must look to legislative history 
+to determine whether the legislature intended prosecution for the 
+offense of Credit Card Fraud under HRS § 708-8100 to be based on 
+the use of multiple credit cards or credit card numbers. 
+The original form of the Credit Card Fraud statute was 
+first enacted in 1965, along with other credit card offenses. 
+16 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+1965 Haw. Sess. Laws Act 189, § 2 at 267. The legislature 
+explained: 
+The purpose of this bill is to set forth criminal
+offenses involving credit cards and penalties relating
+thereto. 
+Your Committee finds that both consumers and 
+businessmen have suffered substantial losses because of thewrongful use of credit cards. 
+Many frauds are incurred
+where a credit card is lost or stolen and subsequentlymisappropriated.  
+H. Stand. Comm. Rep. No. 252, in 1965 House Journal, at 596. 
+There is nothing in the legislative history of the original 
+Credit Card Fraud statute to indicate that the legislature 
+intended to signify both singular and plural forms of the phrases 
+"a credit card," "a credit card number," and "without the consent 
+of the cardholder." See id.; H. Stand. Comm. Rep. No. 441, in 
+1965 House Journal, at 650; S. Stand. Comm. Rep. No. 697, in 1965 Senate Journal, at 1113. Neither does the legislative history of 
+subsequent amendments to the statute contain any indication that 
+the legislature intended the offense to be prosecuted based on 
+multiple credit cards or credit card numbers. Conf. Comm. Rep. 
+No. 94-06, in 2006 House Journal, at 1813, 2006 Senate Journal, 
+at 946-47; S. Stand. Comm. Rep. No. 3215, in 2006 Senate Journal, 
+at 1557; H. Stand. Comm. Rep. No. 665-06, in 2006 House Journal, 
+at 1359-60; H. Stand. Comm. Rep. No. 1173-88, in 1988 House 
+Journal, at 1257-58; S. Stand. Comm. Rep. No. 2138, in 1988 
+Senate Journal, at 921; S. Stand. Comm. Rep. No. 820-86, in 1986 
+Senate Journal, at 1168-70; S. Stand. Comm. Rep. No. 569-86, in 
+1986 Senate Journal, at 1036-37; H. Stand. Comm. Rep. No. 487, in 
+1985 House Journal, at 1216-18; H. Stand. Comm. Rep. No. 815, in 
+1983 House Journal, at 1216; S. Stand. Comm. Rep. No. 381, in 
+1983 Senate Journal, at 1201; S. Stand. Comm. Rep. No. 1120, in 
+1977 Senate Journal, at 1300; H. Stand. Comm. Rep. No. 253, in 
+1977 House Journal, at 1394-95; S. Stand. Comm. Rep. No. 1069-74, 
+in 1974 Senate Journal, at 1167; H. Stand. Comm. Rep. No. 470-74, 
+in 1974 House Journal, at 741; H. Stand. Comm. Rep. No. 240-74, 
+17      NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+in 1974 House Journal, at 649; S. Stand. Comm. Rep. No. 893-70, 
+in 1970 Senate Journal, at 1409-10; H. Stand. Comm. Rep. No. 536-
+70, in 1970 House Journal, at 1055-58; H. Stand. Comm. Rep. No. 
+317-70, in 1970 House Journal, at 904-05. 
+In the absence of any legislative history indicating 
+that the legislature intended Credit Card Fraud to be prosecuted 
+as a felony based on multiple credit cards or credit card 
+numbers, we rely on the legislative intent expressed in the plain 
+language of the statute, as analyzed above, without resorting to 
+HRS § 1-17. 
+Furthermore, in analyzing HRS § 851-4 (Supp. 1982),13 
+the predecessor statute to HRS § 708-8100, this court has held 
+that "[t]he utility of the six-month period is . . . to cumulate 
+the number of fraudulent uses of the same credit card and 
+aggregate the value of the goods during such period to permit a 
+felony charge[.]" State v. Daly, 4 Haw. App. 52, 56, 659 P.2d 
+83, 86 (1983) (emphasis added). Thus, under HRS § 708-8100(2), the offense of Credit Card Fraud can be charged as a class C 
+felony by aggregating the dollar values of multiple transactions 
+involving the same credit card, but not by aggregating the values 
+of multiple transactions involving more than one credit card or 
+credit card number. 
+Based on the foregoing, we conclude that Count II was 
+13 HRS § 851-4 (Supp. 1982) provided: 
+§851-4   Fr audulent  use  of  credit  cards,  etc.,  penalties.
+A  person,  who,  with  intent  to  defraud  the  issuer,  a  person  or
+organization  providing  money,  goods,  services,  or  anything
+else  of  value,  or  any  other  person,  .  .  .  (2)  obtains  or
+attempts  or  conspires  to  obtain  money,  goods,  services,  or
+anything  else  of  value  by  representing  without  the  consent  of
+the  cardholder  that  he  is  the  holder  of  a  specified  card  or  by
+representing  that  he  is  the  holder  of  a  card  and  such  card  has
+not  in  fact  been  issued,  violates  this  section  and  is  subject
+to  the  penalties  set  forth  in  subsection  851-10(a),  if  the
+value  of  all  money,  goods,  services,  and  other  things  of  value
+obtained  or  attempted  to  be  obtained  in  violation  of  this
+section  does  not  exceed  $100  in  any  six-month  period;  and  is
+subject  to  the  penalties  set  forth  in  subsection  851-10(b),  if
+such  value  exceeds  $100  in  any  six-month  period. 
+18 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+defective for improperly aggregating the values of transactions 
+arising from multiple credit cards and thus cannot reasonably be 
+construed to charge the offense of Credit Card Fraud under HRS 
+§ 708-8100 as a class C felony. We therefore vacate Shaw's 
+conviction for Count II. 
+B. Motion to Dismiss the Indictment 
+Shaw contends that the circuit court should have 
+granted her Motion to Dismiss because the evidence that the State 
+adduced before the grand jury was insufficient to establish 
+probable cause for the charged offenses. 
+Regarding Count II, we conclude that there was 
+insufficient evidence to establish probable cause that Shaw 
+committed Credit Card Fraud as charged. In light of our 
+conclusion discussed supra that Credit Card Fraud cannot be 
+charged as a class C felony by aggregating the values of 
+transactions involving multiple credit cards or credit card 
+numbers, we further conclude that there was insufficient evidence 
+to establish probable cause that Shaw used a single credit card 
+or credit card number without the consent of the cardholder to 
+obtain money in excess of $300. See HRS § 708-8100(1)(c), (2). 
+The circuit court therefore erred in not dismissing Count II. 
+As for Count I, Computer Fraud 3, Shaw's challenge to 
+the Motion to Dismiss has no merit on appeal. 
+In State v. Montgomery, 103 Hawai #i 373, 381, 82 P.3d 818,
+826 (App. 2004), we held that the defendant could not
+challenge, on appeal, the denial of his or her motion todismiss the indictment for lack of probable cause after aconviction. In support of our holding, we cited In re Doe,102 
+Hawai #i 75, 78, 73 P.3d 29, 32 (2003), in which the
+Hawai #i Supreme Court stated that "absent unusual
+circumstances, any defects in a pretrial determination ofprobable cause are rendered moot, or are without anyeffective remedy, which is much the same thing, by asubsequent conviction." 
+State v. Torres, 122 Hawai# i 2, 14 n.7, 222 P.3d 409, 421 n.7 
+(App. 2009), aff'd and corrected on other grounds by 125 Hawai# i 
+382, 262 P.3d 1006 (2011). 
+Shaw's challenge to the circuit 
+court's denial of her motion to dismiss the Computer Fraud 3 
+19 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+charge based on a lack of probable cause was rendered moot by her 
+subsequent conviction of the offense after trial. There are no 
+unusual circumstances in this case. 
+C. Jury Instructions 
+Shaw challenges the definition of "inference" given in 
+the circuit court's jury instructions. At trial, defense counsel 
+objected to the instruction with the definition of "inference" on 
+the basis that there was already a separate general instruction, 
+based on HAWJIC, that discussed circumstantial evidence, which 
+permits reasonable inferences to be drawn. 
+The circuit court instructed the jury on the definition 
+of "inference" as follows: 
+An "inference" is a logical and reasonable conclusion of the
+existence of a fact from the establishment of other facts,from which, by the process of logic and reason, and based onhuman experience, the existence of an assumed fact may beconcluded by the jury. Lack of consent may be provedcircumstantially on the basis of logical and reasonableinferences drawn from the evidence adduced and common human experience. 
+On appeal, Shaw argues that the given definition was 
+confusing, unclear, unhelpful, and failed to instruct the jury in 
+a manner that they could understand. Shaw cites no authority to 
+support her conclusory assertions. Shaw also argues that the 
+given definition for "inference" was misleading and prejudicial 
+as it contradicted the concept of reasonable doubt, which 
+prohibits finding the defendant guilty based on mere suspicion or 
+probability. 
+The definition of "inference" given in this instruction 
+is identical to the definition adopted by the Hawai# i Supreme 
+Court in State v. Pone, 78 Hawai# i 262, 273, 892 P.2d 455, 466 
+(1995), and is thus a correct statement of the law. 
+Furthermore, 
+we find nothing in the given instruction that is inconsistent with the law pertaining to reasonable doubt. As such, we 
+conclude that the jury instruction was not erroneous. 
+Shaw next challenges the circuit court's instructions 
+20           
+            
+              
+            NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+on the elements of Computer Fraud 3.  Shaw did not raise any
+objection to this jury instruction at trial. 14 
+The circuit court instructed the jury on the elements 
+of Computer Fraud 3 as follows: 
+In Count I, the Defendant, Susan E. Shaw, is charged
+with committing the offense of Computer Fraud in the Third
+Degree. 
+A person commits the offense of Computer Fraud in the
+Third Degree if she accesses a computer, computer system, orcomputer network with the intent to commit the offense oftheft in the third degree. 
+There are two elements to the offense of Computer
+Fraud in the Third Degree, each of which the prosecutionmust prove beyond a reasonable doubt. 
+These two elements are: 
+1. That on or about the January 16, 2017, through
+and including the May 18, 2017, in the City andCounty of Honolulu, State of Hawaii, theDefendant, Susan E. Shaw, accessed a computer,computer system, or computer network; and 
+2. That the Defendant, Susan E. Shaw, did so withthe intent to commit the offense of theft in the third degree. 
+A person commits the offense of theft in the third
+degree if she obtains or exerts unauthorized control overthe property of another, the value of which exceeds $250.00,with intent to deprive the person of that property. 
+Shaw reiterates her contention that the State could not 
+aggregate theft amounts for the purpose of charging Shaw with 
+Computer Fraud 3. Shaw further argues that, with the aggregated 
+nature of the charge, the circuit court erred in failing to 
+instruct the jury on the definition of scheme and the mens rea 
+related to Shaw's intent to engage in a scheme. 
+As we have discussed supra, the State was allowed to 
+aggregate the amounts upon which the Computer Fraud 3 charge wasbased, pursuant to HRS § 708-801(6). However, in Yokota, the  
+14 Shaw also challenges the jury instruction on the elements of Credit 
+Card Fraud. However, because we vacate Shaw's conviction for Credit Card Fraud
+on the basis of a legally insufficient charge, we need not address the portion ofShaw's challenge to the jury instructions that relates to the Credit Card Fraudcharge. 
+21            
+        NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+supreme court emphasized that the question of "whether a 
+continuing course of conduct offense occurred is a question that 
+should be submitted to the jury." 143 Hawai# i at 206, 426 P.3d 
+at 430 (citing State v. Matias, 102 Hawai# i 300, 305, 75 P.3d 
+1191, 1196 (2003) ("The test to determine whether the defendant 
+intended to commit more than one offense is whether the evidence 
+discloses one general intent or discloses separate and distinct 
+intents. . . . All factual issues involved in this determination 
+must be decided by the trier of fact." (emphasis in original)), 
+and People v. Daghita, 92 N.Y.S.2d 799, 802 (N.Y. App. Div. 1949) 
+("What is 'separate', what is 'single', . . . are all jury 
+questions both by legal tradition and by necessity. . . . The 
+question of whether the takings were separate or united in 
+purpose was carefully and fairly submitted to the jury as a 
+question of fact[.]")). 
+Here, the instruction regarding Computer Fraud 3 did 
+not submit to the jury the factual question of whether Shaw 
+engaged in one scheme or course of conduct, in other words, 
+whether the evidence disclosed one general intent or separate and 
+distinct intents. The question was determinative of whether Shaw 
+met the $250 threshold to be convicted of Computer Fraud 3 based 
+on an aggregation of numerous transactions, where none of the 
+individual transactions exceeded $250 in value. Thus, we cannot 
+say that there was no reasonable possibility that the circuit 
+court's failure to submit the issue to the jury contributed to 
+Shaw's conviction; the error was therefore not harmless beyond a 
+reasonable doubt. See Nichols, 111 Hawai# i at 337, 141 P.3d at 
+984. Shaw's conviction for Computer Fraud 3 must be vacated on 
+this ground and remanded for a new trial.15 
+V. CONCLUSION 
+Based on the foregoing, we vacate the Judgment of 
+15 In light of our decision to vacate Shaw's conviction of both counts,
+we need not address Shaw's remaining points of error. 
+22 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Conviction and Sentence, entered July 11, 2018, by the Circuit 
+Court of the First Circuit, and we remand this matter for a new 
+trial on Count I. 
+DATED: Honolulu, Hawai# i, May 15, 2020. 
+On the briefs: 
+/s/ Lisa M. Ginoza
+Chief Judge
+/s/ Derrick H. M. Chan
+Associate Judge
+/s/ Clyde J. Wadsworth
+Associate Judge Chad Kumagai,Deputy Prosecuting Attorney,City and County of Honolulu,for Plaintiff-Appellee. 
+Taryn R. Tomasa,
+Deputy Public Defender,for Defendant-Appellant. 
+23 

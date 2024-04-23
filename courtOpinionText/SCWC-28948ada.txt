@@ -1,0 +1,2658 @@
+***FOR  PUBLICATION  IN  WEST’S  HAWAI'I  REPORTS  AND  PACIFIC  REPORTER*** 
+Electronically Filed 
+Supreme Court 
+SCWC-28948 18-DEC-2013 
+09:00 AM 
+IN THE SUPREME COURT OF THE STATE OF HAWAI' I 
+---o0o— 
+PACIFIC LIGHTNET, INC.,
+Petitioner/Plaintiff-Appellant/Cross-Appellee
+ 
+vs.
+ 
+TIME WARNER TELECOM, INC., and
+TIME WARNER TELECOM OF HAWAI' I L.P.,
+Respondents/Defendants-Appellees/Cross-Appellants.
+ 
+SCWC-28948
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS
+ 
+(ICA NOS. 28948 and 29105; CIVIL NOS. 05-1-0428 AND 03-1-2557)
+ 
+December 18, 2013
+ 
+RECKTENWALD, C.J., NAKAYAMA, ACOBA, McKENNA, AND POLLACK, JJ.
+ 
+OPINION OF THE COURT BY ACOBA, J.
+ 
+We hold that, first, the circuit court of the first
+ 
+circuit (the court) erred in invoking the primary jurisdiction
+ 
+doctrine to dismiss the instant case. 
+Second, inasmuch as the
+ 
+filed-rate doctrine applies, the court erred in failing to
+ instruct the jury that Petitioner/Plaintiff-Appellant/Cross-
+Appellee Wavecom Solutions Corporation, formerly known as Pacific
+ Lightnet, Inc. (PLNI) could not recover for any claims involving
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+charges not filed within 120 days of receipt of billing, in 
+accordance with the Hawai' i Public Utilities Commission (PUC) and 
+Federal Communications Commission (FCC) filed tariffs. 
+Accordingly, we affirm in part and vacate in part the 
+February 21, 2013 judgment of the Intermediate Court of Appeals (ICA), filed pursuant to its January 25, 2013 Memorandum Opinion, vacate the court’s October 23, 2007 order granting the Motion to Dismiss for Lack of Subject Matter Jurisdiction filed by Respondent/Defendants-Appellees/Cross-Appellants Time Warner Telecom, Inc. and Time Warner Telecom of Hawai' i L.P. (Time 
+Warner) on September 4, 2007, and vacate in part the court’s December 12, 2007 judgment. 
+I. Background
+ 
+The instant appeal involves a dispute between two
+ 
+telecommunications carriers. Time Warner is a telecommunications
+ carrier that provides voice, internet and data services. As part
+ of these services, Time Warner provides “call termination
+ services,” which is the ability for customers of one carrier to
+ make and complete calls to customers of Time Warner. The dispute
+ in this case relates to call termination services that were
+ allegedly provided by Time Warner.
+ 
+The claims in this case consist of two separate billing
+ 
+disputes between the carriers over the call termination services.
+ The two claims are called collectively, “Feature Group D claims.” 
+First, PLNI claims that Time Warner owes it a credit for certain
+ past charges. Second, PLNI contests certain charges by Time
+ 
+2
+         
+        
+   ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Warner for services that it allegedly never received. The
+ 
+background facts relevant to these two claims follow.
+ A. GST’s Sale to Time Warner
+ 
+GST Telecommunication, Inc. (GST) was a
+ 
+telecommunications company that filed for Chapter 11 bankruptcy
+ on May 17, 2000. In September 2000, Time Warner agreed to
+ purchase certain assets of GST in bankruptcy, including GST’s
+ mainland telephone network. The acquisition was made pursuant to
+ an asset purchase agreement between Time Warner and GST, dated
+ September 11, 2000. According to Time Warner, the asset purchase
+ agreement gave it “all Carrier Identification Codes (a.k.a.
+ CICs).” CICs are used to identify telephone calls associated
+ with a certain carrier.
+1
+ 
+Time Warner did not purchase all of GST’s assets, but
+ 
+rather, GST retained for later sale the assets of GST Hawaii’s
+ operations, including all rights to what the asset purchase
+ agreement called “Feature Group D” accounts. Time Warner
+ maintains that although it acquired the Carrier Identification
+ Codes from GST, GST recognized that it was still responsible to
+ pay Time Warner the outstanding balance under certain CICs for
+ services that GST customers had previously received.
+ B. GST’s Sale to PLNI
+ 
+In March 2001, TM Communications Hawai' i (TM) agreed to 
+purchase, inter alia, the remainder of the GST assets in Hawai' i 
+1
+ CICs presumably entitle their holder to collect payment for
+ 
+certain call termination services.
+ 
+3
+         
+          
+        
+      
+         
+     
+          
+           
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+that were not previously sold to Time Warner. PLNI is a
+ 
+subsidiary of TM.2 The asset purchase agreement between GST and
+ 
+TM, dated March 9, 2001 stated that TM had purchased:
+ 
+[A]ll of the [GST’s] rights, title, and interests in and to
+the Business, including, without limitation, in and to all
+the assets, properties, rights, accounts receivable and
+Assumed Contracts of [GST] and claims of [GST] related to
+the Business . . . .
+ C. Customer Investigation Forms and Dispute Submissions Filed
+ 
+with Time Warner
+ 
+On September 18, 2001, PLNI and/or its predecessor GST 
+Hawai'i filed a “Customer Investigation Form” with Time Warner 
+requesting that Time Warner investigate and resolve PLNI’s claim 
+for disputed invoice amounts relating to “Feature Group D” services. The Customer Investigation Form listed the “Disputed Amount[s]” as $30,760.16, “All Invoices $200,000[,]” and “All Invoices[.]” D. Assignment by TM to PLNI
+ 
+TM assigned its rights in the asset purchase agreement
+ 
+with GST to PLNI in October 2001. According to Time Warner,
+ under PLNI’s assumed asset purchase agreement, PLNI was informed
+ of Time Warner’s purchase of GST assets, as well as which assets
+ were covered by PLNI’s purchase. Time Warner states that Section
+ 1.2 of the asset purchase agreement “provided that [PLNI] was not
+ acquiring any assets that had been conveyed to [Time Warner],”
+ and that this meant that “excluded from PLNI’s purchase were ‘all
+ 
+2
+ The parties do not make any arguments based on the parent-
+subsidiary relationship between TM and PLNI, and as noted infra, TM eventually
+assigned its rights in the asset purchase agreement to PLNI.
+ 
+4
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Carrier Identification Codes’ that Time Warner had acquired.” 
+Time Warner asserts that, pursuant to the plain language of
+ PLNI’s assumed asset purchase agreement, PLNI did not acquire
+ CICs 5756, 5478 or any other Carrier Identification Codes. 
+E. Time Warner’s Alleged Resolution of Dispute with GST
+ 
+On June 1, 2002, according to Time Warner, Time Warner
+ 
+and GST resolved the billing dispute over pre-October 2001 call
+ termination services received. Time Warner states that, “[b]ased
+ on proper certification from GST, [Time Warner] credited GST’s
+ account $327,714.03 for end user taxes that should not have been
+ charged, and GST paid the remaining balance due and owing.” Time
+ Warner notes that “as [Time Warner] was still providing
+ transition services for GST under the asset purchase agreement
+ between Time Warner and GST, including housing certain GST
+ divisions [such as] GST’s billing services, the notice of the
+ $327,714.03 credit was sent to GST, via Time Warner’s street
+ address.” 
+According to Time Warner, on August 7, 2002, any
+ 
+dispute regarding who owned certain Carrier Identification Codes
+ was resolved by GST when it assigned CIC 5478 to PLNI via Time
+ Warner’s Consent and Agreement to Assign Service. Time Warner
+ asserts that CIC 5756, as well as all other Carrier
+ Identification Codes remained with Time Warner pursuant to the
+ terms of the original asset purchase agreement executed between
+ GST and Time Warner.
+ 
+5
+         
+        
+    
+       
+          
+        
+      
+        
+        
+        
+         
+       
+  ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+II. Circuit Court Proceedings
+ 
+A. Pre-Trial Proceedings
+ 
+On December 30, 2003, PLNI filed a complaint and motion
+ 
+for preliminary injunction in the court against Time Warner,
+ 
+alleging, inter alia, that:
+ 
+34. On September 18, 2001, [PLNI] filed a dispute on
+defendants’ customer-investigation form for erroneous
+billings and payments concerning Feature Group D services
+that defendants never provided to either [PLNI] or GST. As
+ of December 4, 2003, defendants indicated they were still
+processing this claim, which, according to [PLNI’s]
+calculation, will result in a $230,760.16 credit in [PLNI’s]
+f
+avor.
+ 
+. . . .
+ 
+4
+1. [Time Warner] ha[s] wrongfully mis-billed [PLNI] for
+services defendants never provided, and are liable to [PLNI]
+for damages in an amount that exceeds $200,000, but which
+amount will be more precisely proved at trial.
+ 
+PLNI additionally asked for “money damages based on [Time
+ 
+Warner’s] wrongful actions in . . . © mis-billing [PLNI] for
+ Feature Group D services [Time Warner] never provided.”
+ 
+On June 22, 2005, PLNI filed with Time Warner the first
+ 
+of another series of Billing Dispute Submissions relating to
+ disputed invoices. Specifically, PLNI claimed that it was billed
+ on several account numbers for Feature Group D services that it
+ did not receive.
+ 
+On November 13, 2006, PLNI filed its pretrial statement
+ 
+stating, inter alia, that Time Warner “misbilled [PLNI] for other
+ telecommunications services” and that Time Warner was “liable to
+ [PLNI] for damages in an amount that exceeds $200,000.” March
+ 20, 2007, at the court’s direction, both parties filed motions
+ for summary judgment regarding some of the claims in PLNI’s
+ complaint. This did not include the Feature Group D claims. The
+ 
+6
+         
+       
+      
+      
+         
+         
+    ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+court entered summary judgment in favor of Time Warner. 
+According to Time Warner, the parties’ action then focused on the
+ remaining claims, which at this point Time Warner believed did
+ not include the Feature Group D claims.
+ 
+On July 16, 2007, Time Warner filed a motion seeking,
+ 
+among other things, dismissal of the Feature Group D claims on
+ the basis that they had been resolved. On July 27, 2007, PLNI
+ filed its opposition, alleging that the Feature Group D claims
+ had not been “satisfactorily resolved.” On August 15, 2007, the
+ court issued an order denying Time Warner’s motion in part, and
+ allowing PLNI to proceed with its Feature Group D claims. 
+On August 20, 2007, PLNI submitted to Time Warner a
+ 
+proposed Short Impartial Statement of the Case, which provided,
+ in relevant part that:
+ 
+[PLNI] asserts claims against [Time Warner] for billing
+[PLNI] approximately $138,000 to date for a
+telecommunications switching service called Feature Group D,
+which [Time Warner] purported to supply to [PLNI], but which
+[PLNI] has not received from [Time Warner]. [Time Warner]
+ denies having improperly billed [PLNI].
+ 
+Based on the court’s rulings up to this point, PLNI asserted that
+ 
+the only remaining dispute for trial was the Feature Group D
+ claim. On August 27, 2007, Time Warner filed its motion in
+ limine, seeking to exclude evidence regarding elements of the
+ Feature Group D dispute that had not been asserted in the
+ December 30, 2003 complaint and of which [Time Warner] alleged it
+ had not been given adequate notice (Motion in Limine).
+ 
+On August 30, 2007, Time Warner filed an Answer to
+ 
+[PLNI’]s original complaint (Answer). This answer asserted a
+ 
+7
+         
+        
+   
+         
+        
+        
+  ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+number of affirmative defenses, including that “[PLNI’s] claims
+ 
+are barred by the filed tariff doctrine.” 
+The court denied Time Warner’s Motion in Limine on
+ 
+August 31, 2007, which, Time Warner points out, was the last
+ business day before the start of trial.
+ 
+Also on August 31, 2007, PLNI filed a Motion to Strike
+ 
+Time Warner’s Answer (Motion to Strike). PLNI’s memorandum in
+ support of its Motion to Strike stated that Time Warner had,
+ “[w]ithout first moving for leave of the [c]ourt,” filed its
+ answer “three years and eight months after [PLNI] filed its
+ complaint and two business days before the start of 
+trial . . . .” 
+On September 4, 2007, Time Warner submitted a motion to
+ 
+dismiss for lack of subject matter jurisdiction on the basis that
+ the only remaining issues in the case, the Feature Group D
+ claims, were of a technical nature requiring the expertise of the
+ PUC.
+ B. Jury Trial
+ 
+A jury trial commenced the same day. On September 11,
+ 
+2007, over Time Warner’s objection, the jury was provided with a
+ special verdict form addressing contract issues.
+3 Time Warner
+ 
+3
+ Time Warner’s Amended Proposed Special Verdict Form stated as
+ 
+follows, in pertinent part:
+ 
+Question No. 1. Is Pacific LightNet entitled to GST
+Hawaii’s claim for the billing dispute submitted by GST
+Hawai'i to Time Warner Telecom on September 18, 2001?
+Yes ________ No ________
+ 
+(continued...)
+ 
+8
+         
+  
+          
+           
+            
+ 
+  
+    
+      
+       
+       
+        
+      
+     
+ 
+         
+       
+     
+    
+     
+       
+       
+      
+      
+      
+    ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+points out that the court refused to give the jury instructions
+ 
+on the law of tariffs, which it claims govern Feature Group D
+ issues.
+4
+ 
+3(...continued)
+If you answered Question No. 1 “Yes”, then go on to
+ 
+answer Question No. 2. If you answered Question No. 1 “No”,
+do not answer any further questions in Part A, but go on to
+Part B.
+ 
+4 Time  Warner  requested  that  the  court  provide  the  jury  with  a
+ 
+number  of  supplemental  jury  instructions.   These  included,  inter  alia:
+ 
+Te
+lecommunications Rules - Fair Compensation for Call
+ 
+Termination
+ 
+Telecommunications carriers must be compensated on a
+fair basis for terminating calls from another carrier’s
+customers. This includes the reasonable and necessary
+costs, as prescribed by law under tariff, of the
+telecommunications carrier in providing the services in
+question.
+ 
+Telecommunications Rules - Compensation for Termination
+ 
+Services Received
+ 
+Pacific LightNet, Inc. is required by law to pay Time
+Warner Telecom for call termination services that Pacific
+ LightNet, Inc. and its customers received.
+ 
+Telecommunications Rules - Tariff Compliance
+Telecommunications carriers are required to file
+tariffs with the Federal Communications Commission and the 
+Hawai'i Public Utilities Commission. These filed tariffs 
+govern the telecommunications carriers’ services, rates, and charges. Telecommunications carriers and their customers are required to comply with these tariffs. 
+Telecommunications Rules - Tariff Content
+ 
+Time  Warner  Telecom  has  filed  tariffs  with  the  Federal
+ 
+Communications  Commission  and  the  Hawai'i  Public  Utilities 
+Commission  as  required  by  law.   Time  Warner  Telecom’s
+ 
+tariffs  govern  the  rates,  terms,  and  condictions  for  call
+termination  of  other  carrier’s  customers.
+ 
+Telecommunications  Rules  - Tariff  Compliance
+Pacific  Lightnet,  Inc.,  as  a  telecommunications
+carrier  who  receives  call  termination  services  from  Time
+ 
+Warner  Telecom,  is  required  by  law  to  comply  with  the  terms
+of  Time  Warner  Telecom’s  tariffs.
+ 
+Tariff  - Billing  Dispute  Procedures
+By  law,  any  objections  to  billed  charges  must  be
+reported  to  Time  Warner  Telecom  within  120  days  of  the
+receipt  of  the  billing,  or  such  claims  are  waived.   All
+ 
+claims  objecting  to  billing  must  include  supporting
+documentation.
+ 
+(continued...)
+ 
+9
+         
+      
+     
+       
+       
+      
+      
+         
+         
+       
+       
+        
+      
+  
+       
+         
+       
+      
+           
+      
+      
+          
+        
+      
+        
+          ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+The record indicates that the jurors were given, inter
+ 
+alia, the following instruction:
+ 
+Instruction No. 13: Telecommunications Rules - Tariff
+ 
+Compliance [ 5
+]
+Tel
+ecommunications carriers are required to file
+tariffs with the Federal Communications Commission and the 
+Hawai'i Public Utilities Commission. These filed tariffs 
+govern the telecommunications carriers’ services, rates, and charges. Telecommunications carriers and their customers are required to comply with these tariffs. [Handwritten asfollows] The tariffs are both contracts and the law. 
+The tariffs were introduced into evidence as Trial Exhibit D-2
+ 
+and D-3.
+ 
+The jury returned a verdict in favor of PLNI in the
+ 
+amount of $327,714.03 in damages resulting from the credit that
+ was allegedly owed to PLNI. With respect to the overcharge
+ claim, the jury found that there was a breach of contract, 
+4(...continued)
+If the claim is timely filed and supporting
+documentation is provided, Time Warner Telecom is required
+to make adjustments to the invoices, but only where
+circumstances exist which reasonably indicate that such
+adjustments are appropriate.
+ 
+Tariff - Limitations on Liability of the Carrier
+By law, Time Warner Telecom cannot be held liable for
+any claims arising under its provision of services,
+including billing disputes over call termination services,
+that are due to any causes beyond the control of Time Warner
+Telecom.
+ 
+Telecommunications Rules - Tariff Cannot Be Altered
+ 
+The  terms  within  Time  Warner  Telecom’s  tariffs  cannot
+ 
+be  altered  without  prior  approval  from  the  Federal
+Communications  Commission  and  the  Hawai'i  Public  Utilities 
+Commission
+ Telecommunications Rules - Tariff Cannot be Altered
+ 
+If you make an award of any kind to Pacific LightNet,
+Inc., your award cannot alter, amend, or contradict the
+terms of Time Warner Telecom’s filed tariffs.
+ 
+5
+ A handwritten note on the instruction indicates that this
+ 
+instruction was given, as modified, over the objection of Time Warner.
+ 
+10
+         
+        
+        
+     
+Yes  ___X____ No  ________
+ 
+        
+ 
+ 
+     
+       
+       
+         
+  
+    
+      
+ 
+ 
+          
+       
+           
+           ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+awarded $1.00 nominal damages for breach of contract, and
+ 
+determined that PLNI’s outstanding bills owed to Time Warner for
+ Feature Group D services should be reduced by $118,109.58. The
+ jury special verdict form stated as follows:
+ 
+Question No. 1 . Did Plaintiff Pacific Lightnet, Inc.
+prove breach of contract by Defendants regarding the billing
+dispute submitted on September 18, 2001?6
+ 
+If  you  answered  Question  No.  1  “Yes”,  then  go  on  to
+answer  Question  No.  2,  if  you  answered  Question  No.  1  “No”,
+ 
+go  on  to  Question  3.
+ 
+Qu
+estion No. 2 . What are the damages for this breach
+ 
+of contract?
+ 
+$ 327,714.03
+ Go on to Question No. 3.
+Question No. 3. Did Plaintiff Pacific Lightnet, Inc.
+prove breach of contract by Defendants regarding Feature
+Group D billings for any period from October 11, 2001,
+through the present?
+7
+ 
+Yes ___X____ No ________
+ 
+If  you  answered  Question  No.  3  “Yes”,  then  go  on  to
+ 
+answer  Question  No.  4.   If  you  answered  Question  No.  3  “No”,
+ 
+do  not  answer  any  further  questions.   Please  have  the
+ 
+Foreperson  sign  the  Special  Verdict  Form  and  call  the
+Bailiff.
+ 
+Question  No.  4.  What are the damages for this breach
+of contract?
+ 
+$ 1
+ 
+If  you  awarded  more  than  $1  in  Question  No.  4,  sign
+the  Special  Verdict  Form  and  call  the  Baliff.   If  you
+ 
+awarded  $1,  go  on  to  Question  No.  5.
+ 
+Question No. 5. If you awarded $1 in Question No. 4,
+state whether Plaintiff Pacific Lightnet, Inc. proved that
+ 
+6
+ Questions 1 and 2 relate to the credits that PLNI was allegedly
+ 
+due, but that Time Warner contended had already been resolved with GST.
+ 
+7
+ Questions  3,  4,  and  5  relate  to  claims  that  PLNI  was  erroneously
+ 
+charged  for  services  that  it  allegedly  never  received,  in  breach  of  the
+contract  between  PLNI  and  Time  Warner.   The  special  jury  verdict  form
+indicates  that  the  jury  found  that  there  was  a  breach  of  contract,  awarded  $1
+as  nominal  damages  for  the  breach,  and  found  that  PLNI  had  been  overcharged  by
+$118,109.58.
+ 
+11
+         
+          
+    
+ 
+       
+    
+   
+            
+        
+           
+          
+             
+            
+           
+            
+           
+         
+         
+     ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+the pending bills should be reduced and, if so, in what
+amount.
+ 
+No ________ Yes ___X____
+ $ 118,109.58
+ 
+Please have the Foreperson sign the Special Verdict
+Form and Call the Baliff.
+ DATED: Honolulu, Hawai 'i, 9/13/07. 
+C. Post-Trial Proceedings
+ 
+On September 20, 2007, the court heard Time Warner’s
+ 
+motion to dismiss for lack of subject matter jurisdiction that
+ 
+had been submitted prior to trial, on September 4, 2007. At the
+ September 20, 2007 hearing, the court stated near the conclusion
+ of the hearing that it would grant the motion and stay the effect
+ of the verdict:
+ 
+So what I’ll say is in granting the motion on the basis of
+primary jurisdiction, I’m staying the effect of the verdict
+but we’re going to get this up because we’re not going to
+wait around . That would be ridiculous so that you could
+take it up as part of the judgment. That’s my -- I don’t
+ think -- even if I’m wrong as to how the mechanics of the
+judgment should look, they’ll tell me that too. But I just
+want it not to be a matter that languishes here for no good
+reason and then have to do a 54(b) cert on the summary
+judgment and send that up. That would be extremely
+inefficient, don’t you agree? I mean, I’m assuming you’re
+going to appeal the summary judgment?
+ 
+(Emphasis added.)
+ 
+The court granted the motion to dismiss for lack of
+ 
+subject matter jurisdiction on October 23, 2007. The jury
+ 
+verdict was stayed until further order of the court.
+ 
+On October 25, 2007, the court entered an order
+ 
+granting in part and denying in part PLNI’s Motion to Strike Time
+ Warner’s Answer. In the order, the court stated that “[t]he 
+12
+         
+         
+        
+      
+      
+         
+           
+         
+          
+         
+             
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Motion is granted with respect to [PLNI’s] request that all
+ 
+affirmative defenses asserted by [Time Warner] in its Answer to
+ [PLNI’s] Verified Complaint . . . filed December 30, 2003 . . . ,
+ except for the defense of lack of subject matter jurisdiction,
+ 
+8
+are hereby stricken.”  (Emphases added.)  
+On November 2, 2007, PLNI filed a Motion for
+ 
+Reconsideration of Order Granting Time Warner’s Motion to Dismiss
+ for Lack of Subject Matter Jurisdiction Based on the Primary
+ Jurisdiction Doctrine of the PUC (Motion for Reconsideration of
+ Primary Jurisdiction). In its memorandum in support of the
+ Motion for Reconsideration of Primary Jurisdiction, PLNI argued
+ that the court should stay the proceedings instead of dismissing
+ the Feature Group D Claims. The court denied PLNI’s Motion for
+ Reconsideration of Primary Jurisdiction on December 4, 2007.
+ 
+On December 12, 2007, the court entered its final
+ 
+judgment, stating that the Feature Group D Claims were dismissed
+ on the basis of the primary jurisdiction doctrine, but the
+ enforcement of the jury verdict was stayed until further order of
+ the court. The judgment stated, in relevant part:
+ 
+On October 23, 2007, the [c]ourt issued its Order Granting
+Defendants [Time Warner]’s Motion to Dismiss for Lack of
+Subject Matter Jurisdiction Based Upon the Primary
+Jurisdiction Doctrine of the Public Utilities Commission,
+Filed September 5, 2007. By this Order, the [c]ourt
+dismissed all of the Feature Group D Claims on the basis of
+the primary jurisdiction doctrine. Due to the dismissal of
+ 
+all of the Feature Group D Claims, the [c]ourt stayed
+ 
+8
+ During trial, it appears that the judge allowed testimony into
+ 
+evidence that was relevant to at least one of these defenses, but the court
+did not provide instructions to the jury on the defenses.
+ 
+13
+         
+           
+          
+  
+          
+             
+               
+            ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+enforcement of the jury verdict in favor of PLNI on the Feature
+Group D claims entered on September 13, 2007 until further order
+of the [c]ourt .
+ 
+(Emphasis added.)9
+ 
+On December 20, 2007, Time Warner filed a Motion for
+ 
+Judgment as a Matter of Law or Alternatively for New Trial (JMOL
+ 
+Motion). The JMOL Motion stated that, “[t]his Motion is made out
+ of an abundance of caution to preserve [Time Warner]’s rights to
+ appeal the underlying jury verdict, despite the fact that final
+ judgment was ultimately entered in [Time Warner]’s favor based on
+ the primary jurisdiction doctrine and the summary judgment
+ orders, among other things.” (Emphasis added.) Time Warner
+ alleged in its JMOL Motion that the “the jury verdict exceeded
+ the bounds of law under the filed tariff doctrine and the law of
+ assignments, and the jury was not properly instructed on certain
+ terms including the affirmative defenses.” Time Warner argued
+ that the striking of the affirmative defenses from its Answer
+ contributed to the incomplete jury instructions and permitted the
+ jury to return a verdict that violated the law of the tariffs,
+ and additionally, violated the law of assignments.
+ 
+On January 14, 2008 PLNI filed its Notice of Appeal
+ 
+with the ICA. On April 14, 2008, Time Warner filed its Notice of
+ Cross-Appeal. 
+9
+ Based on the transcript of September 20, 2007 hearing on the
+ 
+motion to dismiss, it appears that the court was unsure as to the appropriate
+language for the judgment. The judge stated, “even if I’m wrong as to how the
+mechanics of the judgment should look, [the appellate court] will tell me that
+too.”
+ 
+14
+         
+         
+            
+          
+    
+       
+          
+        
+             
+             
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+On January 31, 2008, the court held a hearing on the
+ 
+JMOL Motion. The court stated that the JMOL Motion would be
+ 
+dismissed for lack of jurisdiction, because the court had found
+that it lacked jurisdiction over the Feature Group D claims:
+  
+THE COURT: [Counsel for Time Warner], these are your
+ 
+motions. The first one is for judgment as a matter of law
+or alternatively for a new trial, and that’s with respect to
+what we called the -­
+[
+Counsel for Time Warner]: Feature Group D.
+ 
+THE  COURT:   Correct,  which  is  what  we  had  the  trial
+ 
+for  -­
+[Counsel  for  Time  Warner]:   That’s  correct,  Your
+ 
+Honor.
+ 
+THE  COURT:   -- which  I  later  ruled  over  objection  that
+there  was  primary  jurisdiction  in  the  PUC,  and,  therefore,
+the  claim  would  be  dismissed  for  lack  of  jurisdiction.   So
+ 
+since  you  are  not  asking  me  to  change  that  ruling  -- are
+ 
+you?
+ 
+[Counsel  for  Time  Warner]:   I  am  not,  Your  Honor.
+ 
+THE  COURT:   And,  therefore,  this  motion  is  dismissed
+for  lack  of  jurisdiction.
+ 
+. . . .
+
+ 
+THE  COURT:   But  if  I  didn’t  have  jurisdiction,  I  don’t
+understand  how  I  could  possibly  grant  a  new  trial  or
+judgment  as  a  matter  of  law.   It’s  perfectly  okay  that  you
+brought  this  motion  and  that  it’s  been  briefed  because  if
+I’m  wrong  on  primary  jurisdiction,  then  the  judgment  would
+enter  consistent  with  the  prevailing  party  on  the  verdict
+and  nothing  [is]  wrong  with  you  preserving  your  rights
+through  this  motion.
+ 
+. . . .
+  
+T
+HE COURT: But, otherwise, I don’t see how I could
+possibly be internally consistent by ruling on the motion.
+ 
+In accordance with its oral ruling at the hearing, on March 7,
+ 
+2008, the court filed its order denying Time Warner’s JMOL
+ Motion.
+ 
+III.
+ ICA Appeal
+ 
+On appeal to the ICA, PLNI asked, inter alia,10 whether
+ 
+the court erred in dismissing the Feature Group D claims on the 
+10
+ PLNI raised a total of five points of error in its appeal to the
+ 
+ICA, however, only the one listed is relevant on certiorari to this court, and
+thus, discussion of PLNI’s other points of error is omitted.
+ 
+15
+         
+          
+       ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+grounds that primary jurisdiction lay with the PUC, even though
+ 
+the jury had already rendered a verdict in favor of PLNI. PLNI
+ argued that the primary jurisdiction doctrine did not warrant
+ dismissal of the case by the court.
+ 
+On cross-appeal to the ICA, Time Warner alleged, inter
+ 
+alia, that “[t]he jury verdict should be vacated because it is
+ contrary to the law, and consequently, the [] [c]ourt erred by
+ denying [Time Warner’s] motion for judgment as a matter of
+ law.”
+11 Time Warner maintained that “[g]ranting judgment as a
+ 
+matter of law/new trial is appropriate when the jury verdict is
+ contrary to the law.” 
+Oral argument was had on June 22, 2011, and the ICA
+ 
+issued its Memorandum Opinion on January 25, 2013. Pacific
+ 
+Lightnet, Inc. v. Time Warner Telecom, Inc., Nos. 28948, 29105,
+ 2013 WL 310149, at *1 (Haw. App. Jan 25, 2013). PLNI’s points of
+ error on appeal to this court relate solely to the Feature Group
+ D claims, and thus, the ICA’s holding only as to those claims is
+ discussed. See id. at *5. 
+The ICA reviewed de novo the question of whether the
+ 
+court properly determined that the PUC had primary jurisdiction. 
+Id. It noted that in Chun v. Employees’ Retirement System, 73
+ 
+Haw. 9, 828 P.2d 260 (1992), this court “treated primary
+ jurisdiction similar to the question of subject matter 
+11
+ The remaining points of error alleged by Time Warner in its
+ 
+Opening Brief are not relevant to this appeal.
+ 
+16
+         
+            
+            
+          
+          
+ ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+jurisdiction.” Id. (citing Chun, 73 Haw. at 14, 828 P.2d at 
+263). The ICA therefore reasoned that because questions of 
+subject matter jurisdiction are reviewed de novo, that standard of review should also be applied to questions of primary jurisdiction. Id. It stated, however, that “if it is determined 
+that primary jurisdiction applies such that [PLNI’s] claims should first be addressed in the PUC, we will review for abuse of discretion the [] court’s decision to dismiss those claims rather than staying the [] court proceedings on those claims.” Id. 
+(citing Fratinardo v. Emps.’ Ret. Sys., 121 Hawai' i 462, 469, 220 
+P.3d 1043, 1050 (App. 2009)). 
+The ICA first considered whether the court properly 
+applied the primary jurisdiction doctrine, concluding that, “[u]nder the regulatory scheme set forth in [Hawai' i Revised 
+Statutes (HRS)] Chapter 269 and the applicable rules pertaining to the PUC, the issues involved in resolving the Feature Group D claims have been placed within the special competence of the PUC.”
+12 Pacific Lightnet, 2013 WL 310149, at *7. It noted that 
+“because the [] court properly recognized the primary jurisdiction of the PUC, the [] court was mandated to suspend the judicial proceedings as to the Feature Group D claims.” Id. at 
+*9. 
+12
+ The ICA also reasoned that the issues of fact in the case required
+ 
+the PUC’s technical expertise. Pacific Lightnet , 2013 WL 310149, at *7.
+Although the ICA characterized this as the “filed-rate doctrine”, id., this
+consideration would be relevant to the question of primary jurisdiction, as
+indicated infra.
+ 
+17
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+The ICA additionally concluded that the jury verdict
+ 
+must be vacated pursuant to the filed-rate doctrine. Id. at *9. 
+It reasoned that because the tariff provisions, including the
+ 
+120-day requirement, cannot be waived by the carrier, and Time
+ Warner “was entitled to assert under the tariffs that certain
+ portions of the Feature Group D claims were barred under the 120­day requirement[,]” an issue which the jury did not consider, the
+ jury verdict violated the filed-rate doctrine. Id. at *9-10. 
+Then, the ICA considered whether the court’s remedy of
+ 
+dismissal was appropriate, holding that the court did not abuse
+ its discretion in dismissing, rather than staying, the Feature
+ Group D claims. Id. at *11-12. The ICA clarified that “the
+ 
+dismissal is without prejudice to PLNI asserting the Feature
+ Group D claims in the PUC.” Id. at *12. 
+IV. Application for Certiorari
+ 
+In its Application, PLNI asks first, whether “the ICA
+ 
+err[ed] in affirming [the court’s] application of the primary
+ jurisdiction doctrine post-trial in deference to the [PUC], where
+ the PUC’s statute does not place ‘special competence’ over
+ billing disputes in the agency and the jury was capable of
+ rendering a special verdict based on the factual evidence at
+ trial?”. (Emphasis added.) Second, PLNI inquires whether “the
+ ICA err[ed] in ruling that the jury’s verdict must be vacated
+ because it violated the filed-rate doctrine, where the jury was
+ instructed on the terms and effect of the tariff by [the court], 
+18
+         
+ 
+         
+            
+             
+            ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+and the rates, terms and reasonableness of the tariff were never
+ 
+challenged?” (Emphasis added.)13
+ 
+With respect to its first point of error, PLNI’s
+ 
+Application argues that “there is no specific statutory mandate
+ that directs that the PUC must handle billing disputes which may
+ arise between a carrier and its customers.” (Emphasis in
+ original.) On this point, PLNI maintains that the jury could
+ resolve the factual issues in this case without need for the
+ PUC’s technical expertise. 
+As to its second point of error, PLNI argues that this 
+court’s decision in Balthazar v. Verizon Hawai' i, Inc., 109 
+Hawai'i 69, 123 P.3d 194 (2005), recognized that the filed-rate 
+doctrine does not always apply where tariffs are implicated. PLNI claims that “the [] court, and the jury as trier of fact, could and did in fact correctly interpret and enforce the tariff.” PLNI contends that “there was no danger that the jury was unaware of the 120-day provision in the tariff.” In PLNI’s view, the difference of $118,109.08 between what was actually awarded and PLNI’s requested amount of damages “shows that the jury may have discounted the amount sought based on the 120-day rule in the tariff[,]” and thus, “[t]he verdict should stand.” 
+In response, Time Warner argues that dismissal pursuant
+ 
+to the primary jurisdiction doctrine is appropriate because the
+ 
+13
+ Although Time Warner filed a cross-appeal with the ICA challenging
+ 
+the validity of the jury’s verdict, Time Warner did not appeal the ICA’s
+decision to this court, since as noted supra, the ICA held that the jury’s
+verdict must be vacated. See Pacific Lightnet , 2013 WL 310149, at *10.
+ 
+19
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Feature Group D claims required resolution of issues that were
+ 
+“‘placed within the special competence of an administrative
+ body[,]’” (quoting Kona Old Hawaiian Trails Grp. v. Lyman, 69
+ Haw. 81, 93, 734 P.2d 161, 162 (1987)), and that the jury verdict
+ violates the filed-rate doctrine and should be vacated. Time
+ Warner avers, inter alia, that the time limitations within which
+ to dispute a carrier’s billing must be adhered to, including the
+ 120-day limitation in the PUC’s tariffs, and that the jury
+ verdict did not consider this rule, because the jury was not
+ instructed on the law of tariffs.
+ 
+In its Reply, PLNI emphasizes that there was no need
+ 
+for a technical analysis of call records or carrier
+ identification codes to establish a foundation for PLNI’s right
+ to the credit and that the PUC does not have special statutory
+ competence in resolving billing disputes. Further, it
+ characterizes Time Warner’s objections to the Feature Group D
+ claims verdict as essentially an assault on the competence of the
+ jury to weigh the evidence and make credibility determinations. 
+Finally, it avers that the jury properly took the tariffs into
+ consideration because the jury was instructed that the tariffs
+ provided the applicable law and had the actual tariffs, including
+ the 120-day limit provision, as trial exhibits.
+ V. Overview of the Primary Jurisdiction and Filed-Rate Doctrines
+ 
+The instant case implicates two doctrines that both
+ 
+relate to conflicts involving public utilities -- the doctrine of
+ primary jurisdiction and the filed-rate doctrine. Although the
+ 
+20
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+two doctrines often arise in the same cases, they are conceptually
+ 
+distinct and each doctrine is applied differently.
+ A. Primary Jurisdiction Doctrine
+ 
+The doctrine of primary jurisdiction is generally 
+applicable to all areas where administrative agencies exercise expertise. In Kona Old, this court stated that “[p]rimary jurisdiction . . . comes into play whenever enforcement of the claim requires the resolution of issues which, under the regulatory scheme have been placed within the special competence of an administrative body[.]” 69 Hawai' i at 93, 734 P.2d at 168 
+(emphasis added) (internal quotation marks omitted) (quoting United States v. Western Pac. R.R., 352 U.S. 59, 63-64 (1956)). 
+Primary jurisdiction is “conceptually analogous” to the
+ 
+doctrine of the exhaustion of administrative remedies. See Aaron
+ 
+J. Lockwood, Note, The Primary Jurisdiction Doctrine: Competing
+ Standards of Appellate Review, 64 Wash. & Lee L. Rev. 707, 739
+ (2007) (hereinafter Lockwood, Competing Standards of Appellate
+ Review); see also Goya Foods, Inc. v. Tropicana Products, Inc.,
+ 846 F.2d 848, 851 (1988) (“The doctrine of primary jurisdiction
+ represents a version of the administrative exhaustion requirement
+ . . . .”). As this court noted in Kona Old, “‘[b]oth are
+ essentially doctrines of comity between courts and agencies.’” 
+69 Haw. at 93, 734 P.2d at 168 (quoting B. Schwartz,
+ Administrative Law § 8.23, at 485 (2d ed. 1984)). However, it is
+ important to note that unlike the doctrine of exhaustion, the
+ doctrine of primary jurisdiction does not require a determination
+ 
+21
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+that the court lacks jurisdiction over the matter. Compare 
+Hawai'i Blind Vendors Ass’n v. Dep’t of Human Servs., 71 Haw. 
+367, 371, 791 P.2d 1261, 1264 (1990) (concluding that the agency 
+was the appropriate forum for an initial decision in Rudolph-Sheppard Vending Stand Act claims under the doctrine of primary jurisdiction) with Tamashiro v. Dep’t of Human Servs., 112 Hawai'i 388, 411-12, 146 P.3d 103, 126-27 (2006) (overruling 
+Hawai'i Blind Vendors to the extent that it held that the circuit 
+court had any original subject matter jurisdiction over Rudolph-Sheppard Vending Stand Act claims); see also, Tamashiro, 112 Hawai'i at 429-30, 125 P.3d at 143-45 (Pollack, J., dissenting) 
+(“This court’s conclusion that the circuit court had concurrent jurisdiction to decide the issues raised in Hawai' i Blind Vendors 
+was unequivocally a determination of subject matter jurisdiction over the case.”). 
+Instead, primary jurisdiction presumes that the claim 
+at issue is originally cognizable by both the court and the agency. Aged Hawaiians v. Hawaiian Homes Comm’n, 78 Hawai' i 192, 
+202, 891 P.2d 279, 289 (1995). In contrast, applying the doctrine of exhaustion requires that the claim be only cognizable before the agency. Kona Old, 69 Haw. 93, 734 P.2d 169; See 
+Lockwood, Competing Standards of Appellate Review, supra, at 742. Thus, the court must first determine whether the agency has exclusive original jurisdiction, in which case, the doctrine of exhaustion would apply. If not, and the court finds that it does possess jurisdiction over the matter, the court can then decide 
+22
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+if it is appropriate to apply the doctrine of primary
+ 
+jurisdiction. See Lockwood, Competing Standards of Appellate
+ 
+Review, supra, at 750-51.
+ 
+The impetus behind the primary jurisdiction doctrine is
+ 
+two-fold. First, as noted, it is designed to address cases
+ “‘raising issues of fact not within the conventional experience
+ of judges or cases requiring the exercise of administrative
+ discretion[.]’” Kona Old, 69 Haw. at 93, 734 P.2d at 169
+ 
+(quoting Far East Conference v. U.S., 342 U.S. 570, 574 (1952)). 
+In Far East Conference, for example, the United States Supreme
+ Court was deciding “whether, in a suit brought by the United
+ States to enjoin a dual-rate system enforced in concert by
+ steamship carriers engaged in foreign trade, a District Court can
+ pass on the merits of the complaint before the Federal Maritime
+ Board has passed upon the question.” 342 U.S. at 573. 
+The District Court in Far East Conference had invoked
+ 
+the primary jurisdiction doctrine, reasoning that “[w]hether a
+ given agreement among carriers should be held to contravene the
+ act may depend upon a consideration of economic relations, of
+ facts peculiar to the business or its history, of competitive
+ conditions in respect to the shipping of foreign countries, and
+ of other relevant circumstances, generally unfamiliar to a
+ judicial tribunal, but well understood by an administrative body
+ . . . .” The Court upheld the District Court’s use of the
+ doctrine. Id. at 573-74. 
+23
+         
+  
+ ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Second, “[t]he primary jurisdiction doctrine is 
+designed to promote uniformity and consistency in the regulatory 
+process.” Aged Hawaiians, 78 Hawai' i at 202, 891 P.2d at 289 
+(citing Western Pac. R.R., 352 U.S. at 63-64). The goal of ensuring regulatory uniformity and consistency though the primary jurisdiction doctrine is evinced by the fact that the doctrine arose in the context of interstate transportation carrier rates, see Texas & Pacific Railway Co. v. Abilene Cotton Oil Co., 204 U.S. 426 (1907), and has been applied in Hawai' i cases in a 
+number of other contexts where disparate decisions on a particular issue could undermine an administrative agency’s authority and a uniform regulatory scheme. See Chun, 73 Haw. at 
+11, 828 P.2d at 260 (primary jurisdiction doctrine invoked with respect to implementation of statutory scheme governing employee retirement benefits); Hawai' i Blind Vendors, 71 Haw. at 370, 791 
+P.2d at 1264 (application of the Department of Human Services’ primary jurisdiction to decide the circumstances under which the 
+Department of Transportation could give priority treatment to a 
+non-profit that employed handicapped individuals); Jou v. Nat’l Ins. Co., 114 Hawai' i at 128, 157 P.3d at 567 (applying the 
+primary jurisdiction doctrine to a claim that an insurance carrier had acted in bad faith). Thus, in deciding whether the primary jurisdiction doctrine applies, a judge should consider whether various courts addressing the same regulatory issue would reach different results and if those disparities would impact an overall regulatory scheme. 
+24
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+B. Filed-Rate Doctrine
+ 
+The filed-rate doctrine is also known as the filed-
+tariff doctrine. Balthazar, 109 Hawai' i at 72, 123 P.3d at 198. 
+Essentially, “it prohibits a regulated entity from charging rates 
+for its services that differ from the rates filed with the appropriate federal regulatory agency.” Id. (citing Ark. La. Gas 
+Co. v. Hall, 453 U.S. 571, 577 (1981)). In Balthazar, this court provided a brief history of the doctrine, noting that the twin aims of the filed-rate doctrine were to “(1) prevent[] service or rate discrimination among consumers and (2) prevent[] courts from intruding upon the rate-making authority of federal agencies.” Id. at 73, 123 P.3d at 198 (citing Bryan v. BellSouth Communications, Inc., 377 F.3d 424, 429 (4th Cir. 2004)). Although originally a federal doctrine, this court has held that the principles of the filed-rate doctrine apply where rates are filed with a state regulatory agency. Id. (citing Molokoa 
+Village Dev. Co. v. Kauai Elec. Co., 60 Haw. 582, 587, 593 P.2d 375, 379 (1979) (stating that the rule that prevents carriers from being bound under equitable doctrines to their undercharges “applies equally to other utilities”)). 
+In the telecommunications sector, regulated entities 
+have their rates and terms defined in tariffs filed with the state PUC and the FCC. See Balthazar, 109 Hawai' i at 74, 123 
+P.3d at 199. “Generally, tariffs are ‘public documents setting forth services being offered; rates and charges with respect to services; and governing rules, regulations, and practices 
+25
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+relating to those services.’” In re Waikoloa Sanitary Sewer Co., 
+109 Hawai' i 263, 271, 125 P.3d 484, 492 (2005) (brackets omitted) 
+(quoting Adams v. Northern Illinois Gas Co., 808 N.E.2d 1248, 
+1263 (2004)). 
+Pursuant to the filed-rate doctrine, “filed tariffs 
+govern a utility’s relationship with its customers and have the force and effect of law until suspended or set aside.” Id. 
+(emphasis added) (quoting Southwestern Elec. Power Co. v. Grant, 73 S.W.3d 211, 217 (2002)). Balthazar noted that “neither the 
+tort of the carrier nor the existence of a contract will work to vary or enlarge the rights defined in a tariff.” 109 Hawai' i at 
+73, 123 P.3d at 198 (citation omitted). 
+It is well-established that “‘the filed-rate 
+doctrine. . . does not preclude courts from interpreting the provisions of a tariff and enforcing that tariff,’ Brown [v. MCI WorldCom Network Services, Inc.], 277 F.3d [1166,] 1171-72 [(9th Cir. 2002)], and that ‘if the filed-rate doctrine were to bar a court from interpreting and enforcing the provisions of a tariff, that doctrine would render meaningless the provisions of the [Federal Communications Act] allowing plaintiffs redress in federal court,’ id. at 1172.” Waikoloa, 109 Hawai' i at 272, 125 
+P.3d at 493 (original brackets omitted). 
+The filed-rate or filed-tariff doctrine does preclude
+ 
+certain types of claims, however. This court has held that
+ claims that “directly attack the validity or reasonableness of
+ rates or terms defined in a tariff” are barred, see Balthazar,
+ 
+26
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+109 Hawai' i at 74, 81, 123 P.3d at 199, 206, and claims that seek 
+damages are barred “if an award of damages ‘would have the effect 
+of imposing any rate other than that reflected in the filed tariff[,]’” id. at 81, 123 P.3d at 206 (quoting Dreamscape Design, Inc. v. Affinity Network, Inc., 414 F.3d 665, 669 (7th Cir. 2005)). Despite these limitations, it appears that so long as a claim only “ask[s] the courts to interpret the filed rates, or to enforce the filed rates” the claim will not be barred by the filed-rate doctrine. Id. (citations and internal quotation 
+marks omitted). 
+This court has applied the filed-rate doctrine in three
+ 
+prior cases, Molokoa Village, Balthazar, and Waikoloa, which are
+ briefly summarized as follows for illustrative purposes. In
+ Molokoa Village, the plaintiff alleged that the defendant, the
+ electric utility serving Kauai, was required to reimburse to the
+ plaintiff the costs of installation of an underground electric
+ system in a real estate development, as agreed upon by the
+ parties. 60 Haw. at 583, 593 P.2d at 377. The defendant alleged
+ that although the parties had agreed, it was unable to lawfully
+ reimburse the full agreed-upon costs because of the limitations
+ provided in its tariff. Id. at 584, 593 P.2d at 377. 
+According to the terms of the tariff, the tariff barred
+ 
+payment of the agreed-upon claim, unless the additional expense
+ of the underground installation was for “engineering and
+ operating reasons.” Id. at 588, 593 P.2d at 380. This court
+ 
+construed the defendant’s position as asserting the defense of
+ 
+27
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+“illegality,” and therefore concluded that the defendant carried
+ 
+the burden of proof to show that the reimbursement would violate
+ the tariff limitation. Id. In addressing the merits, Molokoa
+ 
+Village held that “[t]he facts found by the trial court suggest
+ that the [plaintiff] may have had engineering and operating
+ reasons for some portion of [the] underground installation and
+ thus do not negate the existence of such reasons for assuming the
+ entire cost of the system.” Id. at 589, 593 P.2d at 380. Since
+ 
+the defendant did not affirmatively establish that there were no
+ engineering and operating reasons for the additional cost, this
+ court held that a reimbursement of the agreed-upon amount was
+ required. Id. Thus, in Molokoa Village, the filed-rate doctrine
+ 
+was analyzed as a defense to a contract claim. 
+In Balthazar, Verizon had represented to consumers that 
+they must pay a fee in order to receive “Touch Calling” services. 109 Hawai' i at 71, 123 P.3d at 196. However, identical telephone 
+services were provided to customers who did not pay the fee. Id. 
+at 70, 123 P.3d at 195. The plaintiffs filed a complaint against Verizon, claiming that Verizon had engaged in false, unfair, and/or deceptive trade practices by misrepresenting to consumers that they had to pay an additional fee. Id. at 71, 123 P.3d at 
+195. The relevant tariff provisions provided that a charge was
+ 
+to be paid for the Touch Calling service, because the PUC had
+ ordered that the existing rate structure be kept intact despite
+ changes in the relevant technology, to enable the recovery of
+ costs for other services. Id. 
+28
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Verizon filed a motion to dismiss the complaint,
+ 
+arguing that plaintiff’s complaint was barred by both the filed-
+rate and primary jurisdiction doctrines. Id. The trial court
+ 
+denied Verizon’s motion to dismiss, but later granted a motion
+ for summary judgment filed by Verizon on the ground that the
+ claims were barred by the filed-rate doctrine. Id. at 70, 123
+ 
+P.3d at 195. This court held that the claims were barred because
+ (1) knowledge of the tariff terms, including the fees for Touch
+ tone calling services was imputed to consumers under the filed-
+rate doctrine, id. at 75, 123 P.3d at 200, (2) despite the
+ alleged misrepresentations, the plaintiffs incurred no injury
+ because they had paid the filed rate for the Touch Calling
+ service under the terms of the tariff, id. at 80, 123 P.3d at
+ 205, and (3) payment to the plaintiffs to reimburse the Touch
+ Calling fee by Verizon or by the court in the form of damages
+ would have the effect of imposing a lower rate for Touch Calling
+ fees than the rate prescribed by the tariff, in violation of the
+ filed-rate doctrine, id. at 80-81, 123 P.3d at 205-06. Thus, in
+ Balthazar, this court interpreted and enforced the terms of the
+ tariff in reaching its result. 
+In Waikoloa, this court considered, inter alia, whether 
+contributions made by real estate developers to a public utility to build new wastewater collection and treatment facilities fell within the purview of a filed tariff. 109 Hawai' i at 270, 125 
+P.3d at 491. The appellant had appealed from a final order of the PUC requiring that it refund certain contributions. Id. 
+29
+         
+        
+           
+             
+            
+           
+            
+              
+            
+          ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+This court concluded that the PUC had erred in requiring that the
+ 
+appellant provide a refund to the developers, because the
+ appellant’s filed tariff stated that “[developers] shall be
+ required to pay a non-refundable contribution in aid of
+ construction of the Company.” Id. at 272, 125 P.3d at 493
+ 
+(emphasis in original). Waikoloa interpreted the tariff under
+ 
+the principles of statutory interpretation, and held that because
+ the tariff language explicitly prohibited refunds, the payments
+ were not refundable, regardless of whether the limitations on
+ refunds furthered the public policy behind the filed-rate
+ doctrine. Id. at 272 n.10, 273, 125 P.3d at 493 n.10, 494.
+ 
+VI. Subject Matter Jurisdiction
+ 
+A.
+ 
+As noted, in this case, the court dismissed the Feature
+ 
+Group D claims in an order titled “Order Granting [Time Warner]’s
+ Motion to Dismiss for Lack of Subject Matter Jurisdiction Based
+ on the Primary Jurisdiction of the Public Utilities Commission
+ Filed September 5, 2007.”
+14 However, it must be noted that the
+ 
+doctrine of primary jurisdiction is distinct from subject matter
+ jurisdiction for analytical purposes. As explained above, under
+ the doctrine of primary jurisdiction, the court and the agency
+ 
+14
+ Neither party argues that the court lacked subject matter 
+jurisdiction, and the ICA apparently assumed that the court did have subject
+matter jurisdiction. However, it is noted that “[i]f the parties do not raisethe issue [of lack of jurisdiction over the subject matter], a court sua
+sponte will, for unless jurisdiction of the court over the subject matter
+exists, any judgment rendered is invalid.” Tamashiro , 112 Hawai 'i at 398, 146 
+P.3d at 113 (citation omitted). In this case, there was no statute that woulddeprive the court of jurisdiction over the Feature Group D claims. Therefore, the court had subject matter jurisdiction in the instant case. 
+30
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+share concurrent jurisdiction over the matter. See, e.g., Chun, 
+73 Haw. at 12, 828 P.2d at 262; Hawai' i Blind Vendors, 71 Haw. at 
+371, 791 P.2d at 1264; Kona Old, 69 Haw. at 93, 734 P.2d at 169. 
+See also, Reiter v. Cooper, 507 U.S. 258, 268 (1993) (“Referral of the issue to the administrative agency does not deprive the court of jurisdiction[.]”). 
+Although this court, in Chun, seems to suggest that 
+primary jurisdiction is part of subject matter jurisdiction, the language of Chun’s holding is that “[t]he stay of proceedings pending administrative review involves a jurisdictional issue which can never be waived by any party at any time.” 73 Hawai' i 
+at 14, 828 P.2d at 263 (citation omitted). Thus, primary jurisdiction is “a jurisdictional issue,” id., although it does not directly implicate a court’s subject matter jurisdiction. See also, Tamashiro, 112 Hawai' i at 430, 146 P.3d at 145 
+(Pollack, J., dissenting) (noting that a court’s conclusion that it had concurrent jurisdiction with an agency over particular matter means that the court has already decided that it possesses subject matter jurisdiction). 
+This distinction is reflected in the discretion given 
+to courts to decide whether to dismiss or stay litigation after a finding that the primary jurisdiction doctrine applies, as discussed infra. Fratinardo, 121 Hawai' i at 469, 220 P.3d at 
+1050. If primary jurisdiction was equivalent to subject matter jurisdiction, then dismissal would be the only option available to courts. See Riethbrock v. Lange, 128 Hawai' i 1, 11, 282 P.3d 
+31
+         
+         
+       
+          
+         
+          
+        
+      
+          
+         
+        
+    ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+543, 553 (2012) (“A judgment rendered by a circuit court without
+ 
+subject matter jurisdiction is void.”) (citation omitted).
+ 
+B.
+ 
+First, it must be determined whether the court had
+ 
+subject matter jurisdiction over the Feature Group D claims. The
+ ICA noted that there is no dispute over whether the Feature Group
+ D claims were “originally cognizable” in the court, and analyzed
+ the case only with respect to whether the court had primary
+ jurisdiction over the matter. 
+Pacific Lightnet, Inc.,  2013 WL
+ 
+310149, at *6, n.6. However, this court must address subject
+ matter jurisdiction to first determine whether the claims were
+ cognizable in circuit court.
+ 
+“The existence of jurisdiction is a question of law that
+[this court] review[s] de novo under the right/wrong
+standard.” Amantiad v. Odum , 90 Hawai 'i 152, 158, 977 P.2d
+160, 166 (1999) (quoting Lester v. Rapp , 85 Hawai 'i 2358, 
+241, 942 P.2d 502, 505 (1977)). “[I]f a court lacksjurisdiction over the subject matter of a proceeding, anyjudgment rendered in that proceeding is invalid[,t]herefore, such a question is valid at any state of thecase[.]” Bush v. Hawaiian Homes Comm’n , 76 Hawai 'i 128,
+133, 879 P.2d 1272, 1277 (1994) (brackets and internalquotation marks omitted). 
+Kepo'o v. Kane, 106 Hawai' i 270, 281, 103 P.3d 939, 950 (2005) 
+(brackets in original). 
+Time Warner does not argue that PLNI’s claims should
+ 
+have been dismissed because the PUC had exclusive jurisdiction
+ 
+over the Feature Group D claims. However, in support of its
+ argument that the court properly exercised the doctrine of
+ primary jurisdiction, Time Warner cites to a number of statutory
+ provisions that it claims indicate the legislature’s intent to
+ 
+32
+         
+       
+         
+              
+         
+      
+       
+         
+        
+     
+       
+        
+           
+            
+          
+         
+            
+             
+                
+           
+           
+        
+         
+          
+           
+           
+            
+           
+             
+   ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+set up a comprehensive regulatory scheme, “which specifically
+ 
+gives the PUC primary jurisdiction over transmission and billing
+ disputes between carriers.” Although Time Warner characterizes
+ these as indicating “primary jurisdiction,” as a preliminary
+ matter, it must be determined whether these statutes would give
+ the PUC exclusive jurisdiction over the Feature Group D claims.
+15
+ 
+HRS § 269-6(a) (Supp. 2000) provides that “[t]he public
+ 
+utilities commission shall have the general supervision
+ hereinafter set forth over all public utilities, and shall
+ perform the duties and exercise the powers imposed or conferred
+ upon it by this chapter.” In addition, with respect to the PUC’s
+ investigative powers, HRS § 269-7(a) (1993) provides that:
+ 
+(a) The public utilities commission and each commissioner
+shall have power to examine into the condition of each
+public utility . . . the fares and rates charged by it . . .
+the amount and disposition of its income, and all its
+financial transactions, its business relations with other
+persons, companies, or corporations , its compliance with all
+applicable state and federal laws and with the provisions of
+its franchise, charter, and articles of association, if any,
+its classifications, rules, regulations, practices, and
+ 
+15 Several other jurisdictions have statutes that unequivocally grant 
+original, exclusive jurisdiction in their state utilities commission forcertain types of claims. For example, in Kazmaier Supermarket v. Toledo
+Edison Co. , 573 N.E.2d 655 (Ohio 1991), the Ohio supreme court reviewed a
+number of provisions in its revised code, and concluded that “[t]he[legislature] has provided a specific remedy for persons, firms orcorporations who have sustained damages due to an unlawful act of a publicutility, or where such damages arise from the utility’s omission to do any actor thing required by law or by the order of the commission.” Id. at 659. 
+Similarly, in Village of Evergreen Park v. Commonwealth Edison Co. , 695 N.E.2d
+1339 (Ill. App. Ct. 1998), an Illinois appellate court reviewed the IllinoisCommerce Commission’s jurisdiction, noting that “[i]n accordance with [thePublic Utility] Act, the [Commerce] Commission has exclusive jurisdiction overcomplaints of excessive rates or overcharges by public utilities; and courtshave jurisdiction over those matters only on administrative review.” Id. at 
+1341. The instant case is distinguishable from Kazmaier and Village of
+Evergreen Park in that, as discussed infra, Hawai 'i law related to the PUC 
+does not divest subject matter jurisdiction from the courts. See, e.g.,
+Balthazar , 109 Hawai 'i at 81, 123 P.3d at 206; Waikoloa , 109 Hawai 'i at 273, 
+125 P.3d at 494. 
+33
+         
+        
+        
+  
+         
+            
+           
+           
+     
+       
+         
+          
+        
+      
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+service, and all matters of every nature affecting the
+relationships and transactions between it and the public or
+persons or corporations .
+ 
+(Emphases added.)
+ 
+The Feature Group D claims in the instant case would
+ 
+fall within the broad provisions of HRS § 269-6 and HRS § 269-7,
+ 
+as a dispute between telecommunication carriers regarding billing
+ and compensation for services.
+16 However, this would not deprive
+ 
+the court of jurisdiction over such matters. The language of the
+ above provisions indicates only that the PUC would have
+ jurisdiction over matters such as transactions between carriers,
+ and not that the PUC would have exclusive jurisdiction. While
+ such provisions authorize the PUC to undertake certain
+ activities, including investigation, they do not prohibit the
+ court from deciding cases involving matters such as the
+ relationship between a public utility and other companies or
+ corporations. See HRS § 269-7(a).
+ 
+Moreover, HRS § 269-15(a) (1993) states that “[t]he
+ 
+commission may examine into any of the matters referred to in
+ 
+17
+ section 269-7[ ], notwithstanding that the same [matters
+16 In support of its assertions that the PUC has original
+ 
+jurisdiction over these matters, Time Warner also cites to HRS § 269-37 (Supp.
+1995). However, HRS § 269-37 relates to the negotiation of compensation
+agreements between carriers, which does not appear to be implicated in this
+case. See HRS § 269-37.
+ 
+17
+ The remainder of HRS § 269-7 provides that:
+ 
+(b) The commission may investigate any person acting in the
+capacity of or engaging in the business of a public utility
+within the State, without having a certificate of public
+convenience and necessity or other authority previously
+obtained under and in compliance with this chapter or the
+(continued...)
+ 
+34
+         
+    
+          
+          
+          
+        
+         
+   ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+referred to in HRS § 269-7] may be within the jurisdiction of any
+ 
+court or other body; provided that [HRS § 269-15] shall not be
+ construed as in any manner limiting or otherwise affecting the
+ jurisdiction of any such court or other body.” (Emphases added.) 
+Hence, the statute recognizes that the matters described in 269-7
+ may be within the jurisdiction of the court, indicating that PUC
+ jurisdiction is not exclusive. HRS § 269-15(a) expressly
+ preserves the jurisdiction “of any such court” as concurrent with
+ the authority granted to the PUC.
+ 
+In HRS § 269-15(a), the legislature recognized 
+concurrent jurisdiction could exist in the courts, when it stated that “[HRS § 269-15] shall not be construed as in any manner limiting or otherwise affecting the jurisdiction of any such court . . . .“ As stated previously, courts have exerted subject matter jurisdiction over PUC matters. See Balthazar, 109 Hawai' i 
+at 71, 123 P.3d at 195; Molokoa Village, 60 Haw. at 588, 593 P.2d at 380. 
+Accordingly, under Hawai' i’s statutory scheme, certain 
+powers are granted to the PUC, but those statutorily enumerated powers do not deprive the circuit courts of jurisdiction in areas 
+17(...continued)
+rules promulgated under this chapter.
+ 
+(c) Any investigation may be made by the commission on its
+own motion, and shall be made when requested by the public
+utility to be investigated, or by any person upon a sworn
+written complaint to the commission, setting forth any prima
+facie cause of complaint. A majority of the commission
+ shall constitute a quorum.
+ 
+35
+         
+     
+          
+         
+            
+     ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+where jurisdiction might overlap. Rather, claims brought in the
+ 
+courts may be subject to the primary jurisdiction doctrine and
+ the filed- rate doctrine, which serve to limit the ability of a
+ plaintiff to bring claims in the courts rather than with the PUC,
+ as discussed supra. Consequently, these doctrines do not erect
+ barriers to original jurisdiction.
+18
+ 
+Thus, in Hawai' i, the courts have subject matter 
+jurisdiction over disputes between carriers regarding billing and compensation for services. The court in this case, then, had concurrent jurisdiction with the PUC over PLNI’s Feature Group D claims. 
+VII. Standard of Review for Primary Jurisdiction
+ 
+Having determined that the court had concurrent 
+jurisdiction with the PUC, the inquiry is whether the court properly dismissed Petitioner’s Feature Group D claims as a matter of primary jurisdiction. Related to the distinction between primary jurisdiction and subject matter jurisdiction is the question of what standard of review this court should apply in determining whether the court properly dismissed PLNI’s claims. Hawai' i case law in the area of primary jurisdiction 
+has not directly addressed the applicable standard of review. Federal courts of appeal are split as to whether to apply a de 
+18
+ The statutory scheme governing the PUC in Hawai 'i is not a 
+“complete and comprehensive statutory scheme governing review” by the PUC,
+Kazmaier , 573 N.E.2d at 659, and thus the instant case is distinguishable from
+Kazmaier and Village of Evergreen Park . 
+36
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+novo or abuse of discretion standard, see S. Utah Wilderness
+ 
+Alliance v. Bureau of Land Mgmt., 425 F.3d 735, 750 (10th Cir.
+ 2005); A. Lucchetti, Note, One Hundred Years of the Doctrine of
+ Primary Jurisdiction: But What Standard of Review is Appropriate
+ For It?, 59 Admin. L. Rev. 849, 851 (2007); Lockwood, Competing
+ Standards of Appellate Review, supra, at 721-22, although it
+ appears that most states apply de novo review, see e.g., Siewert
+ v. N. States Power Co., 793 N.W.2d 272, 277 (Minn. 2011); The
+ Country Vintner, Inc. v. Louis Latour, Inc., 634 S.E.2d 745, 750
+ (Va. 2006); In re Interest of Battiato, 613 N.W.2d 12, 15 (Neb.
+ 2000). 
+The elements of the primary jurisdiction doctrine that 
+are generally considered to be matters of law have been discussed, including whether the issues presented are not within the conventional experience of judges, see Kona Old, 69 Haw. at 93, 734 P.2d at 169, and whether deferring to an agency will promote uniformity and consistency in the regulatory process, see Aged Hawaiians, 78 Hawai' i at 202, 891 P.2d at 289. 
+However, courts that have held that an abuse of discretion standard applies emphasize the prudential nature of the doctrine, namely that “[the court] has discretion either to retain jurisdiction or, if the parties would not be unfairly disadvantaged, to dismiss the case without prejudice.” Reiter, 
+507 U.S. at 268-69. See also Lockwood, Competing Standards of 
+Appellate Review, supra, at 739 (arguing that direct contact 
+37
+          ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+with the litigant makes the trial judge better able to weigh the
+ 
+burdens of referral, and that this should be a “heavy
+ consideration” weighing in favor of de novo review). As
+ discussed infra, and consistent with the prudential aspects of
+ the doctrine, the court may take into consideration when in the
+ litigation process the issue of primary jurisdiction was first
+ raised, and the extent to which applying the doctrine could be
+ prejudicial to either party. See U.S. v. McDonnell Douglas
+ 
+Corp., 751 F.2d 220, 224 (8th Cir. 1984) (“A court should be
+ reluctant to invoke the doctrine of primary jurisdiction, which
+ often, but not always, results in added expense and delay to
+ litigants where the nature of the action deems the application
+ of the doctrine inappropriate.”) (internal quotation marks and
+ citation omitted). 
+The focus of the trial court’s decision, however, 
+should be on the rationales underlying the doctrine, which are matters of law. As such, issues of primary jurisdiction should be reviewed de novo on appeal. Such a holding is consistent with this court’s characterization of primary jurisdiction as “a jurisdictional issue.” Chun, 73 Hawai' i at 14, 828 P.2d at 
+263. Inasmuch as “[t]he existence of jurisdiction is a question 
+of law that we review de novo under the right/wrong standard[,]” Lingle v. Hawai' i Gov’t Emp. Ass’n, AFSCME, Local 152, 107 
+Hawai'i 178, 183, 111 P.3d 587, 592 (2005), the court’s decision 
+to invoke the primary jurisdiction doctrine is reviewed de novo as well. If the court determines that the primary jurisdiction 
+38
+         
+          
+             
+             
+              
+            
+           
+    
+          
+            
+             
+           
+            
+              
+          
+          
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+doctrine applies, the court, in its discretion, may determine
+ 
+whether to stay the litigation or dismiss without prejudice.19
+ 
+VIII. Application of the Primary Jurisdiction Doctrine
+ 
+The court’s decision to invoke primary jurisdiction is
+ 
+reviewed on the basis of the dual rationales underlying the
+ primary jurisdiction doctrine, as discussed above. Applying
+ these two rationales to the instant case, it appears that the
+ court erred in applying the doctrine of primary jurisdiction.
+ 
+A.
+ 
+The first rationale relates to the specialized 
+competence of the administrative agency. See Kona Old, 69 
+Hawai'i at 93, 734 P.3d at 168. In its analysis regarding the 
+primary jurisdiction doctrine, the ICA emphasized the regulatory scheme set forth in HRS Chapter 269, Pacific Lightnet, Inc., 2013 WL 310149, at *7, and PLNI argues in its Application that there is no specific statutory mandate that directs that PUC must handle billing disputes. It is important to distinguish, 
+19 On appeal from the ICA’s decision, PLNI does not challenge the 
+fact that the court dismissed all of the Feature Group D claims, rather than
+staying the enforcement of the jury verdict pending the resolution by the PUC.Thus, this issue need not be decided herein. However, as to this issue, the ICA concluded in Fratinardo , 121 Hawai 'i at 468-69, 220 P.3d at 1049-50, that
+the court has discretion to fashion an appropriate remedy when applying theprimary jurisdiction doctrine.
+This rationale is sound, as evidenced in the instant case, where
+the court dismissed PLNI’s claims rather than require the parties to wait for
+the outcome of the PUC’s decision before filing an appeal. However, a court
+can abuse its discretion in fashioning a remedy after invoking the primary
+jurisdiction doctrine if such a remedy would unduly prejudice one or both of
+the parties. See, e.g., Brown, 277 F.3d at 1172-73 (noting that where a two-
+year statute of limitations for the plaintiff’s action had expired, the
+plaintiff may be “unfairly disadvantaged” if the district court were to
+ dismiss the claim without prejudice under the primary jurisdiction doctrine).
+ 
+39
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+however, between a statutory scheme that evinces the 
+Legislature’s intent to divest the court of jurisdiction, and a statutory or regulatory scheme that places certain issues “within the special competence of an administrative body.” Kona 
+Old, 69 Hawai' i at 93, 734 P.2d at 168 (emphasis added) 
+(internal quotation marks and citation omitted). The question, as noted, is whether the issue is “within the conventional experience of judges.” Far East Conference, 342 U.S. at 574. 
+Thus, while the existence of statutes and regulations discussing the PUC’s authority over particular matters is certainly relevant to the court’s determination of whether to apply primary jurisdiction, it is not dispositive. Equally important is the question of whether the claim presented “falls squarely within the experience and expertise of courts generally[,]” Advamtel, LLC v. AT&T Corp., 105 F.Supp. 2d 507, 512 (E.D.Va. 2000), or if, instead, the claims are premised on “technical matters calling for the special competence of the administrative expert[,]” Aged Hawaiians, 78 Hawai' i at 202, 891 P.2d at 289. 
+Contrary to the ICA’s holding, the statues and rules
+ 
+cited by Time Warner do not require dismissal on the basis of
+ primary jurisdiction. Time Warner cites to HRS § 269-6
+ (providing PUC with general supervision over all public
+ utilities), HRS § 269-16 (Supp. 1998) (providing PUC with
+ general supervision over all public utility rates charged), and
+ HRS § 269-37 (providing PUC with authority to determine
+ compensation agreements between carriers). These statutes do
+ 
+40
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+not place the action in the instant case within the “special
+ 
+competence” of the PUC, however. They provide the PUC with
+ authority to take certain actions as an administrative agency,
+ but, the authority granted to the PUC over certain types of
+ billing disputes is shared with the courts. 
+The “special competence” of the PUC under the primary
+ 
+jurisdiction doctrine involves the types of actions that are
+ related to the rationales behind the doctrine, to promote
+ uniformity and to prevent courts from engaging in the types of
+ policy-making decisions that administrative agencies must make. 
+Thus, the PUC’s special competence is in, for example,
+ regulation of utility rates and ratemaking procedures, see HRS §
+ 269-16, and in ensuring that compensation agreements between
+ telecommunications carriers are fair, see HRS § 269-37, actions
+ that promote uniformity across the industry and fair rates for
+ customers. None of these statutes indicate that the PUC should
+ have primary jurisdiction over a billing dispute, where that
+ dispute does not have broader implications with respect to rates
+ or relationships among carriers generally.
+ 
+Moreover, the regulations cited by Time Warner do not
+ 
+require dismissal in order that the PUC to exercise primary
+ jurisdiction. HAR § 6-61-71 provides only that “[t]he
+ commission may at any time investigate matters subject to its
+ jurisdiction.” HAR § 6-80-7(a) simply states that “[t]o the
+ extent feasible and practical, disputed issues of access,
+ interconnection, unbundling, and network termination shall be
+ 
+41
+         
+         
+      
+         
+        
+        
+         
+        
+          
+       ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+combined into a single petition before the commission.” These
+ 
+provisions seem to set forth only the PUC’s internal procedures
+ for exercising its jurisdiction, rather than any specialized
+ competence in the area of billing disputes. Additionally, Time
+ Warner avers that HAR Chapter 6-80 provides a comprehensive
+ treatment of billing disputes, specifically HAR § 6-80-102,
+ which, to reiterate, states:
+ 
+(a) When a dispute arises between a customer and a
+telecommunications carrier regarding any bill, the carrier
+may require the customer to pay the undisputed portion of
+the bill. The carrier shall conduct an appropriate
+investigation of the disputed charge or charges and shall
+provide a report of the investigation to the customer.
+Where the dispute is not reconciled, the carrier shall
+advise the customer that the customer has the right to file
+a complaint with the commission regarding the dispute.
+ 
+However, regardless of whether HAR § 6-80-102 would in fact
+ 
+apply in a situation such as the instant case, it does not
+ evince a comprehensive regulatory scheme that would create a
+ “special competence” in the PUC to resolve billing disputes
+ between two carriers. Thus, Time Warner’s reference to
+ statutory and regulatory requirements are not persuasive with
+ respect to establishing the special competence of the PUC. 
+Also, Time Warner alleges that the Feature Group D
+ 
+claims require the specialized and technical expertise of the
+ PUC. Although Time Warner maintains that the claims required a
+ review of call detail records, which “show who is making the
+ call, who is receiving the call, and what carriers are
+ associated with the calls,” as well as an understanding of
+ carrier identification codes, Time Warner has not indicated why
+ 
+42
+          
+           
+       
+     
+        
+            
+         
+        
+        
+ 
+        
+      
+        
+           
+             
+             
+        ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+a jury would not be able to understand these matters, if
+ 
+properly explained, other than to say that they are “technical”
+ in nature.
+20 In its briefing, Time Warner claims that the jury
+ 
+was not instructed properly on the technical matters involved in
+ the case, but again, this argument goes to the validity of the
+ jury verdict itself, rather than to whether the court properly
+ dismissed the claim pursuant to primary jurisdiction. 
+Time Warner avers that MCI Telecommunications Corp. v.
+ 
+Ameri-Tel, Inc., 852 F.Supp. 659 (1994), supports its position,
+ in that the court in that case stated:
+ 
+The Court also concludes that there is no need for us to
+ 
+delve deep into the world of information indicators,
+automatic number identifiers, operator line screening,
+billed number screening, and all the other acronyms Ameri-
+Tel believes are at the heart of this case. The FCC is
+ better suited than this Court to decide issues turning on
+the operation of these technical mechanisms. However, as
+we stated above, Ameri-Tel has overstated the nature of
+this case.
+ 
+852 F.Supp. at 665. Here, however, it appears that Time Warner
+ 
+has similarly “overstated the [technical] nature of this case.” 
+Id. The MCI court goes on to state that, “[t]his case is not
+ 
+about technical or economic issues in the telecommunications
+ industry, . . . . [i]t is likewise not about the reasonableness
+ of the MCI Tariff. Rather, it is a collection case requiring 
+20
+ While Time Warner claims that Hawai 'i has recognized that 
+“transmission and billing matters between telecommunications carriers
+typically require technical expertise that is within the exclusivejurisdiction of the PUC[,]” the cases cited by PLNI indicate that rate-making
+is within the exclusive jurisdiction of the PUC. See In re Hawaiian Telephone
+Co., 67 Haw. 370, 379, 689 P.2d 741, 747 (1984); Hawai'i Electric Light Co. ,
+60 Haw. 625, 636, 594 P.2d 612, 620 (1979). 
+43
+         
+  ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+application of the filed-rate doctrine and construction of the
+ 
+terms of the MCI Tariff.” Id. at 666. 
+Analogously, the instant case is not about technical or 
+economic issues in the telecommunications industry. The questions posed by this case do appear to involve some industry terminology and processes. However, juries frequently hear cases involving technical terms and processes. The presence of industry terminology and technical processes in a particular suit are not enough to require that the court invoke the primary jurisdiction. Thus, there is no indication that these claims are premised on “technical matters calling for the special competence of the administrative expert.” Aged Hawaiians, 78 Hawai' i at 
+202, 891 P.2d at 289. 
+Instead, the claims at issue in this case appear to be
+ 
+“within the conventional experience of judges.” Far East
+ 
+Conference, 342 U.S. at 574. In Advamtel, the Eastern District
+ of Virginia court considered a claim by local exchange carriers
+ to recover unpaid fees allegedly owed to them by long distance
+ carriers. 105 F.Supp. 2d at 509. AT&T filed a counterclaim
+ alleging, inter alia, that the plaintiff had billed AT&T for
+ access services which AT&T never ordered, contrary to the terms
+ of their filed tariffs. Id. at 512. That court held that two of
+ 
+the counterclaims in the case, requiring an evaluation of the
+ reasonableness of the rates under the applicable tariff, should
+ be referred to the FCC. Id. With respect to the remainder of
+ 
+the counterclaims, the court noted that the threshold legal
+ 
+44
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+question underlying those claims was “whether plaintiffs had a
+ 
+right to bill [defendant] for the access services at issue 
+. . . .”
+ 
+That court reasoned that “AT&T’s counterclaims are
+ 
+premised on the assertion that, under plaintiffs’ filed tariffs,
+ which establish a procedure for ordering plaintiffs’ access
+ services, it did not order such services[,]” and that,
+ accordingly, “[i]f AT&T never ordered plaintiffs’ access
+ services, AT&T cannot be forced to pay plaintiffs for those
+ services.” Id. 
+Under these facts, Advamtel characterized AT&T’s
+ 
+counterclaim as an “entitlement to bill issue” and stated that it
+ is “essentially similar to a typical contract dispute involving
+ issues of contract formation through offer and acceptance.” Id. 
+Therefore, it held the enforcement of the tariff was “within the
+ ordinary experience and expertise of courts.” Id. at 513. This
+ 
+is akin to the facts of the instant case, wherein PLNI claimed
+ that it was charged for services that it never received,
+ essentially, an “entitlement to bill issue.” Thus, the issues
+ raised in this case are similarly within the ordinary expertise
+ of courts. 
+B.
+ 
+The second question is whether applying the primary 
+jurisdiction doctrine will “promote uniformity and consistency in the regulatory process.” Aged Hawaiians, 78 Hawai' i at 202, 891 
+P.2d at 289. See also, Advamtel, 105 F.Supp.2d at 511 (“One 
+45
+              ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+issue typically referred to the FCC under the primary
+ 
+jurisdiction doctrine is the reasonableness of a carrier’s tariff
+ because that question requires the technical and policy expertise
+ of the agency, and because it is important to have a uniform
+ national standard concerning the reasonableness of a carrier’s
+ tariff, as a tariff can affect the entire telecommunications
+ industry”); MCI, 852 F.Supp. at 666 (noting that, in a collection
+ case requiring application of the filed-rate doctrine, “there is
+ no danger of . . . contradicting a prior application to the
+ FCC in this case . . . or issuing a ruling inconsistent with the
+ FCC’s overall regulatory scheme.”). Here, there is no indication
+ 
+that applying the primary jurisdiction doctrine would promote the
+ uniformity and consistency rationales behind the doctrine. The
+ instant case does not require the exercise of administrative
+ discretion, and furthermore, a result in this case would not
+ impact the result in any other cases, inasmuch as the facts and
+ circumstances are unique to these parties and their asset
+ purchase agreements with GST. A decision with respect to the
+ obligations of the parties here would not affect future customers
+ or other telecommunications carriers. 
+C.
+ 
+In addition to the two rationales underlying the
+ 
+primary jurisdiction, the doctrine also has a prudential aspect,
+ as noted, that courts should take into consideration in deciding
+ whether it is appropriate to stay or dismiss the proceedings and
+ defer to the agency. For example, in Jou, this court stated that
+ 
+46
+         
+         
+          
+              
+             
+             
+           
+            
+         
+           
+            
+   ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+“[s]taying the proceedings conserves scarce judicial resources by 
+allowing an administrative agency with expertise to decide the predicate issues.” 114 Hawai' i at 128, 157 P.3d at 567. On the 
+other hand, the United States Supreme Court has noted that “[w]ise use of the doctrine necessitates a careful balance of the benefits to be derived from utilization of agency processes as against the costs in complication and delay.” Ricci v. Chicago 
+Mercantile Exch., 409 U.S. 289, 321 (1973). See also McDonnell 
+Douglas Corp., 751 F.2d at 224 (“[A] court ‘should be reluctant to invoke the doctrine of primary jurisdiction, which often, but not always, results in added expense and delay to the litigants where the nature of the action deems the application of the doctrine inappropriate.’”) (emphasis added) (quoting Mississippi Power & Light Co. v. United Gas Pipe Line Co., 582 F.2d 412, 419 (5th Cir. 1976), cert denied, 429 U.S. 1094 (1977)). 
+In connection with these prudential concerns, PLNI
+ 
+argued that the court should not cede jurisdiction where primary
+ jurisdiction is raised only after a jury trial has resolved the
+ factual issues.
+21 In support of this argument, PLNI cited to
+ 
+21 PLNI also correctly points out that none of this jurisdiction’s 
+cases applying the primary jurisdiction doctrine have deferred the matter to
+the agency after a verdict had already been entered in a jury trial. See 
+Chun, 73 Haw. at 10, 828 P.2d at 261 (trial court granted summary judgment);
+Hawai'i Blind Vendors , 71 Haw. at 368, 791 P.2d at 1263 (trial court granted
+summary judgment); Aged Hawaiians , 78 Hawai 'i at 199-200, 891 P.2d at 286-87
+(circuit court granted in part a motion to dismiss on the basis thatalternative administrative procedures were available); Kona Old , 69 Haw. at
+86, 734 P.2d at 164 (circuit court dismissed appeal from planning departmentdirector’s decision); Jou, 114 Hawai 'i at 126, 157 P.3d at 565 (circuit court 
+granted motion to dismiss). 
+47
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Travelers Insurance Co. v. Detroit Edison Co., 631 N.W.2d 733
+ 
+(Mich. 2001), in which the Michigan Supreme Court noted that
+ “[t]here may well be cases, for example, in which the invocation
+ of primary jurisdiction is not appropriate because litigation
+ with respect to the particular claim that would normally be
+ subject to the jurisdiction of the administrative agency has
+ ‘advanced to a point where it would be unfair to remit the
+ [party] to another and duplicative proceeding . . . .’” 631
+ N.W.2d at 746 n.19 (alterations in original) (quoting White Lake
+ Imp. Ass’n v. City of Whitehall, 177 N.W.2d 473, 483 (Mich.App.
+ 1970)).
+ 
+The instant case appears to be one of those cases in
+ 
+which the application of the primary jurisdiction doctrine would
+ be unfair, inasmuch as Time Warner raised the issue only on the
+ eve of trial, and applying the doctrine would require additional
+ proceedings that would be duplicative of the 2007 jury trial. As
+ noted, Time Warner filed its Answer on August 30, 2007, alleging
+ for the first time that PLNI’s claims were barred by the doctrine
+ of primary jurisdiction. On September 4th, after the parties had
+ already submitted proposed jury instructions, witness lists, and
+ special verdict forms, Time Warner submitted its Motion to
+ Dismiss based on the primary jurisdiction of the PUC. This was
+ the same day that trial began. Accordingly, the court decided
+ not to hear the motion, but instead to go forward with the jury
+ trial.
+ 
+48
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Under these circumstances, the timing of Time Warner’s
+ 
+initial assertion that the primary jurisdiction doctrine should
+ 
+apply may be taken into consideration, inasmuch as a party could
+ “game” the system by only raising primary jurisdiction as a late-
+stage alternative, in the event that the court proceedings appear
+ to be resolving in favor of its opponent. In this case, because
+ the issue was raised at a late date and decided only after a jury
+ trial on the factual issues, the late timing of Time Warner’s
+ assertion is a factor among others that weighs against invocation
+ of the doctrine. Therefore, because the rationales underlying
+ the primary jurisdiction doctrine would not be effectuated
+ through its application to this case, we hold the court erred in
+ invoking the doctrine and dismissing PLNI’s claims.
+ 
+IX. Review of the Jury Verdict
+ 
+PLNI’s second point of error challenges the ICA’s
+ 
+conclusion that the jury verdict must be vacated because it
+ violated the filed-rate doctrine. As a preliminary matter, we
+ must determine whether this point of error may be reached. 
+Because the court dismissed the Feature Group D claims, through
+ the dismissal the court appears to have invalidated the jury
+ verdict, although it apparently did not intend to do so, since it
+ also stayed the jury’s verdict.
+ 
+As noted, after a jury verdict was rendered on
+ 
+September 13, 2007 as to the Feature Group D claims, the court
+ held a hearing on Time Warner’s September 4, 2007 motion to
+ dismiss based on the primary jurisdiction of the PUC. At the
+ 
+49
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+hearing, the court orally ruled that it would grant the motion to
+ 
+dismiss “on the basis of primary jurisdiction” and that “in
+ granting the motion . . . [it was] staying the effect of the
+ verdict . . . .” On October 23, 2007, the court entered an order
+ granting Time Warner’s motion to dismiss. On December 12, 2007,
+ the court entered a final judgment which reflected its oral
+ ruling at the hearing on the motion to dismiss. The final
+ judgment stated in part, to reiterate: “By [the October 23, 2007]
+ Order, the [c]ourt dismissed all of the Feature Group D claims on
+ the basis of the primary jurisdiction doctrine. Due to the
+ dismissal of the Feature Group D claims, the [c]ourt stayed
+ enforcement of the jury verdict in favor of PLNI on the Feature
+ Group D claims entered on September 13, 2007 until further order
+ of the [c]ourt.”
+ 
+The court’s dismissal of the Feature Group D claims
+ 
+would dismiss the jury’s verdict, so there would no longer be
+ any verdict to enforce. Therefore, the court’s judgment,
+ dismissing the Feature Group D claims pursuant to its
+ determination that primary jurisdiction lay in the PUC, and
+ staying the enforcement of the jury’s verdict pending further
+ order of the court, was internally inconsistent.
+ 
+Ordinarily, having concluded that the court erred in
+ 
+applying the primary jurisdiction doctrine to dismiss the Feature
+ Group D claims, this court would vacate the dismissal and remand
+ the case to proceed to trial on those claims. In this case,
+ however, the trial as to those claims has already taken place and
+ 
+50
+         
+           
+          
+            
+              
+             
+           ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+a jury has rendered a verdict. The validity of that verdict,
+ 
+under the filed-rate doctrine was appealed to the ICA, and the
+ ICA decided whether the verdict was in fact valid on the
+ merits.
+22 The parties also briefed substantive issues related to
+ 
+the jury’s verdict before the ICA and this court. Under these
+ circumstances, in the interest of judicial economy, this court
+ may proceed to render a decision as to PLNI’s second point of
+ error -- whether the jury’s verdict should be upheld as valid.
+ 
+X. Application of the Filed-Rate Doctrine
+ 
+In this case, Time Warner alleges that a variety of
+ 
+tariff provisions were apparently violated by the jury verdict. 
+Inasmuch as tariffs operate like laws, Time Warner’s argument on
+ this issue is akin to an argument that the verdict is wrong as a
+ matter of law. Time Warner contends that, contrary to the jury’s
+ verdict, the tariffs bar the Feature Group D claims. 
+A. 
+Time Warner first alleges that the jury verdict is 
+contrary to provisions in the PUC and FCC tariffs deeming that all billing disputes not submitted to Time Warner within 120 days of receipt of the bill are waived. The PUC tariff titled “Regulations and Schedule of Intrastate Charges Applying to Access Services Within the State of Hawai' i” provides as follows, 
+22, As noted, the ICA held the court properly invoked the doctrine of
+ 
+primary jurisdiction in dismissing the Feature Group D claims. Pacific
+ 
+Lightnet , 2013 WL 310149, at *11-12. The ICA also clarified that the
+ 
+dismissal was without prejudice. Id. at *12. In light of its conclusion that
+dismissal was proper, it is not clear that the ICA’s holding with respect to
+the validity of the jury verdict would have any effect.
+ 
+51
+         
+ 
+         
+           
+          
+       
+               
+        
+      
+   
+  
+         
+           
+          
+       
+               
+        
+      
+    
+         
+          ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+at § 2.7:
+ 
+2.7 Disputed Bills
+Objections to billed charges must be reported to the Company
+within 120 days of receipt of billing. Any claim not filed
+within this time period shall be deemed waived . Claims must
+ 
+include all supporting documentation and may be submitted
+online at . . . or by telephone at . . . . The Company shall
+make adjustments to the Customer’s invoice to the extent
+that circumstances existing which reasonably indicate that
+such changes are appropriate.
+ 
+(Emphasis added.) In the FCC tariff titled, “Regulations and
+ 
+Rates of Time Warner Telecom,” § 2.11 similarly provides:
+ 
+2.11 Claims and Disputes
+Objections to billed charges must be reported to the Company
+within 120 days of receipt of billing. Any claim not filed
+within this time period shall be deemed waived . Claims must
+ 
+include all supporting documentation and may be submitted
+online at . . . or by telephone at . . . . The Company
+shall make adjustments to the Customer’s invoice to the
+extent that circumstances existing which reasonably indicate
+that such changes are appropriate.
+ 
+(Emphasis added.) Pursuant to the filed-rate doctrine, notice of
+ 
+the terms and rates of the tariff, including these provisions, is
+ imputed to PLNI. Balthazar, 109 Hawai' i at 73, 123 P.3d at 198 
+(citing Evanns v. AT&T Corp., 229 F.3d 837, 840 (9th Cir. 2000)). 
+B. 
+In Time Warner’s Answer to PLNI’s initial complaint,
+ 
+Time Warner had alleged as a defense that PLNI’s claims were
+ barred by the filed-rate doctrine. As noted, the court struck
+ the affirmative defenses listed in Time Warner’s Answer because
+ 
+23
+ the Answer was not timely filed,  including the 120-day
+provision in the tariff, which the court construed as a statute
+ of limitations. This was explained at trial, when Time Warner
+ 
+23
+ To reiterate, the only affirmative defense not stricken by the
+ 
+court was lack of subject matter jurisdiction. See discussion supra.
+ 
+52
+         
+           
+          
+         
+       
+          
+          
+        
+        
+           
+           
+         
+        
+         
+         
+         
+           
+          
+           
+          
+       
+        
+      
+          
+      
+        
+            
+        
+         
+           
+         
+           
+          
+  ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+submitted an instruction on the 120-day time limitation in the
+ 
+tariffs as part of its proposed jury instructions. As to the
+ jury instruction, the court stated:
+ 
+Okay. As to No. 16, the 120 days, the [c]ourt allowed
+evidence of 120 days because it’s relevant in part to the
+defense of -- or strike that -- to negativing the
+plaintiff’s evidence of undue delay inasmuch as you’re
+supposed to file a claim within 120 days and you haven’t
+done so and you say all the invoices, and that means
+everything before -- well, for the duration of the
+relationship which exceeds 120 days, and the [c]ourt allowed
+that in as evidence. But the [c]ourt finds that the 120
+days of the tariff is akin to or constitutes the statute of
+limitations, which in this case is by Hawai 'i law an 
+affirmative defense . And even though -- although there
+hasn’t been a request for an instruction about statute of
+limitations being six years on a contract, it wouldn’t be
+given anyway because I struck all the affirmative defenses .
+And it may be that there are two statute of limitations that
+are potentially applicable. And I think the best analogy to
+that is the City and County ordinance which said you had to
+file a complaint within six months, which at one time the
+Hawai'i Supreme Court construed as the statute of
+limitations. I think this is similar and, therefore,
+constitutes an affirmative defense stricken because the
+ answer asserting that was filed the day before the trial.
+And that is the basis for it.
+ 
+The [c]ourt allows [the] defense to continue to argue
+to the extent they [sic] desire to do so the 120 days in
+connection with the question of delay in addressing and
+resolving the matters, but wants to make clear that there’s
+not going to be an argument on what the [c]ourt construes as
+an affirmative defense, which is that the claims exceed the
+120 days prior to the 2001, Exhibit 81 date . And even
+ 
+though I know you disagree with the ruling, do you and
+counsel understand it?
+ 
+(Emphases added.)
+ 
+The court, however, was incorrect in construing the
+ 
+120-day requirement in the tariff as a statute of limitations. 
+In deciding that the 120-day limitation did not apply because the
+ 120-day “affirmative defense” was untimely, the court effectively
+ allowed a waiver of one of the tariff requirements, which is not
+ permissible under the filed-rate doctrine. Unlike a statute of
+ 
+53
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+limitations, a tariff provision cannot be waived. See Qwest
+ 
+Corp. v. AT&T Corp., 371 F.Supp.2d 1250, 1251 (D. Colo. 2005)
+ 
+(“the filed tariff doctrine prevents parties from contractually
+ modifying tariffs. This prohibition includes not only
+ modification of tariffs’ rates and terms, but also modifications
+ of a party’s potential liability under tariffs, such as in the
+ form of a release or waiver.”); Best Telephone Co., Inc., 898
+ F.Supp. 868, 875 (S.D. Fla. 1994) (“The defendant’s affirmative
+ defenses of breach of the terms and conditions of the tariff and
+ failure to comply substantially with the terms and conditions of
+ the tariff are not barred as a matter of law because all of the
+ tariff’s terms govern the parties’ rights and liabilities.”)
+ (emphasis added); Clancy v. Consolidated Freightways, 136
+ Cal.App.3d 543, 548 (Cal. Ct. App. 1982) (“[t]he provisions found
+ in a carrier’s tariffs, including those which limit the time in
+ which to commence an action against the carrier, cannot be waived
+ by the carrier since to permit waiver would be to enable the
+ carrier to discriminate among shippers and this is prohibited by
+ the Interstate Commerce Act.”) (emphasis added). 
+The proposition that a filing time period within a 
+tariff cannot be waived inheres in this court’s reasoning in Waikoloa, which states that “the filed-rate doctrine applies to more than just rates; it extends to the services, classifications, charges, and practices included in the rate filing.” 109 Hawai' i at 273, 125 P.3d at 494 (emphasis added). 
+Therefore, all of the “services, classifications, charges, and 
+54
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+practices” included in the PUC and FCC tariffs, including the
+ 
+120-day time limitation, would apply to the claims at issue in
+ this case. 
+Courts in other jurisdictions have directly addressed
+ 
+the issue of time limitation provisions in a tariff in the
+ context of the filed-rate doctrine, and have concluded that time
+ limitations, like other tariff terms, cannot be waived. In Qwest
+ Corp., the District Court of Colorado held that the parties could
+ not, “as a matter of law, release or waive AT&T’s obligations
+ under Qwest’s tariff, nor alter any applicable statute of
+ limitations.” 371 F.Supp. at 1252. In Clancy, a California
+ Court of Appeal case, the court held that “to permit a waiver [of
+ a limitation on the time in which to commence an action against
+ the carrier] would be to enable the carrier to discriminate among
+ shippers.” 136 Cal.App.3d at 548 (emphasis added). Clancy
+ 
+reasoned that the timing provision in the tariff was “essential
+ to secure the general public interest in adequate
+ nondiscriminatory transportation at reasonable rates and
+ therefore rigid adherence to the statutory scheme and uniform
+ standards required.” Id. (citation omitted). Thus, the court
+ 
+here erred in allowing the tariff “statute of limitations” to be
+ waived as an affirmative defense that was not timely raised.
+ 
+C.
+ 
+PLNI argues that the time limitation is not at issue in
+ 
+this case, because even though tariffs are implicated, the filed-
+rate doctrine does not apply. Specifically, PLNI alleges that
+ 
+55
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+“the filed rate doctrine does not bar claims where ‘the 
+plaintiffs . . . paid the file rate but arguably did not receive a benefit or service in exchange for the payment[,]’” and that because the claims in the instant case meet this description, they should not be barred by the filed-rate doctrine. (Quoting Balthazar, 109 Hawai' i at 81, 123 P.3d at 206.) (Citation 
+omitted.) 
+The quoted language from Balthazar is consistent with 
+that opinion’s reasoning that courts may enforce the tariffs without implicating the filed-rate doctrine, so long as the court’s judgment will not result in price discrimination among rate payers, and the reasonableness of the rates is not at issue. See Balthazar, 109 Hawai' i at 73, 123 P.3d at 198. Thus, in 
+cases where plaintiffs arguably paid the filed rate, and the issue is merely one of enforcement of the tariff provisions, the plaintiffs claims will not be barred by the filed-rate doctrine. 
+Balthazar explained that the tariffs at issue in that
+ 
+case required that customers pay for “Touch Calling” services,
+ and that in paying for those services, plaintiffs had in fact
+ received a benefit or service in exchange for paying the filed
+ rate, so they suffered no legally cognizable injury under the
+ filed-rate doctrine. Id. at 70, 123 P.3d at 195. While
+ 
+Balthazar dealt with the enforcement of tariff rates, Balthazar
+ did not need to address the enforcement of other tariff terms,
+ such as time limitations. Thus, this case is distinguishable
+ from Balthazar on those grounds. However, to the extent that 
+56
+         
+       
+       
+        
+        
+      
+       
+         
+    ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Balthazar holds that parties must be held to the terms of the
+ 
+tariffs, the reasoning is applicable here.
+ 
+In enforcing the tariffs in this case, this court must
+ 
+also enforce the 120-day time limitation that is contained in the
+ tariffs, and thus was approved by the PUC. As in Balthazar,
+ where the PUC had approved the tariff provision requiring payment
+ for Touch Calling, the PUC has approved the tariff provision
+ relevant to this case -- that all disputes not submitted within
+ 120-days of the billing are deemed waived. PUC Tariff § 2.7; FCC
+ Tariff § 2.11. Thus, in addition to setting out the rates for
+ services, the filed tariffs also contemplate a time limitation
+ with respect to any billing disputes, and this court must give
+ effect to that provision just as it would give effect to the
+ rates themselves.
+ 
+In Wegoland Ltd. v. NYNEX Corp., 27 F.3d 17 (2d Cir.
+ 
+1994), the Second Circuit described the filed rate doctrine as
+ follows:
+ 
+This regime protects consumers while fostering stability.
+The regulatory agencies are deeply familiar with the
+workings of the regulated industry and utilize this special
+expertise in evaluating the reasonableness of rates. The
+ 
+agencies’ experience and investigative capacity make them
+well-equipped to discern from an entity’s submissions what
+costs are reasonable and in turn what rates are reasonable
+ in light of these costs .
+ 
+27 F.3d at 20-21 (emphasis added). The PUC and FCC approved the
+ 
+provisions of the applicable tariffs. As such, this court should
+ give effect to all portions of the tariff, under the assumption
+ that, where the PUC and FCC provided a time limitation on the
+ filing of billing disputes, they had a reason for doing so. For
+ 
+57
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+example, the PUC and FCC may have been able to require that Time
+ 
+Warner provide a lower rate to customers because the 120-day time
+ limitation would decrease the costs incurred by the public
+ utility in addressing disputes. 
+In this case, the recovery sought by PLNI would not 
+have the effect of imposing a different rate from the filed tariff. See Balthazar, 109 Hawai' i at 74, 123 P.3d at 199 
+(stating that “courts have held that the filed-rate doctrine bars claims that seek damages if an award of damages would have the effect of imposing any rate other than that reflected in the filed tariff”) (citation and internal quotation marks omitted). However, to the extent that PLNI may have sought damages for claims that do not satisfy the 120-day time limitation in the tariffs, the jury’s award has the effect of imposing terms that are different from those in the filed tariff. This is just as problematic from the standpoint of the filed-rate doctrine. As explained supra, the filed-rate doctrine also extends to practices included in the rate filing. See Waikoloa, 109 Hawai' i 
+at 273, 125 P.3d at 494. If this court were not to enforce the 120-day limitation term against PLNI in this case, it would be applying the tariffs in an inconsistent fashion, effectively allowing PLNI to be subject to different, more lenient, tariff terms than other similarly situated entities. 
+Put another way, if Time Warner and PLNI had a contract
+ 
+stating that Time Warner was waiving the 120-day provision in the
+ tariffs, such a contract would not be enforceable. The filed­
+58
+         
+          
+            
+            
+                
+            
+            
+            
+             
+  ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+rate doctrine requires that “neither the tort of the carrier nor 
+the existence of a contract will work to vary or enlarge the rights defined in a tariff.” Balthazar, 109 Hawai' i at 73, 123 
+P.3d at 198 (citing Keogh v. Chicago & Northwestern Ry. Co., 260 U.S. 156, 163 (1922)). Thus, the parties in this case could not
+ contract around the 120-day provision if they tried to do so,
+ because it is part of the tariff terms. If this court did not
+ recognize the 120-day time limitation on the claims brought by
+ PLNI, it would essentially be allowing the parties to waive that
+ provision of the tariffs, in contravention of the filed-rate
+ doctrine, just as if it enforced a contract between the parties
+ waiving that tariff term. Therefore, although PLNI contends that
+ its suit is to enforce the filed rates, the filed rate doctrine
+ would still serve to bar an award to PLNI in connection with any
+ dispute that was filed with Time Warner more than 120 days after
+ receipt of billing, because under the tariff, any billing dispute
+ claim not submitted “within 120 days of receipt of billing . . .
+ shall be deemed waived.”
+24 (Emphasis added.)
+ 
+XI. Remedy for Application of the Filed-Rate Doctrine
+ 
+Having determined that the 120-day time limitation does
+ 
+apply, the next question is the appropriate remedy. At trial,
+ 
+24
+ Although this result may limit recovery in the instant case, such
+ 
+a result would not incentivize Time Warner to mis-bill its customers. Time
+ 
+Warner is still subject to all objections to billed charges that are reported
+within 120 days of the receipt of the bills. See PUC Tariff § 2.7; FCC Tariff
+ 
+§ 2.11. Additionally, according to the FCC tariff, “[i]f the dispute is
+resolved in favor of the Customer and the Customer has paid the disputed
+amount, the Customer will receive an interest credit from the Company for the
+disputed amount times a late factor [of 1.5% per month].” FCC Tariff §
+ 2.11.2.
+ 
+59
+         
+    
+        
+         
+          
+      
+       
+       
+        
+      
+  
+      
+          
+      
+      
+         
+   ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Time Warner requested the following instruction (Time Warner’s
+ 
+Requested Jury Instruction No. 16):
+ 
+TARIFF - BILLING DISPUTE PROCEDURES
+ 
+By law, any objections to billed charges must be
+reported to Time Warner Telecom within 120 days of the
+receipt of the billing, or such claims are waived. All
+ claims objecting to billing must include supporting
+documentation.
+ 
+If a claim is timely filed and supporting
+documentation is provided, Time Warner Telecom is required
+to make adjustments to the invoices, but only where
+circumstances exist which reasonably indicate that such
+adjustments are appropriate.
+ 
+The court did not give the instruction, apparently because it had
+ 
+stricken that “affirmative defense.” Ultimately, no instruction
+ was given to the jury specifically on the 120-day provision. 
+However, the court did instruct the jury as to the tariffs
+ generally, with the following jury instruction:
+ 
+Telecommunications carriers are required to file tariffs
+with the [FCC] and [PUC]. These filed tariffs govern the
+telecommunications carriers’ services, rates and charges.
+Telecommunications carriers and their customers are required
+to comply with these tariffs. The tariffs are both
+ contracts and the law.
+ 
+The jury was provided with a copy of the full PUC and FCC tariffs
+ 
+as Trial Exhibits D-2 and D-3.
+ 
+Time Warner argues that the jury verdict “allowed the
+ 
+law of tariffs to be completely disregarded.” PLNI, on the other
+ hand, alleges that even if the tariff provision setting out the
+ 120-day time limitation does apply, “there was no danger the jury
+ was unaware of the 120-day provision in the tariff.”
+ 
+A.
+ 
+As noted, the Feature Group D claims involved two
+ 
+discrete disputes. The first was related to a September 18, 2001
+ 
+60
+         
+          
+              
+           
+  ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Customer Investigation Form filed by PLNI, which apparently
+ 
+included billing disputes for call termination from May 2000
+ through September 2001. At trial, PLNI introduced evidence that
+ it was owed a credit in the amount of $327,714.03 that had been
+ due to its predecessor, GST. Time Warner disputed the validity
+ of this evidence on two alternative grounds. 
+First, Time Warner argued that it had already credited
+ 
+PLNI’s predecessor, GST, for the amount it was due, as part of
+ the $327,714.03 credit. Second, and relatedly, it alleged that
+ even if PLNI was due some credit, it was not owed the entire
+ $327,714.03 amount, because the $327,714.03 was credited to GST
+ for a separate transaction between GST and TimeWarner that was,
+ in part or in whole, not related to the assets that PLNI acquired
+ from GST.
+25 Thus, it appears that at trial, the amount which
+ 
+PLNI would have been owed on this billing credit, assuming that
+ it could establish that Time Warner had not credited GST already
+ for amounts due, was in dispute. On this claim, the jury found
+ in favor of PLNI and awarded $327,714.03 in damages. The jury
+ clearly based its damage award on the evidence introduced by
+ PLNI, which listed the credit at exactly $327,714.03.
+ 
+At oral argument before this court, counsel for PLNI
+ 
+argued that Time Warner had conceded the credit in the amount of
+ $327,714.03, and thus the 120-day limitation on disputed bills
+ 
+25
+ TimeWarner’s argument on this issue appears to be both that the
+ 
+$
+not take over, and that the payment related to TimeWarner’s acquisition of
+part of GST.
+ 327,714.03 credit was, in full or in part, for services of GST that PLNI did
+61
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+should not apply, because Time Warner admitted that it had owed 
+that amount and the jury found that amount had not been paid to PLNI. Oral Argument at 3:55-4:30 and 1:05:00, Pacific Lightnet, Inc. v. Time Warner Telecom, Inc. and Time Warner Telecom of Hawai'I, L.P., No. SCWC-28948, available at 
+http://state.hi.us/jud/oa/13/SCOA_071713_28948.mp3. However, it does not appear that Time Warner actually conceded this point either at trial or on appeal. 
+At trial, although Time Warner’s main argument seems to 
+be that it had already credited PLNI’s predecessor, GST, for the amount it was due, it also argued that even if PLNI was due some credit, it was not owed the whole $327K amount, because at least part of the credit was for entirely separate transactions between GST and Time Warner. For example, one of the witnesses for Time Warner explained that even though the evidence regarding the credit stated that it was for “Honolulu”, it should not all be attributed to the GST Honolulu office, since the CIC account listed was “used both on the mainland and in Hawai' i,” including 
+for call termination from cities such as Bakersfield and San Luis Obispo in California. Time Warner also argued that PLNI was owed less than $327,714.03 based on its September 18, 2001 billing dispute form, which included only estimates of the disputed charges and contained charges based on bills that were received more than 120 days prior to the date Time Warner was notified of the dispute. 
+62
+         
+          
+            
+     ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+In its Opening Brief to the ICA, Time Warner stated 
+that “[t]he improper action of the jury as described above is 
+even more telling because the $327,714.03 attributed to GST to wipe out its liabilities was not solely for call termination billings for GST Hawai' i assets -- the only assets that PLNI 
+acquired for GST[,] . . . [t]he $327,714.03 was also for call termination billings on the mainland, which PLNI admitted it did not purchase.”
+26 Moreover, the court precluded Time Warner from 
+arguing at trial that the disputed credits were barred by the 120-day limitation. Accordingly, Time Warner was not permitted to present its full range of arguments concerning these credits. 
+Because the amount owed to PLNI based on its September 18,
+ 
+2001 Customer Investigation Form was still in contention during
+ trial, a jury would need to consider which disputed bills were
+ relevant to the 2001 Customer Investigation Form, and decide if
+ those bills were received more than 120 days before the September
+ 18, 2001 form was filed. Any disputed bills that a jury determines
+ were received more than 120 days before September 18, 2001 cannot be
+ taken into consideration as part of PLNI’s recovery on its Customer
+ Investigation Form claim. In this case, the jury awarded PLNI the
+ full amount it requested. It is not clear that the jury considered
+ the 120-day tariff provision as limiting the recovery of PLNI on its 
+26
+ Although Time Warner did not repeat this language in its Response
+ 
+to this court, it maintained that the ICA correctly vacated the jury verdict
+because it violated the filed-rate doctrine.
+ 
+63
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+claims related to the September 18, 2001 Customer Investigation Form
+ 
+and alleged credit.
+ 
+B.
+ 
+The second dispute was in connection with alleged
+ 
+overcharges by Time Warner, on bills issued to PLNI covering a
+ period from October 11, 2001 through the date of trial in September
+ 2011. On this claim, the jury found that Time Warner had breached
+ its contract with PLNI, awarded $1 in damages for the breach, and
+ found that PLNI had been overcharged in the amount of $118,109.58. 
+PLNI contends that the difference between the $118,109.58
+ 
+that was actually awarded and PLNI’s requested amount of $139,409.58
+ may represent the jury’s consideration of the 120-day time
+ limitation as a bar to recovery on certain claims. However, this
+ cannot be verified based on the jury’s verdict form or the evidence
+ presented at trial, as nothing indicates how the jury took the 120­day time limit into consideration and PLNI does not explain how it
+ knows that the jury’s diminished award was based on a consideration
+ of the 120-day limitation. 
+C.
+ 
+Therefore, since neither of the jury’s awards demonstrate
+ 
+that the jury considered the 120-day time limitation, the
+ appropriate remedy is to remand both issues for consideration by a
+ new jury. On remand, the court must instruct the jury as to the
+ 120-day provision in the tariffs, informing the jury that any claims
+ brought by PLNI that were reported to Time Warner more than 120-days 
+64
+         
+ 
+          
+             
+           
+           
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+after PLNI or its predecessor GST received the disputed bill are
+ 
+waived.27
+ 
+XII. Other Arguments as to the Validity of the Jury Verdict
+ 
+Time Warner further asserts that the jury verdict should
+ 
+be vacated because the jury decided that PLNI “need not pay the
+ majority of its bills for call termination services including those
+ services that were admittedly received and validly billed,” and the
+ jury required that Time Warner was responsible for billing,
+ transmission, and call termination disputes which were beyond Time
+ Warner’s control, caused by PLNI or caused by third parties. The
+ ICA did not reach these arguments, inasmuch as it determined that
+ the jury verdict must be vacated because it violated the 120-day
+ tariff provision. Since this case is remanded to the court for
+ retrial on the Feature Group D claims, the merits of Time Warner’s
+ remaining challenges to the validity of the jury’s verdict need not
+ be addressed.
+ 
+XIII. Conclusion
+ 
+Therefore, the ICA’s February 21, 2013 judgment is vacated
+ 
+to the extent that it affirms the court’s dismissal of the Feature
+ Group D claims based on the primary jurisdiction doctrine. The
+ ICA’s judgment is upheld in all other respects, with respect to the
+ Application, including its vacation of the jury verdict on the
+ 
+27
+ In the instant case, the jury was instructed that “tariffs are
+ 
+both contracts and the law[,]” and was given copies of the tariffs, among a
+ 
+myriad of other exhibits. This reflected the court’s understanding that the
+120-day provision operated like a statute of limitations and thus was waived
+as an affirmative defense, which, as discussed supra, was incorrect.
+ 
+65
+         
+  
+   /s/ Mark E. Recktenwald
+/s/ Paula A. Nakayama
+ 
+ /s/ Simeon R. Acoba, Jr.
+ /s/ Sabrina S. McKenna
+ /s/ Richard W. Pollack 
+***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Feature Group D claims, which also vacated the court’s stay of the
+ jury verdict on those claims, but for the reasons stated herein. 
+Accordingly, the court’s December 12, 2007 judgment dismissing the
+ Feature Group D claims and staying the jury verdict on the Feature
+ Group D claims is vacated, and the case is remanded for a new trial
+ on the Feature Group D claims, consistent with the foregoing
+ opinion.
+ Margery S. Bronster,
+and Rex Y. Fujichaku,
+for petitioner, 
+J. Douglas Ing,
+Brian Kang, and
+Emi L.M. Kaimuloa,for respondent
+66
+ 

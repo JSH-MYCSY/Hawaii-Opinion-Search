@@ -1,0 +1,1392 @@
+*** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ʻI 
+ 
+---O0O--- 
+________________________________________________________________ 
+ 
+ESTATE OF ROBERT FREY
+, 
+Petitioner/Plaintiff- Appellant ,
+ 
+vs. 
+ 
+ROBERT P. MASTROIANNI, M.D., 
+Respondent/ Defendant- Appellee. 
+ 
+________________________________________________________________ 
+ 
+SCWC-14-0001030 
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS 
+(CAAP-14-0001030; CIVIL NO. 07-1-0206(1)) 
+ 
+May 5, 2020 
+ 
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, POLLACK,  AND WILSON, JJ.  
+ 
+OPINION OF THE COURT BY WILSON, J. 
+ 
+  Following the death of Robert Frey (“Frey”) in 2004, 
+his estate and several family members initiated proceedings 
+against Dr. Robert Mastroianni (“Dr. Mastroianni”) before a 
+medical claim conciliation panel (“MCCP”) , claiming that Dr. 
+Mastroianni’s negligence was the cause of Frey’s death .  The 
+case eventually led to a 2014 trial in the Circuit Court of the Electronically Filed
+Supreme Court
+SCWC-14-0001030
+05-MAY-2020
+09:03 AM*** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+2 Second Circuit (“circuit court”).  After the sole remaining 
+plaintiff, the Estate of Robert Frey (“the Estate”), rested its 
+case, the circuit court granted judgment as a matter of law to 
+Dr. Mastroianni.   
+  The circuit court held that it had no jurisdiction 
+over the Estate’s “loss of chance” claim— that is, its claim that 
+Dr. Mastroianni’s negligence caused Frey to lose a chance of 
+recovery or survival —because such a claim was not raised before 
+the MCCP.  And it held that the Estate had failed, as a matter 
+of law, to present sufficient evidence of causation to make out 
+a claim.  The Intermediate Court of Appeals (“ICA”) affirm ed.  
+Estate of Frey v. Mastroianni, No. CAAP- 14-0001030, 2018 WL 
+3199216, at *12 (App. June 29, 2018) (mem.).  The ICA concluded 
+that “loss of chance” claims seek recovery for  a “separate 
+compensable injury[,]” and that the Estate’s failure to raise 
+loss of chance before the MCCP deprived the circuit court of 
+jurisdiction.  Id.
+ at *7.  It also concluded that, during trial, 
+the Estate had “failed to provide any expert medical testimony 
+establishing that Dr. Mastroianni caused Frey’s death ‘to a 
+reasonable degree of medical probability.’”  Id. at *11.   
+  We accepted  certiorari to resolve the question of 
+whether the “loss of chance” doctrine is consistent with Hawaiʻi 
+law and to provide additional guidance regarding the MCCP 
+pleading process.  In brief, we hol
+d that while a “loss of *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+3 chance” is not a separate compensable injury under Hawaiʻi law, a 
+factfinder in a medical malpractice case involving the death of 
+a patient may consider a loss of chance theory
+ in determining 
+legal causation under our traditional fr
+amework for negligence, 
+which considers whether an actor’s conduct was a substantial 
+factor in bringing about the harm.  
+See Mitchell v. Branch, 45 
+Haw. 128, 132, 363 P.2d 969, 973 (1961).  We  also clarify that 
+the pleading requirements before MCCPs , now renamed MICPs , are 
+intended to be relatively simple , requiring only a brief 
+description of the facts underlying the claim, not a detailed 
+legal theory of the case.  Thus, we hold  that the circuit court 
+had jurisdiction over the Estate’s negligence claim , including 
+its loss of chance arguments, in the present case.  We hold  
+further that the circuit court erred in holding that the Estate 
+failed as a matter of law to 
+present sufficient evidence of 
+causation to make out a claim.  We remand the case for a new 
+trial in light of this opinion . 
+I.  BACKGROUND 
+A.  Medical Claims Conciliation Panel Proceedings 
+  On June 13, 2006, the Estate and several of Robert 
+Frey’s family members (collectively, “the Claimants”) submitted 
+a letter (“the Claim Letter”)  to a medical claim conciliation *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+4 panel.1  In the Claim Letter, the Claimants alleged that Frey  
+died as a result of the negligence of his treating physician, 
+Dr. Mastroianni.  The Claim Letter made the following factual 
+and legal allegations and demand : 
+ Pursuant to Hawaii Revised Statutes, 671 -1, et seq.,  
+Claimants . . .
+ hereby present a claim for damage resulting 
+from Robert  Frey’s death, which occurred as a result of the 
+negligence of the following respondent:  
+ 
+Robert P. Mastroianni, M.D.  
+ 
+. . . 
+ 
+ The Claimants are the estate of Robert Frey, and his 
+parents, brother, and sisters as individuals.  Robert Frey 
+was born on March 2, 1946.  He died on June 15, 2004.  He 
+was fifty -eight years old at the time of his death.  
+Respondent Robert P. Mastroianni, M.D., is a medical doctor 
+who provided care to Robert Frey.  
+ 
+ The background and circumstances of this claim are as 
+follows:  On June 11, 2004, Robert Frey was visiting Maui 
+and staying with a friend.  Sometime during that day Mr. 
+Frey inadvertently ingested an immense dose of gamma 
+hydroxy butyrate (GHB).  The GHB was contained in a juice 
+bottle in the refrigerator of his friend’s home and Mr. 
+Frey used it, thinking that it was just juice, to make a 
+smoothie in the blender.  Thereafter, as a result of the 
+effects of the GHB, Mr. Frey fell while within the 
+residence, apparently hitting his head on a table.  He was 
+found unconscious by his friend and another person.  An 
+ambulance was eventually called and Robert Frey was taken 
+                     
+1 At the time, Hawai ʻi Revised Statutes (“HRS”) § 671 -12(a) (1993) 
+provided:
+ 
+ 
+[A]ny person or the person’s representative claiming that a 
+medical tort has been committed shall submit a statement of the 
+claim to the medical claim conciliation panel before a suit based 
+on the claim may be commenced in any court of this State.  Claims 
+shall be submitted to the medical claim conciliation panel in 
+writing.  The claimant shall set forth facts upon which the claim 
+is based and 
+shall include the names of all parties against whom 
+the claim is or may be made who are then known to the claimant. 
+ 
+In 2012, the legislature amended HRS Chapter 671 to re -designate MCCPs 
+as “medical inquiry and conciliation panels” (“MICP”) and “claims” as 
+“inquiries.”  2012 Haw. Sess. Laws Act 296, §  4 at 1006- 15.  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+5 to the emergency room at the Maui Memorial Medica
+l Center.  
+From the emergency room, Mr. Frey was transferred to the 
+intensive care unit.  Respondent Robert P. Mastroianni, 
+M.D. was his treating physician.  Over the next two days, 
+Mr. Frey emerged from his coma and began to recover.  On 
+June 13, 2004, Dr. Mastroianni discharged Mr. Frey in 
+“stable condition,” on oral antibiotics with a diagnosis of 
+“bronchitis,” despite the facts that (1) it was documented 
+that Mr. Frey had vomited several times while unconscious, 
+(2) his most recent chest x -ray (of the day before) showed 
+evidence of developing pneumonia, (3) he had a fever of 102 
+degrees, and (4) he was coughing.  Dr. Mastroianni did not 
+order new x -rays on the day of Mr. Frey’s discharge.  
+During the evening of June 13th Robert developed difficulty 
+breathing, and the next morning he was rushed back to the 
+hospital.  Following treatment in the emergency room, he 
+was admitted with a diagnosis of pneumonia, hypoxia, 
+sepsis, and severe metabolic acidosis.  His condition 
+quickly deteriorated, and at 11:05 a.m. on Tuesday June 15, 
+2006 [sic], Mr. Frey died.  The pathologist who conducted 
+the autopsy listed the immediate cause of death as severe 
+necrotizing pneumonia, with contributing conditions of 
+sepsis and gamma hydroxy butyrate intoxication.   
+ 
+ Claimants allege that Robert P. Mastroianni, M.D., 
+fell below the applicable standard of care in multiple 
+respects, including but not limited to the following:  (1) 
+failing to start Mr. Frey on broad spectrum intravenous 
+antibiotics soon after the first admission, when it became 
+clear that he had pneumonia; (2) discharging the patient on 
+June 13th without determining the reason for his fever; (3) 
+not repeating the chest X -ray on June 13th, which would 
+clearly have shown pneumonia; and (4) misdiagnosing Mr. 
+Frey’s condi tion as bronchitis, despite the evidence of his 
+chest x- rays, his fever of 102, and his probable aspiration 
+of vomit while he had been unconscious.  
+ 
+ If Dr. Mastroianni had administered antibiotics in 
+the hospital on June 11th or 12th, repeated the chest x-ray 
+on June 13th, and kept Mr. Frey in the hospital for further 
+observation and treatment, then with the benefit of closer 
+observation and care it is likely that he would have 
+survived.  
+ 
+ Wherefore, Claimants demand judgment against the 
+above-stated respondent for such general and special 
+damages to which Claimants shall be entitled pursuant to 
+the proof adduced at the hearing which is sufficient to 
+invoke the jurisdiction of the Circuit Court of the State 
+of Hawaii, together with costs of suit, pre -judgment and 
+post-judgment interest, and such further relief, both legal 
+and equitable, as this panel deems appropriate.    
+ 
+On February 28, 2007, the Claimants submitted a pre- hearing 
+statement to the MCCP which repeated these allegations.  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+6  
+ In April 2007, the
+ MCCP decided in favor of the 
+Claimants.  After the MCCP’s decision, Dr. Mastroianni took the 
+position that he would not pay the award.2 
+B.  Circuit Court Proceedings
+ 
+1.  Pleadings 
+ 
+ On June 12, 2007, the Claimants filed a complaint in 
+the circuit court against Dr. Mastroianni.  The complaint 
+alleged one count of “Negligen[c]e (Medical Malpractice)”  and 
+one count of “Wrongful Death[.]”   As to the negligence count, 
+the complaint alleged facts mirroring those in the Claim Letter 
+and claimed that “[t] he medical care rendered by [ Dr. 
+Mastroianni] to Robert Frey fell below the applicable standard 
+of care, and constituted a lack of due care and a negligent act 
+on the part of [Dr. Mastroianni.]
+”  The complaint  alleged that, 
+“[h]ad [Dr. Mastroianni] not violated the applicable standard of 
+medical care . . . , Mr. Frey’s life could have been saved [,]” 
+and that, “[a]s a direct result of [Dr. Mastroianni’s ] 
+negligence, Robert Frey experienced severe pain and suffering 
+and then died.”  As to the wrongful death count, t he complaint 
+claimed that Dr. Mastroianni’s “negligent actions were a 
+substantial factor in causing Robert Frey’s death [,]” or, in the 
+                     
+2 If a party to an MCCP hearing rejects the decision  of the MCCP, 
+the claimant is then permitted to institute litigation based on the claim in 
+an appropriate court.  HRS § 671 -16(a) (Supp. 2003).   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+7 alternative, that
+ “[Dr. Mastroianni’s] negligent treatment 
+deprived Robert Frey of a significant improvement in his chances 
+for recovery, and/or resulted in a loss of an increased chance 
+of recovery, which loss of chance is compensable in and of 
+itself.”  The complaint alleged that Dr. Mastroianni was liable 
+to the Estate for Frey’s “pain and suffering, loss of enjoyment 
+of life, economic loss, and other damages” and to the other 
+Claimants for “their loss of consortium, emotional distress, 
+economic loss, and other damages.”  
+  Dr. Mastroianni filed an answer on July 27 , 2007 in 
+which he denied all allegations of negligence.  The trial date 
+was continued multiple times over the following years, during 
+which time all of Frey’s family members ’ claims against Dr. 
+Mastroianni were dismissed with prejudice, leaving the Estate as 
+the sole plaintiff. 
+2.  Trial Testimony 
+  
+Jury trial commenced on July 7, 2014.3  Along with two 
+lay witnesses, the Estate called three expert witnesses:  Dr. 
+Peter Schultz, Dr. Bradley Jacobs, and Dr. Darvin Scott Smith.4 
+                     
+3 The Honorable Rhonda I.L. Loo presided.  
+ 
+4 By permission of the court, the testimony of Dr. Jacobs and Dr. 
+Smith was presented in the form of depositions read out in court by the 
+attorneys. *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+8   The Estate’s first expert witness was Dr. Peter 
+Schultz, an internal medicine doctor from California.  Dr. 
+Schultz testified that he had reviewed the medical records for 
+Robert Frey, as well as police reports, witness statements, and 
+an ambulance report.  He testified that, in his opinion, it was 
+not appropriate for Dr. Mastroianni to discharge Frey on June 
+13, 2004, and that the decision to do so fell below the standard 
+of care expected of a physician.  Dr. Schultz testified that 
+this opinion was “based on looking at the totality of the 
+clinical picture, all of the factors that led up to his being 
+hospitalized and his condition at the time --  at the day and 
+time of the discharge.”  He stated that, if he had been the 
+treating physician in that situation, he would have diagnosed 
+aspiration pneumonia, and that, in his opinion, “it fell below 
+the standard of care to not suspect pneumonia in this case.”  
+Dr. Schultz was asked what would have been different if Frey had 
+stayed in the hospital, rather than being discharged, and he 
+responded that Frey “ would have received treatment that might 
+have included things to help him survive until the antibiotics 
+could take effect.”  When asked to elaborate on the specific 
+measures he would have taken, Dr. Schultz responded: 
+Well, the body’s own defenses and the antibiotics 
+that are used are -- do take time to work.  They need to be 
+given the time.  And when you have an overwhelming 
+infection, sometimes it overwhelms both of those measures -
+- the body’s own immune system and the antibiotics -- 
+before they have a chance to be effective.  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+9  
+ Sepsis, in particular,  can progress very quickly.  
+And time is very important in effectively treating it.  If 
+it progresses to the way we know it eventually did with Mr. 
+Frey, and had he stayed in the hospital, he could have been 
+treated much more quickly than he eventually was  after he 
+was discharged from the hospital.  The measures that could 
+have --
+ the measures could have included aggressive 
+intravenous fluid, which would help maintain his blood 
+pressure.  When he came back very sick and eventually died, 
+he had a very low blood pressure.  There are medications 
+that help tighten up the arteries and raised the blood 
+pressure that are sometimes used in severe cases of sepsis.  
+Those could have been started much sooner.  
+ 
+ They were eventually used.  But by that time, it was 
+too late.  They could have been used earlier in the course.  
+And had that happened, I think he -- there is a significant 
+chance that he could have done better than he eventually 
+did.   
+ 
+Dr. Schultz was also asked if Frey’s chances of survival would 
+have improve
+d “significantly” if Frey had remained in the 
+hospital; he affirmed that such was his opinion.  He testified 
+further that the steps that were taken to combat sepsis when 
+Frey was readmitted to the hospital were taken  too late, and 
+that “they could have done them in an earlier time, and his 
+chances would have been significantly improved.”  Finally, Dr. 
+Schultz was asked, “[a]re all the opinions that you’ve given in 
+court today to a reasonable degree of medical probabil ity?”; he 
+responded, “[y]es, they are.”  
+  The Estate’s second expert witness was Dr. Bradley 
+Jacobs, a primary care doctor from California.  Dr. Jacobs 
+testified that he had reviewed the full medical reports for 
+Frey’s treatment.  He testified that he beli eved that Dr. 
+Mastroianni “did not abide by the standard of care in the *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+10 treatment of Mr. Frey.”  Specifically, he testified that Dr. 
+Mastroianni “discharged the patient too early and gave him an 
+inappropriate diagnosis of bronchitis” and that Frey “should 
+have been kept in the hospital and monitored until it was clear 
+that his infection had resolved, that he was stable to be 
+discharged home.”  He stated that his conclusion  that Frey 
+should not have been discharged was based on reviewing Frey’s 
+vital signs.  He also testified that Frey should have been 
+diagnosed with multi- lobar pneumonia.  Dr. Jacobs was asked, 
+“[a]re the opinions that you have expressed here today to a 
+reasonable degree of medical certainty?”; he responded, “[y]es.”  
+  The Estate’s third exp ert witness was Dr. Darvin Scott 
+Smith, an internal medicine doctor from California with a 
+specialty in infectious diseases and geographic medicine.  Dr. 
+Smith testified that, with regard to Frey’s case, he had 
+reviewed medical records and other relevant documents.  He 
+testified that Frey had contracted Klebsiella pneumonia by the 
+time he was discharged from the hospital on June 13, 2004, and 
+that the pneumonia had caused his sepsis and eventual death.  He 
+was asked what Dr. Mastroianni should have done on June 13, 2004 
+according to the standard of care, to which he responded:  
+ So based on the observed signs, the vital signs in 
+particular, and his recent history of intubation, 
+aspiration, and persistent fevers throughout his 
+hospitalization, it would have been best practice and 
+standard of care to continue to observe him closely and *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+11 address all of those observations in a timely way such that 
+he would have responded appropriately.   
+ 
+Smith testified that it was his understanding that Dr. 
+Mastroianni did not d
+o those things, and that, therefore, Dr. 
+Mastroianni did not comply with the standard of care when he 
+discharged Frey from the hospital.  Dr. Smith was also asked 
+about the care Frey received on June 12, 2004, and testified as 
+follows:  
+And if care had been rendered in an ongoing fashion on that 
+day, when it was apparent that it should have been, 
+including perhaps, but not necessarily a follow -up x ray, 
+but certainly administration of fluids to resuscitate him 
+for low blood pressure and his high pulse, possibly empiric 
+antibiotics for what I believe was an incipient but 
+developing pneumonia observed originally, and oxygen 
+supplementation either by nasal cannula, maybe a mask, or 
+possibly even if he needed a later intubation.   
+ 
+ But being in the hospital, under close observation, 
+such that those steps could be taken, if indicated, would 
+all ensure his safety.   
+ 
+He also testified that there would have been “an advantage” to 
+Frey being administered antibiotics in the hospital, rather than 
+at home following his discharge, and that Frey could have been 
+given fluids and other antibiotics at the hospital with the 
+correct diagnosis.  He testified that the main thing that would 
+have been different would have been the timing, and that 
+“[s]ooner is better when you’re dealing with a critical illness 
+like this.  And so he would have responded much better had that 
+been addressed right away.”  He was asked if  “it was just too 
+late” when Frey was readmitted; he responded that he “believe[d] *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+12 it was at tha
+t point.”  He testified that Dr. Mastroianni’s 
+diagnosis of bronchitis was incorrect.  Dr. Smith was asked, 
+“[a]re all of the opinions you’ve expressed today to a 
+reasonable degree of medical certainty?”; he responded, “[y]es.”  
+3.  Judgment as a Matter of Law 
+  
+After presenting the testimony of its three expert 
+witnesses, the Estate rested its case.  Dr. Mastroianni moved 
+for judgment as a matter of law pursuant to Hawaiʻi Rules of 
+Civil Procedure (“HRCP”) Rule 50(a)5 “on the grounds that [the 
+Estate could not] establish with reasonable medical probability 
+that Dr. Mastroianni’s care and treatment of Robert Frey was the 
+cause of Mr. Frey’s death.”  In a memorandum in support of the 
+motion, Dr. Mastroianni argued that the Estate provided “no 
+expert testimony from any witness to establish the required 
+causal connection between any negligent act or omission by Dr. 
+Mastroianni and the death of Robert Frey” and that Dr. 
+Mastroianni was therefore entitled to a judgment in his favor on 
+                     
+5 HRPC Rule 50(a) (2000) provides:  
+ 
+(1)  If during a trial by jury a party has been fully heard on an 
+issue and there is no legally sufficient evidentiary basis for a 
+reasonable jury to find for that party on that issue, the court 
+may determine the issue against that party and may grant a motion 
+for judgment as a matter of law against that party with respect 
+to a claim or defense that cannot under the controlling law be  
+maintained or defeated without a favorable finding on that issue.  
+ 
+(2)  Motions for judgment as a matter of law may be made at any 
+time before submission of the case to the jury.  Such a motion 
+shall specify the judgment sought and the law and the facts on 
+which the moving party is entitled to the judgment.  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+13 the wrongful death clai
+m.  Dr. Mastroianni also argued that the 
+Estate was not permitted to pursue “a claim for lost chance of 
+survival under the loss of chance doctrine” because such a claim 
+“(1) was never presented at the MCCP proceeding that preceded 
+the filing of the complaint, thereby depriving [the]  court of 
+jurisdiction to hear any such claim; (2) was not plead[ed]  in 
+the complaint itself; and (3) is not a recognized cause of 
+action in this jurisdiction. ” 
+ 
+ The Estate argued that there was sufficient evidence 
+of negligence to overcome a motion for judgment as a matter of 
+law.  It argued that Hawai ʻi had effectively adopted the loss of 
+chance doctrine, not as a  separate cause of action, but as a 
+theory of causation that may result in an apportionment of 
+damages.  In the alte rnative, it argued that Dr. Mastroianni’s 
+negligence was a substantial factor leading to Frey’s death.  It 
+also argued that a plaintiff’s
+ failure to plead a damages theory 
+at the MCCP is not a jurisdictional bar. 
+  The circuit court granted Dr. Mastroianni ’s motion  for 
+judgment as a matter of law.  The court stated that it 
+considered the Estate’s claim for loss of chance as separate 
+from the wrongful death claim, and found that, irrespective of 
+whether the claim is recognized as a valid claim under Hawaiʻi 
+law, it lacked subject matter jurisdiction over the claim 
+because the Estate failed to raise the claim before the MCCP.  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+14 Turning to the wrongful death claim, the court found that none 
+of the Estate’s experts 
+“opined to a reasonable degree of 
+medical probability as to whether Mr. Frey would have survived 
+had he not been discharged by Dr. Mastroianni. ”  “Therefore , 
+even after considering the evidence in the light most favorable 
+to [the Estate], ” the court found that “[the Estate  could not] 
+establish with reasonable medical probability that Dr. 
+Mastroianni’s care and treatment of  Robert Frey was the 
+proximate or contributory cause of Mr. Frey’s  death.”  On July 
+25, 2014, the court entered judgment in favor of Dr. Mastroianni 
+on all claims. 
+C.  ICA Proceedings 
+  The Estate appealed the judgment to the ICA.  Estate 
+of Frey, 2018 WL 3199216, at *1.  The Estate argued that the 
+circuit court erred in finding it had no jurisdiction over a 
+loss of chance claim, in rejecting loss of chance as a theory of 
+causation, and in granting Dr. Mastroianni’s motion for judgment 
+as a matter of law.6  The ICA affirmed the trial court’s 
+judgment.  Id. at *12. 
+                     
+6 In its appeal to the ICA, the Estate also challenged several of 
+the circuit court’s evidentiary rulings.  However, as none of its claims of 
+error with regard to the evidentiary rulings were raised in the Estate’s 
+application for writ of certiorari to this court, we do not address them.  
+See Hawaiʻi Rules of Appellate Procedure Rule 40.1(d)(1) (“Questions not 
+presented according to this paragraph will be disregarded.”).   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+15   The ICA concluded that, in medical malpractice actions 
+in which the patient dies , “the loss of chance doctrine is 
+consistent with Hawai ʻi law and should be recognized as a 
+separate compensable injury[.] ”  Id. at *7 (citing McBride v. 
+United States, 462 F.2d 72 (9th Cir. 1972); Craft v. Peebles, 78 
+Hawaiʻi 287, 305, 893 P.2d 138 , 156 (1995); Barbee v. Queen’s 
+Med. Ctr., 119 Hawai ʻi 136, 164, 194 P.3d 1098, 1126 (App. 
+2008)).  However, it held  that the Estate did not assert a loss 
+of chance claim in its Complaint Letter to the MCCP .  Id.  
+Because it also concluded that “[d]ismissal of a civil suit 
+based on a medical tort claim is 
+proper where a claimant files a 
+suit before first having submitted a statement of the claim to 
+the MCCP[,]” id. at *3 (citing Dubin v. Wakuz awa, 89 Hawaiʻi 188, 
+198, 970 P.2d 496, 506 (1998); Buenafe v. Kiehm, No. 29237, 2011 
+WL 1713493 (App. May 4, 2011) (SDO)), the ICA held that “the 
+circuit court did not err when it dismissed the Estate of Frey’s 
+loss of chance claim because it lacked subject matter 
+jurisdiction over the claim. ” Id. at *7.   
+  With regard to Dr. Mastroianni’s motion for judgment 
+as a matter of law, the ICA held that “the expert medical 
+testimony” of the Estate’s witnesses “fell short of providing a 
+causal nexus between Dr. Mastroianni’s alleged negligence and 
+Frey’s death.”  Id. at *9.  The ICA stated: *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+16  The expert medical testimony provided at trial, at 
+most, established that had Frey remained in the hospital, 
+his chance of a better outcome would have improved.  This 
+evidence only indicates that it was merely a possibility 
+that Dr. Mastroianni caused Frey’s death, “a showing which 
+the Hawai ʻi supreme court explicitly found to be 
+insufficient in Craft, 78 Hawai ʻi at 305, 893 P.2d at 156. ”  
+Barbee, 119 Hawaiʻi at 163, 194 P.3d at 1125.  
+ 
+Id. at *11.  The Estate, the ICA said, “failed to provide any 
+expert medical testimony establishing that Dr. Mastroianni 
+caused Frey’s death ‘to a reasonable degree of medical 
+probability.’”  Id.  Thus, it held that the circuit court did 
+not err in granting Dr. Mastroianni’s motion for judgment as a 
+matter of law.  Id. 
+D.  Supreme Court Proceedings 
+  The Estate filed an application for writ of certiorari 
+with the supreme court.  In its application, the Estate 
+presented the following questions:  
+ A.  Whether it was error for the Intermediate Court 
+of Appeals (“ICA”) in its Memorandum Opinion dated June 29, 
+2018, to affirm the trial court’s written order granting 
+Defendant’s Rule 50 motion for judgment as a matter of law 
+on the grounds that the trial court lacked jurisdiction 
+over a “loss of chance” claim, because the loss of chance 
+claim had not been properl y asserted in Plaintiff’s MCCP 
+Claim Letter.  This question is comprised of the following 
+subsidiary questions:  
+ 
+ 1.  Whether the legislature’s intent, in 
+establishing the MCCP (now the MICP) was to establish 
+an informal, advisory forum, or to establish a  formal 
+setting with strict pleading standards.  
+ 
+ 2.  Whether the legislature’s requirement, in 
+the MCCP/MICP statute (Haw. Rev. Stat. §671 -12) that 
+“the Claimant . . . set forth facts upon which the 
+claim is based” was intended to require of Plaintiffs 
+a full, formal statement of all legal theories upon 
+which a claim may be based.  
+ *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+17  3.  Whether the “loss of chance” doctrine based 
+on medical negligence must be asserted as a separate 
+legal theory in an initial MCCP statement, or whether 
+it may be considered subsumed in a more general 
+medical negligence claim.  
+ 
+ 4.  Whether the bar from  subsequent litigation, 
+Haw. Rev. Stat. § 671 -16, is to be construed to 
+preclude litigation on any theories of liability that 
+are not explicitly and meticulously pled by a 
+Plaintiff in its MCCP statement.  
+ 
+ B.  Whether it was error for the ICA to affirm the 
+trial court’s written order finding that Plaintiff had not 
+established causation under traditional doctrines of 
+“substantial cause” and “but -for causation.”  
+ 
+The application was granted. 
+II.  STANDARDS OF REVIEW 
+A.  Jurisdiction 
+ 
+ “The existence of jur isdiction is a question of law 
+that this court reviews de novo under the right/wrong standard.”  
+Uyeda v. Schermer, 144 Hawai ʻi 163
+, 170, 439 P.3d 115, 122 (2019) 
+(quoting Bailey v. Duvauchelle, 135 Hawaiʻi 482, 488, 353 P.3d 
+1024, 1030 (2015)). 
+B.  Judgment as a Matter of Law  
+ It is well settled that a trial court’s rulings on 
+motions for judgment as a matter of law are reviewed de 
+novo.  When we review the granting of a motion for judgment 
+as a matter of law, we apply the same standard as the trial 
+court.  A motion for judgment as a matter of law may be 
+granted only when after disregarding conflicting evidence 
+and indulging every legitimate inference which may be drawn 
+from the evidence in the non -moving party’s favor, it can 
+be said that there is no evid
+ence to support a jury verdict 
+in his or her favor.  
+ 
+Kawakami v. Kahala Hotel Inv’ rs, LLC
+, 142 Hawai ʻi 507, 513, 421 
+P.3d 1277, 1283 (2018) (ellipses omitted) (quoting Miyamoto v. 
+Lum, 104 Hawaiʻ i 1, 6-7, 84 P.3d 509, 514-15 (2004)). *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+18 III.  DISCUSSION 
+A.  Under Hawaiʻ i law, loss of chance is not an independent cause 
+of action, but may be considered in determining
+ legal causation.  
+1.  The Mitchell Test 
+  “This court has long required a plaintiff to prove 
+that the defendant’s conduct was the legal cause of h is or her 
+injuries as one of the prima facie elements of negligence.”  
+O’Grady v. State, 140 Hawaiʻi 36, 43, 398 P.3d 625, 632 (2017) 
+(citing Mitchell, 45 Haw. at 132, 363 P.2d at 973 ).  “We apply a 
+two-step analysis[,]” often referred to as “the Mitchell 
+test[,]” to determine “whether the defendant’s conduct was the 
+legal cause of the plaintiff’s injuries[.]”  Id. at 44, 398 P.3d 
+at 633.  The Mitchell test provides that  
+the defendant’s conduct is the legal cause of the harm to 
+the plaintiff if  
+ 
+(a) the ac tor’s conduct is a substantial factor in 
+bringing about the harm, and  
+ 
+(
+b) there is no rule of law relieving the actor from 
+liability because of the manner in which [the 
+actor’s]  negligence has resulted in the harm.  
+ 
+Id. (brackets omitted) (quoting Taylor-Rice v. State, 91 Hawaiʻi 
+60, 74, 979 P.2d 1086, 1100 (1999)).   
+  Under the first  prong of the Mitchell  test—the 
+“substantial factor” prong— the defendant’s conduct “need not 
+have been the whole cause or the only factor bringing about the 
+plaintiff’s injuries”  in order to be their legal cause.  State 
+v. Phillips, 138 Hawaiʻi 321, 352, 382 P.3d 133, 164 (2016) *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+19 (ellipses omitted) (quoting Knodle v. Waikiki Gateway Hotel, 
+Inc., 69 Haw. 376, 390, 742 P.2d 377, 386 (1987)).  However, the 
+conduct must have been more than “a negligible or trivial[] 
+factor in causing the harm.  In other words, a substantial 
+factor is one that a reasonable person would consider to have 
+contributed to the harm. ”  O’Grady, 140 Hawaiʻi at 
+47, 398 P.3d 
+at 636. 
+  In adopting a substantial factor test for legal 
+causation in negligence cases, the Mitchell  court called it 
+“[t]he best definition and the  most workable test of legal cause 
+so far suggested[. ]”  45 Haw. at 132, 363 P.2d at 973.  We have 
+clearly and consistently reaffirmed its use since.   See, e.g., 
+McKenna v. Volkswagenwerk Aktiengesellschraft, 57 Haw. 460, 465, 
+558 P.2d 1018, 1022 (1977) (“This test represents a realistic 
+approach to problems of causation, an area which has long been 
+complicated by a failure to distinguish between questions of 
+fact and policy concerns. ”); Knodle, 69 Haw. at 390, 742 P.2d at 
+386 (“[W]e are convinced that ‘substantial factor’ is a phrase 
+sufficiently intelligible to furnish an adequate guide in 
+instructions to the jury, and that it is neither possible nor 
+desirable to reduce it to any lower terms
+.” (quoting W.P. 
+Keeton, Prosser and Keeton on the Law of Torts § 41, at 267 (5th 
+ed. 1984))); Montalvo v. Lapez, 77 Hawaiʻi 282, 289
+, 884 P.2d 
+345, 352 (1994) (quoting Knodle); O’Grady, 140 Hawaiʻi at 44-47, *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+20 398 P.3d at 633- 636 (discussing the history and policy 
+considerations underlying the test).   
+  As we have consistently applied the substantial factor 
+test, we have rejected other tests for legal causation, 
+particularly the widely-used “‘but for’ rule[,]” under which 
+“the defendant’s conduct is a cause of the event if the event 
+would not have occurred but  for that conduct[. ]”  Knodle, 69 
+Haw. at 389, 742 P.2d at 386 (brackets omitted) (quoting Keeton, 
+supra, at 266).  We have also never required plaintiffs to prove 
+that “the defendant’s negligence more likely than not cause d the 
+ultimate outcome[. ]”  Matsuyama  v. Birnbaum, 890 N.E.2d 819, 829 
+(Mass. 2008) (explaining the “all or nothing”  rule).  Rather, 
+the Mitchell test “contemplates a factual determination that the 
+negligence of the defendant was more likely than not a 
+substantial factor in bringing about the result complained of.”  
+McKenna, 57 Haw. at 465, 558 P.2d at 1022 (emphasis added).  
+  The Mitchell test extends to negligence claims against 
+medical professionals.  Claims of medical negligence or medical 
+malpractice require a determination of legal causation.  See  HRS 
+§ 671-1(2) (1993) ( “‘Medical tort’  means professional 
+negligence, the rendering of professional service without 
+informed consent, or an error or omission in professional *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+21 practice, by a health care provider, which proximately causes 
+death, injury, or other damage to a patient.”  (emphasis added)).7  
+Therefore, in order to prevail on a medical negligence claim, a 
+plaintiff8 must prove, by a preponderance of the evidence, that a 
+health care provider defendant, acting in the defendant’s  
+professional capacity, committed a negligent act or omission 
+which was a substantial factor in bringing about the death of, 
+or injury or other damage to, a patient.9   
+2.  The Loss of Chance Doctrine Under Hawaiʻi Law 
+  In the context of medical negligence, “[a] number of 
+courts have recognized a lost opportunity (or lost chance) for 
+cure of a medical condition as a legally cognizable harm. ”  
+Restatement (Third) of Torts: Liability for Physical and 
+Emotional Harm § 26 cmt. n. (Am. Law Inst. 2010).  The Supreme 
+Court of Minnesota explained the loss of chance doctrine as 
+follows: 
+ Under the loss of chance doctrine, a patient may 
+recover damages when a physician’ s negligence causes the 
+patient to lose a chance of recovery or survival.  The 
+fundamental principle underlying the l
+oss of chance 
+                     
+7 The term “proximate cause” is  synonymous with the term “legal 
+cause,” although this court has generally used the latter term.  O’Grady, 140 
+Hawaiʻi at 43 n.3, 398 P.3d at 632 n.3.  
+8 Pursuant to HRS § 663 -3(a) (2016 ), “[w]hen the death of a person 
+is caused by the wrongful act, neglect, or default of any person, the 
+deceased’s legal representative . . . may maintain an action against the 
+person causing the death or against the person responsible for the death.”   
+ 
+9 Additional elements are required to establish a claim of 
+negligent failure to obtain informed consent.  See Barcai v. Betwee, 98 
+Hawaiʻi 470, 483- 84, 50 P.3d 946, 959 -60 (2002).   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+22 doctrine is that the plaintiff’ s chance of survival itself 
+has value.
+  In a loss of chance case, the plaintiff must 
+sustain the burden of proving that the defendant 
+negligently deprived her of a chance of a better outcome.  
+Assuming that the plaintiff satisfies that burden, then the 
+defendant should be liable for the value of the chance he 
+has negligently destroyed.  
+ 
+Dickhoff ex rel. Dickhoff v. Green, 836 N.W.2d 321, 329- 30 
+(Minn. 2013) (citations and internal quotation marks omitted) .   
+  The loss of chance doctrine “originated in 
+dissatisfaction with the prevailing ‘all or nothing’ rule of 
+tort recovery.”  Matsuyama , 890 N.E.2d at 829 (citing Joseph H. 
+King, Jr., Causation, Valuation, and Chance in Personal Injury 
+Torts Involving Preexisting Conditions and Future Consequences, 
+90 Yale L.J. 1353, 1365-66 (1981)).  As explained above, under 
+the “all or nothing” rule, which is not the law in Hawaiʻi, “a 
+plaintiff may recover damages only by showing that the 
+defendant’s negligence more likely than not caused the ultimate 
+outcome . . . ; if the plaintiff meets this burden, the 
+plaintiff then recovers 100% of her damages.”  Id.  The problem 
+with the “all or nothing” rule in the context of medical 
+negligence cases is that, “[s]o long as the patient’s chance of 
+survival before the physician’s negl igence was less than even, 
+it is logically impossible for her to show that the physician’s 
+negligence was the but- for cause of her death, so she can 
+recover nothing.”  Id.   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+23   The origins of the loss of chance doctrine have been 
+variously attributed to “a handful of early tort cases, the 
+‘rescue’ doctrine, certain contract cases, the Restatement 
+(Second) of Torts [§ 323(a) ( Am. Law Inst. 1965) ], Hicks v. 
+United States[, 368 F.2d 626 (4th Cir. 1966)], and a 1981 Yale 
+Law Review article[, King, Causation, supra].”  Tony A. Weigand, 
+Loss of Chance in Medical Malpractice: The Need for Caution, 87 
+Mass. L. Rev. 3, 4- 5 (2002) (footnotes omitted).  Hicks involved 
+facts comparable to those alleged in the present case.  In 
+Hicks, a patient was treated by a Navy physician, who diagnosed 
+her with gastroenteritis and released her with drugs to relieve 
+the pain and instructions to return in eight hours.  368 F.2d at 
+628.  The patient died later that day of an undiagnosed 
+intestinal obstruction.  Id.  at 629.  The government argued 
+that, even if there was negligent misdiagnosis and mistreatment 
+on the part of the doctor, it was merely speculative that the 
+patient would have survived.  Id.  at 632.  The U.S. Court of 
+Appeals for the Fourth Circuit, applying Virginia law, responded 
+to that argument in an oft -quoted passage:  
+ When a defendant’ s negligent action or inaction has 
+effectively terminated a person’ s chance of survival, it 
+does not lie in the defendant’ s mouth to raise conjectures  
+as to the measure of the chances that he has put beyond the 
+possibility of realization.  If there was any substantial 
+possibility of survival and the defendant has destroyed it, 
+he is answerable.  Rarely is it possible to demonstrate to 
+an absolute certainty what would have happened in 
+circumstances that the wrongdoer did not allow to come to 
+pass.  The law does not in the existing circumstances 
+require the plaintiff to show to a certainty that the *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+24 patient would have lived had she been hospitalized and 
+operated on promptly.  
+ 
+Id.   
+  The vast majority of jurisdictions have considered 
+whether or not to adopt the loss of chance doctrine.  Lauren 
+Guest, David Schap & Thi Tran, The “Loss of Chance” Rule as a 
+Special Category of Damages in Medical Malpractice: A State -by-
+State Analysis, 21 J. Legal Econ. 53, 59 (2015); Matsuyama, 890 
+N.E.2d at 828 n. 23 (compiling cases).  According to one recent 
+survey, as of July 2014, twenty- four states had adopted the 
+doctrine, seventeen had rejected it, four had deferred an 
+opinion on it, and five had yet to consider it at the level of 
+their highest state court.  Guest, supra , at 59.  Hawai ʻi is one 
+of the few states to not have definitively addressed loss of 
+chance.  Id.; Futi v. United States, No. 08 -00403JMS/LEK, 2010 
+WL 2900328, at *26 (D. Haw. July 22, 2010) .  Today, with the 
+benefit of the analysis of the many jurisdictions  that have 
+considered this issue, w e address the loss of chance doctrine 
+and its relationship to Hawaiʻ i law for the first time.  However, 
+our opinion is limited to the present facts:  a medical 
+malpractice case in which the patient has died  as a result of 
+the alleged negligence.  We do not address situations in which a 
+patient survives despite the alleged negligence of a medical 
+professional, but the plaintiff nonetheless claims that medical *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+25 negligence deprived the patient of a better recovery .  See 
+Delaney v. Cade, 873 P.2d 175, 178 (Kan. 1994) (distinguishing 
+between “loss of survival” and “loss of better recovery” cases).  
+  Although nearly all the states have now considered the 
+loss of chance doctrine, there is not a clear consensus on its 
+merit; nor, among those states that have adopted it , is there 
+agreement on what form it should take.  See  Dickhoff , 836 N.W.2d 
+at 334 (“[A] growing number of jurisdictions have adopted some 
+form of the doctrine, albeit with divergent rationales.”) ; 
+Matsuyama, 890 N.E.2d at 831 (“[C]ourts adopting [the doctrine] 
+have not approached loss of chance in a uniform way. ”).  While 
+each state has approached the issue differently, “[g]enerally, 
+courts have taken three approaches to loss of opportunity 
+claims.”  Lord v. Lovett, 770 A.2d 1103, 1105 (N.H. 2001); see  
+Joseph H. King, Jr., “Reduction of Likelihood” Reformulation and 
+Other Retrofitting of the Loss-of-a-Chance Doctrine , 28 U. Mem. 
+L. Rev. 491, 505-09 (1998).    
+  The first is the “traditional ” approach —that is, the 
+“all or nothing” rule under which the plaintiff must prove that, 
+as a result of the defendant’s negligence, the patient was 
+deprived of a greater than even chance of survival.  See Lord, 
+770 A.2d at 1105.  Courts adopting this approach have 
+essentially rejected the loss of chance doctrine in favor of 
+traditional rules of causation .  See, e.g., McAfee ex rel. *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+26 McAfee v. Baptist Med. Ctr., 641 So.2d 265, 267 (Ala. 1994) 
+(declining to “recognize the ‘loss of chance doctrine’” or 
+“abandon Alabama’s traditional rules of proximate cause[,]” 
+which require the plaintiff in a medical malpractice case to 
+“prove that the alleged negligence ‘probabl y caused the injury ’” 
+(quoting Parrish v. Russell, 569 So.2d 328, 330 (Ala. 1990))); 
+Mich. Comp. Laws Ann. § 600.2912a(2) (2010 ) (“In an action 
+alleging medical malpractice, the plaintiff cannot recover for 
+loss of an opportunity to survive or an opportunity to achieve a 
+better result unless the opportunity was greater than 50%.”); 
+Jones v. Owings, 456 S.E.2d 371, 374 (S.C. 199 5) (“[W]e decline 
+to adopt the doctrine and maintain our traditional approach.”); 
+Kramer v. Lewisville Memorial Hosp., 858 S.W.2d 39 7, 407 (Tex. 
+1993) (“[W]e do not adopt the loss of chance doctrine as part of 
+the common law of Texas.”); Smith v. Parrott, 833 A.2d 843, 848 
+(Vt. 2003) (“The loss of chance theory of recovery is thus 
+fundamentally at odds with the settled common law standard . . . 
+for establishing a causal link between the plaintiff’s injury 
+and the defendant’s tortious conduct.”)  
+  States that have adopted this approach —in other words, 
+those that have outright rejected the loss of chance doctrine —
+have expressed a reluctance to allow recovery based on a “mere 
+possibility” of harm when their traditional negligence rules 
+allow for recovery only when the negligence was more likely than *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+27 not to have caused the injury.  McAfee, 641 So.2d at 267; see  
+Jones, 456 S.E.2d at 374.  Some have found that the loss of 
+chance doctrine is “fundamentally at odds with the requisite 
+degree of medical certitude necessary to establish a causal link 
+between the injury of a patient and the tortious conduct of a 
+physician.”  Jones, 456 S.E.2d at 374 (quoting Kilpatrick v. 
+Bryant, 868 S.W.2d 594, 602 (Tenn. 1993)); see  Gooding v. Univ. 
+Hosp. Bldg., Inc., 445 So.2d 1015, 1019- 20 (Fla. 1984).  Others, 
+while recognizing the value  of the loss of chance doctrine, have 
+found it to be inconsistent with their medical malpractice 
+statutes and have held that any changes to medical malpractice 
+law are more appropriately left to legislative determination.  
+See Smith, 833 A.2d at 848.   
+  T he shortcoming of the traditional approach, as 
+discussed above, is that it prevents a plaintiff with a fifty 
+percent or lower chance of survival from recovering anything as 
+a result of a medical professional’s negligence.  See Lord, 770 
+A.2d at 1105.  It h as been criticized as arbitrary, unfair, and 
+contrary to the deterrence objectives of tort law.  Margaret T. 
+Mangan, The Loss of Chance Doctrine:  A Small Price to Pay for 
+Human Life, 42 S.D. L. Rev. 279, 302 (1997).  The so -called 
+“traditional” approach h as no place in Hawai ʻi law, because, as 
+discussed above, we do not have a tradition of requiring 
+plaintiffs to prove that their harm was more likely than not the *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+28 result of negligence by the defendant.  Rather, since the 
+earliest days of statehood, we have required plaintiffs to prove 
+that the defendant’s negligence was a substantial factor in 
+bringing about their harm.  Mitchell, 45 Haw. at 132, 363 P.2d 
+at 973. 
+  A second approach to the loss of chance doctrine is to 
+recognize “the lost opportunity for a better outcome” as itself 
+an injury for which a negligently injured patient may recover.   
+Lord, 770 A.2d at 1105- 06.  States adopting this approach have 
+essentially created a new tort which recognizes the loss of 
+chance as a compensable injury distinct from other medical 
+malpractice claims.  See , e.g., United States v. Anderson, 669 
+A.2d 73, 77  (Del. 1995) (“[T]he loss of a chance of avoiding an 
+adverse consequence, increased risk, should be viewed as an 
+injury and be compensable [.]”); Mead v. Adrian, 670 N.W.2d 174, 
+178 (Iowa 2003)  (“[T]he last-chance-of-survival doctrine is not 
+an alteration of the traditional rules for determining proximate 
+cause, but, rather, the creation of a newly recognized 
+compensable event to which those traditional rules apply. ”); 
+Dickhoff, 836 N.W.2d at 334; Lord , 770 A.2d at 1106; Alberts v. 
+Schultz, 975 P.2d 1279, 1283 (N.M. 1999) (“[I]t is that chance 
+in and of itself— the lost opportunity of avoiding the presenting 
+problem and achieving a better result —that becomes the item of 
+value for which the patient seeks compensation. ”); Mohr v. *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+29 Grantham, 262 P.3d 490, 496 (Wash. 2011) (“[T]he loss of a 
+chance is the compensable injury[.] ”).   
+  Those states that have adopted the separate injury 
+approach to the loss of chance doctrine have identified the 
+shortfalls in the traditional approach, and have noted that 
+patients regard “a chance to survive or achieve a more favorable 
+medical outcome as something of value. ”  Dickhoff , 836 N.W.2d at 
+334; see Mohr, 262 P.3d 490.  This approach has been defended as 
+being “administrable and consistent[.]”  DeBurkarte v. Louvar , 
+393 N.W.2d 131, 137 (Iowa 1986) (quoting King, Causation, supra, 
+at 1378).  We read the ICA’s opinion in this case as following 
+the separate injury approach.  The ICA held that,  “[w]hen one is 
+deprived of a chance to survive due to a medical provider’s 
+negligence, the actual loss suffered is the lost chance itself 
+and not the ultimate injury or death.”  Estate of Frey, 2018 WL 
+3199216, at *5.  The IC A stated that this approach was 
+“consistent with the traditional rules of negligence.”  Id.  
+However, the separate injury approach does not clearly follow 
+from Hawai ʻi’s traditional negligence rules based on the 
+substantial factor test, and it unnecessarily creates a new 
+cause of action when our negligence rules are already flexible 
+enough to address the problem at hand.  Rather  than adopting 
+this incongruous approach, we look for guidance to a third *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+30 approach taken by a number of states with negligence rule
+s more 
+similar to our own.  
+  The third approach, a “middle ground” sometimes 
+referred to as the “relaxed standard of proof ” approach, 
+“requires [the] plaintiff to present evidence that a substantial 
+or significant chance of survival or better recovery was lost.”  
+Pipe v. Hamilton, 56 P.3d 823, 827 (Kan. 2002) (quoting Delaney , 
+873 P.2d at 184- 85).  This approach, also referred to as the 
+“substantial chance” approach, id. at 828, is consistent with 
+the Mitchell test and our long- established rules of negligence.  
+It has been adopted in a number of jurisdictions which, like 
+Hawaiʻi, use a substantial factor test for proximate causation.  
+See, e.g., Jones v. Montefiore Hosp., 431 A.2d 920, 923 (Penn. 
+1981); Thornton v. CAMC, 305 S.E.2d 316, 324- 25 (W.Va. 1983); 
+Ehlinger v. Sipes, 454 N.W.2d 754, 758- 59 (Wis. 1990); Rivers v. 
+Moore, Myers & Garland, LLC, 236 P.3d 284, 291 (Wyo. 2010).   
+  For example, under Pennsylvania’s  negligence rules, as 
+under Hawai ʻi’s, 
+“[p]roximate cause . . . may be established by 
+evidence that a defendant’s negligent act or failure to act was 
+a substantial factor in bringing about the harm inflicted upon a 
+plaintiff” and “this substantial factor need not be . . . the 
+only factor, i.e., ‘th at cause which . . . produces the 
+result.’”  Jones, 431  A.2d at 923.  Applying these rules in  a 
+medical malpractice action, the Supreme Court of Pennsylvania *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+31 held that the jury should have been instructed to impose 
+liability if it decided that the defendan ts’ negligent conduct 
+“increased the risk of harm and that such increased risk was a 
+substantial factor in bringing about the harm actually 
+inflicted” upon the plaintiff.  Id. at 924.  Similarly, in 
+Wisconsin, “[t]o establish causation . . . , the plaintif f bears 
+the burden of proving that the defendant’s negligence was a 
+substantial factor in causing the plaintiff’s harm.”  Ehlinger , 
+454 N.W.2d at 758.  In a medical malpractice case, the Supreme 
+Court of Wisconsin held that , 
+where the causal relationship b etween the defendant’s 
+alleged negligence and the plaintiff’s harm can only be 
+inferred by surmising as to what the plaintiff’s condition 
+would have been had the defendant exercised ordinary care, 
+to satisfy his or her burden of production on causation, 
+the plaintiff need only show that the omitted treatment was 
+intended to prevent the very type of harm which resulted, 
+that the plaintiff would have submitted to the treatment, 
+and that it is more probable than not the treatment could 
+have lessened or avoided  the plaintiff’s injury had it been 
+rendered.  It is then for the trier of fact to determine 
+whether the defendant’s negligence was a substantial factor 
+in causing the plaintiff’s harm.   
+ 
+Id. at 759.  That court distinguished the substantial chance 
+approach from the “all or nothing” rule:  
+ We disagree with the court of appeals’ conclusion in 
+Finn [v. Schammel, 412 N.W.2d 147 (Wis. Ct. App. 1987),] 
+that in a case of this nature Wisconsin law follows the 
+“all or nothing” approach.  In a case such as this, the 
+plaintiff need not show that proper treatment more probably 
+than not would have been successful in lessening or 
+avoiding the plaintiff’s injuries as a prerequisite to 
+satisfying his or her burden of production on the issue of 
+causation.  In addition to the other requirements 
+previously noted, all that is required is that the 
+plaintiff establish that proper treatment could have 
+lessened or avoided the plaintiff’s harm.  Compare Hicks, 
+368 F.2d at 632.  The trier of fact may consider evidence *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+32 of the likelihood of success of proper treatment in 
+determining whether the negligence was a substantial factor 
+in causing the harm, and may yet conclude that it was not 
+because the injuries would have occurred irres
+pective of 
+the negligence.  See Restatement (Second) of Torts, sec. 
+432 and comment b to that section.  If the defendant’s 
+negligence is found to have been a substantial factor in 
+causing the harm, the trier of fact may also consider 
+evidence of the likelihood of success of proper treatment 
+in determining the amount of damages to be awarded.   
+ 
+Id. at 763.   
+  As these cases make clear, in jurisdictions that use a 
+substantial factor test for causation, it is not necessary to 
+recognize a loss of chance as a separate compensable injury.  
+Nor is it necessary to abandon or adjust the substantial factor 
+test for negligence in order to account for negligence by a 
+medical professional that allegedly reduces a plaintiff’s chance 
+of survival.  Rather, the substantial factor test is adaptable 
+enough to apply to such cases without any need to change 
+traditional negligence rules.  
+Thus, we hold that, under Hawaiʻi 
+law, “loss of chance” is not an independent cause of action, but 
+is a relevant consideration in determining whether a defendant’s 
+negligence was a substantial factor in causing the plaintiff’s 
+injury.  In the words of
+ the Supreme Court of Kansas:  
+ Considering the various approaches adopted by the 
+courts, we are of the opinion that the middle ground or so -
+called relaxed causation standard of proof approach is the 
+better rule.  In an action to recover for the loss of a 
+chance to survive . . . , the pl
+aintiff must first prove 
+the traditional elements of a medical negligence action by 
+a preponderance of the evidence.  The plaintiff must prove 
+that the defendant was negligent in treating the patient, 
+that the negligence caused harm to the plaintiff, and that 
+as a result the plaintiff suffered damages.  In proving 
+that the plaintiff suffered harm, the plaintiff must prove *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+33 that the lost chance of survival . . . was a substantial 
+loss of the chance.  
+ 
+Delaney, 873 P.2d at 185-86.   
+  Although this case is the first in which we have fully 
+considered the loss of chance doctrine under Hawaiʻi law, we note 
+that Hawaiʻi courts, and federal courts applying Hawaiʻi law, 
+have never recognized loss of chance as an independent and 
+separately compensable cause of action.  Nor have they embraced 
+a theory of legal causation other than the one articulated in 
+Mitchell.   
+  The earliest case addressing the loss of chance 
+doctrine under Hawai ʻi law was McBride v. United States, in which 
+the U.S. Court of Appeals for the Ninth Circuit applied Hawaiʻi 
+law to a claim of medical negligence against a doctor at the 
+Tripler Army Hospital.  462 F.2d at 73.  The Ninth Circuit held 
+that the district court erred in holding that the plaintiff had 
+failed to show the essential causal connection between a 
+patient’s nonadmittance to the hospital and his death.  Id. at 
+74.  With regard to the correct causal showing, the Ninth 
+Circuit said: 
+ When a plaintiff’s cause of action rests upon an 
+allegedly negligent failure to give necessary treatment, he  
+must show, with reasonable medical probability, that the 
+treatment would have successfully prevented the patient’s 
+injury.  He need not prove with certainty that the injury 
+would not have occurred after proper treatment.  In most 
+situations the best medical treatment in the world cannot 
+provide an absolute guarantee of success; medicine is not 
+an exact science in that sense.  Yet the absence of *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+34 positive certainty should not bar recovery if negligent 
+failure to provide treatment deprives the patient of a 
+significant improvement in his chances for recovery.  We 
+think the plaintiff demonstrated the requisite reasonable 
+medical probability in this case.   
+ 
+Id. at 75 (footnotes omitted).  We understand the Ninth 
+Circuit’s holding to be that a plaintiff in a medical negligence 
+case is not required , as the plaintiff would be under the “all 
+or nothing” rule,  to show with “positive certainty” that a 
+negligent act or omission caused an injury, only that a 
+reasonable finder of fact could conclude that it did.  Thus, the 
+holding in McBride was consistent with our substantial factor 
+causation rule.  See Futi, 2010 WL 2900328, at *26 (recognizing 
+that, although this court had not yet addressed the loss of 
+chance doctrine, “the Ninth  Circuit interpreted [Hawai ‘i] law as 
+allowing the lost chance doctrine to apply to medical 
+malpractice claims”).   
+  Hawaiʻi courts ha
+ve cited to McBride  for the 
+proposition that medical opinions  must be based on reasonable 
+medical probability.  See  Craft, 78 Hawaiʻi at 305,
+ 893 P.2d 138, 
+156; Barbee, 119 Hawaiʻi at 163, 194 P.3d at 1125.  The ICA in 
+Barbee also considered a loss of chance argument.  It held that, 
+because the plaintiffs had fa iled to provide expert medical 
+testimony, the circuit court had not erred in granting judgment 
+as a matter of law on that question to the defendants.  119 
+Hawaiʻi at 164, 194 P.3d at 1126.  However, it did not reject the *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+35 argument that the plaintiffs could 
+have recovered for a loss of 
+chance.  It merely stated that the plaintiffs could not recover 
+without the requisite expert testimony.   
+B.  The Claim Letter submitted by the Estate asserted a medical 
+negligence claim that met the requirements of the MCCP statute.   
+  The MCCP —now MICP —statute requires  a medical tort 
+claimant to “submit a statement of the claim” before a suit can 
+be commenced on the claim.  HRS § 671- 12(a) (1993).  The statute 
+sets three simple requirements for these claim statements:  they 
+must be submitted “in writing [,]” they must “set forth facts 
+upon which the claim is based [,]” and they must  “include the 
+names of all parties against whom the claim is or may be made 
+who are then known to the claimant.”  Id.  These requirements 
+are informal and undemanding, and the history of the MCCP 
+process shows that they are intentionally so
+.  The introduction 
+of the MCCP process was “[a] significant aspect of the 
+legislative effort to make the [medical malpractice] system less 
+costly and more efficient[.] ”  Tobosa v. Owens, 69 Haw. 305, 
+312, 741 P.2d 1280, 1285 (1987).  The process was designed “to 
+encourage early settlement of claims and to weed out 
+unmeritorious claims.”  Id. (quoting H. Stand. Comm. Rep. No. 
+417, in 1976 House Journal, at 1460).  It is therefore 
+unsurprising that the requirements to initiate a claim under HRS 
+§ 671-12 (1993) are designed to be simple .  Cf. HRS § 671- 13 *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+36 (1993) 
+(hearings are to be “informal”);  HRS § 671 -15 (1993) 
+(MCCP decisions must be rendered within thirty days of a 
+hearing); HRS § 671-19 ( Supp. 1995 ) (parties and insurers are 
+required to cooperate to achieve “a prompt, fair, and just 
+disposition or settlement”) .10 
+  
+The Claim Letter submitted by the Estate and the other 
+Claimants met the requirements of the statute.  It was in 
+writing, identified Dr. Mastroianni as the party against whom 
+the claim was being made, and contained a brief summary of the 
+alleged facts underlying the claim.  Nothing in the statute 
+required the Claimants to lay out the legal theories that they 
+would later pursue in the circuit court.  
+ 
+  Under HRS § 671- 1 (1993), a “[m]edical tort” is 
+defined to include “professional negligence, the rendering of 
+professional service without informed consent, or an error or 
+omission in professional practice, by a health care provider, 
+which proximately causes death, injury, or other damage to the 
+patient.”  The Claim Letter alleged that Dr. Mastroianni was 
+                     
+10 Further emphasizing the informality of the MCCP process, the 
+legislature renamed the panels Medical Inquiry  and Conciliation Panels in 
+2012, based on its finding that “many claims now filed with medical claim 
+conciliation panels tend to function as inquiries rather than actual claims, 
+and patients or their families tend to use these proceedings to seek 
+information regarding adverse events that they  associate with medical 
+treatment[,]”  rather than to make “claims based on substantive analysis of 
+the applicable standard of care.”   2012 Haw. Sess. Laws Act 296, §1 at 1004 -
+05.  The legislature stated that the purpose of the MICP statute was “to more 
+closely reflect actual practice and the original intent for panels to serve 
+in a conciliatory function.”  Id. at 1006.   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+37 Frey’s treating physician and that he discharged Frey after two 
+days in the hospital with a diagnosis of
+ bronchitis, despite 
+indications that he had pneumonia.  It alleged that, after being 
+discharged by Dr. Mastroianni, Frey had trouble breathing and 
+was readmitted to the hospital, where his condition deteriorated 
+until he died.  It identified specific acts or omissions of Dr. 
+Mastroianni that allegedly fell beneath the standard of care, 
+and alleged that “it is likely that [Frey] would have survived” 
+if certain actions had been taken.  Thus, the Claim Letter set 
+forth facts to support
+ the Claimants’ assertio n that Dr. 
+Mastroianni committed medical negligence or an error or omission 
+in professional practice which was the legal cause of injury to, 
+and ultimately the death of, Robert Frey.   
+  The circuit court in this case held that it did not 
+have jurisdiction over the loss of chance “claim” because the 
+Estate had failed to raise it before the MCCP.  The ICA, based 
+on its determination that a loss of chance is a separate 
+compensable injury, agreed.  Estate of Frey, 2018 WL 3199216, at 
+*7.  The circuit court and the ICA were correct that the 
+requirements of the MCCP statute are “pre-condition[s]” and 
+“jurisdictional prerequisites” to bringing a lawsuit.  Yamane v. 
+Pohlson, 111 Hawai ʻi 74, 83, 137 P.3d 980, 989 (2006) (quoting 
+Tobosa, 69 Haw. at 314, 741 P.2d at 1287) (citing Garcia v. 
+Kaiser Found. Hosps., 90 Hawaiʻi 425, 441, 978 P.2d 863, 879 *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+38 (1999)); see  Dubin, 89 Hawai ʻi at 
+195, 970 P.2d at 503.  The 
+circuit court would not have had jurisdiction if the Estate had 
+not complied with the MCCP procedures set out in Part II of HRS 
+Chapter 671.  However, as explained above, loss of chance is not 
+a distinct cause of action, but a factor that may be relevant in 
+determining whether a defendant’s negligence was a substantial 
+factor in causing a plaintiff’s harm.  Therefore, the Estate was 
+not required to specifically raise loss of chance, or any other 
+legal theory, before the MCCP in order to later file suit on the 
+claim, so long as it otherwise met the requirements of HRS § 
+671-12(a) (1993).  It was sufficient for the Claimants to set 
+out facts upon which their medical tort claim is based as 
+required by HRS § 671-1 (1993).   
+C.  The circuit court erred in granting judgment as a matter of 
+law to Dr. Mastroianni. 
+ 
+ A motion for judgment as a matter of law may be 
+granted only when there is no evidence to support a jury verdict 
+in favor of the non- moving party.  Kawakami , 142 Hawai ʻi at 513, 
+421 P.3d at 1283.  In this case, there was ample evidence to 
+support a jury finding in favor of the Estate.   
+  In a  medical negligence claim, the plaintiff has the 
+burden of establishing “a duty owed by the defendant to the 
+plaintiff, a breach of that duty, and a causal relationship 
+between the breach and the injury suffered.”  Barbee, 119 Hawaiʻi *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+39 at 158, 194 P.3d at 1120 (quoting Bernard v. Char, 79 Hawaiʻi 
+371, 377, 903 P.2d 676 (App. 1995)).  A medical negligence 
+plaintiff is  required to establish legal causation through the 
+introduction of expert medical testimony,  id., and such 
+testimony must be “based on a ‘reasonable medical 
+probability[,]’” id. at 163, 194 P.3d at 1125 (quoting Craft , 78 
+Hawaiʻi at 305, 893 P.2d at 156).  As to wrongful death claims, 
+the plaintiff has the burden of establishing that the death of 
+one person was caused by “the wrongful act, neglect, or default” 
+of another, HRS § 663- 3 (Supp. 1997), which, in this case, would 
+be “medical negligence .”   
+ 
+ The testimony of the Estate’s expert witnesses , 
+summarized at length above, provided ample  evidence for a 
+reasonable jury to conclude that Dr. Mastroianni’s failures to 
+meet the standard of care were a legal cause , or significant 
+factor, of  Frey’s death  to a reasonable degree of medical 
+probability.  In particular, Dr. Schultz testified that if Frey 
+had stayed i
+n the hospital, he “would have received treatment 
+that might have included things to help him survive until the 
+antibiotics could take effect ” and that if certain measures had 
+been taken, “there is a significant chance that [Frey] could 
+have done better th an he eventually did.”  He also testified 
+that Frey’s chance of survival would have improved 
+“significantly” if he had stayed in the hospital and if the *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+40 steps that were taken to combat Frey’s sepsis had been taken 
+earlier.  Dr. Smith testified that if Frey
+ had remained in the 
+hospital and if certain steps had been taken, those steps “would 
+all ensure [Frey’s] safety[,]” that there would have been “an 
+advantage” to administering antibiotics to Frey in the hospital, 
+and that Frey “would have responded much better” if he had been 
+administered antibiotics sooner. 
+  In spite of this evidence, the circuit court and the 
+ICA both concluded that judgment as a matter of law was 
+appropriate.  This conclusion appears to have rested on the 
+requirement that expert medical
+ testimony in medical malpractice 
+cases must be based on reasonable medical probability, as the 
+circuit court found that none of the Estate’s experts “opined to 
+a reasonable degree of medical probability as to whether Mr. 
+Frey would have survived had he not been discharged by Dr. 
+Mastroianni.”     
+ 
+ Because “the causal link” between alleged acts of 
+medical negligence and their specific results  is often “not 
+within the realm of ‘common knowledge[,]’” a jury generally must 
+rely on “expert medical testimony to  determine whether and to 
+what extent any alleged negligence” contributed to the alleged 
+harm.  Barbee, 119 Hawaiʻi at 161,
+ 194 P.3d at 1123.  But because 
+causation in the medical field cannot always be determined with 
+perfect accuracy, “expert testimony on causation must be based *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+41 on a ‘reasonable medical probability[.]’”  Id. at 163, 194 P.3d 
+at 1125 (quoting Craft , 78 Hawai ʻi at 305, 893 P.2d at 156); see  
+McBride, 462 F.2d at 75.  This means that testimony that 
+“[falls] short of providing  the causal nexus” between alleged 
+negligence and harm to the patient is insufficient as a matter 
+of law.  Barbee, 119 Hawaiʻi at 163, 194 P.3d at 1125 .  However, 
+when testimony asserting such a causal nexus is provided, it 
+falls to the jury to determine whether the party presenting the 
+testimony has met its burden of proof
+.  Dzurik v. Tamura, 44 
+Haw. 327, 329, 359 P.2d 164, 165 (1960) (“A case involving a 
+medical issue . . . is no exception to the rule that, when there 
+are conflicting inferences and conclusions, it is the function 
+of the trier of facts to select the one which it considers most 
+reasonable.”)   
+  In this case, the circuit court erred when it found 
+that none of the Estate’s experts “opined to a reasonable degree 
+of medical probability as to whether Mr. Frey would have 
+survived had he not bee n discharged by Dr. Mastroianni[,]”  and 
+the ICA repeated the error in holding that “the expert medical 
+testimony fell short of providing a causal nexus between Dr. 
+Mastroianni’s alleged negligence and Frey’s death.”  Estate of 
+Frey, 2018 WL 3199216, at *9.  To the contrary, a jury could 
+have found that the testimony from these experts did establish 
+causation to a reasonable degree of medical probability.  The *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+42 “reasonable medical probability” requirement did not require the 
+Estate’s experts to present theories  of medical causation with 
+absolute certainty, but with enough certainty to, “in the 
+jurors’ eyes, rise to the requisite degree . . . to establish a 
+medical probability.”  Craft, 78 Hawai ʻi at 305, 893 P.2d at 156.  
+Unlike the testimony at issue in Barbee,  the testimony of the 
+Estate’s experts in this case provided sufficient certainty  
+about the effect of Dr. Mastroianni’s actions that the jury 
+could conclude that there was a causal nexus to establish a 
+medical probability; it was not “left to speculate  whether [Dr. 
+Mastroianni’s] action or inaction might or could have resulted 
+in” Frey’s death.  See 119 Hawaiʻi at 163, 194 P.3d at 1125.   
+  Furthermore, each of the Estate’s expert witnesses  
+expressly stated that his testimony was to a reasonable degree 
+of medical probability.  As we held in Dzurik , however, such an 
+explicit statement is not necessary for a  jury to consider 
+whether a failure to meet the standard of care was, to a 
+reasonable degree of medical probability, a legal cause, or 
+significant factor, for an injury:  
+ When causation of the injury is a medical issue,     
+. . . “[the] matter does not turn on the use of a 
+particular form of words by the physicians in giving their 
+testimony, ” since it is for the trier of facts, not the 
+medical witnesses, to make a legal determination of the 
+question of causation.  Here, the failure of a medical 
+witness to testify positively as to what was the cause of 
+the injury, or his statement that the accident “might” be 
+or “probably” was the cause of the injury, is merely a 
+circumstance to be taken into consideration by the trier of 
+facts.   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+43  
+44 Haw. at 330, 359 P.2d at 165-66 (quoting Sentilles v. Inter-
+Caribbean Shipping Corp., 361 U.S. 107, 109 (1959)).   Although 
+explicit statements from experts that a failure to meet the 
+standard of care was a legal cause or significant factor of an 
+injury “based upon a reasonable degree of m edical probability” 
+are frequently elicited in medical negligence cases, our holding 
+in Dzurik that such express language is not necessary remains 
+good law.   
+Neither Barbee  nor Craft require  that a me dical expert 
+explicitly state th at causation exists to a reasonable degree of 
+medical probability.  In Barbee, medical experts testified that 
+the deceased’s condition was “ongoing and progressive”  and that 
+“a hemoglobin of three indicates ‘severe anemia, likely 
+incompatible with life[ .]’”  119 Hawai ʻi at 163, 194 P.3d at 
+1125.  The ICA found that the expert testimony established, at 
+most, that it was possible “[d]efendants’  ‘action or inaction 
+might or could have ’ resulted”  in causing Barbee’s death , and 
+thus left the jury to speculate.  Id. (quoting Wicklund v. 
+Handoyo, 181 S.W.3d 143, 149 (Mo. Ct. App. 2005)).  In Craft, 
+this court stated that the medical testimony of Craft’s experts 
+introduced new theories of medical causation not sufficiently 
+tested, and thus  the jury was appropriately instructed to 
+disregard any medical opinion that was not based upon reasonable *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+44  /s/ Richard W. Pollack /s/ Mark E. Recktenwald 
+/s/ Paula A. Nakayama 
+/s/ Sabrina S. McKenna  
+ 
+/s/ Michael D. Wilson 
+medical probabilities.  Craft, 78 Hawai ʻi at 305, 893 P.2d at 
+156.  
+Thus, in determining whether a medical expert’s 
+statement is to a reasonable degree of medical probability, we 
+look not to whether the medical expert made an explicit 
+statement characterizing their testimony as “to a reasonable 
+degree of medical probability ” but rather, to the evidence  
+itself.  In this case, sufficient expert testimony  existed in 
+the record for the jury to consider the issue of causation.  The 
+ICA therefore erred in  ruling that Frey failed to present any 
+expert medical testimony establishing that Dr. Mastroianni 
+caused Frey’s death “ to a reasonable degree of medical 
+probability” . 
+IV.  CONCLUSION 
+  For the foregoing reasons, the ICA’s memorandum 
+opinion and judgment on appeal are vacated, the circuit cou rt’s 
+judgment in favor of Dr. Mastroianni is vacated, and the case is 
+remanded to the circuit court for a new trial consistent with 
+this opinion.  
+  
+  
+ 
+ 
+ 
+    
+  Anthony L. Ranken    
+ Samuel P. S  hnider
+for Petitioner     
+ 
+ 
+ Thomas E. Cook     
+ Brandford F.K. Bliss     
+ for Respondent     

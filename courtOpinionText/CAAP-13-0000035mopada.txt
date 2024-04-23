@@ -1,0 +1,850 @@
+NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+NO. CAAP-13-0000035
+ 
+IN THE INTERMEDIATE COURT OF APPEALS
+ 
+OF THE STATE OF HAWAI 'I 
+BANK OF AMERICA, N.A., AS SUCCESSOR BY MERGER TO
+BAC HOME LOANS SERVICING, LP, FKA COUNTRYWIDE HOME
+LOANS SERVICING, LP, Plaintiff-Appellee, v.
+SHANNON DESIREE HILL, Defendant-Appellant, and
+MORTGAGE ELECTRONIC REGISTRATION SYSTEMS, INC., SOLELY
+AS A NOMINEE FOR MORTGAGEIT, INC.; JOHN DOES 1-50;
+JANE DOES 1-50; DOE PARTNERSHIPS 1-50; DOE
+CORPORATIONS 1-50; DOE ENTITIES 1-50; and
+DOE GOVERNMENTAL UNITS 1-50; Defendants
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE FIFTH CIRCUIT
+ 
+(CIVIL NO. 11-1-0352 (JRV))
+
+ 
+MEMORANDUM OPINION
+ 
+(By: 
+Nakamura, Chief Judge, Foley and Leonard, JJ.)
+ 
+Defendant-Appellant Shannon Desiree Hill (Hill) appeals
+ 
+from the Circuit Court of the Fifth Circuit's (Circuit Court's)
+ 
+December 19, 2012 Judgment and seeks relief from the Circuit
+ 
+Court's December 19, 2012 Findings of Fact; Conclusions of Law;
+ Order Granting Plaintiff's Motion for Summary Judgment Against
+ All Parties and for Interlocutory Decree of Foreclosure
+ (Foreclosure Decree).
+1
+ 
+I. BACKGROUND FACTS
+ 
+On or about May 15, 2006, Hill signed a promissory note
+ 
+for $408,000 in exchange for a loan from lender MortgageIt, Inc.
+ (MortgageIt). The loan was secured by a mortgage on Hill's
+ 
+1
+ The Honorable Randal G.B. Valenciano presided.
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+property in Kapaa, Hawai 'i. The mortgage, which was recorded in 
+the Bureau of Conveyances on May 23, 2006, named Hill as the 
+borrower/mortgagor, MortgageIt as the lender, and Mortgage Electronic Registration Systems, Inc. (MERS) as the mortgagee. 
+The mortgage stated that "MERS is a separate corporation that is 
+acting solely as a nominee for Lender and Lender's successors and assigns." 
+On or about April 16, 2009, Countrywide Home Loans
+ 
+Servicing LP (Countrywide), the servicer of Hill's loan, sent a
+ 
+Notice of Intent to Accelerate, which stated that Hill was in
+ 
+default. It stated that "default will not be considered cured
+ unless Countrywide receives 'good funds' in the amount $5,286.62
+ on or before May 16, 2009." 
+An Assignment of Mortgage was recorded on September 21,
+ 
+2009 in which MERS transferred its interest in the mortgage to
+ BAC Home Loans Servicing, LP (BAC Home Loans). BAC Home Loans
+ 
+merged into Bank of America in August 2011.
+ 
+On December 9, 2011, Bank of America filed a Complaint
+ 
+for Foreclosure in the Circuit Court. In addition to asserting
+ 
+its interest in the mortgage by virtue of the Assignment of
+ Mortgage, Bank of America also averred that it was assigned the
+ promissory note and was then in possession of the note. Hill
+ filed her answer on January 20, 2012, raising several affirmative
+ defenses.
+ 
+On May 22, 2012, Bank of America filed its Motion for
+ 
+Summary Judgment Against All Parties and for Interlocutory Decree
+ of Foreclosure. Hill opposed the motion. She argued that Bank
+ of America had not demonstrated that it was the holder of the
+ note or the proper assignee of the mortgage, that the assignment
+ was invalid because MortgageIt had "ceased to exist" before the
+ assignment was made, that the assignment was executed by a "robo­signer", and that the note and mortgage were void and
+ unenforceable because they were "procured by an unlicensed
+ lender," i.e., MortgageIt.
+ 
+In her memorandum in opposition to summary judgment,
+ 
+Hill requested, if the court was not inclined to deny Bank of
+ 
+2
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+America's motion, it should grant a continuance pursuant to 
+Hawai'i Rules of Civil Procedure (HRCP) Rule 56(f) to allow for 
+further discovery. Hill submitted a declaration as well as a declaration by her counsel to support her argument that summary judgment should be denied. Additionally, Hill attached a letter from the State of Hawai
+'i Professional and Vocational Licensing 
+Division, Department of Commerce and Consumer Affairs, which stated that a search of its records showed that MortgageIt was not issued a (mortgage broker) license before December 31, 2010, a "Certificate of Assistant Secretary of Bank of America, National Association, Manager of BAC GP, LLC," in support of the proposition that Ken Satsky (Satsky) who signed the assignment on 
+behalf of MERS was an Assistant Vice President of BAC GP, LLC., 
+and a January 3, 2007 press release entitled "Deutsche Bank completes acquisition of MortgageIt Holdings" to show that MortgageIt had "ceased to exist" before the assignment. 
+On or about May 23, 2012, Hill sent a request for
+ 
+production of documents to Bank of America, requesting, inter
+ alia, the employment information for Satsky and Steven King
+ (King), who signed a declaration in support of Bank of America's
+ 
+Motion for Summary Judgment, and the original "wet ink"
+ 
+promissory note. Bank of America sent back its response with
+ objections. Hill then filed a Motion to Compel Plaintiff to
+ Produce Documents pursuant to HRCP Rules 26 and 37 on June 29,
+ 2012.
+ 
+The hearing on Bank of America's Motion for Summary
+ 
+Judgment was held on July 3, 2012. During the hearing, Hill's
+ counsel requested a continuance on the Motion for Summary
+ Judgment at least until the date of the hearing on the Motion to
+ Compel. However, the Circuit Court granted the Motion for
+ Summary Judgment and denied the Motion to Compel, holding that
+ the summary judgment rendered the Motion to Compel moot. The
+ court issued its Foreclosure Decree and Judgment on December 19,
+ 2012. Hill timely appealed on January 18, 2013.
+ 
+3
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+II. POINTS OF ERROR
+ 
+On appeal, Hill contends that:
+ 
+(1) The Circuit Court erred by granting the Motion for
+ 
+Summary Judgment because genuine issues of material fact remained
+
+ 
+in dispute as to Bank of America's standing to foreclose;
+ 
+(2) The Circuit Court abused its discretion by taking
+ 
+the Motion to Compel off the calendar; and
+ 
+(3) Although not raised in the points of error, Hill
+ 
+also argues that the court erred by declining to grant a
+ continuance pursuant to HRCP Rule 56(f). 
+III. 
+STANDARDS OF REVIEW
+ 
+On appeal, the grant or denial of summary judgment is
+reviewed de novo. See  State ex rel. Anzai v. City and 
+County of Honolulu, 99 Hawai' i 508, [515], 57 P.3d 433,
+[440] (2002); Bitney v. Honolulu Police Dep't, 96 Hawai' i 
+243, 250, 30 P.3d 257, 264 (2001). 
+[S]ummary judgment is appropriate if the pleadings,
+
+depositions, answers to interrogatories, and
+admissions on file, together with the affidavits, if
+any, show that there is no genuine issue as to any
+material fact and that the moving party is entitled to
+judgment as a matter of law. A fact is material if
+ proof of that fact would have the effect of
+establishing or refuting one of the essential elements
+of a cause of action or defense asserted by the
+parties. The evidence must be viewed in the light
+most favorable to the non-moving party. In other
+ words, we must view all of the evidence and inferences
+drawn therefrom in the light most favorable to the
+party opposing the motion.
+ 
+Kahale v. City and County of Honolulu, 104 Hawai' i 341, 344,
+90 P.3d 233, 236 (2004) (citation omitted). 
+Nuuanu Valley Ass'n v. City & Cnty. of Honolulu, 119 Hawai 'i 90, 
+96, 194 P.3d 531, 537 (2008); see also First Ins. Co. of Haw. v.
+ 
+A&B Props., 126 Hawai 'i 406, 413-14, 271 P.3d 1165, 1172-73 
+(2012).
+ 
+"[T]he applicable standard of review on a trial court's
+ 
+ruling on a motion to compel discovery, brought pursuant to HRCP
+ Rule 26, is abuse of discretion." 
+Hac v. Univ. of Haw. , 102
+ 
+Hawai'i 92, 101, 73 P.3d 46, 55 (2003). 
+"A trial court's decision to deny a request for a
+continuance pursuant to HRCP Rule 56(f) will not be reversed
+absent an abuse of discretion." Kaleikini v. Yoshioka, 128
+Hawai'i 53, 67, 283 P.3d 60, 74 (2012) (citations and
+internal quotation marks omitted).
+ 
+4
+
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+[T]he request must demonstrate how postponement of
+a ruling on the motion will enable him or her, by
+discovery or other means, to rebut the movants'
+showing of absence of a genuine issue of fact. An
+abuse of discretion occurs where the trial court has
+ clearly exceeded the bounds of reason or disregarded
+rules or principles of law or practice to the
+substantial detriment of a party litigant.
+ 
+Associates Fin. Services of Hawaii, Inc. v. Richardson, 99
+Hawai'i 446, 454, 56 P.3d 748, 756 (App.2002) (quoting Josue 
+v. Isuzu Motors Am., Inc., 87 Hawai' i 413, 416, 958 P.2d
+535, 538 (1998)). 
+U.S. Bank Nat. Ass'n v. Salvacion, 134 Hawai 'i 170, 172-73, 338 
+P.3d 1185, 1187-88 (App. 2014).
+ 
+IV.	 DISCUSSION
+ A.	 Bank of America's Standing to Foreclose
+ 
+"In a judicial foreclosure, a mortgagee must establish
+ 
+its standing to foreclose. A mortgagee's standing to judicially
+ foreclose may be challenged by a defending mortgagor." 
+Lizza v.
+ 
+Deutsche Bank Nat. Trust Co., 1 F.Supp.3d 1106, 1117 (D. Haw.
+ 2014) (citations omitted). A mortgagee must establish that it
+ was assigned the mortgage and corresponding promissory note
+ before it has the ability to foreclose. Citicorp Mortg., Inc. v.
+ 
+Bartolome, 94 Hawai
+'i 422, 434, 16 P.3d 827, 839 (App. 2000) 
+(plaintiff was real party in interest in foreclosure action where
+ it owned the mortgage and note throughout the proceedings).
+ 
+1.
+	 Copies of the endorsed promissory note, the
+mortgage, and the assignment of the mortgage, were
+admissible.
+ 
+Hill alleges that Bank of America provided insufficient
+ 
+evidence that it holds the promissory note and was validly
+ 
+assigned the mortgage. In connection with its motion for summary
+ judgment, Bank of America provided a declaration by Assistant
+ Vice President King stating that:
+ 
+ 
+The information in this Declaration is taken from [Bank of
+America's] business records. I have personal knowledge of
+[Bank of America's] procedures for creating these records.
+They are: (a) made at or near the time of the occurrence of
+the matters recorded by persons with personal knowledge of
+the information in the business record, or from information
+transmitted by persons with personal knowledge; (b) kept in
+the course of [Bank of America's] regularly conducted
+business activities; and (c) it is the regular practice of
+[Bank of America] to make such records.
+ 
+5
+NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+King further stated: "Plaintiff [Bank of America] is the holder
+ 
+[of] the promissory note ('Endorsed Note') for this Loan. A true
+ and correct copy of the Endorsed Note is attached as Exhibit
+ 'B.'" Exhibit B was a copy of the promissory note executed by
+ Hill in favor of MortgageIt, which included an endorsement from
+ MortgageIt to Countrywide Bank, N.A., followed by an endorsement
+ from Countrywide Bank, N.A. to Countrywide Home Loans, Inc., and
+ another endorsement from Countrywide Home Loans, Inc. in blank.
+ King also attached what he declared to be true and correct copies
+ of the Mortgage (Exhibit C) and the Assignment of Mortgage
+ (Exhibit D).
+ 
+Hill argues that King did not properly authenticate the 
+Endorsed Note, the Mortgage, or the Assignment of Mortgage. Hawai
+'i Rules of Evidence (HRE) Rule 901(a) states that "[t]he 
+requirement of authentication or identification as a condition precedent to admissibility is satisfied by evidence sufficient to support a finding that the matter in question is what its proponent claims." Hill maintains that to properly authenticate these documents, King would have needed to specifically testify that they were either the originals or copies of the originals and that they were in Bank of America's possession. However, King's declaration states that the attached Endorsed Note, Mortgage, and Assignment of Mortgage were true and correct copies and that Bank of America is the holder of the note. In addition, Hill does not put forth any cogent argument as to why King needed to testify that Bank of America was in possession of the Mortgage or Assignment of Mortgage when they were certified as true and correct copies of the records of the Bureau of Conveyances. Under HRE Rule 902(4), extrinsic evidence of authenticity is not required for certified copies of public records. Accordingly, King's statements provide "evidence sufficient to support a finding" that Exhibit B, C, and D are what he purported it to be: true and correct copies of the Endorsed Note, the Mortgage, and the Assignment of Mortgage. 
+Hill's further argument that the Endorsed Note,
+ 
+Mortgage, and Assignment of Mortgage were inadmissible hearsay is
+ 
+6
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+without merit. See HRE Rule 801 ("'Hearsay' is a statement,
+ 
+other than one made by the declarant while testifying at the
+ 
+trial or hearing, offered in evidence to prove the truth of the
+ matter asserted."); Island Directory Co., Inc. v. Iva's Kinimaka
+ Enterprises, Inc., 10 Haw. App. 15, 21-22, 859 P.2d 935, 939
+ (1993) ("It is well-settled that in a suit for breach of
+ contract, the contract allegedly breached is not hearsay and is
+ thus admissible into evidence. . . . In the instant case, the
+ written document was not offered into evidence to prove the truth
+ of its contents, but to prove that it was made, signed by
+ [Defendant], and expressed the legal relationship of the
+ parties. . . . Thus, the document was not hearsay and was
+ properly admitted into evidence by the trial court.") (citations
+ omitted).
+ 
+2.	 There was no genuine issue of material fact as to
+whether Bank of America was the holder of the
+ note.
+ 
+Hill argues that there is a genuine issue of material
+ 
+fact as to whether the endorsement on the Endorsed Note occurred
+ 
+before MortgageIt was acquired by Deutsche Bank. On a motion for
+ summary judgment, "[o]nce the movant has satisfied the initial
+ burden of showing that there is no genuine issue of material
+ fact, the opposing party must come forward, through affidavit or
+ other evidence, with specific facts showing that there is a
+ genuine issue of material fact." Miller v. Manuel, 9 Haw. App.
+ 
+56, 65, 828 P.2d 286, 292 (1991) (citing K.M. Young & Assoc.,
+ Inc. v. Cieslik, 4 Haw. App. 657, 675 P.2d 793 (1983)). If the
+ non-moving party fails to meet this burden, the moving party is
+ entitled to summary judgment as a matter of law. Hall v. State,
+ 
+7 Haw. App. 274, 284, 756 P.2d 1048, 1055 (1988); see also HRCP
+ Rule 56(e).
+2
+ 
+2
+ HRCP Rule 56(e) provides, in relevant part:
+ 
+When a motion for summary judgment is made and supported as
+provided in this rule, an adverse party may not rest upon
+the mere allegations or denials of the adverse party's
+pleading, but the adverse party's response, by affidavits or
+(continued...)
+ 
+7
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+As the Endorsed Note was a negotiable instrument, Bank
+ 
+of America is entitled to enforce the note if it is the holder. 
+Hawaii Revised Statutes (HRS) § 490:3-301 (2008). King's
+ 
+declaration averred that Bank of America was the holder of the
+ 
+note. As it was not the original holder, Bank of America would
+ be the holder of the note only if the note was properly
+ negotiated to it. "'Negotiation' means a transfer of possession,
+ whether voluntary or involuntary, of an instrument by a person
+ other than the issuer to a person who thereby becomes its
+ holder." HRS § 490:3-201(a) (2008). "Except for negotiation by
+ a remitter, if an instrument is payable to an identified person,
+ negotiation requires transfer of possession of the instrument and
+ its indorsement by the holder." HRS § 490:3-201(b) (2008). Not
+ only did King's declaration state that Bank of America was the
+ holder of the note and that Exhibit B was a true and correct copy
+ of the Endorsed Note, but the Endorsed Note itself showed an
+ unbroken line of endorsements (or "indorsements") from
+ MortgageIt, the original holder, to Countrywide Bank, N.A.,
+ followed by an endorsement to Countrywide Home Loans, Inc., and
+ finally an endorsement to no one in particular, i.e. a "blank
+ indorsement".
+3 An instrument endorsed in blank is payable to the
+ 
+bearer and may be negotiated by possession alone. HRS § 490:3­205(b) (2008). Bank of America, by offering a declaration
+ attesting that it was a holder of this instrument, provided
+ 
+2(...continued)
+as otherwise provided in this rule, must set forth specific
+facts showing that there is a genuine issue for trial. If
+ the adverse party does not so respond, summary judgment, if
+appropriate, shall be entered against the adverse party.
+ 
+
+3
+ HRS § 490:3-205 (2008) states:
+ 
+(a) If an indorsement is made by the holder of an
+instrument, whether payable to an identifiable person or
+payable to bearer, and the indorsement identifies a person
+to whom it makes the instrument payable, it is a "special
+indorsement". . . .
+ (b) If an indorsement is made by the holder of an instrument
+and it is not a special indorsement, it is a "blank
+indorsement". When indorsed in blank, an instrument becomes
+payable to bearer and may be negotiated by transfer of
+possession alone until specially indorsed. 
+8
+     NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+evidence that it possessed the note. See Hanalei, BRC Inc. v.
+ 
+Porter, 7 Haw. App. 304, 309, 760 P.2d 676, 680 (1988). Bank of
+ 
+America therefore established its prima facie claim that it was
+ the holder of the note. See, e.g., In re Collins, No. 13-01783,
+ 
+2014 WL 3725020 at *1 (Bankr. D. Haw. July 24, 2014) (creditor
+ established a prima facie claim that it was the holder of a
+ promissory note where it provided a copy of the note indorsed in
+ blank and attached an assignment of the mortgage that secured the
+ note). 
+As Bank of America satisfied its initial burden, the
+ 
+burden then shifted to Hill to set forth specific facts, as
+ opposed to mere allegations, that there was a genuine issue for
+ trial. HRCP Rule 56(e). Hill's argument appears to be that
+ because Deutsche Bank acquired MortgageIt in 2007, there was a
+ genuine issue of fact as to whether the note was endorsed before
+ or after this acquisition. We reject Hill's argument that the
+ MortgageIt endorsement was legally insufficient. The press
+ release Hill provided does not indicate that MortgageIt dissolved
+ or otherwise ceased to exist, but merely that Deutsche Bank
+ acquired MortgageIt by a stock purchase and that MortgageIt would
+ eventually become part of Deutsche Bank's Residential Mortgage
+ Backed Securities group.
+4 Hill failed to present evidence to
+ 
+contradict Bank of America's showing that it was holder of the
+ note and, therefore, did not raise a genuine issue of material
+ fact. See also, e.g., In re Tyrell, 528 B.R. 790, 794 (Bankr. D.
+ 
+Haw. 2015) (the fact that endorsements on a promissory note were
+ made by payees that have subsequently gone out of business did
+ not raise a genuine issue that the endorsements were forged when
+ the debtor offered no evidence that the endorsements were made
+ after the payees were defunct). 
+4
+ We note that in several lawsuits filed since 2007, MortgageIt is
+identified as a subsidiary of Deutsche Bank. See, e.g., IBEW Local 90 Pension
+Fund v. Deutsche Bank AG, No. 11 Civ. 4209 (KBF), 2013 WL 1223844 (S.D.N.Y.
+Mar. 27, 2013); Davis v. MortgageIT, Inc., No. Cov. S-09-3028 FCD/GGH, 2010 WL
+2943162 (E.D. Cal. July 23, 2010); Davis v. Wells Fargo Bank N.A., Civ. No. S­09-3028 FCD/GGH, 2010 WL 1779927 (E.D. Cal. Apr. 29, 2010).
+ 
+9
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Finally, Hill alleges that she raised a genuine issue
+ 
+of material fact as to who was the holder of the note when she
+ 
+provided the court with a print out of a search conducted by her
+ counsel in May 2012 on the MERS Servicer Identification System
+ identifying Bank of America as the servicer of the loan and the
+ investor as "Federal Home Loan Mortgage Corporation." However,
+ even assuming that this print out is admissible, Hill offers no
+ support for her assertion that an "investor" is the same as a
+ note holder. This argument is without merit.
+ 
+3.	 There was no genuine issue of material fact as to
+whether the mortgage was validly assigned to Bank
+of America.
+ 
+Hill alleges that Bank of America was not validly
+ 
+assigned the mortgage and therefore has not satisfied its burden
+ 
+of proving standing to foreclose. 
+As noted, King provided the court with copies of the
+ 
+Mortgage and the Assignment of Mortgage. The Assignment of
+ Mortgage, recorded in the Bureau of Conveyances on September 21,
+ 2009, reads:
+ 
+FOR VALUE RECEIVED, Mortgage Electronic Registration
+Systems, Inc., solely as nominee for Mortgageit, Inc., a New
+York Corporation, does hereby transfer without recourse to
+BAC HOME LOANS SERVICING, LP, a Texas limited partnership,
+whose address is, C\O Bank of America fka Countrywide Home
+Loans, Inc., TX, Foreclosure Department, 7105 Corporate Dr.,
+MS:PTX-B-35, Plano, TX 75024, all of its right, title and
+interest in and to that certain mortgage recorded on
+05/23/06 in the Bureau of Conveyances, State of Hawaii,
+Regular System document number 2006-095794.
+ 
+Bank of America also provided a petition and order in the Land
+ 
+Court of the State of Hawaii indicating that BAC Home Loans
+ Servicing, LP had merged into Bank of America. Again, this
+ satisfies Bank of America's burden to show that it was assigned
+ the mortgage and had standing to foreclose. Hill argues,
+ however, that "this Assignment is a legal impossibility where
+ MERS was acting solely on behalf of its principal, MortgageIt,
+ which no longer existed at the time the Assignment was executed
+ and signed on its behalf."
+ 
+As addressed above, Hill has not provided us with
+ 
+credible evidence that MortgageIt dissolved and did not continue
+ 
+10
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+as a subsidiary of Deutsche Bank. In any case, even assuming
+ 
+that the press release raised an issue as to whether MortgageIt
+ "ceased to exist" before the assignment of the mortgage, Hill's
+ argument is without merit.
+ 
+The underlying mortgage in this case identifies MERS as 
+the mortgagee and a "separate corporation that is acting solely as a nominee for Lender [MortgageIt] and Lender's successors and assigns." It also states that "Borrower does hereby mortgage, grant and convey to MERS (solely as nominee for Lender and Lender's successors and assigns) and to the successors and assigns of MERS, with power of sale [the property,]" and "MERS (as nominee for Lender and Lender's successors and assigns) has the right: to exercise any or all of those interests [granted by Borrower], including, but not limited to, the right to foreclose and sell the Property[.]" In analyzing mortgages with similar language, the United States District Court for the District of Hawai
+'i has reasoned that when a lender has entered bankruptcy or 
+even dissolved prior to the assignment of the mortgage, MERS, as the mortgagee, is not prevented from assigning its interest in the mortgage. See Andrade v. US Bank Nat. Ass'n, Civil No. 13­
+00255 LEK-KSC, 2013 WL 4552186 at *9-10 (D. Haw. Aug. 27, 2013) (in a case involving a mortgage with identical language, the assignment of the mortgage from MERS to the defendant was valid even though the original lender had declared bankruptcy before the assignment was recorded); Camat v. Fed. Nat. Mortg. Ass'n, Civil No. 12-00149 SOM/BMK, 2012 WL 2370201 at *1, *7-8 (D. Haw. June 22, 2012); Cooper v. Bank of New York Mellon, Civil No. 11­00241 LEK-RLP, 2011 WL 3705058 at *13 (D. Haw. Aug. 23, 2011) (analyzing identical language in a mortgage, the court held that "[u]nder this plain language, MERS had the authority to take any action required of the lender[,]" despite the fact that the lender had declared bankruptcy and dissolved before the assignment of the mortgage was recorded). The District Court's analysis is sound. 
+In Camat, the plaintiff-borrower asserted that the
+ 
+defendant improperly conducted a nonjudicial foreclosure. Camat,
+ 
+11
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+2012 WL 2370201 at *7. The underlying mortgage executed by the
+ 
+plaintiff had identical language to the case at bar, naming MERS
+ as the mortgagee and granting MERS, solely as nominee for the
+ lender and its successors and assigns, the power of sale and
+ foreclosure. Id. at *1-2. The lender apparently dissolved on
+ 
+April 2, 2009. Id. at *2. Before the dissolution, on February
+ 
+27, 2009, an Assignment of Mortgage was recorded in which MERS
+ assigned the mortgage to the defendant. Id. Although it
+ 
+appeared that the lender had dissolved after the assignment, the
+ court reasoned that "even if it could be argued that [the lender]
+ was dissolved earlier, that dissolution would not prevent MERS
+ from transferring any interest in the mortgage." Id. at *7. 
+The analysis in Kiah v. Aurora Loan Servs., LLC, Civil
+ 
+Action No. 10-40161-FDS, 2011 WL 841282 (D. Mass. Mar. 4, 2011)
+ which was cited by the court in Camat, is also persuasive. In
+ Kiah, the lender had dissolved after the alleged assignment of
+ the mortgage but before the date the assignment was recorded. 
+Id. at *2. Regardless of when the assignment actually occured,
+ the court in Kiah reasoned that:
+ 
+The plain language of the mortgage states that MERS was
+acting as nominee for [the lender] and its "successors and
+assigns." . . . [The lender's] dissolution would not prevent
+its successors and assigns, including [defendant], from
+seeking transfer of the mortgage from MERS.
+ 
+Accordingly, the dissolution of [the lender] would not and
+could not prevent [the defendant] from obtaining an
+assignment of the mortgage from MERS, both as a matter of
+law and according to the arrangement that existed between
+MERS and [the defendant] as a "successor and assign" of [the
+lender].
+ 
+Id. at *4. 
+Here, as in Kiah and Camat, the plain language of the
+ 
+mortgage allows MERS to transfer its interest in the mortgage as
+ 
+the nominee of MortgageIt and its successors and assigns. Even
+ if MortgageIt had ceased to exist as a separate entity before the
+ assignment was recorded, MERS was not precluded from assigning
+ the mortgage on behalf of MortgageIt's successor. Thus, Hill
+ failed to raise a genuine issue of material fact as to whether
+ Bank of America was validly assigned the mortgage. 
+12
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+4.	 The allegation of "robo-signing" does not raise a
+genuine issue of material fact.
+ 
+Hill contends that:
+ 
+the Assignment was fraudulently "robo-signed" by an
+individual named Ken Satsky who claimed under oath before a
+notary for the State of Texas to be acting on behalf of
+MERS, solely as a nominee for [MortgageIt], which did not
+even exist, as its "Assistance Vice President". However,
+Mr. Satsky is a notorious national "robo-signer," who has
+previously robo-signed documents claiming authority from
+many different corporations, without personal knowledge of
+the matters attested to.
+ 
+In support of this argument, Hill refers to the "Certificate of 
+Assistant Secretary of Bank of America, National Association, Manager of BAC GP, LLC" to show that in addition to being an Assistant Vice President of MERS, Satsky was apparently also an Assistant Vice President of BAC Home Loans Servicing, LP. However, Hill has provided us with no discernible argument as to why this is evidence that Satsky did not have the authority to assign the mortgage on behalf of MERS, even if he may have also been an officer of BAC Home Loans. The District Court for the District of Hawai
+'i, for example, has soundly rejected bare 
+allegations of "robo-signing" as grounds for a claim that an assignment was invalid. Nottage v. Bank of New York Mellon, 
+Civil No. 12-00418 JMS/BMK, 2012 WL 5305506 at *6 (D. Haw. Oct. 25, 2012) ("[Plaintiff] fails to explain why Rice's apparent authority to sign documents on behalf of multiple companies establishes that she did not have authority in this instance . . . . The court therefore reiterates its holding from other cases that conclusory assertions of 'robo-signing' fail to state a plausible claim [for wrongful foreclosure].") We also conclude that Hill's allegations do not raise a genuine issue as to whether the assignment was proper. 
+5.	 The mortgage and note were not void and
+unenforceable merely because MortgageIt was not a
+licensed mortgage broker.
+ 
+Hill maintains that the promissory note and mortgage
+ 
+were void and unenforceable under the law in effect at the time
+ 
+they were executed. Under HRS § 454-8 (1993) (repealed effective
+ Jan. 1, 2011), "[a]ny contract entered into by any person with
+ 
+13
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+any unlicensed mortgage broker or solicitor shall be void and
+ 
+unenforceable." A mortgage broker was defined in HRS § 454-1
+ (1993) (repealed effective Jan. 1, 2011) as "a person not exempt
+ under section 454-2 who for compensation or gain, or in the
+ expectation of compensation or gain, either directly or
+ indirectly makes, negotiates, acquires, or offers to make,
+ negotiate, or acquire a mortgage loan on behalf of a borrower
+ seeking a mortgage loan."
+ 
+Hill cites to Beneficial Haw., Inc. v. Kida, 96 Hawai
+'i 
+289, 30 P.3d 895 (2001), for the proposition that "loans made by an unlicensed lender are completely unenforceable in judicial foreclosure actions in Hawaii." However, Kida did not hold that any loan made by a lender who was not also licensed as a mortgage broker is unenforceable. Rather, it held that "HRS § 454-8 must be interpreted to invalidate only those contracts into which unlicensed mortgage brokers enter in their capacity as mortgage brokers within the meaning of HRS § 454-1." Kida, 96 Hawai
+'i at 
+309, 30 P.3d at 915. In Kida, although a group known as The Mortgage Warehouse was designated on the loan documents as the "lender" while another entity was the "broker", The Mortgage Warehouse actually acted as the broker since it did not have any of its own funds to lend, but arranged funding from another entity and was compensated for its services in an arrangement known as "table funding". Id. at 306, 30 P.3d at 912. Unlike in 
+Kida, in the present case, there is no evidence that MortgageIt was acting as a broker. 
+Hill contends that:
+ 
+Insofar as MortrgaeIt [sic] indisputably made the
+subject mortgage loan for compensation or gain or in the
+expectation of compensation or gain, MortrgaeIt [sic]
+qualified as a "mortgage broker" requiring licensing under
+Chapter 454 of the Hawaii Revised Statues [sic]. Appellee
+provided no evidence to suggest that MortrgaeIt [sic] was
+otherwise exempt from the licensing requirement. In fact,
+MortgageIt was not licensed as a mortgage broker or mortgage
+solicitor in Hawaii before December 31, 2010.
+ 
+(Footnote omitted). Even accepting that MortgageIt was not
+ 
+licensed as a broker, and assuming that it made the subject
+ mortgage loan "for compensation or gain", we do not agree that it
+ 
+14
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+qualified as a broker under HRS § 454-1. The statute also
+ 
+defines a mortgage broker as one who makes a loan on behalf of
+ the borrower. Kida held that "we construe the phrase 'on behalf
+ 
+of a borrower,' as set forth in HRS § 454-1, as amended, to mean
+ 'in the interest of a borrower' or 'for the benefit of a
+ borrower.'" Id. at 309, 30 P.3d at 915. However, a lender does
+ 
+not automatically act on behalf of a borrower when it lends money
+ to the borrower. McCarty v. GCP Mgmt., LLC, Civil No. 10-00133
+ 
+JMS/KSC, 2010 WL 4812763 at *4 (D. Haw. Nov. 17, 2010). "Rather,
+ it is well established that a lender acts on its own behalf in an
+ arms-length loan transaction (even if a borrower might in some
+ sense 'benefit' from the loan transaction)." Id. Here, the only
+ 
+evidence is that MortgageIt acted as the lender; nothing
+ indicates that it attempted to find financing for Hill from any
+ other lender besides itself.
+5 Absent evidence that MortgageIt
+ 
+acted as Hill's mortgage broker, the note and mortgage are not
+ void. See Wilson v. Noel, No. CAAP-12-0000098, 2015 WL 2226273
+ 
+at *2 (Haw. App. May 12, 2015) ("Because Wind River Brokers did
+ not broker Noel's mortgage loan transaction, their unlicensed
+ status does not affect the validity of Noel's note and
+ mortgage."); Fed. Home Loan Mortg. Corp. v. Padron, No. CAAP-13­0001153, 2015 WL 405637 at *2 (Haw. App. Jan. 29, 2015)
+ (rejecting the argument that a note and mortgage were void where,
+ although the lender, SecurityNational, was not a licensed
+ mortgage broker, "SecurityNational was acting on its behalf as a
+ lender, not on behalf of Padron as a broker."). 
+B. Hill was not entitled to a continuance.
+ In her memorandum in opposition to Bank of America's
+ 
+Motion for Summary Judgment, Hill requested that the court deny
+ Bank of America's motion or, in the alternative, that it grant a
+ continuance pursuant to HRCP Rule 56(f). On June 29, 2012, only
+ 
+5
+ As Bank of America argues, "the loan application form Hill
+attached to her declaration in support of her summary judgment opposition
+identifies the entity that served as her mortgage broker for the transaction:
+Pacific Mortgage Corporation[.]" Thus, it appears that Pacific Mortgage
+Corporation, not MortgageIt, sought to acquire a loan on behalf of Hill and
+acted as her broker. 
+15
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+a few days before the July 3, 2012 hearing on the Motion for
+ 
+Summary Judgment, Hill filed a Motion to Compel Plaintiff to
+ Produce Documents. At the July 3, 2012 hearing, Hill's counsel
+ verbally requested to continue the Motion for Summary Judgment at
+ least until August 21, 2012, the date the Motion to Compel was
+ set for a hearing. In granting the Motion for Summary Judgment,
+ the court stated that "[g]iven the Court's ruling on the summary
+ judgment, the motion to compel, the Court views that moot and
+ will take that off calendar."
+ 
+HRCP Rule 56(f) states:
+ 
+Should it appear from the affidavits of a party opposing the
+motion that the party cannot for reasons stated present by
+affidavit facts essential to justify the party's opposition,
+the court may refuse the application for judgment or may
+order a continuance to permit affidavits to be obtained or
+depositions to be taken or discovery to be had or may make
+such other order as is just.
+ 
+A request for a continuance pursuant to HRCP Rule 56(f) must 
+demonstrate how postponement of a ruling on the motion will enable the non-moving party, by discovery or other means, to rebut the movant's showing of absence of a genuine issue of fact. Acoba v. General Tire, Inc., 92 Hawai
+'i 1, 9, 986 P.2d 288, 296 
+(1999). "The party is required to show what specific facts further discovery might unveil." Exotics Hawaii-Kona, Inc. v. 
+E.I. Du Pont De Nemours & Co., 116 Hawai
+'i 277, 308, 172 P.3d 
+1021, 1052 (2007) (quoting McCabe v. Macaulay, 450 F.Supp.2d 928,
+ 933 (N.D. Iowa 2006)). 
+To prevail under [FRCP Rule 56(f)], parties opposing a
+motion for summary judgment must make (a) a timely
+application which (b) specifically identifies (c) relevant
+information, (d) where there is some basis for believing
+that the information sought actually exists. The burden is
+ on the party seeking additional discovery to proffer
+sufficient facts to show that the evidence sought exists,
+and that it would prevent summary judgment.
+ 
+Emp'rs Teamsters Local Nos. 175 & 505 Pension Trust Fund v.
+ 
+Clorox Co., 353 F.3d 1125, 1129-30 (9th Cir. 2004) (citations and
+ internal quotation marks omitted).
+6
+ 
+6
+ Although FRCP Rule 56(f) has been revised, the version discussed
+by Clorox Co. is identical to the current version of HRCP Rule 56(f). See
+ 
+Clorox Co., 353 F.3d 1129 n.2. Thus, we may look to Clorox Co., and other
+(continued...)
+ 
+16
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+Hill first made her request for a HRCP Rule 56(f)
+ 
+continuance in her memorandum in opposition to Bank of America's
+ 
+Motion for Summary Judgment. The memorandum was accompanied by a
+ declaration by Hill and a declaration by Hill's counsel. 
+The declarations and the Motion to Compel allege that
+ 
+King did not have the first-hand knowledge necessary to properly
+ authenticate the promissory note and that Hill should be provided
+ with King's employment records and "any and all corporate
+ resolutions and/or powers of attorney purporting to authorize
+ Steven King to act on behalf of Plaintiff as its 'Assistant Vice
+ President[.]'" Hill also requested employment information for
+ Satsky and Azfar Siddiqui, the notary public who notarized the
+ Assignment of Mortgage, based on her belief that Satsky was a
+ "robo-signer" who fraudulently signed the assignment. However,
+ Hill's assertion that King did not have the first-hand knowledge
+ necessary to authenticate the note appears to be based on pure
+ speculation. Additionally, as noted, she has provided no facts
+ which raise the issue that Satsky was a "robo-signer". Thus,
+ there was no plausible basis for her claims that further
+ discovery was necessary to uncover the "fraudulent" nature of the
+ note and the assignment, and the Circuit Court did not need to
+ permit additional discovery to support these claims. See, e.g.,
+ Fifth Third Mortg. Co. v. Chicago Title Ins. Co., 692 F.3d 507,
+ 511 (6th Cir. 2012) (defendant was not entitled to a continuance
+ to conduct additional discovery in support of an improbable and
+ baseless claim); Blough v. Holland Realty, 574 F.3d 1084, 1091
+ (9th Cir. 2009) (the district court did not abuse its discretion
+ by denying a FRCP Rule 56(f) request where there was "no
+ plausible basis to believe that the information sought
+ exist[ed.]"); Young v. Van Buren, No. 28543, 2010 WL 4278321 at
+ *5 (Haw. App. Oct. 29, 2010) (plaintiff was not entitled to a
+ continuance under HRCP Rule 56(f) when he provided no basis for
+ 
+6(...continued)
+federal cases interpreting the identical version of FRCP Rule 56(f), as
+persuasive to our analysis of HRCP Rule 56(f). Thomas v. Kidani
+, 126 Hawai' i 
+125, 130 n.5, 267 P.3d 1230, 1235 n.5 (2011). 
+17
+     NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+believing that a deposition of the defendant would yield
+ 
+information that would rebut the defendant's showing that there
+ was no genuine issue of material fact).
+ 
+Hill also requested that Bank of America produce the
+ 
+original "wet ink" note. However, Bank of America was not
+ required to produce the original note before it could foreclose
+ on Hill's property when it provided other sufficient evidence. 
+Hill provided no support for the contention that Bank of America
+ might not actually possess the note.
+ 
+Hill's remaining requests for additional discovery
+ 
+under HRCP Rule 56(f) were broad requests for information related
+ to the promissory note and assignment of mortgage that do not
+ illuminate the specific facts Hill sought to uncover, but were
+ rather the type of broad requests that are generally insufficient
+ to justify a continuance. See Young, 2010 WL 4278321 at *5 n.7
+ 
+("We note that while parties should have a fair opportunity to
+ conduct adequate discovery, the continuance of a hearing on a
+ summary judgment motion cannot be based on the need to conduct a
+ 'fishing expedition.'").
+ 
+Moreover, the purpose of these requests was apparently
+ 
+to rebut Bank of America's showing that the note was properly
+ negotiated and the mortgage was properly assigned. Hill sought
+ to discover whether the note and mortgage were transferred after
+ Deutsche Bank acquired MortgageIt and alleged that the Assignment
+ of Mortgage was a forged and fraudulent document. Again, there
+ is no support in the record for the claim that the Assignment of
+ Mortgage, or indeed any document at issue, was forged. As to the
+ assignment of the mortgage by MortgageIt, as we determined above,
+ even if MortgageIt ceased to exist, by the terms of the mortgage,
+ MERS was permitted to assign the mortgage on behalf of MortgageIt
+ or its successors and assigns. Thus, even if Hill could uncover
+ proof that the mortgage was assigned after MortgageIt ceased to
+ exist, it would not rebut Bank of America's showing that the
+ mortgage was properly assigned. 
+In short, Hill did not meet the requirements for relief
+ 
+pursuant to HRCP Rule 56(f). Therefore, the Circuit Court did
+ 
+18
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+not err by entering summary judgment instead of granting a
+ 
+continuance for Hill to conduct further discovery.
+ V. CONCLUSION
+ 
+For the foregoing reasons, the Circuit Court's December
+ 
+19, 2012 Judgment is affirmed.
+ 
+DATED: Honolulu, Hawai
+'i, October 30, 2015. 
+On the briefs:
+ 
+Gary Victor Dubin 
+Frederick J. Arensmeyer
+Daisy Lynn B. Hartsfield
+Zeina Jafar
+ (Dubin Law Offices) for Defendant-Appellant
+ Chief Judge
+
+Associate Judge
+Rosalie Euna Kim
+ (Reed Smith LLP) 
+and
+ 
+Sharon V. Lovejoy
+Brandi B. Balanda
+ (Starn O'Toole Marcus & Fisher)
+for Plaintiff-Appellee 
+Associate Judge
+
+19
+ 

@@ -1,0 +1,1038 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ʻI 
+ 
+ 
+ 
+                                                                
+ 
+ 
+DECEMBER 9, 2016 
+ 
+ 
+ 
+ 
+  The appeal and cross-appeal in this case primarily 
+involve the constitutionality of the statutes criminalizing the 
+unauthorized possession of confidential personal information (UPCPI). Hawaii Revised Statutes (HRS) §§ 708-800, 708-839.55 ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+	
+Electronically Filed 
+Supreme Court 
+SCAP-14-0001205 09-DEC-2016 
+08:33 AM 
+---o0o---
+STATE OF HAWAI ʻI,
+Respondent/Plaintiff-Appellant/Cross-Appellee, 
+ 
+vs. 
+ 
+CHESTER PACQUING,
+Petitioner/Defendant-Appellee/Cross-Appellant. 
+SCAP-14-0001205 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT 
+(CAAP-14-0001205; CR. NO. 08-1-0556) 
+
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, AND POLLACK, JJ., AND
+CIRCUIT JUDGE NISHIMURA, IN PLACE OF WILSON, J., RECUSED 
+OPINION OF THE COURT BY POLLACK, J. 
+I.
+ INTRODUCTION 	
+	  
+  
+																																																								
+ 1   HRS §§ 708-800 and 708-839.55 are hereinafter collectively
+referred to as “UPCPI statutes.” When referring to a specific statute or its
+sections or subsections, the exact designation (e.g., HRS § 708-839.55(a))
+will be used. ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+(Supp. 2006).1 Three issues are presented: (1) whether the 
+complaint in this case charging the UPCPI offense is legally 
+insufficient for not being readily comprehensible to persons of common understanding, in violation of article I, section 14 of 
+the Hawai #i Constitution and the Sixth Amendment to the United 
+States Constitution; (2) whether the UPCPI statutes are 
+unconstitutionally overbroad; and (3) whether the UPCPI statutes 
+are unconstitutionally vague. 
+We hold that (1) the complaint is legally insufficient 
+and contrary to constitutional due process rights, (2) the UPCPI 
+statutes are not unconstitutionally overbroad, and (3) portions of the UPCPI statutes are unconstitutionally vague, but they are severable from the constitutional parts of the statutes. 
+II. BACKGROUND 
+On March 23, 2008, at about 11:00 p.m., Officer Barry 
+Danielson of the Honolulu Police Department (HPD), assisted by Officer Daniel Lum, initiated a traffic stop of a black Acura Integra with an expired tax emblem. Chester Pacquing, the driver of the black Acura, was asked, but failed, to produce his driver’s license, registration, and insurance papers. Pacquing then identified himself as the complainant and provided the 
+2
+ 	
+	  Thereafter, Officer Lum issued two citations to 
+Pacquing in the complainant’s name: a criminal citation for the 
+offense of Driving Without Insurance and a traffic infraction for Delinquent Vehicle Tax and Fraudulent Safety Check. Officer 
+Lum indicated on the citations the complainant’s Hawai #i driver’s 
+license number and the last four digits of the complainant’s 
+social security number, and Pacquing signed the citations with the complainant’s name. 
+ 
+ ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+complainant’s residential address and date of birth. When the officers called in the complainant’s name, residential address, and date of birth to HPD dispatch, the physical description of the complainant provided by HPD dispatch matched that of 
+Pacquing. 
+After Pacquing was allowed to leave, Officer Lum 
+discovered that he did not give Pacquing a copy of one of the traffic citations. Officer Lum went to the complainant’s 
+residential address to deliver the citation, and when the complainant did not answer, Officer Lum left the citation in the complainant’s mailbox. The complainant later discovered the citation in his mailbox, and believing that the citation was mistakenly issued in his name, he took it to the Kalihi Police Station. The complainant explained that he had not been stopped by the police at the date and time indicated on the citation and 
+that he did not own or operate a black Acura Integra. A police 
+3
+ 	
+	  
+  
+																																																								
+	  
+ ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+report was initiated, and Officer Lum was informed of the 
+complainant’s statement. 
+On April 7, 2008, Officer Danielson stopped the same 
+black Acura Integra, with Officer Lum assisting. Pacquing again 
+failed to provide picture identification. Officer Lum detained 
+Pacquing, the complainant was brought to the scene, and the complainant identified Pacquing as his former neighbor. Pacquing thereafter admitted his true identity and explained that he used the complainant’s name and personal information because there were outstanding warrants issued against him, and he was scared of getting arrested. 
+On April 14, 2008, Pacquing was charged by complaint 
+with one count of UPCPI, in violation of HRS § 708-839.55.
+2 The 
+complaint stated as follows: 
+2 HRS § 708-839.55 provides as follows: 
+(1)
+ A person commits the offense of unauthorized
+possession of confidential personal information if that
+person intentionally or knowingly possesses, without
+authorization, any confidential personal information ofanother in any form, including but not limited to mail,physical documents, identification cards, or informationstored in digital form. 
+(2) It is an affirmative defense that the person who
+possessed the confidential personal information of anotherdid so under the reasonable belief that the person inpossession was authorized by law or by the consent of theother person to possess the confidential personal
+information. 
+(3) Unauthorized possession of confidential personal
+information is a class C felony. 
+HRS § 708-839.55 (Supp. 2006). 
+4
+ 	
+	  
+  
+																																																								
+	 ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+On or about the 23rd day of March, 2008, to and including
+the 7th day of April, 2008, in the City and County of
+Honolulu, State of Hawaii, CHESTER PACQUING did
+intentionally or knowingly possess, without authorization,
+any confidential personal information of [the complainant]in any form, including but not limited to mail, physicaldocuments, identification cards, or information stored indigital form, thereby committing the offense of
+Unauthorized Possession of Confidential Personal 
+Information, in violation of Section 708-839.55 of the Hawaii Revised Statutes. 
+Pacquing moved to dismiss the complaint on the basis 
+of insufficient evidence and on the basis that it was a de 
+minimis violation of the UPCPI statutes. The circuit court granted the motion in part, agreeing with Pacquing that his actions constituted a de minimis violation of the UPCPI statutes.
+3 The State appealed from the circuit court’s order to 
+the Intermediate Court of Appeals (ICA), which, in a memorandum opinion, vacated the order and remanded the case for further proceedings after concluding that Pacquing had failed to “place all the relevant attendant circumstances before the trial court.” 
+State v. Pacquing , No. 29703 (App. Jan. 25, 2012) 
+(mem.), aff’d on other grounds, 129 Hawai #i 172, 297 P.3d 188 
+(2013). 
+Pacquing applied for a writ of certiorari to this 
+court, which, in a published opinion filed on March 22, 2013, affirmed the ICA’s judgment on other grounds and remanded the 
+case to the circuit court. 
+State v. Pacquing , 129 Hawai #i 172, 
+3 The Honorable Michael A. Town presided. 
+5
+ 	
+	  
+  
+  
+																																																								
+	 ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+297 P.3d 188 (2013). This court determined that the circuit 
+court erred in concluding that the complaint should be dismissed as a de minimis statutory violation and that the ICA erred in allowing further proceedings on the de minimis motion. Id. at 
+183—87, 297 P.3d at 199—203. 
+On remand to the circuit court, Pacquing moved to 
+dismiss the complaint on the grounds that the UPCPI statutes are unconstitutionally vague and overbroad under the Due Process Clauses of the federal and state constitutions. On the same day, Pacquing filed a separate dismissal motion, alleging that the complaint failed to provide him fair notice of the nature and cause of the accusation. The State opposed both dismissal 
+motions. 
+After conducting hearings on the dismissal motions, 
+the circuit court dismissed the case on the ground that the 
+complaint is fatally defective (Order Dismissing Complaint).
+4 
+The circuit court reasoned that the statutory term “confidential personal information” is not readily comprehensible to persons of common understanding and that the State’s failure to define that phrase in the complaint denied Pacquing of his right to be 
+fully informed of the nature and cause of the accusation against 
+him. 
+4 The Honorable Paul B.K. Wong presided. 
+6
+ 	
+	  As to the constitutional challenges to the UPCPI 
+statutes, the circuit court concluded that the statutes are not 
+void for vagueness because they are sufficiently specific to give a person of ordinary intelligence a reasonable opportunity 
+to know what conduct is prohibited and provide explicit 
+standards to avoid arbitrary and discriminatory enforcement. However, the circuit court found that the UPCPI statutes are overbroad because they impact the fundamental rights of expression and of the press as protected by the First Amendment to the U.S. Constitution and by article I, section 4 of the 
+Hawai#i Constitution. The circuit court reasoned that the 
+State’s significant public interest in preventing identity theft 
+and the misuse of confidential personal information does not justify the UPCPI statutes’ potentially sweeping restriction on the exercise of the freedoms of speech and of the press. Thus, 
+the circuit court dismissed the complaint with prejudice on 
+overbreadth grounds (Order Invalidating the UPCPI Statutes). 
+ 
+ ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+The State moved for reconsideration of each of the two 
+orders, and the circuit court orally denied the motions. Thereafter, the State filed a notice of appeal to the ICA, appealing from the circuit court’s Order Dismissing Complaint, Order Invalidating the UPCPI Statutes, and the oral decision 
+7
+ 	
+	  “The constitutionality of a statute is a question of 
+law which is reviewable under the right/wrong standard.” State 
+v. Alangcas, 134 Hawai #i 515, 524, 345 P.3d 181, 190 (2015) 
+(quoting State v. Gaylord, 78 Hawai #i 127, 137, 890 P.2d 1167, 
+1177 (1995)). It is well established that “the standard for 
+demonstrating that a statute is contrary to our constitution 
+remains high: ‘Every enactment of the Hawai #i Legislature is 
+presumptively constitutional, and the party challenging a 
+statute has the burden of showing the alleged unconstitutionality beyond a reasonable doubt.’” Id. at 531, 
+345 P.3d at 197 (quoting State v. Bui, 104 Hawai #i 462, 466, 92 
+P.3d 471, 475 (2004)). 
+																																																								
+  
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+denying reconsideration.5 On the same day, Pacquing filed a 
+notice of cross-appeal challenging the Order Invalidating the UPCPI Statutes.
+6 Thereafter, Pacquing filed an application for 
+transfer, which this court granted. 
+III. STANDARDS OF REVIEW 
+5 The circuit court subsequently filed its written orders denying
+the State’s motions for reconsideration. On appeal, the State makes no
+discernible argument as to the impropriety of the circuit court’s denial of
+its motions for reconsideration. In any event, this court’s resolution of
+the issues involved in this case encompasses the matters raised in theState’s motions for reconsideration. 
+6 Pacquing also cross-appealed from the Order Dismissing Complaint,
+but the arguments in his appellate briefs only relate to the Order
+Invalidating the UPCPI Statutes. 
+8
+ 	
+	  
+	
+		In its appeal, the State maintains that the circuit 
+court erred in concluding (1) that the term “confidential personal information” is not readily comprehensible to persons 
+of common understanding; (2) that the defect in the complaint 
+deprived the circuit court of subject-matter jurisdiction; and (3) that the UPCPI statutes are unconstitutionally overbroad. In his cross-appeal, Pacquing asserts that the circuit court erred in concluding that the UPCPI statutes are not unconstitutionally vague.
+7  	
+  
+																																								
+																
+	  
+	***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+Whether a charge sufficiently sets forth all the 
+elements of the offense is also a question of law reviewed on 
+appeal under the right/wrong standard. State v. Wheeler, 121 
+Hawai
+#i 383, 390, 219 P.3d 1170, 1177 (2009). 
+IV. DISCUSSION 
+A.
+ Sufficiency of the Charge and Due Process 
+The State contends in its appellate briefs that the 
+complaint against Pacquing is readily comprehensible to persons of common understanding and that the circuit court erred in concluding that the complaint did not provide Pacquing with fair notice of the accusations against him in violation of article I, 
+7 Pacquing also contends that the district court erred in failing
+to find that HRS § 708-839.55(2) (Supp. 2013) violates defendants’ federal
+and state constitutional rights to due process because it places the burdenof persuasion on defendants with regard to essential elements of UPCPI. This issue was not raised in the circuit court, and in light of our disposition of
+this case, it would be premature for this court to address this issue. 
+9
+ 	
+	  We agree with the State’s concession. “Article 1, 
+section 14 of the Hawai #i Constitution and the Sixth Amendment to 
+the United States Constitution require that ‘[i]n all criminal 
+prosecutions, the accused shall enjoy the right . . . to be informed of the nature and cause of the accusation[.]’” State 
+v. Wells
+, 78 Hawai #i 373, 379, 894 P.2d 70, 76 (1995) 
+(alterations in original). Generally, “[w]here the statute sets forth with reasonable clarity all essential elements of the crime intended to be punished, and fully defines the offense in unmistakable terms readily comprehensible to persons of common understanding, a charge drawn in the language of the statute is 
+sufficient.” State v. Wheeler, 121 Hawai #i 383, 393, 219 P.3d 
+																																																								
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+section 14 of the Hawai #i Constitution and the Sixth Amendment to 
+the U.S. Constitution. However, the State at oral argument 
+conceded that the complaint is defective because it did not include the statutory definition of “confidential personal information” and that, therefore, the complaint did not fairly apprise persons of common understanding of what they must defend against.
+8 Oral Argument at 23:40—24:22, State v. Pacquing, SCAP-
+14-0001205, http://oaoa.hawaii.gov/jud/oa/16/SCOA_021816_14_ 1205.mp3. 
+8 The State represented that its current practice is to include the
+statutory definition of “confidential personal information” when charging a
+person with UPCPI, see Oral Argument at 23:40—24:22. 
+10
+ 	
+	 
+																																																								
+	 	***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+1170, 1180 (2009) (alteration in original) (quoting State v. 
+Jendrusch, 58 Haw. 279, 282, 567 P.2d 1242, 1245 (1977)). Here, because the statutory definition of “confidential personal information” “does not comport with its commonly understood 
+definition,” it is “neither ‘unmistakable’ nor ‘readily 
+comprehensible to persons of common understanding.’” Wheeler, 
+121 Hawai #i at 394, 219 P.3d at 1181 (quoting
+ State v. Merino, 81 
+Hawai#i 198, 214, 915 P.2d 672, 688 (1996)). A person of 
+ordinary intelligence would reasonably construe the phrase “confidential personal information” as secret or private 
+knowledge belonging or relating to a particular person or 
+designed for use by that person.
+9 On the other hand, the 
+statutory definition of “confidential personal information” provides as follows: 
+information in which an individual has a significant
+privacy interest, including but not limited to a driver’slicense number, a social security number, an identifyingnumber of a depository account, a bank account number, a
+password or other information that is used for accessing
+information, or any other name, number, or code that isused, alone or in conjunction with other information, toconfirm the identity of a person. 
+HRS § 708-800 (Supp. 2006). Thus, under the statute, only 
+“information in which an individual has a significant privacy interest,” including and as exemplified by the list provided in 
+HRS § 708-800, qualifies as “confidential personal information” 
+9 See Confidential, Webster’s Third New International Dictionary
+(1993); Personal, Webster’s, supra; Information, Webster’s, supra. 
+11
+ 	
+	  Hence, simply stating the phrase “confidential 
+personal information” in the complaint against Pacquing did not 
+sufficiently apprise him “of what he . . . must be prepared to 
+meet.” Wells, 78 Hawai #i at 379—80, 894 P.2d at 76—77 (quoting 
+State v. Israel
+, 78 Hawai #i 66, 69, 890 P.2d 303, 306 (1995)). 
+The State should have included in the charge the statutory 
+definition of “confidential personal information” under HRS § 
+708-800 or at least specified in the charge the items of 
+information that allegedly were unlawfully possessed. Accordingly, the circuit court did not err in concluding that the term “confidential personal information” is not readily comprehensible to persons of common understanding and that, therefore, the complaint is legally insufficient under article 
+I, section 14 of the Hawai #i Constitution and the Sixth Amendment 
+to the U.S. Constitution. Because the complaint against 
+Pacquing is legally insufficient, it is dismissed without 
+prejudice. See Wheeler, 121 Hawai #i at 386, 219 P.3d at 1173 
+(affirming the ICA’s dismissal without prejudice of an ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+for the purposes of the UPCPI offense. As such, the common 
+signification of “confidential personal information” does not convey the extent or limits of the statutory definition. 
+12
+ 	
+	 
+  The State challenges the circuit court’s conclusion 
+that the UPCPI statutes are overbroad because they impact the 
+fundamental rights of expression and the press as guaranteed by the First Amendment to the U.S. Constitution and by article I, 
+section 4 of the Hawai #i Constitution. According to the State, 
+the possibility that the UPCPI statutes may cause a chilling 
+effect on the freedom of speech and of the press does not render the UPCPI statutes overbroad because their “legitimate reach . . . dwarf[] any possible impermissible applications.” 
+  
+																																																								
+	 	
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+insufficient oral charge alleging the offense of Operating a Vehicle Under the Influence of an Intoxicant).
+10 
+B. Overbreadth 
+“Overbreadth analysis addresses laws that, if 
+enforced, would allow the prosecution of constitutionally-
+protected conduct.” State v. Alangcas , 134 Hawai #i 515, 527, 345 
+10 The State additionally argues that the circuit court erred in
+concluding that the failure to sufficiently state an offense in the complaint
+against Pacquing deprived the court of subject-matter jurisdiction. The 
+Order Dismissing Complaint could be read as based on a conclusion that thecircuit court lacked subject-matter jurisdiction because of its reliance onportions of 
+State v. Cummings that have since been overruled by this court.
+101 Hawai #i 139, 63 P.3d 1109 (2003), overruled in part, Schwartz v. State,
+136 Hawai #i 258, 361 P.3d 1161 (2015). 
+In Schwartz, this court concluded that although a charging
+instrument that fails to allege an element of an offense “may result in asignificant violation of due process, [it] does not abrogate the jurisdiction
+of the court, which is established by statute and invoked by a charge of a
+cognizable offense prescribed by law.” 136 Hawai #i at 272, 361 P.3d at 1175.
+Therefore, the circuit court erred to the extent it concluded that the
+omission of the definition of “confidential personal information” in the
+complaint deprived it of subject-matter jurisdiction. 
+13
+ 	
+	  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+P.3d 181, 193 (2015) (citing Andrew E. Goldsmith, The Void–for– 
+Vagueness Doctrine in the Supreme Court, Revisited, 30 Am. J. Crim. L. 279, 284 n.39 (2003)). 
+An overbreadth challenge is 
+typically available only to individuals who “assert that [their] 
+constitutionally protected conduct is being prosecuted by the 
+State.” Id. In instances where it is contended that the 
+challenged statute affects constitutionally protected freedom of expression or “reaches a substantial amount of constitutionally protected conduct,” then an individual may initiate a facial challenge to the statute as overbroad on these grounds. Id. at 
+528, 345 P.3d at 194 (quoting Vill. of Hoffman Estates v. 
+Flipside, Hoffman Estates, Inc.
+, 455 U.S. 489, 494 (1982)). 
+Pacquing does not argue that the UPCPI statutes are 
+punishing him for conduct that is constitutionally protected. He contends only that “[b]ecause the creation, possession, and dissemination of information is speech for First Amendment purposes, HRS § 708-839.55
+ impacts First Amendment rights of 
+expression,” and he “may challenge the statute on the grounds that it may be unconstitutionally applied in circumstances that are not presented in the instant case.” The essence of 
+Pacquing’s argument is that the way in which the UPCPI statutes 
+are written “would effectively function as a prior restraint on the press and the public to prevent them from ever publishing or obtaining any confidential personal information without the 
+14
+ 	
+	  The starting point for overbreadth analysis is the 
+determination, through statutory construction, of the meaning 
+and scope of the challenged statute in order to ascertain “whether the enactment reaches a substantial amount of 
+constitutionally protected conduct.” 
+Alangcas , 134 Hawai #i at 
+525, 345 P.3d at 191 (quoting State v. Beltran, 116 Hawai #i 146, 
+152, 172 P.3d 458, 464 (2007)); see United States v. Williams, 
+553 U.S. 285, 293 (2008) (“[I]t is impossible to determine 
+whether a statute reaches too far without first knowing what the statute covers.”). This threshold inquiry focuses on an evaluation of “the ambiguous as well as the unambiguous scope of 
+the enactment.” Alangcas, 134 Hawai #i at 525, 345 P.3d at 191 
+(emphasis omitted) (quoting Vill. of Hoffman Estates, 455 U.S. 
+at 494 n.6). If the court concludes that the law does not reach a substantial amount of constitutionally protected conduct, then the overbreadth challenge must fail. Id. (quoting Vill. of 
+Hoffman Estates, 455 U.S. at 494). When confronted by “a 
+provision of broad or apparent unrestricted scope, courts will 
+strive to focus the scope of the provision to a narrow and more restricted construction,” id. at 524—25, 345 P.3d at 190—91 ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+authorization of the individual to whom that information refers.” Thus, Pacquing’s contention is a facial challenge to the UPCPI statutes as overbroad. 
+15
+ 	
+	  It is well established that statutory construction in 
+our jurisdiction starts with an examination of the plain 
+language in order to determine and give effect to the legislative intent and purpose underlying the statute. 
+Flores 
+v. Rawlings Co., 117 Hawai #i 153, 158, 177 P.3d 341, 346 (2008), 
+amended on reconsideration, 119 Hawai #i 287, 196 P.3d 289 (2008); 
+State v. McKnight, 131 Hawai #i 379, 388, 319 P .3d 298, 307 
+(2013). 
+  HRS § 708-839.55 states, in pertinent part, as 
+follows: “A person commits the offense of unauthorized possession of confidential personal information if that person intentionally or knowingly possesses, without authorization, any 
+confidential personal information of another in any form, 
+including but not limited to mail, physical documents, identification cards, or information stored in digital form.” HRS § 708-839.55 (Supp. 2013).  
+ ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+(quoting  State v. Gaylord , 78 Hawai #i 127, 138, 890 P.2d 1167, 
+1178 (1995)), in order “to preserve its constitutionality,” id. 
+1.
+ Scope of Prohibited Conduct 
+As stated, “confidential personal information” is 
+defined in HRS § 708-800 as 
+information in which an individual has a significant
+privacy interest, including but not limited to a driver’slicense number, a social security number, an identifyingnumber of a depository account, a bank account number, apassword or other information that is used for accessing 
+16
+ 	
+	  Based on a plain-language reading of HRS § 708-839.55 
+and HRS § 708-800, the felony offense of UPCPI requires the 
+satisfaction of three elements: the person must (1) intentionally or knowingly possess, (2) without authorization, (3) any information, in any form, in which an individual has a significant privacy interest, including the following: a driver’s license number, a social security number, an identifying number of a depository account, a bank account 
+number, a password or other information that is used for 
+accessing information, or any other name, number, or code that is used, alone or in conjunction with other information, to confirm the identity of a person.
+11  
+																																								
+																
+	 ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+information, or any other name, number, or code that is
+used, alone or in conjunction with other information, toconfirm the identity of a person. 
+HRS § 708-800 (Supp. 2006). 
+11 Apparently, because of the expansiveness of the definition of
+confidential personal information, the State asserts that it should be readas “information in which an individual has a significant privacy interest . .. that is used for accessing information, or . . . to confirm the identity of
+a person.” This editing of HRS § 708-800 is unavailing because the first
+clause of the definition--“information in which an individual has a significant privacy interest”--is not modified by the phrase “that is usedfor accessing information” or by the phrase “to confirm the identity of aperson.” These phrases act as modifiers of other clauses in the statute. In 
+addition, these phrases appear after the word “including” and are merely non-
+exhaustive examples provided by the legislature of what constitutes“information in which an individual has a significant privacy interest.” See 
+infra. Thus, the State’s proffered reading of HRS § 708-800 does not comportwith the syntax and structure of the statute’s plain language, and it
+redefines the statute’s meaning. 
+17
+ 	
+	  The First Amendment to the United States Constitution 
+and article I, section 4 of the Hawai #i Constitution proscribes 
+the enactment of any law that abridges the freedom of speech.12   
+The crux of Pacquing’s argument is that the UPCPI statutes sweep 
+within its purview--and, hence, allow the prosecution of--a member of the press who lawfully obtains and thereafter 
+possesses materials deemed “confidential personal information” 
+when the publication of these materials is constitutionally protected.
+13  
+  The United States Supreme Court, in a string of cases, 
+has held that a state may not punish the publication of lawfully obtained, truthful information “absent a need to further a state 
+																																								
+																
+   
+  
+ 13  Pacquing points to recent events in which journalists, academics,
+and other individuals came into possession of information inadvertently
+leaked or otherwise hacked from private servers. One example that Pacquingprovides is the recent Sony hack in which Sony’s internal documents--including spreadsheets listing the names, birth dates, and social security
+numbers of Sony employees--were publicly distributed. According to Pacquing,
+in such an event, the individuals, including members of the media, whopossessed the leaked data containing confidential personal information couldbe prosecuted for mere possession of the data regardless of their intent orpurpose, which “would have a profound chilling effect on the media’s
+reporting on the leaks.” ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+2. The UPCPI Statutes are Not Facially Overbroad 
+12 The U.S. Constitution provides that “Congress shall make no law
+respecting an establishment of religion, or prohibiting the free exercise
+thereof; or abridging the freedom of speech, or of the press; or the right ofthe people peaceably to assemble, and to petition the Government for aredress of grievances.” U.S. Const. amend. I. 
+  The Hawai #i Constitution provides as follows: “No law shall be
+enacted respecting an establishment of religion, or prohibiting the free
+exercise thereof, or abridging the freedom of speech or of the press or theright of the people peaceably to assemble and to petition the government fora redress of grievances.” Haw. Const. art. I, § 4. 
+18
+ 	
+	  In Daily Mail , the Court reiterated “that state action 
+to punish the publication of truthful information seldom can 
+satisfy constitutional standards.” In that case, newspapers published articles containing the name of a juvenile offender accused of killing a classmate. Daily Mail Pub. Co., 443 U.S. 
+at 99. The newspapers sent personnel to the scene and, in the process, obtained the name of the juvenile from “various witnesses, the police, and an assistant prosecuting attorney.” Id. Articles were then published, some of which contained the name of the juvenile offender. Id. at 99—100. A West Virginia 
+penal statute prohibited newspapers from publishing names of juvenile offenders without prior approval by the juvenile court. Id. at 98—99. The Court held that when newspapers lawfully 
+obtain information, such as through reliance upon “routine 
+newspaper reporting techniques,” the state may not punish the publication of that information unless in furtherance of a substantial interest not present in that case. Id. at 103—04. ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+interest of the highest order.” Smith v. Daily Mail Pub. Co. , 
+443 U.S. 97, 103—04 (1979). In Landmark Communications, Inc. v. Virginia, 435 U.S. 829 (1978), the Court stated that Virginia could not criminally punish third persons, including members of 
+the press, for publishing truthful information divulged to them 
+regarding confidential proceedings of the Virginia Judicial Inquiry and Review Commission. 
+Id.
+ at 838. 
+19
+ 	
+	  
+  
+																																																								
+	  
+		***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+In Florida Star v. B.J.F.,  the newspaper published the 
+name of an alleged sexual assault victim copied from a police 
+report made available by the police department to the press. 491 U.S. 524, 527—28 (1989). A Florida statute made it unlawful 
+to publish the names of victims of sexual assault. 
+Id.
+ at 526. 
+The sexual assault victim commenced a civil suit against the 
+newspaper that published her name and was subsequently awarded damages. Id. at 528—29. The Supreme Court reversed, reasoning 
+as follows: the newspaper lawfully obtained and published truthful information; it is questionable whether the governmental interests
+14 advanced in the case were served by the 
+statute prohibiting the publication of the names of sexual 
+assault victims; the state statute proscribing the publication 
+of the names of sexual assault victims was not narrowly tailored to serve the proffered governmental interests; and if the media were allowed to be punished by the state statute under the facts of the case, self-censorship and press timidity would ensue. Id. at 538—41. 
+The question of whether the First Amendment affords 
+any degree of protection to one’s publication of information 
+14 The following governmental interests were considered in  Florida
+Star: “the physical safety of such victims, who may be targeted for
+retaliation if their names become known to their assailants; and the goal of
+encouraging victims of such crimes to report these offenses without fear ofexposure.” 
+Florida Star
+, 491 U.S. at 537. 
+20
+ 	
+	  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+illegally intercepted by someone else was answered by the 
+Supreme Court in Bartnicki v. Vopper,  532 U.S. 514 (2001). In 
+that case, an unknown party intercepted and recorded a phone conversation between two high-ranking officials of a union that 
+represented teachers in collective-bargaining negotiations with 
+a Pennsylvania school board. Bartnicki, 532 U.S. at 518. The 
+phone conversation was then delivered to a local radio commentator, who proceeded to play the recording on his public affairs talk show. Id. at 519. The union officials thereafter 
+sued, under both Pennsylvania and federal wiretapping laws, the radio commentator and other members of the media that published the contents of the intercepted phone conversation. Id. at 520. 
+The Court held that the governmental “interest in removing an incentive for parties to intercept private conversations, and . . . the interest in minimizing the harm to persons whose conversations have been illegally intercepted,” fell short of justifying the restrictions on speech effectuated by the punishment of a person who publishes truthful information of public interest that was initially obtained by another through illegal means. Id. at 529—35. 
+It bears repeating here that the UPCPI statutes 
+prohibit the intentional or knowing possession, without authorization, of “any confidential personal information of another in any form, including but not limited to mail, physical 
+21
+ 	
+	  As noted, in order to “accord a constitutional 
+interpretation of a provision of broad or apparent unrestricted 
+scope, courts will strive to focus the scope of the provision to a narrow and more restricted construction.” State v. Taylor, 49 
+Haw. 624, 634—35, 425 P.2d 1014, 1021 (1967) (quoting 
+Territory 
+v. Wong, 40 Haw. 257, 259—60 (Haw. Terr. 1953)). One of the elements of the UPCPI offense is that the possession must be “without authorization.” HRS § 708-839.55(a). “Authorization” is not defined by Chapter 708 of the HRS, but “this court may 
+resort to legal or other well accepted dictionaries as one way 
+to determine the ordinary meaning of certain terms not 
+statutorily defined.” State v. Guyton, 135 Hawai #i 372, 378, 351 
+P.3d 1138, 1144 (2015) (quoting State v. Pali, 129 Hawai #i 363, 
+370, 300 P.3d 1022, 1029 (2013)). 
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+documents, identification cards, or information stored in 
+digital form.” HRS § 708-839.55(1). Although one can argue, as Pacquing does, that the UPCPI statutes would criminalize a press member’s possession of confidential personal information that 
+the Hawai #i and U.S. Constitutions protect, we do not interpret 
+the UPCPI statutes to sweep that far. 
+Black’s Law Dictionary defines “authorization” as 
+“[o]fficial permission to do something; sanction or warrant.” 
+22
+ 	
+	  Because a member of the press who lawfully obtains, 
+possesses, and thereafter publishes truthful information may not 
+be punished for doing so under U.S. Supreme Court precedents, it 
+																																								
+																
+	15   Oxford Dictionaries defines “authorization” as “[t]he action or
+fact of authorizing or being authorized.” Authorization,
+http://www.oxforddictionaries.com/us/definition/american_english/authorizatio
+n (last visited Nov. 7, 2016). 
+  
+   
+  
+ 
+  
+	
+		***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+Authorization, Black’s Law Dictionary (10th ed. 2014).15 The 
+meaning of “authorize” provided by Black’s is “[t]o give legal 
+authority; to empower.”16 Hence, “without authorization” in HRS 
+§ 708-839.55(a) means without legal authority, official 
+permission, or sanction. The plain meaning of “authorization” 
+does not require that the authorization be issued by the person to whom the confidential personal information relates or by someone who has control over the confidential personal information.
+17   
+Merriam-Webster defines “authorization” as “the act of 
+authorizing.” Authorization , 
+http://www.merriam-
+webster.com/dictionary/authorization (last visited Nov. 7, 2016). 
+16 Oxford Dictionaries’ definition of “authorize” is to “[g]ive
+official permission for or approval to (an undertaking or agent).”
+Authorize,  
+http://www.oxforddictionaries.com/us/definition/
+american_english/authorize#authorize__2 (last visited Nov. 7, 2016). 
+Merriam-Webster’s definition of “authorize” is “to give power or
+permission to (someone or something)” or “to give legal or official approval
+to or for (something).” Authorize , 
+http://www.merriam-
+webster.com/dictionary/authorizing (last visited Nov. 7, 2016). 
+17 If the legislature intended otherwise, it could have restricted
+the source of “authorization” to the “owner” of confidential personal
+information. For example, the legislature’s definition of “unauthorized
+control over property” clearly states that it “means control over property of
+another which is not authorized by the owner. ” HRS § 708-800 (Supp. 2006)
+(emphasis added). 
+23
+ 	
+	  This interpretation of “without authorization” is 
+amply supported by the legislative history of the UPCPI 
+statutes. The ultimate purpose underlying the enactment of the 
+UPCPI statutes was “to deter identity theft” in the long-run and “to ‘fill a loophole’ and increase criminal penalties for conduct that would otherwise constitute a misdemeanor” in the 
+short run. 
+State v. Pacquing,  129 Hawai #i 172, 182, 297 P.3d 
+188, 198 (2013) (quoting S. Stand Comm. Rep. No. 2508, in 2006 
+Senate Journal, at 1248—49). These purposes are not served by 
+																																																								
+	 
+	
+	***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+follows that the possession by the press of “confidential personal information” is constitutionally sanctioned. Hence, in cases where the press obtains “confidential personal information” from a third party, 
+see Landmark Commc’ns , 435 U.S. 
+829--even if that third party itself obtained the information illegally, see Bartnicki, 532 U.S. 514--or through routine newspaper reporting techniques, see Daily Mail Pub. Co., 443 U.S. at 103—04; Florida Star, 491 U.S. 524, the possession of the confidential personal information is with authorization and falls beyond the reach of the UPCPI statutes.
+18  
+18 There are other instances in which possession of confidential
+personal information is legally authorized, officially permitted, or
+sanctioned such that the conduct would be beyond the reach of the UPCPI
+statutes. For example, when government employees and administrative agenciespossess a person’s social security number in the course of conducting
+official government businesses, or when a Hawai #i Department of Motor Vehicle
+(DMV) employee comes into possession of another person’s driver’s license
+number, there is little doubt that the employees’ or agencies’ possession islegally authorized and officially permitted. 
+24
+ 	
+	  Interpreting the UPCPI statutes to exclude from their 
+scope constitutionally protected speech rights of the press is 
+consistent with this court’s approach to statutory interpretation illustrated in 
+State v. Manzo , 58 Haw. 440, 573 
+P.2d 945 (1977). In that case, the defendant was charged with the offense of promoting pornography, and he challenged the constitutionality of the statute, arguing, as relevant here, that the statute violated his speech rights under the First Amendment to the U.S. Constitution and the corresponding 
+provision of the Hawai #i Constitution. Id. at 441, 443, 573 P.2d 
+at 947, 948. This court held that the Hawai #i Constitution 
+excludes obscenity from protected speech, and it construed the 
+statute’s definition of what is pornographic as incorporating “those limitations . . . [that] the Supreme Court has prescribed as requisite under the First Amendment.” Id. at 444, 573 P.2d 
+at 949. Thus, this court concluded that the statute criminalizing the promotion of pornography was not unconstitutionally overbroad. Id. at 454, 573 P.2d at 954. 
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+punishing the press for conduct deemed to be constitutionally protected by the Supreme Court, nor does the legislative history indicate any intent to criminalize such conduct by the press. 
+An interpretation of “without authorization” that 
+would exclude from the application of the UPCPI statutes members of the press whose possession and publication of information is 
+25
+ 	
+			In his cross-appeal, Pacquing asserts that the circuit 
+court erred in concluding that the UPCPI statutes are not unconstitutionally vague.
+19 Pacquing contends that the plain 
+language of the UPCPI statutes “lack precision, do not provide any standard for a citizen to determine what specific 
+information he or she is forbidden to possess, and are subject 
+to ad hoc, inconsistent, and arbitrary enforcement by law enforcement, prosecutors, juries, and the courts.” Thus, Pacquing concludes that the UPCPI statutes are 
+																																								
+																
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+constitutionally protected coincides with the approach taken in 
+Manzo. As in Manzo, this interpretation merely will conform the 
+UPCPI statutes to the limitations set by this court and the Supreme Court to the manner in which the State may regulate 
+protected speech. Accordingly, the UPCPI statutes are not 
+facially and unconstitutionally overbroad. 
+C.
+ Vagueness 
+19 At the outset, the State contends that this court lacks subject-
+matter jurisdiction over Pacquing’s cross-appeal because, under the facts of
+this case, there is no statute that would permit Pacquing to commence hiscross-appeal. Pacquing responds that he is permitted to file a cross-appealpursuant to HRS § 641-11 (Supp. 2013) and this court’s supervisory powersunder HRS § 602-4 (1993). We need not resolve this matter. As Pacquing also
+points out, “we have consistently held that where the decision below is
+correct it must be affirmed by the appellate court even though the lowertribunal gave the wrong reason for its action.” 
+State v. Taniguchi , 72 Haw.
+235, 239, 815 P.2d 24, 26 (1991). In this case, the Order Invalidating theUPCPI Statutes is based on the circuit court’s holding that the statutes are
+overbroad, but the order also rejected Pacquing’s argument that the statutes
+are unconstitutionally vague. Because we do not find the statutes to be overbroad, we must consider whether the circuit court’s Order Invalidatingthe UPCPI Statutes may be affirmed on the basis that the UPCPI statutes arevague, even assuming there were no statutory authority for Pacquing’s cross
+appeal. 
+26
+ 	
+		
+  A penal statute is void for vagueness “if it does not 
+define a criminal offense ‘with sufficient definiteness [so] 
+that ordinary people can understand what conduct is prohibited and in a manner that does not encourage arbitrary and 
+discriminatory enforcement.’” State v. Alangcas, 134 Hawai #i 
+515, 530, 345 P.3d 181, 196 (2015) (quoting 
+State v. Beltran, 
+116 Hawai #i 146, 151, 172 P.3d 458, 463 (2007)).  Criminal 
+statutes are subject to a stricter vagueness analysis than civil 
+statutes, and criminal statutes that reach fundamental rights and conduct protected by the constitutions of this State and the United States, such as the rights guaranteed by the First Amendment to the U.S. Constitution and article I, section 4 of 
+the Hawai #i Constitution, are subject to an even stricter 
+standard. Id. Thus, HRS § 708-839.55, as a criminal statute, 
+is subject to a stricter vagueness analysis than that used in 
+evaluating civil statutes. Id. The analytical framework 
+underlying a void-for-vagueness challenge has been summarized by 
+this court as follows: ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+unconstitutionally vague under both the federal and state 
+constitutions. 
+1. HRS § 708-800 Is Not Sufficiently Definite 
+the challenged statute is analyzed to determine if it (1)
+is internally inconsistent and incomprehensible to a person
+of ordinary intelligence, or (2) invites delegation ofbasic policy matters to police for resolution on an ad hoc
+and subjective basis. Beltran, 116 Hawai #i at 153, 172 P.3d 
+27
+ 	
+	  
+																																																								
+	 ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+at 465. If the statute is determined to be vague, the
+challenger is then required to demonstrate that “thestatute is vague as applied to his or her specific conduct”
+or demonstrate that the statute burdens a significant
+constitutional right such as a first amendment right. 
+Id. at 532, 345 P.3d at 198. 
+Pacquing contends that “[t]he definition [of 
+confidential personal information] in HRS § 708-800 is so broad 
+and non-specific as to be effectively unintelligible to ordinary 
+citizens.”20 To demonstrate this point, he relies on the fact 
+that the legislature excluded “mother’s maiden name” from the 
+illustrative list provided in HRS § 708-800 of what constitutes information in which an individual has a significant privacy interest. According to Pacquing, nothing in HRS § 708-800 states that “mother’s maiden name” is not confidential personal information, and thus a reasonable person of ordinary intelligence would not know that a “mother’s maiden name” is not 
+a “name, number, or code that is used, alone or in conjunction 
+with other information, to confirm the identity of a person.” Pacquing also argues that the UPCPI statutes are vague because 
+20 As noted, HRS § 708-800 defines “confidential personal
+information” as 
+information in which an individual has a significant
+privacy interest, including but not limited to a driver’slicense number, a social security number, an identifying
+number of a depository account, a bank account number, a
+password or other information that is used for accessinginformation, or any other name, number, or code that isused, alone or in conjunction with other information, toconfirm the identity of a person. 
+HRS § 708-800 (Supp. 2006). 
+28
+ 	
+	  It has often been stated that due process “requires a 
+statute to be sufficiently clear so as not to cause persons ‘of 
+common intelligence . . . necessarily [to] guess at its meaning 
+and [to] differ as to its application[.]’” United States v. 
+Wunsch, 84 F.3d 1110, 1119 (9th Cir. 1996) (quoting Connally v. 
+Gen. Constr. Co.
+, 269 U.S. 385, 391 (1926)). The illustrative 
+list in HRS § 708-800 provides that information in which an individual has a significant privacy interest includes “other information that is used for accessing information” or “any other name, number, or code that is used, alone or in conjunction with other information, to confirm the identity of a 
+person.”  It is apparent that these clauses are so malleable in 
+meaning that they do not “provide fixed standards for adjudging 
+guilt.” State v. Kameenui, 69 Haw. 620, 622, 753 P.2d 1250, 
+1251 (1988). Consequently, they do not give individuals “of ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+there is no indication in HRS § 708-800 as to whether the meaning of “significant” in HRS § 708-800’s definition of “confidential personal information” should be determined by using a subjective or objective standard. Additionally, 
+Pacquing asserts that the UPCPI statutes are vague because the 
+word “significant” in HRS § 708-800 can be applied subjectively by law enforcement and understood differently by those to whom the law applies. These arguments will be discussed in relation to each other. 
+29
+ 	
+	  
+																																																								
+ 21  See David Goldman, 123456 is the most common password in a
+massive Twitter heist, CNNtech (June 9, 2016, 9:14 AM),                      
+http://money.cnn.com/2016/06/09/technology/twitter-password-common-heist/.               ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+ordinary intelligence a reasonable opportunity to know what 
+conduct is prohibited so that [they] may choose between lawful and unlawful conduct.” State v. Lee, 75 Haw. 80, 92, 856 P.2d 
+1246, 1254 (1993). 
+For example, when a person sets up a secure online 
+account, often she is asked to create a password and choose security questions and corresponding answers so that if she forgets her password, she may recover it by providing one or more of those answers. Any information--even the most random aggregation of letters or numbers such as the most commonly used “123456”
+21--could be a “password” used by a person and therefore 
+constitute “confidential personal information.” If a person 
+chooses the name of her first pet, the name of the city in which 
+she was born, or the name of the street where she grew up as the security questions, the answers to these questions would be considered confidential personal information based upon HRS § 708-800’s plain language: “other information that is used for accessing information” or “name[s] . . . used . . . to confirm the identity of a person.” HRS § 708-800. One’s zip code may also qualify as “confidential personal information” because that 
+information is routinely required by the payment device for fuel 
+30
+ 	
+	 
+ 
+																																																								
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+dispensers in gas stations to confirm the identity of a person 
+who is using a credit card to pay for gas. In that instance, the person’s zip code is a “number[] or code that is used . . . to confirm the identity of a person” or, alternatively, “other 
+information that is used for accessing information.” HRS § 708-
+800.
+22  
+It may well be the case that the legislature did not 
+intend for the name of a pet, the name of a city, the name of a street, or a zip code to qualify as “other information that is used for accessing information” or as a “name, number, or code that is used, alone or in conjunction with other information, to confirm the identity of a person.” HRS § 708-800. However, the 
+way HRS § 708-800 is drawn does not readily allow for the 
+preclusion of the name of a pet, city, street or zip code from the terms of the statute, and thus one is compelled to guess as to the actual scope and meaning of HRS § 708-800--a further 
+22 In this opinion, although the discussion focuses on the manner in
+which items of information are used by their respective owners to determine
+what qualifies as “confidential personal information,” we note that theclauses “other information that is used for accessing information” and “any
+other name, number, or code that is used, alone or in conjunction with other
+information, to confirm the identity of a person” do not require the user ofthe information to be the person who owns or controls the information. Under the facts of this case, for example, if the complainant’s spouse was usingthe complainant’s name, address, or date of birth in order to access
+information or as an identity verifier at the time of Pacquing’s possession,
+then those items of information would qualify as “confidential personalinformation” with respect to the complainant’s spouse. This further illustrates the virtual impossibility for an individual to reasonably knowwhether or not possession of certain information is proscribed by the UPCPI
+statutes. 
+31
+ 	
+	  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+indication that the statute is vague. Connally, 269 U.S. at 
+391; Wunsch, 84 F.3d at 1119. 
+Hence, Pacquing’s assertion that the word 
+“significant” in HRS § 708-800 is ambiguous because it is 
+susceptible of subjective application is correct. Based on the 
+above analysis, the word “significant,” in quantifying “privacy interest,” inevitably takes its meaning from the circumstances of the owner of the information. The same piece of information may be considered significant for one person but not for a person under a different set of circumstances. Thus, the standard for determining whether an item of information is one in which an individual has a significant privacy interest 
+appears to be subjective or, more precisely characterized, 
+personal; that is, any information in which an individual personally has a significant privacy interest constitutes “confidential personal information.” These concepts are more clearly illustrated by going back to the example where a person chooses a password to an online account and the corresponding security question, “What is the name of your first pet?” In that instance, any information chosen as a password would be 
+considered “information in which an individual has a significant 
+privacy interest.” HRS § 708-800. In addition, the person would have a significant privacy interest in the name of her first pet because she has used it as a way to verify her 
+32
+ 	
+	  In the same vein, a person who has been issued a 
+credit card would have a significant privacy interest in his zip 
+code if he uses it to confirm his identity whenever he pays for gas with his credit card. A person who is not a credit cardholder, meanwhile, would not have the same significant privacy interest in his zip code, which would therefore be excluded from the definition of “confidential personal 
+information.” Accordingly, what constitutes information in 
+which an individual has a significant privacy interest, under HRS § 708-800, would depend on the circumstances of the owner of that information and the manner in which the owner is using that information. HRS § 708-800, therefore, does not “inform[] the actor as to how to avoid violating” the UPCPI statutes, 
+Beltran, 
+116 Hawai #i at 154, 172 P.3d at 466, because under the definition 
+of “confidential personal information,” possession of the same type of information could involve conduct, depending on the circumstances of the owner of the information, that either does ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+identity in the event that she forgets her online password. However, the same is not true for a person who does not use the name of her first pet as an identity verifier; the name of that person’s first pet would therefore not be included in HRS § 708-
+800’s definition of “confidential personal information.” 
+33
+ 	
+	  
+																																																								
+	  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+or does not violate the UPCPI statutes.23 Hence, the UPCPI 
+statutes “may trap the innocent by not providing fair warning,” 
+State v. Manzo , 58 Haw. 440, 454, 573 P.2d 945, 954 (1977), and 
+do not give an individual “of ordinary intelligence a reasonable 
+opportunity to know what conduct is prohibited so that he or she 
+may choose between lawful and unlawful conduct,” because the standard for adjudging guilt under the statutes differs depending on the circumstances of the owner of the information and the manner in which the information is being used. Lee, 75 
+Haw. at 92, 856 P.2d at 1254. 
+In addition, the term “significant,” if not delimited, 
+permits “a standardless sweep [that] allows policemen, 
+prosecutors, and juries to pursue their personal predilections.” 
+Kolender v. Lawson,  461 U.S. 352, 358 (1983) (quoting Smith v. 
+Goguen, 415 U.S. 566, 575 (1974)). “Significant” is not defined 
+by chapter 708 of the HRS, but, as discussed supra, this court may employ legal or other well-accepted dictionaries in construing the plain language of terms that are not statutorily 
+defined. State v. Guyton, 135 Hawai #i 372, 378, 351 P.3d 1138, 
+23 As a related matter, there will be situations where a person may
+or may not have violated the UPCPI statutes depending on the timing of the
+possession of the information, which further complicates any attempt at
+complying with the UPCPI statutes. For example, once a person changes hersecurity question and ceases using her pet’s name to access information or toconfirm her identity, the pet’s name no longer constitutes “confidentialpersonal information” under HRS § 708-800, and one’s possession of the other
+person’s pet’s name would not constitute a UPCPI violation. 
+34
+ 	
+	  
+																																																								
+ 24   Significant , Merriam-Webster, http://www.merriam-
+webster.com/dictionary/significant (last visited Nov. 7, 2016). 
+ ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+1144 (2015). Black’s Law Dictionary defines “significant” as 
+“[o]f special importance; momentous, as distinguished from insignificant.” 
+Significant, Black’s Law Dictionary (10th ed. 
+2014). Similarly, Merriam-Webster defines “significant” as 
+“large enough to be noticed or have an effect,” “very 
+important,” or “having a special or hidden meaning.”24 Taken in 
+the context of the whole phrase “significant privacy interest,” the word “significant” in HRS § 708-800 means “of special importance” or “very important.” 
+Without guideposts, different individuals would tend 
+to apply the meaning of “significant” in various ways, since what is “of special importance” to one person may be of minimal 
+value to another. Cf. Beltran, 116 Hawai #i at 154, 172 P.3d at 
+466 (reasoning that “the term ‘reasonably appears’ is 
+susceptible of subjective application among persons enforcing 
+the regulation and those who must abide by it”). For instance, 
+a police officer’s understanding and application of the “significant” standard would inevitably be informed by personal perspective and experience, which would vary from officer to officer. Hence, when a police officer is confronted by a suspect who possesses, without authorization, information that is not enumerated in HRS § 708-800’s list of confidential 
+35
+ 	
+	***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+personal information, “the statute vests virtually complete 
+discretion in the hands of the police [officer] to determine whether the suspect” has contravened the UPCPI statutes on the basis that there is a significant privacy interest in the 
+information possessed by the suspect.
+  Kolender , 461 U.S. at 358.  
+The UPCPI statutes therefore invite “delegation of basic policy 
+matters to police for resolution on an ad hoc and subjective 
+basis,” Alangcas, 134 Hawai #i at 532, 345 P.3d at 198 (quoting 
+Beltran, 116 Hawai #i at 153, 172 P.3d at 465), and “confers on 
+police a virtually unrestrained power to arrest and charge 
+persons with a violation,” Kolender, 461 U.S. at 360—61 (quoting 
+Lewis v. City of New Orleans, 415 U.S. 130, 135 (1974) (Powell, J., concurring)). Such a result cannot be said to be in keeping with the fundamental tenets of “fair play” and the “first essential of due process.” Connally, 269 U.S. at 391; accord 
+Johnson v. United States, 135 S. Ct. 2551, 2556—57 (2015). Courts do not expect legislative bodies to draft laws with mathematical precision and painstaking specificity. See Human 
+Life of Wash. Inc. v. Brumsickle, 624 F.3d 990, 1019 (9th Cir. 2010); 82 C.J.S. Statutes § 86, Westlaw (database updated Sept. 2016). However, the “significant” standard under HRS § 708-800 “fails to provide . . . minimal guidelines” for those subject to it and those who are tasked to enforce it. Kolender, 461 U.S. 
+at 358. 
+36
+ 	
+	  The legislature’s exclusion of “mother’s maiden name” 
+from the definition of “confidential personal information” 
+exacerbates the uncertainty in scope and meaning of HRS § 708-800. S. Stand. Comm. Rep. No. 2508, in 2006 Senate Journal, at 
+1249. Looking at the plain language of HRS § 708-800, “mother’s 
+maiden name” could qualify as a “name . . . that is used, alone or in conjunction with other information, to confirm the identity of a person.” One would have to review the legislative history of the UPCPI statutes--something that ordinary citizens do not typically do--in order to discover that “mother’s maiden name” has been excluded by the legislature from what constitutes confidential personal information. Hence, a person may 
+reasonably consider “mother’s maiden name” as confidential 
+personal information under HRS § 708-800 although in actuality it is not. Similarly, HRS § 708-800 does not provide any indicia as to whether any other types of information are excluded from its definition, which further aggravates the statute’s tendency to confuse. 
+ 
+ ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+In conclusion, given the uncertainty in meaning and 
+scope of HRS § 708-800 and the indefinite and varying standards 
+it provides for adjudging guilt, the UPCPI statutes are 
+inordinately vague. Kameenui,  69 Haw. at 622, 753 P.2d at 1251; 
+Lee
+, 75 Haw. at 92, 856 P.2d at 1254; Manzo, 58 Haw. at 454, 573 
+P.2d at 954. 
+37
+ 	
+		
+ 
+ As applied to Pacquing’s conduct in this case--
+possessing the last four digits of the complainant’s social 
+security number and the complainant’s name, date of birth, address, and driver’s license number
+25--the UPCPI statutes are 
+vague in part. HRS § 708-800’s definition of “confidential personal information” expressly includes as examples “a driver’s license number[] [and] a social security number.” Hence, as to those items of information, the UPCPI statutes are not vague as applied. 
+ 
+ 
+																																																								
+   ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+2. The UPCPI Statutes Are Vague In Part As Applied to Pacquing 
+On the other hand, the complainant’s name may or may 
+not qualify as “information that is used for accessing information” or as a “name . . . that is used, alone or in 
+conjunction with other information, to confirm the identity of a 
+person.” Thus, the complainant’s name may be deemed to be “confidential personal information” depending on how it was being used at the time of Pacquing’s possession. 
+Similarly, the 
+complainant’s address may or may not be “information that is used for accessing information,” HRS § 708-800, depending on whether the complainant was employing his address as an identity 
+25 The complaint did not specify whether Pacquing is being
+prosecuted for his intentional or knowing possession, without authorization,
+of the complainant’s social security number, name, address, date of birth, ordriver’s license number; or of possession of one or a combination of theseitems. It will be assumed that Pacquing is being prosecuted for possessing
+all the foregoing information. 
+38
+ 	
+	  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+verifier in any transaction or to access certain information, 
+such as banking information. Hence, the complainant’s address may or may not be “includ[ed]” as “information in which [the complainant] has a significant privacy interest” depending on 
+the circumstances of the complainant and the manner in which the 
+complainant was using the information at the time of Pacquing’s possession. 
+The same is true for the complainant’s date of birth; 
+contingent on how the complainant was using that information, it may or may not be “information that is used for accessing information, or [a] . . . number[] or code that is used, alone or in conjunction with other information, to confirm the 
+identity of a person.” HRS § 708-800. If, for example, the 
+complainant was using his date of birth to verify his identity for certain transactions or to access certain information, then his date of birth would be “includ[ed]” as “information in which [the complainant] has a significant privacy interest.” HRS § 708-800. These are exactly the situations, previously discussed, that make HRS § 708-800 unconstitutionally vague: Pacquing may or may not have committed the UPCPI offense 
+depending on the circumstances and the manner in which the 
+complainant’s information was being used at the time of Pacquing’s possession. Therefore, as to Pacquing’s possession 
+39
+ 	
+		
+		Since the UPCPI statutes are ambiguous, inquiry shifts 
+to whether the portions that make the statutes vague may be excised in order to preserve the constitutionality of the statutes. Where portions of a statute are unconstitutional and the remainder is not, 	
+	
+	
+  The judicial power to excise unconstitutional parts of 
+a statute is permitted only if the unconstitutional parts are severable from the constitutional parts of the statute. Hawaiian Trust Co., 31 Haw. at 202 (reasoning that in order to strike a statute’s unconstitutional portions, “the two parts 
+must be capable of separation, so that each can be read by ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+of the complainant’s name, address, and date of birth, the UPCPI 
+statutes are unconstitutionally vague as applied. 
+3. The Portions of the UPCPI Statutes that Produce Vagueness
+Should Therefore Be Excised 
+[t]he ordinary rule . . . is that “where the provisions are
+so interdependent that one may not operate without theother, or so related in substance and object that it isimpossible to suppose that the legislature would havepassed the one without the other, the whole must fall; but
+if, when the unconstitutional portion is stricken out, that
+which remains is complete in itself and capable of beingexecuted in accordance with the apparent legislativeintent, it must be sustained.” 
+Hawaiian Trust Co. v. Smith,  31 Haw. 196, 202 (1929) (quoting 26 
+A. & E. Ency. L. 570); see also State v. Alangcas, 134 Hawai #i 
+515, 535 n.30, 345 P.3d 181, 201 n.30 (2015) (noting “that an 
+offending portion of a statute may be severable such that the remaining portion of the law is constitutional”). 	
+40
+ 	
+	  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+itself”); see also Nelson v. Miwa,  56 Haw. 601, 611, 546 P.2d 
+1005, 1013 (1976) (“Where part of a statute is unconstitutional 
+and is inseparable from the remainder, the whole statute is invalid.”). As succinctly stated by the Hawaiian Trust court, 
+“if the parts are severable and if the part which remains can be 
+enforced when standing by itself, and still carry out the intent of the legislature, it can be upheld as constitutional.” 31 Haw. at 202. 
+Severability of portions of the HRS is generally 
+authorized by HRS § 1-23 (2009): “If any provision of the Hawaii Revised Statutes, or the application thereof to any person or circumstances, is held invalid, the remainder of the Hawaii 
+Revised Statutes, or the application of the provision to other 
+persons or circumstances, shall not be affected thereby.” 
+As 
+discussed supra, what makes the UPCPI statutes vague is the fact 
+that “confidential personal information” could include any information conditioned only on the individualized circumstances of the owner of the information and the manner in which the information is being used. Specifically, the phrases “a password or other information that is used for accessing 
+information” and “any other name, number, or code that is used, 
+alone or in conjunction with other information, to confirm the identity of a person” impart an unbounded meaning to “confidential personal information” because any information 
+41
+ 	
+	 
+ 
+																																																								
+	 	
+	
+	***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+could qualify under either or both of the foregoing provisions--
+and therefore be considered as information in which an individual has a “significant privacy interest”--depending on the manner in which an item of information is being used. These 
+clauses, as stated, also render the meaning of the phrase 
+“significant privacy interest” susceptible of varying interpretations and inconsistent application.
+26  
+To eliminate the unconstitutional aspects of the UPCPI 
+statutes, portions of the HRS § 708-800 definition of “confidential personal information” must be excised: “Confidential personal information” means “information in which an individual has a significant privacy interest, including
+ but 
+not limited to a driver’s license number, a social security number, an identifying number of a depository account, [or] a bank account number, a password or other information that is used for accessing information, or any other name, number, or code that is used, alone or in conjunction with other information, to confirm the identity of a person.” 
+26 We intimate no opinion as to the constitutionality of other
+statutes, e.g., HRS § 92F-14(b), that contain the phrase “significant privacy
+interest,” especially since the vagueness analysis differs depending on thetype of statute involved. 
+See Gardens at W. Maui Vacation Club v. Cty. of
+Maui, 90 Hawai #i 334, 343, 978 P.2d 772, 781 (1999) (“When a statute is not
+concerned with criminal conduct or first amendment considerations, the courtmust be fairly lenient in evaluating a claim of vagueness.” (quoting Doe v.
+Staples
+, 706 F.2d 985, 988 (6th Cir. 1983))). 
+42
+ 	
+	  By deleting from HRS § 708-800 the phrase “a password 
+or other information that is used for accessing information, or 
+any other name, number, or code that is used, alone or in conjunction with other information, to confirm the identity of a 
+person,” the meaning of “significant privacy interest” and 
+“confidential personal information” would cease to be dependent on the circumstances of the owner of the information and the manner in which the information is being used. After the deletion of the unconstitutional portions of HRS § 708-800’s definition of “confidential personal information,” its meaning would be circumscribed to the enumerated classes of information preceded by “including” and information similar to those already 
+enumerated. 
+See State v. Guyton,  135 Hawai #i 372, 379 n.14, 351 
+P.3d 1138, 1145 n.14 (2015) (noting that word “including” 
+“merely specifies a particular thing already included within the 
+general words theretofore used” (quoting Hawaiian Ass’n of 
+Seventh–Day Adventists v. Wong, 130 Hawai #i 36, 46, 305 P.3d 452, 
+462 (2013))); In re Waikoloa Sanitary Sewer Co., 109 Hawai #i 263, 
+274, 125 P.3d 484, 495 (2005) (stating that “including” 
+signifies “an illustrative application of the general principle” 
+(quoting Fed. Land Bank of St. Paul v. Bismarck Lumber Co., 314 
+U.S. 95, 99–100 (1941))); Lealaimatafao v. Woodward-Clyde Consultants, 75 Haw. 544, 556, 867 P.2d 220, 226 (1994) (stating ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+43
+ 	
+	  
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+that the list following the term “including” was intended “to be 
+exemplary of the type of claims which may be brought for the loss of love and affection” pursuant to HRS § 663-3). This means that a non-enumerated item of “information in which an 
+individual has a significant privacy interest” would qualify as 
+“confidential personal information” only if that non-enumerated item is similar in nature and character to those already enumerated in HRS § 708-800. 
+By tethering the meaning of “significant privacy 
+interest” to the statutorily enumerated list and other information that are similar in nature and character to those already enumerated, the likelihood that the phrase “significant 
+privacy interest” would be applied inconsistently by law 
+enforcement and understood differently by those to which the UPCPI statutes apply would also be rectified. This is because, after the deletion of the unconstitutional portions of HRS § 708-800, the outer limits of what would qualify as “confidential personal information” would necessarily be informed and circumscribed by the illustrative classes of information that are enumerated after the word “including.” 
+The portion of HRS § 708-800 that remains “is 
+intelligible, complete and capable of execution.” Damon v. 
+Tsutsui
+, 31 Haw. 678, 697-98 (1930) (quoting Territory v. Hoy 
+Chong
+, 21 Haw. 39, 43 (1912)). Further, severing the vague 
+44
+ 	
+	  Importantly, the remaining portion still carries out 
+the intent of the legislature. It is clear that the legislature 
+enacted the UPCPI statutes to address and deter identity theft 
+by targeting and criminalizing conduct that precedes identity theft--the possession of confidential personal information. Conf. Comm. Rep. No. 111, in 2006 House Journal, at 1822, 2006 
+Senate Journal, at 957; 
+see Pacquing, 129 Hawai #i at 182, 297 
+P.3d at 198. The portion of HRS § 708-800’s definition of 
+“confidential personal information” that remains after the vague portions are excised still effectuates the intent of the legislature to target and deter conduct that precedes identity theft because intentional or knowing possession, without authorization, of a driver’s license number, a social security 
+number, an identifying number of a depository account, a bank ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+portions is consistent with our law because the components of 
+the definition of “confidential personal information” do not “depend[] on each other, operat[e] together for the same purpose, or [are] otherwise so connected together in meaning 
+that it cannot be presumed the legislature would [not] have 
+passed” the remaining portion of the definition without the excised portions. 
+In re Atcherley , 19 Haw. 535, 542 (1909). 
+Indeed, the individual components of the definition are sequenced in the disjunctive, supporting the conclusion that each one is sufficiently independent of the others. 
+45
+ 	
+		
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+account number, or other information similar in nature and 
+character to those statutorily enumerated would still be a criminal offense. The legislative history of the UPCPI statutes yields the conclusion that “the legislature [would] have 
+preferred what is left of its statute to no statute at all.” 
+Ayotte v. Planned Parenthood of N. New England, 546 U.S. 320, 
+330 (2006). 
+This is especially true because of the 
+legislature’s concern that law enforcement did not possess adequate legal tools to “curb the rise in identity theft-related crimes.” Conf. Comm. Rep. No. 111, in 2006 House Journal, at 1822, 2006 Senate Journal, at 957. Hence, it is reasonable to infer that the legislature would prefer a clearly demarcated 
+(albeit narrower) statute that law enforcement could use to 
+deter identity theft and precursors to identity theft over a situation where an enforcement “loophole” is reopened, thereby impairing the legislature’s intent to curb identity theft and precursors to identity theft. S. Stand. Comm. Rep. No. 2508, in 2006 Senate Journal, at 1249. 
+V. CONCLUSION 
+For the above reasons, we hold that (1) the complaint 
+is legally insufficient because it is not readily comprehensible to persons of common understanding, thus violating article I, 
+section 14 of the Hawai #i Constitution and the Sixth Amendment to 
+46
+ 	
+	  
+ 
+ ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+the United States Constitution; (2) the UPCPI statutes are not 
+facially overbroad because they do not criminalize the exercise of free speech protected under article I, section 4 of the 
+Hawai#i Constitution and the First Amendment to the United States 
+Constitution; (3) the UPCPI statutes are partially vague as 
+applied to Pacquing; and (4) the unconstitutional parts of the UPCPI statutes shall be severed from the constitutional 
+portions. 
+Accordingly, the circuit court’s (1) Order Dismissing 
+Complaint is affirmed insofar as it found the complaint to be 
+legally insufficient; (2) the Order Invalidating the UPCPI Statutes is vacated in accordance with this opinion; (3) the order denying reconsideration of the Order Dismissing Complaint is affirmed; and (4) the order denying reconsideration of the Order Invalidating the UPCPI Statutes is vacated in accordance 
+with this opinion. 
+Craig W. Jerome 
+for petitioner /s/ Mark E. Recktenwald
+/s/ Paula A. Nakayama
+Brian R. Vincent 
+For respondent /s/ Sabrina S. McKenna 
+/s/ Richard W. Pollack 
+/s/ Rhonda A. Nishimura 
+47
+ 

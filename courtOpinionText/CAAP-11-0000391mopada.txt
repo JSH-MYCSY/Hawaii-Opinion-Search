@@ -1,0 +1,802 @@
+NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+CAAP-11-0000391
+ 
+IN THE INTERMEDIATE COURT OF APPEALS
+ 
+OF THE STATE OF HAWAI 'I 
+GORDON I. ITO, Insurance Commissioner of
+the State of Hawai 'i, in his capacity as
+Liquidator of Investors Equity Life Insurance
+Company of Hawai 'i, Ltd., on behalf of the company
+and its respective policyholders, claimants
+and creditors; and INVESTORS EQUITY LIFE
+INSURANCE COMPANY OF HAWAI 'I, LTD.,
+Plaintiffs-Nominal Appellees,
+v.
+ 
+ADM INVESTOR SERVICES, INC.,
+KENNETH K.S. FONG; GARY L. VOSE; and
+INVESTORS SERVICE EQUITY LIFE HOLDING COMPANY,
+Defendants-Nominal Appellees
+ 
+and
+ 
+ADM INVESTOR SERVICES, INC.,
+Defendant/Third-Party Plaintiff-Appellant,
+v.
+ 
+GORDON I. ITO, Insurance Commissioner of
+the State of Hawai 'i, and THE STATE OF HAWAI 'I,
+Plaintiffs/Third-Party Defendants-Appellees
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT
+ 
+(CIVIL NO. 95-2513)
+
+ 
+MEMORANDUM OPINION
+ 
+(By: Nakamura, C.J., and Foley and Leonard, JJ.)
+
+ 
+The State of Hawai 'i (State), through the Insurance 
+Commissioner and the Hawai 'i Insurance Division (HID), is 
+responsible for regulating insurance companies doing business in
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Hawai'i. See Hawaii Revised Statutes (HRS) Chapter 431. 
+Investors Equity Life Insurance Company of Hawai 'i, Ltd. (IEL) 
+was an insurance company regulated by the State. IEL opened a 
+trading account with ADM Investor Services, Inc. (ADMIS), a sophisticated securities brokerage firm. Prior to IEL's opening its trading account with ADMIS, Donald E. Goo (Goo), a State insurance examiner, allegedly gave faulty advice to IEL regarding the types of investments IEL was authorized to make under the Hawai
+'i Insurance Code. IEL's lawyer, at the request of a 
+different brokerage firm (not ADMIS), sought confirmation from Hiram Tanaka (Tanaka), the Deputy Insurance Commissioner, that Goo had authority to opine on HID's behalf about permissible investments by IEL, and Tanaka allegedly responded that such confirmation was not necessary. 
+IEL engaged in speculative trading through its account
+ 
+with ADMIS. After IEL was declared insolvent and was in the
+ process of liquidation, an arbitration panel ruled that ADMIS had
+ acted unreasonably in permitting IEL to engage in speculative
+ trading and found ADMIS liable for damages in the amount of
+ $6,917,667 for net trading losses and fees and commissions
+ incurred by IEL. ADMIS did not have any direct contact with and
+ did not seek advice from the State regarding IEL's trading or
+ permitted investments.
+ 
+ADMIS filed a third-party complaint against the State 
+and the Hawai
+'i Insurance Commissioner (collectively referred to 
+as the "State"), asserting claims for negligence, negligent supervision, and indemnification, and seeking to recover damages from the State, including the entire amount of the arbitration award entered against ADMIS. This appeal presents the question of whether, as a matter of law, the State owed a duty of care to ADMIS. As explained below, we hold that under the facts presented by this case, the State did not owe a duty of care to ADMIS. We also hold that ADMIS was not entitled to indemnification from the State. We therefore affirm the decision 
+-2­NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+of the Circuit Court of the First Circuit (Circuit Court)1 to
+ 
+dismiss ADMIS's claims against the State.2 We further hold that
+ 
+the Circuit Court did not abuse its discretion in denying ADMIS's
+ 
+request for sanctions for spoliation of evidence. Accordingly, 
+we affirm the Circuit Court's Final Judgment.
+ 
+BACKGROUND
+ 
+I.
+ 
+IEL was a Hawai
+'i-based insurance company involved in 
+the sale of life insurance policies and annuity contracts. In the early 1990s, IEL engaged in a pattern of highly speculative futures trading with various securities brokerages, including ADMIS. ADMIS is a Delaware Corporation headquartered in Illinois that buys and sells "financial and commodities futures contracts on behalf of its customers and provid[es] execution and clearing services for its customers." It describes itself as a leader in the commodity futures and financial futures industry. 
+In late 1993, IEL executives twice wrote to Deputy 
+Insurance Commissioner Tanaka seeking confirmation that investment activities IEL was undertaking were permitted under the Hawai
+'i Insurance Code. Tanaka referred IEL's requests to 
+Senior Insurance Examiner Goo. Goo issued two letters to IEL confirming that the investment activities IEL asked about were permitted under the Insurance Code. At the request of another brokerage firm (not ADMIS), counsel for IEL called Tanaka and asked whether Goo had authority to opine on HID's behalf as to permitted investments under the Insurance Code. Tanaka allegedly responded that such confirmation was not necessary. 
+IEL's speculative futures trading resulted in large 
+financial loses, leading to its insolvency and liquidation in
+ 1994. The Commissioner was appointed as the liquidator of IEL
+ 
+1The Honorable Karl K. Sakamoto presided over the proceedings relevant
+to this appeal.
+ 
+2We note that ADMIS also asserted a claim for contribution against the
+State. However, with ADMIS's agreement, the Circuit Court dismissed the
+contribution claim, and that claim is no longer in issue. 
+-3­NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+(Liquidator). In 1995, the Liquidator filed a demand for an
+ 
+arbitration proceeding against ADMIS pursuant to an arbitration
+ clause in IEL's customer agreement. The arbitration panel
+ ordered ADMIS to pay the Liquidator $6,917,667 in damages for the
+ net trading losses in IEL's account and for fees and commissions
+ ADMIS earned for executing the trades. The arbitration panel
+ also awarded interest on this amount.
+3
+ 
+The arbitration panel determined that the handling of
+ 
+the account by ADMIS was not reasonable. As such, the
+ arbitration panel imposed liability based on ADMIS's failure to
+ act reasonably with respect to the known interests of IEL and its
+ policyholders and annuitants. According to the arbitration
+ panel, "evidence of speculation, known to ADMIS'[s] account
+ officer, was immediate, repeated and overwhelming." As a result,
+ "continuation of the account placed on ADMIS liability for the
+ foreseeable consequences of its breach of an industry standard."
+ 
+In support of its conclusion, the arbitration panel
+ 
+found that ADMIS was immediately aware of the following
+ information:
+ 
+* IEL, as a life insurance company, had financial
+obligations to a large population of policyholders and
+annuitants - equity holders who relied on IEL for prudent
+investment of premiums and who had no capacity to oversee
+IEL's investment activities.
+ 
+* IEL's pretended hedge-trading account contained, on its
+transfer to ADMIS, an obvious imbedded unrealized loss of
+$17.79 million. ADMIS had a report of the A.M. Best rating
+service stating that as of year-end 1992 IEL had a net worth
+as low as $6 million. ADMIS also had a draft "Blue Book"
+ for the year ended December 31, 1993, prepared by IEL,
+claiming an unaudited net worth of only $16 million. ADMIS
+ thus had information at the very beginning of the
+relationship strongly indicating that IEL was already
+insolvent.
+ 
+* If the pretended hedge account had been properly
+designated a speculative account, recognition of the $17+
+million imbedded loss would have been compelled by
+accounting rules; liquidation of IEL should have been
+immediate and the further losses in bond futures trading
+handled by ADMIS would have been obviated.
+ 
+3According to ADMIS, following several unsuccessful appeals, ADMIS paid
+the Liquidator $10,867,370.57 pursuant to the arbitration award.
+ 
+-4­NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+* IEL's trading behavior every day, from the opening of the
+account until the seizure of the company, was obviously
+desperate speculation for the purpose of attempting to bet
+the company's way out of past speculative losses. The
+ trading pattern cannot be reconciled with any plausible
+hedge strategy.
+ 
+* When IEL became insolvent, the risk of added loss from
+further speculative trading rested not with IEL's sole
+shareholder but with IEL's unknowing and helpless
+policyholders and annuitants.
+ 
+The arbitration panel further found that the ADMIS
+ 
+executive responsible for the IEL account knowingly ignored the
+ 
+risk of loss to policyholders and annuitants; that "ADMIS'[s]
+ actions were motivated by the desire to generate large and above-
+market fee revenue while permitting IEL's management to attempt
+ to escape from its desperate situation of insolvency"; and that
+ it was not reasonable for ADMIS to act in disregard of the rights
+ of unknowing and helpless policyholders and annuitants. The
+ arbitration panel noted that Goo's letter "was not an 'order of
+ approval' such as would be necessary to authorize IEL to
+ speculate in bond futures."
+ 
+The Liquidator moved to confirm, and ADMIS moved to 
+vacate, the arbitration award before the United States District Court for the District of Hawai
+'i. The federal District Court 
+cited the above-mentioned findings in confirming the arbitration award. Investors Equity Life Ins. Co. of Hawaii, Ltd. v. ADM 
+Investor Services, Inc., No. CV 97-01382 DAE, 1997 WL 33100645, at *8-9 (D. Hawai
+'i Dec. 15, 1997). In reaching its conclusion 
+that the arbitration panel did not act in manifest disregard of the law in holding ADMIS liable for its professional negligence, the District Court stated that the arbitration panel had before it, 
+substantial evidence which indicated that [ADMIS] did not
+prevent [IEL] from illegally using its account for
+speculation, not hedging. Based on the volume of the
+ trades, the size of the trades, and frequency of the trades,
+[ADMIS] had sufficient information to indicate that [IEL]
+was improperly using its account for speculation. Under the
+ Hawaii Insurance Code, [IEL] was prohibited from using its
+account for anything other than hedging. See H.R.S. 
+§ 431:6-103(a); H.R.S. § 431:6-321. Pursuant to Chicago
+Board of Trade Rule 431.02.07 and the Hedge Account
+ 
+-5­NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+Representation, [ADMIS] was required to ensure that [IEL]
+was only using its account for bona-fide hedging. However,
+despite the fact that "evidence of speculation, known to
+[ADMIS's] account officer, was immediate, repeated, and
+overwhelming," [ADMIS] did nothing to stop [IEL's] trading
+in the account. Instead, [ADMIS] permitted [IEL] to
+continue its speculative trading, while it continued to
+collect substantial commissions on the trades.
+ 
+Id. at *9.
+ 
+The District Court's decision was then upheld on appeal
+ 
+to the United States Court of Appeals for the Ninth Circuit. 
+Investors Equity Life Ins. Co. of Hawaii Ltd. v. ADM Investor
+ Services, Inc., Nos. 98-15140, 98-15290, 99-15122, 2001 WL 32048
+ (9th Cir. Jan. 12, 2001).
+ 
+II.
+ 
+A.
+ 
+Meanwhile, in 1995, the same year the Liquidator
+ 
+initiated the arbitration proceeding against ADMIS, the
+ Liquidator and IEL filed a lawsuit against ADMIS in Circuit Court
+ in order to preserve all claims that might not be resolved
+ through arbitration. After the arbitration award against ADMIS
+ was confirmed by the federal District Court in 1997, ADMIS filed
+ its initial third-party complaint against the State.
+ 
+B.
+ 
+On April 24, 2007, ADMIS filed its Third Amended Third-
+Party Complaint, which underlies the present appeal. ADMIS
+ alleged that as a result of the Commissioner's and HID's
+ negligence, ADMIS suffered damages, including the amount of the
+ arbitration award. Specifically, ADMIS alleged claims of
+ negligence, negligent supervision, indemnification, and
+ contribution.
+ 
+Relevant to the question of the State's duty, ADMIS
+ 
+alleged in its negligence claim that the Commissioner and HID had
+ a duty: (1) "to know and to enforce the restrictions upon
+ insurers set forth in the Insurance Code"; (2) to ensure that
+ only authorized HID employees supplied information to insurers
+ and that the information was accurate; and (3) "to inform IEL and
+ its brokers, including ADMIS, of the erroneous information
+ 
+-6­NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+contained in [Goo's] opinion letters." ADMIS reiterated in its
+ 
+negligent supervision claim that the Commissioner and HID had a
+ duty to ensure that only authorized HID employees supplied
+ information and that the information was accurate, and it further
+ alleged that they had a "duty to ensure that they properly hire,
+ train, retain, and supervise HID's employees." ADMIS claimed
+ that it was entitled to indemnification because its "liability is
+ the direct result of the Commissioner's and HID's negligence or
+ negligent supervision" and that its "liability, if any, is thus
+ purely secondary, passive, technical, vicarious, and imputed,
+ while the liability of the Commissioner and HID is direct,
+ primary, and active."
+ 
+C.
+ 
+On June 17, 2008, the State filed a "Motion to Dismiss
+ 
+[ADMIS's] Third Amended Third-Party Complaint, Filed April 24,
+ 2007, or in the Alternative, Motion for Summary Judgment." In an
+ Order filed on September 11, 2008, Circuit Judge Karen Ahn
+ granted in part and denied in part the State's motion. The Order
+ dismissed ADMIS's contribution claim (ADMIS agreed to the
+ dismissal), but denied the State's motion in all other respects. 
+As to the issue of the State's duty, Judge Ahn's Order stated
+ that "[t]he State has failed to provide enough information for
+ the Court to evaluate these policy arguments for and against the
+ creation of a duty."
+ 
+III.
+ 
+On February 1, 2011, the State filed a motion to
+ 
+dismiss ADMIS's remaining claims, or in the alternative a motion
+ for judgment on the pleadings (Motion to Dismiss). After a
+ hearing, Circuit Judge Karl K. Sakamoto, who inherited the case
+ from Judge Ahn, granted the State's Motion to Dismiss, disposing
+ of all of ADMIS's remaining claims.
+ 
+In his March 24, 2011, Order granting the State's
+ 
+Motion to Dismiss, Judge Sakamoto concluded that "there is no
+ basis for [ADMIS's] claim of negligence against [the State] as
+ [the State] owed [ADMIS] no duty." As a preliminary matter,
+ 
+-7­NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Judge Sakamoto indicated that his ruling did not violate the law
+ 
+of the case doctrine, because Judge Ahn's prior order "did not
+ make a determination regarding the issue of duty[.]" Rather,
+ Judge Sakamoto noted that Judge Ahn stated that "the State had
+ failed to provide enough information for the Court to evaluate
+ the policy arguments for and against the creation of a duty" and
+ "deliberately did not make a determination regarding the issue of
+ duty[.]"
+ 
+As to ADMIS's claim of negligent supervision, Judge
+ 
+Sakamoto held that "because the negligent supervision claim also
+ arises from the presumption that [the State] owed a duty to
+ [ADMIS] and the Court finds that there is no such duty," the
+ negligent supervision claim also fails.
+ 
+Finally, Judge Sakamoto held that "a claim for third-
+party indemnification must arise out of a contract or some other
+ independent duty." Because there was no contract providing for
+ indemnification and because it had determined that the State did
+ not owe any duty to ADMIS, Judge Sakamoto dismissed the claim for
+ indemnification.
+ 
+ADMIS filed a motion for reconsideration, which the
+ 
+Circuit Court summarily denied. The Circuit Court entered its
+ Final Judgment on April 28, 2011. This appeal followed.
+ 
+DISCUSSION
+ 
+I.
+ 
+ADMIS contends that the Circuit Court erred in granting
+ 
+the State's motion for judgment on the pleadings regarding
+ ADMIS's negligence and negligent supervision claims because the
+ Circuit Court erroneously arrived at the conclusion that the
+ State owed no duty to ADMIS. We disagree.
+ 
+A.
+ 
+It is well-established that "a negligence action lies 
+only where there is a duty owed by the defendant to the plaintiff." Hayes v. Nagata, 68 Haw. 662, 666, 730 P.2d 914, 916 
+(1986). The existence of a duty is entirely a question of law. Hao v. Campbell Estate, 76 Hawai
+'i 77, 80, 869 P.2d 216, 219 
+-8­NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+(1994). "[W]hether a duty exists is a question of fairness that
+ 
+involves a weighing of the nature of the risk, the magnitude of
+ the burden of guarding against the risk, and the public interest
+ in the proposed solution." 
+Id. (internal quotation marks and
+ 
+citation omitted).
+ 
+1.
+
+ 
+In considering whether to impose a duty of reasonable
+ 
+care, Hawai 'i courts recognize 
+that duty is not sacrosanct in itself, but only an
+expression of the sum total of those considerations of
+policy which lead the law to say that the particular
+plaintiff is entitled to protection. Legal duties are not
+discoverable facts of nature, but merely conclusory
+expressions that, in cases of a particular type, liability
+should be imposed for damage done. In determining whether
+or not a duty is owed, we must weigh the considerations of
+policy which favor the plaintiff's recovery against those
+which favor limiting the defendant's liability. The
+ question of whether one owes a duty to another must be
+decided on a case-by-case basis.
+ 
+Pulawa v. GTE Hawaiian Tel , 112 Hawai 'i 3, 12, 143 P.3d 1205, 
+1214 (2006) (block quote format, citation, and brackets omitted). 
+The Hawai 'i Supreme Court has identified the following factors 
+for a court to consider in determining whether to impose a duty:
+ 
+Whether a special relationship exists, the foreseeability of
+harm to the injured party, the degree of certainty that the
+injured party suffered injury, the closeness of the
+connection between the defendants' conduct and the injury
+suffered, the moral blame attached to the defendants, the
+policy of preventing harm, the extent of the burden to the
+defendants and consequences to the community of imposing a
+duty to exercise care with resulting liability for breach,
+and the availability, cost, and prevalence of insurance for
+the risk involved.
+ 
+Id. (block quote format, citation, and brackets omitted).
+ 
+2.
+ 
+Whether a government entity owes a duty of care to an
+ 
+injured party "should be determined by an analysis of legislative
+ 
+intent of the applicable statute or ordinance." Cootey v. Sun
+ 
+Inv., Inc., 68 Haw. 480, 485, 718 P.2d 1086, 1091 (1986).
+ 
+The Hawai 'i Insurance Code provides that "[t]he 
+business of insurance is one affected by the public interest,
+ 
+-9­NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+requiring that all persons be actuated in good faith, abstain 
+from deception and practice honesty and equity in all insurance matters." HRS § 431:1-102 (2005). The Commissioner is responsible for supervising and controlling the Hawai
+'i Insurance 
+Division, making reasonable rules to effectuate the Insurance Code, and enforcing the Code. See HRS § 431:2-201 (2005 & Supp. 
+2014).
+4 In its role as a regulator, the State has no duty to, 
+and cannot be sued by, regulated insurance companies for providing inadequate regulation. See Hayes, 68 Hawai
+'i at 667, 
+730 P.2d at 917. ADMIS does not contend that the Insurance Code creates any cause of action enabling third-parties to sue the State for its failure to properly regulate insurance companies or enforce the Insurance Code. In addition, under the State Tort Liability Act, the State is immune from suit for claims arising out of misrepresentations made by its employees. HRS § 662­15(4); Doe Parents No. 1 v. State, Dept. of Educ., 100 Hawai
+'i 
+34, 67 n.38, 58 P.3d 545, 578 n.38 (2002). 
+3. 
+The Hawai 'i Supreme Court has stated that Hawai 'i courts 
+are "reluctant to impose a new duty upon members of our society without any logical, sound, and compelling reasons taking into consideration the social and human relationships of our society." Birmingham v. Fodor's Travel Publications, Inc., 73 Haw. 359, 370, 833 P.2d 70, 76 (1992) (internal quotation marks and citation omitted). The reluctance to impose new duties is especially applicable to State entities acting in their regulatory capacity or implementing statutory requirements. This is because the Hawai
+'i Supreme Court has recognized that the 
+imposition of a legal duty on State entities in certain circumstances "would result in 'unmanageable, unbearable, and totally unpredictable liability[.]'" Molfino v. Yuen, 134 
+4
+We cite to the current version of HRS § 431:2-201. For purposes of our
+analysis, there is no material difference between the current version and the
+version in effect at the time relevant to this case. 
+-10­NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Hawai'i 181, ---, 339 P.3d 679, 683 (2014) (quoting Cootey, 68 
+Haw. at 484, 718 P.2d at 1090). 
+In Hayes, the Hawai 'i Supreme Court held that the 
+bankruptcy trustee for Paradise Palms Vacation Club (PPVC), an 
+organization of timeshare unit owners, could not sue the State for damages due to the States's alleged negligence in allowing the timeshare developer and PPVC to conduct timeshare operations without complying with the regulatory scheme. Hayes, 68 Haw. at 
+663-68, 730 P.2d at 915-17. In holding that the State owed no duty to PPVC, the supreme court concluded that "[t]he considerations favoring a limitation on the State's liability in this situation . . . need no belaboring." Id. at 667, 730 P.2d 
+at 917. The court further concluded that "the State Tort Liability Act 'was not intended to visit the sovereign with novel liabilities[.]'" Id. at 667-68, 730 P.2d at 917 (citation 
+omitted). 
+In Molfino, the Hawai
+'i Supreme Court recently 
+addressed whether it "should impose a duty of reasonable care on the Planning Department of the County of Hawai
+'i to a property 
+owner, leading to potential negligence liability for damages allegedly sustained due to the Planning Department's failure to maintain all pertinent correspondence in its property files at all times." Molfino, 134 Hawai
+'i at ---, 339 P.3d at 680. The 
+court declined to impose a duty of reasonable care on the Planning Department in favor of the property owner to maintain such records, holding that "policy considerations counsel against the judicial creation of such a duty under the common law" and that there was no basis under the applicable statutes or regulations to impose negligence liability on the Planning Department for failing to maintain its files in complete condition at all times. Id. at ---, ---, 339 P.3d at 680, 685. 
+In support of its decision, the court discussed its 
+prior opinion in Cootey, 68 Haw. 480, 718 P.2d 1086, in which it declined to impose a duty of care on the County of Hawai
+'i to 
+homeowners, who claimed they were damaged by flooding caused by 
+-11­NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+the County's negligence in approving an adjoining development. 
+The court described the facts of Cootey and its analysis in
+ Cootey as follows:
+ 
+In Cootey, plaintiff homeowners (the Cooteys) sued the
+County of Hawai' i for negligently approving a subdivision,
+the development of which allegedly caused flooding on theCooteys' property. The Cooteys claimed that the County owedthem a "duty to administer and enforce the applicable laws,rules and regulations and directives of the County and theState of Hawai' i. . . ." This court disagreed, holding that
+such a duty was "too expansive in light of public policyconsiderations versus liability and remedialconsiderations." 
+In Cootey, this court noted that the determination of
+whether a duty exists requires a balancing of "the policy
+
+considerations supporting recovery by the injured party
+against those favoring a limitation of the County's
+liability." The court struck the balance in favor of
+ limiting the County's liability. This court stated,
+"Government is not intended to be an insurer of all the
+ dangers of modern life, despite its ever-increasing effort
+to protect its citizens from peril." Government should not
+ be "liable for all injuries sustained by private persons as
+a result of governmental activity, even though doing so
+would spread the losses over the largest possible base."
+Government agencies must still be able to function
+effectively for their own "socially approved ends." This
+ court held that the imposition of a duty in the Cooteys'
+situation would "reorder priorities and force reallocation
+of resources upon the other branches primarily the
+legislative branch which make policy decisions in this
+regard." Specifically, "exposure to such liability would
+unduly lengthen the permit process, or could very well
+dissuade the County from enacting rules, regulations and
+laws applicable to proposed subdivisions and intended for
+the protection and welfare of the public, a result contrary
+to the public interest." In conclusion, this court held
+that the imposition of a legal duty in Cootey would result
+in "unmanageable, unbearable, and totally unpredictable
+liability" for the County.
+ 
+Id. at ---, 339 P.3d at 683 (citations and brackets omitted;
+ 
+ellipsis points in original). The court in Molfino held that
+ policy considerations similar to that expressed in Cootey
+ supported its refusal to impose a legal duty on the Planning
+ Commission to property owners to maintain pertinent
+ correspondence in its property files at all times. Id. at ---,
+ 
+339 P.3d at 683. 
+B.
+ 
+ADMIS does not contend that the State owes it a duty of
+ 
+care based on obligations imposed by the Insurance Code or
+ 
+-12­NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+insurance regulations. ADMIS also does not dispute that no
+ 
+special relationships exist that would warrant imposing on the
+ State a duty of care to ADMIS. We conclude based on the purpose
+ of the Insurance Code and relevant policy considerations that the
+ State does not owe a duty of care to ADMIS under the
+ circumstances of this case.
+ 
+Here, the injury to ADMIS arises from an arbitration
+ 
+decision which concluded that ADMIS acted unreasonably, in
+ violation of industry standards, in handling IEL's trading
+ account and awarded damages against ADMIS based on its conduct. 
+ADMIS is a sophisticated brokerage firm and by its own
+ description has "for decades" been "a leader in the commodity
+ futures and financial futures industry[.]" The Insurance Code
+ was not designed or intended to provide protection to
+ sophisticated brokerage firms from adverse arbitration awards
+ arising out of their handling of trading accounts. The State was
+ not a party to ADMIS's trading account agreement with IEL. In
+ addition, ADMIS did not directly contact the State or seek its
+ advice regarding whether IEL's trading activities were
+ permissible under the Insurance Code.
+ 
+Under these circumstances, we decline to impose a duty 
+of care on the State in favor of ADMIS. The imposition of such a duty is not warranted as a matter of "fairness . . . weighing . . . the nature of the risk, the magnitude of the burden of guarding against the risk, and the public interest in the proposed solution." Hao, 76 Hawai
+'i at 80, 869 P.2d at 219. In 
+addition, imposing a duty on the State under these circumstances would result in "unmanageable, unbearable, and totally unpredictable liability[,]" and could dissuade the State from engaging in regulatory activities beneficial to the public. Cootey, 68 Haw. at 484, 486, 718 P.2d at 1090, 1091; see also Scott v. Dep't of Commerce, 763 P.2d 341, 344 (Nev. 1988). For the same policy considerations articulated by the Hawai
+'i Supreme 
+Court in Molfino and Cootey, we hold that the judicial creation 
+-13­  NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+of a duty under the common law owed by the State to ADMIS under
+ 
+the facts of this case is not warranted.5
+ 
+C.
+ 
+Relying on  Doe Parents,  ADMIS argues that the
+ 
+"affirmative acts" the State took in the form of "training an
+ employee, supervising an employee, and answering outside
+ questions regarding that employee's authority to engage in
+ certain conduct" gave rise to a duty to exercise ordinary care.We reject ADMIS's argument based on Doe Parents.
+ 
+ 
+
+In Doe Parents, the Hawai 'i Supreme Court described the 
+State's duty in tort as follows:
+ 
+Absent a duty to adhere to a particular standard of
+care by virtue of the State and either the plaintiff or the
+third person sharing a "special relationship" (or,
+alternatively, because a statute or administrative rule or
+regulation mandates that the defendant adhere to a
+particular standard of care[)], the State is, as is any
+person, generally required to exercise only "ordinary care"
+in the activities it affirmatively undertakes to prevent
+foreseeable harm to others.
+ 
+Doe Parents, 100 Hawai 'i at 72, 58 P.3d at 583 (internal 
+citations omitted).
+ 
+As to foreseeability in the context of duty, the
+ 
+supreme court stated:
+ 
+Regardless of the source of a particular duty, a
+defendant's liability for failing to adhere to the requisite
+standard of care is limited by the preposition that "the
+defendant's obligation to refrain from particular conduct
+[or, as the circumstances may warrant, to take whatever
+affirmative steps are reasonable to protect another] is owed
+only to those who are foreseeably endangered by the conduct
+and only with respect to those risks or hazards whose
+likelihood made the conduct [or omission] unreasonably
+dangerous." Thus, if it is not reasonably foreseeable that
+ 
+5ADMIS contends that the Circuit Court erred by violating the law of the
+case doctrine when it ruled that the State did not owe a duty of care to
+ADMIS. We conclude that the Circuit Court did not violate the law of the case
+ doctrine because it had not previously made a definitive ruling regarding
+whether the State owed a duty of care to ADMIS. In any event, the law of the
+case is a prudential doctrine. See Messinger v. Anderson, 225 U.S. 436, 444
+(1912) (concluding that the "law of the case" doctrine "merely expresses the
+practice of courts generally to refuse to reopen what has been decided, not a
+limit to their power"). In addition, "law of the case cannot bind [an
+appellate court] in reviewing decisions below[,]" and "cannot insulate an
+issue from appellate review[.]" Christianson v. Colt Indus. Operating Corp.,
+ 
+486 U.S. 800, 817 (1988).
+ 
+-14­NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+the particular plaintiff will be injured if the expected
+harm in fact occurs, the defendant does not owe that
+plaintiff a duty reasonably to prevent the expected harm.
+Similarly, but not synonymously, if the harm is not
+reasonably foreseeable, the defendant will not be deemed to
+have breached the duty of care that he or she owes to a
+foreseeable plaintiff. 
+Id. (citations omitted; brackets in original) (emphases added); 
+see also Janssen v. Am. Hawai 'i Cruises, Inc., 69 Haw. 31, 34, 
+731 P.2d 163, 165 (1987) (stating that "a defendant owes a duty 
+of care only to those who are foreseeably endangered by the conduct and only with respect to those risks or hazards whose likelihood made the conduct unreasonably dangerous" (internal quotation marks and citations omitted)). 
+In 
+Pulawa, the supreme court stated that "in the 
+context of determining the existence and scope of a duty, foreseeability is a question of law for the court to resolve." Pulawa, 112 Hawai
+'i at 13, 143 P.3d at 1215. The court observed: 
+Foreseeability as it impacts duty determinations
+refers to the knowledge of the risk of injury to be
+apprehended. The risk reasonably to be perceived defines
+the duty to be obeyed; it is the risk reasonably within the
+range of apprehension, of injury to another person, that is
+taken into account in determining the existence of the duty
+to exercise care.
+ 
+Id. (block quote format, citation, brackets, and emphasis
+ 
+omitted).  As a factor in determining the existence of a duty,
+ foreseeability involves the prospective consideration of the
+ facts existing at the time of the alleged negligent conduct. Id.
+ 
+We conclude that it was not reasonably foreseeable to
+ 
+the State that its actions in (1) training and supervising its
+ employees and (2) responding to questions by a regulated
+ insurance company regarding permissible investment activities and
+ Goo's authority to provide advice would result in the injury
+ sustained by ADMIS. As noted, ADMIS's injury was caused by an
+ arbitration panel's decision that ADMIS had acted unreasonably
+ and had mishandled IEL's trading account. ADMIS did not have any
+ direct contact with and did not seek advice from the State
+ regarding IEL's permitted investments or trading activities. We
+ 
+-15­NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+conclude that it was not reasonably forseeable to the State when
+ 
+it undertook to train and supervise its employees and responded
+ to inquiries by IEL, that ADMIS, a sophisticated brokerage firm
+ who had no direct contact with the State, would enter into a
+ trading account relationship with IEL; that IEL would engage in
+ speculative trades; that ADMIS would permit IEL to engage in such
+ speculative trades; that IEL would become insolvent; and that an
+ arbitration panel would determine that ADMIS was liable for
+ losses sustained by IEL due to ADMIS's mishandling of IEL's
+ trading account. Accordingly, we reject ADMIS's contention that,
+ 
+6
+pursuant to Doe Parents , the alleged "affirmative acts"  taken by
+the State created a duty of care owed by the State to ADMIS under
+ the circumstances of this case.
+ 
+II.
+
+ 
+ADMIS argues that the Circuit Court erred by dismissing
+ 
+its indemnification count, which asserted a claim of equitable
+ indemnity. We disagree. 
+"[E]quitable indemnity is only available among
+ 
+tortfeasors who are jointly and severally liable for the
+ plaintiff's injury." In re Parker, 471 B.R. 570, 576 (B.A.P. 9th
+ 
+Cir. 2012). In other words, there can be no equitable indemnity
+ "where the party from whom indemnity is sought owes no duty to
+ the plaintiff or is not responsible for the injury." Wells Fargo
+ 
+Bank, N.A. v. Renz, 795 F.Supp.2d 898, 927 (N.D. Cal. 2011). The
+ Restatement (Second) of Torts § 886B(1) (1979) expresses the 
+requirement for equitable indemnity -- that the indemnitor and
+ indemnitee both owe a duty to a third-party and are jointly
+ liable for the injury sustained by the third-party -- as follows:
+ "If two persons are liable in tort to a third person for the same
+ harm and one of them discharges the liability of both, he is
+ entitled to indemnity from the other if the other would be 
+6We note that the State disputes that the acts cited by ADMIS constitute
+affirmative acts.
+ 
+-16­NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+unjustly enriched at his expense by the discharge of the
+ 
+liability." 
+Here the State, as a regulator, did not owe a duty to 
+IEL or those represented by IEL's Liquidator, and the State was not jointly liable with ADMIS to IEL or those represented by IEL's Liquidator, under the circumstances of this case. See 
+Hayes, 68 Hawai
+'i at 667-68, 730 P.2d at 917. As such, ADMIS, as 
+a matter of law, was not entitled to equitable indemnity from the State with respect to the damages ADMIS was required to pay to IEL's Liquidator for the injuries ADMIS caused to those represented by IEL's Liquidator. See Harmsen v. Smith, 586 F.2d 
+156, 157 (9th Cir. 1978) (holding that bank directors sued by bank shareholders could not state a claim for equitable indemnity against the Comptroller of the Currency (which regulated the bank) because the Comptroller did not owe a duty to the shareholders). 
+ADMIS's reliance on In re All Asbestos Cases, 603 F. 
+Supp. 599 (D. Hawai
+'i 1984), is misplaced. All Asbestos Cases 
+recognizes situations in which equitable indemnity is appropriate because one joint tortfeasor is more culpable than another joint tortfeasor in causing injury to a third party. See All Asbestos 
+Cases 603 F. Supp. at 606-07. But it does not alter the prerequisite for equitable indemnity that the indemnitor and indemnitee be jointly liable to the injured third party. See id. 
+at 606 ("Tort or 'equitable' indemnity will be recognized when the indemnitor is guilty of 'active,' 'primary' or 'original' fault, as opposed to the merely 'passive,' 'secondary,' or 'implied' fault of the indemnitee."). 
+III.
+ 
+ADMIS argues that the Circuit Court abused its
+ 
+discretion in denying its motion for sanctions. Specifically,
+ ADMIS argues that the Circuit Court previously ordered the
+ parties to maintain their records during a stay of discovery
+ imposed by the Circuit Court and that the State failed to do so. 
+As such, ADMIS contends that the Circuit Court should have
+ 
+-17­NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+imposed sanctions against the State for spoliation of evidence. 
+We conclude that the Circuit Court did not abuse its discretion
+ in denying ADMIS's motion for sanctions.
+ 
+A. 
+The pertinent facts underlying this issue are as
+ 
+follows. In 1998, while the federal District Court's
+ confirmation of the arbitration award against ADMIS was on appeal
+ to the United States Court of Appeals for the Ninth Circuit
+ (Ninth Circuit), ADMIS initiated discovery in this case. The
+ Liquidator and IEL filed a motion to stay all discovery pending
+ the conclusion of the appeal. Over ADMIS's objection, the
+ Circuit Court granted the motion to stay discovery pending the
+ appeal to the Ninth Circuit, but ordered all parties to "retain
+ all documents in their custody or control which may be responsive 
+. . . to [ADMIS's] discovery requests[.]" The Ninth Circuit
+ filed its decision in 2001.
+ 
+On January 10, 2011, after a period of discovery, ADMIS
+ 
+filed a motion for sanctions for spoliation of evidence (Motion
+ for Sanctions), arguing that the State had violated the Circuit
+ Court's previous order that required preservation of documents. 
+Specifically, ADMIS alleged that materials produced during
+ discovery resulted in "multiple copies of documents whose source
+ can no longer be determined." Further, ADMIS stated that the
+ State refused to admit the authenticity of certain documents
+ produced "because the State could not locate the State's original
+ of the document[.]" ADMIS sought sanctions ranging from "barring
+ the State from denying the authenticity of documents which should
+ be in HID's files, to entering a judgment on liability in favor
+ of ADMIS and against the State." The State opposed ADMIS's
+ Motion for Sanction, arguing that ADMIS had not satisfied the
+ requirements for the imposition of sanctions. 
+In the meantime, at a hearing held on February 25,
+ 
+2011, the Circuit Court orally granted the State's Motion to
+ Dismiss ADMIS's Third Amended Third-Party Complaint. At the
+ hearing, ADMIS's counsel suggested that the Circuit Court's
+ 
+-18­NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+dismissal of ADMIS's case had rendered ADMIS's Motion for
+ 
+Sanctions moot. The Circuit Court responded that it did not
+ believe the Motion for Sanctions had become moot, but indicated
+ that it was inclined to deny the motion and that it did not
+ believe the State had acted in bad faith or had attempted to
+ destroy documents to its advantage. The Circuit Court then heard
+ argument on the Motion for Sanctions. On March 23, 2011, the
+ Circuit Court issued its order denying ADMIS's Motion for
+ Sanctions. 
+B.
+ 
+On appeal, ADMIS points to the following three letters 
+that it claims were missing from HID's files: (1) IEL's "November 3, 1993 letter to Mr. Tanaka, the Deputy Commissioner, requesting the guidance that the Goo Letters provided"; (2) "the November 4, 1993 letter from Mr. Goo [to IEL], providing part of that guidance"; and (3) IEL's "February 2, 1994 letter to Harold Yamami [(an HID examiner)], explaining why IEL borrowed a half billion dollars in 1993 and enclosing Mr. Goo's letter stating that IEL's trading was legal." ADMIS apparently had copies of all these documents, but not originals from HID's files. We conclude that the alleged discovery violation underlying ADMIS's spoliation claim was irrelevant to and did not affect the analysis of the Circuit Court or this court in determining that the State was entitled to the dismissal of ADMIS's Third Amended Third-Party Complaint. Therefore, ADMIS failed to show that the absence of the alleged missing evidence resulted in prejudice to ADMIS. See Stender v. Vincent, 92 Hawai
+'i 355, 363, 992 P.2d 50, 
+58 (2000) (stating that in determining whether to impose a discovery sanction, a relevant factor for the court to consider is "whether the opposing party suffered any resulting prejudice as a result of the offending party's destroying or withholding the discoverable evidence" (block quote format and citation omitted)). We conclude that the Circuit Court's denial of ADMIS's Motion for Sanctions did not constitute an abuse of discretion. 
+-19­NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+CONCLUSION
+ 
+For the foregoing reasons, we affirm the Circuit
+ 
+Court's Final Judgment.
+ 
+DATED: Honolulu, Hawai 'i, March 25, 2015. 
+On the briefs:
+ 
+Paul A. Schraff 
+(Dwyer Schraff Meyer
+Grant & Green)
+Michael R. Lieber
+ (Ice Miller, L.L.P.)
+for Defendant/Third-Party Plaintiff-Appellant
+ Chief Judge
+
+Associate Judge
+Clifford K. Higa
+Wendell H. Fuji Special Deputy Attorneys General
+(Kobayashi Sugita & Goda)
+and
+ James F. Nagle
+Deborah Day Emerson
+Deputy Attorneys General
+and
+ Kenneth S. Robbins
+ John-Anderson L. Meyer
+Sergio Rufo
+(Robbins Meyer & Rufo
+Attorneys at Law
+A Law Corporation)
+for Plaintiffs/Third-Party
+Defendants-Appellees
+ Associate Judge
+
+-20­

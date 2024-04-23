@@ -1,0 +1,435 @@
+FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+IN THE INTERMEDIATE COURT OF APPEALS 
+OF THE STATE OF 
+HAWAI# I 
+–––O0O––– 
+HAWAIIAN DREDGING CONSTRUCTION COMPANY, INC.,
+Intervenor-Appellant-Appellee,
+v. 
+NAN, INC., Petitioner-Appellee-Appellant,
+and 
+BOARD OF WATER SUPPLY,
+Respondent-Appellee-Appellee,
+and 
+D
+ESIREE L. HIKIDA, HEARINGS OFFICER, 
+OFFICE OF ADMINISTRATIVE HEARINGS,
+DEPARTMENT OF COMMERCE AND CONSUMER AFFAIRS,
+STATE OF HAWAI# I, Appellees-Appellees 
+NO. CAAP-21-0000533 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT 
+(CIVIL NO. 1CCV-21-0001032) 
+OCTOBER 31, 2022 
+BY: GINOZA, C.J., AND WADSWORTH AND MCCULLEN, JJ.
+O
+PINION OF THE COURT BY WADSWORTH, J.  
+In 2021, Respondent-Appellee-Appellee Board of Water 
+Supply (BWS) invited bids for a project to construct a concrete 
+reservoir (Project). After receiving a bid from Petitioner-
+Appellee-Appellant Nan, Inc. (Nan), BWS determined that Nan was a 
+"nonresponsible" bidder for the Project (i.e.
+, not capable of   FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+fully performing the contract requirements) and that BWS would 
+not consider Nan's bid. BWS awarded the contract to Intervenor-Appellant-Appellee Hawaiian Dredging Construction Company, Inc. (Hawaiian Dredging). Nan submitted a request for administrative 
+review (Request for Review) of BWS's decision to the Office of 
+Administrative Hearings (OAH), Department of Commerce and 
+Consumer Affairs. After briefing and a hearing, the Hearings 
+Officer vacated BWS's determination of Nan's "nonresponsibility" and ordered that BWS's contract award to Hawaiian Dredging be terminated. Hawaiian Dredging appealed the Hearings Officer's decision to the Circuit Court of the First Circuit (Circuit 
+Court),
+1/ and BWS joined the appeal. After further briefing and a 
+hearing, the Circuit Court directed the Hearings Officer to set 
+aside her decision and to enter an order containing a directive reinstating the contract award to Hawaiian Dredging. 
+Nan appeals from the September 17, 2021 Judgment, 
+entered in favor of BWS and Hawaiian Dredging (collectively,Appellees) by the Circuit Court. Nan also challenges the Circuit 
+Court's September 17, 2021 "Findings of Fact, Conclusions of Law, 
+and Order Granting . . . Hawaiian Dredging['s] . . . Application for Judicial Review, Filed August 18, 2021, and [BWS's] Substantive Joinder to Hawaiian Dredging's Application for Judicial Review, Filed August 19, 2021" (FOFs/COLs/Order). 
+On appeal, Nan contends that the Circuit Court erred: 
+(1) in finding that Nan's Request for Review was based on the content of the bid solicitation (Solicitation), such that the 
+Hearings Officer lacked jurisdiction to consider Nan's request; 
+(2) in ignoring the Hearings Officer's finding that she "can find no language, nor can [BWS] or [Hawaiian Dredging] point to any part of the Solicitation that clearly requires bidders to provide specific [Horizontal Directional Drilling] experience"; and (3) in granting deference to BWS and failing to determine whether BWS's actions were consistent with the Hawai# i Procurement Code. 
+We hold that the Circuit Court did not err: (1) in 
+ruling that the Hearings Officer lacked jurisdiction to consider 
+1/ The Honorable Jeffrey P. Crabtree presided. 
+2 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+ 
+ Nan's Request for Review to the extent the request challenged the 
+validity and appropriateness of the experience requirements set forth in the Solicitation; and (2) in exercising jurisdiction over that part of Nan's Request for Review that was 
+not based on 
+the contents of the Solicitation, i.e., Nan's claim that BWS improperly determined that Nan was a nonresponsible bidder based on an HDD experience requirement that was not stated in the Solicitation. We further hold that the Circuit Court correctly concluded that: (1) the Solicitation required bidders to submit their HDD experience or its equivalent; and (2) BWS did not act arbitrarily or capriciously in determining that Nan was a nonresponsible bidder. 
+Accordingly, we affirm the Judgment. 
+I. Background 
+On April 7, 2021, BWS issued an Invitation for Bids and 
+accompanying solicitation documents for the Project (theSolicitation or IFB) through the Hawaii eProcurement System 
+(HePS). As stated in the Solicitation, the work of the Project 
+involves the installation of a 24-inch water main and reservoir; 
+repaving and reconstruction at the installation area; and, among other things, horizontal directional drilling (HDD) beneath an 
+existing stream for the new water main. 
+The Solicitation's "Special Instructions" on HePS 
+stated that bidders were required "to read and comply with . . . 
+other documents or specifications for the [S]olicitation whether attached or referenced." The same Special Instructions also stated that the "[S]olicitation contains attachments that bidders must . . . [d]ownload[,] . . . [c]omplete[,] . . . and, [a]ttach" to their bids; and that bids "shall be evaluated" based on those documents. 
+The Solicitation included Section SP-1, Instructions to 
+Bidders (SP-1), and several other referenced or attached 
+documents, including "General Instructions to Bidders" and a 
+"Contractor Questionnaire." The General Instructions to Bidders 
+and the Contractor Questionnaire were linked attachments to the Solicitation on HePS. 
+3 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+ Section 1.1(C) of the General Instructions to Bidders 
+reflected BWS's intent to determine bidder responsibility based 
+on the Contractor Questionnaire: 
+Qualification Questionnaire. The Contracting Officer shall
+determine whether the bidder or prospective bidder has thefinancial ability, resources, skills, capability, andbusiness integrity to perform the work intended. For this purpose, the Contracting Officer may require any bidder orprospective bidder to submit answers, under oath, toquestions contained in a questionnaire prepared by theContracting Officer. If upon review of the questionnaire or
+otherwise, the bidder or prospective bidder appears not tobe fully qualified or able to perform the intended work, theContracting Officer shall, after affording the bidder anopportunity to be heard and if still of the opinion that thebidder is not fully qualified to perform the work, refuse toreceive or to consider any bid offered by the prospectivebidder. Failure to complete the questionnaire will besufficient cause for the Contracting Officer to disqualify abidder. 
+(Emphases added.) 
+In turn, the Contractor Questionnaire set out specific 
+responsibility criteria, as follows: 
+Section 3-122-108 of the Hawaii Administrative Rules provides that a determination of responsibility ornon-responsibility of an Offeror or prospective Offeror toperform the work called for in the solicitation shall bemade by the procurement officer on the basis of availableinformation. It is the sole responsibility of the Offerorto review the requirements of the Contractor Questionnaireand complete the required forms in their entirety, andensure all responses are legible. Offerors must use the 
+forms provided herein and provide the completed forms withtheir bid. 
+By submitting the Contractor Questionnaire, the Offeror
+guarantees the truth and accuracy of all statements andanswers provided. 
+The Board of Water Supply (BWS) reserves the right to verify
+any of the information provided and/or request additional,clarifying or supplemental information. 
+For the Contractor Questionnaire's "FACTOR 1: 
+EXPERIENCE," bidders were required to complete data sheets for 
+three to five contracts they performed that were equal or equivalent to the Project's scope of work as defined in SP-1. Under SP-1, the Project's scope of work included providing "Horizontal Directional Drilling beneath existing stream for new water main." 
+Bidders were instructed to raise any concerns about the 
+Solicitation's terms or requirements before bid opening. Section 
+4 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+ 
+ 
+ 1.2
+ of the General Instructions to Bidders stated, in relevant 
+part: 
+If it should appear to a prospective bidder that the
+performance of the work under the contract or any of thematters relative thereto is not sufficiently described orexplained in the Invitation for Bids, or that anydiscrepancy exists between different parts of the Invitationfor Bids, or that the full intent of the Invitation for Bidsis not clear, then the bidder shall submit a written emailrequest for clarification not later than ten (10) calendardays before the date fixed for opening of bids . . . ." 
+Nan submitted multiple questions to BWS, which were answered 
+through addenda to the Solicitation. Nan did not submit any questions regarding BWS's responsibility criteria.  
+Nan submitted its bid on May 27, 2021, including the 
+Contractor Questionnaire and five data sheets. Nan's bid price was the lowest among those submitted, but none of Nan's five datasheets reflected experience in HDD.  
+Accordingly, on June 11, 2021, BWS sent a request to 
+Nan to provide a prior contract that included HDD experience. In response, Nan provided a summary of a previous project that included "microtunneling" installation. 
+By letter dated June 18, 2021, BWS informed Nan that it 
+determined Nan was nonresponsible, because it "lacks the required experience and is not fully qualified and able to perform the intended work." The letter further stated, in part: 
+While the five projects showed adequate experience working
+with larger water mains and prestressed concrete reservoirs,none of the projects included any relevant HDD-related workexperience. 
+On June 11, 2021, Nan was asked to submit one (1) additional
+project Contract Data Sheet to satisfy the requirement ofequal or equivalent scope of work. Nan submitted one (1)Contractor Questionnaire response amending their originalsubmission. 
+. . . . 
+BWS reviewed the additional information and determined that micro-tunneling work was not equivalent to HDD-related work.Therefore the additional contract information submitted byNan also failed to demonstrate equal or equivalent scope ofthe Project as required to determine contractorresponsibility, thus rendering Nan non responsible. 
+Accordingly, although Nan submitted the low bid, 
+$18,570,704.70, it was disqualified from consideration for the 
+5 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+ contract award. 
+The second-lowest bidder, Goodfellow Brothers, 
+LLC, whose bid was $20,636,745, was also disqualified. After BWS 
+applied all allowable bid evaluation credits, Hawaiian Dredging (with a bid of $21,107,000) was deemed to be the lowest responsive and responsible bidder, and entitled to the award. On June 18, 2021, BWS awarded Hawaiian Dredging the contract for the Project. 
+On June 25, 2021, Nan filed its Request for Review with 
+the OAH. On the same date, Nan filed a protest with BWS on the same grounds. Prior to June 25, 2021, Nan did not file a protest regarding the Solicitation. 
+Nan's Request for Review stated in part: 
+Nan files the instant request because, first, BWS is
+required to make an award to the lowest responsive,
+responsible bidder based on the  criteria set forth in the 
+IFB. BWS improperly disqualified Nan's bid based on an
+experience requirement not stated in the IBF [sic] and notin conformance with the State law/procurement policy. To the extent that the IFB does not set forth a specificcriteria, BWS is without any authority to create criteriafor evaluating a bid subsequent to bid opening. Secondly,
+BWS' determination that Nan is non responsible was improperand beyond what is legally permissible rendering itsdecision, improper, arbitrary and capricious. . . . 
+Thus, Nan requests a decision by the Office of
+Administrative Hearings, Department of Commerce and ConsumerAffairs, State of Hawaii ("OAH") to find and conclude thefollowing:
+ 1. BWS improperly determined that Nan is not aresponsible bidder failing to properly follow Hawaiilaw, the Hawaii procurement code, specifically HRS§ 103D-310, and its own IFB Specifications; 
+2. The experience requirements in BWS' ContractorQuestionnaire and its June 11, 2021 Request inquiredinto areas beyond what is legislatively permissibleand what was established by the Procurement PolicyBoard's Qualification Questionnaire;
+ 3. BWS wrongly awarded the Project to Hawaiian Dredgingwhen Hawaiian Dredging listed the same subcontractor. . . as Nan to perform the HDD scope of work . . . ;and
+ 4. Nan is the lowest, responsible, and qualified bidderunder the IFB for the subject Project. 
+. . . . 
+. . . . 
+. . . At no time prior to bid opening, was it
+required, by the IFB or the Contractor Questionnaire, that a 
+6   
+ FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+prospective bidder submit its experience with respect to
+HDD. . . . 
+. . . . 
+With this Request for Administrative Hearing, Nan also
+seeks to expose a long-standing but unlawful practice ofrequiring prospective bidders to show specific experiencesin regards to a bidder's responsibility to qualify to bidand/or perform public works' projects. . . . 
+(Emphases added.) 
+In the administrative proceeding, on July 12, 2021, BWS 
+and Hawaiian Dredging filed motions to dismiss or, alternatively, 
+for summary judgment. On the same date, Nan filed a motion for summary judgment. BWS and Hawaiian Dredging argued in part that the OAH lacked jurisdiction over the matter because Nan's Request for Review was untimely under HRS § 103D-701(a).
+2/ Specifically, 
+BWS and Hawaiian Dredging argued that Nan's protest was based upon the content of the Solicitation, but was not submitted within five working days after the Solicitation was issued, as required by HRS § 103D-701(a). BWS and Hawaiian Dredging further argued that Nan failed to present any issue of material fact that BWS's determination of Nan's nonresponsibility was unreasonable, arbitrary or capricious. Nan, on the other hand, argued that it was not protesting the content of the Solicitation, but was seeking "[to] hold BWS accountable to conduct its review based solely on the criteria set for[th] in the IFB and for attempting to disqualify Nan for a requirement not stated in the IFB." 
+On July 16, 2021, the Hearings Officer heard arguments 
+on the parties' dispositive motions. Following the arguments, 
+2/ HRS § 103D-701(a) (2012) states: 
+(a) Any actual or prospective bidder, offeror, or contractor
+who is aggrieved in connection with the solicitation oraward of a contract may protest to the chief procurementofficer or a designee as specified in the solicitation.Except as provided in sections 103D-303 and 103D-304, aprotest shall be submitted in writing within five workingdays after the aggrieved person knows or should have knownof the facts giving rise thereto; provided that a protest ofan award or proposed award shall in any event be submittedin writing within five working days after the posting ofaward of the contract under section 103D-302 or 103D-303, ifno request for debriefing has been made, as applicable;provided further that no protest based upon the content ofthe solicitation shall be considered unless it is submitted in writing prior to the date set for the receipt of offers. 
+7   FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+all parties agreed that there were no disputed issues of material 
+fact and that an evidentiary hearing was not necessary. At that time, the Hearings Officer stated: 
+"I am inclined at this point 
+to find that I don't have jurisdiction regarding the [Contractor Q]uestionnaire and the use of it, but I do have jurisdiction regarding the June 18th determination of nonresponsibility."
+   
+The Hearings Officer took the matter under advisement and said she would issue a written decision on whether she would grant "either motion for summary judgment." 3/
+On August 9, 2021, the Hearings Officer issued findings 
+of fact, conclusions of law and a final order granting Nan's motion for summary judgment and denying BWS's and Hawaiian Dredging's motions (Decision). The Decision stated in part: 
+The Hearings Officer can find no language, nor can [BWS] or
+[Hawaiian Dredging] point to any part of the Solicitationthat clearly requires bidders provide specific HDDexperience. . . . Accordingly, the Hearings Officerconcludes there is no requirement in [the] Solicitation thata bidder have HDD experience. 
+The Decision also concluded that "the use of the Contractor 
+Questionnaire to determine responsibility was improper[,]" andfurther stated:  
+Even if the Hearings Officer determined [BWS] was justified
+in using its Contractor Questionnaire, it is unclear why theContractor Questionnaire includes an additional requirementnot included in the Solicitation, specifically, requiringbidders, rather than subcontractors, to demonstrate HDDexperience. Based on the foregoing, the Hearings Officerconcludes that [Nan's] appeal is not based on the ContractorQuestionnaire, per se, but rather on [BWS's] determinationof nonresponsibility using criteria allegedly not included 
+3/ During oral argument the following relevant exchange had occurred: 
+HEARINGS OFFICER HIKIDA: . . . [Nan's counsel], based
+upon the arguments from [BWS's counsel] and [HawaiianDredging's counsel], regarding the contractor questionnaire,obviously jurisdiction is important. We are here to determine first -- your position is that the use of thecontractor questionnaire was improper. 
+How is it that this is a timely vented (indiscernible)
+issue given that the contractor questionnaire was issuedreportedly with the invitation for bids? 
+[Nan's Counsel]: Our argument is that determining
+responsibility based on this questionnaire is improper. So,it's a determination. It's how BWS evaluated the contractor questionnaire and then determined responsibility. It's not the contractor questionnaire itself that we're protesting. 
+8 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+ in the IFB. Accordingly, the Hearings Officer concludes
+that [Nan's] protest was not a protest based on the contentof the Solicitation. 
+Nan's Request for Review was thus deemed timely. 
+Addressing the merits of Nan's request, the Hearings 
+Officer concluded that the Solicitation did not require bidder 
+HDD experience, and BWS's determination of nonresponsibility based on Nan's failure to provide such experience was therefore improper. Accordingly, the Hearings Officer vacated BWS's determination of Nan's nonresponsibility and ordered that BWS's contract award to Hawaiian Dredging be terminated. 
+On August 18, 2021, Hawaiian Dredging filed its 
+application for judicial review (Application) in the Circuit 
+Court, and on August 19, 2021, BWS filed its substantive joinder
+to the Application.  
+The Circuit Court received briefing and conducted a 
+hearing on September 15, 2021. On September 17, 2021, the Circuit Court issued the FOFs/COLs/Order, which included the following COLs: 
+28. Under HRS § 103D-701(a), once a bidder knows or
+should know of the facts causing it to be "aggrieved,"
+including facts arising out of the content of thesolicitation, the bidder must submit a written protestwithin five working days. In addition, protests based uponthe content of the solicitation must be submitted prior tobid opening. 
+29. Nan's Request for Review was based on the content
+of the Solicitation, which was released on April 7, 2021.Accordingly, Nan's protest was due by April 14, 2021, but inno event later than BWS'[s] May 27, 2021 bid opening. 
+30. Nan did not raise any issues about the content of
+the Solicitation/IFB before the bids were opened. 
+31. Because Nan did not request the required
+information be clarified or amended prior to bidding, Nancannot raise the issue after the bids are opened. By law,the Hearings Officer lacked jurisdiction to consider theissue. 
+32. An agency’s determination regarding a bidder's
+responsibility "will be given wide discretion and will notbe interfered with unless the determination is unreasonable,arbitrary or capricious." Browning-Ferris Industries of
+Hawaii, Inc. v. State of Hawaii, Dept. of Transportation,PCH-2000-4 at p. 11 (Jun. 8, 2000). 
+33. BWS therefore had the discretion to make the 
+decision that Nan was not a "responsible" bidder due to Nannot submitting evidence of any prior contract or projectthat involved HDD. This informed decision by BWS was not 
+9 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+arbitrary or capricious and was entitled to deference under
+our law. 
+Based on these conclusions, the Circuit Court remanded 
+the case to the Hearings Officer, directing her to set aside the 
+Decision and to enter an order in accordance with the FOFs/COLs/Order. The Circuit Court specified that "[t]he order shall include a directive reinstating BWS'[s] Award of the Contract to Hawaiian Dredging." 
+This appeal followed. 
+II. Standard of Review 
+"The appellate standard of review of an administrative 
+hearings officer's decision is set forth in HRS § 103D–710(e) (2012)." See Certified Constr., Inc. v. Crawford, 138 Hawai# i 
+315, 319, 382 P.3d 127, 131 (2016) (citing S. Foods Grp., L.P. v. State, Dep't of Educ., 89 Hawai# i 443, 452, 974 P.2d 1033, 1042 
+(1999)). 
+HRS § 103D–710(e) provides, in relevant part: 
+No later than thirty days from the filing of the application
+for judicial review, based upon review of the record thecircuit court may affirm the decision of the hearingsofficer issued pursuant to section 103D–709 or remand thecase with instructions for further proceedings; or it mayreverse or modify the decision and order if substantialrights may have been prejudiced because the administrativefindings, conclusions, decisions, or orders are: 
+(1) In violation of constitutional or statutoryprovisions; 
+(2) In excess of the statutory authority orjurisdiction of the chief procurement officer orhead of the purchasing agency; 
+(3) Made upon unlawful procedure; 
+(4) Affected by other error of law; 
+(5) Clearly erroneous in view of the reliable,probative, and substantial evidence on the wholerecord; or 
+(6) Arbitrary, or capricious, or characterized byabuse of discretion or clearly unwarrantedexercise of discretion[.] 
+"The existence of jurisdiction is a question of law 
+that [this court] review[s] de novo under the right/wrong 
+standard." Crawford, 138 Hawai# i at 319, 382 P.3d at 131 
+(brackets omitted) (quoting Pac. Lightnet, Inc. v. Time Warner Telecom, Inc., 131 Hawai# i 257, 272, 318 P.3d 97, 112 (2013)). 
+10 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+III. Discussion 
+A. Jurisdiction of the Hearings Officer 
+Nan contends that the Circuit Court erred in concluding 
+that the Hearings Officer lacked jurisdiction to consider Nan's 
+Request for Review. 
+Specifically, Nan argues that its June 25, 
+2021 Request for Review: (1) was based not on the content of the Solicitation but on BWS's determination of nonresponsibility; and (2) was timely filed within five working days of BWS's June 18, 2021 determination of nonresponsibility. 
+HRS § 103D-701(a) provides that "[a]ny actual or 
+prospective bidder, offeror, or contractor who is aggrieved in connection with the solicitation or award of a contract may protest to the chief procurement officer or a designee as specified in the solicitation." Generally, a protest must be submitted "within five working days after the aggrieved person knows or should have known of the facts giving rise thereto[.]" HRS § 103D–701(a). In any event, if the protest is from an award decision, the protest must be submitted within five working days after the posting of the award; if the protest challenges the content of a solicitation, the protest must be submitted before the date set for the receipt of offers. Id.; see Crawford, 138 
+Hawai# i at 319, 382 P.3d at 131. The latter deadline is 
+jurisdictional. See Crawford, 138 Hawai# i at 319-20, 382 P.3d at 
+131-32 ("With regard to challenges to the content of the solicitation, the statute indicates the chief procurement officer would not have jurisdiction to review the protest if the protest was not submitted prior to the date set for offers to be made[.]") 
+Here, after several postponements, the date set for the 
+receipt of offers, i.e., the "bid opening date," was May 27, 2021. By letter dated June 18, 2021, BWS informed Nan that BWS had determined that Nan was nonresponsible and its bid would not be considered. On June 25, 2021, Nan filed its Request for Review in the OAH. Thus, for purposes of HRS § 103D-701(a), Nan submitted its protest within five working days of BWS's nonresponsibility determination, but not before the bid opening 
+11 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+date. 
+Whether Nan's Request for Review was timely under HRS 
+§ 103D-701(a) therefore depends on whether it is considered a 
+challenge to the nonresponsiblity determination or a challenge to the content of the Solicitation. In other words, if the request was based on the content of the solicitation, as the Circuit Court ruled, the request was untimely and the OAH (and thus the Hearings Officer) lacked jurisdiction to consider it. 
+In Crawford, the supreme court addressed the 
+distinction between a bid protest challenging the disqualification of a bid and one challenging the contents of a bid solicitation. 138 Hawai# i at 319-21, 382 P.3d 127, 131-33. 
+There, the County of 
+Hawai# i notified a contractor that its bid 
+proposal on a public works project was disqualified because the proposal failed "to list a C-44–Sheet metal subcontractor or to describe an alternate means and methods by which the work required of this project covered by this license class would otherwise be legally executed." Id. at 317, 382 P.3d at 129. 
+The contractor submitted a protest letter to the county disputing the contractor's disqualification and the rejection of its bid, asserting that the sheet metal work required for the project could be performed under the contractor's C-42 or C-44A licenses, and nothing in the special notice referenced in the bid solicitation strictly required a C-44 license. Id. The supreme 
+court ruled that the contractor's challenge was based on the disqualification of its bid rather than the contents of the solicitation. 
+The court reasoned: "[Contractor's] protest does 
+not challenge or seek modification of the requirements of the Bid Solicitation; rather it explains [Contractor's] interpretation of the requirements of the Bid Solicitation and why it satisfied the Bid Solicitation." Id. at 320, 382 P.3d at 132. The court 
+further explained: 
+The ICA majority concluded that [Contractor's] bid protest
+was "based upon the content of the Bid Solicitation becauseit necessarily challenges and seeks to omit material termsof the Bid Solicitation," including Special Instruction #2.However, [Contractor] did not seek to modify, erase, ordispute the appropriateness of Special Instruction #2;rather, it sought to challenge the disqualification of itsbid based on what it perceived as an erroneousinterpretation of Special Instruction #2 by the County.Regardless of the actual meaning of Special Instruction #2 
+12 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+and [Contractor's] compliance or noncompliance with that
+term, [Contractor] did not seek a revision of any terms ofthe Bid Solicitation. In other words, merely because aprotest implicates an interpretation of the bidsolicitation, it does not mean that it necessarilychallenges the contents of the bid solicitation. There is a significant distinction between the contention that theterms of a bid solicitation are invalid and the contention that the terms of the solicitation are being misinterpretedand thus misapplied. 
+Id. at 320-21, 382 P.3d at 132-33. 
+Here, Nan's Request for Review, fairly read, advanced 
+two sets of arguments. First, Nan argued that BWS improperly 
+determined that Nan was not a responsible bidder based on a requirement of HDD experience that was not stated in the Solicitation. For example, Nan alleged in part: 
+At no time prior to bid opening, was it required, by the IFB
+or the Contractor Questionnaire, that a prospective biddersubmit its experience with respect to HDD. Section SP 29.4 of the IFB discussed the specifications of the HDD scope ofwork for the Project. Nowhere in this section did it discuss any prior experience criteria necessary to performthis scope of work. The only responsibility criteriarequired in the IFB specifications was that the contractorsubmit qualifications for the HDD work force to BWS 60 daysprior to mobilization of any HDD equipment. Nan reasonablyrelied on this language in the IFB, understanding that itsonly responsibility as it related to HDD was after award and60 days prior to the start of the HDD work. . . . 
+Second, Nan challenged the validity and appropriateness 
+of the experience requirements set forth in the IFB and the 
+Contractor Questionnaire. For example, Nan alleged: 
+• "The experience requirements in BWS'[s] Contractor
+Questionnaire . . . inquired into areas beyond what islegislatively permissible and what was established bythe Procurement Policy Board's QualificationQuestionnaire[.]" 
+• "Nan also seeks to expose a long-standing but unlawfulpractice of requiring prospective bidders to showspecific experiences in regards to a bidder'sresponsibility to qualify to bid and/or perform publicworks' projects." 
+• "The legislature never intended and in fact neverauthorized procurement officers from [sic]establishing strict specific and arbitrary experiencerequirements." 
+• "The instant Solicitation does not comport with HRS§ 103D-310(b) nor HAR § 3-122-109 and goes well beyondthe legislative intent . . . ." 
+• "To add this [HDD] experience requirement . . . isarbitrary and capricious in evaluating whether thesubcontractor who every prospective offeror listed, 
+13 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Island Mechanical Corporation, can perform the [HDD]
+work." 
+Appellees focus on this second set of arguments in characterizing 
+the Request for Review as a challenge to the content of the Solicitation. But that is only half the picture. 
+The first set of arguments challenged BWS's 
+nonresponsibility determination based on Nan's interpretation of the Solicitation documents and Nan's related conclusion that the documents did not require HDD experience. Regardless of the actual meaning of the IFB and the Contractor Questionnaire, and Nan's compliance or noncompliance with the documents' experience requirements, this first set of arguments did not challenge or seek revision of any terms of the Solicitation. See Crawford, 
+138 Hawai# i at 320, 382 P.3d at 132. While Appellees dispute 
+Nan's interpretation of the Solicitation documents and Nan's alleged disregard of the documents' HDD experience requirements, under Crawford, this dispute does not change the nature of this part of Nan's protest – that it was determined to be a nonresponsible bidder based on an HDD experience requirement that was not stated in the Solicitation. See id. Nan's Request for 
+Review was thus timely as to this first set of arguments, which was based on the disqualification of Nan's bid rather than the content of the Solicitation. 
+In contrast, Nan's second set of arguments plainly 
+challenged the validity and appropriateness of the experience requirements set forth in the IFB and the Contractor Questionnaire. This set of arguments is readily distinguishable from the protest in Crawford, which "d[id] not challenge or seek modification of the requirements of the Bid Solicitation[.]" Id.
+Here, by challenging the validity and appropriateness of the experience requirements of the Solicitation, Nan challenged its contents. If Nan believed that the experience requirements in the IFB and the Contractor Questionnaire were unlawful or otherwise inappropriate, then pursuant to HRS § 103D-701(a), Nan was required to submit its protest within five working days of the April 7, 2021 posting of the Solicitation, i.e., April 14, 2021, and in any event before the May 27, 2021 bid opening date. 
+14 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Nan did not do so. 
+The OAH has explained the purpose of this time 
+constraint as follows: 
+HRS § 103D-701 specifically requires that protests based on
+the content of a solicitation be submitted prior to the dateset for the receipt of offers so as to minimize disruptionto procurement and contract performance. The requirementwas designed to provide governmental agencies with theopportunity to correct deficiencies in the bid documentsearly in the solicitation process in order to "minimize thedisruption to procurements and contract performance[".] The possibility of having to reject all bids, cancel thesolicitation and resolicit may be avoided by requiring thecorrection of such deficiencies prior to the bid submissiondate. 
+Paradigm Constr. LLC v. Dept. of Hawaiian Home Lands, State of 
+Hawaii, PCH-2009-16, at 9 (Off. Admin. Hearings, Haw. Dep't Comm. & Consumer Aff. Oct. 7, 2009) (citation omitted). 
+In this case, a timely protest by Nan would have given 
+BWS the opportunity to review the merits of the protest and amend the Solicitation as appropriate or, if necessary, cancel the Solicitation and resolicit the project with revised responsibility or experience requirements. Alternatively, Nan could have sought clarification of the experience requirements related to the Contractor Questionnaire. Instead, Nan waited until after it was determined to be a nonresponsible bidder and the contract was awarded to Hawaiian Dredging before challenging the experience requirements of the Solicitation. Under HRS § 103D-701, Nan's challenge to the validity and appropriateness of these experience requirements was untimely. The OAH thus lacked jurisdiction over that part of the Request for Review. 
+Accordingly, in its COLs 28 through 31, the Circuit 
+Court did not err in ruling that the Hearings Officer lacked jurisdiction to consider Nan's Request for Review to the extent the request challenged the validity and appropriateness of the experience requirements set forth in the Solicitation. Moreover, in COLs 32 and 33, the Circuit Court addressed the merits of Nan's arguments that were not based on the contents of the Solicitation, i.e., that BWS improperly determined that Nan was a nonresponsible bidder based on an HDD experience requirement that was not stated in the Solicitation. 
+15 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+For the reasons discussed above, the Circuit Court did 
+not err in exercising jurisdiction over this part of Nan's 
+Request for Review. 
+B.
+ The Solicitation's HDD Experience Requirement 
+Nan contends that the Circuit Court erred in ignoring 
+the Hearings Officer's "finding of fact" that she "can find no 
+language, nor can [BWS] or [Hawaiian Dredging] point to any part of the Solicitation that clearly requires bidders to provide specific HDD experience." Relatedly, Nan appears to challenge FOF 15, in which the Circuit Court stated: 
+15. To summarize: 
+a. The Solicitation included SP-1, which in its
+Scope of Work specifically included the specificand separate item of HDD (beneath a stream). 
+b. The Solicitation documents specifically includeda Contractor Questionnaire, which expresslystated that bidders shall provide informationabout 3-to-5 prior performed contracts."Relevant" contracts were defined as contracts that were "equal or equivalent" to the SP-1Scope of Work for the instant Project. 
+c. The Contractor Questionnaire and SP-1 are partof the Solicitation. Accordingly, theSolicitation required bidders to submit theirHDD experience or its equal or equivalent. 
+As a threshold matter, Nan incorrectly characterizes 
+the Hearings Officer's conclusion of law — that she "can find no 
+language [in] the Solicitation" that requires bidders to provide HDD experience — as a finding of fact. The interpretation of a bid solicitation, like the interpretation of a public contract, is a question of law that is reviewed de novo. See Provident 
+Funding Assocs. v. Gardner, 149 Hawai# i 288, 296, 488 P.3d 1267, 
+1275 (2021) ("The construction and legal effect to be given a contract is a question of law freely reviewable by an appellate court." (quoting Balogh v. Balogh, 134 Hawai# i 29, 37, 332 P.3d 
+631, 639 (2014))); Found. Int'l, Inc. v. E.T. Ige Constr., Inc., 102 Hawai# i 487, 494-95, 78 P.3d 23, 30-31 (2003) (same, applied 
+to a public contract); see also VS2, LLC v. U.S., 155 Fed. Cl. 738, 759 n.17 (2021) ("Interpretation of [a bid] solicitation is a question of law that is reviewed de novo." (quoting Per 
+16  
+   
+  
+  
+  FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Aarsleff A/S v. U.S., 829 F.3d 1303, 1309 (Fed. Cir. 2016) 
+(internal quotation marks omitted))); NVT Technologies, Inc. v. U.S., 370 F.3d 1153, 1159 (Fed. Cir. 2004) (bid protest action: "The interpretation of a contract or solicitation is a question of law which we review de novo." (citing other Federal Circuit cases)). 
+For this reason, the Circuit Court's FOF 15 is also a 
+conclusion of law, inasmuch as the court was construing the Solicitation documents in determining that the Contractor Questionnaire and SP-1 were "part of the Solicitation[,]" and the Solicitation required bidders to submit their HDD experience or its equal or equivalent. It thus appears that the Circuit Court determined that the Hearings Officer erred in concluding that "there is no requirement in [the] Solicitation that a bidder have HDD experience." 
+The Circuit Court was correct. As the Hearings Officer 
+found, the Contractor Questionnaire was an attachment to the IFB,
+4/ the Contractor Questionnaire required bidders to submit 
+experience on three to five contracts that were equal or equivalent to the Project's scope of work,
+5/ and the scope of work 
+described in the IFB (per SP-1) included HDD.6/ The Solicitation 
+4/ In the Decision, the Hearings Officer found: "[A]ttached to the
+IFB are the following file attachments: Job 21-053A Contractor Questionnaire
+. . . ." Decision, FOF 3 (formatting altered); see id. FOF 6 ("The ContractorQuestionnaire attached to the IFB . . . ."). 
+5/ In the Decision, the Hearings Officer quoted the following
+language in the Contractor Questionnaire: 
+FACTOR 1: EXPERIENCE 
+A Contract Data Sheet  (Attachment 1) shall be completed for
+a minimum of three (3) and maximum of five (5) contracts
+performed that are equal or equivalent  to this project's
+scope of work as defined in SP-01 Instruction to Bidders,including but not limited to BWS projects. 
+Decision, FOF 6. 
+6/ In the Decision, the Hearings Officer quoted the following
+language from the IFB, SP-1, Instructions to Bidders: 
+1. SCOPE OF WORK:
+ A. Transmission Main
+ . . . . 
+(continued...) 
+17 6/ (...continued)FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+ 
+ 
+   
+  thus required bidders to submit their HDD experience or its equal 
+or equivalent. 
+Nevertheless, the Hearings Officer decided 
+otherwise, apparently based on the conclusion that the Contractor Questionnaire was not part of the Solicitation.
+7/ 
+The Hearings Officer erred in concluding that the 
+Contractor Questionnaire was not part of the Solicitation. The Solicitation's Special Instructions on HePS stated that the "[S]olicitation contains attachments that bidders must . . . [d]ownload[,] . . . [c]omplete[,] . . . and, [a]ttach" to their bids; and that bids "shall be evaluated" based on those documents.
+8/ The General Instructions to Bidders and the 
+Contractor Questionnaire were linked attachments to the IFB. In addition, the General Instructions to Bidders made clear that BWS intended to determine bidder responsibility based on the Contractor Questionnaire. Based on the plain language of the Solicitation and accompanying instructions, the Circuit Court correctly concluded that the Contractor Questionnaire was part of the Solicitation. The Hearing Officer erred in concluding 
+f. Provide Horizontal Directional Drilling beneath
+existing stream for new water main. 
+Decision, FOF 5. 
+7/ This conclusion necessarily follows from statements made in the
+Decision, including: 
+• "Even if the Hearings Officer determined [BWS] wasjustified in using its Contractor Questionnaire, it isunclear why the Contractor Questionnaire includes anadditional requirement not included in theSolicitation . . . ." 
+• "In this case, [BWS] deemed [Nan] nonresponsible forfailing to provide HDD-related work experience inresponse to the Contractor Questionnaire. The Solicitation does not require bidder HDD experience." 
+8/ See State v. Hawaiian Dredging Co., 48 Haw. 152, 174, 397 P.2d
+593, 606 (1964) ("Incorporation by reference makes the subject matter referredto as much a part of that which incorporates it as though set forth therein atfull length."); Cunha v. Ward Foods, Inc., 804 F.2d 1418, 1428 (9th Cir. 1986)(applying Hawai #i law: "When a document incorporates outside material by
+reference, the subject matter to which it refers becomes part of theincorporating document just as if it were set out in full."). 
+18  
+ 
+  
+  FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+otherwise.9/ 
+Similarly, based on the plain language of the 
+Solicitation, including Section SP-1 and the Contractor 
+Questionnaire, the Circuit Court correctly concluded that the Solicitation required bidders to submit their HDD experience or its equal or equivalent. The Hearings Officer erred in concluding otherwise.
+10/ 
+C. BWS's Discretion in Determining Bidder Responsibility 
+Citing Browning-Ferris Industries of Haw., Inc. v. 
+State of Haw., Dept. of Transp., PCH-2000-4, at 11 (Off. Admin. Hearings, Haw. Dep't Comm. & Consumer Aff. June 8, 2000), Nan acknowledges that a procuring agency should be given "wide discretion" in determining a bidder's responsibility, and that the agency's determination "will not be interfered with, unless 
+[it] is unreasonable, arbitrary or capricious." Nan contends, 
+however, that the Circuit Court erred in "grant[ing] deference" 
+to BWS and failing to determine whether BWS's actions were consistent with the Hawai# i Procurement Code. Relatedly, Nan 
+challenges COL 33, in which the Circuit Court concluded: 
+33. BWS . . . had the discretion to make the decision 
+that Nan was not a "responsible" bidder due to Nan not
+submitting evidence of any prior contract or project thatinvolved HDD. This informed decision by BWS was notarbitrary or capricious and was entitled to deference underlaw. 
+Nan appears to argue that BWS acted arbitrarily and capriciously 
+based on a "contrived reading of the Solicitation" that was not intended by the legislature. 
+For the reasons discussed above, we have determined 
+that the Solicitation required bidders to submit three to five prior contracts involving equal or equivalent work to that of the 
+9/ To the extent this conclusion – that the Contractor Questionnaire
+was not part of the Solicitation – can be viewed as a mixed issue of fact and
+law, it is clearly erroneous. In this regard, we also note that in theadministrative proceeding, BWS submitted an uncontested declaration by itsProcurement and Specifications Specialist that the Contractor Questionnairewas "part" of the Solicitation. 
+10/ To the extent this conclusion – that the Solicitation did not 
+require bidders to submit their HDD experience or its equal or equivalent –can be viewed as a mixed issue of fact and law, it is clearly erroneous. 
+19 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Project. 
+BWS's reading and implementation of these experience 
+requirements was not "contrived," arbitrary or capricious. To 
+the extent that Nan is challenging the validity of the Solicitation's experience requirements as contrary to legislative intent, the Hearings Officer lacked jurisdiction to consider that issue, for the reasons previously discussed. 
+Nan does not otherwise appear to challenge the Circuit 
+Court's conclusion that BWS did not act arbitrarily or capriciously in determining that Nan was not a responsible bidder due to its not submitting evidence of any prior contract or project that involved HDD. Indeed, Nan asserts that "[t]he issue here is not whether Nan is a responsible bidder." Accordingly, the Circuit Court correctly concluded that BWS's nonresponsibility determination was not arbitrary or capricious. 
+IV. Conclusion 
+For the reasons discussed above, we affirm the 
+September 17, 2021 Judgment, entered by the Circuit Court of the First Circuit. 
+On the briefs: 
+Wyeth M. Matsubara and /s/ Lisa M. Ginoza
+Chief Judge
+/s/ Clyde J. Wadsworth
+Associate Judge
+/s/ Sonja M.P. McCullen
+Associate Judge 
+20 Micah P.K. Aiu for Petitioner-Appellee-Appellant. 
+Keith Y. Yamada and Jeffrey M. Osterkamp(Cades Schutte LLP)for Intervenor-Appellant-Appellee 
+David J. Minkin and 
+Jordan J. Kimura (McCorriston Miller MukaiMacKinnon LLP)for Respondent-Appellee-Appellee 

@@ -1,0 +1,658 @@
+FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+IN THE INTERMEDIATE COURT OF APPEALS
+OF THE STATE OF 
+HAWAI# I  
+---o0o---
+RAY A. DELAPINIA and ROBYN M. DELAPINIA,
+Plaintiffs-Appellants,
+v. 
+NATIONSTAR MORTGAGE LLC; FEDERAL NATIONAL MORTGAGE ASSOCIATION;
+T
+ERRY LOUISE COLE; MORTGAGE ELECTRONIC REGISTRATION
+SYSTEMS, INC.; AMERICAN SAVINGS BANK, F.S.B.,
+Defendants-Appellees,
+and 
+DOE DEFENDANTS 1-50, Defendants 
+NO. CAAP-17-0000387 
+APPEAL FROM THE CIRCUIT COURT OF THE SECOND CIRCUIT
+(CIVIL NO. 16-1-0432) 
+FEBRUARY 12, 2020  
+GINOZA, CHIEF JUDGE, CHAN and HIRAOKA, JJ.
+OPINION OF THE COURT BY CHAN, J.  
+In this appeal arising out of a foreclosure action, 
+Plaintiffs-Appellants Ray A. Delapinia and Robyn M. Delapinia 
+(the Delapinias) appeal from the Final Judgment entered by the  
+      FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Circuit Court of the Second Circuit (circuit court),1 on 
+April 18, 2017, against the Delapinias and in favor of 
+Defendants-Appellees Nationstar Mortgage LLC (Nationstar), 
+Federal National Mortgage Association (Fannie Mae), Terry Louise 
+Cole (Cole), Mortgage Electronic Registration Systems, Inc. 
+(MERS), and American Savings Bank, F.S.B. (ASB). The Delapinias 
+also challenge the following orders upon which the Final Judgment 
+was based: (1) the January 9, 2017 order granting Nationstar and 
+Fannie Mae's motion for judgment on the pleadings or in the 
+alternative for summary judgment (Order Granting Nationstar and 
+Fannie Mae's MJP); (2)
+ the January 18, 2017 order granting with 
+prejudice Cole's motion to dismiss the Delapinias' First Amended Complaint and ASB's substantive joinder thereto (Order Granting 
+Cole and ASB's MTD); and (3) the March 21, 2017 order granting 
+MERS' motion to dismiss the Delapinias' First Amended Complaint 
+(Order Granting MERS' MTD). 
+As explained below, we conclude that the circuit court 
+erred in dismissing the Delapinias' claims against Nationstar, 
+Fannie Mae, Cole, and ASB, but did not err in dismissing the 
+claim against MERS. As to Nationstar and Fannie Mae, we conclude 
+that the Delapinias' wrongful foreclosure claim based on 
+deprivation of ownership was subject to, and properly brought 
+within, the six-year statute of limitations under Hawaii Revised 
+Statutes (HRS) § 657-1(4) (2016) and the circuit court therefore 
+erred in concluding that the claim was time-barred. As to MERS, 
+we conclude that dismissal was proper where the Delapinias failed 
+to allege that they have tendered or are able to tender the 
+amount of their indebtedness to Nationstar under the mortgage, 
+pursuant to the tender rule. 
+As to Cole and ASB, we conclude 
+that the Delapinias pleaded sufficient factual allegations for their quiet title and ejectment claims to survive dismissal under 
+the notice pleading standard. Accordingly, this case must be 
+1 The Honorable Rhonda I. L. Loo presided. 
+2          
+            
+              
+         
+            
+        FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+remanded for further proceedings. 
+I. BACKGROUND 
+A. Factual Background2 
+In November 2007, the Delapinias purchased real 
+property on the island of Maui (the Property). The Delapinias 
+executed a note and mortgage (Mortgage) in favor of GMAC Mortgage 
+USA Corporation (GMAC), through its nominee MERS, in connection 
+with the purchase of the Property. The Mortgage granted the 
+mortgagee a power of sale in the event the Delapinias defaulted 
+on their loan. 
+In March 2010, the Mortgage was assigned to Nationstar. 
+Shortly after, Nationstar executed a "Notice of Mortgagee's 
+Intention to Foreclose Under Power of Sale" (Notice of Sale), 
+recorded on March 30, 2010, due to the Delapinias' continued 
+default on the mortgage loan. Under the Notice of Sale, the 
+foreclosure sale was originally scheduled for April 23, 2010. 
+Nationstar published the Notice of Sale in The Maui News on 
+March 26, April 2, and April 9, 2010. 
+The foreclosure sale was postponed until August 6, 
+2010, at which time the Property was sold to Nationstar or its 
+designee as the highest bidder. The postponed date was never 
+published. 
+On August 27, 2010, Nationstar recorded a "Mortgagee's 
+Affidavit of Foreclosure Sale Under Power of Sale" (Foreclosure 
+Affidavit) pertaining to the foreclosure sale. The Foreclosure 
+Affidavit was signed by an attorney who was not licensed in 
+Hawai# i. 
+Nationstar conveyed the Property to Fannie Mae by deed 
+recorded on February 16, 2011. Fannie Mae then sold and conveyed 
+2 This factual background is taken primarily from the allegations in
+the Delapinias' complaint, which we take as true for purposes of this appeal.
+Blair v. Ing , 95 Hawai #i 247, 252, 21 P.3d 452, 457 (2001) ("[I]n reviewing a
+c
+ircuit court's order dismissing a complaint[,] our consideration is strictly
+limited to the allegations of the complaint, and we must deem those allegationsto be true." (Original brackets, ellipsis and citation omitted)). 
+3  
+             
+    
+         
+        FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+the Property to Cole by limited warranty deed recorded on 
+December 10, 2012. 
+Cole granted a first mortgage on the Property to MERS3 
+as nominee of Pinnacle Capital Mortgage Corporation, recorded on 
+December 10, 2012, and a second mortgage to ASB, recorded on 
+September 2, 2015. 
+B. Procedural Background 
+On August 5, 2016, the Delapinias filed a Complaint 
+alleging wrongful foreclosure. On October 20, 2016,4 the 
+Delapinias filed a First Amended Complaint (FAC), asserting two 
+counts: (1) quiet title, ejectment, and declaratory relief 
+against all Defendants-Appellees; and (2)
+ wrongful foreclosure 
+against Nationstar and Fannie Mae. 
+On November 7, 2016, Nationstar and Fannie Mae filed an 
+answer to the FAC. On the same day, Cole filed a motion to dismiss the FAC. On November 14, 2016, ASB filed a substantive 
+joinder to Cole's motion to dismiss the FAC.
+5 
+On November 22, 2016, Nationstar and Fannie Mae filed a 
+motion for judgment on the pleadings or in the alternative for 
+summary judgment (Nationstar and Fannie Mae's MJP). 
+On November 23, 2016, MERS filed a motion to dismiss 
+the FAC (MERS' MTD). 
+On December 15, 2016, the circuit court held a hearing 
+on Nationstar and Fannie Mae's MJP and Cole and ASB's MTD, at 
+which it orally granted both motions. The circuit court stated: 
+3 MERS is a defendant in this matter in its capacity as a mortgagee of
+Cole, not of the Delapinias. 
+4 Many of the filings in this case were filed ex officio in the
+Circuit Court of the First Circuit. Where the file-stamped date of any
+document differs from its ex officio filing date, we refer to the ex officiofiling date. Cochrane v. Azman, No. 29562, 2011 WL 661714, at *1 n.3 (Haw.
+App. Feb. 22, 2011) (mem. op.) (citations omitted) ("The ex officio filingdate of any document prevails over the file-stamped date to the extent thatthe dates differ from each other."). 
+5 Cole's motion to dismiss and ASB's substantive joinder thereto are
+collectively referred to herein as "Cole and ASB's MTD." 
+4 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Even when accepting Plaintiffs' factual allegations as
+true, dismissal of the claims against Terry Cole, American
+Savings Bank and Nationstar is appropriate.[] 6
+The wrongful foreclosure tort claim accrued, at the
+latest, at the time of the auction on August 6, 2010 becausethe plaintiff knew or should have known the purported wrongoccurred at that particular time.
+The complaint was filed August 5th, 2016, nearly six
+years after the alleged improper foreclosure sale.Plaintiff cites authority applying the six-year statute oflimitations to the tort-contracts hybrids. However, as pledand argued, the claim sounds solely in tort. Therefore,Plaintiffs' wrongful foreclosure claim is barred by the two-year statute of limitations under HRS 657-7.
+As to the sale being void or voidable, any reading of
+the law in Hawaii is improperly completed nonjudicialforeclosure sales are voidable -- my reading of the law,excuse me, is that nonjudicial foreclosure sales arevoidable if the claim is timely and the current owners arenot bona fide purchasers.
+There's no allegation that Defendants did not pay
+value for the property, and there is no allegation that thecurrent owners had actual notice of Plaintiffs' claims. 
+There is no allegation that Plaintiffs or anyone else
+recorded any kind of documentation reasonably indicatingPlaintiffs had any interest in the subject party (sic).Therefore, the argument for the non-bona fide purchaserstatus under constructive or inquiry notice fails as well.So I'm going to go ahead and grant both motions. 
+On January 9, 2017, the circuit court filed its Order
+Granting Nationstar and Fannie Mae's MJP.  
+On January 10, 2017, the circuit court held a hearing 
+on MERS' MTD, at which it orally granted the motion. The circuit
+court stated:  
+Even when accepting Plaintiffs' factual allegations as true,
+dismissal of the claims against MERS is appropriate.
+As to the sale being void or voidable, the Court's
+reading of the law in Hawaii is improperly completednonjudicial foreclosure sales are voidable if the claim istimely and the current owners are not bona fide purchasers.
+There's no allegation that Cole didn't acquire the
+property for value and no allegation that she had notice ofany of Plaintiffs' outstanding claims, if any. So Cole is abona fide purchaser. 
+The Court has already dismissed claims against the
+current owners consequent to their innocent bona fidepurchaser status. As the mortgagee, MERS receives the sameprotection. 
+6 Although  the  circuit  court  did  not  expressly  mention  Fannie  Mae,  we
+presume  that  the  circuit  court's  mention  of  the  dismissal  of  the  claims  against
+Nationstar  also  included  dismissal  of  the  claims  against  Fannie  Mae,  as
+Nationstar  and  Fannie  Mae  filed  a  joint  motion  for  judgment  on  the  pleadings.
+This  is  also  evidenced  by  the  circuit  court's  written  Order  Granting  Nationstar
+and  Fannie  Mae's  MJP. 
+5 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Further, Plaintiff fails to state a quiet title claim
+and they don't allege that they have paid or are able to
+tender the amount of indebtedness that would be due under the mortgage.
+The notice of sale complied with the mortgage. The 
+notice of sale properly described the property under HRS667-7(a)(1). The notice of sale publishing has compliedwith HRS 667-7. A Hawaii attorney is not required to signthe notice of sale or affidavit of foreclosure. 
+And lastly, written publication of an auction
+postponement is not necessary.
+The Court's going to go ahead and grant the motion.
+The matter is dismissed with prejudice. 
+On January 18, 2017, the circuit court filed its Order 
+Granting Cole and ASB's MTD. On March 21, 2017, the circuit 
+court filed its Order Granting MERS' MTD. 
+The circuit court entered its Final Judgment on 
+April 18, 2017, pursuant to the Order Granting Nationstar and 
+Fannie Mae's MJP, the Order Granting Cole and ASB's MTD, and the 
+Order Granting MERS' MTD. The Delapinias timely appealed. 
+II. POINTS OF ERROR 
+On appeal, the Delapinias argue that the circuit court 
+erred in granting Nationstar & Fannie Mae's MJP, Cole & ASB's 
+MTD, and MERS' MTD. Specifically, the Delapinias argue that the 
+circuit court erred in making the following conclusions: (1) the 
+wrongful foreclosure claim was time-barred because the statute of 
+limitations for a wrongful foreclosure claim is two years and 
+commences on the date of the foreclosure sale; 
+(2) the 
+Delapinias' allegation that Cole was not a bona fide purchaser failed; (3) MERS, as Cole's mortgagee, receives the same 
+protection as a bona fide purchaser; (4) the Delapinias failed to 
+state a quiet title claim because "they don't allege that they 
+have paid or are able to tender the amount of indebtedness that 
+would be due under the mortgage"; and (5) the Notice of Sale 
+complied with the Mortgage and HRS Chapter 667, Part I (1993 & 
+Supp. 2010). 
+III. STANDARDS OF REVIEW 
+This court reviews de novo the circuit court's order 
+granting a motion for judgment on the pleadings. Hawaii Med. 
+6 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Ass'n v. Hawaii Med. Serv. Ass'n, Inc., 113 
+Hawai# i 77, 91, 148
+P.3d 1179, 1193 (2006) (citations omitted).  
+Ultimately, our task on appeal is to determine whether
+the circuit court's order . . . supports itsconclusion that [the defendant] is entitled tojudgment as a matter of law and, by implication, thatit appears beyond [a] doubt that the plaintiffs canprove no set of facts in support of their claim thatwould entitle them to relief under any alternativetheory. 
+Id. (citation omitted). 
+We review a circuit court's order granting a Hawai# i 
+Rules of Civil Procedure (HRCP) Rule 12(b)(6) (2000) motion to 
+dismiss de novo. Kamaka v. Goodsill Anderson Quinn & Stifel, 117 
+Hawai# i 92, 104, 176 P.3d 91, 103 (2008), as corrected (Jan. 25, 
+2008 & Feb. 14, 2008). "A complaint should not be dismissed for 
+failure to state a claim unless it appears beyond doubt that the 
+plaintiff can prove no set of facts in support of his or her 
+claim that would entitle him or her to relief." In re Estate of 
+Rogers, 103 Hawai# i 275, 280, 81 P.3d 1190, 1195 (2003) (quoting 
+Blair, 95 Hawai# i at 252, 21 P.3d at 457). Our review is 
+"strictly limited to the allegations of the complaint," which we view in the light most favorable to the plaintiff and deem to be 
+true. Id. at 280-81, 81 P.3d at 1195-96 (quoting Blair, 95 
+Hawai# i at 252, 21 P.3d at 457). "However, in weighing the 
+allegations of the complaint as against a motion to dismiss, the 
+court is not required to accept conclusory allegations on the 
+legal effect of the events alleged." Kealoha v. Machado, 131 
+Hawai# i 62, 74, 315 P.3d 213, 225 (2013). 
+IV. DISCUSSION 
+A. Wrongful Foreclosure Claim Against Nationstar and Fannie Mae
+1. The Delapinias' wrongful foreclosure claim was subjectto the six-year statute of limitations under HRS § 657-1(4). 
+The Delapinias assert that the circuit court erred in 
+granting Nationstar and Fannie Mae's MJP because it erroneously 
+concluded that the statute of limitations on their claim for 
+wrongful foreclosure was two years and commenced on the date of 
+7       
+    
+            
+             FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+the foreclosure sale. 
+The Delapinias argue that their claim for wrongful 
+foreclosure against Nationstar and Fannie Mae is subject to at 
+least a six-year statute of limitations under the catch-all 
+statute, HRS § 657-1(4).7 Instead, the circuit court applied the 
+two-year statute of limitations under HRS § 657-7 (2016),8 
+because, "as pled and argued, the [wrongful foreclosure] claim 
+sounds solely in tort." 
+The Hawai# i Supreme Court has not yet addressed the 
+issue of which statute of limitations period applies to wrongful 
+foreclosure claims. In 
+Malabe v. Association of Apartment Owners 
+of Executive Centre, No. CAAP-17-0000145, 2018 WL 6258564, at *3 n.6
+ (Haw. App. Nov. 29, 2018) (SDO), this court recently rejected 
+a party's request to "conclude that a cause of action for wrongful foreclosure is subject to the two-year statute of 
+limitations provision under HRS § 657-7." In rejecting such a 
+conclusion, we cited, for example, Hungate v. Law Office of David 
+B. Rosen, 139 Hawai# i 394, 400, 391 P.3d 1, 7 (2017), in which 
+the Hawai 
+#i Supreme Court recognized the validity of a wrongful 
+foreclosure claim in a complaint filed four years after the 
+foreclosure sale at issue. Malabe, 2018 WL 6258564, at *3 n.6. 
+In other words, the supreme court's recognition of the validity of a wrongful foreclosure claim in a complaint filed four years 
+after the foreclosure sale at issue indicates that the two-year 
+statute of limitations did not apply. 
+In determining whether the statute of limitations under 
+HRS § 657-1 or § 657-7 applies, the question is not whether the 
+action is ex contractu or ex delicto, but whether or not the 
+7 HRS  §  657-1(4)  provides:  "The  following  actions  shall  be  commenced
+within  six  years  next  after  the  cause  of  action  accrued,  and  not  after:  .  .  .
+(4)  Personal  actions  of  any  nature  whatsoever  not  specifically  covered  by  the
+laws  of  the  State." 
+8 HRS § 657-7 provides: "Actions for the recovery of compensation for
+damage or injury to persons or property shall be instituted within two years
+after the cause of action accrued, and not after, except as provided in section657-13." 
+8            
+           
+              
+           
+          
+          
+ FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+plaintiff is suing for damage or injury to persons or property. 
+Gomez v. Am. Airlines, Inc., 111 Hawai# i 67, 69, 137 P.3d 381, 
+383 (2006). The relevant limitations period is determined by the nature of the claim or right asserted, which is in turn 
+determined from the allegations contained in the pleadings. 
+Au v. Au, 63 Haw. 210, 214, 626 P.2d 173, 177 (1981). 
+The supreme court has interpreted HRS § 657-7 "to apply 
+to 'claims for damages resulting from 
+physical injury to persons 
+or 
+physical injury to tangible interests in property.'" Gomez, 
+111 Hawai# i at 70, 137 P.3d at 384 (emphasis in original) 
+(quoting Au, 63 Haw. at 216, 626 P.2d at 178). On the other hand, the supreme court has applied HRS § 657-1 to claims 
+concerning a non-physical injury to an intangible interest of the 
+plaintiff. Higa v. Mirikitani, 55 Haw. 167, 170-73, 517 P.2d 1, 
+4-6 (1973) (applying the six-year statute of limitations of HRS § 657-1(1)
+9 to a legal malpractice claim involving non-physical 
+injury to an intangible interest). 
+In this case, the Delapinias did not allege any 
+physical harm to the Property. Rather, the Delapinias contended that Nationstar and Fannie Mae wrongfully deprived them of their 
+ownership interest in the Property, namely, title and the right 
+to possession. In other words, the Delapinias alleged that the 
+foreclosure caused non-physical injury to their intangible 
+interests. Thus, the six-year statute of limitations under HRS § 
+657-1 applies. 
+HRS § 657-1 provides: 
+§657-1 Six years.  The following actions shall be
+commenced within six years next after the cause of action
+accrued, and not after:
+(1) Actions for the recovery of any debt foundedupon any contract, obligation, or liability, 
+9 The Higa court cited the 1968 version of HRS § 657-1(1), which
+provided: "The following actions shall be commenced within six years next after
+the cause of action accrued, and not after: (1) Actions for the recovery of anydebt founded upon any contract, obligation, or liability, excepting such as arebrought upon the judgment or decree of some court of record[.]"
+The current version of the statute, HRS § 657-1(1) (2016), is
+substantially identical. 
+9 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+excepting such as are brought upon the judgment
+or decree of a court; excepting further thatactions for the recovery of any debt foundedupon any contract, obligation, or liability madepursuant to chapter 577A shall be governed bychapter 577A;
+(2) Actions upon judgments or decrees rendered inany court not of record in the State, or,subject to section 657-9, in any court of recordin any foreign jurisdiction;
+(3) Actions for taking or detaining any goods orchattels, including actions in the nature ofreplevin; and
+(4) Personal actions of any nature whatsoever notspecifically covered by the laws of the State. 
+As the Delapinias' wrongful foreclosure claim does not fall under 
+HRS § 657-1(1)-(3), we further conclude that the Delapinias' 
+wrongful foreclosure claim is governed by the catch-all provision 
+under HRS § 657-1(4). 
+2. The Delapinias' deprivation of ownership wrongful
+foreclosure claim accrued, at the earliest, onJanuary 11, 2011, when title to the Property wastransferred to Fannie Mae. 
+As to the accrual of the wrongful foreclosure claim, 
+Nationstar and Fannie Mae argue that the Delapinias knew or 
+should have known of the facts supporting their wrongful 
+foreclosure claim when the Notice of Sale was filed on March 30, 
+2010, and that the six-year statute of limitations began to 
+accrue at that time. At the very latest, Nationstar and Fannie 
+Mae argue, the claim accrued after the original foreclosure sale 
+scheduled for April 23, 2010, did not occur. 
+The Delapinias argue that their wrongful foreclosure 
+claim did not accrue until the foreclosure sale was completed. 
+The Delapinias further assert that the foreclosure sale was not 
+complete until the Foreclosure Affidavit and the new deed were 
+recorded. 
+In Santiago v. Tanaka, 137 Hawai# i 137, 158-59, 366 
+P.3d 612, 633-34 (2016), the supreme court, based on its power to 
+fashion equitable relief in foreclosure cases, and where the 
+subject property had been sold to a third party, recognized a 
+wrongful foreclosure claim to obtain restitution for "proven out-
+10 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+of-pocket losses." 
+Similarly, in Hungate, the supreme court 
+expressed: "When voiding the foreclosure is not possible, the 
+mortgagor is entitled to 'restitution of their proven 
+out-of-pocket losses' through a wrongful foreclosure claim." 139 
+Hawai# i at 407, 391 P.3d at 14 (quoting Santiago, 137 Hawai# i at 
+158, 366 P.3d at 633). 
+The Delapinias did not challenge Nationstar's and 
+Fannie Mae's right to foreclose. Rather, the Delapinias only claimed that the Mortgage and HRS Chapter 667, Part I, imposed 
+legal duties upon Nationstar and Fannie Mae to conduct the 
+foreclosure in a prescribed manner. 
+The Delapinias claimed that Nationstar and Fannie Mae 
+breached their contractual and statutory duties in a number of 
+ways, for example: failure to serve a notice of acceleration that 
+complied with paragraph 22 of the Mortgage; failure to properly 
+describe the Property in the Notice of Sale; failure to advertise 
+the foreclosure auction more than 28 days before the auction date 
+as required by HRS § 667-7 (Supp. 2010); failure to have a 
+Hawai# i attorney perform the acts required by the power of sale; 
+failure to issue written notice of the postponement of the auction; and failure to record a lawful affidavit of foreclosure. 
+The Delapinias claimed that, because Nationstar and 
+Fannie Mae breached their contractual and statutory duties while 
+performing the nonjudicial power of sale foreclosure, they "were 
+wrongfully deprived of the title, possession and use of their 
+real property[.]" The FAC did not allege the tort of slander of 
+title; accordingly, the allegedly improper recordation of the 
+Notice of Sale and the Affidavit of Foreclosure were not 
+themselves actionable, since those documents did not operate to 
+divest the Delapinias of title to the Property. The alleged 
+breach of Nationstar's and Fannie Mae's duties was not a cause of 
+injury to the Delapinias until they actually lost title to the 
+Property. The Delapinias were not deprived of their title to the 
+Property until January 11, 2011, when Nationstar deeded the 
+11 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Property to Fannie Mae, or until February 16, 2011, when the
+Fannie Mae deed was recorded in the Bureau of Conveyances.  
+Under Hawaii's discovery rule, the statute of
+limitations begins to run when the plaintiff "discovers or
+should have discovered the negligent act, the damage, andthe causal connection between the former and the latter." Yamaguchi v. Queen's Medical Center, 65 Haw. 84, 90, 648P.2d 689, 693–94 (1982). Our courts have employed this rulein several contexts. Ass'n of Apartment Owners of Newtown
+Meadows v. Venture 15, Inc., 115 Hawai #i 232, 167 P.3d 225
+(2007) (defective construction); Blair v. Ing, 95 Hawai #i 
+247, 21 P.3d 452 (2001) (legal malpractice); Russell v.Attco, Inc., 82 Hawai #i 461, 923 P.2d 403 (1996) (premises
+liability); Yamaguchi v. Queen's Medical Center, 65 Haw. 84,648 P.2d 689 (1982) (medical malpractice). 
+Thomas v. Kidani, 126 Hawai# i 125, 132, 267 P.3d 1230, 1237 
+(2011). 
+Here, the Delapinias did not claim that the price paid 
+for the Property was inadequate, so that a deficiency judgment 
+should be vacated, or they should be entitled to a larger surplus 
+if the winning bid price exceeded their indebtedness; they 
+claimed that the Fannie Mae deed and the Cole deed are void. 
+Since the actual damage being claimed was the loss of title, the 
+damage occurred when title was transferred to someone other than 
+the Delapinias. The earliest this could be is January 11, 2011. 
+The Delapinias timely initiated this action on August 5, 2016, 
+within the six-year statute of limitations provided in HRS § 657-
+1(4). 
+Therefore, the circuit court erred in concluding that 
+the Delapinias' wrongful foreclosure claim was time-barred and in 
+granting Nationstar and Fannie Mae's MJP on this basis. We 
+remand this matter to the circuit court to address the merits of 
+Delapinias' wrongful foreclosure claim against Nationstar and 
+Fannie Mae. 
+B. Quiet Title and Ejectment Claims Against Nationstar and
+Fannie Mae 
+The Delapinias also assert claims for quiet title and 
+ejectment against Nationstar and Fannie Mae. As to Nationstar 
+and Fannie Mae, we do not construe these claims as separate 
+12 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+claims for relief, but rather as remedies sought for the wrongful 
+foreclosure claim also brought against them. 
+However, neither 
+Nationstar nor Fannie Mae assert title to or possession of the Property. Accordingly, return of the Property is not an 
+available remedy for the Delapinias' wrongful foreclosure claim 
+against Nationstar and Fannie Mae. As to these defendants, who 
+are not alleged to currently hold any title to the Property, the 
+appropriate remedy is an action for damages or restitution. 
+Mount v. Apao, 139 Hawai# i 167, 180, 384 P.3d 1268, 1281 (2016); 
+Santiago, 137 Hawai# i at 158, 366 P.3d at 633. 
+C. Quiet Title and Ejectment Claims Against Cole, ASB, and MERS 
+The Delapinias argue that the circuit court erred in 
+granting Cole and ASB's MTD by concluding that Cole was a bona fide purchaser and that the foreclosure sale was merely voidable. 
+The Delapinias also assert that the circuit court erred in 
+granting MERS' MTD by concluding that the Delapinias failed to 
+state a claim. Specifically, the Delapinias argue that the 
+circuit court erred in concluding that: MERS, as Cole's 
+mortgagee, was also protected by bona fide status; the Delapinias 
+did not allege that they have paid or are able to pay off the 
+loan; and the Notice of Sale and Foreclosure Affidavit complied 
+with the Mortgage and HRS Chapter 667, Part I. 
+To overcome an HRCP Rule 12(b)(6) motion to dismiss, a 
+complaint must satisfy HRCP Rule 8(a) and our traditional notice 
+pleading standard. See Bank of Am., N.A. v. Reyes-Toledo, 143 
+Hawai# i 249, 263, 428 P.3d 761, 775 (2018). The pleading must 
+contain "a short and plain statement of the claim showing that 
+the pleader is entitled to relief." 
+HRCP Rule 8(a)(1) (2000). 
+The statement must also "give[] the defendant fair notice of the claim and the ground upon which it rests." Reyes-Toledo, 143 
+Hawai# i at 258, 428 P.3d at 770 (quoting Hall v. Kim
+, 53 Haw. 
+215, 221, 491 P.2d 541, 545 (1971)). "[A] complaint should not 
+be dismissed for failure to state a claim unless it appears 
+beyond doubt that the plaintiff can prove no set of facts in 
+13 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+support of [the] claim which would entitle [the plaintiff] to 
+relief." Id.
+ (quoting Hall, 53 Haw. at 221-22, 491 P.2d at 545). 
+Notably, 
+[i]n an action to quiet title, the burden is on the
+plaintiff to prove title in and to the land in dispute, and,absent such proof, it is unnecessary for the defendant tomake any showing. The plaintiff has the burden to proveeither that he has paper title to the property or that heholds title by adverse possession. While it is not necessary for the plaintiff to have perfect title toestablish a prima facie case, he must at least prove that hehas a substantial interest in the property and that histitle is superior to that of the defendants. 
+Ibbetson v. Kaiawe, 143 Hawai# i 1, 17, 422 P.3d 1, 17 (2018) 
+(quoting Maui Land & Pineapple Co. v. Infiesto, 76 Hawai# i 402, 
+407-08, 879 P.2d 507, 512-13 (1994)). 
+The Hawai# i Supreme Court has held that, "[w]here it is 
+determined that the nonjudicial foreclosure of a property is 
+wrongful, the sale of the property is invalid and voidable at the 
+election of the mortgagor, who shall then regain title to and 
+possession of the property." Santiago, 137 Hawai# i at 158, 366 
+P.3d at 633. 
+However, a plaintiff is not entitled to return of 
+title to or possession of a wrongfully foreclosed property if it 
+was subsequently sold to a bona fide purchaser. Mount, 139 
+Hawai# i at 180, 384 P.3d at 1281 (quoting Santiago, 137 Hawai# i at 
+158, 366 P.3d at 633). 
+In that case, an action at law for 
+damages is generally the appropriate remedy. Id. (quoting 
+Santiago, 137 Hawai# i at 158, 366 P.3d at 633). 
+An innocent or bona fide purchaser is "one who, by an 
+honest contract or agreement, purchases property or acquires an 
+interest therein, without knowledge, or means of knowledge 
+sufficient to charge him in law with knowledge, of any infirmity 
+in the title of the seller." Ka
+#u Agribusiness Co., Inc. v. 
+Heirs or Assigns of Ahulau, 105 Hawai# i 182, 193, 95 P.3d 613, 
+624 (2004). 
+"A non-bona fide purchaser is one who does not pay 
+adequate consideration, 'takes with knowledge that his transferor acquired title by fraud[,] or . . . buys registered land with 
+full notice of the fact that it is in litigation between the 
+14 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+transferor and a third party.'" Kondaur Capital Corp. v. 
+Matsuyoshi, 136 Hawai# i 227, 240 n.27, 361 P.3d 454, 467 n.27 
+(2015) (alterations in original) (quoting Akagi v. Oshita
+, 33 
+Haw. 343, 347 (1935)). 
+Thus, in order for the Delapinias' quiet title and 
+ejectment claims against Cole, ASB, and MERS to survive 
+dismissal, the Delapinias needed to allege that they have a 
+substantial interest in the Property and that their interest in 
+the Property is greater than that of Cole, ASB, and MERS. See 
+Reyes-Toledo, 143 Hawai# i at 265, 428 P.3d at 777. 
+Insofar as the Delapinias challenge the circuit court's 
+dismissal of the quiet title claim against MERS based on its holding that the Delapinias did not "allege that they have paid 
+or are able to tender the amount of indebtedness that would be 
+due under the mortgage[,]" we conclude that this point has no 
+merit. The tender rule is based on the principle that a 
+plaintiff seeking to quiet title "must at least prove that he has 
+a substantial interest in the property and that his title is 
+superior to that of the defendants." Maui Land & Pineapple Co., 
+76 Haw. at 408, 879 P.2d at 513. The tender rule requires a borrower, in bringing a quiet title action, to allege that he has 
+paid, or is able to tender, the amounts owed. Klohs v. Wells 
+Fargo Bank, N.A., 901 F. Supp. 2d 1253, 1262-63 (D. Haw. 2012). The tender requirement does not apply "where the borrower brings 
+a quiet title claim against a party who, according to the 
+allegations in the Complaint (which the court accepts as true), 
+is not a mortgagee and who otherwise has no interest in the 
+property whatsoever." Id. at 1263 n.6 (emphasis added) (internal 
+quotation marks omitted) (quoting Amina v. Bank of New York Mellon, Civil No. 11-00714 JMS/BMK, 2012 WL 3283513, at *4 (D. 
+Haw. Aug. 9, 2012)). 
+The exception does not apply in this case because, 
+based on the Delapinias' allegations in the FAC, MERS has an 
+interest in the Property. In the portion of the FAC describing 
+15             
+               
+ FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+the parties to the action, the Delapinias described MERS as "a 
+foreign corporation which is and at all relevant times was doing 
+business in Hawaii, and which claims to hold a mortgage on the 
+Property as nominee." In their quiet title count, the Delapinias 
+alleged that "Defendant Cole has purported to grant a first 
+mortgage on the Property to Defendant MERS as nominee of 
+'Pinnacle Capital Mortgage Corporation[.]'" Thus, where MERS has 
+an interest in the Property according to the allegations in the 
+FAC, the tender rule applies. It is undisputed that the 
+Delapinias did not allege either that "they have paid off 
+[Nationstar Mortgage] or are prepared to tender all amounts 
+owing" to Nationstar such as is necessary to establish superior 
+title and maintain a quiet title action. Id. at 1262. The 
+circuit court therefore did not err in relying on this as a basis for dismissing the quiet title claim against MERS. Accordingly, 
+we affirm the circuit court's granting of MERS' MTD.
+10 
+As to Cole and ASB, in relevant part, the Delapinias 
+alleged in their FAC that: (1) they are the owners of the 
+Property; (2)
+ Nationstar failed to strictly comply with HRS 
+Chapter 667, Part I, and the power of sale in the Mortgage, causing the nonjudicial foreclosure sale and subsequent transfers 
+of the Property to be void as a matter of law; (3) the subject 
+deeds were void ab initio; (4) all subsequent purchasers had 
+constructive notice of the deficiencies with the foreclosure 
+process; and (5) Cole cannot claim bona fide purchaser status 
+because she had record notice of the publicly recorded chain of 
+title and the deficiencies with the foreclosure process from the 
+Foreclosure Affidavit and the terms of sale in the Notice of 
+Sale. 
+In asserting that the subject foreclosure was wrongful, 
+the Delapinias alleged multiple violations of the Mortgage terms 
+10 Cole and ASB did not raise the tender rule in arguing for dismissal
+of the Delapinias' claims against them and we thus do not reach the issue as to
+these defendants. 
+16           
+           
+               
+            
+             
+                
+              
+            
+           
+        
+        
+        FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+and HRS Chapter 667, Part I, including, inter alia: the 
+Delapinias were not served with a notice of acceleration that 
+complied with Paragraph 22 of the Mortgage, there was no written 
+publication of any postponed auction date,11 and the foreclosure 
+sale did not occur on a published date. We take these factual allegations to be true for purposes of this appeal. See In re 
+Estate of Rogers, 103 Hawai# i at 280-81, 81 P.3d at 1195-96. 
+These allegations were sufficient to satisfy our traditional 
+notice pleading standard. 
+To the extent that the Delapinias alleged that a 
+wrongful foreclosure voided the sale and all subsequent 
+transfers, we reject this contention as a matter of law. The 
+Delapinias cited Silva v. Lopez, 5 Haw. 262 (Haw. Kingdom 1884), 
+and Lee v. HSBC Bank USA, 121 Hawai# i 287, 218 P.3d 775 (2009), 
+to support their allegation that a wrongful foreclosure sale is void and not merely voidable, asserting that the cases have not 
+been overruled. While it is true that the supreme court has not 
+expressly overruled 
+Silva, the supreme court has more recently 
+held that improper foreclosure sales are voidable. 
+In 
+Kondaur, the supreme court held that a mortgagee's 
+failure to prove that it conducted a nonjudicial foreclosure properly "would render the foreclosure sale voidable and [the 
+sale] could therefore be set aside at the timely election of the 
+mortgagor." 136 Hawai# i at 240, 361 P.3d at 467. Similarly, in 
+Santiago, the supreme court held that an improperly conducted nonjudicial foreclosure of a property is invalid and voidable at 
+11 In their Opening Brief, the Delapinias also argue that the circuit
+court erred in concluding that written publication of an auction postponement is
+not necessary. We conclude that it was error for the circuit court to rely onthis reasoning as a basis for dismissal of the Delapinias' complaint. The relevant part of the power of sale clause in the Mortgage stated: "If Lenderinvokes the power of sale, . . . Lender shall publish a notice of sale and shallsell the Property at the time and place and under the terms specified in thenotice of sale." (Emphases added.) In addressing identical language in anothermortgage agreement, the supreme court has held that, where there are tworeasonable interpretations of this clause, the more stringent interpretationrequiring publication of postponements of the foreclosure sale prevails.Hungate , 139 Hawai #i at 404, 391 P.3d at 11. 
+17 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+the election of the mortgagor. 137 Hawai# i at 158, 366 P.3d at 
+633. 
+The court recognized that voiding a foreclosure sale may 
+not always be practicable, particularly in situations where the
+subject property has already been resold to a third party. Id.  
+In Mount
+, the supreme court cited Silva in noting that, 
+as far back as 1884, the court has voided a mortgage sale of real 
+estate and livestock for failure to comply with the conditions of 
+the power of sale. 139 Hawai# i at 180, 384 P.3d at 1281.  The 
+supreme court also noted its holding in Lee that "an agreement created at a foreclosure sale conducted pursuant to HRS section 
+667-5 is void and unenforceable where the foreclosure sale is 
+invalid under the statute." Id. (internal quotation marks 
+omitted) (quoting Lee, 121 Hawai# i at 296, 218 P.3d at 784). 
+However, the supreme court distinguished Lee as a case in which 
+the foreclosure sale was not actually completed. Id. The court 
+likened the facts in Mount to those in Santiago, where a third party purchaser completed the sale, took possession of the 
+property, and had had the property for some time. Id. The 
+supreme court then recited its holding in Santiago that "where it is determined that the nonjudicial foreclosure of a property is 
+wrongful, the sale of the property is invalid and voidable at the 
+election of the mortgagor[.]" Id. (brackets and internal 
+quotation marks omitted) (quoting Santiago, 137 Hawai# i at 158, 
+366 P.3d at 633). 
+In light of the supreme court's more recent holdings, 
+we decline to adopt the Delapinias' reliance on Silva and Lee. 
+We conclude that improper foreclosure sales are voidable, rather 
+than void, and that the supreme court has either distinguished or 
+impliedly overruled its earlier decisions holding to the 
+contrary. 
+Assuming the Delapinias' allegations in their FAC to be 
+true, as we must in reviewing a motion to dismiss, In re Estate 
+of Rogers, 103 Hawai# i at 280-81, 81 P.3d at 1195-96, the 
+Delapinias have made a prima facie case of title. 
+The Delapinias 
+18 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+were not required to make any allegations pertaining to possible
+affirmative defenses in the FAC. 
+It was thus improper for the 
+circuit court to dismiss the claims based on its conclusion thatCole and ASB were protected by bona fide purchaser status.  
+ 
+We conclude that the Delapinias have pleaded sufficient
+factual allegations to support claims for quiet title and 
+ejectment against Cole and ASB, under Hawaii's notice pleading 
+standard. Accordingly, the circuit court erred in granting Cole 
+and ASB's MTD.  
+V. CONCLUSION 
+Based on the foregoing, we vacate the portion of the 
+April 18, 2017 Final Judgment that entered judgment in favor of 
+Nationstar, Fannie Mae, Cole, and ASB, and remand this matter to 
+the Circuit Court of the Second Circuit for further proceedings 
+consistent with this opinion. We affirm the portion of the Final
+Judgment that entered judgment in favor of MERS.  
+On the briefs: 
+James J. Bickerton,
+Stanley H. Roehrig,Bridget G. Morgan,(Bickerton Dang, LLLP),John F. Perkin,(Perkin & Faria LLLC),and Van-Alan Shima,(Affinity Law Group),for Plaintiffs-Appellants. 
+Michael C. Bird,
+Jonathan W.Y. Lai,Thomas J. Berger,and Summer H. Kaiawe,(Watanabe Ing LLP),for Defendants-AppelleesTerry Louise Cole and AmericanSavings Bank, F.S.B. 
+19 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Patricia J. McHenry,
+(Cades Schutte LLP),for Defendant-AppelleeMortgage Electronic RegistrationSystems, Inc. 
+David A. Nakashima,
+Jade Lynne Ching,Kanoelani S. Kane,(Nakashima Ching LLC),for Defendants-AppelleesNationstar Mortgage LLC andFederal National Mortgage Association. 
+20 

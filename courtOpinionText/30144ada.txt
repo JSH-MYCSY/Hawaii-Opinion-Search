@@ -1,0 +1,1590 @@
+   *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+                                                                 
+                                                                 IN THE SUPREME COURT OF THE STATE OF HAWAI» I 
+---o0o--­
+BLUEEARTH BIOFUELS, LLC, Plaintiff-Appellee,
+ 
+vs.
+ 
+HAWAIIAN ELECTRIC COMPANY, INC.; MAUI ELECTRIC
+COMPANY, LTD.; ALOHA PETROLEUM, LTD.; and
+KARL E. STAHLKOPF, Individually, Defendants-Appellants.
+ 
+NO. 30144
+ 
+CERTIFIED QUESTION FROM THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF HAWAI» I
+ 
+(CIV. NO. 09-00181)
+ 
+JULY 20, 2010
+ 
+MOON, C.J., NAKAYAMA, ACOBA, DUFFY, AND RECKTENWALD, JJ.
+ 
+OPINION OF THE COURT BY DUFFY, J.
+ 
+The United States District Court for the District of
+ 
+Hawai» i (District Court) certified the following questions of law 
+to the Hawai» i Supreme Court: 
+1. When are tort, restitutionary, and other law[s] of
+this state  displaced because they conflict  with [the
+Hawai»i Uniform Trade Secrets Act (HUTSA)], Hawaii Revised
+Statutes ( HRS ) § 482B? 
+2. When a claim is found to conflict  with HUTSA, what
+ 
+is the scope of the preemption, or displacement, of that
+claim under HRS § 482B-8?
+ 
+3. May a claim that is found not to conflict  with HUTSA
+ 
+still be preempted, or displaced, under HRS § 482B-8?
+ 
+4. Does HUTSA also preempt, or displace, claims based
+upon the alleged misuse of confidential information,  which
+ 
+is determined, before or during trial, not to meet the
+definition of trade secret  under HRS § 482B-2? 
+   
+   *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER ***
+ 
+I. BACKGROUND
+ 
+A. Factual Background
+ 
+This case involves plans to create and construct a
+ 
+biodiesel production facility on Maui. Plaintiff-Appellee
+ 
+BlueEarth Biofuels, LLC (BlueEarth) specializes in the production
+ 
+of biodiesel production facilities. In or around March 2006,
+ BlueEarth began talks with Hawaiian Electric Company, Inc. (HECO)
+ and Maui Electric Company, Ltd. (MECO) to jointly and
+ 
+exclusively develop a biodiesel production facility to be located
+ on the Island of Maui[(the Project).]  
+In furtherance of their discussions regarding the
+ 
+Project, BlueEarth executed a Mutual Non-Circumvention and Non-
+Disclosure Agreement (NDA) with both HECO and MECO.
+1 BlueEarth,
+ 
+HECO, and MECO also signed a confidential memorandum of
+ understanding (Project Agreement), which set forth how the
+ Project would be planned, developed, permitted, funded,
+ 
+constructed, maintained, and operated. 
+In 2007, BlueEarth, HECO, and MECO began discussions
+ 
+related to potential fuel subcontractors who would manage and run
+ 
+1
+ The NDAs established, inter alia, that: 1) confidential
+information given by one party to another would remain the property of the
+originating party; 2) confidential information of the originating party would
+be kept confidential by the receiving party and would not be disclosed or used
+for any purpose other than evaluating the Project; 3) any contacts revealed by
+one party to the other would be the exclusive contacts of the disclosing
+party; 4) the receiving party would not enter into direct negotiations or
+transactions with contacts revealed by the disclosing party; and 5) neither
+party would solicit or accept any business from sources made available by one
+party to the other without the express written permission of the party who
+made the source available. 
+2
+    
+  
+ *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+logistics for a fuel terminal, which would be used to store raw
+ 
+materials and fuel in connection with the Project. BlueEarth
+ 
+approached Aloha Petroleum, Ltd. (Aloha) as a potential
+ 
+subcontractor. In furtherance of their discussions, BlueEarth
+ 
+and Aloha executed a NDA on January 28, 2008. As with the HECO
+ 
+and MECO NDAs, the Aloha NDA contained a provision that
+ information furnished by one of the parties would be kept
+ confidential by the receiving party and its representatives. On
+ 
+July 14, 2008, BlueEarth and Aloha also executed a Mutual
+ Confidentiality Agreement (Confidentiality Agreement), which
+ 
+provided that neither party shall use or disclose each other s
+ 
+confidential information to third parties or solicit business
+ from each other s clients. 
+BlueEarth alleges that, contrary to the terms of the
+ 
+previously described Project Agreement, NDAs, and Confidentiality
+ Agreement, HECO
+2, MECO and Aloha engaged in undisclosed
+ 
+negotiations with each other concerning the development,
+ 
+investment, and ownership of the Project with the intent to cut
+ 
+BlueEarth out of the Project altogether. Though the Project has
+ yet to be built, BlueEarth claims that it expended in excess of
+ $1.2 million working to develop the Project pursuant to the
+ 
+Project Agreement. 
+2
+ HECO was allegedly represented in these negotiations by its Senior
+Vice President and Chief Technology Officer Karl Stahlkopf (Stahlkopf), who is
+named as an individual defendant in the action. 
+3
+    
+ *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+B. Procedural Background
+ 
+In October of 2008, BlueEarth filed suit in the 
+Northern District of Texas. On April 21, 2009, the case was 
+transferred to the District of Hawai» i. On May 29, 2009, 
+BlueEarth filed its Second Amended Complaint (SAC), alleging the following causes of action: 1) breach of contract against HECO (HECO NDA); 2) breach of contract against MECO (MECO NDA); 3) breach of contract against HECO and MECO (Project Agreement); 
+4) quantum meruit/unjust enrichment against HECO and MECO; 5) breach of contract against Aloha (Aloha NDA and Confidentiality 
+Agreement); 6) unfair competition against under Hawai» i Revised 
+Statutes (HRS) § 480-2, et seq. against HECO, MECO, Stahlkopf, 
+and Aloha; 7) tortious interference with existing contracts against HECO, MECO, Stahlkopf, and Aloha (all NDAs and the 
+Confidentiality Agreement); 8) tortious interference with existing contract against Aloha (Project Agreement); 9) 
+misappropriation of trade secrets against HECO, MECO, Stahlkopf, and Aloha; 10) conversion against HECO, MECO, Stahlkopf, and 
+Aloha; and 11) breach of fiduciary duty against HECO and MECO. 
+On June 29, 2009, Aloha moved to dismiss the Sixth
+ 
+through Tenth causes of action. On the same day, HECO, MECO, and
+ 
+Stahlkopf (collectively the HECO defendants) moved to dismiss
+ 
+4
+    
+  
+ *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+BlueEarth s SAC.3 On September 17, 2009, BlueEarth filed 
+oppositions to both motions. Aloha and the HECO defendants filed 
+their respective reply briefs on September 24, 2009. A hearing 
+was held on the motions to dismiss on October 5, 2009. The District Court issued its Certified Questions on November 2, 
+2009. This court issued its Order On Certified Question on 
+November 9, 2009, allowing the parties to file briefs regarding the Certified Questions in accordance with Hawai» i Rules of 
+Appellate Procedure (HRAP) Rule 28. 
+Aloha filed its opening brief on January 27, 2010. The
+ 
+HECO defendants also filed their opening brief on January 27,
+ 2010. BlueEarth filed its answering brief on April 5, 2010. 
+Aloha and the HECO defendants filed their respective reply briefs
+ 
+on April 29, 2010. 
+II. STANDARDS OF REVIEW
+ 
+A. Certified Question
+ The supreme court shall have jurisdiction and powers .
+ 
+. . [t]o answer, in its discretion . . . any question or
+ 
+proposition of law certified to it by a federal district or
+ 
+3
+ As observed by the District Court,
+ 
+[a]lthough the motion was styled as moving for dismissal of
+the SAC in its entirety, the arguments set forth in the
+motion only sought dismissal of [BlueEarth s] Fourth, Sixth,
+Ninth, Tenth, and Eleventh causes of action, the tort- and
+restitutionary-based causes of action.
+ 
+5
+    
+ *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+appellate court if the supreme court shall so provide by rule[.]  
+HRS § 602-5(a)(2) (Supp. 2009).
+ When a federal district or appellate court certifies 
+to the Hawai» i Supreme Court that there is involved in any 
+proceeding before it a question concerning the law of Hawai» i 
+that is determinative of the cause and that there is no clear controlling precedent in the Hawai» i judicial decisions, the 
+Hawai» i Supreme Court may answer the certified question by 
+written opinion.  HRAP 13(a) (2000).
+ An issue of law presented by a certified question is 
+reviewed by this court de novo under the right/wrong standard of 
+review.  Lee v. HSBC Bank USA, 121 Hawai» i 287, 289, 218 P.3d 
+775, 777 (2009) (citing Francis v. Lee Enter., Inc. , 89 Hawai» i 
+234, 236, 971 P.2d 707, 709 (1999)). B. Statutory Construction
+ 
+It is a well-established rule of statutory construction that
+this court s
+ 
+foremost obligation is to ascertain and give effect to
+the intention of the legislature, which is to be
+obtained primarily from the language contained in the
+statute itself. And [this court] must read statutory
+language in the context of the entire statute and
+construe it in a manner consistent with its purpose.
+ 
+Aluminum Shake Roofing, Inc. v. Hirayasu , 110 Hawai
+»i 248, 
+251, 131 P.3d 1230, 1233 (2006) (citation omitted) (formataltered). 
+Kaho» ohanohano v. Dep t of Human Servs., State of Haw., 
+6
+    
+ *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER ***
+ 
+117 Hawai» i 262, 288, 178 P.3d 538, 564 (2008) (brackets in 
+original). 
+III. DISCUSSION
+ 
+In answering the Certified Questions, this court is 
+required to determine the preemptive4 scope of the Hawai» i 
+Uniform Trade Secrets Act (HUTSA) in HRS section 482B-1 et seq., 
+which is an issue of first impression in this jurisdiction. The 
+HUTSA s preemption provision reads as follows: 
+Effect on other law.  (a) Except as provided in subsection
+(b) this chapter displaces conflicting tort, restitutionary,
+and other law of this State providing civil remedies for
+misappropriation of a trade secret.
+ 
+(b) This chapter does not affect:
+ 
+(1) Contractual remedies, whether or not based upon
+misappropriation of a trade secret;
+(2) Other civil remedies that are not based upon
+misappropriation of a trade secret; or
+(3) Criminal remedies, whether or not based upon
+misappropriation of a trade secret.
+ 
+HRS § 482B-8 (2008). 
+In order to answer the Certified Questions, it is
+ 
+necessary to first review the background of the Uniform Trade
+ 
+Secrets Act (UTSA) and HUTSA and analyze the decisions of other
+ jurisdictions that have considered the scope of the UTSA s
+ preemptive effect. 
+4
+ Courts that have considered this issue use the terms preempt  and
+displace  interchangeably. This opinion uses the terms interchangeably as
+well.
+ 
+7
+    *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+A. Background of the UTSA and HUTSA
+ 
+The UTSA was drafted by the National Conference of
+ 
+Commissioners on Uniform State Laws (Commissioners) in 1979 and
+ 
+amended in 1985. UTSA (amended 1985) 14 Uniform Laws Annotated
+ (U.L.A.) 529, 530 (historical notes) (2005). The Commissioners
+ 
+gave the rationale behind drafting the UTSA as follows:
+ 
+Notwithstanding the commercial importance of state trade
+secret law to interstate business, this law has not
+ developed satisfactorily. In the first place, its
+development is uneven . . . Secondly, even in states in
+which there has been significant litigation, there is undue
+uncertainty concerning the parameters of trade secret
+protection, and the appropriate remedies for
+misappropriation of a trade secret. One commentator
+ 
+observed:
+ Under technological and economic pressures, industry
+continues to rely on trade secret protection despite
+the doubtful and confused status of both common law
+ 
+and statutory remedies. Clear, uniform trade secret
+ 
+protection is urgently needed . . . . 
+ 
+Comment, Theft of Trade Secrets: The Need for a Statutory
+Solution , 120 U. Pa. L. Rev. 378, 380-81 (1971).
+ 
+Id. at 531.
+ 
+To this end, the UTSA created a model statutory cause
+ 
+of action for misappropriation of trade secrets. Id. The UTSA
+ 
+defined trade secret 5 and misappropriation 6, id. § 1 at 537­
+5
+ The UTSA defines trade secret  as follows:
+ 
+(4) Trade secret  means information, including a formula,
+pattern, compilation, program, device, method, technique, or
+process, that:
+ 
+(i) derives independent economic value,  actual or 
+(continued...)
+ 
+8
+    *** FOR PUBLICATION IN WEST  S HAWAI »I REPORTS AND PACIFIC REPORTER ***
+5(...continued)
+potential, from not being generally known to, and not 
+being readily ascertainable by proper means by, other 
+persons who can obtain economic value from its 
+disclosure or use, and
+(ii) is the subject of efforts that are reasonable 
+under the circumstances to maintain its secrecy.
+14 U.L.A. § 1 at 538. 
+6The UTSA defines  misappropriation  as follows:
+(2)  Misappropriation  means:
+(i) acquisition of a trade secret of another by a person who
+knows or has reason to know that the trade secret was
+acquired by improper means; or
+(ii) disclosure or use of a trade secret of another without
+express or implied consent by a person who
+(A) used improper means to acquire knowledge of the
+trade secret; or
+(B) at the time of disclosure or use, knew or had
+reason to know that his knowledge of the trade secret
+was
+(I) derived from or through a person who had
+utilized improper means to acquire it;
+(II) acquired under circumstances giving rise to
+a duty to maintain its secrecy or limit its use;
+or
+(III) derived from or through a person who owed
+a duty to the person seeking relief to maintain
+its secrecy or limit its use; or
+(C) before a material change of his [or her] position,
+knew or had reason to know that it was a trade secret
+and that knowledge of it had been acquired by accident
+or mistake.
+14 U.L.A. § 1 at 537 (brackets in original).
+938, established a three-year statute of limitations, id. § 6 at
+649, and provided for damages, id.  § 3 at 633-34, and injunctive
+relief, id. § 2 at 619.  The Commissioners intended that the UTSA   
+  *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+be applied and construed to effectuate its general purpose to
+ 
+make uniform the law with respect to the subject of this Act
+ 
+among states enacting it.  Id. § 8 at 656 (brackets omitted). 
+The HUTSA became law in 1989. See 1989 Haw. Sess. Laws
+ 
+Act 221, § 1 at 523-25. The HUTSA incorporates nearly verbatim
+ the UTSA s definitions of trade secret  and misappropriation ,
+ 
+as well as its remedies, statute of limitations and preemption
+ provisions. HRS §§ 482B-2 to -4, -7, -8 (2008). Though the
+ HUTSA does not contain a uniformity provision of its own, HRS
+ section 1-24 states that
+ 
+[a]ll provisions of uniform acts adopted by the State shall
+be so interpreted and construed as to effectuate their
+general purpose to make uniform the laws of the states and
+territories which enact them. 
+Id. § 1-24 (2009). 
+B. The Scope of Preemption
+ 
+Courts that have considered the UTSA s preemption 
+provision have uniformly interpreted [it] to preempt previously 
+existing misappropriation of trade secret actions, whether 
+statutory or common law.  Hauck Mfg. Co. v. Astec Indus., Inc. , 
+375 F. Supp. 2d 649, 654 (E.D. Tenn. 2004); see also Allied 
+Erecting & Dismantling Co., Inc. v. Genesis Equip. & Mfg., Inc., 649 F. Supp. 2d 702, 720 (N.D. Ohio 2009) (citing Hauck). All the parties agree that HUTSA displaces Hawai» i s existing 
+statutory and common law causes of action for misappropriation of 
+10
+   
+ *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+a trade secret. Two questions regarding the scope of preemption
+ 
+remain: (1) whether the HUTSA displaces non-contract civil
+ 
+claims, where such claims are based on allegations of
+ 
+misappropriation of a trade secret; and (2) whether a non-
+contract civil claim is preempted when it is based on the
+ 
+misappropriation of confidential information that does not rise
+ 
+to the level of a statutorily-defined trade secret.
+ 
+1.	 A non-contract civil claim conflicts with the HUTSA,
+and is therefore displaced, to the extent that it is
+based upon misappropriation of a trade secret.
+ 
+a.	 BlueEarth s argument
+ 
+BlueEarth argues that the HUTSA applies only to the
+ 
+duty not to improperly acquire, use, or disclose commercially
+ valuable secret information.  Thus, [b]ecause BlueEarth s non-
+contract causes of action remedy the breach of duties that are
+ 
+not dependent upon the existence of competitively significant
+ secret information, none are affected by the [HUTSA].  
+BlueEarth bases its argument on the comment to the UTSA s Effect
+ 
+on Other Law  section, which states as follows:
+ 
+This Act does not deal with criminal remedies for trade
+ 
+secret misappropriation and is not a comprehensive statement
+of civil remedies. It applies to a duty to protect
+competitively significant secret information that is imposed
+by law. It does not apply to a duty voluntarily assumed
+through an express or an implied-in-fact contract. The
+ enforceability of covenants not to disclose trade secrets
+and covenants not to compete that are intended to protect
+trade secrets, for example, is governed by other law. The
+ Act also does not apply to a duty imposed by law that is not
+dependent upon the existence of competitively significant
+ 
+11
+    *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+secret information, like an agent s duty of loyalty to his
+or her principal.
+ 
+14 U.L.A. § 7 at 651 (comment). BlueEarth claims that the
+ 
+comment is dispositive  and that it indicat[es] the clear
+ 
+answer to the questions before the Court.  
+For these reasons, BlueEarth encourages this court to
+ 
+apply the elements test  to determine whether a claim is
+ 
+preempted by the HUTSA. That is, claims are only preempted if
+ they have the same elements or same underlying duty as a
+ misappropriation of trade secrets claim.  Thus, BlueEarth
+ argues, its non-contract claims are not preempted because they
+ provide civil remedies for breaches of other duties and
+ 
+accordingly have qualitatively different elements describing a
+ 
+breach of those duties.  BlueEarth further notes that, this is
+ a legal test inquiring into the nature of rights, duties, and
+ 
+remedies, not a factual test inquiring into the details of a
+ 
+plaintiff s notice pleading.  
+b. the defendants  arguments
+ 
+In contrast, Aloha and the HECO defendants argue that a
+ 
+factual inquiry into the pleadings is necessary to determine
+ whether the plaintiff s various non-contract claims seek remedy
+ for misappropriation of a trade secret, regardless of how the
+ plaintiff has labeled these claims. Aloha points to the
+ preemption provision of the UTSA, which states: 
+12
+    *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER ***
+ 
+This Act does not affect:
+ 
+(1) contractual remedies, whether or not based upon
+misappropriation of a trade secret;
+(2) other civil remedies that are not based upon
+misappropriation of a trade secret; or
+(3) criminal remedies, whether or not based upon
+misappropriation of a trade secret.[7]
+ 
+14 U.L.A. § 7 at 651 (brackets omitted).  Given the conditional
+ 
+language that applies to [o]ther civil remedies , as opposed to
+ 
+the total exclusion of contractual and criminal remedies, Aloha
+ argues that non-contract civil remedies which are  based upon a
+ 
+misappropriation of a trade secret are preempted. In turn, the
+ phrase based upon  suggests a factual inquiry into the
+ allegations underlying the claim. If those allegations reveal
+ 
+that the underlying injury is the misappropriation of a trade
+ 
+secret, then the claim should be preempted. 
+Similarly, the HECO defendants argue for application of
+ 
+the same proof  test as articulated in Hauck , in which the court
+ 
+concluded that
+ 
+perhaps a better formulation of the UTSA preemption standard
+would be a same proof  standard under which a claim will be
+preempted when it necessarily rises or falls based on
+whether the defendant is found to have misappropriated  a
+trade secret  as those two terms are defined in the UTSA. 
+Stated another way, if proof of a non-UTSA claim would also
+simultaneously establish a claim for misappropriation of
+trade secrets, it is preempted irrespective of whatever
+surplus elements or proof were necessary to establish it.
+The UTSA defines misappropriation  broadly enough to cover
+a wide range of conduct, including the sort of conduct 
+7
+ The HUTSA s preemption provision contains the same language. See
+ 
+HRS § 482B-8(b) (2008).
+ 
+13
+    
+ 
+ *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER ***
+ 
+contemplated by the various claims which are often involved
+in preemption disputes. If a proven claim, whether in whole
+or in part, constitutes misappropriation of a trade secret,
+it is that and that alone . . . The UTSA explicitly exempts
+from preemption only those claims not based upon
+misappropriation of a trade secret,  implying the UTSA s
+preemptive force reaches more than just claims of  or for
+ 
+misappropriation of a trade secret. Thus, Plaintiff s non-
+UTSA claims against [defendant] will be preempted if, as
+plead, they would succeed or fail dependent on proof
+[defendant] acquired, disclosed, or used Plaintiff s trade
+secrets or otherwise confidential information . . . .
+ 
+Hauck, 375 F. Supp. 2d at 658 (footnote and internal citations
+ 
+omitted) (emphases in original).
+ 
+c. analysis
+ 
+The preemption provision of the HUTSA, like that of the
+ 
+UTSA, states that [t]his chapter does not affect . . . [o]ther
+ 
+civil remedies that are not based upon the misappropriation of a
+ 
+trade secret[.]  HRS § 482B-8(b)(2) (2008). We agree with the
+ Hauck court s analysis that the phrase based upon  implies that
+ the UTSA s preemptive force reaches more than just claims of  or
+ 
+for misappropriation of a trade secret.  Hauck, 375 F. Supp. 2d
+ 
+at 658 (emphases in original). Otherwise, a plaintiff could
+ 
+state multiple different claims, all stemming from the same
+ 
+misappropriation of trade secret injury. This would undermine
+ the purpose of the UTSA, which was to resolve the uncertainty
+ concerning the parameters of trade secret protection  and create
+ a uniform law to remedy trade secret misappropriation. See 14 
+14
+    
+   
+ 
+  
+    *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+U.L.A. at 531 (prefatory note); see also id. § 8 at 656; HRS § 1­
+24 (2009).
+ 
+The elements  test advocated by BlueEarth faces
+ 
+precisely the problem stated above. It would allow a party to
+ 
+raise multiple different claims based on the same trade secret
+ 
+misappropriation injury. Only a minority of courts apply the
+ elements  test to determine preemption. See Nucor Corp. v.
+ 
+Bell, 482 F. Supp. 2d 714, 725 (D.S.C. 2007) ( To determine
+ whether a particular cause of action involves rights equivalent
+ to those protected by the Trade Secrets Act, the elements of the
+ 
+causes of action should be compared, not the facts pled to prove
+ 
+them. ); see also Powell Products, Inc. v. Marks, 948 F. Supp.
+ 
+1469, 1474 (D. Colo. 1996) ( [H]ere, plaintiff alleges that
+ 
+defendants conspired to misappropriate its trade secrets, which
+ 
+requires an agreement, which is not an element of a
+ misappropriation claim under the UTSA. This claim . . . does not
+ 
+conflict with the UTSA and will not be preempted. ).
+8
+ 
+8
+ Some courts have employed the language of the elements  test, but
+have then gone on to analyze the underlying factual basis for each claim to
+determine whether it is based on misappropriation of a trade secret. For
+ example, in Mortgage Specialists, Inc. v. Davey , 904 A.2d 652, 665 (N.H.
+2006), the court stated that it agree[d] with the courts that have concluded
+that a claim is not preempted where the elements of the claim require some
+allegation or factual showing in addition to that which forms the basis for a
+claim of misappropriation of a trade secret.  Id. However, the court went on
+to find plaintiff s claim for breach of fiduciary duty, which required
+different elements than a trade secret misappropriation claim, to be
+preempted. Id. at 667. See Powell, 948 F. Supp. at 1475 (holding
+plaintiff s conversion claim was preempted to the extent it sought recovery
+for misappropriation of a trade secret, but was not preempted to the extent it
+(continued...)
+ 
+15
+    
+  
+   *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER ***
+ 
+The majority of courts, however, have rejected the
+ elements  test and have instead examined the factual allegations
+ 
+underlying each claim to determine whether a claim, whatever its
+ 
+label, is based upon misappropriation of a trade secret.9
+ 
+8(...continued)
+sought recovery for physical items stolen); see also LaFrance Corp. v.
+Werttemberger
+, No. C07-1932Z, 2008 WL 5068653, *4 (W.D. Wash. Nov. 24, 2008)
+( Conspiracy requires an element in addition to that required to make out a
+UTSA cause of action. In addition, LaFrance alleges facts that are not
+necessary to the UTSA claim . . . Therefore, this claim cannot be dismissed at
+this time. ) As the court in Hauck  observed
+ 
+[t]he variations in language employed by courts to
+articulate a test for UTSA preemption can be misleading when
+considered in the abstract . . . In the end, all of these
+cases turn on their respective factual circumstances as
+reflected by the plaintiff s pleadings. In fact, in several
+instances courts have stated the law in divergent manners
+but proceeded to apply those seemingly contrary standards in
+similar, if not identical, fashion.
+ 
+375 F. Supp. 2d at 657-58. 
+9
+ See, e.g., Hauck, 375 F. Supp. 2d at 657 (surveying cases and
+concluding that [i]n the end, all of these cases turn on their respective
+factual circumstances as reflected by the plaintiff s pleadings ); Allied
+Erecting, 649 F. Supp. 2d at 721 ( the appropriate scope of displacement
+should be defined by the same facts  or same proof  standard ); Auto
+ 
+Channel, Inc. v. Speedvision Network, LLC, 144 F. Supp. 2d 784, 789 (W.D. Ky.
+2001) ( [the] Court must first examine each of Plaintiffs  noncontractual
+claims and determine whether the claim seeks a remedy for the misappropriation
+of trade secrets ); Thomas & Betts Corp. v. Panduit Corp. , 108 F. Supp. 2d
+968, 972 (N.D. Ill. 2000) ( [W]e must review the challenged counts of T&B s
+complaint to determine whether they are based on a misappropriation of trade
+secrets, or on something more. ); Mortgage Specialists , 904 A.2d at 666 ( to
+determine whether a plaintiff s claims are preempted by the NHUTSA, a court
+must examine the facts alleged in support of each claim to determine the
+extent to which the claim is based upon the misappropriation of trade secrets
+or other information. ); Weins v. Sporleder , 605 N.W.2d 488, 491 (S.D. 2000)
+( the court is to look beyond the label to the facts being asserted in support
+of the claims ); Chatterbox, LLC v. Pulsar Ecoproducts, LLC, No. CV
+06-512-S-LMB, 2007 WL 1388183, *4 (D. Idaho May 9, 2007) ( Plaintiff s claims
+for unjust enrichment and unfair competition are based on the same nucleus of
+facts as its trade secrets claim and, therefore, these should be dismissed as
+preempted by the Idaho Trade Secrets Act. ); Bliss Clearing Niagara, Inc. v.
+Midwest Brake Bond Co., 270 F. Supp. 2d 943, 949-51 (W.D. Mich. 2003) (court
+(continued...)
+ 
+16
+    
+analyzed factual allegations underlying each claim to determine if claim was
+based upon misappropriation of a trade secret); Ethypharm S.A. France v.
+Bentley Pharm., Inc., 388 F. Supp. 2d 426, 434-35 (D. Del. 2005) (same);
+Diamond Power Int l, Inc. v. Davidson , 540 F. Supp. 2d 1322, 1345-47 (N.D. Ga.
+2007) (same). 
+  *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+BlueEarth s arguments to the contrary are not supported
+ 
+by the comment to the UTSA s preemption provision. BlueEarth
+ 
+contends that the comment s statement that [t]his Act . . . is
+ 
+not a comprehensive statement of civil remedies[,]  means that
+ [b]eyond displacing previously existing common law actions for
+ 
+trade secret misappropriation . . . the Act does not displace
+ 
+other civil remedies.  However, it appears that the comment is
+ merely restating the substance of the preemption provision. The
+ UTSA is not a comprehensive statement of civil remedies because
+ [i]t does not apply to a duty voluntarily assumed through an
+ 
+express or implied-in-fact contract.  14 U.L.A § 7 at 651
+ 
+(comment); see also id. § 7(b) at 651 ( This Act does not affect
+ 
+. . . contractual remedies, whether or not based upon
+ 
+misappropriation of a trade secret[.] ) (brackets omitted). 
+The comment further states that [t]he Act also does
+ 
+not apply to a duty imposed by law that is not dependent  upon the
+ 
+existence of competitively significant secret information, like
+ 
+an agent s duty of loyalty to his or her principal.  Id. § 7 at
+ 
+651 (comment) (emphasis added). BlueEarth argues that the
+ comment s reference to duties  implies a legal, rather than a
+ 
+9(...continued)
+17
+    
+  *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+factual, inquiry, and that the duty to refrain from
+ 
+misappropriating trade secrets is unrelated to and independent
+ 
+from, for example, the duty not to intentionally interfere with
+ 
+the contracts of others. Contrary to BlueEarth s argument, the
+ language of the comment implies that the UTSA does  apply to
+ 
+duties that are  dependent upon the existence of competitively
+ 
+significant secret information, whatever their label. In
+ analyzing whether a claim is preempted by the UTSA, the court is
+ to look beyond the label to the facts being asserted in support
+ of the claims.  Weins, 605 N.W.2d at 491; see also Mortgage
+ 
+Specialists, 904 A.2d at 665 ( The majority of courts that have
+ 
+examined this issue have not relied upon the label attached to
+ the claim, but have examined the facts underlying the claim to
+ 
+determine whether it is preempted by the UTSA. ).
+ 
+BlueEarth states that, [d]espite its obvious
+ 
+importance, no case reviewed by counsel for BlueEarth has
+ discussed or even noted this comment  to the UTSA s preemption
+ 
+provision. Respectfully, it is unlikely that this dispositive 
+ comment has been simply overlooked by every court to have
+ considered the scope of the UTSA s preemption. Instead, it is
+ more likely that these courts found that the comment did not
+ support arguments similar to those made by BlueEarth.
+ 
+Though the majority of courts agree that an analysis of
+ 
+the plaintiff s allegations is necessary to determine whether a
+ 
+18
+    
+ 
+  
+ *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+claim is based upon misappropriation of a trade secret, courts
+ 
+have differed on how the presence of facts relating to the
+ 
+improper acquisition, disclosure, or use of trade secrets within
+ 
+non-UTSA claims affects preemption. Some courts have imposed
+ broad preemption, going so far as to wholly preempt claims that
+ 
+include trade secret misappropriation allegations. See Thomas &
+ 
+Betts Corp. v. Panduit Corp., 108 F. Supp. 2d 968, 972-73 (N.D.
+ 
+Ill. 2000) (holding that claims for conversion and breach of
+ fiduciary duty for theft of computers, disks and documents were
+ preempted by the Illinois Trade Secrets Act because these
+ 
+physical items have little value apart from the information
+ 
+contained therein[.] ); see also Learning Curve Toys, L.P. v.
+ 
+Playwood Toys, Inc., No. 94 C 6884, 1999 WL 529572, *3 (N.D. Ill.
+ 
+July 20, 1999) ( [I]f the operative facts are arguably cognizable
+ 
+under the ITSA, any common law claim that might have been
+ available on those facts in the past now no longer exists in
+ 
+Illinois. ). Other courts suggest that the mere presence of
+ 
+facts in a claim that go beyond trade secret misappropriation
+ prevents preemption. See Micro Display Sys., Inc. v. Axtel,
+ 
+Inc., 699 F. Supp. 202, 205 (D. Minn. 1988) ( [T]he court will
+ allow plaintiff to go forward and maintain its separate causes of
+ action to the extent that the causes of action have more  to
+ their factual allegations than the mere misuse or
+ misappropriation of trade secrets . . . If the facts at trial
+ 
+19
+    
+  
+ 
+  
+ *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+disclose that the whole of plaintiff s case involves the
+ 
+misappropriation of trade secrets, those counts will be dismissed
+ 
+which are merely duplicative of the MUTSA.  (Emphasis added.));
+ 
+see also LaFrance Corp. v. Werttemberger, No. C07-1932Z, 2008 WL
+ 
+5068653, *3 (W.D. Wash. Nov. 24, 2008) ( LaFrance alleges facts
+ 
+that are not necessary to the UTSA claim. Therefore, this common
+ 
+law claim is not dismissed.  (Internal citation omitted.)).
+ 
+The UTSA s unitary definitions of trade secret  and
+ misappropriation , its statutory remedies and statute of limitations for misappropriation of a trade secret, and its 
+uniformity provision all evince the goal of eliminating 
+uncertainty and creating a single action for misappropriation of a trade secret. See Burbank Grease Servs., LLC v. Sokolowski, 
+693 N.W.2d 89, 98 (Wis. Ct. App. 2005), rev d in part by  717 
+N.W.2d 781 (Wis. 2006) (hereinafter Burbank Grease I) ( [T]he 
+purpose of the preemption provision is to preserve a single tort 
+action under state law for misappropriation of a trade secret as 
+defined in the statute[.] ); see also Auto Channel, 144 F. Supp. 
+2d at 789 (The UTSA arose to create a uniform business environment that created more certain standards for protection of commercially valuable information. ). The HUTSA was adopted by the Hawai» i State Legislature in furtherance of these goals, as 
+evidenced by the fact that the language of the HUTSA is virtually identical to the UTSA. See Kaho» ohanohano, 117 Hawai» i at 288, 
+20
+    
+   
+  *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+178 P.3d at 564 (stating that this court must read statutory 
+language in the context of the entire statute and construe it in 
+a manner consistent with its purpose  (brackets omitted)); see 
+also Bateman Constr., Inc. v. Haitsuka Bros., Ltd., 77 Hawai» i 
+481, 485, 889 P.2d 58, 62 (1995) (finding that because the 
+pertinent language of certain Hawai» i arbitration statutes was
+ virtually identical to the language of the federal arbitration
+ 
+statute . . . we review federal authority for guidance. ); HRS §
+ 1-24 (2009). We find that the best approach to preemption,
+ consistent with the goals of the UTSA and HUTSA, is the same
+ 
+proof  standard articulated in Hauck . Under this standard, if
+ 
+proof of a non-UTSA claim would also simultaneously establish a
+ 
+claim for misappropriation of trade secrets, it is preempted
+ 
+irrespective of whatever surplus elements of proof were necessary
+ 
+to establish it.  Hauck, 375 F. Supp. 2d at 658. To the extent,
+ 
+however, that the claim is based upon wrongful conduct[,]
+ 
+independent of the misappropriation of trade secrets[,]  it will
+ 
+not be preempted by the HUTSA.
+10 Bliss Clearing , 270 F. Supp. 2d
+ 
+10
+ See, e.g., Hauck, 375 F. Supp. 2d at 659-60 (holding that
+plaintiff s tortious interference with contract claim survived to the extent
+that it did not rely on allegations that defendant misappropriated plaintiff s
+trade secrets); see also Smithfield Ham & Prods. Co. v. Portion Pac, Inc., 905
+F. Supp. 346, 350 (E.D. Va. 1995) ( The question is not whether success on the
+misappropriation claim would provide the relief sought by the common law
+counts, but whether failure of the misappropriation claim would doom the
+remaining counts as well. ); Mortgage Specialists , 904 A.2d at 666-67 (holding
+that claims for tortious interference with advantageous relations and breach
+of the New Hampshire Consumer Protection Act were not preempted to the extent
+that they were supported by more than the misuse of plaintiff s customer
+(continued...)
+ 
+21
+    
+ *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+at 950. In this way, the HUTSA will be the sole noncontractual
+ 
+civil remedy for misappropriation of a trade secret, while
+ preserving tort, restitutionary, and other law[s,]  HRS § 482B­8, that seek[] to remedy an injury caused not by the
+ misappropriation of proprietary information, but by separate
+ conduct[.]  Diamond Power , 540 F. Supp. 2d at 1345.
+ 
+2. A non-contract civil claim that is based upon
+confidential  information which does not rise to the
+ 
+level of a statutorily-defined trade secret is
+preempted.
+ 
+a. BlueEarth s argument
+ 
+BlueEarth argues that 
+the plain language of the preemption provision . . . refers
+only to trade secrets  as defined by the Act. The
+ 
+preemption provision nowhere refers to other confidential
+ 
+information.  It follows, then, that the statute only
+anticipates preemption of common law claims involving trade
+ 
+secrets. Since there is no statutory language regarding
+preemption of other confidential information not rising to
+ 
+10(...continued)
+information); Glynn v. Edo Corp. , 641 F. Supp. 2d 476, 484 (D. Md. 2009)
+(holding that a conversion claim 
+survives as to any claim for tangible items
+and property that is not based on improper use of information or trade
+secrets. ); Allied Erecting
+, 649 F. Supp. 2d at 724 ( where a claim for breach
+of fiduciary duty has an independent factual basis, which is not solely
+dependent on misappropriation-of-trade-secret facts, courts have concluded
+there is no preemption. ); Lucini Italia Co. v. Grappolini , 231 F. Supp. 2d
+764, 771 (N.D. Ill. 2002) ( MG Capital v. Sullivan  [, No. 01 C 5815, 2001 WL
+1609382, at *4 (N.D. Ill. Dec. 17, 2001)] is a good example of how to resolve
+these issues. There, the court struck only the portion of a fraud claim
+relying on the misappropriation of trade secrets; any portion independent of
+the trade secret was retained. ); Diamond Power , 540 F. Supp. 2d at 1345 ( if
+a claim seeks to remedy an injury caused not by the misappropriation of
+proprietary information, but by separate conduct - such as the
+misappropriation of physical  property or the improper interference with
+contractual relationships respecting something other than proprietary
+information - such a claim cannot be said to be in conflict  with the GTSA 
+ 
+(emphasis in original)).
+ 
+22
+    *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER ***
+ 
+the level of trade secrets, there is no reason to think such
+ 
+preemption was intended.
+ 
+For this reason, BlueEarth contends that determination of whether
+ 
+its claims are preempted by the HUTSA is not proper on a motion
+ to dismiss. Rather, BlueEarth argues, the court should delay the
+ preemption inquiry until sufficient discovery has occurred, after
+ which the court may properly determine whether the information at
+ issue rises to the level of a statutorily-defined trade secret. 
+b. the defendants  arguments
+ 
+Aloha argues that the relief provided by the HUTSA is
+ 
+the sole noncontractual remedy when the underlying injury is the
+ 
+improper acquisition, disclosure or use of commercially valuable
+ 
+information; if the information does not constitute a trade
+ secret, there is no remedy.  This is so because there is no
+ 
+property right in information [that] is already generally known,
+ 
+readily ascertainable or not the subject of reasonable efforts to
+ maintain its secrecy.  Defining the scope of the HUTSA s
+ 
+preemption in this manner is, according to Aloha, [t]he only way
+ 
+to accord the Uniform Act its intended scope, preserve uniformity
+ 
+and avoid duplicative results[.]  
+Similarly, the HECO defendants argue that the weight
+ 
+of authority  holds that the UTSA s preemption provision
+ eliminates non-contract claims founded on the alleged misuse of
+ confidential information, regardless of whether that information
+ is a statutory trade secret.  The HECO defendants contend that
+ 
+23
+    
+ *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+this is because the UTSA was intended to preserve a single tort
+ 
+action for allegations of misappropriation of information. 
+c. analysis
+ 
+Courts holding that non-UTSA, non-contract claims based
+ 
+upon confidential  or commercially valuable 11 information are
+ 
+not preempted have generally stated that their analysis is based
+ on the plain language  of the UTSA s preemption provision. See,
+ 
+e.g., Stone Castle Fin., Inc. v. Friedman, Billings, Ramsey &
+ 
+Co., 191 F. Supp. 2d 652, 656-59 (E.D. Va. 2002) (holding that
+ 
+the plain reading  of the Virginia UTSA compelled a decision
+ that claims based on information not determined to be a trade
+ secret were not preempted); Combined Metals of Chicago Ltd.
+ 
+P ship v. Airtek, Inc., 985 F. Supp. 827, 830 (N.D. Ill. 1997)
+ 
+( By its plain language . . . the [Illinois ]TSA preemption
+ provision applies only if the claim is based on the
+ misappropriation of a trade secret  . . . Thus, if the Airtek
+ 
+die and specifications is not a trade secret or secrets, the ITSA
+ preemption provision is inapplicable. ); Nucor , 482 F. Supp. 2d
+ 
+11
+ Confidential  information has been described as data,
+technology, or know-how that is known by a substantial number of persons in a
+particular industry (such that its status as a technical trade secret  is in
+ doubt) but that, nonetheless, retains some economic and/or competitive value
+by virtue of the fact that it is unknown to certain industry participants. 
+Robert Unikel, Bridging the Trade Secret  Gap: Protecting Confidential
+ 
+Information  Not Rising to the Level of Trade Secrets , 29 Loy. U. Chi. L.J.
+841, 844 (Summer 1998). Courts have used the term commercially valuable  as
+well as confidential  to describe this type of information. This opinion
+uses these terms interchangeably as well.
+ 
+24
+    *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+at 726 ( The causes of action at issue[12], unlike a cause of
+ 
+action under [South Carolina ]TSA, are not dependant upon a
+ 
+finding that the misappropriated information constitutes trade
+ secrets.  ). 
+In Burbank Grease Services, LLC v. Sokolowski , 717
+ 
+N.W.2d 781, 788 (Wis. 2006) (hereinafter Burbank Grease II), for
+ example, the Wisconsin Supreme Court noted at the outset that the
+ allegedly misappropriated information underlying the plaintiff s
+ claims did not qualify as a trade secret under the WUTSA s
+ 
+definition. The preemption provision of the WUTSA, similar to
+ 
+that of the HUTSA, states that it does not affect [a]ny civil
+ remedy not based upon misappropriation of a trade secret.  Id.
+ 
+(quoting Wis. Stat. § 134.90(6)(b)2.). The Wisconsin Supreme
+ Court held that the plain language of the WUTSA s preemption
+ provision
+ 
+excepts from the class of unaffected remedies only those
+remedies based on the misappropriation of a statutorily-
+defined trade secret. It leaves available all other
+ 
+remaining civil remedies for the protection of confidential
+information.
+ 
+Id. at 789. The court added that in order to hold that the WUTSA
+ 
+preempts claims based on confidential information which does not
+ 
+rise to the level of a statutorily-defined trade secret, it would
+ 
+12
+ The causes of action at issue were: breach of duty of loyalty,
+tortious interference with relations, unfair trade practices, conspiracy,
+conversion, unjust enrichment, and imposition of constructive trust. Nucor,
+482 F. Supp. 2d at 726-27.
+ 
+25
+    
+ 
+  *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+have to read the following underlined language into the statute:
+ This section does not affect . . . [a]ny civil remedy not based
+ upon misappropriation of a trade secret and not based on
+ confidential business information.  Id. at 790 (emphasis in
+ 
+original). The court declined to so interpret the statute. Id.
+ 
+The court acknowledged that uniformity with other jurisdictions
+ was one of the goals of the WUTSA; however, the court found that
+ its plain meaning interpretation of the preemption provision was
+ more persuasive than jurisdictions which had determined that the
+ 
+UTSA preempted claims based on allegations of non-trade secret
+ 
+confidential information. Id. at 792-94. 
+The purported plain language  approach, exemplified in
+ 
+Burbank Grease II , has been criticized for disregarding the
+ 
+UTSA s uniformity directive. The dissent in Burbank Grease II
+ 
+described the majority s analysis as 
+pay[ing] lip service to UTSA s uniformity goal and the
+corresponding legislative directive. It fails to engage in
+the necessary analysis to determine what is the uniform
+interpretation of the preemption provisions in UTSA or how
+cases decided by courts in other UTSA jurisdictions analyze
+the language in these provisions.
+ 
+Burbank Grease II , 717 N.W.2d at 799 (Bradley, J., dissenting);
+ 
+see also id. (quoting Wis. Stat. § 134.90(7), which provides: 
+This section shall be applied and construed to make uniform the
+ 
+law relating to misappropriation of trade secrets among states
+ 
+enacting substantially identical laws. ). The dissent found
+ that, in contrast, the Wisconsin Court of Appeals analyzed the
+ 
+26
+    
+ *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+decisions of other jurisdictions to have considered the question
+ 
+and determined that the prevailing rule in most UTSA
+ jurisdictions is that UTSA is meant to replace tort claims for
+ unauthorized use of confidential information with a single
+ statutory cause of action.  Burbank Grease II, 717 N.W.2d at 800
+ 
+(Bradley, J., dissenting) (citing Burbank Grease I, 693 N.W.2d at
+ 101). 
+In Mortgage Specialists, the court noted that although
+ 
+the Wisconsin Supreme Court overturned the Court of Appeals 
+ 
+decision in Burbank Grease I , it still found Burbank Grease I
+ 
+well-reasoned, particularly for its adherence to the
+principles of uniformity and clarity that motivated the
+creation of the UTSA, in light of the legislative directive
+that the UTSA be construed to make uniform the law among the
+jurisdictions enacting it. We find the opinion of the
+Wisconsin Court of Appeals persuasive.
+ 
+Mortgage Specialists , 904 A.2d at 664 (internal citations
+ 
+omitted). Commentators have also criticized the Burbank Grease
+ 
+II decision for failing to conduct a uniformity analysis. 
+The view of the dissenting opinion in Burbank Grease
+Services and [similar opinions] may be regarded as the most
+restrictive approach to preemption. In spite of the
+majority s protestations to the contrary, it is also the
+most reasonable . . . refusing to preempt claims for the
+misappropriation of confidential information effectively
+negate[s] the UTSA s goal of promoting uniformity  and
+render[s] the statutory preemption provision effectively
+meaningless. 
+ 
+Michael Ahrens, Wisconsin Confidential: The Mystery of the
+ 
+Wisconsin Supreme Court s Decision in Burbank Grease Services v.
+ 
+Sokolowski and Its Effect Upon the Uniform Trade Secrets Act,
+ 
+27
+    
+  *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+Litigation, and Employee Mobility , 2007 Wis. L. Rev. 1271, 1302
+ 
+(2007) (footnotes omitted) (quoting Unikel, Bridging the  Trade
+ 
+Secret  Gap, 29 Loy. U. Chi. L.J. at 888); see also Sarah
+ Gettings, Burbank Grease Services, LLC v. Sokolowski: Frustrating
+ Uniformity in Trade Secret Law, 22 Berkeley Tech. L.J. 423, 438­39 (2007) ( The Burbank majority is dangerously misguided . . .
+ Indeed, the plain language of the WUTSA's uniformity clause
+ directs the court to conduct a uniformity analysis . . . The
+ majority of courts interpreting the preemption provision have
+ 
+found that the UTSA must preempt some claims involving the
+ 
+protection of confidential, but not trade secret, information. 
+ (Footnotes omitted)).
+ 
+The majority of the courts to have considered the issue
+ 
+have held that the UTSA s preemption provision 
+abolish[es] all free-standing alternative causes of action
+for theft or misuse of confidential, proprietary, or
+otherwise secret information falling short of trade secret
+status (e.g.  idea misappropriation, information piracy,
+theft of commercial information, etc. ).
+ 
+Hauck, 375 F. Supp. 2d at 655.13 The rationale for these
+ 
+13
+ See also, e.g., Mortgage Specialists, 904 A.2d at 664 (holding
+that the NHUTSA preempts claims that are based upon the unauthorized use of
+information, regardless of whether that information meets the statutory
+definition of a trade secret. ); Auto Channel , 144 F. Supp. 2d at 789 ( KUTSA
+replaces other law relating to the misappropriation of trade secrets,
+regardless of whether the Plaintiffs demonstrate that the information at issue
+qualifies as a trade secret. ); Burbank Grease I, 693 N.W.2d at 98 ( [T]he
+purpose of the preemption provision is to preserve a single tort action under
+state law for misappropriation of a trade secret as defined in the statute and
+thus to eliminate other tort causes of action founded on allegations of
+misappropriation of information that may not meet the statutory standard for a
+(continued...)
+ 
+28
+    *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+decisions has been explained as follows:
+ 
+States adopting statutory provisions analogous to the UTSA s
+section 7 intend that at least some prior law relating to
+the protection of commercial information be displaced.
+Permitting litigants in UTSA states to assert common-law
+claims for the misappropriation or misuse of confidential
+data would reduce the UTSA to just another basis for
+recovery and leave prior law effectively untouched.
+Further, by expressly exempting contractual remedies,
+ whether or not based upon misappropriation of a trade
+secret  and other civil remedies that are not based upon
+misappropriation of a trade secret  from its preemptive
+penumbra, the UTSA makes clear that only those claims
+addressing or arising out of wrongs distinct from pure
+information piracy survive passage of the trade secret
+ statute. Indeed, contrary interpretations of the UTSA s
+Effect on Other Law  provision . . . effectively negate the
+UTSA s goal of promoting uniformity in trade secrets  law. 
+Additionally, these contrary interpretations render the
+statutory preemption provision effectively meaningless.
+ 
+Unikel, Bridging the Trade Secret  Gap , 29 Loy. U. Chi. L.J. at
+ 
+887-88 (footnotes omitted). The UTSA creates a two-tiered 
+ 
+approach to protection of commercial knowledge, under which
+ information is classified only as either a protected trade 
+secret  or unprotected general skill and knowledge.   Id.  at 
+867-68 (footnote omitted). 
+trade secret. ); Composite Marine Propellers, Inc. v. Van Der Woude, 962 F.2d
+13(...continued)
+1263, 1265 (7th Cir. 1992) ( Illinois has abolished all common law theories of
+misuse of such [confidential] information. Unless defendants misappropriated
+a (statutory) trade secret, they did no legal wrong. ); Thomas & Betts , 108 F.
+Supp. 2d at 971 (holding that the Illinois TSA was meant to codify all the
+various common law remedies for theft of ideas.   (quoting Learning Curve
+Toys, 1999 WL 529572 at *3)); Diamond Power, 540 F. Supp. 2d at 1345 ( If a
+plaintiff could alternatively recover for misappropriation of non-proprietary
+information or misappropriation of unguarded proprietary information, the
+legislative judgment contained in the GTSA- that such information should
+otherwise flow freely in the public domain- would be subverted. ); Ethypharm ,
+388 F. Supp. 2d at 433 (same); Allied Erecting , 649 F. Supp. 2d at 720 (same);
+Bliss Clearing, 270 F. Supp. 2d at 948-49 (same). 
+29
+    
+  
+ *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+Courts and commentators have recognized the argument
+ 
+that [b]y adopting this approach, courts would be leaving
+ 
+businesses without an effective remedy for the misappropriation
+ of information they viewed as valuable but that did not rise to
+ the level of a trade secret.  Ahrens, Wisconsin Confidential,
+ 2007 Wis. L. Rev. at 1302; see also Mortgage Specialists, 904 A.
+ 2d at 664 (noting that its holding that non-contract claims based
+ on confidential information are preempted may seem harsh ). 
+However, the HUTSA does not preempt claims for the
+ 
+misappropriation of such information when it is protected by
+ 
+contract. See HRS § 482B-8(b)(1) (2008) ( This chapter does not
+ 
+affect . . . [c]ontractual remedies, whether or not based upon
+ 
+misappropriation of a trade secret[.] ). 
+Further, commentators have cautioned that information
+ 
+which is broader than the scope of information defined as a
+ trade secret  by the UTSA, and not the subject of reasonable
+ 
+efforts to maintain its secrecy does not deserve protection in
+ the form of non-contract tort claims. The UTSA s definition of
+ trade secret  is more inclusive than the previous definitions of
+ trade secret  at common law. See 14 U.L.A. §1 at 538 (comment)
+ 
+(noting that the UTSA s definition of trade secret  is broader
+ 
+and more inclusive than the definition in the Restatement of
+ Torts (First)); see also James Pooley, Trade Secrets, §
+ 
+2.03[2][a] (2009) ( The Uniform Act definition [of a trade
+ 
+30
+    *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+secret] is thus considerably broader than that of Section 757 of
+ 
+the original Restatement of Torts . . . . ). Professor Mark
+ Lemley, in discussing how courts should treat the overlap between
+ trade secret law and other torts such as breach of confidence,
+ unfair competition, unjust enrichment and interference with
+ contract, has stated that
+ 
+[t]rade secret law should preempt these torts when they are
+applied to protect information that would, if secret, have
+been protected by trade secret law. That is, a plaintiff
+who complains of the defendant s use of its information, but
+who cannot prove that the information is secret, should not
+be able to rely on one of these torts (or any other common
+law variants) to bypass the requirement that it prove
+ 
+secrecy. If trade secret law does not preempt these torts,
+the point of the secrecy requirement will be lost, and with
+it the benefits of dissemination of new inventions. 
+Companies will be unable to rely on the presence of ideas in
+the public domain; any information might potentially be
+subject to one of these torts. As a result, companies will
+be less willing to compete vigorously on the merits.
+Departing employees will be less willing to rely on
+information in the public domain to start new companies, and
+as a result more reluctant at the margins to start those
+companies. As Jim Pooley notes, there is arguably little
+social utility  in allowing state claims based on
+misappropriation of trade secrets to go forward if the
+plaintiff cannot prove the elements of a trade secret claim.
+ 
+Mark A. Lemley, The Surprising Virtues of Treating Trade Secrets
+ 
+as IP Rights, 61 Stanford L. Rev. 311, 345-46 (Nov. 2008)
+ 
+(footnotes omitted) (quoting Pooley, Trade Secrets, § 3.04[4],
+ 
+3-43 to -44). 
+Similar to the court in Burbank Grease II , BlueEarth
+ 
+argues that 
+the plain language of the preemption provision . . . refers
+only to trade secrets  as defined by the Act . . . Since
+ 
+31
+    *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+there is no statutory language regarding preemption of other
+confidential information not rising to the level of trade
+secrets, there is no reason to think such preemption was
+intended.
+ 
+However, the HUTSA s preemption provision should not be 
+considered in a vacuum.  Burbank Grease II, 717 N.W.2d at 798 
+(Bradley, J., dissenting). Rather, this court must read statutory language in the context of the entire statute and construe it in a manner consistent with its purpose.  Kaho» ohanohano, 117 Hawai» i at 288, 178 P.3d at 564 (brackets 
+omitted). Here, the Hawai» i State Legislature has directed that
+ [a]ll
+ provisions of uniform acts adopted by the State shall be
+ 
+so interpreted and construed as to effectuate their general
+ purpose and to make uniform the laws of the states and
+ territories which enact them.  HRS § 1-24 (2009). As the
+ 
+foregoing analysis shows, courts in other jurisdictions have not
+ 
+been absolutely uniform in deciding whether non-contract claims
+ based on information which does not rise to the level of a
+ 
+statutorily-defined trade secret are preempted under the UTSA. 
+However, the conclusion that such claims are preempted, reached
+ 
+by the majority of courts to have considered the issue, comports
+ with the HUTSA s goal of uniformity in the area of trade secret
+ misappropriation.
+ 
+The UTSA Commissioners made clear that the general
+ 
+purpose  of the UTSA was uniformity of trade secret law. 14
+ U.L.A § 8 at 656. 
+32
+     
+ 
+  *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER ***
+ 
+A common law claim premised on information that fails to
+qualify as a trade secret would seemingly undercut the
+statute s primary goal of uniformity, potentially render
+parties liable for using information that is not secret when
+the UTSA would not impose liability, and potentially pose
+Supremacy Clause problems. Likewise, it is not clear if
+ such alternative claims would permit different results on
+matters such as the statute of limitations, punitive
+damages, attorneys  fees, and the like.
+ 
+Pooley, Trade Secrets, § 2.03[6] (footnote omitted). The court
+ 
+in Mortgage Specialists  noted that, along with the contribution
+ 
+of unitary definitions of trade secret  and misappropriation 
+ 
+[t]he UTSA also arose to create a uniform business
+ 
+environment that created more certain standards for
+ protection of commercially valuable information.  [ Auto
+Channel, 144 F. Supp. 2d at 789.] [T]he purpose of the
+preemption provision is to preserve a single tort action
+under state law for misappropriation of a trade secret as
+defined in the statute and thus to eliminate other tort
+ 
+causes of action founded on allegations of misappropriation
+of information that may not meet the statutory standard for
+a trade secret.  [ Burbank I , 693 N.W.2d at 98.] As such,
+ 
+the UTSA was meant to codify all the various common law
+remedies for theft of ideas.  [ Thomas & Betts , 108 F. Supp.
+2d at 971 (quotation omitted)]; see also [Bliss Clearing,
+ 
+270 F. Supp. 2d at 948]. With the enactment of the UTSA,
+ confidential information not rising to the level of a
+statutory trade secret was left largely unprotected by the
+law. See [N.H. Rev. Stat. §] 350-B:7, I. . . . If a common
+ 
+law claim for unauthorized use of information that did not
+ 
+meet the statutory definition of a trade secret were
+permitted, the result would undermine the uniformity and
+clarity that motivated the creation and passage of the
+[UTSA].   Burbank Grease I , 693 N.W.2d at 99 (quoting Auto
+ 
+Channel, 144 F. Supp. 2d at 789).
+ 
+Mortgage Specialists , 904 A.2d at 663. The Mortgage Specialists
+ 
+court s analysis is persuasive and consistent with the Hawai» i 
+State Legislature s goals in adopting the HUTSA. See HRS § 1-24
+ 
+(2009); see also Kaho» ohanohano, 117 Hawai» i at 288, 178 P.3d at 
+33
+    
+ *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+564. Accordingly, we hold that the HUTSA preempts non-contract,
+ 
+civil claims based on the improper acquisition, disclosure or use
+ 
+of confidential and/or commercially valuable information that
+ does not rise to the level of a statutorily-defined trade secret.
+ 
+3.	 Preemption analysis is appropriate at the motion
+to dismiss stage
+ 
+In BlueEarth s view, preemption is proper only when
+ 
+allegations are based upon trade secrets  as that phrase is
+ 
+defined in the UTSA. Thus, BlueEarth argues that it is premature
+ to consider preemption at the motion to dismiss stage because the
+ 
+court does not yet have sufficient information to determine
+ whether the allegations in the complaint rise to the level of
+ 
+statutorily-defined trade secrets. However, as analyzed above,
+ we hold that the HUTSA preempts claims when the alleged injury is
+ 
+based on the improper acquisition, disclosure, or use of
+ 
+confidential and/or commercially valuable information, whether or
+ not that information rises to the level of a statutorily-defined
+ 
+trade secret. As the court in Hauck  stated:
+ 
+Plaintiff argues, at least in part, certain of its non-UTSA
+claims against [defendant] are not preempted because they do
+not depend on the information at issue qualifying as a
+trade secret.  While some courts have employed language
+seemingly indicating as much, a plaintiff surely cannot use
+general tort causes of action to revive claims which would
+otherwise not be cognizable in light of the UTSA (i.e. ,
+ 
+claims alleging theft of non-trade secret information). It
+ is a legal non sequitor to suggest general tort causes may
+be employed to protect legal rights which otherwise do not
+exist . . . such an approach would be wholly inconsistent
+with the UTSA s goals of promoting uniformity and
+predictability . . . A claim cannot be preempted or not
+ 
+34
+    
+   *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER ***
+ 
+preempted based entirely upon whether or not the information
+at issue qualifies as a trade secret. If the information is
+ a trade secret, the plaintiff s claim is preempted; if not,
+the plaintiff has no legal interest upon which to base his
+or her claim. Either way, the claim is not cognizable.
+ 
+Hauck, 375 F. Supp. 2d at 656-57 (internal citations omitted).14
+ 
+Accordingly, we hold that a court need not wait to determine if
+ 
+the allegedly misappropriated confidential and/or commercially
+ valuable information constitutes a trade secret , as that term
+ is defined in the HUTSA, before considering preemption.
+ 
+IV. CONCLUSION
+ 
+Based on the analysis above, we answer the certified
+ 
+questions as follows.
+ 
+1.	 When are tort, restitutionary, and other law[s] of
+this state  displaced because they conflict  with
+ 
+HUTSA, [HRS] § 482B-8?
+ Tort, restitutionary, and other law[s] of this state 
+ 
+conflict with the HUTSA, are therefore displaced, to the extent
+ 
+that they are based upon misappropriation of a trade secret. 
+That is, if proof of a [non-HUTSA] claim would also
+ 
+14
+ See also Ethypharm, 388 F. Supp. 2d at 433 ( Because all claims
+stemming from the same acts as the alleged misappropriation are intended to be
+displaced, a claim can be displaced even if the information at issue is not a
+trade secret. Thus, a determination of whether the information at issue
+constitutes a trade secret under the DUTSA need not be addressed prior to
+making a determination of displacement. ); Bliss Clearing , 270 F. Supp. 2d at
+948-49 ( [T]he Court concludes that the disputed status of information as a
+trade secret does not preclude a court from determining whether a claim or
+claims are displaced by the MUTSA. ); Allied Erecting, 649 F. Supp. 2d at 722
+( [T]he Court joins the majority view in finding that displacement of common-
+law claims may precede the Court s determination of whether the information at
+issue constitutes a trade secret. ); Mortgage Specialists , 904 A.2d at 666-668
+(finding that a preemption analysis was proper at the motion to dismiss
+stage).
+ 
+35
+    *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+simultaneously establish a claim for misappropriation of trade
+ 
+secrets, it is preempted irrespective of whatever surplus
+ elements or proof were necessary to establish it.  Hauck, 375 F.
+ 
+Supp. 2d at 658. 
+2.	 When a claim is found to conflict  with HUTSA, what is
+the scope of preemption, or displacement, of that claim
+under HRS § 482B-8?
+ 
+For those claims found to conflict with the HUTSA, the
+ 
+scope of displacement is complete. However, a claim may survive
+ to the extent it alleges wrongful conduct independent of the
+ 
+misappropriation of trade secrets.
+ 
+3.	 May a claim that is found not to conflict  with HUTSA
+ 
+still be preempted, or displaced, under HRS § 482B-8?
+ 
+Only claims that are found to conflict with the HUTSA
+ 
+are preempted. 
+4.	 Does HUTSA also preempt, or displace, claims based upon
+the alleged misuse of confidential information,  which
+is determined, before or during trial, not to meet the
+definition of trade secret  under HRS § 482B-8?
+ 
+The HUTSA displaces non-contract civil claims based
+ 
+upon the alleged acquisition, disclosure, or use of confidential
+ information that does not rise to the level of a statutorily-
+defined trade secret. Accordingly, it is unnecessary to
+ 
+determine whether or not the information at issue meets the 
+36
+    *** FOR PUBLICATION IN WEST  S HAWAI » I REPORTS AND PACIFIC REPORTER *** 
+definition of a trade secret before addressing displacement under
+ 
+the HUTSA.
+ 
+On the briefs: 
+Paul Alston and 
+Clyde J. Wadsworth
+(of Alston Hunt Floyd & Ing)
+for Defendants-Appellants
+Hawaiian Electric Company,
+Inc.; Maui Electric Company,
+Ltd.; and Karl E. Stahlkopf
+ 
+C. Michael Heihre,
+Calvert G. Chipchase,
+and Teri-Ann E.S. Nagata
+(of Cades Schutte) for
+Defendant-Appellant
+Aloha Petroleum, Ltd.
+ 
+John S. Edmunds,
+Ronald J. Verga,
+and Joy S. Omonaka (of
+Edmunds Verga & Omonaka),
+Michael K. Hurst, Tonya
+Parker, and Jaime Olin
+(of Gruber Hurst Johansen &
+Hail, LLP) for Plaintiff-
+Appellee BlueEarth
+Biofuels, LLC
+ 
+37
+ 

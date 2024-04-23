@@ -1,0 +1,2103 @@
+NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+NO. 28958
+ 
+IN THE INTERMEDIATE COURT OF APPEALS
+ 
+OF THE STATE OF HAWAI' I 
+C. BREWER AND COMPANY, LTD.,
+Plaintiff-Appellant
+vs.
+ 
+INDUSTRIAL INDEMNITY COMPANY; INDUSTRIAL INSURANCE
+COMPANY OF HAWAII, LTD.; NATIONAL UNION FIRE INSURANCE COMPANY
+OF PITTSBURGH; UNITED STATES FIRE INSURANCE COMPANY;
+LIBERTY MUTUAL INSURANCE COMPANY; TIG INSURANCE COMPANY;
+COLUMBIA CASUALTY COMPANY; JAMES RIVER INSURANCE COMPANY;
+THE HOME INSURANCE COMPANY; MARINE INDEMNITY INSURANCE
+COMPANY OF AMERICA; RELIANCE INSURANCE COMPANY;
+LEXINGTON INSURANCE COMPANY; CIGNA PROPERTY AND
+CASUALTY INSURANCE CO.; PACIFIC EMPLOYERS INSURANCE CO., INC.;
+SCOTTSDALE INSURANCE COMPANY; FIREMAN'S FUND INSURANCE COMPANY
+OF HAWAII; FIRST STATE INSURANCE CO.; KILAUEA IRRIGATION CO.,
+INC.; KEHALANI HOLDINGS CO., INC.; STATE OF HAWAII;
+HAWAII INSURANCE GUARANTY ASSOCIATION; and
+DOE DEFENDANTS 2-30, Defendants-Appellees
+and
+ 
+STATE OF HAWAI' I, Third-Party Plaintiff-Cross-Appellant,
+vs.
+ 
+MARSH USA, INC.; and DOE THIRD-PARTY DEFENDANTS 1-30,
+Third-Party Defendants-Appellees
+and
+ 
+KEHAULANI HOLDINGS COMPANY, INC.,
+Third-Party Plaintiff-Cross-Appellant
+vs.
+ 
+UNITED NATIONAL INSURANCE COMPANY; COMMONWEALTH INSURANCE
+COMPANY; ALEXANDER HOWDEN LIMITED; INTEGRITY INSURANCE
+COMPANY; HAWAIIAN INSURANCE & GUARANTY COMPANY, LIMITED;
+HOLLAND-AMERICA; INTERNATIONAL INSURANCE COMPANY;
+TRADEWIND INSURANCE COMPANY, LIMITED; ISLAND INSURANCE
+COMPANY, LIMITED and DOE THIRD-PARTY DEFENDANTS 1-30,
+Third-Party Defendants-Appellees
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE FIFTH CIRCUIT
+ 
+(CV. NO. 06-1-0140)
+  MEMORANDUM OPINION
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+(By: Nakamura, Chief Judge, and Foley, J., and
+Circuit Court Judge Alm, in place of Fujise and
+Leonard, JJ., all recused)
+ 
+INTRODUCTION
+ 
+I.
+ 
+Plaintiff-Appellant C. Brewer and Company, Ltd. (C. 
+Brewer) filed a second amended complaint for declaratory relief 
+seeking a declaration regarding the insurance coverage obligations, including the duty to defend and indemnify, owed by numerous insurance companies. 
+C. Brewer had been sued for 
+damages in three lawsuits (Underlying Lawsuits) filed in the aftermath of the breach of the Kaloko Dam on Kaua' i on March 14, 
+2006, which resulted in seven deaths and extensive property damage. The Underlying Lawsuits are: Pflueger v. State, Civil No. 06-1-1391 (Pflueger); Fehring v. Pflueger, Civil No. 06-1­0082 (Fehring); and Midler v. Pflueger, Civil No. 06-1-0110 (Midler). In its declaratory relief action, C. Brewer named as defendants seventeen insurance companies (collectively, 
+1
+ "Defendant Insurers") that had issued insurance policies to C.
+Brewer covering periods from 1987 through the Kaloko Dam breach. 
+C.
+ Brewer grouped the insurance policies issued into
+ 
+the following categories: (1) commercial general liability
+ policies (CGL policies); (2) multi-peril property policies
+ 
+1 C. Brewer named the following insurance companies as defendants in its
+second amended complaint: Industrial Indemnity Company (Industrial Indemnity);
+Industrial Insurance Company of Hawaii, Ltd. (Industrial Insurance); National
+Union Fire Insurance Company of Pittsburgh (National Union); United States
+Fire Insurance Company (U.S. Fire); Liberty Mutual Insurance Company (Liberty
+Mutual); TIG Insurance Company (TIG); Columbia Casualty Insurance Company
+(Columbia Casualty); James River Insurance Company (James River); The Home
+Insurance Company (Home); Marine Indemnity Insurance Company of America
+(Marine Indemnity); Reliance Insurance Company (Reliance); Lexington Insurance
+Company (Lexington); CIGNA Property and Casualty Insurance Co., now known as,
+ACE Property and Casualty (ACE); Pacific Employers Insurance Co., Inc.
+(Pacific Employers); Scottsdale Insurance Company (Scottsdale); Fireman's Fund
+Insurance Company of Hawaii (Fireman's Fund); and First State Insurance
+Company (First State) (collectively, "Defendant Insurers"). C. Brewer also
+ named as a defendant Hawaiian Insurance Guaranty Association (HIGA), which C.
+Brewer asserted was responsible for addressing the claims of insolvent
+insurers Home and Reliance.
+ 
+2
+  NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+(property policies); and (3) excess insurance or umbrella
+ 
+policies (excess policies). For purposes of our analysis, we
+ further categorize the insurance policies and Defendant Insurers
+ based on whether the policy issued had a policy period that ended
+ before the March 14, 2006, breach of the Kaloko Dam (pre-breach)
+ or was in effect at the time of the Kaloko Dam breach. For
+ example, James River issued a CGL policy for the period December
+ 15, 2005, to January 1, 2007, that was in effect at the time of
+ the Kaloko Dam breach. Columbia Casualty issued a pre-breach CGL
+ policy for the period December 15, 2004 to December 15, 2005,
+ which was the policy period immediately preceding the Kaloko Dam
+ breach. 
+In its declaratory relief action, C. Brewer named the 
+State of Hawai' i (State), Kehalani Holdings Company (Kehalani), 
+and Kilauea Irrigation Company (Kilauea Irrigation) as additional "necessary party" defendants.
+2 The State, Kehalani, and Kilauea 
+Irrigation had been sued along with C. Brewer in the Underlying Lawsuits, and C. Brewer alleged that the State, Kehalani, and Kilauea Irrigation were named as an insured or additional insured on certain of the insurance policies issued to C. Brewer. The State and Kehalani, in turn, filed claims for declaratory relief concerning the issue of their insurance coverage in cross-claims against Defendant Insurers and in third-party complaints against additional insurance companies.
+3 
+2 In its opening brief, Kehalani states that it "is the successor in
+interest to or the current name for Hawaiiana Investment Company, Inc., C.
+Brewer Properties, Inc., C. Brewer Homes, Inc., a Hawaii corporation, C.
+Brewer Homes, Inc., a Delaware corporation, and Hawaii Land & Farming Company,
+Inc. for certain periods of time." Kehalani describes its relationship to C.
+Brewer and Kilauea Irrigation as follows: "[C. Brewer] was the parent of
+Hawaiiana Investment Co., Inc., C. Brewer Properties, Inc. and C. Brewer
+Homes, Inc. until 12/15/93. [Kilauea Irrigation] was a subsidiary of
+Hawaiiana Investment Co., Inc., C. Brewer Properties, Inc., and C. Brewer
+Homes, Inc. until 12/15/93 when it became a subsidiary of C. Brewer." Unless
+ otherwise indicated, we will use "Kehalani" to refer to Kehalani Holdings
+Company, Inc. as well as its predecessor companies.
+ 
+3
+ The State filed a third-party complaint naming Marsh USA Inc. as a
+defendant. Kehalani filed a third-party complaint naming the following
+(continued...)
+ 
+3
+   NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+II.
+ 
+Defendant Insurers filed motions to dismiss for failure
+ 
+to state a claim or for summary judgment with respect to C.
+ 
+Brewer's claims for declaratory relief. Through a series of
+ orders, the Circuit Court of the Fifth Circuit (Circuit Court)
+4
+ 
+granted these motions. In dismissing C. Brewer's claims against
+ Defendant Insurers that issued pre-breach CGL policies (pre­breach CGL insurers), the Circuit Court essentially found that
+ the damages alleged in the Underlying Lawsuits had occurred on or
+ after March 14, 2006, the date of Kaloko Dam breach. The Circuit
+ Court therefore ruled that the damages alleged in the Underlying
+ Lawsuits did not occur during the pre-breach CGL policy periods,
+ and that the pre-breach CGL insurers had no duty to defend or
+ indemnify C. Brewer. The Circuit Court granted summary judgment
+ in favor of Columbia Casualty on the additional ground that C.
+ Brewer had failed to show any potential for coverage in light of
+ the "Known or Continuing Injury or Damage" endorsement set forth
+ in Columbia Casualty's policy. 
+The Circuit Court granted summary judgment in favor of
+ 
+James River, the CGL insurer that issued the policy in effect
+ when the Kaloko Dam breach occurred, based upon the designated
+ premises endorsement in the policy James River issued to C.
+ Brewer. The Circuit Court ruled that this endorsement precluded
+ insurance coverage and the duty to defend because the site of the
+ Kaloko Dam was not included as a designated premises. The
+ Circuit Court dismissed C. Brewer's claims against the Defendant
+ Insurers that issued excess policies (excess insurers) based on
+ the excess insurers' joinder in motions filed by primary coverage
+ 
+3(...continued)
+insurance companies as defendants: United National Insurance Company;
+Commonwealth Insurance Company; Alexander Howden, Limited; Integrity Insurance
+Company; Hawaiian Insurance & Guaranty Company, Limited; Holland-America;
+International Insurance Company; Tradewind Insurance Company, Limited; and
+Island Insurance Company, Limited.
+ 
+4
+ The Honorable Kathleen N.A. Watanabe presided over the proceedings
+and entered the orders that are the subject of this appeal. 
+4
+    NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+insurers or the excess insurers' own motions.
+ 
+The property policies identified by C. Brewer in its
+ 
+declaratory relief action were all issued for pre-breach policy
+ 
+periods. In dismissing C. Brewer's claims against Defendant
+ Insurers that issued the pre-breach property policies (property
+ insurers), the Circuit Court ruled that a manifestation trigger
+ applied to these policies and that C. Brewer failed to allege
+ that any covered damages had become manifest during the pre-
+breach property policy periods. 
+Applying the same reasoning it used in ruling against
+ 
+C. Brewer, the Circuit Court also dismissed the claims for
+ declaratory relief asserted by the State against certain of the
+ Defendant Insurers. Eventually, through various Circuit Court
+ orders and stipulations between the parties, all claims for
+ declaratory relief asserted by C. Brewer, the State, and Kehalani
+ (collectively, the "Insureds") against the Defendant Insurers
+ were dismissed, and this appeal followed.
+ 
+III. 
+On appeal, C. Brewer argues: 
+1. With respect to the pre-breach CGL insurers, the
+ 
+Circuit Court erred in ruling that these insurers had no duty to
+ defend despite the allegations in the Underlying Lawsuits of
+ "continuous, incremental, and indivisible" property damage during
+ the policy period covered by each of the pre-breach CGL
+ policies.
+5
+ 
+2. With respect to Columbia Casualty, a pre-breach
+ 
+CGL insurer, the Circuit Court erred in ruling that Columbia
+ Casualty's "Known or Continuing Injury or Damage" endorsement 
+5
+ C. Brewer's arguments regarding "continuous, incremental, and
+ 
+indivisible" property damage also apply to James River's CGL policy up until
+the breach of the Kaloko Dam. However, we analyze and consider the James
+River policy, which was in effect when the Kaloko Dam breached, separately
+from the pre-breach CGL policies because unlike the pre-breach CGL policies,
+there is no dispute that the Underlying Lawsuits sought recovery of damages
+occurring during James River's policy period and because the Circuit Court
+relied upon a different ground in dismissing C. Brewer's claims against James
+River.
+ 
+5
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+provided an additional basis for concluding that it had no duty
+ 
+to defend. 
+3. With respect to James River, the Defendant Insurer
+ 
+that issued the policy in effect on the date of the Kaloko Dam
+ breach, the Circuit Court erred in ruling that there was no duty
+ to defend based on the policy's designated premises endorsement. 
+4. With respect to the property insurers, the Circuit
+ 
+Court erred in determining that a manifestation trigger for
+ coverage applied.
+ 
+5. With respect to the excess insurers, the Circuit
+ 
+Court erred in dismissing the claims against the excess insurers.
+ 
+Defendant-Cross-Appellant the State and Defendant­
+Cross-Appellant Kehalani raise similar arguments. The State
+ argues:
+ 
+1. The Circuit Court erred in ruling that the CGL 
+insurers had no duty to defend, and it failed to properly apply Hawai'i Supreme Court precedents and Hawai' i Rules of Civil 
+Procedure (HRCP) Rule 12(b)(6) (2000) and Rule 56 (2000) in rendering its decisions. 
+2. The Circuit Court erred in adopting a
+ 
+manifestation trigger for the property policies.
+ 
+3. 
+The Circuit Court erred in dismissing the claims
+ 
+against the excess insurers.
+ 
+Kehalani argues:
+ 1. The Circuit Court erred in ruling that the CGL
+ 
+insurers had no duty to defend.
+ 
+2. The Circuit Court erred in concluding that a
+ 
+manifestation trigger applied to the property policy issued by
+ Marine Indemnity.
+ 
+As explained in greater detail below, we hold that the
+ 
+Circuit Court: (1) erred in ruling that the pre-breach CGL
+ insurers had no duty to defend in the 
+Pflueger lawsuit on the
+ 
+ground that the Pflueger lawsuit did not allege any injury-in­fact that occurred during their policy periods, but properly
+ ruled that the pre-breach CGL insurers had no duty to defend in
+ 
+6
+    NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+the Fehring and Midler lawsuits; (2) erred in relying on Columbia
+ 
+Casualty's "Known or Continuing Injury or Damage" endorsement as
+ an additional ground for its ruling that Columbia Casualty had no
+ duty to defend in the Pflueger lawsuit; (3) erred in ruling that
+ James River had no duty to defend in the Underlying Lawsuits
+ based on James River's designated premises endorsement; (4) erred
+ in dismissing the claims against the property insurers for
+ failure to state a claim for relief; and (5) erred in dismissing
+ the claims against the excess insurers based on its rulings
+ dismissing the primary insurers. 
+BACKGROUND
+ 
+On March 14, 2006, a large portion of the Kaloko Dam
+ 
+collapsed, releasing over three hundred million gallons of water
+ and claiming seven lives and causing extensive property damage. 
+The Underlying Lawsuits were subsequently filed seeking damages
+ against C. Brewer, the State, Kehalani, and others. C. Brewer
+ was insured under various CGL policies, excess policies, and
+ property policies issued by Defendant Insurers from 1987 through
+ 
+6
+the Kaloko Dam breach in 2006,  and the State and Kehalani were
+named as an insured or additional insured under a number of these
+ policies. C. Brewer filed the instant declaratory relief action
+ to determine the duties owed by Defendant Insurers. 
+I.
+ 
+According to the allegations in the 
+Pflueger complaint,
+ 
+which were later incorporated into the Fehring and Midler 
+6
+ In an appendix to its opening brief, C. Brewer identifies the
+Defendant Insurers issuing CGL, excess, and property policies that are subject
+to its appeal as follows: 
+1. CGL Insurers: Industrial Indemnity, National Union, Industrial
+Insurance, U.S. Fire, Liberty Mutual, Pacific Employers, TIG, Columbia
+Casualty, and James River.
+ 
+2. Excess Insurers: First State, National Union, Liberty Mutual, ACE,
+Pacific Employers, Scottsdale, Fireman's Fund, and Lexington.
+ 
+3. 
+Lexington. Property Insurers : Marine Indemnity, National Union, and 
+7  
+   
+ 
+  
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+complaints, the background regarding the history of the Kaloko
+ 
+Irrigation System and the Kaloko Dam is as follows:7
+ 
+The Kaloko Irrigation System (System) was constructed
+ 
+by a subsidiary of C. Brewer, the Kilauea Sugar Company, in the
+ late 1800s. The System carried water flowing from the
+ 
+government-owned mauka watersheds into the Kaloko Ditch (Ditch),
+ 
+which then transported the water into the Kaloko Reservoir
+ (Reservoir), where it was stored and then distributed for the
+ irrigation of sugar cane fields on makai lands. The water was
+ 
+held within the Reservoir by the Kaloko Dam, an earthen dam
+ 
+constructed in the streambed by Kilauea Sugar Company in or
+ around 1890. With the decline of the sugar industry, the Kilauea
+ 
+Sugar Company allegedly stopped maintaining the System in about
+ 
+1970, which caused the System to fall into disrepair.
+ 
+As part of an agreement with the State, C. Brewer in
+ 
+8
+1981 created Kilauea Irrigation  to revitalize the System and tosell System water to local farmers for irrigation. The State issued permits (Water Permits) to Kilauea Irrigation granting it the right and authority to use government waters from government land, "together with the right to construct, operate, repair and maintain a water transportation system within the [Kaloko] Ditch Right of Way and the Pu[
+']u Ka Ele Stream."9 
+Kehalani, a subsidiary of C. Brewer, owned title to a
+ 
+portion of the land underneath the Kaloko Reservoir. Title to
+ the rest of the land underneath the Reservoir was owned by an
+ adjoining land owner, the Lucas Trust. In February 1987, Kilauea
+ Irrigation entered into a Water Rights Agreement with the Lucas
+ 
+7
+ We focus on the allegations of the Pflueger complaint because the duty 
+to defend turns on whether the underlying lawsuit raises the possibility that
+coverage exists. See Sentinel Ins. Co. v. First Ins. of Hawaii, 76 Hawai' i 
+277, 287, 875 P.2d 894, 904 (1994). 
+8
+ As noted in footnote 2, supra, Kehalani states that Kilauea Irrigation
+ 
+was a subsidiary of Kehalani until December 15, 1993, when Kilauea Irrigation
+became a subsidiary of C. Brewer.
+9
+ The State owns the lands mauka of the Reservoir which serve as the
+ 
+watershed that feeds the System.
+ 
+8
+  
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Trust. As part of this agreement, Kilauea Irrigation assumed
+ 
+sole responsibility for the operation, inspection, maintenance,
+ 
+and repair of the System, including the Kaloko Dam. Despite this
+ duty, C. Brewer, through Kilauea Irrigation, allegedly did little
+ maintenance on the Kaloko Dam, or the System as a whole, for
+ decades.
+ 
+In 1987, Kehalani sold its property, including the 
+Kaloko Dam, to James H. Pflueger (Pflueger). The deed conveying the property was subject to the 1987 Water Rights Agreement. As such, the responsibility for the operation, inspection, maintenance, and repair of the System and Dam remained with Kilauea Irrigation. In November 2005, the Hawai' i Public 
+Utilities Commission approved the sale of C. Brewer's stock in Kilauea Irrigation to Hitch Co., and the sale was completed in December 2005. Hitch Co. was a company created by Thomas Hitch 
+(Hitch), who had operated the System as an independent contractor 
+for Kilauea Irrigation for many years. Hitch Co. and its owner Hitch assumed Kilauea Irrigation's rights and responsibilities under the Water Rights Agreement and the Water Permits to operate, inspect, maintain and repair the System. 
+II. 
+In the aftermath of the Kaloko Dam breach on March 14,
+ 
+2006, the Underlying Lawsuits were filed. 
+A. 
+Pflueger, Pflueger Properties, and Pflueger Management,
+ 
+LLC (collectively, "Pflueger Plaintiffs") filed a complaint
+ seeking recovery of damages, including indemnification against
+ claims brought against them arising out of the Kaloko Dam breach. 
+The Pflueger Plaintiffs asserted twenty-three claims against the
+ Insureds, including claims for negligence, gross negligence,
+ negligent entrustment, fraud, breach of contract, trespass,
+ nuisance, and contribution and indemnification, and broadly seek
+ a judgment for "general, special and punitive damages in an
+ amount to be proven at trial." 
+9
+  NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+In the introduction to their complaint, the Pflueger
+ 
+Plaintiffs stated that:
+ 
+This Complaint arises out of the March 14, 2006 breach
+of the Ka Loko Dam in Kilauea, Kaua' i, which resulted in the
+tragic loss of human life as well as property damage. This
+ 
+Complaint seeks to hold accountable the only parties that
+had the practical ability and the legal obligation to
+prevent the tragedy. . . .
+ 
+The Pflueger  complaint alleged that the Insureds had various
+ 
+responsibilities and duties concerning the Kaloko Dam and that
+ 
+the Insureds negligently failed to meet these responsibilities
+ and duties, including that:
+ 
+(1) "[C. Brewer's subsidiary] announced its exit
+from the [sugar] business in about 1970, and
+ceased its maintenance of the System. 
+The
+ 
+System then fell into a state of disrepair." 
+(2) "[C. Brewer], thorough its wholly-owned
+subsidiary [Kilauea Irrigation], did little
+maintenance on the [Kaloko] Dam, or the
+System as a whole, for decades. Trees were
+ allowed to grow at the foot of the [Kaloko]
+Dam. Ditches were obstructed. Gates rusted
+ and became inoperable. Seepage that affected
+the structural stability of the [Kaloko] Dam
+went unaddressed. The System was largely in
+disrepair."
+ 
+(3) C. Brewer never adequately capitalized Kilauea
+Irrigation and Kilauea Irrigation "put very little
+money into the care and maintenance of the
+System."
+ 
+(4) "[C. Brewer] and its subsidiaries, [Kehalani]
+and [Kilauea Irrigation], all failed to take
+any action to make the recommended repairs to
+the [Kaloko] Dam or to otherwise address the
+concerns regarding its structural stability."
+ 
+(5) "[C. Brewer], independently and through its
+wholly-owned subsidiary, [Kilauea
+Irrigation], breached its duty to properly
+operate, inspect, repair and/or maintain the
+System, including the [Kaloko] Dam, its
+appurtenant structures and/or the Reservoir."
+ 
+10
+  NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+(6)	 C. Brewer and Kehalani failed to disclose to
+ 
+Pflueger and purchasers of property makai of the
+Kaloko Dam the content of reports questioning the
+structural stability of the Kaloko Dam or the
+significant estimated cost of repairing the Kaloko
+Dam and Reservoir. 
+(7) "[The State] . . . (1) knew since 1982 that
+the structural stability of the [Kaloko] Dam
+was questionable but never required
+[Kehalani] or its affiliates to make repairs;
+(2) never told [Pflueger] that the structural
+stability of the [Kaloko] Dam was
+questionable; . . . and (4) authorized an
+inexperienced and undercapitalized public
+utility company, [Kilauea Irrigation], to
+operate, inspect, maintain and repair the
+irrigation system, including the [Kaloko]
+Dam, and then failed to properly monitor and
+oversee [Kilauea Irrigation] and failed to
+intervene when it became clear that [Kilauea
+Irrigation] was not meeting its obligations."
+ 
+(8) "The State, independently and through the
+[Public Utilities Commission] and [Department
+of Land and Natural Resources], breached its
+duty of care to [the Pflueger] Plaintiffs by"
+its actions and inactions, including failing
+to supervise the System and its water;
+failing to monitor or require Kilauea
+Irrigation to monitor the volume of water
+flowing into the Reservoir; failing to use or
+require Kilauea Irrigation to use the
+existing water control systems to stop the
+flow of water into the Reservoir during the
+heavy rains in February and March of 2006;
+improperly classifying the Kaloko Dam as a
+"low hazard"; "failing to warn [the Pflueger]
+Plaintiffs of reports that the structural
+stability of the [Kaloko] Dam was
+questionable"; failing to ensure that Kilauea
+Irrigation and/or Hitch Co. had the
+expertise, knowledge, and resources to
+operate and maintain the System, including
+the Kaloko Dam, before granting various
+certificates, permits, and approvals.
+ 
+In an interrogatory answer submitted in the Pflueger
+ 
+lawsuit, the Pflueger Plaintiffs asserted that they are in part
+ 
+alleging in their complaint that the failure of the Insureds to
+ 
+11
+   
+  NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+maintain the Kaloko Dam from 1982 to March 14, 2006, resulted in
+ 
+a "continuous, incremental and indivisible process of damage to
+ the dam . . . that culminated in the breach of the dam on
+ 3/14/06."
+ 
+B.
+ 
+The Fehring and Midler complaints sought to recover
+ 
+damages resulting from the March 14, 2006, breach of the Kaloko
+ Dam. The Fehring complaint sought recovery for the deaths of
+ seven people who were downstream of the Kaloko Dam when the
+ breach occurred. The Midler complaint sought recovery for
+ property damage. The Fehring and Midler complaints alleged
+ negligence by the Pflueger Plaintiffs,
+10 the Insureds, and
+ 
+others, and both complaints incorporated by reference the
+ allegations made in the Pflueger complaint. 
+The Pflueger Plaintiffs filed cross-claims against the
+ 
+Insureds in Fehring seeking indemnification for any damages the
+ Pflueger Plaintiffs were required to pay.  The Pflueger
+ 
+Plaintiffs also filed similar cross-claims against the Insureds
+ 
+in Midler. 
+C.
+ 
+The State also asserted informal claims against C.
+ 
+Brewer seeking reimbursement for costs the State incurred in
+ responding to the breach of the Kalolo Dam and the resulting
+ flood. 
+III.
+ 
+C. Brewer asserts that it tendered the defense of the
+ 
+Underlying Lawsuits to the Defendant Insurers, but none of the
+ Defendant Insurers agreed to defend or indemnify C. Brewer. C.
+ 
+Brewer filed its complaint for declaratory relief seeking a
+ 
+declaration that Defendant Insurers have a duty to defend and/or
+ indemnify C. Brewer under their respective insurance policies. 
+10
+ In addition to the three Pflueger Plaintiffs, the Fehring and Midler
+ 
+complaints also named Pflueger Partners as a defendant. With respect to the
+Fehring and Midler lawsuits, we will use "Pflueger Plaintiffs" to collectively
+refer to the three Pflueger Plaintiffs as well as Pflueger Partners. 
+12
+   
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+A.
+ 
+Several of the Defendant Insurers filed motions to
+ 
+dismiss C. Brewer's first amended complaint. C. Brewer, in turn,
+ 
+filed a motion for partial summary judgment against U.S. Fire,
+ 
+which the State and Kehalani joined. The Circuit Court granted
+ 
+the motions to dismiss the first amended complaint filed by the
+ 
+Defendant Insurers, but without prejudice to C. Brewer filing a
+ second amended complaint. The Circuit Court denied C. Brewer's
+ motion for partial summary judgment. The Circuit Court also
+ dismissed without prejudice cross-claims filed by the State and
+ Kehalani, which were based on C. Brewer's first amended
+ complaint. 
+B.
+ 
+C. Brewer filed a second amended complaint, in which it
+ 
+asserted, among other things, that:
+ 
+The Pflueger Complaint alleges that [C. Brewer's] negligent
+acts and/or omissions (i.e. failure to inspect, maintain,
+and/or repair the dam) caused continuous, incremental and
+indivisible physical injury to tangible property -­Pflueger's dam -- constituting injury in fact to Pflueger's
+property, to wit: loss of earth from the earthen dam caused
+by water seepage, over a period of time including during the
+policy period of each of the Defendant Insurers.
+ 
+Defendant Insurers filed various motions to dismiss the
+ 
+second amended complaint. The Circuit Court granted the motions.
+ 
+The Circuit Court dismissed with prejudice C. Brewer's second
+ amended complaint as to the moving Defendant Insurers with pre-
+breach CGL policies and pre-breach excess policies, ruling as
+ follows:
+ 
+1. . . . [C. Brewer] filed a First Amended
+Complaint which this Court had dismissed without prejudice
+on granting [C. Brewer] leave to file an amended complaint
+to assert damages because of bodily injury or property
+damage occurring within the policy periods of the insurance
+policies issued by the moving and joining defendants
+insurers, as required by the insurance policies and Hawaii
+law. On March 14, 2007, [C. Brewer] filed a Second Amended
+Complaint;
+ 
+2. Under the injury-in-fact trigger of coverage
+analysis set forth in the Hawaii Supreme Court's opinion inSentinel Insurance Co. v. First Insurance Co., 76 Hawai' i 
+277, 875 P.2d 894 (1994), [C. Brewer's] Second Amended 
+13
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+Complaint fails to state a claim against [the moving
+Defendant Insurers] upon which relief can be granted because
+the [claims in the Underlying Lawsuits] made against [C.
+Brewer] do not allege damages because of bodily injury or
+property damage occurring within the policy periods of the
+insurance policies issued by [the moving Defendant
+Insurers], as required by the insurance policies and Hawaii
+law, and therefore, [the moving Defendant Insurers are] not
+under any obligation to defend or indemnify in connection
+with such claims[.]
+ 
+In granting the motion to dismiss the second amended
+ 
+complaint filed by Marine Indemnity, a property insurer, with
+ 
+prejudice, the Circuit Court ruled that:
+ 
+a manifestation trigger of coverage would apply to an
+alleged multi-peril, first-party property insurance policypursuant to the Hawaii Supreme Court's discussion of first-
+party and third-party policies set forth in its opinion in Sentinel Insurance Co. v. First Insurance Co., 76 Hawai' i 
+277, 875 P.2d 894 (1994), citing Garvey v. State Farm Fire & Cas. Co., 48 Cal. 3d 395 (1989). This Court further finds 
+that under the manifestation trigger of coverage, [C.Brewer's] Second Amended Complaint fails to state a claimagainst [Marine Indemnity] because [C. Brewer's] SecondAmended Complaint fails to allege any covered damages withinthe alleged Marine Indemnity . . . policy period . . . asrequired by the alleged policy and Hawaii law. 
+James River, which issued the insurance policy that was
+ 
+in effect on the date of the Kaloko Dam breach, filed a motion
+ 
+for summary judgment regarding the second amended complaint. 
+Columbia Casualty, which issued pre-breach CGL policies for the
+ periods immediately preceding the Kaloko Dam breach, filed a
+ motion to dismiss the second amended complaint or, in the
+ alternative, for summary judgment.   Fireman's Fund, which issued
+ 
+excess policies during the policy periods covered by the James
+ River and Columbia Casualty policies, filed a substantive joinder
+ to both these motions.
+ 
+In granting James River's motion for summary judgment,
+ 
+the Circuit Court relied upon the designated premises endorsement
+ in James River's policy. The Circuit Court granted Columbia
+ Casualty's motion on the same ground that it dismissed C.
+ Brewer's claims against other pre-breach CGL insurers and on the
+ additional ground that C. Brewer had failed to show any potential
+ for coverage in light of the Known or Continuing Injury or Damage
+ 
+14
+  NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+endorsement in Columbia Casualty's policies. The Circuit Court
+ 
+dismissed C. Brewer's claims against Fireman's Fund based on
+ Fireman's Funds' substantive joinder in the motions filed by
+ James River and Columbia Casualty. 
+Through a series of orders, the Circuit Court ruled
+ 
+that none of the Defendant Insurers had any duty to defend or
+ indemnify C. Brewer, and it dismissed C. Brewer's second amended
+ complaint against them. The Circuit Court also denied or
+ dismissed as moot C. Brewer's motions for partial summary
+ judgment against certain of the Defendant Insurers.
+ 
+C.
+ 
+The State and Kehalani, which asserted they were an
+ 
+insured or additional insured on various insurance policies
+ issued to C. Brewer, filed cross-claims against certain of the
+ Defendant Insurers and third-party complaints against other
+ insurers, seeking declaratory relief. Through various orders and
+ stipulations, the Circuit Court dismissed the cross-claims and
+ third-party complaints filed by the State and Kehalani against
+ the Defendant Insurers and other insurers.
+ 
+D.
+ 
+C. Brewer filed a motion for HRCP Rule 54(b) (2000)
+ 
+certification with respect to the Circuit Court's orders. The
+ Circuit Court granted the motion, and on December 21, 2007, it
+ entered Final Judgment pursuant to HRCP Rule 54(b) (Final
+ 
+11
+Judgment) in favor of Defendant Insurers  and against C. Brewer,
+the State, and Kehalani. C. Brewer, the State, and Kehalani
+ appeal from the Final Judgment. 
+DISCUSSION
+ 
+I.
+ 
+On appeal, the Insureds challenge the Circuit Court's
+ 
+orders granting various motions filed by Defendant Insurers to
+ 
+11
+ The Final Judgment was entered in favor of the following Defendant
+Insurers: National Union, U.S. Fire, Liberty Mutual, TIG, Columbia Casualty,
+James River, Marine Indemnity, Lexington, ACE, Pacific Employers, Scottsdale,
+Fireman's Fund, and First State. 
+15
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+dismiss or for summary judgment on the Insureds' claims for 
+declaratory relief. The Circuit Court granted motions to dismiss pursuant to HRCP Rule 12(b)(6) for failure to state a claim upon which relief can be granted. We review a trial court's ruling on such a motion de novo. Wright v. Home Depot U.S.A., Inc., 111 
+Hawai'i 401, 406, 142 P.3d 265, 270 (2006). 
+A complaint should not be dismissed for failure to
+state a claim unless it appears beyond doubt that the
+plaintiff can prove no set of facts in support of his or her
+claim that would entitle him or her to relief. [The
+appellate court] must therefore view a plaintiff's complaint
+in a light most favorable to him or her in order to
+determine whether the allegations contained therein could
+warrant relief under any alternative theory.
+ 
+In re Estate of Rogers, 103 Hawai' i 275, 280, 81 P.3d 1190, 1196 
+(2003) (block quote formatting altered and citations omitted). 
+We review a trial court's grant or denial of summary 
+judgment de novo, Querubin v. Thronas, 107 Hawai' i 48, 56, 109 
+P.3d 689, 697 (2005), using the same standard applicable to the 
+trial court. Iddings v. Mee–Lee, 82 Hawai' i 1, 5, 919 P.2d 263, 
+267 (1996). Summary judgment is proper "if the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law." HRCP Rule 56(c). The evidence and the inferences drawn from the evidence must be viewed in the light most favorable to the non-moving party. Kamaka v. Goodsill Anderson Quinn & Stifel, 117 Hawai' i 92, 104, 
+176 P.3d 91, 103 (2008). 
+The burden is on the party moving for summary judgment
+(moving party) to show the absence of any genuine issue as
+to all material facts, which, under applicable principles of
+substantive law, entitles the moving party to judgment as a
+matter of law. This burden has two components.
+ 
+First, the moving party has the burden of producing
+support for its claim that: (1) no genuine issue of material
+fact exists with respect to the essential elements of the
+claim or defense which the motion seeks to establish or
+ which the motion questions; and (2) based on the undisputed
+facts, it is entitled to summary judgment as a matter of
+law. Only when the moving party satisfies its initial
+burden of production does the burden shift to the non-moving
+ 
+16
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+party to respond to the motion for summary judgment and
+demonstrate specific facts, as opposed to general
+allegations, that present a genuine issue worthy of trial.
+ 
+Second, the moving party bears the ultimate burden of
+persuasion. This burden always remains with the moving
+party and requires the moving party to convince the court
+that no genuine issue of material fact exists and that the
+moving party is entitled to summary judgment as a matter of
+law.
+ 
+French v. Hawaii Pizza Hut, Inc., 105 Hawai' i 462, 470, 99 P.3d 
+1046, 1054 (2004) (emphasis in original omitted) (quoting GECC 
+Fin. Corp. v. Jaffarian, 79 Hawai' i 516, 521, 904 P.2d 530, 535 
+(App. 1995)). 
+II.
+ 
+Before addressing the specific issues raised on appeal,
+ 
+we review several general principles and concepts that are
+ relevant to our analysis.
+ 
+A. 
+As noted, Defendant Insurers issued insurance policies
+ 
+to C. Brewer that basically fall into three categories: (1) CGL
+ policies, (2) property policies, and (3) excess policies. In
+ general, each type of policy is designed to protect the insured
+ against different kinds of injury or damage. 
+CGL policies are "third-party" policies which protect 
+the insured against liability it may incur to another. Sentinel 
+Ins. Co. v. First Ins. of Hawaii, 76 Hawai' i 277, 289, 875 P.2d 
+894, 906 (1994). On the other hand, property policies are typically "first-party" policies which provide coverage for loss or damage sustained by the insured upon the occurrence of a covered risk. See id. Excess policies are secondary policies 
+under which liability attaches after primary coverage has been exhausted. Cmty. Redev. Agency v. Aetna Cas. & Sur. Co., 57 Cal. 
+Rptr. 2d 755, 759 (Cal. Ct. App. 1996). 
+C. Brewer acknowledged at oral argument that there is
+ 
+no duty to defend imposed under the property policies. With
+ respect to these policies, C. Brewer only sought a declaration
+ that the property insurers have a duty to indemnify for losses
+ 
+17
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+covered by the policies. With respect to excess policies, unless
+ 
+the policy otherwise specifies, "an excess insurer has no
+ obligation to provide a defense to its insured before the primary
+ coverage is exhausted." Id. at 760.
+ 
+B.
+ 
+CGL policies typically impose both a duty to defend and 
+to indemnify. An insurer's duty to defend and its duty to indemnify an insured are separate and distinct. Sentinel, 76 
+Hawai'i at 291, 875 P.2d at 908. 
+[T]he obligation to defend is broader than the duty to
+[indemnify] and arises wherever there is the mere potential
+ 
+for coverage. In other words, the duty to defend rests
+primarily on the possibility that coverage exists. This
+ 
+possibility may be remote but if it exists, the insurer owes
+the insured a defense. All doubts as to whether a duty to
+defend exists are resolved against the insurer and in favor
+of the insured.
+ 
+Id. at 287, 875 P.2d at 904 (emphasis in original; quotation
+ 
+marks, citations, brackets, and ellipsis points omitted). An
+ insurer's already heavy burden of proof as a movant for summary
+ judgment is increased when moving for summary judgment on the
+ issue of its duty to defend. In that circumstance,
+ 
+[the insurer bears] the burden of proving that there [is] no
+genuine issue of material fact with respect to whether a
+possibility exist[s] that [the insured] would incur
+liability for a claim covered by the polic[y]. In other
+ words, [the insurer is] required to prove that it would be
+impossible for the [party suing the insured for damages] to
+prevail against [the insured] in the underlying lawsuit[] on
+a claim covered by the polic[y]. Conversely, [the
+insured's] burden with respect to its motion for summary
+judgment [is] comparatively light, because it [has] merely
+to prove that a possibility of coverage exist[s].
+ 
+Dairy Road Partners v. Island Ins. Co., 92 Hawai' i 398, 412-13, 
+992 P.2d 93, 107-08 (2000) (emphasis in original). 
+The duty to defend under an insurance policy is 
+contractual in nature, and the court "must look to the language 
+of the policy involved to determine the scope of that duty." Hawaiian Holiday Macadamia Nut Co. v. Indus. Indem. Co., 76 Hawai'i 166, 169, 872 P.2d 230, 233 (1994). Generally, "[t]he 
+duty to defend is limited to situations where the pleadings have 
+18
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+alleged claims for relief which fall within the terms for
+ 
+coverage of the insurance contract." Id. at 169, 872 P.2d at
+ 
+233. However, where the pleadings of the underlying lawsuit do
+ 
+not address issues crucial to the determination of coverage, 
+"an insurer must look beyond the effect of the pleadings and
+must consider any facts brought to its attention or any
+facts which it could reasonably discover in determining
+whether it has a duty to defend. . . . The possibility of
+coverage must be determined by a good faith analysis of all
+information known to the insured or all information
+ reasonably ascertainable by inquiry and investigation."
+ 
+Sentinel, 76 Hawai' i at 288, 875 P.2d at 905 (ellipsis points in 
+original; block quote formatting altered; brackets and citation 
+omitted). 
+III.
+ 
+According to C. Brewer, it was continually insured
+ 
+under CGL policies issued by Defendant Insurers from at least
+ 1987 through the Kaloko Dam breach in March 2006. We first
+ address the Circuit Court's ruling that the pre-breach CGL
+ insurers had no duty to defend. 
+The Circuit Court, applying the injury-in-fact trigger,
+ 
+ruled that the pre-breach CGL insurers had no duty to defend
+ because the Underlying Lawsuits did not allege damages occurring
+ within the policy periods of the pre-breach CGL insurers. The
+ Circuit Court therefore dismissed the Insureds' claims against
+ the pre-breach CGL insurers. 
+C. Brewer argues that the Circuit Court erred in ruling 
+that the pre-breach CGL insurers had no duty to defend on the
+ ground that the Underlying Lawsuits did not allege damages
+ occurring during the pre-breach CGL policy periods. C. Brewer
+ contends that the Pflueger complaint alleged continuous,
+ incremental, and indivisible property damage to the Kaloko Dam
+ during each of the pre-breach CGL policy periods, and that the
+ allegations of the Pflueger complaint were incorporated into the
+ Fehring the Midler complaints. The State and Kehalani join with
+ C. Brewer in arguing that the Circuit Court erred in ruling that
+ the pre-breach CGL insurers had no duty to defend. 
+19
+  NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+As explained below, we conclude that the Circuit Court
+ 
+erred in ruling that the pre-breach CGL insurers had no duty to
+ 
+defend in the Pflueger lawsuit based on its determination that
+ the Pflueger lawsuit did not allege any damages that occurred
+ during the pre-breach CGL policy periods. We further conclude,
+ however, that the Circuit Court properly ruled that the pre-
+breach CGL insurers had no duty to defend in the Fehring and
+ Midler lawsuits. 
+A.
+ 
+Each of the pre-breach CGL policies contain language
+ 
+that is substantively similar, if not identical, to the
+ following:
+ 
+We will pay those sums that the insured becomes legally
+obligated to pay as damages because of "bodily injury" or
+"property damage" to which this insurance applies. . . .
+This insurance applies only to "bodily injury" and "property
+damage" which occurs during the policy period. . . . We
+ will have the right and duty to defend any "suit" seeking
+those damages.
+ 
+These are "occurrence policies" which obligate the insurers to 
+pay those sums that the insured becomes legally obligated to pay as damages because of "bodily injury" or "property damage" which occurs during the policy period. "[U]nder an occurrence policy, the event that triggers potential coverage is the sustaining of actual damage by the complaining party and not the date of the act or omission that caused the damage." Sentinel, 76 Hawai' i at 
+288, 875 P.2d at 905. 
+There is no dispute that the Underlying Lawsuits did
+ 
+not claim damages for bodily injury which occurred during any
+ pre-breach CGL policy periods. Therefore, the relevant inquiry
+ is whether the Underlying Lawsuits sought recovery for property
+ damage which occurred during the pre-breach CGL policy periods.
+ 
+In Sentinel, the Hawai' i Supreme Court construed 
+12
+standard form CGL policies,  which contained language that is
+12
+ In Sentinel , the supreme court construed comprehensive general
+ 
+liability policies, which have largely been replaced by commercial general
+(continued...)
+ 
+20
+  NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+substantively the same as the above-quoted language of the pre-
+breach CGL policies at issue in this case.13 The supreme court
+ 
+adopted the injury-in-fact trigger for standard CGL occurrence-
+type policies. Id. at 297-98, 875 P.2d at 914-15. The supreme
+ 
+court noted that in latent defect cases,
+ 
+the date when the property damage occurs is often difficult,
+if not impossible to pinpoint. Thus several analytical
+theories -- such as the manifestation of loss theory, the
+exposure theory, and the injury-in-fact theory -- have been
+developed to guide courts in making the determination of
+when damage "occurs," thereby triggering coverage.
+ 
+Id. at 297, 875 P.2d at 914. 
+After examining each of these theories, the supreme
+ 
+court concluded that the "injury-in-fact trigger is the only
+ 
+theory of coverage consistent with the plain language of the
+ policies" at issue, and it adopted "the injury-in-fact trigger
+ for all standard CGL policies." Id. at 298, 875 P.2d at 915.
+ 
+Under this trigger, "coverage is triggered by the actual
+ occurrence during the policy period of an injury-in-fact." Id. 
+Moreover, "[u]nder this trigger, an injury occurs whether
+ detectable or not; in other words, an injury need not manifest
+ itself during the policy period, as long as its existence during
+ that period can be proven in retrospect." Id. 
+The supreme court further concluded that
+ 
+where injury-in-fact occurs continuously over a period
+ 
+12(...continued)
+liability policies. See Black's Law Dictionary 877 (9th ed. 2009) (defining
+"commercial general-liability policy" and "comprehensive general-liability
+policy"). We will refer to both of these policies as "CGL policies."
+ 
+13 As quoted in Sentinel, the CGL policies at issue in Sentinel
+provided:
+ 
+[Insurer] will pay on behalf of the insured all sums which the
+insured shall become legally obligated to pay as damages because
+of . . . property damage to which this insurance applies, caused
+by an occurrence, and [insurer] shall have the right and duty to
+defend any suit against the insured seeking damages on account of
+such . . . property damage, even if the allegations are
+groundless, false or fraudulent.
+ 
+Sentinel, 76 Hawai' i at 287, 875 P.2d at 904 (ellipsis points in original). 
+21
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+covered by different insurers or policies, and actual
+apportionment of the injury is difficult or impossible to
+determine, the continuous injury trigger may be employed to
+equitably apportion liability among insurers.
+ 
+Id. at 300, 875 P.2d at 917. Under the continuous injury
+ 
+trigger, 
+property damage is deemed to have "occurred" continuously
+for a fixed period (the "trigger period"), and every insurer
+on the risk at any time during that trigger period is
+jointly and severally liable to the extent of their policy
+limits, the entire loss being equitably allocated among the
+insurers. The trigger period begins with the inception of
+the injury and ends when the injury ceases. Before the
+ continuous injury trigger may be applied, the party urging
+its application must make two factual showings. It must be
+ established that: (1) some kind of property damage occurred
+during the coverage period of each policy under which
+recovery is sought; and (2) the property damage was part of
+a continuous and indivisible process of injury.
+ 
+Id. at 298, 875 P.2d at 915 (citations omitted).
+ 
+B.
+ 
+In reviewing the Circuit Court's ruling that the pre-
+breach CGL insurers had no duty to defend, we must examine
+ 
+whether the Underlying Lawsuits "raised the possibility" that the
+ Insureds would be entitled to indemnification under the pre-
+breach CGL policies. Id. at 287, 875 P.2d at 904. The Insureds
+ 
+and the pre-breach CGL insurers agree that an injury-in-fact
+ trigger applies to the pre-breach CGL policies. They disagree,
+ however, over whether the Underlying Lawsuits seek recovery for
+ an injury-in-fact, namely, actual property damage, which occurred
+ during the pre-breach CGL policy periods. 
+The Insureds argue that the pre-breach CGL insurers 
+had a duty to defend them in the Pflueger lawsuit because the
+ Pflueger lawsuit seeks damages for continuous, incremental, and
+ indivisible property damage to the Kaloko Dam (owned by the
+ Pflueger Plaintiffs), with such damage beginning in at least 1987
+ and continuing through the pre-breach CGL policy periods. The
+ Pflueger complaint asserted that the Insureds were negligent in
+ carrying out their responsibilities regarding the operation,
+ inspection, maintenance, and repair of the System, which includes
+ the Kaloko Dam, and broadly seeks a judgment for "general,
+ 
+22
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+special and punitive damages in an amount to be proven at trial." 
+The Insureds argue that because the Fehring and Midler complaints
+ incorporate the allegations of the Pflueger complaint, and
+ because the Pflueger Plaintiffs filed cross-claims against the
+ Insureds in the Fehring and Midler lawsuits, the pre-breach CGL
+ insurers also had a duty to defend them in the Fehring and Midler
+ lawsuits. 
+On the other hand, the pre-breach CGL insurers argue
+ 
+that the plaintiffs in the Underlying Lawsuits do not seek
+ compensation for damages that occurred prior to the breach of the
+ Kaloko Dam. Instead, they argue that a plain reading of the
+ Pflueger, Fehring, and Midler complaints demonstrates that the
+ plaintiffs in the Underlying Lawsuits are only seeking recovery
+ of damages that occurred on or after the Kaloko Dam breach on
+ March 14, 2006. They assert that neither the Pflueger complaint
+ nor the Fehring and Midler complaints mention any continuous,
+ incremental, or indivisible property damage to the Kaloko Dam. 
+The pre-breach CGL insurers further argue that even if the Kaloko
+ Dam did sustain continuous, incremental, and indivisible damage
+ during the pre-breach CGL policy periods, this would be
+ irrelevant because that is not the damage for which the
+ plaintiffs in the Underlying Lawsuits are suing. The pre-breach
+ CGL insurers assert that the duty to defend is not triggered by
+ the mere existence of actual property damage during the policy
+ period, but only by actual property damage during the policy
+ period for which a third-party is suing to recover.
+ 
+C.
+ 1.
+ 
+The Pflueger complaint does not clearly and explicitly
+ 
+state that the Pflueger Plaintiffs are seeking recovery for
+ actual incremental and continuous damage to the Kaloko Dam that
+ was sustained during the pre-breach CGL policy periods. However,
+ "[w]here the complaint does not address the crucial issue of
+ whether the alleged property damage occurred during the policy
+ period," in determining whether an insurer has a duty to defend,
+ 
+23
+ NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+24"an insurer must look beyond the effect of the pleadings and
+must consider any facts brought to its attention or any
+facts which it could reasonably discover in determining
+whether it has a duty to defend. . . .  The possibility of
+coverage must be determined by a good faith analysis of all
+information known to the insured or all information
+reasonably ascertainable by inquiry and investigation."
+Sentinel, 76 Hawai# i at 288, 875 P.2d at 905 (ellipsis points in
+original; block quote formatting altered; brackets, footnote, and
+citation omitted).
+In its second amended complaint for declaratory relief,
+C. Brewer cited the following response by the Pflueger Plaintiffs
+to an interrogatory posed in the Pflueger  lawsuit:
+11.In the Complaint, are you in part alleging
+that Defendants [(which include the Insureds)] failure
+to maintain the dam from 1982 to 3/14/06 resulted in a
+continuous, incremental and indivisible process of
+damage to the dam over that period of time that
+culminated in the breach of the dam on 3/14/06?
+Answer:  
+Yes and, in actuality, Defendants' failure to maintain
+the dam and reservoir also predates 1982.
+C. Brewer's second amended complaint also referred to a
+report prepared by Special Deputy Attorney General Robert C.
+Godbey (Godbey Report).  Mr. Godbey had been appointed by the
+State to investigate the possible causes of the Kaloko Dam
+breach.  The Insureds assert that the Godbey Report provides
+support for the claim that ongoing failure to maintain and repair
+the Kaloko Dam for several decades could have caused continuing,
+incremental, and indivisible damage to the Kaloko Dam.  The
+Godbey Report indicated that the Kaloko Dam's failure could
+possibly have been caused by internal erosion of the embankment
+or dam foundation materials by seepage leading to the formation
+of a conduit or pipe through the embankment or foundation and the
+eventual collapse of the crest.  The Godbey Report also indicated
+that there was evidence in the factual record of concern with
+seepage that went back for several decades.
+In addition, the record in this case contains a
+transcript of statements made by counsel for the Pflueger  NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Plaintiffs at a hearing in the Pflueger lawsuit. These
+ 
+statements make clear that the Pflueger Plaintiffs were not
+ simply seeking indemnity and contribution from the Insureds for
+ claims brought against the Pflueger Plaintiffs, but were also 
+seeking recovery of damages for property damage to the Kaloko
+ Dam, which the Pflueger Plaintiffs owned.
+14
+ 
+2.
+ 
+We conclude that the Pflueger lawsuit raised the
+ 
+possibility that the Insureds would be subject to liability for
+ actual damage (injury-in-fact) to the Kaloko Dam that occurred
+ during the pre-breach CGL policy periods. Our conclusion is
+ based on allegations in the Pflueger complaint regarding the
+ Insureds' failure to properly maintain, repair, and inspect the
+ Kaloko Dam; the Pflueger Plaintiffs' broad prayer for "general,
+ special and punitive damages in an amount to be proven at trial";
+ the Pflueger Plaintiffs' interrogatory answer that their
+ complaint alleges "continuous, incremental and indivisible
+ process of damage to the [Kaloko D]am"; the Godbey Report's
+ identification of internal erosion and piping as a possible cause
+ of the Kaloko Dam's failure; and the statement of counsel for the
+ Pflueger Plaintiffs that they are seeking compensation for the
+ loss of the Kaloko Dam.
+ 
+It is the possibility of coverage upon which the duty 
+to defend rests. Sentinel, 76 Hawai' i at 287, 875 P.2d at 904. 
+"This possibility may be remote, but if it exists, the insurer owes the insured a defense." Id. (brackets omitted). The 
+Pflueger lawsuit raised the possibility that the Pflueger 
+14
+ Counsel for the Pflueger Plaintiffs stated:
+ 
+[The] Court is absolutely correct. We filed a 23-claim
+ 
+complaint, only one of which, which is the 23rd claim, has
+anything to do with contribution and indemnity. I think it's
+ rather surprising for the other side to argue disingenuously that
+our land and our property, that we didn't suffer any property or
+economic damages as a result of the flood. Judge, you just have
+to take one look at the pictures on TV and we're missing a dam. I
+ mean, you can quantify that as $18 million right there in damages
+in the loss of the dam structure itself.
+ 
+25
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Plaintiffs could prevail against the Insured on a claim for 
+property damage covered by the pre-breach CGL policies. Accordingly, we conclude that the Circuit Court erred in ruling that the pre-breach CGL insurers had no duty to defend the Insureds in the Pflueger lawsuit based on its determination that the Pflueger lawsuit did not allege any damages that occurred during the pre-breach CGL policy periods. See id.; Pancakes of 
+Hawaii, Inc. v. Pomare Properties Corp., 85 Hawai' i 286, 291, 944 
+P.2d 83, 88 (App. 1997) (stating that where a duty to defend arises, "the insurer has a duty to accept the defense of the entire suit even though other claims of the complaint fall outside the policy's coverage" (internal quotation marks and citation omitted)). 
+D.
+ 
+We reach a different conclusion, however, with respect
+ 
+to the duty of the pre-breach CGL insurers to defend the Insureds
+ in the Fehring and Midler lawsuits. Unlike the Pflueger
+ complaint, which raised the possibility of recovery against the
+ Insureds for continuous and incremental damage to the Pflueger
+ Plaintiffs' property (namely, the Kaloko Dam) that occurred
+ during the pre-breach CGL policy periods, the Fehring and Midler
+ complaints did not raise the possibility of recovering damages
+ that occurred during the pre-breach CGL policy periods. The
+ Fehring complaint sought damages for seven deaths caused by the
+ Kaloko Dam breach; the Midler complaint sought to recover for
+ property damage that resulted from flooding after the breach of
+ the Kaloko Dam. The Fehring and Midler complaints only sought
+ recovery for bodily injury and property damage that were
+ sustained after the breach of the Kaloko Dam. Such injury or
+ damage resulting from the March 14, 2006, Kaloko Dam breach could
+ not have occurred during the policy periods of the pre-breach CGL
+ policies. Accordingly, there was no possibility that the
+ Insureds would be subject to liability under the Fehring and
+ Midler lawsuits for damages that were covered by the pre-breach
+ CGL policies.
+ 
+26
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+The Insureds do not contend that the plaintiffs in
+ 
+Fehring and Midler sought to recover for actual damages which
+ 
+occurred during the pre-breach CGL policy periods. Nevertheless,
+ they argue that the pre-breach CGL insurers' duty to defend
+ extends to the Fehring and Midler lawsuits because the Fehring
+ and Midler complaints incorporated the allegations of the
+ Pflueger complaint and because the Pflueger Plaintiffs filed
+ cross-claims against the Insureds in the Fehring and Midler
+ lawsuits. We disagree.
+ 
+The incorporation of the Pflueger complaint allegations
+ 
+into the Fehring and Midler complaints did not change the nature
+ of the damages sought in the Fehring and Midler lawsuits. The
+ Fehring and Midler complaints still only sought damages which
+ occurred and were sustained after the Kaloko Dam breach. The
+ cross-claims filed by the Pflueger Plaintiffs in the Fehring and
+ Midler lawsuits also did not create a duty to defend. The
+ Pflueger Plaintiffs' cross-claims sought indemnity and
+ contribution from the Insureds for any damages the Pflueger
+ Plaintiffs were required to pay to the Fehring and Midler
+ plaintiffs in the Fehring and Midler lawsuits. Accordingly, the
+ Pflueger Plaintiffs' cross-claims did not change the post-breach
+ nature of the damages sought in the Fehring and Midler lawsuits
+ and did not expose the Insureds to possible liability for any
+ actual damage that occurred during the pre-breach CGL policy
+ periods. We therefore affirm the Circuit Court's ruling that the
+ pre-breach CGL insurers had no duty to defend the Insureds in the
+ Fehring and Midler lawsuits.
+ 
+E.
+ 
+As fallback arguments, the pre-breach CGL insurers
+ 
+argue that even if the Circuit Court erred in basing its decision
+ that they had no duty to defend in the Pflueger lawsuit on the
+ ground that the Pflueger complaint did not allege any damages
+ occurring during the pre-breach GGL policy periods, this court
+ should still affirm the Circuit Court. The pre-breach CGL
+ insurers assert that various exclusions and other provisions of
+ 
+27
+  NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+their policies, which the Circuit Court did not rely or rule upon
+ 
+in its decision, preclude the possibility of coverage for the
+ claims raised in the Pflueger complaint and thus establish that
+ they had no duty to defend in the Pflueger lawsuit. 
+The Insureds argue that we should not address on appeal
+ 
+exclusions and other policy provisions that the Circuit Court did
+ not rely upon because the pre-breach CGL insurers did not cross-
+appeal from the Final Judgment and seek review of the Circuit
+ Court's failure to rule on these matters; allowing the pre-breach
+ CGL insurers to raise these claims in their answering briefs
+ unfairly restricts the Insureds' ability to fully brief the
+ issues; and determining the applicability of the cited exclusions
+ and other policy provisions requires factual determinations that
+ cannot be made for the first time on appeal.
+ 
+We decline to address exclusions and other policy
+ 
+provisions not ruled upon by the Circuit Court. On remand, the
+ Circuit Court may consider whether the various exclusions and
+ other policy provisions cited by the pre-breach CGL insurers
+ preclude the possibility of coverage and establish that the pre-
+breach CGL insurers had no duty to defend under their policies in
+ the Pflueger lawsuit.
+15
+ 
+IV.
+ 
+With respect to one of the pre-breach CGL insurers,
+ 
+Columbia Casualty, the Circuit Court did rely upon a specific
+ provision of Columbia Casualty's policies, the "Known or
+ Continuing Injury or Damage" endorsement, as an additional ground
+ for ruling that Columbia Casualty had no duty to defend in the
+ Underlying Lawsuits. We therefore address this provision. 
+15
+ We note that in their briefs, the Insureds referred to lawsuits that
+were filed against them after the Circuit Court's rulings which are the
+subject of this appeal. U.S. Fire filed a motion to strike the references in
+ the Insureds' opening briefs to these subsequently-filed lawsuits. In
+ rendering our decision in this appeal, we did not rely upon or consider these
+subsequently-flied lawsuits, which were unnecessary to our analysis.
+ 
+28
+    NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+A. 
+Columbia Casualty issued two pre-breach CGL policies to
+ 
+C. Brewer for the policy periods December 15, 2003 to December
+ 
+15, 2004 and December 15, 2004 to December 15, 2005. Columbia
+ 
+Casualty filed a motion to dismiss C. Brewer's second amended
+ 
+complaint, or in the alternative, for summary judgment after the
+ Circuit Court granted motions to dismiss filed by other pre-
+breach CGL insurers and ruled that those insurers had no duty to
+ defend because the Underlying Lawsuits did not claim damages that
+ occurred within their pre-breach policy periods. Columbia
+ Casualty argued that it was entitled to dismissal based on that
+ ruling under the "law of the case" doctrine. In the alternative,
+ Columbia Casualty argued that it was entitled to summary judgment
+ based on the "Known or Continuing Injury or Damage" endorsement
+ in its policies. The Circuit Court granted Columbia Casualty's
+ motion on both grounds asserted by Columbia Casualty.
+ 
+With respect to Columbia Casualty's alternative motion
+ 
+for summary judgment, the Circuit Court ruled that Columbia
+ Casualty was entitled to judgment in its favor based upon the
+ Known or Continuing Injury or Damage endorsement
+16 because 
+C. Brewer, and all other parties claiming coverage under the
+Columbia Casualty policies, have failed to allege sufficient
+facts to bring the claims within the coverage of the
+policies and have failed to present any evidence that would
+create a material question of fact to show any potential for
+coverage under the Known or Continuing [Injury or Damage]
+Endorsement for the bodily injury or property damage alleged
+in the [Underlying Lawsuits].
+ 
+C. Brewer argues that the Circuit Court erred in ruling
+ 
+that Columbia Casualty had no duty to defend based on its Known
+ 
+or Continuing Injury or Damage endorsement. We agree and
+ conclude that the Circuit Court erred in granting summary
+ judgment in favor of Columbia Casualty regarding its duty to
+ defend based on this endorsement.
+ 
+16
+ The Circuit Court referred to this endorsement as the "Known or
+ 
+Continuing Loss Endorsement." 
+29
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+B.
+ 
+The Known or Continuing Injury or Damage endorsement in
+ 
+Columbia Casualty's policies provided in relevant part as
+ 
+follows:
+ 
+1.	 Insuring Agreement
+ 
+. . . .
+ b.	 This insurance applies to "bodily injury" and
+"property damage" only if:
+ 
+(1)	 The "bodily injury" or "property damage"
+is caused by an "occurrence" that takes
+place in the "coverage territory";
+ 
+(2)	 The "bodily injury" or "property damage"
+occurs during the policy period; and
+ 
+(3)	 With respect to "bodily injury" or
+"property damage" that continues, changes
+or resumes so as to occur during more than
+one policy period, both of the following
+conditions are met:
+ 
+(i)	 Prior to the policy period, no
+Authorized Insured knew that the
+ "bodily injury" or "property damage"
+had occurred, in whole or in part;
+and
+ 
+(ii)	 During the policy period, an
+Authorized Insured first knew that
+ the "bodily injury" or "property
+damage" had occurred, in whole or in
+part.
+ 
+For purposes of this Paragraph 1.b(3)
+only, if (a) "bodily injury" or "property
+damage" that occurs during the policy
+period, does not continue, change or
+resume after the termination of this
+ policy period; and (b) no Authorized
+Insured first knows of this "bodily
+injury" or "property damage" until after
+the termination of this policy period,
+then such first knowledge will be deemed
+to be during this policy period.
+ 
+(Certain emphasis added.)
+ 
+For property damage that occurs during more than one
+ 
+policy period, the Known or Continuing Injury or Damage
+ 
+endorsement limits coverage to claims for property damage that
+ (1) was not known to have occurred prior to the policy period by
+ any authorized insured; and (2) was first discovered by an
+ 
+30
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+authorized insured during the policy period. However, what
+ 
+knowledge C. Brewer (as an authorized insured) had regarding
+ property damage claimed in the Pflueger lawsuit for which C.
+ Brewer could possibly be held liable and when it obtained such
+ knowledge were disputed issues of fact in the Pflueger lawsuit. 
+Columbia Casualty contends that the Circuit Court 
+properly granted Columbia Casualty's motion for summary judgment and ruled that it had no duty to defend because C. Brewer failed to present sufficient evidence to create a material question of fact as to the potential for coverage under Columbia Casualty's policies. Under Dairy Road, however, it was Columbia Casualty that had the burden of proving that "it would be impossible for the [Pflueger Plaintiffs] to prevail against [C. Brewer] in [the Pflueger lawsuit] on a claim covered by the policies." See Dairy 
+Road, 92 Hawai' i at 412-13, 992 P.2d at 107-08. Until the 
+factual questions regarding nature, extent, and timing of C. Brewer's knowledge of the property damage claimed by the Pflueger Plaintiffs were resolved, a possibility existed that C. Brewer would incur liability for a claim covered by the Columbia Casualty policies. Accordingly, the Circuit Court erred in granting summary judgment in favor of Columbia Casualty and ruling that it had no duty to defend based on the Known or Continuing Injury or Damage endorsement. 
+V.
+ 
+James River issued a CGL policy to C. Brewer that was
+ 
+in effect on the date of the March 14, 2006, Kaloko Dam breach. 
+Thus, as to the James River policy, there was no dispute that
+ injury-in-fact as alleged in the Underlying Lawsuits occurred
+ during the James River policy period, which covered the period
+ from December 15, 2005 to January 1, 2007. C. Brewer tendered
+ the defense of the Underlying Lawsuits to James River. James
+ River declined to defend C. Brewer on the ground that the James
+ River policy did not cover the claims asserted in the Underlying
+ Lawsuit based on endorsements and exclusions in the policy.
+ 
+31
+  NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+James River moved for summary judgment seeking a
+ 
+declaration that it had no obligation to defend or indemnify C.
+ 
+Brewer with respect to the Underlying Lawsuits.17 James River
+ 
+argued that various endorsements and exclusions in its policy,
+ including the designated premises endorsement, precluded coverage
+ under its policy. The Circuit Court found that the terms of
+ James River's policy were "clear and unambiguous." Relying on 
+the designated premises endorsement, the Circuit Court found that
+ the there was no coverage under the James River policy and
+ granted James River's motion for summary judgment. The Circuit
+ Court emphasized that it did not reach the effect of the
+ exclusions argued by James River in rendering its decision.
+ 
+On appeal, the Insureds argue that the Circuit Court
+ 
+erred in finding that James River had no duty to defend in
+ granting summary in favor of James River. We agree. We conclude 
+the James River policy was ambiguous with respect to whether
+ coverage was barred by the designated premises endorsement and
+ therefore that the intent of the parties in using this
+ endorsement raised genuine issues of material fact. Accordingly,
+ the Circuit Court erred in granting summary judgment without
+ considering the parties' intent. 
+A.
+ 
+"Insurance policies are subject to the general rules of 
+contract construction; the terms of the policy should be interpreted according to their plain, ordinary, and accepted sense in common speech unless it appears from the policy that a different meaning is intended . . . ." First Ins. Co. of 
+Hawai'i, Inc. v. State, 66 Haw. 413, 423-24, 665 P.2d 648, 655 
+(1983) (citation omitted). In construing a contract, "[t]he court's objective is 'to ascertain and effectuate the intention of the parties as manifested by the contract in its entirety.'" 
+17
+ James River also sought summary judgment with respect to a
+counterclaim filed by Kehalani against C. Brewer in the declaratory relief
+action and informal claims made by the State and Kilauea Irrigation against C.
+Brewer.
+ 
+32
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+Hawaiian Ass'n of Seventh-Day Adventists v. Wong, No. SCWC-28592, 
+--- P.3d ----, 2013 WL 3364395, at *7 (Hawai' i June 28, 2013) 
+(citation omitted). 
+"A contract is ambiguous when its terms are reasonably 
+susceptible to more than one meaning." Id. The court is 
+permitted to consider parol or extrinsic evidence where a contract is ambiguous or incomplete "to explain the intent of the parties and the circumstances under which the agreement was executed." Id. When the terms of a contract or insurance policy 
+are ambiguous "so that there is some doubt as to the intent of the parties, intent is a question of for the trier of fact." Foundation Intern., Inc. v. E.T. Ige Const., Inc., 102 Hawai' i 
+487, 497, 78 P.3d 23, 33 (2003); DiTullio v. Hawaiian Ins. & Guaranty Co., 1 Haw. App. 149, 154-56, 616 P.2d 221, 225-26 (1980) (concluding that ambiguous terms in an insurance policy created genuine issues of material fact regarding the parties intent, which precluded summary judgment in favor of insurer on its duty to defend). 
+If the ambiguity in the policy cannot be resolved
+ 
+through extrinsic evidence of the parties' intent, then the court
+ should apply principles of construction applicable to insurance
+ policies. See Sallie v. Tax Sale Investors, Inc., 814 A.2d 572,
+ 
+584 (Md. Ct. Spec. App. 2002); Ellis Court Apartments Ltd. P'ship
+ v. State Farm Fire & Cas. Co., 72 P.3d 1086, 1090 (Wash. Ct. App. 2003). Under these principles, insurance policies "must be construed liberally in favor of the insured and any ambiguities must be resolved against the insurer." Dairy Road, 92 Hawai' i at 
+411-12, 992 P.2d 106-07 (block quote format, brackets, and citation omitted). 
+B.
+ 
+James River issued a CGL policy to C. Brewer that
+ 
+covered (1) bodily injury and property damage liability; (2)
+ personal and advertising injury liability; and (3) medical
+ payments. The policy was subject to numerous endorsement and
+ exclusions, including a designated premises endorsement which
+ 
+33
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+stated: "This insurance applies only to 'bodily injury',
+ 
+'property damage', or 'personal and advertising injury' arising
+ out of the ownership, maintenance, and use of the premises shown
+ in the above Schedule." The "above Schedule" in the policy
+ refers to "Premises: Locations 1-3." In addition, the policy
+ contains a "Schedule of Locations" which lists 311 Pacific
+ Street, which C. Brewer states was its corporate headquarters, as
+ well as "3-1480 Kaumaualii Hwy", "Old Mamalahoa Hwy", and
+ numerous parcels of vacant land identified by their tax map key
+ numbers. The site of the Kaloko Dam and Reservoir is not among
+ the properties listed in the Schedule of Locations.
+ 
+The James River policy also includes a classification
+ 
+limitation endorsement which states, in relevant part: "The
+ coverage provided by this policy applies only to those operations
+ . . . described under the 'description of operations' or
+ 'classification' on the declarations of the policy." The
+ policy's declarations do not contain a section entitled
+ "description of operations" or "classification." They do,
+ however, have a section which states: "BUSINESS DESCRIPTION: 
+Real Estate Owners."
+ 
+C.
+ 
+Contrary to the Circuit Court, we conclude that the
+ 
+designated premises endorsement is ambiguous with respect to
+ whether it precludes coverage under the circumstances of this
+ case. The key question is whether the language "arising out of
+ the ownership, maintenance, and use of the [designated] premises"
+ can be interpreted to encompass the use of C. Brewer's business
+ headquarters (one of the designated premises) to make negligent
+ business decisions that caused personal injury and property
+ damage outside of the designated premises. 
+C. Brewer asserts that the Underlying Lawsuits alleged
+ 
+that C. Brewer made numerous negligent corporate decisions that
+ emanated from its corporate headquarters at 311 Pacific Street,
+ including the ongoing failure to warn the plaintiffs in the
+ Underlying Lawsuits about the unsafe condition of the Kaloko Dam
+ 
+34
+    NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+and the failure to adequately capitalize its land operations and
+ 
+companies responsible for maintaining and repairing the Kaloko
+ Dam, which caused injuries and damages to the plaintiffs. C.
+ Brewer argues that the Underlying Lawsuits alleged a sufficient
+ causal connection between C. Brewer's use of its headquarters and
+ the damages sought to show that there was coverage under the
+ James River policy. In support of its argument, C. Brewer cites
+ Am. Guar. & Liab. Ins. Co. v. 1906 Co., 129 F.3d 802 (5th Cir.
+ 1977), a case from another jurisdiction, where the court
+ construed a designated premises endorsement with language similar
+ to the James River policy. The court concluded that the
+ designated premises endorsement did not exclude coverage for
+ negligent decisions made at corporate headquarters, a designated
+ premises, which resulted in personal injuries sustained at a non-
+designated premises. Id. at 807-08.
+18
+ 
+On the other hand, James River argues that the
+ 
+designated premises endorsement in its policy should not be
+ construed as encompassing negligent business decision made on the
+ designated premises that result in injury elsewhere. Instead, it
+ contends that this endorsement should be construed as limiting
+ coverage to occurrences which take place on the designated
+ premises. In support of its argument, James River cites Union
+ Am. Ins. Co. v. Hatian Refugee Center/Sant Refijie Ayisyin, Inc.,
+ 858 So.2d 1076 (Fla. Dist. Ct. 2003), which construed a similar
+ designated premises endorsement as precluding coverage for the
+ alleged failure to provide adequate security, where the injury
+ took place a mile from the insured's corporate headquarters, the
+ designated premises. Id. at 1077-79.
+19
+ 
+18
+ C. Brewer also cites State Auto. & Cas. Underwriters v. Beeson, 516
+ 
+P.2d 623 (Colo. 1973), in support of its argument. 
+19 James River also cites additional authority in support of its
+argument, including Founders Commercial, Ltd. v. Trinity Universal Ins., 176
+S.W.3d 484 (Tex. App. 2004). 
+35
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+We conclude that the both of the conflicting
+ 
+interpretations of the designated premises endorsement offered by
+ 
+C. Brewer and James River are reasonable. Accordingly, the
+ designated premises endorsement is ambiguous as it is "reasonably
+ susceptible to more than one meaning." 
+See Hawaiian Ass'n of
+ 
+Seventh-Day Adventists, No. SCWC-28592, 2013 WL 3364395, at *7. 
+The use of the language "arising out of the ownership,
+ maintenance, and use of the premises" suggests that the parties
+ may have intended to restrict coverage to injuries and damages
+ occurring on the designated premises. However, the designated
+ premises endorsement applies not only to bodily injury and
+ property damage, but also to "personal and advertising injury"
+ arising out of the use of the designated premises. While
+ decisions made at C. Brewer's corporate headquarters would likely
+ be the cause of any advertising injury, the resulting advertising
+ injury would occur off the designated premises. Thus, the
+ inclusion of advertising injury in the designated premises
+ endorsement suggests that the parties may have intended to
+ include coverage for negligent decisions made at a designated
+ premises that resulted in injury and damages elsewhere.
+ 
+In 
+Sallie, 814 A.2d at 584, the court concluded that
+ 
+the designated premises endorsement was ambiguous with respect to
+ whether it provided coverage for a wrongful eviction that
+ occurred off of the designated premises. It therefore vacated
+ the trial court's grant of summary judgment in favor of the
+ insurer and remanded the case for the trial court to receive 
+extrinsic evidence on the parties' intent in construing the
+ provision. Id. In DiTullio, 1 Haw. App. at 155-56, 616 P.2d at
+ 
+226, this court found that the language of the insurance policy
+ was ambiguous and created a genuine issue of fact regarding the
+ parties' intent in using it. We therefore vacated the trial
+ court's grant of summary judgment in favor of the insurer on its
+ duty to defend, and we remanded the case for "further inquiry to 
+36
+  
+  NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+determine the intention of the parties." Id.; see also, Union
+ 
+Insurance Society of Canton, Ltd. v William Gluckin & Co., 353
+ 
+F.2d 946, 950-52 (2d Cir. 1965) (vacating summary judgment in
+ favor of insurer and remanding on the issue of what the parties
+ intended as to the scope of the insurance policy).
+ 
+Similarly, in this case, we conclude that the
+ 
+designated premises endorsement is ambiguous and raises a genuine
+ issue of fact with respect to the parties' intent.
+20
+ 
+Accordingly, the Circuit Court erred in granting summary judgment
+ regarding James River's duty to defend based on the designated
+ premises endorsement without considering the parties' intent. On
+ remand, the parties will be entitled to introduce extrinsic
+ evidence to explain their intent regarding this endorsement.
+ 
+D.
+ 
+In addition to the designated premises endorsement,
+ 
+James River argues that the classification limitation endorsement
+ supports its position that there was no possibility of coverage
+ under its policy. Reading the classification limitation and
+ designated premises endorsements together, James River asserts
+ that because the policy describes C. Brewer as a "real estate
+ owner" and because C. Brewer did not own the property on which
+ the Kaloko Dam and Reservoir or its corporate headquarters were
+ located,
+21 C. Brewer "could not -- as a 'real estate owner' -­
+have 'used' the 311 Pacific Street location to make decisions
+ about the operation of the [Kaloko] Irrigation System, at any
+ time." 
+It is not clear whether the Circuit Court relied upon
+ 
+the classification limitation endorsement in its analysis. Even
+ 
+20
+ In this regard, we note that there is a suggestion in James River's
+arguments, based on extrinsic circumstances, that C. Brewer was winding up its
+corporate affairs and thus intended to obtain a different kind of CGL policy
+-- one that would require a lower premium but provide more limited coverage. 
+21
+ C. Brewer apparently was leasing the 311 Pacific Street property
+ 
+where its corporate headquarters was located. 
+37
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+assuming that the Circuit Court did, we conclude that the
+ 
+classification limitation endorsement did not resolve the
+ ambiguity regarding coverage. As C. Brewer argues, the policy
+ does not define "real estate owner" and the allegations in the
+ Underlying Lawsuits arguably implicated C. Brewer's activities
+ and operations as a real estate owner, such as the failure to
+ warn about the unsafe condition of the Kaloko Dam and the failure
+ to adequately capitalize its land operations and companies
+ responsible for maintaining and repairing the Kaloko Dam.
+ 
+On appeal, James River also argues that certain
+ 
+exclusions it its policy, such as the irrigation operations
+ exclusion and subsidence and earth movement exclusion, provide
+ independent grounds for its position that there was no coverage
+ or duty to defend under its policy. It is clear, however, that
+ the Circuit Court did not reach or rely upon any policy
+ exclusions in granting James River's motion for summary judgment. 
+We decline to address on appeal policy exclusions that the
+ Circuit Court did not rule upon in rendering its decision. 
+VI.
+ 
+C. Brewer was covered at various times between 1987 and
+ 
+2004 by multi-peril property policies issued by National Union,
+ Lexington, and Marine Indemnity. The policy periods for all of
+ the property insurers ended before the March 14, 2006 breach of
+ the Kaloko Dam. C. Brewer's second amended complaint did not
+ allege that the property insurers owned a duty to defend. Thus,
+ the only issue regarding the property insurers is their duty to
+ indemnify. 
+The Circuit Court dismissed C. Brewer's second amended
+ 
+complaint against the property insurers for failure to state a
+ claim upon which relief can be granted. As explained below, we
+ conclude that the Circuit Court erred.
+ 
+A.
+ 
+The Circuit Court dismissed C. Brewer's claims against
+ 
+the property insurers because it found
+ 
+38
+    NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+that a manifestation trigger of coverage would apply to an
+alleged multi-peril, first-party property insurance policypursuant to the Hawaii Supreme Court's discussion of first-party and third-party policies set forth in its opinion in
+Sentinel Insurance Co. v. First Insurance Co., 76 Hawai' i 
+277, 875 P.2d 894 (1994), citing Garvey v. State Farm Fire & Cas. Co., 48 Cal. 3d 395 (1989). 
+The Circuit Court then found that under a manifestation trigger,
+ 
+C. Brewer's second amended complaint failed to state a claim for
+ relief against the property insurers because no covered damages
+ were alleged to have become manifest during their policy
+ periods.
+22
+ 
+The Circuit Court was wrong in relying on Sentinel in 
+concluding that a manifestation trigger applied to the property policies. The Hawai' i Supreme Court in Sentinel did not address, 
+much less discuss, what the appropriate trigger would be for a first-party property insurance policy. Rather, the Supreme Court in Sentinel only addressed and determined the appropriate trigger for standard third-party CGL policies. Moreover, the supreme court did not adopt a manifestation trigger for standard CGL policies, but determined, based on the plain language of standard CGL policies, that an injury-in-fact trigger was the appropriate trigger for such policies. Sentinel, 76 Hawai' i at 298-99, 875 
+P.2d at 915-16. 
+The supreme court's references in Sentinel to first-
+party policies were cursory and made for the purpose of
+ distinguishing first-party from third-party insurance and
+ explaining why First Insurance's reliance on Home Insurance Co.
+ v. Landmark Insurance Co., 253 Cal. Rept. 277 (Cal. Ct. App. 1988), a first-party case from California which applied a manifestation trigger to a first-party policy, was not persuasive. Sentinel 76 Hawai' i at 290, 875 P.2d at 907. The 
+supreme court's citation of Home Insurance for the purpose of 
+22
+ Although the Circuit Court only set forth this reasoning in its order
+dismissing C. Brewer's claims against Marine Indemnity, we assume that it
+applied the same reasoning in dismissing the claims against the other property
+insurers.
+ 
+39
+    NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+distinguishing it cannot be viewed as an indication that the
+ 
+supreme court agreed with its analysis. Thus, the Circuit Court
+ erred in reading Sentinel as supporting the adoption of a
+ manifestation trigger for first-party property policies.
+23
+ 
+In Sentinel, the supreme court focused on the plain
+ 
+language of the policies at issue, which it found were standard
+ form CGL policies, in determining that an injury-in-fact trigger
+ was the appropriate trigger for standard CGL policies. In other
+ words, the supreme court let the language of the policies at
+ issue control its decision on the appropriate trigger. In
+ deciding this appeal, it is not necessary for this court to
+ attempt to determine whether there is a particular trigger that
+ should be applied to all first-party property policies. Rather,
+ just as in other insurance coverage disputes, it is the language
+ of the policy that guides our decision. We therefore focus on
+ the language of the policies at issue to determine whether C.
+ Brewer stated a claim upon which relief can be granted. 
+B.
+ 
+The Marine Indemnity policy, which contains language
+ 
+that is substantively the same as the other property policies at
+ issue, provided in relevant part as follows:
+ 
+1. TERM OF INSURANCE
+ 
+In consideration of $[-----] annual installment
+premium, this policy attaches and covers for a
+period from [-----] to [-----], . . . .
+ 
+. . . .
+ 
+6. COVERAGE
+ a. Real and Personal Property
+ Except as hereinafter excluded, this policy
+covers:
+ 
+(1) The interest of the Assured in all real
+ 
+23
+ The Circuit Court's reference to Garvey was also inapposite. The 
+supreme court in Sentinel cited Garvey in noting the basic differences between
+first-party and third-party insurance. Sentinel, 76 Hawai' i at 289, 875 P.2d
+at 289. However, Garvey did not discuss whether a manifestation trigger wasthe appropriate trigger for a first-party policy. 
+40
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+and personal property owned, used, or
+intended for use by the Assured, or
+hereafter erected, installed, or acquired
+including while in course of building,
+erection, installation, and assembly, and
+including interest in improvements and
+betterments in buildings not owned by the
+Assured.
+ 
+(2) 	The interest of the Assured in the real
+ and personal property of others in the
+Assured's care, custody, or control, and
+the Assured's liability imposed by law or
+assumed by contract, whether written or
+oral, for such property. 
+. . . .
+ 
+(Emphasis added.) 
+C. Brewer relies on the language in paragraph 6.a.(2)
+ 
+which provides coverage for (1) its interest "in the real and
+ 
+personal property of others in [its] care, custody, or control";
+ and (2) its "liability imposed by law or assumed by contract[.]" 
+C. Brewer argues that: (1) as the alleged alter ego of Kilauea
+ Irrigation, it was solely responsible for the operation,
+ inspection, maintenance, and repair of the Kaloko System and
+ Kaloko Dam pursuant to the Water Rights Agreement, and therefore
+ it had an interest in property of others (the Kaloko Dam) in its
+ care, custody or control; (2) by virtue of the Water Rights
+ Agreement, C. Brewer's liability for damage to the Kaloko Dam had
+ been assumed by contract or imposed by law; and (3) there had
+ been continuous, incremental damage to the Kaloko Dam during the
+ policy periods of the property insurers. 
+As noted, a complaint should not be dismissed for 
+failure to state a claim unless, when viewed in the light most favorable to plaintiff, "it appears beyond doubt that plaintiff can prove no set of facts in support of [its] claim that would entitle [it] to relief." Estate of Rogers, 103 Hawai' i at 280, 
+81 P.3d at 1195 (block quote format and citations omitted). Applying this standard, we conclude that the Circuit Court erred in dismissing C. Brewer's claims against the property insurers. 
+Although, in general, first-party property policies are
+ 
+designed to cover loss or damage to property of the insured, the
+ 
+41
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+property policies in this case extended coverage to property of
+ 
+others in C. Brewer's care, custody, or control, or for which
+ liability had been imposed on or assumed by C. Brewer by contract
+ or law. The property policies at issue do not contain language
+ which specifically conditions or limits coverage to property
+ damage that is discovered or becomes manifest during the policy
+ period. See Ellis Court, 72 P.3d at 1090 (construing language of
+ 
+first-party property policy as triggering coverage based on when
+ damage first began, rather than when it first became manifest,
+ where policy provided coverage for "loss commencing during policy
+ period" and did not contain any language purporting to condition
+ or limit coverage to when damage was discovered); Kief Farmers
+ Coop. Elevator Co. v. Farmland Mut. Ins. Co., 534 N.W.2d 28, 35­36 (N.D. 1995) (same). At minimum, the property policies are
+ ambiguous as to whether a manifestation trigger or an injury-in­fact trigger should be applied. Under these circumstances, we
+ cannot say beyond doubt that C. Brewer would not be able to prove
+ any set of facts entitling it to relief. Accordingly, we
+ conclude that the Circuit Court erred in dismissing C. Brewer's
+ claims against the property insurers for failure to state a claim
+ for relief.
+ 
+VII.
+ 
+The Circuit Court in various orders dismissed all
+ 
+claims against the excess insurers. It appears from the record
+ that the Circuit Court dismissed the claims against the excess
+ insurers in reliance on its rulings that the insurers holding the
+ primary policies during the corresponding policy periods had no
+ duty to defend or indemnify the Insureds. Based on our
+ determination that the Circuit Court erred in dismissing claims
+ against the primary insurers, we conclude that the Circuit Court
+ erred in relying on its rulings regarding the primary insurers in
+ dismissing the claims against the excess insurers. We therefore
+ vacate the Circuit Court's dismissal of the claims against the
+ 
+42
+     NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+excess insurers.24
+ 
+The excess insurers argue that the Circuit Court's
+ 
+dismissal of the claims against them should be affirmed on the
+ 
+alternative ground that the Insureds failed to adequately allege
+ or show that the underlying primary insurance coverage applicable 
+to each excess policy had been exhausted.  The Insureds dispute
+ 
+that this alternative ground is valid. Because there is no
+ 
+indication that the Circuit Court rendered a decision on this
+ issue, we decline to address it on appeal. 
+CONCLUSION
+ 
+For the foregoing reasons, we vacate the Circuit
+ 
+Court's Final Judgment, and we remand the case for further
+ proceedings consistent with this Memorandum Opinion.
+ 
+DATED: Honolulu, Hawai
+'i, August 7, 2013. 
+Kenneth R. Kupchak
+Tred R. Eyerly
+(Mark M. Murakami with them
+on the briefs)
+(Damon Key Leong Kupchak Hastert) for Plaintiff-Appellant
+C. Brewer and Company
+ Chief Judge
+Associate Judge
+Acting Associate Judge
+Lissa H. Andrews 
+(Devon I. Peterson with her
+on the brief)
+(Rush Moore LLP)
+Susan J. Field (Erin M. Donovan with her
+on the brief)
+(Musick Peeler & Garrett, LLP)
+for Defendant-Appellee
+United States Fire Insurance Co.
+ 
+James Monma
+ 
+(Randall Y.S. Chung and
+Ward F.N. Fujimoto on the
+brief)
+(Matsui Chung, ALC)
+for Defendant-Appellee
+ 
+24 There is a dispute as to whether the policies issued by ACE and
+Pacific Employers were primary CGL policies or excess policies. This dispute
+can be addressed on remand. 
+43
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+Liberty Mutual Insurance Co.
+ 
+Bradford F.K. Bliss
+ 
+(Jeffrey A. Griswold with him
+on the brief)
+(Lyons, Brandt, Cook & Hiramatsu)
+for Defendant-Appellee
+Columbia Casualty Insurance Co.
+ 
+Keith K. Hiraoka
+ 
+(Roeca, Louie & Hiraoka)
+for Defendant-Appellee
+Fireman's Fund Insurance Co.
+ of Hawaii, Inc.
+ 
+Keith K. Hiraoka
+ (Roeca, Louie & Hiraoka)
+Robert J. Romero
+ (Anne D. O'Niell and
+Cassidy E. Chivers with him
+on the brief)
+(Hinshaw and Culbertson, LLP)
+for Defendant-Appellee
+James River Insurance Co.
+ 
+Paul S. White (admitted pro hac vice)
+(Tressler, Soderstrom, Maloney & Priess)
+(Gale L. F. Ching and Mitzi A. Lee
+with him on the brief)
+(Ching & Lee)
+for Defendant-Appellee
+Marine Indemnity Insurance Co. of America
+ 
+William A. Bordner
+ 
+(Devin L. Choy with him
+on the brief)
+(Burke McPheeters Bordner & Estes)
+(Kevin G. McCurdy (pro hac vice) and
+ Mary P. McCurdy (pro hac vice)
+with him on the brief)
+(McCurdy & Fuller, LLP)
+for Defenadnt-Appellee
+Lexington Insurance Co. and
+National Union Fire Insurance Co.
+ of Pittsburg
+ 
+Shelton G.W. Jim On
+ (SJO & Associates, LLLLC)
+(Law Office of Shelton G.W. Jim On)
+(Henry F. Beerman with him
+on the brief)
+(Jim On and Beerman)
+ 
+44
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+for Defendant-Appellee
+Ace Property and Casualty Insurance
+Company fka CIGNA Property and
+Casualty Insurance Co. and
+Pacific Employers Insurance Co.
+ 
+45
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+Wesley D. Shimazu
+(Yamamura & Shimazu, AAL, ALC)
+(John Price and Amanda J. Weston
+on the brief)
+(Alan B. Yuter on the brief)
+(Selman Breitman, LLP)
+for Defendant-Appellee
+Scottsdale Insurance Co.
+ 
+Peter W. Olson
+ 
+(Cades Schutte, LLP)
+for Defendant-Appellee
+First State Insurance Co.
+ 
+William K. Meheula III
+ 
+(Andrew S. Winer with him
+on the briefs)
+(Winer Meheula & Devens LLP)
+for Defendant-Cross-Appellant
+Kehalani Holdings Co., Inc.
+ 
+Reese R. Nakamura
+ 
+(Michael S. Vincent with him
+on the briefs)
+Deputies Attorney Generalfor Defendant-Cross-AppellantState of Hawai' i 
+Michele-Lynn E. Luke
+(Kessner Umebayashi Bain & Matsunaga)
+for Defendants-Appellees
+Tradewind Insurance Co., Ltd. and
+Island Insurance Co., Ltd.
+ 
+Patricia Kehau Wall
+ 
+(appearing at oral argument
+but no brief filed)
+for Defendant-Appellee
+TIG Insurance Company
+ 
+46
+ 

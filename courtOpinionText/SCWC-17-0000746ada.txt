@@ -1,0 +1,933 @@
+*** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+ 
+ 
+   
+ 
+  
+ 
+  
+IN THE SUPREME COURT OF THE STATE OF HAWAIʻ I 
+ 
+---o0o--- 
+ 
+ 
+U.S. BANK TRUST, N.A., 
+AS TRUSTEE FOR LSF9 MASTER PARTICIPATION TRUST, 
+Petitioner/Plaintiff-Appellee, 
+ 
+vs. 
+ 
+PATRICK LOWELL VERHAGEN; PATRICK LOWELL VERHAGEN, TRUSTEE OF THE 
+PATRICK LOWELL VERHAGEN REVOCABLE TRUST DATED OCTOBER 29, 1999 
+Respondent/Defendant-Appellant, 
+ 
+and 
+ 
+WELLS FARGO BANK, N.A., 
+Respondent/Defendant-Appellee. 
+ 
+ 
+SCWC-17-0000746 
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS 
+(CAAP-17-0000746; CIVIL NO. 16-1-0147(1)) 
+ 
+JUNE 21, 2021 
+ 
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, WILSON, AND EDDINS, JJ.  
+ 
+OPINION OF THE COURT BY EDDINS, J. 
+ 
+This case concerns the admissibility and evidentiary weight 
+of documents and declarations at issue in a foreclosure Electronically Filed
+Supreme Court
+SCWC-17-0000746
+21-JUN-2021
+09:00 AM
+Dkt. 25 OP*** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+2 
+ proceeding.  We consider: whether promissory notes are hearsay, 
+admissible only if they fall within an exception to the hearsay 
+rule; whether a copy of a promissory note is self-authenticating 
+under Hawai‘ i Rules of Evidence (“HRE”) Rule 902(9); the scope 
+and limits of the business records exception to the hearsay 
+rule; and the evidentiary burden mortgagees must meet to 
+establish standing in the foreclosure context. 
+We conclude that promissory notes are not hearsay, that 
+copies of promissory notes are not self-authenticating under HRE 
+Rule 902(9), and that, under the incorporated records doctrine, 
+business records may, in certain circumstances, be admissible 
+even absent testimony concerning the business practices or records of their creator.  We also clarify the evidentiary 
+burden on mortgagees seeking to show their possession of a 
+promissory note at the time a foreclosure complaint was filed. 
+I. BACKGROUND 
+Patrick Verhagen (“Verhagen”) owned real estate in Lahaina 
+(the “Property”).  In September 2007, Verhagen executed a $1,730,000.00 note (the “Note”) in favor of Washington Mutual Bank, FA (“Washington Mutual”).  Verhagen secured the Note with 
+a mortgage on the Property. 
+The mortgage was later assigned to U.S. Bank.  Caliber Home 
+Loans, Inc. (“Caliber”) is U.S. Bank’s current loan servicer.  
+JPMorgan Chase Bank, National Association (“JPMorgan Chase”) *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+3 
+ previously serviced the loan. 
+Verhagen defaulted on the Note in February 2012.  He was 
+sent notice of the default in August 2014.  The notice provided 
+Verhagen thirty-five days to cure the default.  Verhagen did not 
+timely cure the default. 
+On March 23, 2016, U.S. Bank filed a verified foreclosure 
+complaint in the Circuit Court of the Second Circuit (the 
+“circuit court”). 
+The complaint was accompanied by a Verification to 
+Foreclosure Complaint by Julia Jackson, a Caliber employee.  Jackson said she was familiar with Caliber’s records and the 
+manner in which Caliber maintains those records.  She “verified” 
+and “confirmed” U.S. Bank’s possession of the original Note. 
+On January 31, 2017, U.S. Bank filed a Motion for Summary 
+Judgment and Interlocutory Decree of Foreclosure (“MSJ”) against 
+Verhagen. 
+In its MSJ, U.S. Bank argued it was entitled to summary 
+judgment against Verhagen because: (1) A loan had been made to Verhagen; (2) Verhagen made, executed, and delivered the Note to 
+the lender; (3) Verhagen secured the Note with a mortgage on the 
+Property; (4) Verhagen is in default of the amounts due under 
+the Note; and (5) U.S. Bank. holds the Note and has standing to 
+foreclose against Verhagen. 
+U.S. Bank supported its MSJ with a declaration (the *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+4 
+ “Salyers Declaration”) from Alyssa Salyers.  Salyers is a 
+foreclosure document specialist at Caliber. 
+Salyers declared she was familiar with both Caliber’s 
+business records concerning the Note and the manner in which 
+Caliber maintains those records.  Salyers also declared she had 
+inspected a copy of the Note maintained by Caliber.  She 
+attached a “true and correct” copy of the Note to her 
+declaration.  She further declared that Caliber’s records concerning the Note include records incorporated from the prior 
+loan servicer, JPMorgan Chase.  The records obtained from 
+JPMorgan Chase, Salyers declared, are “kept and maintained by 
+Caliber in the ordinary course of its business for the purpose 
+of maintaining an accounting of payments received, expenses 
+incurred, and amounts advanced with regard to the Subject Loan, 
+and such records are relied upon by Caliber in the regular 
+course of its business.” 
+Verhagen’s opposition to U.S. Bank’s MSJ focused on U.S. 
+Bank’s failure to demonstrate its ownership and possession of the Note at the time it filed suit.  Verhagen argued that this 
+evidentiary deficiency was fatal for U.S. Bank: without a 
+showing that it possessed the Note at the time it filed its 
+complaint, U.S. Bank could not establish standing under Bank of 
+America, N.A. v. Reyes-Toledo, 139 Hawaiʻ i 361, 390 P.3d 1248 
+(2017). *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+5 
+ We issued Reyes-Toledo on February 28, 2017: one month 
+before Verhagen’s March 31, 2017 opposition and one month after 
+U.S. Bank’s January 31, 2017 MSJ.  Reyes-Toledo held that in 
+order to establish standing, a foreclosing plaintiff must prove “its entitlement to enforce the note at the commencement of the 
+proceedings.”  Id. at 369, 390 P.3d at 1256. 
+The circuit court granted U.S. Bank’s motion.  Verhagen 
+appealed.  The ICA remanded the case to the circuit court to allow U.S. Bank to supplement the record in light of Reyes-
+Toledo and another case, U.S. Bank N.A. v. Mattos, 140 Hawai‘ i 
+26, 398 P.3d 615 (2017) .1  Mattos was issued after U.S. Bank 
+submitted its proposed forms for the foreclosure judgment (May 17, 2017) but before the court entered judgment (September 25, 
+2017).  In Mattos, we held that the employee of a plaintiff 
+                         
+1  U.S. Bank’s motion for remand came after it had, following a procedure 
+described in Life of the Land v. Ariyoshi, 57 Haw. 249, 553 P.2d 464 (1976), 
+asked the circuit court to indicate how it was inclined to rule on a motion 
+to ratify the foreclosure judgment.   Verhagen neither opposed the substance 
+of the motion U.S. Bank presented to the circuit court nor appeared at the 
+related hearing.  Verhagen did, however, file jurisdictional objections to 
+U.S. Bank’s proposed order granting the motion to ratify. 
+ 
+Notwithstanding Verhagen’s jurisdictional objections, on July 27, 2018, 
+the circuit court indicated its inclination to grant U.S. Bank’s motion to 
+ratify.  Confusingly, though it lacked jurisdiction to adjudicate the motion, 
+the circuit court styled itself as “granting” the motion to ratify.  As the 
+ICA noted in its order granting U.S. Bank’s motion for temporary remand, the 
+circuit court should have indicated its inclination to grant the motion 
+rather than purporting to actually grant it.  See  Life of the Land, 57 Haw. 
+at 251, 553 P.2d at 466 (“Accordingly, we consider that the procedure for motions under Rule 60(b), H.R.C.P., may and should be consistent with that 
+for motions under Rule 33, H.R.Cr.P., where an appeal is pending in this court.  Jurisdiction is in this court while the appeal is pending, in both 
+instances.  Nevertheless, the motion may be made and considered in the 
+circuit court.  If that court indicates that it will grant the motion, the 
+appellant may then move in this court for a remand of the case.”) *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+6 
+ bank’s loan servicer was not a “qualified witness” in relation 
+to the bank’s records where the employee did not testify to 
+familiarity with the bank’s record-keeping system or to the loan 
+servicer’s incorporation of the bank’s records.  Id. at 33, 398 
+P.3d at 622. 
+On remand, U.S. Bank moved for ratification of the circuit 
+court’s prior judgment.  Verhagen filed jurisdictional objections to the circuit court’s consideration of the motion but did not substantively oppose the motion to ratify.  U.S. 
+Bank’s motion was accompanied by a supplemental declaration from 
+Melinda Patterson (the “Patterson Declaration”).  Patterson 
+stated she was a Caliber employee and was familiar with both 
+Caliber’s books and records concerning the Note and the manner 
+in which Caliber maintains its books and records.  Patterson’s 
+declaration provided additional testimony concerning Caliber’s 
+incorporation of prior loan servicers’ records.  Patterson 
+declared: 
+Caliber’s records include and incorporate records for the 
+Loan obtained from [JPMorgan Chase] (“Prior Servicer”), the prior loan servicer for the Loan.  The records obtained by 
+Caliber from the Prior Servicer are kept and maintained by 
+Caliber in the ordinary course of its business for the 
+purpose of maintaining an accounting of payments received, 
+expenses incurred, and amounts advanced with regard to the Loan, and such records are relied upon by Caliber in the 
+regular course of its business.  The information regarding 
+the Loan transferred to Caliber from the Prior Servicer has 
+been validated in many ways, including but not limited to, 
+going through a due diligence phase, review of hard copy documents, and review of the payment history and accounting 
+of other fees, costs, and expenses charged to the Loan by 
+Prior Servicer.  It is Caliber’s regular practice, after 
+these phases are complete, to receive records from prior *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+7 
+ servicers and integrate these records into Caliber’s 
+business records at the time of acquisition.  Once 
+integrated, Caliber maintains and relies on these business 
+records in the ordinary course of its mortgage loan 
+servicing business.
+ 
+ 
+Patterson also declared that, based on her review of 
+Caliber’s business records, U.S. Bank possessed the Note on 
+March 23, 2016, when it filed its complaint against Verhagen: 
+Plaintiff, or its agent on Plaintiff’s behalf, was in 
+possession of the original wet- ink, indorsed in blank Note 
+when the above- captioned foreclosure action was commenced 
+on March 23, 2016 and since [that time]. . . .  
+ 
+My personal knowledge of these statements is derived from 
+my having inspected Caliber’s business records. Specifically, I researched Caliber’s business records, 
+which includes “Certification” [sic] executed by Caliber 
+employee, Jennifer Martin.  The “Certification” contained 
+in Caliber’s business records evidence [sic] that the original wet ink, indorsed in blank Note was in Caliber’s possession on Plaintiff’ s behalf on February 9, 2016.  
+Further, the “Certification” contained in Caliber’s business records indicates that the original wet- ink Note 
+was indorsed in blank no later than February 9, 2016, as the original wet- ink Note was electronically scanned and 
+uploaded to Caliber’s business records on or before 
+February 9, 2016 and the scanned copy of the original wet-
+ink Note that was uploaded to Caliber’s business records on 
+or before February 9, 2016 contains a blank indorsement on 
+page 6 of the Note. 
+ 
+Patterson attached a copy of Jennifer Martin’s Certification to 
+her declaration. 
+ Patterson also declared that there was an attorney’s bailee 
+letter agreement in Caliber’s business records.  The letter was dated December 9, 2016.  Patterson declared that Caliber sent 
+the letter
+2 to U.S. Bank’s legal counsel on or around that date 
+                         
+2 The bailee letter attached to Patterson’s declaration documented 
+transmission of the original Note from Caliber to U.S. Bank’s foreclosure 
+counsel.  At the bottom of the letter there was a signed December 16, 2016 
+acknowledgement from a representative of U.S. Bank’s legal counsel recognizing receipt of the original Note. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+8 
+ along with the wet-ink indorsed-in-blank Note.  Verhagen did not 
+object to the admission of Patterson’s testimony.  
+On October 8, 2018, the circuit court filed amended 
+findings of fact (“FOFs”) and conclusions of law (“COLs”).  
+These amended FOFs and COLs addressed U.S. Bank’s compliance 
+with Reyes-Toledo.  The circuit court found U.S. Bank possessed 
+the indorsed-in-blank Note at the time it sued Verhagen: 
+[Amended FOF 8] At the time the Complaint was filed, 
+PLAINTIFF, or its agent on PLAINTIFF’s behalf, was in 
+possession of the original indorsed in blank Note.  As 
+evidence of this, the Verification filed with the 
+Complaint, which was executed by Julia Jackson (an employee 
+of Caliber Home Loans, Inc.) (“Servicer”), PLAINTIFF’S loan servicer, stated that Jackson had “verified and hereby 
+confirm[ed] possession of the original Note by Plaintiff . 
+. . [and that] [t]he Note is indorsed in blank . . .. ” 
+Verification to Complaint, at ¶¶ 7- 8; see Nationstar 
+Mortgage, LLC v. Ruth C. Alejandro, et al., CAAP 15- 0000107 
+(March 23, 2017) (Summary Disposition Order) (discussing 
+how similar verification established possession of note 
+when case was commenced as required by Reyes- Toledo).  
+Further, together with the Motion to Ratify, filed on June 18, 2018, PLAINTIFF submitted a further Declaration of Melinda Patterson (who was also an employee of Servicer), 
+which provided additional evidence that: (i) Servicer had 
+authority to act on behalf of PLAINTIFF and had been 
+servicing the subject loan since prior to the filing of the 
+Complaint (see Patterson Decl. at ¶¶ 3 and 6); and (ii) 
+Servicer had been in possession of the original indorsed in 
+blank Note since at least February 9, 2016, and through 
+approximately December 9, 2016, when the original indorsed 
+in blank Note was transmitted to PLAINTI FF’S counsel of 
+record in this case to hold on PLAINTIFF’S behalf while the 
+foreclosure action was being prosecuted (see Patterson 
+Decl. at ¶ 8; Prather Declaration submitted with 
+PLAINTIFF’S Reply Memorandum in Support of its Motion for 
+Summary Judgment, file d April 3, 2016). 
+ 
+The circuit court further found that U.S. Bank had 
+possessed the Note since the filing of the complaint: 
+[Amended FOF 11]  As a result, PLAINTIFF, its agent on 
+PLAINTIFF’s behalf, or PLAINTIFF’S counsel on PLAINTIFF’S 
+behalf, has been and remains in possession of the original 
+indorsed in blank Note since before this foreclosure action *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+9 
+ was commenced on March 23, 2016, and through the present.  
+No evidence to the contrary was presented to the Court.  
+  
+The circuit court’s amended FOFs also considered the 
+admissibility of the loan documents U.S. Bank submitted in 
+support of its MSJ: 
+[Amended FOF 10]  Further, the evidence establishing 
+PLAINTIFF’S standing is admissible because the various 
+declarants established their personal knowledge of the 
+statements made and/or that the statements made were derived from the business records of the declarant’s 
+employer, and not some other entity.  See U.S. Bank, N.A. 
+v. Mattos, 140 Haw. 26, 32-33, 398 P.3d 615, 621- 622 (S. 
+Ct. 2017) (foreclosing plaintiff must establish standing 
+through admissible evidence; servicer could not testify to 
+records of plaintiff without establishing familiarity with 
+plaintiff’s record keeping system) . . . . 
+ 
+The circuit court also addressed U.S. Bank’s standing: 
+[Amended COL 2] PLAINTIFF had standing to bring this 
+action and has standing at present because PLAINTIFF, its 
+agent on PLAINTIFF’S behalf, or PLAINTIFF’S counsel on 
+PLAINTIFF’S behalf, has been and remains in possession of 
+the original indorsed in blank Note since before this 
+foreclosure action was commenced on March 23, 2016, and 
+through the present. 
+ 
+Following the entry of the circuit court’s amended 
+judgment, order, and FOFs and COLs, U.S. Bank filed an amended 
+answering brief in the ICA.  In its brief, U.S. Bank argued 
+that: (1) loan documents maintained by Caliber but created by 
+prior loan servicers were admissible as “incorporated records” 
+under the business records exception to the hearsay rule; and (2) declarations U.S. Bank submitted in support of its MSJ 
+showed it possessed the Note at the time it filed the complaint 
+and, in doing so, established U.S. Bank’s standing to sue 
+Verhagen.
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+10 
+ On October 2, 2020, the ICA issued an Amended SDO3 vacating 
+the circuit court’s October 8, 2018, Amended Judgment and the 
+Amended Findings of Fact and Conclusions of Law; Amended Order 
+Granting Plaintiff's Motion for Summary Judgment and for 
+Interlocutory Decree of Foreclosure.  U.S. Bank v. Verhagen, 
+CAAP-17-0000746 (App. Oct. 2, 2020) (SDO). 
+The ICA ruled that U.S. Bank lacked standing because it had 
+not established it possessed the Note at the time it filed the 
+foreclosure action.  See Reyes-Toledo, 139 Hawaiʻ i at 368, 390 
+P.3d at 1255 (holding that to establish standing a foreclosing 
+plaintiff must establish entitlement to enforce the subject note 
+at the time the action was commenced). 
+The ICA reached this conclusion after determining that the 
+copies of the Note U.S. Bank submitted in support of its MSJ 
+                         
+3  The ICA initially issued a summary disposition order (the “SDO”) 
+vacating the circuit court’s September 25, 2017 Judgment and Findings of Fact 
+and Conclusions of Law; Order Granting Plaintiff’ s Motion for Summary 
+Judgment and for Interlocutory Decree of Foreclosure Filed January 31, 2017.    
+U.S. Bank moved the ICA to reconsider its SDO.  In addition to making several 
+legal arguments about why the ICA should reconsider the SDO, U.S. Bank’s 
+motion for reconsideration highlighted the fact that the ICA’s SDO did not address or acknowledge the circuit court’s October 8, 2020 Amended Judgment 
+and Amended Findings of Fact and Conclusions of Law; Order Granting 
+Plaintiff’ s Motion for Summary Judgment and for Interlocutory Decree of 
+Foreclosure Filed January 31, 2017.  On October 2, 2020, the ICA issued a two-paragraph order granting in part U.S. Bank’s motion for reconsideration.  
+The order granted the motion only to the extent it concerned the ICA’s 
+failure to address the October 8, 2018 Amended Judgment and the Amended 
+Findings of Fact and Conclusions of Law; Amended Order Granting Plaintiff's 
+Motion for Summary Judgment and for Interlocutory Decree of Foreclosure.  The 
+ICA rejected all of U.S. Bank’s substantive legal arguments concerning the 
+need for reconsideration.  It issued its Amended SDO that same day, October 
+2, 2020. 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+11 
+ were inadmissible hearsay.  None of the declarations U.S. Bank 
+submitted were from a declarant familiar with the record-keeping 
+practices of Washington Mutual, the entity that purportedly 
+created the Note.  As such, the ICA ruled, there was not an 
+adequate foundation for the admission of the Note under the 
+“business records” exception to the hearsay rule. 
+ In reaching this conclusion, the ICA cited Mattos’s 
+quotation of State v. Fitzwater, 122 Hawaiʻ i 354, 227 P.3d 520  
+(2010), for the proposition that an employee of a business that 
+received records from another business may be qualified to establish a foundation for their admission under HRE Rule 
+803(b)(6): 
+A person can be a “ qualified witness” who can authenticate 
+a document as a record of regularly conducted activity 
+under HRE Rule 803(b)(6) or its federal counterpart even if 
+he or she is not an employee of the business that created 
+the document, or has no direct, personal knowledge of how 
+the document was created. As one leading commentator has noted:  
+The phrase “ other qualified witness” is given a 
+very broad interpretation.  The witness need 
+only have enough familiarity with the record-keeping system of the business in question to explain how the record came into existence in 
+the ordinary course of business.  The witness 
+need not have personal knowledge of the actual creation of the documents or have personally 
+assembled the records.  In fact, the witness 
+need not even be an employee of the record-
+keeping entity as long as the witness 
+understands the entity's record- keeping system. 
+ There is no requirement that the records have been prepared by the entity that has custody of 
+them, as long as they were created in the 
+regular course of some entity's business. 
+ The sufficiency of the foundation evidence depends in part on the nature of the documents *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+12 
+ at issue.  Documents that are “ standard records 
+of the type regularly maintained by firms in a 
+particular industry may require less by way of 
+foundation testimony than less conventional 
+documents proffered for admission as business 
+records.” 
+ 
+Verhagen, SDO at 7-8 (quoting Mattos, 140 Hawaiʻ i at 32, 398 P.3d 
+at 621) (cleaned up). 
+ The ICA also cited Behrendt’s discussion of the testimony 
+necessary to support the admission of incorporated records: 
+The court in Mattos held that a witness may be qualified to 
+provide the testimony required by HRE Rule 803(b)(6) even 
+if the witness is not employed by the business that created 
+the document or lacks direct, personal knowledge of how the document was created.  Id.  “There is no requirement that 
+the records have been prepared by the entity that has custody of them, as long as they were created in the 
+regular course of some entity's business.”  Id. (quoting 
+State v. Fitzwater, 122 Hawaiʻ i 354, 366, 227 P.3d 520, 532 
+(2010)).  The witness, however, must have enough 
+familiarity with the record- keeping system of the business 
+that created the record to explain how the record was 
+generated in the ordinary course of business.  Id. 
+ 
+Records received from another business and incorporated 
+into the receiving business’ records may in some 
+circumstances be regarded as “ created” by the receiving 
+business.  Id.  Incorporated records are admissible under 
+HRE Rule 803(b)(6) when a custodian or qualified witness 
+testifies that the documents were incorporated and kept in 
+the normal course of business, that the incorporating 
+business typically relies upon the accuracy of the contents 
+of the documents, and the circumstances otherwise indicate 
+the trustworthiness of the document.  See id.; Fitzwater, 
+122 Hawaiʻi at 367- 68, 227 P.3d at 533- 34. 
+ 
+Verhagen, SDO at 8 (quoting 142 Hawai‘ i at 45-46, 414 P.3d at 97-
+98). 
+ The ICA then turned to explaining why the Jackson 
+verification, Salyers declaration, and supplemental Patterson 
+declaration each failed to establish the declarant’s 
+qualifications to authenticate the Note as a business record *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+13 
+ under HRE Rule 803(b)(6).  
+ Jackson’s verification — which described her familiarity 
+with Caliber’s records and record-keeping system4 — did not 
+qualify her as an “other qualified witness” for purposes of admitting the Note under HRE Rule 803(b)(6) because it did not 
+demonstrate that she had “enough familiarity with the record-
+keeping system of the business that created [the Note] to 
+explain how [it] was generated in the ordinary course of business.”  Verhagen, SDO at 9 (alterations added) (quoting 
+Behrendt, 142 Hawai‘i at 45, 414 P.3d at 97). 
+ Salyers’ declaration5 was similarly deficient.  Because 
+                         
+4  Specifically, Jackson stated: 
+ 
+I have access to and am familiar with Caliber’ s books and 
+records regarding the Loan, including Caliber’ s servicing 
+records and copies of the applicable loan documents.  I am 
+familiar with the manner in which Caliber maintains its 
+books and records, including computer records relating to 
+the servicing of the Loan.  Caliber’ s records are made at 
+or near the time of the occurrence of the matters set forth in such records, by an employee or representative with knowledge of the acts or events recorded.  Such records are 
+obtained, kept and maintained by Caliber in the regular course of Caliber’s business.  Caliber relies on such 
+records in the ordinary course of its business. 
+ 
+5  Salyers declared, in relevant part: 
+ 
+I have access to and am familiar with Caliber’ s books and 
+records regarding the Loan, including Caliber’ s servicing 
+records and copies of the applicable loan documents.  I am 
+familiar with the manner in which Caliber maintains its 
+books and records, including computer records relating to 
+the servicing of the Loan.  Caliber’ s records are made at 
+or near the time of the occurrence of the matters set forth in such records, by an employee or representative with knowledge of the acts or events recorded.  Such records are 
+obtained, kept and maintained by Caliber in the regular course of Caliber's business.  Caliber relies on such 
+records in the ordinary course of its business.  Caliber’ s *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+14 
+ Salyers did not attest to being familiar with “the record-
+keeping system of Washington Mutual or JPMorgan [Chase]” Salyers 
+was not a “qualified witness” for the admission of the Note 
+under HRE Rule 803(b)(6). 
+According to the ICA, even the supplemental Patterson 
+declaration failed “to establish under Mattos and Behrendt that 
+[Patterson] is a custodian of records or a qualified witness for purposes of admitting the Note as evidence pursuant to HRE Rule 803(b)(6).”  Verhagen, SDO at 10. 
+ In its December 28, 2020 certiorari application, U.S. Bank presented the following questions:  
+(1) “To obtain summary judgment, is a foreclosing creditor 
+in possession of the original note required to authenticate the 
+note through HRE 803(b)(6), or is the note admissible under HRE 
+902?”;  
+(2)
+ “Is the issue of standing based on possession of the 
+promissory note distinct from the issue of admissibility of loan records, such that a lender can satisfy the possession 
+requirement with a declaration that affirms pre-filing 
+                         
+records include and incorporate records for the Subject 
+Loan obtained from JPMorgan Chase Bank, N.A. (“ Prior 
+Servicer” ), the prior loan servicer for the Subject Loan. 
+The records obtained by Caliber from the Prior Servicer are 
+kept and maintained by Caliber in the ordinary course of 
+its business for the purpose of maintaining an accounting of payments received, expenses incurred, and amounts 
+advanced with regard to the Subject Loan, and such records 
+are relied upon by Caliber in the regular course of its 
+business. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+15 
+ possession of the note based upon personal knowledge and 
+corroborating records of the custodian, irrespective of the 
+declarant’s foundation to admit the note as a business record 
+under HRE 803(b)(6)?”; and  
+(3) “Did the debtor waive his right to dispute the Amended 
+Judgment by failing to oppose Petitioner’s Motion to Ratify and 
+the resulting Amended Order?” 
+II. DISCUSSION 
+A. The Note is not hearsay The Note is not hearsay. 
+Out of court statements with independent legal 
+significance, like verbal acts, are not hearsay since “[i]f the 
+significance of an offered statement lies solely in the fact 
+that it was made, no issue is raised as to the truth of anything 
+asserted.”  Fed. R. Evid. 802(c) cmt.  See State v. Villena, 140 
+Hawaiʻi 370, 378, 400 P.3d 571, 579 (2017) (“It is well-settled 
+that statements of independent legal significance are not 
+hearsay.”). 
+Contractual documents have independent legal significance.  
+See State v. Salavea, 147 Hawaiʻ i 564, 577 n.13, 465 P.3d 1011, 
+1024 n.13 (2020) (citing Island Directory Co. v. Iva’s Kinimaka 
+Enters., Inc., 10 Haw. App. 15, 21-22, 859 P.2d 935, 939 (1993), 
+and describing it as “holding that statements that constitute 
+the offer, acceptance, or terms of a contract are not hearsay *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+16 
+ because the making of such statements are in themselves 
+relevant[.]”). 
+Promissory notes are a subspecies of written contracts 
+because they record the terms of an agreement between lender and 
+borrower.  See Remington Investments, Inc. v. Hamedani, 64 Cal. 
+Rptr. 2d 376, 382 (Cal. Ct. App. 1997) (explaining “[t]he Promissory Note document itself is not a business record as that 
+term is used in the law of hearsay, but rather is an operative contractual document admissible merely upon adequate evidence of 
+authenticity”).  Since the Note has independent legal 
+significance as evidence of the written contract between 
+Verhagen and the Note’s holder, it is not hearsay.  Because the 
+Note is not hearsay, it does not need to meet the business 
+records exception to be admissible. 
+B. Copies of the Note submitted by U.S. Bank are not self-
+authenticating under HRE Rule 902(9) 
+ 
+Though the original Note is self-authenticating under HRE 
+Rule 902(9), the copies of the Note U.S. Bank submitted in 
+support of its MSJ are not. 
+Even non-hearsay evidence must be authenticated.  “The 
+requirement of authentication or identification as a condition precedent to admissibility is satisfied by evidence sufficient 
+to support a finding that the matter in question is what its 
+proponent claims.”  HRE Rule 901.  Under HRE Rule 902, however, *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+17 
+ “[e]xtrinsic evidence of authenticity as a condition precedent 
+to admissibility” is not needed with respect to “[c]ommercial 
+paper, signatures thereon, and documents relating thereto to the 
+extent provided by general commercial law.”  HRE Rule 902(9). 
+Hawai‘i’s generally applicable commercial law is the Hawaiʻ i 
+Uniform Commercial Code (the “U.C.C.”).  Under Article 3 of the 
+U.C.C.:  
+In an action with respect to an instrument, the 
+authenticity of, and authority to make, each signature on 
+the instrument is admitted unless specifically denied in 
+the pleadings.  If the validity of a signature is denied in 
+the pleadings, the burden of establishing validity is on 
+the person claiming validity, but the signature is 
+presumed[6] to be authentic and authorized unless the action 
+is to enforce the liability of the purported signer and the signer is dead or incompetent at the time of trial of the issue of validity of the signature. 
+ 
+Hawai‘i Revised Statutes (“HRS”) § 490:3-308(a) (2008).  
+Promissory notes like the one Verhagen signed are negotiable 
+instruments under the U.C.C.  See HRS § 490:3-104; see also Bank 
+of New York Mellon v. Spielman, 146 Hawaiʻ i 205, 457 P.3d 844 
+(App. 2020) (characterizing a promissory note as a “negotiable 
+instrument” under Article 3 of Hawaiʻ i’s U.C.C.).  As such, the 
+original Note is self-authenticating commercial paper under HRE 
+Rule 902(9). 
+HRE 902(9) does not specify whether it applies to 
+                         
+6  Article 3 of the U.C.C. provides that, “[w]henever this chapter creates 
+a ‘presumption’ with respect to a fact, or provides that a fact is 
+‘presumed’, the trier of fact shall find the existence of the fact unless 
+evidence is introduced that supports a finding of its nonexistence.”  HRS § 
+490:1-206. 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+18 
+ photocopies of commercial paper or only to original commercial 
+paper.  At least one court has found that photocopies of 
+commercial paper are not self-authenticating.  See United States 
+v. Brandell, 35 M.J. 369, 371 (C.M.A. 1992) (holding that 
+photocopies of checks are not “self-authenticating ‘commercial 
+paper’ within the meaning of Mil.R.Evid. Rule 902(9),” which is 
+identical to HRE Rule 902(9)).  We, however, have not addressed 
+whether photocopies of commercial paper are self-authenticating under HRE Rule 902(9). 
+HRE Rule 1003 is central to our analysis on this issue.  It 
+provides: “[a] duplicate is admissible to the same extent as an 
+original unless (1) a genuine question is raised as to the 
+authenticity of the original, or (2) in the circumstances it 
+would be unfair to admit the duplicate in lieu of the original.”  
+HRE Rule 1003.   
+Here, and indeed in all foreclosure cases where a mortgagee 
+introduces a copy of a promissory note to establish standing, we conclude that it would be unfair to treat duplicates of 
+promissory notes as self-authenticating under HRE Rule 902(9).   
+The policy considerations that justify HRE Rule 902(9)’s 
+special treatment of commercial paper do not apply in the 
+context of duplicate promissory notes.  An original note is 
+particularly trustworthy because it allows for the direct 
+inspection of all its inscriptions.  But it is impossible to *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+19 
+ definitively match a copy of a given note’s frontside with a 
+copy of the same note’s backside.   Moreover, limiting HRE Rule 
+902(9) to original commercial papers makes sense given the mismatch between the significance of original commercial paper 
+and copies thereof in everyday life: “[b]anks do not treat 
+copies of checks and notes like originals,” and under the 
+U.C.C., the “enforcement of a negotiable instrument by a person 
+who does not possess the original instrument [is permitted] onlyunder very limited circumstances.”  31 Charles Alan Wright, 
+Arthur R. Miller & Victor J. Gold, Federal Practice and 
+Procedure § 7143(9) (1st ed. 2000 & Supp. 2021). 7
+ 
+Accordingly, we hold that while original promissory notes 
+are self-authenticating under HRE Rule 902(9), duplicates like 
+those submitted by U.S. Bank in support of its MSJ are not self-
+authenticating and are only admissible if they are authenticated 
+by extrinsic evidence.  See HRE Rule 901. 
+                         
+7 As one treatise explained: 
+ 
+[A] copy may not reveal all the information bearing on 
+authenticity that is contained on an original.  For example, 
+a check that has been deposited and processed through the banking system has information that is contained on both its 
+front and back.  While both the front and back can be copied, 
+often there is nothing about a copy of a given front and a 
+given back that shows they match. Further, the bank imprints 
+on the back of a check may not be clear on a copy. 
+ 
+31 Charles Alan Wright, Arthur R. Miller & Victor J. Gold, Federal Practice 
+and Procedure § 7143(9) (1st ed. 2000 & Supp. 2021). 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+20 
+ C. U.S. Bank properly authenticated the copies of the Note it 
+submitted in support of its MSJ 
+ 
+The copies of the Note U.S. Bank submitted in support of 
+its MSJ are not self-authenticating commercial paper.  They are 
+still admissible, however, if there is “evidence sufficient to support a finding” that they are what U.S. Bank claims they are.  
+See HRE Rule 901(a).  Testimony of a witness with personal 
+knowledge of a document may establish the foundation necessary for its admission.  HRE Rule 901(b)(1).
+ 
+Salyers and Patterson’s testimony establishes an adequate 
+foundation for the copies’ admission.  Both Salyers and 
+Patterson declared under penalty of perjury that they had 
+inspected a copy of the Note maintained by Caliber.  They both 
+declared that “true and correct” copies of the Note they inspected were attached to their declarations.  U.S. Bank has 
+thus adequately authenticated these copies of the Note.  D. The ICA erred in its application of the incorporated 
+records doctrine 
+ 
+In its Amended SDO, the ICA held that the Note was 
+inadmissible because it was not authenticated by testimony from 
+a witness with personal knowledge of the record-keeping systems 
+of Washington Mutual or JPMorgan Chase.  Leaving aside the fact 
+that the Note is not hearsay, the ICA’s holding relies on a 
+conspicuous misreading of our incorporated records doctrine. 
+Though hearsay is generally inadmissible, HRE Rule *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+21 
+ 803(b)(6) establishes a hearsay exception for “records of 
+regularly conducted activity.”  It provides: 
+A memorandum, report, record, or data compilation, in any 
+form, of acts, events, conditions, opinions, or diagnoses, 
+made in the course of a regularly conducted activity, at or near the time of the acts, events, conditions, opinions, or 
+diagnoses, as shown by the testimony of the custodian or 
+other qualified witness, or by certification that complies 
+with rule 902(11) or a statute permitting certification, 
+unless the sources of information or other circumstances indicate lack of trustworthiness. 
+ 
+HRE Rule 803(b)(6). 
+ Our incorporated records doctrine clarifies the application 
+of this exception to documents that were created by one entity 
+but which are maintained in the records of another.  We 
+introduced this rule in Fitzwater, 122 Hawaiʻ i 354, 227 P.3d 520.  
+In Fitzwater, we explained: “when an entity incorporates records 
+prepared by another entity into its own records, they are 
+admissible as business records of the incorporating entity 
+provided that it relies on the records, there are other indicia of reliability, and the requirements of HRE Rule 803(b)(6) are 
+otherwise satisfied.”  Id. at 367–68, 227 P.3d at 533–34 
+(emphasis added). 
+We affirmed this holding in Behrendt, explaining that 
+“[r]ecords received from another business and incorporated into 
+the receiving business’ records may in some circumstances be 
+regarded as ‘created’ by the receiving business.”  142 Hawaiʻ i at 
+45, 414 P.3d at 97.  The clear implication of this language is *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+22 
+ that when a record is treated as “created” by the receiving 
+business, a person is qualified to authenticate it if the person 
+has “enough familiarity with the record-keeping system of the 
+business that ‘created’ the record,” i.e., the receiving or 
+incorporating business.  Accordingly, a person may be qualified 
+to authenticate an incorporated record even if the person lacks 
+familiarity with the records or record-keeping practices of the 
+entity that actually created the record. 
+In Behrendt, we identified the circumstances in which it is 
+appropriate to treat an incorporated record as “created” by the receiving business: 
+Incorporated records are admissible under HRE Rule 
+803(b)(6) when a custodian or qualified witness testifies 
+that [1] the documents were incorporated and kept in the 
+normal course of business, [2] that the incorporating 
+business typically relies upon the accuracy of the contents 
+of the documents, and [3] the circumstances otherwise 
+indicate the trustworthiness of the document. 
+ 
+142 Hawaiʻ i at 45, 414 P.3d at 97.  If each of these three 
+conditions is satisfied, an incorporated record is admissible 
+even in the absence of testimony concerning its actual
+ creation.  
+This is because evidence that a business has incorporated and relied on a record created by another organization speaks 
+directly to that record’s reliability.  When accompanied by 
+testimony about other circumstances that also indicate the 
+record’s trustworthiness, such evidence is an acceptable substitute for testimony concerning a record’s actual creation.  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+23 
+  Immediately before our discussion of the incorporated 
+records doctrine in Behrendt, we addressed a slightly different 
+situation: the case where a business has custody of another 
+entity’s records but has not actually incorporated those records 
+into its own.  In that situation, we explained, a witness need 
+not be employed by the entity that created the documents to 
+provide the testimony required by HRE Rule 803(b)(6).  But the 
+witness does need to have “ enough familiarity with the record-
+keeping system of the business that created the record to 
+explain how the record was generated in the ordinary course of 
+business.”  Id. at 45, 414 P.3d at 97. 
+ In its SDO, the ICA incorrectly applied this standard to Caliber’s incorporated records.  It ignored the fact that the 
+records created by JPMorgan Chase were incorporated into 
+Caliber’s own records and were not merely in Caliber’s custody.  
+In determining whether the records incorporated from JPMorgan 
+Chase were admissible 
+under HRE Rule 803(b)(6), the ICA should 
+have considered whether there was testimony from a Caliber 
+custodian or witness qualified to testify about Caliber’s 
+records that: (1) Caliber incorporated and kept the documents in 
+the normal course of business; (2) Caliber typically relies upon 
+the accuracy of the contents of the documents; and (3) the 
+circumstances otherwise indicate the trustworthiness of the 
+documents.  See id. at 45, 414 P.3d at 97.   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+24 
+  Patterson and Salyers8 both testified that JPMorgan Chase’s 
+records were incorporated into Caliber’s own and kept and 
+maintained by Caliber in the ordinary course of its business.  
+They both further testified that Caliber used and relied on the 
+incorporated records in the regular course of its loan servicing 
+business.  The first two requirements for the admission of 
+incorporated records are thus satisfied.   
+Salyers’ testimony does not describe any circumstances that 
+otherwise indicate the trustworthiness of the documents Caliber incorporated from JPMorgan Chase.  But Patterson’s does.  
+Patterson declared that: 
+The information regarding the Loan transferred to Caliber 
+from the Prior Servicer has been validated in many ways, 
+including, but not limited to, going through a due diligence phase, review of hard copy documents, and review 
+of the payment history and accounting of other fees, costs, 
+and expenses charged to the Loan by Prior Servicer. 
+ 
+Though scant, this testimony establishes circumstances 
+indicating the trustworthiness of Caliber’s incorporated 
+records.  It is evidence that before incorporating JPMorgan Chase’s documents, Caliber reviewed hard copies of the 
+                         
+8  Both Patterson and Salyers are knowledgeable about Caliber’s record 
+keeping system and can describe Caliber’s incorporation of JPMorgan Chase’s 
+documents.  They are thus “other qualified witnesses” who can authenticate 
+Caliber’s records of regularly conducted activity under HRE Rule 803(b)(6).   
+See Fitzwater, 122 Hawai‘i at 366, 227 P.3d at 532 (2010) (“ The phrase ‘ other 
+qualified witness’ is given a very broad interpretation. The witness need 
+only have enough familiarity with the record- keeping system of the business 
+in question to explain how the record came into existence in the ordinary 
+course of business.” (cleaned up)) 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+25 
+ documents, engaged in a “due diligence” process, and reviewed 
+the payment history and accounting associated with the loan.  
+JPMorgan Chase’s documents were not, in other words, 
+uncritically incorporated into Caliber’s own.  They were vetted 
+by Caliber.  This pre-incorporation vetting, however nebulously 
+described by Patterson’s testimony, is a circumstance that 
+indicates the trustworthiness of the documents. 
+Patterson’s testimony thus satisfies each of the three 
+criteria in Behrendt.  The ICA should have held that Caliber’s 
+incorporated records, as authenticated by Salyers9 and 
+Patterson’s testimony, were admissible under HRE Rule 803(b)(6).  
+E. The evidence, taken together, shows U.S. Bank had standing 
+at the time it filed suit 
+ 
+ Having addressed the admissibility of copies of the Note 
+and Caliber’s incorporated records, we are left with an 
+evidentiary issue: has U.S. Bank established its standing to sue 
+Verhagen? 
+  In Reyes-Toledo, we held that a foreclosing plaintiff must 
+establish its standing to bring a lawsuit at the commencement of 
+the proceeding, not merely at the summary judgment stage.  139 
+                         
+9 Salyers’ testimony contributes to the authentication of records Caliber 
+incorporated from JPMorgan Chase by describing: (1) Caliber’s incorporation 
+of those records in the normal course of its business; and (2) Caliber’s 
+reliance on those records. Salyers’ testimony standing alone, however, would 
+be insufficient to establish that Caliber’s incorporated records are 
+admissible under HRE Rule 803(b)(6).  This is because Salyers’ testimony does 
+not describe any other circumstances, beyond mere incorporation and reliance, that indicate the incorporated records’ trustworthiness.
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+26 
+ Hawaiʻi 361, 369, 390 P.3d 1248, 1256.  In the mortgage 
+foreclosure context, we noted, the requirement of standing 
+overlaps with a plaintiff’s burden of proving its entitlement to enforce the subject promissory note.  Id.
+ at 367, 390 P.3d at 
+1254. 
+Whether a party is entitled to enforce a promissory note is 
+determined by application of HRS § 490:3-301, which provides: 
+“Person entitled to enforce” an instrument means (i) the 
+holder of the instrument, (ii) a nonholder in possession of 
+the instrument who has the rights of a holder, or (iii) a 
+person not in possession of the instrument who is entitled 
+to enforce the instrument pursuant to section 490:3- 309 or 
+490:3-418(d).  A person may be a person entitled to enforce 
+the instrument even though the person is not the owner of 
+the instrument or is in wrongful possession of the 
+instrument. 
+ 
+U.S. Bank maintains that, at the time it initiated suit, it 
+was entitled to enforce the Note because it held the indorsed-
+in-blank Note.  U.S. Bank supports this claim with the following 
+evidence: (1) Jennifer Martin’s February 9, 2016, certification 
+certifying, under penalty of perjury, that at 12:51 p.m. on 
+February 9, 2016, she personally verified Caliber’s possession 
+of the original Note and attaching an indorsed-in-blank copy of the Note; (2) a bailee letter dated December 9, 2016, 
+establishing that Caliber sent the Note to U.S. Bank’s counsel 
+at that time; and (3) Patterson’s sworn testimony that, based on 
+her review of Caliber’s records, and her knowledge of how those 
+records are made and maintained in the ordinary course of 
+business, “Plaintiff, or its agent on Plaintiff’s behalf, was in *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+27 
+ possession of the original wet-ink, indorsed in blank Note when 
+the [Verhagen] foreclosure action was commenced on March 23, 
+2016, and since.” 
+The ICA held that this evidence was insufficient to 
+establish U.S. Bank’s standing on the day it filed suit since 
+“the Certification does not certify possession of the original 
+Note by U.S. Bank at the time the Verified Complaint was filed, 
+and the Attorney Bailee Letter was executed approximately nine months after U.S. Bank commenced the foreclosure action.”  As 
+U.S. Bank observes, the implication of this holding is that only 
+evidence gathered on the day the complaint was filed would be 
+sufficient to establish a foreclosing plaintiff possessed the 
+subject promissory note at the time of filing.  This is not, and 
+should not be, the standard. 
+U.S. Bank’s briefing raises a compelling question: if the 
+Note wasn’t in Caliber’s possession between February 9, 2016, 
+and December 9th of the same year, where did it go?  Here, Patterson testified that based on her knowledge of Caliber’s 
+records and record-keeping practices, U.S. Bank had actual or 
+constructive possession of the Note at the time it filed the 
+complaint.  Such testimony, standing alone and uncorroborated by 
+documentary evidence, would be insufficient to establish U.S. 
+Bank possessed the Note when it filed the complaint.  Here, 
+however, there is admissible documentary evidence showing that *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+28 
+ U.S. Bank possessed the Note both a mere six weeks before the 
+filing of the complaint and at the time of summary judgment.  
+Collectively, the evidence presented by U.S. Bank thus 
+establishes the bank’s possession of the Note on the day the 
+complaint was filed.  10
+Of course, a defendant may counter this inference of 
+possession at the time of filing with evidence setting forth 
+“specific facts showing that there is a genuine issue” as to whether the plaintiff actually possessed the subject note at the 
+time it filed suit.  See Hawaiʻ i R. Civ. Pro. Rule 56(e).  But 
+that has not happened here.  Verhagen has not offered any 
+evidence undermining Patterson’s testimony that Caliber possessed the Note on March 23, 2016.  And he has not offered 
+any evidence that the Note left U.S. Bank’s custody in the ten 
+months between Martin’s certification and the bailee letter.  
+Nor has he offered any evidence contradicting or calling into 
+question Martin’s certification.  Accordingly, U.S. Bank’s 
+evidence establishes that the bank possessed the Note, indorsed 
+in blank,
+11 at the time it initiated suit.  The bank thus has 
+                         
+10  We reach this conclusion in part because Martin’s certification pre-
+dates the filing of the complaint by less than two months.  An older 
+certification, and a correspondingly larger gap between the certification’s 
+date and that of the complaint, would leave more room for a “genuine issue” 
+as to whether U.S. Bank actually possessed the Note when it sued Verhagen. 
+ 
+11  Importantly, where, as here, standing is based on possession of a Note 
+indorsed in blank, the admissible evidence must also show that the blank 
+indorsement occurred before the initiation of the suit.  See HSBC Bank USA, 
+Nat’l Ass’n v. Moore, CAAP-17-0000478, 2018 WL 1887197 (Haw. App. Apr. 20, *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+29 
+ standing to foreclose against Verhagen under Reyes-Toledo.  
+The evidence that the Note existed, that Verhagen was in 
+default under its terms, and that Verhagen received the 
+necessary notice of his default is undisputed.  There is no 
+genuine issue as to the Note’s existence, Verhagen’s default 
+under its terms, or Verhagen’s receipt of the necessary notice. 
+U.S. Bank is entitled to summary judgment and the ICA erred in 
+reversing the circuit court’s grant of summary judgment to U.S. Bank. 
+F. Verhagen waived his objections to U.S. Bank’s motion to 
+ratify  
+ 
+“Issues not properly raised on appeal will be deemed to be 
+waived.”  Pele Defense Fund v. Paty, 73 Haw. 578, 613, 837 P.2d 
+1247, 1268 (1992).  Verhagen had an opportunity to oppose U.S. 
+Bank’s motion to ratify but he did not do so.  As such, he has 
+waived his objections to that motion.  Regardless, the ICA did 
+not err in considering whether the Patterson declaration was 
+admissible or sufficient to establish U.S. Bank’s entitlement to 
+summary judgment.12    
+                         
+2018).  Here, this requirement is satisfied because the copy of the Note 
+attached to Martin’s certification and authenticated by Patterson’s testimony 
+is indorsed in blank.  
+12 Even when a motion for summary judgment is wholly unopposed, the motion 
+should only be granted when the moving party submits facts establishing there 
+are no genuine issues of material fact and that it is entitled to summary 
+judgment as a matter of law.  See Arakaki v. S CD-Olanani Corp., 110 Hawai‘ i 1, 
+7-8, 129 P.3d 504, 510- 11 (2006).  As the ICA explained in its Amended SDO, 
+its evaluation of whether or not U.S. Bank has met its burden on summary 
+judgment is not constrained by Verhagen’s failure to object to certain *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+30 
+ III. CONCLUSION 
+ We vacate the ICA’s October 28, 2020, judgment on appeal 
+and October 2, 2020, amended summary disposition order and 
+affirm the circuit court’s October 8, 2018, amended judgment and 
+amended order granting plaintiff’s motion for summary judgment 
+and for interlocutory decree of foreclosure. 
+ 
+Paul Alston, 
+(David B. Rosen, David E. McAllister, Justin S. Moyer, 
+and Madisson L. Heinze, 
+on the briefs) for petitioner  
+Keith M. Kiuchi, 
+for respondent  Patricia J. McHenry, 
+for Amicus Curiae  
+Federal Housing Finance Agency  /s/ Mark E. Recktenwald 
+/s/ Paula A. Nakayama 
+/s/ Sabrina S. McKenna 
+/s/ Michael D. Wilson 
+/s/ Todd W. Eddins 
+ 
+                         
+evidence at the circuit court level.   

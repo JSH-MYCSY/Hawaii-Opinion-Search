@@ -1,0 +1,1061 @@
+NOT FOR PUBLICATION IN WEST'S  HAWAI #I REPORTS AND PACIFIC REPORTER
+NO. CAAP-16-0000003
+IN THE INTERMEDIATE COURT OF APPEALS
+OF THE STATE OF HAWAI# I
+STATE OF HAWAI#I, Plaintiff-Appellee/Cross-Appellant, v.
+LARRY IKIMAKA, Defendant-Appellant/Cross-Appellee,
+LIANE HENDERSON, CHERI NUMAZAWA,
+Defendant-Appellee/Cross-Appellee
+APPEAL FROM THE CIRCUIT COURT OF THE FIFTH CIRCUIT
+(CR. NO. 14-1-0306)
+AMENDED MEMORANDUM OPINION
+(By:  Ginoza, Chief Judge, Fujise and Chan, JJ.)
+Defendant-Appellant/Cross-Appellee Larry Ikimaka
+(Ikimaka) appeals from the December 30, 2015 Second Amended
+Judgment of Conviction and Probation Sentence Notice of Entry
+(Judgment) entered by the Circuit Court of the Fifth Circuit
+(Circuit Court).   After a jury trial, the Circuit Court
+convicted Ikimaka of Promoting a Dangerous Drug in the Second
+Degree (Promoting Second) in violation of Hawaii Revised Statutes
+(HRS) § 712-1242(1)(b)(i) (Supp. 2018),  and Prohibited Acts
+Related to Drug Paraphernalia (Possession of Paraphernalia) in21
+1The Honorable Randal G.B. Valenciano presided.
+2HRS § 712-1242(1)(b)(i) provides:  "(1) A person commits the
+offense of promoting a dangerous drug in the second degree if the person
+knowingly: . . . (b)  Possesses one or more preparations, compounds, mixtures,
+or substances of an aggregate weight of:  (i) One-eighth ounce or more,
+containing methamphetamine, heroin, morphine, or cocaine or any of their
+respective salts, isomers, and salts of isomers[.]"NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+violation of HRS § 329-43.5(a) (2010).   Ikimaka was sentenced,
+inter alia , to a four-year term of probation with the special
+condition that he serve nine months in prison.3
+Plaintiff-Appellee/Cross-Appellant State of Hawai#i
+(State) appeals from the December 11, 2015 Order Granting
+Defendant Larry Ikimaka's Motion for Stay of Execution of
+Sentence Pending Appeal (Order Granting Stay).
+Ikimaka contends in his appeal that the Circuit Court
+erred by denying his Motion for a New Trial because:  (1) the
+State failed to lay a proper foundation to admit drug weight or
+composition test results; (2)  the court permitted improper
+hearsay evidence; (3) a police officer witness was permitted to
+speculate as to Ikimaka's state of mind; (4) the deputy
+prosecutor (DPA) committed misconduct by eliciting testimony on
+Ikimaka's silence after receiving Miranda warnings; and (5) the
+court failed to sever Ikimaka's trial from that of the
+3HRS § 329-43.5(a) read at the time of the conviction:
+(a) It is unlawful for any person to use, or to possess with
+intent to use, drug paraphernalia to plant, propagate,
+cultivate, grow, harvest, manufacture, compound, convert,
+produce, process, prepare, test, analyze, pack, repack,
+store, contain, conceal, inject, ingest, inhale, or
+otherwise introduce into the human body a controlled
+substance in violation of this chapter.  Any person who
+violates this section is guilty of a class C felony and upon
+conviction may be imprisoned pursuant to section 706-660
+and, if appropriate as provided in section 706-641, fined
+pursuant to section 706-640.
+HRS § 329-1 (2010) defines "drug paraphernalia" to mean, in
+relevant part:
+all equipment, products, and materials of any kind which are
+used, primarily intended for use, or primarily designed for
+use . . . storing, containing, concealing, . . . ,
+ingesting, inhaling, or otherwise introducing into the human
+body a controlled substance in violation of this chapter. 
+It includes but is not limited to:
+. . . .
+(9) Capsules, balloons, envelopes, and other
+containers used, primarily intended for use, or
+primarily designed for use in packaging small
+quantities of prohibited controlled substances;
+(10) Containers and other objects used, primarily
+intended for use, or primarily designed for use
+in storing or concealing prohibited controlled
+substances[.]
+2NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+codefendant.  Ikimaka also argues that his Motion for Judgment of
+Acquittal should have been granted because there was insufficient
+evidence of actual or constructive possession.4
+On cross-appeal, the State argues the Circuit Court
+abused its discretion by granting Ikimaka's Motion to Stay of
+Execution of Sentence Pending Appeal because it failed to adhere
+to the requirements of HRS § 804-4(b) (2014).5
+4Ikimaka's points of error are in noncompliance with Hawai #i Rules
+of Appellate Procedure (HRAP) Rule 28(b)(4) as they fail to state "where in
+the record the alleged error was objected to or the manner in which the
+alleged error was brought to the attention of the court[,] . . . [including] a
+quotation of the grounds urged for the objection and the full substance of the
+evidence admitted or rejected[.]"  Consequently, "[p]oints not presented in
+accordance with this section will be disregarded, except that the appellate
+court, at its option, may notice a plain error not presented."  Id.  
+Furthermore, subpoint (5) as it appears in his opening brief, in
+which Ikimaka alleges "the Court's jury instruction regarding constructive
+possession was incomplete[,]" is not discussed in his argument section and is
+deemed waived.  HRAP Rule 28(b)(7); see also Kakinami v. Kakinami, 127 Hawai #i
+126, 144 n.16, 276 P.3d 695, 713 n.16 (2012) (citing In re Guardianship of
+Carlsmith, 113 Hawai #i 236, 246, 151 P.3d 717, 727 (2007) ("noting that this
+court may 'disregard a particular contention if the appellant makes no
+discernible argument in support of that position'") (brackets omitted). 
+Counsel is warned that future violation of the HRAP may result in sanctions,
+including striking the brief or portions thereof and monetary sanctions.
+Finally, to facilitate our review, Ikimaka's points have been
+reorganized and renumbered for coherence.
+5HRS § 804-4(b) provides:
+(b)The court shall order that a person who has been
+found guilty of an offense and sentenced to a term of
+imprisonment, and who has filed an appeal or a petition for
+a writ of certiorari, be detained, unless the court finds:
+(1) By clear and convincing evidence that the person
+is not likely to flee or pose a danger to the
+safety of any other person or the community if
+released; and
+(2) That the appeal is not for purpose of delay and
+raises a substantial question of law or fact
+likely to result in reversal or an order for a
+new trial.
+If the court makes these findings, the court shall order the
+release of the person in accordance with section 804-7.1. 
+No defendant entitled to bail, whether bailed or not, shall
+be subject, without the defendant's written consent, to the
+operation of any sentence passed upon the defendant, while
+any proceedings to procure a review of any action of the
+trial court or jury in the premises are pending and
+undetermined, except as provided in section 641-14(a)
+[regarding stays of sentence during the time for filing the
+notice of appeal] or section 712-1207 [regarding street
+solicitation of prostitution].
+3NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+Background
+On October 13, 2014, at approximately 2:30 a.m., Kaua#i
+Police Department (KPD) Officer Hanson Hsu (Officer Hsu) was
+dispatched to respond to a report alleging Cheri Numazawa's
+(Numazawa) purse was in a gold Chevy truck.  On the way to the
+scene, Officer Hsu recognized the truck driving the opposite
+direction on Kuhio Highway and initiated a traffic stop.  Ikimaka
+was driving the truck.  Officer Hsu, who was familiar with
+Ikimaka, informed Ikimaka that Numazawa had made a complaint
+against Ikimaka.  Officer Hsu asked Ikimaka and passenger Liane
+Henderson (Henderson) to exit the vehicle and sit on the curb
+until KPD could contact Numazawa.  Officer Hsu's beat partner
+Officer Roldan Agbayani (Officer Agbayani) arrived to assist him. 
+Other officers located Numazawa who stated she wanted her purse
+back from Ikimaka but did not want to press charges.  Officer Hsu
+initiated an evidence tow for the truck.  Officer Agbayani
+informed Officer Hsu that he had advised Ikimaka of his
+constitutional rights, that Ikimaka wanted to talk to a lawyer,
+and that Ikimaka walked over to Officer Agbayani and
+"spontaneously uttered that [he had] Cheri's bag in [his] truck,
+can you just arrest me for theft and don't take my truck[?]"  The
+truck was towed to the KPD evidence warehouse and put into the
+custody of Evidence Custodian Kristal Nebre (Nebre).
+Pursuant to a search warrant for the truck, police
+retrieved:  (1) one black purse containing Henderson's driver's
+license and zip-lock bags containing crystallized substances,
+(2) one Dooney and Burke purse in which a wallet containing
+numerous items bearing Numazawa's name, a glass pipe with
+residue, a digital scale, a sponge, a clear zip-lock bag with
+crystallized substances or residue were found, and (3) a maroon
+bag found under the driver's seat containing a glass pipe with
+residue, an Ace Hardware receipt bearing the name "Larry
+Ikimaka," $1,400 in cash, a scale, and several zip-lock bags.
+Ikimaka was charged with Promoting Second and
+Possession of Paraphernalia.  In the same Felony Information and
+Non-Felony Complaint (Information) that charged Ikimaka,
+Henderson was charged with Promoting a Dangerous Drug in the
+4NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+Third Degree in violation of HRS § 712-1243(1) (2014)  (Promoting
+Third), Possession of Paraphernalia, and Promoting a Detrimental
+Drug in the Third Degree in violation of HRS § 712-1249 (2014).  
+Numazawa was also charged in the same Information with Promoting
+Third and Possession of Paraphernalia.76
+Prior to trial, the Circuit Court took argument on
+Ikimaka's motion to sever his trial from that of Numazawa.   
+Ikimaka anticipated that Numazawa would attempt to blame him for
+the drugs and argued there was an irreconcilable conflict in the
+defenses.  The court rejected this basis and denied the motion.  
+The court also noted that jury instructions could clarify which
+defendant was being accused of possessing particular drugs.8
+On August 10, 2015, the court heard argument on motions
+in limine, the transcript of which is not part of the record on
+appeal.  Ikimaka's four motions in limine sought to exclude: 
+(1) witnesses not disclosed before the pretrial deadline;
+(2) "any testimony or evidence referencing any items not related
+to charges filed against" Ikimaka; (3) any testimony or evidence
+"referencing the Ace Hardware receipt" on the basis that the
+information contained therein was more prejudicial than
+probative; and (4) statements made by Ikimaka or Numazawa
+unrelated to the present charges.  Specifically, Ikimaka sought
+to exclude his statements:  "I have Cheri's bag in my truck.  Can
+you just arrest me for theft and don't take my truck[?]"; and
+"Could I just give her purse back in [sic] be done with it?"  
+Ikimaka also sought to exclude Numazawa's statements from: 
+(1) when police made contact:
+6HRS § 712-1243(1) provides:  " Promoting a dangerous drug in the
+third degree.   (1)  A person commits the offense of promoting a dangerous drug
+in the third degree if the person knowingly possesses any dangerous drug in
+any amount."
+7HRS § 712-1249(1) provides:  " Promoting a detrimental drug in the
+third degree.   (1)  A person commits the offense of promoting a detrimental
+drug in the third degree if the person knowingly possesses any marijuana or
+any Schedule V substance in any amount."
+8Henderson had previously entered a plea of no contest.
+5NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+What the fuck are you guys doing here?  Did you guys arrest
+Larry?  I just like my purse back.  There's a Rolex in it. 
+I no like press charges.  Can you guys just get my purse
+back from Larry?  I no like make one statement.  Yeah, he
+took my purse but I no like get him in trouble.
+and (2) the scene of the traffic stop:
+Can I take my purse out of the truck?  Why are you guys
+seizing the truck?  See Larry is all your fucking fault. 
+Nah, I know what for say, I just going tell them that I had
+lie [sic] because I was mad.  All you fuckas is crooked
+cops.
+The court denied motions in limine (2), (3), and (4), but
+excluded references to the Rolex watch and "evidence and/or
+testimony in which Defendant NUMAZAWA accuses Defendant IKIMAKA
+of striking her or stealing her purse."  The court, however,
+specifically permitted testimony of Numazawa's ownership of the
+purse.
+At trial, the State presented six witnesses:  State
+Drug Analyst Stacy Riede (Riede),  KPD Records Unit Supervisor
+Eunice Apeles (Apeles), Officer Hsu, Officer Agbayani, Nebre, and
+KPD Officer Creighton Tamagawa (Officer Tamagawa).9
+Riede testified to the weights and composition of the
+substances that she identified as methamphetamine seized from the
+truck as well as to the instruments used in making those
+identifications, discussed in detail below.  During Riede's
+testimony, Ikimaka objected to instrument service records for
+lack of foundation.  The Circuit Court admitted the records over
+Ikimaka's objections.
+On direct examination, Officer Hsu testified to:  his
+experience as an officer; the events on the morning of
+October 13, 2014; seeing Ikimaka driving the truck previously;
+the process of seizing the truck; obtaining and executing the
+search warrant for the truck at the KPD warehouse; and the
+exhibits and their locations within the truck.  Ikimaka renewed
+his objection to the Ace Hardware receipt bearing his name.  
+Ikimaka elicited the following testimony from Officer Hsu on
+cross-examination:
+9Inconsistently identified in briefs and transcripts as Stacey (or
+Stacy) Reide (or Riede).
+6NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+[Ikimaka's counsel]:  And you have no way of knowing
+whether Mr. Ikimaka -- 
+THE COURT:  Approach.  
+(The following was heard at the bench.) 
+THE COURT:  You just realize you asked a very
+open-ended question and -- 
+[Ikimaka's counsel]:  I knew the answer, Judge.  
+THE COURT:  So it's real risky.  I just want to say I
+thought it was a very risky question and that is open for
+the redirect examination.  Okay.  Thank you. 
+(The following was heard in open court.)
+[Ikimaka's counsel]:  Officer [Hsu], you have no way
+of knowing whether Mr. Ikimaka ever intended to possess any
+of those drugs; correct? 
+[Officer Hsu]: Correct.
+The State objected on the bases of speculation and that it was a
+question for the jury.  The court stated:
+I think I'm going to allow him to answer because this
+is another area of redirect that you can go into.  The door
+was opened, how you establish intent and all of that.  You
+can do what you need to, but the issue of intent was raised
+by [Ikimaka's counsel], but only for Mr. Ikimaka[.]
+Officer Hsu acknowledged that he did not know if Ikimaka shopped
+at Ace Hardware, did not know if the receipt was genuine, had not
+interviewed Ace Hardware employees, had not checked store
+surveillance cameras, had not questioned anyone whether they
+shopped at Ace Hardware, and that club card accounts do not
+verify the user's identity.  On cross-examination, he was asked,
+"So you started an investigation based on the fact that she
+reported that somebody had taken her items without permission;
+correct?"  Ikimaka objected to the phrase "without permission[,]"
+and the court struck that portion of the question.  Officer Hsu
+agreed that he was aware Ikimaka said to Officer Agbayani that
+"he had Cheri's bag in his truck.  'Can you just arrest me for
+theft and don't take my truck[?]'"
+On redirect examination, the following exchange took
+place:
+[Deputy Prosecuting Attorney (DPA)]:  Now, I believe
+[Ikimaka's counsel] asked about Larry Ikimaka's intent
+regarding the drugs found in the vehicle.  As a police
+officer, would you say that Larry Ikimaka had intent to
+possess drugs, had knowledge of drugs, if he stated "Just
+arrest me and don't take my truck"? 
+7NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+[Ikimaka's counsel]:  May we approach? 
+[Officer Hsu]:  Yes. 
+THE COURT:  Approach.  (The following was heard at the
+bench.)
+[Ikimaka's counsel]:  I think it calls for
+speculation.
+THE COURT:  This is all the intent questions that was
+asked about what the intent that was asked during
+cross-examination.
+[Ikimaka's counsel]:  But the intent--but he can't
+testify--he's speculating as to what my client.
+THE COURT:  You asked him to speculate about intent,
+so this is just a reasonable--a logical, reasonable follow
+up to the questions.  That's why I brought you here when the
+question was asked.
+[Ikimaka's counsel]:  Well, I thought you were talking
+about 404(b).  I asked him whether he has any way to know
+Mr. Ikimaka's opinion, and she's asking him and saying hey,
+he's speculating about what Mr. Ikimaka's intent is.
+THE COURT:  But you asked him to speculate on the
+issue of intent. He answered.  So now I'm going to allow the
+State to ask the question. . . .
+. . . .
+THE COURT:  You opened the door on that.  I don't know
+whether there's any information on that.  That's why I
+brought you up and said this was a risky line of
+questioning.  I mean, it was apparent to the Court.  But the
+strategy you take during your questioning, I don't get
+involved in.
+. . . .
+. . . But as far as the intent part, sure, I'm going
+to allow [DPA] to question about intent given it was raised
+by you in cross-examination.  So you cannot raise an issue
+and then not expect the other parties to follow up on that,
+so this is just a reasonable follow up.  So your objection
+is overruled.  Thank you.
+(The following was heard in open court.) 
+THE COURT:  [DPA]. 
+[DPA]:  And, Officer [Hsu], would the fact that
+Mr. Ikimaka tried to stop the police from taking his truck
+by saying that indicate his intent to possess drugs in the
+truck?
+[Officer Hsu]:  Yes.  
+Officer Agbayani testified to the circumstances of
+Ikimaka making the statement, "I have Cheri's bag in my truck.
+Can you just arrest me for theft and don't take my truck?" 
+During Officer Agbayani's testimony, the court struck a line of
+8NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+questioning as comment on Ikimaka's right to remain silent; this
+testimony is discussed in depth below.  During Ikimaka's cross-
+examination, Officer Agbayani made reference to Ikimaka not
+wanting to answer questions.
+Ikimaka moved for a judgment of acquittal for
+insufficiency of evidence of possession.  The Circuit Court
+denied the motion.
+Neither Ikimaka nor Numazawa presented evidence or
+witnesses.
+The jury found Ikimaka guilty as charged in both counts
+and acquitted Numazawa of both charges against her.  This appeal
+followed.
+Ikimaka's Appeal
+A. Denial of Motion for New Trial.
+1.Ikimaka has failed to show plain error in
+admitting the drug test results.
+"Part of the foundational prerequisite for the
+reliability of a test result is a showing that the measuring
+instrument is 'in proper working order.'"  State v. Wallace, 80
+Hawai#i 382, 407, 910 P.2d 695, 720 (1996)).  Ikimaka challenges
+only this requirement for admissibility.  He states that the
+"Circuit Court improperly admitted the drug weight and/or test
+results" (capitalization modified) where the State failed to lay
+a proper foundation, and argues that the State's expert, Riede,
+did not know how to calibrate "that machine" and admission of the
+records of the calibration was error because they are hearsay and
+do not qualify as business records of Hawai# i's Narcotics
+Enforcement Division (NED), and because Riede was not properly
+qualified as a custodian of the records.
+a. Admission of the FTIR test results.
+In this case, analysis to identify the substance
+recovered was done, in part, by the use of the Fourier Transform
+Infrared Spectrometer (FTIR).  However, it does not appear that
+Ikimaka is challenging evidence of the FTIR test results. 
+Ikimaka provides no record citations for the testimony or
+exhibits in his points or argument sections, does not present a
+9NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+description of the evidence he challenges nor identify the
+"machine" whose results he claims was accepted in error.  More
+importantly, Ikimaka does not explain how his arguments pertain
+to the FTIR test results.  We therefore conclude his arguments do
+not pertain to the FTIR results and we deem any challenge to
+these results waived.  HRAP Rule 28(b)(7).
+b. Admission of the Analytical Balance results.
+While Ikimaka has not provided record citations for,
+nor description of, the evidence he challenges, he does
+specifically mention the record of the "chemical balance's
+manufacturer" and "admission of the weight of the drugs".  We
+therefore conclude that Ikimaka's challenge pertains to the
+results of the Analytical Balance, which provided the weight of
+the substances submitted for analysis.
+Riede testified that she determined whether the balance
+was in proper working condition by doing a performance check
+every day before work by using a set of certified weights, and if
+the weight results were within tolerances the balance is
+considered operable.  State's Exhibit 46 is the Balance Check
+Worksheet, which appears to bear Riede's initials for a check
+completed on January 28, 2015.  While the State did not present
+the testimony of the person who performed the calibration of the
+weights used to check the Analytical Balance, it did present
+State's Exhibit 47, a Report of Calibration prepared by Quality
+Control Services, which identified the weight set by the same
+serial number as Exhibit P-46, and certified that the weights
+were in good condition and within established tolerances.  The
+State also produced Exhibits 44 and 45, A2LA Accredited
+Certificates of Calibration With Data, dated June 16, 2014 and
+January 28, 2015 respectively, that were also prepared by Quality
+Control Services for the NED, both pertaining to the same make
+and model as reflected in Exhibit 46, and both notarized by Riede
+on their respective dates.
+Ikimaka challenges the introduction of these exhibits 
+because they were prepared by a third party and Riede could not
+authenticate the exhibits.  "[W]hen an entity incorporates
+records prepared by another entity into its own records, they are
+10NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+admissible as business records of the incorporating entity,
+provided that it relies on the records, there are other indicia
+of reliability, and the requirements of [Hawaii Rules of Evidence
+(HRE)] Rule 803(b)(6)[ ] are otherwise satisfied."  State v.
+Fitzwater, 122 Hawai#i 354, 367-68, 227 P.3d 520, 533-34 (2010). 
+Here, based on Riede's testimony, it is clear NED has
+incorporated the documents into its own records, NED relies on
+these records, and that they comply with HRE Rule 803(b)(6).10
+As to other indicia of reliability, in Fitzwater, the
+supreme court identified evidence of a contractual relationship
+between the entity creating the record and the incorporating
+entity as a significant factor in establishing the necessary
+indicia of trustworthiness.  Id. at 369, 227 P.3d at 535.  Here,
+the document itself identifies the NED as the entity for whom the
+tests were being conducted.  In addition, the same firm that
+certified the weights on December 2, 2013, in Exhibit 47, also
+calibrated the balance and certified it was working properly on
+June 16, 2014, and January 28, 2015, thereby indicating an
+ongoing business relationship.  In addition, the Quality Control
+Services technician, Steven Michael King, who conducted the
+testing reflected in both Exhibits 44 and 45, attested that he
+was trained and currently certified to conduct, and did conduct
+the tests in accordance with his training, and certified that the
+10HRE Rule 803(b)(6) provides, 
+Hearsay exceptions; availability of declarant immaterial.
+The following are not excluded by the hearsay rule, even
+though the declarant is available as a witness: 
+. . . .
+(b) Other exceptions.
+. . . .
+(6) Records of regularly conducted activity.  A
+memorandum, report, record, or data compilation,
+in any form, of acts, events, conditions,
+opinions, or diagnoses, made in the course of a
+regularly conducted activity, at or near the
+time of the acts, events, conditions, opinions,
+or diagnoses, as shown by the testimony of the
+custodian or other qualified witness, or by
+certification that complies with rule 902(11) or
+a statute permitting certification, unless the
+sources of information or other circumstances
+indicate lack of trustworthiness.
+11NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+information contained in these reports was accurate, true and
+correct to the best of his knowledge.  These documents were
+properly admitted as business records because the evidence showed
+NED incorporated the documents into their own records, NED relied
+on them, and there was sufficient indicia of reliability.  Thus,
+the State produced sufficient foundation for admission of the
+Analytic Balance test results.
+2. Ikimaka waived challenge to the Ace Hardware
+Receipt.
+Ikimaka contends the Circuit Court erred in admitting
+hearsay in the form of an Ace Hardware receipt bearing the name
+"LARRY IKIMAKA" insofar as it also contained the name of the
+merchant, the date of the receipt, items purchased, and method of
+payment.  However, Ikimaka waived this hearsay argument by
+objecting at trial on HRE Rule 403 grounds and not objecting to
+admission of the exhibit on this ground.  State v. Vliet, 91
+Hawai#i 288, 298, 983 P.2d 189, 199 (1999) ("Waiver [under HRE
+Rule 103(a)(1) ] will also occur when the trial objection,
+properly overruled, differs from that pressed on appeal."). 
+Ikimaka concedes the receipt may have been admissible for the
+limited purpose of showing that "a piece of paper bearing
+[Ikimaka's] name was found" and does not argue that the Circuit
+Court's ruling on his motion in limine based on HRE Rule 403 was
+error.11
+Based on this record, we cannot conclude that the
+alleged hearsay items affected Ikimaka's substantial rights and
+therefore choose not to notice plain error.  See e.g., State v.
+Fox, 70 Haw. 46, 56, 760 P.2d 670, 676 (1988).
+11HRE Rule 103(a)(1) provides, in pertinent part:  "Error may not be
+predicated upon a ruling which admits or excludes evidence unless a
+substantial right of the party is affected, and . . . [i]n case the ruling is
+one admitting evidence, a timely objection or motion to strike appears of
+record, stating the specific ground of objection, if the specific ground was
+not apparent from the context[.]"
+12NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+3.The Circuit Court Did Not Abuse Its Discretion by
+Allowing Officer Hsu to Give His Lay Opinion .
+Ikimaka contends the Circuit Court erred by denying his
+New Trial Motion because Officer Hsu was allowed to testify to
+his opinion regarding Ikimaka's state of mind.  Ikimaka argues
+that, under HRE Rules 602 and 701  taken together, Officer Hsu's
+testimony on Ikimaka's intent was impermissible speculation.12
+The challenged testimony was elicited on redirect in
+the following exchange:
+Q.  Officer [Hsu], when you made the stop of Larry
+Ikimaka, were you aware if anyone else had told Larry
+Ikimaka why you were pulling him over?
+A.  No.
+Q.  Now, I believe Mr. Meyers asked about Larry
+Ikimaka's intent regarding the drugs found in the vehicle.
+As a police officer, would you say that Larry Ikimaka had
+intent to possess drugs, had knowledge of drugs, if he
+stated "Just arrest me and don't take my truck"?
+. . . .
+(The following was heard at the bench.)
+[Ikimaka's Counsel] MR. MEYERS:  I think it calls for
+speculation.
+THE COURT:
+  This is all the intent questions that was
+asked about what the intent that was asked during cross-
+examination.
+MR. MEYERS:  But the intent--but he can't testify--
+he's speculating as to what my client.
+12HRE Rule 602 provides:   
+A witness may not testify to a matter unless evidence is
+introduced sufficient to support a finding that the witness
+has personal knowledge of the matter.  Evidence to prove
+personal knowledge may, but need not, consist of the
+witness' own testimony.  This rule is subject to the
+provisions of rule 703, relating to opinion testimony by
+expert witnesses.  
+HRE Rule 701 provides:  
+If the witness is not testifying as an expert, the witness'
+testimony in the form of opinions or inferences is limited
+to those opinions or inferences which are (1) rationally
+based on the perception of the witness, and (2) helpful to a
+clear understanding of the witness' testimony or the
+determination of a fact in issue. 
+13NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+THE COURT:  You asked him to speculate about intent,
+so this is just a reasonable--a logical, reasonable follow
+up to the questions.  That's why I brought you here when the
+13question was asked.[ ]
+13The exchange during Ikimaka's cross-examination was as follows: 
+Q.  You never saw Mr. Ikimaka smoking or otherwise
+ingesting any drugs; correct?
+A.  For that night or--
+Q.  Ever?
+A.  Yes.  I never seen him do that, yes.
+Q.  And you have no way of knowing whether
+Mr. Ikimaka--
+THE COURT:  Approach.
+(The following was heard at the bench.)
+THE COURT:  You just realize you asked a very open-
+ended question and--
+MR. MEYERS:  I knew the answer, Judge.
+THE COURT:  So it's real risky.  I just want to say I
+thought it was a very risky question and that is open for
+the redirect examination.  Okay.  Thank you.
+(The following was heard in open court.)
+BY MR. MEYERS:
+Q.  Officer [Hsu], you have no way of knowing whether
+Mr. Ikimaka ever intended to possess any of those drugs;
+correct?
+A.  Correct.
+[DPA]:  Your Honor, approach.
+THE COURT:  Approach.
+(The following was heard at the bench.)
+THE COURT:  This is an interesting question.  So,
+[DPA], let me hear the argument.
+[DPA]:  First of all, it's speculation.  The officer's
+not going to (inaudible).  Third, it's a question for the
+jury--I mean intended--
+THE COURT:  I think I'm going to allow him to answer
+because this is another area of redirect that you can go
+into.  The door was opened, how you establish intent and all
+of that.  You can do what you need to, but the issue of
+intent was raised by Mr. Meyers, but only for Mr. Ikimaka.
+It wasn't raised for Ms. Numazawa.
+You have to see how Mr. Castillo addresses this issue,
+whether you're able to question Mr. Officer [Hsu] along
+(inaudible) but the issue of intent was raised.
+14NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+MR. MEYERS:  Well, I thought you were talking about
+404(b).  I asked him whether he has any way to know
+Mr. Ikimaka's opinion, and she's asking him and saying hey,
+he's speculating about what Mr. Ikimaka's intent is.
+THE COURT:  But you asked him to speculate on the
+issue of intent.  He answered.  So now I'm going to allow
+the State to ask the question.  You also asked questions
+about whether he had prior drug use.  I don't know whether
+he did or didn't, but that certainly opens the door.
+MR. MEYERS:  I didn't ask that question. I asked on
+that date and he said "ever?"  So I didn't want to leave it
+hanging for the jury.  That's why I said "yeah" after.
+That's the way he responded.
+THE COURT:  You opened the door on that.  I don't know
+whether there's any information on that.  That's why I
+brought you up and said this was a risky line of
+questioning.  I mean, it was apparent to the Court.  But the
+strategy you take during your questioning, I don't get
+involved in.
+MR. MEYERS:  I did that but what I'm saying with
+regards to--I don't think she's allowed to ask him if he has
+a prior history unless she can go through the whole 404(b).
+That's not what I asked him.  I asked him on that day and he
+asked me "ever?"  So it wasn't fair to me to leave it
+hanging for the jury.
+THE COURT:  I don't know what's fair or not.  All I
+know is the question was asked so I'm going to allow it.  I
+don't know if there's any relevant information.  But as far
+as the intent part, sure, I'm going to allow [DPA] to
+question about intent given it was raised by you in cross-
+examination.  So you cannot raise an issue and then not
+expect the other parties to follow up on that, so this is
+just a reasonable follow up.  So your objection is
+overruled.  Thank you.
+(The following was heard in open court.)
+THE COURT:  [DPA]
+BY[DPA]:
+Q.  And, Officer [Hsu], would the fact that
+Mr. Ikimaka tried to stop the police from taking his truck
+by saying that indicate his intent to possess drugs in the
+truck?
+A.  Yes.
+In State v. Tucker, we set forth a liberal standard for
+admitting lay opinions into evidence under HRE Rule 701.  10 Haw.
+App. 73, 91, 861 P.2d 37, 47 (1993), on remand from 10 Haw. App.
+43, 861 P.2d 24 (1993) (discussing the commentary to the
+identical federal rule).  "As long as (1) the witness has
+personal knowledge of matter that forms the basis of the
+testimony; (2) the testimony is rationally based on the witness'
+perception; and (3) the opinion is 'helpful' to the jury (the
+15NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+principal test), the opinion testimony is admissible."  Id.
+(citation omitted).  "[A]dmission of opinion evidence is a matter
+within the discretion of the trial court, and only an abuse of
+that discretion can result in reversal."  Id. at 89, 861 P.2d at
+46 (citation omitted).
+Tucker was a case of child murder by omission in which
+we affirmed the admission of lay opinion evidence regarding the
+defendant-mother's lack of remorse for not seeking medical
+attention for her child as evidence of intent to murder the
+child.  Id. at 91–92, 861 P.2d at 47.  We concluded the opinions
+were based on personal knowledge, observations, and perceptions
+of the defendant gleaned from extensive discussions following the
+child's admission to the hospital and his death, and that the
+testimony was helpful to the jury to determine the defendant's
+intent to murder because a lack of remorse would be expected if
+she intentionally did not take her baby to the hospital knowing
+that he was seriously injured.  Id.  We deemed the opinion
+evidence admissible.  Id.
+Here, while Officer Hsu did not have personal knowledge
+of the statement, he testified that his beat partner told him
+that Ikimaka made the statement and there is no dispute that
+Ikimaka made the statement.  Officer Hsu was the officer that
+first made contact with Ikimaka, was present throughout the
+traffic stop, was aware that drugs were later found in the car,
+had interacted with Ikimaka in the past, and had seven years of
+experience as an officer interacting with criminal suspects. 
+Thus, the opinion was rationally related to Officer Hsu's
+knowledge, experience, and perceptions. 
+Moreover,
+The law recognizes the difficulty by which intent is proved
+in criminal cases.  We have consistently held that since
+intent can rarely be proved by direct evidence, proof by
+circumstantial evidence and reasonable inferences arising
+from circumstances surrounding the act is sufficient to
+establish the requisite intent.  Thus, the mind of an
+alleged offender may be read from his acts, conduct and
+inferences fairly drawn from all the circumstances.
+Tucker, 10 Haw. App. at 92, 861 P.2d at 47 (quoting State v.
+Sadino, 64 Haw. 427, 430, 642 P.2d 534, 536-37 (1982)).  Thus,
+Officer Hsu's testimony was helpful to the jury to determine the
+16NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+defendant's intent to possess the contraband because it provided
+an opinion of an individual with experience in conducting vehicle
+stops.  See State v. Jenkins, 93 Hawai# i 87, 105, 997 P.2d 13, 31
+(2000) (non-expert police opinion helpful because of experience
+in gun transport).  Ikimaka does not suggest this opinion would
+have required "scientific, technical, or other specialized
+knowledge," such that expert testimony would have been required
+pursuant to HRE Rule 702.  Officer Hsu's testimony was not that
+Ikimaka had the requisite intention, but that in his experience
+Ikimaka's actions manifested an indication of intent, which is
+properly admissible lay opinion.  See State v. Yip, 92 Hawai#i
+98, 107, 987 P.2d 996, 1005 (App. 1999) ("There is a small but
+significant difference between a witness testifying directly as
+to another's state of mind . . . and a witness testifying that
+another person manifested" state of mind.).
+Finally, the evidence was more probative than
+prejudicial under HRE Rule 403.14  Tucker, 10 Haw. App. at 92,
+861 P.2d at 48.  Evidence is unfairly prejudicial when it has "an
+undue tendency to suggest decision on an improper basis."  State
+v. Kassebeer, 118 Hawai# i 493, 507, 193 P.3d 409, 423 (2008)
+(citation and internal quotation marks omitted).  Generally, when
+a party raises an issue it may be fully explored by the adverse
+party.  See State v. McElroy, 105 Hawai#i 352, 357, 97 P.3d 1004,
+1009 (2004).  Here, the testimony was relevant to an element of
+the offenses--knowledge or intent--and was thus probative. 
+Additionally, Ikimaka opened the door--in spite of the court's
+warning--by questioning Officer Hsu about Ikimaka's intent.  The
+State properly explored Officer Hsu's knowledge or impressions of
+Ikimaka's intent, giving context to Officer Hsu's answer to
+Ikimaka's question.  The jury had already heard Officer Hsu
+testify that he "had no way of knowing" Ikimaka's intent to
+possess the drugs, as well as that he was aware of the
+circumstances surrounding and reasons for Ikimaka's arrest when
+14HRE Rule 403 provides, "Although relevant, evidence may be
+excluded if its probative value is substantially outweighed by the danger of
+unfair prejudice, confusion of the issues, or misleading the jury, or by
+consideration of undue delay, waste of time, or needless presentation of
+cumulative evidence."
+17NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+he heard Ikimaka's statement, "Just arrest me and don't take my
+truck."  On this record, we cannot say the jury would have been
+misled into making a decision on an improper basis by this
+testimony.  Therefore, the questioning was permissible under HRE
+Rule 403.
+Thus, as there was a proper basis to admit HRE Rule 701
+lay opinion testimony and the evidence was not improper under HRE
+Rule 403, the Circuit Court did not abuse its discretion in
+permitting Officer Hsu's testimony.
+4. The DPA Did Not Commit Misconduct by Eliciting
+Testimony on Ikimaka's Silence After Receiving
+Miranda Warnings.
+Ikimaka asserts the prosecutor committed misconduct by
+eliciting testimony about Ikimaka's silence after he received
+Miranda warnings in violation of his Fifth Amendment privilege to
+remain silent.
+In cases where the prosecution elicits from a witness
+information regarding the defendant's prearrest silence, the
+test is whether the prosecutor intended for the information
+elicited to imply the defendant's guilt or whether the
+character of the information suggests to the factfinder that
+the defendant's prearrest silence may be considered as
+inferential evidence of the defendant's guilt.
+State v. Tsujimura, 140 Hawai#i 299, 315, 400 P.3d 500, 516
+(2017). 
+Here, unlike the cases Ikimaka cites, the complained-of
+examination of the officer was in the course of introducing
+Ikimaka's statement  to the police.  The exchange was as follows: 
+[DPA]:  When you first got to the Kintaro's area, who
+was there? 
+[Officer Agbayani]:  Officers [Hsu], Larry Ikimaka,
+and Liane Henderson. 
+[DPA]:  Okay. And did you speak to Larry? 
+[Officer Agbayani]:  Yes.  
+[DPA]:  And you asked Larry if he wanted to talk to
+you about what had happened with the purse? 
+[Officer Agbayani]:  Yes.  
+[DPA]:  And he didn't want to talk to you?  
+[Officer Agbayani]:  Yes.
+18NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+[DPA]:  And because he didn't want to talk to you, you
+didn't ask him any questions? 
+[Officer Agbayani]: No, I did not.  
+[DPA]:  And after he initially told you that he didn't
+want to talk to you -- 
+THE COURT:  Approach.  
+The court then stopped the questioning and instructed the jury: 
+Ladies and gentlemen of the jury, the last line of
+questioning I'm striking for you not to consider in any way.
+If a person decides to exercise their right to remain
+silent, it's not to be used against them.  They have a
+constitutional right to do that.  You are not to consider it
+in any way in your deliberations.
+Immediately following this instruction, the DPA requested another
+bench conference when the following took place:
+[DPA]:  I did want to ask him the fact that he was
+walking away when the statement was made.  Is that -- 
+THE COURT:  Why then are you leading whether he
+actually (inaudible). 
+[DPA]:  Well, there was follow up as to how far he
+was, but the fact -- 
+THE COURT:  I'm going to -- I'm already allowing the
+statement.  The issue of whether it's admissible or not,
+whether it's objectionable, that's already been addressed.
+So I'm trying not to relitigate pretrial rulings. 
+[DPA]:  So don't ask the questions about--
+THE COURT:  Just ask statement.  Was this his
+statement? 
+[DPA]:  Okay. 
+THE COURT:  You don't want to get into the
+circumstances.  That's why I had to strike the prior
+testimony.
+[DPA]:  Okay.
+The DPA then asked, "And, Officer Agbayani, while you were at
+Kintaro's, Larry Ikimaka stated to you, 'I have Cheri's bag in my
+truck.  Can you just arrest me for theft and don't take my
+truck?'" which the officer affirmed.
+Based on the foregoing, it appears that, while
+inartful, the DPA was attempting to set the physical
+circumstances of the permitted statement:  that Officer Agbayani
+was walking away from Ikimaka when the latter approached and
+called out the statement.  The DPA was not attempting to comment
+19NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+on Ikimaka's silence.  Thus, it does not appear the prosecutor
+intended to use Ikimaka's silence to imply his guilt.15
+Neither is the second part of the test, whether the
+character of the information suggests to the fact finder that the
+defendant's prearrest silence may be considered as inferential
+evidence of the defendant's guilt, present here.  Again, the
+challenged testimony set the stage for the statement that Ikimaka
+made.  The implication--that despite initially declining to
+answer questions, Ikimaka chose to speak--is not reflective of
+guilt.  Furthermore, the Circuit Court immediately struck the
+challenged exchange and twice warned the jury "not to consider
+[the line of questioning] in any way[.]"  It is well-settled that
+"[a] jury is presumed to have followed the court's instructions." 
+State v. Balanza, 93 Hawai#i 279, 289, 1 P.3d 281, 291 (2000). 
+Ikimaka's silence was not considered as inferential evidence of
+his guilt because the jury was instructed not to consider the
+testimony about Ikimaka not wanting to talk.16
+15We note that, at the time of this trial, it had not been decided
+by either the United States Supreme Court nor the Hawai #i Supreme Court that a
+defendant's right to remain silent existed prior to arrest, or whether
+prearrest silence could be used against a defendant at trial.  Tsujimura, 140
+Hawai#i at 309-12, 400 P.3d at 510-12.  Nevertheless, from the context of the
+examination, we are convinced it was not the DPA's intent to do so.
+16Ikimaka argues that Officer Agbayani's response on cross-
+examination by Ikimaka where he mentioned Ikimaka's unwillingness to answer
+questions "underscored" his position that the "risk that the jury will not, or
+cannot, follow instructions is so great" that we cannot presume the jury
+followed the Circuit Court's cautionary instruction.  However, we disagree
+with Ikimaka's interpretation of the record.  It appears that, like the DPA's
+questions, the officer's statement was made in the context of clarifying the
+circumstances of Ikimaka's statement regarding arresting him for theft and not
+taking his truck.  It appears that Ikimaka's counsel was mistaken about the
+physical circumstances of Ikimaka's statement and Officer Agbayani made the
+challenged reference in the course of this discussion, apparently explaining
+why he was walking away from Ikimaka at the time.  The exchange, in pertinent
+part, was as follows:
+Q.  And when Mr. Ikimaka made whatever statement he
+made, he was walking away from you; right? 
+A.  Say it again. He was walking away? Is that what
+you're saying, sir? 
+Q.  Yeah. 
+A.  He's not walking away.  
+Q.  He wasn't walking away? He was right in front of
+you face to face? 
+(continued...)
+20NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+Therefore, because the prosecutor's intent was not to
+adduce evidence of Ikimaka's guilt and the fact finder could not
+infer guilt from the evidence, the State did not violate
+Ikimaka's right against compelled self-incrimination and did not
+commit misconduct.
+5. The Circuit Court Did Not Err by Refusing to Sever
+Ikimaka's Trial from Numazawa's Trial.
+Ikimaka argues the Circuit Court erred when failing to
+sever his trial from Numazawa's trial because a joint trial
+substantially prejudiced his rights and impaired his ability to
+present his defense.
+Hawai#i Rules of Penal Procedure (HRPP) Rule 14, which
+provides for severance, states:
+If it appears that a defendant or the government is
+prejudiced by a joinder of offenses or of defendants in a
+charge or by such joinder for trial together, the court may
+order an election or separate trials of counts, grant a
+severance of defendants or provide whatever other relief
+justice requires.
+"When deciding an HRPP Rule 14 motion for severance,
+the trial court must 'balance the possible prejudice to the
+defendant from joinder with the public interest in efficient use
+16(...continued)
+A.  Yes. 
+Q.  So when you said he was 15 to 20 feet away, what
+did you mean when you answered [the DPA] that he was 15 to
+20 feet away? 
+A.  That's when he said something to me.  
+Q.  Okay.  And when he was 15 to 20 feet away from you
+and said something to you, you were walking away from him or
+he was walking away from you or no? 
+A.  I was walking away from him, but this is--he's
+also approaching me.  Because when I left him, I have to
+inform my beat partner that he wasn't--he doesn't want to
+answer my questions.  And then, you know--I mean, I'm not
+saying that I have good peripheral views, but we always look
+--for security reasons, we always like this, our head is
+always on swivel.  I can see him, you know, kind of like
+coming towards me. 
+Q.  And that's when he talked to you? 
+A.  When he said, yes, that statement, sir.  
+Q.  Nothing further, your Honor.
+21NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+of judicial time through joint trial of defendants and offenses
+which are connected.'"  State v. Timas, 82 Hawai# i 499, 512, 923
+P.2d 916, 929 (App. 1996) (quoting State v. Matias, 57 Haw. 96,
+98, 550 P.2d 900, 902 (1976)).  "Upon review, the appellate court
+may not conclude that the defendant suffered prejudice from a
+joint trial unless it first concludes that a defendant was denied
+a fair trial.  What might have happened had the motion for
+severance been granted is irrelevant speculation." Id. (block
+quote format altered, brackets and ellipses omitted) (quoting
+State v. Gaspar, 8 Haw. App. 317, 327, 801 P.2d 30, 35 (1990)). 
+"It is well settled that defendants are not entitled to severance
+merely because their defenses are inconsistent or they may have a
+better chance of acquittal in separate trials."  State v. Walton,
+133 Hawai#i 66, 84, 324 P.3d 876, 894 (2014) (citing Zafiro v.
+United States, 506 U.S. 534, 540 (1993)).  "Rather, 'in order to
+establish an abuse of discretion, the defendant[ ] must
+demonstrate that clear and manifest prejudice did occur.'"  Id.
+at 85, 324 P.3d at 895 (quoting United States v. Tootick, 952
+F.2d 1078, 1083 (9th Cir. 1991)) (brackets in original).
+Ikimaka contends he was denied a fair trial because
+(1) evidence was introduced that would not have been admissible
+in a separate trial, and (2) he was prevented from introducing
+evidence that would have been admissible in a separate trial.  
+Ikimaka does not contend that he and Numazawa had irreconcilable
+defenses.
+As to the first ground, Ikimaka argues that "None of
+[Numazawa's] statements, or any reference to her purse, or the
+contents of the purse, would have been permissible in a separate
+trial involving only [Ikimaka], and the specific charges actually
+levied against him."  This unequivocal statement is not supported
+by the record before us.  The most significant evidence regarding
+Numazawa's purse was Ikimaka's own statement, "I have Cheri's bag
+in my truck.  Can you just arrest me for theft and don't take my
+truck?"  As discussed above, this statement would have remained
+highly probative of Ikimaka's intent to possess the items inside
+the truck irrespective of Numawaza's joinder, subject to HRE Rule
+403 balancing, in a severed trial.
+22NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+Further, the Circuit Court excluded the 911 call, which
+contained specific reference to theft, but ordered that "the
+parties shall be allowed to reference that Defendant Numazawa
+called 911 and informed dispatch that Defendant Ikimaka took her
+purse."   The facts leading to Ikimaka's stop by police would
+also have remained relevant and been subject to HRE Rule 403
+balancing.  To the extent that other witnesses testified or
+Numazawa's counsel argued about a theft, presentation of this
+evidence was not, strictly speaking, due to the failure to sever
+trials.  Rather, it was incumbent upon Ikimaka's counsel to
+object and request that the references be stricken.  17
+The burden is on Ikimaka to demonstrate that he
+received an unfair trial because evidence was introduced that
+would not have been admissible in a separate trial.  Timas, 82
+Hawai#i at 511, 923 P.2d at 928.  Thus, had the motion to sever
+been granted, the evidence that Ikimaka raises as prejudicial may
+or may not have been admitted because it would have been subject
+to HRE Rule 403 balancing.  On appeal, we will not speculate as
+to what might have happened had the motion to sever been granted,
+therefore Ikimaka has not met his burden.  Id. at 512, 923 P.2d
+at 929.
+As to his second ground, Ikimaka asserts he was
+prejudiced because he was prevented from introducing evidence
+that would have been admissible in a separate trial.  Ikimaka
+argues that he was prevented from eliciting testimony from
+Officer Hsu that the vehicle was seized in part because of
+Numazawa's prior drug history.  Prior to trial, in a hearing on
+the motion to quash the search warrant and suppress the evidence,
+Ikimaka questioned Officer Hsu on whether Numazawa's drug history
+played a part in seizing the vehicle.  Officer Hsu acknowledged
+that was one of the reasons, but that the main reason was that
+the alleged theft occurred.
+17The transcript of the hearing on the motions in limine is not on
+the record before us, so the court's specific reasoning is not clear.  In its
+Answering Brief, the State cites to this undocketed transcript in anticipation
+of its entry, but it appears that it was never entered.
+23NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+The defendant bears the burden of demonstrating
+prejudice.  Timas, 82 Hawai# i at 511, 923 P.2d at 928.  In
+Walton, the supreme court, discussing State v. Mabuti, 72 Haw.
+106, 807 P.2d 1264 (1991), noted that prejudice occurs when the
+defendant is prevented from presenting exculpatory evidence.  133
+Hawai#i at 85-86, 324 P.3d at 895-96.  Here, evidence that
+Numazawa had a prior drug history was not exculpatory of
+Ikimaka's possession of the methamphetamine and paraphernalia
+with which he was charged and we will not speculate on what
+effect that evidence would have had.  Therefore, Ikimaka fails to
+meet his burden of demonstrating that he was prejudiced because
+he was prevented from introducing evidence that would have been
+admissible in a separate trial.
+Thus, Ikimaka does not demonstrate he received an
+unfair trial and his point of error is without merit.
+B. The Circuit Court Did Not Err in Declining to
+Enter a Judgment of Acquittal Where There Was
+Sufficient Evidence Presented of Constructive
+Possession.
+Ikimaka argues there was insufficient evidence
+presented to support possession of the contraband. [OB at 27.] 
+HRS § 712–1242(1)(b).  "To support a finding of constructive
+possession the evidence must show 'a sufficient nexus between the
+accused and the [item] to permit an inference that the accused
+had both the power and the intent to exercise dominion and
+control over the [item].'  Mere proximity is not enough."  State
+v. Mundell, 8 Haw. App. 610, 622, 822 P.2d 23, 29 (1991),
+overruled on other grounds by Jenkins, 93 Hawai# i at 112, 997
+P.2d at 38 (citation omitted).
+In State v. Moniz, this court listed several factors
+that other courts have considered to infer a nexus between a
+defendant and drugs to support a finding of drug possession:
+1) the defendant's ownership of or right to possession of
+the place where the controlled substance was found; 2) the
+defendant's sole access to the place where the controlled
+substance was found; 
+3) defendant under the influence of
+narcotics when arrested; 4) defendant's presence when the
+search warrant executed; 5) the defendant's sole occupancy
+of the place where the controlled substance was found at the
+time the contraband is discovered; 6) the location of the
+contraband; 7) contraband in plain view; 8) defendant's
+proximity to and the accessibility of the narcotic;
+24NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+9) defendant's possession of other contraband when arrested;
+10) defendant's incriminating statements when arrested;
+11) defendant's attempted flight; 12) defendant's furtive
+gestures; 13) presence of odor of the contraband;
+14) presence of other contraband or drug paraphernalia, not
+included in the charge; 15) place drugs found was enclosed.
+92 
+Hawai#i
+ 472, 476, 992 P.2d 741, 745 (App. 1999) (citation and
+alteration omitted).  Additional factors that have been deemed
+relevant include, the presence of large sums of money, and the
+fact that drugs were found among the defendant’s personal
+belongings.  Id. (citations omitted).
+Here, there was testimony that the maroon pouch in
+which the drugs and zip-lock bags were found was discovered under
+Ikimaka's seat in the truck, he was seen "maybe more than two
+times" in the past driving the same truck, he asked Officer
+Agbayani "to just arrest [him] for theft and don't take [his]
+truck," there was $1,400 in cash, glass pipes with
+methamphetamine residue and scales, and an Ace Hardware receipt
+bearing the name "Larry Ikimaka" found in the maroon pouch. 
+Taking this evidence in the light most favorable to the
+prosecution, State v. Timoteo, 87 Hawai#i 108, 112-13, 952 P.2d
+865, 869-70 (1997), the evidence presented was sufficient to
+establish Ikimaka's constructive possession of the drugs and
+paraphernalia.
+Therefore, we conclude Ikimaka's appeal to be without
+merit.
+State's Cross-Appeal
+The Circuit Court Erred in Granting Ikimaka's Motion to
+Stay Because It Failed to Make the Necessary Findings
+The State argues the Circuit Court abused it discretion
+by granting Ikimaka's Motion to Stay without entering the
+findings required by State v. Cullen, 86 Hawai#i 1, 946 P.2d 955
+(1997).  On January 13, 2017, in response to the State's
+December 15, 2016 motion for revocation of bail, this court
+entered an order denying the motion but temporarily remanding
+this case for the Circuit Court to enter a written statement of
+its reasons for granting Ikimaka's motion for stay of sentence
+pending appeal.   On January 27, 2017, the Circuit Court entered
+its Findings of Fact; Conclusions of Law; Order Granting
+25NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+Defendant Larry Ikimaka's Motion for Stay of Execution of
+Sentence Pending Appeal.  To date, no renewed motion for
+revocation of bail has been filed.  Therefore, it appears that
+the State's appeal is moot.
+Conclusion
+For the foregoing reasons the December 30, 2015 Second
+Amended Judgment of Conviction and Probation Sentence Notice of
+Entry entered by the Circuit Court of the Fifth Circuit is
+affirmed.  The State's Cross-Appeal in this case is dismissed as
+moot.
+DATED:  Honolulu, Hawai# i, December 18, 2019.
+On the briefs:
+Rosa Flores,
+for Defendant-Appellant/
+Cross-Appellee.
+Tracy Murakami,
+Deputy Prosecuting Attorney,
+County of Kauai,
+for Plaintiff-Appellee/
+Cross-Appellant.Chief Judge
+Associate Judge
+Associate Judge
+26

@@ -1,0 +1,573 @@
+____*** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER ***____  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ʻI 
+ 
+---o0o--- 
+________________________________________________________________ 
+ 
+STATE OF HAWAI ʻI, 
+Respondent/Plaintiff- Appellant,  
+ 
+vs. 
+ 
+ZALDY SUBIA,  
+Petitioner/Defendant- Appellee.  
+________________________________________________________________ 
+ 
+SCWC-12-0000794 
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS 
+(CAAP-12-0000794 ; CR. NO. 11-1- 1405) 
+ 
+OCTOBER 24, 2016 
+ 
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, POLLACK,  AND WILSON, JJ. 
+ 
+OPINION OF THE COURT BY WILSON, J. 
+ 
+Petitioner/Defendant- Appellant Zaldy Subia (Subia) was 
+convicted of m ethamphetamine t rafficking in the s econd degree, Electronically Filed
+Supreme Court
+SCWC-12-0000794
+24-OCT-2016
+07:57 AM____*** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER ***____  
+ 
+2 
+ in violation of Hawai i Revised Statutes (HRS) § 712- 1240.8.1  
+The Intermediate Court of Appeals’ (ICA) September 23, 2015 
+Judgment on Appeal, entered pursuant to its August 17, 2015 
+Memorandum Opinion
+, affirmed Subia’s conviction .  On appeal, 
+Subia argues the ICA erred in  holding 1) the Circuit Court of 
+the First Circuit (circuit  court) did not abuse its discretion 
+by permitting Jeanette Ardiente (Ardiente), a criminalist with 
+the Honolulu Police Department (HPD), to testify that the 
+results of the Fourier Transform Infrared Spectrometer (FTIR) 
+conclusively established that the substances the police 
+recovered from Subia contained methamphetamine ; and 2) Subia’s 
+conviction was based on sufficient evidence.2  We conclude a 
+proper foundation was not laid to introduce the FTIR test 
+results and therefore, Ardiente should not have been permitted 
+to testify regarding the FTIR test results.  Further, there is a 
+reasonable possibility that the admission of the test results  
+contributed to Subia’s conviction.  Because the circuit court’s 
+error was not harmless beyond a reasonable doubt, we vacate the 
+Judgment on Appeal of the ICA and the judgment of conviction of the 
+                     
+1  HRS § 712- 1240.8 (2014) provides in part, as it did at the time 
+relevant here: 
+(1) A person commits the offense of methamphetamine trafficking 
+in the second degree if the person knowingly distributes 
+methamphetamine in any amount.  
+ 
+2  In arguing t his first point, Subia also asserts Ardiente’s 
+testimony was inadmissible because her testimony violated the best evidence 
+rule.  (Citing H awaiʻi Rules of Evidence (HRE ) Rule 1002) .  In light of our 
+disposition, we do not address this argument.   ____*** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER ***____  
+ 
+3 
+ circuit court, and remand to the circuit court for a new trial. 
+I.  Background 
+A. Circuit  Court Proceedings 
+On October 5, 2011, Subia was charged with committing 
+methamphetamine t rafficking in the s econd degree.  The “Felony 
+Information” filed by the State charged Subia with violating HRS 
+§ 712-1240.8: 
+On or about the 4th day of October, 2011, in the City and 
+County of Honolulu , State of Haw aii, ZALDY SUBIA did 
+knowingly distribute the dangerous drug methamphetamine in 
+any amount , thereby committing the offense of 
+Methamphetamine Trafficking in the Second Degree in 
+violation of Section 712 -1240.8 of the Hawaii Re vised 
+Statutes. 
+ 
+A jury trial3 commenced on June 13 , 2012.   
+At trial, t he State presented testimony from HPD  
+Officer Brett Doronila, who testified that on October 4, 2011, 
+as part of an undercover operation, he approached Subia and 
+sought to purchase methamphetamine.  Officer Doronila described 
+his interaction with Subia as follows:  
+Well, I approached him.  I asked him if “ You get,”  which 
+is, through my training and appearance  [sic], is street 
+vernacular to see if you have any illegal  drugs to sell.  
+He said, “What you looking for?”  I said “ Clear.”  Which is 
+street vernacular for crystal methamphetamine.  He said, 
+“How much you looking for? ”  I said “Forty.”  Forty 
+dollars.  He said, “Okay, wait here.”   
+ 
+After this conversation, Subia left to collect the alleged 
+drugs.  Subia returned with two clear Ziploc bags, which he 
+handed to Officer Doronila, who then paid Subia.  Officer 
+                     
+3  The Honorable Colette Y. Garibaldi presided.  ____*** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER ***____  
+ 
+4 
+ Doronila testified that each of the bags contained “a white 
+crystalline- like substance” that he asserted resembled 
+methamphetamine.   
+Subia’s description of his encounter with Officer 
+Doronila substantially corresponds with Officer Doronila’s 
+testimony.  Subia explained that Officer Doronila asked Subia if 
+he had drugs, and Subia replied, “no, but I could get [] some 
+drugs that somebody get[.]”  On cross examination, Subia agreed 
+that he sold Officer Doronila drugs, and that he knew “clear 
+means crystal meth.”  Subia also agreed that he “went to get the 
+meth,” spoke with the drug dealer and told him “[s]omebody want 
+to buy forty, forty dollar worth” of “[c]rystal meth.”  In 
+response, the drug dealer “gave [Subia] the drugs,”  Subia 
+returned to Officer Doronil a and “holding the meth, [] put it in 
+[Officer Doronila’s] hands.”  To the State’s question asking 
+whether Subia  had “[done] this before,” Subia replied, “Yeah, 
+some.”   
+  Ardiente, a criminalist with HPD who conducted tests 
+to identify the substances at issue, was presented by the State 
+as an expert in the field of drug analysis and identification.  
+She testified that she is trained in the “use” of the FTIR.  
+Defense counsel did not object to Ardiente as an expert and the 
+court determined Ardiente was an expert in the field of drug 
+analysis and identification.   ____*** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER ***____  
+ 
+5 
+   Ardiente testified that she analyzed the substances to 
+determine if the bags contained controlled substances.  To 
+perform her analysis, Ardiente  conducted a color test, a crystal 
+test, and the FTIR test.  The color and crystal tests are 
+presumptive tests, meaning the tests indicate, but do not 
+confirm, the presence of methamphetamine.  Ardiente testified 
+that the color and crystal tests indicated methamphetamine was 
+present in both bags.   
+The FTIR test is a confirmatory test, meaning it 
+identifies a particular substance, to the exclusion of all 
+others, within a reasonable degree of scientific certainty.  
+Ardiente explained that the substances are placed on the FTIR, 
+which shines a beam of infrared light on the substance.  The 
+light causes the molecules of the substance to vibrate.   The 
+FTIR reads the vibrations and creates a graph.  Ardiente ran the 
+test and compared the graphs created by the substances with a 
+known graph of methamphetamine run on the same instrument.  
+Ardiente testified the graphs of the substances matched the 
+known graph  of methamphetamine, indicating both substances 
+tested positive for methamphetamine.   
+  To lay a foundation to introduce the FTIR test 
+results, Ardiente testified how the FTIR is checked  to ensure it 
+is in proper working order.  Ardiente explained  the FTIR has an 
+“inbuilt validation  program” provided by the manufacturer.  She ____*** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER ***____  
+ 
+6 
+ stated that to d o a performance check, you “run” the validation 
+program and “it will print out a piece of paper saying whether 
+or not the performance check passed.”  The performance check is 
+run daily before the first use of an instrument that day.  
+Ardiente explained tha t HPD’s procedure is to keep the printout 
+of the performance check and require criminalists to examine and 
+initial the printout for each instrument.  This establishes that 
+the criminalist  “did check it and ensure that [the FTIR] was in 
+proper working condi tion.”   
+Ardiente testified that a performance check was 
+conducted on the FTIR prior to her testing of the substances on 
+October 4, 2011.  She  was not the first criminalist to use the 
+instrument and therefore did not run the performance check.  
+Defense counsel objected to Ardiente’s testimony  on the basis of 
+hearsay, and the court initially sustained the objection.  After 
+the State reframed its  question , defense counsel again objected 
+based on hearsay.  The State explained the line of questioning 
+was foundational.  T he court overruled the objection and 
+permitted Ardiente to explain how she knew a check was performed 
+on the instrument used.  Ardiente testified  she reviewed the 
+printout of the performance check results for that instrument.   
+Based on the October 4, 2011 printout, Ardiente asserted the 
+FTIR was operating in accordance with the manufacturer’s 
+specifications.  She also testified  she would not have used the ____*** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER ***____  
+ 
+7 
+ FTIR if it were  not in proper working condition.   
+Defense counsel asked to voir dire the witness after 
+the State asked Ardiente, “based on all three of the tests that 
+you had run on the evidence that was submitted, what were the 
+results of all the tests?”  On voir dire, defense counsel 
+inquired whether the FTIR “should be checked and calibrated each 
+time it is used.”  Ardiente responded that the FTIR “does have 
+performance checks” but did not state whether the FTIR is 
+calibrated.   
+After conducting voir dire of Ardiente, defense 
+counsel objected to admission of her testimony regarding the 
+test results based on hearsay,  lack of foundation, and the 
+Confrontation Clause.  Defense counsel explained that because 
+she did not conduct the performance check , her testimony was 
+hearsay.  Defense counsel argued that to lay a proper foundation 
+to introduce the FTIR test results, the State was required to 
+demonstrate the FTIR was accurate through the testimony of the 
+analyst who conducted the test or by introducing  the printouts 
+of the performance check.  The court overruled defense counsel’s 
+objections because Ardiente testified she was trained by the 
+FTIR manufacturer in quality cont rol and followed  the 
+manufacturer’s procedure of reviewing the results of the 
+performance check prior to using the machine.  In addition, the 
+court based its ruling on Ardiente ’s testimony that she  found ____*** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER ***____  
+ 
+8 
+ the FTIR to be in proper working condition even though she did 
+not conduct the performance check.  Thereafter,  Ardiente 
+testified,  “[b]ased on the results of all the tests, I concluded 
+that the substance[s] contained methamphetamine . . . .”  She 
+also said  she had no reason to believe the FTIR was not working 
+accurately.   
+Subia raised the defense that he acted as a procuring 
+agent for the buyer of methamphetamine, Officer Doronila.  The 
+jury was instructed that “[a] person who is the procuring agent 
+for the buyer cannot be found guilty of distributing the 
+unlawful drug because the act of buying falls outside the 
+definition of to distribute.”   Subia argued in closing that the 
+evidence demonstrated that he acted on behalf of the buyer 
+because he did not seek out a buyer and did not receive any 
+compensation for assisting the transaction.  According to the 
+State, the evidence demonstrated that Subia acted on behalf of 
+the seller.  The State based its argument on the following 
+evidence: 1) it would be unusual for a person not acting on 
+behalf of a seller to “help” a stranger find  drugs; 2) Subia 
+“went straight to”  the seller  after Officer Doronila asked Subia 
+if he had drugs; and 3) the seller  trusted Subia.    
+The circuit court instructed the jury that Subia was 
+charged with the offense of methamphetamine trafficking in the 
+second degree.  The court stated that “[a] person commits the ____*** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER ***____  
+ 
+9 
+ offense of methamphetamine trafficking in the second degree if 
+he knowingly distributes methamphetamine in any amount.”  The 
+court explained there are “two material elements” of the 
+offense: “1, that on or about October 4th, 2011, in the City and 
+County of Honolulu, State of Hawai ʻi, the defendant, Zaldy Subia, 
+distributed methamphetamine in any amount.  And 2, that the 
+defendant Zaldy Subia, did so knowingly.”  The court defined 
+distribution to the jury as follows:  “[t]o distribute” means to 
+“sell, transfer, prescribe, give, or deliver to another, or to 
+lead, barter or exchange with another, or to offer or agree to 
+do the same.”   
+The jury convicted Subia of methamphetamine 
+trafficking in the second degree.  Subia was sentenced on August 
+22, 2012 to ten years in prison with a mandatory minimum of one 
+year, and he was ordered to pay monetary assessments and fines.   
+B. ICA Appeal 
+  In a m emorandum o pinion, the ICA affirmed the circuit 
+court’s judgment convicting Subia.  State v. Subia , No. CAAP- 12-
+0000794, at 18 (Haw. Aug. 17, 2015) (mem.).  The ICA concluded 
+Ardiente’s testimony was sufficient to lay a proper foundation 
+to admit the results of the color, crystal, and FTIR tests.  Id.  
+at 12-13.  The ICA emphasized that in State v. Manewa , 115 
+Hawaii 343, 167 P.3d 336 (2007), this court did not cite to any 
+testimony that the expert himself performed the daily check of ____*** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER ***____  
+ 
+10 
+ the instrument, “rather it was [the expert’s] knowledge that the 
+laboratory followed a routine procedure to ensure that the 
+[instrument] was in proper working order that was important.”  
+Id. at 11.  According to the ICA, Manewa 
+established “testimony 
+showing compliance with established procedures that provide 
+assurance that the instrument is in proper working order is 
+sufficient to lay the foundation for admission of the results of 
+the instrument’s use.”  Id. at 11.  Ardiente testified the 
+laboratory had a policy of conducting a performance check in 
+accordance with the manufacturer’s recommended procedure , and 
+required criminalists to check the printout of the performance 
+test results to ensure the instrument was in good working order.  
+Id. at 9, 11.  T he ICA interpreted Manewa to conclude that a 
+proper foundation was laid to admit the test results and 
+Ardiente’s testimony.  Id. at 11- 12.   
+II.  Standards of Review 
+A. Evidentiary Foundation 
+When a question arises regarding the necessary foundation 
+for the introduction of evidence, the determination of 
+whether proper foundation has been established lies within 
+the discretion of the trial court, and its determination 
+will not be overturned absent a showing of clear abuse.  
+ 
+State v. Eid , 126 Hawai i 430, 440, 272 P.3d 1197, 1207 (2012) 
+(quoting State v. Assaye , 121 Hawai i 204, 210, 216 P.3d 1227, 
+1233 (2009)). 
+B. Evidence Admissibility  ____*** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER ***____  
+ 
+11 
+ [D]ifferent standards of review must be applied to trial 
+court decisions regarding the admissibility of evidence, 
+depending on the requirements of the particular rule of 
+evidence at issue.  When application of a particular 
+evidentiary rule can yield only one correct result, the 
+proper standard for appellate review is the right/wrong 
+standard.  However, the traditional abuse of discretion 
+standard should be applied in the case of those rules of 
+evidence that require a “judgment call ” on the part of the 
+trial court. 
+ 
+State v. Heggland, 118 Hawaiʻ i 425, 434, 193 P.3d 341, 350  
+(2008) (citation omitted). 
+III.  Discussion 
+Subia asserts the State did not lay a sufficient 
+factual foundation to admit the results of the FTIR test.  “[A] 
+fundamental evidentiary rule is that before the result of a test 
+made out of the court may be introduced into evidence, a 
+foundation must be laid showing that the test result can be 
+relied on as a substantive fact.”  State v. Wallace , 80 Hawai i 
+382, 407, 910 P.2d 695, 720 (1996) (citation omitted).  A proper 
+foundation for introducing a test result “would necessarily 
+include expert testimony regarding: (1) the qualifications of 
+the expert; (2) whether the expert employed ‘ valid techniques ’ 
+to obtain the test result; and (3) whether ‘ the measuring 
+instrument is in proper working order.’”  State v. Long , 98 
+Hawaii 348, 355, 48 P.3d 595, 602 (2002).  It is undisputed that 
+Ardiente was a qualified expert and used valid techniques in 
+conducting her test of the substances.  As a result, the crux of 
+Subia’s foundational issue is whether the FTIR was in proper ____*** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER ***____  
+ 
+12 
+ working order.   
+  Ardiente testified that the FTIR was working properly 
+based upon the performance check that was conducted by another 
+criminalist.  She explained that every day an “inbuilt 
+validation program ” is used to check whether the FTIR is 
+operating in accordance with manufacturer specifications.   She 
+stated that after you run the program, “it will print out a 
+piece of paper saying whether or not the performance check 
+passed.”  Because the printout stated the FTIR passed the 
+performance check, Ardiente concluded the FTIR was in proper 
+working condition.  The State did not introduce the printout 
+into evidence.  Thus, a s Subia notes, “the only evidence that 
+the FTIR was in proper working order was Ardiente’s testimony 
+regarding the contents of the performance based printout.”  
+  T his case is  factually similar to Manewa, 115 Hawaiʻ i 
+343, 167 P.3d 336 .  In analyzing the admission of the test 
+results of a gas chromatograph mass spectrometer (GCMS) in 
+Manewa, we focused on the expert’s testimony that the laboratory 
+applied an accepted manufacturer’s procedur e to verify the 
+instrument was in proper working order.  The expert in Manewa 
+testified, “‘a routine check’ was done of the [instrument] ‘each 
+and every morning’ ‘to ensure that all the parameters are within 
+manufacturer specifications .’”  Id. at 354, 167 P.3d at 347.  
+The expert explained that “if any parameter is out of spec,” the ____*** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER ***____  
+ 
+13 
+ instrument is not used.  Id.  We determined that the expert’s 
+testimony that he would not have used the instrument if it had 
+not been in proper working order indicated he had personal 
+knowledge that the instrument was in proper working condition.  
+Id. at 354, 167 P.3d at 347.   
+  Likewise, in this case, Ardiente explained a daily 
+check is conducted using a program provided by the manufacturer 
+to determine whether the FTIR is in proper working order.  
+Ardiente testified she would not have used the FTIR if it had 
+not been working properly.  The ICA therefore determined that 
+Ardiente’s testimony laid a sufficient foundation to introduce 
+the FTIR test results.  Subia, mem. op. at 11.  The ICA 
+explained that in Manewa “it was [the expert’s] knowledge that 
+the laboratory followed a routine procedure to ensure that the 
+[the instrument] was in proper working order that was 
+important.”  Id.   Because Ardiente testified a pe rformance check 
+was routinely conducted and she had knowledge that the 
+performance check was conducted, the ICA concluded  that it was 
+irrelevant that Ardiente did not personally perform the 
+4performance check.   Id.   
+  However, the distinction that the ICA did not consider 
+is that Ardiente lacks personal knowledge that the performance 
+                     
+ 4  The ICA did not consider whether the printout of the performance 
+check could have been introduced into evidence.  
+ ____*** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER ***____  
+ 
+14 
+ check was accurate.  Although Manewa does not clearly state the 
+expert ran the routine check, this court explicitly explained in 
+Wallace that personal knowledge is an essential factor in laying 
+a sound factual foundation.  In Wallace, the expert could not 
+testify that the calibration was accurate if the expert lacked 
+personal knowledge that the instrument “had been  correctly 
+calibrated and merely assumed that the ma nufacturer’s service 
+5representative had done so.”   Wallace , 80 Hawaiʻi at 412, 910 
+P.2d at 725 (emphase s added).   In Wallace, the service 
+representative did not testify at trial and no business record 
+was introduced indicating the instrument was correctly 
+calibrated.  Id.   We explained that “testimony based on 
+information supplied by another person that is not in evidence 
+is inadmissible.  The rationale is that the witness’ knowledge 
+is based on hearsay evidence and the trier of fact is unable to 
+test the source’s trustworthiness.”  Id. at 411, 910 P.2d at 724  
+(citing State v. Bannister , 60 Haw. 658, 659- 60, 594 P.2d 133, 
+134 (1979)).  We therefore concluded the expert’s testimony as 
+to the accuracy of the balance was based on inadmissible 
+hearsay.  Id.  Thus, we held the pro secution failed to lay an 
+adequate factual foundation that the results of an electronic 
+                     
+5  We came to this conclusion even though the person conducting the 
+check was the manufacturer’s service representative, who presumably would be 
+the person most likely to properly follow the manufacturer’s procedure.  
+Wallace, 80 Hawai i at 412, 910 P.2d at 725.   ____*** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER ***____  
+ 
+15 
+ balance used to weigh cocaine were accurate.  Id. at 412, 910 
+P.2d at 725.   
+  Similarly, in Manewa, we also considered that the 
+expert knew the electronic balance was calibrated semi-annually, 
+but had no personal knowledge that the balance was “ correctly 
+calibrated.”  115 Hawaiʻi at 355, 167 P.3d at 348 (emphasis 
+added).  The individual calibrating the balance “fill [ed] out a 
+form and indicate[d] that it was in proper working condition.”  
+Id.  The forms were not admitted into evidence.  Id.  We found 
+an “inadequate foundation was laid to show that the weight 
+measured by the balance could ‘be re lied on as a substantive 
+fact[.]’”  Id. at 356, 167 P.3d at 349 (citing Wallace, 80 
+Hawaiʻi at 412, 910 P.2d at 725).  Therefore, we concluded the 
+expert’s “assumption that the balance was accurate was based on 
+inadmissible hearsay.”   Id.    
+Likewise, as Subia argues, Ardiente’s testimony that 
+the FTIR was in proper working condition is based on 
+inadmissible hearsay.  Ardiente had knowledge of the procedures 
+used to test the FTIR, but her testimony that the FTIR was in 
+proper working order was not based on her personal knowledge 
+because she did not conduct the performance check. Because the 
+printout was not admitted into evidence and the criminalist who 
+conducted the performance check did not testify at trial, it is 
+unknown whether the performance check was conducted as required ____*** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER ***____  
+ 
+16 
+ by the manufacturer.  To assert the FTIR was in proper working 
+condition, Ardiente had to assume the other criminalist 
+correctly conducted the performance check.  As Subia notes, the 
+printout may have been admissible as a regularly conducted 
+activity pursuant to HRE Rule 803(b)(6).  However, because the 
+State did not introduce the printout or the testimony of the 
+criminalist who conducted the performance check, the State 
+failed to establish the performance check had been conducted 
+correctly.  Because there is no reliable evidence demonstrating 
+the FTIR  was in proper working order, the State failed to lay a 
+factual foundation that the FTIR was in proper working 
+condition.   
+Subia also argued there is no evidence that the FTIR 
+was calibrated.  We recognize “ Manewa imposes the additional 
+requirement that [the State] show ‘that the [instrument] had 
+been properly calibrated by the manufacturer’s service 
+representatives[.]’”  Assaye, 121 Hawai ʻi at 217, 216 P.3d at 
+1240 (Acoba, J ., concurring) (citing Manewa, 115 Hawaiʻi at 354, 
+167 P.3d at 347).  In Manewa, we determined the evidence failed 
+to establish reliability of the analytic balance where the 
+record lacked evidence of  the expert’s training in calibrating 
+the balance and the prosecution failed to demonstrate “the 
+balance had been properly calibrate[d] .”  Manewa, 115 Hawaiʻi at 
+354, 167 P.3d at 347.   ____*** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER ***____  
+ 
+17 
+ A sufficient foundation is not laid when the only 
+evidence of the working status of an instrument is  that the 
+instrument was “checked. ”  State v. Long , 98 Hawaiʻi 348, 355, 48 
+P.3d 595, 602 (2002).  In Long, the prosecution asked its expert 
+about the calibration of the machine.  Id.  In response, the 
+expert failed to answer in the affirmative as to the 
+calibration, and stated o nly that “all instruments are checked.”  
+Id.  We therefore concluded the prosecution did not lay a 
+foundation “confirming that ‘the test result [could] be relied 
+on as a substantive fact. ’”  Id. (citing Wallace, 80 Hawai ʻi at 
+407, 910 P.2d at 720).   
+Here, the record is inconclusive as to whether 
+calibration was conducted.  On voir dire, defense counsel asked 
+Ardiente whether the FTIR “should be checked and calibrated each 
+time it is used, right?”  In response, Ardiente did not 
+explicitly state whether the FTIR was calibrated .  She stated 
+only that “[i]t does have performance checks, yes.”  This 
+response is ambiguous as to whether the performance check 
+constituted a calibration of the FTIR.  Ardiente did not explain 
+on direct examination or on voir dire how a performance check is 
+conducted.  Ardiente stated only that the FTIR has “an inbuilt 
+validation program” that is “run” and that will “print out a 
+piece of paper saying whether or not the performance check 
+passed.”  Based on the record, it is unclear whether the daily ____*** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER ***____  
+ 
+18 
+ performance check constituted calibration of the FTIR or whether 
+it constituted a verification of the accuracy of the machine 
+that would render calibration of the FTIR superfluous.  Assuming 
+the FTIR requires calibration, the fact that the instrument ’s 
+performance was, as a matter of routine, checked prior to use is 
+insufficient when there is no evidence that the instrument was 
+ever calibrated.  Simply stating that a daily performance check 
+was conducted  does not necessarily mean the checks involved a 
+calibration of the FTIR.  Without evidence that the FTIR 
+received periodic calibration  or that such calibration was 
+unnecessary, it is unknown whether the instrument or  the 
+performance check program was working properly.   Accordingly, we 
+hold the circuit court abused its discretion in admitting 
+Ardiente’s testimony regard ing the test results. 
+Under the harmless error standard, the appellate court 
+“must ‘determine whether there is a reasonable possibility that 
+the error complained of might have contributed to the 
+conviction.’ ”  State v. Pauline , 100 Hawai i 356, 378, 60 P.3d 
+306, 328 (2002) (citation omitted) .  “If there is such a 
+reasonable possibility in a criminal case, then the error is not 
+harmless beyond a reasonable doubt, and the judgment of 
+conviction on which it may have been based must be set aside.”  
+State v. Gano, 92 Hawai i 161, 176, 988 P.2d 1153,  1168 (1999) 
+(citation omitted).   ____*** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER ***____  
+ 
+19 
+ Ardiente’s testimony  regarding the FTIR test results  
+was central to the State’s argument that Subia was guilty of 
+distributing methamphetamine and had sold methamphetamine on 
+behalf of the seller.  As noted, Subia’s defense theory was 
+posited on the argument that he was the procuring agent for the 
+buyer.  The strength of the State’s c ase would have been 
+significantly lessened had the test results demonstrating that 
+the substances were methamphetamine, to the exclusion of all 
+other substances, not been admitted .  Without the test results 
+proving that the substances were methamphetamine, the State had 
+limited evidence to support its theory that Subia was an agent 
+for the seller:  Subia received no monetary payment or payment-
+in-kind in return for his alleged service to the seller; further 
+Subia did not approach the buyer,  rather, the buyer approached 
+Subia.  Without the test results, the State’s ability to counter 
+Subia’s procuring agent defense would ha ve been substantially 
+reduced and Subia may have been able to raise a reasonable doubt 
+in the minds of the jury.  Accordingly, there  is a reasonable 
+possibility that admission of the test results contributed to 
+the jury’s conclusion that Subia intended to distribute 
+methamphetamine in collaboration with the seller.  In other 
+words, the fact that the j ury received evidence that the 
+substance given to Officer Doronila was methamphetamine may have 
+persuaded the jurors that Subia acted on behalf of the seller ____*** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER ***____  
+ 
+20 
+ and was not the procuring agent for Officer Doronila.  Thus,  
+admission of the FTIR test results was not harmless beyond a 
+reasonable doubt.  
+IV. Conclusion 
+  Based on the foregoing, we vacate the judgment of the 
+Intermediate Court of Appeals and  the judgment of conviction of 
+the circuit court and  remand the case to the circuit court for a 
+new trial. 
+ 
+William Jameson, Jr., 
+for petitioner  /s/ Mark E. Recktenwald 
+/s/ Paula A. Nakayama 
+/s/ Sabrina S. McKenna 
+/s/ Richard W. Pollack 
+ 
+/s/ Michael D. Wilson             
+Brandon Ito,  
+for respondent   
+  
+ 
+    
+       
+      
+       
+ 

@@ -1,0 +1,1432 @@
+ 
+ 
+ 
+   
+ 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAI I  
+ 
+ 
+________________________________________________________________  
+ 
+________________________________________________________________  
+ 
+SCWC-13-0002894  
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS
+  
+ 
+ 
+ 
+ 
+  
+                     
+  
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER ***  
+Electronically Filed 
+Supreme Court SCWC-13-0002894 24-NOV-2015 08:09 AM 
+---oOo---
+STATE OF HAWAI I, Respondent/Plaintiff-Appellee,
+  
+  
+vs.
+  
+ 
+JAYSON AULD, Petitioner/Defendant-Appellant.
+  
+(CAAP-13-0002894; CR. NO. 12-1-0690(3))
+ 
+NOVEMBER 24, 2015
+  
+ 
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, POLLACK, AND WILSON, JJ.
+  
+OPINION  OF THE COURT BY McKENNA, J.
+  
+I. Introduction 
+The primary
+1 questions presented in this case are whether 
+the State, in seeking to sentence a defendant to a mandatory 
+Also raised on certiorari were questions as to whether the ICA gravely 
+erred when it (1) determined that a “highly prejudicial hearsay statement was 
+admissible against” the petitioner at trial, and (2) when it “allow[ed] 
+prosecutors to use the opening statement to argue that essential elements of 
+the offense [would] be met[.]” With respect to ( 1), based on the ICA’s 
+ruling that even if the statement was hearsay, Auld’s counsel did not object, 
+and there may have been a reason for the lack of objection, we do not further address the issue at this time.  With respect to (2),seeing no error in the 
+ICA’s disposition of the issue, we do not further address it. 1  
+ 
+                      
+   
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 2 *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+minimum sentence as a repeat offender under Hawai i Revised 
+Statutes (“HRS”) § 706 -606.5 (2014)2, (1) must include the 
+That statute provides, in full, the following: 
+Sentencing of repeat offenders. (1) Notwithstanding section 706 -669 and 
+any other law to the contrary, any person convicted of murder in the second 
+degree, any class A felony, any class B felony, or any of the following class 
+C felonies: section 134 -7 relating to persons prohibited from owning, 
+possessing, or controlling firearms or ammunition; section 134 -8 relating to 
+ownership, etc., of certain prohibited weapons; section 134 -17 only as it 
+relates to providing false information or evidence to obtain a permit under 
+section 134- 9; section 188 -23 relating to possession or use of explosives, 
+electrofishing devices, and poisonous substances in state waters; section 
+386-98(d)(1) relating to fraud violations and penalties; section 431:2 -
+403(b)(2) relating to insurance fraud; section 707 -703 relating to negligent 
+homicide in the second degree; section 707 -711 relating to assault in the 
+second degree; section 707 -713 relating to reckless endangering in the first 
+degree; section 707- 716 relating to terroristic threatening in the first 
+degree; section 707- 721 relating to unlawful imprisonment in the first 
+degree; section 707- 732 relating to sexual assault in the third degree; 
+section 707- 752 relating to promoting child abuse in the third degree; 
+section 707- 757 relating to electronic enticement of a child in the second 
+degree; section 707- 766 relating to extortion in the second degree; section 
+708-811 relating to burglary in the second degree; section 708 -821 relating 
+to criminal property damage in the second degree; section 708 -831 relating to 
+theft in the second degree; section 708 -835.5 relating to theft of livestock; 
+section 708- 836 relating to unauthorized control of propelled vehicle; 
+section 708- 839.55 relating to unauthorized possession of confidential 
+personal information; section 708 -839.8 relating to identity theft in the 
+third degree; section 708 -852 relating to forgery in the second degree; 
+section 708- 854 relating to criminal possession of a forgery device; section 
+708-875 relating to trademark counterfeiting; section 710 -1071 relating to 
+intimidating a witness; section 711 -1103 relating to riot; section 712 -1221 
+relating to promoting gambling in the first degree; section 712 -1224 relating 
+to possession of gambling records in the first degree; section 712 -1243 
+relating to promoting a dangerous drug in the third degree; section 712 -1247 
+relating to promoting a detrimental drug in the first degree; section 846E -9 
+relating to failure to comply with covered offender registration requirements, or who is convicted of attempting to commit murder in the 
+second degree, any class A felony, any class B felony, or any of the class C 
+felony offenses enumerated above and who has a prior conviction or prior 
+convictions for the following felonies, including an attempt to commit the 
+same: murder, murder in the first or second degree, a class A felony, a class 
+B felony, any of the class C felony offenses enumerated above, or any felony 
+conviction of another jurisdiction, shall be sentenced to a mandatory minimum 
+period of imprisonment without possibility of parole during such period as 
+follows: 
+(a) One prior felony conviction: 
+(i) Where the instant conviction is for murder in the 
+second degree or attempted murder in the second degree--ten 
+years; 
+(continued. . .) 
+2
+  
+ 
+                                                                   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+(. . . continued) 
+(ii) Where the instant conviction is for a class A felony--six years, eight months; 
+(iii) Where the instant conviction is for a class B felony -
+-three years, four months; and 
+(iv) Where the instant conviction is for a class C felony offense enumerated above--one year, eight months; 
+(b) Two prior felony convictions: 
+(i) Where the instant conviction is for murder in the 
+second degree or attempted murder in the second degree--
+twenty years; (ii) Where the instant conviction is for a class A felony --
+thirteen years, four months; (iii) Where the instant conviction is for a class B felony -
+-six years, eight months; and 
+(iv) Where the instant conviction is for a class C felony offense enumerated above--three years, four months; 
+(c) Three or more prior felony convictions: 
+(i) Where the instant conviction is for murder in the 
+second degree or attempted murder in the second degree--
+thirty years; (ii) Where the instant conviction is for a class A felony--
+twenty years; 
+(iii) Where the instant conviction is for a class B felony -
+-ten years; and 
+(iv) Where the instant conviction is for a class C felony offense enumerated above--five years. 
+(2) Except as in subsection (3), a person shall not be sentenced to a mandatory minimum period of imprisonment under this section unless the 
+instant felony offense was committed during such period as follows: 
+(a) Within twenty years after a prior felony conviction where the 
+prior felony conviction was for murder in the first degree or 
+attempted murder in the first degree; 
+(b) Within twenty years after a prior felony conviction where the 
+prior felony conviction was for murder in the second degree or 
+attempted murder in the second degree; (c) Within twenty years after a prior felony conviction where the 
+prior felony conviction was for a class A felony; 
+(d) Within ten years after a prior felony conviction where the 
+prior felony conviction was for a class B felony; 
+(e) Within five years after a prior felony conviction where the prior felony conviction was for a class C felony offense 
+enumerated above; 
+(f) Within the maximum term of imprisonment possible after a 
+prior felony conviction of another jurisdiction. 
+(3) If a person was sentenced for a prior felony conviction to a 
+special term under section 706 -667, then the person shall not be 
+sentenced to a mandatory minimum period of imprisonment under this section unless the instant felony offense was committed during such 
+period as follows: 
+(a) Within eight years after a prior felony conviction where the 
+prior felony conviction was for a class A felony; 
+(b) Within five years after the prior felony conviction where the 
+prior felony conviction was for a class B felony; 
+(continued. . .)  
+3
+  
+ 
+  
+                                                                  
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+   
+    
+    
+   
+   
+   
+   
+   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+defendant’s predicate prior convictions in a charging 
+instrument; and (2) must prove these prior convictions to a 
+(. . . continued) 
+(c) Within four years after the prior felony conviction where the 
+prior felony conviction was for a class C felony offense 
+enumerated above. 
+(4) Notwithstanding any other law to the contrary, any person convicted 
+of any of the following misdemeanor offenses: 
+(a) Section 707 -712 relating to assault in the third degree; 
+(b) Section 707 -717 relating to terroristic threatening in the 
+second degree; 
+(c) Section 707 -733 relating to sexual assault in the fourth 
+degree; (d) Section 708 -822 relating to criminal property damage in the 
+third degree; (e) Section 708 -832 relating to theft in the third degree; an d 
+(f) Section 708 -833.5(2) relating to misdemeanor shoplifting, 
+and who has been convicted of any of the offenses enumerated above on at least three prior and separate occasions within three 
+years of the date of the commission of the present offense, shall 
+be sentenced to no less than nine months of imprisonment. Whenever a court sentences a defendant under this subsection for 
+an offense under section 707 -733, the court shall order the 
+defendant to participate in a sex offender assessment and, if 
+recommended based on the assessment, participate in the sex 
+offender treatment program established by chapter 353E. 
+(5) The sentencing court may impose the above sentences consecutive to 
+any sentence imposed on the defendant for a prior conviction, but such 
+sentence shall be imposed concurrent to the sentence imposed for the 
+instant conviction. The court may impose a lesser mandatory minimum 
+period of imprisonment without possibility of parole than that mandated by this section where the court finds that strong mitigating 
+circumstances warrant such action. Strong mitigating circumstances 
+shall include, but shall not be limited to the provisions of section 
+706-621. The court shall provide a written opinion stating its reasons 
+for imposing the lesser sentence. 
+(6) A person who is imprisoned in a correctional institution pursuant 
+to subsection (1) shall not be paroled prior to the expiration of the 
+mandatory minimum term of imprisonment imposed pursuant to subsection 
+(1). 
+(7) For purposes of this section: 
+(a) Convictions under two or more counts of an indictment or 
+complaint shall be considered a single conviction without regard 
+to when the convictions occur; 
+(b) A prior conviction in this or another jurisdiction shall be 
+deemed a felony conviction if it was punishable by a sentence of death or of imprisonment in excess of one year; and 
+(c) A conviction occurs on the date judgment is entered. 
+4
+  
+ 
+   
+ 
+ 
+  
+ 
+ Recently, the United States Supreme Court extended the 
+Apprendi rule to mandatory minimum sentencing.  See  Alleyne v. 
+United States
+, 133 S.Ct. 2151 (2013). Alleyne  held  
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+jury, beyond a reasonable doubt. We answer both questions in 
+the affirmative. 
+This appeal surfaces in the wake of the sea change in state 
+sentencing procedure brought on by the United States Supreme 
+Court’s decision in Apprendi v. New Jersey, 530 U.S. 466 (2000).  
+In that case, the Court held, “ Other than the fact of a prior 
+conviction, any fact that increases the 
+penalty for a crime 
+beyond the prescribed statutory maximum must be submitted to a 
+jury, and proved beyond a reasonable doubt.” 530 U.S. at 489. 
+We adopted this holding in State v. Maugaotega , 115 Hawai i 432, 
+447, 168 P.3d 562, 577 (2007), with respect to our state’s 
+extended sentencing procedures, 
+which were subsequently codified 
+at HRS §§ 706-661, -662, and -664 (2014).  
+Any fact that, by law, increases the penalty for a crime is 
+an “element” that must be submitted to the jury and found 
+beyond a reasonable doubt. See  [Apprendi , 523 U.S. at 483, 
+n.10, 490] Mandatory minimum sentences  increase the 
+penalty for a crime. It follows, then, that any fact that increases the mandatory minimum is an “element” that must 
+be submitted to the jury.  
+ 
+133 S.Ct. at 2155. Our appellate case law currently holds that 
+the Apprendi rule does not apply to mandatory minimum 
+sentencing. See State v. Gonsalves , 108 Hawai i 289, 297, 119 
+P.3d 597, 605 (2005) (“ Apprendi  does not apply to mandatory 
+5
+
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+minimums[.]”); State v. Loher , 118 Hawai i 522, 534 n.8, 193 P.3d 
+438, 450 n.8 (App. 2008) (“Apprendi only applies to penalties 
+that increase the maximum statutory incarceration period, not 
+set a mandatory minimum like HRS § 706-606.5.”). This holding 
+has now been implicitly called into question by Alleyne. 
+We acknowledge that Alleyne did not involve mandatory 
+minimum sentencing based on prior convictions, as Auld’s case 
+does. We also acknowledge that the Apprendi rule contains an 
+exception for the “fact of prior conviction” to its requirement 
+that a jury find, beyond a reasonable doubt, those facts 
+enhancing a defendant’s sentence. It was not until this case, 
+however, that we have had the opportunity to directly address whether Apprendi’s “fact of prior conviction ” exception has a 
+place within our repeat offender mandatory minimum sentencing scheme. We hold that it does not. 
+This is because repeat offender sentencing under HRS 
+§ 706-606.5 requires more than just a finding of the “fact” of 
+prior conviction. In order to sentence a defendant as a repeat 
+offender, the State must prove (1) that the defendant has a prior conviction (or convictions); (2) that a prior conviction 
+is specifically enumerated under HRS § 706-606.5(1) or (4); (3) 
+that a prior conviction occurred within the time frame set forth 
+under HRS § 706-606.5(2), (3), or (4); and (4) that the 
+defendant was represented by counsel, or had waived such 
+6
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+                     
+  
+ 
+ Article I, section 10 of the Hawai i Constitution provides, in relevant 
+part, the following:  
+ 3 *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+representation, at the time of the prior conviction.  See  State 
+v. Caldeira
+, 61 Haw. 285, 290, 602 P.2d 930, 933 (1979) (per 
+curiam);  State v. Afong,  61 Haw. 281, 282, 602 P.2d 927, 929 
+(1979) (per curiam). Therefore, as a matter of state law, the 
+Apprendi 
+“fact of prior conviction” exception does not apply to 
+prior convictions forming the basis of repeat offender 
+sentencing pursuant to HRS § 706-606.5.  As a result, a 
+defendant is entitled to have a jury find, beyond a reasonable 
+doubt, those facts necessary to show that he or she is subject 
+to repeat offender sentencing under HRS § 706-606.5.  
+Further, our case law interpreting article I, sections 5 
+and 10 of the Hawai i Constitution3 requires “a charging 
+instrument, be it an indictment, complaint, or information,  
+[to] include all ‘allegations, which if proved, would result in 
+the application of a statute enhancing the penalty of the crime 
+committed.’” State v. Jess , 117 Hawai i 381, 398, 184 P.3d 133, 
+150 (2008) (citations omitted). Five years after we issued 
+Article I, section 5 of the Hawai i Constitution provides, “No person 
+shall be deprived of life, liberty or property without due process of law, 
+nor be denied the equal protection of the laws, nor be denied the enjoyment 
+of the person’s civil rights or be discriminated against in the exercise 
+thereof because of race, religion, sex or ances try.” 
+No person shall be held to answer for a capital or otherwise infamous crime, unless on a presentment or 
+indictment of a grand jury or upon a finding of probable 
+cause after a preliminary hearing held as provided by law or upon information in writing signed by a legal 
+prosecuting officer under conditions and in accordance with 
+procedures that the legislature may provide. . . . 
+7
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                     
+   *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+Jess, the United States Supreme Court in Alleyne clearly held 
+that “[m]andatory minimum sentences increase the penalty for a 
+crime.” 133 S.Ct. at 2155. In the wake of Alleyne, then, we 
+are compelled to hold that repeat offender sentencing under HRS § 706-606.5 “enhanc[es] the penalty of the crime committed.” 
+Consequently, under article I, sections 5 and 10 of the Hawai i 
+Constitution, a defendant’s predicate prior conviction(s) must 
+be alleged in the charging instrument. 
+We are aware that our holdings today announce new rules for 
+repeat offender charging and sentencing in Hawai i pursuant to 
+HRS § 706-606.5.  Consequently, our new holdings take effect 
+prospectively only. The ICA’s judgment on appeal, which 
+affirmed the Circuit Court of the Secon d Circuit’s
+4 (“circuit 
+court”) judgment of conviction and sentence, is therefore 
+affirmed. 
+II. Trial Court Proceedings 
+Petitioner/Defendant-Appellant Jayson Auld was charged by 
+indictment with committing Robbery in the Second Degree.  It is 
+undisputed that Auld’s indictment did not allege that he had any 
+prior convictions. A jury found Auld guilty as charged.  That 
+jury was not asked to find, and did not find, beyond a 
+reasonable doubt, that Auld had any prior convictions. After 
+The Honorable Joseph E. Cardoza presided. 
+8
+ 4  
+ 
+      
+ 
+ 
+    
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+Auld was convicted, the State filed its Motion for Imposition of 
+Mandatory Minimum Period of Imprisonment. The State requested 
+that Auld be sentenced, as a repeat offender, to a mandatory 
+minimum period of imprisonment of “SIX (6) YEARS, and, EIGHT (8) 
+MONTHS without the possi bility of parole,” pursuant to HRS 
+§ 706-606.5(1)(b)(iii).  The State averred that Auld had been convicted in 2011 of one count of Unauthorized Control of a 
+Propelled Vehicle and one count of Promoting a Dangerous Drug in 
+the Third Degree. The State attached as an exhibit to its 
+motion a copy of Auld’s judgment of conviction and probation 
+sentence reflecting both prior convictions. 
+Auld’s Opposition to the State’s motion did not argue that 
+his prior convictions were required to be found by a jury beyond 
+a reasonable doubt (or charged in the indictment); instead, he 
+argued that strong mitigating circumstances warranted a lesser 
+mandatory minimum period of imprisonment. 
+At the sentencing hearing, the State ca lled Auld’s 
+probation officer. The State introduced into evidence the “self-authenticating sealed and certified judgment for Jayson 
+Auld” for his prior convictions. Auld’s counsel did not object, 
+and the circuit court received the document into evidence.  
+Auld’s probation officer testified as to what the underlying 
+offenses were, and Auld’s coun sel did not cross-examine him.  
+The circuit court also took judicial notice of the records on 
+9
+  
+ 
+  
+ 
+ 
+  
+ 
+   
+ 
+  
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+file for both of Auld’s prior cases, and asked the State and 
+Auld if they objected; neither did.  The circuit court also 
+noted that it was the court that presided over those prior 
+cases.  
+The circuit court granted the State’s Motion for Imposition 
+of Mandatory Minimum Period of Imprisonment, sentencing Auld to 
+ten years of incarceration, with credit for time served, subject 
+to the mandatory minimum of six years and eight months as a 
+repeat offender. Auld timely appealed. 
+III. ICA Appeal 
+A. Opening Brief 
+Relevant to the issues presented on certiorari, Auld argued 
+for the first time on appeal that the circuit court “violated 
+[his] Sixth Amendment and Due Process Rights when it granted the 
+prosecution’s post-verdict motion for the mandatory minimum term 
+of imprisonment.” Auld cited Alleyne as authority for his 
+argument that a jury should have considered the facts alleged in 
+the prosecution’s motion for imposition of a mandatory minimum 
+sentence; he cited Jess as authority for his argument that those 
+facts should have also been alleged in the indictment. He asked 
+the ICA to remand his case for resentencing consistent with the 
+jury’s verdict, i.e., without the mandatory minimum s entence. 
+10
+  
+ 
+   
+ 
+   
+  
+  
+   *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+B.  Answering Brief 
+The State distinguished Alleyne, factually and legally, 
+from the instant case. The State correctly pointed out that 
+Alleyne involved 18 U.S.C. § 924(c)(1)(A), which requires a 
+mandatory minimum sentence of imprisonment of five years for a 
+person who “uses or carries” a firearm in relation to a crime of 
+violence, seven years if the firearm is “brandished,” and ten 
+years if the firearm is “discharged.” 133 S.Ct. at 2155 -56. 
+Although the jury found that Alleyne had “used or carried,” but 
+not “brandished” a firearm, the district court found that 
+Alleyne brandished a firearm and sentenced him to a mandatory 
+minimum of seven years imprisonment. 133 S.Ct. at 2156. The 
+United States Supreme Court held that the district court’s 
+judicial fact-finding of “brandishing” violated Alleyne’s Sixth 
+Amendment right to have a jury find, beyond a reasonable doubt, 
+those facts aggravating the punishment for a crime.  133 S.Ct. 
+at 2161-62. The State also noted that the Alleyne court stated 
+that its holding “d[id] not mean that any fact that influences 
+judicial discretion must be found by a jury.” 133 S.Ct. at 
+2163. In the instant appeal, the State appeared to argue that 
+Auld’s prior convictions did not need to be found by a jury 
+beyond a reasonable doubt in order for the circuit court to have 
+sentenced him to a mandatory minimum sentence as a repeat 
+offender. 
+11
+  
+ 
+  
+  
+ 
+   
+   
+ 
+ 
+ 
+  
+  
+  
+                     
+   
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+Citing State v. Drozdowski, 9 Haw. App. 583, 585, 854 P.2d 
+238, 240 (1993), the State also argued that “ordinary sentencing 
+procedures apply to the mandatory minimum sentencing hearing.” 
+Under State v. Mara , 102 Hawai i 346, 368, 76 P.3d 589, 611 (App. 
+2003), the State argued, such “ordinary sentencing procedures” 
+include the “abuse of discretion” standard as the standard for 
+appellate review of the trial court’s imposition of a mandatory 
+minimum sentence. 
+C.  Reply Brief 
+Auld contended that the State appeared to be “relying on 
+the so-called prior-convictions exception to Apprendi,”5 which he 
+argued “no longer holds sway in light of Alleyne and our own 
+supreme court’s precedent.” Auld traced the prior conviction 
+exception to Almendarez-Torres v. United States , 523 U.S. 224 
+(1998), which he claimed “underwent great scrutiny in Apprendi ,” 
+with the United States Supreme Court noting that the case was 
+“arguabl[y] . . . incorrectly decided.” 530 U.S. at 489. He 
+then ci
+ted Justice Thomas’s concurrence in DesCamps v. United 
+States
+, 133 S.Ct. 2276 (2013), as evidence that the prior 
+conviction exception is inconsistent with the Sixth Amendment. 
+Justice Thomas stated, “Under the logic of Apprendi, a court may 
+The Apprendi holding sets forth the prior conviction exception as 
+follows: “ Other than the fact of a prior conviction,  any fact that increases 
+the penalty for a crime beyond the prescribed statutory maximum must be 
+submitted to a jury, 
+and proved beyond a reasonable doubt.” 530 U.S. at 489 
+(emphasis added). 
+12
+ 5  
+ 
+    
+  
+  
+ 
+  
+ The ICA affirmed Auld’s judgment of conviction and sentence 
+in a summary disposition order  (SDO).  State v. Auld, CAAP-13-
+0002894 (App. Jan, 27, 2015) (SDO) at 2. 
+The ICA found “without 
+merit” Auld’s sentencing arguments, relying on the prior 
+conviction exception. Auld, SDO at 3-4.  The ICA noted that the 
+prior conviction exception remained undisturbed in Alleyne  and 
+was “expressly recognized” by this court in Maugaotega, 115 *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+not find facts about a prior conviction when such findings 
+increase the statutory maximum. This is so whether a court is 
+determining a prior conviction was entered, or attempting to 
+discern what facts were necessary to a prior conviction.” 133 
+S.Ct. at 2294 (Thomas, J., concurring).    
+Auld also asserted that this court has “ never carved out an 
+exception for facts relating to prior convictions” in requiring 
+that “a charging instrument, be it an indictment, complaint, or 
+information, . . . include all allegations, which if proved, 
+would result in the application of a statute enhancing the 
+penalty of the crime committed.” Jess, 117 Hawai
+i at 398, 184 
+P.3d at 150 (citations and quotation marks omitted). In other 
+words, Auld argued that a defendant’s prior conviction s must be 
+alleged in a charging instrument in order for him to be sentenced to a mandatory minimum term of imprisonment as a 
+repeat offender. 
+D
+. The ICA’s SDO 
+13
+  
+ 
+  
+  
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+Hawaii at 446-47 & n.15, 168 P.3d at 576-77 & n.15 (“The United 
+States Supreme Court has always exempted prior convictions from 
+the Apprendi 
+rule[.] . . . . The Court bases the exception on 
+the fact that prior convictions have themselves been subject to 
+the sixth amendment right to a jury trial and the accompanying 
+requirement of proof beyond a re asonable doubt.”). Id.  
+As to Auld’s contention that due process required that his 
+prior convictions be alleged in the indictment, the ICA noted 
+that this court in Jess
+, 117 Hawai i at 397-98, 184 P.3d at 149 -
+50, “cited favorably to the federal standard that prior 
+convictions are an exception to the mandate to include sentence 
+enhancements in the charging instrument.” Auld
+, SDO at 4. The 
+ICA also concluded that State v. Freitas,  61 Haw. 262, 277, 602 
+P.2d 914, 925 (1979), requires only that a defendant sentenced under HRS § 706-606.5 be given “reasonable notice and afforded 
+the opportunity to be heard,” and that due process “does not 
+require that notice be given prior to the trial of the 
+underlying offense. . . .” 
+Auld
+, SDO at 4. In the instant 
+case, the ICA reasoned that Auld had an opportunity to oppose 
+the State’s motion for imposition of a mandatory minimum 
+sentence, was represented by counsel at the hearing on that 
+motion, and did not object to the circuit court’s receiving his 
+sealed and certified judgment of conviction into evidence and taking judicial notice of the record in both prior convictions. 
+14
+
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+  
+, 
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+Id.  Therefore, the ICA concluded, Auld’s due process rights 
+were not violated. Id. 
+IV.  Standard of Review 
+This court reviews questions of constitutional law under 
+the right/wrong standard of review. See  State v. Toyomura , 80 
+Hawai
+i 8, 15, 904 P.2d 893, 900 (1995). 
+V. Discussion 
+On certiorari, Auld raises the following question: 
+Did the Intermediate Court of Appeals gravely err in 
+concluding that an exception to Apprendi v. New Jersey  
+allows sentencing courts to impose mandatory minimum terms of imprisonment based on facts that were never established 
+with proof beyond a reasonable doubt, found by a jury, and adequately pleaded in the indictment? 
+[App. at PDF p. 2] On certiorari, Auld criticizes the ICA’s 
+reliance on Apprendi ’s prior conviction exception. Auld again 
+traces the prior conviction exception to  Almendarez-Torres 523 
+U.S.
+ 224, and argues that the exception has “fallen out of favor 
+in federal courts and its continued viability there is 
+uncertain.” To demonstrate the decline of the Almendarez-Torres  
+holding, Auld first points to the dissent in that case, which 
+stated that “there is no rational basis for making recidivism an exc
+eption” to the requirement that sentencing facts be proven to 
+a jury beyond a reasonable doubt. 523 U.S. at 258 (Scalia, J., dissenting). He again points to the Apprendi 
+opinion itself, 
+which declined to revisit the Almendarez-Torres  prior conviction 
+exception, but nevertheless noted, “[I]t is arguable that 
+15
+
+  
+ 
+  
+ 
+ 
+ 
+     *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+Almendarez-Torres  was incorrectly decided, and that a logical 
+application of our reasoning today should apply if the 
+recidivist issue were contested, [but] Apprendi does not contest 
+the decision’s vali
+dity and we need not revisit it[.]”  530 U.S. 
+at 489. Auld again cites to Justice Thomas’s concurrence in 
+DesCamps
+, 133 S.Ct. 2276 (Thomas, J., concurring), as well as 
+Shepard v. United States,  544 U.S. 13, 27-28 (Thomas, J., 
+concurring) (“Almendarez-Torres . . . has been eroded by the 
+Court’s subsequent Sixth Amendment jurisprudence, and a majority 
+of the Court now recognizes that  Almendarez-Torres  was wrongly 
+decided. . . . Innumerable criminal defendants have been unconstitutionally sentenced under the flawed rule of 
+Almendarez-Torres[.]”) (citation omitted); and United States v. 
+Torres-Alvarado, 416 F.3d 808, 810 (8th Cir. 2005) (“[I]t is 
+unclear whether Almendarez-Torres  and its felony exception will 
+remain good law[.]”) (citation omitted). 
+Auld argues that this court should grant greater  
+protections to criminal defendants under Article I, Section 14 
+of the Hawai i Constitution, which provides, in relevant part, 
+“In all criminal prosecutions, the accused shall enjoy the right 
+to a speedy and public  trial by an impartial jury . . . [and] be 
+informed of the nature and cause of the accusation. . . .”   He 
+contends that a prior conviction “must be treated like any other 
+fact –- the prosecution must establish it beyond a reasonable 
+16
+
+  
+ 
+  
+   
+ 
+ 
+ 
+  
+   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+doubt before a jury and include it in the indictment before a 
+sentencing court can use it to impose a mandatory minimum term 
+of imprisonment.” Auld cites Jess, 117 Hawai i 381, 184 P.3d 
+133, for the proposition that prior convictions must be pleaded 
+in the indictment before they can form the basis of a mandatory 
+minimum sentence. He cites Alleyne and the Hawai i Constitution 
+for the proposition that a predicate prior conviction is a fact 
+that must be submitted to a jury and proven beyond a reasonable 
+doubt. 
+Auld’s arguments are persuasive, primarily because of the 
+change to our case law that Alleyne now compels. To provide the 
+backdrop for the new rules we announce today, we take a closer look at that case. In Alleyne, the sentencing statute at issue 
+was 18 U.S.C. § 924(c)(1)(A), which states the following: 
+Except to the extent that a greater minimum sentence is 
+otherwise provided by this subsection or by any other provision of law, 
+any person who, during and in relation to 
+any crime of violence or drug trafficking crime  
+(including 
+a crime of violence or drug trafficking crime that provides 
+for an enhanced punishment if committed by the use of a 
+deadly or dangerous weapon or device) for which the person may be prosecuted in a court of the United States, uses or 
+carries a firearm, 
+or who, in furtherance of any such 
+crime, possesses a firearm, shall
+, in addition to the 
+punishment provided for such crime of violence or drug trafficking crime--(i) be sentenced to a term of imprisonment of not less than 
+5 years; 
+(ii) if the firearm is brandished, be sentenced to a term 
+of imprisonment of not less than 7 years
+; and  
+(iii
+) if the firearm is discharged, be sentenced to a term 
+of imprisonment of not less than 10 years. 
+(Emphases added).  The jury who convicted Alleyne found only 
+that he “used or carried” a firearm, and did not find that he 
+17
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+“brandished” a firearm, beyond a reasonable doubt; therefore, 
+based on these jury-found facts, Alleyne was subject to only the 
+five-year mandatory minimum term.  133 S.Ct. at 2156. The 
+district court judge, on the other hand, found that Alleyne 
+brandished the firearm by a preponderance of the evidence and 
+sentenced him to the seven-year mandatory minimum term.  Id.   In 
+holding that the district court violated Alleyne’s Sixth 
+Amendment right, the United States Supreme Court extended the 
+Apprendi rule to mandatory minimum term sentencing as follows:   
+Any fact that, by law, increases the penalty for a crime is 
+an “element” that must be submitted to the jury and found 
+beyond a reasonable doubt. See [Apprendi , 530 U.S. at 483, 
+n.10, 490] Mandatory minimum sentences increase the 
+penalty for a crime. It follows, then, that any fact that 
+increases the mandatory minimum is an “element” that must 
+be submitted to the jury. 
+133 S.Ct. at 2155. In other words, “ Apprendi ’s definition of 
+‘elements’ necessarily includes not only facts that increase the 
+ceiling [i.e., the statutory maximum sentence a defendant can 
+receive], but also those that increase the floor [i.e., the mandatory minimum sentence a defendant can receive].” 133 S.Ct. 
+at 2158. 
+Alleyne
+’s holding extending the Apprendi rule to mandatory 
+minimum sentences calls into question two of our appellate 
+decisions, Loher, 118 Hawai i 522, 193 P.3d 438, and Gonsalves , 
+108 Hawai
+i 289, 119 P.3d 597. In Loher, the ICA observed in a 
+18
+
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+  
+ 
+118 Hawai i at 534 n.8, 193 P.3d at 450 n.8 (citations omitted).  
+This observation is consistent with this court’s earlier holding 
+in Gonsalves , 108 Hawai i at 297, 119 P.3d at 605, that “ Apprendi  
+does not apply to mandatory minimums[.]” The Gonsalves court  
+drew upon Harris v. United States , 536 U.S. 545 (2002), for its 
+holding, which it summarized as follows:  
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+footnote that a Rule 40 petitioner’s repeat offender mandatory 
+minimum sentence did not violate the rule in Apprendi: 
+Loher was also sentenced to a mandatory minimum of thirteen 
+years and four months, pursuant to HRS § 706-606.5, as a 
+repeat offender. Apprendi and its progeny are not 
+applicable to HRS § 706-606.5 because only facts other than 
+a finding of prior convictions must be found by a jury. 
+Only a finding of prior convictions is required to apply 
+HRS § 706-606.5.  In addition, Apprendi only applies to 
+penalties that increase the maximum statutory incarceration 
+period, not set a mandatory minimum like HRS § 706-606.5.  
+Gonsalves’s argument that somehow the jury’s verdict did 
+not authorize sentencing him to a mandatory minimum term as 
+a repeat offender is unfounded. Apprendi  pronounced a rule 
+regarding the judge -imposed penalties that increase 
+statutory maximum sentences, not mandatory minimum 
+sentences, because the judicial factfinding “that gives 
+rise to a mandatory minimum sentence . . . does not expose a defendant to a punishment greater than otherwise legally 
+prescribed.”  
+Gonsalves, 108 Hawai i at 296, 119 P.3d at 604 (citing Harris, 
+536 U.S. at 565). Harris, however, was overruled by Alleyne. 
+Alleyne, 133 S.Ct. at 2155. In fact, the United States Supreme 
+Court specifically accepted certiorari in Alleyne to consider 
+overruling Harris.  Id.  In overruling Harris, the United States 
+Supreme Court explained, “ Harris  drew a distinction between 
+facts that increase the statutory maximum and facts that 
+19
+
+  
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  Maugaotega,
+  
+ 
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+increase only the mandatory minimum.  We conclude that this 
+distinction is inconsistent with our decision in Apprendi . . . 
+and with the original meaning of the Sixth Amendment.” Id.  
+Thus, this court’s statement in Gonsalves , as well as the ICA’s 
+footnote in 
+Loher, that Apprendi does not apply in mandatory 
+minimum term sentencing is no longer true. 
+Our analysis does not end here, however, as repeat offender 
+sentencing under HRS § 706-606.5 is based solely on a 
+defendant’s prior conviction(s), and the Apprendi rule excepts 
+the “fact of prior conviction” from the requirement that a jury find, beyond a reasonable doubt, those facts increasing the 
+penalty for a crime. Apprendi, 530 U.S. at 489. We have 
+favorably cited to Apprendi’s general rule and its prior 
+conviction exception in the context of extended term sentencing 
+under HRS §§ 706-661, -662, and -664.  See  115 Haw. 
+at 446 n.15, 168 P.3d at 576 n.15 (citations omitted): 
+The United States Supreme Court has always exempted prior 
+convictions from the Apprendi 
+rule: “[T]he Federal 
+Constitution’ s jury-trial guarantee proscribes a sentencing 
+scheme that allows a judge to impose a sentence above the 
+statutory maximum based upon a fact,  other than a prior 
+conviction, not found by a jury or admitted by the 
+defendant.” 
+The Court bases the exception on the fact that 
+prior convictions have themselves been subject to the sixth 
+amendment right to a jury trial and the accompanying 
+requirement of proof beyond a reasonable doubt . 
+(Emphasis in original; citations omitted). See also Jess  , 117 
+Hawaii at 394, 184 P.3d at 146 (“[E]xcept for prior convictions, 
+multiple convictions, and admissions, ‘any fact , however  
+20
+
+  
+ 
+  
+ 
+    
+     
+ 
+ 
+ 
+  
+  
+   
+   
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+labeled, that serves as a basis for an extended term sentence 
+must be proved beyond a reasonable doubt to the trier of 
+fact.’”) (citing Maugaotega , 115 Hawai i at 447 & n.15, 184 P.3d 
+at 577 & n.15) (emphasis in original)
+; State v. Keohokapu,  127 
+Hawaii 91, 108, 276 P.3d 660, 677 (2012) (citing Maugaotega , 115 
+Hawai
+i at 442, 168 P.3d at 572; and Jess , 117 Hawai i at 394, 184 
+P.3d at 146). 
+It was not until this case, however, that we scrutinized 
+Apprendi
+’s “fact of prior conviction” exception. This may be 
+because Maugaotega , Jess
+, and Keohokapu  all involved extended 
+term sentencing under HRS §§ 706-661, -662, and -664.  Under HRS 
+§ 706-662, a defendant convicted of a felony may be subject to 
+an extended term of imprisonment if a jury finds, beyond a 
+reasonable doubt, the primary fact that an extended term of 
+imprisonment is “necessary for the protection of the public” and 
+that the convicted defendant satisfies one or more of the following criteria, most of which involve factual findings other 
+than prior convictions:  
+(1) The defendant is a persistent offender in that the 
+defendant has previously been convicted of two or more felonies committed at different times when the defendant 
+was eighteen years of age or older; 
+(2) The defendant is a professional criminal in that: 
+(a) The circumstances of the crime show that the defendant has knowingly engaged in criminal activity as a major source of livelihood; or 
+(b) The defendant has substantial income or resources 
+not explained to be derived from a source other than 
+criminal activity; 
+(3) The defendant is a dangerous person in that the 
+defendant has been subjected to a psychiatric or 
+21
+  
+ 
+  
+ 
+  
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+  
+  
+ 
+    
+ 
+  
+    
+  
+   
+   
+   
+  
+  
+  
+   
+  
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+psychological evaluation that documents a significant 
+history of dangerousness to others resulting in criminally 
+violent conduct, and this history makes the defendant a 
+serious danger to others. Nothing in this section precludes 
+the introduction of victim -related data to establish 
+dangerousness in accord with the Hawaii rules of evidence; 
+(4) The defendant is a multiple offender in that: 
+(a) The defendant is being sentenced for two or more felonies or is already under sentence of imprisonment 
+for any felony; or 
+(b) The maximum terms of imprisonment authorized for each of the defendant's crimes, if made to run 
+consecutively, would equal or exceed in length the 
+maximum of the extended term imposed or would equal 
+or exceed forty years if the extended term imposed is 
+for a class A felony; 
+(5) The defendant is an offender against the elderly, 
+handicapped, or a minor eight years of age or younger in 
+that: 
+(a) The defendant attempts or commits any of the following crimes: murder, manslaughter, a sexual offense that constitutes a felony under chapter 707, 
+robbery, felonious assault, burglary, or kidnapping; 
+and 
+(b) The defendant, in the course of committing or 
+attempting to commit the crime, inflicts serious or substantial bodily injury upon a person who has the 
+status of being: 
+(i) Sixty years of age or older; 
+(ii) Blind, a paraplegic, or a quadriplegic; or 
+(iii) Eight years of age or younger; and the person's status is known or reasonably should be 
+known to the defendant; or 
+(6) The defendant is a hate crime offender in that: 
+(a) The defendant is convicted of a crime under 
+chapter 707, 708, or 711; and (b) The defendant intentionally selected a victim or, 
+in the case of a property crime, the property that 
+was the object of a crime, because of hostility 
+toward the actual or perceived race, religion, 
+disability, ethnicity, national origin, gender identity or expression, or sexual orientation of any 
+person. For purposes of this subsection, "gender 
+identity or expression" includes a person's actual or 
+perceived gender, as well as a person's gender 
+identity, gender- related self -image, gender- related 
+appearance, or gender -related expression, regardless 
+of whether that gender identity, gender -related self -
+image, gender -related appearance, or gender -related 
+expression is different from that traditionally associated with the person's sex at birth. 
+Amidst this comprehensive list of other facts to be found by a 
+jury, perhaps adopting the “fact of prior conviction” exception 
+22
+
+  
+ 
+  
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+in the extended term context was just a natural consequence of 
+adopting Apprendi’s ge neral rule. See Maugaotega, 115 Hawai i at 
+446 n.15, 168 P.3d at 576 n.15 (positing that the prior 
+conviction exception would apply to multiple concurrent 
+convictions under HRS § 706-662(4), while acknowledging that 
+“the [Hawai i Supreme] Court has never directly addressed the 
+issue” of the application of Apprendi’s prior conviction 
+exception.) 
+Because a mandatory minimum sentence as a repeat offender 
+under HRS § 706-606.5 is warranted solely on the basis of prior 
+convictions, however, whether the Apprendi “fact of prior 
+conviction” exception truly fits within our state’s statutory sentencing scheme comes into sharper focus in this appeal. We 
+hold that repeat offender sentencing under HRS § 706-606.5 
+involves more than a simple finding of the “fact” of pri or 
+conviction, thereby removing it from Apprendi ’s “fact of prior 
+conviction” exception. First, it must be proven that a prior 
+conviction belongs to the defendant. Second, the prior 
+conviction must be enumerated under HRS § 706-606.5(1) or (4).  
+Third, the prior conviction must have occurred within the time 
+frame set forth under HRS §§ 706-606.5(2), (3), or (4).  Lastly, 
+Hawaii case law requires proof that a defendant subject to 
+mandatory minimum sentencing as a repeat offender was 
+23
+  
+ 
+   
+  
+ 
+   
+  
+ 
+ 
+ 
+                     
+  
+   
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+represented by counsel, or had waived such representation, at 
+the time of the prior conviction.  See  Caldeira, 61 Haw. at 290, 
+602 P.2d at 933; 
+Afong, 61 Haw. at 282, 602 P.2d at 929. 
+Therefore, as a matter of state law, the Apprendi “fact of prior 
+conviction” exception does not apply to prior convictions 
+forming the basis of repeat offender sentencing pursuant to HRS 
+§ 706-606.5.6 
+Loher and Gonsalves  are hereby overruled to the extent each 
+held that the 
+Apprendi rule applies only to extended term 
+sentencing under HRS §§ 706-661, -662, and -664, and not to 
+repeat offender mandatory minimum term sentencing under HRS 
+§ 706-606.5.  Loher , 118 Hawai i at 534 n.8, 193 P.3d at 450 n.8 
+(citations omitted); Gonsalves, 108 Hawai i at 297, 119 P.3d at 
+605. Loher is further overruled to the extent it held that 
+Apprendi
+’s prior conviction exception would obviate any need for 
+a defendant’s predicate prior convictions to be found by a jury.   
+Loher
+, 118 Hawai i at 534 n.8, 193 P.3d at 450 n.8 (citations 
+omitted). As a result, a defendant is entitled to have a jury 
+find beyond a reasonable doubt that his or her prior convictions 
+Consequently, although we agree with Auld (and with amicus curiae the 
+Office of the Public Defender) that the United States Supreme Court will 
+eventually overturn  Almendarez -Torres  and sweep away the prior conviction 
+exception, we reach our holding today based on “adequate and independent 
+state grounds.” See Michigan v. Long , 463 U.S. 1032, 1041 -42 (1983).  
+24
+ 6  
+ 
+  
+ 
+ 
+ 
+  
+ 
+(Emphasis added). With regard to repeat offender sentencing 
+under HRS § 706-606.5, proof of prior conviction  must be found 
+by a jury beyond a reasonable doubt, not by the court under a “reasonabl[e] satisf[action]” standard.  
+ On the issue of whether the prosecution must allege in  the 
+charging instrument  that the defendant has prior convictions for *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+trigger the imposition of a mandatory minimum sentence as a 
+repeat offender under HRS § 706-606.5.  
+With these protections in place, repeat offender sentencing 
+under HRS § 706-606.5, like extended term sentencing under HRS 
+§§ 706-661, -662 and -664, cannot be considered an “ordinary 
+sentencing” situation. Consequently, to the extent it held 
+otherwise, Drozdowski , 9 Haw. App. at 585, 854 P.2d at 240, is 
+hereby overruled. 
+Further, whether a defendant was sentenced as 
+a repeat offender consistent with the protections afforded him 
+under the Hawai i Constitution shall be reviewed under the 
+right/wrong standard. Lastly, we note that our holding affects 
+HRS § 706-
+666 (2014), titled, “Definition of proof of 
+conviction.” That statute provides 
+(1) An adjudication by a court of competent 
+jurisdiction that the defendant committed a crime 
+constitutes a conviction for purposes of sections 706 -
+606.5, 706- 662, and 706- 665, although sentence or the 
+execution thereof was suspended, provided that the defendant was not pardoned on the ground of innocence. 
+(2)
+ Prior conviction may be proved by any evidence, 
+including fingerprints records made in connection with arrest, conviction, or imprisonment, 
+that reasonably 
+satisfies the court that the defendant was convicted. 
+25
+
+  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+purposes of repeat offender sentencing, our case law 
+interpreting article I, sections 5 and 10 of the Hawai i  
+Constitution requires “a charging instrument, be it an 
+indictment, complaint, or information, [to] include all 
+‘allegations, which if proved, would result in the application 
+of a statute enhancing the penalty of the crime committed.’” 
+Jess, 117 Hawai i at 398, 184 P.3d at 150 (citations omitted).  
+Alleyne clearly held that “[m]andatory minimum sentences 
+increase the penalty for a crime.” 133 S.Ct. at 2155. In the 
+wake of Alleyne, then, we are compelled to hold that repeat 
+offender sentencing under HRS §  706-606.5 “enhanc[es] the 
+penalty of the crime committed.” Therefore, under article I, 
+sections 5 and 10 of the Hawai i Constitution, the predicate  
+prior conviction(s) must be alleged in the charging instrument 
+in order for the defendant  to ultimately be  sentenced as a 
+repeat offender. 
+Our case law on HRS § 706
+-606.5 has consistently emphasized 
+that due process requires the State to give a defendant 
+reasonable notice and an opportunity to be heard on the issue of 
+mandatory minimum sentencing as a repeat 
+offender.  State v. 
+Schroeder
+, 76 Hawai i 517, 880 P.2d 192 (1994) (citing Freitas, 
+61 Haw. at 277, 602 P.2d at 915; State v. Caldeira, 61 Haw. 285, 
+289, 602 P.2d 930, 933 (1979); and State v. Melear , 63 Haw. 488, 
+26
+
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+499, 630 P.2d 619, 627-28 (1981)).  Freitas, however, held 
+“While due process does not require that notice be given prior 
+to the trial of the underlying offense, it does require that a 
+defendant to be sentenced under Act 181 [codifying the repeat 
+offender statute] be given reasonable notice and afforded the 
+opportunity to be heard.” 61 Haw. at 277, 602 P.2d at 925) 
+(citations omitted). See also   Caldeira , 61 Haw. at 289-90, 602 
+P.2d at 933 (following Freitas  and holding the notice 
+requirements were satisfied when each defendant was apprised of the  State’s intent to seek repeat offender sentencing days  
+before the sentencing hearing); Melear, 63 Haw. at 499, 630 P.2d 
+at 628 (following Freitas  and holding that the notice 
+requirement was satisfied when defendant received the State’s 
+motion for repeat offender sentencing a month and a half before 
+the first sentencing hearing); Schroeder , 76 Hawai i at 531, 880 
+P.2d at 206 (following Freitas  and noting that the defendant  
+received notice before sentencing of only the State’s intent to 
+seek a single mandatory minimum term).  Under Jess, as clarified 
+by Alleyne, we now hold that the State provides “reasonable 
+notice” to a defendant it seeks to sentence as a repeat offender 
+when it alleges the defendant’s predicate prior convictions in a 
+charging instrument. To the extent the aforementioned cases 
+hold that due process requires only that notice be given prior 
+to sentencing, they are hereby overruled.    
+27
+
+  
+ 
+   
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+We are cognizant of the fact that we announce new rules  in 
+this case. As such, we consider whether these new rules will be 
+given 
+(1) purely prospective effect, which means that the rule is 
+applied neither to the parties in the law -making decision 
+nor to those others against or by whom it might be applied 
+to conduct or events occurring before that decision; (2) 
+limited or “pipeline” retroactive effect, under which the 
+rule applies to the parties in the decision and all cases 
+that are on direct review or not yet final as of the date of the decision; or (3) full  retroactive effect, under 
+which the rule applies both to the parties before the court 
+and to all others by and against whom claims may be 
+pressed.  
+ 
+Jess, 117 Hawai i at 401, 184 P.3d at 153 (internal citations and 
+quotation marks omitted). The “paradigm case” warranting a 
+prospective-only application of a new rule arises “when a court 
+expressly overrules a precedent upon which the contest would otherwise be decided differently and by which the parties may 
+previously have regulated their conduct.” 117 Haw aii at 400, 
+184 P.3d at 152 (citing James B. Beam Distilling Co.  
+ v. Georgia, 
+501 U.S. 529, 534 (1991)).   
+In this case, Alleyne has compelled changes to our 
+appellate precedent regarding whether the Apprendi rule applies 
+to repeat offender mandatory mini
+mum charging and sentencing 
+under HRS § 706-606.5.  Absent Alleyne , Auld’s sentence would 
+have been affirmed under Loher, 118 Hawai i 522, 193 P.3d 438, 
+and Gonsalves, 108 Hawai i 289, 119 P.3d 597, as the Apprendi 
+rule had no application to repeat offender mandatory minimum 
+28
+  
+ 
+  
+ 
+   
+ 
+   
+ 
+  sentencing a 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+sentencing under HRS § 706-606.5, and, even if it did, the prior 
+conviction exception would have applied. In other words, we 
+expressly overrule precedent upon which the “contest would 
+otherwise be decided differently,” which counsels i n favor of a 
+prospective-only application.  Jess, 117 Hawai i at 400, 184 P.3d 
+at 152 (citation omitted). 
+In the wake of Alleyne, Loher 
+and Gonsalves  are now 
+overruled to the extent each held that the Apprendi 
+rule did not 
+apply to mandatory minimum sentencing of repeat offenders under 
+HRS § 706-606.5.  As the first consequence of that overruling, 
+we have had occasion to further scrutinize whether Apprendi ’s 
+“fact of prior conviction” exception applies to mandatory 
+minimum sentencing of repeat offenders under HRS § 706-606.5, 
+and we hold that, as a matter of state law, it does not. The 
+second consequence of overruling Loher and Gonsalves  by 
+extending the 
+Apprendi rule to repeat offender sentencing is 
+that we also hold that Jess
+’s rule requiring a charging 
+instrument to include “all ‘allegations, which if proved, would result in the application of a statute enhancing the penalty of the crime committed,’” now requires the State to allege the 
+prior convictions it seeks to use as a basis for
+defendant  as a repeat offender, because “[m]andatory minimum 
+sentences increase the penalty for a crime.” Jess
+, 117 Hawai i 
+at 398, 184 P.3d at 150;  Alleyne,  133 S.Ct. at 2155.  In so 
+29
+
+  
+ 
+  
+  
+  
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+doing, we overrule Freitas (and those cases drawing on Freitas ’s 
+holding), which concluded that due process in repeat offender 
+sentencing “does not require that notice be given prior to the 
+trial of the underlying offense[.]” Thus, prior to this case, 
+the “parties may previously have regulated their conduct” consistently with the rules set forth in Freitas, Loher 
+and 
+Gonsalves that did not require a charging instrument to allege 
+predicate prior convictions, or a jury to find, beyond a reasonable doubt, that a defendant’s prior convictions subject 
+him or her to a mandatory minimum sentence as a repeat offender under HRS § 706-606.5.  This further counsels in favor of a 
+prospective-only application.  Jess
+, 117 Hawai i at 400, 184 P.3d 
+at 152 (citation omitted). 
+As to how repeat offender sentencing procedures would look 
+in the future, this court has suggested that information 
+pertaining to sentencing may be introduced after the guilt phase  
+of the trial has concluded. See Maugaotega , 117 Hawai i at 412, 
+184 P.3d at 164 (citing State v. Janto , 92 Hawai i 19, 34- 35, 986 
+P.2d 306, 321-22 (1999).  This is apparently the procedure 
+described in Keohokapu , where the jury heard testimony 
+concerning the offenses leading to defendant’s prior convictions 
+during the extended term sentencing phase of the trial. 127 
+Hawaii at 96-101, 276 P.3d at 665-70.  As with other 
+30
+
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+constitutional rights, the defendant would also have the option 
+of waiving a jury trial for repeat offender sentencing fact-
+finding, similar to the waiver option for extended term 
+sentencing fact-finding.  See HRS § 706-664(1) (“[T]he defendant 
+shall have the right to hear and controvert the evidence against 
+the defendant and to offer evidence upon the issue [of extended 
+term sentencing] before a jury; provided that the defendant may 
+waive the right to a jury determination under this subsection, 
+in which case the determination shall be made by a court.”). We 
+do not foresee future changes to repeat offender sentencing 
+procedures to be markedly different from extended term 
+sentencing procedures. 
+VI.  Conclusion 
+We hold that, under article I, sections 5 and 10 of the 
+Hawaii Constitution, the State must allege the predicate prior 
+conviction(s) in a charging instrument in order to sentence the 
+defendant to a mandatory minimum sentence as a repeat offender 
+under HRS § 706-606.5.  We further hold that, as a matter of 
+state law, Apprendi ’s “fact of prior conviction” exception does 
+not apply to repeat offender sentencing under HRS § 706-606.5, 
+and that a jury is required to find that the defendant’s prior 
+conviction(s) have been proved beyond a reasonable doubt to 
+trigger the imposition of a mandatory minimum sentence under 
+that statute. As these new rules result from the express 
+31
+  
+ 
+  
+ 
+  
+       
+   
+ 
+       
+ 
+       
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+overruling of prior appellate precedent holding that the 
+Apprendi rule did not apply to mandatory minimum sentencing and 
+that notice of repeat offender sentencing did not need to be 
+given in a charging instrument, they are given prospective 
+effect only. 
+Therefore, the ICA’s judgment on appeal, which 
+affirmed the circuit court’s judgment of conviction and 
+sentence, is affirmed. 
+Benjamin Lowenthal  
+for petitioner /s/ Mark E. Recktenwald 
+/s/ Paula A. Nakayama 
+Artemio C. Baxa 
+for respondent  /s/ Sabrina S. McKenna 
+/s/ Richard W. Pollack 
+/s/ Michael D. Wilson 
+32
+ 

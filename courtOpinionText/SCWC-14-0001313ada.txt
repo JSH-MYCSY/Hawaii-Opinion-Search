@@ -1,0 +1,902 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ʻI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, POLLACK, AND WILSON, JJ. 
+ 
+ 
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+ 
+ 
+Electronically Filed 
+Supreme Court 
+SCWC-14-0001313 19-JUL-2016 
+08:46 AM 
+---o0o---
+GREEN PARTY OF HAWAII, KAREN M. HOLT, ELIZABETH M. RUZE,
+MICHAEL KRATZKE, MOANI KEALA AKAKA, KIM DUFFETT, 
+MARY JO DENNISON and MAKA ʻALA KAʻAUMOANA,
+Petitioners/Plaintiffs-Appellants, 
+ 
+vs. 
+ 
+SCOTT NAGO, Chief Elections Office, State of Hawai ʻi, 
+and STATE OF HAWAI ʻI,
+Respondents/Defendants-Appellees. 
+SCWC-14-0001313 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS 
+(CAAP-14-0001313; CIVIL NO. 12-1-0956(2)) 
+
+JULY 19, 2016 
+OPINION OF THE COURT BY POLLACK, J.
+   
+This case involves an action by the Green Party of 
+Hawaii and seven registered voters who voted in the 2012 General 
+Elections (Green Party) seeking a declaratory judgment pursuant 
+to Hawai ʻi Revised Statutes (HRS) § 91-7 (2012) that certain  
+ 
+    
+ ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+methodologies and procedures used by the Office of Elections in 
+the 2012 election are invalid under the Hawai ʻi Administrative 
+Procedure Act (HAPA). 
+Specifically, Green Party contends that the Office of 
+Elections violated rulemaking requirements because of its 
+failure to adopt administrative rules pursuant to HAPA regarding the methodology and procedures used to (1) determine the number 
+of election ballots to be delivered to the precincts, (2) 
+request additional ballots when a precinct runs out of paper ballots, and (3) count the votes cast on a ballot for a precinct in which the voter is not entitled to vote. We conclude that the procedures used to determine that there will be a sufficient number of ballots ordered for each precinct for a primary or general election and the policy for counting votes cast on ballots for the incorrect precinct are “rules” under HAPA and 
+thus subject to the rulemaking requirements of HAPA. 
+I. BACKGROUND 
+A. The 2012 Election 
+Chief Election Officer Scott T. Nago reported on the 
+election-day issues that arose during the 2012 General Election 
+in memoranda to the Elections Commission dated November 9, 2012, and November 20, 2012: 
+On the day of the General Election, it was discovered
+that there was a deficiency in the amount of the ballots
+that had been ordered for the election. 
+2 
+ 
+ 
+   The initial lack of a sufficient inventory of ballots
+at various polling places across the state was the result
+of a deficient model used for ordering ballots, a failure
+to follow the safeguards that exist to modify the order or
+to reallocate existing ballots prior to election day, and afailure to deploy additional ballots in a timely manner on
+election day. [1] 
+ 
+ The Office of Elections proceeded to deliver reserve
+ballots to a number of polling places before they ran out.However, as the day went on, the amount of polling placesexperiencing this problem outstripped the Office ofElections’ ability to deliver ballots in a timely manner
+before various polling places ran out of paper ballots and
+were forced to direct voters to use the traditionally lessutilized direct recording electronic voting machines, whilethey waited for the reserve ballots to be delivered. 
+ In the end, we received approximately 70 calls from
+51 polling places about their ballot inventory, and 24 ofthem actually ran out [of] paper ballots before ourdelivery of ballots to them. Significant delays were
+experienced at various polling places given that the directrecording electronic voting machine could be used by only
+one voter at a time, compared to paper ballots which can be
+quickly issued to voters, who can then go to separatevoting booths to fill them out, and then quickly have them
+read by the standard precinct counter for paper ballots. 
+  Nago then addressed several notable incidents 
+resulting from the insufficient ballot inventory at the polling 
+places:  
+ As part of the urgency of getting the ballots out to the
+polling places, the ballots for two polling places were
+accidentally delivered to the wrong polling places towards the
+end of the day. Specifically, Hokulani Elementary School 
+                     ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+. . . . 
+1   The primary explanation given by Nago as to the reason for
+the “deficient model” is that the 2012 General Election was the first 
+General Election following the 2011 reapportionment and redistrictingof the precincts. Consequently, as explained by Nago,precinct/district boundaries changed, which resulted in an inability to
+make a direct comparison between elections for a specific precinct
+other than the 2012 Primary Election. Nago explained, “The inabilityto make a direct comparison between comparable elections should haveresulted in the consideration of an even higher safeguard percentagethan 125% of Primary Election voter turnout that was used.” 
+3 
+ 
+ 
+   The precinct counters are programmed to only read ballots
+of the specific ballot type associated with that precinct. As 
+such, the precinct counters rejected the ballots and would notread them. In situations where the precinct counter will notread a ballot, the voter is able to have it deposited in theemergency ballot bin, where it will be scanned at a later time.
+This is what occurred at Hokulani Elementary School and Waialae
+Elementary School for those voters provided the incorrect ballotat the end of the day. These ballots were eventually counted atthe State Capitol. However, only the contests that the voterswere eligible to vote on were counted. Specifically, the voters
+at Hokulani Elementary School (District Precinct 20-04) were not
+eligible to vote on the State Representative, 19
+th District, State
+Senate 9th District, and Council District IV contests on the
+Waialae Elementary School ballots (District Precinct 19-03).Similarly the voters at Waialae Elementary School (District
+Precinct 19-03) were not eligible to vote on the State
+Representative, 20
+th District, State Senate, District 10 and
+Council District V contests on the Hokulani elementary Schoolballots (District Precinct 20-04). A total of 46 ballots at Hokulani Elementary School and 11 at Waialae Elementary School
+had to be treated in this manner. 
+  Nago concluded that the irregularities that had 
+occurred did not appear to be legally sufficient to change the 
+election results: 
+ In reviewing the impacted contests of State
+Representative, 19th and 20th Districts, State Senate 9th and 
+10th Districts, and Council Districts IV and V, the margins
+of victory were significant and would not have been
+impacted by these ballots. In the present case, theseirregularities do not appear to be legally sufficient to
+change the election results. 
+  Nago also explained that the voting delays did not 
+affect voters in line at the close of polls as they were 
+permitted to vote: 
+ By state law, all voters in line at the close of
+polls are able to vote. As such, in talking to the media,
+we encouraged all impacted voters to remain in line as theywould be permitted to vote and that they should utilize the ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+(District Precinct 20-04) and Waialae Elementary School (DistrictPrecinct 19-03) received each other’s reserve ballots. 
+4 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+       
+2                
+  The audit logs of eleven polling places indicate breaks in voting
+of less than fifteen minutes. At fifteen polling places, logs reflect that
+the polling places ran out of ballots between 4:15 p.m. and 5:46 p.m. Of these, five polling places ran out before 5:00 p.m. and the rest after 5:00p.m. The delay before voting resumed at these polling places ranged from alow of thirty-two minutes to approximately three hours. ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+electronic voting machines. 
+In the end, all voters in line
+at the close of polls were permitted to vote. However, aspreviously noted, there were significant delays.
+[2] 
+Elizabeth M. Ruze, a plaintiff in this case, submitted 
+a sworn declaration that recounted her voting experience: 
+3. I went to Hokulani Elementary on November 6,
+2012 to vote in the general election near the end of theday. 
+4. I was given a paper ballot by the poll workers.
+I voted the ballot including some races that I did not knowwere in my district. I then gave the ballot to the poll
+worker. 
+5. The poll workers told me that there was
+something wrong with the machine so they were putting
+ballots under the automatic feeder into the ballot slot. 
+6. It was then discovered that these ballots were 
+for the wrong district and we were told we could vote on aminority language ballot or use the electronic votingmachines. We all assumed that these additional ballots were good because we saw them arrive and the poll workersaid, “Good. We’ve got ballots.” 
+7. I first looked at the minority language ballot
+to see if I could vote one but I couldn’t figure out theballot “referendum” type questions so I ended up voting onthe electronic voting machine. 
+8. When I was finished voting on the electronic
+voting machine, I asked a poll worker about the disposition
+of my original ballot because I was worried about voting
+twice. He told me “don’t worry about the first time youvoted.” 
+9. Many people were getting off work to vote and
+were irritated when they had to stand in long lines after
+the wrong ballots were discovered. Some voted on minority
+language ballots but a number left because they said theycouldn’t wait any longer. 
+5 
+ 
+ 
+   ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+10. I was never told by the elections office what
+happened to my first ballot. 
+Nago concluded his November 9, 2012 letter to the 
+Elections Commission with the following: “What has happened is 
+clearly unacceptable. Having been entrusted with the integrity of our elections, our voters deserved better. We will be taking steps to ensure that this never happens again.” 
+B.
+ Determination of the Number of Ballots to Order 
+The Chief Election Officer is required to deliver a 
+sufficient number of ballots to each of the precincts before the 
+polls open on election day. The ballot order methodology used 
+to calculate the number of ballots printed for the primary and general elections in 2010 is reflected in an undated document entitled Ballot Order. The 2010 ballot order methodology appears to be substantively similar to the prior version, Ballot Order 2002. 
+Prior to the 2012 General Election, the model for 
+ordering polling place ballots involved calculating 85% of the 
+amount of registered voters in the precinct. Voter turnout in 
+comparable elections could be used as a basis to increase or decrease the ballot order as necessary. The number of absentee 
+6 
+ 
+ 
+   
+                     
+   
+   ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+mail ballots, absentee walk ballots,3 and reserve ballots4 
+ordered was based on a percentage of the number of the polling 
+place ballots. The absentee mail ballots ordered were generally equal to 35% of the polling place ballots; absentee walk ballots 
+ordered were equal to 20% of the polling place ballots; and 
+reserve ballots were equal to 6% of the polling place ballot order. 
+Historically and in 2012, the ballot order calculation 
+was supplemented by a review of the number of absentee ballots cast prior to the opening of the polls. An unusually low absentee mail or absentee walk turnout would act as a warning sign that there were a higher number of remaining voters 
+eligible to vote at the polling places, resulting in the need to 
+deploy reserve ballots prior to the opening of the polls. If there were concerns regarding whether the number of reserve ballots was sufficient, then unissued absentee ballots could be 
+3 Absentee walk ballots are ballots cast by voters who vote prior
+to election day at a polling place outside of their precinct set up for early
+voting. 
+4 According to Nago, “[r]eserve ballots are a common practice to
+address the possibility of loss, destruction or the exhaustion of ballots ata polling place.” The circuit court found that reserve ballots are ballots 
+specific to each precinct that can be delivered to polling places and used if
+a polling place runs out of the regular ballots. It is noted that Nagoindicated that “due to the distances involved in the County of Hawaii, thereserve ballots were deployed at the same time as the regular precinctballots.” 
+7 
+ 
+ 
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+used, and the vendor could also print additional ballots on 
+election day. 
+Polling place voter turnout ranged from 22.6% to 40.6% 
+of registered voters in the years 2008 through 2010, depending 
+on the year and whether it was a primary election, general 
+election, presidential election, or gubernatorial election. Thus, ordering eighty-five polling place ballots for every one hundred registered voters resulted in essentially twice as many ballots ordered as polling place voters. 
+For the 2012 General Election, the former Office of 
+Elections’ Ballot Operations Section Head determined the formula used to calculate the number of ballots printed in the primary 
+and general elections. The ballot order formula was modified 
+based on the actual voter turnout for the 2012 Primary Election instead of the number of registered voters. To determine the number of voters expected to vote in the 2012 General Election, the voter turnout for the 2012 Primary Election was multiplied by 125%. Thus, instead of using the number of registered voters as a base and multiplying it by a percentage of around 80%, the 2012 General Election ballot order method used the voter turnout 
+for the 2012 Primary Election and multiplied it by 125%. The 
+8 
+ 
+ 
+   
+  
+  
+                     
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+number of reserve, absentee mail, and absentee walk ballots to 
+order was then calculated.5 
+As stated, the 2012 ballot order for the 2012 General 
+Election was based on the actual voter turnout for the 2012 
+Primary Election. Because the voter turnout for the 2012 
+Primary Election was low, multiplying it by 125% resulted in an order of polling place ballots for the 2012 General Election that was less than the order for the 2012 Primary Election. 
+The methodology used by the Office of Elections for 
+determining the number of ballots to order was not adopted as an administrative rule. 
+C. Delivery of Reserve Ballots 
+Reserve ballots are ballots that can be delivered to 
+polling places if a polling place runs out of regular precinct ballots or there is a loss or destruction of ballots. Reserve ballots are ordered at the same time as other types of ballots. The vendor delays printing reserve ballots to allow the Office of Elections further time to adjust the quantity of reserve ballots to be printed. 
+On election day, precinct workers monitor the supply 
+of paper ballots at the polling places, and when it appears that 
+5 The Office of Elections disclosed that it is “unaware of any
+specific document involved in the determination process of the ballot
+ordering process for the 2012 primary and general elections.” 
+9 
+ 
+ 
+    
+ 
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+the supply of ballots is running low, a precinct worker calls 
+the counting center at the State Capitol and asks that reserve ballots for the precinct be delivered. Additionally, if there are concerns regarding whether the number of reserve ballots is 
+sufficient, then unissued absentee ballots can be used, and the 
+vendor can also print additional ballots on election day. 
+The Office of Elections has not adopted an 
+administrative rule that sets out the procedure to be used by precinct workers for requesting reserve ballots on election day. 
+D. Counting Votes Cast on Ballots for the Incorrect Precinct 
+The vote counting equipment at each of the polling 
+places is electronically programmed to read only the paper ballots associated with that precinct. Thus, the precinct counters will reject paper ballots that do not correspond to that precinct. In accordance with established procedures, the rejected ballots in the 2012 General Election were deposited in the emergency ballot bin to be counted at a later time. These 
+ballots were eventually counted at the State Capitol. In 
+counting the votes cast on ballots for the incorrect precinct, all of the votes cast in races for which the voter is entitled to vote are counted, and all of the votes cast in races in which the voter is not entitled to vote are not counted. 
+10 
+ 
+ 
+    
+ 
+  
+ 
+  The Office of Elections and Green Party filed counter 
+motions for summary judgment. Green Party requested that the 
+                     
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+The Office of Elections has not adopted an 
+administrative rule that sets out the procedure that applies 
+when votes are cast on ballots for the incorrect precinct. 
+E. Procedural Background 
+Green Party filed a complaint in the Circuit Court of 
+the Second Circuit (circuit court) asserting three violations of HAPA by the Office of Elections. Green Party argued that the Office of Elections was required to adopt the following through HAPA’s rulemaking procedures: a rule regarding the methodology used to determine the number of ballots ordered; rules regarding the procedures by which a precinct requests additional paper ballots; and rules regarding the procedure used to count the 
+votes cast on a ballot for a precinct in which the voter is not 
+entitled to vote.
+6 
+6 In count four of its complaint, Green Party also sought
+injunctive relief restraining the State and Chief Elections Officer from
+acting pursuant to rules that were not properly adopted pursuant to HAPA.The circuit court denied Green Party’s request for injunctive relief,
+concluding that Green Party had not prevailed on the merits and had not
+established any evidence of irreparable injury favoring the issuance of aninjunction. In its Opening Brief to the Intermediate Court of Appeals (ICA),Green Party did not challenge the circuit court’s denial of injunctiverelief, although Green Party requested in the conclusion of its Opening Brief
+that the ICA consider whether injunctive relief would be appropriate. The 
+ICA did not address Green Party’s request for an injunction in its opinionnor was it raised in the application for writ of certiorari to this court.Although we note that Green Party is not precluded from seeking injunctiverelief at the circuit court, we do not consider the issue. 
+11 
+ 
+ 
+court grant a declaratory judgment and order injunctive relief. 
+Green Party argued that it was entitled to judgment as a matter of law on the basis that there were no genuine issues of material fact. Green Party contended that the methodology for 
+determining the number of ballots to be printed and the 
+procedure of requesting additional ballots were, in effect, administrative rules under HRS § 91-1(4). Conversely, the Office of Elections’ motion for summary judgment argued that the State was entitled to judgment as a matter of law based on the following arguments: Green Party failed to state a claim for relief; the methodology for determining the number of ballots to be printed and procedure for requesting additional ballots were 
+aspects of organization and administration, not administrative 
+rules; administrative rules are not needed or required under HRS § 11-12; and Green Party is not entitled to a declaratory judgment because it failed to meet the requirements for a permanent injunction. 
+    
+                     
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+Following a hearing on the motions for summary 
+judgment, the circuit court denied Green Party’s motion for 
+summary judgment and granted the Office of Elections’ motion for 
+summary judgment.7 First, the court held that Green Party set 
+7 The Honorable Peter T. Cahill presided. 
+12 
+ 
+ 
+   
+                     
+   
+   
+ ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+forth a claim upon which relief may be granted.8 Second, the 
+court held that the challenged methodologies and procedures were 
+regulations concerning only the internal management of the agency, specifically finding that the challenged methodologies 
+and procedures were excluded from the definition of a rule 
+because they were solely aimed at instructing the Office of Elections, not the public at large. Third, the court held that Green Party had not been denied due process. Lastly, the court held that Green Party failed to show that the challenged procedures and methodologies affected the private right to vote. The circuit court also denied Green Party’s request for injunctive relief. The court held that Green Party had not 
+prevailed on the merits of its claims or established any 
+evidence of irreparable injury favoring the issuance of an injunction. On October 24, 2014, the court entered final judgment.
+9 
+8 The circuit court found that Green Party’s decision to pursue an
+alternative method of relief, instead of submitting a petition to the Chief
+Election Officer asking for rulemaking, pursuant to HAR § 3-171-2, did notconstitute a failure to state a claim. 
+9 In its findings of facts, the court specifically found that as a
+result of reapportionment and redistricting, “there was no prior GeneralElection to use as a starting point in calculating the number of ballotsneeded in each of the post-reapportionment and redistricting precincts.”Thus, the court found that the Office of Elections “modified the ballot order
+calculation” by utilizing the 2012 Primary Election voter turnout as a base,
+multiplied by 125%. The court granted the Office of Elections’ motion forsummary judgment on the basis that the challenged methodologies andprocedures pertained to the internal management of an agency and did notaffect the private rights of and procedures available to the public in any 
+(continued. . .) 
+13 
+ 
+ 
+    
+  In a published opinion, the ICA affirmed the circuit 
+court’s judgment.  Green Party of Haw. v. Nago,  137 Hawai ʻi 58, 
+71, 365 P.3d 987, 1000 (App. 2015), cert. granted, No. SCWC-14-
+0001313 (Haw. Mar. 10, 2016). In analyzing whether the 2012 ballot order method was a rule, the ICA concluded that the 2012 
+ballot order method clearly “implements Hawai ʻi election law, in 
+                                                                  
+ ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+Green Party appealed the circuit court’s final 
+judgment to the Intermediate Court of Appeals (ICA) maintaining 
+that the challenged procedures were subject to HAPA rulemaking requirements. The Office of Elections contended that the 
+challenged procedures regarding ordering ballots and monitoring 
+the levels of ballots were matters of internal management that only indirectly affected the private rights of, or procedures available to, the public. Additionally, the Office of Elections asserted that its procedure for counting votes cast on a ballot for a precinct in which the voter was not entitled to vote was a matter of internal management and that the private rights of or procedures available to the public were protected by existing 
+statutes and rules. 
+(. . .continued) 
+way, including the right to vote. The court additionally held that Green
+Party had not prevailed on the merits of its claim because it failed to showimpairment or denial of the right to vote and failed to establish irreparableinjury warranting the issuance of a permanent injunction. 
+14 
+ 
+ 
+      
+  
+                     
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+particular HRS § 11-119(d) (2009), which requires delivery of a 
+‘sufficient number of ballots.’” Id. at 68, 365 P.3d at 997. 
+However, the ICA also concluded that the 2012 ballot method “was not a ‘statement of general or particular applicability and 
+future effect that implements, interprets, or prescribes law or 
+policy, or describes the organization, procedure, or practice requirements of any agency.’” Id. The ICA reasoned that the 
+methodology used was “merely a data point,” that instead of a policy statement it was a “one-time calculation/miscalculation,” and there was nothing in the record to indicate that it would ever be used again in the future. Id. Accordingly, the ICA 
+determined that the ballot order methodology was not a rule 
+subject to the rulemaking requirements of HAPA.
+10 
+The ICA next considered whether the procedures used by 
+a precinct to request additional ballots when the precinct runs 
+out of ballots and receives additional ballots were rules within 
+10 The ICA noted that Green Party did not petition the Chief
+Election Officer for adoption or amendment of a rule, pursuant to HRS § 91-6.
+Green Party of Haw. , 137 Hawai ʻi at 69, 365 P.3d at 997. Thus, the ICA
+determined it was not necessary to address whether the Office of Elections’
+decision not to proceed with rulemaking was an abuse of discretion or,
+alternatively, whether a “single formulaic methodology” would be impractical.
+Id. (citing to Pila ʻa 400, LLC v. Bd. of Land & Nat. Res., 132 Hawai ʻi 247,
+264, 320 P.3d 912, 929 (2014)). The ICA also noted that it was not necessary
+to address whether the 2012 ballot method only concerned internal management
+of the agency and did not affect the private rights of or proceduresavailable to the public because of its determination that the 2012 ballotmethod was not a statement of general applicability and future effect. 
+Id. 
+at 69-70, 365 P.3d at 997-99. 
+15 
+ 
+ 
+    With regard to the procedures used to address the 
+situation when votes are cast on ballots for the incorrect 
+precinct, the ICA concluded that the procedures employed were in response to problems that the Chief Election Officer could not reasonably foresee and that needed to be resolved despite the 
+absence of a general rule. 137 Hawai ʻi at 71, 365 P.3d at 1000. 
+Thus, the ICA concluded that the procedure relating to counting 
+the votes was not a statement of general applicability and future effect directed at implementing, interpreting, or prescribing law, policy, or procedural requirements. Id. The 
+ICA also noted that, alternatively, this procedure fell into the internal management exception because it was only directed at 
+election workers and “it ensured preservation of--rather than ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+the meaning of HRS § 91-1(4). The ICA concluded that “the 
+challenged procedure is directed exclusively to precinct workers in the execution of their election day responsibilities.” Id. 
+at 70, 365 P.3d at 999. The ICA also stated, “[A]lthough the 
+procedure affects in an indirect way the public’s interest in 
+having reasonably prompt access to paper ballots on which to cast their vote, it is aimed at prescribing and controlling election-day workers in order to facilitate the rights of voters, and not at the private rights of or procedures available to the public.” Id. Thus, the ICA concluded that the 
+procedures to request additional ballots were not rules. Id. 
+16 
+ 
+ 
+    “We review the circuit court’s grant or denial of 
+summary judgment de novo.” Querubin v. Thronas, 107 Hawai ʻi 48, 
+56, 109 P.3d 689, 697 (2005). 
+  The primary issue before this court is whether the 
+Office of Elections’ procedures that Green Party challenges are 
+“rules” as defined by HAPA.11    
+                     
+11   Green Party also asserts that the circuit court and the ICA
+applied the wrong standard to this case because both courts made reference to
+the process by which a party may challenge an election result pursuant to HRS§ 11-172. However, there is no indication in the record that the circuitcourt or the ICA treated Green Party’s suit as an election challenge. 
+ ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+affected--the private rights of and procedures available to the 
+public.” Id. 
+II. STANDARD OF REVIEW 
+[S]ummary judgment is appropriate if the pleadings,
+depositions, answers to interrogatories, and admissions onfile, together with the affidavits, if any, show that thereis no genuine issue as to any material fact and that themoving party is entitled to judgment as a matter of law. A
+fact is material if proof of that fact would have the
+effect of establishing or refuting one of the essentialelements of a cause of action or defense asserted by theparties. The evidence must be viewed in the light mostfavorable to the non-moving party. In other words, we must
+view all of the evidence and the inferences drawn therefrom 
+in the light most favorable to the party opposing themotion. 
+Durette v. Aloha Plastic Recycling, Inc. , 105 Hawai ʻi 490, 501, 
+100 P.3d 60, 71 (2004) (alteration in original) (quoting Haw. 
+Cmty. Fed. Credit Union v. Keka, 94 Hawai ʻi 213, 221, 11 P.3d 1, 
+9 (2000)). 
+III.
+ DISCUSSION 
+(continued. . .) 
+17 
+ 
+ 
+    
+                                                                  
+ 
+  
+  
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+In the underlying action, Green Party seeks a 
+declaratory judgment pursuant to HRS § 91-712 that certain 
+methodologies and procedures used by the Office of Elections in 
+the 2012 election are invalid under HAPA. HRS § 91-7 provides 
+for the review of the validity of an existing agency rule. In 
+re Application of Hawaiian Elec. Co.,  66 Haw. 538, 541, 669 P.2d 
+148, 151 (
+1983).13 Accordingly, the relevant question under HRS 
+(. . .continued) 
+Green Party additionally argues that the ICA misinterpreted and
+misapplied Pilaa 400, LLC v. Board of Land & Natural Resources, 132 Hawai ʻi 
+247, 320 P.3d 912 (2014). However it does not appear that the ICA
+misinterpreted 
+Pilaʻa, and, while the ICA discusses the Pila ʻa
+ decision, it
+did not apply Pilaʻa to this case. 
+12 HRS § 91-7 provides the following: 
+(a) Any interested person may obtain a judicial declaration
+as to the validity of an agency rule as provided in
+subsection (b) herein by bringing an action against the
+agency in the circuit court of the county in whichpetitioner resides or has its principal place of business.The action may be maintained whether or not petitioner hasfirst requested the agency to pass upon the validity of the
+rule in question. 
+(b) The court shall declare the rule invalid if it finds 
+that it violates constitutional or statutory provisions, orexceeds the statutory authority of the agency, or wasadopted without compliance with statutory rulemaking
+procedures. 
+13 This is in contrast to HRS § 91-6, which provides a process for
+interested persons to petition an agency to adopt rules. In re Hawaiian 
+Elec. Co.,  66 Haw. at 541, 669 P.2d at 151 (explaining that if an agency has
+not adopted a rule, an interested person may petition for the adoption ofsuch rule, and also explaining that (i) if the agency refuses, then the
+petitioning person would have an action in circuit court “of some nature,such as a declaratory judgment action” or (ii) if the agency adopts a rule,then the rule may be challenged pursuant to HRS § 91-7). 
+Compare HRS § 91-6
+with
+ HRS § 91-7. 
+18 
+ 
+ 
+§ 91-7 is not whether or not the agency should adopt a rule. 
+Instead, the pertinent question is whether the agency has adopted a rule, and if so, then the issue becomes whether the rule is valid.
+14 Id.; see HRS § 91-7. 
+    The following is the definition of “rule” as provided 
+in HAPA: 
+Id.
+                     
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+“Rule” means each agency statement of general or particular
+applicability and future effect that implements,
+interprets, or prescribes law or policy, or describes the
+organization, procedure, or practice requirements of anyagency. 
+The term does not include regulations concerning
+only the internal management of an agency and not affectingprivate rights of or procedures available to the public,
+nor does the term include declaratory rulings issued
+pursuant to section 91-8, nor intra-agency memoranda. 
+HRS § 91-1(4) (1965). Thus, there is a general definition of 
+“rule”: a “statement of general or particular applicability and future effect that implements, interprets, or prescribes law or policy, or describes the organization, procedure, or practice requirements of any agency.”  
+And, there is also an 
+14 Green Party suggests that the ICA and circuit court erroneously
+held that Green Party was required to petition for agency rulemaking in order
+to raise its HRS § 91-7 claims. However, there is no indication in therecord that the circuit court concluded that a petition for agency rulemakingwas necessary in order for Green Party to raise its HRS § 91-7 claims.
+Rather, the circuit court held that “although [Green Party has] not submitted
+such a petition [pursuant to HRS § 91-6], their decision to pursue analternative method of relief does not constitute a failure to state a claim upon which relief may be granted.” In its opinion, the ICA noted that GreenParty failed to cite to evidence within the record to support its assertion
+that the circuit court arrived at such a conclusion. Thus, the ICA declined
+to find that the circuit court erred. Accordingly, we do not address GreenParty’s contention that the circuit court and the ICA considered a petitionto the Office of Elections for rulemaking to be a requirement for GreenParty’s HRS § 91-7 claim. 
+19 
+ 
+ 
+    ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+exception to the general definition of “rule”: “regulations 
+concerning only the internal management of an agency and not affecting private rights of or procedures available to the public.” Id. 
+The general definition of “rule” under HAPA may be 
+divided into two basic elements. The first element is that the agency statement be of (a) general or particular applicability and (b) future effect. The second element provides that the agency statement (a) implements, interprets, or prescribes law or policy, or (b) describes the organization, procedure, or practice requirements of any agency. Perhaps because of the expansiveness of the second element, our cases have focused 
+mainly on the meaning of the first element--an agency statement 
+of general or particular applicability and future effect. 
+  Additionally, Hawai ʻi appellate courts typically have 
+discussed the meaning of the general definition of “rule” in 
+cases where there is a question of whether the agency action is 
+legislative or adjudicative. See Pila ʻa 400, LLC v. Bd. of Land 
+& Nat. Res.
+, 132 Hawai ʻi 247, 264, 320 P.3d 912, 929 (2014); In 
+re Application of Hawaiian Elec. Co., 81 Hawai ʻi 459, 466, 918 
+P.2d 561, 568 (1996); Shoreline Transp., Inc. v. Robert’s Tours 
+& Transp., Inc., 70 Haw. 585, 591, 779 P.2d 868, 872 (1989). 
+But see Aguiar v. Haw. Hous. Auth.
+, 55 Haw. 478, 486, 522 P.2d 
+20 
+ 
+ 
+    ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+1255, 1261 (1974) (addressing various arguments by the parties 
+regarding whether or not an agency regulation was a rule under HAPA). This court has recognized that “rule-making is essentially legislative in nature because it operates in the 
+future; whereas, adjudication is concerned with the 
+determination of past and present rights and liabilities of individuals where ‘issues of fact often are sharply 
+controverted.’” In re Hawaiian Elec. Co.
+, 81 Hawai ʻi at 467, 918 
+P.2d at 569 (quoting Shoreline Transp., Inc. , 70 Haw. at 591, 
+779 P.2d at 872). 
+“In the most general terms, the purpose of rule-making 
+is to govern the future conduct of groups and individuals, not determining damages resulting from past conduct.” Pilaʻa
+, 132 
+Hawaiʻi at 266, 320 P.3d at 931. Thus, rulemaking is defined 
+under HAPA as an agency statement of “general or particular 
+applicability” and “future effect.” HRS § 91-1(4). Because the literal application of “particular applicability” would completely obviate the adjudicatory function of administrative agencies, we have interpreted HRS § 91-1(4) as requiring generality of effect of the agency statement. In re Hawaiian 
+Elec. Co.
+, 81 Hawai ʻi at 466, 918 P.2d at 568; Aguiar, 55 Haw. at 
+485 n.13, 522 P.2d at 1261 n.13. Additionally, the statement must also have future effect, meaning that the statement will 
+21 
+
+ 
+ 
+    ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+govern future conduct rather than make a determination of past 
+and present liabilities. In re Hawaiian Elec. Co. , 81 Hawai ʻi at 
+466, 918 P.2d at 568. Thus, in order to distinguish rulemaking 
+from an agency’s adjudicatory function, HAPA requires that the agency statement have general and future effect. 
+The exception to the definition of “rule” applies to 
+regulations that concern (a) only the internal management of the 
+agency and (b) do not affect private rights or procedures 
+available to the public. 
+HRS § 91-1(4). Thus, the exception 
+was intended to have a “limited scope” because it only applies if it both relates to internal management of the agency and it does not affect private rights or public procedures. 
+Aguiar, 55 
+Haw. at 488, 522 P.2d at 1262. And, “even in those states where the statutory exemption is broader covering ‘all statements concerning matters of internal management, . . . reliance must 
+be placed on courts to foreclose any tendencies that agencies 
+might exhibit to avoid the rule-making requirements by casting regulations in terms of internal management.’” Id. at 489, 522 
+P.2d at 1263 (alteration in original) (quoting 1 F. Cooper, State Administrative Law 116 (1965)). 
+Hawai
+ʻi appellate cases that consider whether 
+regulations concern only the internal management of the agency often consider to whom the regulations are directed. If the regulation is principally directed to its staff, then it is 
+22 
+ 
+ 
+    ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+generally considered to be a matter of internal management. See 
+Rose v. Oba, 68 Hawai ʻi 422, 426, 717 P.2d 1029, 1031 (1986); see 
+also Doe v. Chang
+, 58 Haw. 94, 96, 564 P.2d 1271, 1273 (1977) 
+(noting that “[t]he only persons purporting to be instructed or 
+ordered” by the regulation were “the personnel of the department”); In re Doe, 9 Haw. App. 406, 412, 844 P.2d 679, 682 
+(1992). This approach is supported by the legislative history 
+of HRS § 91-1(4): 
+It is intended by this definition of “rule” that
+regulations and policy prescribed and used by an agency
+principally directed to its staff and its operations areexcluded from the definition. In this connection yourCommittee considers matters relating to the operation andmanagement of state and county penal, correctional,
+welfare, educational, public health and mental health
+institutions, operation of the National Guard, thecustodial management of the property of the state or countyor of any agency primarily a matter of ‘internalmanagement’ as used in this definition. 
+H. Stand. Comm. Rep. No. 8, in 1961 House Journal, at 656; see 
+also Rose, 68 Hawai ʻi at 426, 717 P.2d at 1031. 
+However, even if it is determined that a regulation 
+concerns only internal management of an agency, the exception 
+will apply only if it is also determined that the regulation 
+does not affect private rights or procedures available to the public. In several cases, this court has considered whether regulations affect private rights or public procedures. See 
+Nuuanu Valley Ass’n v. City & Cnty. of Honolulu, 119 Hawai ʻi 90, 
+100, 194 P.3d 531, 541 (2008) (holding an agency’s policy of 
+23 
+ 
+ 
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+refusing to publicly disclose the documents was itself a rule 
+because it affected the procedures available to the public and violated an existing rule that the agency was to release such documents to the public); 
+Haw. Prince Hotel Waikiki Corp. v. 
+City & Cty. of Honolulu, 89 Hawai ʻi 381, 393, 974 P.2d 21, 33 
+(1999) (holding that a city appraiser’s methodology for assessing the value of a golf course was a rule because the 
+methodology “undoubtedly affect[ed] the assessed value of the 
+golf course and the future assessments of all golf course 
+owners”); Rose, 68 Hawai ʻi at 427, 717 P.2d at 1032 (holding that 
+provisions in a hospital’s bylaws governing corrective action 
+against doctors did not affect private rights of or procedures available to the public); Chang, 58 Haw. at 95, 564 P.2d at 1272-73 (holding that a manual of instructions to Department of Social Services and Housing personnel concerning welfare fraud investigations was not subject to HAPA rulemaking requirements); Aguiar, 55 Haw. at 490, 522 P.2d at 1263 (holding that internal regulations, which set forth maximum income limits for continued 
+occupancy by tenants in public housing and established a payment 
+schedule, were rules); see also In re Doe, 9 Haw. App. at 412, 844 P.2d at 682-83 (holding that field sobriety testing procedures were instructional in nature only and did not affect private rights). 
+24 
+
+ 
+ 
+    
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+Specifically, Green Party claims that the Office of 
+Elections violated rulemaking requirements because of its 
+failure to adopt administrative rules pursuant to HAPA regarding the methodology and procedures that were used to (a) determine 
+the number of ballots to be delivered to each precinct, (b) 
+request additional ballots when a precinct runs out of paper ballots, and (c) address the situation when a voter votes on a ballot that includes races in which the voter is not entitled to vote. The chief election officer has not adopted administrative rules with regard to these three procedures. Thus, if the challenged procedures qualify as “rules” as defined in HAPA, then they are invalid for not complying with HAPA’s statutory 
+rulemaking requirements. 
+See HRS §§ 91-3, 91-7. 
+A. Methodology for Ordering a Sufficient Number of Ballots 
+HRS § 11-119 requires the chief election officer to 
+order a sufficient number of ballots for each precinct based on 
+the number of registered voters and expected spoilage. 
+HRS § 
+11-119(d) (Supp. 2011). The Office of Elections has not adopted an administrative rule that sets forth the methodology that is used to determine that a sufficient number of ballots are received by each precinct; however, the Office of Elections does have a general method that it has consistently used for calculating the number of ballots to order. This method used prior to 2012 and for the 2012 Primary Election was consistent 
+25 
+ 
+ 
+    
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+with HRS § 11-119(d)’s requirement that the ballot order be 
+based “on the number of registered voters” and the expected spoilage. While the 2012 General Election ballot order method was a modification from the previous year’s methodology, it was 
+used in an effort to order a sufficient number of ballots, and, 
+hence, its purpose was to implement or fulfill the requirements of HRS § 11-119. 
+The ballot order method meets the generality element 
+of HRS § 91-1(4) as it is applied statewide for the ordering of ballots in every precinct. The ballot order method additionally meets the criterion that it be of future effect--this is true whether one looks specifically at the calculation for the 2012 
+General Election or at the broader method of ordering ballots 
+that applied prior to and during the 2012 elections. The ballot order method is used each election year to determine the number of ballots to order for the upcoming election. While the calculation used for the 2012 General Election was a modification of the calculation used in previous years, it still employed the same basic method of determining a base number of voters and multiplying that base by a percentage reflecting the 
+amount of ballots required for each category of ballots. 
+Additionally, there is no indication that the formula 
+used for the 2012 General Election was a backward-looking 
+analysis used to determine past and present liabilities, such as 
+26 
+ 
+ 
+    ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+would be used where the agency is exercising its adjudicatory 
+function. Rather, the decision to use a particular formula for the 2012 General Election was “essentially legislative in nature” because it would operate in the future for purposes of 
+calculating the number of ballots to order for every precinct in 
+the State for the 2012 election. See In re Hawaiian Elec. Co.
+, 
+81 Hawai ʻi at 467, 918 P.2d at 569 (“[R]ule-making is essentially 
+legislative in nature because it operates in the future; whereas, adjudication is concerned with the determination of past and present rights and liabilities of individuals where ‘issues of fact often are sharply controverted.’” (quoting 
+Shoreline Transp., Inc. , 70 Haw. at 591, 779 P.2d at 872)). 
+Thus, the formula used for the 2012 General Election ballot order was adopted for future and repeated use in the 2012 General Election as it applied to every precinct. 
+Further, the formula used for the 2012 General 
+Election was consistent with a more general ballot order framework that consisted of determining a base number of voters and multiplying that base by a percentage reflecting the amount of ballots required for each category of ballots. 
+The fact that 
+the Office of Elections has adopted this basic framework and applied it historically, including during the 2012 Primary and General Elections, is further evidence that the ballot order 
+method is a rule under the general definition of HRS § 91-1(4). 
+27 
+ 
+ 
+    ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+The ICA characterized the calculation used for the 
+2012 general election in the following manner to support its 
+determination that it did not have future effect: 
+There was no policy statement or interpretation of the
+statute; instead, there was a one-timecalculation/miscalculation of what would be a sufficientnumber of blank ballots in the first instance, which wasexacerbated by general election day errors in the delivery
+of reserve ballots. Importantly, it is clear from the
+record that the methodology used to determine the number ofballots was ad hoc, intended only for the 2012 elections;due to the reapportionment/redistricting process and thatit involved unacceptably poor execution of an important
+government function. 
+Green Party , 137 Hawai ʻi at 68, 365 P.3d at 997. We have several 
+concerns with the ICA’s analysis. First, as the ICA acknowledges 
+elsewhere in its opinion, there is no requirement that there be a written methodology, and an unwritten practice or policy can be a “statement,” as it was in Hawaii Prince and Nuuanu Valley 
+Association
+. Second, the ICA’s characterization of the 2012 
+calculation as a “one-time calculation/miscalculation” is unsupported by the record. The 2012 formula was consistent with a more basic ballot order method that the Office of Elections historically applied, which involved determining a base number of voters and multiplying that base by a specific percentage to calculate the amount of ballots required for each category of ballots. Third, whether or not the methodology was adopted in an ad hoc manner is not determinative when considering whether 
+or not the regulation has future effect. Something can be both 
+ad hoc and have future effect; what is significant in this case 
+28 
+ 
+ 
+    ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+is that the analysis was not backward-looking or post hoc. 
+Fourth, the record does not support the ICA’s finding that the 2012 calculation was used solely as a response to the redistricting of 2011. Indeed, the Office of Elections was able 
+to order a sufficient number of ballots for the 2012 Primary 
+Election despite the reapportionment in 2011, using a formula that more closely resembled the formula that was historically used. Thus, the Office of Elections’ ballot order methodology used for the 2012 General Election meets the general definition of “rule” because it implements state law and is of general applicability and has future effect. 
+We agree with Green Party that, because ballot 
+shortages may result in the deprivation of the right to vote, the ballot order methodology does not qualify for the internal management exception to the definition of a “rule.” 
+The right 
+to vote is of “fundamental importance.” E.g., Hayes v. Gill , 52 
+Haw. 251, 269, 473 P.2d 872, 883 (1970). In order for the public to exercise this essential private right, HRS § 11-119(d) provides that each precinct must receive a sufficient number of ballots. Thus, the method used for calculating the number of 
+29 
+
+ 
+ 
+     
+  
+   
+  
+                     
+   
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+sufficient ballots required for an election affects a person’s 
+ability to exercise the right to vote.15 
+Furthermore, the methodology used for ordering ballots 
+impacts procedures available to the public as it affects the 
+methods of voting that are available to the public. The Office 
+of Elections’ ballot order methodology is not simply aimed at ordering a ballot for each voter. Rather, it takes into account the various methods of voting available. It appears that such a methodology would attempt to both predict the preferred voting methods and also to allocate what types of voting methods are available and readily accessible to the public on election day. For example, in this case, it appears that the procedure used 
+for the 2012 General Election employed reserve ballots and 
+electronic voting machines to supplement an insufficient order of paper ballots.
+16 
+Additionally, there was an observable impact on the 
+procedures available to the public because some voters were not 
+15 It is clear that the methodology employed by the Office of
+Elections in the 2012 General Election had a significant impact upon
+many voters in exercising their right to vote. While the Office of Elections concluded that the election “irregularities do not appear tobe legally sufficient to change the election results,” an actual impact
+to an election result or on exercising the right to vote is not
+determinative of whether HAPA rulemaking is required. 
+16 For the 2012 General Election, the Office of Elections increased
+the number of reserve ballots ordered substantially from 6% of registeredvoters to 25%. 
+30 
+ 
+ 
+    
+                     
+ 17  Voters experienced delays as long as three hours. See supra  note
+2. Such delays present a significant hindrance to voters that could deter or
+impair the exercise of the right to vote. ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+given the option of voting on a polling place ballot and instead 
+had to choose between a minority language ballot or an electronic voting machine. This impact on the voting procedures available to the public was referenced by the Office of 
+Elections’ answering brief that acknowledged that “voters 
+experienced unfortunate delays”
+17 and argued that voters were 
+given “the option of voting on an electronic voting machine, or voting on minority language paper ballots” and that “voters do not have a constitutional or statutory right to demand to cast their vote using a particular method.” The voting methods available to the public at the polling places on an election day are procedures available to the public. Accordingly, to the 
+extent that an agency rule affects such procedures available to 
+the public, it does not fall under HRS § 91-1(4)’s exception for regulations concerning only the internal management of an agency and not affecting private rights of or procedures available to the public. 
+Accordingly, the methodology or procedures used by the 
+Office of Elections to comply with the statutory mandate that each precinct receives sufficient ballots affects the right to 
+vote and the voting procedures available to the public. As 
+31 
+ 
+ 
+     
+  
+                     
+  
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+such, the Office of Elections’ ballot order method is not a 
+regulation that concerns only internal management.18 Thus, the 
+ballot order method is a rule as defined in HRS § 91-1(4), and the Office of Elections was required to adopt it pursuant to the 
+rulemaking procedures of HAPA.
+19 
+B. Monitoring of Ballots and Reliance on Reserve Ballots 
+Green Party also argues that the Office of Elections 
+has adopted rules without complying with HAPA rulemaking 
+requirements regarding the procedure by which precinct workers 
+monitor the supply of paper ballots at the polling places and 
+request additional ballots when necessary. The circuit court found that “precinct workers monitor the supply of paper ballots at the polling place and when it appears that the supply of ballots is running low, a precinct worker calls the counting center at the State Capitol and asks that reserve ballots for that precinct be delivered.” Although the circuit court found 
+18 Additionally, even assuming the analysis used by the Office of
+Elections for calculating what constitutes a sufficient number of ballots is
+technical in some respects, it “cannot” be contended that the public’s viewon the subject “would be of no value” to the Office of Elections. See 
+Aguiar, 55 Haw. at 490, 522 P.2d at 1263. 
+“In any event, the legislature has
+already made the judgment through HAPA that an agency must consider the viewsof interested persons where it seeks to promulgate a ‘rule,’ no matter howcomplex is the data that goes into the rule’s formulation.” 
+Id. at 487-88,
+522 P.2d at 1262. 
+19 Future rulemaking regarding the methodology for ordering ballots
+should be done in furtherance of and consistent with the requirement of HRS §11-119(d) that each precinct “shall receive a sufficient number of ballotsbased on the number of registered voters and the expected spoilage in theelection concerned.” 
+32 
+ 
+ 
+    
+                     
+   ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+that precinct workers engage in this practice, there does not 
+appear to be any evidence in the record to support the existence of an established procedure or agency statement instructing precinct workers to act in such a manner. Accordingly, because 
+the record lacks evidence to support Green Party’s argument that 
+the Office of Elections adopted a particularized internal procedure regarding the monitoring of paper ballots at the precincts, we affirm the circuit court’s grant of summary judgment on the second count of Green Party’s complaint regarding the purported procedure for monitoring the level of ballots and requesting additional ballots. 
+C. Procedure for Counting Votes Cast on Ballots for the
+Incorrect Precinct 
+During the 2012 General Election, voters at two 
+precincts were provided paper ballots for the wrong precinct, resulting in fifty-seven voters voting on ballots for the incorrect precinct.
+20 Green Party challenges the procedure that 
+was used for counting the votes cast on ballots for the incorrect precinct. The Office of Elections has not set out the manner in which it counts votes cast on such ballots in an administrative rule. The circuit court found that “[i]n 
+20 It is noted that these voters were not able to vote for the state 
+representative, state senate, and council district contests in their
+respective precincts. 
+33 
+ 
+ 
+    ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+counting the votes cast on a wrong ballot, all of the votes cast 
+in races for which the voters in that precinct are entitled to vote are counted and all of the votes cast in races for which the voters in that precinct are not entitled to vote are not 
+counted.” Based on Nago’s description of the events of the 2012 
+General Election voting day, it appears that a procedure is in place for when such a situation occurs: 
+The precinct counters are programmed to only read ballots
+of the specific ballot type associated with that precinct.
+As such the precinct counters rejected the ballots and
+would not read them. In situations where the precinctcounter will not read a ballot, the voter is able to haveit deposited in the emergency ballot bin, where it will bescanned at a later time. This is what occurred at Hokulani Elementary School and Waialae Elementary School for those
+voters provided the incorrect ballot at the end of the day. 
+Accordingly, given that the precinct counters were programmed to 
+only read ballots associated with a specific precinct, the Office of Elections adopted procedures for counting votes cast on ballots for the incorrect precinct. This procedure meets the 
+generality element as it would undoubtedly apply statewide to 
+any votes cast on a ballot for a precinct in which the voter is not entitled to vote. It also meets the criterion that it be of future effect because the Office of Elections would have adopted this rule prior to the election as the precinct counters are only programmed to read the correct ballots. 
+The ICA concluded that the procedure did not meet the 
+general definition of a “rule,” stating, “It does not appear 
+34 
+ 
+ 
+    ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+that this procedure was a statement of general applicability and 
+future effect directed at implementing, interpreting, or prescribing law, policy or the procedural requirements of the 
+Office of Elections.” Green Party
+, 137 Hawai ʻi at 71, 365 P.3d 
+at 1000. The ICA’s reasoning in this regard was the following: 
+“Rather it appears that the out-of-precinct ballots were problems that the Chief Elections Officer ‘could not reasonably 
+foresee, problems which [needed to] be resolved despite the 
+absence of a general rule.’” 
+Id. (alteration in original) 
+(quoting In re Hawaiian Elec. Co., 81 Hawai ʻi at 468, 918 P.2d at 
+570). However, as discussed above, the record clearly shows that the Office of Elections did in fact adopt a procedure to apply under circumstances when votes were cast on ballots for the incorrect precinct. 
+The exception to the general definition of “rule” 
+would not apply to any procedure or policy in place for the counting of votes cast on ballots for a precinct in which the voter is not entitled to vote. Even assuming that the procedure 
+only concerned internal management of the agency, the method 
+used by the Office of Elections would have a direct impact on the right to vote, including the private right of voters to have their votes counted. 
+Such a policy would not only affect the 
+35 
+ 
+ 
+    
+                     
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+private right to vote, but it could also impact the outcome of 
+an election or require a new election.21 Cf. Aguiar , 55 Haw. at 
+489, 522 P.2d at 1263 (reasoning that regulations that “determined every tenant’s eligibility to remain in public 
+housing,” “[p]lainly, therefore, . . . ‘affected’ in both a 
+practical and a legal sense the ‘private rights’ not only of those tenants actually living in public housing but also those members of the public at large who were interested in becoming tenants”). 
+The ICA concluded that the Office of Elections’ method 
+for counting votes cast on ballots for the incorrect precinct would not affect private rights. 
+The following is the ICA’s 
+reasoning: 
+The procedure is clearly directed only at election workers;
+it was aimed at ensuring that all votes entitled to be
+counted were in fact counted and that no votes were counted in violation of HRS § 11-12 (2009); it did not purport toregulate public conduct; and it ensured perseveration of--rather than affected--the private rights of and procedures
+available to the public. 
+Green Party , 137 Hawai ʻi at 71, 365 P.3d at 1000. However, a 
+policy that is employed to determine whether a vote will or will 
+not be counted when a voter votes on a ballot associated with a 
+21 Nago’s November 20, 2012 memorandum noted that this procedure
+applied to a total of forty-six ballots cast at Hokulani Elementary School
+and eleven at Waialae Elementary school. 
+36 
+ 
+ 
+    
+  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+precinct in which the voter is not entitled to vote affects the 
+private right to vote. 
+For the reasons discussed, the procedure used by the 
+Office of Elections for counting votes cast on ballots for a 
+precinct in which the voter is ineligible to vote is a “rule” 
+under HAPA, and it should have been adopted according to the required rulemaking procedures. 
+IV. CONCLUSION 
+The ICA’s January 27, 2016 Judgment on Appeal is 
+vacated to the extent that it affirms the circuit court’s granting of summary judgment in favor of the Chief Election Officer regarding the ballot order methodology and procedure for 
+counting votes cast on ballots for the incorrect precinct, the 
+first and third counts of Green Party’s complaint. The ICA’s Judgment on Appeal is affirmed to the extent that it affirms the circuit court’s granting of summary judgment in favor of the Chief Election Officer regarding the procedures for monitoring the level of ballots, the second count of the complaint. Additionally, the circuit court’s October 24, 2014 Final Judgment is vacated to the extent that it grants summary 
+judgment in favor of the Chief Election Officer regarding the 
+first and third counts of the complaint. The case is remanded to the circuit court with directions to enter summary judgment in favor of Green Party on the first and third counts of the 
+37 
+ 
+ 
+   
+ 
+ ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER*** 
+complaint and enter a judgment declaring the rules challenged by 
+the first and third counts as invalid pursuant to HRS § 91-7. 
+Lance D. Collins 
+for petitioners /s/ Mark E. Recktenwald
+/s/ Paula A. Nakayama
+/s/ Sabrina S. McKenna 
+/s/ Richard W. Pollack /s/ Michael D. Wilson Kimberly Tsumoto Guidry
+for respondents 
+38 
+

@@ -1,0 +1,420 @@
+NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER
+NO. CAAP-17-0000034
+IN THE INTERMEDIATE COURT OF APPEALS
+OF THE STATE OF HAWAI# I
+STATE OF HAWAI #I, Plaintiff-Appellee,
+v.
+MARY JANE DELGADO PONCE, aka Mary Jane Dalumpinis,
+Defendant-Appellant
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT
+(CR. NO. 16-1-0734)
+SUMMARY DISPOSITION ORDER
+(By: Fujise, Acting Chief Judge, Leonard and Chan, JJ.)
+Defendant-Appellant, Mary Jane Delgado Ponce, aka Mary
+Jane Dalumpinis (Ponce), appeals from the Judgment of Conviction
+and Sentence (Judgment), entered on January 10, 2017, by the
+Circuit Court of the First Circuit (circuit court).1  Plaintiff-
+Appellee State of Hawai# i (State) charged Ponce with theft in the
+second degree, alleging that from April 1, 2010 through April 30,
+2014, Ponce received $3,723.00 in food stamps overpayment due to
+her intentional failure to disclose her marriage to Frank Smith
+(Smith) to the Department of Human Services (DHS).  After a trial
+by jury, Ponce was found guilty and sentenced to five (5) years
+imprisonment with a mandatory minimum term of one year, eight
+months.
+1  The Honorable Shirley Kawamura presided.NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER
+On appeal, Ponce contends that (1) The circuit court
+improperly admitted State's Exhibits 5 and 8 into evidence under
+the business record exception to hearsay, (2) there was
+insufficient evidence to support her conviction, (3) the circuit
+court erred by denying Ponce's Motion for Judgment of Acquittal
+because the State failed to prove the element of "deception", and
+(4) the circuit court erred when it denied Ponce's Motion for New
+Trial upon the late discovery of Ponce's inability to read.
+Upon careful review of the record and the briefs
+submitted by the parties and having given due consideration to
+the arguments advanced and the issues raised by the parties, as
+well as the relevant statutory and case law, we resolve Ponce's
+points of errors as follows.
+I. State's Exhibits 5 and 8 Were Properly Admitted Pursuant to
+Hawaii Rules of Evidence (HRE) Rule 803(b)(6)
+Ponce contends that the circuit court erred in
+admitting State's Exhibits 5 and 8 under HRE Rule 803(b)(6)
+because the exhibits were prepared in anticipation of litigation
+and were testimonial, making them subject to sixth amendment
+confrontation.  See Crawford v. Washington , 541 U.S. 36, 124
+S.Ct. 1354 (2004).
+HRE Rule 803(b)(6) is an exception to the hearsay rule
+that allows the admission of records of "regularly conducted
+activities."  HRE Rule 803(b)(6) provides:
+Rule 803  Hearsay exceptions; availability of
+declarant immaterial.   The following are not excluded by the
+hearsay rule, even though the declarant is available as a
+witness:
+. . . .
+(b) Other exceptions.
+. . . .
+(6) Records of regularly conducted activity.  A
+memorandum, report, record, or data compilation,
+in any form, of acts, events, conditions,
+opinions, or diagnoses, made in the course of a
+regularly conducted activity, at or near the
+time of the acts, events, conditions, opinions,
+or diagnoses, as shown by the testimony of the
+custodian or other qualified witness, or by
+certification that complies with rule 902(11) or
+a statute permitting certification, unless the
+sources of information or other circumstances
+indicate lack of trustworthiness.
+2NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER
+Ponce argues that the circuit court improperly admitted
+State's Exhibits 5 and 8 under HRE Rule 803(b)(6).  State's
+Exhibits 5 and 8 are Eligibility Review (ER) forms filled out and
+submitted to DHS by Ponce, dated January 16, 2013 and January 24,
+2014, respectively.  In order to continue receiving food stamp
+benefits, later referred to as Supplemental Nutrition Assistance
+Program (SNAP) benefits,2 ER forms are automatically mailed to
+welfare benefit recipients a year after an initial Application
+for Financial and SNAP Assistance is processed.  ER forms are
+blank pre-printed forms in which the applicant responds to
+questions with respect to any changes which may have transpired
+in the preceding year affecting eligibility.  Applicants must
+complete the ER form by reviewing their eligibility information
+contained in the form and by listing, among other things, any
+changes to the applicant's household composition, income, and
+assets.  If changes occur, DHS makes adjustments to the
+applicants eligible benefits.  After the applicant completes the
+ER form, it can be mailed, faxed, or brought directly to DHS's
+processing center where a DHS clerk registers the ER form and
+assigns an eligibility worker to schedule an in-person or over-
+the-phone interview for the purpose of reviewing the submitted
+form with the applicant.
+The initial eligibility worker assigned to Ponce's case
+to review her 2013 and 2014 ER forms was Edison Espiritu
+(Espiritu), who was, at the time of trial, on vacation and unable
+to testify.  At trial, David Kihara (Kihara), a DHS eligibility
+worker, testified as the custodian of records for DHS.  Kihara
+had been employed by DHS as an eligibility worker for thirty-five
+years, in which the past ten years his responsibilities included,
+reviewing DHS cases to determine eligibility factors, ensuring
+the accuracy of eligibility benefits, and computing corrected
+amounts if an overpayment was made.
+Kihara testified that case files for all welfare
+2  After 2010, the Food Stamps Program became known as the federal
+Supplemental Nutrition Assistance Program.
+3NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER
+benefit recipients are kept and maintained by DHS.  Records that
+are kept in the case file include, all applications, reporting
+systems, changes reported, and any supporting documentation
+submitted by the recipient, which include the annual ER forms.
+The ER forms are used by DHS to determine household composition
+and the income of applicants to allow for proper assessment of
+the amount a recipient is entitled to receive in benefits.  As to
+State's Exhibit 5 and 8, Kihara testified that both forms were
+filled out and signed by Ponce and were prepared in the course of
+DHS's regularly conducted activity as an annual assessment and
+determination of SNAP eligibility benefits.  He stated that
+State's Exhibits 5 and 8 were the types of forms that would be
+kept in the case file for all welfare recipients and the types of
+records that are regularly maintained and updated.  Kihara
+further testified that the ER forms are the types of records that
+are entered into a recipients case file at the time that they are
+received or made.
+Ponce contends that State's Exhibit 5 and 8 should not
+have been admitted under HRE Rule 803(b)(6) because they were not
+records made in the regular course of business and rather were
+prepared primarily in anticipation of litigation.  See Palmer v.
+Hoffman, 318 U.S. 109, 63 S.Ct. 477, (1943).  In Palmer , the
+Supreme Court held that an accident report prepared by a railroad
+employee following a railroad accident was not a business record
+because it was not made in the regular course of business.  Id.
+at 115, 63 S.Ct. at 481.  The Supreme Court explained that the
+regularity with which the reports are prepared did not by itself
+mandate admissibility.  Id. at 111-12, 63 S.Ct. at 479-80.
+Rather, the records should first appear to be required "for the
+systematic conduct of the business as a business."  Id.  at 113,
+63 S.Ct. at 480.
+Ponce asserts that the inclusion of warnings of
+criminal penalties along with a certification required by both
+recipient and eligibility worker attesting to the truthfulness of
+the form, clearly indicate that the forms will likely be used in
+the prosecution of a recipient, should the need arise.  The ER
+4NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER
+form states, in relevant part:
+YOUR AUTHORIZATION :
+• I agree that the information I provide to the
+Department will be subject to verification by Federal,
+State and local officials to determine if such
+information is factual; and if any information is
+incorrect, food assistance may be denied and I may be
+subject to criminal prosecution for knowingly
+providing incorrect information.  
+I UNDERSTAND :
+1.  The questions on this form and the penalty for hiding
+or giving false information.
+. . . .
+6. If I do not report a change that is required to be
+reported, or report incorrectly, and am overpaid:
+a) I must repay the department.
+b) I may be fined, imprisoned, and/or disqualified 
+from receiving benefits in the future.
+c) I may be subject to prosecution under applicable
+state and/or federal laws.
+YOUR CERTIFICATION (Must be signed to be considered a valid
+application):
+• I certify under penalty of perjury, that my answers
+are correct and complete to the best of my knowledge.
+• I certify that I have been informed of my rights and
+responsibilities by the worker and I agree to heed
+these responsibilities.
+Additionally, the eligibility worker that is assigned to the
+recipient's case upon receiving the ER form is also required to
+certify that "the applicant/recipient has been informed of
+his/her rights and responsibilities and the possibility of
+criminal charges for misrepresenting or concealing facts which
+determine eligibility."
+In State v. Fitzwater , 122 Hawai #i 354, 227 P.3d 520
+(2010), the Hawai# i Supreme Court distinguished between business
+records made in the "regular course" of business and those that
+are prepared for the sole purpose of litigation in its
+admissibility determination of a police officer's speed check
+card used to prove the accuracy of the police vehicle's
+speedometer.  The supreme court held that although there was an
+understanding that the results of a speed check would likely be
+used in the prosecution of speeding cases, the card could still
+qualify as a business record under HRE Rule 803(b)(6).  Id.  at
+364, 227 P.3d at 530.  The supreme court explained that "[t]he
+speed check card here was not created for use in a particular
+5NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER
+dispute.  Rather, the speed check card is more akin to documents
+that reflect the results of regularly conducted tests, which have
+been held to be admissible as business or government records even
+if they are frequently used in litigation."  Id.
+Similar to the speed check card in Fitzwater , although
+the ER forms are the type of business records that are likely to
+be used in litigation, the ER forms are not created for use in a
+particular dispute nor are they "created with the motivation of
+prevailing against a particular party" making its
+"trustworthiness [] inherently questionable."  Id.   ER forms are
+systematically utilized by DHS on a daily basis to establish a
+recipient's eligibility for SNAP benefits.  The ER form's primary
+function is to determine and/or confirm the recipient's household
+composition and income to assess the amount of benefits the
+applicant is entitled to receive for the upcoming year.  Further,
+Kihara's testimony established the foundation necessary for the
+admissibility of the ER Forms as business records.  Accordingly,
+the circuit court properly admitted State's Exhibit 5 and 8 as
+business records pursuant to HRE Rule 803(b)(6).
+Business records are not testimonial.  Crawford v.
+Washington, 541 U.S. 36, 56 (2004).  Because we hold that State's
+Exhibits 5 and 8 were properly admitted as a business record, and
+were not testimonial, we conclude that the Exhibits did not
+violate the confrontation clause.  See U.S. v. Ray , 930 F.2d
+1368, 1371 (9th Cir. 1990)(holding that a welfare fraud
+investigator's testimony was sufficient to establish foundational
+requirements under the business record exception to hearsay
+regarding a recipient's welfare records, which included the
+recipients application for benefits reviewed by an eligibility
+worker, and that the properly admitted exhibits did not violate
+the confrontation clause); See also Terry v. State , 397 S.W.3d
+823, 835 (Tex. App. 2013)(finding that the primary purpose for a
+caseworker's generic worksheets generated following a welfare
+recipient's interview, is to document recipient's statements to
+determine eligibility and the amount of an applicant's SNAP
+benefits and holding that the statements contained in the
+6NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER
+worksheets are not testimonial, therefore its admission did not
+violate recipient's rights under the Confrontation Clause).
+Based on the foregoing, we conclude that the circuit
+court did not err by admitting State's Exhibits 5 and 8 under HRE
+Rule 803(b)(6) and holding that the exhibits were not
+testimonial.
+II. The Prosecution Presented Sufficient Evidence to Support The
+Guilty Verdict
+We review the sufficiency of evidence on appeal as follows:
+[E]vidence adduced in the trial court must be considered in
+the strongest light for the prosecution when the appellate
+court passes on the legal sufficiency of such evidence to
+support a conviction; the same standard applies whether the
+case was before a judge or jury.  The test on appeal is not
+whether guilt is established beyond a reasonable doubt, but
+whether there was substantial evidence to support the
+conclusion of the trier of fact.
+State v. Richie, 88 Hawai #i 19, 33, 960 P.2d 1227, 1241 (1998)
+(quoting State v. Quitog , 85 Hawai #i 128, 145, 938 P.2d 559, 576
+(1997)).  "'Substantial evidence' as to every material element of
+the offense charged is credible evidence which is of sufficient
+quality and probative value to enable a person of reasonable
+caution to support a conclusion."  Id. (citation omitted).
+The jury found Ponce guilty of Theft in the Second
+Degree in violation of Hawaii Revised Statutes (HRS) §§ 708-
+831(1)(b) and 708-830(2).
+HRS § 708-831 (2014) provides in relevant part:
+§708-831  Theft in the second degree . (1) A person
+commits the offense of theft in the second degree if the
+person commits theft:
+. . . .
+(b) Of property or services the value of which exceeds
+$300[.]
+HRS § 708-830 (2014) defines "theft" in relevant part:
+§ 708-830  Theft . A person commits theft if the person
+does any of the following:
+. . . .
+(2) Property obtained or control exerted through
+deception. A person obtains, or exerts control
+over, the property of another by deception with
+intent to deprive the other of the property.
+The evidence provided at trial indicates that Ponce
+7NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER
+exerted control over the property of another from April 1, 2010
+through April 30, 2014.  Kihara reviewed Ponce's entire public
+assistance case file, which included all of her DHS applications,
+verification records, report of earnings, eligibility review
+forms and DHS's investigation report on Ponce.  Kihara was also
+assigned to review Ponce's electronic benefits transaction (EBT)
+activity printout and an overpayment schedule prepared by DHS
+Eligibility Worker, Nena Vallejo (Vallejo) who was unavailable to
+testify at trial.  Kihara stated that he had performed his own
+independent calculation as to the overpayment amount by
+determining the amount Ponce should have received and comparing
+it against what she had actually received.  Kihara testified that
+after reviewing Ponce's case file, he was able to confirm that
+from April 1, 2010 through April 30, 2014, Ponce was receiving
+welfare assistance in the amount of $3,723 to which she was not
+entitled to.  Kihara testified that the overpayment resulted from
+Ponce's failure to report her marriage to Smith in March 2010.
+Additionally, there was substantial evidence to support
+a finding that Ponce engaged in deception to acquire benefits to
+which she was not entitled to.  HRS § 708-800 (2014) provides:
+§ 708-800  Definitions of terms in this chapter.
+. . . . 
+"Deception" occurs when a person knowingly:
+(1) Creates or confirms another's impression which
+is false and which the defendant does not
+believe to be true;
+(2) Fails to correct a false impression which the
+person previously has created or confirmed[.]
+Ponce appears to argue that the State did not prove the
+element of "deception" because the State failed to present any
+evidence that Ponce possessed the requisite intent to deceive
+DHS, i.e. that from April 1, 2010 through April 30, 2014, Ponce
+had actual knowledge of what she would have received had she
+reported her marriage to DHS and deliberately chose not to
+disclose her marriage or correct DHS's impression that Smith was
+a non-related co-habitant.
+Given the difficulty of proving the requisite state of mind
+by direct evidence in criminal cases, "[w]e have
+consistently held that . . . proof by circumstantial
+8NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER
+evidence and reasonable inferences arising from
+circumstances surrounding the [defendant's conduct] is
+sufficient . . . .  Thus, the mind of an alleged offender
+may be read from his acts, conduct and inferences fairly
+drawn from all the circumstances."  State v. Sadino , 64 Haw.
+427, 430, 642 P.2d 534, 536-37 (1982) (citations omitted);
+See also State v. Simpson , 64 Haw. 363, 373 n.7, 641 P.2d
+320, 326 n.7 (1982).
+State v. Staley, 91 Hawai #i 275, 286, 982 P.2d 904, 915 (1999)
+(citations omitted).
+In this case, DHS Eligibility Workers, Imelda
+Makishima, Dustan Canne, David Kihara, and Jacqueline Kaleiwahea
+all testified that Ponce was orally advised of her rights,
+responsibilities, and her continuing duty to disclose changes in
+her household that affect sources of income, including her
+marital status.  Ponce submitted an Application for Financial and
+Food Stamps Assistance in 2010, an Application for Financial and
+SNAP Assistance in 2011, and ER Forms for 2012, 2013, and 2014,
+all indicating that Smith was either a friend, caregiver, or
+roommate.
+Furthermore, at trial, Ponce confirmed that she had
+been receiving food stamp/SNAP benefits since 1983.  Ponce
+acknowledged that she was previously married in 1983 and at that
+time, she had informed DHS of her marriage and identified her
+husband as a household member in her welfare case.  In regards to
+the State's Exhibits that were entered into evidence at trial,
+Ponce testified that she was the one who filled out all the
+applications for welfare benefits, the signatures on the exhibits
+were hers, the letters and other documents submitted to DHS were
+hers, she had received the EBT card from DHS, and she received
+the benefits as shown on the EBT printout.  Ponce testified that
+she was aware that she was required to report her marriage with
+Smith and acknowledged that instead she had listed Smith as
+either her friend, caregiver, roommate and/or indicated that her
+marital status was single in the DHS applications and ER Forms
+submitted by her.
+Based on the foregoing, considering the evidence in the
+strongest light for the prosecution, we conclude that there was
+substantial evidence to support the conclusion that Ponce
+9NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER
+deceived DHS by failing to report her marriage to Smith, thereby
+obtaining SNAP benefits in excess of $300 to which she was not
+entitled, as a result of that deception.
+III. The Circuit Court Properly Denied Ponce's Motion for
+Judgment of Acquittal
+Based on our holding that the evidence presented at
+trial was sufficient to sustain Ponce's conviction, we conclude
+that the circuit court did not err when it denied Ponce's Motion
+for Judgment of Acquittal.  State v. Davalos , 113 Hawai #i 385,
+389, 153 P.3d 456, 460 (2007) (quoting State v. Okumura , 78
+Hawai#i 383, 403 n.15, 894 P.2d 80, 100 n.15 (1995) (stating that
+"[a]lthough different language is sometimes used to describe the
+standard of review when the denial of a motion for judgment of
+acquittal is appealed, the test on appeal is actually identical--
+if there was sufficient evidence to support the conviction, the
+motion for judgment of acquittal was properly denied; if there
+was insufficient evidence, the denial of the motion was error")).
+IV. The Circuit Court Properly Denied Ponce's Motion for New
+Trial
+Ponce contends that the circuit court abused its
+discretion in denying her motion for new trial, based on "newly
+discovered evidence," specifically, the discovery of Ponce's
+inability to read after trial at the hearing on her Motion for
+New Trial on December 29, 2016.  Ponce argues that had the
+evidence of her inability to read been available at trial, it
+would have been further investigated to determine whether it
+affected her filling out and signing of documents and used to
+prove that she did not have the requisite state of mind for the
+charge of theft.
+A motion for new trial based on newly discovered evidence
+will only be granted if (1) the evidence has been discovered
+after trial; (2) such evidence could not have been
+discovered before or at trial through the exercise of due
+diligence; (3) the evidence is material to the issues and
+not cumulative or offered solely for purposes of
+impeachment; and (4) the evidence is of such a nature as
+would probably change the result of a later trial.
+State v. Mabuti , 72 Haw. 106, 113, 807 P.2d 1264, 1268 (1991).
+10NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER
+Ponce's post-trial admission of her inability to read
+does not constitute newly discovered evidence in the context of a
+motion for a new trial because Ponce was aware of her inability
+to read at all times before trial, at trial, and after trial.
+Additionally, the evidence is not material to the issues nor
+would it have changed the result of a later trial.  Upon DHS
+receiving Ponce's Applications and ER Forms for welfare benefits,
+the Eligibility Worker assigned to her case would review Ponce's
+submission with her to verify her responses during which time
+Ponce always confirmed that Smith was nothing more than a non-
+related co-habitant rather than her husband.  During these in-
+person or telephone interviews, Ponce was orally instructed of
+her rights and responsibilities, the requirement to report any
+changes in household or income, and requirement to report
+truthfully.  Further, prior to Ponce's initial interview in 2010,
+Ponce was required to watch an instructional video on the welfare
+system.  All evidence indicating that the ability to read was not
+necessary to establish the requisite intent to deceive.
+Based on the foregoing, we hold that the circuit court
+did not abuse its discretion in denying the Motion for New Trial.
+Therefore, IT IS HEREBY ORDERED that the Judgment of
+Conviction and Sentence, entered on January 10, 2017, by the
+Circuit Court of the First Circuit is affirmed.
+DATED:  Honolulu, Hawai# i, April 17, 2018.
+On the briefs:
+Dana S. Ishibashi,
+for Defendant-Appellant.
+Karen Droscoski,
+Deputy Attorney General,
+for Plaintiff-Appellee.Acting Chief Judge
+Associate Judge
+Associate Judge
+11

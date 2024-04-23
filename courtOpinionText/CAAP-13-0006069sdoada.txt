@@ -1,0 +1,639 @@
+NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+NO. CAAP-13-0006069
+ 
+IN THE INTERMEDIATE COURT OF APPEALS
+ 
+OF THE STATE OF HAWAI 'I
+ 
+BANK OF AMERICA, N.A., SUCCESSOR BY MERGER TO
+BAC HOME LOANS SERVICING, LP FKA COUNTRYWIDE
+
+HOME LOANS SERVICING LP, Plaintiff-Appellee, v.
+CHARITO LABRADOR HERMANO, Defendant-Appellant, and
+JOHN DOES 1-50; JANE DOES 1-50; DOE PARTNERSHIPS 1-50;
+DOE CORPORATIONS 1-50; DOE ENTITIES 1-50; and DOE
+GOVERNMENTAL UNITS 1-50, Defendants
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT
+ 
+(CIVIL NO. 12-1-0276)
+ 
+SUMMARY DISPOSITION ORDER
+ 
+(By: Nakamura, Chief Judge, Leonard and Ginoza, JJ.)
+
+ 
+Defendant-Appellant Charito Labrador Hermano (Hermano)
+ 
+appeals from the November 14, 2013 Judgment (Judgment), entered
+ 
+in favor of Plaintiff-Appellee Bank of America, N.A., Successor
+ 
+by Merger to BAC Home Loans Servicing, LP fka Countrywide Home
+ Loans Servicing LP (the Bank or Bank of America), by the Circuit
+ 
+Court of the First Circuit (Circuit Court).
+1
+ 
+1
+ The Honorable Bert I. Ayabe presided.
+   NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+Hermano raises the following points of error on appeal:
+ 
+(1) The Circuit Court erred when it dismissed Hermano's
+ 
+counterclaim;
+ 
+(2) The Circuit Court erred when it granted the Bank's
+ 
+motion for summary judgment and entered the interlocutory decree
+ of foreclosure in its November 14, 2013 Findings of Fact,
+ Conclusions of Law, Order Granting Plaintiff's Motion for Summary
+ Judgment Against All Parties and for Decree of Interlocutory
+ Foreclosure (FOFs, COLs, and Order);
+ 
+(3) The Circuit Court erred when it entered a judgment
+ 
+of foreclosure based on the FOFs, COLs, and Order; and
+ 
+(4) The Circuit Court made erroneous FOFs and COLs.
+ Upon careful review of the record and the briefs
+ 
+submitted by the parties, and having given due consideration to
+ the arguments advanced and the issues raised by the parties, we
+ resolve Hermano's points of error as follows: 
+(1) Hermano argues that the Circuit Court erred in 
+dismissing Hermano's Counterclaim because the Counterclaim satisfies the pleading requirements of Hawai
+'i Rules of Civil 
+Procedure (HRCP) Rule 12(b)(6) "for the simple reason that if 
+[she] proves the facts alleged and asserted in her counterclaim 
+. . . , she will be entitled to relief." To satisfy Rule 8(a)(1), a pleading 
+must contain either direct allegations on every material
+point necessary to sustain a recovery on any legal theory,
+even though it may not be the theory suggested or intended
+by the pleader, or contain allegations from which an
+inference fairly may be drawn that evidence on these
+material points will be introduced at trial.
+ 
+2
+   
+  NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+Marsland v. Pang , 5 Haw. App. 463, 475, 701 P.2d 175, 186 (1985)
+ 
+(quoting 5 Wright and Miller, Federal Practice and Procedure:
+ 
+Civil § 1216, at 121-23 (1969)). Inadequate pleadings may be
+ dismissed by motion under HRCP Rule 12(b)(6), however,
+ 
+"[a] complaint should not be dismissed for failure to state
+a claim unless it appears beyond doubt that the plaintiffcan prove no set of facts in support of his or her claimthat would entitle him or her to relief." In re Estate of 
+Rogers, 103 Hawai' i 275, 280, 81 P.3d 1190, 1195 (2003)
+(block quote format and citation omitted). "[O]urconsideration is strictly limited to the allegations of thecomplaint, and we must deem those allegations to be true."Id. at 281, 81 P.3d at 1196 (block quote format and citationomitted). 
+"However, in weighing the allegations of the complaint
+as against a motion to dismiss, the court is not required to
+accept conclusory allegations on the legal effect of the
+events alleged." 
+Marsland v. Pang , 5 Haw. App. 463, 474,
+701 P.2d 175, 186 (1985).
+ 
+While a complaint attacked by a Rule 12(b)(6) motion
+
+to dismiss does not need detailed factual allegations,
+a plaintiff's obligation to provide the "grounds" of
+his "entitlement to relief" requires more than labels
+and conclusions, and a formulaic recitation of the
+elements of a cause of action will not do. Factual
+ allegations must be enough to raise a right to relief
+above the speculative level on the assumption that all
+of the complaint's allegations are true (even if
+doubtful in fact).
+ 
+Bell Atl. Corp. v. Twombly, 550 U.S. 544, 555 (2007)[.
+]
+ 
+Pavsek v. Sandvold, 127 Hawai 'i 390, 402-03, 279 P.3d 55, 67-68 
+(App. 2012). 
+Hermano explains the legal theory underlying her
+ 
+Counterclaim as follows:
+ 
+[The Bank] could not own the mortgage and the note because
+they were securitized over three years ago and the trust
+into which the note and mortgage were transferred was
+dissolved and terminated. Therefore, [she] has pled all the
+counterclaims based on the factual and legal theory that the
+[Bank] does not own the note and the mortgage and,
+therefore, has no right to bring this foreclosure action. 
+[She] has relied upon 26 U.S.C. § 860, et seq for the
+ 
+proposition that transfers out of the trust are void after
+90 days of the closing date of the trust. Therefore, the
+purported assignments were either forgeries or signed by
+robo-signers and constitute fraudulent transfers.
+ 
+3
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Thus, Hermano's Counterclaim is premised on the theory
+ 
+that because the Note and Mortgage were securitized and
+ 
+"transferred" into a trust that terminated, and because any
+ alleged transfers out of the trust are purportedly void, the Bank
+ does not own the Note and Mortgage and has no right to bring the
+ foreclosure action. 
+However, Hawaii's state and federal courts have
+ 
+consistently rejected the legal conclusion that "termination" of
+ a trust comprising a securitized pool of mortgages necessarily
+ ends the mortgagee's loan obligations. See, e.g., Bank of Am.,
+ 
+N.A. v. Hill, No. CAAP-13-0000035, 2015 WL 6739087 (Haw. App.
+ Oct. 30, 2015) (mem.) (dissolution of the lender could not
+ prevent the assignment of the mortgage from MERS); Wells Fargo
+ Bank, N.A. v. Hensley, No. CAAP-12-0000089, 2013 WL 1284990 (Haw.
+ App. Mar. 28 2013) (SDO); see also Abubo v. Bank of New York
+ Mellon, 2011 WL 6011787, at *8 (D. Haw. Nov. 30, 2011)
+ (concluding that securitization is irrelevant to the assignee's
+ standing to foreclose); Klohs v. Wells Fargo Bank, N.A., 901 F.
+ Supp. 2d 1253, 1259-60 (D. Haw. 2012) (holding that
+ securitization does not alter the relationship or rights of the
+ parties to the loan, but merely creates a separate contract,
+ distinct from the plaintiff's debt obligations under the note). 
+We conclude that Hermano's assertion that the alleged termination
+ of the trust affects the Bank's standing to foreclose is without
+ merit. 
+Hermano also cites 26 U.S.C. § 860, et seq. (Chapter
+ 
+860) for the proposition that any transfers out of the
+ 
+4
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+securitized trust are void after ninety days. Chapter 860 is a
+ 
+portion of the Internal Revenue Service tax code dealing with
+ deductions for deficiency dividends for Regulated Investment
+ Companies and Real Estate Investment Trusts. See generally id. 
+Chapter 860 appears to be inapplicable here as it addresses tax
+ treatment and not the viability of legal interests in mortgages
+ and properties that are part of Real Estate Mortgage Investment
+ Conduits (REMICs). Hermano does not identify which provision of
+ 
+Chapter 860's numerous subsections and provisions purportedly
+ 
+support her argument. Accordingly, we conclude that Hermano's
+ reliance on Chapter 860 is without merit.
+ Hermano further argues that, because transfers out of 
+the trust are void under Chapter 860, "purported assignments [from MERS to Bank of America] were either forgeries or signed by robo-signers and constitute fraudulent transfers." This argument is without merit as Hermano fails to identify any set of facts that, if proven, establish that the alleged robo-signers have harmed her. Hawai
+'i courts have repeatedly concluded that such 
+allegations are insufficient to raise a plausible claim of fraud or irregularity where the plaintiffs fail to state how alleged robo-signing of documents assigning a loan has harmed them. See, 
+e.g., U.S. Bank N.A. v. Mattos, 137 Hawai
+'i 209, 367 P.3d 703 
+(App. 2016); Bank of New York Mellon v. Rumbawa, No. CAAP-15­0000024, 2016 WL 482170 (Haw. App. Feb. 4, 2016) (SDO); U.S. Bank Nat. Ass'n v. Benoist, No. CAAP-14-0001176, 2015 WL 7260350 at *4 (Haw. App. Nov. 12, 2015) (SDO) ("conclusory assertions of 'robo­signing' fail to state a plausible claim"); Bank of Am., N.A. v. 
+5
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+Hill, 2015 WL 6739087 at *8. In sum, conclusory assertions of
+ 
+robo-signing fail to state a plausible claim for wrongful
+ foreclosure. Thus, the legal theories that Hermano says she
+ "relie[s] upon" for "all the counterclaims" are nothing more than
+ "conclusory allegations on the legal effect of the events
+ alleged" which this court is not required to accept. See
+ 
+Marsland, 5 Haw. App. at 474, 701 P.2d at 186. 
+On appeal, Hermano puts forth various alternative
+ 
+theories for her counterclaims. 
+As to the declaratory judgment cause of action in the
+ 
+Counterclaim, Hermano argues that her claim, which challenges the
+ validity of the assignment of the Mortgage from MERS to the Bank,
+ has a legal basis because Bain v. Metropolitan Mortgage Group,
+ Inc., 285 P.3d 34, 41 (Wash. 2012), "prov[es] that MERS is just a
+ registration system for tracking ownership of the mortgages and
+ was not a holder of the promissory note." Hermano's reliance on
+ Bain is misplaced. First, Bain was decided in the context of a
+ non-judicial deed-of-trust foreclosure, whereas the instant case
+ is a judicial foreclosure of a mortgage. See Bain, 285 P.3d at
+ 
+36. Thus, the procedures and law in Bain appear to be
+ 
+inapplicable here. The Bain decision was limited to whether MERS
+ is a "beneficiary" under the language of Washington's Deed of
+ Trust Act, thus the analysis is different.
+2 Id.; Wash. Rev. Code
+ 
+2
+ Compare Wash. Rev. Code Ann. § 61.24.005 (West 2015)
+ 
+("'Beneficiary' means the holder of the instrument or document evidencing the 
+obligations secured by the deed of trust, excluding persons holding the same
+
+as security for a different obligation.") with HRS § 490:3-301 (2008)
+("'Person entitled to enforce' an instrument means (i) the holder of the
+instrument, (ii) a nonholder in possession of the instrument who has the
+rights of a holder, or (iii) a person not in possession of the instrument who
+(continued...)
+ 
+6
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+Ann. § 61.24.005 (West 2015). In addition, Bain is a Washington 
+State case; upon review, we are not inclined to depart from the Hawai
+'i cases that have consistently recognized the validity of 
+assignments of mortgages by MERS where lenders granted to MERS, as nominee for lenders and lenders' successors and assigns, the right to exercise all of those interests granted by a borrower, including the right to foreclose and sell a property and to take any action required of a lender. See Bank of Am., N.A. v. Hill, 
+2015 WL 6739087 at *6-7; Andrade v. U.S. Bank Nat. Ass'n, Civil No. 13–00255 LEK–KSC, 2013 WL 4552186 at *9–10 (D. Haw. Aug. 27, 2013); Camat v. Fed. Nat. Mortg. Ass'n, Civil No. 12–00149 SOM/BMK, 2012 WL 2370201 at *1, *7–8 (D. Haw. June 22, 2012); and Cooper v. Bank of New York Mellon, Civil No. 11–00241 LEK–RLP, 2011 WL 3705058 at *13 (D. Haw. Aug. 23, 2011). As the original lender here, House of Finance, granted to MERS, as nominee for lender and lender's successors and assigns, the right to exercise all of its mortgage interests, we conclude that Hermano's argument is without merit. 
+As to Hermano's quiet title cause of action, the Bank
+ 
+argued in its motion to dismiss that Hermano's claim fails
+ "because she has not alleged that she is willing and able to
+ tender the entire amount of indebtedness." Mier v. Lordsman,
+ 
+Inc., 2011 WL 285862, at *13 (D. Haw. Jan. 27, 2011) ("in order
+ to assert a claim for 'quiet title' against a mortgagee, a
+ 
+2(...continued)
+is entitled to enforce the instrument pursuant to section 490:3-309 [(lost or
+
+destroyed)] or 490:3-418(d) [(acceptance by mistake)]. A person may be a
+person entitled to enforce the instrument even though the person is not the
+owner of the instrument or is in wrongful possession of the instrument.").
+ 
+7
+  NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+borrower must allege they have paid, or are able to tender, the
+ 
+amount of indebtedness."). Hermano responded that, under Amina
+ v. Bank of New York Mellon, Civ. No. 11-00714 JMS/BMK, 2012 WL
+ 3283513, at *4 (D. Haw. Aug. 9, 2012), a borrower does not need
+ to tender payment in order to bring a quiet title action because
+ the tender requirement does not make sense "where the borrower
+ brings a quiet title action against a party who, according to the
+ complaint, is not a mortgagee." However, Hermano fails to
+ 
+acknowledge a critical clarification contained in the Amina
+ 
+holding, which states: 
+To be clear . . . this is not a case where Plaintiffs assert
+ 
+that Defendant's mortgagee status is invalid (for example,
+because the mortgage loan was securitized or because
+Defendant does not hold the note). On their own, such
+allegations would be insufficient to assert a quiet title
+claim.
+ 
+Id. at *5. Here, Hermano is indeed arguing that the Bank's
+ 
+mortgagee status is invalid because the mortgage loan was
+ securitized, and she also challenges the Bank's possession of the
+ Note. Thus, the present circumstances were specifically
+ distinguished in Amina's caveat quoted above. Accordingly,
+ Hermano's reliance on Amina is misplaced.
+ 
+Hermano's Unfair and Deceptive Trade Practices (UDAP)
+ 
+cause of action alleges that Bank of America engaged in UDAP by
+ attempting to foreclose on a mortgage loan which it did not own. 
+As Hermano's claim is based on the theory that the Bank of
+ America did not validly hold the note and mortgage, which we
+ herein reject, the UDAP claim must fail.
+ 
+Because Hermano's counterclaims consist entirely of
+ 
+conclusory allegations which are unsupported by any viable legal
+ 
+8
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+theory or authority, she can prove no set of facts in support of
+ 
+her claims that would entitle her to relief. In re Estate of
+ 
+Rogers, 103 Hawai 'i 275, 280, 81 P.3d 1190, 1195 (2003); see HRCP 
+Rule 8; Marsland, 5 Haw. App. at 475, 701 P.2d at 186; Twombly,
+ 550 U.S. at 555. Accordingly, we conclude that the Circuit Court
+ did not err in granting the Bank's motion to dismiss Hermano's
+ counterclaim for failure to state a claim upon which relief can
+ be granted.
+ 
+(2) Hermano contends that the Circuit Court erred in
+ 
+granting the Bank's motion for summary judgment and the
+ interlocutory decree of foreclosure because Hermano's opposition
+ "contain[ed] abundant evidence that the Bank does not own the
+ mortgage involved in this case," and that the court "engaged in a
+ credibility decision and picked the Bank's evidence over
+ Hermano's evidence." 
+In moving for summary judgment, 
+
+the moving party has the burden of producing support for its
+claim that: (1) no genuine issue of material fact exists
+with respect to the essential elements of the claim or
+defense which the motion seeks to establish or which the
+ motion questions; and (2) based on the undisputed facts, it
+is entitled to summary judgment as a matter of law. Only
+when the moving party satisfies its initial burden of
+production does the burden shift to the non-moving party to
+respond . . . and demonstrate specific facts, as opposed to
+general allegations, that present a genuine issue worthy of
+trial.
+ 
+. . . . 
+"Where the moving party is the plaintiff, who will
+ultimately bear the burden of proving [the] plaintiff's
+claim at trial, the plaintiff" has the initial burden of
+establishing, by the quantum of evidence required by the
+applicable substantive law, each element of its claim for
+relief. Id. That is, the plaintiff must establish, as a
+matter of law, each element of its claim for relief by the
+proper evidentiary standard applicable to that claim. 
+Beamer
+v. Nishiki, 66 Haw. 572, 578, 670 P.2d 1264, 1270 (1983).
+ 
+Where a plaintiff-moving party has satisfied its
+
+obligation of showing, prima facie, that there is no genuine
+ 
+9
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+issue of material fact and the plaintiff is entitled to a
+judgment as a matter of law, the burden shifts to thedefendant-non-moving party to produce materials regarding
+any affirmative defenses that have been raised pro forma in 
+the pleadings. GECC Fin. Corp. v. Jaffarian, 79 Hawai' i at 
+526, 904 P.2d at 540 (Acoba, J., concurring), concurringopinion adopted by the Hawai' i Supreme Court in GECC Fin. 
+Corp. v. Jaffarian, 80 Hawai' i 118, 119, 905 P.2d 624, 625
+(1995). If the defense produces material in support of an
+affirmative defense, the plaintiff is then "obligated to 
+disprove an affirmative defense in moving for summaryjudgment[.]" 
+. . . .
+ 
+We apply a three-step analysis in such a review.
+Mednick v. Davey, 87 Hawai' i 450, 457, 959 P.2d 439, 446
+(App. 1998).
+ 
+First, we identify the issues framed by the pleadings
+since it is these allegations to which the motion must
+respond.
+ 
+Secondly, we determine whether the moving party's
+showing has established the material facts which justify a
+judgment in movant's favor. The motion must stand
+self-sufficient and cannot succeed because the opposition is
+weak. 
+Where a plaintiff is the moving party, this involves
+examining whether the plaintiff has established prima facie,
+the material facts necessary to establish the essential
+elements of the claim or claims for which summary judgment
+in the plaintiff's favor is being sought.
+ 
+When a plaintiff's summary judgment motion prima facie
+ 
+justifies a judgment on the plaintiff's claims, the third
+and final step is to determine (1) whether the opposition
+has demonstrated the existence of a triable, material
+factual issue on the plaintiff's claims, or (2) if the
+opposition has adduced evidence of material facts which
+demonstrate the existence of affirmative defenses that would
+ defeat the plaintiff's claim, whether the plaintiff has
+demonstrated conclusively the non-existence of such facts.
+Counter-affidavits and declarations need not prove the
+opposition's case; they suffice if they disclose the
+existence of a triable issue.
+ 
+Ocwen Fed. Bank, FSB v. Russell, 99 Hawai 'i 173, 182-83, 53 P.3d 
+312, 321-22 (App. 2002) (some citations omitted).
+ 
+Here, the key issues framed by the pleadings are
+ 
+whether Hermano defaulted on her loan obligation and whether the
+ 
+Bank is therefore entitled to foreclose the loan. 
+To be entitled to summary judgment in a foreclosure
+ 
+action, a party must prove the following material facts: (1) the
+ 
+10
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+existence of an agreement, (2) the terms of the agreement, (3)
+ 
+default by the mortgagor under the terms of the agreement, and
+ (4) the giving of the cancellation notice. Bank of Honolulu,
+ 
+N.A. v. Anderson, 3 Haw. App. 545, 551, 654 P.2d 1370, 1375
+ (1982). A foreclosing plaintiff must also establish that it is
+ the holder of, or otherwise entitled to enforce, the promissory
+ note and mortgage. See HRS § 490:3-301.
+ 
+Here, the Bank submitted: (1) a promissory note,
+ 
+executed by Hermano, promising repayment of a loan in the amount
+ of $300,000, and naming House of Finance as the Lender; (2) an
+ Allonge indorsing the note from House of Finance to Countrywide
+ Bank, FSB; (3) a mortgage, duly executed, pledging the subject
+ property as collateral in the event of default on Hermano's loan,
+ naming House of Finance as Lender and MERS as mortgagee, and
+ providing that MERS is acting as nominee for Lender and Lender's
+ successors and assigns; (4) a signed and notarized assignment of
+ mortgage from MERS to Bank of America, successor by merger to BAC
+ Home Loans Servicing, LP, fka Countrywide Home Loans Servicing,
+ LP, signed by David Perez; (5) a Certificate of Assistant
+ Secretary of Bank of America, certifying that David M. Perez
+ (Perez) is an "Authorized Officer" with authority to assign
+ 
+mortgages where MERS is named as the mortgagee when the member
+ 
+bank is also the current promissory note-holder, or if the
+ mortgage loan is registered on the MERS System and is shown to be
+ registered to the member bank (Certificate of Authorization), as
+ 
+well as a Corporate Resolution by the MERS Corporate Secretary,
+ 
+appointing officers of Bank of America, as assistant secretaries
+ 
+11
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+and vice presidents of MERS (MERS Corporate Resolution), with 
+authority to undertake various actions, including assignment of 
+mortgage liens; (6) a petition in the Hawai 'i Land Court for 
+change of name and merger from BAC Home Loans Servicing, LP into Bank of America and a corresponding order from the Land Court for the registration of documents previously filed in the name of BAC Home Loans Servicing, LP to be registered in the name of Bank of America; (7) a Declaration of Indebtedness, signed by Mary Beth Fetkovich, Assistant Vice President at Bank of America, noting that Bank of America is successor by merger to BAC Home Loans Servicing, LP, fka Countrywide Home Loans Servicing, LP, and declaring that Hermano defaulted on her loan obligation and that the default had not been cured; (8) an Account Information Statement from Bank of America, N.A. evidencing Hermano's 
+3
+delinquent loan payments;  and (9) a Notice of Intent to
+Accelerate, sent to Hermano. 
+Thus, the Bank has shown the
+ 
+existence of an agreement, the terms of the agreement, default by
+ the mortgagor under the terms of the agreement, the giving of the
+ cancellation notice, and documents evidencing that the Bank is
+ the holder of the subject note and mortgage. Accordingly, the
+ Bank made a prima facie showing of its right to foreclose,
+ sufficient to be entitled to summary judgment. 
+The burden thus shifted to Hermano to demonstrate the
+
+ 
+existence of a genuine issue of material fact on the Bank's
+ 
+3
+ Hermano's delinquency is undisputed as she admits in a Declaration
+labeled as "Exhibit 2" in her March 25, 2013 opposition that she was "making
+regular payments on [her] mortgage up to . . . July of 2011" but then "stopped
+making payments."
+ 
+12
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+claims; alternatively, if Hermano then adduced evidence in 
+support of affirmative defenses that would defeat the Bank's claim, then the burden would shift to the Bank to demonstrate conclusively the non-existence of genuine issues of material fact in support of such affirmative defenses. Russell, 99 Hawai
+'i at 
+183, 53 P.3d at 322. 
+Hermano argues that: (1) there are genuine issues of
+ 
+material fact based on the declaration and report of Hermano's
+ expert that the subject mortgage is actually owned by the Fannie
+ Mae REMIC 2009-4, and that the Bank only has servicing rights;
+ (2) the purported assignment by MERS is highly suspect because
+ Perez is a robo-signer; (3) the Bank lacks standing to bring a
+ foreclosure action; (4) MERS is just a registration system and
+ not an owner of the mortgage or holder of the note; (5) the
+ affirmative defenses of assumption of risk, contributory
+ negligence, fraud, and illegality require a trial; (6) the Bank
+ is not the real party in interest; and that (7) the counterclaims
+ for wrongful foreclosure, declaratory judgment, quiet title, and
+ UDAP "require trial on the numerous legal and factual issues."  
+First, Hermano's counterclaims for wrongful
+ 
+foreclosure, declaratory judgment, quiet title, and UDAP, were
+ dismissed in the order granting the Bank's Rule 12(b)(6) motion,
+ which we affirm, as discussed above. These claims do not raise a
+ genuine issue of material fact as to the Bank's summary judgment
+ motion.
+ 
+As to the argument that MERS is just a registration
+ 
+system and not the owner of the Mortgage, as we have previously
+ 
+13
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+held, such arguments fail where they are "inconsistent with the
+ 
+plain language of the mortgage, which expressly establishes that
+ MERS is the mortgagee under the security instrument and permits
+ MERS to take action on the lender's behalf." Bank of New York
+ 
+Mellon v. Rumbawa, 2016 WL 482170, at *3; Wells Fargo Bank, N.A.
+ v. Yamamoto, No. CAAP–11–0000728, 2012 WL 6178303 at *1 (Haw.
+ App. Dec. 11, 2012) (SDO). Here, the subject mortgage clearly
+ states that MERS is the mortgagee under the security instrument,
+ and it permits MERS to take action on the lender's behalf,
+ including foreclosing on and selling the property. Thus,
+ Hermano's argument has no merit. 
+With regard to Hermano's contention that the purported
+ 
+assignment by MERS is highly suspect because Perez is "on the
+ list of known robo-signers," we note that Hermano raised this
+ argument in opposition to the Bank's motion to dismiss the
+ Counterclaim and at the initial hearing on the motion for summary
+ judgment. At that hearing, Judge Ayabe requested from the Bank
+ documents and a declaration "showing that Mr. Perez was
+ authorized to sign on behalf of the lender," gave Hermano an
+ opportunity to respond to any further submission by the Bank, and
+ continued the motion until moved on. The Bank thereafter
+ supplied, inter alia, the Certificate of Authorization and the
+ MERS Corporate Resolution, referenced above, which together
+ evidenced the authorization of Perez to assign the Mortgage from
+ MERS to the Bank. Hermano provided no evidence in response;
+ thus, the Circuit Court granted the Bank's motion for summary
+ judgment. On appeal, Hermano relies on the same arguments made
+ 
+14
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+prior to the Bank's submission of the Certificate of
+ 
+Authorization and the MERS Corporate Resolution. We conclude
+ that Hermano did not raise a genuine issue of material fact based
+ on this assertion.
+ 
+As to Hermano's challenge that the subject Mortgage is
+ 
+owned by the Fannie Mae REMIC 2009-4, and that the Bank only has
+ servicing rights, we first note that this argument is facially
+ insufficient to challenge the granting of summary judgment. 
+Under HRS § 490:3-301, a party need not own an instrument in
+ order to enforce it. Second, securitization "[does] not modify
+ the terms of the underlying obligation," and the "termination" of
+ a securitized trust "does not modify the terms" either. Klohs,
+ 
+901 F. Supp. 2d at 1259-60. Thus, even assuming that the loan
+ was securitized and that the trust terminated, this set of facts
+ would not affect MERS's assignment of the mortgage or House of
+ Finance's indorsement of the note to Bank of America. 
+Hermano's remaining claim is that because there was "no
+ 
+valid assignment of the mortgage," the Bank "is not the real
+ party-in-interest and, therefore, lacks standing to bring a
+ foreclosure action." We conclude that the failure of Hermano's
+ challenges to the validity of the assignment of the mortgage and
+ the indorsement to the note leaves no support for this argument. 
+Finally, Hermano argues that, because she "has relied
+ 
+upon" the affirmative defenses of assumption of risk,
+ contributory negligence, fraud, and illegality, these defenses
+ "require a trial." However, Hermano cites no evidence in support
+ of these affirmative defenses, and she does not discuss them in
+ 
+15
+   NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+any capacity beyond stating that they "require a trial." Because
+ 
+Hermano has not adduced evidence of material facts which
+ 
+demonstrate the existence of affirmative defenses that would
+ defeat the plaintiff's claim, she has not met her burden of
+ production. 
+(3) In support of her contention that the Circuit
+ 
+Court erred in granting the judgment of foreclosure, Hermano
+ merely states that she "incorporates by reference her [earlier]
+ Arguments" that the 
+judgment of foreclosure in this case was wrongly filed based
+on phony evidence from the Bank and the disregard of
+Hermano's credible documentary evidence and opinions from
+her expert witnesses to support the conclusion that the Bank
+does not own the note and mortgage upon which this
+foreclosure decree was filed and entered.
+ 
+As we have concluded that the Circuit Court did not err
+ 
+in granting the Bank's motion for summary judgment, we find no
+ 
+error in the entry of the judgment of foreclosure. 
+(4) Upon careful review of each of Hermano's
+ 
+challenges to the Circuit Court's FOFs and COLs, we find no
+ genuine issue of material fact as to the Circuit Court's FOFs and
+ no error of law as to its COLs. Regarding additional arguments
+ made in Hermano's opening brief, we decline to address arguments
+ made in the first instance on appeal to this court. See HRS
+ 
+§ 641-2 (Supp. 2015) ("The appellate court . . . need not
+ consider a point that was not presented in the trial court in an
+ appropriate manner.").
+ 
+16
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+For these reasons, the Circuit Court's November 14,
+ 
+2013 Judgment is affirmed.
+ 
+DATED: Honolulu, Hawai 'i, June 22, 2016. 
+On the briefs: 
+R. Steven Geshell,
+for Defendant-Appellant. Chief Judge 
+Charles R. Prather,Robin Miller,for Plaintiff-Appellee. 
+Associate Judge 
+Associate Judge 
+17
+ 

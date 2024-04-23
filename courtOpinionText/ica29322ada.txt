@@ -1,0 +1,2663 @@
+FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+IN THE INTERMEDIATE COURT OF APPEALS
+ 
+OF THE STATE OF HAWAI 'I 
+---o0o--­
+MARIE WEITE, Plaintiff-Appellant/Cross-Appellee,
+v.
+ 
+MATSUO MOMOHARA, Defendant-Appellee/Cross-Appellant,
+and
+ 
+DOE DEFENDANTS 1-10, Defendants
+ 
+NO. 29322
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT
+ 
+(CIVIL NO. 05-1-1525)
+ 
+SEPTEMBER 14, 2010
+ 
+FOLEY, PRESIDING J., LEONARD AND REIFURTH, JJ.
+ 
+OPINION OF THE COURT BY FOLEY, J.
+ 
+In this appeal and cross-appeal arising out of a motor
+ 
+vehicle accident that occurred on February 8, 2000 in Honolulu,
+ 
+Hawai'i (the 2000 accident), Plaintiff-Appellant/Cross-Appellee 
+Marie Weite (Weite) appeals and Defendant-Appellee/Cross-
+Appellant Matsuo Momohara (Momohara) cross-appeals from the
+ Judgment filed on June 18, 2008, in the Circuit Court of the
+ First Circuit (circuit court).
+1 After a jury trial, the circuit
+ 
+court entered judgment in favor of Weite and against Momohara on
+ all claims in Weite's First Amended Complaint and stated:
+ 
+From the jury verdict in favor of [Weite] in the
+amount of Nineteen Thousand Six Hundred Twenty-Eight Dollars
+and Thirty-Two Cents ($19,628.32), the sum of Six Thousand
+Five Hundred Thirty-Seven Dollars and Seventy-Three Cents
+($6,537.73) representing the Covered Loss Deductible
+pursuant to [Hawaii Revised Statutes (HRS)] § 431-10C-301.5,
+shall be deducted.
+ 
+Accordingly, it is hereby ordered, adjudged and
+decreed that Judgment be and is hereby entered in favor of
+[Weite] in the amount of Thirteen Thousand Ninety Dollars
+and Fifty-Nine Cents ($13,090.59).
+ 
+1
+ The Honorable Glenn J. Kim presided.
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+On appeal, Weite contends the circuit court erred in
+ 
+(1) denying her "Motion for Partial Summary Judgment
+ 
+on the Issues of Medical Necessity of Health Care and
+ Reasonableness of Health Care Charges" (MPSJ Re Medical Bills),
+ where Momohara had no medical expert testimony to refute
+ causation of her medical treatment;
+ 
+(2) denying her "Motion in Limine # 7 to (1) Exclude
+ 
+Argument Regarding the Apportionment of [Weite's] Injuries to
+ Preexisting Causes or Prior Accidents and (2) Exclude Any
+ Reference to Prior Accidents" (MIL Re Prior Accidents) on the
+ issue of apportionment and allowing argument on apportionment to
+ go to the jury, where Momohara had no medical expert testimony
+ refuting Weite's treating physicians' opinions that her injuries
+ were 100% caused by the 2000 accident;
+ 
+(3) refusing to permit Weite's expert witness and
+ 
+treating physician, Robert Nierenberg, M.D. (Dr. Nierenberg), to
+ provide his expert opinion as an independent medical examiner on
+ the issue of apportionment;
+ 
+(4) giving Hawai
+'i Standard Civil Jury Instruction 
+No. 7.3 (HCJI 7.3) on the issue of apportionment and refusing to give Weite's proposed Supplemental Jury Instruction No. 5 (Weite's proposed JI 5); 
+(5) placing separate apportionment questions on the
+ 
+special verdict form, which, in combination with the erroneous
+ submission of the jury's instructions, created confusion and
+ allowed the jury to apportion Weite's damages twice;
+ 
+(6) calculating the judgment by apportioning the jury
+ 
+award of special damages and general damages by 50% and then
+ subtracting the full amount of the covered loss deductible (CLD); 
+and
+ 
+(7) failing to find that Weite was the "prevailing
+ 
+party" for purposes of assessing Court Annexed Arbitration
+ Program (CAAP) sanctions.
+ 
+Weite also contends the circuit court abused its
+ 
+discretion in not awarding her prejudgment interest, granting
+ 
+2
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+Momohara taxable costs as the "prevailing party," and denying her
+ 
+taxable costs as the "non-prevailing party."
+ 
+Weite requests that we reverse the Judgment; vacate the
+ 
+portion of the jury verdict apportioning her damages; declare her
+ the prevailing party entitled to CAAP sanctions, costs, and
+ attorney's fees; remand this case for re-calculation of the
+ judgment amount and prejudgment interest; and/or remand this case
+ for a new trial.
+ 
+On cross-appeal, Momohara contends the circuit court
+ 
+erred in 
+(1) denying his "Motion in Limine No. 3 to Limit
+ 
+and/or Exclude [Weite's] Claims for Medical Expenses" (MIL Re
+ Medical Claims), where the circuit court should have limited
+ Weite's claimed medical expenses in amount and frequency to those
+ permitted under the workers' compensation fee schedule, pursuant
+ to HRS § 431:10C-308.5(b) (Supp. 1999), and prohibited Weite from
+ introducing evidence of medical expenses beyond that limit; and
+ 
+(2) permitting Dr. Nierenberg to testify regarding the
+ 
+amounts, reasonableness, and necessity of Weite's medical
+ expenses incurred at Queen's Medical Center (QMC), Radiology
+ Associates (RA), and Orthopedic Rehabilitation Specialists (ORS).
+ 
+Momohara asks that we vacate the jury's award of
+ 
+special medical damages to Weite in excess of the amount
+ permitted under HRS § 431:10C-308.5(b) and medical expenses to
+ Weite from QMC, RA, and ORS and remand this case for re­calculation of the appropriate judgment amount. Momohara also
+ states that the judgment should reflect Weite's $1,000 automobile
+ insurance deductible, as apportioned by the jury.
+I.
+ 
+The 2000 accident occurred when Weite's car was struck
+ 
+by a car driven by Momohara. It is undisputed that Momohara
+ negligently caused the accident.
+2 After the incident, Weite was
+ 
+treated by Dr. Nierenberg and Dennis B. Lind, M.D. (Dr. Lind), a
+ 
+2
+ On August 9, 2007, the parties filed a Stipulation and Order
+Regarding Liability and Consent, in which Momohara admitted he was negligent
+in causing the 2000 accident.
+ 
+3 FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+psychiatrist, and underwent physical therapy with ORS for
+ 
+injuries she claimed resulted from the 2000 accident.
+A.	 PRETRIAL
+ 1. 	Settlement negotiations with A.I.G. Hawaii
+Insurance Company (AIG)
+ 
+On November 2, 2004, Weite sent a demand letter with
+ 
+copies of her medical records to AIG, Momohara's automobile
+ 
+insurance carrier. Weite and AIG entered into settlement
+ negotiations. While negotiations were ongoing, Weite filed her
+ First Amended Complaint. AIG then withdrew its settlement offer.
+ 
+2.	 First Amended Complaint
+ 
+Weite filed a First Amended Complaint on February 3,
+ 
+2006, alleging that while operating his motor vehicle on or about
+ February 8, 2000, Momohara had committed a "breach of duty,
+ negligence, and/or other wrongful acts or omissions" that legally
+ caused her physical injuries and other damages. Weite sought
+ special and general damages, pre- and post-judgment interest, and
+ costs.
+ 
+3.	 CAAP arbitration
+ 
+Weite and Momohara entered into a CAAP arbitration, and
+ 
+the arbitrator issued an Arbitration Award on November 9, 2006. 
+The arbitrator awarded Weite $7,808.62 in special damages,
+ $20,000 in general damages, and $299.50 in costs. The award
+ provided that pursuant to HRS § 431:10C-301.5 (2005 Repl.), the
+ "[t]otal damages shall be reduced by a CLD in the amount of
+ [$]6,808.62." On November 17, 2006, Momohara filed an appeal
+ from the Arbitration Award and a request for trial de novo to the
+ circuit court.
+ 
+4.	 Offer from Momohara
+ 
+On February 28, 2007, Momohara offered Weite $5,000 in 
+general damages, net of the CLD, to settle Weite's claims. On March 16, 2007, Momohara proffered a Hawai
+'i Rules of Civil 
+Procedure (HRCP) Rule 68 Offer of Settlement in the amount of $10,000 in general damages, net of the CLD, to settle Weite's claims. 
+4
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+5. Stipulation
+ 
+On July 16, 2007, the parties filed a "Stipulation that
+ 
+[Weite] Has Met an Exception to the Abolition of Tort Liability
+ 
+Pursuant to HRS § 431:10C-306(b)(4)" by incurring personal injury
+ protection (PIP) benefits equal to or in excess of $5,000.
+6. Sanction
+ 
+On October 4, 2007, Momohara filed his First
+ 
+Supplemental Final Naming of Witnesses (Naming of Witnesses),
+ adding Pat Oda (Oda), whom Momohara had not previously identified
+ in his August 21, 2007 Final Naming of Witnesses. On October 17,
+ 2007, Weite filed a "Motion to Strike Pat Oda from [Momohara's]
+ First Supplemental Final Naming of Witnesses, Filed October 4,
+ 2007, and Preclude Video from Trial" (Motion to Strike
+ Oda/Preclude Video), in which she moved to strike Oda as a trial
+ witness and preclude from trial a video of Weite taken after the
+ 2000 accident because Momohara had not named Oda or provided
+ Weite with a copy of the video until after the discovery cut-off
+ date. After a hearing, the circuit court filed a November 7,
+ 2007 order, in which the court treated the motion as a motion for
+ sanctions and sanctioned Momohara for the discovery violations,
+ but declined to strike Oda as a witness or preclude the video
+ from trial.
+ 
+7. MPSJ Re Medical Bills
+ 
+On August 24, 2007, Weite filed her MPSJ Re Medical
+ 
+Bills, in which she moved the circuit court for an order granting
+ partial summary judgment in her favor and finding (1) as a matter
+ of law that all of her health care for injuries sustained in the
+ 2000 accident was reasonable and necessary, (2) she had incurred
+ $8,963.90 in reasonable and appropriate health care charges and a
+ $1,000 automobile insurance deductible (deductible), and (3) the
+ $7,936.06 in medical expenses paid by Island Insurance Company,
+ Ltd., her automobile insurer, (PIP provider) were reasonable and
+ necessary.
+ 
+On October 9, 2007, Momohara filed a memorandum and
+ 
+supplemental memorandum in opposition. In his opposition,
+ Momohara pointed to Weite's deposition testimony wherein she
+ 
+5
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+admitted that from the time of her 1988 accident, she continued
+ 
+to have intermittent and periodic pain in her neck and back,
+ including as of the time of the 2000 accident. The circuit court
+ held a hearing on the MPSJ Re Medical Bills on October 16, 2007. 
+The circuit court orally denied the motion, stating:
+ 
+I don't know how strong [Momohara's] case is going to be. 
+ I
+ 
+don't know whether [Momohara is] going to be able to
+convince the jury, but, as I see it there is still a genuine
+issue of material fact. The jury is specifically
+instructed, for example, that they don't have to believe
+anything the experts say.
+ 
+On October 22, 2007, the circuit court filed an order denying the
+ 
+MPSJ Re Medical Bills.
+ 
+9. Weite's MIL Re Prior Accidents
+ 
+On April 21, 2008, Weite filed her MIL Re Prior
+ 
+Accidents, in which she moved
+ 
+for an order excluding any argument regarding the need for
+an apportionment of [Weite's] injuries to preexisting causes
+or prior accidents and to exclude any reference to prior
+accidents. [Weite's] treating physicians attribute 100% of
+[Weite's] treatment to the [2000 accident]. [Momohara] has
+not retained any expert witnesses to dispute this testimony
+and has not even deposed the treating physicians. At this
+ juncture, there is no competent evidence that can serve as
+the basis for an apportionment. It is likely that
+[Momohara's] counsel will comment in opening statement about
+prior accidents that [Weite] was involved in. Such
+ comments, unsupported by any evidence that [Weite's]
+injuries overlapped and require an apportionment, are
+irrelevant and/or unduly prejudicial. Further, references
+to prior accidents appear in [Weite's] medical records.
+[Weite] has prepared a redacted set of medical records to
+remove these references.
+ 
+On April 25, 2008, Momohara filed a memorandum in opposition, in
+ 
+which he argued there was evidence that Weite had symptoms from
+ preexisting injuries at the time of the 2000 accident; Weite had
+ the burden of proving her case, including causation; Momohara had
+ the right to cross-examine Weite's expert witness regarding the
+ basis of his opinions; and Momohara did not have to present his
+ own witnesses to rebut Weite's expert testimony. On April 29,
+ 2008, Weite filed a reply. The circuit court held a hearing on
+ the motions in limine on May 2, 2008, at which the court orally
+ denied the MIL Re Prior Accidents, stating that "in the Court's
+ view this is for the jury." The circuit court further stated
+ 
+6
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+that if after Momohara presented his case there was insufficient
+ 
+evidence for apportionment to go to the jury, the court would
+ rule accordingly.
+9. Momohara's MIL Re Medical Claims
+ 
+On April 21, 2008, Momohara filed his MIL Re Medical
+ 
+Claims, in which he sought an order (1) limiting Weite's claim
+ for past medical expenses to $7,808.62 and (2) excluding any and
+ all claims by Weite for future medical treatment and related
+ expenses. Momohara alleged that in response to an interrogatory,
+ Weite stated she had incurred medical expenses stemming from the
+ 2000 accident totaling $7,808.62, which represented a $1,000
+ deductible she had paid and $6,808.62 in payments made by her PIP
+ provider. Weite had not indicated that she incurred any expenses
+ in excess of $7,808.62. Momohara maintained that Weite had not
+ exhausted the amount of medical insurance benefits available to
+ her and should be precluded from asserting any claims for future
+ medical treatment or related expenses.
+ 
+On April 25, 2008, Weite filed a memorandum in 
+opposition, in which she stated that her PIP payments totaled $7,872.34: the $1,000 deductible she had paid and $6,872.34 her PIP provider had paid. She argued she was entitled to the "reasonable value" of her medical expenses, or $8,556.63, pursuant to Bynum v. Magno, 106 Hawai
+'i 81, 86-87 & 92, 101 P.3d 
+1149, 1154-55 & 1160 (2004), and was not limited to the amount paid by her PIP provider. 
+After the hearing, the circuit court filed an order on
+ 
+May 14, 2008 denying the motion.
+B. TRIAL
+ 
+1. Weite's testimony
+ 
+Weite testified that in 1981 while working at Sears,
+ 
+she lifted a carpet and ruptured a disk at the L4-5 level in her
+ back (1981 injury). She stated that at some point, the herniated
+ 
+
+disc resolved3 itself and was no longer an issue for her, but the
+3
+ Weite testified that by "resolved" she meant "gone away
+substantially" and if she felt only occasional pain from an injury, she
+considered the condition to be resolved.
+ 
+7
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+herniation "never went away." Weite continued to have low back
+ 
+pain stemming from the lifting incident from 1981 through 1984. 
+She experienced a recurrence of the back pain in 1984 such that
+ she needed bed rest for one week. In 1988, Weite injured her
+ neck and back in a car accident (the 1988 accident). She
+ testified that at some point, her injuries from the 1988 accident
+ were "essentially resolved," but there were occasions when her
+ lower back would hurt when she "overexerted or did something." 
+She was still having symptoms from injuries resulting from the
+ 1988 accident in 1989, was still having pain in her back and
+ right leg in 1992, and had occasional flare ups of back pain
+ prior to 1994.
+ 
+In 1994, Weite was knocked unconscious; broke her arm;
+ 
+and cut her arms, legs, and chin in a car accident (the 1994
+ accident). She had pain in her ribs, neck, and back from that
+ accident. In 1995, Weite injured her neck and back in another
+ car accident (the 1995 accident). She testified that at some
+ point before the 1995 accident, the injuries from the 1994
+ accident resolved themselves. She stated that a few years after
+ the 1995 accident, her injuries from that accident were resolved,
+ but she later testified that in 1998 she was still having neck
+ and back problems stemming from the 1995 accident.
+ 
+Prior to the 2000 accident, Weite had not seen
+ 
+Dr. Nierenberg for about a year. She testified that at her last
+ visit to the doctor in 1999, "she might have had some pain but it
+ wasn't major pain" and she had complained that she was having
+ difficulty sleeping due to lower back and neck pain. The
+ doctor's notes indicated that the pain was an "auto accident
+ flareup."
+ 
+Weite testified that sometime between 1999 and the 2000
+ 
+accident, she occasionally had neck or back pain, but did not
+ need treatment for it and had not had physical therapy.
+ Occasionally, her neck pain would "flare up." When asked whether
+ the 2000 accident aggravated her existing back condition, Weite
+ testified, "Well, I know I have a . . . herniated disk and so I
+ have that condition. So, yeah, to some extent I have this
+ 
+8
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+condition and I have an accident and it makes it hurt. So in
+ 
+that regard, yes." On cross-examination, Momohara's counsel
+ asked Weite: "Isn't it correct that from 1988, perhaps even from
+ 1981 with that herniated disk in your back, from that time on you
+ never got to the point where you were totally pain-free and you
+ never had neck pain, you always had flareups which occurred
+ occasionally?" Weite responded, "Yes." Weite acknowledged that
+ when asked by Momohara's counsel in her deposition whether
+ Dr. Nierenberg told her she would never return to her pre-injury
+ status after the 1988 accident, she replied that he had done so.
+ 
+Weite had never been treated by a psychiatrist or
+ 
+diagnosed with a driving phobia prior to the 2000 accident.
+2. Dr. Nierenberg's testimony
+ 
+Dr. Nierenberg testified that he was a physician, had 
+earned his medical degree from UCLA Medical School, and had completed his residency at the University of Hawai
+'i. In Hawai 'i, 
+he had been an emergency room physician for five years and then specialized in sports medicine, which he currently practiced and had practiced for the past twenty-seven years. He was licensed in Hawai
+'i, California, and Utah. He had authored articles, 
+including one on standards for independent medical examinations (IMEs), that was published by the American Medical Association. He was a board-certified independent medical examiner, which required special training, and he had performed over two thousand IMEs. He had been deposed as an expert witness maybe one or two hundred times and had testified in court as an expert over ten times. He was on the advisory board of the American Board of Independent Medical Examiners and the president of the Academy of Independent Medical Examiners of Hawai
+'i. 
+Addressing the circuit court, Weite's counsel offered
+ 
+Dr. Nierenberg as an expert in the fields of general medicine,
+ sports medicine, and IMEs. Momohara's counsel objected to the
+ circuit court's qualifying the doctor as an expert in IMEs on the
+ ground that IMEs were not relevant to this case. The court
+ qualified Dr. Nierenberg in all three fields over Momohara's
+ counsel's objection. At a bench conference, Momohara's counsel
+ 
+9
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+objected to questioning the doctor regarding IMEs. Weite's
+ 
+counsel responded that Dr. Nierenberg would not testify that he
+ had conducted an IME of Weite, but he would testify about
+ apportionment of damages from the perspective of someone who
+ specialized in IMEs. Weite's counsel stated that the doctor's
+ training in and practice of IMEs gave him a unique and
+ particularly helpful insight into apportionment. The circuit
+ court stated that it would not allow Dr. Nierenberg to testify
+ regarding apportionment: "I'm not going to allow that. I'm not
+ going to allow him to start talking about apportionment . . . .
+ He can . . . [l]ink all the injuries to one accident. He's
+ perfectly capable [and] qualified to testify to that. That's as
+ far as I'm going to allow it."
+ 
+Dr. Nierenberg testified that he had known Weite for
+ 
+approximately twenty-three years. She had been a patient at his
+ clinic since the early 1980s, when she had been treated by
+ another doctor. Dr. Nierenberg assumed her care in 1984 or 1985.
+ 
+On February 9, 2000 (2/9/00), Dr. Nierenberg examined 
+Weite in connection with the injuries she received in the 2000
+ accident. He diagnosed her injuries and prescribed her
+ medication and physical therapy. Because he was "well aware of
+ the fact she's had previous accidents," he "asked her how she was
+ doing before the [2000] accident." Weite said "she was doing
+ well." Dr. Nierenberg testified that Weite had "been involved in
+ some previous automobile accidents and she had been doing quite
+ well both physically and mentally before the 2000 accident but
+ she said that she was having a . . . rather paralyzing type of
+ anxiety in some cases about driving. She was fearful of being
+ injured again."
+ 
+Dr. Nierenberg testified that in 1981, another doctor
+ 
+at the clinic had treated Weite for a probable herniated disk as
+ a result of the 1981 injury. Dr. Nierenberg had treated Weite
+ for injuries she sustained in the 1988, 1994, and 1995 accidents
+4
+ 
+(collectively, the prior accidents). 
+4
+ Weite was initially seen at the clinic by Dr. Seaberg for the 1995
+accident.
+ 
+10
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+During a recess, Weite's counsel asked the circuit
+ 
+court to permit Dr. Nierenberg to testify about "his experience
+ 
+as a medical examiner and how it relates to issues of
+ apportionment." Weite's counsel argued that Dr. Nierenberg was
+ well-versed in standards of apportionment because he had "done it
+ several thousand times." The circuit court asked Weite's counsel
+ if he was "going to lay some foundation about that
+ [Dr. Nierenberg] deals with these issues in his practice and then
+ you're going to ask [the doctor] for an ultimate answer in this
+ case, right?" Weite's counsel answered, "Correct which the law
+ permits." The circuit court ruled that it would allow
+ Dr. Nierenberg to testify as a treating physician that in his
+ medical opinion Weite's injuries in this case could all be
+ attributed to the 2000 accident because her prior injuries had
+ resolved themselves by the time of 2000 accident. However, the
+ circuit court would not allow Dr. Nierenberg to testify about the
+ law of apportionment or how the jury should decide apportionment
+ because he was not the independent medical examiner in the case.
+ 
+
+Dr. Nierenberg5 testified that the medical charges to
+Weite from him, QM, RA, and ORS stemming from the 2000 accident were reasonable and necessary and were within the range commonly charged by other providers in Hawai
+'i at the time he treated 
+Weite for her injuries stemming from the 2000 accident. 
+Dr. Nierenberg stated that all of Weite's injuries he
+
+ 
+treated after February 8, 2000 were related to the 2000 accident
+ and absolutely no other accident had contributed to those
+ injuries.
+ 
+On cross-examination, Dr. Nierenberg testified that one
+ 
+month prior to the 1988 accident, Weite was still suffering from
+ back pain related to the 1981 injury. After the 1988 accident,
+ Weite saw Dr. Nierenberg for neck pain, back strain, and tingling
+ in her fingers. He stated that, in general, someone with neck
+ pain who complained of tingling could have a neurologic injury. 
+5
+ Dr. Nierenberg testified that his charges were "[v]ery reasonable"
+and, in fact, were lower than what other similar providers would have charged
+for the treatments.
+ 
+11
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Weite's lower back was more sore than it had been previously. 
+Dr. Nierenberg continued to treat Weite through 1991, and his
+ prognosis was that she would "continue to have mild to moderate
+ back pain for the foreseeable future with occasional flare ups
+ which will require increased medication and physical therapy."
+ 
+In the 1994 accident, Weite sustained injuries to her
+ 
+neck and back. She was still receiving treatment for neck and
+ back pain when she was injured in the 1995 accident.
+ Dr. Nierenberg testified that Weite complained of neck, back, and
+ leg pain and stiffness for three years after the 1995 accident. 
+She also had disc protrusions in her neck in 1998. In 1999,
+ Weite was still suffering neck and back pain resulting from the
+ 1994 accident. Dr. Nierenberg stated that Weite had occasional
+ flare ups, but in 1999, she had had only one. When Weite saw
+ Dr. Nierenberg for treatment related to the 2000 accident, she
+ said she was still experiencing occasional aches.
+ 
+Dr. Nierenberg testified that if Weite had a "flare up"
+ 
+tomorrow, it would be a result of the 2000 accident. He came to
+ this conclusion based on the fact that Weite had not visited a
+ physician, requested pain medication, or complained of pain just
+ prior to the 2000 accident.
+ 
+Momohara's counsel engaged Dr. Nierenberg in the
+ 
+following line of questioning:
+ 
+Q. [Momohara's counsel] So, in light of her
+treatment history, in light of her accident history, in
+light of her periodic flare ups, in light of the fact that
+she was telling you that she still had occasional aches,
+isn't it correct that she had not fully recovered from the
+prior accidents at the time of the 2000 accident because she
+still had occasional aches?
+ 
+A. [Dr. Nierenberg] Pretty long question. What do
+ 
+you mean by fully?
+ 
+Q. Well, I'm asking you didn't she still have some
+residual symptoms from those prior accidents at the time she
+came in to see you on February 9th?
+. . . .
+ 
+Q. I'm asking you whether or not she told you she
+still had aches.
+ 
+A. Yes. We went over that before she still had aches
+ 
+not had aches with a full recovery it's the lack of a full
+recovery. [Sic]
+ 
+12
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+When asked on redirect examination if Weite would have
+ 
+had any of the symptoms or needed any of the treatments she
+ 
+received after the 2000 accident had the 2000 accident not
+ occurred, Dr. Nierenberg testified that "[i]t's possible she may
+ have had one or two treatments that would be similar but in total
+ she wouldn't have needed all of that" and "she may have needed
+ some medication, physical therapy . . ., but certainly not the
+ amount and frequency and duration."
+3.	 Motions for judgment as a matter of law
+(JMOL)
+ 
+At the close of Weite's case, Weite moved for JMOL
+ 
+regarding apportionment. Weite's counsel maintained there was no
+ 
+genuine issue of material fact regarding whether damages should
+ be apportioned because Momohara had not presented any expert
+ testimony to that effect and Weite's experts did not concede that
+ apportionment was warranted. Momohara's counsel countered that
+ Weite's testimony that she had occasional pain and Dr.
+ Nierenberg's testimony that Weite had occasional aches sufficed
+ to present a genuine issue of material fact. The circuit court
+ denied the JMOL motion. At the close of Momohara's case, Weite's
+ counsel renewed his motion for JMOL, which the circuit court
+ again denied.
+ 
+4.	 Jury instructions
+ 
+On April 21, 2008, Momohara filed his proposed jury
+ 
+instructions, in which he requested that the circuit court give
+ HCJI 7.3 on pre-existing injury or condition. The instruction
+ provided in part: "If you find that plaintff(s) was/were not
+ fully recovered and that the pre-existing injury or condition was
+ not latent at the time of the subject incident, you should make
+ an apportionment of damages[.]"
+ 
+Also on April 21, 2008, Weite filed her proposed JI 5,
+ 
+which provided: "Generally, a defendant is liable in damages to
+ a plaintiff for all injuries legally caused by the defendant's
+ negligence, including damages resulting from the aggravation of
+ the victim's pre-existing disease, condition, or predisposition
+ to injury."
+ 
+13
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+During the settling of jury instructions on May 13,
+ 
+2008, Weite's counsel objected to proposed HCJI 7.3, stating that
+ 
+he did not believe Momohara's counsel had laid out a prima facie
+ case to warrant giving the instruction on the issue of
+ apportionment: 
+They've adduced no facts. Simply relied on cross
+examination. None of the doctors who testified in this case
+ agreed that apportionment is appropriate. They all stated
+their opinions to reasonable medical probability. No
+ rebuttal by any medical witness. No witness in fact
+ proffered by the defense . . . . Lacking foundation.
+ 
+The second thing we believe this is an incomplete
+statement and also confusing. 
+Momohara's counsel argued that medical testimony was not the only
+ 
+admissible evidence regarding apportionment. The circuit court
+ stated that it would give the jury a modified version of the
+ instruction.
+ 
+At trial, the circuit court gave the jury a modified
+ 
+version of HCJI 7.3.
+ 
+On a special verdict form, the jury awarded Weite 
+$8,556.63 in special damages and $30,700.00 in general damages
+ "[w]ithout regard to any possible apportionment of her damages." 
+The jury attributed 50% of Weite's injuries to the 2000 accident.
+C. POST-TRIAL
+ 
+1. Motion for JMOL/New Trial
+ 
+On May 23, 2008, Weite filed a "Motion for Judgment as
+ 
+a Matter of Law and in the Alternative Motion for a New Trial"
+ (Motion for JMOL/New Trial). Weite argued that the circuit court
+ had erred by (1) permitting the issue of apportionment to go to
+ the jury without any expert medical testimony in support of
+ apportionment and (2) precluding Dr. Nierenberg from testifying
+ on the issue of apportionment, in light of his training and
+ experience as an independent medical examiner. 
+Momohara filed an opposition memorandum, in which he
+ 
+argued that Weite was not entitled to JMOL because the jury
+ verdict was consistent with the overwhelming evidence presented
+ at trial supporting apportionment of Weite's damages and there
+ was no basis for the circuit court to grant Weite a new trial as
+ she had not been substantially prejudiced by Dr. Nierenberg's
+ 
+14
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+failure to testify regarding apportionment. Weite filed a reply
+ 
+memorandum. 
+The circuit court held a hearing on the motion on
+ 
+June 17, 2008, at which the parties presented their arguments. 
+On June 24, 2008, the circuit court filed an order denying the
+ motion.
+ 
+2.	 Weite's Motion for CAAP Sanctions,
+Taxation of Costs, and Pre- and Post-
+judgment Interest Against Momohara, and
+Momohara's Motion to Apply the CLD to
+the Jury Verdict
+ 
+On May 23, 2008, Weite filed a "Motion for CAAP
+ 
+Sanctions, Taxation of Costs, Prejudgment Interest, and Post-
+Judgment Interest Against [Momohara]" (Motion Re Sanctions/Costs/
+ Interest). Weite contended she was entitled to prejudgment
+ interest from the date of the 2000 accident to the time the
+ motion was filed. Weite argued that Momohara had acted in bad
+ faith during settlement negotiations, forcing the case to trial;
+ repeatedly conducted discovery after the discovery cutoff date;
+ and refused to depose Weite's medical experts or stipulate to the
+ reasonableness of Weite's medical treatment and bills, forcing
+ Weite to litigate that issue. With regard to her request for CAAP
+ sanctions against Momohara, Weite claimed Momohara was subject to
+ 
+
+sanctions pursuant to Hawaii Arbitration Rules (HAR) 256 and
+6
+ HAR 25 provides:
+ 
+Rule 25. THE PREVAILING PARTY IN THE TRIAL DE NOVO; COSTS.
+ 
+(A) The "Prevailing Party" in a trial de novo is the party
+who (1) appealed and improved upon the arbitration award by 30% or
+more, or (2) did not appeal and the appealing party failed to
+improve upon the arbitration award by 30% or more. For the
+ purpose of this rule, "improve" or "improved" means to increase
+the award for a plaintiff or to decrease the award for the
+defendant.
+ 
+(B) The "Prevailing Party" under these rules, as defined
+above, is deemed the prevailing party under any statute or rule of
+court. As such, the prevailing party is entitled to costs of
+trial and all other remedies as provided by law, unless the Court
+otherwise directs.
+ 
+15
+ 7  including payment of Weite's attorneys' fees and costs,
+FOR PUBLICATION IN WEST'S HAWAI 'I REPOR TS AND PACIFIC REPORTER
+26,
+because as the appealing party from CAAP arbitration, Momohara
+ had not fulfilled his obligation to improve the CAAP award by 30%
+ at trial. Weite illustrated the difference between the CAAP
+ award and the judgment amount as follows:
+ 
+CAAP award total: $27,808.62 
+Award less 30%: $19,466.03 
+Trial Verdict: $39,256.63 
+Judgment (less 50%
+apportionment): $19,628.32 
+(Footnotes omitted.) Weite argued that "Momohara needed to
+ 
+reduce the verdict to $19,466.03 or less" to avoid incurring
+ sanctions. In a footnote, Weite indicated that pursuant to HRS
+ § 431:10C-301.5, a CLD of $6,808.62 was not to be deducted until
+ after the CAAP award total was reduced by 30%. Weite maintained
+ she was entitled to post-judgment interest until the judgment was
+ paid in full, pursuant to HRS § 478-3 (2008 Repl.).
+ 
+7
+ HAR 26 provides:
+ 
+Rule 26. SANCTIONS FOR FAILING TO PREVAIL IN THE TRIAL DE NOVO 
+(A) After the verdict is received and filed, or the court's
+decision rendered in a trial de novo, the trial court may, in its
+discretion, impose sanctions, as set forth below, against the non-
+prevailing party whose appeal resulted in the trial de novo.
+ 
+(B) The sanctions available to the court are as follows:
+ 
+(1) Reasonable costs and fees (other than attorneys' fees)
+actually incurred by the party but not otherwise taxable under the
+law, including, but not limited to, expert witness fees, travel
+costs, and deposition costs;
+ 
+(2) Costs of jurors;
+ 
+(3) Attorneys' fees not to exceed $15,000;
+ 
+(C) Sanctions imposed against a plaintiff will be deducted
+from any judgment rendered at trial. If the plaintiff does not
+receive a judgment in his or her favor or the judgment is
+insufficient to pay the sanctions, the plaintiff will pay the
+amount of the deficiency. Sanctions imposed against a defendant
+will be added to any judgment rendered at trial.
+ 
+(D) In determining sanctions, if any, the court shall
+consider all the facts and circumstances of the case and the intent and purpose of the [CAAP] in the State of Hawai' i. 
+16 FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+On May 29, 2008, Momohara filed a "Motion to Apply the
+ 
+Covered Loss Deductible to the Jury Verdict" (Motion Re CLD). 
+Momohara asked the circuit court to apply HRS § 431:10C-301.5 in
+ calculating Weite's recovery and deduct the CLD from the verdict
+ amount. Momohara claimed that Weite's recovery was actually
+ $13,090.59, or 50% of the jury's verdict of $19,628.32 reduced by
+ the CLD, which was actually $6,537.73.
+ 
+On June 9, 2008, Weite filed a memorandum in opposition
+ 
+to the Motion Re CLD. Weite did not dispute Momohara's assertion
+ that the PIP provider had actually paid $6,537.73 in PIP
+ benefits. She agreed the CLD should be applied, but argued that
+ applying the full CLD to the jury award would be unfair to her
+ and result in a windfall to Momohara. Citing to HRS § 431:10C­301.5 and State Farm Mutual Automobile Insurance Co. v. Gepaya, 103 Hawai
+'i 142, 147, 80 P.3d 321, 326 (2003), Weite argued that 
+"because the jury allocated 50% of [Weite's] damages to preexisting causes, the application of the full CLD would actually reduce [Weite's] award of general damages, in violation of the statute." Weite also argued that whether the CLD is applied pre- or post-judgment, the determination of who is the "prevailing party" pursuant to HAR 25 is made before the application of the CLD to the CAAP award or the judgment award. The circuit court granted the Motion Re CLD. 
+On June 9, 2008, Momohara filed an opposition 
+memorandum to the Motion Re Sanctions/Costs/Interest, in which he argued that he clearly improved upon the Arbitration Award by 30% or more at trial. First, Momohara claimed that the net CAAP award was actually $21,000, which represented the special and general damages award of $27,808.62 minus the CLD of $6,808.62. Momohara cited to Kim v. Reilly, 105 Hawai
+'i 93, 94 P.3d 648 
+(2004), for his assertion that the total CAAP award represented the damages award minus the CLD amount. Second, Momohara claimed, as he had in his Motion Re CLD, that Weite's recovery at trial was actually $13,090.59, or 50% of the jury's verdict of 
+17
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+$19,628.32, reduced by the CLD of $6,537.73.8 Momohara cited to
+ 
+HRS § 431:10C-301.5 in support of his assertion that the verdict
+ 
+amount had to be reduced by the CLD amount. Given the foregoing,
+ Momohara contended, he had improved upon the CAAP award by 37%
+ and was the "prevailing party" pursuant to HAR 25.
+ 
+Weite filed a reply memorandum in support of the Motion
+ 
+Re Sanctions/Costs/Interest. She argued that Momohara's
+ calculation was inconsistent with HRS § 431:10C-301.5 and the
+ reference to "award" in the statute "clearly refers to the amount
+ prior to the application of the CLD."
+ 
+On June 17, 2008, the circuit court held a hearing on
+ 
+both motions. The circuit court orally denied the Motion Re
+ Sanctions/Costs/Interest and granted the Motion Re CLD:
+ 
+THE COURT: All right. In the Court's view, even if I
+didn't have Kim, looking at the plain language of 431:10C­
+301.5, as I see it and what makes sense to the Court, I'm
+persuaded by [Momohara's] arguments in this case, but in the
+Court's view . . . Kim is a further authority for that
+interpretation of how the statute should be applied. So
+ . . . everything seems to hinge on the interpretation,
+basically, of the statute.
+ 
+So the Court is going to respectfully deny [the Motion
+Re Sanctions/Costs/Interest] for the reasons essentially set
+forth by the defense[.]
+ 
+Likewise, the Court is going to grant [Momohara's]
+motion to apply the [CLD] to the jury verdict in the manner
+set forth by the defense in their moving papers.
+ 
+On June 24, 2008, the circuit court filed an order
+ 
+granting the Motion Re CLD and an order regarding the Motion Re
+ 
+Sanctions/Costs/Interest, in which the court denied the motion
+ with respect to the issues of CAAP sanctions, taxation of costs,
+ and pre-judgment interest, but not post-judgment interest.
+3. Taxable Costs
+ 
+On June 25, 2008, Momohara filed a "Verified Bill of
+ 
+Costs," in which he claimed he had incurred total costs of
+ $2,619.73. On June 30, 2008, Weite filed a "Motion to Deny
+ Taxable Costs to [Momohara] and to Award Taxable Costs to
+ 
+8
+ In a footnote, Momohara argued that a representative of Weite's PIP
+provider had clarified "that the amount of PIP benefits paid" was actually
+$6,537.73, "not the $6,808.62 amount previously reflected in [the PIP
+provider's] records and utilized in the arbitration award."
+ 
+18 FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+[Weite]" (Motion Re Taxable Costs). Weite contended, inter alia,
+ 
+that an award of costs to Momohara would be inequitable to her. 
+Momohara filed a memorandum in opposition, and Weite filed a
+ reply. On July 22, 2008, the circuit court held a hearing, at
+ which the court orally denied the motion, stating: "Without
+ subscribing to either party's take on what the equities are or
+ aren't, I'm going to respectfully deny the motion. [Momohara is]
+ the prevailing part[y] here and I think the costs are
+ reasonable." On August 4, 2008, the circuit court filed an order
+ denying the Motion Re Taxable Costs.
+II.
+ 
+A. Summary Judgment
+ 
+The appellate court reviews "the circuit court's grant
+ 
+or denial of summary judgment de novo." Querubin v. Thronas, 107
+ 
+Hawai
+'i 48, 56, 109 P.3d 689, 697 (2005) (quoting Durette v. 
+Aloha Plastic Recycling, Inc., 105 Hawai 'i 490, 501, 100 P.3d 60, 
+71 (2004)). Accordingly, on appeal,
+ 
+an order of summary judgment is reviewed under the same
+standard applied by the circuit courts. Summary judgment is
+proper where the moving party demonstrates that there are no
+genuine issues of material fact and it is entitled to a
+judgment as a matter of law. In other words, summary
+judgment is appropriate if the pleadings, depositions,
+answers to interrogatories, and admissions on file, together
+with the affidavits, if any, show that there is no genuine
+issue of material fact and the moving party is entitled to a
+judgment as a matter of law.
+ 
+Iddings v. Mee-Lee, 82 Hawai 'i 1, 5, 919 P.2d 263, 267 (1996) 
+(quoting Heatherly v. Hilton Hawaiian Vill. Joint Venture, 78 
+Hawai'i 351, 353, 893 P.2d 779, 781 (1995)); see also HRCP Rule 
+56(c).9 
+9
+ HRCP Rule 56(c) provides, in relevant part:
+ 
+Rule 56. SUMMARY JUDGMENT.
+ 
+. . . . 
+(c) Motion and proceedings thereon. . . . The judgment
+sought shall be rendered forthwith if the pleadings, depositions,
+answers to interrogatories, and admissions on file, together with
+the affidavits, if any, show that there is no genuine issue as to
+any material fact and that the moving party is entitled to a
+judgment as a matter of law. A summary judgment, interlocutory in
+character, may be rendered on the issue of liability alone
+although there is a genuine issue as to the amount of damages.
+ 
+19  FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+On a motion for summary judgment (MSJ), "[a] fact is 
+material if proof of that fact would have the effect of 
+establishing or refuting one of the essential elements of a cause of action or defense asserted by the parties." Crichfield v. 
+Grand Wailea Co., 93 Hawai
+'i 477, 482-83, 6 P.3d 349, 354-55 
+(2000) (quoting Taylor v. Gov't Employees Ins. Co., 90 Hawai 'i 
+302, 305, 978 P.2d 740, 743 (1999)). 
+In reviewing a circuit court's grant or denial of an 
+MSJ, the appellate court "must view all of the evidence and the inferences drawn therefrom in the light most favorable to the party opposing the motion." Crichfield, 93 Hawai
+'i at 483, 6 
+P.3d at 355 (brackets omitted) (quoting Taylor, 90 Hawai 'i at 
+305, 978 P.2d at 743). "[A]ny doubt concerning the propriety of granting the motion should be resolved in favor of the non-moving party." GECC Fin. Corp. v. Jaffarian, 79 Hawai
+'i 516, 521, 904 
+P.2d 530, 535 (App. 1995). 
+In deciding an MSJ, a circuit court must keep in mind
+ 
+an important distinction:
+ 
+A judge ruling on a motion for summary judgment cannot
+summarily try the facts; his role is limited to applying the
+law to the facts that have been established by the
+litigants' papers. Therefore, a party moving for summary
+judgment is not entitled to a judgment merely because the
+facts he offers appear more plausible than those tendered in
+opposition or because it appears that the adversary is
+unlikely to prevail at trial. This is true even though both
+parties move for summary judgment. Therefore, if the
+evidence presented on the motion is subject to conflicting
+interpretations, or reasonable men might differ as to its
+significance, summary judgment is improper.
+ 
+Kajiya v. Dep't of Water Supply, 2 Haw. App. 221, 224, 629 P.2d
+ 
+635, 638-39 (1981) (quoting 10 Charles Alan Wright & Arthur R.
+ Miller, Federal Practice and Procedure: Civil § 2725 (1973)).
+ 
+In general, "summary judgment must be used with due
+ 
+regard for its purpose and should be cautiously invoked so that
+ no person will be improperly deprived of a trial of disputed
+ factual issues." Miller v. Manuel, 9 Haw. App. 56, 65-66, 828
+ 
+P.2d 286, 292 (1991) (internal quotation marks and citation
+ omitted).
+ 
+B. Grant/Denial of Motion in Limine
+ 
+The granting or denying of a motion in limine is
+reviewed for abuse of discretion.  The denial of a motion in
+ 
+20
+  FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+limine, in itself, is not reversible error. The harm, if
+any, occurs when the evidence is improperly admitted at
+trial. Thus, even if the trial court abused its discretion
+in denying a party's motion, the real test is not in the
+disposition of the motion but in the admission of evidence
+at trial.
+ 
+Miyamoto v. Lum, 104 Hawai 'i 1, 7, 84 P.3d 509, 515 (2004) 
+(internal quotation marks, citations, ellipsis, and brackets
+ 
+omitted).
+ 
+C. Admission of Opinion Evidence (Expert Testimony)
+ 
+"Generally, the decision whether to admit expert
+ 
+testimony rests in the discretion of the trial court. To the
+ extent that the trial court's decision is dependant upon
+ interpretation of court rules, such interpretation is a question
+ of law, which this court reviews de novo." Udac v. Takata Corp.,
+ 
+121 Hawai
+'i 143, 148, 214 P.3d 1133, 1138 (App. 2009), cert. 
+rejected, No. 28328, 2010 WL 219307 (Hawai 'i Jan. 21, 2010) 
+(internal quotation marks and citation omitted).
+D. Jury Instructions
+ 
+When jury instructions or the omission thereof are at
+issue on appeal, the standard of review is whether, when
+read and considered as a whole, the instructions given are
+prejudicially insufficient, erroneous, inconsistent, or
+misleading.
+ 
+Erroneous instructions are presumptively harmful and
+are a ground for reversal unless it affirmatively
+appears from the record as a whole that the error was
+not prejudicial.
+ 
+State v. Arceo, 84 Hawai' i 1, 11, 928 P.2d 843, 853 (1996)
+(citations, internal quotation marks, and brackets omitted). 
+Tabieros v. Clark Equip. Co., 85 Hawai 'i 336, 350, 944 P.2d 1279, 
+1293 (1997).
+E. Special Verdict
+ 
+A trial court has complete discretion whether to
+utilize a special or general verdict and to decide on the
+form of the verdict as well as the interrogatories submitted
+to the jury provided that the questions asked are adequate
+to obtain a jury determination of all factual issues
+essential to judgment. Although there is complete
+discretion over the type of verdict form, the questions
+themselves may be so defective that they constitute
+reversible error.
+ 
+Montalvo v. Lapez, 77 Hawai 'i 282, 292, 884 P.2d 345, 355 (1994) 
+(internal quotation marks and citations omitted).
+ 
+21
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+F. Statutory Interpretation
+ 
+We review the circuit court's interpretation of a
+statute de novo. State v. Pacheco, 96 Hawai' i 83, 94, 26
+P.3d 572, 583 (2001). Our statutory construction is guided
+by established rules:
+ 
+When construing a statute, our foremost
+obligation is to ascertain and give effect to the
+intention of the legislature, which is to be obtained
+primarily from the language contained in the statute
+itself. And we must read statutory language in the
+context of the entire statute and construe it in a
+ manner consistent with its purpose.
+ 
+Id. at 94-95, 26 P.3d at 583-84.
+ 
+Gepaya, 103 Hawai 'i at 145, 80 P.3d at 324 (quoting Troyer v. 
+Adams, 102 Hawai 'i 399, 409, 77 P.3d 83, 93 (2003)).
+G. Prejudgment Interest
+ 
+"Prejudgment interest, where appropriate, is awardable
+under HRS § 636-16 (1993) in the discretion of the court."
+Page v. Domino's Pizza, Inc., 80 Hawai' i 204, 208, 908 P.2d
+552, 556 (App. 1995) . . . (internal quotation marks
+omitted). The "well-established" purpose of the statute is
+to
+ 
+allow the court to designate the commencement date of
+interest in order to correct injustice when a judgment
+is delayed for a long period of time for any reason,
+including litigation delays. Another acknowledged
+purpose of HRS § 636-16 is to discourage recalcitrance
+and unwarranted delays in cases which should be more
+speedily resolved. A trial court's denial of
+ prejudgment interest is usually affirmed if the party
+requesting the award is found to have caused the
+delay, or if there is no showing that the non-moving
+party's conduct unduly delayed the proceedings of the
+case.
+ 
+Id. at 209, 908 P.2d at 557 (citations, brackets, and
+ellipses [in original] omitted).
+ 
+Liberty Mut. Ins. Co. v. Sentinel Ins. Co., 120 Hawai 'i 329, 349, 
+205 P.3d 594, 614 (App. 2009), cert. rejected, No. 27429, 2009 WL
+ 
+2759860 (Hawai 'i Aug. 25, 2009) (footnotes and brackets in 
+original omitted).
+H. Imposition of CAAP Sanctions
+ 
+Under the plain language of HAR 26, it is within the
+ 
+discretion of the court whether to award sanctions and if so, for
+ what amount. Richardson v. Sport Shinko (Waikiki Corp.), 76
+ 
+Hawai
+'i 494, 511, 880 P.2d 169, 186 (1994).
+I. Plain Error
+ 
+The plain error doctrine represents a departure from the
+normal rules of waiver that govern appellate review, and, as
+ 
+22
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+such, . . . an appellate court should invoke the plain error
+doctrine in civil cases only when justice so requires. As
+ such, the appellate court's discretion to address plain
+error is always to be exercised sparingly. 
+Okada Trucking Co. v. Bd. of Water Supply, 97 Hawai 'i 450, 458, 
+40 P.3d 73, 81 (2002) (internal quotation marks, citations, and 
+ellipsis in original omitted). 
+III.
+ 
+A. APPEAL
+ 
+1.	 MPSJ Re Medical Bills and MIL Re Prior
+ 
+Accidents
+ 
+Weite contends the circuit court erred by denying the
+ 
+MPSJ Re Medical Bills and denying the MIL Re Prior Accidents on
+ 
+the issue of apportionment and allowing that issue to go to the
+ jury because Momohara presented no medical expert testimony
+ refuting Weite's treating physicians' opinions that her injuries
+ were entirely caused by the 2000 accident.
+ 
+a. Case law on apportionment
+ 
+In Bachran v. Morishige, 52 Haw. 61, 62, 469 P.2d 808,
+ 
+810 (1970), in 1964, Bachran was in her car when it was struck by
+ a vehicle driven by Morishige (the 1964 accident). In 1962,
+ Bachran had been injured in a previous automobile accident (1962
+ accident). Id. at 63, 469 P.2d at 810. After the 1964 accident,
+ 
+Bachran sought treatment from Dr. Poulson for injuries she
+ claimed had resulted from that accident. Id. Morishige admitted
+ 
+liability for the 1964 accident. Id. at 62, 469 P.2d at 810. 
+Bachran filed a lawsuit against Morishige, and the case was tried
+ by a jury on the issue of damages. Id. 
+At trial, Bachran called Dr. Poulson to testify as an
+ 
+expert witness regarding his treatment of her. Id. at 63 & 67,
+ 
+469 P.2d at 810 & 812. Dr. Poulson testified that Bachran was
+ suffering from a degenerated cervical disc, of which both the
+ 1962 and 1964 accidents had been contributing causes. Id. at 63,
+ 
+469 P.2d at 810. On cross-examination, Morishige's counsel asked
+ Dr. Poulson, "Could you give me such a fair or just apportionment
+ on the basis of a medical probability?" Id. at 67, 469 P.2d at
+ 
+812 (ellipsis omitted). Bachran's counsel objected on the ground
+ that an opinion on causation must be based on reasonable medical
+ 
+23
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+certainty. Id. The trial court sustained the objection to
+ 
+prevent "too much conjecture." Id. The court also refused to
+ 
+permit Morishige to cross-examine Dr. Poulson and another of
+ 
+Bachran's expert witnesses, a doctor who also had treated her
+ after the 1964 accident, on whether the damages could be
+ apportioned between the 1962 and 1964 accidents. Id. at 63 & 66,
+ 
+469 P.2d at 810 & 812. The trial court precluded cross-
+examination of the doctors on the ground that "the facts to be
+ deduced from the questions were irrelevant and immaterial." Id.
+ 
+at 66, 469 P.2d at 812. The court orally ruled that Morishige
+ was legally responsible and liable for all of Bachran's injuries
+ because "a tortfeasor takes the man as he finds him." Id. at 66,
+ 
+469 P.2d at 811. 
+The jury decided the issue of damages and entered a 
+verdict amount in Bachran's favor. Id. at 62, 469 P.2d at 810. 
+Morishige appealed, arguing, among other things, that the court improperly ruled that he was legally responsible and liable for all of Bachran's injuries. Id. On appeal, the Hawai
+'i Supreme 
+Court agreed with Morishige and held that the jury should have determined the factual issue of whether Bachran had fully recovered from the injuries she suffered in the 1962 accident and was not experiencing any pain, suffering, or disability by the time of the 1964 accident. Id. at 66, 469 P.2d at 811. The 
+supreme court stated that "it is for the trier of facts . . . to make a legal determination of the question of causation." Id. at 
+68, 469 P.2d at 812. Hence, the supreme court concluded that the trial court had erred by ruling that Morishige was liable for all of the damages, which precluded the jury's consideration of the issue. Id. at 66, 469 P.2d at 811. The supreme court held that 
+where a person has suffered injuries in a prior accident and
+has fully recovered, and later he is injured by the
+negligence of another person and the injuries suffered in
+the later accident bring on pain, suffering and disability,
+the proximate cause of the pain, suffering and disability is
+the negligence of that other person. In such circumstances
+ that other person should be liable for the entire damages.
+ 
+Id. at 65, 469 P.2d at 811. The court further held, on the other
+ 
+hand, that if Bachran "had not fully recovered from the injuries
+ she suffered in the 1962 accident and in 1964 she was still
+ 
+24
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+experiencing pain and suffering and was disabled from such
+ 
+injuries, the total damages would not be the proximate result of
+ the 1964 accident. Then . . . the damages should be
+ apportioned." Id. at 66, 469 P.2d at 811-12.
+ 
+The supreme court concluded that the trial court erred
+ 
+by refusing to permit Morishige to cross-examine the doctors on
+ the issue of apportionability of the damages. Id. at 66, 469
+ 
+P.2d at 812. The supreme court stated that if in 1964 Bachran
+ was still suffering from pain and was disabled from the injuries
+ she had received in the 1962 accident, the testimony would have
+ been relevant, material, and "vital to the issue to be decided by
+ the jury." Id. The supreme court held:
+ 
+Where the subject matter is technical, scientific or
+medical and not of common observation or knowledge, expert
+testimony is allowed into evidence. Such testimony is to
+aid the jury in the determination of the issues involved and
+to provide a sufficient basis for the conclusion to be drawn
+by the jury rather than by conjecture and speculation.
+Expert testimony is not conclusive and like any testimony,
+the jury may accept or reject it.
+ 
+Id. at 67, 469 P.2d at 812 (citations omitted).
+b. MPSJ Re Medical Bills
+ 
+On an MSJ, "[a] fact is material if proof of that fact 
+would have the effect of establishing or refuting one of the 
+essential elements of a cause of action or defense asserted by the parties." Crichfield, 93 Hawai
+'i at 482-83, 6 P.3d at 354-55 
+(quoting Taylor, 90 Hawai 'i at 305, 978 P.2d at 743). Damages 
+comprise an essential element of a negligence claim. See Cho v. 
+State, 115 Hawai 'i 373, 379 n.11, 168 P.3d 17, 23 n.11 (2007) 
+("It is well-established that, in order for a plaintiff to prevail on a negligence claim, the plaintiff is required to prove all four of the necessary elements of negligence: (1) duty; (2) breach of duty; (3) causation; and (4) damages."). Whether
+ all or some of Weite's injuries were caused by the 1988, 1994,
+ and/or 1995 accidents was material to whether Weite's damages
+ should be apportioned. 
+Furthermore, there was a genuine issue regarding
+ 
+whether Weite's injuries were entirely caused by the 2000
+ accident. In her MPSJ Re Medical Bills, Weite argued there was
+ 
+25
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+no genuine issue of fact regarding apportionment because 
+Drs. Nierenberg and Lind both declared that her injuries following the 2000 accident were entirely attributable to the 2000 accident and Momohara did not have any medical testimony to refute those assertions. Momohara argued in his memorandum in opposition that there was a genuine issue of material fact with regard to causation because Weite had been injured in the prior accidents. To his memorandum, he attached a transcript of Weite's deposition testimony in which she stated that the prior accidents had resulted in injuries to her neck and back and that, after her prior accidents, she continued to have intermittent and periodic pain in her neck and back, including as of the time of the 2000 accident. In reviewing a circuit court's grant or denial of an MSJ, the appellate court "must view all of the evidence and the inferences drawn therefrom in the light most favorable to the party opposing the motion." Crichfield, 93 
+Hawai
+'i at 483, 6 P.3d at 355 (quoting Taylor, 90 Hawai 'i at 305, 
+978 P.2d at 743). Weite cites to no authority in this jurisdiction, and we find none, for the notion that in order to demonstrate that an issue of material fact exists, the non-movant must present expert testimony in his or her favor on that issue. 
+c. MIL Re Prior Accidents
+ 
+In her MIL Re Prior Accidents, Weite moved the circuit 
+court for an order excluding from trial any argument regarding the need for an apportionment of her injuries to preexisting causes or prior accidents and to exclude any reference at trial to prior accidents. She claimed that Momohara was precluded from making any arguments regarding apportionment because (1) he had not retained any expert witnesses to refute Drs. Nierenberg and Lind's declaration statements that her injuries after the 2000 accident were entirely attributable to that accident and (2) he did not depose Drs. Nierenberg and Lind. Consequently, Weite maintained, "there is no competent evidence that can serve as the basis for an apportionment." At trial, Weite had the burden of proving that her injuries were caused by the 2000 accident. See 
+Montalvo, 77 Hawai
+'i at 296, 884 P.2d at 359 ("[I]n order to 
+26
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+recover damages, a plaintiff has the burden of proving that the
+ 
+damages were legally caused by a defendant's negligence.");
+ Malani v. Clapp, 56 Haw. 507, 517, 542 P.2d 1265, 1271 (1975)
+ ("[T]he burden of proving damages is always upon the
+ plaintiff."). Momohara was entitled to cross-examine
+ Dr. Nierenberg regarding the cause of Weite's injuries after the
+ doctor testified that the injuries for which he treated Weite
+ following the 2000 accident were all attributable to that
+ accident. Hawaii Rules of Evidence (HRE) Rule 702.1(a) provides:
+ 
+Rule 702.1 Cross-Examination of experts. (a) General.
+A witness testifying as an expert may be cross-examined to
+the same extent as any other witness and, in addition, may
+be cross-examined as to (1) the witness'[s] qualifications,
+(2) the subject to which the witness'[s] expert testimony
+relates, and (3) the matter upon which the witness'[s]
+opinion is based and the reasons for the witness'[s]
+opinion. 
+The jury was entitled to determine the cause of Weite's
+ 
+injuries and the amount of damages, if any, to be awarded. See
+ 
+Dzurik v. Tamura, 44 Haw. 327, 330, 359 P.2d 164, 165 (1960)
+ 
+("[I]t is for the trier of facts, not the medical witnesses, to
+ make a legal determination of the question of causation."); Kato
+ v. Funari, 118 Hawai
+'i 375, 381, 191 P.3d 1052, 1058 (2008) 
+(internal quotation marks, citation, brackets in original, and ellipsis omitted) ("[T]he proper amount of damages to be awarded is within the exclusive province of the jury, since jurors are the sole judges of all disputed questions of fact."). Further, the jury had the discretion to discredit Drs. Nierenberg and Lind's respective testimonies that Weite's injuries after the 2000 accident were entirely caused by that accident. See, e.g., 
+Ass'n of Apt. Owners of Wailea Elua v. Wailea Resort Co., 100 Hawai
+'i 97, 117-18, 58 P.3d 608, 628-29 (2002) (internal 
+quotation marks and citation omitted) ("[I]t is within the province of the trier of fact to weigh the evidence and to assess the credibility of the witnesses."). 
+Weite cites to no authority in this jurisdiction, and
+ 
+we find none, to support her assertion that "[t]he law requires
+ that a defense claim for apportionment be supported by expert
+ medical testimony." Given the foregoing, the circuit court did
+ 
+27
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+not abuse its discretion in denying the MPSJ Re Medical Bills and
+ 
+denying the MIL Re Prior Accidents on the issue of
+ apportionment.
+10
+ 
+2. Dr. Nierenberg's testimony, apportionment
+ 
+Weite contends the circuit court erred by refusing to
+ 
+allow Dr. Nierenberg to provide his expert opinion as an
+ independent medical examiner on the issue of apportionment. 
+Weite maintains the circuit court should have allowed
+ Dr. Nierenberg to explain 
+his opinion regarding [Weite's] injuries in the context of
+an apportionment, i.e. Montalvo, how an apportionment is
+derived, that he had performed such apportionments several
+thousand times, and the definition and importance of the
+findings that [Weite] was "asymptomatic" and "latent" with
+respect to her neck and back injuries prior to the accident.
+ 
+At trial, Weite's counsel proffered Dr. Nierenberg's
+ 
+testimony on apportionment, explaining that the doctor would
+ 
+testify about apportionment from the perspective of someone who
+ specialized in IMEs and the doctor's training in and practice of
+ IMEs gave him a unique and particularly helpful insight into
+ apportionment. The circuit court ruled that it would not allow
+ Dr. Nierenberg to testify on apportionment, but he could "[l]ink
+ all the injuries to one accident." Outside the presence of the
+ jury, Weite's counsel again asked the circuit court to permit
+ Dr. Nierenberg to testify about "his experience as a medical
+ examiner and how it relates to issues of apportionment." The
+ circuit court ruled that it would allow Dr. Nierenberg to testify
+ as a treating physician that in his medical opinion Weite's
+ injuries could all be attributed to the 2000 accident; however,
+ the court would not allow Dr. Nierenberg to testify about the law
+ of apportionment or how the jury should decide apportionment.
+ 
+While witnesses may be permitted, in a proper case, to
+give an opinion on an ultimate fact involved in the case,
+there is a strong consensus among the jurisdictions,
+amounting to a general rule, that witnesses may not give an
+opinion on a question of domestic law or on matters which
+involve questions of law. The fundamental problem with
+ 
+10
+ The Hawai' i Supreme Court has, however, stated that the determination
+of whether a plaintiff has fully recovered from a pre-existing condition orwhether such condition was dormant or latent is a question of fact for whichmedical testimony is especially appropriate. Montalvo, 77 Hawai' i at 299, 884
+P.2d at 362 (citing Bachran, 52 Haw. at 66, 469 P.2d at 811). 
+28
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+testimony containing a legal conclusion is that conveying
+the witness'[s] unexpressed, and perhaps erroneous, legal
+standards to the jury amounts to a usurpation of the court's
+responsibility to determine the applicable law and to
+instruct the jury as to that law. Expert as well as
+nonexpert witnesses are subject to the prohibition against
+testifying as to a question of law. The testimony of expert
+witnesses is, in general, confined to matters of fact, as
+distinguished from matters of law. 
+Create 21 Chuo, Inc. v. Southwest Slopes, Inc., 81 Hawai 'i 512, 
+522 n.4, 918 P.2d 1168, 1178 n.4 (App. 1996) (emphasis in 
+original). 
+In the instant case, we see no reason why Weite would
+ 
+have offered Dr. Nierenberg's proffered testimony except to "give
+ an opinion . . . on matters which involve questions of law,"
+ i.e., whether Weite's damages should be apportioned. Indeed, at
+ trial, when the circuit court asked Weite's counsel if he was
+ "going to lay some foundation about that [Dr. Nierenberg] deals
+ with these issues in his practice and then you're going to ask
+ [Dr. Nierenberg] for an ultimate answer in this case right?",
+ Weite's counsel answered, "Correct which the law permits." The
+ circuit court permitted Dr. Nierenberg to testify extensively
+ regarding Weite's injuries after the prior accidents and the 2000
+ accident, including his opinion that Weite's injuries following
+ the 2000 accident were caused entirely by the 2000 accident. The
+ circuit court later gave the jury a detailed instruction. 
+Weite does not explain how she was prejudiced by the
+ 
+circuit court's denial of Dr. Nierenberg's proffered evidence,
+ and we fail to see how such denial could have prejudiced her. 
+Given the foregoing, the circuit court did not abuse
+ 
+its discretion when the court prohibited Dr. Nierenberg from
+ testifying about apportionment.
+3. HCJI 7.3 and Weite's proposed JI 5
+ 
+Weite first contends the circuit court should not have
+ 
+given jury instructions on apportionment because there was no
+ competent evidence justifying apportionment in this case. Given
+ our holding in Part III.A.1 that the circuit court did not err
+ when it denied the MPSJ Re Medical Bills and MIL Re Prior
+ Accidents on the issue of apportionment, we need not address this
+ point.
+ 
+29
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Weite also contends the circuit court erred by refusing
+ 
+to give Weite's proposed JI 5 on the "eggshell skull" (eggshell
+ 
+skull) rule. The proposed instruction provided: "Generally, a
+ defendant is liable in damages to a plaintiff for all injuries
+ legally caused by the defendant's negligence, including damages
+ resulting from the aggravation of the victim's pre-existing
+ disease, condition, or predisposition to injury."
+ 
+Weite argues that the circuit court's instruction on 
+apportionment did "not consider or explain the law of damages attributed to [Momohara's] aggravation of [Weite's] injuries." Weite maintains that without her proposed JI 5, the circuit court's apportionment instruction was misleading and, thus, prejudicially insufficient. To support this argument, Weite cites to Montalvo, where the Hawai
+'i Supreme Court stated that 
+it is well settled that a tortfeasor is liable not only for
+damages resulting from direct and unique injuries inflicted
+on the victim, but also for damages resulting from the
+aggravation of the victim's pre-existing disease, condition,
+or predisposition to injury. Such predisposition to injury
+or other special sensitivity is often involved in the
+context of the so-called thin skull or eggshell skull
+plaintiff.
+ 
+77 Hawai 'i at 294, 884 P.2d at 357 (internal quotation marks and 
+citation omitted). The portion of Montalvo to which Weite cites 
+is not dispositive in this case. 
+The modified HCJI 7.3 and HCJI 8.11, along with the
+ 
+special verdict form given to the jury, made it unnecessary and
+ inappropriate for the circuit court to give Weite's proposed
+ JI 5.
+ 
+4. Special verdict form
+ 
+The circuit court gave the jury the following modified
+ 
+version of HCJI 7.3:
+ 
+In determining the amount of damages, if any, to be
+awarded to [Weite], you must determine whether [Weite] had
+an injury or condition which existed prior to the
+February 8, 2000 incident. If so, you must determine
+whether [Weite] was fully recovered from the preexisting
+injury or condition or whether the preexisting injury or
+condition was latent at the time of the subject incident. A
+ preexisting injury or condition is latent if it was not
+causing pain, suffering or disability at the time of the
+subject incident.
+ 
+If you find that [Weite] was fully recovered from the
+preexisting injury or condition or that such injury or
+ 
+30
+ FOR PUBLICATION IN WEST'S HAWAI »I REPORTS AND PACIFIC REPORTER
+31condition was latent at the time of the subject incident,
+then you should not apportion any damages to the preexisting
+injury or condition.
+If you find [Weite] was not fully recovered and that
+the preexisting injury or condition was not latent at the
+time of the subject incident, you should make an
+apportionment of damages by determining what portion of the
+damages is attributable to the preexisting injury or
+condition and limit your award to the damages attributable
+to the injury caused by [Momohara].
+If you are unable to determine, by a preponderance of
+the evidence, what portion of the damages can be attributed
+to a preexisting injury or condition, you may make a rough
+apportionment.
+If you are unable to make a rough apportionment, then
+you must divide the damages equally between the preexisting
+injury or condition and the injury caused by [Momohara].
+(Emphasis added.)  The circuit court also gave the jury HCJI
+8.11:  "Compensation must be reasonable.  You may award only such
+damages as will fairly and reasonably compensate [Weite] for the
+injuries or damages legally caused by [Momohara's] negligence."
+The special verdict form, as filled out by the jury,
+provided:
+Question No. 1 .  Was the negligence of [Momohara] a
+legal cause of the injuries and damages claimed by [Weite]?
+Yes ' No _
+If you answered "Yes" to Question No. 1, then go on to
+answer Question No. 2.  If you have answered "No" to
+Question No. 1, then please sign and date this document and
+call the Bailiff.
+Question No. 2.   Without regard to any possible
+apportionment of her damages, what is the total amount of
+[Weite's] damages?
+Special Damages $ 8,556.63
+General Damages $30,700.00
+Now go on to Question No. 3.
+Question No. 3.  What percentage of [Weite's] damages,
+if any, is attributable to any of the following injuries:
+a.February 8, 2000 motor vehicle accident: 50%
+b.1995 motor vehicle accident: 10%
+c. 1994 motor vehicle accident: 25%
+d.1988 motor vehicle accident:  5%
+e.1981 "lifting carpet" accident: 10%
+Total (Note: The total must equal 100%)  100%FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+(Emphasis added.)
+ 
+Weite contends the circuit court erred by placing
+ 
+separate apportionment questions on the special verdict form,
+ 
+which, in combination with the erroneous submission of the jury's
+ instructions, created confusion and allowed the jury to apportion
+ Weite's damages twice. She claims the jury's answer to Question
+ No. 2 represented a post-apportionment amount, which the jury
+ then apportioned a second time in Question No. 3. Weite also
+ argues that the jury instructions on apportionment -– i.e.,
+ "limit your award to the damages attributable to the injury
+ caused by [Momohara]" and only award "such damages as will fairly
+ and reasonably compensate [Weite] for the injuries or damages
+ legally caused by [Momohara's] negligence" –- combined with the
+ instruction on the special verdict to award damages "[w]ithout
+ regard to any possible apportionment" and then determine "[w]hat
+ percentage of [Weite's] damages, if any, is attributable to any
+ of the following injuries" was so confusing and misleading as to
+ render the instructions fatally defective. Last, Weite asserts
+ that the "apportionment questions on the special verdict form
+ were irrelevant and unnecessary." Weite cites to Kato v. Funari
+ to support these arguments.
+ 
+In Kato, the Hawai
+'i Supreme Court summarized the 
+following law regarding jury instructions: 
+"[T]he proper amount of damages [to be awarded] . . . is
+within the exclusive province of the jury, since jurors are
+the sole judges of all disputed questions of fact." Knodle 
+v. Waikiki Gateway Hotel, Inc., 69 Haw. 376, 385, 742 P.2d
+377, 383 (1987) (citation, internal quotation marks, and
+original brackets omitted).
+ 
+When, as here, the trial court "require[s] a jury to
+return only a special verdict in the form of a special
+written finding upon each issue of fact," HRCP [Rule]
+49(a) [(2007)] compels the judge to "give to the jury
+such explanation and instruction concerning the matter
+thus submitted as may be necessary to enable the jury
+to make its findings upon each issue."
+ 
+Id. at 383, 742 P.2d at 382 (some brackets in original and
+some added) (footnote omitted). Put another way,
+ 
+the [trial court] should explain the law of the case,
+point out the essentials to be proved on one side or
+the other, and bring into view the relation of the
+particular evidence adduced to the particular issues
+involved. And all of this must be done in such a
+ 
+manner that the jury will not be misled.
+ 
+32
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Id. at 384, 742 P.2d at 382-83 (emphasis added) (citations,
+internal quotation marks, ellipses, and original bracketsomitted). We have also stated that, "[i]n analyzing alleged
+errors in special verdict forms, the instructions and the interrogatories on the verdict form are considered as a 
+whole." Gonsalves [v. Nissan Motor Corp. in Hawaii, Ltd.],
+100 Hawai' i [149,] 158, 58 P.3d [1196,] 1205 [(2002)]
+(quoting Montalvo, 77 Hawai' i at 292, 884 P.2d at 355)
+(emphasis added) (format altered). Moreover, 
+[a]s a rule, juries are presumed to be reasonable and
+follow all of the trial court's instructions. This
+ rule represents a reasonable practical accommodation
+of the interests of the parties involved. . . .
+Therefore, it is not an "inference," . . . that the
+jury followed one instruction as opposed to another[.]
+ 
+Myers v. South Seas Corp., 76 Hawai' i 161, 165, 871 P.2d
+1231, 1235 (1994) (emphases added) (citations, originalbrackets, and some internal quotation marks omitted). 
+118 Hawai 'i at 381-82, 191 P.3d at 1058-59 (footnote omitted; 
+expanded case cite in Gonsalves added). 
+Kato's vehicle was struck by a vehicle driven by 
+Funari. Kato, 118 Hawai 'i at 376-77, 191 P.3d at 1053-54. Kato 
+filed a complaint against Funari, alleging that she sustained 
+injuries in the accident due to Funari's negligence in operating his vehicle. Id. at 377, 191 P.3d at 1054. The only issues 
+before the jury related to legal causation, damages, and the apportionment of damages resulting from Kato's pre-existing injuries and the injuries she sustained in the subject accident. Id. The Circuit Court of the Second Circuit (Second Circuit 
+Court) provided the jury with a special verdict form. Id. 
+Question No. 1 on the verdict form read: "Was the negligence of Funari a legal cause of injury to Kato? Answer 'Yes' or 'No' in the space provided below." Id. (brackets omitted). The jury 
+answered, "Yes." Id. at 378, 191 P.3d at 1055. Question No. 2 
+read: "What were Kato's total damages." Id. at 377, 191 P.3d at 
+1054 (brackets omitted). The jury found that the total damages amounted to $59,536.55. Id. at 378, 191 P.3d at 1055. Question 
+No. 3 read: "Were any of the injuries or pain suffered by Kato after the accident caused by conditions which existed and were symptomatic before the accident?". Id. The jury answered, 
+"Yes." Id. Question No. 4 read: "State what percentage of the 
+injuries[.]" Id. The jury responded, "90%". Id. 
+33
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+After the Second Circuit Court denied her motion to
+ 
+alter or amend the judgment or, in the alternative, for a new
+ 
+trial, Kato appealed to this court, arguing that "based upon the
+ jury instructions and the special verdict form, the amount of
+ $59,536.55 represented a post-apportionment, not a pre-
+apportioned award." Id. at 379-80, 191 P.3d at 1056-57. This
+ 
+court disagreed and affirmed the Second Circuit Court's decision,
+ holding "that there was no inconsistency between the jury
+ instructions and the special verdict." Id. at 380, 191 P.3d at
+ 
+1057. Kato applied for a writ of certiorari, which the Hawai
+'i 
+Supreme Court granted. Id.
+ 
+Before the supreme court, Kato primarily argued that
+ 
+the Second Circuit Court erred by "reducing the jury's damages
+ award of $59,536.55 by ninety percent inasmuch as the jury had
+ already apportioned the award to account for Kato's pre-existing
+ injuries and pain." Id. at 381, 191 P.3d at 1058. The supreme
+ 
+court held the following:
+ 
+Here, the jury was specifically instructed that it
+"must follow all the instructions given" and "must not
+single out some instructions and ignore others." See Jury
+Instruction No. 1; see also Myers, 76 Hawai' i at 165, 871
+P.2d at 1235 (holding that it is not a permissible
+"'inference,' . . . that the jury followed one instruction
+as opposed to another"). With regard to the apportionment
+of damages, the jury was instructed in Jury Instruction
+No. 30 that it should "award such damages as will fairly and
+reasonably compensate [Kato] for the injuries or damages
+legally caused by [Funari's] negligence" and, in Jury
+Instruction No. 31, to "limit [its] award to the damages
+ attributable to the injury caused by [Funari]." (Emphases
+added.) Question No. 2 on the special verdict form asked
+the jury simply "what were [Kato's] total damages." 
+(Emphasis added.) However, the phrase "total damages" was
+not defined in the jury instructions nor on the special
+verdict form. Assuming -- as we must -- that the jury
+followed Jury Instructions Nos. 30 and 31, the "total"
+amount of damages awarded by the jury in response to
+Question No. 2 were those damages solely and totally
+attributable to the injuries or damages sustained by Kato as
+a result of the November 2, 2001 accident. Therefore, we
+hold that -- "in view of the instructions to the jury" –­
+the jury "clear[ly] and unambiguous[ly]," Dias v. Vanek, 67
+Haw. 114, 117, 679 P.2d 133, 135 (1984), awarded Kato
+$59,536.55 in damages, which damages represented post-
+apportionment amounts, i.e., were "limit[ed] . . . to the
+damages attributable to the injury caused by [Funari]," as
+it was instructed to do pursuant to Instruction No. 31.
+Consequently, the trial court's reduction of the jury's
+award of $59,536.55 by ninety percent to "satisfy the
+supposed equities of the case," id. at 117, 679 P.2d at 135
+(citation and internal quotation marks omitted), was, in our
+view, an improper modification of the special verdict. Were
+ 
+34
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+this court to hold otherwise and agree with the ICA that the
+trial court correctly reduced the jury's damages award, wewould have to presume that the jury believed,notwithstanding the instructions to the contrary, that theterm "total damages" included both the pre-existingconditions and post-accident injuries. Such a presumptionwould be contrary to the principle that the jurors followedthe law as was given to them and were guided by the plainlanguage of Jury Instruction No. 30 ("award only suchdamages as will fairly and reasonable compensate [Kato] forthe injuries or damages legally caused by [Funari]'snegligence") and Jury Instruction No. 31 ("limit your awardto the damages attributable to the injury caused by[Funari]"). As previously stated, such a presumption is
+impermissible and contrary to our case law. Myers, 76 
+Hawai'i at 165, 871 P.2d at 1235. Thus, we hold that the
+ICA erred in affirming the trial court's December 8, 2004
+judgment. 
+. . . [B]ased on our holding that the jury's answer to
+
+Question No. 2 represented a post-apportionment amount of
+damages, we conclude that the apportionment questions (i.e.,
+Question Nos. 3 and 4) were irrelevant and unnecessarily
+posed to the jury. We, therefore, hold that Question Nos. 3
+and 4 should not have been included on the special verdict
+form.
+ 
+We emphasize, however, that our holding today should
+not be read as a blanket prohibition against the inclusionof apportionment questions relating to pre-existing injurieson special verdict forms. Our holding is limited to the
+circumstances where the standard Montalvo instruction
+[11] 
+. . . is given to the jury, i.e., the jury is instructed tolimit its award of damages to those damages attributable
+solely to the defendant's negligence. In such circumstances, apportionment questions are unnecessary and,therefore, improper because it is presumed that the jury
+will follow the plain language of the Montalvo instruction 
+and indicate its apportioned-award of damages on the specialverdict form. In other words, when using the Hawai' i 
+Standard Civil Jury Instructions regarding apportionment,the inclusion of apportionment questions on the specialverdict form is unnecessary. However, if apportionmentquestions are to be included on the special verdict form,the jury instructions must be consistent with the questionsasked and must clearly apprise the jury of the specialfindings it is being asked to make. 
+11
+ In Montalvo, the Hawai' i Supreme Court held that the jury should have
+been carefully instructed on apportionment 
+to first determine whether Montalvo had fully recovered from any
+pre-existing condition or whether such condition was dormant or
+latent as of November 29, 1988. If the answer is "yes" to any of
+the above inquiries, then the City is liable for all damages
+legally caused by the November 29, 1988 City accident. However,
+if Montalvo's pre-existing condition was not fully resolved or not
+dormant or latent at the time of the City accident, then the jury
+must apportion. If the jury is unable to apportion, even roughly,
+then it must divide the damages equally among the various causes.
+ 
+77 Hawai' i at 300, 884 P.2d at 363. 
+35
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Id. at 383-84, 191 P.3d at 1060-61 (footnote in original
+ 
+omitted).
+ 
+Although the circuit court in the instant case 
+instructed the jury to limit its award of damages to those "damages attributable solely to [Momohara's] negligence," the questions on the special verdict form were "consistent with the questions asked" and "clearly apprise[d] the jury of the specific findings it [was] being asked to make." Kato, 118 Hawai
+'i at 
+384, 191 P.3d at 1061. Unlike the special verdict form in Kato, the special verdict form in the instant case did not simply ask the jury what were Weite's total damages; rather, Question No. 2 asked, "Without regard to any special apportionment of her damages, what is the total amount of [Weite's] damages?". (Emphasis added.) The addition of this explicit language sufficed to eradicate any potential confusion the combination of jury instructions and questions on the special verdict form may have caused the jury. 
+Given the foregoing, Questions No. 2 and 3 on the 
+special verdict form in combination with the other jury instructions on apportionment "when read and considered as a whole" were not "prejudicially insufficient, erroneous, inconsistent, or misleading." Tabieros, 85 Hawai
+'i at 350, 944 
+P.2d at 1293. The circuit court did not abuse its discretion in including the two questions in the special verdict form.
+5. Calculating the judgment
+ 
+Weite contends the circuit court erred in calculating
+ 
+the judgment by apportioning the jury award of special damages
+ and general damages by 50% and then subtracting the full amount
+ of the CLD. Weite argues that pursuant to HRS § 431:10C-301.5,
+ the circuit court should have subtracted the CLD from the verdict
+ amount before apportioning damages, as follows:
+ 
+Total damages	 $39,256.63
+ 
+-CLD	  <$ 6,537.73>
+$32,718.90
+ 
+-50%  <$16,359.45>
+Net $16,359.45
+ 
+36
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+The Judgment provides:
+ 
+From the jury verdict in favor of [Weite] in the
+amount of Nineteen Thousand Six Hundred Twenty-Eight Dollars
+and Thirty-Two Cents ($19,628.32), the sum of Six Thousand
+Five Hundred Thirty-Seven Dollars and Seventy-Three Cents
+($6,537.73) representing the [CLD] pursuant to [HRS] § 431­10C-301.5, shall be deducted.
+ 
+Accordingly, it is hereby ordered, adjudged and
+decreed that Judgement be and is hereby entered in favor of
+[Weite] in the amount of Thirteen Thousand Ninety Dollars
+and Fifty-Nine Cents ($13,090.59).
+ 
+Pursuant to the Judgment, Weite's damages are calculated as
+ 
+follows: 
+Total damages
+- 50%
+- CLD$39,256.63
+<$19,628.31>
+$19,628.32
+<$ 6,537.73>
+$13,090.59 
+HRS § 431:10C-301.5 provides:
+ 
+§431:10C-301.5 Covered loss deductible.  Whenever a
+ 
+person effects a recovery for bodily injury, whether by
+suit, arbitration, or settlement, and it is determined that
+the person is entitled to recover damages, the judgment,
+settlement, or award shall be reduced by $5,000 or the
+amount of personal injury protection benefits incurred,
+whichever is greater, up to the maximum limit. The covered
+ loss deductible shall not include benefits paid or incurred
+under any optional additional coverage.
+ 
+(Emphasis added.)
+ 
+In State Farm v. Gepaya, the Hawai 'i Supreme Court 
+stated that HRS § 431:10C-301.5 (Supp. 1997) "was part of a full 
+scale change to fix the motor vehicle insurance system designed to yield a significant reduction in premiums, control litigation, and provide adequate medical coverage without a cost shift to businesses and employees." Gepaya, 103 Hawai
+'i at 146, 80 P.3d 
+at 325 (internal quotation marks, citation, and brackets omitted). The supreme court further stated that the CLD was "designed to discourage frivolous law suits and yet at the same time set a reasonable standard for litigation on legitimate claims." Id. at 147, 80 P.3d at 326 (quoting Conf. Comm. Rep. 
+No. 171, in 1997 Senate Journal, at 798 (comments of Senator Baker)). The CLD works in the following manner: 
+37
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+1) In cases where the damages associated with an
+automobile accident are less than $5,000, the claimant is
+precluded from suing the negligent party in an automobile
+accident. This is necessary in order to keep the small
+claims out of litigation.
+ 
+2) In cases where the claimant has incurred medical
+ 
+expenses of between $5,000 and $10,000, the result of the
+litigation will have subtracted from the award the amount of
+medical expenses incurred. This precludes the claimant from
+receiving funds for medical expenses for which is covered
+[sic] under his own policy.
+. . . .
+ 
+3) In cases where the claimant has incurred medical
+expenses of $10,000 or more, any award obtained through any
+means of litigation will be reduced by $10,000.
+ 
+Gepaya, 103 Hawai 'i at 147, 80 P.3d at 326 (emphasis omitted) 
+(quoting Conf. Comm. Rep. No. 171, in 1997 House Journal, at 999 
+(comments of Representative Menor)). The supreme court went on to state that the role of the statute "was to preclude a claimant from receiving a 'double recovery' for medical expenses which had been paid under the PIP coverage by reducing a recovery of damages for bodily injury[.]" Gepaya, 103 Hawai
+'i at 148, 80 
+P.3d at 327. 
+In the instant case, HRS § 431:10C-301.5 mandates that
+ 
+the "award shall be reduced by . . . the amount of [PIP]
+ benefits." The statute does not state that the award should be
+ reduced after apportionment by the amount of PIP benefits. The
+ CLD is to be deducted from the "total damages" awarded by the
+ trier of fact prior to apportionment of the damages.
+ 
+The issue has not been previously addressed in this
+ 
+jurisdiction. Although this case involves apportionment of
+ damages due to pre-existing injuries, cases from other
+ jurisdictions addressing apportionment in the context of
+ comparative negligence support our holding that the CLD should be
+ deducted from the verdict amount before damages are apportioned. 
+In a Florida case, Norman v. Farrow, 880 So. 2d 557 (2004),
+ Farrow alleged that she was injured when her car was rear-ended
+ by a car driven by William Cleff (Cleff).
+12 Id. at 558. Cleff
+ 
+12
+ Cleff subsequently died and his wife, Cynthia Cleff Norman, as
+personal representative of Cleff's estate, became the named party. Norman,
+ 
+880 So. 2d at 558 n.1.
+ 
+38
+    FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+asserted as an affirmative defense that Farrow's negligence had
+ 
+been a cause of the collision. Id. At trial, the jury found
+ 
+Cleff 90% negligent and Farrow 10% negligent and awarded Farrow
+ $19,647.71 in total damages for medical expenses and pain and
+ suffering. Id. It was undisputed that pursuant to Florida
+ 
+Statutes § 627.736(3) (2003), Cleff was entitled to a setoff for
+ "damages for which [PIP] benefits are paid or payable" to Farrow. 
+Norman, 880 So. 2d at 558. Section 627.736(3) provided in
+ relevant part that "[a]n injured party who is entitled to bring
+ suit under the provisions of §§ 627.730-627.7405, or his or her
+ legal representative, shall have no right to recover any damages
+ for which [PIP] benefits are paid or payable." Norman, 880 So.
+ 
+2d at 559-60 (footnote and emphasis omitted).
+ 
+In its judgment, the Circuit Court, Escambia County,
+ 
+calculated Farrow's award as follows:
+ 
+A.	 Jury Verdict.....................  $19,647.71
+ 
+B.	 Reduction, 10% Comparative (-$ 1,964.77)
+ 
+Negligence.......................
+ 
+C. 	PIP Offset ......................
+ 
+1. PIP ($4,998.17) Offset ......
+ 
+2. Reduction, 10% Comparative .. (-4,498.35)
+ 
+D.	 Taxable Costs ................... (+ 4,868.44)
+ 
+E.	 Pre-Judgment Interest on Verdict  $ 0.00
+ 
+TOTAL JUDGMENT ON JURY VERDICT	  $18,053.03
+ 
+Id. at 558.
+ 
+Cleff appealed, arguing that the Escambia circuit
+ 
+court's calculations led to a double recovery by Farrow and that
+ 
+Cleff was entitled to a setoff of all damages for which PIP
+ benefits were paid or payable to Farrow, with no consideration of
+ comparable fault. Id. at 559. The Supreme Court of Florida
+ 
+agreed, holding that
+ 
+pursuant to section 627.736(3), which bars all recovery of
+damages paid or payable by PIP benefits, the amount for
+which PIP benefits have been paid or payable is to be
+deducted by the trier of fact from the amount awarded as
+economic damages in the verdict. Those amounts are not
+ recoverable. Following that deduction, the noneconomic
+damages awarded should be added and then the percentage of
+comparative negligence found by the trier of fact is to be
+ 
+39
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+applied to reduce the amount of damages which are
+recoverable from the tortfeasor. The remainder is the
+ amount of the judgment.
+ 
+Id. at 560-61 (footnotes omitted). In so holding, the Florida
+ 
+Supreme Court "disapprove[d] the holding in Assi v. Florida Auto
+ Auction of Orlando, Inc., 717 So. 2d 588 (Fla. 5th DCA 1998), in
+ which the Fifth District affirmed a trial court's method of
+ calculation that first diminished the total award by the
+ plaintiff's comparative fault and then subtracted the amount of
+ damages paid or payable by the PIP benefits." Norman, 880 So. 2d
+ 
+at 561. 
+In another Florida case, Hibbard v. McGraw, 918 So. 2d
+ 
+13
+967 (Fla. 2005), Carr  (the plaintiff) sustained injuries while
+riding as a passenger in a truck driven by her friend, Brock,
+ when Brock swerved to avoid hitting a vehicle driven by McGraw
+ and collided with a tree. Id. at 969. Carr settled with Brock
+ 
+prior to trial. Id. at 973. A jury found Brock 70% negligent,
+ 
+McGraw 5% negligent, and Carr 25% negligent for Carr's injuries
+ and awarded damages to Carr and her mother. Id. at 970. The
+ 
+Circuit Court, St. Johns County, deducted a setoff for PIP
+ benefits after apportioning damages according to Brock and
+ McGraw's relative comparative negligence. Id.
+ 
+On appeal, Carr argued that the Circuit Court 
+miscalculated the damages. Id. at 972. The District Court of
+ 
+Appeals of Florida, Fifth District, agreed and, citing to Norman,
+ held that "the amount of PIP benefits paid or payable must be
+ first deducted from the amount of economic damages awarded, the
+ noneconomic damages added and then comparative negligence
+ considered." Id. at 973.
+ 
+The underlying facts in a Colorado personal injury
+ 
+case, Hickenbottom v. Schmidt, 626 P.2d 726 (Colo. 1981), were as
+ follows:
+ 
+After a trial to the jury, [Hickenbottom's] damages
+due to [Schmidt's] negligence were calculated to be $10,000.
+After deducting the percentage of [Hickenbottom's]
+comparative negligence from the total amount of damages, the
+[District Court of Logan County] entered judgment in favor
+ 
+13
+ Carr was a minor at the time of the accident and suit was filed by
+Carr's mother, Hibbard, on behalf of Carr. 918 So. 2d at 969.
+ 
+40
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+of [Hickenbottom] for $7,500. However, because
+[Hickenbottom] had received $9,802.35 in [PIP] benefits for
+medical expenses and loss of income, the court amended the
+judgment in favor of [Schmidt].
+ 
+Id. Hickenbottom appealed, arguing that pursuant to Colorado
+ 
+Revised Statutes (C.R.S. 1973) § 10-4-717 (1979 Cum. Supp.), the
+ 
+district court erred by setting off the PIP payments received by
+ her against the damages awarded to her. Hickenbottom, 626 P.2d
+ 
+at 726-27. Section 10-4-717 provided that an injured party was
+ "precluded from recovering damages from a tortfeasor which are
+ recoverable as direct benefits under § 10-4-706, C.R.S. 1973
+ (1979 Cum. Supp.)." Hickenbottom, 626 P.2d at 727. The Colorado
+ 
+Court of Appeals held that the district court did not err by
+ setting off the PIP payments received by Hickenbottom, but
+ pursuant to other parts of C.R.S. 1973 and another source of law,
+ "the recoverable P.I.P. benefits are to be deducted from the
+ total amount of damages attributable to defendant's negligence
+ before the court reduces the judgment by the percentage of
+ comparative negligence attributable to plaintiff." Hickenbottom,
+ 
+626 P.2d at 727 (emphasis added).
+ 
+In an Alaska case, Jackman v. Jewel Lake Villa One, 170
+ 
+P.3d 173 (Alaska 2007), Jackman fell and injured herself on a
+ staircase at her apartment complex, the Jewel Lake Villa
+ Apartments (Jewel Lake). Id. at 174. Jackman sued Jewel Lake. 
+Id. A jury found Jewel Lake was 51% at fault for Jackman's
+ 
+injuries. Id. The Superior Court, Third Judicial District,
+ 
+Anchorage, calculated the award to Jackman as follows:
+ 
+[The superior court] initially divided the full jury award,
+$7,147.23, to derive Jewel Lake's fifty-one percent share of
+the damages: $3,645.09. After adjusting for interest,
+costs, and attorney's fees, the court subtracted the full
+amount of the advance medical payments from Jewel Lake's
+share of the damages to arrive at a "maximum amount . . .
+payable" of $906.63 under the verdict.
+ 
+Id. at 178. Jackman appealed, arguing that the superior court 
+miscalculated the award. Id. at 177. The Supreme Court of
+ 
+Alaska agreed, holding the following:
+ 
+The [superior] court's approach treated the medical
+expense payments as pure liability payments -– payments
+meant to compensate Jackman only for Jewel Lake's
+proportionate share of the fault. Yet . . . the record
+ fails to disclose the specific basis for the medical
+payments. Jewel Lake's insurer appears to have
+ 
+41
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+unconditionally reimbursed Jackman for her medical expenses:
+there is no indication of any reservations or restrictions
+suggesting that the reimbursements were paid as compensation
+for Jewel Lake's potential share of the fault. Absent
+ evidence establishing the actual basis for the injurer's
+payments, we see no obvious grounds for crediting the entire
+amount of the advance payments against the portion of the
+jury verdict reflecting Jewel Lake's share of the fault.
+ 
+Id. at 178. The supreme court went on to state that "[a]bsent
+ 
+case-specific evidence establishing that the payment in question
+ was actually based on potential fault, then, it simply lowers the
+ total damages still to be paid, leaving all negligent parties
+ responsible for their proportionate share of the harm." Id. at
+ 
+179. The supreme court added that "deducting advance payments
+ 
+from the jury's total award poses a risk of double recovery only
+ if we assume that those payments were made on the basis of the
+ defendant's potential fault." Id. In a footnote, the supreme
+ 
+court stated that its approach was similar by analogy to the
+ method adopted by the Florida Supreme Court in Norman and the
+ Colorado Court of Appeals in Hickenbottom. Jackman, 170 P.3d at
+ 
+179 n.16.
+ 
+Given the foregoing, the circuit court in the instant
+ 
+case erred when it subtracted the CLD from the jury's damage
+ award after apportioning the damages.
+6. Prevailing party and CAAP sanctions
+ 
+HAR 25(A) provides that the "'Prevailing Party' in a
+ 
+trial de novo is the party who (1) appealed and improved upon the
+ arbitration award by 30% or more . . . . For the purpose of this
+ rule, 'improve' or 'improved' means to increase the award for a
+ plaintiff or to decrease the award for the defendant."
+ 
+HAR 26 provides in relevant part that "[a]fter the
+ 
+verdict is received and filed, or the court's decision rendered
+ in a trial de novo, the trial court may, in its discretion,
+ impose sanctions . . . against the non-prevailing party whose
+ appeal resulted in the trial de novo."
+ 
+Weite contends the circuit court erred by finding that
+ 
+Momohara, not Weite, was the "prevailing party" for purposes of
+ assessing CAAP sanctions and the court should have determined who
+ the CAAP "prevailing party" was before subtracting the CLD. She
+ 
+42
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+claims that Momohara's improvement on the arbitration award in
+ 
+this case should be calculated as follows: 
+CAAP award $27,808.62 
+Judgment (after 50% apportionment
+of special and general damages) $19,628.32 
+Amount of improvement $ 8,180.30 
+% of improvement [reduction] 29.42% 
+Consequently, Weite maintains, Momohara was not the prevailing
+ 
+party pursuant to HAR 25(A) because he only improved upon the
+ arbitration award by 29.42%.
+ 
+In his Motion Re Sanctions/Costs/Interest, Momohara 
+argued that he clearly improved upon the Arbitration Award by 30% or more at trial and was the "prevailing party" under HAR 25(A). First, Momohara claimed that the net CAAP award was actually $21,000, or the special and general damages award of $27,808.62 minus the CLD of $6,808.62. Momohara cited to Kim v. Reilly, 105 Hawai
+'i 93, 94 P.3d 648 (2004), for his assertion that the total 
+CAAP award represented the damages award minus the CLD amount. Second, Momohara claimed, as he had in his Motion Re CLD, that Weite's recovery at trial was actually $13,090.59, or 50% of the jury's verdict of $19,628.32, reduced by the CLD of $6,537.73. Momohara cited to HRS § 431:10C-301.5 in support of his assertion that the verdict amount had to be reduced by the CLD amount. Based on Momohara's assertions in his opposition memorandum to the Motion Re Sanctions/Costs/Interest, Momohara's calculation was as follows: 
+CAAP award:	 $27,808.62
+ 
+-CLD:	  <$ 6,808.62>
+$21,000.00
+ 
+Damages (50%):	 $19,628.32
+ 
+-CLD:	  <$ 6,537.73>
+$13,090.59
+ 
+% improvement (reduction): 37%
+ 
+In Richardson v. Sport Shinko (Waikiki Corp.), the 
+Hawai
+'i Supreme Court stated the following regarding HAR 26: 
+43
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+[T]he legislature statutorily codified the CAAP as a means
+to reduce the delay and costs involved in protracted
+litigation by providing for a procedure to obtain prompt and
+equitable resolution of certain civil actions in tort
+through arbitration. At the same time, the supreme court
+was delegated the authority to adopt rules to implement the
+CAAP. In doing so, this court promulgated HAR 26 to enforce
+the objectives of the CAAP.
+ 
+Indisputably, baseless or frivolous appeals from an
+arbitration decision subvert the purposes of the CAAP
+because they prevent prompt and equitable resolutions of
+actions and, as such, must be discouraged. The goals of the
+CAAP would be jeopardized without a mechanism to ensure
+meaningful participation in the program and to encourage
+participants to seriously evaluate the merits of their case
+following the arbitration before expending the additional
+time and expense of a trial de novo. In other words, the
+vital objectives of the CAAP cannot be met if participants
+invariably treat arbitration as a routine or pro forma step
+along the path to trial de novo by rejecting reasonable
+arbitration decisions or reasonable post-arbitration
+settlement offers, even though the decision to appeal is not
+technically "frivolous."
+ 
+Thus, HAR sanctions may be imposed to penalize a non-
+prevailing party whose decision to appeal the arbitration
+award and pursue a trial de novo was unreasonable under the
+ 
+circumstances of the particular case, albeit grounded to
+some degree in law or fact.
+ 
+76 Hawai 'i at 510-11, 880 P.2d at 185-86 (internal quotation 
+marks, citation, and footnote omitted).
+ 
+In the instant case, the arbitrator awarded Weite
+ 
+$7,808.62 in special damages, $20,000 in general damages, and
+ 
+$299.50 in costs. The Arbitration Award provides that "[t]otal
+ damages shall be reduced by a CLD in the amount of $6,808.62." 
+HAR 25(A) provides that the "prevailing party" at trial is "the
+ party who appealed and improved upon the arbitration award by 30%
+ or more." In the instant case, for purposes of determining who
+ was the prevailing party, the recovery at trial should be
+ compared with the CAAP award after the subtraction of the CLD, or
+ $21,000. Kim, 105 Hawai
+'i at 96, 94 P.3d at 651. 
+In accordance with our holding in Part III.A.5 of this
+ 
+discussion, Weite's net damages award should have been
+ $16,359.45. Both the CAAP award and the damages award reflect
+ the subtraction of the CLD. "In order to meaningfully compare a
+ plaintiff's CAAP award with the amount a plaintiff recovers at
+ trial de novo, the respective amounts must be based on the same
+ underlying factors. Otherwise, the trial court will have no way
+ 
+44
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+of determining whether an award of a different value is an 
+improvement or a reduction." Molinar v. Schweizer, 95 Hawai 'i 
+331, 335-36, 22 P.3d 978, 982-83 (2001). 
+Given our discussion on this point, the calculation for
+ 
+purposes of determining the prevailing party in this case is as
+ follows: 
+CAAP award: Damages award:Amount of reduction: $21,000.00 
+<$16,359.45> 
+$ 4,640.55 
+Consequently, because Momohara reduced the CAAP award by 22%, he
+ was not the "prevailing party" under HAR 25. The circuit court 
+abused its discretion in denying the Motion Re Sanctions/Costs/
+ Interest.
+ 
+7. Prejudgment interest
+ 
+Weite contends the circuit court abused its discretion
+ 
+in not awarding her prejudgment interest. Weite maintains that
+ "the equities in this case merit such an award" because "the
+ record is clear that [Momohara] and AIG acted in bad faith during
+ settlement negotiations." In support of this contention, Weite
+ maintains that the parties' initial settlement positions were
+ only $1,100 apart, but once she filed the lawsuit, AIG withdrew
+ its $17,000 settlement offer and lowered its offer to $5,000. 
+Weite also contends that "[Momohara] and AIG's litigation tactics
+ were deplorable" in that
+ 
+[t]he defense tried repeatedly to conduct discovery after
+the discovery cutoff, resulting in monetary sanctions, but
+requiring a postponement of the trial date. Further, rather
+than deposing the medical experts and stipulating to the
+authenticity and reasonableness of the medical treatment and
+bills, the defense forced this matter to be litigated as
+well which ultimately was decided in favor of [Weite].
+ 
+In sum, Weite maintains that
+ 
+the defense tried to get away with defending the case as
+cheaply as possible,
+14 even though defense costs far
+exceeded the amount needed to settle the case, and far
+exceeded the jury verdict as well. Although "bad faith" is
+not required in order for [Weite] to obtain prejudgment
+ 
+14
+ At the hearing on the MPSJ Re Medical Bills, Weite's counsel argued:
+"What AIG does in these cases, . . . they take these things and they force the
+plaintiff to go to trial and they try them as cheaply as they can get away
+with and try to make plaintiffs spend the money to go to trial."
+ 
+45
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+interest, such factors should persuade the Court that full
+ 
+prejudgment interest is appropriate here.
+ 
+(Emphasis in original.) In her Motion Re Sanctions/Costs/
+ 
+Interest, Weite's arguments on this point were substantially
+ similar to her arguments on appeal.
+ 
+In Kalawaia v. AIG Hawai
+'i Insurance Co., 90 Hawai 'i 
+167, 172, 977 P.2d 175, 180 (1999) (internal quotation marks and citations omitted), the Hawai
+'i Supreme Court stated that 
+"[p]rejudgment interest is an element of complete compensation. Prejudgment interest serves to compensate for the loss of use of money due as damages from the time the claim accrues until judgment is entered, thereby achieving full compensation for the injury those damages are intended to redress." "[P]rejudgment interest compensates for the inevitable litigation delay in being reimbursed for damages incurred." Molinar, 95 Hawai
+'i at 335, 22 
+P.3d at 982. "The purpose of prejudgment interest is to discourage recalcitrance and unwarranted delays in cases which should be more speedily resolved." Metcalf v. Voluntary 
+Employees' Benefit Ass'n of Hawaii, 99 Hawai
+'i 53, 61, 52 P.3d 
+823, 831 (2002) (internal quotation marks, citation, and brackets omitted). 
+"A trial court's denial of prejudgment interest is 
+usually affirmed if the party requesting the award is found to have caused the delay or if there is no showing that the non­moving party's conduct unduly delayed the proceedings of the case." Page v. Domino's Pizza, Inc., 80 Hawai
+'i 204, 209, 908 
+P.2d 552, 557 (App. 1995) (internal quotation marks and citations omitted). 
+[I]t is clearly within the discretion of the circuit court
+to deny prejudgment interest where appropriate, for example,
+where: (1) the defendant's conduct did not cause any delay
+in the proceedings; (2) the plaintiff himself has caused or
+contributed to the delay in bringing the action to trial; or
+(3) an extraordinary damage award has already adequately
+compensated the plaintiff.
+ 
+Roxas v. Marcos, 89 Hawai 'i 91, 153, 969 P.2d 1209, 1271 (1998) 
+(citations omitted). In Tri-S Corp. v. Western World Insurance 
+Co., 110 Hawai 'i 473, 498, 135 P.3d 82, 107 (2006), the Hawai 'i 
+Supreme Court held that 
+46
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+(1) if fault is found on the part of the party seeking
+interest, denial of interest will not be considered an abuse
+of discretion; (2) if fault is found on the part of the
+party opposing interest, an award of interest will not be
+considered an abuse of discretion; and (3) where no fault is
+found on either side, the trial court may still award or
+deny prejudgment interest in its discretion, depending on
+the circumstances of the case.
+ 
+Although Weite argues that "the record is clear that
+ 
+[Momohara] and AIG acted in bad faith during settlement
+ 
+negotiations," in support of this contention, Weite cites only to
+ the actions of AIG, not Momohara, during her settlement
+ negotiations with AIG. Weite presents no evidence on appeal that
+ Momohara acted in bad faith during those negotiations. In the
+ "Background" section of her opening brief, Weite does describe
+ Momohara's offers of settlement to her. She states that Momohara
+ offered her $5,000 in general damages, net of the CLD, then
+ proffered a Rule 68 Offer of Settlement in the amount of $10,000
+ in general damages and net of the CLD. Given Weite's recovery in
+ this case, which should have been $16,359.45 net of the CLD,
+ Momohara's offers were not per se indicative of any
+ disingenuousness on his part.
+ 
+Weite further argues that she was entitled to
+ 
+prejudgment interest because Momohara declined to depose
+ Drs. Nierenberg and Lind or stipulate to the authenticity and
+ reasonableness of Weite's medical treatment and expenses. As we
+ have already discussed, Momohara was not required to depose the
+ doctors to rebut their deposition testimony that Weite's injuries
+ after the 2000 accident were entirely attributable to that
+ accident. Further, Momohara validly argued in his memorandum in
+ opposition to the MPSJ Re Medical Bills that there was a genuine
+ issue of material fact regarding the reasonableness and necessity
+ of Weite's medical expenses because the evidence showed Weite's
+ injuries could have resulted from one or more of her prior
+ accidents. Given that theory, it was not unreasonable for
+ Momohara to decline to stipulate that Weite's medical treatments
+ following that accident were necessary or reasonable. 
+Weite also contends "[Momohara] and AIG's litigation
+ 
+tactics were deplorable" because the "defense tried repeatedly to
+ 
+47
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+conduct discovery after the discovery cutoff, resulting in
+ 
+monetary sanctions, but requiring a postponement of the trial
+ date." On October 17, 2007, Weite filed her Motion to Strike
+ Oda/Preclude Video. On November 7, 2007, the circuit court filed
+ its order in which the court sanctioned Momohara for the
+ discovery violations, but declined to strike Oda as a witness or
+ preclude the video from trial. The circuit court continued the
+ trial from November 19, 2007 to February 19, 2008 "to allow the
+ parties to conclude discovery." On November 14, 2007, Weite
+ moved to continue the trial to May 5, 2008 because Dr. Nierenberg
+ was going to be off-island from mid-January to mid-March 2008 and
+ unavailable to testify at trial. On November 30, 2007, the
+ circuit court filed an order granting the motion. Given that
+ Momohara's discovery violations only resulted in a roughly three-
+month delay and Weite does not argue Momohara knew the delay
+ would result in Weite having to request another continuance so
+ Dr. Nierenberg could testify at trial, we fail to see why the
+ circuit court should have awarded Weite prejudgment interest on
+ this basis. 
+In Page, Page was sitting on a stool at a Domino's 
+Pizza store (Domino's), when the stool collapsed. 80 Hawai
+'i at 
+205-06, 908 P.2d at 553-54. Page filed a complaint against Domino's, alleging that the incident resulted from the negligence of Domino's and Page had suffered injuries as a result of such negligence. Id. at 206, 908 P.2d at 554. A jury found Domino's 
+was negligent and awarded damages to Page. Id. The award was 
+entered over three-and-a-half years after Page had been injured. Id. at 210, 908 P.2d at 558. Page moved the circuit court for an award of prejudgment interest, which motion the court denied. Id. at 206, 908 P.2d at 554. The circuit court stated that Page was not entitled to the award "because the period of time it took to complete the case was not extraordinary considering 'the totality of the case.'" Id. at 209, 908 P.2d at 557 (footnote 
+omitted). 
+In a cross-appeal to this court, Page argued that the
+ 
+circuit court erred in denying his motion for prejudgment
+ 
+48
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+interest. Id. at 206, 908 P.2d at 554. Page maintained, among
+ 
+other things, that he was "entitled to prejudgment interest
+ 
+because [Domino's] delayed the speedy resolution of the case by
+ not offering more than $25,000 during the numerous settlement
+ conferences held during the litigation." Id. at 209, 908 P.2d at
+ 
+557. This court disagreed, holding that the circuit court had
+ 
+not abused its discretion in denying the motion for prejudgment
+ interest on the basis that Domino's "offer of $25,000 was not
+ unreasonable in light of its belief regarding disputed issues on
+ liability and apportionment of damages." Id. at 210, 908 P.2d at
+ 
+558. This court further stated: "There is no evidence in the
+ 
+records to indicate that any delays in the proceedings were due
+ to the conduct of either Page or [Domino's]. The continuances of
+ the trial date were not due to the conduct of either." Id. 
+In the instant case, the accident occurred on
+ 
+February 8, 2000. Weite filed the original complaint on
+ August 25, 2005 and the First Amended Complaint on February 3,
+ 2006, after negotiations with AIG allegedly stalled. Trial was
+ set for the week of November 19, 2007. On October 17, 2007,
+ Weite filed her Motion to Strike Oda/Preclude Video. On
+ November 7, 2007, the circuit court filed an order, in which the
+ court sanctioned Momohara for the discovery violations, but
+ declined to strike Oda as a witness or preclude the video from
+ trial. The circuit court continued the trial to February 19,
+ 2008 "to allow the parties to conclude discovery." On
+ November 14, 2007, Weite moved to continue trial to May 5, 2008
+ because Dr. Nierenberg was unavailable to testify the week of
+ February 19, 2008. On May 15, 2008, the jury issued its verdict,
+ awarding Weite damages.
+ 
+There is no evidence in the record on appeal to suggest 
+that Momohara's conduct unduly delayed the proceedings of the case so as to justify an award of prejudgment interest to Weite. Page, 80 Hawai
+'i at 209, 908 P.2d at 557. The circuit court did 
+not abuse its discretion by denying Weite's motion for prejudgment interest. 
+49
+  FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+8. Taxable costs
+ 
+Weite contends the circuit court abused its discretion
+ 
+in denying her Motion Re Taxable Costs. Given our holding that
+ 
+Momohara was not the prevailing party at trial, we vacate the
+ award of costs to Momohara as the prevailing party.
+B. CROSS-APPEAL
+ 
+1. MIL Re Medical Claims
+ 
+Momohara contends the circuit court erred in denying
+ 
+his MIL Re Medical Claims. He argues that the circuit court
+ should have limited Weite's claimed medical expenses in amount
+ and frequency to those permitted under the workers' compensation
+ fee schedule, pursuant to HRS § 431:10C-308.5(b), and prohibited
+ Weite from introducing evidence of medical expenses in excess of
+ that amount. HRS § 431:10C-308.5(b) provides in relevant part
+ that "[t]he charges and frequency of treatment for services
+ 
+15
+specified in section 431:10C-103.5(a) [(Supp. 1999) ] except for
+emergency services provided within seventy-two hours following a
+ motor vehicle accident resulting in injury, shall not exceed the 
+
+ 
+charges and frequency of treatment permissible under the workers'
+ compensation schedules."
+16
+ 
+15
+ HRS § 431:10C-103.5 provides:
+ 
+§431:10C-103.5 Personal injury protection benefits;
+defined; limits.  (a) Personal injury protection benefits, with
+respect to any accidental harm, means all appropriate and
+reasonable treatment and expenses necessarily incurred as a result
+of the accidental harm and which are substantially comparable to
+the requirements for prepaid health care plans, including medical,
+hospital, surgical, professional, nursing, advanced practice
+nursing recognized pursuant to chapter 457, dental, optometric,
+chiropractic, ambulance, prosthetic services, products and
+accommodations furnished, x-ray, psychiatric, physical therapy
+pursuant to prescription by a medical doctor, occupational
+therapy, rehabilitation, and therapeutic massage by a licensed
+massage therapist when prescribed by a medical doctor.
+. . . .
+ 
+(c) Personal injury protection benefits shall be subject to
+an aggregate limit of $10,000 per person for services provided
+under this section. An insurer may offer additional coverage in
+excess of the $10,000 aggregate limit for services provided under
+this section, or as provided by rule of the commissioner.
+16
+ HRS § 431:10C-308.5(a) states that "the term 'workers' compensation
+schedules' means the schedules adopted and as may be amended by the director
+of labor and industrial relations for workers' compensation cases under
+(continued...)
+ 
+50
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Momohara argues that HRS § 431:10C-308.5 limits Weite
+ 
+to a medical expenses claim that does not exceed the charges and
+ 
+frequency of treatment allowable under the workers' compensation
+ schedules, which claim in this case was the amount her PIP
+ carrier had paid. He presumes that Weite's PIP carrier
+ determined the amount in PIP benefits to pay out based on the
+ workers' compensation schedules, pursuant to HRS § 431:10C-308.5.
+ 
+As Weite argues in her answering brief, Momohara did
+ 
+not make these arguments in his MIL Re Medical Claims. There,
+ Momohara argued that Weite should be precluded from requesting an
+ award for medical expenses because in response to an
+ interrogatory, Weite stated only that she had incurred $7,808.62
+ in medical expenses stemming from the 2000 accident -- the $1,000
+ deductible she paid and the $6,808.62 paid by her PIP provider. 
+He further argued that because Weite had not supplemented her
+ response, she should be held to that amount. He added that Weite
+ had neither exhausted the amount of medical insurance benefits
+ available to her, nor indicated that she had incurred any
+ expenses in excess of $7,808.62. Regardless, we review the
+ contention for plain error.
+ 
+Momohara's argument is based on a misreading of HRS
+ 
+§ 431:10C-308.5. That statute clearly provides in relevant part
+ that "[t]he charges and frequency of treatment for services
+ specified in section 431:10C-103.5(a) . . . shall not exceed the
+ charges and frequency of treatment permissible under the workers'
+ compensation schedules." HRS § 431:10C-103.5 defines and limits
+ PIP benefits. Hence, HRS § 431:10C-308.5 limits the payment of
+ PIP benefits to payments permitted under the workers'
+ compensation schedules. The statute does not preclude a
+ plaintiff injured in an automobile accident from receiving
+ special damages beyond what she received in PIP benefits. 
+The circuit court did not plainly err by failing to
+ 
+limit Weite's recovery for medical expenses to what she had
+ already received in PIP benefits.
+ 
+16(...continued)
+chapter 386, establishing fees and frequency of treatment guidelines[.]"
+ 
+51 FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+2. Dr. Nierenberg's testimony re medical expenses
+ 
+Momohara contends that the circuit court erred in
+ 
+permitting Dr. Nierenberg to testify regarding the amounts,
+ 
+reasonableness, and necessity of Weite's medical expenses
+ incurred at QMC, RA, and ORS, over Momohara's objection. 
+Momohara argues that
+ 
+[t]here was no evidentiary foundation for Dr. Nierenberg's
+testimony. In particular, there was no testimony or
+evidence presented that Dr. Nierenberg was in any way
+involved in the billing for any other medical care
+providers. There was also no testimony or evidence that he
+had any personal knowledge of the reasonable and customary
+billing practices or charges for diagnostic studies (i.e.
+the MRI scans) or physical therapy.
+ 
+To support this argument, Momohara cites to HRE Rules 602 and
+ 
+801.
+ 
+At trial, the following discussion took place outside
+ 
+the presence of the jury:
+ 
+THE COURT: As far as reasonableness of [medical]
+bills and that sort of thing, let's take that first,
+[Momohara's counsel], do you have a position.
+ 
+[MOMOHARA'S COUNSEL]: Your Honor, [Dr. Nierenberg]
+can testify as to the reasonableness of the bills as his
+role as treatment.
+ 
+THE COURT: Treatment.
+ 
+[MOMOHARA'S COUNSEL]: Treating physician. I don't
+ 
+have a problem with that. 
+THE COURT: All right. That's going to be allowed. I
+ 
+don't hear an objection to that.
+ 
+Go on, [Weite's Counsel], what do you want?
+ [WEITE'S COUNSEL]: It's not just his but also he
+referred her going to be talking about treatment, physical
+therapy, whether that was reasonableness, about their bills,
+the same thing with respect to MRI's. This is what he does.
+ 
+THE COURT: [Momohara's Counsel], you object to any of
+that.
+ 
+[MOMOHARA'S COUNSEL]: Your Honor, if he lays the
+proper foundation, but, the foundation treating he made a
+referral. And, if the physical therapist reported back to
+him, part of his files, he can testify to that. As far as
+ what they charge, I'm not sure how he knows that but if he
+does it customarily, they can lay a foundation for it.
+Nothing to do with his -­
+THE COURT: Well, what I hear [Weite's Counsel] saying
+is that part of the foundation for his testifying another
+physician's treatment including physical therapy as an
+independent medical examiner he's very use to reviewing that
+sort of thing, etc.
+ 
+52
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+So, if that's the objection, I heard [Weite's Counsel]
+qualify the objection, I will allow that over objection.
+Lay the foundation. Given that, that will be allowed.
+ 
+Dr. Nierenberg testified that Weite's medical charges 
+resulting from the 2000 accident of $1,286.96 from Dr. Nierenberg 
+for fourteen visits to his office, $1,896 from QMC for two MRIs, $441 from RA for reading and interpreting the MRIs, and $3,457.47 from ORS for thirty-seven physical therapy sessions were all reasonable and necessary. Dr. Nierenberg testified that each charge was within the range commonly charged by other providers in Hawai
+'i at the time he treated Weite for her injuries from the 
+2000 accident. 
+On appeal, Momohara contends he objected to the
+ 
+testimony, citing to an earlier objection he had made to "the
+ scope of Dr. Nierenberg's testimony." However, in his earlier
+ objection, Momohara objected to Dr. Nierenberg's proffered
+ testimony regarding apportionment of damages, not testimony
+ regarding the necessity or reasonableness of Weite's medical
+ expenses. We review this point for plain error.
+ 
+HRE Rule 602 provides:
+ 
+Rule 602 Lack of personal knowledge. A witness may
+not testify to a matter unless evidence is introduced
+sufficient to support a finding that the witness has
+personal knowledge of the matter. Evidence to prove
+personal knowledge may, but need not, consist of the
+witness'[s] own testimony. This rule is subject to the
+provisions of rule 703, relating to opinion testimony by
+expert witnesses.
+ 
+HRE Rule 703 provides: 
+Rule 703 Bases of opinion testimony by experts.  The
+ 
+facts or data in the particular case upon which an expert
+bases an opinion or inference may be those perceived by or
+made known to the expert at or before the hearing. If of a
+ type reasonably relied upon by experts in the particular
+field in forming opinions or inferences upon the subject,
+the facts or data need not be admissible in evidence. The
+ court may, however, disallow testimony in the form of an
+opinion or inference if the underlying facts or data
+indicate lack of trustworthiness.
+ 
+Weite called Dr. Nierenberg to testify at trial as an
+ 
+expert witness. Therefore, HRE Rule 703 applies. Pursuant to
+ 
+that rule, Dr. Nierenberg did not have to have personal knowledge
+ of the customary billing practices of any and all medical
+ providers to testify that Weite's medical expenses were necessary
+ 
+53
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+and reasonable. It sufficed that his testimony was based on his
+ 
+experience as a treating physician and IME doctor and his
+ knowledge of the industry practice.
+ 
+Momohara characterizes Dr. Nierenberg's testimony as
+ 
+hearsay, under the definition set forth in HRE Rule 801
+ ("'Hearsay' is a statement, other than one made by the declarant
+ while testifying at the trial or hearing, offered in evidence to
+ prove the truth of the matter asserted."). However,
+ Dr. Nierenberg did not testify that the charges set forth in the
+ medical bills were accurate; rather, he testified that they met
+ the industry standard at the time he treated Weite for injuries
+ stemming from the 2000 accident. The testimony did not
+ constitute hearsay.
+ 
+Given the foregoing, the circuit court did not plainly
+ 
+err by allowing Dr. Nierenberg to testify regarding the necessity
+ and reasonableness of Weite's medical expenses.
+V.
+ 
+The portion of the Judgment, filed on June 18, 2008 in
+ 
+the Circuit Court of the First Circuit, setting forth the
+ calculation and resulting amount of Weite's damages and costs is
+ vacated, and this case is remanded to the circuit court for
+ proceedings consistent with this opinion. The remainder of the
+ Judgment is affirmed. 
+On the briefs:
+ 
+Randall L.K.M. Rosenberg
+Charles E. McKay
+Moana A. Yost
+ (Rosenberg & McKay)
+for Plaintiff-Appellant/
+Cross-Appellee.
+ 
+Jonathan L. Ortiz
+ 
+Wade J. Katano
+ Jacqueline E. Thurston
+(Ortiz & Katano)
+for Defendant-Appellee/
+Cross-Appellant.
+ 
+54
+ 

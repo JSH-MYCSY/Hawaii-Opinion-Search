@@ -1,0 +1,718 @@
+***  FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER  *** 
+ 06-JUN-2017 IN THE SUPREME COURT OF THE STATE OF HAWAII
+---oOo--- 
+________________________________________________________________ 
+U.S. BANK N.A. IN ITS CAPACITY AS TRUSTEE FOR THE REGISTERED 
+HOLDERS OF MASTR ASSET BACKED SECURITIES TRUST 2005
+-NC1, 
+MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2005- NC1, 
+Respondent/Plaintiff-Appellee, 
+vs. 
+JOSEPH KEAOULA MATTOS, CHANELLE LEOLA MENESES, 
+Petitioners/Defendants-Appellants, 
+and 
+CITIFINANCIAL, INC., ASSOCIATION OF APARTMENT OWNERS OF 
+TERRAZA/CORTEBELLA/LAS BRISAS/TIBURON, 
+EWA BY GENTRY COMMUNITY ASSOCIATION, 
+Respondents/Defendants-Appellees. 
+________________________________________________________________ 
+SCWC-14-0001134 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS 
+(CAAP-14-0001134; CIVIL NO. 11- 1-1539) 
+JUNE 6, 2017 
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, POLLACK, AND WILSON, JJ. 
+OPINION OF THE COURT BY McKENNA, J. 
+I. Introduction 
+This appeal arises from a judicial decree of foreclosure 
+granted in favor of plaintiff “U.S. Bank N.A. in its Capacity as 
+Trustee for the registered holders of MASTR Asset Backed Electronically Filed  
+Supreme Court 
+SCWC-14-0001134
+08:35 AM***  FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER  *** 
+2 
+ Securities Trust 2005
+-NC1, Mortgage Pass-Through Certificates, 
+Series 2005-NC1”  (“U.S. Bank”) against defendants Joseph Keaoula 
+Mattos (“Mattos”) and Chanelle Leola Meneses (“Meneses”) 
+(collectively, “Defendants”).  At issue is whether the Circuit 
+1Court of the First Circuit  (“circuit court”) properly granted 
+U.S. Bank’s “Motion for Summary Judgment and Decree of 
+Foreclosure Against All Defendants on Complaint Filed July 21, 
+2011” (“motion” or “motion for summary judgment”).  In its 
+published opinion, the Intermediate Court of Appeals (“ICA”) 
+affirmed the circuit court.  
+U.S. Bank N.A. v. Mattos , 137 
+Hawaii 209, 367 P.3d 703 (App. 2016).2   
+Defendants assert the ICA erred in concluding that the 
+circuit court properly granted summary judgment due to the 
+existence of genuine issues of material fact.  Specifically, 
+Defendants allege U.S. Bank lacked standing to foreclose 
+because: 
+1. 
+ the two mortgage assignments to the securitized trust 
+in the chain of U.S. Bank’s alleged ownership of 
+[Defendants’]  loan were “ robo-signed” by persons with 
+insufficient authority or personal knowledge as to 
+what they swore  to, and whose signatures differed 
+among similar mortgage assignments that they had 
+supposedly signed and/or notarized;  
+ 
+2.  the two mortgage assignments to the securitized trust 
+in the chain of U.S. Bank ’s alleged ownership of 
+  
+1                    
+The Honorable Judge Bert I. Ayabe presided.  
+ 
+2 The ICA initially issued its decision in the form of a summary 
+disposition order (“SDO”).   U.S. Bank filed a motion for publication, which 
+the ICA granted, entering its Published Opinion on  February 12, 2016.    
+ ***  FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER  *** 
+3 
+ [Defendants’]  loan violated the securitized trust ’s 
+governing instrument, known as its Pooling and 
+Servicing Agreement [(“PSA”)]. . . .  
+ 
+3.  the two mortgage assignments to the securitized trust 
+in the chain of U.S. Bank ’s alleged ownership of 
+[Defendants’]  loan were unproven as supported only by 
+hearsay declarations inadmissible pursuant to 
+[Hawai‘i 
+Rules of Civil Procedure (“HRCP”)]  Rule 56(e) and 
+Hawaii Evidence Rule 803(b)(3)[sic]3 as U.S. Bank’ s 
+Declarants had no personal knowledge of how earlier 
+business records had been compiled in addition to the 
+two mortgage assignments having been invalid, supra.  
+ 
+ We address the third issue on certiorari first.  We hold 
+that the ICA erred by concluding the declaration of Richard Work 
+(“Work”), the Contract Management Coordinator of Ocwen Loan 
+Servicing, LLC (“Ocwen”), rendered him a “qualified witness” 
+under State v . Fitzwater , 122 Hawai
+i 354, 227 P.3d 520 (2010) 
+for U.S. Bank’s records under the Hawai ‘i Rules of Evidence 
+(“HRE”) Rule 803(b)(6) hearsay exception for records of 
+regularly conducted activity.  In addition, U.S. Bank failed to 
+establish that it was a holder entitled to enforce the note at 
+the time the foreclosure complaint was filed.  See Bank of 
+America, N.A. v. Reyes-Toledo , 139 Hawai i 361, 370 -71, 390 P.3d 
+1248, 1257-58 (2017).  
+With respect to the first issue on certiorari, because it 
+is unclear what Defendants mean by “robo - signing” and because a 
+ruling on the legal effect of “robo -signing” is not necessary to 
+                     
+3 It appears this is a typographical error, as the ICA Opinion is based 
+on Rule 803(b)(6), the hearsay exception for “[r]ecords  of regularly 
+conducted activity.”  Rule 803(b)(3) is the hearsay exception for “[t]hen 
+existing mental, emotional, or physical condition,” and is clearly 
+inapplicable. ***  FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER  *** 
+4 
+ the determination of this case, we set aside the ICA’s holding 
+that conclusory assertions that  fail to offer factual 
+allegations or a legal theory indicating how alleged “robo-
+signing” caused harm to a mortgagee are insufficient to 
+establish a defense in a foreclosure action.  Addressing the 
+factual allegations underlying the “robo -signing” claim, 
+however, we conclude there is a  genuine issue of material fact 
+as to whether Ocwen had the authority to sign the second 
+assignment of mortgage to U.S. Bank. 
+With respect to the second issue on certiorari, we affirm 
+the ICA in part.  We adopt the majority rule followed by the ICA 
+in U.S. Bank Nat. Ass’n v. Salvacion , 134 Hawai i 170, 338 P.3d 
+1185 (App. 2014) and hold that a third party unrelated to a 
+mortgage securitization pooling and servicing agreement lacks 
+standing to enforce an alleged violation of its terms unless the 
+violation renders the mortgage assignment void, rather than 
+voidable, but we limit the holding to the judicial foreclosure 
+context.  
+Accordingly, we vacate the ICA’s March 9, 2016 Judgment on 
+Appeal, as well as the circuit court ’s August 26, 2014 Findings 
+of Fact, Conclusions of Law and Order Granting Plaintiff’s 
+Motion for Summary Judgment and Decree of Foreclosure Against 
+All Defendants on Complaint Filed July 21, 2011, and remand this 
+case to the circuit court.  ***  FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER  *** 
+5 
+ II. Background 
+ On October 15, 2004, Mattos signed a mortgage and a note 
+for $296,000 in favor of New Century Mortgage Corporation (“New 
+Century”).  The mortgage was recorded in the Land Court on 
+October 25, 2004.     
+ On July 21, 2011, U.S. Bank filed a foreclosure complaint .  
+U.S. Bank alleged it was the owner of the mortgage by virtue of 
+an Assignment of Mortgage dated January 3, 2007 (“first 
+assignment”) and an Assignment of Mortgage dated September 10, 
+2010 (“second assignment”),  both of which were recorded in the 
+Land Court (the mortgage, first assignment, and second 
+assignment are sometimes collectively referred to as “the 
+mortgage documents”).   Attached to the complaint were copies of 
+4the note with an allonge
+ and the mortgage documents.   The 
+allonge was apparently executed by Ocwen as New Century’s 
+attorney-in-fact pursuant to a Limited Power of Attorney.  The 
+allonge was dated June 22, 2010, although it stated it was 
+effective January 31, 2005.    
+On January 23, 2014, U.S. Bank filed a  motion for summary 
+judgment.  The motion was supported by a declaration from Work, 
+                     
+4 “An ‘allonge’ is defined as a slip of paper sometimes attached to a 
+negotiable instrument for the purpose of receiving further indorsements when 
+the original paper is filled with indorsements. ”  Mortg. Elec. Registration 
+Sys., Inc. v. Wise, 130 Hawai ‘i 11, 14 n.6 , 304 P.3d 1192, 1195  n.6 (2013).  ***  FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER  *** 
+6 
+ which purported to authenticate various attached exhibits, 
+including the underlying note, allonge, and mortgage documents.   
+On April 15, 2014, Defendants filed their opposition to 
+U.S. Bank’s motion.   In summary, Defendants alleged that U.S. 
+Bank lacked standing to foreclose because (1) it failed to show 
+it was the holder of the note at the time of foreclosure, ( 2) 
+the mortgage assignments contained various alleged defects,  and 
+(3) the motion’s supporting documents were inadmissible hearsay.  
+Defendants’ opposition was also based on an affidavit from Marla 
+Giddings (“Giddings”), a purported forensic and securitization 
+analysis expert retained to opine as to whether U.S. Bank owned 
+the note and mortgage.  Giddings asserted the assignments 
+“suffer[ed] from several fatal flaws,” namely that the signers 
+and notaries were known “robo-signers” who were employed by 
+Ocwen and appeared to have differing signatures on several 
+documents .  Giddings also claimed the assignments violated the 
+securitized trust’s PSA.  On July 18, 2014, after a hearing, the 
+circuit court granted U.S. Bank’s motion for summary judgment.   
+ Defendants appealed to the ICA.  In its  opinion, the ICA 
+rejected Defendants’ arguments and affirmed the grant of summary 
+judgment in U.S. Bank’s favor.   Mattos, 137 Hawai i at 214, 367 
+P.3d at 708.  The ICA rejected Defendants’ first argument 
+regarding “robo- signing” because their opposition to U.S. Bank’s 
+motion “failed to assert facts or law explaining how the alleged ***  FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER  *** 
+7 
+ ‘robo-signing’ caused them harm or damages.”   137 Hawai‘ i at 210, 
+367 P.3d at 704.  The ICA rejected Defendants’ second argument 
+that the assignments were void, holding , “This court, however, 
+has held that the non- compliance with a PSA does not render the 
+assignment void.  Given our holding in Salvacion , Appellants 
+have no standing to challenge U.S. Bank ’s alleged noncompliance 
+with the PSA.”  137 Hawai i at 211, 367 P.3d at 705.  Finally, 
+the ICA rejected Defendants’ third argument,  determining that 
+Work was a “qualified witness” pursuant to Fitzwater  who was 
+able to authenticate the records attached to his declaration for 
+admission under HRE Rule 803(b)(6).  137 Hawai i at 211-213, 367 
+P.3d at 705- 07.   
+ We now address the questions presented on certiorari.  
+III. Standard of Review 
+An award of summary judgment is reviewed de novo and “is 
+appropriate where there is no genuine issue as to the material 
+fact and the moving party is entitled to judgment as a matter of 
+law.”  French v. Hawaii Pizza Hut, Inc.,  105 Hawai ‘i 462, 466, 99 
+P.3d 1046, 1050 (2004) (citing Ross v. Stouffer Hotel Co.,  76 
+Hawai‘i 454, 457, 879 P.2d 1037, 1040 (1994)). 
+ Furthermore,  
+The burden is on the party moving for summary 
+judgment (moving party) to show the absence of any genuine 
+issue as to all material facts, which, under applicable 
+principles of substantive law, entitles the moving party to ***  FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER  *** 
+8 
+ judgment as a matter of law.  This burden has two 
+components.  
+ 
+First, the moving party has the burden of producing 
+support for its claim that: (1) no genuine issue of 
+material fact exists with respect to the essential elements 
+of the claim or defense which the motion seeks to establish 
+or which the motion questions; and (2) based on the 
+undisputed facts, it is entitled to summary judgment as a 
+matter of law.  Only when the moving party satisfies its 
+initial burden of production does the burden shift to the 
+non-moving party to respond to the  motion for summary 
+judgment and demonstrate specific facts,  as opposed to 
+general allegations, that present a genuine issue worthy of 
+trial. 
+ 
+Second, the moving party bears the ultimate burden of 
+persuasion.  This burden always remains with the moving 
+party and requires the moving party to convince the court 
+that no genuine issue of material fact exists and that the 
+moving part is entitled to summary judgment as a matter of 
+law. 
+ 
+105 Hawai i at 470, 99 P.3d at 1054 (emphasis and citation 
+omitted).  
+IV. Discussion  
+A. Work’s declaration was insufficient to establish that he is
+ 
+ a “qualified witness” under Fitzwater as to U.S. Bank’s 
+ records.  
+ Pursuant to  HRCP Rule 56(e)  (2000)5 and Rules of the Circuit 
+Courts of the State of Hawai i (“RCCH”) Rule 7(g ) (1997)6, a 
+  
+5                    
+HRCP Rule 56 governs summary judgment.  HRCP Rule  56(e) provides  in 
+pertinent part: 
+ 
+Form of affidavits; further testimony; defense required.  
+Supporting and opposing affidavits shall be made on 
+personal knowledge, shall set forth such facts as would be 
+admissible in evidence, and shall show affirmatively that 
+the affiant is competent to testify to the matters stated 
+therein. Sworn or certified copies of all papers or parts 
+thereof referred to in an affidavit shall be attached 
+thereto or served therewith.  
+ 
+6 RCCH Rule 7(g) provides in pertinent part:  
+ 
+(continued. . .)  ***  FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER  *** 
+9 
+ declaration in support of a summary judgment motion must be 
+based on personal knowledge, contain facts that would be 
+admissible in evidence, and show that the declarant is competent 
+to testify as to the matters contained within the declaration.  
+The ICA ruled that 
+the loan documents, including the note and 
+allonge, were admissible through Work’s declaration , which 
+established he was a “qualified witness” able to authenticate 
+the records of U.S. Bank and Ocwen pursuant to the hearsay 
+exception for records of regularly conducted activity.  See 
+Mattos, 137 Hawai ‘i at 213, 367 P.3d at 707. 
+ With respect to the note and mortgage documents, Work’s 
+declaration states: 
+1)  I am the Contract Management Coordinator of OCWEN Loan 
+Servicing, LLC (“Ocwen”), t he servicer for U.S. Bank N.A. 
+in its capacity as Trustee for the registered holders of 
+MASTR Asset Backed Securities Trust 2005 -NC1, Mortgage 
+Pass-Through Certificates, Series 2005 -NC1 [(“U.S. Bank”) ] 
+of the mortgage loan at issue in this case (the “Loan”).  
+As such, I am authorized to make this Declaration.  
+ 
+2)  I am over the age of 18 years, and I have personal 
+knowledge of the facts and matters stated herein based on 
+my review of the business records described below.  The 
+statements set forth in this Declaration are true and 
+correct, to the best of my knowledge and belief.  
+ 
+3) 
+ In the regular performance of my job functions, I have 
+access to and am familiar with [U.S. Bank ’s] records and 
+documents relating to this case (the “Records” ), including 
+Ocwen’s business records relating to the servicing of the 
+                                                                 
+(continued. . .) 
+Declaration in lieu of affidavit.  In lieu of an affidavit, 
+an unsworn declaration may be made by a person, in writing, 
+subscribed as true under penalty of law, and dated [.] 
+ ***  FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER  *** 
+10 
+ Loan (the “ Ocwen Records” ).  In making this Declaration, I 
+relied upon the Records.  
+ 
+4)  The Ocwen Records document transactions relating to the 
+Loan and were made and are maintained in the regular course 
+of Ocwen
+’s business consistent with Ocwen ’s regular 
+practices, which require that records documenting 
+transactions relating to the serviced mortgage loan be made 
+at or near the time of the transactions documented by a 
+person with knowledge of the transactions or from 
+information transmitted by such a person.  
+ 
+5) According to the Ocwen Records, [U.S. Bank] is in 
+possession of an original promissory note dated October 15, 
+2004 . . . in favor of NEW CENTURY MORTGAGE CORPORATION 
+(the “Note”).  A true and correct copy of the Note is 
+attached hereto as Exhibit 1.  
+ 
+6) The Note has been endorsed to [U.S. Bank] by Ocwen 
+acting as the attorney -in-fact for New Century Mortgage 
+Corporation.   A true and correct copy of the Limited Power 
+of Attorney designating Ocwen as New Century ’s attorney- in-
+fact is attached hereto as Exhibit 2. [7] 
+ 
+7) According to the Ocwen Records, the Note is secured by a 
+Mortgage dated October 15, 2004, and recorded on October 
+25, 2004 in the Bureau of Conveyances of the State of 
+Hawaii,[8] as Document Number 3183517, and noted on the 
+Transfer Certificate of Title No.: 671,440 (the 
+“Mortgage” ).  A true and correct copy of the Mortgage is 
+attached hereto as Exhibit 3.  
+ 
+8) According to the Ocwen Records, the Mortgage was 
+assigned to  [U.S. Bank] by that assignment dated January 3, 
+2007, and recorded on January 30, 2007, in the Office of 
+the Assistant Registrar of the Land Court of the State of 
+Hawaii as Document Number 3550341, and that assignment 
+dated September 29, 2010, and recorded October 11, 2010 in 
+the Office of the Assistant Registrar of the Land Court of 
+the State of Hawaii as Document Number 4007870 (the 
+“Assignments ”).  True and correct copies of the referenced 
+assignments are attached hereto as Exhibit 4 and  
+Exhibit 5.  A true and correct copy of the Limited Power of 
+Attorney is attached hereto as Exhibit 6. [9] 
+ 
+As to the alleged default, amounts owed, and notices provided, 
+Work’s declaration is based on the “Ocwen Records.”     
+                     
+7  This Limited Power of Attorney is dated March 2, 2005.  
+ 
+8 This appears to be a Land Court filing in the Office of Assistant 
+Registrar.  
+9  This Limited Power of Attorney is dated April 13, 2012.  ***  FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER  *** 
+11 
+  We focus on  the ICA’s ruling that the note and mortgage 
+documents were admissible through Work’s declaration as records 
+of regularly conducted activity pursuant to HRE Rule 803(b)(6) 
+and this court’s Fitzwater opinion.  HRE Rule 803(b)(6) 
+provides: 
+The following are not excluded by the hearsay rule, even 
+though the declarant is available as a witness:  
+. . . . 
+(b)  Other exceptions.  
+. . . . 
+(6)  Records of regularly conducted activity.   A 
+memorandum, report, record, or data compilation, in any 
+form, of acts, events, conditions, opinions, or diagnoses, 
+made in the course of a regularly conducted activity, at or 
+near the time of the acts, events, conditions, opinions, or 
+diagnoses, as shown by the testimony of the custodian or 
+other qualified witness,  or by certification that complies 
+with rule 902(11) or a statute permitting certification, 
+unless the sources of information or other circumstances 
+indicate lack of trustworthiness.  
+ 
+(Emphasis added.)  
+Fitzwater addressed the admissibility of business documents 
+authenticated by an employee of another business, stating:   
+A person can be a ‘qualified  witness’  who can 
+authenticate a document as a record of regularly conducted 
+activity under HRE Rule 803(b)(6) or its federal 
+counterpart even if he or she is not an employee of the 
+business that created the document, or has no direct, 
+personal knowledge of how the document was created. As one 
+leading commentator has noted:  
+... [sic] The phrase ‘other qualified  witness’  is given a 
+very broad interpretation.   The witness need only have 
+enough familiarity with the record -keeping system of the 
+business in question to explain how the record came into 
+existence in the ordinary course of business.   The witness 
+need not have personal knowledge of the actual creation of 
+the documents or have personally assembled the records.  In 
+fact, the witness need not even be an employee of the 
+record-keeping entity as long as the witness understands 
+the entity’s record -keeping system.  
+ 
+There is no requirement that the records have been prepared 
+by the entity that has custody of them, as long as they ***  FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER  *** 
+12 
+ were created in the regular course of some entity’s 
+business. 
+ 
+The sufficiency of the foundation evidence depends in part 
+on the nature of the documents at issue.   Documents that 
+are ‘standard records of the type regularly maintained by 
+firms in a particular industry may require less by way of 
+foundation testimony than less conventional documents 
+proffered for admission as business records.’  
+ 
+Thus, an employee of a business that receives records from 
+another business can be a qualified  witness who can 
+establish a sufficient foundation for their admission as 
+records of the receiving business under HRE Rule 803(b)(6) . 
+ 
+Fitzwater,  122 Hawai ‘i at 365-66, 227 P.3d at 531-32 (internal 
+citations and footnote omitted) .  
+Work’s declaration does not assert that he is a custodian 
+of records for either U.S. Bank or Ocwen.  Therefore, the 
+documents attached to his declaration are admissible under the 
+HRE 803(b)(6) hearsay exception only if he is a “qualified 
+witness” with respect to those documents.  The ICA Opinion 
+relied on Fitzwater  in concluding that Work met the requirements 
+of a “qualified witness” able to authenticate all the documents 
+to which he  referred, and analyzed the issue as follows: 
+As previously noted, Work’s declaration stated that he is 
+the Contract Management Coordinator for Ocwen.  Work’s 
+declaration further stated that Ocwen is the servicer for U.S. 
+Bank related to the Appellants’ lo an, and that he had access to 
+and was familiar with Appellants’
+ loan records through his 
+regular performance of his job.  Furthermore, Work’s declaration 
+indicated the documents to which he referred to in preparing his 
+declaration were “maintained in the regular course of Ocwen’s 
+business consistent with Ocwen’s regul ar practices, which require 
+that records documenting transactions relating to the serviced 
+mortgage loan be made at or near the time of the transactions 
+documented by a person with knowledge of the transactions or from 
+information transmitted by such a per son.”  Thus, Work’s 
+declaration establish es that Ocwen relies on the documents 
+related to Appellants’  loan, there are further indicia of 
+reliability given Ocwen’ s business practices,  and the documents 
+constituted “records of regularly conducted activity ” that were ***  FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER  *** 
+13 
+ admissible as a hearsay exception, pursuant to HRE Rule 
+803(b)(6).  The circuit court, therefore, did not err in relying 
+upon the documents when it granted summary judgment in U.S. 
+Bank’s favor.  
+Mattos, 137 Hawai ‘i at 213, 367 P.3d at 707.   
+To the extent the ICA ruled that Work’s declaration 
+established him as a “qualified witness” with respect to Ocwen’s 
+records, we agree.  To the extent the ICA opinion concluded that 
+Work met the requirements to be a “qualified witness” with 
+respect to U.S. Bank’s records, however, we disagree.  Fitzwater 
+addresses situations in which one business receives  documents 
+created by another business and includes them in its own 
+records.  Work’s declaration does not indicate that U.S. Bank’s 
+Records were received by Ocwen and incorporated into the Ocwen 
+Records.  Work’s declaration also does not establish that Work 
+is familiar wit h the record-keeping system of U.S. Bank.  
+Rather, Work merely states that he has access to and is familiar 
+with U.S. Bank’s records.   Thus Work’s declaration does not 
+satisfy foundational requirements to make him a “qualified 
+witness” for U.S. Bank’s records pursuant to  Fitzwater . 
+Even if records attached to Work’s declaration were 
+otherwise admissible as Ocwen records, there are separat e legal 
+issues with respect to the note and allonge.  Defendants have 
+continuously argued a lack of admissible evidence that U.S. Bank 
+is the holder of the note.  On this issue, the ICA ruled that 
+Work’s declaration established U.S. Bank as the holder of t he ***  FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER  *** 
+14 
+ note entitled to fore
+close pursuant  to HRS § 490:3- 301 (2008).  
+Mattos, 137 Hawai ‘i at 212, 367 P.3d at 706.  
+In Reyes-Toledo, we held that a person seeking to 
+judicially foreclose  on a mortgage following a promissory note 
+default must establish that it was the “person entitled to 
+enforce [the note]” as defined by HRS § 490:3- 301 at the time of 
+the filing of the foreclosure complaint.  Reyes-Toledo, 139 
+Hawaii at 370-71, 390 P.3d at 1257- 58.  HRS § 490:3- 301 
+provides: 
+‘Person entitled to enforce ’ an instrument means (i) the 
+holder of the instrument, (ii) a nonholder in possession of 
+the instrument who has the rights of a holder, or (iii) a 
+person not in possession of the instrument who is entitled 
+to enforce the instrument pursuant to section 490:3 -309 or 
+490:3-418(d).  A person may be a person entitled to enforce 
+the instrument even though the person is not the owner of 
+the instrument or is in wrongful possession of the 
+instrument.  
+ 
+There was no evidence or argument presented in this case 
+regarding HRS § 490:3- 301 subsections (ii) and (iii), and the 
+ICA ruled on the basis that U.S. Bank was the “holder” pursuant 
+to subsection (i).  The relevant definition of “holder” is in 
+HRS § 490:1-201 (1) (2008).  This s ubsection defines a “holder” 
+as “[t]he person in possession of a negotiable instrument that 
+is payable either to bearer or to an identified person that is 
+the person in possession[.]”  Since the allonge was apparently 
+used to specifically indorse the note  to U.S.  Bank, admissible 
+evidence was needed to demonstrate that U.S. Bank was in ***  FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER  *** 
+15 
+ possession of the note and allonge at the time of the filing of 
+this foreclosure complaint for U.S. Bank to be entitled to 
+summary judgment. 
+ Even if the Ocwen records were admissible through the Work 
+declaration, the only representation in Work’s declaration 
+regarding possession of the note is in paragraph 5, which 
+states, “According to the Ocwen records, [U.S. Bank]  is in 
+possession of an original promissory note dated October 15, 2004 
+. . . in favor of NEW CENTURY MORTGAGE CORPORATION[ .]”  This 
+paragraph goes on to say that “[a] true and correct copy of the 
+Note is attached hereto as Exhibit 1.”   (Emphasis added.)  
+Work’s declaration does not even represent that U.S. Bank’s 
+records contain the original note; Work merely states that 
+Ocwen’s records so indicate.   Even if Work’s declaration had 
+stated that the U.S. Bank records contain the original note, 
+this statement would not be admissible because, as noted,  Work’s 
+declaration is in sufficient to render him a “qualified witness” 
+as to U.S. Bank’s records.     
+In addition, paragraph 5 of Work’s declaration refers only 
+to the original note and makes no reference to the allonge.  
+Although Exhibit 1 also contains the allonge, which indorses the 
+note to U.S. Bank, the allonge was never authenticated.  
+Therefore, U.S. Bank was not entitled to summary judgment even ***  FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER  *** 
+16 
+ if the original note had been properly authenticated, which it 
+was not. 
+Even if the aforementioned issues concerning the note and 
+allonge did not exist, Work’s declaration also does not satisfy 
+the Reyes- Toledo requirement of an affirmative showing that U.S. 
+Bank possessed the original note and allonge at the time of 
+filing of this foreclosure complaint on July 21, 2011.   
+For all of these reasons, Work’s declaration failed to meet 
+U.S. Bank’s burden of establishing facts necessary for a grant 
+of summary judgment.   
+In order to provide guidance on remand, we address the 
+other issues on certiorari. 
+B. Defendants’ “robo -signing” allegation is unclear , so it is 
+unnecessary to address the legal effect of “robo -signing.”  
+However, the first issue on certiorari has merit because 
+there is a genuine issue of material fact as to whether 
+Ocwen had authority to assign the mortgage from U.S. Bank’s 
+predecessor in interest to U.S. Bank.  
+  
+The ICA held that conclusory assertions of  “robo-signing” 
+are insufficient to establish a defense in a foreclosure action 
+if the assertions lack factual allegations or a legal theory 
+demonstrating how “robo -signing” caused harm to a mortgagee.   
+Mattos, 137 Hawai i at 210, 367 P.3d at 704.  Defendants do not 
+define what they mean by “robo -signing”; therefore, it is not 
+necessary to address the legal effect of “robo -signing” at this ***  FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER  *** 
+17 
+ time.  Accordingly, we set aside the ICA’s holding  on this issue 
+as it is not necessary to the determination of this case. 
+Underlying Defendants’ “robo -signing”  allegations, however,  
+are assertions that the two mortgage assignments to the 
+securitized trust culminating in the assignment to U.S. Bank 
+were signed “by persons with insufficient authority or personal 
+knowledge as to what they swore to, and whose signatures 
+differed among similar mortgage assignments that they had 
+supposedly signed and/or notarized.”  Thus, Defendants assert 
+that the assignments of mortgage were signed by persons (1) with 
+insufficient authority; (2) with insufficient personal knowledge 
+as to what they swore to; and (3) whose signatures  differed 
+among similar mortgage assignments that they had supposedly 
+signed and/or notarized.  We address each of these allegations 
+in turn. 
+We first address the allegation that the assignments of 
+mortgage were signed by person s with insufficient authority.   
+Exhibit 2 to Work’s declaration, the March 2, 2005 Limited Power 
+of Attorney designating Ocwen as New Century’s attorney -in-fact, 
+is admissible as an Ocwen record pursuant to Paragraph 6 of 
+Work’s declaration.  This Limited Power of Attorney establishes 
+Ocwen’s authority regarding the first mortgage assignment dated 
+January 3, 2007 from Ocwen to U.S. Bank’s predecessor in 
+interest, “U.S. Bank, N.A., as Trustee for the registered ***  FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER  *** 
+18 
+ holders of MASTR Asset Back Secur ities Trust 2005- NC1, Mortgage 
+Pass-Through Certificates, Series 2005-NC1” (“U.S. Bank for 
+Registered Holders”).10  Thus the first assignment of mortgage 
+was signed by a person with sufficient authority. 
+Exhibit 6 to Work’s declaration is an April 13, 2012 
+Limited Power of Attorney, which is also admissible as an Ocwen 
+record.  This Limited Power of Attorney purports to establish 
+Ocwen’s authority to execute  the second assignment of mortgage 
+dated September 29, 2010 from U.S. Bank for Registered Holders 
+to U.S. Bank.  Although the difference between U.S. Bank for 
+Registered Holders to U.S. Bank is unclear, t
+his foreclosure 
+action was brought in the name of the assignee U.S. Bank,  and 
+this Limited Power of Authority was not effective until more 
+than a year after the second assignment of mortgage.  Therefore, 
+there is a genuine issue of material fact as to whether Ocwen 
+had authority to sign the second assignment of mortgage to U.S. 
+Bank. 
+We next address Defendants’ allegation that the assignments 
+of mortgage were signed by 
+persons “with insufficient authority 
+or personal knowledge as to what they swore[.] ”  Defendants 
+themselves lack personal knowledge as to the signers’ knowledge.  
+This allegation is therefore without merit. 
+  
+10 It appears the only difference between the entities “U.S. Bank for 
+Registered Holders” and “U.S. Bank” is that the latter’s name includes the 
+additional language “in its Capacity.”                    ***  FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER  *** 
+19 
+ We then turn to Defendants’ allegation that the assignments 
+of mortgage contained signatures that differed among similar 
+mortgage assignments supposedly signed and/or notarized
+ by the 
+same person.11  Even if the other assignments were admissible, 
+there is no admissible evidence they were signed by different 
+persons.  This allegation is 
+therefore also without merit. 
+C. In a judicial foreclosure, a third party to a 
+pooling and 
+servicing agreement lacks standing to challenge assignments 
+in alleged violation of its terms unless the violation 
+would render the assignment void. 
+ 
+ Finally, in their second question on certiorari, Defendants 
+challenge the foreclosure on the basis that the first and second 
+assignments of the mortgage violated 
+the requirements of the 
+pooling and servicing agreement.   Paragraph 12 of the Giddings 
+affidavit refers to the PSA as an exhibit filed  with the 
+Securities and Exchange Commission, and provides a website link.  
+No explanation is provided as to how a document contained in a 
+website link can be considered admissible evidence in this 
+motion for summary judgment.  Thus
+, the terms of the PSA  are not 
+actually before us, and there is no actual evidence that the 
+first and second assignments of mortgage violated terms within 
+the PSA. 
+                     
+11  Defendants’ allegations regarding mortgage assignm ents were based on 
+the Giddings affidavit.  U.S. Bank challenged Giddings’ interpretations of 
+law, but never challenged whether she was qualified to testify as an expert, the scope of her alleged expertise, whether documents attached to declaration 
+could properly be considered in the motion for summary judgment, or the 
+admissibility of documents attached to her affidavit.    ***  FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER  *** 
+20 
+  Even if the terms of the PSA were properly before this 
+court and showed that the first and second assignments of 
+mortgage violated its terms, Defendants might not have standing 
+to challenge the validity of mortgage assignments on this basis.  
+In Salvacion, a case arising out of a judicial foreclosure, the 
+ICA noted that, “[t]ypically, borrowers do not have standing to 
+challenge the validity of an assignment of its loans because 
+they are not parties to the agreement and because noncompliance 
+with a trust’s governing document is irrelevant to the 
+assignee’s standing to foreclose.”  Salvacion , 134 Hawai‘ i at 
+175, 338 P.3d at 1190.  As pointed out in Salvacion , this is the 
+12 overwhelming majority rule.  Id. According to Salvacion, 
+Hawaii law would recognize an exception to the general rule when 
+a challenge to a mortgage assignment would deem the assignment 
+void, not voidable.  Id.  We adopt the ICA’s analysis in 
+Salvacion, but limit the  holding to the judicial foreclosure 
+context for the reasons that follow.  
+On certiorari, Defendants urge this court to follow the 
+minority rule allowing third -party challenges to an assignment, 
+                     
+12 The Giddings affidavit also asserts that the PSA  is governed by New 
+York law, which, according to Giddings, provides that every sale  conveyance 
+or other act of a trustee in contravention of a trust is void.  Even if it 
+was proper to consider the PSA  under New York law, it is not clear whether a 
+mortgage assignment in contravention of a pooling and servicing agreement 
+would be deemed void or voidable.  See Glaski v. Bank of Am., N.A. , 218 Cal.  
+App. 4th 1079, 109 6–97, 160 Cal.  Rptr. 3d 449, 463  (Cal. Ct. App. 2013)  
+(construing New York law).   ***  FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER  *** 
+21 
+ arguing that in Yvanova v. New Century Mortg. Corp., 62 Cal. 4th 
+919, 365 P.3d 845 (2016), the Supreme Court of California 
+allowed challenges to mortgage assignments based on non-
+compliance with terms of securitized trust agreements.  The 
+Supreme Court of California was clear, however, that its ruling 
+was limited to the nonjudicial foreclosure context;  it held 
+“only that a borrower who has suffered a nonjudicial foreclosure 
+does not lack standing to sue for wrongful foreclosure based on 
+an allegedly void assignment merely because he or she was in 
+default on the loan and was not a party to the challenged 
+assignment.”  62 Cal. 4th at 924, 365 P.3d at 848.  We also note 
+that the Glaski  case, one of two cases cited in Salvacion  as 
+going against the majority rule, 134 Hawai i at 176- 77, 338 P.3d 
+at 1190-91, also arose out of a non- judicial foreclosure.  
+Glaski, 218 Cal . App. 4th at 1082, 160 Cal. Rptr. 3d at 452.  As 
+the issue of whether such challenges should be allowed in non-
+judicial foreclosures is not before us, we limit our holding at 
+this time to the judicial foreclosure context. 
+Accordingly, in the context of judicial foreclosures, we 
+adopt the majority rule followed in Salvacion  and hold that a 
+third party unrelated to a pooling and servicing agreement lacks 
+standing to challenge assignments based on alleged violation of 
+the PSA’s terms unless the violation would render the assignment 
+void.  As the PSA is not in evidence, we do not decide whether ***  FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER  *** 
+22 
+ any of its terms were violated and, if so, whether any such 
+violation renders an assignment void or voidable.  
+V. Conclusion 
+  For the foregoing reasons, we vacate the ICA’s March 9, 
+2016 Judgment on Appeal, as well as the circuit court ’s August 
+26, 2014 Findings of Fact, Conclusions of Law and Order Granting 
+Plaintiff’s Motion for Summary Judgment and Decree of 
+Foreclosure Against All Defendants on Complaint Filed July 21, 
+2011.  We remand  this case to the circuit court for further 
+proceedings consistent with this opinion. 
+Gary Victor Dubin  
+for petitioners 
+ /s/ Mark E. Recktenwald 
+ 
+     /s/ Paula A. Nakayama 
+J. Blaine Rogers 
+for respondent  
+U.S. Bank N.A.   /s/ Sabrina S. McKenna   
+ 
+     /s/ Richard W. Pollack 
+ 
+      /s/ Michael D. Wilson 

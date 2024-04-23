@@ -1,0 +1,762 @@
+NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+CAAP-10-0000007
+ 
+IN THE INTERMEDIATE COURT OF APPEALS
+ 
+OF THE STATE OF HAWAI 'I 
+ROBERT G. BABSON, JR.,
+ANN C. BABSON, JOY BRANN, PAULA BROCK, and
+DANIEL GRANTHAM, Plaintiffs-Appellees,
+v.
+ 
+1
+SCOTT T. NAGO,  Chief Elections Officer,
+State of Hawai 'i; and STATE OF HAWAI 'I,
+Defendants-Appellants.
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE SECOND CIRCUIT
+ 
+(CIVIL NO. 08-1-0378(3))
+
+ 
+MEMORANDUM OPINION
+ 
+(By: Nakamura, C.J., and Fujise and Leonard, JJ.)
+
+ 
+Plaintiffs-Appellees Robert G. Babson, Jr., Ann C. 
+Babson, Joy Brann, Paula Brock, and Daniel Grantham 
+(collectively, the "Plaintiffs") filed a complaint for declaratory and injunctive relief against Defendants-Appellees Kevin Cronin, who was then the Chief Election Officer, and the State of Hawai
+'i (collectively, the "State"). Plaintiffs 
+challenged the Chief Election Officer's (1) "adoption" of the federal voluntary voting system guidelines for use in State and 
+1The complaint filed in this case named Kevin Cronin, the Chief Election
+Officer at that time of the State of Hawai' i (State), as a defendant.
+Pursuant to Hawai' i Rules of Appellate Procedure Rule 43(c)(1) (2010), Scott
+T. Nago, the current Chief Election Officer, is automatically substituted as a
+party for Kevin Cronin, the former Chief Election Officer.
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+county elections and (2) use of telephone lines or the internet 
+to transmit ballot counts and election results for final tabulation. Plaintiffs contended that these "methodologies" constituted "rules" that the Chief Election Officer should have, but did not, adopt pursuant to the requirements of the Hawai
+'i 
+Administrative Procedures Act (HAPA), Hawaii Revised Statutes (HRS) Chapter 91. 
+The Circuit Court of the Second Circuit (Circuit
+ 
+2
+Court) granted summary judgment in favor of Plaintiffs, and it
+issued a permanent injunction enjoining the State from engaging
+ in conduct in conformance with the challenged practices until
+ rules were promulgated pursuant to HRS Chapter 91. The Circuit
+ Court further ruled that the injunction would automatically be
+ lifted "if rules are adopted pursuant to HRS Chapter 91." 
+Thereafter, the Chief Election Officer promulgated rules
+ regarding the use of the federal voluntary voting system
+ guidelines and the transmission of election results. 
+Accordingly, the dispute underlying this case has been resolved,
+ and this case is moot. 
+As a general rule, courts will not address moot issues.
+
+ 
+However, the State argues on appeal that exceptions to the
+ mootness doctrine apply to warrant our determination of whether
+ the Circuit Court erred in granting summary judgment in favor of
+ Plaintiffs. The State further argues that Plaintiffs lacked
+ standing to file their lawsuit and that the Circuit Court erred
+ in awarding attorneys' fees against the State.
+ 
+As explained below, we hold that: (1) at minimum,
+ 
+Plaintiff Robert G. Babson, Jr. (Robert Babson) had standing to
+ support the filing of Plaintiffs' lawsuit; (2) the exceptions to
+ the mootness doctrine asserted by the State do not apply; and (3)
+ the Circuit Court erred in awarding attorneys' fees against the
+ State because the State has sovereign immunity. 
+2The Honorable Joseph E. Cardoza presided.
+ 
+2
+  NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+BACKGROUND
+ 
+I.
+ 
+In the aftermath of the 2000 presidential election,
+ 
+Congress passed the Help America Vote Act of 2002 (HAVA),
+ 
+currently codified at 52 U.S.C.A. §§ 20901 et seq. (West, Westlaw
+ through P.L. 113-162).
+3 HAVA mandated that voting systems used
+ 
+by states in a federal election meet certain minimum
+ requirements, but did not prevent a state from establishing
+ election technology and administrative requirements that exceeded
+ HAVA's minimum requirements. See 52 U.S.C.A. §§ 21081, 21084. 
+HAVA authorized federal funding to assist the states in meeting
+ HAVA's requirements. See 52 U.S.C.A. § 20901.
+ 
+HAVA established the Election Assistance Commission
+ 
+(EAC), 52 U.S.C.A. § 20921, which was charged with adopting
+ "voluntary voting system guidelines[.]" 52 U.S.C.A. § 20922(1). 
+In 2005, the EAC released the 2005 Voluntary Voting System
+ Guidelines (2005 VVSG). In announcing the adoption of the 2005
+ VVSG, the EAC stated: "These guidelines are voluntary. States
+ may adopt them entirely, in part or not at all. States may also
+ choose to enact stricter performance requirements for voting
+ systems."
+ 
+The 2005 VVSG describes its purpose and scope as
+ 
+follows:
+ 
+The purpose of the Voluntary Voting System Guidelines
+ 
+[(VVSG)] is to provide a set of specifications and
+requirements against which voting systems can be tested to
+determine if they provide all the basic functionality,
+accessibility and security capabilities required of voting
+systems. The VVSG specifies the functional requirements,
+performance characteristics, documentation requirements, and
+test evaluation criteria for the national certification of
+ 
+voting systems. The VVSG is composed of two volumes: Volume
+I, Voting System Performance Guidelines and Volume II,
+National Certification Testing Guidelines.
+ 
+3HAVA was previously codified at 42 U.S.C. §§ 15301 et seq. , but was
+editorially reclassified under Title 52, United States Code, Chapter 209,
+effective September 1, 2014. We will cite to the current codification.
+ 
+3
+  NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+II.
+ 
+Prior to the 2008 election, the Hawai 'i Office of 
+Elections issued a Request for Proposal (RFP), seeking proposals 
+from qualified entities for a "New Leased Voting Equipment System" (New System) "to collect, tabulate, and report votes" for the 2008 through 2016 Primary, General, and Special Elections held in Hawai
+'i. The RFP described the essential features of, 
+and requirements for, the New System, including the requirement that "[t]he New System shall meet or exceed the [2005 VVSG]."
+4 
+Among other things, the RFP required that the New System include "[s]ecure data transmission capability from [(1)] the polling places in each county to the central vote count system site for that county[]" and (2) "the County of Hawaii, County of Maui, and County of Kauai central vote count system sites to the City & County of Honolulu central vote system site[.]" 
+In response to the RFP, three entities submitted
+ 
+proposals, and the Office of Elections awarded the contract to
+ Hart Intercivic, Inc. on January 31, 2008.
+ 
+III.
+ 
+A.
+ 
+On July 14, 2008, Plaintiffs filed a Complaint against
+ 
+the State, seeking declaratory and injunctive relief. In their
+ Complaint, Plaintiffs challenged the Chief Election Officer's
+ "adoption of the [2005 VVSG] for use in state and county
+ elections" and "use of telephone lines or the internet for
+ transmitting ballot counts and election results for final
+ tabulation." Plaintiffs sought a declaration that these 
+"methodologies" constituted "rules" under HAPA and an injunction
+ prohibiting the State from engaging in the challenged practices
+ without first complying with the rule-making procedures required
+ 
+4The RFP provided that "if a proposed New System does not meet any
+specific requirement, the Offeror may propose an alternate feature that
+provides a functional equivalent[,]" with the Evaluation Committee having the
+sole discretion to determine whether the alternate feature provided a
+functional equivalent.
+ 
+4
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+under HAPA. The Circuit Court summarized Plaintiffs' Complaint
+ 
+as follows:
+ 
+[T]he Complaint seeks a determination that (1) the
+methodology and process by which the Chief Election[]Officer . . . uses electronic voting machines and uses theinternet and/or telephone lines are rules within the meaningof HRS § 91-1(4), (2) the particular methodologies the[Chief Election Officer] has chosen were not promulgatedpursuant to the rulemaking requirements of [HAPA], (3) theprocess contemplated by the [Chief Election Officer] isinvalid insomuch as it is conduct based on a rule not promulgated pursuant to the rulemaking requirements of HAPA,and (4) the [Chief Election Officer] and the State ofHawai'i be prohibited from conducting elections with the use
+of Direct Recording Electronic ("DRE") ballots and theprocess associated with the same without rules firstpromulgated pursuant to HAPA. 
+Plaintiffs also sought an award of reasonable attorneys' fees and
+ 
+costs.
+ 
+B.
+
+ 
+Shortly after filing their Complaint, Plaintiffs filed
+ 
+a motion for preliminary injunction. The State opposed the
+ motion, arguing among other things that Plaintiffs lacked
+ standing and had failed to satisfy the standards for a
+ preliminary injunction. The Circuit Court denied Plaintiffs'
+ motion for preliminary injunction.
+ 
+Plaintiffs and the State filed counter-motions for
+ 
+summary judgment and submitted joint exhibits in support of their
+ motions.
+5 The Circuit Court granted Plaintiffs' motion for
+ 
+summary judgment and denied the State's motion.
+ 
+In its order, the Circuit Court rejected the State's
+ 
+contention that Plaintiffs lacked standing to bring their
+ lawsuit, reasoning as follows:
+ 
+Defendants argue that Plaintiffs' allegations are
+built entirely on abstract, conjectural, and hypothetical
+circumstances and that there is no evidence that any of them
+have been deprived of their right to vote or that their
+votes have ever been mishandled. This argument, however,
+mischaracterizes the type of injury Plaintiffs allege.
+Plaintiffs are not arguing that they have been deprived of
+the right to vote or that their votes have been mishandled. 
+5Plaintiffs and the State had earlier filed counter-motions for summary
+judgment, which the Circuit Court denied without prejudice.
+ 
+5
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+Instead, Plaintiffs are challenging the legality of the
+process that the [Chief Election Officer] and the Office of
+Elections undertook when adopting the 2005 VVSG. Plaintiffs
+ have suffered actual injury in being deprived of the
+opportunity to participate in the rulemaking process and
+having administrative "rules" being promulgated, the failure
+of which Plaintiff[s] assert is in violation of HRS Chapter
+91. Plaintiffs suffer threatened injury in that their right
+to vote may be infringed due to "rules" promulgated in
+violation of HRS Chapter 91. This actual and threatened
+ injury is fairly traceable to the Defendants' "action," or,
+in this instance, non-action in failing to promulgate rules
+in accordance with HAPA. A favorable decision, namely a
+declaratory judgment by the Court that the [Chief Election
+Officer] and Office of Elections must review and consider
+the adoption of the 2005 VVSG under the rulemaking
+provisions of HRS Chapter 91[,] would provide relief for
+Plaintiffs' injury. Consequently, Plaintiffs do not lack
+standing.
+ 
+With respect to the "central issue" raised by
+ 
+Plaintiffs' Complaint and the summary judgment motions, the
+ 
+Circuit Court concluded that the Chief Election Officer's
+ adoption of the 2005 VVSG and a voting system that transmits
+ election results over telephone lines or the internet constituted
+ "rules" within the meaning of HAPA. As part of its analysis, the
+ Circuit Court stated:
+ 
+In incorporating the 2005 VVSG into the 2006 RFP, and by
+requiring that the new voting system "shall meet or exceed"
+the 2005 VVSG, the [Chief Election Officer] issued a
+"statement of general or particular applicability and future
+effect" that implemented or prescribed the policy of the
+Office of Elections, namely, that any proposed new voting
+system would have to meet or exceed the 2005 VVSG, or have a
+proposed alternate feature that provides a functional
+equivalent. In effect, the [Chief Election Officer] set
+voting equipment requirements and specifications in the RFP.
+ 
+. . . Even though the 2005 VVSG does not expressly
+state that it is intended or required to be adopted by
+states as administrative rules, the [Chief Election Officer]
+and the Office of Elections did, in fact, adopt the 2005
+VVSG as its own requirements by incorporating the 2005 VVSG
+into the RFP and stating that any proposed new voting system
+would have to meet or exceed the 2005 VVSG, or have a
+proposed alternative feature that provides a functional
+equivalent. Rather than select the 2005 VVSG, Defendants
+could have selected a different set of guidelines.
+Defendants['] adoption of the 2005 VVSG constitutes an
+exercise of discretion that [HAPA] requires be done through
+rulemaking.
+ 
+The Circuit Court granted Plaintiffs' motion for
+ 
+summary judgment and their requests for declaratory and
+ 
+6
+
+  NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+injunctive relief. The Circuit Court ordered the issuance of a
+ 
+permanent injunction enjoining the State "from any conduct in
+ conformance with the [2005 VVSG] or transmitting ballot counts
+ and election results by telephone line or the internet until
+ rules have been promulgated pursuant to [HAPA][.]" The Circuit
+ Court further ordered that its "permanent injunction shall have
+ no effect on any rules promulgated pursuant to [HAPA]" and that
+ "[the State] will not be required to return to this Court seeking
+ a lifting of this injunction if rules are adopted pursuant to
+ [HAPA]."
+ 
+In response to the Circuit Court's permanent 
+injunction, the State formally promulgated rules that expressly authorize the Chief Election Officer to utilize a voting system or voting systems that comply with one, or a combination, of several specified federal voting system standards, including the 2005 VVSG and subsequent versions of the VVSG adopted by the EAC. See Hawai
+'i Administrative Rules (HAR) §§ 3-176-1, 3-176-2 
+(2010).6 The State also promulgated rules regarding the 
+transmission of election results electronically. See HAR § 3­
+172-93 (2010). The rules were adopted after a public hearing and were approved by the Governor. 
+C.
+ 
+After prevailing on their motion for summary judgment,
+ 
+Plaintiffs moved for the award of attorneys' fees and costs. 
+Plaintiffs sought attorneys' fees pursuant to the private
+ attorney general doctrine. The State opposed Plaintiffs' request
+ for attorneys' fees, arguing that (1) the award of attorneys'
+ fees against the State was barred by sovereign immunity and (2)
+ Plaintiffs had failed to satisfy the conditions for the award of
+ attorneys' fees under the private attorney general doctrine. The
+ Circuit Court granted the Plaintiffs' motion for attorneys' fees
+ and costs, and it awarded Plaintiffs $18,960.00 in attorneys' 
+6The 2005 VVSG provides standards for the secure transmission of
+election results.
+ 
+7
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+fees, plus $758.40 in general excise tax thereon, and $1,077.36
+ 
+in costs, for a total award of $20,795.76
+ 
+The Circuit Court entered its Final Judgment on
+
+ 
+September 9, 2010, and this appeal followed.
+ 
+DISCUSSION
+ 
+On appeal, the State argues that the Circuit Court
+
+ 
+erred in ruling that Plaintiffs had standing to bring their
+ lawsuit, and that if Plaintiffs lacked standing, the Circuit
+ Court's Final Judgment must be vacated. The State alternatively
+ argues that if Plaintiffs had standing, then this court should
+ find an exception to the mootness doctrine to reach the merits of
+ the Circuit Court's grant of summary judgment in favor of
+ Plaintiffs, which has been rendered moot by the State's
+ subsequent promulgation of rules. In challenging the Circuit
+ Court's summary judgment order, the State argues that the Circuit
+ Court erred in granting summary judgment in favor of Plaintiffs
+ because the RFP specifications regarding compliance with the 2005
+ VVSG and the secure electronic transmission of votes did not
+ constitute "rules" within the purview of HAPA. Finally, the
+ State argues that even if Plaintiffs had standing and the Circuit
+ Court properly ruled on the merits in granting summary judgment
+ in Plaintiffs' favor, the Circuit Court erred in awarding
+ attorneys' fees to Plaintiffs pursuant to the private attorney
+ general doctrine.
+ 
+As explained below, we hold: (1) Plaintiff Robert
+ 
+Babson, at minimum, had standing; (2) the merits of the
+ underlying dispute is moot, and the exceptions to the mootness
+ doctrine asserted by the State do not apply; and (3) the State
+ did not waive its sovereign immunity regarding the award of
+ attorneys' fees, and therefore, the Circuit Court erred in
+ awarding attorneys' fees against the State under the private
+ attorney general doctrine.
+ 
+I.
+ 
+We first address the question of Plaintiffs' standing. 
+The State argues that Plaintiffs lacked standing because they
+ 
+8
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+failed to meet the injury-in-fact test, which requires a showing 
+that: "(1) he or she has suffered an actual or threatened injury as a result of the defendant's wrongful conduct, (2) the injury is fairly traceable to the defendant's actions, and (3) a favorable decision would likely provide relief for a plaintiff's injury." Bush v. Watson, 81 Hawai
+'i 474, 479, 918 P.2d 1130, 
+1135 (1996). 
+However, the Hawai 'i Supreme Court recently held in 
+Asato v. Procurement Policy Board, 132 Hawai 'i 333, 322 P.3d 228 
+(2014), that plaintiffs seeking declaratory relief pursuant to 
+7
+HRS § 91-7 (2012),  as the Plaintiffs are in this case, are not
+required to satisfy the injury-in-fact test in order to obtain standing. Asato, 132 Hawai
+'i at 341, 322 P.3d at 236. Instead, 
+for standing under HRS § 91-7, a plaintiff need only meet the less stringent requirement of showing that he or she is "affected by or involved with the validity of an agency rule." Id. at 343, 
+322 P.3d at 238 (internal quotation marks and citation omitted). 
+In Asato, the plaintiff, Lloyd Y. Asato (Asato), filed 
+a complaint for declaratory and injunctive relief, asserting that an administrative rule promulgated by the State Procurement Policy Board (Board) conflicted with the Hawai
+'i Public 
+Procurement Code, HRS Chapter 103D, and was therefore invalid. Id. at 336-37, 322 P.3d at 231-32. Asato challenged the rule that permitted the Board, under certain circumstances, to procure professional services where less than three potential qualified 
+7HRS § 91-7 provides:
+ 
+(a) Any interested person may obtain a judicial declaration
+as to the validity of an agency rule as provided in subsection (b)
+herein by bringing an action against the agency in the circuit
+court of the county in which petitioner resides or has its
+principal place of business. The action may be maintained whether
+or not petitioner has first requested the agency to pass upon the
+validity of the rule in question.
+ 
+(b) The court shall declare the rule invalid if it finds
+that it violates constitutional or statutory provisions, or
+exceeds the statutory authority of the agency, or was adopted
+without compliance with statutory rulemaking procedures.
+ 
+9
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+persons had been identified, which Asato alleged violated the
+ 
+statutory requirement that "'the selection committee shall rank a
+ minimum of three persons based on the selection criteria and send
+ the ranking to the head of the purchasing agency.'" Id. at 345,
+ 
+322 P.3d at 240 (brackets omitted) (quoting HRS § 103D-304(g)). 
+Asato maintained that he brought the complaint pursuant to HRS 
+§ 91-7 and that he also had standing to pursue the action as a
+ taxpayer. Id. at 336, 322 P.3d at 231. 
+The supreme court held that Asato had standing under
+ 
+HRS § 91-7, "which allows '[a]ny interested person' to obtain 'a
+ judicial determination as to the validity of an agency rule.'" 
+Id. at 341, 322 P.3d at 236 (brackets in original).
+8 The supreme
+ 
+court concluded that unlike an "aggrieved person" in a contested
+ case under HRS Chapter 91, for whom an injury in fact must be
+ shown, an "interested person" is "subject to less stringent
+ standing requirements[,]" and "an interested person need not show
+ injury in fact in order to bring an action pursuant to HRS 
+§ 91-7." Id. at 344, 322 P.3d at 239 (internal quotation marks
+ 
+omitted). The supreme court noted that "our courts have
+ broadened standing in actions challenging administrative
+ decisions" and that it "has adopted a broad view of what
+ constitutes a personal stake in cases in which the rights of the
+ public might otherwise be denied hearing in a judicial for[u]m." 
+Id. (internal quotation marks and citations omitted). Because
+ Asato "sought to sustain the objectives of the procurement code,"
+ the supreme court concluded that "his action was a case of public
+ interest" and that "relaxed standing requirements would apply." 
+Id. at 345, 322 P.3d at 240 (internal quotation marks, citation,
+ and footnote omitted).
+ 
+The supreme court held that "based on the plain
+ 
+language of HRS § 91-7, . . . any interested person is one who
+ 
+8Because the supreme court found standing based on HRS § 91-7, it did
+not reach Asato's claim of taxpayer standing or standing under HRS § 632-1
+(1993), the general declaratory judgment statute. Asato, 132 Hawai' i at 341,
+n.9, 322 P.3d at 236, n.9. 
+10
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+is, without restriction, affected by or involved with the
+ 
+validity of an agency rule." Id. at 343, 322 P.3d at 238
+ 
+(internal quotation marks, brackets, and citation omitted). The
+ court held that Asato qualified as an "'interested person'" and
+ had standing under HRS § 91-7 "because, as a taxpayer challenging
+ a specific public bidding procedure, he may be affected by the
+ validity of a regulation that allegedly allowed an illegal
+ expenditure of public funds." Id. 
+Based on Asato, we conclude that, at minimum, Plaintiff 
+Robert Babson has standing pursuant to HRS § 91-7. Although Asato does not set forth the precise contours of who qualifies as an "interested person," we conclude that Robert Babson sufficiently demonstrated that he has standing as a person "affected by or involved with the validity of an agency rule." See id. The record shows that Robert Babson submitted an 
+affidavit asserting, among other things, that he had voted in every federal election since 1970; that he had been a registered voter in Hawai
+'i and had voted in every election since 1992; that 
+he had served as a "precinct official" and an "official observer" in elections held in Hawai
+'i; and that he had written to the 
+Office of Elections and the Attorney General regarding his observations and concerns regarding the election system. Like Asato, Robert Babson demonstrated that "he may be affected" by the State's alleged adoption of rules relating to policies for voting systems and the transmission of election results, without complying with the procedures for promulgating rules under HAPA. 
+In Asato, the supreme court concluded that Asato had
+ 
+standing because he may be affected, as a taxpayer, by the use of
+ an alleged invalid regulation in awarding government procurement
+ contracts. In this case, we similarly conclude that Robert
+ Babson has standing because he may be affected, as a registered
+ voter who has been actively involved in the elections process, by
+ the State's alleged improper adoption of rules relating to
+ policies for voting systems and the transmission of election
+ results, without the public participation required by HAPA for
+ 
+11
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+promulgating rules, which Robert Babson claims infringed on and
+ 
+violated his right to vote. Because our conclusion that
+ Plaintiff Robert Babson had standing is sufficient to support the
+ filing of the lawsuit in this case, we need not decide whether
+ the other Plaintiffs also had standing.
+ 
+II.
+
+ 
+A.
+ 
+Before we can address the State's arguments regarding
+ 
+the substantive merits of the Circuit Court's grant of summary
+ judgment in favor of Plaintiffs, we must determine whether the
+ dispute over the substantive merits is moot.
+ 
+[A] case is moot if it has lost its character as a present,
+live controversy of the kind that must exist if courts are
+to avoid advisory opinions on abstract propositions of law.
+The rule is one of the prudential rules of judicial self-
+governance founded in concern about the proper -- and
+properly limited -- role of the courts in a democratic
+society. We have said the suit must remain alive throughout
+the course of litigation to the moment of final appellate
+disposition to escape the mootness bar.
+ 
+Doe v. Doe, 116 Hawai 'i 323, 326, 172 P.3d 1067, 1070 (2007) 
+(formatting altered; citation omitted).
+ 
+The mootness doctrine is said to encompass the
+circumstances that destroy the justiciability of a suit
+previously suitable for determination. Put another way, the
+suit must remain alive throughout the course of litigation
+to the moment of final appellate disposition. Its chief
+ purpose is to assure that the adversary system, once set in
+operation, remains properly fueled. The doctrine seems
+ appropriate where events subsequent to the judgment of the
+trial court have so affected the relations between the
+ parties that the two conditions for justiciability relevant
+on appeal -- adverse interest and effective remedy -- have
+been compromised.
+ 
+. . . .
+ 
+The duty of this court, as of every other judicial
+tribunal, is to decide actual controversies by a judgment
+which can be carried into effect, and not to give opinions
+upon moot questions or abstract propositions, or to declare
+principles or rules of law which cannot affect the matter in
+issue in the case before it. 
+Wong v. Board of Regents, University of Hawaii, 62 Haw. 391, 394­
+95, 616 P.2d 201, 203-04 (1980).
+ 
+12
+  NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+We conclude that the dispute underlying this case is
+ 
+moot. Plaintiffs challenged the State's "adoption" of the 2005
+ 
+VVSG through the issuance of its RFP to lease voting system
+ equipment and its use of telephone lines or the internet to
+ transmit election results without first promulgating rules
+ pursuant to HAPA. The State subsequently promulgated rules
+ pursuant to HAPA to authorize the challenged practices. Thus,
+ the dispute over whether the State was required to promulgate
+ rules before engaging in the challenged practices is moot. See
+ 
+Wong, 62 Haw. at 396, 616 P.2d at 205 (holding that an action
+ seeking a declaratory judgment to require the University to
+ comply with HAPA with respect to a statement regulating student
+ conduct was rendered moot by the University's subsequent
+ compliance with HAPA).
+9
+ 
+B.
+ 
+The State, however, argues that the public interest 
+exception to the mootness doctrine applies. "When analyzing the public interest exception, we look to '(1) the public or private nature of the question presented, (2) the desirability of an authoritative determination for future guidance of public officers, and (3) the likelihood of future recurrence of the question.'" Doe, 116 Hawai
+'i at 327, 172 P.3d at 1071 (citation 
+omitted). The State also argues that this case falls within the exception to the mootness doctrine for cases involving a legal issue which is capable of repetition, yet evading review. See 
+Wong, 62 Haw. at 396, 616 P.2d at 204. 
+The State frames the issue presented by this appeal as
+ 
+"whether technical specifications are rules 'improperly adopted'
+ through the issuance of an RFP[.]" The State's implicit
+ assumption is that the Circuit Court's ruling will require the
+ State to adopt rules whenever the State seeks to acquire
+ 
+9Plaintiffs have represented to this court that they believe this case
+is moot, in light of the State's adoption of rules pursuant to HAPA, and that
+the State's appeal of the summary judgment order is subject to dismissal on
+mootness grounds. 
+13
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+equipment through an RFP which contains technical specifications. 
+The State argues that because government agencies routinely issue
+ RFPs containing technical specifications to acquire equipment,
+ the Circuit Court's ruling will have broad and far-reaching
+ effects, which justify the application an exception to the
+ mootness doctrine.
+ 
+We disagree with the State's premise that the Circuit
+ 
+Court's ruling will broadly apply whenever a government agency
+ acquires equipment through an RFP which contains technical
+ specifications. Instead, we conclude that the Circuit Court's
+ ruling was based on, and is limited to, the particular
+ circumstances presented by the facts of this case. Because of
+ the limited nature of the Circuit Court's ruling and its lack of
+ general applicability to other government procurements, and
+ because there is no indication that the issue presented in this
+ case regarding the Chief Election Officer's incorporation of the
+ 2005 VVSG into an RFP without first adopting rules is likely to
+ recur, we conclude that the State's asserted exceptions to the
+ mootness doctrine do not apply.
+ 
+C.
+ 
+For purposes of HAPA, the term "rule" 
+means each agency statement of general or particular
+applicability and future effect that implements, interprets,
+or prescribes law or policy, or describes the organization,
+procedure, or practice requirements of any agency. The term
+ does not include regulations concerning only the internal
+management of an agency and not affecting private rights of
+or procedures available to the public, nor does the term
+include declaratory rulings issued pursuant to section 91-8,
+nor intra-agency memoranda. 
+HRS § 91-1(4) (2012).
+ 
+The Hawai 'i Supreme Court has instructed that in 
+determining whether an agency's statement constitutes a "rule" 
+under HAPA, the court must "inquire into the nature of the [agency's] powers and responsibilities under . . . [the] law and also the purpose and effect" of the agency's statement. Aguiar 
+v. Hawaii Housing Authority, 55 Haw. 478, 482, 522 P.2d 1255,
+ 1259 (1974). In other words, the determination of whether an
+ 
+14
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+agency's statement constitutes a "rule" under HAPA is specific to
+ 
+the agency and the statement at issue and is done on a case-by­case basis. This determination requires a particularized
+ assessment of the statement's purpose and effect in light of the
+ specific powers and responsibilities granted to the agency by the
+ Legislature.
+ 
+Generally, an agency's contract with a private party 
+does not constitute a "rule" subject to HAPA. See Ah Ho v. Cobb, 
+62 Haw. 546, 617 P.2d 1208 (1980). In Ah Ho, the Hawai
+'i Supreme 
+Court held that a contract between the Hawai 'i Board of Land and 
+Natural Resources and a private party to rent excess transmission capacity in the Moloka
+'i Irrigation System did not constitute a 
+rule subject to HAPA. Id. at 547, 549-53, 617 P.2d at 1210-13. 
+In support of its decision, the supreme court cited the reasoning of cases under the federal Administrative Procedures Act (FAPA), which specifically exempts agency contracts from FAPA's notice and hearing requirements: 
+The practical necessity for the public contracts
+exception is apparent. It would be altogether unreasonable
+to require the various agencies of government to publish
+notice in the Federal Register and to hold hearings each and
+every time they entered into, rescinded, or canceled a
+government contract; the burden in time and expense would be
+extraordinary.
+ 
+Id. at 553, 617 P.2d at 1213 (quoting Rainbow Valley Citrus Corp.
+ 
+v. Federal Crop Ins. Corp., 506 F.2d 467, 469 (9th Cir. 1974)).
+ 
+Here, the Circuit Court's ruling was based on a 
+particularized assessment of the nature of the specific powers and responsibilities conferred on the Chief Election Officer by the Legislature and the purpose and effect of the incorporation of the 2005 VVSG into the RFP. The Circuit Court focused on the core responsibilities of the Chief Election Officer under Hawai
+'i 
+law, stating that "[t]he [Chief Election Officer] is charged by State law to administer all state elections, including making, amending, and repealing rules and regulations governing the establishment, use, and operation of all voting systems now in use or to be adopted in the State." The Circuit Court then 
+15
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+evaluated the particular purpose and effect of the Chief Election
+ 
+Officer's incorporation of the 2005 VVSG into the RFP for voting
+ system equipment in light of the Chief Election Officer's core
+ responsibilities. Based on this particularized evaluation, the
+ Circuit Court concluded:
+ 
+In incorporating the 2005 VVSG into the 2006 RFP, and by
+requiring that the new voting system "shall meet or exceed"
+the 2005 VVSG, the [Chief Election Officer] issued a
+"statement of general or particular applicability and future
+effect" that implemented or prescribed the policy of the
+Office of Elections, namely, that any proposed new voting
+system would have to meet or exceed the 2005 VVSG, or have a
+proposed alternate feature that provides a functional
+equivalent.
+ 
+We do not read the Circuit Court's ruling as broadly 
+applying whenever a government agency uses an RFP containing 
+technical specifications to acquire equipment. Rather, we conclude that consistent with existing precedent, the Circuit Court rendered a decision that was specific to and dependent upon the particular agency and statement at issue. Because of the particularized nature of the Circuit Court's ruling, we conclude that our review of the merits of the Circuit Court's decision to grant summary judgment in favor of Plaintiffs would not serve to provide "an authoritative determination for future guidance of public officers[.]" See Doe, 116 Hawai
+'i at 327, 172 P.3d at 
+1071. There are already numerous published opinions setting forth general principles to apply in determining whether an agency's statement constitutes a rule under HAPA. We also conclude that the particular issue raised by this case concerning the Chief Election Officer's incorporation of the 2005 VVSG into an RFP without first adopting rules is not likely to recur, and therefore, it is not an issue that is "capable of repetition, yet evading review." See Wong, 62 Haw. at 396, 616 P.2d at 204. 
+Accordingly, the State's asserted exceptions to the mootness doctrine are inapplicable. 
+III.
+ 
+Because the underlying dispute is moot, we evaluate the
+ 
+State's challenge to the award of attorneys' fees based on the
+ 
+16
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+assumption that the Circuit Court's decision on the merits was 
+correct, which means that Plaintiffs were the prevailing parties. See Queen Emma Foundation v. Tatibouet, 123 Hawai
+'i 500, 510-11, 
+236 P.3d 1236, 1246-48 (App. 2010). The State argues that the Circuit Court erred in awarding attorneys' fees against it pursuant to the private attorney general doctrine because the State asserts that it "has not waived its [sovereign] immunity from [P]laintiffs' claim for money damages[.]" We agree.
+10 
+The Hawai 'i Supreme Court's decision in Kaleikini v. 
+Yoshioka, 129 Hawai 'i 454, 304 P.3d 252 (2013) is dispositive. 
+In Kaleikini, the supreme court stated that an award of attorneys' fees to a prevailing party "is inherently in the nature of a damage award" and that "the sovereign State is immune from suit for money damages, except where there has been a clear relinquishment of immunity and the State has consented to be sued." Id. at 467, 304 P.3d at 265 (internal quotation marks and 
+citations omitted). The supreme court noted that "HRS § 661-1(1) contains a limited waiver of sovereign immunity for claims against the State of Hawai
+'i that are founded upon a statute." 
+Id. (internal quotation marks, citation, footnote, and brackets omitted). It recognized, however, that "[i]t is well settled that a provision allowing for declaratory or injunctive relief is not a waiver of the State's sovereign immunity, but rather an exception to the sovereign immunity doctrine for which no waiver is necessary." Id. at 468, 304 P.3d at 266. In other words, 
+because sovereign immunity does not preclude an action against the State for declaratory or injunctive relief in the first place, no waiver of sovereign immunity can be implied from a statute that only authorizes suits for declaratory or injunctive relief against the State. See id. 
+10Because we conclude that the Circuit Court's award of attorneys' fees
+was improper because the State did not waive its sovereign immunity, we do not
+address the State's alternative argument that the conditions for applying the
+private attorney general doctrine were not met. 
+17
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Based on these principles, the supreme court rejected
+ 
+Kaleikini's argument that HRS § 6E-13(b) served to waive the
+ 
+State's sovereign immunity. Id. The supreme court held that
+ 
+because HRS § 6E-13(b) only permitted suits to be brought against
+ the State for restraining orders or injunctive relief, it did not
+ waive the State's sovereign immunity from the award of attorneys'
+ fees under the private attorney general doctrine. Id. 
+In this case, Plaintiffs filed an action against the 
+State seeking declaratory and injunctive relief. Plaintiffs contend that the State's waiver of its sovereign immunity is founded on HRS Chapter 91, on which their claims against the State were based. However, in their Complaint, the only specific provision of HRS Chapter 91 cited by Plaintiffs as authorizing their claims for relief was HRS § 91-7, which only authorizes an action against the State for declaratory relief. Plaintiffs do not identify any provision of HRS Chapter 91 that would authorize an action against the State beyond an action for declaratory or injunctive relief. In Kaleikini, the supreme court concluded that a statute that only allows suits to be brought against the State for declaratory or injunctive relief does not waive the State's sovereign immunity. Kaleikini, 129 Hawai
+'i at 468, 304 
+P.3d at 266. Based on Kaleikini, we conclude that the State did not waive its sovereign immunity from the award of attorneys' fees in this case and that the Circuit Court erred in awarding such fees against the State. 
+CONCLUSION
+ 
+We hold that Plaintiff Robert Babson, at minimum, was
+ 
+an "interested person" under HRS § 91-7 and had standing to
+ support the filing of Plaintiffs' lawsuit. We further hold that
+ the dispute underlying this case is moot and that the exceptions
+ to the mootness doctrine asserted by the State do not apply. We
+ therefore do not address the State's challenge to the merits of
+ the Circuit Court's grant of summary judgment in favor of
+ Plaintiffs, and we dismiss as moot the State's claim on appeal
+ that the Circuit Court erred in granting Plaintiffs' motion for
+ 
+18
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+summary judgment. Finally, we hold that the State did not waive
+ 
+its sovereign immunity from Plaintiffs' claim for attorneys'
+ fees. Accordingly, we vacate the portion of the Circuit Court's
+ Final Judgment that awarded attorneys' fees (and general excise
+ tax thereon) to Plaintiffs under the private attorney general
+ doctrine.
+11
+ 
+DATED: Honolulu, Hawai 'i, September 17, 2014. 
+Kimberly Tsumoto Guidry
+Deputy Solicitor General
+Girard D. Lau
+ Solicitor General for Defendants-Appellants
+ 
+Chief Judge
+Associate Judge
+Associate Judge
+ Lance D. Collins
+
+ 
+(Law Office of Lance D.
+Collins) for Plaintiffs-Appellees
+ 
+11Aside from its claims that Plaintiffs lacked standing and should not
+have prevailed on the merits, the State did not challenge the award of costs
+in favor of Plaintiffs. See Kaleikini, 129 Hawai' i at 469 n.14, 304 P.3d at
+267 n.14 ("HRS § 607–24 waives the State's immunity for costs 'in all cases inwhich a final judgment or decree is obtained against the State.'" (bracketsomitted)). We therefore affirm the Circuit Court's Final Judgment to theextent that it awarded costs in favor of Plaintiffs. 
+19
+ 

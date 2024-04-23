@@ -1,0 +1,1508 @@
+***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAI I 
+ 
+---o0o--- 
+________________________________________________________________ 
+ 
+GARY MOBLEY, Respondent/Plaintiff
+-Appellant, 
+  
+vs. 
+ 
+LYANNE KIMURA, Respondent/Defendant/Cross-Claim Defendant/Cross- 
+Claimant/Third-Party Plaintiff/Counterclaim Defendant-  
+Appellee, LESLIE S. CHING, Respondent/Defendant/Cross-
+Claimant/Cross- Claim Defendant- Appellee,  
+ 
+and 
+ 
+DENNIS K. ESPANIOLA, Petitioner/Third- Party 
+Defendant/Counterclaimant/Cross- Claimant/  
+Cross-Claim Defendant- Appellee.  
+________________________________________________________________
+  
+SCWC-12-0001090 
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS 
+(CAAP-12-0001090; CIVIL NO. 1CC0910 02674) 
+ 
+MARCH 13, 2020 
+ 
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, POLLACK, AND WILSON, JJ.
+ 
+OPINION OF THE COURT BY McKENNA, J.  
+ 
+I. Introduction  
+ This case arises from a personal injury lawsuit filed by 
+Gary Alan Mobley (“Mobley”) against the drivers of two vehicles Electronically Filed
+Supreme Court
+SCWC-12-0001090
+13-MAR-2020
+09:30 AM***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+2 
+ in two separate accidents
+, from which Mobley alleges injuries.  
+The accidents occurred on June 8, 2005,  and January 12, 2008.  
+Mobley filed a complaint in the Circuit Court of the First 
+Circuit (“circuit court”) against Leslie S. Ching (“Ching”)  for 
+the 2005 accident and Lyanne Kimura (“Kimura”)  for the 2008 
+accident.  Kimura then impleaded Dennis K. Espaniola 
+(“Espaniola”) as a third-party defendant because of  his 
+involvement in the 2008 a ccident.   
+Hawaiʻi Revised S
+tatutes (“HRS”) § 431:10C -306(a) (2005) 
+abolishes tort liability with respect to accidental harm arising 
+from motor vehicle accidents occurring in this State unless an 
+exception under subsection (b) applies.  Mobley’s complaint 
+alleged he was able to assert tort liability for the 2005 and 
+2008 accidents under either or both of two exceptions: (1)     
+HRS § 431:10C-306 (b)(4), which provides an exception to the 
+abolition of tort liability if a person has incurred at least 
+$5,000 in personal inj ury protection (“PIP”) benefits  (sometimes 
+“tort threshold” or “tort threshold exception” ); and/or (2)   
+HRS § 431:10C-306(b)(2), which provides an exception for an 
+injury that consists, in whole or in part, “in a significant 
+permanent loss of use of a part or function of the body” 
+(sometimes “significant permanent loss of use exception”).  
+The circuit court granted summary judgment in favor of 
+Kimura and Espaniola with respect to the 2008 accident, ruling ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+3 
+ Mobley failed to satisfy either exception.  Before granting the 
+defense motions, the circuit court 
+also ruled Mobley failed to 
+lay sufficient foundation for the admission and consideration of 
+a doctor’s report and letter attached to his opposition 
+memorandum, then denied Mobley’s  oral request for a Hawaiʻi Rules 
+of Civil Procedure (“HRCP”)  Rule 56(f) continuance to obtain 
+admissible evidence of the contents of the doctor’s documents .   
+ In its August 15, 2019 memorandum opinion, the Intermediate 
+Court of Appeals (“ ICA”) ruled, inter alia, that the circuit 
+court erred in granting summary judgment in favor of Kimura and 
+Espaniola for the 2008 a ccident.  We accepted Espaniola ’s 
+application for a writ of certiorari, which presents two 
+questions, summarized as follows:  
+1. Did the ICA err in ruling the circuit c ourt erred  in 
+granting Espaniola’s motion for partial summary judgment 
+based on Mobley’s failure to satisfy the tort threshold?  
+ 
+2. Did the ICA err in ruling that the c ircuit c ourt’s 
+grant of Espaniola’s motion for partial summary judgment  
+was premature because evidence had not established that, by 
+the time of trial, Mobley would not be able to demonstrate 
+satisfaction of the tort threshold or prove that his injury 
+constitutes , in whole or in part , a significant permanent 
+loss of use of a part or function of the body ? 
+  
+Espaniola ’s questions on certiorari relate to the ICA’s 
+application of the following portion of Ralston v. Yim , 129 
+Hawaiʻi 46, 292 P.3d 1276
+ (2013): ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+4 
+ In sum, this court's case law indicates that a 
+summary judgment movant may satisfy [their][
+1] initial burden 
+of production by either (1) presenting evidence negating an 
+element of the non -movant's claim, or (2) demonstrating 
+that the nonmovant will be unable to carry 
+[their] burden 
+of proof at trial.   Where the movant attempts to meet 
+[their] burden through the latter means, [they] must show 
+not only that the non -movant has not placed proof in the 
+record, but also that the  movant will be  unable to offer 
+proof at trial .  Accordingly, in general, a summary 
+judgment movant cannot merely point to the non -moving 
+party's lack of evidence to support [their] initial burden 
+of production if discovery has not concluded.  (“[M]erely 
+asserting that the non -moving party has not come forward 
+with evidence to support its claims is not enough.”).  
+ 
+129 Hawai ʻi at 60- 61, 292 P.3d at 1290- 91 (last alteration in 
+original) (citations omitted). 
+For clarity, w e address the ICA’s rulings on  the tort 
+threshold and significant permanent loss of use exceptions 
+separately, rather than through the questions presented by 
+Espaniola. 
+With respect to Mobley’s alleged failure to satisfy the 
+tort threshold exception, Espaniola’s motion was based on  the 
+first Ralston prong, as Kimura and Espaniola allegedly 
+“present[ed] evidence negating  an element of [Mobley’s] claim” 
+by submitting a declaration stating that no PIP benefits had 
+been paid for the 2008 accident.  Yet, the ICA ruled Espaniola 
+was not entitled to summary judgment because of a failure to 
+show that Mobley would be unable to offer proof at trial that he 
+met the tort threshold.  As indicated in the passage from 
+                                                           
+1  In this opinion, “they, them, and their” are used where (1) those are 
+the pronouns used by a specific person; or (2) the gender identity of a 
+person referred to is unknown, unspecified, or immaterial.    ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+5 (continued. . .)  
+ Ralston above, however, t he “unable to offer proof at trial”  
+factor applies only when a movant seeks summary judgment based 
+on the second Ralston prong, by “demonstrating that the 
+nonmovant will be unable to carry [their] burden of proof at 
+trial.”  According to Hawai ʻi law, when a plaintiff asserts 
+applicability of the tort threshold exception, satisfaction of 
+the exception is jurisdictional to the filing of a lawsuit.  
+Therefore, the ICA erred to the extent it ruled Espaniola could 
+not obtain summary judgment on the to
+rt threshold exception 
+unless he could show Mobley could not demonstrate he could meet 
+the tort threshold at the time of trial. 
+We also hold, however, that the ICA did not err in vacating 
+the circuit court’s grant of summary  judgment as to the 2008 
+accident based on the tort threshold exception.  This is because 
+Espaniola failed to meet his initial burden under the first 
+Ralston prong of “negating an element of [Mobley’s] claim .”  The 
+tort threshold exception of HRS § 431:10C-306(b) (4) requires 
+that a plaintiff have “incurred” PIP benefits of $5,000,  and 
+reviewing the record de novo, Mobley ’s amended  answers to 
+interrogatories, attached to Kimura’s motion for summary 
+judgment,2 raised a genuine issue of material fact on the 
+applicability of the exception. 
+                                                           
+2  HRCP Rule 56(e) (2000) provides in relevant part that “[s]upporting and 
+opposing affidavits shall be made on personal knowledge, shall set forth such ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+6 
+ The ICA also did not er r with respect to its application of 
+Ralston with respect to the significant permanent loss of use 
+exception.  Espaniola presented no evidence to negate this 
+exception to the abolition of tort liability.  Espaniola’s 
+motion for partial summary judgment was, therefore, based on the 
+second Ralston prong.  The ICA properly concluded Espaniola did 
+not meet his burden of establishing that Mobley would be unable 
+to offer proof of this exception at trial; based on the record, 
+whether Mobley could meet the exception was not “so clear that 
+reasonable minds could only come to one conclusion .”   
+We therefore affirm the ICA’s August 29, 2019 judgment on 
+appeal, which vacated the circuit court’s March 6, 2013 judgment 
+and remanded the case for reinstatement of Mobley’s claims 
+related to both the 20053 and 2008 a ccidents, but as modified by 
+the analysis in this opinion. 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                          
+(. . .continued) 
+facts as would be admissible  in evidence, and shall show affirmatively that 
+the affiant is competent to testif y to the matters stated therein[,]” and 
+HRCP Rule 56(c) provides in relevant part that “ [t]he judgment sought shall 
+be rendered forthwith if the pleadings, depositions, answers to 
+interrogatories, and admissions on file, together with the affidavits, if 
+any, show that there is no genuine issue as to any material fact and that the 
+moving party is entitled t o a judgment as a matter of law.”   
+ 
+3  See infra notes 4, 15, and 18. ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+7 (continued. . .)  
+ II. Background 
+A. HRS § 431:10C- 306 
+ HRS § 431:10C- 306,4 entitled “Abolition of tort liability,” 
+will be continually referenced.  It states in relevant part as 
+follows: 
+(a) Except as provided in subsection (b), this article 
+abolishes tort liability of the following persons with 
+respect to accidental harm arising from motor vehicle 
+accidents occurring in this State:  
+ 
+(1) Owner, operator, or user of an insured motor 
+vehicle; or  
+ 
+(2) Operator or user of an uninsured motor vehicle 
+who operates or uses such vehicle without reason to believe 
+it to be an uninsured motor vehicle.  
+ 
+(b) Tort liability is not abolished as to the following 
+persons, their personal representatives, or their legal 
+guardians in the following circumstances:  
+ 
+(1)
+ Death occurs to the person in such a motor 
+vehicle accident;  
+ 
+(2) Injury occurs to the person which  consists, in 
+whole or in part, in a significant permanent loss of use of 
+a part or function of the body;  
+ 
+(3) Injury occurs to the person which consists of a 
+permanent and serious disfigurement which results in 
+subjection of the injured person to mental or emotional 
+suffering; or  
+ 
+(4) Injury occurs to the person in a motor vehicle accident 
+and as a result of such injury that the personal injury 
+protection benefits incurred by such person equal or exceed 
+$5,000;[5] provided that in calculating this amount:  
+                                                           
+4  HRS § 431:10C- 306 has not been amended since 2001.  
+ 
+5  At all times relevant to this case, HRS § 431:10C- 103.5(a) (2005) 
+defined “personal injury protection benefits” as follows: 
+ 
+(a) Personal  injury protection benefits , with respect to 
+any accidental harm, means all appropriate and reasonable 
+treatment and expenses necessarily incurred as a result of 
+the accidental harm and which are substantially comparable 
+to the requirements for prepaid health care plans, 
+including medical, hospital, surgical, professional, ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+8 . . . . 
+  
+(A)
+ The following shall be included:  
+ 
+(i) Personal injury protection benefits 
+incurred by, paid to or payable to, or on behalf 
+of, an eligible injured person including amounts 
+paid directly by or on behalf of the eligible 
+insured because of the accidental  harm or similar 
+benefits under social security, worker's 
+compensation, or public assistance laws;  
+ 
+(ii) The applicable amounts of deductible or 
+copayment paid or incurred;  
+ 
+(iii) Amounts paid by or on behalf of an 
+injured person who is not entitled to personal 
+injury protection benefits, by health insurance or 
+other funds; provided that payment in excess of 
+the charges or services allowable under this 
+chapter shall not be included;  
+ 
+(iv) Where an eligible injured person 
+receives coverage on other than a  fee for service 
+basis including, but not limited to, a health 
+maintenance organization operating on a capitation 
+basis, the value of services provided shall be 
+determined in accordance with the fee schedules 
+allowable under this chapter for purposes of 
+threshold determination;  
+ 
+(B) When a person has optional coverage, 
+benefits received in excess of the maximum basic 
+personal injury protection limits set forth 
+in section 431:10C -103.5 shall not be included. 
+  
+(c) Subsections (a) and (b) shall apply whether or not the 
+injured person is entitled to receive personal injury 
+protection benefits.  The party against whom the 
+presumption under this section is directed shall have the 
+burden of proof to rebut the presumption.  
+   
+ 
+ 
+                                                                                                                                                                                          
+(. . .continued) 
+nursing, advanced practice nursing recognized pursuant to 
+chapter 457, dental, optometric, naturopath y, chiropractic, 
+ambulance, prosthetic services, medical equipment and 
+supplies, products and accommodations furnished, x -ray, 
+psychiatric, physical therapy pursuant to prescription by a 
+medical doctor, occupational therapy, rehabilitation, and 
+therapeutic massage by a licensed massage therapist when 
+prescribed by a medical doctor.  
+ ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+9 
+ B. Factual background  
+ Mobley  was born on July, 23, 1952, and served in the United 
+States Army.  After leaving the military, Mobley became a junior 
+ROTC instructor on Maui,  then on Oahu.  As of the 201 1 motions 
+at issue in this appeal, Mobley ha d been a junior ROTC 
+instructor at Punahou School since August 2000 and  had been 
+married to his wife, Susan, for over thirty- eight years, with 
+whom he had two children.   
+ The 2005 accident occurred on June 8, 2005.  Ching rear-
+ended Mobley on the H- 1 freeway.   Mobley’s motor vehicle 
+insurance company, GEICO , classified Mobley’s truck a total 
+loss, and paid him $14,050.   
+ The 2008 accident occurred on January 12, 2008.  Mobley was 
+rear-ended in a chain-reaction collision on the H -1 freeway.   
+Espaniola was directly behind Mobley when Kimura rear- ended 
+Espaniola’s vehicle, pushing it into Mobley’s truck.   
+C. Procedural background 
+ 1. Circuit court proceedings 
+  a.  Pleadings and pre-trial 
+ On November 13, 2009, Mobley filed a complaint against 
+Ching and Kimura, alleging their negligence caused him injuries.  
+Mobley alleged the 2005 accident caused pain in his neck, back, 
+and shoulder; numbness in his hands and leg; and headaches.  He 
+also claimed he was no longer able to run or march with his ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+10 
+ students.  He alleged
+ the 2008 accident aggravated his injuries 
+from the 2005 accident.  Mobley ’s complaint  also asserted his 
+claims against Ching and Kimura were exempted from the abolition 
+of tort liability because he met the required “medical 
+threshold” and had “permanent injury and significant loss of use 
+of a body part and function and continues to require medical 
+attention.”   
+Ching’s December 10, 2009 answer asserted Mobley’s 
+complaint was barred by HRS § 431:10C ( sometimes “ no-fault 
+law”).  Ching later admitted liability for the 2005 accident, 
+but disputed causation of Mobley’s injuries  and the nature and 
+extent of Mobley’s  damages.   
+On March 3, 2010, Kimura answered, also alleging  Mobley’s 
+complaint was barred by HRS § 431:10C.  Kimura also filed a 
+third-party complaint against Espaniola, which was not served 
+until September 24, 2010.
+  Ching, Kimura, and Espaniola then 
+filed claims against each other, but  Mobley did not “amend over” 
+to assert a direct claim against Espaniola.6   
+On June 13, 2011, Kimura moved to continue the original 
+September 12, 2011 trial date, which had been set before 
+                                                           
+6  HRCP Rule 14(a) (2000) provides in part that “ [t]he plaintiff may 
+assert any claim against the third -party defendant arising out of the 
+transaction or occurrence that is the subject matter of the plaintiff's claim 
+against the third- party plaintiff, and the  third-party defendant thereupon 
+shall assert any defenses as provided  in Rule 12 and any counterclaims and 
+cross-claims as provided in  Rule 13.” ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+11 
+ Espaniola appeared as a party.  T he circuit court extended the 
+trial week to April 16, 2012, and  vacated all previous  
+deadlines.  
+b. Kimura and Espaniola’s motions for summary 
+judgment  
+ 
+i.  Kimu ra’s motion for summary judgment 
+ On September 29, 2011, Kimura moved for summary judgment,  
+alleging Mobley failed to satisfy the tort threshold exception 
+of HRS § 431:10C-306(b)(4) with respect to the 2008 accident 
+(“MSJ”).  Kimura cited 
+Parker v. Nakaoka, 68 Haw. 557, 722 P.2d 
+1028 (1986), and Walsh v. Chan, 80 Hawai ʻi 188, 907  P.2d 774 
+(App. 1995), rev’d on other grounds, 80 Hawaiʻi 212, 908 P.2d 
+1198 (1995), discussed in Section IV.A below.  Kimura contended 
+there was no evidence Mobley received PIP benefits to satisfy 
+the tort threshold.  To her motion, Kimura attached  the 
+complaint, the third- party complaint, Mobley’s amended answers 
+to interrogatories, and a declaration from Ku ʻulei Aina (“Aina 
+Declaration”), Mobley’s  GEICO no- fault claims representative for 
+the 2008 accident.  The Aina Declaration stated that “as of the 
+date of this Declaration [September 26, 2011],” no PIP benefits 
+had been paid on behalf of Mobley.   
+Mobley’s amended answers to interrogatories, on the other 
+hand, contained the following response: 
+The following represents the total amount of medical 
+expenses incurred by Plaintiff Gary Mobley as the result of ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+12 
+ the motor vehicle accident on June 8, 2005 and in the motor 
+vehicle accident on January 12, 2008:  
+ 
+Tripler Army Medical Center    $3,976.12
+Hawaii Diagnostic Fluoroscopy      $900.00
+Dr. Chai Health Center     $3,634.80
+Dr. Simon Kim, MD        $216.02
+Kaimuki Chirop tactic [sic] Center  $2,260.00
+First Physical & Functional Rehab   $2,490.72
+TOTAL:          $13,477.66 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Formatting altered.)  Kimura argued that under Celotex Corp. v. 
+Catrett, 477 U.S. 317, 322 (1986), HRCP Rule 56(c) (2000) 
+mandated entry of summary judgment,  after an adequate time for 
+discovery, against a party who fails to make a showing 
+sufficient to establish the existence of an element essential to 
+that party’s case, and on which that party will bear the burden 
+of proof at trial.7  As such, Kimura asserted Mobley could not 
+prove he met the tort threshold or significant permanent loss of 
+use exceptions to the abolition of tort liability, making 
+summary judgment proper. 
+Kimura did not present any evidence regarding the 
+significant permanent loss of use exception.  
+ii.  Espaniola’s motion for partial summary 
+judgment  
+ 
+On September 30, 2011, Espaniola moved for partial summary 
+judgment also based on Mobley’s alleged failure to satisfy the 
+tort threshold exception under HRS § 431:10C-306(b)(4)  (“MPSJ”) .  
+Espaniola also joined Kimura’s MSJ.  In addition to asserting 
+                                                           
+7  We rejected this ruling of Celotex in Ralston.  129 Hawaiʻi at 62, 292 
+P.3d at 1292.  ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+13 
+ arguments similar to Kimura, Espaniola cited to Ho v. Leftwich, 
+88 Hawaiʻ i 251, 965 P.2d 793 (1998), also discussed in Section 
+IV.A below.   
+Like Kimura, Espaniola did not submit any evidence 
+regarding the significant permanent loss of use
+ exception.  
+iii. Mobley’s  consolidated oppositio n memorandum  
+Mobley filed a consolidated memorandum oppos ing Kimura’s 
+MSJ and Espaniola’s  MPSJ.8  He contended he met the significant 
+permanent loss of use exception of  HRS § 431:10C- 306(b)(2), 
+alleging there was a genuine issue of material fact created by 
+his inability to run or march with his students at work.  In 
+support, Mobley attached an independent medical evaluation 
+(“IME”) report and letter written by Dr. Peter Diamond (“Dr. 
+Diamond”) (collectively, “Dr. Diamond’s documents”) .  Dr. 
+Diamond’s documents  were attached to a declaration in which 
+Mobley’s counsel attested  as to their authenticity.  
+Substantively, Dr. Diamond’s letter stated, “ [a]s regards Mr. 
+Mobley’s inability to run or march with the students, this would 
+represent a significant, and likely permanent functional loss. ”  
+Dr. Diamond’s IME report also provided a chronology of Mobley’s 
+treatment by the providers listed in his amended answers to 
+interrogatories.  In  both the letter and the IME report, Dr. 
+                                                           
+8  Ching filed state ments of no position as to both Kimura’s and 
+Espaniola’s motions.   ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+14 
+ Diamond indicated his opinions were expressed to a reasonable 
+degree of medical probability.  Dr. Diamond also apportioned 
+Mobley’s injuries as 50% secondary to the 2005 accident and 50% 
+to the 2008 accident.  
+Then, in a supplemental memorandum, Mobley assert ed he also 
+satisfied the tort threshold exception of                     
+HRS § 431:10C-306(b)(4).  
+He stated he had filed a PIP claim 
+with GEICO to pay for medical treatments for  the 2008 accident, 
+but that GEICO had denied all payments and that an arbitration 
+decision was pending.  He stated his medical service providers 
+had billed GEICO for treatment provided in the 2008 accident.  
+He also contended that 
+[i]f the arbitrator orders GEICO to make payments, then 
+several thousands of dollars in PIP payments will be made 
+in Mr. Mobley’s second accident PIP file.  Ms. Aina’s 
+declaration . . . may mislead the Court as it gives the 
+appearance that not only were no bills paid but also that 
+no treatment services were provided to Mr. Mobley under the 
+second accident PIP file.  The Court should be aware that 
+Mr. Mobley did in fact treat his injuries from the second 
+accident and those bills were submitted to GEICO PIP claims 
+for payment.  
+ 
+(Footnote omitted.)  In support, he attached a letter dated 
+October 17, 2011, from a GEICO staff attorney, which  confirmed 
+that an arbitration hearing had taken place on June 3, 2011, 
+regarding Mobley’s PIP payments from the 2008 accident but that 
+the arbitration decision was still pending.  
+ 
+ 
+ ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+15 
+   
+ iv. Kimura and Espaniola’s repl ies 
+ In her reply, Kimura argued  Mobley had not presented 
+evidence to establish he had “incurred” PIP benefits of $5,000 
+or that GEICO had paid any PIP benefits.  
+Kimura also argued Parker , discussed in Section IV.A below, 
+permits a court to rule on the significant permanent loss of use 
+exception before trial, and that “pain” that precludes  running 
+or marching does not qualify under that exception.9  Kimura also 
+attached Mobley’s May 3, 2011 deposition  to her reply .  In the 
+deposition, Mobley testified at length regarding injuries from 
+the 2008 accident, including neck and back pain, headaches, and 
+numbness; that he was not running at all; that driving became 
+harder because it hurt to bend his neck and head;  and that it 
+had become difficult to sit or perform physical activities with 
+his students.  Kimura argued Mobley had been unable to specify 
+whether he stopped running and marching before or after the 2008 
+accident.  Kimura argued that if Mobley’s pain while running or  
+marching qualified as a significant permanent loss of use, 
+however, 
+“practically any injury” would fall into th at 
+exception, which would defeat the purpose of Hawai ʻi’s no-fault 
+law.  
+                                                           
+9  Kimura also cited Licari v. Elliot, 441 N.E.2d 1088 (N.Y. 1982), a case 
+Parker cited in its holding that trial judges are not precluded from 
+determining whether a plaintiff met the threshold requirement, which is also 
+discussed in Section IV.A  below. ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+16 
+ Kimura did not contest the admissibility of Dr. Diamond’s 
+documents attached to Mobley’s  consolidated opposition 
+memorandum. 
+ In his October 21, 2011 reply, Espaniola argued Dr. 
+Diamond’s documents were not admissible in evidence, as Mobley’s 
+counsel was not competent to lay a foundation as to Dr. 
+Diamond’s documents .  Further,  he argued that even if Dr. 
+Diamond’s documents were  admissible, Mobley’s injuries did not 
+constitute the kind of “significant permanent loss of use of a 
+part or function of the body ” the Hawai ʻi legislature sought to 
+exempt from tort liability.   
+ As to the tort threshold exception, Espaniola argued no PIP 
+benefits had been paid on behalf of Mobley for the 2008 
+accident.  Espaniola argued Mobley stated “several thousands of 
+dollars in PIP payments will be made,” but failed to meet the 
+specific requirement of a minimum of $5,000.  Espaniola argued 
+Mobley “clearly [knew] exactly how much he is alleging is due 
+pursuant to the alleged injuries arising out of [the 2008 
+accident], but fails to state what that amount is.”   
+   v . Circuit court’s oral ruling  
+ On October 26, 2011, the circuit court10 held a hearing on  
+Kimura’s MSJ and Espaniola’s MPSJ.  When the circuit court asked 
+                                                           
+10  The Honorable Rom A. Trader presided.   ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+17 
+ Mobley’s counsel
+ whether he was maintaining that Mobley 
+qualified under the
+ tort threshold exception,  Mobley’s counsel  
+stated he was “conced[ing] that point.”11  
+The circuit court questioned the admissibility of Dr. 
+Diamond’s documents.  The circuit court ruled that Dr. Diamond’s 
+documents were inadmissible through Mobley’s counsel’s 
+declaration, citing to Pacific Concrete Federal Credit Union v. 
+Kauanoe, 62 Haw. 334, 614 P.2d 936 (1980) (holding  that facts 
+set forth in summary judgment motion affidavits must be 
+admissible in evidence) , and Nakato v. Macharg, 89 Hawai ʻi 79, 
+969 P.2d 824 (App. 1998) (holding that exhibits attached to a 
+summary judgment motion must be authenticated by and attached to 
+an affidavit of a person through 
+whom the exhibits could be 
+admitted into evidence) .   
+                                                           
+11  Mobley brought to the circuit court’s attention this court’s October 4, 
+2011 opinion in Ahn v. Liberty Mutual Fire Ins. Co., 126 Hawaiʻi 1, 265 P.3d 
+470 (2011), which held that insureds are real parties in interest in actions 
+against insurers for PIP benefits, overruling a prior decision holding 
+otherwise except for an insurer’s non -payment of PIP benefits required to 
+meet the tort threshold, for which the insured qualified as a real party in 
+interest.    
+ 
+Mobley raised Ahn to argue insurance companies were  denying PIP 
+benefits to their insureds, and that he was pursuing  arbitration against 
+GEICO for payment of PIP benefits for the 2008 accident, (see 1SP101000121 in 
+the circuit court, in which on April 15, 2010, another circuit court judge 
+granted Mobley’s petition for appointment of an arbitrator and appointed 
+Donald Fisher as arbitrator), stating that a favorable outcome would result 
+in a “minimum of [$]3,500” in PIP benefits payable for the 2008 accident.  
+However, Mobley’s counsel  then again orally conceded a failure to meet the  
+tort threshold exception for the 2008 accident.  ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+18 
+ Mobley’s counsel orally requested a HRCP Rule 56(f) 
+continuance to have Dr. Diamond testify as to the opinions in 
+his documents.  The circuit court ruled, however, that Mobley 
+did not meet the HRCP Rule 56(f) requirement that a party show 
+why the evidence could not be presented by the time of the 
+hearing.  The circuit court orally granted Kimura’s MS J and 
+Espaniola’s MPSJ.   
+ 
+ vi. Motion for r econsideration, etc. 
+On January 18, 2012, Mobley filed a motion for 
+reconsideration of the circuit court’s  October 26, 2011 oral 
+orders, now attaching an affidavit from Dr. Diamond opining that 
+due to Mobley’s
+ injuries and inability to march or run with his 
+students, it appeared to a reasonable degree of medical 
+probability that Mobley had
+ suffered “a significant , and likely 
+permanent functional loss ” because of the injuries sustained in 
+the 2008 accident.  Mobley asserted the circuit court had 
+applied erroneous summary judgment and evidentiary standards.  
+In the alternative, Mobley requested a HRCP Rule 54(b ) 
+certification to allow an interlocutory appeal.  Instead, the 
+circuit court12 filed orders  granting Kimura’s MSJ and denying 
+Mobley’s HRCP Rule 56(f) request  on February 6, 2012, denying 
+                                                           
+12  The Honorable Karen A. Nakasone presided, the case having been 
+reassigned to her effective November 2, 2011.  ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+19 
+ Mobley’s motion for r econsideration  on February 14, 2012, and 
+granting Espaniola’s MPSJ On February 17, 2012.   
+After Mobley’s October 2012 jury trial for h is claims 
+against Ching,13 on March 6, 2013, the circuit court entered its 
+judgment, and Mobley timely appealed to the ICA.14  
+2. ICA proceedings15 
+ On appeal, M obley contended the circuit court erred when it 
+granted Kimura’s MSJ and Espaniola’s MPSJ. 
+ On August 15, 2019, the ICA  filed its memorandum opinion.  
+Mobley v. Ching, No. CAAP-12-0001090 (App. Aug. 15, 2019) 
+(mem.).  In relevant part, the ICA concluded the circuit court 
+                                                           
+13  The April 2012 trial week was further continued to October 16, 2012, 
+when Mobley proceeded to a jury trial on his claims against Ching, the 
+remaining defendant.  Various fact and medical experts testified.  At the 
+conclusion of Mobley’s case, Ching moved to strike  the testimonies of 
+Mobley’s medical experts on the grounds their testimonies had not been 
+rendered to a reasonable degree of medical probability.  On October 19, 2012, 
+the circuit court orally granted this motion.  Ching then immediately orally 
+moved for a HRCP Rule 50 judgment as a matter of law (“JMOL”).   Based on its 
+striking of the medical experts ’ testimonies, th e circuit court ruled there 
+was no evidence regarding causation and insufficient foundation for Exhibit 
+47 regarding PIP payments that had previously been admitted in evidence, 
+which alternatively meant that the tort threshold had not been met against 
+Ching, which meant jurisdiction was lacking, and granted the motion for JMOL.  
+On January 29, 2013, Mobley moved for a new trial, directed verdict on 
+causation and/or reconsideration.  On April 23, 2013, the circuit court 
+orally denied Mobley’s motion.  
+  
+14  In addition to the issues we currently address on certiorari,  Mobley 
+also appealed the circuit court’s trial rulings and grant of JMOL in favor of 
+Ching to the ICA.  See  Ching, mem. op. at 1- 2, n.1.  Generally, Mobley also 
+argued error in the circuit court’s rulings regarding the requirement of 
+“reasonable medical probability” testimony and the grant of the motion for 
+JMOL.  See id. 
+  
+15  Only issues relevant to this certiorari proceeding are discussed.  See 
+supra notes 11 and 14.  ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+20 
+ erred in granting Kimura’s  MSJ and Espaniola’s MPSJ regarding 
+the 2008 accident.  Ching, mem. op. at 8.   
+ In reaching its conclusion, the ICA relied on this court’s 
+burden shifting paradigm in Ralston .  Ching , mem. op. at 9.  The 
+ICA observed that in cases in which the non- moving party bears 
+the burden of proof at trial, Ralston set forth a burden 
+shifting paradigm in which the moving party may fulfill the 
+initial burden on summary judgment of demonstrating there is no 
+genuine issue of material fact by either 
+“(1) presenting evidence negating an element of the non -
+movant’s claim, or (2) demonstrating that the non -movant 
+will be unable to carry [their] burden of proof at trial.”  
+Ralston v. Yim, 129 Hawaiʻ i 46, 56 -57, 60, 292 P.3d 1276, 
+1286-87, 1290 (2013) (quoting and citing French v. Hawai ʻi 
+Pizza Hut, Inc., 105 Hawaiʻ i 462, 470, 472, 99 P.3d 1046, 
+1054, 1056 (2004)).  In regards to the latter method, the 
+movant “must show not only that the non -movant has not 
+placed proof in the record, but also that the movant will 
+be unable to offer proof at trial.”  Id. at 60-61, 292 P.3d 
+at 1290- 91 (emphasis omitted)  (citing French, 105 Hawai ʻi at 
+472, 99 P.3d at 1056).  This consideration is contingent 
+upon whether discovery has concluded or not.  See  id. at 
+61, 292 P.3d at 1291 (“[I]n general, a summary judgment 
+movant cannot merely point to the non -moving party’s lack 
+of evidence to support its initial burden of production if 
+discovery has not concluded .” (emphasis added) (citing 
+French, 105 Hawai ʻi at 472, 99 P.3d at 1056)).  
+ 
+Id. (second alteration in original).  The ICA  noted discovery 
+had not yet closed when the circuit court held its October 26, 
+2011 hearing on Kimura’s MSJ and Espaniola’s  MPSJ.  Ching, mem. 
+op. at 11 n.7.  Citing Rules of the Circuit Court of the State ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+21 
+ of Hawai
+ʻi (“RCCH”)  Rule 12(r) (2007),16 the ICA stated discovery 
+would not have been cut off until February 16, 2012.  Id. 
+As to the tort threshold exception of  
+HRS § 431:10C-306(b)(4), the ICA concluded the circuit court 
+erred in granting Espaniola’s MPSJ as it was “premature”  because 
+“evidence had not established that Mobley could not demonstrate 
+satisfaction of [HRS § 431:10C-306(b)(4)] at the time of trial .”  
+Ching, mem. op. at 8.  Noting that although the circuit court’s 
+“only explanation” in concluding Mobley did not meet the tort 
+threshold exception of HRS § 431:10C-306(b)(4) was that Mobley 
+conceded he did not meet the threshold, the ICA also noted that, 
+in moving for summary judgment, the only support Kimura and 
+Espaniola offered was the Aina Declaration, which stated no PIP 
+benefits had been paid to Mobley for the 2008 accident .  Ching , 
+mem. op. at 10.  The ICA reasoned that “[a]lthough it may be 
+correct that Mobley had not met [HRS § 431:10C- 306(b)(4)] at the 
+time of the hearing on the summary judgment motions, this does 
+not establish that Mobley would be unable to prove that he could 
+meet the threshold at the time of trial as discovery had not yet 
+concluded when the Circuit Court granted summary judgment and 
+partial summary judgment.”   Ching, mem. op. at 11.  Therefore, 
+citing Ralston, the ICA concluded Kimura and Espaniola did not 
+                                                           
+16  RCCH Rule 12(r) states: “Discovery shall be cut off 60 days before the 
+assigned trial date.” ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+22 (continued. . .)  
+ satisfy their initial burden of production, and the circuit 
+court erred in granting summary judgment in their favor because 
+a genuine issue of fact existed as to whether Mobley could meet 
+HRS § 431:10C-306(b)(4).  Id. 
+The ICA also concluded the circuit court erred in granting 
+Kimura’s MSJ and Espaniola’s MPSJ based on Mobley’s alleged 
+failure to satisfy the significant permanent loss of use 
+exception of HRS § 431:10C-306(b)(2).  Id.  As in its analysis 
+of HRS § 431:10C-306(b)(4), the ICA concluded that although 
+Mobley may not have met the “exception under HRS section 
+431:10C-306(b)(2) when the defendants moved for summary 
+judgment, this does not establish that Mobley would have been 
+unable to prove at trial that he met the threshold,” citing 
+Ralston.  Ching, mem. op. at 12.  Thus, the ICA concluded Kimura 
+and Espaniola failed to carry their initial burden of 
+production, and the circuit cour t erred in granting Kimura’s MSJ  
+and Espaniola’s MPSJ.17  Id.  
+                                                           
+17  The ICA also concluded the circuit court erred in awarding JMOL at 
+trial in the 2005 accident case.  See Ching, mem. op. at 12 -23.  
+Specifically, the ICA concluded: (1) the circuit court did not abuse its 
+discretion when it considered Ching’s motion to strike Mobley’s medical 
+experts’ testimonies; (2) the circuit court did not abuse its discretion when 
+it determined Dr. Kientz did not testify to a “reasonable medical 
+probability,” but did abuse its discretion when it determined Dr. Kaan failed 
+to express his opinion to that same standard and (3) the circuit court did 
+not abuse its discretion in refusing to admit Dr. Kaan’s report at trial on 
+the basis that it was cumulative and was contrary to the circuit court’s 
+ruling on a prior motion in limine.  Id.   Because of its rulings, the ICA did 
+not address Mobley’s remaining point s of error .  Ching, m em. op. at 12, 17, 
+23, 24. ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+23 
+ The ICA therefore vacated the circuit court’s  judgment, 
+reinstated Mobley’s claims as to both the 2005 and 2008 
+accidents, and remanded the case to the circuit court for 
+further proceedings consistent with its decision.  Ching, m em. 
+op. at 24.  On August 29, 2019, the ICA filed its j udgment on 
+appeal. 
+3. Certiorari a pplication  
+ Espaniola  presents  two questions on certiorari, summarized 
+as follows: 
+1. Did the ICA err in ruling the circuit c ourt erred  in 
+granting Espaniola’s motion for partial summary judgment  
+based on Mobley’s failure to satisfy the tort threshold ? 
+ 
+2. Did the ICA err in ruling that the c ircuit c ourt’s 
+grant of Espaniola’s motion for partial summary judgment  
+was premature because evidence had not established that, by 
+the time of trial, Mobley would not be able to demonstrate 
+satisfaction of the tort threshold or prove that his injury 
+constitutes , in whole or in part , a significant permanent 
+loss of use of a part or function of the body ? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                          
+(. . .continued)  
+In discussing whether medical experts should state their conclusions to 
+a “reasonable medical probability” or “reasonable medical certainty,” the ICA 
+cited several cases from other jurisdictions.  Ching, mem. op. at 15 (citing 
+Moses v. Drake, 109 A.3d 562, 558 (Del. 2015); Griffin v. Univ. of Pittsburgh 
+Med. Ctr.- Braddock Hosp., 950 A.2d 996, 1000 (Pa. Super Ct. 2008).  In 
+Bachran v. Morishige, 52 Haw. 61, 469 P.2d 808 (1970), this court has also 
+stated that “for the purpose of apportioning damages between two accidents, 
+there is no necessity that an expert witness’ testimony be limited or 
+restricted by labels such as ‘certainty,’ ‘reasonable medical certainty,’ 
+‘probability,’ ‘possibility,’ etc.”  52 Haw. at 67, 469 P.2d at 812.  ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+24 
+ III.  Standards of review
+ 
+A. Summary judgment 
+The circuit court’s grant or denial of summary judgment is 
+reviewed de novo.  Ralston, 129 
+Hawaiʻi at 55, 292 P.3d at 1285.  
+Furthermore, 
+[S]ummary  judgment is appropriate if the pleadings, 
+depositions, answers to interrogatories and admissions on 
+file, together with the affidavits, if any, show that there 
+is no genuine issue as to any material fact and that the 
+moving party is entitled to judgment as a matter of law.  A 
+fact is material if proof of that fact would have the 
+effect of establishing or refuting one of the essential 
+elements of a cause of action or defense asserted by the 
+parties.  The evidence must be viewed in the light most 
+favorable to the non- moving party.   In other words, we must 
+view all of the evidence and inferences drawn therefrom in 
+the light most favorable to the party opposing the motion.  
+ 
+129 Hawaiʻ i at 55- 56, 292 P.3d at 1285- 86 (alteration in 
+original).  Ralston also provides:  
+In sum, this court's case law indicates that a 
+summary judgment movant may satisfy [their] initial burden 
+of production by either (1) presenting evidence negating an 
+element of the non -movant's claim, or (2) demonstrating 
+that the nonmovant will be unable to carry [their] burden 
+of proof at trial.   Where the movant attempts to meet 
+[their] burden through the latter means, [they] must show 
+not only that the non -movant has not placed proof in the 
+record, but also that the  movant will be  unable to offer 
+proof at trial .  Accordingly, in general, a summary 
+judgment movant cannot merely point to the non -moving 
+party's lack of evidence to support [their] initial burden 
+of production if discovery has not concluded.   (“[M]erely 
+asserting that the non -moving party has not come forward 
+with evidence to support its claims is not enough.”).   
+ 
+129 Hawai ʻi at 60- 61, 292 P.3d at 1290- 91 (last alteration in 
+original) (citations omitted). 
+B. Statutory interpretation  
+Statutory interpretation is reviewed de novo by [the 
+appellate] court.  When construing a statute, our foremost 
+obligation is to ascertain and give effect to the intention ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+25 (continued. . .)  
+ of the legislature, which is to be obtained primarily from 
+the language contained in the statute itself.  Moreover, it 
+is a cardinal rule of statutory interpretation that, where 
+the terms of a statute are plain, unambiguous and explicit, 
+we are not at liberty to look beyond that language for a 
+different meaning.  Instead, our sole duty is to give 
+effect to the statute's plain and o
+bvious meaning. 
+ 
+Bank of New York Mellon v. R. Onaga, Inc., 140 Hawai ʻi 358, 365, 
+400 P.3d 559, 566 (2017) (alteration in original) (citation 
+omitted). 
+IV. Discussion 
+A. Nature of the exceptions to the abolition of tort 
+liability in HRS § 431:10C- 306(b) 
+ 
+ According to HRS § 431:10C- 306, Mobley was required to  
+satisfy one of the exceptions to the abolition of tort liability
+in HRS § 431:10C-306(b) quoted in Section II.A above.  18 
+                                                           
+18  Before enacting HRS Chapter 294, the predecessor to HRS Chapter 
+431:10C, the Hawaiʻi legislative  auditor had found , in relevant part , in a 
+study of Hawaiʻ i’s motor vehicle liability insurance system , that: (1) 
+relatively minor losses were being overcompensated, serious injuries were  
+being undercompensated, and many automobile accident victims were not being 
+compensated at all; (2) due to the high administrative costs and legal 
+expenses underlying the adversary procedure, victims received only a fraction 
+of the benefits; (3 ) there were long delays in receiving benefits due to the 
+“machinery” of the fault -finding process, with an average claim being settled 
+between nine and twelve months; (4 ) there was duplication among the 
+liability, medical,
+ wage loss,  and property damage compensation systems; and 
+(5) the
+ costs of obtaining automobile liability insurance were high and  
+continually rising.  Parker, 68 Haw. at 558- 59, 722 P.2d at 1029
+-30 (citing 
+Legislative Auditor, A Study of Hawaii’s  Motor Vehicle Insurance Program  5 
+(1972)). 
+ 
+The legislature enacted HRS Chapter 294 “to create a system of 
+reparations for accidental harm and loss arising from motor vehicle 
+accidents, to compensate these damages without regard to fault, and to limit 
+tort liability for these accidents .”  1973 Haw. Sess. Laws Act 203, § 1 at 
+381.  It stated 
+ 
+[e]lements  of the old tort system have been retained for 
+the serious cases involving death, disfigurement, and when 
+medical- rehabilitative expenses reach a certain ‘threshold’ 
+amount set by the insurance commissioner.  Any person whose ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+26 
+ In Ho, construing a prior version of HRS § 431:10C- 306, 
+this court upheld the trial court’s grant of  the defendant’s 
+motion for directed verdict at the end of the plaintiff’s case, 
+holding: 
+Because Ho neither presented (1) evidence that the 
+medical expenses that she claimed in her motor vehicle tort 
+lawsuit against  Leftwich were paid, thereby triggering the 
+statutory presumption that they were reasonable and 
+necessary, nor (2) expert testimony establishing that the 
+expenses were reasonable and necessary, we hold that she 
+did not satisfy the minimum level of qualifying expenses 
+necessary to maintain her action pursuant to the provisions 
+of HRS § 431:10C –306. 
+ 
+                                                                                                                                                                                          
+(. . .continued)  
+expenses exceed that threshold  within the statute of 
+limitations may sue for recovery.  The threshold is set at 
+a level to ensure that approximately 90 per cent of such 
+cases are resolved by the no -fault system.  
+ 
+1983 Haw. Sess. Laws Act 245 , § 1 at 519.  
+  
+HRS § 294- 6 was revised and recodified in HRS § 431:10C -306.  1987 Haw. 
+Sess. Laws Act 347, § 2 at 148, 167.  Both HRS § 294-6 and  
+HRS § 431:10C- 306 sought to abolish tort liability for accidental harm 
+arising from motor vehicle  accidents, limiting tort liability to specific 
+situations.  See 1973 Haw. Sess. Laws Act 203 , § 1 at 381 (“The purpose of 
+this chapter is to create a system of reparations for accidental harm and 
+loss arising from motor vehicle accidents, to compensate these damages 
+without regard to fault, and to limit tort liability for these accidents”); 
+1974 Haw. Sess. Laws Act 168, § 1 at 317 ( repeating the  purpose as stated in  
+1973); 1983 Haw. Sess. Laws Act 245, § 1 at 521 (“[T]he purpose of this Act 
+is to expressly restate, reiterate, and clarify the intent of the legislature 
+in enacting sections 294 -6(a) and 294- 36(b), Hawaii Revised Statutes, 
+concerning the barring of suits by uninsured  motorists for injuries sustained 
+in motor vehicle accidents was originally, and is now: (1) To prevent a 
+person who is ineligible for no -fault benefits from bringing a civil action 
+if the medical rehabilitative limit is not reached within two years of the  
+dates of the motor vehicle accident”); 1987 Haw. Sess. Laws Act 347, § 2  at 1 
+(“[T]he legislature hereby declares that the purpose of this chapter is to 
+recodify, without substantive change, the insurance law in effect immediately 
+prior to the effective d ate of this chapter.”);  1987 Haw. Sess. Laws  Act 347, 
+§ 2 at 148 (“The purpose of this article is to: (1) Create a system of 
+reparations for accidental harm and loss arising from motor vehicle 
+accidents; (2) Compensate these damages without regard to fault; and (3) 
+Limit tort liability for these accidents.”); 1997 Haw. Sess. Laws Act 251 §§ 
+43, 61, and 70 at 542, 551, 553 (repealing the floating medical -
+rehabilitative limit and fixing the  tort threshold at $5,000).  ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+27 
+ 88 Hawai ʻi at 260, 965 P.2d at 802 .   
+In Parker, a post- jury trial case, this court, construing 
+HRS § 294-6, stated: 
+Although the no- fault law is silent on this point, 
+the scheme and objec tives of the law suggest that meeting 
+[a] threshold requirement is an essential condition and 
+element of [a plaintiff’s] claim.  [The plaintiff] is the 
+one who has personal knowledge and information  as to 
+whether the threshold condition is met.  Therefore, it 
+stands to reason that  in order to achieve fairness and 
+efficiency in implementing the objectives of the law, [the 
+plaintiff] should have the burden of proving that the claim 
+is one that has escaped the general abolition of tort 
+liability decreed by HRS § 294 -6. 
+ 
+. . . . 
+  
+Allegations alone are not sufficient to meet the threshold 
+requirements.   Appellee must carry the burden of proving 
+that her injury meets or exceeds the threshold requirement 
+in question.  
+   . . . . 
+ 
+Hawaii's no -fault law does not give any guidance as 
+to whether the  judge, as a matter of law, should determine 
+if the threshold requirement had been met, or whether the 
+jury should determine that question.   We hold that whether 
+Appellee met the threshold requirement is for the jury to 
+determine inasmuch as the facts relating to Appellee's 
+injury are in dispute and reasonable minds could differ on 
+whether Appellee sustained an injury which consists, in 
+whole or in part, in a significant permanent loss of use of 
+a part or function of her bod y. 
+ 
+This is not to say, however, that a trial judge is 
+precluded from determining, as a matter of law, whether a 
+plaintiff met the threshold requirement. When the evidence 
+is so clear that reasonable minds could only come to one 
+conclusion, it is not error for the trial judge to remove 
+the threshold question from the jury and to determine that 
+question as a matter of law . 
+ 
+As to Appellant's proposed special verdict 
+interrogatory number 5, we hold that the trial court erred 
+in refusing to submit the proposed interrogatory to the 
+jury in view of our holding that the threshold requirement 
+is a necessary  condition and element of Appellee's cause of 
+action.  It is essential that the triers of fact make a 
+finding that Appellee did in fact sustain an injury which 
+consists, in whole or in part, in a significant permanent 
+loss of use of a part or function of her body in order for ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+28 
+ Appellee to maintain her negligence tort claim against 
+Appellant.  
+ 
+68 Haw. at 561-62, 722 P.2d at 1031 
+(emphases added) (internal 
+citations and quotation marks omitted).    
+In Walsh, also construing a previous version of          
+HRS § 431:10C-306(b), the ICA stated: 
+The intent of the legislature in establishing the 
+medical- rehabilitative limit in the no -fault law was to 
+provide a jurisdictional requirement similar to the then 
+$10,000 jurisdictional amount in diversity suits in the  
+federal court: “In order to maintain an action, the 
+claimant must show that the amount in controversy exceeds 
+$5,000 (this amount being intended by your committee to be 
+a jurisdictional requirement similar to the $10,000 
+jurisdictional requirement in fede ral diversity suits).” 
+Hse.Stand.Comm.Rep. No. 187, 1973 House Journal, at 837.  
+ 
+80 Hawai ʻi at 192, 907 P.2d at 778.  The ICA ruled that 
+because 
+the plaintiff had introduced in evidence medical-rehabilitative 
+expenses well exceeding the $7,600 in “paid or accrued” medical -
+rehabilitative expenses in effect at the relevant time, the 
+circuit court erred in entering judgment in favor of the 
+defendant on the grounds the jury awarded less than that 
+amount.19  Id. 
+Finally, in Savini v. Univ.  of Haw., 113 Hawai ʻi 459, 153 
+P.3d 1144 (2007), this court ruled that a plaintiff ’s claim, if 
+brought under the tort threshold exception, does not accrue 
+                                                           
+19  At that time, HRS § 431:10C- 306(b)(2) provided that tort liability is 
+not abolished where “[i]njury occurs to such person in a motor vehicle 
+accident in which the amount paid or accrued exceeds the medical -
+rehabilitative limit established  in section 431:10C –308 for expenses provided 
+in section 431:10C– 103(10)(A) and (B) ; provided that the expenses paid shall 
+be presumed to be reasonable and necessary in establishing the medical -
+rehabilitative limit[.]”  As discussed by the ICA in its memorandum opinion 
+in this case, this language differs from the current HRS § 431:10C -306(b)(4). ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+29 
+ until the plaintiff meets that threshold, holding  that “under 
+Hawaiʻi law, a plaintiff who relies on the medical- expense 
+threshold as opposed to a verbal threshold,[20] . . . has no claim 
+at all . . . until the plaintiff has actually received the 
+requisite amount of ‘reasonably necessary’ medical -
+rehabilitative treatment, as manifested through bills received 
+or paid.”  113 Hawaiʻi at 465, 153 P.3d at 1150 (emphasis added).  
+The tort threshold exception of HRS § 431:10C-306(b) at the time 
+provided: 
+(b) Tort liability is not abolished as to the following 
+persons . . . in the following circumstances:  
+ 
+. . . . 
+ 
+(2) Injury occurs to such person in a motor vehicle
+accident in which the amount paid or accrued exceeds the 
+medical- rehabilitative limit established in  
+[HRS § ] 431:10C –308 for expenses provided in  
+[HRS § ] 431:10C –103(10)(A) and (B)[ (concerning personal
+injury protection benefits) ]  
+  
+ 
+  
+   . . . . 
+ 
+113 Hawai ʻi at 461 n.2, 153 P.3d at 1146 n.2 (alterations in 
+original). 
+Savini stated that “HRS § 431:10C -306 enables, indeed 
+requires, would-be plaintiffs to ‘wait and see’ whether their 
+expenses will be great enough to shift responsibility to another 
+party.”  113 Hawai ʻi at 466, 153 P.3d at 1151.  This court stated 
+                                                           
+20  Savini described the “verbal threshold” as HRS § 431:10C -306(b)(1), 
+(2), and (3) (Supp. 2001), in which “sufficiently serious and permanent 
+injuries (or death) are deemed to trigger tort liability without proof that 
+the monetary threshold has been exceeded.”  113 Hawaiʻi at 462 n.4, 153 P.3d 
+at 1147 n.4.
+ ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+30 
+ this was necessary to effectuate the legislature’s intent to 
+abolish most motor vehicle tort lawsuits.  113 Hawaiʻi at 465, 
+153 P.3d at 1150.  Savini  also stated:  
+In sum, construing HRS §§ 431:10C –306(b)(2) (1993) 
+and 431:10C –315(b) so as to postpone “accrual”  of claims 
+based upon the medical -rehabilitative limit is necessary to 
+effectuate the legislature's “aboli[tion]” of most motor 
+vehicle tort lawsuits.  For a plaintiff to sue based on the 
+mere expectation that expenses might  exceed the medical -
+rehabilitative threshold would be to pursue a claim that 
+the legislature has expressly abolished.   Moreover, the 
+possibility of an eventually ripe claim does not justify a 
+premature complaint: not even the best expert witness can 
+ensure that such an inchoate claim will accrue before the 
+plaintiff convalesces or dies due to causes unrelated to 
+the alleged tort.  
+ 
+. . . .  
+ 
+We recognize that today's holding might inconvenience 
+future parties who would prefer to litigate early under 
+circumstances where it is virtually certain that the 
+plaintiff's injuries will give rise to medical expenses 
+over $5,000.00 (the current threshold, see               
+HRS § 431:10C –306(b)(4) (2005)), but will not do so until 
+considerable time has elapsed.  Such a scenario would be 
+exceptional and  capable of amelioration by the legislature.  
+ 
+113 Hawaiʻ i at 466-67 , 153 P.3d at 1151-52  (footnote  omitted).   
+ Under this backdrop, we address the issues on certiorari. 
+B. The ICA correctly ruled the circuit court erred in granting 
+Espaniola’s MPSJ, but it erred in applying the second 
+Ralston prong to Espaniola’s MPSJ to the extent it was 
+based on Mobley’s alleged failure to meet the tort 
+threshold ; rather, Espaniola failed to meet his burden 
+under the first Ralston prong  
+ 
+This section addresses Espaniola’s assertions with respect 
+to the tort threshold exception.   
+Pursuant to Ralston,  quoted in Section III .A above, 
+Espaniola had the option of either (1) putting forth evidence 
+negating an element of Mobley’s claim , or (2) demonstrating ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+31 
+ Mobley could not carry his burden of proof at trial.  Espaniola 
+argues he met his initial burden of production by satisfying the 
+first Ralston prong , namely, by “presenting evidence negating an 
+element of the non- movant’s claim.”   
+As discussed in Section IV .A, when a plaintiff’s claim is 
+based on the tort threshold exception, pursuant to Walsh and 
+Savini, meeting the threshold is a jurisdictional requirement to 
+the filing of a lawsuit.21  The ICA ruled, however,  that 
+Espaniola could not obtain summary judgment on the tort 
+threshold exception even if he had met a movant ’s burden under 
+the first Ralston prong.  Espaniola moved for summary judgment 
+based on the first prong by introducing evidence that GEICO had 
+not paid any PIP benefits for the 2008 accident.  According to 
+language within the ICA ’s memorandum opinion , however, the 
+circuit court was required to wait until trial to ascertain 
+whether Mobley could meet the tort threshold exception .   
+                                                           
+21  HRS § 431:10C- 315(b) (2005) governs the statute of limitations for 
+lawsuits arising out of motor vehicle accidents, and accordingly extends the 
+limitations period for filing a lawsuit as follows:  
+ 
+(b) No suit arising out of a motor vehicle accident 
+shall be brought in tort more than the later of:  
+ 
+. . . . 
+ 
+(2) Two years after the date of the last 
+payment of motor vehicle insurance or optional 
+additional benefits; or  
+(3) Two years after the date of the  last 
+payment of workers' compensation or public assistance 
+benefits arising from the motor vehicle accident.  *** FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER ***  
+32 Thus, the ICA appears to have conflated the first and 
+second Ralston prongs with respect to its tort threshold 
+exception analysis.  Because Espaniola only moved for summary 
+judgment under the first Ralston prong, the circuit court and 
+the ICA should not have considered the second Ralston prong to 
+determine whether Mobley would be able to meet his burden at 
+trial.22
+With respect to the first  Ralston prong upon which 
+Espaniola’s MPSJ was based, construing the statutory language of 
+the tort threshold exception at that  time, Savini ruled that a 
+plaintiff’s claim must have “accrued” under the tort threshold 
+exception for a cause of action to exist allowing a lawsuit to 
+be filed.  We turn now to address whether Espaniola actually met 
+his burden under the first Ralston prong by presenting evidence 
+negating an element of Mobley’s claim.  
+To satisfy the first Ralston prong, Espaniola was required 
+to present evidence negating that Mobley met the tort threshold.  
+In this regard, however, Espaniola presented evidence that GEICO 
+had not paid any PIP benefits for the 2008 accident.  In fact, 
+Espaniola focuses on the payment of PIP benefits as an exception 
+to tort liability.  Yet, as the ICA pointed out, 
+22We do not preclude parties from moving for summary judgment under both
+the first and second Ralston prongs.  In that case, it would be appropriate 
+for courts to consider both prongs.
+  Here, however, Espaniola only moved for
+should not have considered the requirements of the second  prong.  
+ 
+summary judgment under the first prong, and so the circuit court and the ICA *** FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER ***  
+33 HRS § 431:10C-306(b) now states in subsection (b)(4)(A)(i) that 
+PIP benefits incurred are to be included in the $5,000 tort 
+threshold amount.  
+In any event, the record before the circuit court on 
+summary judgment showed Mobley had incurred $13,477.66 in 
+medical expenses for the June 2005 and January 2008 
+accidents.  At the time of summary judgment, there was no 
+evidence in the record apportioning that amount between the two 
+accidents.  Accordingly, viewing the evidence in the light most 
+favorable to Mobley for purposes of the MPSJ, these PIP expenses 
+should have been apportioned between the two accidents equally, 
+with $6,738.83 attributed to the 2008 accident at issue.  
+See Montalvo v. Lapez, 77 Hawai ʻi 282, 297, 884 P.2d 345, 360 
+(1994) (explaining that when a rough apportionment between two 
+accidents is not possible, damages are apportioned 
+equally).  Because this amount was sufficient to meet the tort 
+threshold exception, 
+the Aina Declaration stating that no PIP 
+benefits had been paid to-date for the 2008 accident was 
+insufficient to show there was no genuine issue of material 
+fact, and thus, summary judgment should not have been granted on 
+this basis.  
+Therefore, although based on incorrect reasoning, the ICA 
+reached the correct result by concluding the circuit court erred ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+34 
+ by granting Espaniola’s MPSJ as to HRS § 431:10C- 306(b)(4) ’s 
+tort threshold exception.23 
+C. The I CA correctly ruled the circuit court ’s grant of 
+Espaniola’s MPSJ was premature on the grounds that 
+Mobley would be unable to prove that his injury 
+constitutes , in whole or in part,  a significant 
+permanent loss of use of a part or function of the 
+body at the time of trial 
+ 
+ This section addresses the significant permanent loss of 
+use exception.  It also addresses another argument raised by 
+Espaniola with respect to the significant permanent loss of use 
+exception: whether the injuries alleged by Mobley can qualify as 
+a significant permanent loss of use of a part or function of the 
+body.  
+ With respect to the significant permanent loss of use 
+exception to the abolition of tort liability, neither Espaniola 
+nor Kimura, whose MSJ Espaniola joined, presented any evidence 
+to “negate” this exception , as required by the first Ralston 
+prong.  Thus, this part of Espaniola’s MPSJ was necessarily 
+based on the second Ralston prong.   
+                                                           
+23  Satisfaction of the tort threshold exception is a jurisdictional 
+requirement to the filing of a lawsuit “ similar to the [amount in 
+controversy] jurisdictional requirement in federal diversity suits .”  H. 
+Stand. Comm. Rep. No. 187,  in 1973 House Journal, at 837.  In a federal 
+court, if the “amount in controversy threshold” of 28 U.S.C. 1332 is not met, 
+the court lacks subject matter jurisdiction, and a complaint must be 
+dismissed in its entirety.  Arbaugh v. Y&H Corp., 546 U.S. 500, 514 -15 
+(2006).  Likewise, HRCP Rule 12(h)(3) (2000) requires dismissal when subject 
+matter jurisdiction is lacking.  See HRCP Rule 12(h)(3) (“Whenever it appears 
+by suggestion of the parties or otherwise that the court lacks jurisdiction 
+of the subject matter, the court shall dismissal the action.”).  To the 
+extent the circuit court disposed of Mobley’s complaint based on an alleged 
+failure to meet the tort threshold, its order should have indicated a 
+“dismissal” rather than a “partial summary judgment.”  ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+35 
+ In Parker, this court stated a plaintiff has the burden of 
+proving their injury meets or exceeds the “significant permanent 
+loss of use of a part or function of the body.”  68 Haw. at 561, 
+722 P.2d at 1031.  Parker  also stated allegations alone are not 
+sufficient and that the plaintiff bears the burden of proving an 
+exception to the general abolition of tort liability.  Id.  
+Parker was a post-trial case, however, and as noted in Section 
+IV.A above, this court indicated that the question of whether a 
+plaintiff has suffered a significant
+ permanent  loss of use of a 
+part or function of the body is a jury question to be submitted 
+to the jury in a special interrogatory.   
+In addition, in Ralston , this court stated that “in 
+general, a summary judgment movant cannot merely point to the 
+non-moving party’s  lack of evidence to support its initial 
+burden of production if discovery has not concluded.”  129 
+Hawaiʻi at 61, 29
+2 P.3d at 1291.  As discovery had not yet 
+concluded as to the significant permanent loss of use exception, 
+the ICA correctly analyzed Espan iola’s MPSJ under the second 
+Ralston prong.   
+Thus, the  ICA correctly ruled that, pursuant to Ralston, 
+the circuit court erred in granting summary judgment as to this 
+exception to the abolition of tort liability, as neither 
+Espaniola nor Kimura had presented any evidence negati ng the 
+exception and discovery had not yet concluded.  ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+36 
+ The circuit court alternatively  ruled that even if Dr. 
+Diamond’s documents were considered, Mobley’s injuries, in any 
+event, did not constitute injuries that would qualify him for 
+the significant permanent loss of use exception.  C iting Licari 
+and Falcone v. Branker, 342 A.2d 875 (N.J. Super. Ct. Law Div. 
+1975), Parker indicated that judges are not precluded from 
+determining, as a matter of law, whether a plaintiff met the 
+significant permanent loss of use exception.   68 Haw. at 562, 
+722 P.2d at 1031.  As the circuit court alternatively ruled on 
+this basis and Espaniola continues to argue the issue, we 
+briefly address it. 
+In addition to Licari  and Falcone, Parker cited to Murray 
+v. Walter,  269 N.W.2d 47 (Minn. 1978),  and Fleet Transport Co. 
+v. Holland, 304 S.E.2d 76 (Ga. Ct. App. 1983) , regarding whether 
+an injury can qualify as a significant permanent loss of use of 
+a part or function of the body.  68 Haw. at 562, 722 P.2d at 
+1031.  
+The statutory language of t he exceptions discussed in these 
+cases differ from the language of HRS § 431:10C- 306(b)(2), which 
+provides an exception to the abolition of tort liability for an 
+“[i]njury [] which consists, in whole or in part, in a ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+37 (continued. . .)  
+ significant permanent loss of use of a part or function of the 
+body
+[.]”24 
+                                                           
+24  In Licari, the  New York Court of Appeals upheld a trial court 
+ruling that the personal injuries alleged did not constitute a “serious 
+injury” within the meaning of New York’s no -fault law.  441 N.E.2d at 1092-
+93.  New York’s no- fault law required a “serious injury” for there to be an 
+exception to the abolition of tort liability.  441 N.E.2d at 1090.  “Serious 
+injury” was defined as  
+ 
+“a personal injury which results in death; dismemberment; 
+significant disfigurement; a fracture; permanent loss of 
+use of a body organ, member, function or system; permanent 
+consequential limitation of use of a body organ or member; 
+significant limitation of use of a body function or system; 
+or a medically determined injury or impairment of a non -
+permanent nature which prevents the injured person from 
+performing substantially all of the material acts which 
+constitute such person's usual and customary daily 
+activities for not less than ninety days during the one 
+hundred eighty days immediately following the occurrence of 
+the injury or impairment. ” 
+ 
+Id. (emphases added) ( quoting N.Y. Ins. Law, § 671, subd. 4).  The New York 
+Court of Appeals, examining the legislative intent of the no -fault law, held 
+that the question of whether a plaintiff suffered a serious injury is not 
+always a fact question for the jury.  441 N.E.2d at 1091.  It noted that even 
+if the plaintiff’s contention that he suffered a “significant limitation of 
+use of a body function or system” was taken in a light most favorable to him, 
+the plaintiff did not offer any evidence “as to the extent of the limitation 
+of movement.”  441 N.E.2d at 1092.   
+ 
+In Falcone, the New Jersey Superior Court held the plaintiff’s argument 
+that the small scars on his nose and knee that resulted from a three -car 
+automobile collision were not exempt from New Jersey’s no -fault law as a 
+“permanent significant disfigurement.”  34 2 A.2d at 882.  The defendant 
+“move[d] for summary judgment dismissing the [plaintiff’s] complaint for 
+failure to state a claim upon which relief could be granted”; the New Jersey 
+Superior Court granted the motion in favor of the defendant.  342 A.2d at 
+877, 884.  It found the associated words  of New Jersey’s no -fault law  all 
+connoted injuries of a substantial nature; thus, it found the term 
+“significant” within the “permanent significant disfigurement” exemption to 
+be synonymous with “serious” as used in w orkers’ compensation cases dealing 
+with serious disfigurement.  342 A.2d at 880.  
+ 
+In Murray, the Minnesota Supreme Court held a party satisfied the 
+“permanent injury” threshold of Minnesota’s no -fault law by pleading and 
+proving facts that he suffered “permanent injuries, including but not limited 
+to permanent injury to his neck and back.”  269 N.W.2d at 50.  It also held 
+that party “met, by means of Dr. Johnson’s testimony, [its] burden of proving 
+‘permanent injury.’”  Id.  It also stated, however, that because the opposing 
+party failed to argue satisfaction of the “permanent injury” threshold, it 
+resulted in a waiver of that issue.  Id.   ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+38 (continued. . .)  
+ Although  the circuit court alternatively ruled that even if 
+Dr. Diamond’s documents were considered, Mobley did not suffer a 
+“significant permanent loss of use of  a part or function of the 
+body” as a matter of law, e ven without Dr. Diamond’s documents, 
+based on Mobley’s deposition, the evidence was not  so clear that 
+reasonable minds could only come to one conclusion.  A t minimum, 
+whether Mobley’s inability to run or march with the students 
+presents a genuine issue of material fact on whether Mobley’s 
+injuries qualify for the HRS § 431:10C-306(b)(2) exception to 
+the abolition of tort liability arising from motor vehicle 
+accidents.  Reasonable minds could differ on whether an 
+inability to “march” or  “run” is a “significant permanent loss 
+of use of a [] function of the body,” if proximately caused by  
+the 2008 accident.25  Thus, the circuit court also erred in 
+granting Espaniola’s MPSJ on this alternative  basis.26 
+                                                                                                                                                                                          
+(. . .continued)  
+Finally, in Holland, the Georgia Court of Appeals held that the jury 
+was properly instructed on whether a plaintiff, who alleged  a “whiplash” type 
+of injury but also had preexisting neck and back problems, had  sustained a 
+“serious injury” under Georgia’s no -fault law.  304 S.E.2d at 77.   
+ 
+25  The issue was whether the injury alleged could constitute a 
+“significant permanent loss of use of a part of function of the body,” not 
+whether the injuries alleged were proximately caused by the 2008 accident.  
+ 
+26  The circuit court also abused its discretion by not granting Mobley’s 
+request for a HRCP Rule 56(f) continuance to present and then consider 
+admissible evidence from Dr. Diamond that Mobley’s inability to march an d run 
+was a “significant permanent loss of use of  a part or function of his body.”  
+ 
+HRCP Rule 56(f) provides:  ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+39 (continued. . .)
+                                                                                                                                                                                           
+(. . .continued)  
+When Affidavits are Unavailable.  Should it appear from the 
+affidavits of a party opposing the motion that the party 
+cannot for reasons stated presented by affidavit facts 
+essential to justify the party’s opposition, the court may 
+refuse the application for judgment or may order a 
+continuance to permit affidavits to be obtained or 
+depositions to be taken or discovery to be had or may make 
+such other order as is just.  
+ 
+ In Ralston, we stated, “HRCP Rule 56(f) is the proper procedure to 
+request and obtain additional time to respond to a motion for summary 
+judgment that is filed prior to the  discovery deadline. ”  129 Hawai ʻi at 62, 
+292 P.3d at 1292.  We stated that, “Had Dr. Yim provided a proper expert 
+affidavit in support of his motion, Ralston [ ,the non- movant plaintiff ,] 
+would have been required to submit his expert’s affidavit or request a  
+HRCP Rule 56(f) continuance to allow more time to produce an admissible 
+affidavit.”  Id.  In Ralston, we also rejected the ruling in Celotex that 
+summary judgment may be appropriate before a discovery deadline if the non -
+movant had “adequate time to conduct discovery and to identify experts.”  129 
+Hawaiʻi at 62, 292 P.3d at 1292.  In rejecting that ruling, we stated such an 
+approach would be inconsistent with French v. Hawaii Pizza Hut, Inc., 105 
+Hawaiʻi 462, 99 P.3d 1046 (2004), as “the clear import of French is that 
+summary judgment should not be granted when there is still time for the non -
+movant to develop evidence for use at trial, unless there is a basis for 
+concluding (as was the case in Celotex) that such an effort would be futile.”  
+129 Hawaiʻ i at 63, 292 P.3d at 1293.  Further, we stated HRCP Rule 56(f) 
+provides non- movants with protection against a premature grant of a motion 
+for summary judgment.  Id.  We also noted it was generally recognized that:  
+ 
+The purpose of subdivision (f) is to provide an additional 
+safeguard against an improvident or premature grant of 
+summary judgment and the rule generally has been applied to 
+achieve that objective.   Consistent with this purpose, 
+courts have stated that technical rulings have no place 
+under the subdivision and that it should be applied with a 
+spirit of liberality . 
+ 
+Id. (emphasis added) (citing 10B Charles Alan Wright, Arthur R. Miller, & 
+Mary Kay Kane, Federal Practice and Procedure  Civil 3d § 2740, at 402 
+(1998)).  
+ 
+As noted, Mobley did not “amend over” against Espaniola, who Kimura 
+impleaded as a third- party defendant regarding the 2008 accident.  Kimura, 
+the only party against whom Mobley had a direct claim with respect to the 
+2008 accident, did not object to the admissibility of Dr. Diamond’s 
+documents.  Although HRCP Rule 14 entitled Espaniola to assert defenses 
+available to Kimura against Mobley (“The third -party defendant may assert 
+against the plaintiff any defenses which the third -party plaintiff has to the 
+plaintiff’s claim. ”), especially because Kimura did not raise the 
+admissibility of Dr. Diamond’s documents as an issue, the circuit court 
+abused its discretion by denying Mobley’s request for a HRCP Rule 56(f) 
+continuance.  Also, although Mobley proposed to bring Dr. Diamond to testify, 
+Dr. Diamond would not have had to testify; all that was  required was a 
+ ***     FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER     ***  
+ 
+40 
+ V. Conclusion 
+ Based on the reasons above, w e affirm the ICA’s August 29, 
+2019 judgment on appeal, which vacated the circuit court’s March  
+6, 2013 judgment and remanded the case for reinstatement of 
+Mobley’s claims rel ated to both the 2005 and 2008 accidents, but 
+as modified by the analysis in this opinion. 
+Michael H. Tsuchida,
+for petitioner  
+ /s/ Mark E. Recktenwald 
+/s/ Paula A. Nakayama  
+ 
+/s/ Sabrina S. McKenna   
+/s/ Richard W. Pollack 
+/s/ Michael D. Wilson 
+  
+     
+Walter J. Rodby and
+ 
+John Y.U. Choi, 
+for respondent/ 
+plaintiff-appellant   
+  
+ 
+ 
+       
+Randall Y.S. Chung,   
+Rayni M. Nakamura, and
+Michael S. Hult,  
+for respondent/ 
+defendant-appellee   
+  
+ 
+ 
+ 
+Jonathan L. Ortiz and 
+Wade J. Katano, 
+for respondent/defendant/ 
+third-party plaintiff-appellee 
+                                                                                                                                                                                          
+(. . .continued)  
+declaration or affidavit from Dr. Diamond to cure the foundational 
+deficiency, which Mobley’s counsel was able to obtain after the hearing  and 
+presented in his motion for reconsideration.  As indicated above, Mobley was 
+able to later secure an admissible affidavit from Dr. Diamond creating a 
+genuine issue of material fact as to the significant permanent loss of use 
+exception.  But even if Mobley had amended over against Espaniola, the 
+circuit court’s refusal of the Rule 56(f) continuance request constituted an 
+abuse of discretion.  

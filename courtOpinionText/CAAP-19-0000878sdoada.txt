@@ -1,0 +1,171 @@
+NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+NO. CAAP-19-0000878 
+IN THE INTERMEDIATE COURT OF APPEALS
+OF THE STATE OF HAWAI# I  
+STATE OF HAWAI# I, Plaintiff-Appellant,
+v. 
+ERIC SCOTT, Defendant-Appellee  
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT 
+(
+1CPC-18-0000387) 
+SUMMARY DISPOSITION ORDER 
+(By:  Leonard, Presiding Judge, Hiraoka and Wadsworth, JJ.) 
+Plaintiff-Appellant State of Hawai# i appeals from the: 
+(1)
+ "Order Excluding Evidence of Test Result at Trial Pursuant to 
+Hawaii Rules of Evidence (H.R.E.) Rules 104 and 702" entered by 
+the Circuit Court of the First Circuit on December 17, 2019 (Exclusion Order); and (2) "Order Granting Defendant's Oral 
+Motion to Dismiss and Dismissing this Case with Prejudice" 
+entered by the circuit court on December 6, 2019 (Dismissal 
+Order).   For the reasons explained below, we affirm the 
+Exclusion Order and the Dismissal Order. 1
+Defendant-Appellee Eric Scott
+ was charged by felony 
+information with two counts of Promoting a Dangerous Drug in the 
+Third Degree in violation of Hawaii Revised Statutes (HRS) § 712-
+1243.  Count 1 alleged that Scott possessed methamphetamine; 
+1 The Honorable Karen T. Nakasone presided. NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Count 2 alleged that Scott possessed heroin.  Scott pleaded not 
+guilty.  The State moved to nolle prosequi Count 1.  The circuit court granted the motion and dismissed Count 1 with prejudice. Only Count 2 remained. 
+The circuit court conducted a Hawaii Rules of Evidence 
+(HRE) Rule 104 hearing on November 20 and 22, 2019.
+2  At issue 
+was whether a test result (allegedly showing that the substance recovered from Scott's van was heroin) would be admissible at trial.  The circuit court orally ruled that the test result was not admissible.  Scott then orally moved to dismiss the remaining count.  The circuit court orally granted the motion and dismissed Count 2 with prejudice.  The Exclusion Order and the Dismissal Order were subsequently entered.  This appeal followed. 
+The State contends that the circuit court erred by: 
+(1) excluding the State's expert's opinion that an unknown 
+substance was heroin based on insufficient foundation; 
+(2) refusing to admit State's Exhibit 18 into evidence; and 
+(3) dismissing the case against Scott.
+(1) "A fundamental evidentiary rule is that before the 
+result of a test made out of the court may be introduced into 
+evidence, a foundation must be laid showing that the test result can be relied on as a substantive fact."  State v. Subia, 139 Hawai# i 62, 66, 383 P.3d 1200, 1204 (2016) (cleaned up).  "A 
+proper foundation for introducing a test result . . . include[s] expert testimony regarding: (1) the qualifications of the expert; (2) whether the expert employed valid techniques to obtain the test result; and (3) whether the measuring instrument is in proper working order."  Id. (cleaned up).  The determination of whether proper foundation has been established for the admission 
+2 HRE Rule 104 provides, in relevant part: 
+(a) Questions of admissibility generally. Preliminary
+questions concerning the qualification of a person to be a
+witness . . . or the admissibility of evidence shall bedetermined by the court[.] 
+2 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+of evidence lies within the discretion of the trial court; we 
+review for abuse of discretion.  Id. 
+The State called Honolulu Police Department (HPD) 
+criminalist Dawn Nakamura as a witness for the HRE Rule 104 
+hearing.  The circuit court qualified Nakamura as an expert in 
+"forensic science with subspecialty in drug analysis and identification."  
+Nakamura testified that she tested a black, tar-like 
+substance collected as evidence in Scott's case to determine whether it contained heroin.  She performed two tests on the evidence: a presumptive color test using a chemical, and a confirmatory test using a gas chromatograph mass spectrometer (GCMS).  The color test indicated the evidence possibly contained 
+heroin. 
+Nakamura then ran a confirmatory test using the GCMS. 
+She explained that the GCMS "is a two-part instrument."  The gas 
+chromatograph separates the components of the substance being tested.  The mass spectrometer then breaks up each component into a unique, reproducible fragmentation pattern.  A sample of a known drug (called a "positive control") is then run through the 
+GCMS.  The positive control "is a known drug that [HPD] 
+purchase[s] through a reputable company that we can then use to review that data against the unknown."  If the fragmentation pattern of the evidence being tested matches that of the positive control, the evidence is identified.  The confirmatory test showed that the evidence in Scott's case contained heroin. 
+On cross-examination, Nakamura testified: 
+Q.  I guess what I'm talking about is the actual
+reference standard that you're comparing the unknown to. 
+How do you know that the reference sample is actually a truereflection of heroin and not some other contaminant that's been introduced into the GC/MS device?  
+A.  I see.  So we purchase the -- in this case, a
+heroin standard from a reputable company.  It comes with a certificate of analysis on what the item is, but we still inthe laboratory do not take for granted that that is what wewere shipped.  Therefore, prior to even using it on acasework, we will run the standard, which is supposed to beheroin, either on a GC/MS or on another instrument, and then 
+3 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+we will look at that spectrum that we receive and compare
+that to a reputable published reference.  And if it has --if the spectrum is the same and we can -- it passes all ofthe criteria set forth in the laboratory, we can then saythat we did, in fact, receive a heroin standard.  And at that point, it has been verified and fit for use in ourlaboratory.  
+Q.  And in this particular analysis, do you know
+who prepared the working reference standard?  
+A.  Not off of the top of my head but we do have
+records in our laboratory to track who had made thatstandard.  
+Q.  And you're assuming that the standard was
+tested correctly according to whatever procedures are inplace to give you a correct reading that the referencesample is actually heroin and not some other contaminant?  
+A.  Yes, we have all of the paperwork in our
+laboratory to verify that those checks had been done.  
+Q.  You personally haven't verified it on the 
+machine?  
+A.  I may have.  I -- I -- I may have been the one
+that actually made the standard in this case, but I am notsure.  Again, I would have to reference back.  
+Q.  And you can't tell me when this working
+standard was created?  
+A.  Again, that is all in our paperwork, and I
+would be able to reference -- reference the paperwork andlet you know.  
+The State did not introduce the HPD drug analysis 
+laboratory records or "paperwork" establishing that the positive 
+control used to test the evidence in Scott's case was in fact heroin.  During closing argument the circuit court questioned whether the positive control had been proven to be heroin: 
+THE COURT:  The known heroin stamp, where is the
+accuracy on that being a standard?  
+[DEPUTY PROSECUTOR]: Your Honor, it's the State's
+position that that is not a foundational requirement
+required by case law.  
+Case law requires that we show for foundation that the
+instrument was in proper working order, not that thestandard used is actually heroin. 
+That is a determination on -- after cross-examination 
+in front of a jury to determine whether or not they believethat the heroin standard is, in fact, heroin.  It's a weight issue, not an admissibility issue. 
+4 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Defense counsel argued: 
+Where do they get this heroin?  They get it from certified
+labs, and I'm pretty sure you got to go through a lot ofpaperwork if you want to get -- buy heroin, you know, from alab.  
+They're going to send you a certificate -- you know, a
+certificate that says, Analysis, this is heroin, and thenthere would be a paper trail in terms of that going to thelab, and the lab doing their own verification to ensure thattheir method is the correct method in terms of determiningthat this is heroin, yet we don't know if that was done, orwhen it was done, or who did it, or if it was donecorrectly.  
+How do we even know that the sample that they're
+comparing it to is even heroin?  We don't. 
+The circuit court asked: 
+THE COURT:  Okay.  I have one more question to you, to 
+either counsel. 
+Is there HPD SOP on the procedure, any certification
+procedure regarding how they go about obtaining the knownsamples?  
+[DEFENSE COUNSEL]: Yes, there is.  
+THE COURT:  Did that come out in evidence?  [DEFENSE COUNSEL]: It --  THE COURT:  It did not.  [DEFENSE COUNSEL]: It did not.  THE COURT:  But it exists?  [DEFENSE COUNSEL]: It exists, specifically, in their
+operating manual, um, and their quality manual discusses the
+procedures in terms of paper trail and making sure that theproper certificates are on file to ensure that it is.  
+THE COURT:  Okay.  If it didn't come out in evidence I 
+won't ask anymore about it.  
+[DEPUTY PROSECUTOR]: I believe that Ms. Nakamura
+testified that the heroin is acquired from a reputablecompany, and then tested on its own in HPD, but I believethat's the extent of the evidence --  
+THE COURT:  Okay.  
+[DEPUTY PROSECUTOR]: -- as for the heroin standard.  [DEFENSE COUNSEL]:  And that's, I mean, that's kind of
+one of the reasons why I didn't go into it.  I didn't think 
+they'd established a foundation to even kind of raise the 
+5 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+issue.  She doesn't know where it came from or who tested 
+it.  
+THE COURT:  Okay.  
+[DEPUTY PROSECUTOR]: May I respond to that.  THE COURT:  Yeah, you can. 
+. . . . 
+[DEPUTY PROSECUTOR]: So the questions about whether or
+not the known -- the heroin standard is actually heroin or
+not, State submits that that is a determination for thejury, we just need to show that the data that's printed outfrom the instrument is reliable, and it is.  
+The Exclusion Order contained a finding of fact which 
+provided, in relevant part: 
+8. The first tier of the "positive and negative
+controls" was not established, as there was no foundationthat the "known" drug sample purported to be heroin,purchased by the Crime Lab, was, in fact, heroin. 
+This negative finding was supported by the lack of substantial 
+evidence, and was not clearly erroneous.  Nakamura did not remember whether she personally verified that the positive control was in fact heroin, and the HPD records and paperwork to which she would refer were never introduced into evidence. 
+The Exclusion Order contained the following conclusion 
+of law: 
+4. In the instant case, the unknown sample in this
+case was tested against a known "heroin" drug sample, yet
+there was no foundation laid that the known sample was infact heroin . . . .  The record must contain accurate and reliable evidence that the known sample used in this case totest the unknown substance, was heroin. 
+This conclusion was not wrong.  See State v. Wallace, 80 Hawai# i 
+382, 407, 910 P.2d 695, 720 (1996) ("The reliability of expert 
+testimony supplying scientific evidence depends upon the proper application of valid techniques grounded in valid underlying principles.  It is axiomatic that such reliability is not possible in the absence of a 
+sound factual foundation.") (cleaned 
+up) (emphasis added).  The circuit court did not abuse its discretion by ruling that the State failed to lay a proper 
+6 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+foundation for admission of the GCMS test result to prove that 
+the evidence obtained from Scott's van contained heroin. 
+(2) Because we conclude that the circuit court did not 
+err by excluding the GCMS test result, we need not decide whether the circuit court erred by refusing to admit State's Exhibit 18 (the GCMS preventive maintenance check signed by Dorian Taylor) into evidence. 
+(3) The State's only argument in support of its 
+contention that the circuit court erred by dismissing the case against Scott is that the circuit court "erred when it excluded Nakamura's expert opinion that the unknown substance was heroin[.]"  The State conceded that it could not proceed to trial without the GCMS test result.  Because we conclude that the circuit court did not err by excluding the GCMS test result, we also conclude that the circuit court did not err by granting Scott's motion to dismiss.
+3 
+For the foregoing reasons, the circuit court's 
+December 17, 2019 Exclusion Order and December 6, 2019 Dismissal Order are affirmed. 
+DATED:  Honolulu, Hawai# i, July 29, 2022. 
+On the briefs: 
+/s/ Katherine G. Leonard 
+Chad M. Kumagai, Presiding Judge 
+Deputy Prosecuting Attorney,
+City and County of Honolulu, /s/ Keith K. Hiraoka for Plaintiff-Appellant. Associate Judge 
+William H. Jameson, Jr., /s/ Clyde J. Wadsworth 
+Deputy Public Defender, Associate Judge 
+State of Hawai# i,
+for Defendant-Appellee. 
+3 The State does not argue that the dismissal should have been
+without prejudice.  We note that the circuit court addressed the factors adopted in State v. Estencion, 63 Haw. 264, 269, 625 P.2d 1040, 1044 (1981),before dismissing the case with prejudice. 
+7 

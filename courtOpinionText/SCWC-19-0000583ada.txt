@@ -1,0 +1,761 @@
+***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ʻI 
+ 
+---o0o--- 
+________________________________________________________________  
+ 
+IN THE INTEREST OF GH  
+________________________________________________________________ 
+ 
+SCWC-19-0000583 
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS 
+(CAAP-19-0000583; CASE NO. FC- J 0105711)  
+ 
+OCTOBER 10, 2022 
+ 
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, WILSON, AND EDDINS, JJ.
+ 
+OPINION OF THE COURT BY McKENNA, J.  
+ 
+I. Introduction  
+ This case arises from an adjudication of GH (“Minor”), a 
+teenager at the time, as a law violator by the Family Court of 
+the First Circuit (“family court ”), for sexually assaulting the 
+complaining witness (“CW”), who was nine years old at the time 
+of the assault.   
+ On certiorari, Minor alleges the Intermediate Court  of 
+Appeals (“ICA”) erred by (1) affirming the family court’s Electronically Filed
+Supreme Court
+SCWC-19-0000583
+10-OCT-2022
+07:59 AM
+Dkt. 15 OP***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+2 exclusion, based on Rule 412  (2016) of the Hawaiʻi Rules of 
+Evidence (“HRE”), of Minor’s proffered extrinsic evidence of 
+CW’s past false sexual assault allegations ; (2) concluding the 
+family cou rt had not erred by failing to make a preliminary 
+determination as to the truth or falsity of CW’s past sexual 
+assault allegations, as required by State v. West, 95 Hawaiʻi 
+452, 24 P.3d 648 (2001) ; and (3) concluding there was sufficient 
+evidence to deem M inor a law violator.  
+ We preliminarily address the untimeliness of Minor’s 
+certiorari application, which was filed more than eight months 
+after the ICA ’s October 30, 2020 judgment on appeal.  In State 
+v. Uchima , 147 Hawaiʻi 64, 464 P.3d 852 (2020), we held  that a 
+defendant in a criminal case has the right to effective 
+assistance of counsel during all stages of an appeal, which 
+includes procedural compliance with the statutory requirements 
+for filing an application for writ of certiorari.  147 Hawaiʻi at 
+79, 464 P.3d at 867.  We have also held that “[b]ecause 
+effective assistance of counsel is fundamental to a fair trial, 
+it should be guaranteed in  juvenile  law violator proceedings as 
+have other fundamental criminal case guarantees.”  In re Doe , 
+107 Hawaiʻi 12, 16, 108 P.3d 966, 970 (2005).  Hence, Uchima’s 
+holding applies to juvenile law violation cases.  
+ Addressing the merits, we hold that (1) u nder the 
+circumstances of this case, it was an abuse of discretion for ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+3  the family court to exclude the proffered ev idence based on the 
+procedural notice requirements of HRE Rule 412; (2) as further 
+discussed below, if a defendant seeks to admit a complaining 
+witness’s false allegations of sexual assault, then 
+admissibility of such evidence is not subject to HRE Rule 41 2 or 
+West, 95 Hawaiʻi 452, 24 P.3d 648; and (3) Minor’s insufficiency 
+of evidence argument lacks merit.  
+ We therefore vacate the ICA ’s October 30, 2020 judgment on 
+appeal as well as the family court ’s June 5, 2019 decree, July 
+23, 2019 order, and Septembe r 24, 2019 findings of fact and 
+conclusions of law.  We remand to the family court for 
+proceedings consistent with this opinion.  
+II. Background  
+A. Family court proceedings  
+1. Charges 
+On February 5, 2019, the State of Hawaiʻi (“the State”) 
+filed six amended  petitions against  Minor1: one for first -degree 
+                                                 
+1  Minor comes within the purview of Hawaiʻi Revised Statutes (“HRS”) § 
+571-11 (2018), which states in relevant part:  
+ 
+Except as otherwise provided in this chapter, the court 
+shall have exclusive original jurisdiction in proceedings:  
+ 
+(1) Concerning any person who is alleged to have 
+committed an act prior to achieving eighteen years of 
+age that would constitute a violation or attempted 
+violation of any federal, state, or local law or 
+county ordinance.  ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+4 sexual assault,2 four for third -degree sexual assault,3 and one 
+for attempted first -degree sexual assault.4 
+2. Motion in limine and hearing on the motion  
+ On February 8, 2019, the State filed a motion in limi ne 
+based on HRE Rule 4125 to prohibit the defense and witnesses from 
+referring to “[a]ny evidence, including but not limited to 
+reputation and/or opinion, relating to the past sexual history, 
+behavior and/or character of [CW].”  At the time, trial was 
+scheduled for April 17, 2019.  The State said it had reviewed 
+child welfare reports and believed Minor might attempt to 
+inquire into the past sexual history of CW in violation of HRE 
+Rule 412.  Minor did not file a memorandum in response to this 
+motion.  Minor  also did not file any HRE Rule 412(c) notice or 
+                                                 
+2  HRS § 707 -730 (2014) provided  in relevant part : “(1) A person commits 
+the offense of sexual assault in the first degree if: . . . (b) The person 
+knowingly engages in sexual penetration with another person who is less than 
+fourteen years old [.]” 
+ 
+3  HRS § 707 -732 (2014) provided  in relevant part : “(1) A p erson commits 
+the offense of sexual assault in the third degree if: . . . (b) The person 
+knowingly subjects to sexual contact another person who is less than fourteen 
+years old or causes such a person to have sexual contact with the person [.]” 
+ 
+4  HRS § 70 5-500 (2014) provides in relevant part : 
+ 
+(1) A person is guilty of an attempt to commit a crime if 
+the person:  
+. . . . 
+(b) Intentionally engages in conduct which, under the 
+circumstances as the person believes them to be, 
+constitutes a substantial step in a course of conduct 
+intended to culminate in the person’s commission of 
+the crime.  
+ 
+5  See infra Section IV.B.1 for relevant portions of HRE Rule 412 . ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+5 motion regarding CW’s past sexual behavior allegations of sexual 
+assault by others.   
+ Just before beginning the rescheduled June 4, 2019 bench 
+trial, the family court heard the State’s motion in limine.  Th e 
+State indicated Minor might attempt to inquire into CW’s past 
+sexual history, which it said must be excluded under HRE Rule 
+412.  Minor responded that although he would not offer evidence 
+of CW’s past sexual conduct, he would be going into accusations 
+she had made against others.  
+3. Bench trial  
+At trial, various witnesses testified.  CW testified as 
+follows:  
+She was sexually assaulted by Minor when she was nine years 
+old.  At the time, she lived with her mother and father, two 
+older sisters, the sisters’  boyfriends, and her little sister.  
+She met Minor as a friend of a neighbor with whom she often 
+spent time.  She came to view Minor as an older brother, and 
+Minor often slept over at her house.  
+One night, Minor came into her room and sexually assaulted 
+her.  CW described the assault in detail.  Minor told her that 
+if she told anyone, something would happen to her.  CW did not 
+speak about what happened until she told a hospital employee.  
+CW was later transferred into the care of a foster mother, 
+her aunt.  Her aunt had a daughter, CW’s cousin, who was three ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+6 years older.  After moving in with her aunt,  CW went to the 
+Children’s Justice Center (“CJC”) and spoke with an interviewer 
+about the sexual assault by Minor.  She was later taken to a 
+doctor for a physic al examination.  
+On cross -examination, Minor asked CW whether she had told 
+her cousin that her sister’s boyfriend had sexually assaulted 
+her.  CW responded she had told her cousin that her sister’s 
+boyfriend would watch her when she slept, but denied saying  he 
+had touched her sexually.  Minor asked the same question 
+regarding CW’s father.  CW responded she had only told her 
+cousin her father at times made her feel uncomfortable.  Minor 
+also asked whether CW told her cousin that another cousin had 
+touched and  raped her.  The court sustained the State’s 
+objection to this question.  
+Minor then also asked whether CW had told her aunt she had 
+been sexually assaulted by her father.   The State objected on 
+relevance and hearsay grounds.  Minor responded he was 
+attempting to cross -examine CW regarding past false accusations 
+of sexual assault, stating “when the [CW] made a statement to 
+the police, she denied these false accusations.”  The family 
+court concluded it would “allow some leeway” and permitted Minor 
+to ask CW w hether she had told her aunt she had been sexually 
+assaulted by her father.  CW again responded she had not said ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+7 that her father sexually assaulted her, but that certain things 
+he did had made her uncomfortable.  
+ Minor then attempted to adduce extrinsic ev idence of CW’s 
+alleged false sexual assault allegations.  Minor called CW’s 
+aunt as a witness and asked what CW had said about being 
+sexually assaulted.  The family court sua sponte disallowed a 
+response on hearsay grounds.6  Minor then indicated he was re ady 
+to call CW’s cousin to the stand to ask similar questions about 
+CW’s false allegations, but the family court disallowed any such 
+testimony.7 
+ At the close of evidence, the family court ruled it had 
+properly excluded testimony from others concerning  CW’s past 
+statements regarding other alleged sexual assaults because Minor 
+never filed a HRE Rule 412 motion with fifteen  days’ notice 
+before trial.  Minor argued that a HRE Rule 412 motion was not 
+necessary because the defense only intended to ask about fals e 
+accusations, not sexual behavior, but the family court 
+disagreed.  
+ 
+ 
+                                                 
+6  The anticipated evidence was not being proffered for the truth of the 
+matter asserted.  
+ 
+7  Minor also questioned Detective Cadiz, who had watched the CJC 
+interview through a window, about what CW had said.  Defense counsel 
+attempted to elicit evidence that, contrary to her trial testimony, CW never 
+said that her father made her uncomfortable.  
+ ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+8 4. Adjudication and sentence  
+ The family court then adjudicated Minor a law violator on 
+one count of first -degree sexual assault and two counts of 
+third-degree sexual assault and dismisse d the remaining counts 
+with prejudice.  The family court committed Minor to the custody 
+of the Office of Youth Services for commitment to the Hawaiʻi 
+Youth Correctional Facility until age nineteen, with orders for 
+the Minor to be referred for behavioral se rvices.  On June 5, 
+2019, the family court filed its “Decree Re: Law Violation 
+Petition(s)” (“June 5, 2019 decree”).  
+5. Post-trial motions  
+ On June 13, 2019, Minor moved for a new trial, arguing the 
+family court erred in precluding Minor from eliciting evi dence 
+of CW’s false accusations of sexual assault by others.  Citing 
+to West, 95 Hawaiʻi 452, 24 P.3d 648, Minor asserted such 
+evidence was not “sexual conduct” evidence under HRE Rule 412.  
+Minor also alternatively argued that, pursuant to West, the 
+family court erred in not making a preliminary determination as 
+to the falsity of CW’s prio r allegations.  Minor argued he would 
+have met his burden of proving that CW’s statements were false.  
+Minor also asserted that there were “prejudicial violations of 
+the Minor’s constitutional rights” and that he had been denied a 
+fair trial.  ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+9  On July 23, 2019, the family court affirmed its evidentiary 
+rulings based on Minor’s failure to file a HRE Rule 412 motion 
+before trial (“July 23, 2019 order”).  The family court’s post -
+appeal September 24, 2019 findings of fact and conclusions of 
+law stated (1) defen se counsel never filed a HRE Rule 412 motion 
+before trial; (2) under West, 95 Hawaiʻi at 459, 24 P.3d at 655, 
+“where the truth or falsity of a statement regarding an 
+unrelated sexual assault is unknown, it falls within the purview 
+of the rape shield statut e and must be analyzed accordingly”; 
+(3) defense counsel only asserted CW’s prior statements may have 
+been false; and (4) because the threshold of falsity was not 
+met, CW’s statements fell within HRE Rule 412 and were properly 
+excluded.   
+B. ICA proceedings  
+ On appeal to the ICA, Minor argued the family court erred 
+because (1) evidence of CW’s prior inconsistent statements about 
+prior sexual assaults should have been admitted under HRE Rule 
+613(b) (2016);8 (2) CW’s allegations should not have been 
+excluded u nder HRE Rule 412 because West held that a complaining 
+witness’s false statements of prior unrelated sexual assaults 
+                                                 
+8  HRE Rule 613(b) provides:  
+ 
+Extrinsic evidence of prior inconsistent statement of 
+witness.  Extrinsic evidence of a prior inconsistent 
+statement by a witness is not admissible unless, on direct 
+or cross -examination, (1) the circumstances of the 
+statement have been b rought to the attention of the 
+witness, and (2) the witness has been asked whether the 
+witness made the statement.  ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+10 are not excluded by HRE Rule 412 ; (3) in any event, the family 
+court should have made a preliminary determination as to the 
+falsity of CW’s  prior allegations based on West; and (4) there 
+was insufficient evidence that he was a law violator.  
+ In its summary disposition order, the ICA held evidence of 
+CW’s past sexual assault allegations was inadmissible under HRE 
+Rule 412.  The ICA concluded t he family court did not err in not 
+making a preliminary determination as to the falsity of CW’s 
+allegations because Minor failed to comply with HRE Rule 
+412(c)’s written notice requirement.  The ICA also held that 
+even though the family court had not made a preliminary 
+determination as to falsity, the family court could find in its 
+post-trial findings that falsity had not been shown.  
+Additionally, the ICA held CW’s inconsistent statements 
+inadmissible under HRE Rule 613 because HRE Rule 412, a law of 
+specific application, controls  over HRE Rule 613, a law of 
+general application.  Finally, the ICA held there was sufficient 
+evidence to support Minor’s adjudication as a law violator.  The 
+ICA thus affirmed the family court’s June 5, 2019 decree and 
+July 23, 20 19 order.  
+C. Supreme Court proceedings  
+ More than eight months after the ICA’s October 30, 
+2020 judgment on appeal, Minor ’s counsel filed an untimely 
+certiorari application.  Defense counsel states, “Due to ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+11 counsel’s error, an application for writ of certi orari was 
+not filed in a timely fashion in the above -entitled matter.  
+However, pursuant to the principles outlined in State v. 
+Uchima, . . . we ask that this court consider the arguments 
+and representations presented herein.”  
+III. Standards of review  
+A. Jurisdiction  
+The existence of jurisdiction is a question of law and is 
+reviewed de novo under the right/wrong standard.  Lingle v. Haw. 
+Gov’t Emps. Ass’n, Local 152 , 107 Hawaiʻi 178, 182, 111 P.3d 587, 
+591 (2005).  
+B.  Admissibility of evidence  
+When application of a particular evidentiary rule can yield 
+only one correct result, the proper standard for appellate 
+review is the right/wrong standard.  However, the 
+traditional abuse  of discretion standard should be applied 
+in the case of those rules of evidence that require a 
+“judgment call” on the part of the trial court.  
+  
+State v. Heggland , 118 Hawaiʻi 425, 434, 193 P.3d 341, 350 (2008) 
+(citation omitted).  
+C. Exclusion of admiss ible evidence  
+ A trial court’s error in excluding evidence prejudicially 
+affects a defendant’s right to a fair trial and requires vacatur 
+unless the exclusion was harmless beyond a reasonable doubt.  
+See State v. Kato, 147 Hawaiʻi 478, 497, 465 P.3d 925, 9 44 
+(2020); State v. Abion, 148 Hawaiʻi 445, 448, 478 P.3d 270, 273 
+(2020). ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+12 D. Statutory interpretation  
+ The interpretation  of a statute is a question of law 
+that this court reviews de novo.   When construing a 
+statute, our foremost obligation is to ascertai n and give 
+effect to the intention of the legislature, which is to be 
+obtained primarily from the language contained in the 
+statute itself.  And we must read statutory language in the 
+context of the entire statute and construe it in a manner 
+consistent wit h its purpose.   
+ 
+Abion, 148 Hawaiʻi at 454, 478 P.3d at 279 (citations omitted).  
+E.  Sufficiency of the evidence  
+Evidence adduced in the trial court must be considered in 
+the strongest light for the prosecution when the appellate 
+court passes on the legal sufficiency of such evidence to 
+support a conviction.  The test on appeal is not whether 
+guilt is established beyond a reasonable doubt, but whether 
+there was substantial evidence to support the conclusion of 
+the trier of fact .  Indeed, even if it could be said in a 
+bench trial that the c onviction is against the weight of 
+the evidence, as long as there is substantial evidence to 
+support the requisite findings for conviction, the trial 
+court will be affirmed.  Substantial evidence is credible 
+evidence which is of sufficient quality and prob ative value 
+to enable a person of reasonable caution to support a 
+conclusion.  
+ 
+State v. Xiao , 123 Hawaiʻi 251, 257, 231 P.3d 968, 974 (2010) 
+(cleaned up).  
+IV. Discussion  
+A.  Uchima applies to juvenile proceedings  
+Minor’s certiorari application was filed ap proximately 
+eight months after the ICA’s judgment on appeal.  Under HRS § 
+602-59(a) and (c) ( 2016 & Supp. 201 7), however, a party has up 
+to thirty days after the ICA’s judgment on appeal or dismissal 
+order to file a certiorari application with this court.  A party 
+may extend this deadline by an additional thirty days upon 
+written request.  HRS § 602 -59(c).   ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+13  In Uchima, 147 Hawaiʻi at 82, 464 P.3d at 870, we held this 
+court may “decline to dismiss an application for writ of 
+certiorari as untimely and proceed to review its merits when it 
+is plain from the record that defense counsel failed to comply 
+with the procedural requirements  for filing the application.”  
+(Citation omitted ).  Uchima held that the Hawaiʻi Constitution 
+“guarantees a defendant in a criminal case the right to the 
+effective assistance of counsel on certiorari review in the same 
+manner that it does during all other critical stages of the 
+criminal proceedings.”  147 Hawaiʻi at 76, 464 P.3d at 864.  
+ This court has also held that “[b]ecause effective 
+assistance of counsel is fundamental to a fair trial, it should 
+be guaranteed in juvenile law violator proceedings as ha ve other 
+fundamental criminal case guarantees.”  In re Doe , 107 Hawaiʻi 
+12, 16, 108 P.3d 966, 970 (2005).  Hence, Uchima also applies to 
+juvenile law violation proceedings.  
+ Here, defense counsel admitted ineffective assistance of 
+counsel, indicating in t he certiorari application that “ [d]ue to 
+counsel’s error, an application for writ of certiorari was not 
+filed in a timely fashion [.]”  We therefore decline to dismiss 
+Minor’s certiorari application and now turn to its merits.  We 
+address Minor’s questions on certiorari as follows.  
+ ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+14 B. The proffered evidence should not have been excluded    
+ At trial, Minor sought to introduce extrinsic evidence that 
+CW made false statements of sexual assault against others.  The 
+family court and ICA held the proffered eviden ce inadmissible 
+based on HRE Rule 412 , as applied by  West, 95 Hawaiʻi 452, 24 
+P.3d 648.  
+1. HRE Rule 412 ’s plain language renders it inapplicable  
+  to false allegations of sexual assault  
+ HRE Rule 412 provides in relevant part as follows:  
+Rule 412 .  Sexual offense and sexual harassment cases; 
+relevance of victim ’s past behavior.    
+ 
+(a)  Notwithstanding any other provision of law, in a 
+criminal case in which a person is accused of a sexual 
+offense, reputation or opinion evidence of the past sexual 
+behavior o f an alleged victim of the sexual offense is not 
+admissible to prove the character of the victim to show 
+action in conformity therewith.       
+ 
+ (b)  Notwithstanding any other provision of law, in a 
+criminal case in which a person is accused of a sexual 
+offense, evidence of an alleged victim ’s past sexual 
+behavior other than reputation or opinion evidence is not 
+admissible to prove the character of the victim to show 
+action in conformity therewith, unless the evidence is:  
+ 
+(1)  Admitted in accordance with su bsection 
+(c)(1) and (2) and is constitutionally required to be 
+admitted; or  
+ 
+(2)  Admitted in accordance with subsection (c) 
+and is evidence of:  
+ 
+(A)  Past sexual behavior with persons 
+other than the accused, offered by the accused 
+upon the issue of whethe r the accused was or  
+was not, with respect to the alleged victim, 
+the source of semen or  injury; or  
+ 
+(B)  Past sexual behavior with the  
+accused and is offered by the accused upon the 
+issue of whether the alleged victim consented 
+to the sexual  behavior with  respect to which 
+sexual assault is alleged.  
+ ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+15     (c)(1)  If the person accused of committing a sexual 
+offense intends to offer under subsection (b) evidence of 
+specific instances of the alleged victim ’s past sexual 
+behavior, the accused shall make a writt en motion to offer 
+the evidence not later than fifteen days before the date on 
+which the trial in which the evidence is to be offered is 
+scheduled to begin, except that the court may allow the 
+motion to be made at a later date, including during trial, 
+if the court determines either that the evidence is newly 
+discovered and could not have been obtained earlier through 
+the exercise of due diligence or that the issue to which 
+the evidence relates has newly arisen in the case.   Any 
+motion made under this paragr aph shall be served on all 
+other parties and on the alleged victim.  
+ 
+(2)  The motion described in paragraph (1) 
+shall be accompanied by a written offer of proof.   If 
+the court determines that the offer of proof contains 
+evidence described in subsection (b) , the court shall 
+order a hearing in chambers to determine if the 
+evidence is admissible.   At the hearing, the parties 
+may call witnesses, including the alleged victim, and 
+offer relevant evidence.   Notwithstanding subsection 
+(b) of rule 104, if the releva ncy of the evidence 
+that the accused seeks to offer in the trial depends 
+upon the fulfillment of a condition of fact, the 
+court, at the hearing in chambers or at a subsequent 
+hearing in chambers scheduled for this purpose, shall 
+accept evidence on the issu e of whether the condition 
+of fact is fulfilled and shall determine the issue.  
+ 
+(3)  If the court determines on the basis of 
+the hearing described in paragraph (2) that the 
+evidence that the accused seeks to offer is relevant 
+and that the probative value o f the evidence 
+outweighs the danger of unfair prejudice, the 
+evidence shall be admissible in the trial to the 
+extent an order made by the court specifies evidence 
+that may be offered and areas with respect to which 
+the alleged victim may be examined or cro ss-examined.  
+ 
+  . . . . 
+ 
+     (h)  For purposes of this rule, the term “past sexual 
+behavior ” means sexual behavior other than the sexual 
+behavior with respect to which a sexual offense or sexual 
+harassment is alleged.  
+ 
+ HRE Rule 412 prohibits evidence of a complaining witness’s 
+“past sexual behavior” in a criminal case in which a defendant 
+is charged with sexual assault when offered for certain 
+purposes.  HRE Rule 412(h) defines “past sexual behavior” as ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+16 “sexual behavior other than the sexual behavior with  respect to 
+which a sexual offense or sexual harassment is alleged.”   
+State v. Kelekolio , 74 Haw. 479, 849 P.2d 58 (1993), noted 
+that although HRE Rule 412 does not define “behavior” as used in 
+the term “sexual behavior,” it “pertains to the admissibility  of 
+the sexual assault victim’s past sexual conduct.”  74 Haw. at 
+521 n.19, 849 P.2d at 77 n.19  (cleaned up) (citing S. Stand. 
+Comm. Rep. No. 22 –80, in 1980 Senate Journal, at 1034).  We 
+pointed out that “conduct” means a “mode of action” or 
+“something don e.”  Id. (first quoting  Conduct, Black’s Law 
+Dictionary  (6th ed. 1990) ; and then quoting Action, Black’s Law 
+Dictionary  (6th ed. 1990)).  Hence, Kelekolio  concluded that 
+false allegations of sexual activity do not fall under HRE Rule 
+412.  See 74 Haw. at 5 21, 849 P.2d at 77.9   
+2. West  
+In West, defense counsel sought to introduce evidence 
+regarding a four -year-old’s statement that she had been sexually 
+                                                 
+9  In Kelekolio , the complaining witness had Down syndrome and functioned 
+at the cognitive level of a four - to seven -year-old.  74 Haw. at 48 6, 849 
+P.2d at 63.  The defendant sought to introduce evidence that the complaining 
+witness habitually fantasized about sex, had previously reported sexual 
+encounters with an imaginary boyfriend, and had previously reported that she 
+was pregnant when she w as not.  74 Haw. at 4 89-498, 849 P.2d at 6 4-68.  The 
+defendant argued that if the complaining witness previously fantasized sexual 
+events, then the jury could find that she fantasized the alleged sexual 
+assault by the defendant.  74 Haw. at 520, 849 P.2d a t 77. 
+    
+ Because the defendant had not presented an offer of proof explaining 
+that he was not seeking to adduce evidence of the complainant’s past sexual 
+behavior, however, this court affirmed the trial court’s exclusion of the 
+proffered evidence.  74 Haw. at 522 -23, 849 P.2d at 7 8.  ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+17 assaulted by someone other than the defendant .  95 Hawaiʻi at 
+454-55, 24 P.3d at 650 -51.  Defense counsel  sought admission of 
+the evidence, but indicated it was unclear whether the 
+statements of the four -year-old were true or false.  95 Hawaiʻi 
+at 455, 24 P.3d at 65 1.   
+West initially recognized cases holding that evidence of 
+false statements of unrelated sex ual assaults are not excluded 
+by HRE Rule 412 because they are not evidence of sexual conduct.  
+95 Hawaiʻi at 457-58, 24 P.3d at 653 -54.  But we noted that 
+courts have made admissibility of sexual assault allegations 
+dependent on actual falsity and have required a threshold 
+determination regarding truth or falsity.  95 Hawaiʻi at 458, 24 
+P.3d at 654.10  We held that :  
+where a defendant seeks to admit allegedly false statements 
+made by a complainant regarding an unrelated sexual 
+assault, the trial court must make a preliminary 
+determination based on a preponderance of the evidence that 
+the statements are false.  Correlatively, where the trial 
+                                                 
+10  Some states’ rape shield statutes  specifically allow evidence of false 
+sexual assault allegations  when the probative value of such evidence 
+outweighs potential prejudice .  See ARIZ. REV. STAT. ANN. § 13-1421(A)(5) (202 2) 
+(allowing evidence of  “false allegations of sexual misconduct made by the 
+victim against others”); IDAHO R. EVID. Rule 412(b)(3) (2022) (allowing  “false 
+allegations of sex crimes made at an earlier time”); MISS. R. EVID. Rule 
+412(b)(2) (2022) (allowing  “ false allegations of sexual offenses made at any 
+time before trial by the victim ”); OKLA. STAT. tit. 12, § 2412(B)(2) (202 2) 
+(allowing  “[f]alse allegations of sexual offenses”); VT. STAT. ANN. tit. 13, § 
+3255(a)(3)(C) (202 2) (allowing  “evidence of specific i nstances of the 
+complaining witness’ past false allegations of violations of this chapter”); 
+WIS. STAT. § 972.11(2)(b)(3) (202 2) (allowing  “[e]vidence of prior untruthful 
+allegations of sexual assault made by the complaining witness”).  
+ 
+ Other states’ rape  shield statutes do not specifically reference false 
+sexual assault allegations, and admission of such evidence appears dependent 
+on caselaw.  See, e.g. , Miller v. State , 779 P.2d 87 (Nev. 1989); Clinebell 
+v. Commonwealth , 368 S.E.2d 263 (Va. 1988).  
+ ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+18 court is unable to determine by a preponderance of the 
+evidence that the statement is false, the defendant has 
+failed t o meet [their] burden, and the evidence may be 
+properly excluded.  
+ 
+95 Hawaiʻi at 460, 24 P.3d at 656.  
+ Hence, West conditioned admissibility of unrelated sexual 
+assault evidence  upon compliance with HRE Rule 412 procedural 
+requirements even when the defense proffers the evidence based 
+on falsity.  See id.  In addition, West imposed a requirement on 
+trial courts to make a threshold determination as to truth or 
+falsity and expressly determine falsity before admitting any 
+such evidence.  See id.  We indicated we were doing so because  
+“to permit reception of evidence which may be tru e or false 
+would allow circumvention of the rape shield statute because the 
+jury may be tempted to consider evidence about an alleged 
+victim’s sexual conduct in order to determine the victim’s 
+credibility. ” 95 Hawaiʻi at 459, 24 P.3d at 655 (cleaned up).  
+3. West’s procedural notice requirements have been   
+  limited by Pond 
+ Based on West, both the family court and the ICA concluded 
+that Minor’s failure to file a HRE Rule 412(c)(1) notice or 
+motion at least fifteen days before trial precluded him from 
+introducing extrinsic evidence of allegedly false allegations of 
+sexual assault CW had made to others.  
+ Under the circumstances of this case, however, the 
+proffered evidence should not have been excluded based on HRE ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+19 Rule 412.  This is because the procedural requirements of HRE 
+Rule 412 have been limited by State v. Pond , 118 Hawaiʻi 452, 193 
+P.3d 368 (2008).  
+ As noted, the State filed a HRE Rule 412 motion in limine 
+on February 8, 2019, more than two months before the then -
+scheduled April 17, 2019 trial date.  When the motion was filed, 
+it was scheduled to be heard on March 4, 2019 .  After the motion 
+in limine was filed , the trial date was continued to June 4, 
+2019.  For some reason, the motion was never heard before the 
+June 4, 2019 trial date, although the motion was originally 
+scheduled to be heard well before trial and it appear s there 
+were various pretrial conferences.  
+ Pond, 118 Hawaiʻi 452, 193 P.3d 368, addressed HRE Rule 
+404(b)’s  (2016) requirement that the proponent of “prior bad 
+act” evidence give “reasonable notice. ”  In doing so, we 
+discussed United States Supreme Court precedent regarding the 
+constitutionality of and reasons fo r notice requirements in the 
+context of rape shield statutes like HRE Rule 412:  
+The rape shield statute, designed to protect victims 
+of rape from being subjected to harassing or irrelevant 
+questions concerning their past sexual behavior , permits a 
+defendant to introduce evidence of [their] own past sexual 
+conduct with the victim if the defendant files a written 
+motion and an offer of proof within ten days after he is 
+arraigned.  . . .   
+ 
+The Supreme Court recognized that the rape shield 
+statute implicates t he sixth amendment and that , to the 
+extent that it operates to prevent a criminal defendant 
+from presenting relevant evidence, the defendant’s ability 
+to confront adverse witnesses and present a defense is ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+20 diminished.  This does not necessarily render the statute 
+unconstitutional.  [The Court]  observed that the 
+defendant’s right to present relevant evidence may, in 
+appropriate cases, bow to accommodate other legitimate 
+interests in the criminal trial process.  
+ 
+Pursuant to this rule, the Supreme Court recogn ized 
+the state ’s interest in the policy underlying the rape 
+shield statute's procedural prerequisites —to 
+protect rape victims from surprise, harassment, and 
+invasions of privacy, and permit the prosecution to 
+investigate the evidence . . . . Based on its pr ior rulings 
+and the state’s interest in the  rape shield statute,  [the 
+Court] ruled that precluding evidence based on 
+the rape shield statute’s notice requirement is not  per 
+se unconstitutional.   However, it remanded the case to 
+determine whether the trial court abused its discretion by 
+precluding [the defendant’s] evidence .  
+  
+Pond, 118 Hawaiʻi at 464-65, 193 P.3d at 380 -81 (cleaned up).   
+ Pond recognizes that although constitutional rights 
+implicated by a rape -shield statute are not automatically 
+violated  by notice requirements, such notice requirements must 
+further “legitimate interests,” which are to “protect rape 
+victims from surprise, harassment, and invasions of privacy, and 
+permit the prosecution to investigate the evidence.”  See id.  
+Pond also reco gnized that the notice requirement is subject to 
+an abuse of discretion review.  See 118 Hawaiʻi at 461, 193 P.3d 
+at 377. 
+ Whether or not HRE Rule 412 applies to false allegations of 
+sexual assault, under the circumstances of this case, it was an 
+abuse of discretion for the family court to exclude the 
+proffered evidence based on the procedural noti ce requirements 
+of HRE Rule 412.  The State knew about the evidence and filed a 
+HRE Rule 412 motion in limine months before trial.  The State’s ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+21 motion and its arguments at the June 4, 2019 hearing indicate it 
+filed the HRE Rule 412 motion in limine because  it had reviewed 
+the child welfare reports and was aware that evidence regarding 
+sexual assaults by others could be elicited by Minor.  The State 
+was not surprised and was not precluded from investigating the 
+evidence it already knew.  Thus, it was error t o exclude the 
+evidence based on failure to comply with HRE Rule 412 procedural 
+notice requirements.   
+4. West must be clarified  
+ Minor also challenges (1) the family court’s post -trial 
+determination that it had properly excluded the evidence because 
+Minor had failed to establish falsity as required by West; and 
+(2) the ICA’s ruling the family court could make that finding 
+even though the family court had not made a preliminary 
+determination as to falsity.  
+As discussed, West initially recognized that false 
+allegations of unrelated sexual assaults are not excluded by HRE 
+Rule 412.   See 95 Hawaiʻi at 457-58, 24 P.3d at 6 53-54.  Yet, in 
+addition to requiring compliance with HRE Rule 412 procedural 
+requirements, West held that “where a defendant seeks to admit 
+allegedly false statements made by a complainant regarding an 
+unrelated sexual assault, the trial court must make a 
+preliminary determination based on a preponderance of the ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+22   evidence that the statements are false.”  95 Hawaiʻi at 460, 24 
+P.3d at 656.     
+ This holding of West raises significant issues.  As 
+recognized by Kelekolio  and initially in West, false allegations 
+of sexual assault are not sexual conduct, which is the subject 
+of HRE Rule 412.  West also implicates the constitutional rights 
+of criminal d efendants.11  Additionally, as a practical matter, a 
+trial court may not be able to ascertain whether a complaining 
+witness’s allegations of sexual assault by others are true or 
+false.  And even in a bench trial, as in this case, it can be 
+error for the cou rt to reject evidence which, if admitted, would 
+present an essential factual issue for itself as the trier of 
+fact.  See Abion, 148 Hawaiʻi at 448, 478 P.3d at 273.   
+                                                 
+11  Such rights include rights to confrontation, cross -examination, and to 
+present a complete defense, which also apply to minors in juvenile 
+proceedings.  For example, we have noted:  
+ 
+HRE 412 cannot override the constitutional rig hts of the 
+accused.  Under  sections 5  and 14 of Article I  of our State 
+Constitution, appellant’s right of confrontation includes a 
+right to appropriate cross -examination of the complaining 
+witness. 
+  
+State v. Calbero , 71 Haw. 115, 12 4, 785 P.2d 157, 161 (1989).  
+ 
+ For adults, the constitutional right to a jury trial may also be 
+implicated.   For example, we have stated :  
+ 
+The rule requiring the submission of factual determinations 
+to the jury if there is any evidence upon which the jury 
+may act is based on the principle that credibility of 
+witnesses and weight of the evidence are for the jury to 
+decide.  The court should not invade the  jury’s province of 
+making factual determinations . 
+ 
+State v. Riveira, 59 Haw. 148, 154, 577 P.2d 793, 797 (1978)  (citation 
+omitted) . ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+23  This case is an example of the difficulty of applying West.  
+We therefore revisit and cl arify West as follows:  If a 
+defendant seeks to admit a complaining witness’s false 
+allegations of sexual assault, then admissibility is not subject 
+to HRE Rule 412 or West.  Defendants seeking to admit such 
+evidence must make it clear the evidence is bein g proffered for 
+its falsity.  We do not address the applicability of other rules 
+of evidence, including HRE Rule 403  (2016).12  A court must also, 
+however, consider the constitutional rights of the defendant.13   
+ When a defendant seeks to admit evidence of sexual assault 
+allegations based on their truth or where truth or falsity is 
+unclear, the admission of such evidence is subject to HRE Rule 
+412.  However, we abrogate West’s requirement that the trial 
+court make a preliminary determination based on a prepo nderance 
+of the evidence that the statements are false before allowing 
+admission.  For such evidence, HRE Rule 412 explicitly requires 
+compliance with HRE Rule 412(c) procedural requirements as well 
+as consideration of a defendant’s constitutional rights.  See 
+HRE Rule 412(b)(1).   HRE Rule 403 considerations also come into 
+                                                 
+12  HRE Rule 403 provides , “Although relevant, evidence may be 
+excluded if its probative value is substantially outweighed by the 
+danger of unfair prejudice, confusion of the issues, or misleading the 
+jury, or by considerations of undue delay, waste of time, or needless 
+presentation of cumulative evidence. ”  
+ 
+13  See supra note 11. ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+24   play, but are also subject to a defendant’s constitutional 
+rights.  
+ If any evidence of a complaining witness’s allegations of 
+sexual assault by others is admitted in jury trials, the cou rt 
+should give appropriate limiting instructions.  
+ In this case, Minor proffered extrinsic evidence that CW 
+had made false statements of sexual assault against others.  For 
+the reasons explained above, we hold that this evidence was not 
+subject to HRE Rule  412 or West.14  The exclusion of the evidence 
+proffered in this case was not harmless beyond a reasonable 
+doubt.  Minor’s adjudication as a law violator must therefore be 
+vacated.  
+C. The insufficient evidence argument is without merit  
+ Finally, in a concl usory fashion, Minor asserts that there 
+was insufficient evidence for the family court to adjudicate him 
+a law violator.  Appellate challenges to the sufficiency of 
+evidence must always be decided.  State v. Davis , 133 Hawaiʻi 
+102, 116, 324 P.3d 912, 926 (2014).  
+ Viewing the record in the light most favorable to the 
+State, there was sufficient evidence to support the family 
+                                                 
+14  The foundational requirements of HRE Rule 613(b) had been met.  See 
+supra note 8.  The issue of whether any of the proffered evidence could or 
+should have been excluded based on HRE Rule 403, consistent with Minor’s 
+constitutional rights, is not before us.  ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+25 court’s adjudication of Minor as a law violator on Counts 1,2, 
+and 4.  This argument on certiorari is d evoid of merit.  
+V.Conclusion
+ Hence, w e vacate the ICA ’s October 30, 2020 judgment on 
+appeal as well as the family court ’s June 5, 2019 decree, July 
+23, 2019 order, and September 24, 2019 findings of fact and 
+conclusions of law.  We remand to the family  court for 
+proceedings consistent with this opinion.  
+Walter J. Rodby 
+for petitioner /s/ Mark E. Recktenwald 
+/s/ Paula A. Nakayama 
+/s/ Sabrina S. McKenna 
+/s/ Michael D. Wilson 
+/s/ Todd W. Eddins Brian R. Vincent
+for respondent  

@@ -1,0 +1,391 @@
+NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+NO. CAAP-18-0000582 
+IN THE INTERMEDIATE COURT OF APPEALS 
+OF THE STATE OF HAWAI# I 
+STATE OF HAWAI# I, Plaintiff-Appellee, v.
+MASON BECK, Defendant-Appellant 
+APPEAL FROM THE CIRCUIT COURT OF THE THIRD CIRCUIT 
+(CASE NO. 3CPC-17-0000226) 
+MEMORANDUM OPINION 
+(By: Leonard, Presiding Judge, and Hiraoka and Wadsworth, JJ.) 
+On March 22, 2018, a jury convicted Defendant-Appellant 
+Mason Beck (
+Beck) of three counts of Robbery in the First Degree 
+in connection with a series of car-jackings committed in the Puna 
+District of the County of Hawai# i during a ten-day period in 
+March 2017.  He was sentenced to twenty years of incarceration. 
+Beck appeals from the Amended Judgment of Conviction 
+and Sentence (Judgment), filed on June 22, 2018, in the Circuit 
+Court of the Third Circuit (Circuit Court).1/  Beck contends 
+that:  (1) the Circuit Court's jury instructions were 
+prejudicially erroneous; (2) he received ineffective assistance of trial counsel (defense counsel); and (3) the Circuit Court 
+erred in denying Beck's motions for withdrawal, mistrial, and 
+mental examination. 
+After reviewing the record on appeal and the relevant 
+legal authorities, and giving due consideration to the issues raised and the arguments advanced by the parties, we affirm the judgment for the reasons set forth below, without prejudice to a 
+1/ The Honorable Greg K. Nakamura presided.   NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+subsequent Hawai# i Rules of Penal Procedure (HRPP) Rule 40 
+petition on the grounds specified herein. 
+I.  
+BACKGROUND 
+Beck was charged with three counts of Robbery in the 
+First Degree (Robbery) in violation of Hawaii Revised Statutes 
+(HRS) § 708-840(1)(b) (2014)2/ (Counts 1, 3, and 6); two counts 
+of Unauthorized Control of a Propelled Vehicle (UCPV) in violation of HRS § 708-836(1) (2014)
+3/ (Counts 2 and 5); and one 
+count of Kidnapping in violation of HRS § 707-720(1) (2014)4/ 
+2/ HRS § 708-840(1)(b) provides: 
+Robbery in the first degree.   (1) A person commits the
+offense of robbery in the first degree if, in the course of
+committing theft or non-consensual taking of a motorvehicle: 
+. . . . 
+(b) The person is armed with a dangerous instrumentor a simulated firearm and: 
+(i) The person uses force against the person
+of anyone present with intent to overcomethat person's physical resistance orphysical power of resistance; or 
+(ii) The person threatens the imminent use offorce against the person of anyone presentwith intent to compel acquiescence to thetaking of or escaping with the property[.] 
+3/ HRS § 708-836(1) provides: 
+Unauthorized control of propelled vehicle.   (1)
+A person commits the offense of unauthorized controlof a propelled vehicle if the person intentionally orknowingly exerts unauthorized control over another'spropelled vehicle by operating the vehicle without theowner's consent or by changing the identity of thevehicle without the owner's consent. 
+4/ HRS § 707-720(1) provides, in relevant part: 
+Kidnapping.   (1) A person commits the offense of
+kidnapping if the person intentionally or knowinglyrestrains another person with intent to: 
+. . . . 
+(c) Facilitate the commission of a felony or flightthereafter; [or] 
+. . . . 
+(e) Terrorize that person or a third person[.] 
+2 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+(Count 4). 
+In sum, the State alleged: 
+(1)  
+On or about March 15, 2017, Beck: (a) used a nail 
+gun to gain unauthorized control of the motor vehicle being 
+driven by complaining witness Stefan Surber, and threatened to use force against Surber with intent to take the property (Count 1); and (b) intentionally exerted unauthorized control over the motor vehicle by operating it without the owner's consent (Count 2). 
+(2)  On or about March 24, 2017, Beck: (a) used a knife 
+to gain unauthorized control of the motor vehicle being driven by complaining witness Jeffrey Greene, and threatened to use force against Greene with intent to take the property (Count 3); (b) intentionally restrained Greene with intent to commit a felony, to facilitate Beck's escape, and/or to threaten Greene (Count 4); and (c) intentionally exerted unauthorized control over the motor vehicle by operating it without Greene's consent (Count 5). 
+(3)  On March 25, 2017, Beck used a knife in an attempt 
+to gain unauthorized control of the motor vehicle being driven by complaining witness Krishna Teja Velagapudi, and threatened to use force against Velagapudi with intent to take the property (Count 6).  
+Beck's case went to trial, and the jury found him 
+guilty on all six counts.  The jury also answered interrogatories in Beck's favor on several merger issues.  At trial, the State appears to have conceded that: (1) with respect to the March 15, 2017 incident, the UCPV count (Count 2) merged into the Robbery count (Count 1); and (2) with respect to the March 24, 2017 incident, the Kidnapping and UCPV counts (Counts 4 and 5, respectively) merged into the Robbery count (Count 3). Accordingly, Beck was convicted of three counts of Robbery (Counts 1, 3 and 6) and sentenced to twenty years of imprisonment for each count, to be served concurrently, with credit for time served. 
+Beck now appeals from the Judgment. 
+3 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+II.  POINTS OF ERROR 
+On appeal, Beck argues that: 
+(1) The jury instructions were prejudically
+insufficient, erroneous, inconsistent, ormisleading.  
+(2) Defense counsel failed to provide assistancewithin the range of competence demanded ofattorneys in criminal cases, because: 
+(A) Defense counsel elicited prejudical remarks
+during voir dire; 
+(B) Defense counsel failed to challenge acritical juror for cause; 
+(C)  Defense counsel failed to sever counts that 
+occurred on different occasions with similar modus operandi; and 
+(D) Defense counsel failed to have appellantpresent in proper attire. 
+(3) The trial court erred when it denied Beck's motions for withdrawal, mistrial and mentalexamination.  
+III.  STANDARDS OF REVIEW 
+A. Jury Instructions Not Objected to at Trial 
+In State v. Nichols, 111 Hawai# i 327, 141 P.3d 974 
+(2006), the Hawai i # Supreme Court clarified the standard of 
+review for jury instructions not objected to at trial as follows:  
+[A]lthough as a general matter forfeited assignments oferror are to be reviewed under HRPP Rule 52(b) plain errorstandard of review, in the case of erroneous juryinstructions, that standard of review is effectively mergedwith the HRPP Rule 52(a) harmless error standard of reviewbecause it is the duty of the trial court to properlyinstruct the jury.  As a result, once instructional error isdemonstrated, we will vacate, without regard to whethertimely objection was made, if there is a reasonablepossibility that the error contributed to the defendant'sconviction, i.e., that the erroneous jury instruction wasnot harmless beyond a reasonable doubt. 
+Id. at 337, 141 P.3d at 984. 
+In State v. DeLeon, 131 Hawai# i 463, 479, 319 P.3d 382, 
+398 (2014), the Court elaborated: 
+[T]he appellant must first demonstrate instructional errorby rebutting the "presumption that unobjected-to juryinstructions are correct."  [Nichols, 111 
+Hawai #i] at 327, 
+4 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+337 n.6, 141 P.3d at 984 n.6; accord State v. Eberly, 107
+Hawai i # 239, 250, 112 P.3d 725, 736 (2005).  If the 
+appellant is able to rebut this presumption, the burden
+shifts to the State to prove that the error was harmlessbeyond a reasonable doubt because 
+[e]rroneous instructions are presumptively harmful andare a ground for reversal unless it affirmativelyappears from the record as a whole that the error wasnot prejudicial. However, error is not to be viewed inisolation and considered purely in the abstract.  It must be examined in the light of the entireproceedings and given the effect which the wholerecord shows it to be entitled. 
+Nichols, 111 Hawai #i at 334, 141 P.3d at 981 (brackets in
+original omitted) (quoting State v. Gonsalves, 108 Hawai i #
+289, 293, 119 P.3d 597, 601 (2005)).  If the State cannot demonstrate that the error was harmless beyond a reasonabledoubt, the conviction must be vacated.  Nichols, 111 Hawai #i 
+at 337, 141 P.3d at 984. 
+B. Ineffective Assistance of Counsel 
+When reviewing a claim of ineffective assistance of 
+counsel, this court looks at whether defense counsel's assistance 
+was "within the range of competence demanded of attorneys in criminal cases."  State v. Antone, 62 Haw. 346, 348, 615 P.2d 101, 104 (1980) (quoting State v. Kahalewai, 54 Haw. 28, 30, 501 P.2d 977, 979 (1972)). 
+"The defendant has the burden of establishing ineffective
+assistance of counsel and must meet the following two-part test: 1) that there were specific errors or omissions reflectingcounsel's lack of skill, judgment, or diligence; and 2) that sucherrors or omissions resulted in either the withdrawal or substantial impairment of a potentially meritorious defense." State v. Aplaca, 74 Haw. 54, 66-67, 837 P.2d 1298, 1305 (1992). To satisfy this second prong, the defendant needs to show apossible impairment, rather than a probable impairment, of a
+potentially meritorious defense.  State v. Christian, 88 
+Hawai i #
+407, 419, 967 P.2d 239, 251 (1998).  A defendant need not prove 
+actual prejudice.  Id. 
+State v. Wakisaka, 102 Hawai# i 504, 514, 78 P.3d 317, 327 (2003).  
+C. Counsel's Motion to Withdraw 
+"A motion to withdraw as counsel is subject to the 
+'approval of the court,' Hawai# i Rules of Penal Procedure Rule 
+57, and the court's decision is reviewed for abuse of 
+discretion."  State v. Plichta, 116 Hawai i # 200, 214, 172 P.3d 
+512, 526 (2007).  "An abuse of discretion occurs when the court clearly exceeds the bounds of reason or disregards rules or principles of law to the substantial detriment of a party litigant."  State v. Behrendt, 124 Hawai# i 90, 102, 237 P.3d 
+5 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+1156, 1168 (2010) (quoting State v. Fetelee, 117 Hawai# i 53, 63, 
+175 P.3d 709, 719 (2008)). 
+D. Motion for Mistrial 
+"The denial of a motion for mistrial is within the 
+sound discretion of the trial court and will not be upset absent 
+a clear abuse of discretion."  State v. Lagat, 97 Hawai i # 492, 
+495, 40 P.3d 894, 897 (2002) (citing State v. Loa, 83 
+Hawai# i 
+335, 399, 926 P.2d 1258, 1272 (1996)). 
+E. Motion for Mental Examination 
+"[T]he trial court's determination that a defendant is 
+competent to stand trial will be reviewed under an abuse of discretion standard."  State v. Janto, 92 
+Hawai# i 19, 29, 986 
+P.2d 306, 316 (1999). 
+IV.  
+DISCUSSION 
+A. The Jury Instructions Were Not Erroneous 
+Beck did not object to the Circuit Court's jury 
+instructions at trial.  He must therefore demonstrate instructional error.  DeLeon, 131 
+Hawai# i at 479, 319 P.3d at 
+398.  He fails to do so.  
+Beck argues generally that the jury instructions were 
+confusing because during the reading of the instructions: (1) unspecified "issues" caused the Circuit Court to take a recess and, upon reconvening the next day, to re-read the instructions from the beginning; (2) the State wrongly informed the Circuit Court that it had misread a section, which caused the court to re-read the section; (3) a typographical error was discovered during the second reading; and (4) the Circuit Court realized during the second reading that certain instructions were missing, resulting in a several-hour recess to "sort it out."   
+Beck also contends that the jury instructions were 
+confusing because the jurors sent communications to the Circuit Court identifying certain inconsistencies or discrepancies between the instructions and the interrogatories, and that there should be a presumption that the instructions were flawed.  However, Beck explains that pages of instructions were added to 
+6 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+"remedy the communications." 
+In sum, Beck does not identify any errors in the jury 
+instructions that went uncorrected, and we find none.  We 
+therefore reject his contention that the jury instructions were prejudicially erroneous.  
+B. Beck Has Not Shown Ineffective Assistance of Counsel on 
+This Record 
+1. Voir Dire Question Regarding "Big Island Thieves" 
+Beck argues that defense counsel provided ineffective 
+assistance by asking prospective jurors during voir dire if they 
+"frequent[ed]" or were "members" of "Big Island Thieves" — a "Facebook Group [that] allows people to make posts regarding crime on the Big Island" on social media.  One of the prospective jurors later stated:  "I think I kind of remember [Beck's] story on Big Island Thieves on Facebook."  Beck contends that defense counsel's question and the juror's response biased the venire, which reflected defense counsel's lack of judgment. 
+Initially, we note that the Circuit Court asked the 
+prospective jurors several questions to elicit potential bias, but received no responses indicating bias.  For example, the court asked the venire whether they had "read or hear[d] anything about this case," and noted no response.  The court asked the prospective jurors whether there was anyone who could not keep an open mind about the case, and noted no response.  The court instructed the prospective jurors that they could "only decide this case using evidence presented in court with no outside information."  The court also asked the venire whether there was anyone who would be unable to "reach a verdict in this case solely based upon the evidence presented at trial and the Court's instructions as to the law[,]" and noted no response.   
+In claiming ineffective assistance of counsel, the 
+defendant has the burden of establishing: (1) "specific errors or omissions reflecting counsel's lack of skill, judgment or diligence"; and (2) "that such errors or omissions resulted in either the withdrawal or substantial impairment of a potentially meritorious defense."  Wakisaka, 102 
+Hawai# i at 513–14, 78 P.3d 
+at 326–27 (quoting State v. Aplaca, 74 Haw. 54, 66-67, 837 P.2d 
+7 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+1298, 1305 (1992)). 
+Beck has not met this burden.  He points to no specific 
+error reflecting counsel's lack of skill, judgment or diligence. 
+Voir dire questions designed to ferret out potential bias in prospective jurors — resulting, for example, from pretrial publicity — presumably reflect counsel's trial strategy. "[M]atters presumably within the judgment of counsel, like trial strategy, will rarely be second-guessed by judicial hindsight." State v. Richie, 88 
+Hawai# i 19, 39–40, 960 P.2d 1227, 1247–48 
+(1998) (emphasis and internal quotation marks omitted) (quoting State v. Smith, 68 Haw. 304, 311, 712 P.2d 496, 501 (1986)). This record simply does not support the conclusion that defense counsel showed a lack of skill or judgment by inquiring about whether prospective jurors had heard about Beck's case. 
+Beck also does not demonstrate that defense counsel's 
+purported error resulted in the impairment of a potentially meritorious defense.  Thus, Beck has not met his burden of proving that the alleged error constituted ineffective assistance of counsel.  
+2. Challenges to Certain Prospective Jurors 
+During voir dire, it was revealed that one of the 
+prospective jurors was the stepfather of the officer who interviewed Beck following the alleged car-jacking incidents (stepfather
+).  Defense counsel eventually used a peremptory 
+challenge to excuse the stepfather from serving as a juror.  On appeal, Beck argues that defense counsel "wasted" a peremptory challenge and should have instead challenged the stepfather for cause.  Beck also argues that defense counsel should have challenged the prospective juror (eventually impaneled) who said she may have seen Beck's story on the "Big Island Thieves" Facebook group webpage (Big Island Thieves juror).  
+Each argument is addressed, in turn, below. 
+a. Challenge to Stepfather of Interviewing
+Officer 
+HRPP Rule 24(b) provides that for criminal jury trials, 
+if the offense charged is not punishable by life in prison, each 
+8  "The right to exercise a peremptory challenge is one of 
+the most important of the rights secured to the accused in a 
+criminal case and the denial or impairment of that right is reversible error not requiring a showing of prejudice."  Batalona v. State, No. CAAP-15-0000569, 2016 WL 6084034, at *6 (Haw. App. 2016) (mem.) (brackets omitted) (quoting State v. Iuli, 101 Hawai# i 196, 204, 65 P.3d 143, 151 (2003)), aff'd in part, 
+vacated in part, 142 Hawai# i 84, 414 P.3d 136 (2018).  NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+side is entitled to three peremptory challenges.  HRPP Rule 24(c) further provides that when alternate jurors are impaneled, the defendant is entitled to one additional peremptory challenge. 
+Here, it appears that defense counsel exercised one 
+challenge for cause and three peremptory challenges on the regular panel of prospective jurors, and one peremptory challenge on the alternates.  As previously stated, one of the peremptory challenges was used to excuse the stepfather.  It appears, however, that defense counsel could have challenged the stepfather for cause, because "[i]f the revealed details of [a] relationship are such that bias or prejudice may be reasonably implied, a juror may be properly refused for cause."  State v. Kauhi, 86 Hawai# i 195, 199, 948 P.2d 1036, 1040 (1997) (quoting 
+State v. Lewis, 391 So.2d 1156, 1158 (La. 1980)).  If the stepfather had been dismissed for cause, defense counsel could have then used the peremptory challenge that was used on the stepfather to challenge another prospective juror.  Cf. Kauhi, 86 Hawai
+#i at 198, 200, 948 P.2d at 1039, 1041 (ruling that the 
+defendant's right to exercise a peremptory challenge was denied when the trial court failed to excuse a prospective juror properly challenged for cause, thereby causing the defendant to peremptorily challenge that juror and foreclosing him from peremptorily challenging at least one of two additional prospective jurors that he wanted to excuse). 
+Here, if defense counsel used a peremptory challenge 
+where he could have succeeded in dismissing the stepfather for cause, he may have denied or impaired Beck's right to exercise a peremptory challenge.  There is nothing in the record, however, to indicate why defense counsel used a peremptory challenge on 
+9  
+ NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+the stepfather instead of a challenge for cause.5/  It is also 
+not clear that at trial, Beck specifically identified another 
+prospective juror (e.g., the Big Island Thieves juror) against whom he would have exercised another peremptory challenge if he had one.  "If the record is unclear or void as to the basis for counsel's actions, counsel shall be given the opportunity to explain his or her actions in an appropriate proceeding before the trial court judge."  Briones v. State, 74 Haw. 442, 463, 848 P.2d 966, 977 (1993) (citing Matsuo v. State, 70 Haw. 573, 578, 778 P.2d 332, 335 (1989)). 
+Moreover, the Hawai i # Supreme Court has acknowledged: 
+[N]ot every trial record is sufficiently developed to determine
+whether there has been ineffective assistance of counsel; indeed,a defendant is often only able to allege facts that, if proved,would entitle him or her to relief. Therefore, . . . where therecord on appeal is insufficient to demonstrate ineffectiveassistance of counsel, but where: (1) the defendant alleges factsthat if proven would entitle him or her to relief, and (2) theclaim is not patently frivolous and without trace of support inthe record, the appellate court may affirm defendant's convictionwithout prejudice to a subsequent Rule 40 petition on theineffective assistance of counsel claim.  
+State v. Silva, 75 Haw. 419, 439, 864 P.2d 583, 592–93 (1993) 
+(footnote omitted). 
+Accordingly, this court affirms the Judgment without 
+prejudice to a subsequent Rule 40 petition on the ineffective assistance claim regarding defense counsel's alleged failure to challenge the stepfather for cause.
+b. Lack of Challenge to Big Island Thieves Juror 
+Beck also argues that defense counsel was ineffective 
+because he did not challenge the Big Island Thieves juror. However, based on what the juror said during voir dire, it was not clear:  (a) that she in fact saw Beck's story; and (b) if she did, what the content was on the Facebook group webpage.
+6/ 
+Furthermore, the Hawai# i Supreme Court has explained that 
+5/ The State points out that during voir dire, the stepfather told
+the Circuit Court that he would be able to set aside his personal relationship
+with the interviewing officer and judge the facts based solely on theofficer's in-court testimony.  While this statement might have led the Stateto oppose a challenge for cause, it does not necessarily explain why defensecounsel did not make such a challenge in the first instance.    
+6/ In addition, the Circuit Court instructed the jurors as follows:
+"Your decision must be based on the evidence you receive[] in the courtroomand the Court’s instruction as to the law." 
+10 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+"extensive knowledge in the community of either the crimes or the 
+putative criminal is not sufficient by itself to render a trial constitutionally unfair.  For, if the mere opportunity for prejudice or corruption is to raise a presumption that they exist, it will be hard to maintain a jury trial under the conditions of the present day."  State v. Keohokapu, 127 
+Hawai# i 
+91, 103, 276 P.3d 660, 672 (2012) (internal citation, internal quotation marks, and brackets omitted) (quoting State v. Pauline, 100 Hawai# i 356, 366, 60 P.3d 306, 316 (2002)). 
+The record has not been sufficiently developed for us 
+to conclude that defense counsel's decision not to challenge the Big Island Thieves juror constituted ineffective assistance. Because this issue relates to defense counsel's alleged failure to challenge the stepfather for cause (
+see supra), we affirm the 
+Judgment without prejudice to a subsequent Rule 40 petition on the ineffective assistance claim regarding defense counsel's decision not to challenge the Big Island Thieves juror. 
+3. Motion to Sever the Counts 
+Beck argues that defense counsel provided ineffective 
+assistance by failing to move to sever the counts in the Complaint.  More specifically, Beck contends that the counts should have been severed into three groups — comprising (a) Counts 1 and 2, (b) Counts 3, 4, and 5, and (c) Count 6 — because the "complaint alleges 3 separate incident dates and transactions."  He further contends that trying the six counts together undermined the jury's ability to consider the evidence related to each group of counts separately, which prejudiced him. 
+The record reveals that defense counsel's decision not 
+to move to sever the counts was deliberate and strategic.  During trial, counsel told the Circuit Court that "a motion to sever the counts was considered but we declined to pursue that for various reasons."  We will not second-guess counsel's decision based on judicial hindsight.  See Richie, 88 
+Hawai# i at 39–40, 960 P.2d at 
+1247–48. 
+Beck also fails to show that defense counsel's decision 
+not to move to sever the counts caused him prejudice.  "In considering a motion to sever charges, the trial court must weigh 
+11 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+the potential prejudice to the defendant against the interests of 
+judicial efficiency."  State v. Balanza, 93 Hawai# i 279, 283, 1 
+P.3d 281, 285 (2000).  Here, Beck admits in his Opening Brief  
+that "it would have been judicially inefficient to have three separate trials."  Additionally, the Circuit Court effectively dispelled any potential prejudice to Beck by instructing the jury as follows:  
+The defendant is charged with more than one offense under separate
+counts in the amended complaint.  Each  count and the evidence that applies to that count is to be considered separately.  The fact that you may find the defendant not guilty or guilty of oneof the counts charged does not mean that you must reach the sameverdict with respect to any other count charged. 
+See State v. Cordeiro, 99 Hawai# i 390, 412, 56 P.3d 692, 714 
+(2002) ("Consolidated trials will almost always permit the 
+admission of some evidence that would not be admissible with respect to each and every one of the charges if tried separately.While the admission of such evidence may result in some potentialfor prejudice, . . . such prejudice may be effectively dispelled by a jury instruction to the effect that '[e]ach count and the evidence that applies to that count is to be considered separately.'" (quoting Balanza, 93 Hawai# i at 289, 1 P.3d at 
+291).   
+On this record, Beck has not shown that defense counsel 
+provided ineffective assistance when he decided for strategic reasons not to move to sever the counts.   
+4. Beck's Decision to Wear His Prison Jumpsuit 
+Beck asserts that defense counsel provided ineffective 
+assistance by failing to request a recess or continuance when Beck refused to change out of his prison jumpsuit on the third day of trial.  He maintains that during a recess or continuance, defense counsel could have helped him "understand the nature of his decision."  To be clear, Beck does not claim that he was compelled to don prison attire or that defense counsel failed to object to his prison garb.  Rather, Beck essentially argues that he was denied effective assistance because his defense counsel failed to talk him out of his conscious and deliberate decision to wear his prison jumpsuit.  
+12   
+  
+  NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Indeed, the record reveals that Beck made a knowing, 
+intelligent, and voluntary choice to wear prison clothing after 
+being expressly warned of the potential consequences of that choice.  Before trial began on the third day, defense counsel informed the Circuit Court that Beck did not wish to change into civilian clothes.  That prompted the following exchange between Beck and the court: 
+THE COURT:  . . . Now, Mr. Beck, your lawyer's telling
+me that, okay, regarding your wearing the orange jumpsuit,
+what is your desire? 
+[BECK]:  What do you mean? 
+THE COURT:  Okay. I didn't want to lead you in any way
+but what your lawyer is telling me is that you prefer to
+wear the orange jumpsuit in front of the jury. 
+[BECK]:  Yeah. 
+THE COURT: Okay. Can you tell me why you prefer to do that? [BECK]:  Well, you know, when you said to them
+earlier, that they was suppose to presume me not guilty
+until presented the facts and I'm found guilty --
+THE COURT:  Yes. 
+[BECK]:  -- well I mean if I am in jail why are we
+hiding it from 'em?  It wasn't my idea to hide it from 'em. 
+THE COURT:  Oh. If -- so if it -- the idea about a 
+defendant being in custody wearing civilian clothes is
+because there's a perception that, um, the defendant wouldbe prejudiced if the defendant comes to court in that orangejumpsuit indicating that, you know, the person is incustody. That's the – that's the analysis, anyway. 
+[BECK]:  I understand what you're saying. 
+THE COURT:  Okay. So, you know, it might not be in your interest to come
+to court in the orange jumpsuit.  You understand?  You hear 
+what I'm saying? 
+[BECK]:  Yeah. 
+THE COURT:  Okay. I'm not going to compel you to wear the civilian
+clothes.  To me wearing civilian clothes or orange jumpsuit
+is your choice, but you're choice, if it is to wear theorange jumpsuit, could prejudice you 'cause, you -- youknow, you're going to be perceived by the jury as an inmate. 
+Following this exchange, Beck expressly agreed with the 
+Circuit Court's statement that "despite the potential risk or 
+harm to your case . . ., you are making a knowing, intelligent, 
+13 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+and voluntary decision to appear before the jury in correctional 
+facility clothing." 
+Moreover, defense counsel made clear that he had 
+civilian clothes available to Beck at all times, stating:  "I will continue to ensure that . . . there are other options for clothing available to [Beck] through the course of the trial."  Beck told the Circuit Court that he understood this.  Plainly, Beck was not compelled to wear his prison jumpsuit, and defense counsel did not fail to adequately address the issue of his attire.   
+Given Beck's clothing choice, the Circuit Court also 
+sought to dispel any potential prejudice by instructing the jury that:  "The defendant is not required to dress in any particular way during any portion of a trial.  You must not consider in any way during your deliberations or draw any inferences about defendant's innocence or guilt based on his attire during the trial."  
+Under these circumstances, Beck's ineffective 
+assistance claim based on his choice of apparel is wholly meritless. 
+C. The Circuit Court Did Not Abuse its Discretion in 
+Denying Beck's Motions to Withdraw, for Mistrial, andfor an HRS § 704 Mental Examination 
+1. Motion to Withdraw 
+Beck argues that the Circuit Court erred in denying 
+defense counsel's motion to withdraw as counsel.  We disagree.  
+On the third day of trial, defense counsel orally moved 
+to withdraw because Beck said he wanted a new attorney.  The 
+Circuit Court asked Beck to state the reasons for his request.  Beck noted that there were "some things" he believed should have been objected to by counsel during jury selection that were not, and there were questions that Beck wanted asked that were not. The Circuit Court then explained to Beck that questions about trial strategy are "vested in counsel" and denied the motion to withdraw. 
+A trial court's denial of a motion to withdraw is 
+reviewed for abuse of discretion.  "An abuse of discretion occurs 
+14 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+when the court clearly exceeds the bounds of reason or disregards 
+rules or principles of law to the substantial detriment of a party litigant."  Behrendt, 124 
+Hawai i #at 102, 237 P.3d at 1168. 
+Here, the Circuit Court denied the motion to withdraw on the sound basis that matters of trial strategy are left to counsel.   In so doing, the Circuit Court did not abuse its discretion. 
+2. Motion for Mistrial 
+Beck contends that the trial court erred by denying his 
+motion for a mistrial.  We disagree. 
+On the third day of trial, defense counsel orally moved 
+for a mistrial on the ground that Beck was "not satisfied with the jury panel."  This occurred the day after the jury was impaneled and just after Beck told the court that "the jurors that are on my panel already look at me with prejudice."  Beck claimed that a female juror allegedly said he "was already guilty in her mind,"
+7/ and complained generally that "lots of these 
+people here, . . . they're the peers of HPD family members, good friends of them, lot of them. . . . [M]y lawyer should have been objecting to these things."  Beck also broadly asserted that "[t]hese people, they were . . . reading about me and getting these preconceived judgments in their mind off of social network about my case before . . . we even considered it for jury trial." The Circuit Court explained that it would likely deny a motion for mistrial because jury selection was complete, and in fact denied defense counsel's oral motion made immediately thereafter. 
+As previously explained, the record has not been 
+sufficiently developed for us to conclude that there was ineffective assistance based on defense counsel's alleged errors during jury selection.  In addition, Beck's broadside attack on the jury on the third day of trial did not supply the basis for a 
+7/ Beck does not assert as a point of error any failure to challenge
+or dismiss this unidentified juror based on her alleged statement. 
+Regardless, it appears that during voir dire, following a discussion with thejuror whom Beck may have been referencing, the Circuit Court concluded thatthe juror would be able to follow the court's instructions regarding the lawand the juror's duty to make a decision based on the evidence presented attrial. 
+15 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+mistrial.  We therefore conclude that the Circuit Court did not 
+abuse its discretion in denying the motion for a mistrial. 
+3. Motion for Mental Examination 
+Beck argues that the trial court erred when it denied 
+Beck's motion for a mental examination.  Again, we disagree. 
+In the afternoon of the third day of trial, defense 
+counsel made an oral motion for an HRS § 704 mental examination8/ 
+based on Beck's refusal to wear civilian clothing.  Defense counsel argued that this clothing choice showed Beck's inability to assist in his own defense and his unfitness to proceed.   
+The Circuit Court then had the following exchange with 
+Beck: 
+THE COURT:  Okay.  So let me go back a little bit. 
+You're Mason Beck? [BECK]:  Yes. THE COURT: Okay. So Mr. Beck, are you still thinking clearly? 
+[BECK]:  Yes. 
+THE COURT: Are you presently sick? [BECK]:  No. THE COURT:  Within the past 48 hours have you taken
+any pills, drugs, medication, or drank any alcohol? 
+[BECK]:  No. THE COURT:  Okay. 
+Now earlier I spoke to you about, um, your intention to
+appear before the jury, um, in clothing that would seem to
+indicate that you are held in custody at a correctional facility.So that was earlier this morning.  Do you recall this discussion that I had with you? 
+[BECK]:  Yes. 
+THE COURT: Okay. 
+8/ Hawaii Revised Statutes § 704-403 (2014) provides: 
+§ 704-403. Physical or mental disease, disorder, or defect
+excluding fitness to proceed.   No person who as a result of a
+physical or mental disease, disorder, or defect lacks capacity to
+understand the proceedings against the person or to assist in theperson's own defense shall be tried, convicted, or sentenced forthe commission of an offense so long as such incapacity endures. 
+16 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+And despite this discussion is it – what is your
+intention to appear before the jury in correctional facility
+clothing or not? 
+[BECK]:  Yes, it is. 
+THE COURT:  So you intend to appear before the jury in
+correctional facility clothing? 
+[BECK]: Yes. THE COURT:  Okay. And you understand, um, the risk of potential harm
+that might cause to you, cause to your case? 
+[BECK]:  Yes. THE COURT:  Okay. And despite that you still intend to appear before the jury
+in correctional facility clothing? 
+[BECK]:  Yes. THE COURT: Okay. You thinking it's making sense doing that? [BECK]:  Yeah. THE COURT: Yeah?  Okay. This is a free election on your part? [BECK]:  Yes. THE COURT: Okay. 
+Are you trying to make some kind of statement? 
+[BECK]:  No. THE COURT: No. Explain to me again why you want to be -- to appear
+before the jury in correctional facility clothing? 
+[BECK]:  I don't see the need to hide my incarceration from
+them people who was supposed to be in the jury panel. 
+. . . . 
+THE COURT: Okay. 
+And in your mind that is a logical choice on your part? [BECK]:  Yes. THE COURT:  Okay. So first let me do this, I'm going to, um,
+take the position, Mr. Beck, that despite the potential risk or
+harm to your case in regards to this case, you are making aknowing, intelligent, and voluntary decision to appear before thejury in correctional facility clothing. Okay? You agree with thatstatement? 
+[BECK]:  Yes. 
+17   NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+THE COURT: Okay. 
+Now, regarding the motion for a 704 evaluation
+regarding fitness, frankly Court has observed Mr. Mason,
+heard his positions, and the oral colloquy.  The Court maydisagree with the election to appear before the jury incorrectional facility clothing, but I cannot say that basedupon his election that he is not fit to proceed or there'ssufficient evidence to indicate that an examination regarding fitness is necessary.  So Court will deny themotion for the 704 evaluation as to fitness.  Okay? 
+The Circuit Court did not abuse its discretion in 
+denying Beck's motion for a mental examination.  The sole basis 
+for the motion was Beck's refusal to wear civilian clothes.  The Circuit Court engaged in extensive and thorough questioning regarding Beck's competency before determining that Beck was fit to proceed to trial and that no mental examination was necessary. Moreover, Beck made his oral motion on the third day of trial, so the Circuit Court had ample time to observe Beck and to conclude he was competent.  See State v. Hassard, 45 Haw. 221, 227, 365 P.2d 202, 206 (1961) (defendant's unsupported motion for mental exam was properly denied where trial court concluded that defendant was competent by observing him during preliminary proceedings and a previous trial).  Under these circumstances, we find no abuse of discretion. 
+V.  
+CONCLUSION 
+We affirm the Amended Judgment of Conviction and 
+Sentence, filed on June 22, 2018, without prejudice to a subsequent Rule 40 petition on the grounds specified in this Memorandum Opinion. 
+DATED:  Honolulu, Hawai# i, December 18, 2019. 
+On the briefs: 
+Brian J. De Lima and 
+Jeremy J.K. Butterfield,for Defendant-Appellant. 
+Evans M. Smith,
+Deputy Prosecuting Attorney,County of Hawai# i,
+for Plaintiff-Appellee.  Presiding Judge 
+Associate Judge Associate Judge 
+18 

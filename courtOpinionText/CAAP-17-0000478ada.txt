@@ -1,0 +1,629 @@
+FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+IN THE INTERMEDIATE COURT OF APPEALS
+OF THE STATE OF HAWAI# I
+---o0o---
+HSBC BANK USA, NATIONAL ASSOCIATION AS TRUSTEE
+FOR DEUTSCHE ALT-A SECURITIES, INC. MORTGAGE LOAN
+TRUST, SERIES 2005-2, Plaintiff-Appellee, v.
+FELICITAS B. MOORE, Defendant-Appellant, and
+PNC BANK, NATIONAL ASSOCIATION, Defendant-Appellee, and
+JOHN DOES 1-50; JANE DOES 1-50; DOE PARTNERSHIPS 1-50;
+DOE CORPORATIONS 1-50; DOE ENTITIES 1-50; and
+DOE GOVERNMENTAL UNITS 1-50, Defendants
+NO. CAAP-17-0000478
+APPEAL FROM THE CIRCUIT COURT OF THE SECOND CIRCUIT
+(CIVIL NO. 13-1-0648 (2))
+MAY 10, 2018
+GINOZA, CHIEF JUDGE, LEONARD AND CHAN, JJ.
+OPINION OF THE COURT BY LEONARD, J.
+Defendant-Appellant Felicitas B. Moore ( Moore) appeals
+from the Judgment entered on May 22, 2017, in the Circuit Court
+of the Second Circuit (Circuit Court ),1 in favor of Plaintiff-
+Appellee HSBC Bank USA, N.A., as Trustee for Deutsche, Alt-A
+1The Honorable Peter T. Cahill presided.FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+Securities, Inc. Mortgage Loans Trust, Series 2005-2 ( HSBC Bank ),
+and against all defendants.  Moore also challenges the Circuit
+Court's Findings of Fact and Conclusions of Law; Order Granting
+Plaintiff's Motion for Summary Judgment and for Interlocutory
+Decree of Foreclosure, also entered on May 22, 2017 (Foreclosure
+Decree).
+I.BACKGROUND
+On June 3, 2013, HSBC Bank filed a Verified Complaint
+for Foreclosure (Complaint ).  In the Complaint, HSBC Bank alleged
+that on December 17, 2004, Moore executed a promissory note in
+favor of National City Mortgage Co. dba Accubanc Mortgage in the
+amount of $420,000.00 (Note ), secured by a mortgage on real
+property recorded on December 23, 2004 in the Bureau of
+Conveyances ( Mortgage).  HSBC Bank alleged that National City
+Mortgage Co. merged with National City Bank effective October 1,
+2008, and National City Bank then merged with PNC Bank, N.A.,
+(PNC Bank) effective November 6, 2009.  HSBC Bank alleged that it
+was the owner of the Mortgage by virtue of an Assignment of
+Mortgage recorded in the Bureau of Conveyances on November 7,
+2012 (Assignment of Mortgage), that it was "entitled to enforce
+the Note" and Mortgage, and that Moore was in default.  The
+Complaint does not specifically allege that HSBC Bank possessed
+the Note or reference any indorsements.  
+However, the Complaint was supported by an attached 
+"Verification of Complaint for Foreclosure" executed on May 22,
+2013, by Rodney Carpenter (Carpenter ), an employee and
+"Authorized Signer" of PNC Bank, the loan servicing agent for
+2FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+HSBC Bank ( Carpenter's Declaration), in which Carpenter attested,
+in relevant part, that "[HSBC Bank] is in possession of the Note.
+As evidenced by the recorded Mortgage and applicable assignment,
+[HSBC Bank] is also the mortgagee of record.  As such, [HSBC
+Bank] is the proper plaintiff in this matter."2  Carpenter also
+2The Carpenter Declaration more fully provides:
+1. I have knowledge of and I am competent to testify
+to the matters stated herein by virtue of my employment for
+PNC Mortgage, a division of PNC Bank, N.A., the loan
+servicing agent for Plaintiff HSBC BANK USA, NATIONAL
+ASSOCIATION AS TRUSTEE FOR DEUTSCHE ALT-A SECURITIES, INC.
+MORTGAGE LOAN TRUST, SERIES 2005-2 ("Plaintiff"). I have
+been trained to use and understand the record keeping system
+utilized for this loan. I know that pursuant to normal
+business practices, the entries in the business records are
+made at or near the time of the occurrence by the person
+with actual knowledge of the occurrence being recorded in
+the business record. I have also been trained to use and
+understand the entries in the record and am familiar with
+the same. My knowledge is based on my review of the business
+records and files related to the mortgage loan which is the
+subject of this foreclosure.
+2. . . . A true and correct copy of the Indorsed Note
+is attached as Exhibit "A" .
+. . . .
+5. Plaintiff is in possession of the Note. As
+evidenced by the recorded Mortgage and applicable
+assignment, Plaintiff is also the mortgagee of record.  As
+such, [HSBC Bank] is the proper plaintiff in this matter. 
+. . . .
+9. All documents, memoranda, reports and records of
+data compilation (collectively, "Records of Acts") that are
+attached as Exhibits "A"–"E" to my [Declaration], as well as
+all other factual information contained herein, represent
+records of regularly conducted business activity relating to
+the subject loan.
+10. The Records of Acts were and are made in the
+course of Plaintiff's and Plaintiff's servicing agent's
+regularly conducted business activity of mortgage lending
+and mortgage servicing.
+11. All herein referenced Records of Acts were and are
+made at or near the time of the acts reported. Entries into
+these records are made by persons having personal knowledge
+of such event, and are reviewed by me from time to time to
+ensure accuracy and completeness, and are relied upon by
+Plaintiff and its servicing agent in the conduct of its
+business. 
+12. I am familiar with the referenced Records of Acts,
+which is used to record and track events and documents by
+Plaintiff and its servicing agent that are relevant to this
+loan. These records are routinely made in the ordinary
+course of business in a filing and computer system that I
+have access to, have been trained to use and understand, and
+with which I am familiar. 
+(continued...)
+3FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+attested, inter alia , that "[a] true and correct copy of the
+Indorsed Note" was attached as Exhibit A.  Notably, there are no
+indorsement stamps directly on the Note that was attached as
+Exhibit A.  Instead, attached to this copy of the Note is an
+undated allonge, apparently executed by a representative of PNC
+Bank, specifically indorsing the Note to HSBC Bank.3 
+Carpenter's Declaration also purported to authenticate
+other loan documents which were also attached thereto, including
+a recorded copy of the Mortgage, a recorded copy of the
+Assignment of Mortgage, payment records for Moore's loan account,
+and an October 4, 2011 notice of default and of intent to
+accelerate the loan. 
+2(...continued)
+13. I reviewed the Verified Complaint for Foreclosure
+prepared by RCO Hawaii, LLLC, including the attached
+exhibits and I have confirmed the factual accuracy of the
+allegations set forth therein.
+14. I reviewed the notarizations contained in the
+supporting documents filed with the Verified Complaint for
+Foreclosure and confirmed the accuracy of the notarizations
+by examining the notarizations for signs of forgery or
+tampering and verifying the factual accuracy of the
+notarized documents using business records.
+3This allonge reads in pertinent part,
+  
+PAY TO THE ORDER OF:
+HSBC Bank USA, National Association as Trustee fore [sic]
+Deutsche Alt-A Securities, Inc., Mortgage Loan Trust, Series
+2005-2
+WITHOUT RECOURSE:
+PNC Bank, National Association, successor in interest to
+National City Real Estate Services, LLC, successor by merger
+to National City Mortgage, Inc., formerly known as National
+City Mortgage Co.
+BY: [signature Sharon Lynch]
+Name: Sharon Lynch
+Title: Authorized Signer
+4FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+On December 16, 2013, Moore filed an answer denying all
+allegations in the Complaint.  Moore also separately filed her
+affirmative defenses, asserting among other things that HSBC Bank
+lacked standing because HSBC Bank had not shown that it owned the
+Note and was authorized to bring the foreclosure action. 
+On March 18, 2015, HSBC Bank filed a Motion for Summary
+Judgment Against all Parties and for Interlocutory Decree of
+Foreclosure (Motion for Summary Judgment ).  The Motion for
+Summary Judgment was supported by:  (1) a declaration by Jeffrey
+Moler (Moler ), an employee and "Authorized Signer" of PNC Bank,
+(First Moler Declaration) which indicated,  inter alia , that he
+was the custodian of the exhibits attached to the Carpenter
+Declaration and Complaint which "remain true and accurate;" and
+(2) a declaration executed by Andrew R. Tellio ( Tellio), former
+counsel for HSBC Bank in this case, which purported to
+authenticate various documents related to the Mortgage and the
+mergers of National City Mortgage Co., National City Bank, and
+PNC Bank.  Neither the Note nor any allonges were attached to the
+Motion for Summary Judgment or these declarations.  Also on March
+18, 2015, HSBC Bank filed an Affirmation of Attorney pursuant to
+HRS § 667-17 wherein Tellio affirmed that, inter alia , none of
+HSBC Bank's filings "contain any false statements of fact or law" 
+5FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+and that "[HSBC Bank] has legal standing to bring this
+foreclosure action" ( Attorney Affirmation ).4
+On May 26, 2015, Moore filed a memorandum in opposition
+to the Motion for Summary Judgment asserting that there were
+genuine issues of material fact as to whether "Carpenter is
+competent to authenticate Plaintiff's business records, and with
+respect to whether Plaintiff is the holder of the subject
+promissory note[.]" 
+On July 21, 2016, HSBC Bank filed a supplemental
+memorandum in support of its Motion for Summary Judgment.  In
+support of its argument that HSBC Bank possessed the Note, HSBC
+Bank attached a declaration of HSBC Bank's counsel, David B.
+Rosen dated July 20, 2016 ( Rosen Declaration), and a supplemental
+declaration by Moler dated June 20, 2016 (Second Moler
+Declaration).  The Rosen Declaration provides in relevant part:  
+4The Attorney Affirmation, which HSBC Bank does not reference on
+appeal, provides in pertinent part:
+1. I am an attorney duly licensed to practice in
+the State of Hawaii and am employed by RCO Hawaii, LLLC, the
+attorneys of record for Plaintiff . . . .
+2. I received communication from representatives of
+Plaintiff regarding this action declaring that the
+representative (a) personally reviewed Plaintiff's documents
+and records relating to this case for factual accuracy; and
+(b) confirmed the factual accuracy of the allegations set 
+forth in the Complaint and any supporting affidavits or
+affirmations filed with the Court . . . .
+The Statement of Review was prepared by and provided
+as follows: 
+Date Name Title
+May 5, 2013 Rodney Carpenter Authorized Signer
+3. Based upon my communication with representatives
+of Plaintiffs, and upon my own inspection and other
+reasonable inquiry under the circumstances, I affirm that to
+the best of my knowledge, information, and belief, the
+Summons, Complaint, and other papers filed with the Court in
+this matter contain no false statements of fact or law and
+that Plaintiff has legal standing to bring this foreclosure
+action.
+6FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+3. I have personally reviewed the original "wet-
+ink" note dated December 17, 2004 ("Note"), executed by
+Defendant FELICITAS B. MOORE ("MOORE"). A true and correct
+copy of the original Note, which I personally reviewed is
+attached hereto as Exhibit H . 
+4. The original wet-ink Note is indorsed in blank.
+I am in possession of the original wet-ink Note on behalf of
+Plaintiff, which Plaintiff forwarded to me in response to
+MOORE's demand to inspect the Note. The original wet-ink
+Note is currently stored at my office located at . . . .
+The Second Moler Declaration provided in pertinent
+part:
+1. I have personal knowledge of and am competent to
+testify to the matters stated herein by virtue of my
+employment for PNC Bank, National Association, the mortgage
+servicer for the Plaintiff HSBC BANK . . . . My personal
+knowledge is based on my review of the records and files
+related to the mortgage loan ("Loan") which is the subject
+of this foreclosure and my knowledge of the regular business
+practices of PNC Bank . . . .
+2. . . . . The Note contains an indorsement in
+blank on page 3. A true and correct copy of the Note is
+attached as Exhibit A . 
+3. An outdated copy of the Note, which included a
+specially indorsed Allonge in favor of Plaintiff, was
+attached to the Verified Complaint . . . . As mentioned
+above, the original Note contains a blank indorsement on
+page 3.  As a result, the Allonge to the Note has been
+removed from the Note.
+Unlike the Note that was attached to Carpenter's
+Declaration, the copy of the Note attached as an exhibit to these
+declarations contains a blank indorsement stamp on the third and
+final page as follows: 
+Pay to the order of
+without recourse in any event
+NATIONAL CITY MORTGAGE CO.
+DBA ACCUBANC MORTGAGE
+BY [signature Elaine C. Gilmer]
+Elaine C. Gilmer, Allocations Coordinator
+The Motion for Summary Judgment was heard on February
+8, 2017.  After brief oral arguments, the Circuit Court stated: 
+[P]laintiff has shown it is the holder of the note,
+it's been endorsed in blank.  As Mr. Rosen has represented,
+which I accept, he's produced the original note for review
+and inspection by both the defendant and her counsel.
+And so at that point, the burden was upon the defendant
+to come in with admissible facts demonstrating that the
+falsity, or at least the alleged falsity of the statements
+set forth in the declaration, that has not been done. And
+7FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+plaintiff is the assignee of the mortgage. All the successor
+documents have been put into the record and have been
+acknowledged and verified in an admissible format.
+. . . .
+The appropriate affidavit under HRS 667 has been
+filed. The record shows there are no material questions of
+fact in dispute. Defendant has failed to submit anything
+other than argument.
+To question the declarations, as well as the
+production of the original note, plaintiff has shown it has
+standing to bring the mortgage foreclosure action and is
+entitled to judgment as a matter law.
+(Emphasis added). 
+On May 22, 2017, the Circuit Court entered its Judgment
+and Foreclosure Decree.  In its Foreclosure Decree, the Circuit
+Court found, inter alia, that HSBC Bank was the holder of the
+Note. 
+On June 20, 2017, Moore timely filed a notice of
+appeal.
+II.POINT OF ERROR ON APPEAL
+Moore raises a single point of error, arguing that the
+Circuit Court erred by granting HSBC Bank's March 18, 2015 Motion
+for Summary Judgment because HSBC Bank's declaring witness was
+not qualified to authenticate its business records and failed to
+meet its burden of demonstrating that it was the holder of the
+subject note at the time the complaint was filed, as required by
+the Hawai #i Supreme Court in Bank of America, N.A. v.
+Reyes–Toledo, 139 Hawai# i 361, 390 P.3d 1248 (2017).
+III.APPLICABLE STANDARD OF REVIEW
+"Appellate courts review an award of summary judgment
+de novo under the same standard applied by the circuit court." 
+Salera v. Caldwell, 137 Hawai #i 409, 415, 375 P.3d 188, 194 
+8FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+(2016) (citation omitted).  The Hawai# i Supreme Court has
+articulated that standard as follows: 
+Summary judgment is appropriate if the pleadings,
+depositions, answers to interrogatories, and admissions on
+file, together with the affidavits, if any, show that there
+is no genuine issue as to any material fact and that the
+moving party is entitled to judgment as a matter of law. 
+This court must review the evidence and inferences in the
+light most favorable to the non-moving party.
+Id. (citation omitted; format altered).   
+IV.DISCUSSION
+Moore's primary contention on appeal is that HSBC Bank
+did not produce any admissible evidence that it was in possession
+of the blank-indorsed Note at the time it filed the Complaint.
+The Hawai #i Supreme Court's decisions in Bank of
+America, N.A. v. Reyes–Toledo, 139 Hawai #i 361, 390 P.3d 1248
+(2017), U.S. Bank, N.A. v. Mattos, 140 Hawai #i 26, 398 P.3d 615
+(2017), and Wells Fargo Bank, N.A. v. Behrendt, SCAP-16-0000645,
+2018 WL 1325153 (Mar. 15, 2018) (designated for publication), are
+dispositive in this case.  We also note that this case is similar
+to this court's decision in HSBC Bank USA, N.A. v. Yamashita,
+CAAP-17-0000026, 2017 WL 6048908 (Haw. App. Dec. 7, 2017) (SDO). 
+In Reyes–Toledo , the supreme court held that the
+foreclosing plaintiff must establish standing or entitlement to
+enforce the subject note at the time the action was commenced. 
+139 Hawai #i at 367–71, 390 P.3d at 1254–58.  The supreme court
+stated, inter alia , that a foreclosing plaintiff must typically
+"prove the existence of an agreement, the terms of the agreement,
+a default by the mortgagor under the terms of the agreement, and
+giving of the cancellation notice."  Id. at 367, 390 P.3d at 1254
+9FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+(citing Bank of Honolulu, N.A. v. Anderson, 3 Haw. App. 545, 551,
+654 P.2d 1370, 1375 (1982)).  Furthermore, "[a] foreclosing
+plaintiff must also prove its entitlement to enforce the note and
+mortgage."  Id.  (citations omitted).  The supreme court
+explained, "[a] foreclosing plaintiff's burden to prove
+entitlement to enforce the note overlaps with the requirements of
+standing in foreclosure actions as 'standing is concerned with
+whether the parties have the right to bring suit.'"  Id.
+(citation and internal brackets omitted).  The supreme court
+further stated that "[a]s standing relates to the invocation of
+the court's jurisdiction, it is not surprising that standing must
+be present at the commencement of the case."  Id. at 368, 390
+P.3d at 1255 (citation omitted).  In concluding that the
+foreclosing bank failed to satisfy its burden as the movant for
+summary judgment, the court reasoned, "[a]lthough Bank of America
+produced evidence that it possessed the blank-indorsed Note at
+the time it sought summary judgment, a material question of fact
+exists as to whether Bank of America possessed the Note, or was
+otherwise the holder, at the time it brought the foreclosure
+action."  Id. at 370, 390 P.3d at 1257. 
+In Mattos , summary judgment was granted in favor of the
+foreclosing bank, U.S. Bank.  140 Hawai #i at 29, 398 P.3d at 618. 
+On appeal, one of the issues was whether relevant loan documents
+had been properly admitted through the declaration of an
+individual named Richard Work (Work ), as records of regularly
+conducted activity under Hawai #i Rules of Evidence ( HRE) Rule
+803(b)(6).  Id. at 28, 30–33, 398 P.3d at 617, 619–22.  In his
+10FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+declaration, Work attested, inter alia, that he was a "Contract
+Management Coordinator" of OCWEN Loan Servicing, LLC ( Ocwen), the
+"servicer" for U.S. Bank on the subject loan.  Id.  at 30–31, 398
+P.3d at 619–20.  Because Work did not attest that he was the
+custodian of records for either U.S. Bank or Ocwen, the supreme
+court noted that "the documents attached to his declaration are
+admissible under the HRE 803(b)(6) hearsay exception only if he
+is a 'qualified witness' with respect to those documents."  Id.
+at 32, 398 P.3d at 621.  The supreme court applied its analysis
+in State v. Fitzwater , 122 Hawai #i 354, 365–66, 227 P.3d 520,
+531–32 (2010), and ruled as follows:
+To the extent the ICA ruled that Work's declaration
+established him as a "qualified witness" with respect to
+Ocwen's records, we agree. To the extent the ICA opinion
+concluded that Work met the requirements to be a "qualified
+witness" with respect to U.S. Bank's records, however, we
+disagree. Fitzwater addresses situations in which one
+business receives documents created by another business and
+includes them in its own records. Work's declaration does
+not indicate that U.S. Bank's Records were received by Ocwen
+and incorporated into the Ocwen Records. Work's declaration
+also does not establish that Work is familiar with the
+record-keeping system of U.S. Bank. Rather, Work merely
+states that he has access to and is familiar with U.S.
+Bank's records. Thus Work's declaration does not satisfy
+foundational requirements to make him a "qualified witness"
+for U.S. Bank's records pursuant to Fitzwater.
+Mattos, 140 Hawai #i at 32–33, 398 P.3d at 621–22.
+In light of its prior ruling in Reyes–Toledo , the
+supreme court in Mattos  further held that:
+[s]ince [an] allonge was apparently used to specifically
+indorse the note to U.S. Bank, admissible evidence was
+needed to demonstrate that U.S. Bank was in possession of
+the note and allonge at the time of the filing of this
+foreclosure complaint for U.S. Bank to be entitled to
+summary judgment.
+Id. at 33, 398 P.3d at 622.  Among other infirmities, the supreme
+court noted that Work did not attest that U.S. Bank possessed
+both the note and the allonge when the foreclosure complaint was
+11FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+filed.  Id.   The supreme court thus ruled that "Work's
+declaration failed to meet U.S. Bank's burden of establishing
+facts necessary for a grant of summary judgment."  Id.
+In Behrendt , the supreme court addressed a
+substantially similar issue and declaration as in Mattos,5 this
+time determining the sufficiency of a declaration of Vanessa
+Lewis (Lewis), who was also a "contract management coordinator"
+for Ocwen, the foreclosing bank's (Wells Fargo's) loan-service
+provider.  Behrendt, 2018 WL 1325153 at *2.  Because Lewis did
+not attest that she was the custodian of records for either Wells
+Fargo or Ocwen, the supreme court again stated that the documents
+attached to her declaration were admissible under HRE Rule
+803(b)(6) only if her declaration demonstrated that she was a
+"qualified witness."  Id. at *7 (citing Mattos , 140 Hawai #i at
+32, 398 P.3d at 621).  In holding that Lewis was not a "qualified
+witness" under its decision in Mattos, the Behrendt court stated: 
+Here, as in Mattos, the Lewis Declaration does not
+establish that the loan documents were received by Ocwen and
+then incorporated into Ocwen's records. In addition,
+although Lewis averred that Ocwen's records relating to the
+loan were made and maintained in the regular course of
+Ocwen's business, Lewis asserted only that she had "access
+to and [was] familiar" with Wells Fargo's records and
+documents relating to this case. The Lewis Declaration does
+not establish that Lewis was familiar with Wells Fargo's
+record-keeping system. It also makes no assertions as to
+Lewis's familiarity with the record-keeping systems of
+Funding Group or Option One, which first created the Note
+and allonges. Thus, the Lewis Declaration satisfies the
+foundational requirements to make Lewis a qualified witness
+only with respect to Ocwen's original records about the loan
+and not any records of Wells Fargo or the loan documents
+themselves.
+The Lewis Declaration also refers only to the Note and
+not the allonges that Wells Fargo asserts were used to
+endorse the Note in blank. As noted, the Lewis Declaration
+5 The Behrendt court observed that the Lewis and Work declarations
+were "nearly identical."  Behrendt, 2018 WL 1325153 at *7.
+12FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+does not establish that Lewis was a qualified witness, and
+thus she could not have satisfied the requirements of HRE
+Rule 803(b)(6) with respect to the allonges. But, as with
+the declaration in Mattos , the Lewis Declaration did not
+attempt to admit the allonges under the business records
+exception.  Thus, even if the Note fell within the bounds of
+HRE Rule 803(b)(6), the allonges endorsing it in blank did
+not because the declaration did not provide the requisite
+foundation. This is to say that the documents purporting to
+allow Wells Fargo to enforce the Note were not admissible
+under the business record exception. Since the documents
+were not admissible as asserted, Wells Fargo did not meet
+its burden of establishing facts necessary for a grant of
+summary judgment.
+Id. at *8 (citing Mattos , 140 Hawai #i at 32-33, 398 P.3d at
+621-22).
+In Yamashita, this court reviewed the sufficiency of a
+declaration attached to the foreclosing-bank's (HSBC Bank's)
+motion for summary judgment.  2017 WL 6048908 at *3-4.  The
+declaration was made by Luann Jones (Jones), an employee of HSBC
+Bank's "loan-servicing agent," PNC Bank, and is substantially
+similar to the Carpenter Declaration.  In the declaration, Jones
+attested that PNC Bank possessed the subject note, which was
+attached to the complaint with an allonge specifically indorsing
+the note to HSBC Bank.  Id. at *3.  This court rejected HSBC
+Bank's argument that Jones's affirmation that "PNC is in
+possession of the Note" established that HSBC Bank possessed the
+Note and the allonge under Mattos .  Id.  This court rejected HSBC
+Bank's argument that Jones's statement that she was trained to
+use and understood "the record keeping system utilized for this
+loan," was sufficient to render her a "qualified witness" as to
+HSBC Bank's records stating, "[t]his does not appear to satisfy
+the requirements discussed in Mattos."  Id. at *4, n.5.  We held
+that there was no admissible evidence to demonstrate that HSBC
+Bank was in possession of the subject note and allonge at the
+13FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+time the action was commenced and therefore HSBC Bank failed to
+meet its burden to show entitlement to summary judgment under
+Reyes–Toledo, 139 Hawai# i at 370–71, 390 P.3d at 1257–58.  Id. at
+*4. 
+Here, HSBC Bank maintains that "it was in possession of
+the Note, and that the Note had been indorsed in blank.  HSBC was
+therefore a holder entitled to enforce the Note at the time it
+filed its foreclosure Complaint."  HSBC Bank relies on the
+following, filed contemporaneously with the Complaint:  (1) the
+Carpenter Declaration; (2) the Note attached to the Complaint;
+(3) the Mortgage; and (4) the Assignment of Mortgage.   HSBC Bank
+also relies on the following, filed in relation to its Motion for
+Summary Judgment:  (5) the First Moler Declaration; (6) the
+Second Moler Declaration; (7) the Rosen Declaration; and (8) the
+Note indorsed in blank attached to the Rosen and Second Moler
+Declarations. 
+However, there is no evidence in the record, including
+either version of the Note or the declarations and documents
+relied upon by HSBC Bank on appeal, showing that the blank
+indorsement on the Note occurred prior to the initiation of the
+suit.  See Reyes-Toledo, 139 Hawai #i at 371, 390 P.3d at 1258.6
+Like the foreclosing bank in Reyes-Toledo, HSBC Bank was granted
+summary judgment and the Foreclosure Decree was entered based in
+part on the declaration of HSBC Bank's counsel, David B. Rosen,
+6In fact, in light of the fact that the Note attached to
+Carpenter's Declaration did not have the indorsement on the Note, and the Note
+attached to the Second Moler Declaration did, HSBC's own evidence seems to
+suggest that the indorsement post-dated the Complaint or, at minimum, creates
+a genuine issue of material fact.
+14FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+which attests in part, "I am in possession of the wet-ink Note on
+behalf of Plaintiff[.]"  Even if the Note indorsed in blank were
+admissible through the Rosen and Second Moler Declarations,
+neither the Note indorsed in blank nor these declarations show
+that HSBC Bank possessed the Note indorsed in blank at the
+initiation of this foreclosure action.  See Id., at 370-71, 390
+P.3d at 1257-58.   
+Nor does Carpenter's statement that "[HSBC Bank] is in
+possession of the Note" show that HSBC Bank possessed the Note
+indorsed in blank at the time of the filing of the Complaint.  
+Although Carpenter's Declaration was executed just prior to the
+filing of the Complaint and a copy of the Note was attached, the
+copy of the Note that Carpenter attempted to authenticate is not
+indorsed in blank.7  Carpenter's statement that "[HSBC Bank] is
+in possession of the Note" also does not establish that HSBC Bank
+had possession of the allonge specifically indorsing the Note to
+HSBC Bank at the time the Complaint was filed.8  See Mattos , 140
+Hawai#i at 33, 398 P.3d at 622 ("Since the allonge was apparently
+7Because the Carpenter Declaration does not purport to authenticate
+the Note indorsed in blank, the First Moler Declaration, which purports to
+verify the documents attached to the Complaint, likewise does not support the
+proposition that HSBC Bank possessed the Note indorsed in blank when the
+Complaint was filed.
+8Carpenter's description of the "Note" in his declaration does not
+appear to include the allonge which indorses the Note to HSBC Bank. 
+Specifically, Carpenter describes the "Note" as the promissory note executed
+by Moore and delivered "to National City Mortgage Co dba Accuabanc Mortgage"
+on December 17, 2004 and makes no mention of an allonge.  Although Carpenter
+states that a "true and correct copy of the Indorsed Note is attached as
+Exhibit 'A,'" the referenced Note is not itself indorsed and, as discussed
+infra, was later described by Moler as "outdated."  See also Mattos, 140
+Hawai#i at 33, 398 P.3d at 622 ("Work's declaration refers only to the
+original note and makes no reference to the allonge.  Although Exhibit 1 also
+contains the allonge, which indorses the note to U.S. Bank, the allonge was
+never authenticated.") 
+15FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+used to specifically indorse the note to U.S. Bank, admissible
+evidence was needed to demonstrate that U.S. Bank was in
+possession of the note and allonge at the time of the filing of
+this foreclosure complaint for U.S. Bank to be entitled to
+summary judgment.").
+Moreover, according to the Second Moler Declaration,
+the copy of the Note attached to the Complaint was "outdated" and
+"the original Note contains a blank indorsement on page 3.  As a
+result, the Allonge to the Note has been removed from the Note."  
+This declaration does not provide any dates for these events. 
+Therefore, it is unclear whether the Note and the allonge
+attached to the Complaint were "outdated" when the Complaint was
+filed. 
+Lastly, regarding the admissibility of the documents
+attached to Carpenter's Declaration, like in Mattos and Behrendt,
+Carpenter did not attest that he was the custodian of record for
+PNC Bank or HSBC Bank, and as explained below, he is not a
+"qualified witness" for the purposes of admitting HSBC Bank's
+records into evidence under HRE Rule 803(b)(6), pursuant to the
+analysis in Mattos and Behrendt.  Like the Work declaration in
+Mattos, the Lewis declaration in Behrendt, and the Jones
+declaration in Yamashita , Carpenter's Declaration does not
+indicate that HSBC Bank's records were received by PNC Bank or
+incorporated into PNC Bank's records.  Also similar to the
+declarations in those cases, Carpenter's Declaration does not
+establish that he is familiar with the record-keeping system of
+HSBC Bank, only that "[t]hese records are routinely made in the
+16FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+ordinary course of business in a filing and computer system that
+I have access to, have been trained to use and understand, and
+with which I am familiar," and that "I have been trained to use
+and understand the record keeping system utilized for this loan." 
+In Yamashita, we concluded that identical language was
+insufficient to establish that the declarant, Jones, was familiar
+with the record-keeping system of HSBC Bank.  See Yamashita, 2017
+WL 6048908 at *4, n. 5 ("Jones attests that 'I have been trained
+to use and understand the record keeping system utilized for this
+loan.'  This does not appear to satisfy the requirements
+discussed in Mattos.")  We reject HSBC Bank's argument that
+Mattos is factually distinguishable because Carpenter "explicitly
+states that he is familiar with the record-keeping system used by
+HSBC," because he did not in fact state that he was familiar with
+the record-keeping system used by HSBC Bank.  
+For these reasons, Carpenter is not a "qualified
+witness" with respect to the admission of HSBC Bank's records. 
+See Mattos , 140 Hawai #i at 32–33, 398 P.3d at 621–22.  
+We further conclude that the Second Moler Declaration
+does not provide adequate foundation to admit the Note indorsed
+in blank under HRE Rule 803(b)(6) for the same reasons as the
+Carpenter Declaration.  Moler, an employee of PNC Bank, did not
+attest that he is the custodian of record for PNC Bank or HSBC
+Bank, that PNC Bank incorporated HSBC Bank's records into its
+own, or that he had any personal knowledge of HSBC Bank's record-
+keeping system.  Rather, the Second Moler Declaration states that
+Moler's personal knowledge is based on his "review of the records
+17FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+and files related to the mortgage loan" and based on "my
+knowledge of the regular business practices of PNC Bank [.]" 
+Moreover, like the Rosen Declaration, the Second Moler
+Declaration does not indicate that HSBC Bank possessed the Note
+indorsed in blank at the time HSBC Bank filed its Complaint. 
+Therefore, even if the Note indorsed in blank were admissible
+through the Second Moler Declaration, this evidence is not
+sufficient to establish standing.  See Reyes-Toledo , 139 Hawai #i
+at 370-71, 390 P.3d at 1257-58. 
+We also reject HSBC Bank's remaining argument that the
+Mortgage and Assignment of Mortgage, executed prior to the filing
+of the Complaint, are evidence that HSBC Bank possessed the Note
+indorsed in blank prior to the filing of the Complaint.  Similar
+arguments have been rejected by the supreme court.  See id.  at
+371, n.17, 390 P.3d at 1258, n.17 ("An assignment of the Mortgage
+to Bank of America prior to the commencement of the action would
+not be sufficient to establish standing as an injury to the
+plaintiff in the foreclosure proceeding, which is premised on the
+default under the note.  Although the security follows the debt,
+the debt does not automatically follow the security.").
+We conclude, viewing the facts and inferences in the
+light most favorable to Moore, as we must for purposes of a
+summary judgment ruling, that there is a genuine issue of
+material fact as to whether HSBC Bank was entitled to enforce the
+subject note at the time this foreclosure action was commenced.
+Therefore, the Circuit Court erred in granting HSBC Bank's Motion
+for Summary Judgment.
+18FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+V.CONCLUSION
+For the foregoing reasons, we vacate the Circuit
+Court's Foreclosure Decree and Judgment, both entered May 22,
+2017, and remand this case to the Circuit Court for further
+proceedings.
+On the briefs:
+Gary Victor Dubin,
+Frederick J. Arensmeyer,
+for Defendant-Appellant.
+Jade Lynn Ching,
+Ryan B. Kasten,
+(Nakashima Ching LLC),
+for Plaintiff-Appellee.
+19

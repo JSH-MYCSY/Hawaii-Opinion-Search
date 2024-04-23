@@ -1,0 +1,758 @@
+*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+IN THE SUPREME COURT OF THE STATE OF HAWAI #I
+---o0o---
+                                                                 
+HAWAIIAN DREDGING CONSTRUCTION COMPANY, INC.,
+Respondent/Plaintiff-Appellant,
+vs.
+FUJIKAWA ASSOCIATES, INC.,
+dba Continental Mechanical of the Pacific, 
+Petitioner/Defendant-Appellee.
+                                                                 
+SCWC-14-0000842
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS
+(CAAP-14-0000842; CIV. NO. 13-1-0900-03)
+JUNE 8, 2018
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, POLLACK, AND WILSON, JJ.
+OPINION OF THE COURT BY RECKTENWALD, C.J.
+This case arises from a worksite accident in which an
+employee of Hawaiian Dredging Construction Company, Inc. (HDCC)
+was injured, allegedly due to the actions of HDCC’s
+subcontractor, Fujikawa Associates, Inc., dba Continental
+Mechanical of the Pacific (Fujikawa).  After paying workers’Electronically Filed
+Supreme Court
+SCWC-14-0000842
+08-JUN-2018
+08:30 AM*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+compensation benefits to its injured employee, HDCC sought
+reimbursement from Fujikawa based on a breach of contract theory,
+claiming that workers’ compensation benefits were within the
+scope of their subcontract’s indemnity clause.  The circuit court
+granted summary judgment in favor of Fujikawa based on its
+interpretation of the subcontract’s indemnity clause.  
+While we affirm the grant of summary judgment, we do so
+based on our interpretation of Hawai #i Revised Statutes (HRS)
+§ 386-8, which governs a third party’s liability for workers’
+compensation.  As set forth below, we conclude that this statute
+provides the exclusive remedy for an employer to recover workers’
+compensation benefits from a third-party tortfeasor.  Because
+HDCC did not avail itself of that exclusive remedy, summary
+judgment for Fujikawa was appropriate.
+I.  Background
+A. The Subcontract and Accident
+HDCC hired Fujikawa to perform repairs to Edmonson Hall
+at the University of Hawai #i at Mânoa.  On May 1, 2012, HDCC and
+Fujikawa entered into a subcontract agreement (Subcontract).1 
+The Subcontract’s indemnity clause provided:  
+1The Subcontract was attached as an exhibit to a declaration of
+HDCC’s counsel, which was provided in support of HDCC’s motion for partial
+summary judgment in the circuit court.  The express language of the
+Subcontract is undisputed.
+2*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+12.4  To the fullest extent permitted by law,
+Subcontractor shall indemnify, and save harmless
+Contractor and Owner, and their agents and employees,
+from and against all Liabilities on account of: . . .
+(B) the filing of any claims by persons or entities
+furnishing labor, materials, equipment or other
+services or facilities in connection with the Work;
+(C) any breach or default by Subcontractor of its
+obligations under this Agreement; or (D) any and all
+damage or injury to person or property arising
+directly or indirectly from the performance of the
+Work and/or the operations of Subcontractor to the
+extent any such damage or injury is attributable in
+whole or in part to the acts or omissions of
+Subcontractor, anyone directly or indirectly employed
+by Subcontractor or anyone for whose acts
+Subcontractor may be liable; and, when requested by
+Contractor, Subcontractor shall defend any and all
+actions and pay all charges of attorneys and other
+expenses arising therefrom.
+The Subcontract defines “Liabilities” as:  “Separately
+and collectively, any loss, injury, damage, fine, penalty, cost
+and expense (including legal fees and costs) and other liability
+whatsoever, and any action, suit, proceeding or claims, relating
+to such liability.” 
+HDCC alleges that, in the course of performing repairs
+at the University of Hawai #i, HDCC employee Gabriel Balon was
+injured.  HDCC sent Fujikawa a “Notice of Claim and Demand for
+Indemnification,”2 which asserted the following:
+On June 26, 2012,[] one of HDCC’s employees, Mr.
+Gabriel Balon, a 55-year old laborer, sustained
+injuries at the Project site when he was struck by a
+piece of an air duct being installed by [Fujikawa]. 
+As a result of this accident, Mr. Balon suffered a
+concussion and contusions of his back and leg, and has
+not returned to work.  Moreover, he has filed a claim
+2This notice was attached as an exhibit to a declaration of HDCC’s
+counsel, which was provided in support of HDCC’s motion for partial summary
+judgment in the circuit court.  Fujikawa’s receipt of this notice is
+undisputed.
+3*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+for indemnity and medical/rehabilitation benefits
+under Hawaii’s Workers’ Compensation Law, H.R.S.
+Chapter 386, and HDCC is currently making payments
+thereunder.
+HDCC demanded that Fujikawa indemnify it “and its
+insurer(s) from and against any and all liability, costs and
+expenses . . . incurred in connection with the subject accident
+and the resolution thereof.” 
+B. Circuit Court Proceedings3
+HDCC subsequently filed a complaint in the circuit
+court.  HDCC alleged that Fujikawa breached the Subcontract by
+refusing to indemnify HDCC for the amounts it paid “on account of
+the bodily injury to Gabriel Balon.” 
+Fujikawa filed an answer, denying that it caused
+Balon’s injury and denying that it breached the Subcontract. 
+Fujikawa asserted affirmative defenses related to comparative
+negligence, estoppel, unclean hands, failure to mitigate damages,
+waiver, and failure to join indispensable parties. 
+HDCC filed a motion for partial summary judgment,
+requesting judgment in its favor on the issue of Fujikawa’s
+assumption of liability under the Subcontract for Balon’s
+accident.  HDCC argued that summary judgment was appropriate
+because the “Subcontract ‘clearly and unequivocally’ assigns
+Fujikawa a responsibility to indemnify HDCC.” 
+The Honorable Rhonda A. Nishimura presided.3
+4*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+Fujikawa opposed HDCC’s motion, and requested the court
+to instead enter summary judgment in its favor.  Fujikawa argued
+that workers’ compensation benefits were outside the scope of the
+Subcontract’s indemnity clause, and that summary judgment for
+HDCC would violate Fujikawa’s due process rights and contravene
+public policy by “attempt[ing] to use an ambiguous, equivocal
+contractual indemnity to shift and evade  [HDCC’s] liability for
+compensation.”  Fujikawa also argued that HDCC’s action
+“conflicts with the procedure for reimbursement mandated by the
+Legislature” in HRS § 386-8. 
+The circuit court held a hearing, and granted summary
+judgment in favor of Fujikawa based on its interpretation of the
+Subcontract.  The circuit court found no clear and unequivocal
+assumption of liability to pay workers’ compensation benefits for
+a work-related injury under the terms of the Subcontract.  The
+court denied HDCC’s motion for partial summary judgment and
+granted summary judgment in favor of Fujikawa.  The court
+subsequently entered judgment in favor of Fujikawa. 
+C. ICA Proceedings  
+HDCC timely appealed, arguing that the circuit court
+erred in failing to find Fujikawa liable for workers’
+compensation payments under the plain language of the
+Subcontract.  HDCC contended that Hawai #i law allows “risks of
+5*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+liabilities in construction” to be allocated by contract, and
+that such an allocation between contractor and subcontractor has
+no bearing on an injured worker’s ability to secure workers’
+compensation benefits.  HDCC argued that Fujikawa’s broad promise
+in the Subcontract to indemnify HDCC for “Liabilities”
+attributable to Fujikawa should be interpreted to include
+workers’ compensation costs, and that partial summary judgment
+should have been granted in its favor. 
+In its answering brief, Fujikawa characterized HDCC’s
+appeal as an attempt to pass on its statutory workers’
+compensation obligations through a vague contractual term. 
+Fujikawa argued that the circuit court correctly interpreted the
+Subcontract, as “HDCC’s definition of ‘Liabilities’ did not
+include any reference to ‘benefits,’ statutory obligations,
+‘compensation,’ disability payments or benefits – any term that
+would clearly and unequivocally indicate that Fujikawa agreed to
+indemnify HDCC for payments made for Gabriel Balon’s workers’
+compensation benefits.” 
+Fujikawa also argued that HDCC’s claim attempted to
+avoid the process specified by HRS § 386-84 (1993) (“Liability 
+HRS § 386-8 (1993) provided, in relevant part:4
+[1] When a work injury for which compensation is
+payable under this chapter has been sustained under
+circumstances creating in some person other than the
+(continued...)
+6*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+(...continued)4
+employer or another employee of the employer acting in
+the course of employment a legal liability to pay
+damages on account thereof, the injured employee or
+his dependents (hereinafter referred to collectively
+as the employee) may claim compensation under this
+chapter and recover damages from such third person.
+[2] If the employee commences an action against such
+third person he shall without delay give the employer
+written notice of the action and the name and location
+of the court in which the action is brought by
+personal service or registered mail. The employer, at
+any time before trial on the facts, may join as party
+plaintiff.
+[3] If within nine months after the date of the
+personal injury the employee has not commenced an
+action against such third person, the employer, having
+paid or being liable for compensation under this
+chapter, shall be subrogated to the rights of the
+injured employee. Except as limited by chapter 657,
+the employee may at any time commence an action or
+join in any action commenced by the employer against
+such third person.
+[4] No release or settlement of any claim or action
+under this section is valid without the written
+consent of both employer and employee. The entire
+amount of the settlement after deductions for
+attorney's fees and costs as hereinafter provided, is
+subject to the employer’s right of reimbursement for
+his compensation payments under this chapter and his
+expenses and costs of action.
+[5] If the action is prosecuted by the employer alone,
+the employer shall be entitled to be paid from the
+proceeds received as a result of any judgment for
+damages, or settlement in case the action is
+compromised before judgment, the reasonable litigation
+expenses incurred in preparation and prosecution of
+such action, together with a reasonable attorney's
+fee, which shall be based solely upon the services
+rendered by the employer's attorney in effecting
+recovery both for the benefit of the employer and the
+employee. After the payment of the expenses and
+attorney's fee, the employer shall apply out of the
+amount of the judgment or settlement proceeds an
+amount sufficient to reimburse the employer for the
+amount of his expenditure for compensation and shall
+pay any excess to the injured employee or other person
+entitled thereto.
+(continued...)
+7*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+(...continued)4
+[6] If the action is prosecuted by the employee alone,
+the employee shall be entitled to apply out of the
+amount of the judgment for damages, or settlement in
+case the action is compromised before judgment, the
+reasonable litigation expenses incurred in preparation
+and prosecution of the action, together with a
+reasonable attorney's fee which shall be based solely
+upon the services rendered by the employee's attorney
+in effecting recovery both for the benefit of the
+employee and the employer. After the payment of such
+expenses and attorney's fee, there shall be applied
+out of the amount of the judgment or settlement
+proceeds, the amount of the employer's expenditure for
+compensation, less his share of the expenses and
+attorney's fee. On application of the employer, the
+court shall allow as a first lien against the amount
+of the judgment for damages or settlement proceeds,
+the amount of the employer's expenditure for
+compensation, less his share of such expenses and
+attorney's fee.
+[7] If the action is prosecuted both by the employee
+and the employer, in a single action or in
+consolidated actions, and they are represented by the
+same agreed attorney or by separate attorneys, there
+shall first be paid from any judgment for damages
+recovered, or settlement proceeds in case the action
+or actions are settled before judgment, the reasonable
+litigation expenses incurred in preparation and
+prosecution of such action or actions, together with
+reasonable attorney's fees based solely on the
+services rendered for the benefit of both parties
+where they are represented by the same attorney, and
+where they are represented by separate attorneys,
+based solely upon the service rendered in each
+instance by the attorney in effecting recovery for the
+benefit of the party represented. After the payment of
+the expenses and attorneys' fees there shall be
+applied out of the amount of the judgment for damages,
+or settlement proceeds an amount sufficient to
+reimburse the employer for the amount of his
+expenditure for compensation and any excess shall be
+paid to the injured employee or other person entitled
+thereto.
+. . . .
+[10] The amount of compensation paid by the employer
+or the amount of compensation to which the injured
+employee is entitled shall not be admissible in
+evidence in any action brought to recover damages.
+(continued...)
+8*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+of third person”), which establishes the procedure by which an
+employer may seek to recover the workers’ compensation payments
+that it made to its injured employee when a third party is
+allegedly liable for the employee’s work-related injury. 
+Fujikawa also argued that HDCC’s request for damages conflicted
+with HRS § 386-8’s provision that the “amount of [workers’]
+compensation paid by the employer . . . shall not be admissible
+in evidence in any action brought to recover damages.” 
+The ICA vacated the circuit court’s judgment,
+concluding that the Subcontract’s indemnification clause
+encompassed workers’ compensation benefits.  The ICA held that
+“the Subcontract includes the clear and unequivocal agreement of
+Fujikawa to assume all Liabilities arising from its acts or
+omissions, including costs and expenses related to Balon’s
+workers compensation claim.”  The ICA rejected Fujikawa’s
+arguments that HDCC was attempting to evade its statutory
+workers’ compensation obligations, relying on Iddings v. Mee-Lee,
+82 Hawai# i 1, 16, 919 P.2d 263, 278 (1996), which held that
+contractual indemnification agreements “are valid in the workers’
+compensation context and do not contravene or undermine the
+purposes underlying workers’ compensation in general.” 
+(...continued)4
+. . . .
+9*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+II.  Standards of Review
+A. Statutory Interpretation
+“Statutory interpretation is a question of law
+reviewable de novo.”  State v. Wheeler, 121 Hawai #i 383, 390, 219
+P.3d 1170, 1177 (2009) (internal quotation marks omitted).  This
+court’s construction of statutes is guided by the following
+rules:
+First, the fundamental starting point for statutory
+interpretation is the language of the statute itself.
+Second, where the statutory language is plain and
+unambiguous, our sole duty is to give effect to its
+plain and obvious meaning.  Third, implicit in the
+task of statutory construction is our foremost
+obligation to ascertain and give effect to the
+intention of the legislature, which is to be obtained
+primarily from the language contained in the statute
+itself.  Fourth, when there is doubt, doubleness of
+meaning, or indistinctiveness or uncertainty of an
+expression used in a statute, an ambiguity exists.
+Id. (quoting Citizens Against Reckless Dev. v. Zoning Bd. of
+Appeals of the City & Cnty. of Honolulu, 114 Hawai #i 184, 193,
+159 P.3d 143, 152 (2007)).  
+B. Summary Judgment
+[An appellate court] reviews the circuit court’s grant
+of summary judgment de novo.  Price v. AIG Hawaii #
+Ins. Co., 107 Hawai #i 106, 110, 111 P.3d 1, 5 (2005). 
+Summary judgment is appropriate “if the pleadings,
+depositions, answers to interrogatories, and
+admissions on file, together with the affidavits, if
+any, show that there is no genuine issue as to any
+material fact and that the moving party is entitled to
+a judgment as a matter of law.”  HRCP Rule 56(c).
+Gillan v. Gov’t Emps. Ins. Co., 119 Hawai #i 109, 114, 194 P.3d
+1071, 1076 (2008).
+10*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+III.  Discussion
+A. Introduction
+Fujikawa presents several questions challenging the
+ICA’s ruling.5  We focus on one question, as we find it
+determinative:  whether an employer may recover workers’
+compensation payments under a contractual indemnification
+provision between the employer and the third-party tortfeasor who
+causes injury to the employee.   We answer that question in the
+negative, since HRS § 386-8 provides employers an exclusive
+statutory reimbursement remedy under Hawaii’s workers’
+compensation law (WCL). 
+Fujikawa argues that such an indemnity clause violates
+the WCL by shifting an employer’s responsibility for workers’
+compensation to a subcontractor.  In response, HDCC argues that
+“HRS § 386-8 neither requires an employer to assert its
+subrogation interests nor does it limit an employer to this
+statutorily-provided remedy.”  HDCC argues that it complied with
+Hawaii’s WCL by accepting Balon’s claim and providing Balon
+workers’ compensation benefits, and that its claim for indemnity
+5Fujikawa presents four questions to this court.  Fujikawa’s first
+two questions address whether the ICA misapplied contract law when it
+interpreted the Subcontract, and Fujikawa’s remaining two questions address
+whether the ICA’s ruling contravenes Hawaii’s workers’ compensation scheme and
+public policy encouraging settlement of an injured workers’ claim, which we
+construe as a single related question.  In light of our disposition of this
+case, we need not address Fujikawa’s contractual interpretation questions.
+11*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+“is based on an independent duty created by the indemnification
+provision in the Subcontract.” 
+Fujikawa filed a Reply to HDCC’s Response, arguing that
+Yukumoto v. Tawarahara, 140 Hawai# i 285, 400 P.3d 486 (2017)
+supports its position.  In Yukumoto , we held that a health
+insurer’s contractual provision granting a right of subrogation
+against third-party torteasors was invalid because it conflicted
+with statutes that provided a health insurer’s exclusive right of
+subrogation.  Yukumoto, 140 Hawai #i at 299, 400 P.3d at 500
+(citing HRS §§ 663-10 (Supp. 2002) and 431-13:103(a)(10) (Supp.
+2002)).  Fujikawa asserts that HDCC’s position similarly “would
+jeopardize the comprehensive and exclusive workers’ compensation
+scheme established by the legislature.” 
+We conclude that the comprehensive workers’
+compensation reimbursement scheme established by HRS § 386-8
+provides the exclusive remedy for an employer’s recovery of
+workers’ compensation benefits  paid for its employee where injury
+is allegedly attributable to a third party.  Thus, any
+contractual provision that conflicts with this statutory remedy
+is invalid.  HDCC is therefore not entitled to contractual
+indemnity for workers’ compensation payments made as a result of
+Balon’s injury, and summary judgment in favor of Fujikawa was
+proper.  Although the circuit court erroneously granted
+12*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+Fujikawa’s cross-motion for summary judgment based on its
+interpretation of the Subcontract, we affirm the circuit court’s
+judgment based on our interpretation of HRS § 386-8.  See Reyes
+v. Kuboyama, 76 Hawai# i 137, 140, 870 P.2d 1281, 1284 (1994)
+(“This court may affirm a grant of summary judgment on any ground
+appearing in the record, even if the circuit court did not rely
+on it.”).
+B. Statutory Interpretation  of HRS § 386-8
+Whether HRS § 386-8 provides the exclusive remedy for
+an employer’s reimbursement of workers’ compensation benefits
+paid for its employee due to the fault of a third party is a
+question of first impression before this court.  When construing
+a statute, our foremost obligation is to “give effect to the
+intention of the legislature, which is to be obtained primarily
+from the language contained in the statute itself.  And we must
+read statutory language in the context of the entire statute and
+construe it in a manner consistent with its purpose.”  Morgan v.
+Planning Dep’t, Cnty. of Kauai, 104 Hawai #i 173, 179-80, 86 P.3d
+982, 988-89 (2004) (citation omitted).  As set forth below, the
+language, legislative history, and purpose of the statutory
+framework governing workers’ compensation lead us to conclude
+that the legislature intended to limit an employer’s right of
+13*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+recovery for workers’ compensation payments to the manner
+prescribed by HRS § 386-8. 
+1. The Plain Language and Legislative History of HRS
+§ 386-8
+The plain language and legislative history of HRS
+§ 386-8 show that the legislature has created a uniform and
+comprehensive procedure for the recovery of workers’ compensation
+benefits paid as a result of a third party’s tortious conduct. 
+The comprehensive nature of this statutory scheme supports the
+conclusion that the legislature intended HRS § 386-8 to provide
+the employer’s exclusive remedy in these circumstances.  
+Under the first paragraph of HRS § 386-8, when an
+employee has sustained a work-related injury due to a third
+party, the injured employee “may claim compensation under this
+chapter and recover damages from such third person.”  The second
+paragraph of HRS § 386-8 provides that “[i]f the employee
+commences an action against such third person, the employee shall
+without delay give the employer written notice of the action.” 
+As such, “[u]nder HRS § 386-8, the employee has the first
+opportunity to bring suit, which promotes the efficient
+resolution of his or her claims.”  First Ins. Co. of Hawaii v.
+A&B Properties, 126 Hawai #i 406, 418, 271 P.3d 1165, 1177 (2012). 
+The third paragraph of HRS § 386-8 provides that “[i]f within
+nine months after the date of the personal injury the employee
+14*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+has not commenced an action against such third person, the
+employer, having paid or being liable for compensation under this
+chapter, shall be subrogated to the rights of the injured
+employee.”  (Emphasis added).  The fourth paragraph of HRS
+§ 386-8 ensures that both the employee and employer have an
+opportunity to protect their interests by providing that “[n]o
+release or settlement of any claim or action under this section
+is valid without the written consent of both employer and
+employee.”  
+Paragraphs five, six, and seven of HRS § 386-8 list the
+types of actions that may be brought against a third party,
+explain how litigation expenses and attorney’s fees are
+apportioned, and specify how an employer may recover its workers’
+compensation payments under each action.  Whether the action
+against the third party is commenced by the employer alone, by
+the employee alone, or by both the employee and employer, the
+employer shall be reimbursed for the amount of its expenditure
+for workers’ compensation from the judgment for damages or from
+the amount of settlement.  HRS § 386-8. 
+Accordingly, “HRS § 386–8 establishes a framework for
+the employee, employer, and third party to attempt to resolve
+their dispute at one time and in a single proceeding.”  First
+Ins. Co., 126 Hawai# i at 418, 271 P.3d at 1177.  The
+15*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+comprehensive scope of HRS § 386–8, by detailing specific methods
+for compensation reimbursement, suggests that the legislature’s
+intent was to provide an exclusive method for recovering workers’
+compensation payments from a third party.  
+Consistent with this plain language interpretation, the
+legislative history of HRS § 386–8 supports the conclusion that
+an employer’s exclusive right to reimbursement is provided for in
+the statute.  HRS § 386–8 can be traced to Hawaii’s first
+Workers’ Compensation Act, which was enacted in 1915.6  1915 Haw.
+Sess. Laws Act 221, § 5 at 324.  However, the original version
+was quite different from the current provision.  Indeed, from the
+time of its initial enactment, the statute has been progressively
+amended, with each successive amendment providing a more
+comprehensive framework.  Prior to 1951, an injured employee was
+In 1915, Act 221, § 5, “Liability of Third Persons,” provided:6
+When any injury for which compensation is payable
+under this Act shall have been sustained under
+circumstances creating in some other person than the
+employer a legal liability to pay damages in respect
+thereto, the injured employee may, at his option,
+either claim compensation under this Act or obtain
+damages from or proceed at law against such other
+person to recover damages; and if compensation is
+claimed and awarded under this Act any employer having
+paid the compensation or having become liable therefor
+shall be subrogated to the rights of the injured
+employee to recover against that person, provided, if
+the employer shall recover from such other person
+damages in excess of the compensation already paid or
+awarded to be paid under this Act, then any such
+excess shall be paid o the injured employee less the
+employer’s expenses and costs of action.
+16*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+required to “elect whether to claim compensation [from his
+employer] or claim his damages [from the third-party tortfeasor],
+and if he claims one, he loses the other.”  H. Stand. Comm. Rep.
+No. 722, in 1951 House Journal, at 579.  In 1951, the legislature
+amended the statute to allow the employee to claim workers’
+compensation benefits and proceed against a third person without
+waiving his rights to either.  1951 Haw. Sess. Laws Act 194, § 1
+at 229; S. Stand. Comm. Rep. No. 195, in 1951 Senate Journal, at
+589.  However, the amendment provided that if the employee
+recovered damages from the tort suit, the employer would have the
+right to reimbursement out of those damages for the workers’
+compensation benefits it paid.  1951 Haw. Sess. Laws Act 194, § 1
+at 229–30; S. Stand. Comm. Rep. No. 195, in 1951 Senate Journal,
+at 589.  
+Subsequent legislative amendments provided additional
+detail regarding the employer’s rights and remedies, including
+procedures for an employer’s recovery of workers’ compensation
+benefits, litigation expenses, and attorney’s fees in suits
+against third-party tortfeasors.  In 1967, the legislature
+amended the WCL “to provide a method for fixing and paying
+reasonable litigation expenses and attorney’s fees in third party
+actions and for the apportionment of such expenses and fees.”  S.
+Stand. Comm. Rep. No. 163, in 1967 Senate Journal, at 904; 1967
+17*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+Haw. Sess. Laws Act 53, § 1 at 39-40.  In 1970, the legislature
+amended the WCL to provide for litigation costs and attorney’s
+fees where a third-party claim results in settlement.  1970 Haw.
+Sess. Laws Act 58, § 1 at 106-07; H. Stand. Comm. Rep. No. 638-
+70, in 1970 House Journal, at 1111.  In 1973, the legislature
+amended the WCL to “require an employer or his insurance carrier
+to pay a proportionate share of the attorney’s fees and costs on
+sums recovered by an injured employee from a third party which
+are reimbursable to the employer or his carrier.”  H. Stand.
+Comm. Rep. No. 375, in 1973 House Journal, at 911; 1973 Haw.
+Sess. Laws Act 144, § 1 at 225-26.  
+In sum, the history of the statute reflects the
+legislature’s intent to address an ever-wider range of scenarios,
+and to provide a clear set of rules for each to ensure that both
+the employer and the employee are treated fairly.  It would be
+inconsistent with that carefully crafted scheme to allow the
+employer to unilaterally vary those rules through agreements with
+its subcontractors.  By providing a specific reimbursement remedy
+and continuing to provide further specificity to the contours of
+that remedy, the legislature intended to exclude other forms of
+remedy for an employer’s payment of workers’ compensation
+benefits.  Accordingly, the legislative history suggests that the
+comprehensive workers’ compensation scheme is the whole source of
+18*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+rights and remedies for third-party tortfeasor actions under the
+WCL.
+This conclusion is supported by our interpretation of
+statutes governing reimbursement and subrogation rights in the
+health insurance context.  See Yukumoto v. Tawarahara, 140
+Hawai#i 285, 400 P.3d 486 (2017).  In Yukumoto , the Hawai #i
+Medical Service Association (HMSA) argued that it was not limited
+to the statutory procedure for reimbursement of the amounts it
+paid for medical expenses associated with Yukumoto’s injuries in
+an accident, but could recover those amounts through independent
+contractual rights.  Id. at 288, 400 P.3d at 489.  Based on the
+plain language and legislative history of the statutes at issue,
+we held that the legislature had created a uniform and
+comprehensive procedure for lienholders’ reimbursement and
+subrogation recovery.  Id.  at 294-98, 400 P.3d at 495-99. 
+Accordingly, any contractual provision in conflict with the
+statutory procedure was invalid, and HMSA could not recover its
+medical expense payments through contract instead of following
+the procedure prescribed by the legislature.  Id. at 299, 400
+P.3d at 500; see also Vinson v. Thomas, 288 F.3d 1145, 1156 (9th
+Cir. 2002) (holding that the specificity and comprehensiveness of
+the remedies provided by Title II of the Americans with
+Disabilities Act suggested that Congress intended that remedial
+19*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+scheme to be the exclusive means by which a party could vindicate
+his rights, and therefore plaintiff’s § 1983 claims were barred).
+Similarly here, HRS § 386-8 sets forth a comprehensive
+scheme which reflects an intent to establish uniform and
+exclusive remedies.  Accordingly, the plain language and
+legislative history of HRS § 386–8 support the conclusion that
+HDCC’s manner of compensation reimbursement is exclusively
+provided for in the statute.
+2. The Purpose of Workers’ Compensation Law
+Our conclusion that the plain language and legislative
+history of HRS § 386-8 provides an employer’s exclusive remedy
+for reimbursement is also consistent with the purpose of WCL.  In
+Estate of Coates v. Pac. Engineering, a Div. of Pac. Lining Co.,
+Inc., 71 Haw. 358, 364, 791 P.2d 1257, 1261 (1990), we noted that
+WCL is “designed to obtain for the injured workman or his
+dependents an assured, certain and prompt compensation to replace
+the doubtful right accorded by common law, and to secure for the
+employer freedom from vexatious, delaying and uncertain
+litigation with its possibilities of heavy penalties in the way
+of verdicts and high costs.”  
+In accord with this purpose, we have said that HRS
+§ 386–8 establishes a framework for dispute resolution “at one
+time and in a single proceeding,” thereby promoting the efficient
+20*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+resolution of an employee’s claims.  First Ins. Co. , 126 Hawai #i
+at 418, 271 P.3d at 1177.  In First Ins. Co. , we considered the
+narrow question of whether an employee can intervene in his or
+her employer’s timely lawsuit against a third party after the
+two-year limitations period established by HRS § 657-7 (1993) has
+passed.  Id. at 408, 271 P.3d at 1167.  We construed HRS § 386–8
+consistent with WCL’s purpose of facilitating a fair and prompt
+resolution, noting that HRS § 386–8 requires written consent by
+both the employee and employer to a settlement or release of
+claims in order to provide an opportunity for each party to
+protect their respective interests.  Id.  at 418, 271 P.3d at
+1177.  Because it would be inconsistent to allow an injured
+employee to object to a proposed settlement of claim but not
+intervene in an employer’s suit to resolve that claim, we held
+that “the structure of the workers’ compensation statute, which
+encourages resolution of the dispute in a single action, suggests
+an intent to allow intervention by both the employer and the
+employee at any time prior to trial in the other’s timely filed
+suit.”  Id.   Thus, while First Ins. Co.  did not directly answer
+the question here, it held that HRS § 386–8 should be construed
+in order to accomplish the purpose of encouraging resolution of
+disputes in a single action.  Id.  
+21*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+Interpreting HRS § 386-8 as providing an exclusive
+remedy is consistent with WCL’s purpose because it “encourages
+resolution of the dispute in a single action” and discourages
+“vexatious, delaying and uncertain litigation” through contract-
+based actions to recover workers’ compensation payments.  Id.;
+Estate of Coates , 71 Haw. at 364, 791 P.2d at 1261.  Such actions
+conflict with the statute’s goal of efficiently resolving an
+injured employee’s claims in a single proceeding and assuring
+prompt compensation for the injured employee.7  
+Accordingly, based on the statute’s plain language,
+legislative history, and purpose, we conclude that HRS § 386-8
+provides HDCC’s exclusive remedy for reimbursement of workers’
+compensation payments.
+C. Application to this Case
+In light of our conclusion that HRS § 386-8 provides an
+employer’s exclusive remedy for reimbursement of workers’
+compensation payments, HDCC’s breach of contract claim fails. 
+Even if the parties intended the Subcontract’s indemnity clause
+to encompass workers’ compensation payments, that agreement would
+7Furthermore, permitting an employer to require its subcontractor
+to indemnify it for workers’ compensation benefits could raise significant
+public policy concerns.  For example, allowing this contractual shifting of
+responsibilities could discourage an employer from providing a safe work
+environment for its employees, because an accident to which a subcontractor is
+only marginally attributable could still fall within the scope of the
+indemnity clause.
+22*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+be invalid.  An employer cannot contractually require a third-
+party tortfeasor to indemnify it for workers’ compensation
+payments.  Rather, the employer must follow the procedure
+provided by HRS § 386-8.  Therefore, summary judgment in favor of
+Fujikawa was proper.  
+Respectfully, we disagree with the ICA’s conclusion
+that Iddings, 82 Hawai# i 1, 919 P.2d 263, supports a contrary
+result.  The ICA determined that contractual indemnification
+agreements are valid in the workers’ compensation context and do
+not undermine the purposes of WCL, quoting Iddings , 82 Hawai #i at
+8, 919 P.2d at 270.  The ICA then interpreted the Subcontract,
+and concluded that the Subcontract’s indemnity clause encompassed
+expenses stemming from workers’ compensation benefits.  Iddings,
+however, is distinguishable. 
+In Iddings , the plaintiff nurse was injured while
+subduing a violent patient.  Id. at 4, 919 P.2d at 266.  The
+nurse applied for, and received, workers’ compensation benefits
+from her employer, the hospital.  Id.  The nurse brought a
+separate action in tort against her supervisory co-employee,
+physician Mee-Lee, contending that Mee-Lee, by allowing the
+hospital to become overcrowded, acted wilfully and wantonly in
+creating an unsafe work environment.  Id.  The circuit court
+granted Mee-Lee’s motion for summary judgment, finding that:  (1)
+23*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+an actual intent to injure is required for a co-employee’s
+conduct to satisfy the “wilful and wanton misconduct” exception
+to co-employee immunity; and (2) the nurse’s contention that Mee-
+Lee intentionally allowed her to work in an unsafe working
+environment did not constitute willful and wanton misconduct. 
+Id. at 5, 919 P.2d at 267.  
+We vacated and remanded, holding that an actual intent
+to injure is not required in order for the injury-causing conduct
+of a co-employee to fall within the scope of the wilful and
+wanton misconduct exception, and that there were genuine issues
+of material fact as to whether Mee-Lee engaged in willful and
+wanton misconduct.  Id. at 4, 919 P.2d at 266.  
+We discussed contractual indemnity agreements only in
+the context of responding to the dissent.  Id.  at 15-17, 919 P.2d
+at 277-79.  The dissent contended that allowing tort claims
+against supervisory co-employees would create an absurd result,
+since the employer would provide benefits to the injured employee
+through workers’ compensation, and, at the same time, indemnity
+coverage to the supervisory employee.  Id.  at 28 n. 11, 919 P.2d
+at 290 n. 11 (Ramil, J., dissenting).  The dissent argued that a
+typical situation where this absurd result would occur is the
+following:  (1) the employee would seek workers’ compensation
+benefits, and damages from the supervisory employee tortfeasor;
+24*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+(2) the supervisor would then seek indemnity from its employer;
+(3) and the employer would then seek reimbursement for its
+workers’ compensation benefits from the injured employee’s
+recovery against the supervisor.  Id.; see also id. at 17, 919
+P.2d at 279 (Ramil, J., dissenting).
+The majority responded that it failed to see the
+absurdity of this result.  Id.  at 17, 919 P.2d at 279.  We stated
+that it is “well settled that contractual indemnification
+agreements and ‘hold harmless’ clauses are valid in the workers’
+compensation context and do not contravene or undermine the
+purposes underlying workers’ compensation in general.”  Id. at
+16, 919 P.2d at 278.  This statement related to a third-party
+tortfeasor’s right to seek indemnity from an employer based on an
+indemnity agreement.  See id.  We relied on previous cases:
+Kamali v. Hawaiian Elec. Co., Inc. , 54 Haw. 153, 504 P.2d 861
+(1972), Messier v. Ass’n of Apartment Owners of Mt. Terrace , 6
+Haw. App. 525, 735 P.2d 939 (1987), and Keawe v. Hawaiian Elec.
+Co., Inc., 65 Haw. 232, 649 P.2d 1149 (1982), which all held that
+a third-party tortfeasor may seek indemnification from an
+employer based on a contractual indemnity agreement.  Iddings, 82
+Hawai#i at 17, 919 P.2d at 279.  We stated that just as any other
+third-party tortfeasor may seek indemnity from an employer for
+the tort damages it paid to the injured employee, a co-employee
+25*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+liable in tort to the injured employee may seek indemnification
+from his or her employer.  Id.  Finally, we stated that the
+dissent’s third proposition “simply reiterates the employer’s
+right of reimbursement for workers’ compensation benefits paid
+out by the employer mandated by HRS § 386–8.”  Id.
+Thus, the reference to indemnity agreements in Iddings
+involved only agreements in which a third party  seeks
+indemnification from the employer for damages the third party has
+paid to an injured employee.  See id. at 15-17, 919 P.2d at 277-
+79.  Iddings, and the earlier cases on which it relied, did not
+address the wholly separate issue of whether an employer may
+circumvent the statutory procedure provided in HRS § 386-8 by
+using an indemnity agreement to recover workers’ compensation
+benefits from a third-party tortfeasor.8  
+In fact, Iddings stated that an employer, after
+indemnifying a third-party tortfeasor, could seek reimbursement
+for workers’ compensation benefits from the employee through the
+statutory procedure mandated by HRS § 386-8.  Id.  at 17, 919 P.2d
+at 279.  Thus, Iddings did not contemplate an employer using an
+8We also note that, although not at issue here, any agreement in a
+construction contract requiring the promisor to indemnify or defend “the
+promisee against liability for bodily injury to persons or damage to property
+caused by or resulting from the sole negligence or wilful misconduct of the
+promisee, the promisee’s agents or employees, or indemnitee, is invalid as
+against public policy, and is void and unenforceable.”  HRS § 431:10-222;
+Arthur v. State, Dept. of Hawaiian Home Lands , 138 Hawai #i 85, 93-95, 377 P.3d
+26, 34-36 (2016).
+26*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+indemnification agreement to recover workers’ compensation
+benefits from a third-party tortfeasor. 
+An agreement by an employer to indemnify a potential
+third-party tortfeasor for tort damages does not implicate the
+policies of WCL, because it does not alter the procedure by which
+employers provide or receive reimbursement for workers’
+compensation benefits.  In contrast, the indemnity agreement here
+attempted to supplant the procedure mandated by HRS § 386-8.
+Accordingly, the ICA erred when it relied on Iddings to
+conclude that the Subcontract’s indemnity provision was valid.
+IV. Conclusion
+For the foregoing reasons, we conclude that HRS § 386-8
+provides the exclusive remedy for an employer seeking
+reimbursement for workers’ compensation benefits from a third-
+party tortfeasor, and accordingly, that summary judgment in favor
+of Fujikawa was proper.  We therefore vacate the ICA’s March 29,
+2017 Judgment on Appeal, and affirm the circuit court’s May 2,
+2014 Judgment.
+Sheree Kon-Herrera 
+for petitioner
+James Shin (Jodie D. 
+Roeca on the briefs)
+for respondent/s/ Mark E. Recktenwald
+/s/ Paula A. Nakayama
+/s/ Sabrina S. McKenna
+/s/ Richard W. Pollack
+/s/ Michael D. Wilson
+27

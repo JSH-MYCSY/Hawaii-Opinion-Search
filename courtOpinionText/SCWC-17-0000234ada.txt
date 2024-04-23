@@ -1,0 +1,614 @@
+*** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAI I 
+ 
+---o0o--- 
+ 
+ 
+PFLUEGER, INC., 
+Respondent/Plaintiff- Appellant,  
+ 
+vs. 
+ 
+ AIU HOLDINGS, INC., NATIONAL UNION FIRE INSURANCE COMPANY OF 
+PITTSBURGH, PENNSYLVANIA, 
+ Respondents/Defendants- Appellees,  
+ 
+and 
+ 
+NOGUCHI & ASSOCIATES, INC., Petitioner/Defendant-Appellee. 
+ 
+ 
+SCWC-17-0000234 
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS 
+(CAAP-17-0000234; CIV. NO. 09 -1-1326) 
+ 
+FEBRUARY 22, 2023 
+ 
+NAKAYAMA, ACTING C.J., M cKENNA, WILSON, AND EDDINS, JJ. , 
+AND CIRCUIT JUDGE KIM, IN PLACE OF RECKTENWALD, C.J., RECUSED 
+ 
+OPINION OF THE COURT BY NAKAYAMA, J. 
+ 
+This is an insurance broker malpractice case spanning  
+approximately  fourteen  years.  Respondent/Plaintiff -Appellant 
+Pflueger , Inc. brought negligence and negligent malpractice 
+claims against its insurance broker, Petitioner/Defendant -Electronically Filed
+Supreme Court
+SCWC-17-0000234
+22-FEB-2023
+08:16 AM
+Dkt. 11 OP*** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+ 
+2 Appellee Noguchi & Associates, Inc. (Noguchi).  In the first 
+chain of proceedings ( Pflueger I ), partial summary judgment was 
+granted in favor of Pflueger  and a jury found in favor of 
+Pflueger.  After th e ICA remanded to the circuit court to 
+include previously excluded testimony, the circuit court in the 
+instant appeal granted summary judgment in favor of  Noguchi, 
+finding Noguchi ’s evidence  negated the causation element of 
+Pflueger’s c laim and Pflueger offered no evidence to the 
+contrary .  The ICA then disagreed , holding summary judgment  for 
+Noguchi was improper in a  Summary Disposition Order, with a 
+majority and concurring opinion.   
+Currently a t issue is what Noguchi must demonstrate on 
+summary judgment to negate the causation element of the 
+negligence and negligent malpractice claims against it.   Noguchi 
+contends it need only show that Pflueger’s insurer, National  
+Union Fire Insurance Company of Pittsburgh, Pennsylvania 
+(National Union) , would have denied coverage even if  Pflueger’s 
+grand jury subpoena matter  were timely tendered in order to 
+negate the causation element on summary judgment.  By accepting 
+this argument, both the circuit court and the ICA majority 
+erred.  We clarify that to negate the causation element on 
+summary judgment , Noguchi instead would need to demonstrate  that 
+even if the grand jury subpoena  matter were timely tendered to 
+National  Union, National Union  would not have been legally *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+ 
+3  obligated to advance Pflueger’s defense costs.   Accordingly, we 
+vacate the ICA’s October 5, 2022 Judgment on Appeal, and remand 
+to the circuit court for proceedings consistent with this 
+opinion.   
+I. BACKGROUND  
+A. Factual Background  
+Pflueger is an automotive retailer .  Noguchi procured 
+for Pflueger a Directors and Officers liability insurance policy 
+from National Union for policy periods covering September 27, 
+2007 to September 27, 2008, and September 27, 2008 to September 
+27, 2009 .  The policy required that National Uni on “advance 
+defense costs” for Pflueger against covered claims.1 
+On May 22, 2008, Pflueger and other entities were 
+served with subpoenas related to a grand jury investigation.2  
+Shortly thereafter , Pflueger ’s Chief Financial Officer Randall 
+Kurata met with  Noguchi’s agents, Glenn Maruyama and Mike Bryan , 
+                     
+1  The 2007 -08 Policy provided Directors, Officers and Private Company 
+Liability Coverage as follows:  
+ 
+This policy shall pay the Loss of [Pflueger] arising from 
+a: (i) Claim first made against [Pflueger] . . . during the 
+Policy Period . . . and reported to [N ational Union] 
+pursuant to the terms of this policy for any Wrongful Act 
+. . . . [National Union] shall, in accordance with Clause 4 
+of this Coverage Section, advance Defense Costs  of such 
+Claim prior to its final disposition.  
+The 2008 -09 policy  is worded exactly the same as above.  
+ 
+2  In the ensuing months, further subpoenas were also served on Pflueger 
+and other entities.   *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+ 
+4 allegedly to discuss the grand jury subpoenas .  At the meeting, 
+Noguchi’s agents advised Pflueger that there was no claim under 
+the insurance policies that National Union issued to Pfl ueger.3  
+Noguchi did not forward a claim or the subpoenas to National 
+Union or  to National Union’s “authorized representative” AIU 
+Holdings, Inc.   Pflueger hired multiple law firms to represent 
+its interests in connection with the grand jury proceeding,  
+incurring substantial  legal fees . 
+In February 2009, Pflueger ’s attorney submitted a 
+demand letter tendering Pflueger’s defense to National Union.  
+On April 29, 2009, AI U claim analyst Dennis Van Dina responded 
+to Pflueger’s attorney in two letters, one for each insurance 
+policy, stating Pflueger’s claim was not covered because the 
+claim was untimely.4  The letter s then stated that even if timely 
+                     
+3  The parties dispute what was conveyed during the meeting.  Before the 
+circuit court in the first chain of proceedings ( Pflueger I ), Pflueger 
+contended it notified Noguchi that it received federal grand jury subpoenas: 
+Kurata showed Noguchi’s agents a copy of all the subpoenas which were served 
+on Kurata on May 22, 2008.  Kurata then asked if there was coverage for the 
+subpoenas, and  Noguchi’s agent replied there was no claim unless an 
+indictment was handed down.  In contrast, Noguchi contended Kurata never 
+showed subpoenas or any documents, rather the meeting was about the IRS 
+requesting information.  One of Noguchi’s agents testifie d he asked if 
+anything like an indictment, subpoena, or anything more formal was handed 
+down, and Kurata responded in the negative.  The parties also disputed the 
+basis for and the precise substance of  the advice Noguchi’s agents  gave. 
+ 
+4  The letters stated: 
+ 
+(1) Policy no. 052 -68-49 has a Policy Period  September 27, 
+2007 to September 27, 2008.  Coverage B  states that the 
+Policy provides coverage for Claims  first made against the 
+Company or an Individual  Insured during the Policy Period 
+or Discovery Period (if applicable).   The Grand Jury 
+Subpoena was issued  on May 22, 2008.  Thus, the matter will *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+ 
+5 reported, the materials su bmitted did not constitute a claim.5  
+The letters stated  "the language of the Policy requires that an 
+indictment, information or similar document is necessary for a 
+Claim as defined."   After Pflueger’s counsel  responded , Van Dina 
+reiterated AIU’s position on May 13, 2009.   
+B. Pflueger I : Relevant Background6 
+1. Circuit Court Proceedings  
+On June 10, 2009, Pflueger filed a complaint alleging 
+claims of declaratory relief, negligence, negligent 
+                     
+be deemed to  have been made on May 22, 2008.  Clause 7 
+requires  that a Claim must be both made and reported during 
+the Policy Period or Discovery Period (if  applicable)  
+. . . . However, this matter was submitted to National  
+Union on February 17, 2009; outside the applicable  
+reporting periods found with Clause 7 Notice/Claim  
+Reporting Provisions, and as amended by Endorsement  #2.  
+Therefore, coverage is preclu ded. 
+ 
+(2) "Policy no. 052 -68-49 [sic] has a Policy Period  
+September 27, 2008 to September 27, 2009.  Coverage B  
+states that the Policy provides coverage for Claims  first 
+made against the Company or an Individual  Insured during 
+the Policy Period or Discover y Period  (if applicable).  The 
+Grand Jury Subpoena was issued  on May 22, 2008.  Thus, the 
+matter will be deemed to  have been made on May 22, 2008; 
+outside the Policy  Period.  Clause 7 requires that a Claim 
+must be both  made and reported during the Policy P eriod or  
+Discovery Period (if applicable) . . . . However,  this 
+Claim was made outside the Policy .  Therefore, coverage is 
+precluded.   
+The second letter states the incorrect policy number.  The correct policy 
+number is 01 -277-00-32. 
+ 
+5  Van Dina noted “assuming this matter was both made and reported as per  
+the requirements of the Policy, the materials submitted to  National Union 
+would not constitute a Claim .” 
+ 
+6  The first chain of proceedings is referred to as Pflueger I , and the 
+second chain of proceed ings is referred to as Pflueger I I.  Only the 
+background pertinent to the instant issue will be briefly summarized.   *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+ 
+6 misrepresentation, and breac h of the duty of good faith and fair 
+dealing against AIU/National Union and Noguchi.   Pflueger 
+brought negligence and negligent misrepresentation claims 
+against Noguchi, alleging that Noguchi failed to tender the 
+grand jury matter to AIU and National Union, and as a proximate 
+result of Noguchi’s negligence, Pflueger was denied coverage  for 
+legal fees and costs associated with responding to the grand 
+jury subpoenas  and for liability that  Pflueger  may incur as a 
+result of the claims made against it in the grand jury 
+proceedings .  Pflueger also alleged that Noguchi made untrue 
+representations that the grand jury matter was not covered under 
+the policies,  and that Pflueger reasonably relied on these 
+representations in declining for a ti me to tender the grand jury 
+matter directly to AIU and National Union;  as a proximate 
+result, AIU and National Union de emed Pflueger ’s eventual tender 
+of the grand jury matter untimely and denied coverage.  
+Two AIU employees were deposed  in 2011 and 2012 : 
+Senior Complex Claims Director Tiffany Ngeo  and claims analyst 
+Van Dina.  
+Ngeo was asked whether it was AIU ’s “position that 
+there was no coverage afforded for the grand jury subpoenas, 
+regardless of when they were reported to . . . AIU  . . . .”  
+Ngeo responded, “Well, we have two defenses.  One of them for 
+each of the policy [sic], is that it was either not made or *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+ 
+7 reported within the policy.  And the other defense is that the 
+grand jury subpoenas were not a claim per the policy. ”  Ngeo was 
+also asked , “Is it fair to say that [AIU's]  position is that, 
+first, there's no coverage for the grand jury  subpoenas –- grand 
+jury subpoenas under the policy; and second,  even if there was 
+coverage, they were not reported timely[?] ”  Ngeo responded, 
+“[T]he grand ju ry subpoenas do not meet the  definition of a 
+claim under either policy. ” 
+  Van Dina was asked, “Even if it had been made timely, 
+it's not a covered claim; is that right? ”  Van Dina responded, 
+“Right.  Well, no.   I'm sorry.  Let me rephrase that.  Not that 
+–- it may not even constitute the definition of a claim. ”  Van 
+Dina was later asked, “Assuming this claim had  been reported to 
+where you found it to be timely, would there  still have be [sic] 
+coverage under the policy? ”  Van Dina  responded, “I do not 
+believe, based on what I reviewed today,  that –- that a claim 
+would have been made at that time.  So I would say that coverage 
+would not be available. ”  Van Dina was asked aga in, 
+“[R]egardless of whether the  claim was reported in May of 2008 
+allegedly when the insured received or was served with the 
+subpoena or in February of 2009  when it came across your desk, 
+your position with respect to  coverage would not change? ”  Van 
+Dina answered, “No.”  Van Dina  confirmed he believed  the 
+subpoenas were not claims  under the policy.  *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+ 
+8 Pflueger finalized a confidential settlement agreement 
+with AIU and National Union between January - March 2013.  The 
+claims against Noguchi remained.  
+On May 15, 2013, Pflueger sought a partial summary 
+judgment ruling that  the IRS investigation and grand jury 
+subpoenas constituted a covered claim under the insurance 
+policies.  On July 10, 2013, the circuit court granted in part 
+and denied in part Pflueger’s motion for partial summary 
+judgment.  The circuit court granted the  motion: 
+to the extent the Court finds that t he Grand Jury 
+Subpoenas, dated May 22, 2008 and directed at Pflueger, 
+Inc. constitute a 'claim' as that term is defined under 
+Insurance Policy No. 052 -68-49 and Insurance Policy No. 01 -
+277-00-32 issued by Nation al Union . . . to Pflueger, Inc., 
+as the named insured.  
+On July 22, 2013 a jury trial commenced . 
+During trial, the circuit court excluded Van Dina's 
+and Ngeo ’s testimonies on hearsay grounds .  Pflueger, Inc. v. 
+Noguchi & Assocs., Inc. , 136 Hawaiʻi 372, 362 P.3d 805, No. CAAP -
+14-0001032, 2015 WL 7723045 at *2 -3 (App. Nov. 23, 2015) (Mem. 
+Op.).  The jury returned a special verdict form indicating that 
+it found Noguchi liable for negligence and negligent 
+misrepresentation.  The jury found that Pfluege r was thirty 
+percent negligent, Noguchi was seventy percent  negligent, and  
+the amount of Pflueger’s damages was $837,079.31.  The circuit 
+court entered an Amended Final Judgment on July 11, 2014.  *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+ 
+9 2. Appellate Proceedings  
+Noguchi appealed, and on January 7, 2016, the ICA 
+entered a Judgment on Appeal  vacating the circuit court’s 
+July 11, 2014 Amended Final J udgment, pursuant to the ICA’s 
+November 23, 2015 Memorandum Opinion, which  held that the 
+circuit court ’s decision to exclude Van Dina’s and Ngeo ’s 
+testimonies  was error  because the ir testimonies  were essential 
+to Noguchi’s defense.   Pflueger, Inc. v. Noguchi & Assocs., 
+Inc., 136 Hawaiʻi 372, 362 P.3d 805, No. CAAP -14-0001032, 2015 WL 
+7723045 at * 5 (App. Nov. 23, 2015) (Mem. Op.) .  This court 
+denied P flueger’s  application for writ of certiorari.   Pflueger 
+Inc. v. Noguchi & Associates, Inc. , No. SCWC -14-0001032, 2016 WL 
+830982 (Haw. Mar. 2, 2016).   
+C. Pflueger II  
+1. Circuit Court Proceedings on Remand  
+On April 11, 2016 , Noguchi moved for summary judgment 
+on causation  grounds, arguing that the testimony of witnesses 
+“fails to put forth any evidence which might support a finding 
+of proximate cause against Noguchi. ”  In opposition , Pflueger 
+noted the circuit court already ruled that the subpoenas were a 
+claim under Pflueger’s insurance policies.  Pflueger  argued the 
+testimony of five witnesses  demonstrat es that Noguchi was a 
+substantial factor in bringing about Pflueger’s harm . *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+ 
+10 The circuit court granted Noguchi’s motion for summary 
+judgment  on September 16, 2016 .  The circuit cour t held that in 
+light of Van Dina ’s and Ngeo’s testimon ies that AIU would have 
+denied the claim regardless of timelines s, the burden shifted to 
+Pflueger to d emonstrate Noguchi’s negligence was a legal cause 
+of Pflueger’s injuries, which Pflueger did not do.  
+Pflueger filed a motion for reconsideration on 
+September 26, 2016 , arguing that the causation issue ha d been 
+repeatedly decided in Pflueger’s favor in prio r rulings, making  
+the “law of the case” doctrine apply in favor of Pflueger.   
+Noguchi argued Pflueger’s law of the case argument was 
+inapplicable , not controlling, and improper as it could have 
+been made previously .  The circuit court denied the motion for  
+reconsideration and issued  a Final Judgment on March 14, 2017.  
+2. ICA Proceedings  
+On March 24, 2017, Pflueger filed a notice of appeal.  
+Pflueger argued (1) the circuit court erred in granting 
+Noguchi’s motion for summary judgment  because questions of 
+material fact existed , and (2) the circuit court abused its 
+discretion in denying Pflueger’s motion for reconsideration.   
+In response, Noguchi maintained the burden shifted to 
+Pflueger to demonstrate a genuine issue of material fact, which 
+Pflueger did not do,  making the grant of summary judgment for 
+Noguchi proper.  Noguchi contended the records before the court *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+ 
+11 were not sufficient to support a finding of causation .  Noguchi 
+also argued that Pflueger’s causation argument should be 
+rejected because Pflueger did  not make the argument before the 
+circuit court .   
+In its reply brief, Pflueger argued, among other 
+things, that the bases of its arguments remain ed the same before 
+the ICA as before the circuit court.  
+On August 31, 2022, the ICA issued a  Summary 
+Disposition Order, with a majority and concurring opinion, 
+determining the circuit court erred in granting Noguchi’s motion 
+for summary judgment.  Pflueger, Inc. v. Noguchi & Assocs., 
+Inc., 151 Hawaiʻi 430, 516 P.3d 984, No. CAAP-17-0000234, 2022 WL 
+3928540 (App. Aug. 31, 2022) (SDO).   The ICA vacated the circuit 
+court’s March 14, 2017 Final Judgment and remanded.  
+The ICA majority accepted Noguchi’s premise that what 
+AIU “would have done” had a timely tender been made was 
+material.  The majority agreed that “this testimony [of Van Dina 
+and Ngeo] undermined the causation element ,” but found that “it 
+was not subject to only one inference and, thus, did not 
+completely dispose of the causation element.”  Therefore, the 
+majority determined Noguchi did not meet its  “burden of 
+establishing that there was no genuine issue as to whether its 
+conduct caused Pflueger's losses ,” making the issue one for the 
+fact finder.  The majority also noted that even if Noguchi had *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+ 
+12 met its burden, Pflueger submitted opposing evidence that raised 
+genuine issues of material fact . 
+In a concurrence, Judge Hiraoka agreed that Noguchi 
+did not satisfy its burden as a summary judgment movant, but di d 
+not agree that what AI U “‘would have done’ had Noguchi timely 
+tendered Pflueger’s subpoena” is  material.  The concurrence 
+explained that had Noguchi timely tendered the subpoena:  
+National Union would have had three options: “(1) advance 
+Pflueger's defense costs to respond to the subpoena; (2) 
+decline to advance defense costs; or (3) advance defense  
+costs under a reservation of rights.   National Union's 
+denial of a tender would not end the story; Pflueger could 
+have filed a declaratory relief action, with or without a 
+claim for bad faith.  If National Union agreed to advance 
+defense costs under a res ervation of rights, National Union 
+could itself have filed a declaratory relief action, with 
+or without a claim for reimbursement of defense costs 
+advanced .  
+ 
+If a court were to rule that National Union was not 
+obligated to advance Pflueger's defense costs , Noguchi's 
+failure to tender the subpoena to National Union could not 
+have been the legal cause of any damage to Pflueger; even 
+if Noguchi had tendered, National Union would not have been 
+obligated to advance defense costs.  On the other hand, if 
+a court were to rule that National Union would have been 
+obligated to advance defense costs, Pflueger would satisfy 
+the legal cause element of its negligence claim against 
+Noguchi.  
+Thus, the concurrence determined  that whether National 
+Union would have actually be en obligated to advance Pflueger’s 
+defense costs if Noguchi timely tendered the subpoena was 
+material, not what National Union would have done in response to 
+a timely tender of the subpoena.  Therefore,  to sustain its 
+burden as the summary judgment movant,  Noguchi had to show that 
+even if Pflueger’s subpoena had been timely tendered, National *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+ 
+13 Union would not have been obligated to advance defense costs.  
+“Only then could Noguchi’s failure to tender the subpoena to 
+National Union not have been a legal cause of damage to 
+Pflueger.”  Consequently , the concurrence concluded that Noguchi 
+did not meet its burden and the circuit court erred by granting 
+summary judgment.    
+D. Application for Writ of Certiorari  
+On November 30, 2022, Noguchi timely filed an 
+application for writ of certiorari , asking this court  to vacate 
+the ICA judgment and reinstate the circuit court’s grant of 
+summary judgment in favor of Noguchi.  Noguchi raises three 
+questions:     
+(1) Whether the ICA grievously erred in holding Noguchi 
+did not meet its initial burden on summary judgment, 
+violating law of the case and ignoring requirements 
+for causation in cases involving insurance agent 
+malpractice.  
+ 
+(2) Whether the ICA grievously erred in finding that a 
+question of fact existed as to what AIU would have 
+done with a timely tender in spite of the fact that 
+nothing contradicted its representatives’ unambiguous 
+testimony that they would have denied it.  
+ 
+(3) Whether the ICA grievously erred in reversing a grant 
+of summary judgment based on arguments and evidence 
+that were not presented to the trial court (or even 
+in Pflueger’s brief on appeal).  
+II. STANDARD OF REVIEW  
+A. Summary Judgment  
+On appeal, the grant or denial of summary judgment is 
+reviewed de novo. Furthermore,  
+ 
+[S]ummary judgment is appropriate if the pleadings,  
+depositions, answers to interrogatories, and admissions on 
+file, together with the affidavits, if any, show that there *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+ 
+14 is no genuine issue as to any material fact and that the 
+moving party is entitled to judgment as a matter of la w.  A 
+fact is material if  proof of that fact would have the 
+effect of establishing or refuting one of the essential 
+elements of a cause of action or defense asserted by the 
+parties.  The evidence must be viewed in the light most 
+favorable to the non -moving party.  In other words, we must 
+view all of the evidence and inferences drawn therefrom in 
+the light most favorable to the party opposing the motion.  
+First Ins. Co. of Haw. v. A & B Props., Inc.,  126 Hawaiʻi 406, 
+413, 271 P.3d 1165, 1172 (2012)  (citations omitted).  
+The burdens o f the moving and non -moving parties on 
+summary judgment  are as follows:  
+The burden is on the party moving for summary judgment 
+(moving party) to show the absence of any genuine issue as 
+to all material facts, which, under applicable principles 
+of substant ive law, entitles the moving party to judgment 
+as a matter of law.   This burden has two components.   
+First, the moving party has the burden of producing support 
+for its claim that: (1) no genuine issue of material fact 
+exists with respect to the  essential elements of the claim 
+or defense which the motion seeks to establish or which the 
+motion questions; and (2) based on the undisputed facts, it 
+is entitled to summary judgment as a matter of law.   Only 
+when the moving party satisfies its initial burden of 
+production does the burden shift to the non -moving party to 
+respond to the motion for summary judgment and demonstrate 
+specific facts, as opposed to general allegations, that 
+present a genuine issue worthy of trial.  Second, the 
+moving party bears the ultima te burden of persuasion.  This 
+burden always remains with the moving party and requires 
+the moving party to convince the court that no genuine 
+issue of material  fact exists and that the moving part is 
+entitled to summary judgment as a matter of law.  
+French v. Hawaiʻi Pizza Hut, Inc. , 105 Hawaiʻi 462, 470, 99  
+P.3d 1046, 1054 (2004) (quoting GECC Fin. Corp. v.  Jaffarian , 79 
+Hawaiʻi 516, 521, 904 P.2d 530, 535 (App.  1995)) (emphasis 
+omitted). *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+ 
+15 III.   DISCUSSION  
+On summary judgment,  Noguchi cannot negate the 
+causation  element by demonstrating that National Union would 
+have denied coverage even if Pflueger’s grand jury subpoena 
+matter were timely tendered.   We believe Judge Hiraoka’s 
+concurrence provides a cogent analysis and a path forward in 
+analyzing this matter.  
+This court has explained:  
+[W]here the non -movant bears the burden of proof at trial, 
+a movant may demonstrate that there is no genuine issue of 
+material fact by either: (1) presenting evidence negating 
+an element of the non -movant's claim, or (2) demonstr ating 
+that the non -movant will be unable to carry his or her 
+burden of proof at trial.  
+Ralston v. Yim , 129 Hawaiʻi 46, 57, 292 P.3d 1276, 1287 (2013).  
+Noguchi attempted to demonstrate that the causation 
+element of Pflueger’s claims was negated by the testimony of Van 
+Dina and Ngeo, which purportedly  shows that no causal connection 
+existed between Noguchi’s negligence and Pflueger’s injury  
+because National Union would have denied coverage regardless of 
+the claim’s timeliness .7, 8 
+                     
+7  Noguchi indirectly or impliedly made this second argument before the 
+circuit court, and made the argument more clearly before the ICA.  
+ 
+8  Noguchi also argued before the circuit court  that Pflueger would not be 
+able to carry its burden of proof at trial due to lack of evidence, 
+specifically that “Pflueger has presented no evidence that Noguchi’s conduct 
+was a contributing factor in AIUH’s  decision to deny coverage to Pflueger.”  
+Noguchi appears to have dropped this argument before the ICA and on 
+certiorari.  As such, this court will not address it.  
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+ 
+16 Noguchi misundersta nds what it must demonstrate to 
+negate the causation element of Pflueger’s claims.   To prove 
+causation, Pflueger must prove a case within a case, namely that 
+National Union would be obligated to advance Pflueger’s defense 
+costs if Pflueger’s grand jury sub poena matter were timely 
+tendered  to National Union.   Pflueger needs to demonstrate that 
+Noguchi was a substantial factor in causing Pflueger’s harm  in 
+order to establish causation .  See Mitchell v. Branch , 45 Haw. 
+128, 132, 363 P.2d 969, 973 (1961); see also Knodle v. Waikiki 
+Gateway Hotel , 69 Haw. 376, 390, 742 P.2d 377, 386 (1987).   
+Noguchi can only be a substantial factor in causing Pflueger’s 
+harm if National Union were obligated to advance Pflueger’s 
+defense costs if the grand jury subpoena matter were timely 
+tendered.  If National Union w as not obligated to advance 
+Pflueger’s defense costs, Pflueger could not have been harmed by 
+Noguchi’s failure to  tender the grand jury subpoena  matter or 
+Noguchi’s role in the untimely tender .  Therefore, Noguchi 
+cannot be a legal cause of Pflueger’s harm if National Union 
+were not legally obligated to advance Pflueger’s defense costs.  
+See Thomas v. Kidani , 126 Hawaiʻi 125, 129, 267 P.3d 1230, 1234 
+(2011) (“The causation element of legal malpractice is often 
+thought of as requiring a plaintiff to litigate a ‘trial within 
+a trial.’  That is, a plaintiff must show ‘both the attorney ’s 
+negligence and also what the outcome of the mishandled *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+ 
+17 litigation would have been if it had been properly tried. ’”) 
+(citation omitted); see also  Gibbons v. Ludlow , 304 P.3d 239 , 
+244-45 (Colo. 2013) (noting the “case within a case” framework 
+for analyzing legal malpractice is apt for analyzing broker 
+malpractice, and applying the standard that “plaintiff must 
+prove causation  by showing that  the claim underlying the 
+malpractice action would have been successful ‘but for’ the 
+attorney ’s negligence” to the broker context).  
+Because Pflueger must demonstrate that National Union 
+would be obligated to advance defense costs if the grand jury 
+subpoena  matter were timely tendered  to establish causation , 
+Noguchi must demonstrate that National Union would not be 
+obligated to advance Pflueger’s defense costs if the grand jury 
+subpoena  matter were timely tendered  in order to negate 
+causation .  See Hawaiʻi Pizza Hut, Inc. , 105 Hawaiʻi at 470-471, 
+99 P.3d at 1054 -55 (rejecting Pizza Hut’s argument that 
+plaintiff did not meet her burden of establishing she was 
+disabled by not being able to lift twenty -five pounds because 
+she did not produce evidence the  average person could lift more 
+than twenty -five pounds and concluding it was Pizza Hut’s burden 
+as the summary judgment movant to produce admissible evidence 
+that the average person in the population cannot lift more than 
+twenty-five pounds).   Only then w ould Noguchi have demonstrated *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+ 
+18 that its role in the untimely tender was not a legal cause of 
+Pflueger’s harm.   
+Instead, Noguch i offered the testimonies of Ngeo and 
+Van Dina, which both suggested that National Union would not 
+have considered the subpoenas t o be a covered claim if timely 
+tendered, in an attempt to negate the causation element of 
+Pflueger’s claim s.  However, this testimony does not  negate 
+causation.   As Judge Hiraoka’s  concurrence noted , if National 
+Union denied  coverage after  the timely tender of Pflueger’s 
+grand jury subpoena matter , Pflueger  could then file a 
+declaratory relief action, with or without a claim for bad 
+faith.  See Hawaiʻi Revised Statutes § 632 -1 (2016) (providing 
+that courts may grant declaratory relief where an actual 
+controversy exists between parties);  Best Place, Inc. v. Penn 
+Am. Ins. Co. , 82 Hawaiʻi 120, 132,  920 P.2d 334, 346 (1996) 
+(holding that “there is a legal duty, implied in a  first- and 
+third-party insurance contract, that the insurer must act in 
+good faith in dealing with its insured, and a breach of that 
+duty of good faith  gives rise to an independent tort cause of 
+action.”); see also  Steven Plitt, et al., Couch on Insurance  § 
+202:4 (3d ed. Nov. 2022) (“[I]f  the insurer refuses to defend an 
+action against the insured based on a claim actually within the 
+coverage of the policy, on the ground that it is outside policy 
+coverage, such a refusal  . . . constitutes an unjustified *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+ 
+19 refusal and renders the insurer liable for breach of its 
+contract.   The failure to provide a defense when the insurer is 
+obligated to do so is sufficient to sustain a cause of action in 
+tort in addition to one for breach of contract.” ).  National 
+Union’s disclaimer of coverage is not determinative of  
+Pflueger’s legal rights or  legally cognizable harm – only a 
+court’s ruling on the matter is.9   
+Therefore, t he circuit court ’s grant of summary 
+judgment in favor of Noguchi  on the grounds that Van Dina ’s and 
+Ngeo’s testimonies negated the causation element was incorrect.  
+The ICA majority’s acceptance of Noguchi’s causation argument 
+was similarly incorrect.  
+In light of our foregoing analysis, Noguchi’s 
+remaining arguments on certiorari do not need to be addressed .  
+IV. CONCLUSION  
+As the summary judgment movant, Noguchi cannot refute 
+the causation element by demonstrating National Union would have 
+denied coverage if Pflueger’s grand jury subpoena matter were 
+                     
+9  Indeed, Noguchi’s argument leads to an absurd result.  The insurer 
+would determine wheth er the insured had a legally cognizable harm sufficient 
+for causation, and would effectively insulate insurance brokers from 
+liability by stating more than one ground for the denial of coverage (which 
+insurers may be incentivized to do).  See generally , Steven Plitt, et al., 
+Couch on Insurance  § 198:52-55 (3d ed. Nov. 2022) (discussing waiver and 
+estoppel of an insurer’s defenses based on the insurer’s disclaimer of 
+coverage ); see also  Van Dina’s testimony stating:  “generally you try and be 
+as thorough as y ou can.  Not to say that you throw in the kitchen sink, but – 
+but you try and – really anything that’s going to be applicable is 
+applicable.”  
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+ 
+20 
+/s/ Paula A. Nakayama 
+/s/ Sabrina S. McKenna 
+/s/ Michael D. Wilson 
+/s/ Todd W. Eddins 
+/s/ Robert D.S. Kim timely tendered  to National Union .  Rather , Noguchi had to 
+demonstrate  that even if Pflueger’s grand jury subpoena  matter 
+were timely tendered, National Union would not have been legally 
+obligated to advance Pflueger’s defense costs.  Because the 
+circuit court and the ICA majority incorrectly analyzed 
+Noguchi’s burden regarding the causation element, we vacate the 
+ICA’s October 5, 2022 Judgment on Appeal, and remand to the 
+circuit court for proceedings consistent with this opinion.  
+ 
+Christopher Shea Goodwin 
+for petitioner 
+Noguchi & Associates, Inc.  
+ 
+Lyle S. Hosoda, 
+Kourtney H. Wong and 
+Spencer J. Lau for  
+respondent Pflueger, Inc.   
+ 

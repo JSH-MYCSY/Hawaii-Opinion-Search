@@ -1,0 +1,1183 @@
+*** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+ 
+ 
+  
+ 
+   
+ 
+   
+IN THE SUPREME COURT OF THE STATE OF HAWAI‘ I 
+ 
+---o0o--- 
+ 
+ 
+STATE OF HAWAI‘ I,  
+Petitioner and Respondent/Plaintiff-Appellant, 
+ 
+vs.  
+ 
+LEAH SKAPINOK,  
+Respondent and Petitioner/Defendant-Appellee.  
+ 
+ 
+SCWC-19-0000476 
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS 
+(CAAP-19-0000476; CASE NO. 1DTA-19-01048) 
+ 
+JUNE 3, 2022 
+ 
+RECKTENWALD, C.J., NAKAYAMA, AND McKENNA, JJ., AND CIRCUIT JUDGE WONG, ASSIGNED BY REASON OF VACANCY, 
+WITH WILSON, J., DISSENTING 
+ 
+OPINION OF THE COURT BY RECKTENWALD, C.J. 
+ 
+I. INTRODUCTION 
+  This case requires us to examine the practice of 
+asking so-called medical rule-out questions in the course of an 
+Operating a Vehicle Under the Influence of an Intoxicant (OVUII) Electronically Filed
+Supreme Court
+SCWC-19-0000476
+03-JUN-2022
+10:22 AM
+Dkt. 19 OP*** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+2 
+ investigation.  An officer administering a standardized field 
+sobriety test (SFST) to an OVUII suspect asks the medical rule-out questions, which “rule out” other reasons, besides 
+intoxication, for poor performance on the SFST.  Leah Skapinok 
+was asked seven medical rule-out questions while in police 
+custody, before she was advised of her Miranda  rights.  If the 
+questions were interrogation, article I, section 10 of the 
+Hawai‘i Constitution requires that her answers to them be 
+suppressed. 1
+  We hold that these questions are interrogation under 
+the Hawai‘ i Constitution.  There is no per se exception under the 
+Hawai‘i
+ Constitution for questions “necessarily ‘attendant to’ 
+[a] legitimate police procedure.”  Pennsylvania v. Muniz, 496 
+U.S. 582, 605 (1990) (citation omitted).  To avoid suppression 
+for want of Miranda warnings, such questions must pass muster 
+under our well-established interrogation test: “whether the officer should have known that his words and actions were 
+reasonably likely to elicit an incriminating response from the 
+defendant.”  State v. Paahana, 66 Haw. 499, 503, 666 P.2d 592, 
+595–96 (1983) (citing Rhode Island v. Innis, 446 U.S. 291, 301 
+(1980)).  The medical rule-out questions asked to Skapinok in this case were “reasonably likely to elicit an incriminating 
+                     
+1  Miranda v. Arizona, 384 U.S. 436 (1966). *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+3 
+ response” because her answers to them aided in interpreting the 
+SFSTs’ results – that is, her answers supported the inference that she was intoxicated because no medical cause could explain 
+any aberrations in her test performance.  Skapinok’s answers to 
+the medical rule-out questions must be suppressed.   
+ 
+ But we cannot say the same for any of the other 
+challenged evidence.  Neither asking whether Skapinok would participate in the SFST nor asking whether she understood the 
+instructions to the test would be reasonably likely to elicit an 
+incriminating response.  And the evidence gathered thereafter, 
+including her performance on the SFST, was not an exploitation of, or benefit derived from, the medical rule-out questions; 
+accordingly, subsequent evidence was not the fruit of the 
+poisonous tree.   
+II.  BACKGROUND 
+ 
+A. Skapinok’s Arrest 
+ 
+  On August 18, 2019, around 11:00 p.m., Honolulu Police 
+Department (HPD) Officer William Meredith observed a white Toyota Tacoma speeding down King Street in Honolulu.
+2  He 
+followed the vehicle onto Ward Avenue, where he observed it “weaving through traffic”; the truck then turned right onto the 
+H-1 freeway onramp, merged onto the freeway, “cross[ed] over a 
+                     
+2  This account of Skapinok’s arrest comes from the District Court 
+of the First Circuit’s findings of fact in the order granting Skapinok’s 
+motion to suppress, which are not contested on appeal. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+4 
+ solid white line,” and “crossed three lanes of the freeway to 
+the left without a turn signal.”  After following the truck on the freeway, which appeared to be speeding, Officer Meredith 
+pulled the vehicle over.  “Based on his observations, Officer 
+Meredith characterized Defendant’s driving as Reckless Driving,” 
+which is a petty misdemeanor under Hawai‘ i Revised Statutes (HRS) 
+§ 291-2 (2007).
+3   
+  When Officer Meredith approached the driver’s side and 
+spoke with Skapinok, he “noticed a strong odor of alcohol coming 
+from Defendant and observed Defendant’s eyes to be red, glassy 
+and bloodshot.”  Officer Meredith asked if she would participate 
+in an SFST; she “became argumentative” at first, but ultimately 
+consented after Officer Meredith informed her that “if she did not participate in an SFST, that he would arrest her.”  
+   
+  
+Officer Meredith waited for another officer, Corporal 
+Ernest Chang, to arrive;4 when Corporal Chang was informed by 
+Officer Meredith, outside of Skapinok’s presence, of the reason for the traffic stop, he agreed that Skapinok could be arrested 
+for reckless driving.  Corporal Chang then “approached 
+Defendant’s vehicle and began conversing with her.  Corporal 
+                     
+3  HRS § 291-2 provides: “Whoever operates any vehicle . . . 
+recklessly in disregard of the safety of persons or property is guilty of 
+reckless driving of [a] vehicle . . . and shall be fined not more than $1,000 
+or imprisoned not more than thirty days, or both.”   
+ 
+4  The record does not indicate how long Skapinok and Officer 
+Meredith waited for Corporal Chang, but testimony indicated that the traffic stop took about thirty minutes in total.   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+5 
+ Chang asked Defendant if she would be willing to participate in 
+an SFST.”  Skapinok asked whether she would be arrested if she did not participate, and “Corporal Chang told Defendant that she 
+could already be arrested for reckless driving.”  Skapinok again 
+consented to the SFST.   
+ 
+ Corporal Chang asked a series of questions known as 
+the medical rule-out questions prior to administering the SFST:  
+i. Do you have any physical defects or speech 
+impediments? 
+ii. Are you taking any medications? 
+iii. Are you under the care of a doctor or dentist for 
+anything? 
+iv. Are you under the care of an eye doctor? 
+iv. Do you have an artificial or glass eye? 
+v. Are you epileptic or diabetic? 
+vi. Are you blind in either eye? 
+ 
+According to Corporal Chang’s testimony, the 
+medical rule-out questions “must be asked to administer the 
+SFST safely” and when answered in the negative, it “tells 
+the officer that the results he sees on the SFST are likely 
+caused by an intoxicant.”  Corporal Chang “never 
+administers an SFST without first asking the [medical rule-out] questions.”   
+Skapinok responded “no” to all questions except 
+that she told Corporal Chang that she was taking the 
+medication Wellbutrin and that she was seeing a doctor for 
+depression.  Corporal Chang knew “that ingesting Wellbutrin 
+in conjunction with alcohol can cause side effects that are 
+similar to that of intoxication.”   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+6 
+ After performing the SFST, Skapinok was arrested 
+for OVUII and reckless driving.  Neither Corporal Chang nor 
+Officer Meredith administered Miranda warnings prior to her 
+arrest.  
+B. District Court Proceedings 
+ 
+  Skapinok was charged in the District Court of the 
+First Circuit (district court)5 with OVUII in violation of HRS 
+§§ 291E-61(a)(1) and/or (a)(3) (2018).6   
+1. Motion to Suppress 
+  Skapinok moved to suppress “[a]ny statements made by Defendant to [HPD] Officers or other governmental personnel” and 
+“[a]ny and all evidence seized or information gained by the 
+[HPD] after Defendant was placed under arrest, [and] was not 
+read [their] Miranda rights.”  The motion argued that Skapinok 
+was both in custody and subjected to interrogation during the traffic stop.  Skapinok contended she was subjected to 
+interrogation when the officer asked if she would like to 
+                     
+5  The Honorable Summer M. M. Kupau-Odo presided.  
+ 
+6  HRS § 291E-61 provides in relevant part: 
+ 
+(a) A person commits the offense of operating a vehicle 
+under the influence of an intoxicant if the person operates or assumes actual physical control of a vehicle: 
+(1) While under the influence of alcohol in an amount sufficient to impair the person’s normal mental 
+faculties or ability to care for the person and guard 
+against casualty; [or] 
+. . . . 
+(3) With .08 or more grams of alcohol per two hundred ten liters of breath[.]
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+7 
+ participate in the SFST; during the communica
+tions that occurred 
+during the test itself (e.g., counting aloud during one 
+component of the SFST); when she was asked the medical rule-out 
+questions; and when asked if she understood the field sobriety 
+test instructions or had any questions about them.   
+  Officer Meredith and Corporal Chang testified at the 
+hearing on the Motion to Suppress.  Officer Meredith first 
+testified that after pulling Skapinok over, he “observed that 
+the defendant had red, glassy, bloodshot eyes and a strong odor 
+of alcoholic beverage as [he] was talking to her.”  Skapinok 
+stipulated to the admission of edited body-camera footage.  In the footage, Officer Meredith explained to Skapinok why she was 
+pulled over – for speeding and swerving – and informed her that 
+he could “smell a lot of alcohol coming from [her].”  Officer 
+Meredith asked Skapinok if she would like to do a field sobriety 
+test, to which she responded, “No. I’m – I just got off work. 
+I’m in my work uniform,” and added, “I swear I haven’t been 
+drinking.”     Officer Meredith then told Skapinok that participating 
+in the test was voluntary, but that if she did not, she would be arrested under suspicion of driving under the influence.  A 
+lengthy exchange followed in which Skapinok repeated several 
+times that she had not had any alcohol.  In its findings of 
+fact, the district court characterized Skapinok as *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+8 
+ “argumentative with Officer Meredith” during this exchange.  
+Officer Meredith replied that he was not asking her if she was drinking, he was only conveying his observations and asking if 
+she would participate in the test
+.   
+  On cross-examination, Officer Meredith testified that he would characterize Skapinok’s driving as reckless and that he 
+had probable cause to arrest her for either OVUII or reckless 
+driving even without the SFST.  Additionally, he testified that 
+“very early on in [the] conversation she was not free to leave 
+the scene” and that he told Skapinok three times that if she 
+declined to do the SFST, she would be arrested.  Thirty minutes passed from the time that he stopped the vehicle to her arrest.  
+  Corporal Chang testified thereafter.
+7  Skapinok 
+stipulated to the admission of Corporal Chang’s body-camera footage, which showed, as relevant here, the following 
+interaction: 
+[CORPORAL] CHANG: (Inaudible.) Hello, ma’am.  So I’m 
+Officer Chang.  I’m just here to offer you the standardized 
+field sobriety test.  Do you want to take the test, ma’am? 
+ 
+THE DEFENDANT: (Inaudible.) 
+ 
+[CORPORAL] CHANG: No, it’s up to you. 
+ 
+THE DEFENDANT: (Inaudible.) 
+ 
+[CORPORAL] CHANG: Okay.  Possibly.  Yeah.  Possibly.  
+I mean just to be honest with you, there’s already enough 
+to arrest you just for the reckless driving alone. 
+ 
+                     
+7  Skapinok stipulated for purposes of the hearing that Chang was 
+qualified to administer and evaluate the SFST.   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+9 
+ THE DEFENDANT: Just because I was speeding? 
+ 
+[CORPORAL] CHANG: Yeah.  ‘Cause you -- well, you 
+committed multiple traffic violations. 
+ 
+THE DEFENDANT: How? 
+ 
+[CORPORAL] CHANG: So anyway I’m not here to -- I’m 
+not here to talk about that in detail because I didn’t stop you.  I’m just letting you know the officer apprised me of 
+why he stopped you, and there’s multiple traffic 
+violations.  All -- I mean it’s not only the speeding.  
+There’s, you know, cutting off cars.  And, like I said, I’m 
+just letting you know it’s reckless driving.  You may be 
+arrested for that as well.  Just letting you know.  So if 
+you want to try the field test, you gotta get out of your car, please. 
+ 
+  Corporal Chang then testified that, consistent with 
+his training, he asked Skapinok the seven medical rule-out 
+questions before administering the SFST.  Corporal Chang 
+testified that he asked the questions because “they are things 
+that may affect [a suspect’s] ability to perform the test,” and 
+it is “necessary to ask these questions to perform the test 
+safely.”  He further testified that based on his training and 
+experience, he was not permitted to administer the SFST without 
+first asking the medical rule-out questions, nor had he ever done so.  In response, Skapinok said “no to everything” except 
+that she was taking medication – Wellbutrin, which she said was 
+for depression – and was under the care of a doctor for 
+depression.  He then gave the instructions for each component of 
+the SFST in turn, asking if Skapinok understood after each set 
+of directions.   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+10 
+  
+ On cross-examination, Corporal Chang confirmed that he 
+implied to Skapinok she would be arrested for reckless driving 
+if she declined the test.  He further testified that he needed 
+consent to do the SFST.  In addition, Corporal Chang testified 
+that the medical rule-out questions help “determine if there’s 
+going to be any type of medical or physical condition that might 
+affect the results of the [SFST.]”  If a person answers all 
+“nos” to the medical rule-out questions, “that tells [Corporal 
+Chang] that a person is medically and physically fit to perform 
+the test,” and “focuses [his] attention away from medical and 
+physical problems and it focuses it more on a cause by an intoxicant.”  If a person indicates that they understand the 
+instructions, but fails to follow them, that might indicate 
+“that they are possibly mentally impaired by an intoxicant.”  If 
+a person responds that they don’t understand the instructions to 
+the SFST, that, too, might “possibly” indicate that person is 
+“mentally confused or impaired by an intoxicant.”   
+  Corporal Chang also testified on cross-examination that he knew Wellbutrin “can have an effect” when it 
+“interact[s] with alcohol . . . lead[ing] to certain symptoms 
+that may look like impairment.”  On redirect, he testified that 
+taking Wellbutrin is not a crime.   
+  Skapinok argued that she was in custody during the 
+traffic stop and that the question of whether she would consent *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+11 
+ to the SFST was interrogation because if she refused, it could 
+be used against her to support consciousness of guilt per State 
+v. Ferm, 94 Hawaiʻ i 17, 7 P.3d 193 (App. 2000).  Likewise, she 
+argued the medical rule-out questions were “reasonably likely to 
+elicit incriminating responses” and in fact did elicit an 
+incriminating response, because Wellbutrin “can interact with alcohol to show symptoms of . . . impair[ment]”; Skapinok argued 
+that alcohol need only be a contributing cause of impairment 
+under the OVUII statute pursuant to State v. Vliet, 91 
+Hawaiʻi 
+288, 983 P.2d 189 (1999).  Asking whether she understood the 
+questions would likewise be reasonably likely to elicit an 
+incriminating response because a negative answer would indicate 
+impairment, and a positive answer would also indicate impairment 
+if she failed to follow the instructions.  Skapinok emphasized 
+that Corporal Chang “is not even permitted to administer the 
+[SFST] without asking” the medical rule-out questions and 
+whether the suspect understands the instructions; she argued that the results of the SFST must therefore be suppressed as 
+fruit of the poisonous tree as well.   
+  The State conceded that there was probable cause to arrest for reckless driving but argued that “no interrogation 
+occurred and so therefore there was no custodial interrogation 
+although the defendant was in custody.”  The State contended 
+that none of the medical rule-out questions “are explicitly *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+12 
+ exculpatory or inculpatory”; even Skapinok’s answer regarding 
+Wellbutrin was not incriminating because “taking Wellbutrin by itself is not a crime.”  The State pointed to Muniz, which it 
+argued held “questions . . . which were just part of the [SFST] were fine” but may become interrogation “when the officers 
+exceeded that scope.”  The State argued that Officer Meredith’s 
+repeated statements in the body-camera footage that he did not 
+ask about her drinking suggested that the officers were “taking 
+special precautions not to interrogate the defendant.  They’re 
+just administering the standardized field sobriety test.”     
+2.  District Court’s FOFs and COLs 
+ 
+  The court ruled in favor of Skapinok, finding that 
+there was custodial interrogation.  The district court’s written 
+findings of fact (FOFs) and conclusions of law (COLs) state in 
+relevant part as follows: 
+FINDINGS OF FACT 
+ 
+. . . . 
+ 
+12. Defendant was the focus of an OVUII investigation.
+ 
+ 
+13. Corporal Chang cannot conduct the SFST unless a 
+person consents to the test. 
+ 
+. . . . 
+ 
+17.
+ Prior to administering the SFST, Corporal Chang asked Defendant the following questions: 
+ 
+i. Do you have any physical defects or speech impediments? 
+ii. Are you taking any medications? 
+iii. Are you under the care of a doctor or dentist 
+for anything? 
+iv. Are you under the care of an eye doctor? 
+v. Do you have an artificial or glass eye? *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+13 
+ vi. Are you epileptic or diabetic? 
+vii. Are you blind in either eye? 
+ 
+. . . . 
+ 
+21.
+ The [medical rule- out] questions are to “rule- out” 
+medical causes that might cause a person to perform 
+poorly on the SFST.  If a person answers “no” to all 
+the [medical rule- out] questions, it tells the 
+officer that the results he sees on the SFST are 
+likely caused by an intoxicant[,] [a]s opposed to 
+medical or physical conditions. 
+ 
+22. The [medical rule- out] questions must be asked to 
+administer the SFST safely. 
+ 23. Based on his training, Corporal Chang never 
+administers an SFST without first asking the [medical 
+rule-out] questions.  Corporal Chang testified that 
+he is not permitted to administer an SFST without first asking the [medical rule- out] questions.[
+8] 
+ 
+. . . . 
+ 27.
+ Defendant was arrested for OVUII and Reckless Driving. 
+ 28. Defendant was never advised of her Miranda rights or 
+her right to remain silent.  At no point in time did 
+either officer tell Defendant anything she said could be used against her. 
+ 
+CONCLUSIONS OF LAW 
+ 
+. . . . 
+ 
+9.
+ The Hawai[ ʻ]i Supreme Court has defined 
+“interrogation” as “express questioning or its 
+functional equivalent.”  The Court has also stated that “to the extent that, under article I, section 
+10, the ultimate question regarding “interrogation” 
+is whether the questioning officer knew or reasonably 
+should have known that [their]
+ question was likely to 
+elicit an incriminating response” and that 
+“interrogation consists of any express question – or, 
+absent an express question, any words or conduct – 
+that the officer knows or reasonably should know is 
+likely to elicit an incriminating response.”  State 
+                     
+8  We note that this sentence is a recitation of the testimony of a 
+witness, which is not a finding of fact.  See Dep’t of Env’ t Servs., City & 
+Cnty. of Honolulu v. Land Use Comm’n , 127 Hawai‘ i 5, 15 n.12 , 275 P.3d 809, 
+819 n.12 (2012) (“We encourage courts and factfinding tribunals to properly 
+state their findings . . . and not merely recite testimony.”). *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+14 
+ v. Kazanas, 138 Haw[aiʻ i] 23, [38, 375 P.3d 1261, 
+1276] (2016). 
+ 
+10. Asking Defendant if she was willing to participate in the SFST constituted custodial interrogation because 
+she was not free to leave, she was the focus of an 
+OVUII investigation and officers had probable cause 
+to arrest her.  Asking a person if they would be 
+willing to participate in a SFST is reasonably likely 
+to elicit an incriminating response.  For example, 
+refusing to participate in the SFST can be used at trial to show consciousness of guilt pursuant to 
+State v. Ferm, 94 Haw[aiʻ i]
+ 17, 7 P.3d 193 (2000). 
+ 
+. . . . 
+ 
+12. The results of the SFST and the responses to the 
+[medical rule
+-out] questions will likely be used 
+against Defendant at trial. 
+ 13. The [medical rule- out] questions in this case 
+constituted custodial interrogation and were reasonably likely to elicit incriminating responses.  In this particular case, the [medical rule- out] 
+questions did elicit incriminating responses.  Defendant stated that she was taking the medication 
+Wellbutrin.  Alcohol ingested in conjunction with 
+medication which causes intoxication is a basis for OVUII . . . as alcohol only has to be a contributing 
+factor in impairment. 
+ 
+. . . . 
+ 
+15. Corporal Chang’s questioning during the SFST as to 
+whether Defendant understood the instructions was 
+reasonabl[
+y] likely to elicit an incriminating 
+response.  If Defendant answered “no,” it would be commentary on her mental faculties and ability to understand the instructions.  If Defendant answered 
+“yes,” and did not perform the test as instructed, her “yes” response could be used against her at trial 
+to show her mental faculties were impaired. 
+ 
+16. Defendant’s consent to the SFST is suppressed and all 
+evidence obtained after the consent i[s] fruit of the 
+poisonous tree. 
+ 
+17. The [medical rule- out] questions are suppressed and 
+all evidence obtained by HPD after the [medical rule-
+out] questions are suppressed as fruit of the 
+poisonous tree. 
+ 18. Defendant’s answer that she understood the 
+instructions during the SFST is suppressed and the 
+SFST is suppressed as fruit of the poisonous tree. 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+15 
+ 19. Defendant’s statements while she was still in the 
+vehicle in response to Officer Meredith’s statement 
+that he was not asking whether she was drinking is 
+suppressed.  
+ 
+C.  Intermediate Court of Appeals (ICA) Proceedings 
+  The State appealed, and the ICA affirmed in part and 
+vacated in part the district court in a memorandum opinion, 
+relying primarily on the ICA’s published opinion in State v. 
+Sagapolutele-Silva, 147 Hawai‘ i 92, 464 P.3d 880 (App. 2020).  
+As set forth in Sagapolutele- Silva, as applied in this 
+case, the defendant’s physical performance on a field 
+sobriety test was not testimonial, and the defendant’ s 
+responses to whether she would participate in the test and whether she understood the instructions were attendant to 
+legitimate police procedures, and should not have been suppressed.  We further hold, however, that the medical 
+rule-out questions posed by the officer were reasonably 
+likely to elicit an incriminating response, and that the District Court did not err in suppressing those statements.  
+Finally, for the reasons stated below, we conclude that a statement made by the defendant in response to being asked 
+whether she would participate in the test and being told 
+that she was not being asked whether she was drinking, was 
+not the result of custodial interrogation and should not 
+have been suppressed. 
+ 
+State v. Skapinok, No. CAAP-19-0000476, 2020 WL 2991783, at *1 
+(App. June 4, 2020) (mem.)  
+  The ICA reasoned that “the touchstone in analyzing 
+whether ‘interrogation’ has taken place is whether the police 
+officer ‘should have known that [their] words and actions were reasonably likely to elicit an incriminating response from the 
+defendant.’”  Id. at *5 (quoting Kazanas, 138 Hawai‘ i at 38, 375 
+P.3d at 1276).  Skapinok was under investigation for OVUII at 
+the time the relevant questions were asked, and Officer *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+16 
+ Meredith’s observations of her driving, her eyes, and the smell 
+of alcohol furnished reasonable suspicion (but not probable cause) for OVUII.  Id.  Because “the right against self-
+incrimination is not necessarily implicated whenever a person suspected of criminal activity is compelled in some way to 
+cooperate in developing evidence which may be used against her, 
+such as when a driver is asked to participate in a SFST,” and in 
+light of Muniz’s holding that questions “necessarily ‘attendant 
+to’ the police procedure” are permissible, the ICA held the district court “erred by suppressing Skapinok’s response to 
+whether she would participate in the SFST, whether she understood the instructions to the SFST, and the officer's 
+observations of her performance on the SFST.”  Id. at *6 (first 
+citing State v. Wyatt, 67 Haw. 293, 302, 687 P.2d 544, 551 
+(1984); then citing Muniz, 496 U.S. at 603-04).  
+  However, the ICA concluded that the medical rule-out 
+questions were “reasonably likely to elicit an incriminating 
+response.”  Id. (quoting Kazanas, 138 Hawai‘ i at 38, 375 P.3d at 
+1276).  “An incriminating response is any response, either 
+inculpatory or exculpatory.”  Id. (citing Innis, 446 U.S. at 301 
+n.5).  But the ICA noted that a physical response – like the “inability to articulate words in a clear manner” – is not a testimonial response requiring Miranda warnings.  Id. (citing 
+Muniz, 496 U.S. at 590-91).  The ICA held: “Based on, inter *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+17 
+ alia, our analysis in Sagapolutele-Silva, we conclude that the 
+medical rule-out questions posed to Skapinok were reasonably 
+likely to elicit an incriminating response and, therefore, 
+constituted interrogation.”  Id.   
+  The ICA finally addressed the district court’s suppression of Skapinok’s statements in response to Officer 
+Meredith’s statements that he wasn’t asking her if she was 
+drinking, concluding that this was error.  Id. at *8.  The ICA 
+reasoned that “informing a defendant of the reason for being stopped or arrested does not constitute custodial interrogation 
+likely to elicit an incriminating response,” and that Officer Meredith’s statements were otherwise “attendant to a permissible 
+OVUII investigation.”  Id.  “We cannot conclude that Officer 
+Meredith informing Skapinok that he was not asking her if she was drinking was reasonably likely to elicit an incriminating 
+response and therefore, it did not constitute interrogation.”  
+Id.   
+D.  Supreme Court Proceedings 
+Both the State and Skapinok sought review in this 
+court.  The State’s application for writ of certiorari presents 
+two questions: (1) “[w]hether the ICA gravely erred in holding 
+that the medical rule-out questions asked as part of the [SFST] 
+are interrogation” and (2) “[w]hether the ICA gravely erred in 
+affirming the suppression of [Skapinok’s] answers to the medical *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+18 
+ rule-out questions.”   
+In Skapinok’s application for writ of certiorari, she 
+first contends that the ICA correctly held that the medical 
+rule-out questions were interrogation, but failed to address the 
+district court’s conclusion of law that “all evidence obtained 
+by HPD after the [medical rule-out] questions are suppressed as 
+fruit of the poisonous tree.”
+  Skapinok next challenges the 
+ICA’s conclusion that the district court’s COL 79 was erroneous, 
+arguing that “[t]he ICA gravely erred in holding that Skapinok 
+was not in ‘custody’ for the ‘separate and distinct[] 
+investigation’ for OVUII.”10  Finally, Skapinok asks us to 
+correct the ICA’s “gravely erroneous holding” that “Skapinok’s 
+                     
+9  The district court’s COL 7 held that the officers had probable 
+cause prior to the administration of the SFST, and that custody had attached: 
+ 
+At the time that Defendant was sitting in her vehicle, 
+prior to the administration of the SFST, she was not free to leave, she was the focus of an OVUII investigation and 
+officers had probable cause to arrest her for OVUII and/or 
+Reckless Driving.  Officer Meredith and Corporal Chang did not need the results of the SFST to arrest Defendant for 
+OVUII and/or Reckless Driving.  Legal custody had attached.  
+10  Skapinok contends the ICA erred because she “was in ‘ custody’ as 
+the district court correctly concluded[.]”  But the ICA affirmed the custody 
+determination, holding only that the district court erred insofar as “red and 
+glassy eyes alone and imperfect driving are insufficient to establish 
+probable cause to arrest a person for OVUII,” a correct statement of Hawai‘ i 
+law.  State v. Skapinok, No. CAAP- 19-0000476, 2020 WL 2991783, at *5 
+(emphasis added) (citing to State v. Kaleohano, 99 Hawai‘ i 3 70, 377– 78, 56 
+P.3d 138, 145– 46 (2002) (“We conclude that red and glassy eyes, a criminal 
+record, and imperfect driving, standing alone, are insufficient to establish probable cause to arrest a person for driving under the influence of 
+drugs.”)) .   
+  Since the ICA affirmed that Skapinok was in custody, an issue we 
+do not address, see infra note 11, and nothing else about this conclusion of 
+law is germane to the question of what evidence should have been suppressed, 
+we do not further address Skapinok’s argument as to this conclusion of law.  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+19 
+ right against self-incrimination was not implicated when she was 
+asked to participate in the SFST,” as well as when she was asked whether she understood the instructions.  
+ 
+III. STANDARD OF REVIEW 
+  “We review the [trial] court’s ruling on a motion to 
+suppress de novo and must look to the entire record on appeal to 
+determine whether the ruling was right or wrong.”  State v. 
+Joseph, 109 Hawai‘ i 482, 493, 128 P.3d 795, 806 (2006) (citation 
+omitted). 
+IV. DISCUSSION 
+A.   The Medical Rule-Out Questions Were Interrogation 
+ 
+Article I, section 10 of the Hawai‘ i Constitution provides 
+that “[n]o person shall . . 
+. be compelled in any criminal 
+case to be a witness against himself.”  State v. Pau‘ u, 72 
+Haw. 505, 509, 824 P.2d 833, 835 (1992) (quoting article 
+[I], section 10).  It is established that “[w]hen a 
+confession or other evidence is obtained in violation of [this right], the prosecution will not be permitted to use 
+it to secure a defendant’ s criminal conviction.”  Id. 
+(citing State v. Russo, 67 Haw. 126, 681 P.2d 553 (1984)). 
+ 
+State v. Eli, 126 Hawai‘ i 510, 519–20, 273 P.3d 1196, 1205–06 
+(2012) (alterations in original). 
+ 
+Constitution, and a defendant’s statements adduced in violation 
+of Miranda cannot be used against them at trial.  Kazanas, 138 
+must be preceded by Miranda warnings.  “A defendant seeking to  Miranda warnings safeguard the right against self-
+incrimination contained in article I, section 10 of the  Hawai‘i
+Hawai‘i at 34, 375 P.3d at 1272.  But not all police questioning *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+20 
+ suppress [their] statement [for want of Miranda warnings] ‘must 
+establish that [their] statement was the result of (1) “interrogation” that occurred while [they were] (2) “in 
+custody.”’”  Id. at 35, 375 P.3d at 1273 (quoting State v. 
+Ketchum, 97 
+Hawai‘i 107, 118, 34 P.3d 1006, 1017 (2001)).  The 
+ICA held, and the State does not now challenge, that Skapinok 
+was in custody at all relevant times.11  Therefore, the State’s 
+application presents only the question of whether the medical rule-out questions were interrogation. 
+1. The ICA misapplied Pennsylvania v. Muniz 
+ 
+     
+definition of interrogation set forth in Innis: “In determining Constitution the This court adopted under the Hawai ‘i
+whether an officer’s questions constitute interrogation, the 
+test is whether the officer should have known that [their] words 
+and actions were reasonably likely to elicit an incriminating 
+response from the defendant.”  State v. Paahana, 66 Haw. at 503, 
+666 P.2d at 595–96 (citing Innis, 446 U.S. at 301); State v. 
+Trinque, 140 Hawaiʻi 269, 277, 400 P.3d 470, 478 (2017) (“There 
+are several important considerations in this court’s definition: 
+‘interrogation’ under Miranda refers to (1) any words, actions, 
+or practice on the part of the police, not only express 
+                     
+11  The State’s application admits that it “conceded at the hearing 
+in this case that Skapinok was in custody.”  This opinion therefore does not 
+address custody and assumes that Skapinok was in custody at all relevant 
+times.   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+21 
+  
+(continued . . .) questioning, (2) other than those normally attendant to arrest 
+and custody, and (3) that the police should know is reasonably likely to invoke an incriminating response.”); Kazanas, 138 
+Hawai
+iʻ at 38, 375 P.3d at 1276 (“We agree and reaffirm that the
+touchstone in analyzing whether ‘interrogation’ has taken place 
+is whether the police officer ‘should have known that [their] words and actions were reasonably likely to elicit an 
+incriminating response from the defendant.’” (citation 
+omitted)).  “‘[I]ncriminating response’ . . . refer[s] to any 
+response – whether inculpatory or exculpatory – that the 
+prosecution may seek to introduce at trial.”  Innis, 446 U.S. at
+301 n.5.  
+ 
+  In Sagapolutele-Silva, upon which the ICA relied in 
+the instant case, the ICA concluded that “the medical rule-out 
+questions posed to [the defendant]” – which were largely 
+identical to those administered to Skapinok  – “were reasonably 
+likely to elicit an incriminating response and, therefore, 
+constituted interrogation.”  147 12
+Hawaiʻi at 102, 464 P.3d at  
+890.  There, the ICA based this conclusion on Muniz: 13
+                     
+12  In addition to the seven questions asked to Skapinok in this 
+case, the officer in Sagapolutele- Silva also asked the defendant if she wore 
+corrective lenses.  147 Hawaiʻi at 102, 464 P.3d at 890.  
+ 
+13  The ICA’s memorandum opinion in the instant case relied on this 
+reasoning and did not opine any further: 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+22 
+ In Muniz, an officer asked a defendant if he knew the date 
+of his sixth birthday to which the defendant responded: 
+“No, I don't.”  [ Muniz, 496 U.S. at 586.]  The Muniz court 
+held the question constituted interrogation because it required a testimonial response.  Id. at 600[.] 
+ 
+. . . . 
+ 
+ Here, although [the officer] stated that the purpose 
+of the medical rule- out questions was to assist him in 
+evaluating [the defendant]’s physical performance on the 
+SFST, which is non- testimonial evidence, his subjective 
+intent is not relevant.  Kazanas, 138 Hawaiʻ i at 40, 375 
+P.3d at 1278 . . . .  The medical rule- out questions 
+required a testimonial response that disclosed facts relating to the offense of OVUII and that was reasonably 
+likely to assist the police in determining whether [the 
+defendant] was under the influence of an intoxicant by 
+either admitting or denying there were other causes that 
+could explain her actions.  A negative response to all of 
+the questions is testimonial, and combined with physical characteristics of impairment, supports an incriminating 
+inference of impairment.  Similarly, a positive response to 
+whether a defendant is taking any medicines, in some 
+instances, may constitute an incriminating statement. 
+ 
+Sagapolutele-Silva, 147 Hawaiʻ i at 102, 464 P.3d at 890. 
+  Respectfully, the ICA incorrectly analyzed Muniz in 
+Sagapolutele-Silva.  Muniz addressed a number of questions asked 
+in connection with a drunk-driving arrest, one of which was the 
+sixth birthday question described above.  But the Supreme Court 
+                     
+(continued . . .) 
+ 
+Based on, inter alia, our analysis in Sagapolutele-
+Silva, we conclude that the medical rule- out questions 
+posed to Skapinok were reasonably likely to elicit an 
+incriminating response and, therefore, constituted 
+interrogation.  See Sagapolutele- Silva, No. CAAP- 19-
+0000491, 2020 WL 1699907, slip op. at 17- 20 (Haw. App. 
+April 8, 2020). 
+Skapinok was in custody.  She had not been given 
+Miranda warnings.  The medical rule- out questions 
+constituted interrogation.  Thus, we conclude that her 
+responses to those questions should have been suppressed 
+and the District Court did not err in so concluding in COLs 13 and 17. 
+ 
+Skapinok, mem. op. at *6-7 .   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+23 
+ held as it did because it determined the response to that 
+question was testimonial – in other words, the “communication 
+. . . itself, explicitly or implicitly, relate[d] a factual 
+assertion or disclose[d] information.”  Muniz, 496 U.S. at 594 
+(quoting Doe v. United States, 487 U.S. 201, 210 (1988)).  
+Pennsylvania had argued that the question did not require a 
+testimonial response because “the inference [from the answer] 
+concerns ‘the physiological functioning of Muniz’s brain,’” not 
+any particular fact related to the crime.  Id. at 593 (brackets 
+omitted).  The Court disagreed because the content of the answer 
+would have supported the conclusion he was impaired – “the incriminating inference of impaired mental faculties stemmed, 
+not just from the fact that Muniz slurred his response, but also 
+from a testimonial aspect of that response.”  Id. at 599.  In 
+this way, the sixth birthday question differed from non-testimonial observations that can be compelled, such as a voice 
+sample or blood alcohol content.  Id. at 593.  
+  In this case and in Sagapolutele-Silva, there is no 
+dispute that the responses to the medical rule-out questions are testimonial.  The contents of the answer, as opposed to the 
+manner in which the answer is given, communicate the information 
+that may or may not be used to support the incriminating 
+inference of impairment.  Indeed, Muniz took as given that the 
+question was incriminating.  496 U.S. at 592.  The “birthday *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+24 
+ question” analysis in Muniz therefore provides little assistance 
+to answering the determinative question: whether the medical 
+rule-out questions would be “reasonably likely to elicit an 
+incriminating response.”  Id. at 601. 
+2. Under article I, section 10 of the Hawai‘ i 
+Constitution, evaluating whether questions are 
+“attendant to” a police procedure still requires an 
+inquiry into whether the officer knew or should have 
+known the questions were reasonably likely to elicit an incriminating response 
+ 
+  The Muniz court did, however, consider whether certain 
+questions asked in advance of an SFST when defendant Muniz was 
+in custody were interrogation.  The Court held that the “limited 
+and carefully worded inquiries as to whether Muniz understood 
+th[e] instructions” to each component of the SFST were not interrogation.  Muniz, 496 U.S. at 603.  Rather, “these focused 
+inquiries were necessarily ‘attendant to’ the police procedure,” and therefore Muniz’s answers “were not elicited in response to 
+custodial interrogation.”  Id. at 603–04.  The Court cited to 
+South Dakota v. Neville, 459 U.S. 553 (1983), which “h[eld] that 
+police inquiry [into] whether [the] suspect would submit to 
+blood-alcohol test was not ‘interrogation within the meaning of 
+Miranda.’”  Muniz, 496 U.S. at 604 (quoting Neville, 459 U.S. at 
+564 n.15).  Neville explained:  
+[P]olice words or actions “normally attendant to arrest and 
+custody” do not constitute interrogation.  The police inquiry here is highly regulated by state law, and is 
+presented in virtually the same words to all suspects.  It 
+is similar to a police request to submit to fingerprinting *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+25 
+ or photography.  Respondent’s choice of refusal thus enjoys 
+no prophylactic Miranda protection outside the basic Fifth 
+Amendment protection.   
+ 
+459 U.S. at 564 n.15 (quoting Innis, 446 U.S. at 301). 
+  In Gibson v. Commonwealth, 706 S.E.2d 541 (Va. Ct. 
+App. 2011) – a decision that the ICA in Sagapolutele-Silva 
+explicitly rejected, 147 Hawaiʻi at 101, 464 P.3d at 889, but 
+that the State now urges us to adopt – the Court of Appeals of 
+Virginia relied on Muniz when it held that asking “whether [an 
+OVUII suspect] had any physical problems” prior to administering the SFST was not interrogation.  706 S.E.2d at 545.  The 
+Virginia court opined that Muniz “recognized two exceptions to 
+this definition of interrogation”: (1) the “‘routine booking question’ exception which exempts from Miranda’s coverage 
+questions to secure the ‘biographical data necessary to complete booking or pretrial services,’” and (2) the exception for 
+“inquiries ‘necessarily “attendant to” [a legitimate] police procedure.’”  Id. (brackets in original) (quoting Muniz, 496 
+U.S. at 601, 603-04).  Applied to the question at issue, “[t]he ‘physical problems’ question is sufficiently analogous to asking 
+whether [the suspect] understood [the officer’s] instructions as 
+to how each test is to be performed.  Both questions are clearly 
+meant to assure the validity of the test and not to elicit an 
+incriminatory response.”  Id.   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+26 
+   In turn, Gibson relied on the analysis of the Supreme 
+Court of Vermont, which had also “recognized that inquiries 
+intended to assure the validity of a legitimate police procedure 
+fall under the ‘necessarily attendant to a legitimate police 
+procedure’ exception.”  Id.  In State v. Blouin, 716 A.2d 826 
+(Vt. 1998), the Supreme Court of Vermont held that asking an OVUII suspect prior to administering a breath test whether he 
+“burped, belched or vomited within the last fifteen minutes” – 
+the purpose of which “is to ensure that trace amounts of alcohol 
+are not in the mouth which could render an inaccurate test 
+result,” id. at 827 – did not require Miranda warnings.  Id. at 
+830.  The Blouin court determined that the “burp question” was 
+not likely to elicit an incriminating response because:  
+The burp question is designed to help assure the accuracy 
+of the test – an objective as significant to the suspect as 
+to the State.  In and of itself, there is nothing incriminating about defendant’s response: if defendant had answered yes to the question, the officer would have merely 
+waited another fifteen minutes to obtain accurate test 
+results.  In short, the burp question is not interrogation.  
+ 
+Id.  
+  We decline to adopt an exception to the interrogation 
+test that obviates the need to inquire into whether the question would elicit an incriminating response when the question is 
+attendant to the SFST or otherwise “necessarily ‘attendant to’ 
+the legitimate police procedure.”  Muniz, 496 U.S. at 605 
+(citing Neville, 459 U.S. at 564 n.15).  While we have *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+27 
+ explicitly recognized the “attendant to arrest and custody” 
+carve-out to the definition of “interrogation,” Trinque, 140 
+Hawaiʻi at 277, 400 P.3d at 478, Hawaiʻ i  law points against 
+eliminating the “incriminating response” inquiry even when the 
+police ask questions “attendant to” a routine, legitimate 
+procedure.  
+  Application of the “routine booking question 
+exception” is instructive: Muniz recognized that “questions to 
+secure the biographical data necessary to complete booking or pretrial services” that are “requested for record-keeping 
+purposes only” and “reasonably related to the police’s 
+administrative concerns” do not require Miranda warnings despite 
+being direct questioning of an in-custody suspect.  496 U.S. at 
+601-02 (quotation marks omitted).  Nonetheless, “the police may 
+not ask questions, even during booking, that are designed to 
+elicit incriminatory admissions.”  Id. at 602 n.14.  The same is 
+true under the Hawai‘ i Constitution:  
+[I]f the “ booking” officer knows or reasonably should know 
+that a “ routine booking question” is likely to elicit an 
+incriminating response, [they] must administer the 
+requisite warnings and obtain a valid waiver of the 
+arrestee’s relevant constitutional rights before posing the 
+question if the prosecution, in a subsequent criminal 
+prosecution of the arrestee, is to be permitted to adduce 
+evidence of the arrestee’ s response without running afoul 
+of article I, section 10 of the Hawai‘ i Constitution.   
+ 
+Ketchum, 97 Hawai‘ i at 128, 34 P.3d at 1027. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+28 
+   Ketchum rejected the existence of a so-called “booking 
+exception” under Hawaiʻi law, but our analysis in that case 
+comports with that of many other courts, which permit booking 
+questions without Miranda warnings, but not if the officer knew 
+or should have known that the question would be reasonably likely to elicit incriminating information.  Compare id. at 119, 
+120–21, 34 P.3d at 1018, 1019–20 (“[T]he ‘exception’ is, when 
+scrutinized, no real exception at all. . . .  In other words, 
+the ‘routine booking question exception’ does no more than 
+recognize that not every ‘express question’ constitutes 
+‘interrogation.’”) with United States v. Zapien, 861 F.3d 971, 
+975 (9th Cir. 2017) (“Once the import of the booking exception is properly understood as part and parcel of the question whether there has been ‘interrogation,’ it becomes clear that 
+the determinative issue is whether the officer ‘should have 
+known that his questions were reasonably likely to elicit an 
+incriminating response.’” (citation omitted)); see also United 
+States v. Williams, 842 F.3d 1143, 1147 (9th Cir. 2016) (“The 
+booking questions exception, however, is subject to an important 
+qualification: ‘When a police officer has reason to know that a 
+suspect’s answer may incriminate him, however, even routine 
+questioning may amount to interrogation.’” (quoting United 
+States v. Henley, 984 F.2d 1040, 1042 (9th Cir. 1993)).  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+29 
+   In Ketchum, we held that asking the suspect his 
+address – to be sure, information that is usually not 
+incriminating – constituted interrogation when asked after a 
+drug raid of a residence; the officer knew or should have known 
+that the information was relevant to establishing constructive 
+possession of the contraband recovered from the home.  97 Hawai‘ i 
+at 126-27, 34 P.3d at 1025-26.  Thus, even usually mundane 
+biographical information can constitute interrogation if the 
+officer should know that the question is reasonably likely to 
+elicit an incriminating response.  Other jurisdictions have 
+similarly held that, for example, asking where a suspect was 
+born may require Miranda warnings when asked by a federal 
+immigration agent and where the suspect faces charges related to 
+illegal entry.  United States v. Gonzalez-Sandoval, 894 F.2d 
+1043, 1046-47 (9th Cir. 1990).  Likewise, asking a suspect during booking whether they are a gang member may be reasonably 
+likely to elicit an incriminating response depending on the 
+circumstances and thus require Miranda warnings, despite the 
+question’s legitimate relationship to “police’s administrative concerns” of prison security and inmate placement.  People v. 
+Elizalde, 351 P.3d 1010, 1017 (Cal. 2015); Williams, 842 F.3d at 
+1148-49.   
+  The so-called booking exception is analogous to the 
+“‘attendant to’ the legitimate police procedure” carve-out that *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+30 
+ the State urges us to adopt.  Muniz, 496 U.S. at 605.  While the 
+booking exception independently developed in the federal courts 
+before Innis and Muniz, it provides a useful touchpoint to 
+understanding the validity of a purported “attendant to a legitimate police procedure” exception because they both relate 
+to the definitional exclusion from interrogation for express 
+questioning “normally attendant to arrest and custody.”  
+Trinque, 140 Hawai‘ i at 277, 400 P.3d at 478; United States v. 
+Gotchis, 803 F.2d 74, 79 (2d Cir. 1986) (“Routine questions 
+about a suspect’s identity and marital status, ordinarily 
+innocent of any investigative purpose, do not pose the dangers 
+Miranda was designed to check; they are rather the sort of 
+questions ‘normally attendant to arrest and custody[.]’” 
+(quoting Innis, 446 U.S. at 301)).  The pragmatic basis for 
+booking questions and procedural questions is the same: both are “highly regulated . . . and . . . presented in virtually the 
+same words to all suspects,” Neville, 459 U.S. at 564 n.15, 
+posing less risk that the questioning would “subjugate the individual to the will of [their] examiner and thereby undermine 
+the privilege against compulsory self-incrimination.”  Paahana, 
+66 Haw. at 502, 666 P.2d at 595 (quotation marks omitted) (quoting Innis, 446 U.S. at 299).  But that is not to say there 
+is no risk, and we see no reason to treat questions “attendant 
+to” police procedures differently than “booking questions” under *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+31 
+ the 
+Hawai‘i Constitution – the inquiry in both circumstances is 
+whether the question is reasonably likely to elicit an 
+incriminating response.     
+  
+We therefore hold that under the self-incrimination 
+clause of the Hawai‘ i Constitution, police questioning that is 
+“‘attendant to’ [a] legitimate police procedure,” Muniz, 496 
+U.S. at 605, is interrogation if the officer “knows or reasonably should know that [the question] is likely to elicit 
+an incriminating response,” Ketchum, 97 Hawai‘ i at 128, 34 P.3d 
+at 1027.  In other words, being attendant to a police procedure, 
+standing alone, does not obviate the need to examine whether the 
+officer knew or should have known that the questions were reasonably likely to elicit an incriminating response.  If such 
+questions are reasonably likely to elicit an incriminating 
+response, they must be preceded by Miranda warnings in order to 
+be admissible. 
+3. The medical rule-out questions were reasonably likely 
+to elicit an incriminating response 
+ 
+  We must then apply this principle to the seven medical 
+rule-out questions asked to Skapinok in this case:  
+i. Do you have any physical defects or speech 
+impediments? 
+ii.  Are you taking any medications? 
+ii. Are you under the care of a doctor or dentist for anything? 
+iv. Are you under the care of an eye doctor? 
+v. Do you have an artificial or glass eye? 
+vi. Are you epileptic or diabetic? 
+vii. Are you blind in either eye? *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+32 
+  
+  Corporal Chang knew or should have known that “are you 
+taking any medications” is reasonably likely to elicit an 
+incriminating response.  A person may be guilty of OVUII if they 
+“operate[] or assume[] actual physical control of a vehicle 
+. . . [w]hile under the influence of any drug that impairs the 
+person’s ability to operate the vehicle in a careful and prudent 
+manner.”  HRS § 291E-61(a)(2).  “Drug” is defined as “any controlled substance, as defined and enumerated in schedules I 
+through IV of chapter 329, or its metabolites.”  HRS § 291E-1 
+(2007).  In turn, Chapter 329, the Uniform Controlled Substances 
+Act, classifies numerous legal prescription medications as 
+controlled substances in schedules I through IV, including, for 
+example: Marijuana (HRS § 329-14(d)(20) (2010)), Xanax (HRS 
+§ 329-20(b)(1) (2010)) (identified by its generic name Alprazolam), and Ambien (HRS § 329-20(b)(54) (2015)) (identified 
+by its generic name Zolpidem).  Someone who is lawfully 
+prescribed and taking a medication that is a controlled 
+substance confronts the “cruel trilemma of self-accusation, 
+perjury or contempt,” Muniz, 496 U.S. at 596 (quoting Doe, 487 
+U.S. at 212), when faced with this question: lie, incriminate themselves with the truth, or say nothing and face arrest.   
+  Even answering the question with a medication that isnot a controlled substance may be incriminating, as Skapinok’s  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+33 
+ answer demonstrates.  Corporal Chang testified that he knew 
+Wellbutrin can interact with alcohol to create side effects that look like impairment.  Even if Skapinok did not consume enough 
+alcohol to exceed the breath or blood alcohol content 
+thresholds, she may still be guilty of OVUII if she “operate[d] 
+or assume[d] actual physical control of a vehicle . . . [w]hile 
+under the influence of alcohol in an amount sufficient to impair 
+the person’s normal mental faculties or ability to care for the 
+person and guard against casualty.”  HRS § 291E-61(a)(1).  As 
+Skapinok has pointed out, “[n]othing in the statute requires 
+that alcohol be the sole or exclusive cause of a defendant’s impairment.  Rather, what is required is proof beyond a 
+reasonable doubt that liquor contributed to the diminishment of 
+the defendant’s capacity to drive safely.”  Vliet, 91 Hawaiʻ i at 
+293, 983 P.2d at 194; see also id. at 294, 983 P.2d at 195 
+(citing favorably to, inter alia, State v. Daniels, 379 N.W.2d 
+97, 99 (Minn. Ct. App. 1986), in which a defendant was convicted 
+for consuming alcohol and an anti-depressant).  Skapinok, too, 
+faced the “cruel trilemma”: admit to the incriminating fact that 
+she was taking Wellbutrin, lie, or face certain arrest by 
+remaining silent.  Thus, given that many answers to “[a]re you 
+taking any medications” would incriminate an OVUII suspect, the officers knew or should have known that asking a person under 
+investigation for OVUII if they are taking any medication is *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+34 
+ reasonably likely to elicit an incriminating response.  Even 
+though the question relates to the administration of the SFST, if the suspect is in custody, this question must be preceded by 
+Miranda warnings for the answer to be admissible.  
+  The remaining medical rule-out questions at issue here do not present the same direct link to the crime being 
+investigated.  “Do you have any physical defects or speech 
+impediments?”; “[a]re you under the care of a doctor or dentist 
+for anything?”; “[a]re you under the care of an eye doctor?”; 
+“[d]o you have an artificial or glass eye?”; “[a]re you 
+epileptic or diabetic?”; and “[a]re you blind in either eye?”; elicit information that, standing alone, neither inculpates nor 
+exculpates the defendant of OVUII.
+14  But Skapinok argues these 
+questions, as a battery, are incriminating because they serve to rule out other possibilities for poor performance on the SFST.  
+In other words, the incriminating inference to be drawn from all 
+“no” responses is that only drugs or alcohol could have caused 
+the defendant to exhibit signs of intoxication on the test.  The lone dissenter in Blouin agreed with this argument as to the 
+                     
+14  Both Gibson and Blouin reasoned that “assuring the accuracy of 
+the [test] is just as significant to [the defendant] as it is to the 
+[government].”  Gibson, 706 S.E.2d at 546; Blouin, 716 A.2d at 830.  Whether 
+or not the question is “significant” to the defendant is of no matter.  Indeed, an incriminating response is “any response – whether inculpatory or 
+exculpatory – that the prosecution may seek to introduce at trial.”  Innis, 
+446 U.S. at 301 n.5 (1980) (first emphasis added); Miranda v. Arizona, 384 
+U.S. at 477 (“[N]o distinction may be drawn between inculpatory statements 
+and statements alleged to be merely ‘exculpatory.’”). *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+35 
+ “burp” question: “the interrogatory is designed to bolster the 
+quality of evidence against the suspect and, thus, calls for an incriminating response.”  716 A.2d at 831 (Skoglund, J., 
+dissenting).  Likewise, in State v. Forsyth, 859 A.2d 163 (Me. 
+2004), the Supreme Judicial Court of Maine rejected the State’s argument that asking whether the defendant “had any physical 
+impairments” in advance of a component of the SFST was “a mere 
+preliminary question for the officer to determine whether or not 
+a test would be fair” akin to “general health and other similar 
+booking questions”: “[w]e do not agree that such a question does 
+not seek to elicit incriminating statements.  The question asks a suspect to provide information to assist the officer in ruling 
+out anything other than intoxication as an explanation for 
+[their] performance on a field sobriety test.”  Id. at 165. 
+  We conclude that all of the medical rule-out questions are interrogation.  Although the “incriminating inference” may 
+be indirect, the questions nevertheless adduce evidence to 
+establish that intoxication caused any poor performance on the 
+SFST.  Sagapolutele-Silva, 147 Hawaiʻ i
+ at 102, 464 P.3d at 890.  
+Indeed, Corporal Chang testified that the medical rule-out 
+questions “focuse[d] [his] attention away from medical and 
+physical problems and . . . more on a cause by an intoxicant[.]”  And the State, in its application, admitted that the questions 
+do not just “ensure the accuracy” of the SFST, but “assist the *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+36 
+ trier-of-fact in evaluating the OVUII suspect’s physical 
+performance on the SFST.”  That they are used to assist the trier-of-fact shows that the medical rule-out questions elicit a 
+“response — whether inculpatory or exculpatory — that the 
+prosecution may seek to introduce at trial.”  Ketchum, 97 Hawai‘ i 
+at 130, 34 P.3d at 1029 (quoting Innis, 446 U.S. at 301 n.5).  
+  Here, the questions do not merely ensure that the SFST 
+can be safely performed, they affect the officer’s 
+interpretation of the test’s output – in other words, the 
+questions gather evidence against the defendant rather than 
+simply determining whether evidence can viably be gathered.  The 
+questions’ breadth demonstrates that their scope exceeds what is 
+needed to assess whether the test can in fact be administered and crosses into investigatory: it is difficult to understand 
+how being under the care of a dentist or having a speech 
+impediment, for instance, would affect whether not the defendant 
+could safely perform the test.  Compared to Muniz, these are not 
+the “limited and carefully worded inquiries” that case sanctioned, nor do they reflect that the officers “carefully 
+limit[] [their] role to providing [the suspect] with relevant 
+information.”  496 U.S. at 603, 605.  Rather, the sweep of the 
+seven medical rule-out questions asked to Skapinok ensured not only that the officer could administer the test, but that all 
+other possible explanations were systemically ruled-out as *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+37 
+ causes of the test’s results.  They were interrogation under 
+article I, section 10 of the Hawai‘ i Constitution.  Because 
+Skapinok was in custody at the time the officer asked them, 
+Miranda warnings were required, and her answers to them must be 
+suppressed. 
+B. Neither Asking if Skapinok Would Participate in the SFST 
+nor Asking if She Understood the Instructions Constituted 
+Interrogation 
+   Although not squarely raised as a point of error,
+15 the 
+ICA did not err by holding that neither asking Skapinok if she 
+would participate in an SFST nor asking if she understood the 
+instructions were interrogation.  We recently considered the 
+same questions in State v. Uchima, 147 Hawai‘ i 64, 464 P.3d 852 
+(2020): 
+Here, [the officer administering the SFST] asked [the 
+defendant] whether he would participate in an [S]FST, 
+whether he understood the instructions of the individual 
+tests, and whether he had any questions.  These preliminary 
+questions were not reasonably likely to lead to 
+incriminating responses because neither an affirmative or 
+negative response to these questions is incriminating.  
+Rather, the questions allow the officer to determine whether [the defendant] was willing to undergo the [S]FST 
+and whether he understood the officer’ s instructions prior 
+to performing the three tests comprising the [S]FST.  Thus, 
+these questions were not of such nature that [the officer] 
+should have known that they were likely to elicit an 
+incriminating response. 
+ 
+Id. at 84, 464 P.3d at 872. 
+                     
+15  The only point of error in Skapinok’s application relates to 
+fruit of the poisonous tree, but the application nonetheless discusses the 
+ICA’s treatment of these other questions.  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+38 
+   We reach the same conclusion here.  Asking whether 
+Skapinok would participate in and understood the tests constituted “limited and focused inquiries” that were not 
+reasonably likely to elicit an incriminating response.  Muniz, 
+496 U.S. at 605.  The ICA did not err by concluding that these questions are not interrogation. 
+C.  The Evidence Gathered After the Miranda Violation Was Not 
+“Fruit of the Poisonous Tree” 
+ 
+  We must next consider whether the evidence obtained after the illegality – including questions asked subsequent to 
+the medical rule-out questions as part of the SFST and 
+Skapinok’s performance on the SFST (to which we will refer 
+collectively as “the SFST”) – was tainted by the Miranda 
+violation as fruit of the poisonous tree.16  “[T]he ‘fruit of the 
+poisonous tree’ doctrine ‘prohibits the use of evidence at trial which comes to light as a result of the exploitation of a 
+previous illegal act of the police.’”  Trinque, 140 Hawaiʻ i
+ at 
+281, 400 P.3d at 482 (quoting State v. Fukusaku, 85 Hawai‘ i 462, 
+                     
+16  The record suggests that Skapinok was asked whether she 
+understood the instructions to the SFST after being asked the medical rule-
+out questions.  As explained above, this question is not itself 
+interrogation.  The fruit of the poisonous tree doctrine would furnish an 
+independent ground to suppress this question, but as we explain in this 
+section, this argument is also unavailing. 
+ We also note that Skapinok squarely raised the fruits doctrine in 
+her answering brief to the ICA, but the ICA’s memorandum opinion did not 
+address it.  We ultimately agree with the result the ICA reached.  But because fruit of the poisonous tree, if applicable, would require suppression of evidence acquired after the Miranda violation irrespective of whether that 
+evidence was the product of interrogation, the ICA erred by failing to evaluate whether the fruits doctrine applied. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+39 
+ 475, 946 P.2d 32, 45 (1997)).  We hold that the SFST was not an 
+exploitation of the illegality in this case. 
+  We addressed the fruits doctrine under virtually 
+identical circumstances in State v. Manion, SCWC-19-0000563 
+(Haw. 2022).  In that case, during an OVUII investigation, the defendant was asked the medical rule-out questions while in 
+custody, in violation of Miranda; Manion argued that his 
+performance on the SFST must therefore be suppressed as fruit of the poisonous tree.  Id. at *10.  But we explained, “Although 
+they immediately preceded the SFST in time, the medical rule-out questions did not give the officers information that ‘le[d] [them] to search for’ evidence of intoxication, nor did the 
+medical rule-out questions pique their suspicions such that 
+their investigation was ‘direct[ed]’ towards discovering 
+evidence of intoxication.”  Id. at *12 (brackets in original) 
+(quoting State v. Lee, 149 Hawai‘ i 45, 50, 481 P.3d 52, 57 
+(2020)).   
+  The same is true here.  The officers had already set out to administer the SFST before asking the medical rule-out 
+questions – indeed, they had already asked for, and received, 
+Skapinok’s consent for the tests.  “The officers did not exploit 
+the illegality by continuing to gather evidence that they had already set out to gather.”  Id.  And “that the illegally-
+obtained evidence is relevant to interpreting subsequently-*** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***  
+ 
+obtained evidence does not mean that discovery of the latter 
+‘exploit[s]’ the former.”   Id. at *14 (quoting State v. 
+Poaipuni, 98 Hawai‘ i 387, 392, 49 P.3d 353, 358 (2002)).  
+Accordingly, the SFST was not the fruit of the poisonous tree in 
+this case.  17
+40 
+ V. CONCLUSION 
+  For the foregoing reasons, although we disagree in part with its reasoning, the ICA was correct to conclude that 
+Skapinok’s answers to the medical rule-out questions must be 
+suppressed but that the other challenged evidence is admissible.  
+The ICA’s June 30, 2020 judgment on appeal is accordingly 
+affirmed.   Brian R. Vincent   
+for Petitioner and Respondent
+State of Hawai‘ i    
+ /s/ Mark E. Recktenwald 
+   /s/ Paula A. Nakayama 
+  
+   /s/ Sabrina S. McKenna 
+     
+  /s/ Paul B.K. Wong 
+  
+ 
+  
+   
+    
+Alen M. Kaneshiro   for Respondent and Petitioner 
+Leah Skapinok    
+         
+ 
+ 
+                     
+17  For this reason, respectfully, the dissent incorrectly frames the 
+inquiry when it considers only whether the questions “[had] an effect on” the 
+administration of the SFST or “allow[ed] officers to interpret” its results.  
+Dissent at 14, 16.  That the medical rule- out questions are incriminating 
+because they assist in the interpretation of the test’s results is distinct 
+from whether the questions lead the officers’ investigation towards the 
+tests. 

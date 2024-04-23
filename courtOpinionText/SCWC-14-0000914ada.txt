@@ -1,0 +1,1819 @@
+***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ‘I 
+ 
+---oOo--- 
+________________________________________________________________  
+ 
+MUKADIN GORDON,  
+Petitioner/Plaintiff- Appellant,  
+ 
+vs. 
+ 
+JODIE F. MAESAKA- HIRATA; PETRA CHO; and STATE OF HAWAI ‘I, 
+Respondents/Defendants- Appellees.  
+_____________________________________________________________  
+ 
+SCWC-14-0000914  
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS 
+(CAAP-14-0000914; CIV. NO. 11-1 -2482) 
+ 
+NOVEMBER 2, 2018  
+ 
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, AND POLLACK, JJ.,  
+WITH WILSON, J. , DISSENTING 
+ 
+OPINION OF THE COURT BY McKENNA, J.  
+ 
+I. Introduction 
+ Pretrial detainees — individuals who have been arrested and 
+charged, but remain in jail while awaiting trial — have a due 
+process right to be free from punishment until convicted of a 
+crime.  Bell v. Wolfish , 441 U.S. 520, 535 (1979).  Mukadin 
+Gordon (“Gordon”)  filed suit because he was held in solitary Electronically Filed
+Supreme Court
+SCWC-14-0000914
+02-NOV-2018
+09:19 AM***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+2 
+ confinement by State of Hawai ʻi (“
+State”) prison officials for  
+more than nine months following his arrest in August 2010.  
+Gordon requested monetary damages pursuant to Title 42, Section 
+1983 of the United States Code (“U.S.C.”) and state tort law.  
+Following a jury-waived trial, the Circuit Court of the First 
+Circuit (“circuit court”)1 entered judgment in favor of the 
+defendants on all claims .  The Intermediate Court of Appeals 
+(“ICA”) affirmed. 
+ 
+We hold that Gor don’s placement in solitary confinement for 
+more than nine months constituted unlawful pretrial punishment 
+in violation of the due process clauses of the Fourteenth 
+Amendment to the United States Constitution and Article I, 
+Section 5 of the Constitution of the State of Hawai ʻi.  We also 
+hold, however, that although the circuit court applied an 
+incorrect standard for federal qualified immunity, defendant 
+Petra Cho (“Cho”) is not liable for damages under 42 U.S.C. § 
+1983 for the federal constitutional violation because the basis 
+of her decision to retain  Gordon in pretrial solitary 
+confinement did not violate a clearly established constitutional 
+right of which every reasonable official would have known.  We 
+also hold the circuit court did not err by concluding Cho has no 
+negligence liability 
+based on state qualified immunity 
+                     
+1  The Honorable Edwin C. Nacino presided.  ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+3 
+ principles.  In addition, as the State has not waived sovereign 
+immunity for damages claims based on  state constitutional 
+violations, the State is not liable for damages  for the state 
+constitutional violation.  
+  We therefore overrule the ICA’s memorandum opinion insofar 
+as it conflicts with our conclusions  herein, but affirm the 
+ICA’s judgment on appeal in favor of the defendants. 
+II. Background 
+A. Circuit Court Pretrial Proceedings 
+ Gordon filed a civil complaint arising from his pretrial 
+detention at the Oahu Community Correctional Center (“OCCC”) and 
+the Halawa Correctional Facility (“HCF”).  He alleged he was 
+incorrectly classified as a maximum security pretrial detainee 
+and placed in solitary confinement for a total of nine months 
+and twenty-two days between 2010 and 2011.2   
+ 
+In this opinion, we address only the claims asserted by 
+Gordon in his amended complaint against Cho and the State 
+(collectively, “the Defendants”) that he continues to assert on 
+appeal.3  Through h is first cause of action, Gordon  alleges a 42 
+                     
+2  Gordon’s Application  for Writ of Certiorari  asserts he spent  nine 
+months and twenty- two days in solitary confinement.  His am ended complaint 
+alleges it was about nine months and twenty -four days.  At trial, Gordon’s 
+counsel represented the time period lasted 296 days.  
+ 
+3  Many of the original individual defendants were dismissed or replaced 
+as parties at or prior to trial.  Gordon’s original complaint included claims 
+against defendants Clayton Frank, Francis Sequiera, William Rushing, Faatuila 
+Pula, Michael Taamilo, Aaron Mirafuentes, and Gene Pomeroy.  Clayton Frank 
+(continued. . .)  ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+4 
+ U.S.C. § 1983 claim for violat ion of his right to due process 
+under the Fourteenth Amendment to the United States Constitution 
+against Cho; he also alleges  a violation of his right to due 
+process under Article I, Section 5 of the Constitution of the 
+State of Hawai
+ʻi against the State.   Through  his fourth cause  of 
+action, he alleges negligence against Cho.  Gordon seeks 
+general, special, and punitive damages, attorneys’ fees and 
+costs, and such other relief  as deemed appropriat e.   
+B. Circuit Court Trial  
+ The circuit court conducted a  two-day jury-waived/bench 
+trial that decided Gordon’s federal 42 U.S.C. § 1983 claim 
+against Cho in her individual capacity and his state negligence 
+claim against Cho.   
+                                                                               
+(. . . continued) 
+was replaced by Jodie F. Maesaka -Hirata in Gordon’s amended complaint.  
+Faatuila Pula was dismissed by stipulation before trial.  At trial, Gordon 
+orally moved to dismiss the claims against Francis Sequiera, William Rushing, 
+Michael Taamilo, Aaron Mirafuentes, and Gene Pomeroy.  An order dismissing 
+with prejudice all claims against those defendants  was filed after trial.    
+ Many causes of action were also dismissed or are no longer being 
+pursued on appeal.  In his first cause of action, Gordon originally asserted 
+42 U.S.C. § 1983 claims for alleged violations of his rights under the 
+Fourth, Eighth, and Ninth Amendments to the  United States Constitution, and 
+he also alleged violations of Article I, Sections 2, 6, 7, 8, and 12 of the 
+Constitution of the State of Hawai ʻi.  He also alleged intentional infliction 
+of emotional distress against the individual defendants in the second  cause 
+of action, negligent infliction of emotional distress in the third cause of 
+action, and negligent training, supervision, and/or discipline by Jodie F. 
+Maesaka- Hirata and the State  in the fifth cause of action.  
+ Before trial, the circuit court granted  the Defendants’ motion for 
+summary judgment in part, dismissing Gordon’s 42 U.S.C. § 1983 claims against 
+the State and the individual defendants in their official capacities, but 
+denying the motion with respect to Gordon’s 42 U.S.C. § 1983 and negl igence 
+claims against Cho.   
+ 
+ ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+5 
+  The circuit court’s f indings of fact 1.
+ The circuit court found the following facts relevant to the 
+issues on certiorari.    
+a.   Gordon’s pretrial d etention 
+ On August 22, 2010, Gordon was arrested on charges of seven 
+counts of sexual assault in the first degree, one count of 
+attempted sexual assault in the first degree, four counts of 
+sexual assault in the third degree, one count of promoting 
+prostitution, and one count of kidnapping in the first degree.  
+From August 26, 2010, to June 1 6, 2011, Gordon  was held in 
+maximum security custody at OCCC and HCF while he awaited trial 
+on his criminal case.  
+b.   Initial custody classification and conditions 
+ 
+On August 26, 2010, Department of Public Safety (“DPS”) 
+employee Faatuila Pula (“Pula”) conducted Gordon’s initial 
+intake interview at OCCC and filled out a  Jail Initial Custody 
+Instrument (“Initial Custody Instrument”) to  determine his 
+custody status.  This document was completed using information 
+from the Hawai
+‘i Criminal Justice Inquiry System,  the National 
+Crime Information Center, and  a brief interview with Gordon.4  
+                     
+4  The Initial Custody Instrument established Gordon’s custody status by 
+assigning predetermined point values to various aspects of his personal, 
+criminal, and institutional history.  Specifically, the Initial Custody 
+Instrument evaluated Gordon’s age, the severity of his current charges, his 
+prior convictions, his “history of assaultive behavior,” his escape history, 
+and his “pending charges or detainer.”  Gordon’s history of prior convictions 
+(continued. . .)  ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+6 
+ After completing the Initial Custody Instrument, 
+Pula determined 
+that Gordon had a total of nineteen “points” and  accordingly 
+5classified Gordon as a 
+maximum custody detainee.    
+ 
+Based on this custody classification, Gordon was placed in 
+maximum security custody in the OCCC Holding Unit for thirty 
+days.  While there, Gordon  was alone in a small cell for twenty-
+three hours per day, had limited access to showers and reading 
+materials, and was not permitted any phone calls.  Gordon 
+requested mental health services during the one-month detainment 
+in the OCCC Holding Unit, but was never provided with any.   
+c.   September 2010 custody evaluation 
+ 
+On September 22, 2010, an administrative program committee 
+(“the Committee”) conducted a hearing to further evaluate 
+Gordon’s security custody classification, programming needs, and 
+whether housing at OCCC was appropriate for him.  Cho, a DPS 
+correctional supervisor, was the Committee’s chairperson.6  When 
+evaluating an inmate’s security classification and housing 
+                                                                               
+(. . . continued) 
+and “history of assaultive behavior” both took into account the number and 
+severity of his prior convictions, including petty misdemeanors, 
+misdemeanors, and felonies.   
+ 
+5  According to the Initial  Custody Instrument, a score of zero to eight 
+points yielded a security classification of minimum custody, a score of nine 
+to seventeen points resulted in a classification of medium  custody, and a 
+score of eighteen points or greater resulted in a maximum custody 
+classification.   
+ 
+6  The other members of the Committee were Aaron Mirafuentes and  Michael 
+Taamilo, who were dismissed as defendants at trial.   
+ ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+7 
+ needs, the Committee can consider  “all aspects regarding an 
+inmate,” including the inmate’s institutional file, current 
+charges, prior convictions, and the inmate’s own testimony.  
+Accordingly, Cho and t he Committee considered Gordon’s own 
+statements that he did not think he should be a maximum custody 
+detainee, had done reasonably well at OCCC, and that there was 
+an error concerning his initial custody classification because 
+it was based in part on charges that were not actually pending.7   
+ The Committee decided
+, however,  that Gordon sho uld remain 
+at the maximum custody level and should be housed at HCF High 
+Security.  It notified him of this decision in a written 
+document designated as an “Amended Notice of Programming 
+Results” (“Programming Results”).  The Programming Results 
+acknowledged that Gordon had “ not received any major 
+misconduct
+s” since being admitted to OCCC.  However, Cho and the 
+Committee decided that Gordon should remain as a maximum custody 
+detainee, in solitary confinement, for the following reasons: 
+- The nature and seriousness of his current charges;  
+- The number and kind of his prior convictions;  
+- His extensive criminal history and numerous periods 
+of incarceration;  
+- His failure to comply with two residential drug 
+treatment programs;  
+                     
+7  Based on her review of  the Hawai‘i Criminal Justice Inquiry System , Pula 
+believed  that Gordon had an unrelated but pending Sex Assault in the First 
+Degree charge in Hawai ‘i, and Gordon’s fa ilure to appear at a hearing for that 
+charge was counted as a pending or no -show appearance for calculating  his 
+custody status.  Sometime after his initial classification, it was discovered 
+that Gordon did not actually have a pending sexual assault charge;  the 2006 
+charge had in fact been resolved before he was arrested in August 2010.   
+ ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+8 
+ - Leaving the state without permission while on 
+probation;  
+- His extradition to Hawaii;  
+- The fact that [Gordon] was on probation when charged 
+with his current offenses;[8] 
+-
+ His $1,000,000.00 bail amount; and  
+- [O]ther factors identified in the committee’s Amended 
+Notice of Programming Results.  
+ 
+Additionally, the Committee noted Gordon’s probation status, 
+unpaid restitution amounts, and the opinion of his probation 
+officer that his case was “questionable.”9  The Committee 
+provided final comments explaining its decision:   
+The Committee concurs with [the 
+Initial Custody Instrument]  
+that classified Mr. GORDON as MAX and also recommends that 
+he be housed accordingly at Halawa High Security.  The 
+Committee deems MR. GORDON a  high-risk inmate and also, a 
+high flight risk.  OCCC is inappropriate housing for Mr. 
+GORDON because OCCC is not able to provide MR. GORDON with 
+the high degree of direct supervision that he requires.  
+ 
+ According to Cho , an inmate classified as maximum security 
+“needs more direct supervision” by correctional officers, 
+especially when outside of his or her cell, and the Committee 
+felt that OCCC was unable to provide the level of supervision 
+required for Gordon.  In evaluating his custody status, Cho 
+                     
+8  The State represents that “Gordon was arrested and detained as a 
+pretrial detainee” [39:2] and does not argue that Gordon was held in custody 
+for alleged violations of conditions of probation for offenses for which he 
+had already been convicted.  This case is therefore analyzed based on the 
+constitutional rights of pretrial detainees, who cannot be subjected to 
+punishment.  Bell, 441 U.S. at 535.  Regardless, post -conviction defendants 
+still have constitutional rights against cruel and unusual punishment.  See 
+Bell, 441 U.S. at 535 n.16 (“A sentenced inmate . . . may be punished,  
+although that punishment may not be ‘cruel and unusual’ under the Eighth 
+Amendment.”); State v. Guidry , 105 Hawai‘ i 222, 237, 96 P.3d 242, 257 (2004) 
+(explaining the proportionality test of the prohibition on “cruel and 
+unusual” punishment in Article I, Section 12 of the Hawai ‘i Constitution).  
+ 
+9  The Programming Results did not indicate when or how the Committee 
+learned the probation officer’s opinion, nor did it indicate which case — 
+Gordon’s pending case or his probation case — was “questionable,” or what 
+“questionable” meant. ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+9 
+ never harbored malice or ill- will toward Gordon and did not 
+believe Gordon was punished when he was placed in maximum 
+custody conditions.   
+ Gordon filed a grievance challenging the Committee’s 
+decision on September 29, 2010.   
+d.   October 2010 Exception Case Form 
+ On October 5, 2010, Cho received a memorandum from her 
+supervisor, Lance Rabacal (“Rabacal”).  The memorandum 
+instructed Cho to “adhere to the directive process that has been 
+consistently utilized at our facility pertaining to MAX custody 
+inmates,” which was attached.  That memorandum , originally 
+written by a former OCCC warden in November 1996, laid out the 
+State’s “arrangement with the ACLU” (“ACLU Memo”) regarding 
+procedures for processing maximum custody pretrial detainees.  
+The ACLU Memo provided that pretrial detainees classified as 
+maximum custody “shall be housed in the [OCCC] Holding Unit for 
+30 days,” and “[i]f the inmate remains misconduct free and is 
+not a management problem, OCCC shall then reduce the inmate’s 
+custody to Medium and re- house in general population.”  It also 
+provided that “if the inmate incurs misconducts during the 30 -
+day period, and/or is a management problem, he shall be 
+transferred to HCF as a Max custody.”  According to Rabacal, the 
+ACLU Memo was “used as a guideline to deter mine when a 
+recommendation to reduce custody” should be considered.   ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+10 
+  On or about October 12, 2010, an Exception Case Form was 
+started for Gordon under Cho’s name.  Th is form noted that 
+Gordon had “not shown nor accrued any institutional behavioral 
+misconducts within the OCCC holding unit” and recommended a  
+medium custody classification “[b]ased on 10/5/10 OCCC MAX 
+CUSTODY INMATES directive from Lance Rabacal.”  The Exception 
+Case Form was sent to the DPS Classification Office, which 
+considers the totality of the circumstances when making the 
+decision to reduce or maintain an inmate’s custody level.   
+ Linda Chun (“Chun”), an officer in the Classification 
+Office, denied Gordon’s Exception Case Form on October 19, 2010.  
+Chun recorded the reasoning for her decision on the Exception 
+Case Form itself, noting  Gordon’s behavior in the OCCC Holding 
+Unit had been satisfactory thus far, but explaining that she 
+thought he should remain in maximum custody for the following 
+reasons:  
+[T]his case still presents a number of risk factors.  
+Current charges are serious & violent in nature.  As a 
+result, subject has a high bail amount.  Subject has an 
+extensive criminal history & also has had numerous periods 
+of incarceration.  Subject has failed to profit from 
+previous experience with probation and incarceration.  
+Substance abuse issues have not been addressed due to 
+subject’s discharge from program for non -compliance with 
+program rules.  
+ 
+Chun believed, based on her training, experience, and the 
+reasons she cited, that it was reasonable to place a pretrial 
+detainee in maximum security housing.   ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+11 
+  The disapproved Exception Case Form was submitted to Deputy 
+Director of Corrections Tommy Johnson (“Johnson”) for review.  
+On October 21, 2010, Johnson denied Gordon’s r equest because he 
+believed Chun’s statement s on the Exception C ase Form were true, 
+although he had no personal knowledge of the basis for the 
+statements .  Johnson did not believe Gordon’s  custody level was 
+punishment.    
+e.   Subsequent grievances and conditions at HCF 
+ Fro m September 29, 2010, through March 24, 2011, Gordon 
+filed eight Inmate Complaint/Grievances challenging his 
+classification and placement in solitary confinement.  Gordon 
+sought reclassification to medium custody and transfer to OCCC, 
+but none of his  grievances were granted.   
+ Gordon was transferred to HCF on October 25, 2010, and was 
+placed in maximum custody.  As a pretrial detainee at HCF, he 
+was alone in his cell for twenty- three hours per day, was given 
+forty-five minutes to an hour of recreational time five days a 
+week, had no access to a shower on weekends, and was only 
+allowed noncontact visits with his attorney.  He was strip 
+searched daily and searched again each time he returned to his 
+cell.  Gordon had limited access to phone calls, did not have 
+access to a commissary, and was denied access to programs.
+ According to Monica Lortz (“Lortz”), an HCF Corrections 
+Supervisor, DPS policy requires the custody status of every ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+12 
+ maximum custody inmate, whether pretrial detainee or sentenced 
+prisoner, to be reassessed once a year.  In June 2011, at the 
+instruction of the deput
+y warden and after Gordon had been at 
+HCF for eight months, Lortz  reevaluated Gordon’s custody status 
+using a Jail Inmate Custody Review Instrument (“Custody Review 
+Instrument”).  After completing the Custody Review Instrument, 
+Lortz assigned Gordon
+ a total of thirteen points, which 
+corresponded to a medium custody level.10  Gordon’s custody level 
+was therefore reduced from maximum to medium, and he was 
+returned to OCCC on June 16, 2011.   
+ After Gordon was sentenced for his pending charges in 
+September 2011, he was returned to HCF.11  At the time of the 
+trial in his civil case, Gordon was held at HCF in medium 
+security custody.   
+ 2.  The circuit court ’s conclusions of law  
+ The circuit court rendered the following conclusions of law 
+relevant to the issues on certiorari. 
+                     
+10  The Custody Review Instrument employed a point system similar to the 
+Initial Custody Instrument, but limited its consideration of Gordon’s 
+criminal history to felony convictions and escapes within the past ten years, 
+and institutional misconduct within the past twelve months.  According to the 
+Custody Review Instrument, male inmates with a total of zero to nine points 
+resulted in a security classification of minimum custody, ten to fifteen 
+points resulted in a medium custody classification, and a point total greater 
+than sixteen resulted in a maximum custody classification.   
+ 
+11  Gordon testified  that he was eventually convicted of “sex assault, 
+promotion of prostitution, kidnapping, and drug promotion” in August 2011, 
+and was sentenced to ten years of imprisonment with the  possibility of 
+parole, with a mandatory minimum of three years and four months.   ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+13 
+ a.   Gordon’s 42 U.S.C. § 1983 claim  
+ Citing  the United States Supreme Court’s opinion in  Bell, 
+the circuit court stated that pre -trial detainees have a 
+substantive due process right against custodial restrictions 
+that amount to punishment,  but also that not every condition 
+imposed during pretrial detention amounts to punishment.  To 
+determine whether a condition is punishment, the circuit court 
+determined that it must look to whether the restrictions evince 
+a punitive purpose or intent, and in the absence of an express 
+intent to punish, it must then consider whether punitive intent 
+can be inferred from the nature of the restriction.  The circuit 
+court further noted that whet her punitive intent can be inferred 
+generally turns upon whether a n alternative purpose to which the 
+restriction may rationally be connected is assignable for it, 
+and whether the restriction appears excessive in relation to the 
+alternative purpose assigned to it.    
+ The circuit court concluded that Gordon’s constitution al 
+rights were not violated based on the lack of substantive 
+evidence showing that Defendants categorized him as a maximum 
+custody pre-trial detainee purely to impose punishment upon him.  
+Furthermore, the circuit court concluded the conditions to which 
+Gordon was subject as a maximum custody detainee were 
+“reasonably related to a legitimate government objective which 
+is to maintain a safe and secure correctional facility,” and ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+14 
+ were no different from the restrictions and conditions of any 
+other maximum custody inmates.  The circuit court also concluded 
+that Gordon did not prove “that the conditions of maximum 
+custody imposed by Defendants to maintain a safe and secure 
+correctional facility were excessive to accomplish such 
+objective nor expressly intended as punishment, ” and that “the 
+restrictions and conditions [Gordon] was subjected to did not 
+amount to punishment.”12   
+ Determining that Cho complied with the guidelines of the 
+ACLU Memo, the circuit court also concluded that Cho was 
+                     
+12  The circuit court compared Gordon’s case to a number of earlier federal 
+cases: 
+  
+Based on the totality of the facts, various documents in 
+evidence and credible trial testimony and the lack of any 
+evidence to the contrary, the court concludes that the 
+restrictions and conditions [Gordon] was subjected to did 
+not amount to punishment.  Compare [Bell, 441 U.S. 520] 
+(holding that double -bunking, body -cavity searches, the 
+prohibition against the receipt of packages, or the room -
+search only rule did not amount to punishment under the 
+facts of the case), and Brock v. Rutherford , 468 U.S. 576 
+(U.S. 1984) (holding that a blanket prohibition on contact 
+visits with pretrial detainees and shakedown searches of 
+pretrial detainees’ cells outside their presence does not 
+amount to punishment), with Anela v. Wildwood , 790 F.2d 
+1063 (3rd Cir. N.J. 1986) (holding that failing to provide 
+beds or mattresses and food and drinking water amounted to 
+punishment), and Demery v. Arpaio , 378 F.3d 1020, 1033 (9th 
+Cir. Ariz. 2004) (holding that the sheriff’s policy of 
+transmitting live images over the internet of pretrial 
+detainees by webcam was an excessive response to the 
+purpose assigned to it).  
+ 
+ None of these  cases dealt with solitary confinement, although  Bell and 
+Brock addressed searches and non -contact visitation similar to what Gordon 
+experienced.  G ordon’s claim appears to challenge  his maximum security 
+classification as a whole, rather than any specific procedure.  We therefore 
+address whether maximum security custody as a whole, as Gordon experienced 
+it, amounted to punishment.  
+ ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+15 
+ entitled to qualified immunity from Gordon’s 42 U.S.C. § 1983 
+claims “because she did not knowingly violate [Gordon’s] 
+Constitutional rights ” and Gordon did not suffer punishment.   
+b.  Gordon’s negligence claim  
+ The c ircuit court determined  that “Cho, individually, is 
+afforded the protections of a qualified privilege as to 
+[Gordon]’s state law claims because [Gordon] did not prove by 
+clear and convincing evidence that Defendant Cho was motivated 
+by malice and not by an otherwise proper purpose.”  Accordingly, 
+the circuit court ordered judgment 
+to be entered for Cho.13   
+C. ICA Proceedings 
+ On appeal, Gordon challenged the circuit court’s findings 
+and conclusions that (1) Gordon’s initial custody classification 
+was correct; (2) the conditions to which he was subjected  did 
+not constitute punishment; (3) the Defendants acted reasonably 
+in their application of their classification procedure; and (4) 
+Cho was entitled to qualified immunity.  
+ 
+In a memorandum opinion, the ICA affirmed the circuit 
+court’s judgment.  Gordon v. Maesaka-Hirata, No. CAAP -14-914 
+(App. May 30, 2017) (mem. op.) at 2 , 28.  The ICA noted that in 
+                     
+13  The circuit court did not address Gordon’s state c onstitutional due 
+process claim.  It also did not specifically address Gordon’s intentional 
+infliction of emotional distress claim.  In any event, the circuit court 
+concluded the Defendants were not liable for negligent infliction of 
+emotional distress, which required less proof, and Gordon does not pursue the 
+emotional distress causes of action on certiorari.    ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+16 
+ deciding to keep Gordon in maximum security custody, Cho and the 
+Committee, as well as Chun in the Classification Office, relied 
+on factors such as “ the nature of the current charges, bail 
+amount, criminal history, failure to complete probation, and 
+unaddressed substance abuse issues [.]”   Gordon, mem. op. at 19
+-
+20.  The ICA concluded that these factors, among other things, 
+provided “substantial evidence [to] support . . . the Circuit 
+Court’s conclusion that the individual prison officials acted 
+reasonably in keeping Gordon in Max Custody.”   
+Gordon, mem. op. 
+at 19.   
+ The ICA acknowledged that “while Gordon has no 
+constitutional right to a certain classification, he possesses a 
+right to be free from punishment prior to an adjudication of 
+guilt.”  Gordon, mem. op. at 
+23.  “[O]n the totality of the 
+record of this case, ” the ICA concluded that the circuit court 
+did not err “in determining that Gordon’s Max Custody did not 
+constitute pre-trial punishment.”  Gordon, mem. op. at 20.   In 
+the ICA’s view, “Gordon cite[d]  no evidence or legal authority 
+that his Max Custody classification constituted punishment ” and 
+“the evidence led to the conclusion that the conditions were 
+reasonably related to legitimate government objectives related 
+to the safety and security of the correctional facilities and 
+that they were not excessive for that purpose.”  Gordon, mem. 
+op. at 19-20.    ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+17 
+  
+The ICA determined  Gordon did not show evidence of punitive 
+intent and failed to show there was no alternative reason for 
+his treatment other than punishment
+, or that his treatment was 
+excessive in relation to its alternative purpose.  Gordon, mem. 
+op. at 24.  The ICA also  observed that Gordon “failed to 
+establish that the procedure detailed in the ACLU Memo is 
+guaranteed to him” or that it otherwise overrides the deference 
+owed to prison officials.  Gordon, mem. op. at 24-25.  The ICA 
+concluded, instead, that “[t]he reasons for keeping Gordon in 
+Max Custody were clearly articulated and appear to be related to 
+the legitimate nonpunitive governmental objective of security 
+and safety.  Gordon has not shown that he was subject to an 
+arbitrary action of government.”   Gordon , mem. op. at 25, 
+(citing Wolff v. McDonnell , 418 U.S. 539, 558 (1974)).    
+ Finally,  with respect to Cho’s state law qualified 
+immunity, the ICA held that the circuit court did not err and  
+that Gordon failed “ to meet his burden under [Towse  v. State , 64 
+Haw. 624, 647 P.2d 696 (1982),] to establish that Cho was 
+motivated by malice or otherwise improper purpose. ”  Gordon, 
+mem. op. at 26- 27.     
+D. Application for Writ of Certiorari 
+ Gordon presents three questions in his application for writ 
+of certiorari (“Application”):  
+A. Whether the ICA gravely erred in holding that the 
+restrictions and conditions of Petitioner’s solitary ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+18 
+ confinement in Maximum Custody for nine months and twenty -
+two days did not constitute unlawful pretrial punishment 
+where, inter alia, (1) Petitioner was locked in an 
+isolation cell for approximately twenty -three hours each 
+day, (2) Petitioner was generally  allowed only non- contact 
+visits with his attorney, and (3) Petitioner was subjected 
+to multiple strip searches on a daily basis.  
+ 
+B. Whether the ICA gravely erred in holding that [DPS] 
+officials did not act arbitrarily and capriciously in 
+holding Petitioner in Maximum Custody where (1) 
+Petitioner’s initial custody level was calculated 
+incorrectly; (2) DPS failed to abide by established inmate 
+classification policies and procedures; and (3) Petitioner 
+was not an escape risk, had never assaulted anyone while  in 
+prison, and had never been a threat to prison discipline 
+and good order.  
+ 
+C. Whether the ICA gravely erred in holding that Respondent 
+PETRA CHO was entitled to qualified immunity and that 
+Petitioner failed to establish that Respondent CHO was 
+motivated by malice and not by an otherwise proper purpose 
+in confining Petitioner to Maximum Custody where (1) the 
+incorrect calculation resulting in Petitioner’s initial 
+custody level was known to Respondent CHO, and (2) 
+Respondent CHO refused to correct Petition er’s erroneous 
+custody classification within a reasonable period of time.  
+ 
+[SC DOC 1:2]   
+III.   Standard s of Review 
+ A trial court’s findings  of fact are reviewed under the 
+clearly erroneous standard: 
+A finding of fact is clearly erroneous when, despite 
+evidence to support the finding, the appellate court is 
+left with the definite and firm conviction in reviewing the 
+entire evidence that a mistake has been committed. 
+A finding of fact is also clearly erroneous when the record 
+lacks substantial evidence to  support the finding.  We have 
+defined ‘substantial evidence’ as credible evidence which 
+is of sufficient quality and probative value to enable a 
+person of reasonable caution to support a conclusion.  
+ 
+In re Grievance Arbitration Between State of Haw. Org. of Police  
+Officers  (“SHOPO”), 135 Hawai ‘i 456, 461 –62, 353 P.3d 998, 1003 –
+04 (2015)  (quoting Daiichi Haw. Real Estate Corp. v. Lichter , 
+103 Hawai‘ i 325, 337, 82 P.3d 411, 423 (2003) ). ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+19 
+  Conclusions of law are ordinarily reviewed under the 
+right/wrong standard.  Estate of Klink ex rel. Klink v. State , 
+113 Hawai‘ i 332, 351, 152 P.3d 504, 523 (2007) .  A conclusion of 
+law that is supported by the trial court’s  findings  of fact and 
+reflects an application of the correct rule of law will not be 
+overturned.  113 Hawai ‘i at 351, 152 P.3d at 523.  However, when 
+a conclusion of law presents mixed questions of fact and law, we 
+review it under the clearly erroneous standard because the 
+court’s conclusions are dependent on the facts and circumstances 
+of each individual case.  113 Hawai ‘i at 351, 152 P.3d at 523.  
+Additionally, in reviewing a trial court’s decisi on, that 
+court’s label of a finding of fact or conclusion of law is not 
+determinative of the standard of review.  Crosby v. State Dep’t 
+of Budget & Fin., 76 Hawai ʻi 332, 340, 876 P.2d 1300, 1308  
+(1994). 
+IV. Discussion 
+A. Gordon’s  42 U.S.C. § 1983 Claim 
+ In establishing a civil action for deprivation of rights, 
+42 U.S.C. § 1983 provides, in relevant part, as follows: 
+Every person who, under color of any statute, ordinance, 
+regulation, custom, or usage, of any State or Territory or 
+the District of Columbia,  subjects, or causes to be 
+subjected, any citizen of the United States or other person 
+within the jurisdiction thereof to the deprivation of any 
+rights, privileges, or immunities secured by the 
+Constitution and laws, shall be liable to the party injured 
+in
+ an action at law, suit in equity, or other proper 
+proceeding for redress . . . .  
+ ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+20 
+ 42 U.S.C. § 1983 (1996). 
+ Gordon ’s 42 U.S.C. 1983 claim  arises from his assertion 
+that the conditions of his pretrial detainment, more than nine 
+months in what amounted to solitary confinement, constituted 
+punishment in violation of his due process r
+ights under the 
+Fourteenth Amendment of the United States Constitution.14  [SC 
+DOC 1:7]  “To make out a cause of action under section 1983, 
+plaintiffs must plead that (1) the defendants acting under color 
+of state law (2) deprived plaintiffs of rights secured by the 
+Constitution or federal statutes. ”  Gibson v. United States , 781 
+F.2d 1334, 1338 (9th Cir. 1986) (citation omitted).  A defendant 
+acts “under color of state law” wh en the defendant exercises 
+power “possessed by virtue of state law and made possible only 
+because the wrongdoer is clothed with the authority of state 
+law.”  United States v. Classic, 313 U.S. 299, 326 (1941) 
+(citations omitted).  The Defendants have never disputed that 
+Cho, a DPS correctional supervisor, acted under color of state 
+law when she and the Committee rendered their custody decision.  
+                     
+14  Gordon’s Amended Complaint asserted that the Defendants violated his 
+due process rights under the Hawai ‘i State Constitution as well.  However, 42 
+U.S.C. § 1983 claims can only arise under federal laws and the federal 
+constitution.  See  Baker v. McCollan , 443 U.S. 137, 144 n.3 (1979) (“ It is 
+for violations of such constitutional and statutory rights that 42 U.S.C. § 
+1983 authorizes redress; that section is not itself a source of substantive 
+rights, but a method for vindicating federal rights elsewhere conferred by 
+those parts of the United States Constitution and federal statutes that it 
+describes. ”).  ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+21 
+ Rather, this case turns on whether Gordon proved that Cho 
+violated his rights under federal law.15   
+ Under the due process clause of  the Fourteenth Amendment to 
+the United States Constitution, “a detainee may not be punished 
+prior to an adjudication of guilt in accordance with due process 
+of law.”16  Bell, 441 U.S. at 536.  “A person lawfully committed 
+to pretrial detention has not been adjudged guilty of any 
+crime,” and therefore while “the Government concededly may 
+detain him to ensure his presence at trial and may subject him 
+to the restrictions and conditions of the detention facility,” 
+the government may only do so if those conditions of confinement 
+“do not amount to punishment, or otherwise violate the 
+17Constitution.”   441 U.S. at 536-37.  
+                     
+15  Although Gordon’s Application does not explicitly restrict his 42 
+U.S.C. § 1983 claim to Cho, such actions are available against government 
+officials in their individual capacity only.  See Ashcroft v. Iqbal , 556 U.S. 
+662, 676 (2009) ( “Because vicarious liability is inapplicable to  Bivens and § 
+1983 suits, a plaintiff must plead that each Government -official defendant,  
+through the official’ s own individual actions, has violated the  
+Constitution.”).   Furthermore, it appears Gordon ’s  claims against Jodie F. 
+Maesaka- Hirata involve only state law negligent supervision and training 
+theories, which Gordon has not pursued on certiorari.   
+ 
+16  Bell addressed conditions at a federal detention facility, and 
+therefore rested on the due process clause of the Fifth Amendment .  441 U.S. 
+at 530.  However, the Bell court noted that when states seek to impose 
+punishment without an adjudication of guilt, “the pertinent constitutional 
+guarantee is the Due Process Clause of the Fourteenth Amendment.”  Bell, 441 
+U.S. at 535 n.16 (quoting Ingraham v. Wright , 430 U.S. 651, 671 n.40 (1977)).  
+17  Pretrial detainees may be punished for violating prison rules if they 
+are afforded due process for those violations.  See, e.g., Mitchell v. 
+Dupnik, 75 F.3d 517, 524 (9th Cir. 1996) (opining that Bell recognized prison 
+officials’ need to preserve “internal order and discipline,” and holding 
+“pretrial detainees may be subjected to disciplinary segregation only with a 
+due process hearing to determine whether they have in fact violated any 
+rule.”).  What Bell makes clear is that prison officials cannot, even 
+(continued. . .)  ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+22 
+  “Not every disability imposed during pretrial detention 
+amounts to ‘punishment’ in the constitutional sense,” and 
+indeed, pretrial detainees are to expect some lawful curtailment 
+of their liberties.  See Bell, 441 U.S. at 537 (“[T]he fact that 
+. . . detention interferes with the detainee’s understandable 
+desire to live . . . with as little restraint as possible during 
+confinement does not convert the conditions or restrictions of 
+detention into punishment.”).  Restrictions “that are reasonably 
+related to the institution’s interest in maintaining jail 
+security do not, without more, constitute unconstitutional 
+punishment, even if they are discomforting and are restrictions 
+that the detainee would not have experienced had he been 
+18released while awaiting trial.”  441 U.S. at 540.  
+ Courts must therefore decide whether the condition of 
+confinement “is imposed for the purpose of punishment or whether 
+it is but an incident of some other legitimate governmental 
+                                                                               
+(. . . continued) 
+unintentionally, punish detainees for the crimes for which they were arrested 
+until there has been “an adjudication of guilt in accordance with due process 
+of law” —  in other words, a conviction.  441 U.S. at 535; accord Sandin v. 
+Conner, 515 U.S. 472, 484  (1995)  (characterizing Bell as expressing “concern 
+that a State would attempt to punish a detainee for the crime for which he 
+was indicted via preconviction holding conditions” ).  
+18  Bell, a case challenging the constitutionality of conditions of 
+confinement in a federally operated short -term custodial facility, held that  
+“double- bunking” of inmates; a rule prohibiting inmates from receiving 
+hardback books unless mailed directly from a publisher, bookstore, or book 
+club; a rule prohibiting inmates from receiving packages of food or personal 
+property except for one package at Christmas; a rule prohibiting inmates from 
+observing unannounced room inspections; and visual body cavity strip searches 
+after every contact visit with a person from outside the institution, did not 
+constitute unconstitutional punishment of pretrial detainees.  441 U.S at 
+541-42, 548- 49, 553, 555, 558, 560 -61.    ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+23 
+ purpose.”  441 U.S. at 538 (citation omitted).  The  Bell court 
+elaborated on this standard: 
+Absent a showing of an expressed intent to punish on the 
+part of detention facility officials, that determination  
+generally will turn on “whether an alternative purpose to 
+which [the restriction] may rationally be connected is 
+assignable for it, and whether it appears excessive in 
+relation to the alternati ve purpose assigned [to it].”  
+Thus, if a particular condition or restriction of pretrial 
+detention is reasonably related to a legitimate 
+governmental objective, it does not, without more, amount 
+to “punishment.”  Conversely, if a restriction or condition 
+is not reasonably related to a legitimate goal — if it is 
+arbitrary or purposeless — a court permissibly may infer 
+that the purpose of the governmental action is punishment 
+that may not constitutionally be inflicted upon detainees 
+qua detainees.  
+ 
+441 U.S. at 538-39 (citations and footnotes omitted).  Thus, 
+under Bell , a pretrial detainee’s treatment amounts to  
+punishment when:  (1) there is “ a showing of an expressed intent 
+to punish on the part of detention facility officials ;” (2) the 
+condition or restriction is  not “reasonably related to a 
+legitimate goal ;” or (3) the condition or restriction is 
+“excessive in relation to the alternative purpose assigned to 
+it.”  441 U.S. at 538 -39. 
+ Courts must be mindful that a pretrial punishment claim 
+triggers due process inquiries that “spring from constitutional 
+requirements and . . . judicial answers to them must reflect 
+that fact rather than a court’s idea of how best to operate a 
+detention facility.”  441 U.S. at 539.  Because prison 
+administration is difficult and its problems are not readily 
+ascertained or solved by the judiciary, “[p]rison administrators ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+24 
+ . . . should be accorded wide- ranging deference in the adoption 
+and execution of policies and practices that in their judgment 
+are needed to preserve internal order and discipline and 
+maintain institutional security.”  441 U.S. at 547 (citations 
+omitted).   
+ The deference owed to prison officials is not unlimited,
+ 
+however, and must yield to constitutional principles.  See Brown 
+v. Plata, 563 U.S. 493, 511 (2011) (“Courts may not allow 
+constitutional violations to continue simply because a remedy 
+would involve intrusion into the realm of prison 
+administration.”) (citation omitted); accord Wolff, 418 U.S. at 
+555-56 (“There is no iron curtain drawn between the Consti tution 
+and the prisons of this country.”) .  Courts should defer to the 
+expert judgment of prison officials unless there is “substantial 
+evidence in the record to indicate that the officials have 
+exaggerated their response to ” their institutional order, 
+discipline, and security considerations.   Bell, 441 U.S. at 548 
+(quoting Pell v. Procunier , 417 U.S. 817, 827 (1974)).   
+ Because Gordon argues all three parts of the Bell standard, 
+we address each part in turn.  
+ The circuit court did not err by concluding that 1.
+Gordon’s treatment was not the result of Cho’s  express 
+intent to punish him.  
+ Gordon asserts he demonstrated the Defendants ’ “expressed 
+intent to punish” him because he showed that when they ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+25 
+ classified him, they emphasized his criminal history, pending 
+charges, and “failure to ‘profit’ from prior law enforcement 
+contacts.”  Their focus on these factors, he argues, makes it 
+“apparent that DPS officials intended for [Gordon’s] solitary 
+confinement to serve as retribution and deterrence, which the 
+United States Supreme Court has recognized as ‘the traditional 
+aims of punishment[.]’”   
+ Gordon’s only remaining 42 U.S.C. § 1983 claim is against 
+Cho.  What t he other State employees may have intended is not at 
+issue on certiorari.  Although Bell did not explain the term 
+“expressed intent,”  something is “express [ed]” when it is 
+“[c]learly and unmistakably communicated” or “stated with 
+directness and clarity.”  Black’s Law Dictionary 701 (10th ed. 
+2014).  The circuit court not only found the Defendants had no 
+expressed intent to punish Gordon, but that Cho,  specifically, 
+“testified credibly that she has never had any malice or ill -
+will towards [Gordon] or would knowingly violate [Gordon’s] 
+constitutional rights and [Gordon] produced no evidence to the 
+contrary.”  These findings of fact, which are based upon the 
+circuit court’s credibility determinations, are not clearly 
+erroneous.  See Tamashiro v. Control Specialist, Inc. , 97 Hawai ʻi 
+86, 92, 34 P.3d 16, 22 (2001) (“[T]he credibility of witnesses 
+and the weight to be given their testimony are within the ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+26 
+ province of the trier of fact and, generally, will not be 
+disturbed on appeal.”) . 
+ The circuit court did not err in concluding Cho did not 
+express intent to punish Gordon .  Indeed, in addition to the 
+circuit court’s finding with respect to Cho, t he testimony of 
+multiple witnesses indicates the  DPS personnel handling Gordon’s 
+case believed they were following established procedure, and 
+thought maximum security custody was not punishment for pretrial 
+detainees with Gordon’s history.19  For the reasons below, 
+however, we nevertheless hold that the circuit court clearly 
+erred in concluding t he restrictions and conditions of Gordon ’s
+detainment did not amount to punishment.    
+ The circuit court err ed by concluding that Gordon’s 2.
+treatment was reasonably  related to a legitimate 
+government purpose.  
+ In the absence of expressed  intent to punish, “a court must 
+look to see if a particular restriction or condition, which may 
+                     
+19  Pula calculated Gordon’s initial custody level  using only a standard 
+DPS form and the information she had at the time.  Chun denied Gordon’s case 
+exception because, based on her experience,  she thought
+ it reasonable to 
+place pretrial detainees in maximum security for the reasons Cho and the 
+Committee considered.  Likewise, in reviewing Gordon’s Exception Case Form, 
+Johnson believed Chun’s  statements and therefore thought it was reasonable to 
+keep Gordon in maximum custody.  
+ These subjective beliefs, however, are not relevant to consideration of 
+the objective parts of the Bell test discussed below.  See Bell, 441 U.S. at 
+538-39 (providing two ways to identify punishment in the absence of expressed 
+intent to punish);  see also Kingsley v. Hendrickson , 135 S.Ct. 2466, 2473 -74 
+(2015) (opining that “proof of intent (or motive) to punish” is not required 
+to prevail on a Bell punishment claim, and “a pretrial detainee can prevail 
+by providing only objective evidence” that his or her treatment lacked 
+rational relationship or was excessive in relation to a legitimate 
+governmental purpose).  ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+27 
+ on its face appear to be punishment, is instead but an incident 
+of a legitimate nonpunitive governmental objective.”  Bell, 441 
+U.S. at 539 n.20.  “[I]f a particular condition or restriction 
+of pretrial detention is reasonably related to a legitimate 
+governmental obj ective, it does not, without more, amount to 
+‘punishment. ’”  441 U.S. at 539.  However, “if a condition or 
+restriction is arbitrary or purposeless, a court may permissibly 
+infer that the purpose of the government action is 
+punishment[.]”   Bell, 441 U.S. at 539.  Some legitimate 
+interests that detention facility officials may seek to further 
+include ensuring the detainee’s presence at trial, maintaining 
+order and security at the institution, and preventing contraband 
+from reaching detainees.  441 U.S. at 540 .  “Retribution and 
+deterrence,” the Bell court made clear, “are not legitimate 
+nonpunitive governmental objectives.”  441 U.S. at 539 n.20.        
+ Gordon disputes the existence of a legitimate reason for 
+his classification and segregation, and argues that his 
+treatment by Cho violated his rights because it was “arbitrary 
+20and capricious.”   The circuit court 
+concluded “the Defendants’ 
+                     
+20  Gordon cites Coulter v. State , 116 Hawai ‘i 181, 185, 172 P.3d 493, 497 
+(2007), for the proposition that “[g]overnment action may . . . be found to 
+be arbitrary and capricious where an agency fails to follow the rules it sets 
+out for itself.”  Coulter  had to do with the Hawai ‘i Paroling Authority’s 
+(“HPA”) failure to follow its own minimum term guidelines, which it was 
+required by statute to adopt and then obey.  116 Hawai‘ i at 185, 172 P.3d at 
+497. 
+ Because we decided the HPA violated its own guidelines, we explicitly 
+declined to reach the constitutional due process question.  116 Hawai ‘i at 
+(continued. . .)  ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+28 
+ conditions imposed on individuals categorized as maximum custody 
+and, experienced by [Gordon], [
+were] reasonably related to a 
+legitimate government objective which is to maintain a safe and 
+secure correctional facility.”  The ICA agreed, opining the 
+Defendants’ reasons  for keeping him in solitary confinement were 
+“clearly articulated” and related to prison security and safety.   
+Gordon, mem. op. at 11.   
+ Upon our r eview of the circuit court’s conclusion that the 
+reasons Cho gave as Committee chair for continuing Gordon in 
+maximum custody or solitary confinement were reasonably related 
+to a legitimate government purpose, we are left with a definite 
+and firm conviction that a mistake has been made.  We conclude 
+Cho’s treatment of Gordon was not reasonably related to a 
+legitimate, nonpunitive
+ government interest, and therefore was 
+punishment.   
+ Among other things
+, Gordon as serts his treatment was 
+arbitrary because his initial custody level was based on 
+inaccurate information, which Cho failed to correct, and also 
+because Cho failed to follow the dictates of the ACLU Memo.  
+With respect to the ACLU Memo, the circuit court con cluded that 
+                                                                               
+(. . . continued) 
+185, 172 P.3d at 497.  However, we did note “[t]he proposition that the 
+government must follow the rules it  sets out for itself is not 
+controversial,” and cited other authority holding that “[e]ven if an agency 
+is not required to adopt a rule, once it has done so it must follow what it 
+adopted.”   116 Hawai‘ i at 185, 172 P.3d at 497  (citing Peek v. Thompson , 980 
+P.2d 178, 181 (Or. App. 1999)).   ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+29 
+ “by submitting the Exception Form, . . . Cho did comply with the 
+guidelines of the [ACLU] Max Custody Memo.”  The ACLU Memo , 
+however, does not characterize itself as a “guideline” and does 
+not address Exception Case Forms or approval by the 
+Classification Office; instead, it plainly instructs OCCC 
+Holding Unit staff to (1) house all new inmates classified as 
+maximum custody in the Holding Unit for thirty days; and (2) 
+reduce the inmate’s custody status to medium and return that 
+inmate to the OCCC general population “[i]f the inmate remains 
+misconduct free and is not a management problem[.]”   
+ Cho’s testimony at trial was that she actually did not know 
+the ACLU Memo existed when the Committee met to review Gordon’s 
+custody status, although she “was aware that after 30 days [the 
+Committee] could review the inmate.”  It is unclear why 
+Cho was 
+unaware of the ACLU Memo, or whether the procedures stated 
+within it had been officially modified or abandoned.  But, 
+whether or not the ACLU Memo was a guideline  or a binding 
+directive , Cho’s treatment of Gordon was  the result of 
+generalized assumptions of dangerousness and flight risk not 
+21supported by the facts.
+   
+                     
+21  The record reveals the Defendants employed at least four different 
+methods of evaluating Gordon’s classification:  Pula set Gordon’s initial 
+classification using the Initial Custody Instrument,  Cho and the Committee  
+performed a second evaluation , a third custody review by Chun was reviewed by 
+Johnson, and Gordon’s final evaluation was done by Lortz, using the Custody 
+Review Instrument.   
+(continued. . .)  ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+30 
+  Cho and the Committee’s review of Gordon’s custody status 
+was subjective:  they were permitted to consider any factor 
+deemed relevant, with
+ apparently unlimited discretion in 
+weighing those factors.22  To justify Gordon’s continued 
+placement in maximum security custody, Cho and the Committee 
+based their September 22, 2010 decision on factors that were not 
+reasonably related to a legitimate government purpose.  They 
+asserted Gordon was a “high -risk” and “high flight risk” 
+detainee based on his pending charges, prior convictions, 
+“discharge and failure to comply with 2 residential drug 
+treatment programs while on probation,” non -compliance with 
+reporting to his probation officer when leaving Hawai ‘i, 
+extradition back to Hawai ‘i while on probation, and the bail 
+amount for his pending charges.  The se facts, however,  were not  
+relevant to ach ieving the Defendants’ “ legitimate government 
+purposes” of ensuring that Gordon appeared for trial  and did not 
+disrupt institutional order and security in the meantime.   
+ Cho did not identify what kind of “high risk” Gordon 
+presented.  There is nothing in the record that identifies the 
+kind of conduct she feared Gordon would engage in while 
+                                                                               
+(. . . continued) 
+ We address only Cho’s conduct because she is the sole defendant against 
+whom Gordon’s 42 U.S.C. § 1983 claim  is pursued .   
+ 
+22  It is unclear whether DPS policy or guidelines with respect to 
+classification review existed at the time of trial.  No written policies, 
+aside from the ACLU emo, were offered as evidence.  ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+31 
+ detained.  Although Gordon did leave Hawai ‘i while on probation, 
+resulting in his extradition, there was no explanation as to how 
+absconding while on probation relates to escape from a secure 
+jail facility
+, such that Gordon would automatically be a “high 
+flight risk.”   Furthermore, despite six prior incarcerations, 
+there was no evidence that Gordon  had committed any 
+institutional misconduct, leaving little in the record to  
+support Cho’s belief that Gordon was a “high risk” inmate.   
+Indeed, there is no evidence in the record that Cho and the 
+Committee knew the factual bases for Gordon’s prior convictions 
+or pending charges.     
+ 
+Defendants  never explained how Cho and the Committee’s 
+cited facts were predictors for disciplinary or management 
+problems in custody.
+  It is obvious that solitary confinement 
+would effectively detain Gordon and guarantee his appearance at 
+trial, but, under t he circumstances, solitary confinement was 
+not reasonably related to any legitimate, nonpunitive purpose.  
+In the absence of a link between Gordon’s treatment and the 
+resolution of any real management or  security problem, Gordon’s 
+conditions of confinement only achieved retribution and 
+deterrence — “the traditional aims of punishment”  — which “are 
+not legitimate nonpunitive governmental objectives. ”  Bell, 441 
+U.S. at 539 n.20 (citing Kennedy v. Mendoza -Martinez, 372 U.S. 
+144, 168 (1963));  accord Demery v. Arpaio , 378 F.3d 1020, 1030-***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+32 
+ 31 (9th Cir. 2004) (“[D]eterrence does not qualify as a 
+nonpunitive goal with regard to pretrial detainees.”) (citation 
+omitted).     
+ We acknowledge that courts should ordinarily defer to 
+priso
+n administrators’ knowledge and expertise.  Bell, 441 U.S. 
+at 547-48.  On the facts in this record, however, it is apparent 
+that Cho and the Committee ’s response to the threat Gordon 
+allegedly posed was exaggerated.  See Bell , 441 U.S. at 548 
+(encouraging deference to prison officials, unless substantial 
+evidence in the record suggests their response to an 
+institutional problem was exaggerated).  Gordon’s maximum 
+security status meant that he was alone in a cell for twenty-
+three hours per day with forty -five to sixty minutes of 
+recreational time only five days per week, no access to a shower 
+on the weekends, only non- contact visits with his attorney, and 
+23strip searches every day and each time he returned to his cell
+.   
+These conditions were imposed upon Gordon because C ho had non-
+specific concerns about his future behavior, based on his past 
+conduct.  Cf. Bell , 441 U.S. at 559 (upholding the use of visual 
+inspection of body cavities where officials were specifically 
+                     
+23  The circuit cou rt found the Defendants “presented evidence that all MAX 
+custody inmates, whether pretrial or not, [were] treated under the same 
+conditions as” Gordon, but that the Defendants “also presented evidence that 
+[Gordon] was afforded additional benefits such as personal calls that were 
+not given to other inmates on the same floor.”  The fact that Gordon received 
+additional privileges does not demonstrate that he was not punished, but 
+rather, could show that he was punished less than others.   
+ ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+33 
+ concerned about concealment of drugs and contraband, and there 
+had been at least one instance of attempted trafficking of 
+contraband). 
+ Because Cho relied on factors that we re not relevant to  
+assessing Gordon’s present security needs,  and focused  on his 
+past conduct without a logical connection to present or future 
+threat, the circuit court and ICA clearly erred by concluding 
+Gordon’s 
+ placement in solitary confinement was reasonably 
+related to a legitimate government purpose.24  A pretrial 
+detainee can present serious and persistent threats to 
+institutional safety, security, and order, such that maximum 
+security conditions may be necessary to restrain them.  See 
+Bell, 441 U.S. at 546 n.28 (“There is no basis for concluding 
+that pretrial detainees pose any lesser security risk than 
+convicted inmates.  Indeed, it may be that in certain 
+circumstances they present a greater risk to jail security and 
+order.”).  However, the record in this case does not support the 
+Defendants’ assertions that Gordon presented such a threat .  
+                     
+24  The record shows  Chun relied on similar reasoning in denying Gordon’s 
+exception case form, and Johnson accepted Chun’s reasoning when reviewing 
+that decision.  Chun and Johnson, however, were never defendants in this 
+case.   
+ We note that other aspects of Gordon’s treatme nt may have been 
+inconsistent with achieving the Defendants’ legitimate nonpunitive goals.  
+For example, the Initial Custody Instrument counted Gordon’s misdemeanor and 
+petty misdemeanor convictions not once, but twice:  first as part of Gordon’s 
+history of prior convictions, and again as part of his “history of assaultive 
+behavior.”  In contrast, the Custody Review Instrument counted only felonies 
+within the last ten years, and focused on Gordon’s institutional history.  It 
+is unclear why these evaluation methods differed to such an extent.    ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+34 
+ Thus, we conclude the circuit court clearly erred by concluding 
+Gordon’s treatment by Cho was reasonably related to a legitimate 
+governmental objective, and therefore was not punishment.   
+ The circuit court clearly erred by concluding Gordon’s 3.
+treatment was not excessive in relation to a 
+legitimate government purpose.  
+ Under Bell, "the determination whether [pretrial]  
+restrictions and practices constitute punishment in the 
+constitutional sense depends on whether they are rationally 
+related to a legitimate nonpunitive governmental purpose and 
+whether they appear excessive in relation to that purpose."  441 
+U.S. at 561.   Therefore, even if a pretrial detainee’s treatment 
+“is reasonably related to a legitimate governmental objective,” 
+a court may infer that the treat ment is punishment if “it 
+appears excessive in relation to the alternative purpose  
+assigned [to it].”  Bell, 441 U.S. at 538- 39 (citations and  
+footnotes omitted).  For example, although “loading a detainee 
+with chains and shackles and throwing him in a dungeon may 
+ensure his presence at trial and preserve the security of the  
+institution,” those harsh conditions would support a conclusion 
+that they were imposed to punish the detainee, in light of “so 
+many alternative and less harsh methods” that could achiev e the 
+same objectives.  Bell, 441 U.S. at 539 n.20.     
+Gordon asserts that even if there was a legitimate reason 
+for his classification and segregation, the conditions of his ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+35 
+ confinement were excessive in relation to any alternative 
+purpose assigned to it.
+  Bell, 441 U.S. at 538.  In support of 
+his argument, he emphasizes that he was held in highly 
+restrictive conditions
+ for more than nine months despite the 
+fact that he had shown “exemplary inmate behavior.”  The circuit 
+court concluded “there was no evide nce produced by [Gordon] to 
+prove by a preponderance of the evidence that the conditions of 
+maximum custody imposed by Defendants to maintain a safe and 
+secure correctional facility were excessive to accomplish such 
+objective[.]”  The ICA agreed.  Gordon, mem. op. at 11.   
+ Gordon was retained in solitary confinement because Cho  and 
+the Committee suspected that he posed a “high risk” or suspected 
+he would engage in “high flight risk” behavior .  No witness 
+testified to any incidents of misbehavior by Gordon during the 
+incarceration period at issue, or during any of his prior 
+incarcerations.  No witness testified to any  specific threats to 
+institutional safety or order by Gordon.  Even after spending 
+thirty days in the OCCC Holding Unit with no inci dents of 
+misconduct, Cho and the Committee decided Gordon was  generally a 
+“high risk” and “high flight risk” detainee  based on his 
+criminal history and current charges , among other things.  Any 
+justification for maximum security conditions should have 
+dissipated after the thirty- day holding period, during which 
+Gordon failed to exhibit the problematic behavior his past ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+36 
+ convictions and pending charges supposedly indicated.    
+ The record in this case shows 
+that Cho imposed serious 
+restraints on a pretrial detainee who did not demonstrate a 
+serious threat to institutional safety or order.  While solitary 
+confinement was undoubtedly effective at ensuring Gordon’s 
+appearance at trial, like the “chains and shackles” of Bell’s 
+hypothetical dungeon, the existence  of less harsh methods of 
+achieving the same security goals supports the inference that 
+Gordon’s treatment was punishment.   See Bell, 441 U.S. at 539  
+n.20 (opining that harsh conditions, “ employed to achieve 
+objectives that could be accomplished in so many alternative and 
+less harsh methods,”  can support  the conclusion that the 
+25conditions were imposed to inflict punishment).    
+ We emphasize  that Gordon’s maximum security conditions were 
+harsh — solitary confinement has long been recognized as an 
+“infamous punishment” used to “mark [prisoners] as examples of 
+the just punishment of the worst crimes of the human race.”  In 
+re Medley, 134 U.S. 160, 168-170 (1890).   This point has been  
+effectively summarized by other courts.   See, e.g., Davis v.  
+                     
+25  In light of the deference accorded to prison administrators in the 
+“adoption and execution of policies and practices . . . needed to preserve  
+internal order and discipline and to maintain institutional security,” B ell, 
+441 U.S. at 521, the availability of alternatives and less harsh methods does  
+not end a reviewing court’s inquiry as to whether a particular pretrial 
+restriction constitutes punishment.  Rather, the existence of such  
+alternatives may indicate that the  restriction imposed is excessive in 
+relation to the legitimate governmental purpose of maintaining institutional  
+safety and security. ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+37 
+ Ayala, 135 S.Ct. 2187, 2209-11 (2015) (Kennedy, J., concurring) 
+(summarizing the history and effects of long-term solitary 
+confinement).  We also note that scientific research now 
+suggests even a few days in solitary confinement can have 
+negative effects on inmates’ mental health, even in inmates not 
+previously diagnosed with mental illness.  See, e.g., Williams  
+v. Sec’y Pa. Dept. of Corr. , 848 F.3d 549, 562, 566- 69 (3d Cir.  
+2017), cert. denied  138 S.Ct. 357 (U.S. Oct. 16, 2017) (Nos. 17-
+53, 17-5116) (summarizing scientific studies on the effects of 
+solitary confinement).  
+We conclude  that, in light of the lack 
+of articulable concerns and the harshness of Gordon’s 
+confinement, the circuit court clearly erred by concluding 
+Gordon’s treatment by Cho was not excessive in relation to a 
+legitimate nonpunitive goal.  
+ Because w e conclude that Gordon has established a 
+constitutional violation for his 42 U.S.C. § 1983 claim against 
+Cho, we must now address whether Cho is entitled to qu alified 
+immunity.    
+ Cho is not liable to Gordon under 42 U.S.C. § 1983 due 4.
+to qualified i mmunity under federal l aw. 
+ The circuit court identified the federal qualified immunity 
+standard as follows:   
+ 12.  Government officials who perform discretionary 
+functions have qualified immunity from liability for civil 
+damages when “their conduct does not violate clearly 
+established statutory or constitutional rights of which a 
+reasonable person would have known.”  Johnson v. Fankell , ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+38 
+ 520 U.S. 911, 914 -15 [(1997)]; Gabbert v. Conn , 131 F.3d 
+793, 799 (9th Cir. 1997).  
+ 13.  The qualified immunity inquiry is two -pronged. 
+The Court must ask whether the “conduct violated a 
+constitutional right” and whether “the right was c learly 
+established” at the time of the alleged misconduct.  The 
+Court may conduct this two -pronged inquiry in any order. 
+Alston v. Read , 663 F.3d 1094, 1098 (9th Cir. Haw. 2011).  
+  
+The circuit court concluded Cho was entitled to qualified 
+immunity “because she did not knowingly  violate [Gordon’s] 
+Constitutional rights[.]”  In so concluding, the circuit court 
+clearly erred. 
+ As the circuit court initially correctly noted, the 
+“clearly established right” portion of the  two-part qualified 
+immunity standard employs a reasonableness test.   Johnson , 520 
+U.S. at 914-15 (citing Harlow v. Fitzgerald , 457 U.S. 800, 818 
+(1982)).  To be more specific, federal courts employ a 
+“reasonable official” test:  a right is clearly established 
+“when, at the time of the challenged conduct, [t]he contours of 
+[a] right [are] sufficiently clear that every reasonable 
+official  would have understood that what he is doing violates 
+that right.”  Ashcroft v. al- Kidd, 563 U.S. 731, 741 (2011)  
+(quoting Anderson v. Creighton, 483 U.S. 635, 640 (1987))  
+(emphasis added) .  This standard “do[es] not require a case 
+directly on point, but existing precedent must have placed the 
+statutory or constitutional question beyond debate.”26  al-Kidd,  
+                     
+26  The Ninth Circuit Court of Appeals previously characterized the clearly 
+established law standard as requiring “fair warning,” meaning that state 
+(continued. . .)  ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+39 
+ 563 U.S. at 741 (emphasis added); accord Reichle v. Howards , 566 
+U.S. 658 (2012).     
+   The United States Supreme Court has said that 
+“[q]ualified immunity gives government officials breathing room 
+to make reasonable but mistaken judgments about open legal 
+questions.  When  properly applied, it protects ‘all but the 
+plainly incompetent or those who knowingly violate the law .’”  
+al-Kidd, 563 U.S. at 743 (quoting Malley v. Briggs , 475 U.S. 
+335, 341 (1986)) (emphasis added).  However, an official’s  
+subjective mental state is  irrelevant to the qualified immunity 
+inquiry:  rather, a court must evaluate the “objective legal 
+reasonableness” of the official’s  conduct “in light of the legal 
+rules that were ‘clearly established’ at the time[.]”  Anderson, 
+483 U.S. at 639.   
+ Thus, alth ough the Court stated that qualified immunity 
+does not protect those who “knowingly” violate the law, t he 
+circuit court erred when it concluded Cho was entitled to  
+qualified immunity because she did not knowingly violate 
+                                                                               
+(. . . continued) 
+officials are not entitled to qualified immunity “where the contours of the 
+right have been defined with sufficient specificity that a state official had 
+fair warning that [his or her] conduct deprived a victim of his [or her] 
+rights[.]”  Serrano v. Francis , 345 F.3d 1071, 1077 (9th Cir. 2003) 
+(citations omitted).  However, it appears the United States Supreme Court now 
+requires  greater specificity with respect to whether the law was “clearly 
+established.”  See District of Columbia v. Wesby , 138 S.Ct. 577, 592 (2018) 
+(“It is not enough that the rule is suggested by then -existing precedent.  
+The precedent must be clear enough that every reasonable official would 
+interpret it to establish the particular rule the pl aintiff seeks to apply.”)   ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+40 
+ Gordon’s rights.  In other words, a lthough Cho would not be 
+entitled to qualified immunity if she knowingly violated 
+Gordon’s rights, she is not entitled to qualified immunity just 
+because she did not knowingly do so.  Rather, the issue is 
+whether Gordon’s rights were sufficiently clear in September 
+2010 so that every reasonable official  in Cho’s position would 
+have understood that Gordon’s constitutional rights were being 
+violated; the test is objective, not subjective.   
+ Whether a right was clearly established under federal law 
+at the time the defendant acted is a “purely legal” question.  
+Mitchell v. Forsyth , 472 U.S. 511, 528 n.9 (1985).  That 
+question of law is reviewable de novo on appeal.  Elder v. 
+Holloway, 510 U.S. 510, 516 (1994).  Thus, even if the circuit 
+court did not apply the proper standard, whether Gordon’s rights 
+were clearly established at the time Cho and the Committee made 
+their maximum custody/solitary confinement decision is a legal 
+question that we review de novo.  
+ Upon a careful review, with respect to the first prong of 
+the qualified immunity inquiry, we have concluded for the 
+reasons stated in Part IV, Section A, subsections 2 and 3 above, 
+that Cho’s conduct violated Gordon’s Fourteenth Amendment due 
+process right to be free from pretrial punishment.  With respect 
+to the second prong of the inquiry, however, we conclude that 
+Cho was entitled to qualified immunity because Gordon’s rights ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+41 
+ were not sufficiently clear at the time Cho acted in 2010 so 
+that every reasonable official  in Cho’s position would have 
+understood that Gordon’s constitutional rights were being 
+violated.   
+ In 1979, Bell made clear that pretrial detainees may not be 
+punished for the crimes for which they were arrested before an 
+adjudication of their guilt.  441 U.S. at 535.  Under  Bell, 
+courts may infer that conditions of confinement are punishment 
+if they are the result of an expressed intent to punish, if they 
+are not rationally related to a legitimate alternative purpose, 
+or if they are excessive in relation to that legitimate 
+alternative purpose.  441 U.S. at 538-39.  In evaluating an 
+official’s claim of qualified immunity,  however,  courts should 
+not “define clearly established law at a high level of 
+generality.”   al-Kidd, 563 U.S. at 742.  I nstead, the clearly 
+established law inquiry “m ust be undertaken in light of the 
+specific context of the case, not as a broad general 
+proposition.”  Brosseau v. Haugen , 543 U.S. 194, 198 (2004) ( per 
+curiam) (internal citation omitted).  Turning to the specific  
+context of this case, we conclude that in 2010, the law was not 
+sufficiently clear so that every reasonable official in Cho’s 
+position would have understoo d that keeping Gordon in maximum 
+security custody, based on the criteria applied, would amount to 
+punishment in violation of his due process ri ghts.   ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+42 
+  In Bell, the conditions challenged were imposed on all 
+pretrial detainees, and prison officials’ explanations of the 
+necessity of those conditions were therefore based on broad, 
+facility- wide concerns.  441 U.S. at 541- 58.  In Gordon’s case , 
+prison officials imposed highly restrictive conditions on him as 
+an individual and, at the time Cho acted, federal law provided 
+little guidance to prison officials with respect to making 
+security assessments of individual detainees.   In 2010, it was 
+at least clear that pretrial detainees may not be placed in 
+highly restrictive conditions simply because they are pretrial 
+detainees.  See Lock v. Jenkins , 641 F.2d 488, 494 (7th Cir. 
+1981) (concluding that placing all pretrial detainees in 
+“conditions more burd ensome than those imposed on the general 
+population of convicted felons,” regardless of their individual 
+characteristics, “amount[ed] to punishment under Bell”).  
+However, c ourts largely deferred to officials’ expertise in 
+prison management.  See, e.g., Block v. Rutherford , 468 U.S. 576 
+(1984) (upholding a ban on contact visits for pretrial detainees 
+because “responsible, experienced administrators have 
+determined, in their sound discretion, that such visits will 
+jeopardize the security of the facility.”) .  Because the law on 
+what conditions amount to punishment was not sufficiently 
+developed when Cho acted in 2010 , we cannot say that every 
+reasonable official in Cho’s position would have known that ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+43 
+ keeping Gordon in solitary confinement, based on the reasons 
+provided, was a violation of his constitutional due process 
+rights.   
+ To reiterate, Cho and the Committee based their September 
+22, 2010 decision to retain Gordon in solitary confinement based 
+on their assessment that Gordon was a “high -risk” and “high 
+flight risk” detainee due to his pending charges, prior 
+convictions, “discharge and failure to comply with 2 residential 
+drug treatment programs while on probation,” non -compliance with 
+reporting to his probation officer when leaving Hawai ‘i, 
+extradition back to Hawai ‘i while on probation, and the bail 
+amount for his pending charges. 
+ 
+At the time Cho acted in September of 2010, even though 
+some federal district courts had previously found that solitary 
+confinement was punishment when it was based only on pending 
+charges or vague allegations of dangerousness, those cases are 
+distinguishable.  United States v. Lopez , 327 F. Supp. 
+2d 138, 
+142-43 (D.P.R. 2004), found that a detainee’s automatic 
+placement in administrative detention because he faced the death 
+penalty excessive in relation to prison officials’ legitimate 
+purposes.  United States v. Gotti , 755 F. Supp. 1159, 1164- 65 
+(E.D.N.Y. 1991), found detainees’ placement in administrative 
+detention excessive in relatio n to prison officials’ security 
+concerns where the only justification proffered was their ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+44 
+ pending charges, with no evidence that the detainees posed a 
+serious threat to other inmates or the institution
+.  Boudin v. 
+Thomas, 533 F. Supp. 786, 791- 92 (S.D.N.Y. 1982), ruled that  
+placing a pretrial detainee in administrative detention because 
+of “[t]he nature of her crime [and] her . . . unsubstantiated 
+affiliation with a terrorist organization” was excessive in 
+relation to the prison warden’s legitimate purposes .  In 
+Gordon’s case, additional factors to those  cited in these cases 
+were given as reasons by Cho and the Committee for keeping 
+Gordon in solitary confine ment.  In addition, although “the 
+views of the federal courts of appeals do not bind [a state 
+supreme court] when it decides a federal constitutional 
+question[,]”  Johnson v. Williams , 568 U.S. 289, 305 (2013), 
+they can be persuasive.  In this regard, the Seventh Circuit 
+Court of Appeals held in Rapier v. Harris , 172 F.3d 999 (7th 
+Cir. 1999), a 42 U.S.C. § 1983 case, that even if keeping a 
+pretrial detainee in administrative segregation constituted 
+prohibited punishment, defendants enjoyed qualified immunity 
+because, at the time the defendants acted, the law was not 
+sufficiently clear to apprise them that maintaining the 
+defendant in segregation was not sufficiently related to the 
+legitimate government objective of maintaining good order and 
+discipline within the facility.  172 F.3d at  1006.  In addition, 
+as late as 2017, the Second Circuit held in Almighty Supreme ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+45 
+ Born Allah v. Milling , 876 F.3d 48 (2d Cir. 2017), that “the  
+general principle articulated in [ Bell] does not clearly 
+establish that a substantive due process violation would result 
+from [the pretrial inmate’s] placement in Administrative 
+Segregation based solely on his prior assignment to (and failure 
+to complete) that [Administrative Segregation] program [during a 
+previous incarceration].”  876 F.3d at 59.  Holding that the 
+defendants were entitled to qualified immunity, the Second 
+Circuit noted, “[n]o prior decision of the Supreme Court or of 
+this Court (or, so far as we are aware, of any other court) has 
+assessed the constitutionality of that particular practice.”   
+876 F.3d at 59-60.  Likewise, we see no cases that assessed the 
+constitutionality of the criteria evaluated by Cho and the 
+Committee in reaching a decision that Gordon should be continued 
+in solitary confinement.      
+ 
+Gordon cited as supplemental authority four federal cases 
+that are distinguishable from this case and do not demonstrate,  
+at the time of Cho and the Committee ’s decision to retain Gordon 
+in pretrial solitary confinement, a vio lation of a “clearly 
+established” constitutional right of which every reasonable 
+official would have known of at the time the official acted.  
+Proctor v. LeClaire , 846 F.3d 597 (2d Cir. 2017)
+, involved a 
+convicted defendant, not a pretrial detainee.27  Gordon also 
+                     
+27  We note, however, that the ABA Criminal Justice Standards and federal 
+(continued. . .)  ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+46 
+ cited to Almighty, discussed in the paragraph above, which 
+28actually held that qualified immunity applied.   Likewise, 
+Williams v. Secretary Pennsylvania Department of Corr ections, 
+848 F.3d 549, cert. denied  138 S.Ct. 357 (U.S. Oct. 16, 2017) 
+(Nos. 17-53, 17-5116), prospectively held that inmates on death 
+row whose death sentences have been vacate
+d have a due process 
+right to avoid continued placement in solitary confinement 
+absent meaningful protections discussed therein, but also found 
+qualified immunity applied as to the prison official defendants 
+in that case.  Finally, the last supplemental authority cited by 
+Gordon, V.W. by and through Williams v. Conway , 236 F. Supp.  3d 
+554 (N.D.N.Y. 2017), ruled that summary judgment had improperly 
+been granted in favor of a school district in a purported class 
+action brought on behalf of juveniles subjected to solitary 
+confinement, but had yet to address actual liability or the 
+possible applicability of qualified immunity, if liability was 
+found.  
+ Thus,  like in Almighty, we see no cases that assessed the 
+combination of criteria evaluated by Cho and the Committee in 
+reaching their decision that Gordon may be continued in solitary 
+                                                                               
+(. . . continued) 
+prison policy factors we discuss in Section IV( C) below for assessing when 
+solitary confinement may be used  also apply to convicted defendants.  
+ 
+28  Gordon also cited to that case  when the April 25, 2018 petition for  
+certiorari was pending before the United States Supreme Court, but the 
+certiorari petition was dismissed by the Court on September 4, 2018.  See 
+Docket No. 15 -8654 in the United States Supreme Court.  
+ ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+47 
+ confinement.  The circuit court’s conclusion that Cho was 
+entitled to qualified immunity because she did not knowingly  
+violate Gordon’s rights was erroneous  because it was based on an 
+improper standard of law .  However, because whether a right was 
+clearly established under federal law at the time a defendant 
+acted is a “purely legal” question reviewable de novo, and 
+because we conclude that Gordon’s rights were not sufficiently 
+clear in 2010 that every reasonable official
+ in Cho’s position 
+would have known that keeping Gordon in solitary confinement 
+based on the criteria 
+applied violated his constitutional 
+rights, Cho is nevertheless entitled to qualified immunity.   
+ This opinion clearly  establishes for Hawai ʻi prison 
+officials, however, that holding a pretrial detainee in solitary 
+confinement under Gordon’s circumstances violates a pretrial 
+detainee’s Fourteen th Amendment due process right to be free 
+from punishment.   With respect to the reasons given by Cho and 
+the Committee29 to maintain Gordon in maximum security and  
+solitary confinement , “the nature and seriousness of [a 
+detainee’s] current charges”  may bear some relationship to 
+institutional order and security if the underlying facts or 
+nature of the charges correspond  to the ABA Criminal Justice 
+Standards and federal prison policy factors for solitary 
+                     
+29  Similar reasons were later given by Chun and Johnson.  ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+48 
+ confinement discussed in Section IV(C) below, but because 
+defendants did not know the factual basis for Gordon's pending  
+charges or explain how his charges could indicate a threat to 
+institutional order and security, defendants failed to show the 
+conditions of Gordon's pretrial custody were reasonably related 
+to any legitimate government purpose on this basis.  “The number 
+and kind of his prior convictions” and “[h]is extensive criminal  
+history and numerous periods of incarceration” might have been 
+reasonably related to a legitimate government purpose to the 
+extent they included assaultive behavior; however, in Gordon’s 
+case, he had committed no institutional misconduct during prior  
+incarcerations.  Likewise, “[h]is failure to comply w ith two 
+residential drug treatment programs” might have been reasonably 
+related to a legitimate government purpose if the failure 
+related to possible disruption of institutional order and 
+security; in Gordon’s case, however, no such evidence existed.  
+In addition, there was no explanation as to how Gor don’s 
+“[l]eaving the state without permission while on probation ” and 
+“extradition to Hawaii” relat ed to possible escape from OCCC, a  
+secure facility.  His being “on probation when charged with his  
+current offense” likewise did not bear on institutional or der or 
+security.  Gordon’s “$1,000,000 bail amount” also did not  
+directly bear on possible institutional security issues, ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+49 
+ especially in light of the lack of any institutional misconduct 
+during prior incarcerations.30   
+Just as “loading a detainee with chain s and shackles and 
+throwing him in a dungeon may ensure his presence at trial and 
+preserve the security of the institution,” unless there is a 
+legitimate government purpose, placement of a pretrial detainee 
+in solitary confinement can support a conclusion that it was 
+imposed to punish the detainee, in light of “so many alternative 
+and less harsh methods” that could achieve the same objectives.  
+Bell, 441 U.S. at 539 n.20. The ABA Standards and federal prison 
+policies discussed in Section IV(C) below provide guidelines on 
+when solitary confinement might be reasonably related to a 
+legitimate government purpose so as not to violate a pretrial 
+detainee’s due process rights.   
+B. Gordon’s State Law Negligence Claim  
+ With respect to his 
+negligence  claim against Cho, 
+individually, Gordon’s Application argues Cho was not entitled 
+to qualified immunity under Towse.  In Towse, we clarified our 
+state law qualified immunity standard for non- judicial 
+officials:   
+ Our courts have held that a non -judicial governmental 
+officer does not enjoy an absolute immunity for his 
+tortious acts. . . . [W]hen an official “in exercising his 
+                     
+30  Cho was not responsible for Gordon’s initial custody evaluation that, 
+in addition to these factors, also considered his age.  See supra, n.5.  We 
+express no opinion at this time whether prison officials can consider age in 
+evaluating custody classifications.   ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+50 
+ authority is motivated by malice, and not by an otherwise 
+proper purpose, . . . he should not escape liability for 
+the injuries he c auses.”  
+ 
+64 Haw. at 630-31, 647 P.2d at 701-02 (citation omitted).   
+ 
+The circuit court concluded Gordon did not prove by a 
+31preponderance of the evidence that Cho acted with malice
+;   
+accordingly, Gordon did not meet his burden of proving malice by 
+32clear and convincing evidence.   See Medeiros v. Kondo, 55 Haw. 
+499, 504, 522 P.2d 1269, 1272 (1974) (placing “the burden of 
+adducing clear and convincing proof that [the] defendant was 
+motivated by malice” on the plaintiff )
+.  The circuit court’s 
+findings and conclusions with respect to Cho’s qualified 
+immunity for Gordon’s  state law  negligence claim are  not clearly 
+erroneous.  
+C. Gordon’s State Due Process Claim 
+ The circuit court did not specifically address Gordon’s 
+state due process claim under Article I, S ection 5 of the Hawai ‘i 
+Constitution, which provides that “[n] o person shall be deprived 
+of life, liberty or property without due process of law . . . .”   
+Although the State of Hawai ‘i has not waived its sovereign 
+                     
+31  It does not appear the State raised any arguments based on the State 
+Tort Liability Act, under which “[t] he State . . . waives its immunity for 
+liability for the torts of its employees and shall be liable in the same 
+manner and to the same extent as a private individual under like 
+circumstances.”  Hawaii Revised Statutes (HRS) § 662- 2 (2016).  We therefore 
+do not address whether a private individual could be held liable for 
+negligence in setting the custody status of a pretrial detainee.  
+  
+32  All of the circuit court’s findings, “ [u]nless otherwise indicated, 
+. . . have been proven to be prob ably more true than not true.”  ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+51 
+ immunity to suits seeking monetary damages for constitutional 
+violations, Figueroa v. State , 61 Haw. 369, 383, 604 P.2d 1198, 
+1206-07 (1979), we address Gordon’s state law due process claim 
+because of the importance of the constitutional issue at stake 
+and to provide guidance pursuant to our supervisory powers under 
+33Hawaii Revised Statutes § 602-4 (2016).    
+ Like the Fourteenth Amendment of the United States 
+Constitution, Article I, Section 5 of the Hawai ‘i State 
+Constitution guarantees all persons a right to be free from 
+punishment prior to an adjudication of guilt in accordance with 
+due process of law.   Compare Haw. Const. art. I, § 
+5 (“No person 
+shall be deprived of life, liberty or property without due 
+process of law[.]”)  with U.S. Const. amend. XIV, §  1 (providing 
+that no state shall “deprive any person of life, liberty, or 
+property, without due process of law[.]”).    
+ We hereby adopt the Bell standard for determining whether 
+an Article I, Section 5 due process violation has occurred under 
+the circumstances of this case.  Thu s, a court may infer that a 
+condition or set of restrictions amounts to punishment of a 
+pretrial detainee when:  (1) there is “ a showing of an expressed 
+                     
+33  Section 602- 4 of the Hawaii Revised Statutes provides: 
+ 
+Superintendence of inferior courts.   The supreme court 
+shall have the general superintendence of all courts of 
+inferior jurisdiction to prevent and correct errors and 
+abuses therein where no other remedy is expressly provided 
+by law.  ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+52 
+ intent to punish on the part of detention facility officials ;” 
+(2) the condition or restriction is not “ reasonably related to a 
+legitimate goal
+;” or (3) the condition or restriction is 
+“excessive in relation to the alternative purpose assigned to 
+it.”  441 U.S. at 538 -39.  We note that under our constitution, 
+however, pretrial detainees may be guaranteed greater due 
+process protection than convicted prisoners. 
+ Accord State v. 
+Bayaoa, 66 Haw. 21
+, 25 n.2, 656 P.2d 1330, 1333 n.2 (1982) 
+(agreeing with the dissenting Bell
+ justices that, at least in 
+the context of Fourth Amendment searches, “the rights of persons 
+not yet convicted of crimes must be more closely scrutinized 
+than the rights of prisoners. ”) (citing Bell, 441 U.S. at 568 
+(Marshall, J., dissenting); 441 U.S. at 579 (Stevens, J., 
+dissenting)).   
+ We also note that model  practices acknowledge solitary 
+confinement as a legitimate administrative and penological tool, 
+but reserve its use for particularized and serious problems.  
+For example, t he American Bar Association’s (“ABA”) Criminal 
+Justice St andards on the Treatment of Prisoners (“ABA 
+Standards”) generally advise using solitary confinement or 
+“segregated housing” sparingly or not at all, except to manage 
+34specific concerns.   ABA, 
+ABA Criminal Justice Standards: 
+                     
+34  “Segregated housing”  is defined as “housing of a prisoner in conditions 
+characterized by substantial isolation from other prisoners, whether pursuant 
+(continued. . .)  ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+53 
+ Treatment of Prisoners , Standard  23-2.7(a) (3d ed. 2011).  Long-
+term segregated housing —- segregation that “is expected to 
+extend or does extend for a period of time exceeding 30 days” — - 
+may be used to impose discipline for a “very severe disciplinary 
+infraction, in which safety or security was seriously 
+threatened,” to curtail “a credible continuing and serious 
+threat to the security of others or to the prisoner’s own 
+safety,” or to prevent the spread of “airborne contagion.”  Id., 
+Standards 23-1.0(o), 23-2.7(a)(i-iii).  Further, the ABA 
+Standards advise that prisoners should not be placed in long
+-
+term segregated housing based on a  security risk posed by the 
+prisoner unless: 
+[L]ess restrictive alternatives are unsuitable in light of 
+a continuing and serious threat  to the security of the 
+facility, staff, other prisoners, or the public as a result 
+of the prisoner’s:  
+(i)  history of serious violent behavior in 
+correctional facilities ; 
+(ii) acts such as escapes or attempted escapes  from 
+secure correctional settings;  
+(iii) acts or threats of violence likely to 
+destabilize the institutional environment to such a 
+degree that the order and security of the facility is 
+threatened ; 
+(iv)  membership in a security threat group  
+accompanied by a finding based on specific and 
+reliable information that the prisoner either has 
+engaged in dangerous or threatening behavior directed 
+by the group or directs the dangerous or threatening 
+behavior of others; or  
+(v)  incitement or threats to incite group 
+disturbances  in a correctional facility.   
+ 
+Id., Standard 23-2.7(b) (emphases added).   
+                                                                               
+(. . . continued) 
+to disciplinary, administrative, or classification action.”   ABA Standards , 
+Standard 23 -1.0(r).
+ ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+54 
+  Federal prison policy is in accord with the  ABA Standards.  
+The Bureau of Prisons (“BOP”) requires pretrial detainees to be 
+held in the least restrictive conditions consistent with their 
+security needs.  BOP Program Statement 7331.04 on Pretrial 
+Inmates, § 6 (January 31, 2003).  P retrial detainees may be held 
+in a “special housing unit” (“SHU”), which amounts to solitary 
+confinement, but such confinement must always serve a specific 
+penological purpose, and an inmate’s status must be reviewed 
+within three work days of placement in the SHU, again at seven 
+calendar days, and then every thirty days after that.  BOP 
+Program Statement 5270.11 on Special Housing Units, § 1(a), 7 
+(Nov. 23, 2016).  
+ 
+The issue of whether current DPS solitary confinement 
+policies and procedures comports with state due process 
+35standards is not before us
+.  In this case, however, for the 
+reasons explained in Part IV, Section A, subsections 2, 3, and 
+4, Gordon’s placement in solitary confinement was not reasonably 
+related, and was excessive in relation to, any legitimate 
+government purpose.  Therefore , Gordon’s due process right under 
+Article I, Section 5 of the Constitution of the State of Hawai ʻi 
+                     
+35  We must express our serious concern, however, with the DPS policy 
+referenced in this case that only required the custody status of a maximum 
+custody inmate, whether pretrial detainee or sentenced prisoner, to be 
+reassessed once a year.  It appears this annual review policy would not pass 
+constitutional muster; as noted, even federal prisons require thirty day 
+reviews.  
+ ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+55 
+ was also violated. 
+ Because the State has not waived its sovereign immunity for 
+damages claims against the State for state constitutional 
+violations, however, there is no damages remedy  for the state 
+constitutional due process violation .  Additionally , the only 
+possible “further and additional relief” for this violation, as 
+requested by Gordon in his Amended Complaint,  would have been 
+injunctive or declaratory in nature.  At the time of trial in 
+this case,  Gordon was already being held in medium custody, thus 
+injunctive relief would have been unnecessary.  To provide 
+future guidance, however, we note that Gordon’s due process 
+rights under Article I, S ection 5 of the Hawai ʻi Constitution 
+36were violated.   
+V. Conclusion 
+ We conclude that Gordon was subjected to unlawful pretrial 
+punishment when he was detained in solitary confinement for over 
+nine months.  His treatment was a violation of his rights under 
+                     
+36  In Bell, pretrial detainees sought immediate relief from their 
+conditions of confinement and brought their claim by petition for writ of 
+habeas corpus, which the court declined to comment upon.  441 U.S. at 526 n.6 
+(“[W]e leave to another day the question of the propriety of using a writ of 
+habeas corpus to obtain review of the conditions of confinement[.]”).   
+ In our jurisdiction, the writ of habeas corpus is still available in 
+the pre- conviction context .  See HRS § 660-3 (2016) (“The supreme court . . . 
+and the circuit courts may issue writs of habeas corpus in cases in which 
+persons are unlawfully restrained of their liberty[.]”) ; see also Oili v. 
+Chang, 57 Haw. 411, 412, 557 P.2d 787, 788 (1976) (noting that habeas  
+petitions that would require an evidentiary hearing must be filed in the 
+circuit court).  The writ  has, however, been abolished in the post -conviction 
+context.  See Hawai‘i Rules of Penal Procedure Rule 40(a) (2006) (creating a 
+post-conviction proceeding that encompasses and supersedes “all common law 
+and statutory procedures for the same purpose, including habeas corpus ”).  ***  FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  ***  
+ 
+56 
+ the due process clauses of the Fourteenth Amendment of the 
+United States Constitution and Article I, Section 5 of the 
+Hawai
+‘i State Constitution.  We therefore overrule the ICA’s 
+memorandum opinion to that extent.  However, we conclude that 
+Cho was entitled to qualified immunity under federal and state 
+qualified immunity principles for her part in Gordon’s 
+confinement.  Accordingly,  the ICA’s July 6, 2017 judgment on 
+appeal, filed pursuant to its May 30, 2017 memorandum opinion, 
+is affirmed on other grounds.  
+Eric A. Seitz   
+(Della A. Belatti,  
+Bronson Avila, and  
+Sarah R. Devine with 
+him on the briefs)  
+for petitioner  
+  /s/ Mark E. Recktenwald 
+   
+  /s/ Paula A. Nakayama   
+  /s/ Sabrina S. McKenna 
+  
+     /s/ Richard W. Pollack 
+Kendall J. Moser 
+(Russell A. Suzuki and
+Caron M. Inagaki with 
+him on the briefs)  
+for respondents  

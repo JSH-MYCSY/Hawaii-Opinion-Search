@@ -1,0 +1,758 @@
+NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER
+ 
+NO. CAAP-16-0000793
+ 
+IN THE INTERMEDIATE COURT OF APPEALS
+ 
+OF THE STATE OF HAWAI' I 
+STATE OF HAWAI' I, Plaintiff-Appellee,
+v.
+ 
+KIMBERLY J. UDO, Defendant-Appellant
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT
+ 
+(CRIMINAL NO. 14-1-1199)
+ 
+SUMMARY DISPOSITION ORDER
+ 
+(By: Ginoza, Chief Judge, Leonard and Chan, JJ.)
+ 
+Defendant-Appellant Kimberly Udo (Udo) appeals from the
+ 
+"Judgment of Conviction and Sentence" entered on September 13,
+ 
+2016 in the Circuit Court of the First Circuit (circuit court).1
+ 
+The State of Hawai' i (State) charged Udo with one count of Murder 
+in the Second Degree pursuant to Sections 707-701.52 and 706-656
+ 
+of the Hawaii Revised Statutes (HRS). After a jury trial, Udo
+ was found guilty of the included offense of Manslaughter,
+ 
+1
+ The Honorable Rom A. Trader presided.
+ 
+2
+ § 707-701.5 Murder in the second degree.  (1) Except as
+provided in section 707-701, a person commits the offense of
+murder in the second degree if the person intentionally or
+knowingly causes the death of another person.
+ 
+(2) Murder in the second degree is a felony for which the
+defendant shall be sentenced to imprisonment as provided in
+section 706-656.
+  NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER 
+pursuant to HRS § 707-702(1)(a).3 The circuit court sentenced
+ 
+Udo to a term of imprisonment of twenty years.
+ 
+On appeal, Udo contends that the State committed
+ 
+multiple acts of prosecutorial misconduct which require reversal
+ 
+of her conviction and a new trial, and that she was deprived of
+ her right to effective assistance of trial counsel.
+ 
+Upon careful review of the record and the briefs
+ 
+submitted by the parties and having given due consideration to
+ the arguments advanced and the issues raised by the parties, as
+ well as the relevant statutory and case law, we affirm.
+I.	 Prosecutorial Misconduct
+ 
+In her first assignment of error, Udo argues that her
+ 
+conviction should be reversed and a new trial should be granted
+ 
+because the prosecutor committed misconduct when he A) cross-
+examined defense expert witness, James Navin, M.D. (Dr. Navin),
+ about his testimony in State v. Lankford and State v. Higa, B)
+ expressed his personal opinion that Dr. Navin was not credible,
+ C) damaged Dr. Navin's credibility during closing argument by
+ misleading the jury, and D) attacked Dr. Navin's integrity during
+ closing argument by making disparaging remarks about him.
+ 
+"[Appellate courts] evaluate[] claims of improper 
+statements by prosecutors by first determining whether the statements are improper, and then determining whether the misconduct is harmless." State v. Tuua, 125 Hawai' i 10, 14, 250 
+P.3d 273, 277 (2011); see also State v. Schnabel, 127 Hawai' i 
+432, 452-53, 279 P.3d 1237, 1257-58 (2012) (determining whether the prosecutor's statements amounted to misconduct before determining whether the misconduct was harmless). Appellate courts consider the following factors when determining whether a prosecutor's statements are harmless: "(1) the nature of the 
+3
+ HRS § 707-702(1)(a) (2014) provides:
+ 
+§ 707-702 Manslaughter. (1) A person commits the
+offense of manslaughter if:
+ 
+(a)	 The person recklessly causes the death of another
+person; . . . .
+ 
+2
+ NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER 
+conduct; (2) the promptness of a curative instruction; and (3) 
+the strength or weakness of the evidence against the defendant." State v. Rogan, 91 Hawai' i 405, 412, 984 P.2d 1231, 1238 (1999) 
+(quoting State v. Sawyer, 88 Hawai' i 325, 329 n.6, 966 P.2d 637, 
+641 n.6 (1998)). If the State's prosecutorial misconduct was not harmless, appellate courts must then determine whether the double jeopardy clause of the Hawai' i Constitution bars reprosecution of 
+the defendant. Id. at 416, 984 P.2d at 1242. 
+Furthermore, "[i]f defense counsel does not object at 
+trial to prosecutorial misconduct, this court may nevertheless recognize such misconduct if plainly erroneous." State v. 
+Wakisaka, 102 Hawai' i 504, 513, 78 P.3d 317, 326 (2003); see also 
+Hawai'i Rules of Penal Procedure Rule 52(b) ("Plain errors or 
+defects affecting substantial rights may be noticed although they were not brought to the attention of the court."). "[Appellate courts] may recognize plain error when the error committed affects substantial rights of the defendant." Id. (quoting State 
+v. Cordeiro, 99 Hawai' i 390, 405, 56 P.3d 692, 707 (2002)).
+A.	 Questioning Dr. Navin about his testimony in prior
+cases
+ 
+Udo argues that the prosecutor committed misconduct
+ 
+when he cross-examined Dr. Navin about his testimony in the
+ 
+Lankford and Higa cases because these matters were irrelevant and
+ prejudicial. Specifically, Udo alleges that the prosecutor
+ misled the jury when he asked Dr. Navin 1) about his testimony in
+ the Lankford case regarding a hypothetical that was based on the
+ version of events provided by the defendant, thereby suggesting
+ that Dr. Navin "took the word of . . . the accused murderer
+ without any independent corroboration to support [Lankford's]
+ version of events," and 2) if "the purpose of [Dr. Navin's]
+ testimony [in the Higa case] was to say that the defendant,
+ Matthew Higa, couldn't be guilty of murder because the baby he
+ threw off the overpass was already dead when it hit the
+ pavement[.]"
+ 
+We must first determine whether the State's cross-
+examination of Dr. Navin regarding his testimony in the Lankford
+ 
+3
+ NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER 
+and Higa cases was improper. See Schnabel, 127 Hawai' i at 452­
+53, 279 P.3d at 1257-58. The State argues that the purpose of 
+its cross-examination regarding the Lankford and Higa cases was to demonstrate Dr. Navin's bias towards the defense in cases involving the death of another person. 
+Rule 609.1 of the Hawai' i Rules of Evidence (HRE) 
+provides: 
+Rule 609.1 Evidence of bias, interest, or motive.
+(a)	 General rule. The credibility of a witness may be attacked
+by evidence of bias, interest, or motive.
+(b) 	 Extrinsic evidence of bias, interest, or motive.
+Extrinsic evidence of a witness' bias, interest,
+or motive is not admissible unless, on
+cross-examination, the matter is brought to the
+attention of the witness and the witness is
+ afforded an opportunity to explain or deny the
+matter.
+ 
+"Bias, interest, or motive is always relevant under HRE Rule
+ 
+609.1. So long as a proper foundation is laid, bias can be
+ raised at any time by the witness's testimony or other evidence."
+State v. Estrada , 69 Haw. 204, 220, 738 P.2d 812, 823 (1987)
+ 
+(emphasis added) (citing State v. Murphy, 59 Haw. 1, 575 P.2d 448
+(1978)).
+ 
+ 
+ 
+Furthermore, evidence of an expert witness's testimony 
+for the defense in prior cases is admissible under HRE Rule 609.1 
+in order to show the witness's bias towards the defense. See 
+Cenal v. Ragunton, 106 Hawai' i 298, 304-08, 104 P.3d 336, 342-46 
+(App. 2004) (affirming the circuit court's decision to allow the defendant's expert witness to be cross-examined on how often he had testified as a paid expert and the types of cases, in order to show the witness's bias as a "hired gun" for the defendant). Other states have held the same. See, e.g., People v. Price, 821 
+P.2d 610, 688 (Cal. 1991) (rejecting the defendant's claim that the prosecutor committed misconduct by questioning a defense expert about the expert's testimony for the defense in a prior case because "an expert's testimony in prior cases involving similar issues is a legitimate subject of cross-examination"); People v. Rich, 755 P.2d 960, 993 (Cal. 1988) (rejecting the defendant's misconduct claim based on cross-examining an expert about "the large number of cases in which he had testified for 
+4
+ NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER 
+the defense that various defendants were insane or suffered from
+ 
+diminished capacity" because "it is proper to elicit testimony
+ tending to show bias"); Rose v. State, 787 So. 2d 786, 798 (Fla.
+ 2001) ("We have in fact recognized a host of matters upon which
+ cross-examining counsel may inquire in demonstration of bias,
+ including, for instance, the frequency with which a defense
+ expert testifies for capital defendants."); Goldberg v. Boone,
+ 912 A.2d 698, 710-11 (Md. 2006) ("It is well established in
+ Maryland that an expert witness may be questioned on
+ cross-examination . . . about the expert's history of employment
+ as an expert witness, in order to reveal bias or interest in the
+ outcome of the proceeding."); Bennett v. State, 933 So. 2d 930,
+ 947 (Miss. 2006) ("Wide latitude is permitted in
+ cross-examination to show bias or motive and the affect on a
+ witness's credibility."); Eaton v. State, 192 P.3d 36, 118 (Wyo.
+ 2008) (holding that it is "standard fare" and not prosecutorial
+ misconduct to question an expert witness about "the number and
+ types of cases in which she testified for defendants in death
+ penalty cases, [and] the thrust of her testimony"); accord
+ Albarran v. State, 96 So. 3d 131, 173 (Ala. Crim. App. 2011).
+ 
+Here, the evidence of Dr. Navin's prior testimony was
+ 
+admissible, and Dr. Navin was afforded an opportunity to explain
+ or deny the State's allegations with respect to his prior
+ testimony. It appears that, in the State's cross-examination,
+ the prosecutor's characterization of Dr. Navin's prior testimony
+ in Lankford and the inquiries into the devastating nature of the
+ baby's injuries in Higa were unnecessarily provocative. See
+ 
+Rogan, 91 Hawai'i at 412-13, 984 P.2d at 1238-39 (regarding the
+ prosecutor's "duty to seek justice, to exercise the highest good
+ faith in the interest of the public" and "not [to] use arguments
+ calculated to inflame the passions . . . of the jury") (citations
+ omitted). However, because the prosecutor's conduct in this case
+ does not rise to the level of the misconduct in Rogan and because
+ the inquiry into Dr. Navin's testimony in Lankford and Higa was
+ generally pertinent to this case, we conclude that the State's
+ cross-examination of Dr. Navin about his testimony in Lankford
+ 
+5
+ NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER 
+and Higa was not improper, and thus, did not constitute 
+prosecutorial misconduct. See State v. Kiakona, 110 Hawai' i 450, 
+458, 134 P.3d 616, 624 (App. 2006) (holding that because the prosecutor's comments were not improper, there was no prosecutorial misconduct).
+B.	 Expressing his personal opinion on Dr. Navin's
+credibility
+ 
+Next, Udo argues that the prosecutor committed
+ 
+misconduct when he expressed his personal opinion during rebuttal
+ 
+closing argument by stating:
+ 
+Perhaps defense counsel thinks that $5,000 is chump change.
+Is it chump change to you? The prosecution never used such
+an offensive term in describing Dr. Navin. The prosecution
+never referred to him using that offensive term. But what
+ is evident is that his testimony is for sale. That's just
+the unassailable truth. It was for sale when he testified
+ for the defense in [the] State versus Kirk Lankford [case].
+It was for sale when he testified for the defense in Matthew
+ Higa['s case]. And it's for sale when he testifies for the
+ 
+defense here.
+ 
+Udo cites to State v. Marsh, 68 Haw. 659, 728 P.2d 1301 (1986) in
+ 
+arguing that the prosecutor improperly stated "his personal
+ opinion that Dr. Navin's testimony was not worthy of belief."
+ 
+In Marsh, the supreme court held that the prosecutor's
+ 
+presentation of her personal views during closing argument
+ prejudiced the defendant's right to a fair trial as to amount to
+ plain error, based in part on the fact that the prosecutor
+ "repeatedly" stated "on at least nine occasions her belief that
+ defense witnesses had lied." Id. at 660, 728 P.2d at 1302.
+ 
+The prosecutor's statements in this case did not
+ 
+directly state a personal opinion regarding Dr. Navin's
+ credibility, although the argument that something is an
+ "unassailable truth" comes very close to doing so. However, the
+ prosecutor's basic argument, that Dr. Navin was a paid witness
+ for the defense, was supported by the evidence. During Udo's
+ trial, Dr. Navin testified that he had been paid by the defense
+ to testify as an expert witness in the Lankford case and in the
+ instant case. With respect to the Higa case, Dr. Navin testified
+ that he did not remember how much he was paid to testify for the
+ defense in that case. Therefore, it is not unequivocal that Dr.
+ 
+6
+ NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER 
+Navin had assessed a fee for his testimony in Higa. However, Dr. 
+Navin testified in the instant case that when he first began his work testifying as an expert witness, he did not charge a fee, but eventually thereafter began to charge for his testimony. Because Dr. Navin testified that he had been paid by the defense to testify in the Lankford trial, which occurred before the Higa trial, it can be reasonably inferred from the evidence that Dr. Navin had been paid by the defense to testify as an expert witness in the Higa case as well. See State v. Clark, 83 Hawai' i 
+289, 304, 926 P.2d 194, 209 (1996) ("It is also within the bounds of legitimate argument for prosecutors to . . . draw all reasonable inferences from the evidence."). 
+Accordingly, the prosecutor's statements that Dr. 
+Navin's testimony was "for sale" in Lankford, Higa, and the instant case did not constitute the prosecutor's personal opinion, and therefore, did not constitute prosecutorial misconduct. See Kiakona, 110 Hawai' i at 458-59, 134 P.3d 616, 
+624-25. 
+C.	 Damaging Dr. Navin's credibility during closing
+argument
+ 
+Udo further argues that the State committed
+ 
+prosecutorial misconduct during closing argument when the
+ 
+prosecutor argued that 1) Dr. Navin's failure to corroborate the
+ factual scenario provided by Lankford's attorney was evidence of
+ Dr. Navin's bias; 2) "the purpose of Dr. Navin's testimony in
+ [the Higa] case was to provide a defense for the accused murderer
+ that a murder couldn't have happened based on throwing a baby off
+ of an overpass because the baby could have been dead already"; 3)
+ Dr. Navin "made up" his claim that the victim "became less
+ responsive, [and] was only blocking punches"; and 4) Dr. Navin
+ "admitted that he was retained by [attorney Michael Green (Mr.
+ Green)], but eventually didn't testify because he couldn't give
+ anything that was favorable to the defense."
+1)	 Remarks regarding Lankford
+ 
+Udo argues that the prosecutor first committed
+ 
+misconduct during his closing argument when he argued that Dr.
+ 
+7
+ NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER 
+Navin's failure to corroborate a factual scenario based on
+ 
+Lankford's version of events was evidence of bias. The
+ prosecutor stated:
+ 
+Consider his testimony in other murder cases. In the
+ 
+case of State of Hawaii versus Kirk Matthew Lankford, the
+case of the missing Japanese student, he testified just
+across the hall. He gave an expert opinion as to the
+missing student's cause of death based on a scenario given
+to him by the defendant. And in fact he admitted on cross-
+examination that there was no independent corroboration for
+that version of events.
+ 
+And so he testified to a reasonable degree of medical
+certainty in another murder case that the missing student,
+Masumi Watanabe, essentially killed herself when she jumped
+out of a moving car that was traveling 30 to 40 miles per
+hour, struck her head on a rock, damaged her brain stem, and
+died. That was his testimony in another murder trial just
+across the hall. 
+That is a clear cut example of his defense
+ 
+bias.
+ 
+(Emphasis added.)
+ 
+Although the reference to the lack of independent
+ 
+corroboration was potentially inflammatory, the defense had the
+ 
+opportunity to object or remind the jury that the testimony was
+ in response to a hypothetical based on the defendant's version of
+ the events and argue that it did not demonstrate bias. We reject
+ Udo's contention that these remarks constituted prosecutorial
+ misconduct.
+ 
+2) Remarks regarding Higa
+ 
+Next, Udo contends that the prosecutor committed
+ 
+misconduct during closing argument when he argued that "the
+ purpose of Dr. Navin's testimony in [the 
+Higa] case was to
+ 
+provide a defense for the accused murderer that a murder couldn't
+ have happened based on throwing a baby off of an overpass because
+ the baby could have been dead already." Udo argues that this
+ statement was improper because the record shows that during
+ cross-examination, Dr. Navin had stated that it was not his
+ purpose to provide a defense for Higa.
+ 
+With regard to the prosecution's closing argument, a
+prosecutor is "permitted to draw reasonable inferences from
+the evidence and wide latitude is allowed in discussing the
+evidence. It is also within the bounds of legitimate
+argument for prosecutors to state, discuss, and comment on
+the evidence as well as to draw all reasonable inferences
+ from the evidence."
+ 
+8
+ NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER 
+Rogan, 91 Hawai' i at 412, 984 P.2d at 1238 (quoting State v. 
+Quitog, 85 Hawai' i 128, 145, 938 P.2d 559, 576 (1997)). 
+Here again, the prosecutor's argument tended to
+ 
+unnecessarily highlight the odious nature of the facts in the
+ 
+Higa case. However, we conclude that the prosecutor's statement
+ did not constitute prosecutorial misconduct. The prosecutor
+ argued that the purpose of Dr. Navin's testimony was to provide a
+ defense for Higa that the baby could have been dead prior to
+ being thrown off of the overpass, in which case the baby's death
+ could not have been caused by being thrown off of the overpass.
+ The transcript shows that Dr. Navin's testimony in the instant
+ case was not inconsistent with the challenged portion of the
+ prosecutor's closing argument. First, the transcript shows that
+ Dr. Navin testified in Higa that the baby was probably dead
+ before Higa threw him off of the overpass. The prosecutor then
+ asked Dr. Navin if the purpose of his testimony in Higa was to
+ establish that the baby was already dead when he hit the
+ pavement. Dr. Navin responded that it was not, and indicated,
+ rather, that there was a possibility that the baby had been
+ killed before being thrown off of the overpass. The prosecutor
+ also asked Dr. Navin if the purpose of his testimony in Higa was
+ to present evidence that Matthew Higa was not guilty of murder.
+ Dr. Navin responded that that was not the purpose of his
+ testimony because Higa "could have" murdered the baby prior to
+ throwing him off of the overpass.
+ 
+Although it dealt with difficult subject matter, the
+ 
+prosecutor's statement regarding the purpose of Dr. Navin's
+ testimony in Higa was not inconsistent with the evidence,
+ addressed the prosecution's contention of bias by Dr. Navin, and
+ thus did not constitute prosecutorial misconduct.
+3) Remarks that Dr. Navin "made up" a claim
+ 
+Udo contends that the prosecutor "misled" the jury when
+ 
+he argued during closing argument that Dr. Navin had "made up"
+ 
+the hypothesis that during the fight between Udo and the victim,
+ the victim became less responsive, did not fight any longer, and
+ only tried to block punches. Specifically, the prosecutor
+ 
+9
+ NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER 
+stated:
+ 
+Dr. Navin also misstated the facts. He told you on
+direct and cross-examination that he read all relevant
+ 
+reports including the statement of the witnesses who were
+there. Who were the only State witnesses who could have
+been there that morning? There were four people; right?
+Robert Subey who was passed out drunk. Richard Kazmierski
+ who was at 7-Eleven. So we can cross those two out; right?
+Mimi Clinton who didn't testify, but based on the
+information that you know, she's crazy. So who's left?
+ 
+Charles Kingston.
+ 
+Did Charles Kingston ever say this, quote, During the
+fight she, meaning Sandy, became less responsive. She did
+ 
+not fight any longer but only tried to block punches, closed
+quote? That's what Dr. Navin testified to, and he said he
+got that from the charts, from the records. That's clearly
+not what happened. Charles Kingston told you what happened.
+Once Sandy went to the ground and was kicked to the head,
+she was rendered unconscious. She wasn't breathing. She
+ wasn't moving. She wasn't fighting back.
+ 
+So why does Dr. Navin claim that Sandy became less
+responsive, was only blocking punches? Because he needs to
+have that fact so it dovetails with his bogus heart attack
+narrative. That's the way it works. I specifically asked
+him did Charles Kingston ever claim that Sandy was blocking
+punches while she was on the ground? He couldn't point me
+to a page or a line where Kingston said that. This is not
+ true. It's made up. And it goes to his methodology. Are
+ his opinions based on sound reasons, correct information,
+and clear judgment? The answer is no.
+ 
+Udo argues that the prosecutor's statements that Dr. Navin "made
+ 
+up" his hypothesis that the victim had died of a heart attack
+ were misleading because Dr. Navin had allegedly based this
+ hypothesis on a statement given to the police by eyewitness Mimi
+ Clinton describing the victim's behavior during the fight.
+ 
+In 
+Clark, 83 Hawai' i at 306, 926 P.2d at 211, the 
+Hawaii Supreme Court held that it was within the limits of propriety for the prosecutor to infer and argue during closing
+ argument that the defendant's story was improbable and untruthful
+where there was evidence conflicting with the defendant's story.
+ The supreme court reasoned that
+ 
+'
+ 
+a prosecutor, during closing argument, is permitted to draw
+reasonable inferences from the evidence and wide latitude is allowed in discussing the evidence. [State v. Apilando, 79
+Hawai'i 128, 141–42, 900 P.2d 135, 148] (citing State v. 
+Zamora, 247 Kan. 684, 803 P.2d 568 (1990)) (other citations
+omitted). It is also within the bounds of legitimate
+argument for prosecutors to state, discuss, and comment onthe evidence as well as to draw all reasonable inferences 
+from the evidence. See, e.g. , State v. Abeyta , 120 N.M.
+233, 901 P.2d 164, 177–78 (1995) ("Where the evidence 
+10
+  NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER
+ 
+presents two conflicting versions of the same events, 'a
+party may reasonably infer, and thus, argue, that the other
+side is lying.'" (Citations omitted.)); Ex parte Waldrop,
+459 So.2d 959, 961 (Ala.1984) ("During closing argument, the
+prosecutor as well as defense counsel has a right to present
+his [or her] impressions from the evidence, if reasonable
+and may argue every legitimate inference."); People v.
+Sutton, 260 Ill.App.3d 949, 197 Ill.Dec. 867, 876, 631
+N.E.2d 1326, 1335 (1994) ("The prosecution may base its
+closing argument on the evidence presented or reasonable
+inference therefrom, respond to comments by defense counsel
+which invite or provoke response, denounce the activities of
+defendant and highlight the inconsistencies in defendant's
+argument.")
+ 
+. . . .
+ 
+Comments to the effect that a defendant or a defense
+ 
+witness were lying have repeatedly been upheld. A
+ prosecuting attorney may comment on the evidence and
+the credibility of witness[es] and, in the process,
+may belittle and point to the improbability and
+untruthfulness of specific testimony. Here the
+ comments on the testimony of the witnesses were well
+within the range of the prosecutor's adversarial
+responsibilities in making closing argument.
+ 
+[State v. Weaver, 912 S.W.2d 499 (Mo. 1995)] (citation
+omitted). See also State v. Vitale , 801 S.W.2d 451, 457
+(Mo.Ct.App.1990) (prosecutor's characterization of defense
+witnesses' account of the events as "cock and bull story"
+was permissible inference clearly drawn from the
+inconsistencies in their testimony); People v. Smith , 122
+Mich.App. 106, 332 N.W.2d 428, 430 (1982) (prosecutor's
+reference to Charles Manson during closing argument and
+statement characterizing the defendant's testimony that "I
+would submit to you that that would be insulting your
+intelligence and it's clearly a cock and bull story" upheld
+because prosecutor was "commenting only on the strength of
+his case"); McGee v. Commonwealth , 395 S.W.2d 378, 380
+(Ky.1965) (prosecutor's statement that the defendant "came
+in here with a cock and bull story that it was an accident
+and expected the jury to let him off" was permissible and
+warranted by the evidence).
+ 
+Id. at 304–06, 926 P.2d at 209–11.
+ 
+Here, the prosecutor's statements that Dr. Navin had
+ 
+"made up" a hypothesis that the victim had died of a heart attack
+ 
+constituted a proper comment that a defense witness had lied
+ based on the fact that there was evidence conflicting with Dr.
+ Navin's statement that the victim had become less responsive
+ during the fight and only tried to block Udo's punches. The
+ prosecutor explained that the testimony of eyewitness Charles
+ Kingston that the victim was rendered completely unconscious
+ after being kicked in the head conflicted with Dr. Navin's
+ hypothesis that the victim had died of a heart attack, in order
+ 
+11
+ NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER 
+to infer and argue that Dr. Navin had "made up" his hypothesis.
+ 
+See id. at 304–05, 926 P.2d at 209–10 ("Where the evidence
+ presents two conflicting versions of the same events, 'a party
+ may reasonably infer, and thus, argue, that the other side is
+ lying.'" (citation omitted)). Accordingly, the prosecutor's
+ statements that Dr. Navin "made up" his hypothesis that the
+ victim died of a heart attack were not improper, and therefore,
+ did not constitute prosecutorial misconduct.
+4)	 Remarks regarding Mr. Green
+ 
+Udo contends that the prosecutor committed misconduct
+ 
+during closing argument when he stated that Dr. Navin "admitted
+ 
+that he was retained by Mr. Green, but eventually didn't testify
+ because he couldn't give anything that was favorable to the
+ defense." Udo argues that this statement was improper because
+ the record shows that Dr. Navin had not actually admitted to
+ having been previously retained by Mr. Green.
+ 
+On cross-examination, the prosecutor asked Dr. Navin
+ 
+about previously testifying for Mr. Green:
+ 
+Q.	 Do you know someone named Michael Green?
+ 
+A.	 Yeah.
+ Q.	 Criminal defense attorney in town?
+ A.	 Yeah.
+ Q.	 You recall that Michael Green tried to retain you but
+you couldn't testify for him because your testimony
+would have been of no benefit to his case, do you
+remember that?
+ 
+A.	 No, I don't.
+ 
+Q. 	 Do you remember testifying on January 26, 2010 that
+Mr. Green in fact had reached out to you but you
+couldn't testify for him because you wouldn't have
+been any help to him, do you remember testifying to
+that?
+ 
+A.	 No, I don't.
+ 
+Q.	 Turn to tab 86.
+ 
+A. 	 Huh?
+ Q.	 Turn to tab 86 please. Turn to tab 86. And we're
+ 
+going to use the page numbers in the lower right-hand
+corner. I'll ask you to go to page 512, lines 8
+through 11. So you testified under oath in the Higa
+trial: "Yes, it was Lankford, and then one other one
+ 
+12
+ NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER 
+and actually for Mr. Green. I was prepared to testify
+another case but as it turned out it wasn't going to
+help."
+Do you remember testifying to that, Dr. Navin?
+ 
+A.	 Oh. I don't remember what the case was.
+ 
+Q.	 Okay. But do you remember Mr. Green reaching out to
+you and ultimately you didn't testify for him because
+whatever you had to offer wasn't going to help his
+case?
+ 
+A.	 I don't actually remember all that.
+ 
+In light of our review of the record, we agree with Udo 
+that Dr. Navin had not "admitted that he was retained by Mr. 
+Green." Therefore, the prosecutor's remarks did not constitute a "reasonable inference[] from the evidence," and were thus improper. See Rogan, 91 Hawai' i at 412, 984 P.2d at 1238. 
+Because we have concluded that the State's remarks were 
+improper so as to constitute prosecutorial misconduct, we next evaluate whether the improper remarks were harmless based on the three Rogan factors: "(1) the nature of the conduct; (2) the promptness of a curative instruction; and (3) the strength or weakness of the evidence against the defendant." Rogan, 91 
+Hawai'i at 412, 984 P.2d at 1238 (quoting Sawyer, 88 Hawai' i at 
+329 n.6, 966 P.2d at 641 n.6). After considering these three factors, we conclude that the prosecutorial misconduct in the instant case was harmless beyond a reasonable doubt. 
+In considering the first Rogan factor, the nature of 
+the conduct, we conclude that the misconduct here was far less egregious than the misconduct in other cases in which the defendants' convictions were vacated and remanded for new trials. See, e.g., Wakisaka (vacating and remanding where the prosecution improperly commented on the defendant's failure to testify thus infringing on his substantial rights); State v. Pacheco, 96 Hawai'i 83, 95, 26 P.3d 572, 584 (2001) (vacating and remanding 
+where "the [prosecution's] characterization of [the defendant] as an 'asshole' strongly conveyed his personal opinion and could only have been calculated to inflame the passions of the jurors and to divert them, by injecting an issue wholly unrelated to [the defendant's] guilt or innocence into their deliberations, 
+13
+  NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER 
+from their duty to decide the case on the evidence"); Marsh, 68 
+Haw. 659, 728 P.2d 1301 (1986) (vacating and remanding where the prosecutor, in closing, repeatedly stated her personal belief that the defendant was guilty); State v. Shabazz, 98 Hawai' i 358, 
+48 P.3d 605 (App. 2002) (vacating and remanding where the prosecutor highlighted racial differences between the victim and defendants when doing so had no "legitimate bearing on some issue in the case"). In addition, the prosecutor's remarks, while improper, had a legitimate bearing on the issue of Dr. Navin's credibility as an expert witness for the defense. See Clark, 83 
+Hawai'i at 306, 926 P.2d at 211 (noting that a prosecuting 
+attorney may comment on the credibility of a witness during closing argument). 
+As to the second Rogan factor, the promptness of a 
+curative instruction, "a prosecutor's improper remarks are generally considered cured by the court's instructions to the jury, because it is presumed that the jury abided by the court's admonition to disregard the statement." Rogan, 91 Hawai' i at 
+415, 984 P.2d at 1241 (quoting State v. McGriff, 76 Hawai' i 148, 
+160, 871 P.2d 782, 794 (1994)). Here, the circuit court did not give a curative instruction regarding the State's comment about Mr. Green, however, Udo had not made an objection to the comment. Cf. Rogan, 91 Hawai' i at 415, 984 P.2d at 1241 (holding that the 
+second Rogan factor weighed heavily in favor of the defendant where no curative instruction was given and the circuit court had 
+overruled defense counsel's timely objection to the improper statement). Accordingly, this factor weighs in favor of Udo, but not heavily. 
+The third and final Rogan factor, the strength or
+ 
+weakness of the evidence against Udo, weighs in favor of the
+ State. We first note that Dr. Navin was the only defense witness
+ in this case. By making the improper statement, the prosecutor
+ likely sought to undermine Dr. Navin's credibility by
+ illustrating an example of Dr. Navin's history of being retained
+ by the defense. However, as noted above, the prosecutor properly
+ presented evidence of other examples of Dr. Navin's bias towards
+ 
+14
+ NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER 
+the defense by discussing Dr. Navin's testimony in favor of the 
+defendants in Higa and Lankford, thus reducing the likelihood that the improper statement contributed to Udo's conviction. Furthermore, the evidence against Udo included the expert testimony of Christopher Happy, M.D., whose theory that Udo caused the victim's death was supported by the testimony of both the paramedic who arrived on the scene and an eyewitness who witnessed the fight between Udo and the victim. See Rogan, 91 
+Hawai'i at 415, 984 P.2d at 1241 (in examining the third Rogan 
+factor, the supreme court has "considered the number of witnesses who had been present during the events in question and who testified against [the defendant]"). 
+In consideration of all three Rogan factors, we
+ 
+conclude that the prosecutor's improper remarks regarding Mr.
+ Green were harmless beyond a reasonable doubt.
+D. Attacking Dr. Navin's integrity during closing argument
+ 
+Lastly, Udo argues that the State committed
+ 
+prosecutorial misconduct during closing argument when the
+ 
+prosecutor made the following statements:
+ 
+1) "[Dr. Navin], as demonstrated on cross-examination,
+ 
+is on the speed dial for the criminal defense bar here in
+ Honolulu."
+ 
+2) "[I]f Dr. Navin does not give an opinion that's
+ 
+favorable to his paying client, his phone stops ringing. That's
+ the way it works."
+ 
+3) Dr. Navin is "a paid defense witness whose opinion
+ 
+is for sale. That's the way it is."
+ 
+4) "When Dr. Navin stops presenting expert testimony
+ 
+favorable to the defense in criminal cases, his phone stops
+ ringing. Clearly he wants his phone to continue to ring."
+ 
+We conclude that these statements were not improper, as 
+they all constitute "reasonable inferences from the evidence" of Dr. Navin's history of being paid by the defense to testify as an expert witness, and giving testimony favorable to the defense. See Clark, 83 Hawai' i at 304, 926 P.2d at 209 ("It is also within 
+the bounds of legitimate argument for prosecutors to state, 
+15
+ NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER 
+discuss, and comment on the evidence as well as to draw all
+ 
+reasonable inferences from the evidence."). The prosecutor's
+ references to Dr. Navin being on "speed dial" and Dr. Navin's
+ phone ringing were mere colloquialisms alluding to Dr. Navin's
+ history of being retained as an expert witness by criminal
+ defense attorneys. See, e.g., State v. Williams, 363 P.3d 1101,
+ 
+1114 (Kan. 2016) (holding that the prosecutor's reference to
+ whether the jury would "buy into" the defendant's testimony was a
+ colloquialism synonymous to whether the jury would believe his
+ testimony); State v. Roland, 225 P.3d 1212 (Kan. Ct. App. 2010)
+ (holding that the prosecutor's description of the defendant's
+ actions as "shooting up the City of Hutchinson" constituted a
+ colloquialism which illustrated that the defendant had fired
+ multiple shots in the city streets of Hutchinson).
+ 
+Accordingly, the prosecutor's four challenged
+ 
+statements "attack[ing] Dr. Navin's integrity" were not improper,
+ and therefore, did not constitute prosecutorial misconduct.
+II. Ineffective Assistance of Counsel
+ 
+We next turn to Udo's contention that she was denied
+ 
+her right to effective assistance of counsel, guaranteed by
+ 
+article I, section 14 of the Hawai' i Constitution and the sixth 
+amendment to the United States Constitution.
+ 
+When reviewing a claim of ineffective assistance of counsel,
+[the appellate court] looks at whether defense counsel's
+assistance was within the range of competence demanded of
+attorneys in criminal cases. The defendant has the burden
+ of establishing ineffective assistance of counsel and must
+meet the following two-part test: 1) that there were
+specific errors or omissions reflecting counsel's lack of
+skill, judgment, or diligence; and 2) that such errors or
+omissions resulted in either the withdrawal or substantial
+ 
+impairment of a potentially meritorious defense. To satisfy
+this second prong, the defendant needs to show a possible
+impairment, rather than a probable impairment, of a
+potentially meritorious defense. A defendant need not prove
+actual prejudice.
+ 
+Wakisaka, 102 Hawai' i at 513–14, 78 P.3d at 326–27 (internal 
+quotation marks, citations, and footnote omitted). 
+Udo states in her Opening Brief that "[d]efense counsel
+ 
+was ineffective because he failed to object to any of the
+ 
+[instances of alleged prosecutorial misconduct]." We first note
+ 
+16
+ NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER 
+that Udo's vague allegations of ineffective assistance of counsel 
+fail to establish "specific errors or omissions reflecting counsel's lack of skills, judgment, or diligence." However, even if Udo had met her burden of establishing specific errors or omissions by counsel, we only found one of the several instances of prosecutorial misconduct alleged by Udo to be improper. Therefore, Udo's trial counsel's failure to object to the prosecutor's improper comment that Dr. Navin "admitted that he was retained by Mr. Green, but eventually didn't testify because he couldn't give anything that was favorable to the defense" is the only possible basis for Udo's ineffective assistance of counsel claim. See State v. Metcalfe, 129 Hawai' i 206, 236, 297 
+P.3d 1062, 1092 (2013) ("Because the testimony and instruction were proper, trial counsel's failure to object did not result in the withdrawal or substantial impairment of a potentially meritorious defense." (citation and internal quotation marks omitted)). 
+We do not believe that Udo's trial counsel's failure to 
+object to the prosecutor's remarks regarding Mr. Green reflects a lack of skills, judgment, diligence, or competence within the range demanded of attorneys in criminal cases. Although the prosecutor's remarks were improper, Udo's trial counsel did not necessarily err by not objecting to them. We disagree with Udo's argument that because the remarks regarding Mr. Green undermined Dr. Navin's credibility, "there is no way that allowing this to happen could in anyway [sic] have benefitted [Udo's] defense." In fact, we believe the prosecutor's statement that Dr. Navin was retained by Mr. Green but was unable to offer anything favorable to the defense could have the effect of strengthening Dr. Navin's credibility, as it could create the inference that Dr. Navin does not fabricate his testimony for the purpose of supporting the defense. Therefore, Udo's trial counsel's failure to object to the prosecutor's improper statement arguably could have been a tactical decision. Cf. State v. DeLeon, 131 Hawai' i 463, 479, 
+319 P.3d 382, 398 (2014) ("Matters presumably within the judgment of counsel, like trial strategy, will rarely be second-guessed by 
+17
+ NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER 
+judicial hindsight." (citation and brackets omitted)).
+ 
+Accordingly, Udo has failed to establish that her trial
+ 
+counsel was ineffective.
+ 
+III. CONCLUSION
+ 
+Based on the foregoing, the "Judgment of Conviction and
+ 
+Sentence" entered on September 13, 2016 in the Circuit Court of
+ 
+the First Circuit is affirmed.
+ 
+DATED: Honolulu, Hawai' i, June 29, 2018. 
+On the briefs: 
+William H. Jameson, Jr.,
+Deputy Public Defender,for Defendant-Appellant. 
+Brandon H. Ito,
+Deputy Prosecuting Attorney,City and County of Honolulu,for Plaintiff-Appellee. Chief Judge 
+Associate Judge Associate Judge
+ 
+18
+ 

@@ -1,0 +1,1018 @@
+ 
+ 
+ 
+   
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+________________________________________________________________  
+ 
+________________________________________________________________  
+ 
+ 
+ 
+MEMORANDUM OPINION
+  
+ 
+ 
+ *** NOT FOR PUBLICATION IN W EST’S HAWAIʻ I  REPORTS AND PACIFIC REPORTER  ***  
+ 
+Electronically Filed 
+Supreme Court 
+SCWC-13-0003039 12-AUG-2016 
+08:03 AM 
+SCWC-13-0003039
+  
+IN THE SUPREME COURT OF THE STATE OF HAWAI ʻI
+
+ 
+STATE OF HAWAI ʻI,  Petitioner/Plaintiff-Appellee,
+  
+  
+vs.
+  
+ 
+VICENTE KOTEKAPIKA HILARIO, Respondent/Defendant-Appellant.
+  
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS  
+(CAAP
+-13-0003039; CR. NO. 11-1-0023) 
+(By: Recktenwald, C.J., Nakayama, McKenna, Pollack, and Wilson, JJ. )
+ 
+I. Introduction 
+On January 19, 2011, Vicente Kotekapika Hilario  
+(“Defendant” or “Hilario”)  was charged with five counts related 
+to the December 17, 2010 shooting death of Aureo Moore  
+(“Moore”): Murder in the First Degree in violation of Hawai ʻi 
+Revised Statutes (“HRS”) § 707 -701(1)(c)  (2014) (Count 1),  
+Murder in the Second Degree in violation of HRS § 707-701.5   
+ 
+ 
+ 
+   
+    
+ 
+   
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+                         
+  
+ 
+ 
+ *** NOT FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+(2014) (Count 2), Retaliating Against a Witness in violation of 
+HRS § 710-1072.2 (2014) (Count 3), Intimidating a Witness in 
+violation of HRS “Section 710-1071(1)(a/b/c) [sic]” (2014) 
+(Count 4), and Bribery of a Witness in violation of HRS “Section 
+710-1070(1)(a/b/c) [sic]” (2014) (Count 5).  After a jury found 
+Hilario guilty of all counts except Count 2,1 a “Judgment Guilty 
+Conviction and Sentence” (“Judgment”) was entered by the Circuit 
+Court of the Fifth Circuit (“circuit court” or “trial court”) on 
+July 25, 2013. Hilario was sentenced to life imprisonment.2 
+Hilario timely appealed the Judgment to the ICA, arguing, 
+among other things, that the circuit court erred when it denied 
+his Motion to Dismiss based on Hawai ʻi Rules of Penal Procedure 
+(“HRPP”) Rule 48 (“Rule 48”)  (2000).  The rule states, in part:  
+Except in the case of traffic offenses that are not 
+punishable by imprisonment, the court shall, on motion of 
+the defendant, dismiss the charge, with or without prejudice in its discretion, if trial is not commenced 
+within 6 months [i.e., 180 days] . . . from the date of 
+arrest if bail is set or from the filing of the charge, 
+whichever is sooner, on any offense based on the same 
+conduct or arising from the same criminal episode for which the arrest or charge was made[.] 
+HRPP Rule 48(b)(1); see State v. Jackson , 81 Hawaiʻ i 39, 50, 912 
+P.2d 71, 82 (1996) (construing 6 months as 180 days) (citing 
+State v. Hoey, 77 Hawai ʻi 17, 28, 881 P.2d 504, 515 (1994)).  
+1 The jury did not reach the charge in Count 2, Murder in the Second Degree, 
+as it found Hilario guilty as to Count 1, Murder in the First Degree. 
+2  For the purposes of sentencing, Counts 3 and 4 were merged with Count 1.  
+As to Count 1, Hilario was sentenced to life imprisonment without the 
+possibility of parole. As to Count 5, Hilario was sentenced to five years of 
+imprisonment. The terms are to run consecutively . 
+2
+  
+ 
+ 
+ 
+   
+ *** NOT FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+According to Hilario, even when considering permissible 
+“excluded periods,”   the delay of his trial to  January 7, 2013 
+caused a violation of  Rule 48.  A majority of the judges on the  
+ICA panel agreed, noting that the period from September 17, 2012   
+(the trial date that was set prior to January 7, 2013)  to 
+December 20, 2012 (the date Hilario filed his Motion to Dismiss)  
+(“the relevant time period”)  should not have been excluded for 
+Rule 48 purposes because the delay resulted from the circuit 
+court’s erroneous determination that a defense witness was an 
+alibi witness, consequently  requiring additional time to make 
+necessary disclosures; thus, Hilario’s trial commenced beyond the prescribed period in Rule 48, and should have been dismissed 
+upon Hilario’s motion.    
+Accordingly, the ICA “vacate[d] [the] July 25, 2013 
+Judgment and remand[ed] [the case] for dismissal of the charges 
+with or without prejudice in the discretion of the Circuit Court 
+of the Fifth Circuit.” State v. Hilario , No. CAAP-13-0003039, 
+at 17 
+–18 (App. Mar. 18, 2016) (mem.). Associate Judge Lisa M. 
+Ginoza dissented, stating that the circuit court correctly excluded the relevant time period from the 180-day limit imposed 
+by Rule 48 because the delay was caused by Hilario’s decision to 
+3
+  
+ 
+ 
+ 
+   
+    
+ 
+ 
+ 
+[2])  Even assuming that the ICA correctly determined that 
+a percipient witness can never be deemed an alibi witness, 
+the ICA nevertheless gravely erred by failing to determine 
+whether the trial court abused its discretion in continuing 
+the trial, and charging the delay to the defense, due to 
+the parties’ anticipated alibi disclosures, and outstanding 
+unrelated discovery.  
+ 
+   
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+                         
+   
+ *** NOT FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+file a Notice of Alibi, and not any error of the circuit court. 
+See id. at 193 (Ginoza, J., dissenting). 
+On April 21, 2016, the State of Hawai ʻi (“State”) timely 
+applied for writ of certiorari (“Application”), presenting two 
+questions: 
+[1])  Whether the ICA gravely erred by rejecting the trial 
+court’s 
+determination that a witness might give alibi 
+testimony, where he was expected to testify that he was 
+present at the shooting, and could have reasonably 
+testified as to the defendant’s whereabouts nearby.  
+We granted the Application on June 1, 2016. 
+Upon review, we conclude the ICA erred in vacating the July 
+25, 2013 Judgment and remanding the case for dismissal on the 
+basis that the delay in trial was not properly excluded under 
+HRPP Rule 48 because the circuit court incorrectly characterized 
+a defense witness as an alibi witness. For the following 
+reasons, we conclude that it was not clearly erroneous for the 
+circuit court to exclude the relevant time period for Rule 48 purposes. 
+The ICA Memorandum Opinion is available in the docket at entry 277.  
+Citations to Judge Ginoza’s dissent employs the pagination of this PDF 
+document. 
+4
+ 3  
+ 
+ 
+ 
+  
+   
+ 
+  
+      
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+   
+                         
+   
+ *** NOT FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+II. Background 
+A.   Circuit Court Proceedings 
+1. 	Proceedings Prior to the Setting of the September 17, 
+2012 Trial Date 
+Hilario was arrested on December 17, 2010 and arraigned on 
+January 25, 2011. Trial was then set for April 25, 2011.  For 
+reasons not now at issue, trial was continued to May 14, 2012.  
+It is uncontested that 129 days elapsed between December 17, 
+2010 and May 14, 2012 that are included in the 180-day “speedy 
+trial” limitation set forth by Rule 48.  See Hilario, mem. op. 
+at 17. 
+The State estimated the trial to be between four to six 
+weeks long. At a hearing on April 12, 2012, the circuit court 
+judge4 informed the parties that he would be off-island from June 
+13 to June 26, 2012. Because of the estimated duration of the 
+trial, he asked the parties how they would like to proceed given 
+that he may need to be out of town prior to the trial’s 
+conclusion. Both parties opposed having a substantial break during the course of the trial. As Hilario did not wish to 
+advance the trial, and because defense counsel was unavailable 
+The Honoroable Randal G.B. Valenciano presided. 
+5
+ 4  	Proceedings Related to the February 23, 2012 Defense  
+Investigator’s Report  Containing Jens Kyler Hansen- 
+Loo’s Statement   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+5                         *** NOT FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+from August 9 to 20, 2012, given the court’s availability, trial 
+was re-set for September 17, 2012.5 
+2.  
+A February 23, 2012 defense investigator’s report —  which 
+recounted the investigator’s January 12, 2012 conversation with  
+Jens Kyler Hansen-Loo (“Hansen -Loo”) —  stated that Hansen-Loo 
+saw a family friend, David Manaku (“Manaku”), shoot Moore:  
+[O]n the morning of the shooting, [Hansen- Loo] was at his 
+grandmother’s home in Anahola. When he awoke, . . . 
+Hilario and David Manaku had returned from Kapaa and were 
+making plans of going fishing. They all left in 
+[Hilario’s] car and both [Hansen -Loo]  and Manaku were 
+dropped off on the back road between Anahola Beach and the Hawaiian Homes. They walked down the road  a short distance 
+then went over the metal guard rail and were standing in 
+the bushes. A short while later [Hansen -Loo] heard [a]  
+vehicle stop, a door slam[,] and a Caucasian male got out and the car drove off towards the beach. The male stood 
+under a tree next to the road. [Hansen -Loo] added that  
+Manaku took out a handgun from his waist band and walked 
+towards the male from the back and the next thing he knew, 
+Manaku shoots the guy a couple of times and the guy 
+crouches down and Manaku shoots him again.  The male falls 
+to the ground and they run back up the road and head into a dirt road. [Hansen -Loo] stated that he was shocked and  had  
+no idea that Manaku was going to shoot the guy.  
+The February 2012 statement was at odds with Hansen  -Loo’s 
+statement to police in 2010 , which indicated he “didn’t know 
+what had happened.”       
+The State received a copy of the investigator’s report in 
+March 2012.  According to the State, because Hansen-Loo, a 
+6
+   The ICA determined that the period between May 14 and September 17, 2012, 
+was excludable for the purposes of Rule 48. See  Hilario,  mem. op. at 12. 
+Hilario does not contest this conclusion   in his Application; therefore, it is 
+not further discussed in this memorandum.   
+ 
+ 
+ 
+  
+      
+ 
+ 
+ 
+   *** NOT FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+“self-proclaimed percipient witness to Moore’s murder,” “refused 
+to speak to [Kauaʻ i Police Department] investigators about the 
+facts of this case since the January 12, 2102 [sic], statement 
+to [the defense investigator],” the State filed a “Motion for an 
+HRPP 15 Deposition of Kyler Hansen Loo” on May 3, 2012. The 
+circuit court orally granted the motion on May 22, 2012.     
+At the scheduled June 14, 2012 deposition of Hansen
+-Loo, 
+without the benefit of counsel, Hansen-Loo declined to answer many of the State’s questions, a sserting his Fifth Amendment 
+right against self-incrimination.  The State then filed a “Motion for an Order Compelling Discovery” on June 22, 2012 , 
+requesting that the circuit court issue an order compelling 
+Hansen-Loo to answer deposition questions and produce documents.  
+At the July 3, 2012 hearing on the matter, the court appointed 
+counsel for Hansen-Loo.  At a July 17, 2012 status conference, 
+Hansen-Loo’s counsel stated that Hansen -Loo would be invoking 
+his Fifth Amendment right to remain silent at any future depositions. This in fact occurred at Hansen-Loo’s rescheduled 
+deposition on August 3, 2012. 
+On August 10, 2012, the State filed a “Motion for a Court 
+Order Preventing Jens Kyler Hansen-Loo from Testifying at Trial, or, in the Alternative[,] Disqualifying [Hilario’s Counsel,] 
+Keith Shigetomi” (“Motion to Prevent”). According to the State, 
+Hansen-Loo’s February 2012 statement to the defense investigator 
+7
+  
+ 
+ 
+ 
+  
+ 
+                         
+    
+ 
+ 
+ 
+ 
+ 
+   
+ 
+  
+ 
+ 
+  6 *** NOT FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+“is simply a legally inadequate attempt to provide HRPP [Rule] 
+12.1, ‘hip pocket’ alibi evidence for Hilario.”   The State 
+explained:  
+If the defense wishes to argue Hilario was somewhere 
+else, doing something else, e.g., something other than 
+murdering Moore . . . , HRPP [Rule] 12.1  controls.  Hilario 
+must state --  in writing --  where he was when Moore was 
+murdered, if not, the law allows no alibi evidence.  
+ 
+Hilario cannot rely upon [Hansen -]Loo to establish a 
+phony alibi; Hilario must comply with HRPP [Rule] 12.1. 
+The State argued that for Hilario’s non -compliance with the 
+6 notice and disclosure requirements of HRPP Rule 12.1,  the 
+Rule 12.1 NOTICE OF ALIBI 
+(a) Notice by defendant.  If a defendant intends to rely 
+upon the defense of alibi, the defendant shall, within the 
+time provided for the filing of pretrial motions or at such 
+later time as the court may direct, notify the prosecutor 
+in writing of such intention and file a copy of such notice 
+with the court. 
+(b) Disclosure of information and witnesses.  Upon 
+receipt of notice that the defendant intends to rely upon 
+an alibi defense, the prosecutor shall inform the defendant 
+in writing of the specific time, date, and place at which 
+the offense is alleged to have been committed. The 
+defendant shall then inform the prosecutor in writing of the specific place at which the defendant claims to have 
+been at the time of the alleged offense and the names and 
+addresses of the witnesses upon whom the defendant intends 
+to rely to establish such alibi. The prosecutor shall then 
+inform the defendant in writing of the names and addresses 
+of the witnesses upon whom the government intends to rely 
+to establish defendant’s presence at the scene of the 
+alleged offense. 
+(c) Time of giving information. The court may fix the 
+time within which the exchange of information referred to 
+in section (b) shall be accomplished. 
+(d) . . . 
+(e) 
+Failure to comply.  Upon the failure of either party 
+to comply with the requirements of this rule, the court may 
+exclude the testimony of any undisclosed witness offered by 
+such party as to the defendant’s absence from, or presence 
+at, the scene of the alleged offense
+.  This rule shall not 
+limit the right of the defendant to testify in the 
+defendant’s own behalf. 
+(f)
+	 Exceptions.  For good cause shown, the court may 
+(continued . . .)  
+8
+  
+ 
+ 
+ 
+     
+ 
+     
+  
+   
+ 
+ 
+  
+  
+ 
+  
+ 
+ 
+ 
+                                                                               
+ 
+ 
+ 
+  
+ 
+7   The State also  argued in the alternative that Hilario’s counsel “be 
+disqualified from representing Hilario because he is a witness relevant to 
+Loo’s credibility.”  This issue is not before the court .
+
+    
+ 
+ 
+ 
+    *** NOT FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+circuit court should sanction Hilario by excluding Hansen- Loo’s 
+testimony.7 
+On August 21, 2012, the State requested a chambers 
+conference. At the conference, the trial court indicated that 
+it was inclined to require a notice of alibi before permitting 
+Hansen-Loo to testify.8 Hilario then filed a “Notice of Alibi” 
+(“Notice”) on August 22, 2012, stating that he “hereby gives 
+notice pursuant to Rule 12.1 of the Hawaii Rules of Penal 
+Procedure of his intention to rely upon the defense of alibi.” 
+Two days later on August 24, 2012, a hearing was held on 
+several motions as well as Hilario’s August 22, 2012 Notice of 
+Alibi. The court opened the hearing by stating that it “would like to address first . . . the notice of alibi.” 
+Hilario’s counsel explained that he filed the Notice 
+because of the trial court’s statements at the chambers 
+conference following the filing of the State’s Motion to 
+Prevent: 
+Your Honor, I received the State ’s motion for court 
+order preventing Jens Kyler Hansen -Loo from testifying at 
+(. . . continued) 
+grant an exception to any of the requirements of this rule.  
+HRPP Rule 12.1 (emphasis added). 
+8 Content of the chambers conference is inferred from references by counsel 
+at the August 24, 2012 hearing. 
+9
+  
+ 
+ 
+ 
+  
+   
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ *** NOT FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+trial, or in the alternative, to disqualify me on Tuesday 
+the 22nd, or the 21st. And upon my review, although I 
+disagree with it, I don ’t believe that -- one of the basis 
+that they’ re saying to prevent Hansen -Loo from testifying 
+is that he is an alibi witness and that proper notice was 
+not given as to I guess his status as an alibi witness. And I disagree with that. 
+But in the abundance of caution, I filed that  notice 
+of alibi.  The purpose of the notice of alibi is to give  
+notice of a witness, and they are fully aware of Hansen -
+Loo’s  status as a witness from March of this year.  So, 
+it’s not as if   we were hiding that witness or anything like 
+that.  They knew  about that witness, and the purpose of the 
+rule is that they have  notice of the witness.  
+So, we gave them that a long time ago.  Now, I still  
+-- my position is still that he ’s not an alibi witness.  
+However, I’ m not about to tell the Court that I want him  
+prevented from testifying, because obviously he is a critical witness.   But 
+our position as to the notice of 
+alibi is that it’s not necessary. N ow, I know from our 
+discussions in chambers, the Court disagrees. And the Court finds that Hansen -Loo is an alibi witness, that the 
+Court is going to require that the steps set forth in Rule 12.1 be followed. And so our position is that although he’s not  -- we don’t consider him an alibi witness, 
+obviously we’re not going to forego calling him as a 
+witness.  
+(emphasis added). Hilario’s counsel repeatedly emphasized 
+that the defense did not view Hansen-Loo as an alibi 
+witness: 
+And I just want to put on the record our position is that 
+we don’t believe he’s an alibi witness.  
+ 
+ Because this witness will not say or is unable to say 
+where Vicente Hilario was on the day in question. What that witness does say, however, is that he was present at 
+the time of the shooting, that he witnessed the shooting, and that it was not Vicente Hilario who did the shooting. . 
+. .  
+Over defense counsel’s objection s, the court explained that 
+10
+  
+ 
+ 
+ 
+   
+ 
+    
+                         
+ 
+  
+   But wouldn’t that be absence, which is absence of a  
+person, which is an alibi? Because when you look at 
+12.1(e) about the testimony, it talks about not only the 
+absence, but  also the presence at the scene.  So, absence 
+from the scene, presence at the scene, those all pertain to 
+the alibi defense.  
+ 
+    
+ 
+[T]he first issue for the Court is whether to strike it  
+and not allow any testimony regarding the alibi.  And that,  
+from the Court’s perspective . . . would be detrimental to 
+Mr. Hilario in the presentation of his defense to not allow 
+him to present a defense that is available to him.     *** NOT FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+Hansen-Loo’s testimony could support an alibi defense,9 and 
+therefore disclosures pursuant to Rule 12.1, starting with the 
+Notice, were required. 
+Despite the Notice’s untimeliness, t he court then declined 
+to strike it, as the court wished to allow Hilario the 
+10  opportunity to present every available defense.  Having allowed 
+the Notice of Alibi to stand, the court noted that once 
+exchanges were made pursuant to Rule 12.1(b), “the Prosecutor 
+has the discretion to conduct an investigation on any 
+information that’s being exchanged, so that’s going to take 
+time. And the reality is that with the trial date set for 
+September 17th, pursuing this defense is not going to allow the 
+trial to start within that time frame. ”   In other words, the 
+court reasoned that “by allowing the Defendant to pursue the alibi defense, there has to be a continuance of the trial date.” 
+The court was inclined to charge the delay to the defense  
+9 The circuit court stated: 
+10 The circuit court explained: 
+11
+  
+ 
+ 
+ 
+  
+        
+ 
+                         
+ 
+ 
+ 
+ 
+ *** NOT FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+because the delay was “gen erated by th[e] notice of alibi, ” but 
+heard argument before making its decision. 
+The State asserted that it was “prepared and ready to 
+proceed . . . on September 17th.” After expl aining that she 
+understood the court’s inclination to permit Hilario to pursue 
+an alibi defense despite the tardily filed Notice, the 
+11prosecutor argued that “Rule 48 [(c)(4)(ii) ] . . . indicates 
+that if there is a continuance granted to allow the Prosecutor additional time to prepare the Prosecutor’s case, and additional 
+time is justified because of the exceptional circumstances . . . 
+that time should be excluded.” The State expressed  that after 
+necessary disclosures we re made pursuant to Rule 12.1, it “would 
+need additional time to follow up to do further investigation.”  
+Hilario’s counsel did not directly address the 
+Rule 
+48(c)(4)(ii) issue that was raised by the State, but instead 
+11  Excludable periods under Rule 48 include: 
+periods that delay the commencement of trial and are caused 
+by a continuance granted at the request of the prosecutor if:
+ (i) the continuance is granted because of the 
+unavailability of evidence material to the prosecution’s 
+case, when the prosecutor has exercised due diligence to 
+obtain such evidence and there are reasonable grounds to 
+believe that such evidence will be available at a later 
+date; or  
+ (ii) the continuance is granted to allow the 
+prosecutor additional time to prepare the prosecutor’s case 
+and additional time is justified because of the exceptional 
+circumstances of the case[.]   
+HRPP Rule 48(c)(4). 
+12
+  
+ 
+ 
+ 
+  So, our position is it’s not an alibi. And we don’t 
+feel that a continuance is generated because of that, but I understand the Court’s position. We just want to make it 
+clear that that’s our p osition.  
+ 
+  
+ 
+ *** NOT FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+reiterated his argument that Hansen-Loo was not an alibi 
+witness: 
+Your Honor, we just want to be clear that our 
+position again is that it’s not an alibi, that [Hansen -Loo] 
+simply is an eyewitness. He’s also going to impeach David 
+Manaku, who says he saw Mr. Hilario do the shooting; 
+whereas, the witness is saying he saw David Manaku do the  
+shooting.  
+ 
+Having heard the parties’ arguments, the court set 
+disclosure deadlines that extended past September 17, 2012, 
+re-set trial for January 7, 2013, and excluded the period 
+of continuance for Rule 48 purposes. 
+In sum, the circuit  court concluded  at the hearing: (1) 
+Hansen-Loo was an alibi witness  because he would testify that 
+Hilario was absent from the scene; (2) the Notice of Alibi was untimely filed on August 22, 2012; (3)  precluding Hansen-Loo’s 
+testimony was not an appropriate sanction for the untimely filing of the Notice, as Hilario should be permitted  to present 
+an available defense; (4) the Notice triggered mandatory HRPP 
+Rule 12 disclosures and deadlines, thereby preventing trial from 
+commencing on September 17, 2012 ; and (5) accordingly, “[f] or 
+purposes of Rule 48 and for speedy and public trial, time is  
+charged to Mr. Hilario .” Trial was re-set to begin with jury  
+selection on January 7, 2013.    
+13
+
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+i. Defendant requests the Court to reconsider its 
+determination that Hansen Loo’s proffered testimony to be 
+alibi evidence;  
+ 
+ 
+ 
+ 
+  
+     
+  *** NOT FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+On September 18, 201 2, Hilario filed a “Motion for 
+Reconsideration of Determination of Alibi Defense ” (“Motion to 
+Reconsider”), asserting the following based on the records and 
+files of the case: 
+b. . . . Hansen Loo has stated that he was present at the 
+scene of the shooting of decedent, that he did not see 
+Defendant at the scene of the shooting and that David Manaku shot the decedent; 
+c. Hansen Loo is unable to say where Defendant was at the 
+time of the shooting [and therefore his testimony does not 
+comprise an alibi defense] ; 
+. . . 
+j. Defendant has no witness to say where Defendant was at 
+the time of the alleged incident other than Defendant [and 
+he has a right under the federal and State constitutions against self -incrimination, and should not be required to 
+make pre- trial statements pursuant to HRPP Rule 12].  
+The State argued in response that Hansen-Loo would testify that 
+“Hilario was not at the murder scene,” which is an alibi. The 
+State further argued that because “Hilario has filed a notice of 
+intent to rely upon alibi[,] HRPP 12.1 applies and must be 
+enforced.” At an October 2, 2012 hearing, the trial court 
+denied the Motion to Reconsider, stating that Hansen-Loo would 
+be permitted to testify so long as Hilario complied with HRPP 
+Rule 12.1. The denial order was entered on October 12, 2012. 
+On December 20, 2012 , Hilario filed a “Motion to Dismiss 
+for Violation of: (1) Rule 48 of the Hawaii Rules of Speedy 
+Trial and (2) Right to Speedy Trial ” (“Motion to Dismiss”), 
+14
+  
+ 
+ 
+ 
+  
+  
+  
+ 
+                         
+ 
+    
+    
+  
+  
+ *** NOT FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+arguing, among other things, that the delay in trial caused by 
+the court’s decision that Hansen -Loo was an alibi witness should  
+have been charged to the State, not Hilario. According to 
+Hilario, this non-excludable time period, coupled with the non-
+excludable period from the date of Hilario’s arrest to the date 
+of the first trial setting, exceeded the 180-day speedy trial 
+period required under HRPP Rule 48.  Moreover, “the delay in 
+bringing Defendant to trial . . . has crippled defense 
+preparation through loss of recall and possible loss of 
+witness(es). Because of the substantial and irreversible 
+prejudice caused by the delay  . . . [,]  [d]ismissal with 
+prejudice is mandated.” The State filed a response on December 24, 2012.  
+The circuit court held a hearing on the motion on December 
+27, 2012. 
+Hilario argued several periods should not have been 
+excluded for Rule 48 purposes. He did not provide a specific argument with respect to whether any portion of the relevant time period was excludable, other than to recount the 
+circumstances leading to the trial’ s continuation.
+12 After 
+hearing argument, the court explained: 
+12  Defense counsel stated : 
+[T]he Court had set for [sic] the trial date for August  
+27th.  And then again, there were motions filed.  And I  
+believe it was the State’s motion to strike or to prohibit  
+the calling of Jens Kyler Hansen -Loo based on the fact that 
+the State --  the State’s position was that he was an alibi  
+(continued . . .) 
+15
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+                     
+(. . . continued)                                                            
+ 
+  
+   
+  
+   
+    
+     
+    
+ *** NOT FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+[W]hat happens is when we get to the August 24 date, this 
+is where we get into the discussion regarding the alibi 
+defense and the requirements of the alibi defense and Rule 
+12.1. The option for the Court at that time was to not 
+allow it, because, first of all, the Court made a ruling 
+over the objection of the Defendant that the testimony presented was, in essence, an  alibi type defense.  
+ 
+And so, that --  the objection was already noted.  
+Once the Court made that ruling, the options for the Court was to not allow it or to do Weinberg versus Dixon -Weinberg 
+type analysis where you look for other options. And the 
+other option was to move the trial to give the Defendant an 
+opportunity to comply with 12.1, which was a less drastic 
+measure. And so, that is what the Court did to give Mr. 
+Hilario the opportunity to present an alibi defense and to 
+comply with the requirements of 12.1, which are rather 
+specific. And whether Mr. Hilario chooses to use that or 
+chooses not to use that, those are within his discretion at 
+time of trial.  
+And so, the Court finds from the August 24 date to 
+the trial date that is set is also not a violation or it 
+doesn’t come towards Rule 48 for speedy and public trial.  
+The court ultimately denied the Motion to Dismiss. 
+Trial commenced on January 7, 2013. On March 8, 2013, a  
+jury found Hilario guilty of Counts 1, 3, 4, and 5. Judgment 
+was entered by the circuit court on July 25, 2013. Hilario was 
+sentenced to life imprisonment.   
+B. Appeal to the ICA 
+Hilario timely filed a Notice of Appeal with the ICA. In 
+his opening brief before the ICA, Hilario argued, among other 
+witness for which no notice was given. 
+And on August 24th, 
+the Court ruled over our objection that Mr. Hansen -Loo was 
+an alibi witness, and therefore, necessitated the filing of 
+a notice of alibi as well as the required responses under 
+the rule. 
+And at that point, the Court continued the trial to 
+January 7th. 
+16
+  
+ 
+ 
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+   
+   
+                         
+  
+ 
+  
+ 
+ *** NOT FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+things, that Hansen-Loo was not an alibi witness, and “[t]he 
+trial court erroneously denied Hilario’s Motion to Dismiss” 
+because it failed to count the period “from September 19, 
+2012[13] to December 20, 2102 [sic][14]” against the State , as the 
+delay was due to alibi disclosure procedures erroneously imposed on Hilario. 
+The State entertained the argument in its answering brief 
+that under certain circumstances Hansen-Loo may not be an alibi witness: 
+If [Hansen- Loo] was the only defense witness to establish 
+that [Hilario] was not at the shooting  —  via [Hansen- Loo’s] 
+testimony that he was present and [Hilario] was not  —  then 
+the State does not believe this is technically alibi 
+testimony because under Rule 12.1  , there would be nothing 
+to disclose: a witness who is present at the crime and saw 
+that the defendant was not there, cannot establish the location of the defendant at the time the crime was 
+committed.  
+(emphasis added). Nevertheless, the State countered that the 
+continuation of trial from September 17, 2012 to January 7, 2013 
+was made with Hilario’s consent because , with respect to the 
+issue of Hansen-Loo’s testimony, Hilario failed to object “to the January 7, 2013 trial date 
+or the fact that the delay would 
+be charged to the defense for Rule 
+48 purposes .”  (emphasis 
+added). 
+13 It is unclear why Hilario argued the non -excludable period began on 
+September 19, 2012, when trial had been previously set for September 17, 
+2012. 
+14  December 20, 2012 was the date Hilario filed his Motion to Dismiss.  
+According to Hilario’s Motion, 115 non -excludable days elapsed from August 
+27, 2012 to December 20, 2012. 
+17
+  
+ 
+ 
+ 
+  In Hawai i, an alibi defense is “an attempt by 
+the defendant to demonstrate he did not commit the 
+crime because, at the time, he was in another place 
+so far away, or in a situation preventing his doing 
+the thing charged against him.” State v. Cordeira, 
+68 Haw. 207, 210, 707 P.2d 373, 376 (1985) (citation and internal quotation marks omitted). . . . See 
+also  Black’s Law Dictionary ,  [sic]  87 (10th ed. 2014) 
+(“1. A defense based on the physical impossibility of a defendant’s guilt by placing the defendant in a 
+location other than the scene of the crime at the 
+relevant time. . . . 2. The quality, state, or 
+condition of having been elsewhere when an offense 
+was committed.”).  
+ 
+  
+  
+   *** NOT FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+The ICA concluded that the trial court erred in determining  
+that Hansen-Loo was an alibi witness:  
+Hilario, mem. op. at 14. “As Hansen -Loo was not an alibi 
+witness, the procedure set out in HRPP Rule 12.1 did not apply 
+and Hilario’s trial should not have been delayed on this basis.” 
+Id. at 15 (footnote omitted). 
+The ICA also noted that “it was the State that first 
+characterized Hansen-Loo as an alibi witness, a characterization 
+that the defense never adopted and actively contested. Absent 
+this characterization, there would be no reason for the defense 
+to file a notice of alibi.”   Id. at 15.    Accordingly, the ICA 
+determined the State’s argument that Hilario had consented to 
+continuing the trial to January 7, 2013 was not founded in the 
+record. See id.   at 16.       
+Judge Ginoza dissented, reasoning that  
+the Circuit Court correctly determined[] the delay in trial   
+was a result of Hilario filing his Notice of Alibi, which 
+was filed on August 22, 2012 (less than a month before the 
+scheduled September 17, 2012 trial date). . . . Although 
+Hilario’s counsel later argued that he did not believe 
+18
+  
+ 
+ 
+ 
+  
+ 
+  
+     
+  
+  
+ 
+ *** NOT FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+Hansen-Loo was an alibi witness and that he filed the 
+Notice of Alibi “in an abundance of caution,” Hilario 
+nevertheless chose to file the Notice of Alibi and never 
+withdrew it .” 
+Id. at 19 (Ginoza, J., dissenting) (first emphasis in original; 
+second emphasis added). 
+III. Standard of Review 
+The appellate court reviews a trial court’ s denial of a 
+HRPP Rule 48 motion to dismiss under both the “clearly 
+erroneous” and “right/wrong” tests: 
+A trial court’s findings of fact (FOFs) in deciding an HRPP 
+48(b) motion to dismiss are subject to the clearly 
+erroneous standard of review. An FOF is clearly erroneous when, despite evidence to support the finding, the 
+appellate court is left with the definite and firm 
+conviction that a mistake has been committed. However, 
+whether those facts fall within HRPP 48(b)’s exclusionary 
+provisions is a question of law, the determination of which is freely reviewable pursuant to the “right/wrong” test.  
+State v. Samonte, 83 Hawai ʻi 507, 514, 928 P.2d 1, 8 (1996) 
+(quoting State v. Hutch, 75 Haw. 307, 328 –29, 861 P.2d 11, 22 
+(1993)). 
+IV. Discussion 
+The circuit court  and Judge Ginoza 
+correctly observed that  
+the issue of whether Hilario’s case should be dismissed on Rule 
+48 grounds is distinct from the question of whether the trial 
+court erred in determining that Hansen-Loo’s testimony could 
+present an alibi defense.   The circumstances on August 24, 2012 
+at the time the circuit  court continued the trial from September 
+17, 2012 to January 7, 2013 included: the trial court’s 
+19
+  
+ 
+ 
+ 
+ *** NOT FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+evidentiary determination that Hansen- Loo’s testimony supported 
+an alibi defense; Hilario’s filing  of a Notice of Alibi  just two 
+days prior; the State’s ongoing and known difficulties in 
+interviewing Hansen-Loo; and the State’s representation that it 
+would need time to investigate any new information that might be 
+contained in ensuing Rule 12.1 disclosures.  Under the 
+circumstances of this case, the trial court was not wrong in 
+determining that granting  an additional investigatory period to 
+the State was a justifiable excludable period  under Rule 48.    
+HRPP Rule 48(c)(8) allows for exclusion  of “periods of delay for 
+good cause.”  This court has  held that the “good cause” 
+provision of Rule 48(c)(8) is “provided to take care of 
+unanticipated circumstances,” “and that “good cause means a 
+substantial reason that affords legal excuse.”  State v. 
+Abregano,  136 Hawai ʻi 489, 497, 36 3 P.3d 838, 846 (2015)  
+(citations omitted). 
+Whether a period of time is excludable as 
+“good cause” under HRPP Rule 48(c)(8) is dependent on the facts 
+of each case.    See  State v. Herrera, 63 Haw. 405, 409, 629 P.2d  
+626, 629 (1981) (“‘Exceptional circumstances,’ like ‘good 
+cause,’ is dependent on the facts of each case.”); Abregano, 136 
+Hawaiʻi at 498, 3 63 P.3d at 847  (citing id.).   The facts and 
+circumstances of this case, as outlined in Part II.A.2. above   , 
+were unanticipated, and constituted substantial reason that 
+affords legal excuse.  
+20
+  
+ 
+ 
+ 
+  
+ 
+ 
+  
+                         
+    
+ 
+  
+ 
+ 
+[O]n the morning of the shooting, [Hansen- Loo] was at his 
+grandmother’s home in Anahola. When he awoke, . . . 
+Hilario and David Manaku had returned from Kapaa and were 
+making plans of going fishing. They all left in 
+[Hilario’s] car and both [Hansen -Loo] and Manaku were 
+dropped off on the back road between Anahola Beach and the 
+Hawaiian Homes.   They walked down the road a short distance 
+then went over the metal guard rail and were standing in 
+the bushes. A short while later [Hansen -Loo] heard [a]  
+vehicle stop, a door slam[,] and a Caucasian male got out 
+and the car drove off towards the beach. The male stood 
+under a tree next to the road.  [Hansen -Loo] added that  
+Manaku took out a handgun from his waist band and walked 
+towards the male from the back and the next thing he knew, 
+Manaku shoots the guy a couple of times and the guy 
+crouches down and Manaku shoots him again.  . . .  
+ 
+(emphasis added).   Although the crux of the statement is that Hansen -Loo 
+observed someone other than Hilario shoot Moore, the statement contains other 
+information regarding Hilario’s whereabouts at the time of the shooting. 
+Hansen-Loo stated  that Hilario was “in a location other than the scene of the 
+crime at the relevant time.” Black’s Law Dictionary  87 (10th ed. 2014) 
+(defining “alibi”); see also  id.  at 1838 (defining an “alibi witness” as “[a] 
+witness who testifies that the defendant was in a location other than the 
+scene of the crime at the relevant time; a witness who supports the 
+defendant’s alibi”); Hilario , mem. op. at 14 (citing State v. Cordeira, 68 
+ 15 *** NOT FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+Hilario repeatedly argues that the trial court erred when 
+it determined that Hansen-Loo’s testimony could support an alibi 
+defense. According to Hilario, without such a determination, 
+Rule 12.1 disclosures need not have been made, and therefore 
+trial could have occurred on September 17, 2012. We need not 
+and do not determine whether Hansen-Loo’s testimony as reflected 
+in the defense investigator’s report actually presente d an alibi 
+defense.15 Whether or not it was, the circuit court was not 
+Although we do not decide whether Hansen -Loo’s testimony presented an alibi 
+defense, we note that at the time of the August 24, 2012 hearing on the 
+State’s Motion to Prevent, Hansen -Loo had already declined multiple times to 
+answer any of the State’s deposition questions regarding the shooting. Thus, 
+the only evidentiary basis for Hansen -Loo’s proffered t estimony was contained 
+in the February 2012 defense investigator’s report. 
+The report stated in relevant part: 
+(continued . . .) 
+21
+  
+ 
+ 
+ 
+   
+ 
+  
+   
+   
+ 
+   
+   
+ 
+       
+ 
+                           
+(. . . continued)
+                                                      
+   
+ 
+  *** NOT FOR PUBLICATION IN W EST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+wrong in excluding the relevant time period for good cause under 
+HRPP Rule 48(c)(8) for Rule 48 purposes.  We also note that the 
+time period of the continuance for these purposes was also 
+reasonable. 
+V. Conclusion 
+For the foregoing reasons, we vacate the ICA’s April 15, 
+2016 Judgment on Appeal entered pursuant to its March 18, 2016 
+Memorandum Opinion, and remand this matter to the ICA for 
+further proceedings consistent with this opinion. 
+DATED: Honolulu, Hawai ‘i, August 12, 2016. 
+Justin Kollar and 
+Tracy Murakami 
+for petitioner  /s/ Mark E. Recktenwald 
+/s/ Paula A. Nakayama 
+Keith S. Shigetomi for respondent 
+ 
+   /s/ Sabrina S. McKenna 
+/s/ Richard W. Pollack 
+/s/ Michael D. Wilson 
+Haw. 207, 210, 707 P.2d 373, 376 (1985)). Specifically, 
+Hansen- Loo’s 
+statement that Hilario “dropped off” Hansen- Loo and Manaku on the “back road” 
+a short distance from where the shooting took place minutes before the 
+shooting could create a reasonable inference that Hilario had proceeded to a 
+fishing spot in the area.  Such an inference could support an alibi defense, 
+but we do not decide this issue as it is not necessary to do so. 
+22
+ 

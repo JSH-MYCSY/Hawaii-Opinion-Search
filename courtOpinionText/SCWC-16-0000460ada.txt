@@ -1,0 +1,954 @@
+***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ‘I 
+ 
+---o0o--- 
+ 
+ 
+STATE OF HAWAI ‘I,  
+Respondent/Plaintiff- Appellee,  
+ 
+vs.  
+ 
+CYRINA L. HEWITT,  
+Petitioner/Defendant- Appellant.  
+ 
+ 
+SCWC-16-0000460 
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS
+(CAAP-16-0000460; CR IMINAL NO. 3DTA- 15-00745) 
+ 
+MARCH 15, 2023  
+ 
+McKENNA, WILSON, AND EDDINS, JJ.; AND NAKAYAMA, J., DISSENTING,
+WITH WHOM RECKTENWALD, C.J., JOINS
+ 
+ 
+OPINION OF THE COURT BY McKENNA, J.  
+ 
+I.  Introduction  
+ This appeal addresses Miranda rights arising o ut of police 
+questioning of a person confined to a hospital bed.  Cyrina 
+Hewitt (“Hewitt”) was charged in the District Court of the Third 
+Circuit, Kona Division (“district court”) with operating a Electronically Filed
+Supreme Court
+SCWC-16-0000460
+15-MAR-2023
+09:06 AM
+Dkt. 21 OP 2 vehicle under the influence of an intoxicant (“OVUII”) and 
+driving without a license (“DWOL”).  Hewitt moved to suppress 
+evidence based on a failure to provide Miranda warnings.  The 
+district court denied Hewitt’s motion, and Hewitt was convicted 
+of both offenses after a bench trial.  
+On appeal to the Intermediate  Court of Appeals (“ICA”), 
+Hewitt argued in part that she had been subjected to custodial 
+interrogation without the requisite Miranda warnings.  In State 
+v. Hewitt , 149 Hawai‘i 71, 481 P.3d 713 (App. 2021), a published 
+opinion, the ICA held that Miranda warnings were not required 
+because Hewitt was not in custody at the time of questioning.  
+The ICA ruled Hewitt was not entitled to Miranda warnings 
+because (1) her inability to leave the scene of questioning was 
+not the result of detention by law enforcement ; (2) the officers 
+did not have probable cause to arrest until Hewitt stated she 
+had been driving a truck; and (3) the record did not reflect 
+sustained and coercive questioning of Hewitt by the officers.  
+Hewitt, 149 Hawaiʻi at 75, 481 P.3d at 717.  The ICA also held, 
+however, that the district court e rred by (1) overruling 
+Hewitt’s Hawaiʻi Revised Statutes (“HRS”) § 621 -26 (1993) trial 
+objection by failing to conduct a voluntariness hearing; and (2) 
+denying Hewitt’s motion to suppress her blood test resu lt 
+because a search warrant had not been obtained.  149 Hawaiʻi at 
+76, 79, 481 P.3d at 718, 721.  On these grounds, the ICA vacated  3 Hewitt’s convictions and remanded.  
+ Hewitt sought certiorari review of the district court’s 
+motion to suppress denial  and the ICA’s Miranda analysis .  
+Hewitt posited that, under the ICA’s rationale, anyone 
+hospitalized but not under arrest need not be Mirandized because 
+law enforcement did n ot prevent their ability to leave.  
+ We agree with Hewitt that the district court and ICA erred.  
+First, we hold that H ewitt was in custody when probable cause 
+developed.  State v. Sagapolutele -Silva, 151 Hawaiʻi 283, 511 
+P.3d 782 (2022), overruled the bri ght-line rule articulated i n 
+State v. Ketchum , 97 Hawaiʻi 107, 34 P.3d 1006 (2001), underlined 
+below, which clearly held:  
+[A] person is “in custody” for purposes of article I, 
+section 10 of the Hawaiʻi Constitution if an objective 
+assessment of the totality of the circumstances reflects  
+either (1) that the person has become impliedly accused of 
+committing a crime because the que stions of the police have 
+become sustained and coercive, such that they are no longer 
+reasonably designed briefly to confirm or dispel their 
+reasonable suspicion or (2) that the point of arrest has 
+arrived because  either (a) probable cause to arrest has 
+developed or (b) the police have subjected the person to an 
+unlawful “ de facto ” arrest without probable cause to do so.  
+ 
+Ketchum, 97 Hawaiʻi at 126, 34 P.3d at 1025 (emphases added).  
+The Sagapolutele-Silva majority said it was clarifying that, 
+despite this holding, the existence of probable cause is not 
+conclusive and is only a factor to consider in determining 
+whether someone is in custody under a “totality of 
+circumstances” and therefore entitled to Miranda warnings.  
+Sagapolutele-Silva, 151 Hawaiʻi at 287, 511 P.3d at 786.    4 We now expressly overrule Sagapolutele -Silva’s abrogation 
+of Ketchum’s bright -line rule and hold that the Ketchum rule 
+remains in effect:  Miranda warnings are required by article I, 
+section 10 of the Constitution of the State of Hawaiʻi when 
+probable cause to arrest has developed.  And in Hewitt’s case, 
+contrary to the ICA’s conclusion, probable cause had developed 
+before she was asked whether she had been driving.  
+ Second, we hold th at, based on the totality of 
+circumstances, Hewitt was in custody and was therefore entitled 
+to Miranda warnings even before probable cause developed.  In 
+addition to Ketchum’s bright -line rule, w e have stated, 
+“[W]hether the defendant was in custody or otherwise deprived of 
+[their] freedom of action for Miranda purposes is to be 
+determined from the totality of the circumstances, objectively 
+appraised.”  State v. Patterson , 59 Haw. 357, 361, 581 P.2d 752, 
+755 (1978).  “These would include the place and time of the 
+interrogation, the length of the interrogation, the nature of 
+the questions asked, the conduct of the police, and all other 
+relevant circumstances.”  Id.   
+ Police interrogation occurring in a medical tr eatment 
+setting presents a special circumstance under the “totality of 
+circumstances” test.  In United States  v. Infante, 701 F.3d 386, 
+396 (1st Cir. 2012), t he United States Court of Appeals for the 
+First Circuit addressed whether the Fifth Amendment requ ires  5 Miranda warnings under these circumstances.  The court noted 
+that when a person is unable to leave the place of an 
+interrogation solely due to circumstances incident to medical 
+treatment, it must be determined whether they  were at liberty to 
+terminate  the interrogation and cause the officers to leave .  
+701 F.3d  at 396.   
+We generally adopt the First Circuit’s approach for 
+purposes of our constitution’s article I, section 10 right 
+against self -incrimination.  We hold that if a person is unable 
+to leave a place of interrogation due to circumstances incident 
+to medical treatment, determining whether the person is “in 
+custody” under a totality of circumstances requires an inquiry 
+into whether the person was at liberty to terminate the 
+interrogation and caus e the officer to leave.  
+ As further discussed below, under the “totality of 
+circumstances” of this case, Hewitt was in custody well before 
+probable cause developed.  Hence, the district court and the ICA 
+erred by holding that Miranda warnings were not req uired until 
+Hewitt responded affirmatively to an officer’s question as to 
+whether she had been driving a truck found damaged on a 
+roadside.   
+ Hewitt’s convictions have already been set aside,  however, 
+based on developments discussed in Section IV.A below.   The 
+nolle prosequi of both counts raises appellate jurisdiction and  6 mootness questions.  Hence, before addressing the merits of the 
+issues on certiorari, we explain why appellate jurisdiction was 
+retained.  We also clarify that mootness is a prudential 
+consideration and not an issue of subject matter jurisdiction, 
+and that the public interest exception to the mootness doctrine 
+applies.   
+ Remand is no longer appropriate, however, whether for the 
+grounds stated in the ICA opinion or in this opinion, and it is 
+unnecessary to determine precisely when Hewitt should have been 
+provided Miranda warnings.  Based on the procedural posture of 
+this case, we reverse the ICA’s March 18, 2021 Judgment on 
+Appeal and affirm the district court’s August 9, 2021 judgment 
+of nolle prosequi of both counts.  
+II.  Background  
+1. Factual background  
+In 2014, Hawaiʻi County Police Department (“HCPD”) Officers 
+Chandler Nacino (“Officer Nacino”) and Kaea Sugata (“Officer 
+Sugata”) were called to Kona Community Hospital to interview 
+Hewitt as a possible assault victim.  An unknown male had 
+dropped Hewitt off at the hospital’s emergency room, and 
+hospital staff contacted HCP D regarding Hewitt possibly being an 
+assault victim.  Hewitt had large contusions on her face, eyes 
+that were swollen shut, a laceration on her ear, and a broken 
+breast plate.  Although awake, Hewitt appeared disoriented and  7  was “rambling incoherently.”  S he did not know where she was or 
+why she was in the hospital.  
+ Officers Nacino and Sugata first encountered Hewitt at 
+around one o’clock in the morning.  They waited for the nurse 
+administering Hewitt’s treatment to leave before starting an 
+interview.  He witt gave the officers her name and birth date.  
+Officer Nacino then served Hewitt with a “legal document” for an 
+unrelated case and told her she needed to sign it.1  Both 
+officers stood at Hewitt’s bedside during the interview while 
+Officer Nacino did th e majority of the talking.   
+ Officer Nacino asked Hewitt whether she had been assaulted 
+and why her eyes were swollen.  Hewitt first responded she had 
+pink-eye, but later said she had a stye.  To Officer Nacino, 
+Hewitt’s injuries did not appear consistent  with either 
+explanation.  
+ At some point, Hawai‘i Fire Department (“HFD”) paramedics 
+walked by and asked what was going on.  Officer Nacino said they 
+were investigating a possible assault.  The paramedics said they 
+had seen a truck’s taillights sticking o ut from roadside bushes.  
+ 
+1  As the ICA noted, “[t]he record does not show what the document was, to 
+what case it pertained, or why Officer Nacino had possession of the document 
+at the time he was assigned to investigate an unidentified potential assault 
+victim.”  Hewitt, 149 Hawai‘i at 73 n.4, 481 P.3d at 715 n.4.   8 The police officers then left the room2 and contacted Sergeant 
+Mekia Rose (“Sergeant Rose”) to check on the truck.   
+ Sergeant Rose located an unoccupied truck in some bushes on 
+the shoulder of the road at the Queen Ka‘ahumanu Highway and 
+Kuakini Highway intersection.  The truck had front -end damage, 
+and both of its airbags had been deployed.  Sergeant Rose found 
+Hewitt’s identification card in the truck and sent a photo of it 
+via text message to Officer Nacino.  He also  relayed the truck’s 
+license plate number, a check of which revealed that the vehicle 
+belonged to a “Cyrus Hewitt.”   
+ Officer Nacino returned to the room and asked Hewitt 
+whether she had been in a traffic accident.  Hewitt answered 
+yes, first stating that  she was driving to a friend’s house and 
+parked her vehicle there but later stating that she was going to 
+a doctor’s appointment.  After this response, the officers 
+stopped asking further questions and placed Hewitt under arrest 
+for suspicion of OVUII.   
+ Before the arrest, the officers did not provide Hewitt any 
+Miranda warnings.  They also did not tell Hewitt whether she was 
+free to not respond to questions, leave, or terminate the 
+conversation.   
+ After this, at around four o’clock in the morning, Hewitt  
+ 
+2  The record does not reflect exactly when the officers left the room, 
+but trial testimony suggests that the officers did leave at some point and 
+“returned” or “recontacted” Hewitt after locating her vehicle.    9 was subjected to a blood draw without a search warrant having 
+been requested or obtained.  Officer Nacino remained with Hewitt 
+until the blood draw was completed.  He also ran a check on 
+Hewitt’s driver’s license and learned that she had a suspended 
+license.   
+2. District court proceedings  
+ On March 12, 2015, the State of Hawaiʻi (“the State”) 
+charged Hewitt with OVUII and DWOL.  Before trial, Hewitt filed 
+a motion to suppress statements alleging a violation of her 
+constitutional rights under the federal and state constitutions.  
+At the hearing just before the October 28, 2015 trial, the State 
+argued that because Hewitt was not in custody, there was no 
+constitutional violation.  The district court3 denied the motion 
+to suppress and ultimately convicted Hewitt of OVUII in 
+violation of HRS § 291E -61(a)(1) (2007)4 and DWOL in violation of 
+HRS § 286 -102(b) (Supp. 2013).5   
+ 
+3  The Hono rable Margaret K. Masunaga presided.  
+ 
+4  §291E-61 Operating a vehicle under the influence of an intoxicant.    
+(a) A person commits the offense of operating a vehicle under the 
+influence of an intoxicant if the person operates or assumes 
+actual physical control of a vehicle:  
+(1) While under the influence of alcohol in an amount sufficient 
+to impair the person’s normal mental faculties or ability to care 
+for the person and guard against casualty[.]  
+ 
+HRS § 291E -61(a)(1) (2007).  
+ 
+5  §286-102 Licensi ng. 
+. . . . 
+(b) A person operating the following category or combination of 
+categories of motor vehicles shall be examined as provided in 
+section 286 -108 and duly licensed by the examiner of drivers:   10 3. ICA proceedings  
+ Hewitt filed a notice of appeal on June 14, 2016.  On 
+appeal, Hewitt argued, inter alia, that the district court erred 
+in denying her motion to suppress because she had been subjected 
+to custodial interrogation without any Miranda warnings before 
+her statement.  In a published opinion, the ICA concluded, in 
+relevant part, that Hewitt was not in custody at the time of 
+questioning because (1) Hewitt’s inability to leave was not the 
+result of detention by law enforcement; (2) the officers did not 
+have probable cause to arrest Hewitt until she stated she had 
+been drivi ng the truck; and (3) the record did not reflect any 
+sustained and coercive questioning of Hewitt by the officers.  
+Hewitt, 149 Hawaiʻi at 75, 481 P.3d at 717.  
+ The ICA also held, however, that the district court e rred 
+by overruling Hewitt’s HRS § 621 -26 (1993)6 trial objection and 
+ 
+(1) Mopeds; 
+(2) Motorcycles and motor scooters;  
+(3) Passenger cars of any gross vehicle weight rating, buses  
+designed to transport fifteen or fewer occupants, and 
+trucks and vans having a gross vehicle weight rating of 
+eighteen thousand pounds or less; and  
+(4) All of the motor vehicles in category (3) and any vehicle  
+that is not a commercial motor vehicle.  
+A school bus or van operator shall be properly licensed to 
+operate the category of vehicles that the operator operates as a 
+school bus or van and shall comply with the standards of the 
+department of transpor tation as provided by rules adopted 
+pursuant to section 286 -181. 
+ 
+HRS § 286 -102(b) (Supp. 2013).  
+ 
+6  §621-26 Confessions when admissible.   No confession shall be 
+received in evidence unless it is first made to appear to the  11 by failing to conduct a hearing on the voluntariness of her 
+statement;7 and (2) the district court erred by denying Hewitt’s 
+motion to suppress her blood test result.8  149 Hawaiʻi at 76, 
+ 
+judge before whom the case is being tried that the confession was 
+in fact voluntarily made.  
+ 
+HRS § 621 -26 (1993).  
+ 
+7  The ICA held the district court erred by failing to  conduct a hearing 
+on the voluntariness of Hewitt’s statement that she was driving the vehicle 
+and had parked it in the bushes.  Hewitt, 149 Hawaiʻi at 76, 481 P.3d at 718. 
+The ICA ruled that, rather than overruling Hewitt’s HRS § 621 -26 objection, 
+the district court should have conducted an evidentiary hearing to determine 
+whether Hewitt’s statement was voluntarily made, in light of the evidence 
+that Hewitt had sustained significant head trauma, did not know where she 
+was, and was incoher ent.  Id. 
+ 
+8  The ICA noted that although the State argued that Hewitt’s motion to 
+suppress evidence of the alcohol content of her blood was not timely filed 
+under Hawaiʻi Rules of Penal Procedure (“HRPP”) Rule 12(c) (2007), the 
+district court had the disc retion to proceed to rule on the merits, citing 
+State v. Przeradski , 5 Haw.App. 29, 32, 677 P.2d 471, 474 -75 (1984), and 
+therefore, the denial of the motion on its merits was properly before the 
+ICA.  Hewitt, 149 Hawaiʻi at 76, 481 P.3d at 718.  The ICA appropriately noted 
+that although the district court relied upon Schmerber v. California , 384 
+U.S. 757 (1966) in denying Hewitt’s motion to suppress, Missouri v. McNeely , 
+569 U.S. 141 (2013), which was decided after State v. Entrekin , 98 Hawaiʻi 
+221, 47 P.3d 336 (2002) (discussing Schmerber ), held “that in drunk -driving 
+investigations, the natural dissipation of alcohol in the bloodstream does 
+not constitute an exigency in every case sufficient to justify conducting a 
+blood test without a warrant.”  149 Hawaiʻi at 77, 481 P.3d at 719.  The ICA 
+noted that it cited McNeely in State v. Niceloti -Velazquez , 139 Hawaiʻi 203, 
+386 P.3d 487 (App. 2016), in which it held the trial court erred by holding 
+exigent circumstances existed to justify the warrantless extraction of the 
+defendant’s blood sample, because the trial court only cited the risk of 
+blood alcohol dissipation to support its finding of exigency and the State 
+failed to adequately develop the record to demonstrate that the police 
+officers were justi fied to act without a warrant.  149 Hawaiʻi at 78, 481 P.3d 
+at 720.   
+The ICA opined that the facts of this case illustrate why more than 
+just “the risk of blood dissipation” should be required to justify a 
+warrantless blood draw.  Id.  The ICA stated that Officer Nacino did not 
+testify that he detected an odor similar to that of an alcoholic b everage on 
+Hewitt’s breath or body; there was no evidence that empty or open containers 
+of liquor, or a bar or restaurant tab or other receipt evidencing the recent 
+consumption of alcohol, were found in Hewitt’s truck or with her 
+identification card; Hewit t’s apparent disorientation could have been 
+explained by a concussion, as evidenced by her significant head trauma; 
+although she knew who she was, she did not know where she was; there was no 
+evidence that Officer Nacino attempted to determine if Hewitt wa s oriented to 
+time (as one would to attempt to diagnose or rule out a concussion); and  12 79, 481 P.3d at 718, 721.  The ICA rem anded the case for a new 
+trial.   
+4. Certiorari   
+ Hewitt’s certiorari application presents a single question:  
+whether the ICA gravely erred in holding that the district court 
+did not err in denying Hewitt’s motion to suppress because 
+Hewitt was not in cus tody.  We accepted certiorari.   
+III.  Standard of Review  
+“An appellate court reviews a ruling on a motion to 
+suppress de novo to determine whether the ruling was ‘right’ or 
+‘wrong.’”  State v. Weldon , 144 Hawaiʻi 522, 530, 445 P.3d 103, 
+111 (2019) (quoting State v. Tominiko , 126 Hawaiʻi 68, 75, 266 
+P.3d 1122, 1129 (2011)).  
+IV.  Discussion  
+A.  Preliminary issues  
+ Before addressing the issue on certiorari, we address 
+unusual developments after our acceptance of cert iorari, which, 
+ 
+Hewitt’s disorientation could also have been the result of prescription 
+medication administered to her in the hospital emergency room.  149 Hawaiʻi at 
+79, 481 P.3d at 721.  The ICA concluded that under the totality of these 
+circumstances, it would not have been unreasonable for a judge to require 
+more information before issuing a warrant for a blood draw; there was no 
+evidence that Officer Nacino, Officer Sugata, Sergeant  Rose, or any other 
+police officer attempted to contact a judge to obtain a warrant before 
+requesting the blood draw.  Id.  Thus, the ICA held the State failed to 
+adequately develop the record to demonstrate the existence of exigent 
+circumstances that woul d have justified Officer Nacino requesting a 
+warrantless blood draw, and therefore, the district court erred in denying 
+Hewitt’s motion to suppress the blood test results.   Id. 
+  13 at first blush, might appear to raise questions of appellate 
+jurisdiction and mootness.  
+ 1. Background after acceptance of certiorari  
+ 
+ As noted, the ICA’s published opinion ruled in the State’s 
+favor regarding the motion to suppress denial, and this was the 
+only question raised by Hewitt on certiorari.  Immediately after 
+we entered our order accepting certiorari, however, the State 
+contacted Hewitt’s counsel and offered to dismiss Hewitt’s case 
+with prejudice if Hewitt dismissed the i nstant certiorari 
+proceeding.  Hewitt therefore filed a motion requesting a 
+temporary remand of this appeal to the district court.9  Our 
+order regarding this motion provided:  
+IT IS HEREBY ORDERED that the motion is granted as 
+follows.  This case shall be temporarily remanded to the 
+District Court of the Third Circuit for no more than 30 
+days.  No later than 30 days after this order, the clerk of 
+the district court shall supplement the record on appeal 
+with all documents entered on temporary remand, and the  
+case shall then resume in the Supreme Court for such 
+further proceedings as may be appropriate.  
+ 
+ On remand, the State filed a motion for nolle prosequi10 
+with prejudice as to the complaint against Hewitt.  The State 
+indicated it filed the motion “due to the ICA opinion on appeal 
+following bench trial and in the interest of justice.”  The 
+ 
+9  Hawaiʻi Rules of Appellate Procedure (“HRAP”) Rule 42 requires appellate 
+court approval of any dismissal.  
+ 
+10  The expression nolle prosequi, or more fully, dicit nolle prosequi, 
+means that the government will not prosecute.  The King v. Robertson , 6 Haw. 
+718, 1889 WL 1054 (Haw. Kingdom 1889).   
+  14 district court11 granted the motion and filed a judgment 
+indicating a  disposition of “nolle prosequi” for both counts.  
+The district court’s supplemental record was filed pursuant to 
+our order  of temporary remand, and we scheduled oral argument.  
+ Hewitt then filed a motion to set aside the oral argument 
+setting or to clari fy the status of the case due to the nolle 
+prosequi on remand.12  We entered an order denying the motion to 
+set aside the oral argument, and we now explain why.  
+2.  This court retained appellate jurisdiction pursuant to 
+the order of temporary remand  
+ 
+ Based on our order of temporary remand, the district 
+court’s judgment of nolle prosequi  did not terminate th is 
+certiorari proceeding.  Pursuant to HRS § 602 -5(a)(6) (Supp. 
+2004), this court has jurisdiction:  
+[t]o make . . . such . . . orders . . . and do such other 
+acts and take such other steps as may be necessary to carry 
+into full effect the powers which are or shall be given to 
+it by law or for the promotion of justice in matters 
+pending before it.   
+ 
+Our order specifically provided that, after remand, the 
+case would resume in th is court “ for such further proceedings as 
+may be appropriate. ”  Thus, th is court retained appellate 
+jurisdiction despite the nolle prosequi.  
+ 
+ 
+11  The Honorable Robert J. Crudele presided.  
+ 
+12  The State’s motion re quested a dismissal of both counts “with 
+prejudice.”  The judgment did not include language indicating the dismissal 
+was with prejudice.  This lack of clarity is immaterial to the issues we 
+discuss.    15  3. The “public interest” exception to the mootness 
+doctrine is applicable  
+ 
+ Although we retained appellate jurisdiction, the charges 
+against Hewitt were mooted based on the nolle prosequi of both 
+counts.  We therefore address mootness.  
+ We first clarify that mootness is a prudential 
+consideration and not an issue of subject matte r jurisdiction, 
+as we have stated, even recently.13  Tax Foundation v. State , 144 
+Hawaiʻi 175, 439 P.3d 127 (2019), addressed standing, a 
+“prudential concern of judicial governance” like “mootness”:  
+As explained by Justice Nakamura in  Trustees  of the Office 
+of Hawaiian  Affairs v. Yamasaki , 69 Haw. 154, 737 P.2d 446 
+(1987): 
+ 
+Unlike the federal judiciary,  the courts of Hawaiʻi 
+are not subject to a cases or controversies  
+limitation  like that imposed by Article III, § 2 of 
+the United States Constitution .  But like the federal 
+government, ours is one in which the sovereign power 
+is divided and allocated among three co -equal 
+branches.  Thus, we have taken the teachings of the 
+Supreme Court to heart and adhered to the doctrine 
+that the use of ju dicial power to resolve public 
+disputes in a system of government where there is a 
+separation of powers should be limited to those 
+questions capable of judicial resolution and 
+presented in an adversary context.  And, we have 
+admonished our judges that even  in the absence of 
+constitutional restrictions, they must still 
+carefully weigh the wisdom, efficacy, and timeliness 
+of an exercise of their power before acting, 
+especially where there may be an intrusion into areas 
+committed to other branches of governmen t. 
+ 
+ 
+13  See, e.g., Skahan v. Stutts Constr. Co., Inc., 148 Hawaiʻi 460, 468 n.7, 
+478 P.3d 285, 293 n.7 (2021);  Hawaiʻi Tech. Acad. v. L.E., 141 Hawaiʻi 147, 
+156, 407 P.3d 103, 112 (2017); In Re Marn Fam., 141 Haw. 1, 7, 403 P.3d 621, 
+627 (2016) . 
+ 
+  16  Our guideposts  for the application  of the rules 
+of judicial  self-governance  founded in concern about 
+the proper — and properly  limited — role of courts in 
+a democratic  society reflect the precepts  enunciated  
+by the Supreme Court.  When confronted with  an 
+abstract or hypothetical question, we have addressed 
+the problem in terms of a  prohibition against 
+rendering advisory opinions;  when asked to decide 
+whether a litigant  is asserting  legally recognized  
+interests,  personal  and peculiar  to him, we have 
+spoken of standing ; when a later decision appeared 
+more appropriate, we have resolved the justiciability 
+question in terms of ripeness; and when the continued 
+vitality of the suit was questionable, we have 
+invoked the mootness bar . 
+ 
+Thus, Yamasaki  recognizes that standing is a prudential 
+concern in Hawaiʻi state courts, which are not subject to 
+the case and controversy subject matter jurisdiction 
+limitation of federal courts.   Yamasaki  also noted that 
+standing is a prudential concern “founded in con cern about 
+the proper – and properly limited – role of courts in a 
+democratic society.”  
+ 
+Tax Foundation, 144 Hawaiʻi at 190–91, 439 P.3d at 142–43 
+(quoting Yamasaki , 69 Haw. at 170 -72, 737 P.2d at 455 -56) 
+(cleaned up).  
+ As noted in Yamasaki , “mootness,” like “standing,” is a 
+prudential concern not subject to the “case and controversy” 
+subject matter jurisdiction limitation of federal courts.  69 
+Haw. at 170 -72, 737 P.2d at 455 -56.  In Tax Foundation , we noted 
+that courts of other states reco gnize that standing is a 
+prudential concern regarding justiciability and is not an issue 
+of subject matter jurisdiction.  144 Hawaiʻi at 191, 439 P.3d at 
+143.  Most other state c ourts also recognize that mootness is a 
+prudential concern regarding justiciab ility, not an issue of 
+subject matter jurisdiction.  See, e.g., Matter of Big Foot 
+Dumpsters & Containers, LLC , 507 P.3d 169 , 173 (Mont. 2022)   17 (noting mootness is a concept of justiciability) ; Nesbitt v. 
+Frakes, 911 N.W. 2d 598, 603 (Neb. 2018)  (holding mootness is a 
+justiciability doctrine that does not prevent appellate 
+jurisdiction); Couey v. Atkins , 355 P.3d 866, 901 (Or. 2015)  
+(holding that the Oregon state constitution d oes not require 
+dismissal of a case based on the justiciability doctrine of 
+mootness); DeMarco v. Travelers  Ins. Co., 102 A.3d 616, 622 
+(R.I. 2014)  (holding m ootness is a distinct concept, separate 
+and apart from  subject-matter jurisdiction ); Wylie v. State of 
+Idaho Transp . Bd., 253 P.3d 700, 705 ( Idaho 2011) (noting 
+mootness is a subcategory of justiciability);  McIntyre v. 
+Traughber , 884 S.W.2d 134, 137 (Tenn. Ct. App.  1994) (noting 
+mootness is a doctrine of justiciability) .  Thus, mootness is an 
+issue of justiciability, not an issue of subject matter 
+jurisdiction.  
+ Under Hawaiʻi law, a well -recognized exception to the 
+mootness doctrine is for matters “affecting the public 
+interest.”  See State v. Kiese , 126 Hawaiʻi 494, 509, 273 P.3d 
+1180, 1195 (2012).  This exception applies here.  
+ Only after we accepted Hewitt’s certiorari application on 
+an issue for which the ICA had ruled in the State’s favor in a 
+published opinion did the State offer to dismiss Hewitt’s case 
+with prejudice; the State made the offer conditioned upon 
+Hewitt’s dismissal of this a ppeal.  On temporary remand, t he  18 State indicated it filed the motion to nolle prosequi the case 
+with prejudice for two reasons: “the ICA opinion on appeal 
+following bench trial”; and “in the interest of justice.”  The 
+State may have realized that the distr ict court had erred with 
+respect to voluntariness, especially due to the testimony 
+regarding Hewitt’s condition during questioning.  The State may 
+also have realized that, as ruled by the ICA, a search warrant 
+should have been obtained before the blood dra w.  But this court 
+had just accepted certiorari on the custody issue, an issue on 
+which the State had obtained a favorable opinion from the ICA.  
+If this certiorari was dismissed pursuant to the State’s offer, 
+the ICA’s published opinion would remain as pr ecedent despite 
+the errors of law discussed in Section IV.B below.  
+ Under these circumstances, the “public interest” exception 
+to the mootness doctrine applies.  Although factually and 
+procedurally distinguishable, concerns expressed in Ocean Resort 
+Villas Vacation Owners Ass ’n v. County of Maui, 147 Hawai‘i 544, 
+465 P.3d 991 (2020), which addressed “stipulated reversals” of 
+trial court judgments are instructive .  In that case, we cited 
+to a law review article highlighting the “‘tangible but 
+frequently unde tectable social costs’ of allowing [appellate] 
+courts to consider vacaturs based solely on the parties’ 
+settlement during the pendency of an appeal ”:  19 The costs . . . include the . . . loss of precedential 
+value for judicial decisions, and a diminished resp ect for 
+the judicial process . . . . A procedure which allows 
+parties to obtain vacatur as a matter of right . . . will 
+encourage parties to delay settlement until after trial 
+because the effects of an adverse judgment can be avoided 
+at little or no cost by  postjudgment settlement.  The 
+procedure . . . will place the defense of the integrity of 
+judicial decisions in the hands of litigants who are not in 
+a position to safeguard the public values inherent therein.  
+ 
+147 Hawaiʻi at 560, 465 P.3d at 1007 (quoting Jill E. Fisch, 
+Rewriting History: The Propriety of Eradicating Prior Decisional 
+Law Through Settlement and Vacatur , 76 Cornell L. Rev. 589, 641 -
+42 (1991)) (cleaned up).   
+ Allowing the State to nolle prosequi charges afte r a 
+favorable ICA opinion in exchange for dismissal of an appeal 
+would likewise (1) result in t he loss of precedential value of 
+judicial decisions  from this court;  (2) cause a diminished 
+respect for the judicial process ; (3) allow parties to obtain 
+dismissal as a matter of right , which could encourage the State 
+to delay offering dismissal until after certiorari is accepted 
+to see if a possible a dverse opinion can be avoided ; and (4) 
+place th e defense of the integrity of judicial decisions in the 
+hands of li tigants who are not in a position to safeguard the 
+public values inherent therein .14  However well -intentioned the 
+ 
+14  With respect to (4), an individual defendant has no real incentive to 
+continue with a certiorari proceeding after receiving an offer to nolle 
+prosequi with prejudice.  The nolle prosequi would be a sure thing, and a 
+defendant does not know how this court w ill rule on certiorari.  We have no 
+concern with the actions taken by Hewitt’s counsel after receipt of the 
+State’s offer to nolle prosequi with prejudice in exchange for a dismissal of 
+the appeal.  Counsel’s obligation was to represent Hewitt’s interests , and 
+counsel took appropriate actions to do so.   20 State’s offer might have been, dismissal would have precluded 
+this court from reviewing an issue on which the State had 
+obtained a favorable published opinion from the ICA.  For the 
+reasons discussed in Section III.B below, the public interest 
+exception to the mootness doctrine applies here despite the 
+dismissal of t he charges against Hewitt.  
+B.  Custody  
+ We therefore address the merits of the  issue raised on 
+certiorari:   whether the ICA erred in determining that Hewitt 
+was not in custody at the time she made her statements and that 
+Miranda warnings were therefore not required.   
+1. General Miranda principles  
+ The Fifth Amendment to the U.S. Constitution provides, in 
+relevant part, that no person “shall be compelled in any 
+criminal case to be a witness against himself[.]”  U.S. Const. 
+amend. V.  Article I, section 10 of the Hawaiʻi Constitution 
+similarly guarant ees a privilege against self -incrimination to 
+our state’s citizens.  See State v. Ah Loo , 94 Hawaiʻi 207, 210, 
+10 P.3d 728, 731 (2000).  Miranda warnings help safeguard this 
+right: 
+The Miranda rule is, at core, a constitutionally 
+prescribed rule of evidenc e that requires the prosecution 
+to lay a sufficient foundation —i.e., that the requisite 
+warnings were administered and validly waived before the 
+accused gave the statement sought to be adduced at trial —
+before it may adduce evidence of a defendant ’s custodi al 
+statements that stem from interrogation during [their] 
+criminal trial.   21 The prosecution’s burden of establishing that the 
+requisite warnings were given, however, is not triggered 
+unless the totality of the circumstances reflect that the 
+statement it seeks to adduce at trial was obtained as a 
+result of “custodial interrogation, ” which, as the United 
+States Supreme Court defined it in Miranda, consists of 
+“questioning initiated by law enforcement officers after a 
+person has been taken into custody or otherwise deprived of 
+[their] freedom of action in any significant way.”  In 
+other words, the defendant, objecting to the admissibility 
+of [their] statement and, thus, seeking to suppress it, 
+must establish that [their] statement was the result of (1) 
+“interrogation” that occurred while [they were] (2) “in 
+custody.”  
+ 
+State v. Wallace , 105 Hawaiʻi 131, 137, 94 P.3d 1275, 1281 (2004) 
+(cleaned up).  Thus, a statement made by a defendant under 
+custodial interrogation without a Miranda warning must be 
+suppressed as unconstitutionally elicited.    
+2. Hewitt was in custody when probable cause developed 
+and Sagapolutele -Silva is overruled to the extent it 
+said the existence  of probable cause is not 
+dispositive on the issue of whether a person is in 
+custody for purposes of  Miranda warnings  required by 
+the Hawaiʻi constitution  
+ 
+ In Ketchum, we articulated that a person is in custody for 
+purposes of Miranda warnings as required by the Hawaiʻi 
+Constitution:  
+[I]f an objective assessment of the totality of the 
+circumstances reflects either (1) that the person has 
+become impliedly accused of committing a crime because the 
+questions of the police have become sustained and coercive, 
+such that they are no longer reasonably designed briefly to 
+confirm or dispel their reasonable suspicion or (2) that 
+the point  of arrest has arrived because either (a) probable 
+cause to arrest has developed or (b) the police have 
+subjected the person to an unlawful “de facto” arrest 
+without probable cause to do so.  
+ 
+Ketchum, 97 Hawai‘i at 126, 34 P.3d at 1025.   22  The majority in Sagapolutele -Silva said it was clarifying 
+that despite this holding, the existence of probable cause is 
+but one factor in the totality of circumstances test.  151 
+Hawaiʻi at 291, 511 P.3d at 390.   
+ Ketchum stated a clear, easily applied, bright -line rule:  
+when probable cause to arrest exists upon an initial stop or 
+detention, the Hawaiʻi constitution requires that Miranda rights 
+be given before “interrogation” occurs.  Ketchum, 97 Hawaiʻi at 
+126, 34 P.3d 1006 at 1025.   Even before Ketchum, we had held 
+that “if the detained person ’s responses to a police officer’s 
+questions provide the officer with probable cause to arrest . . 
+. the officer is —-at that time—-required to inform the detained 
+person of his or her constitutional rights against self-
+incrimination and to counsel, as mandated by Miranda and its 
+progeny.”  State v. Loo , 94 Hawaiʻi 207, 212 , 10 P.3d 728, 733 
+(2000) (citing State v. Melemai, 64 Haw. 479, 481-82, 643 P.2d 
+541, 543-44 (1982)).  Ketchum followed within a year, setting 
+out the rule quoted above pursuant to  article I, section 10 of 
+the Hawaiʻi constitution.  97 Hawaiʻi at 126, 34 P.3d 1006 at 
+1025. 
+ Bright-line rules foster uniformity and predictability.  
+See Antonin Scalia, The Rule of La w as a Law of Rules , 56 U. 
+Chi. L. Rev. 1175, 1179 (1989).  The most significant role of 
+judges may be to protect the individual criminal defendant  23 against the occasional excesses of popular will, and to preserve 
+the checks and balances within our constitu tional system that 
+are designed to inhibit that popular will.   Id., 56 U. Chi. L. 
+Rev. at 1180.  In terms of constitutional rules of criminal 
+procedure, in order to preserve checks and balances, bright -line 
+rules are therefore preferable.15   
+ 
+15  As Justice Scalia stated:  
+ I had always thought that the common -law [“totality 
+of circumstances”] approach had at least one thing to be 
+said for it: it was the course of judicial restraint, 
+“making” as little law as possible in order to decide the 
+case at hand.  I have come to doubt whether that is true. 
+For when, in writing for the majority of the Court, I adopt 
+a general rule, and say, “This is the basis of our 
+decision,” I not only constrain l ower courts, I constrain 
+myself as well.  If the next case should have such 
+different facts that my political or policy preferences 
+regarding the outcome are quite the opposite, I will be 
+unable to indulge those preferences; I have committed 
+myself to the governing principle. In the real world of 
+appellate judging, it displays more judicial restraint to 
+adopt such a course than to announce that, “on balance,” we 
+think the law was violated here —leaving ourselves free to 
+say in the next case that, “on balance ,” it was not.  It is 
+a commonplace that the one effective check upon arbitrary 
+judges is criticism by the bar and the academy.  But it is 
+no more possible to demonstrate the inconsistency of two 
+opinions based upon a “totality of the circumstances” test 
+than it is to demonstrate the inconsistency of two jury 
+verdicts.   Only by announcing rules do we hedge ourselves 
+in. 
+ While announcing a firm rule of decision can thus 
+inhibit courts, strangely enough it can embolden them as 
+well.  Judges are sometimes cal led upon to be courageous, 
+because they must sometimes stand up to what is generally 
+supreme in a democracy: the popular will.  Their most 
+significant roles, in our system, are to protect the 
+individual criminal defendant against the occasional 
+excesses of  that popular will, and to preserve the checks 
+and balances within our constitutional system that are 
+precisely designed to inhibit swift and complete 
+accomplishment of that popular will.  Those are tasks 
+which, properly performed, may earn widespread resp ect and 
+admiration in the long run, but —almost by definition —never 
+in the particular case.  The chances that frail men and 
+women will stand up to their unpleasant duty are greatly  24  Determining whether a defendant is in custody under a 
+totality of circumstances requires consideration of many factors 
+other than the existence of probable cause.  In Sagapolutele -
+Silva, however, the majority eliminated the bright -line 
+“probable cause” test for custod y and required analyzing 
+“custody” based on multiple factors.  151 Hawaiʻi at 292, 511 
+P.3d at 791.  
+ Also, until Sagapolutele -Silva, this court had 
+“consistently provided criminal defendants with greater 
+protection under Hawaiʻi’s version of the privilege against self -
+incrimination (article I, section 10 of the Hawaiʻi Constitution) 
+than is otherwise ensured by the federal courts under Miranda 
+and its progeny.”  State v. Valera , 74 Haw. 424, 434, 848 P.2d 
+376, 380 (1993).  The majority in Sagapolu tele-Silva actually 
+attempted to retrench on Hawaiʻi constitutional rights .  The 
+Ketchum bright-line rule enhances protection of our citizens’ 
+constitutional rights and equal treatment of people under the 
+law.   
+ 
+increased if they can stand behind the solid shield of a 
+firm, clear princip le enunciated in earlier cases.  It is 
+very difficult to say that a particular convicted felon who 
+is the object of widespread hatred must go free because, on 
+balance, we think that excluding the defense attorney from 
+the line -up process in this case may h ave prevented a fair 
+trial.  It is easier to say that our cases plainly hold 
+that, absent exigent circumstances, such exclusion is a per 
+se denial of due process.  
+ 
+56 U. Chi. L. Rev. at 1179 -80.   25  We therefore expressly overrule Sagapolutel e-Silva’s 
+abrogation of Ketchum’s bright -line rule  and, based on the 
+above, hold that the Ketchum rule remains in effect:  Miranda 
+warnings are required by article I, section 10 of the 
+Constitution of the State of Hawaiʻi when probable cause to 
+arrest has developed.  Ketchum, 97 Hawaiʻi at 126, 34 P.3d at 
+1025.  
+ Hence, at the point probable cause to arrest Hewitt had 
+developed, whic h was at least by the time officers learned the 
+truck owned by “Cyrus Hewitt” crashed on the roadside contained 
+Hewitt’s identification card, she was entitled to Miranda 
+warnings before questioning recommenced.  For the reasons 
+discussed below, however, He witt was in custody under a totality 
+of circumstances and entitled to Miranda warnings even before 
+that point in time.  
+3. Based on the totality of circumstances, Hewitt was 
+already in custody even before probable cause 
+developed  
+ 
+ The ICA ruled that Hewitt  was not in custody at the time 
+she made her statement about having driven the truck because (1) 
+her inability to leave was not the result of detention by law 
+enforcement; (2) the officers did not have probable cause to 
+arrest Hewitt until she stated she h ad been driving the truck; 
+and (3) the record does not reflect any sustained and coercive  26 questioning of Hewitt by the officers.  Hewitt, 149 Hawaiʻi at 
+75, 481 P.3d at 717.   
+ When a bright -line rule regarding “custody” (such as the 
+existence of probable cause) has yet to be triggered, “[w]hether 
+the defendant was in custody or otherwise deprived of [their] 
+freedom of action for Miranda purposes is to be determined from 
+the tota lity of the circumstances, objectively appraised.”  
+Patterson , 59 Haw. at 361, 581 P.2d at 755.  “These 
+[circumstances] would include the place and time of the 
+interrogation, the length of the interrogation, the nature of 
+the questions asked, the conduct o f the police, and all other 
+relevant circumstances.”  Id.   
+ Thus, the circumstance of a person being questioned while 
+in a hospital bed or receiving medical treatment is relevant to 
+the “totality of circumstances” analysis.  Other courts have 
+specifically  addressed questioning by law enforcement of a 
+person in a hospital bed or receiving medical treatment .  The 
+First Circuit has stated that “[w]hen an individual is unable to 
+‘leave’ the place of the interrogation solely due to 
+circumstances incident to med ical treatment, the question is 
+said to be slightly different:  whether [they were] at liberty 
+to terminate the interrogation and ‘cause the [officers] to  27 leave.’”  Infante, 701 F.3d at 396, modified on other grounds by 
+Hill v. Walsh, 884 F.3d 16 (1st Cir. 2018) .16   
+ 
+16  Other courts have articulated different tests regarding w hether custody 
+is established when a person is unable to leave the hospital due to their 
+medical condition.  See State v. Pontbriand , 878 A.2d 227, 231 -32 (Vt. 2005) . 
+ The United States Court of Appeals for the Fourth Circuit adopted a 
+“reasonably free to terminate questioning and leave” test:  
+ 
+ The question of custody typically turns on whether “a 
+reasonable person [would] have felt [they were] not at 
+liberty to terminate the interrogation and leave.”  
+Thompson v. Keohane , 516 U.S. 99, 112, 116 S.Ct. 457, 133 
+L.Ed.2d 383 (1995).  In some circumstances, however, the 
+defendant may be prevented from pretermitting the 
+interrogation because of factors independent of police 
+restraint.  For example, in Florida v. Bostick , the 
+defendant's “freed om of movement was restricted by a factor 
+independent of police conduct —i.e., by his being a 
+passenger on a bus” —which rendered the standard “free to 
+leave” analysis inapplicable.  501 U.S. 429, 436, 111 S.Ct. 
+2382, 115 L.Ed.2d 389 (1991) (emphasis omitted ).  In such 
+circumstances, “the appropriate inquiry is whether a 
+reasonable person would feel free to decline officers’ 
+requests or otherwise terminate the encounter.”  Id. at 
+436, 111 S.Ct. 2382.  
+This court came to a similar conclusion in United 
+States v.  Conley, 779 F.2d 970 (4th Cir. 1985), a case 
+decided before Bostick. . . .  
+ . . . . 
+Analysis of whether Jamison was in custody when he 
+made the statements describing the shooting depends on 
+“whether a reasonable person would [have] fe[lt] free to 
+decline the officers’ requests or otherwise terminate the 
+encounter,” Bostick, 501 U.S. at 436, 111 S.Ct. 2382.  In 
+dissecting the perceptions of such a reasonable person, 
+however, we must be careful to separate the restrictions on 
+his freedom arising from police  interrogation and those 
+incident to his background circumstances.  That is, to the 
+extent Jamison felt constrained by his injuries, the 
+medical exigencies they created (e.g., the donning of a 
+hospital gown and the insertion of an I.V. line), or the 
+routine police investigation they initiated, such 
+limitations on his freedom should not factor into our 
+reasonable -person analysis.  It is this careful 
+differentiation between police -imposed restraint and 
+circumstantial restraint that leads us to conclude that 
+Jamison was not in custody when he described the shooting 
+during his hospital interview.  The district court properly 
+invoked the same lodestar, but proceeded to classify the 
+significant limitations on Jamison’s freedom as police -
+imposed when they were actu ally routine treatment for a 
+person in Jamison’s position.  
+   
+28  We generally adopt the First Circuit’s approach for 
+purposes of the article I, section 10 right against self -
+incrimination.  We hold that, under the Hawaiʻi Constitution, if 
+a person is unable to leave a place of interrogation due to 
+circumstances incident to medical treatment, determining whether 
+the person is “in custody” under a totality of circumstances 
+requires an inquiry into whether the person was at liberty to 
+terminate the interrogation and cause the officer(s) to leave.  
+ Applying  that inquiry here, at  the time of the questioning, 
+Hewitt lay in a hospital bed with contusions on her face, eyes 
+swollen shut, a laceration on her ear, and a broken breast 
+plate.  Early in the officers’ encounter with Hewitt, Officer 
+Nacino served her wi th a “legal document” and told her that she 
+needed to sign the document.  The officers proceeded to question 
+Hewitt about her injuries.  She did not know where she was or 
+why she was there.   
+ Both officers stood at her bedside throughout the 
+interview, which started around one o’clock in the morning and 
+continued intermittently until about three hours later.  
+ 
+United States  v. Jamison , 509 F.3d 623, 629 (4th Cir. 2007) (alterations in 
+original).  
+ 
+ We disagree with the Fourth Circuit that limitations on a person’s 
+freedom due to background medical treat ment circumstances should not factor 
+into the custody analysis.  Such circumstances are relevant to the 
+determination of whether a person is at liberty to terminate the 
+interrogation and cause the officers to leave.  
+   29 Hewitt’s responses were largely incoherent.  The officers had to 
+continually wake her up throughout the interview because she had 
+been heavily sedated.  When Hewitt finally left the hospital, 
+she could not do so on her own, and her friend had to assist her 
+movements.  Hewitt was not at liberty to terminate the 
+interrogation and cause the of ficers to leave.  
+ Applying other factors relevant to the “totality of 
+circumstances” analysis, Hewitt had also become the focus of an 
+OVUII investigation before Officer Nacino asked whether she had 
+been driving.  See Patterson , 59 Haw. at 361, 581 P.2d at  755 
+(holding that the focus of the investigation upon the defendant 
+is an important factor in the determination of whether the 
+defendant was subjected to custodial interrogation).  In this 
+regard, at the start of the officers’ shift and before they even 
+went to the hospital, HC PD received a report that somebody heard 
+a traffic collision.  The officers suspected Hewitt was under 
+the influence of alcohol or another intoxicant.  While Officer 
+Nacino questioned Hewitt, HFD paramedics informed the officers 
+of a truck apparently invol ved in a traffic collision and 
+suggested that Hewitt was somehow connected.  When the officers 
+called Sergeant Rose to confirm the truck’s whereabouts, they 
+already doubted that Hewitt’s injuries were from an assault as 
+they told Sergeant Rose that “a pers on was at the hospital for 
+injuries, which they didn’t know if it was from an assault or  30 from a traffic accident” and “received information that there 
+was a possible crash.”17   
+ Hence, under the totality of circumstances, Hewitt was in 
+custody and entitle d to Miranda warnings well before the 
+officers asked her whether she had been driving the truck.  T he 
+district court and ICA erred in holding that Miranda warnings 
+were not required until after she responded to the question.   
+V.  Conclusion  
+ Hewitt’s conv iction has already been set aside and the 
+charges against her have been dismissed.  It is therefore 
+unnecessary to determine when custodial interrogation of Hewitt 
+actually commenced.  A remand is no longer appropriate, whether 
+on the bases previously orde red by the ICA or to address the 
+issues discussed in this opinion.  
+ 
+ 
+ 
+ 
+ 
+17  Sergeant Rose confirmed the truck’s location in some brush and its 
+damaged state, which provided an explanation for Hewitt’s injuries and why 
+she had dirt and leaves on her person —details Officer Sugata testified to 
+noticing about Hewitt’s appearance.  Ser geant Rose also found Hewitt’s 
+identification card in the truck, and texted a photo of the card to Officer 
+Nacino.  Except for her injuries, Hewitt matched the image of the person on 
+the card.  A search of the truck’s license plate number revealed that it was 
+registered to a “Cyrus Hewitt,” whom the officers assumed was Hewitt’s 
+father.    31  Due to the procedural posture of this case, we therefore 
+instead reverse the ICA’s March 20, 2021 Judgment on Appeal that 
+ordered a remand and affirm the district court’s August 9, 20 21 
+judgment of nolle prosequi of both counts.  
+  /s/ Sabrina S. McKenna 
+ 
+ 
+ 
+ 
+  /s/ Michael D. Wilson 
+  
+ Taryn R. Tomasa
+for petitioner   
+ 
+     
+     
+Christopher K. Rothfus
+for respondent    /s/ Todd W. Eddins  
+  
+        
+ 
+ 
+ 
+ 

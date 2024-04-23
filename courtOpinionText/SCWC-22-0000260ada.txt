@@ -1,0 +1,1199 @@
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   *** FOR PUBLICATION IN WEST’S HAWAIʻI  REPORTS AND PACIFIC REPORTER ***  
+Electronically Filed 
+Supreme Court SCWC-22-0000260 03-JAN-2024 09:20 AM Dkt. 11 OP 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ʻI
+ ---o0o---  
+STATE OF HAWAI ʻI,   
+Petitioner/Plaintiff-Appellant,
+ 
+vs.  
+ 
+DYLAN RIVER JAMES
+,  
+Respondent/Defendant-Appellee.  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ SCWC-22-0000260 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS 
+(CAAP-22-0000260; CASE NO. 
+5CPC-20-0000051) 
+JANUARY 3, 2024 
+RECKTENWALD, C.J., McKENNA, AND EDDINS, JJ., 
+AND CIRCUIT JUDGE CATALDO AND CIRCUIT JUDGE MALINAO,
+ASSIGNED BY REASON OF VACANCIES 
+ OPINION OF THE COURT BY McKENNA, J.  
+I. Introduction 
+The State of Hawai‘i (“the State”) appeal s a pretrial 
+suppression order of the Circuit Court of the Fifth Circuit    
+    
+ 
+   
+   
+ 
+  
+ 
+ 
+    
+  
+   
+  
+ 
+    
+ 
+                     
+   
+ *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+(“circuit court”) . The circuit court1 suppressed text message 
+evidence in the sexual assault prosecution of defendant Dylan 
+River James (“James”) . During an interview of the complaining 
+witness (“CW”), police detectives directed her to contact James to discuss the incident.  CW tried to call James while with the 
+officers, but James did not pick up. CW later texted James, who 
+responded; James apparently made admissions during the text 
+conversation with CW. 
+The circuit court granted James’s motion to suppress the 
+text messages, reasoning (1) CW was acting as a government agent 
+when she texted James; therefore (2)(a) James’s rights against 
+self-incrimination under the federal and Hawaiʻi constitutions 
+were violated because no Miranda warnings were given; and 
+(b) James’s rights to counsel under the federal and Hawai ʻi 
+constitutions were 
+violated because he was not advised of his 
+right to counsel. The circuit court also denied the State ’s 
+motion for reconsideration. 
+The State appeal  ed and the ICA affirmed.    State v. James
+, 
+No. CAAP-22-0000260, 2023 WL 3017974  (Haw. App. Apr. 20, 2023) 
+(SDO). The ICA held that pursuant   to the bright-line rule of  
+State v. Ketchum, 97 Hawai‘i 107,  34 P.3d 1006 (2001), Miranda  
+warnings were required before James was “interrogated ”  because 
+The Honorable Randal G.B. Valenciano presided. 
+2 1    
+    
+ 
+ 
+ 
+  
+ 
+  
+  
+  
+   
+ 
+   
+   
+  *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+probable cause existed at the time CW texted James. James, 2023 
+WL 3017974, at *6 (citing State v. Hewitt , 153 Hawai‘ i 33, 36, 
+526 P.3d 558, 561 (2023))
+.  The ICA did not address the right to 
+counsel issue. 2023 WL 3017974, at *1 n.4.  The ICA also held 
+it lacked appellate jurisdiction over the circuit court’s denial 
+of the State’s motion for reconsideration. 2023 WL 3017974, at 
+*1 n.1. 
+The circuit court and ICA erred. 
+Under the Fifth Amendment 
+to the United States Constitution and article I, section 10 of 
+the Hawaiʻ i Constitution, Miranda warnings are only required for 
+“custodial” interrogations. Although CW was acting as a 
+government agent, James was not “in custody” when there was no 
+stop or detention or other deprivation of his freedom of action 
+by law enforcement. 
+Therefore, t
+here was no custodial interrogation requiring 
+Miranda warnings  and advisement of a right to counsel. The 
+circuit court also erred by suppressing the texts based on 
+James’s Sixth Amendment and Hawaiʻi Constitution article I, 
+section 14 right   to counsel.  At the time of  the text exchange, 
+adversarial judicial criminal proceedings had yet to be 
+initiated against James.  Therefore, his right to counsel had  
+not attached.  
+We also hold that 
+the ICA erred by concluding it did not 
+have appellate jurisdiction over the circuit court’s order 
+3    
+   
+ 
+ 
+  
+ 
+  
+  *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+denying the State’s motion for reconsideration .   The State’s 
+right to appeal from an order granting  a defendant ’s motion to 
+suppress under Hawai ʻi Revised Statutes  (“HRS”) § 641-13(7)  
+(2016) “encompasses a right ”  to appeal from  a related  order 
+denying the State’s  motion for reconsideration.   See  State v. 
+Bohannon, 102 Hawai  ʻi 228, 234, 74 P.3d 980, 986 (2003 ).  
+Hence, we vacate the ICA’s May 31, 2023 judgment on appeal 
+as well as the circuit court ’s March 28, 2022 findings of fact, 
+conclusions of law and order granting motion to suppress text 
+messages (“FOF/COL/Order”) and April 4, 2022 order denying the 
+State’s motion for reconsideration.  We remand to the circuit 
+court for further proceedings consistent with this opinion. 
+  
+    II. Background 
+A. Factual background 
+On July 2, 2015, 
+James allegedly sexually assaulted CW. 
+Later that day, Kaua‘i Police Department detectives Ray M. 
+Takekawa (“Detective Takekawa”) and Darren Rose (“ Detective 
+Rose”) (together, “the detectives”) interviewed CW. 
+At the end of the interview, the detectives directed CW to 
+contact James to discuss the 
+alleged sexual assault.  CW was 
+recorded saying to the detectives, “Wait. So, like, first I 
+should just, like, get him to admit that we, like, had sex and then after that be like, well, I was like –”  CW then tried to 
+call James, but he did not pick up.  CW asked the detectives, 
+4    
+   
+ 
+ 
+ 
+   
+  
+     
+ 
+   
+ 
+ 
+                     
+  
+ 
+  
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+  
+ 
+ 
+     
+  
+   *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+“Do I leave a message?” Detective Takekawa responded , “You want 
+to try a text?” and Detective Rose said, “Give it a few minutes, 
+about five minutes, and we’ll try one more time.” CW tried to 
+call James a second time but he did not pick up. 
+CW then texted James.  James responded with various texts 
+to CW about the incident.  Among other things, he apparently admitted they had sex and that it was “rough.”
+2 
+B. Grand jury proceedings 
+CW testified about the above events to a grand jury. 
+On March 11, 2020, the grand jury returned an indictment 
+charging James with five counts of sexual assault in the first 
+degree in violation of HRS § 707-730(1)(a) (2014).3 
+2 CW texted James that she was “thinking a bout the other night .” During 
+the course of their text conversation, James stated, “I do remember it being 
+very rough. ” When CW later texted, “You really don’t take no for an answer,” 
+James responded, 
+Woah! I couldn [’]t tell if you were being serious or no[t] 
+to be honest . . . Thought it was some kind of ‘role 
+playin[g’] or something? Sorry about that, [I] was a 
+li[ttle] confused about that as well . . . . 
+ . . . . 
+When you were scr
+eaming and crawling away by the lifeguard 
+tower . . . Couldn[ ’]t tell if you were serious or w[h]at 
+was goin[g on]. I was pretty confused . . . And sorry to 
+put you in that situation, [it] wasn[’]t my intention at 
+the time[.] 
+3 HRS § 707- 730(1)(a) provided: “(1) A person commits the offense of 
+sexual assault in the first degree if: (a) The person knowingly subjects 
+another person to an act of sexual penetration by strong compulsion [.]” 
+5    
+   
+ C. Circuit court proceedings 
+1. Motion to suppress text messages  
+ 
+ 
+  
+ 
+  
+ 
+ 
+   
+ 
+  
+  
+      
+ 
+   *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+ 
+On December 21, 2021, James filed a motion to suppress the 
+text messages between James and CW (“motion to suppress”). 
+Defense counsel initially argued the texts should be suppressed because the Fourth Amendment to the U.S. Constitution and 
+article I, section 7 of the Hawai‘ i Constitution ensure an 
+“individual’s legitimate exp ectations of privacy will not be 
+subjected to unreasonable governmental intrusions.” 
+Citing State v. Kahoonei , 83 Hawai ‘i 124, 925 P.2d 294 
+(1996), James argued that, under the totality of the 
+circumstances, CW was acting as a government agent at the time 
+she texted James. James characterized CW ’s texts as “pretext 
+calls.” “Pretext calls” a re calls “made b y a witness at the 
+direction of the police to a suspect or somebody else involved in the investigation. The investigators tape-record the 
+telephone conversation and instruct the witness on what to say.  
+The detectives use pretext calls to gather evidence and/or 
+incriminating statements.” People v. Wahlert, 31 Cal. Rptr. 3d 
+603, 614 (Ct. App. 4th Div. 2005) (cleaned up). James cited the Montana Supreme Court’s opinion in State v. Stewart, 291 P.3d 
+1187, 1198 (Mont. 2012).  According to James, Stewart held 
+“‘pretext calls’ made by the complainant to the defendant at the 
+direction of a detective had violated the defendant’s right to 
+6    
+   
+ 
+   
+ 
+ 
+  
+   
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+                     
+  
+   
+ 
+ 
+  
+   
+   
+ 
+  
+    
+    
+ 
+    
+  
+  
+  4  *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+privacy under the Montana constitution ” because they constituted 
+state action.4 
+2. Hearing on and oral order granting James’s motion to 
+suppress 
+At the February 24, 2022 hearing on the motion to suppress, 
+the circuit court cited Kahoonei, which held that whether a 
+private individual was acting as a government agent when 
+effectuating a search is to be analyzed under a “totality of 
+circumstances.” 83 Hawaiʻ i at 131-32, 925 P.2d at 301-02 
+(holding a defendant ’s mother was a government agent when she 
+retrieved a firearm and ammunition from her son’s bedroom in an 
+officer’s presence after an officer told her a search warrant 
+could be obtained and a search would inevitably occur).  The 
+circuit court concluded CW was acting as a government agent, and 
+orally granted Ja mes’s motion to suppress. 
+As noted in Stewart , the Montana Supr eme Court had held in State v. 
+Allen, 241 P.3d 1045 (Mont. 2010), that a defendant has a reasonable 
+expectation of privacy in a cellular telephone conversation with a 
+confidential police informant, and that the warrantless recordation of the 
+conversation violated defendant’ s Montana constitutional right to privacy.  
+Stewart, 291 P.3d at 1195. In other words, Mont ana, along with 14 other 
+states, requires consent of all pa rties to a conversation for a warrantless 
+recordation. See, e.g. , Stewart
+, 291 P.3d at 1195. In contrast, Hawaiʻi is 
+one of 36 states that does not require a search warrant when one party to a face-to-face or telephonic conversation c onsents to recordation. See, e.g., 
+State v. Graham, 70 Haw. 627, 780 P.2d 1103 (1989) (holding the recording of 
+a private conversatio n with the consent or cooperation of a participant is 
+not subject to constitutional regulation). See generally Recording Phone 
+Calls and Conversations: 50 -State Survey, JUSTIA (Jan. 2018), 
+https://www.justia.com/50 -state
+-surveys/recording -phone-calls-and-
+conversations/ [ https://perma.cc/529D -8XGR]. 
+7    
+   
+  
+ 
+   
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+   
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+3. Order granting James’s motion to suppress 
+On March 28, 2022, the circuit court issued its 
+FOF/COL/Order. 
+The circuit court’s conclusions of law (“COLs”) were that: 
+3.  Under the totality of the circumstances, the 
+governmental involvement in this case was significant and
+extensive enough to render CW an instrumentality of the State, i.e.  a government agent, when she called and texte
+[James]. Kahoonei, 83 
+Hawai‘i at  132, 925 P.3d at 302 . . 
+.   
+d 
+. 
+4.  At the point when CW called and texted [James], 
+he was the only suspect and the 
+investigation had focused 
+on him. If the detectives had sought to question [James] 
+at that point they would have been required to advise him 
+of his rights, including his right to remain silent and his  
+right to an   attorney, and obtain a waiver of those right[s]  
+prior to proceeding with t he questioning.  Miranda v. 
+Arizona, 384 U.S. 436 . . . (1966);  State v. Santiago, 53 
+Haw. 254, 266, 492 P.2d 657, 665 (1971).  
+ 
+5. As CW was acting as a government agent when she 
+called an
+d texted [James], the actions of the detectives 
+vio
+lated James[’s] right to an attorney under the [S]ixth 
+[A]mendment to the U.S. Constitution and article I, section 
+14 of the Hawai‘i Constitution and [James’s] right to remain 
+silent under the Fifth Amendment and article I, section 10 . 
+Thus, although the circuit court relied on Kahoonei , which 
+was a Fourth Amendment and article I, section 7 warrantless 
+search case, the circuit court based its suppression ruling on 
+alleged violations of James’s Fifth Amendment and article I, 
+section 10 right against self-incrimination and Sixth Amendment 
+and article I, section 14 right to counsel. 
+4. The State’s motion for reconsideration 
+On February 28, 2022, the State had filed a motion to 
+reconsider the circuit court ’s oral ruling (“motion for 
+reconsideration”). The State argued that even if CW was acting 
+8    
+  
+  
+  
+  
+ 
+ 
+  
+ 
+   
+ 
+ 
+   
+  
+  
+     *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+as a State agent, the content of the text messages was 
+admissible. It argued James had no reasonable expectation of 
+privacy in his text message exchange with CW, even if she was 
+acting as a State agent, so the text messages should not have 
+been suppressed. 
+The State pointed out that in Graham, 70 Haw. 627, 780 P.2d 
+1103, this court held a recorded private conversation with the 
+consent of one party (otherwise known as “consensual 
+eavesdropping” or “participant monitoring”) was not a 
+constitutional violation. The State also cited to State v. Roy, 
+54 Haw. 513, 510 P.2d 1066 (1973), in which this court held 
+there was no unconstitutional search or seizure where an 
+undercover government agent entered a private home to purchase 
+marijuana by invitation but without a warrant. Similar to the 
+defendants in those cases, the State argued, James had no 
+reasonable expectation of privacy in his text message exchange 
+with CW, even if she was acting as a State agent, so the text messages should not have been suppressed. 
+James’s memorandum in opposition to the State ’s motion for 
+reconsideration distinguished Graham , and changed his position 
+to argue he was not asserting a violation of his right to 
+9    
+                      
+   
+  
+ 
+   
+  
+      
+    
+  
+     
+ 
+ 
+ 
+ 
+ 5 *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+privacy.   Rather,  James said he was  asserting a violation of his   
+rights to counsel and to remain silent, since the polic e “used 
+CW to attempt to avoid the constitutional constraints placed 
+upon them if they had conducted a custodial  interrogation. ”   
+James also distinguished this case from Roy, arguing that in Roy, unlike here, “there was no requirement  that the defendant 
+be  advised of his rights by police.”  5
+James argued Kahoonei, 83 Hawai‘i at 131, 925 P.2d at 301,  
+“held that the police cannot actively re cruit a private 
+individual to engage in conduct which the police would have been 
+prohibited from doing.”   James argued that at the time of the 
+text messages, the detectives’ investigation had focus ed solely 
+on him as a suspect, and they already had probable cause to 
+arrest James based on CW’s statemen ts,  so “any questioning of 
+James conducted by the detectives would have constituted 
+James initially based his motion to su ppress on Fourth Amendment and 
+article I, section 7 grounds. In concluding James’s Miranda rights were 
+violated, the circuit court cited case law construing these constitutional 
+provisions. Because the issue is not properly before us, we do not a ddress 
+whether James had a reasonable expectation of privacy in his text message s.  
+We note that State v. Walton, 133 Hawaiʻ i 66, 93-97, 324 P.3d 876, 903- 07 
+(2014), overruled some Hawaiʻ i cases h olding information voluntarily disclosed 
+to third parties automatically loses article I, section 7 privacy protection; 
+Walton also set forth factors courts should consider in determin ing whether a 
+defendant has a legitimate expectation of privacy that information provided 
+to a third party would not be shared with others, including whether that 
+information reveals “ intimate details of a person ’s life.” 133 Hawai ʻi at 96-
+97, 324 P. 3d at 906- 07. But consent to a search provides an e xception to the 
+warrant requirement; the record suggests CW consented to the detectives 
+reading her text exchange with James.  I t is not appropriate, however, for 
+this court to determine as a matter of law the presence and scope of consent when it was not litigated in the trial court.  See State v. Phillips, 138 
+Hawaiʻi 321, 351, 382 P.3d 133, 163 (2016). 
+10    
+    
+  
+ 
+ 
+    
+ 
+ 
+  
+    
+    
+ 
+  
+ 
+   *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+‘custodial interrogation,’” and the detectives would have been 
+required to advise James of his rights. James argued that, 
+based on the totality of the circumstances, CW was acting as a 
+government agent when she texted James. Therefore, James 
+maintained, the dete ctives violated James’s right to remain 
+silent under the Fifth Amendment of the U.S. Constitution and 
+article 1, section 10 of the Hawai‘ i Constitution. 
+James also asserted the detectives’  actions violated his 
+right to counsel under the Sixth Amendment to the U.S. 
+Constitution and article 1, section 14 of the Hawaiʻ i 
+Constitution.  
+At the hearing    on the State’s motion for reconsideration ,  
+the State pointed out that “there is no precedent in Hawai‘i or  
+anywhere else that a defendant is in cu  stody, [when] he is miles 
+away from the police  [and] not incarcerated, even assuming . . . 
+that the police possess probable cause to arrest.”  
+On April 4, 2022, the circuit court entered an order 
+denying the State’s motion for reconsideration . 
+D. ICA proceedings 
+On April 11, 2022, t
+he State filed a notice of appeal to 
+the ICA. The State asserted the circuit court erred (1) by 
+finding CW induced James via text message to admit he had 
+sexually assaulted her (FOF 7); (2) in concluding the detectives 
+violated James’s Miranda rights under the federal and/or Hawai‘i 
+11    
+   
+   
+                     
+   
+     
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+constitutions because it is undisputed that James was not in  
+police custody (COL 4); (3) in concluding the detectives  
+violated James’s right to counsel und er the federal and/or  
+Hawaiʻi constitutions because James had not yet been charge  d; (4) 
+by suppressing James’s text messages sent to  CW’s phone ; and (5) 
+by denying the State’s motion to reconsider .  
+In its April 20, 2023 summary disposition order, the ICA 
+affirmed the circuit court ’s order granting James’s motion to 
+suppress. James, 2023 WL 3017974, at *7. 
+Relevant here, the ICA determined it did not have appellate 
+jurisdiction over the circuit court ’s order denying the State’s 
+motion for reconsideration; hence, it did not address the 
+State’s point of  error concerning that order .  2023 WL 3017974
+, 
+at *1 n.1.  The ICA reasoned that in   civil cases, under Hawai‘i 
+Rules of Appellate Procedure (“HRAP ”) Rule 4(a)(3) (eff  . 2020), 
+a notice of appeal is “deemed to  appeal the disposition of all 
+post-judgment motions that are timely filed after entry of the 
+judgment or order.” James, 2023 WL 3017974, at *1 n.1  (quoting 
+HRAP Rule 4(a)(3)).  HRAP Rule 4(b)  (eff. 2020) governing 6 
+The ICA concluded the circuit court’s FOF 7, that CW induced James via 
+text message to admit he had sex ually assaulted her, was not clearly 
+erroneous. James, 2023 WL 3017974, at * 5
+. This point is not at issue on 
+certiorari. 
+12 6    
+  
+ *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+appeals from criminal cases, however, does not contain a similar 
+provision. James, 2023 WL 3017974, at *1 n.1. 
+The ICA noted 
+Miranda  warnings  are required when a 
+defendant is (1) under interrogation and (2) in custody.  James, 
+2023 WL 3017974, at *6 (citing State v. Ah Loo, 94 Hawaiʻi 207, 
+210, 10 P.3d 728, 731 (2000)).  The ICA then said Hewitt   held 
+Miranda warnings are required by article 1, section 10 o  f the 
+Hawaiʻi Constitut ion whenever probable cause  to arrest has 
+developed.  James, 2023 WL 3017974, at * 6 (citing  Hewitt, 153 
+Hawai‘i at 36, 526 P.3d at 561).  The ICA noted the State does  
+not dispute the text messages constituted “interrogation” or the 
+circuit court’s   finding that at the time of the interrogation,  
+James was the “only suspect” and the investigation had “focused 
+on him.”    Id.   The ICA concluded that   the detectives therefore 
+had probable cause to arrest James at the time of the text 
+messages and that   Miranda  warnings were required before 
+interrogation.   James, 2023 WL 3017974, at *6.  
+The ICA also 
+addressed the State’s assertion that   the text 
+messages should not have been suppressed because James received 
+the texts from CW, not law enforcement.  Id.   The ICA  reasoned 
+the State’s position  was inconsistent with the purposes of  
+Hawai‘i’s exclusionary rule.    Id.   Quoting State v. McKnight, 131 
+Hawai‘i 379, 398,  319 P.3d 298, 317 (2013), the ICA noted that 
+the exclusionary rule’s purposes inclu de  “(1) judicia l 
+13    
+   
+  
+  
+   
+  
+ 
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+integrity, (2) the protection of  individual  privacy, and (3) 
+deterrence of illegal police misconduct.”   James, 2023 WL 
+3017974, at *6.  The ICA determined that these purposes ar  e not 
+furthered by allowing circumvention of Miranda  warnings by 
+permitting law enforcement to engage in the undercover  
+interrogation of suspe  cts by direct ing the sending and dictating  
+the content of text messages using a government agent’s p ersonal 
+mobile device.   James, 2023 WL 3017974, at *6.  
+Because the ICA concluded the circuit court properly 
+suppressed the text messages based on article I, section 10 of 
+the Hawaiʻi Constitution, the ICA declined to address point of 
+error (3) concerning James’s right to couns el. James, 2023 WL 
+3017974, at *1 n.4
+. 
+E. Certiorari proceedings 
+The State presents the following two questions on 
+certiorari: whether the ICA gravely erred by concluding (1) 
+Miranda warnings were required before CW, at police suggestion, 
+sent text messages to James, “who was neither in proximity to a 
+police officer nor confined in a correctional faci lity”; and (2) 
+that it did not have appellate jurisdiction over the State’ s 
+motion for reconsideration. 
+14    
+   
+  III. Standards of Review 
+A. Appellate jurisdiction 
+ 
+  
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+“The existence of [appellate] jurisdiction is a question of 
+law and is reviewed 
+de novo under the right/wrong standard. ” 
+State v. Uchima, 147 Hawaiʻ i 64, 72, 464 P.3d 852, 860 (2020) 
+(citation omitted). 
+B. Motion to suppress 
+“An appellate court reviews a ruling on a motion to 
+suppress de novo  to determine whether the ruling was ‘right’ or 
+‘wrong.’” Hewitt
+, 153 Hawai‘i at  40, 526 P.3d at 565  (cleaned  
+up). 
+C. Constitutional issues 
+“Questions of constitutional law are reviewed under the 
+right/wrong standard. ” State v. Borge , 152 Hawaiʻi 458, 464, 526 
+P.3d 435, 441 (2023) (citation omitted). 
+D. Interpretation of statutes an
+d court rules 
+“
+The interpretation of a statute [or court rule] is a 
+question of law which this court reviews  de novo.” State v. 
+Mortensen-Young, 152 Hawai‘i 385, 392, 526 P.3d 362, 369 (2023)  
+(cleaned up).   Our statutory interpretation is guided by the 
+following principles:  
+First, the fundamental starting point for statutory 
+interpretation is the language of the statute itself. 
+Second, where the statutory language is plain and 
+unambiguous, our sole duty is to give effect to its plain 
+and obvious meaning. Third, implic it in the task of 
+statutory construction is our foremost obligation to 
+15    
+  
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+ascertain and give effect to the intention of the 
+legislature, which is to be obtained primarily from the 
+language contained in the statute itself. Fourth, when 
+there is doubt, double ness of meaning, or indistinctiveness 
+or uncertainty of an expression used in a statute, an ambiguity exists. 
+When there is ambiguity in a statute, the meaning of 
+the ambiguous words may be sought by examining the context, with which the  ambiguous words, p hrases, and sentences may 
+be compared, in order to ascertain their true meaning.   
+Moreover, the courts may resort to extrinsic aids in determining legislative intent, such as legislative 
+history, or the reason and spirit of the law.  
+State v. Abihai, 146 Hawai‘ i 398, 406, 463 P.3d 1055, 1063 (2020) 
+(citation omitted).  
+“When interpreting rules promulgated by the court, 
+principles of statutory construction apply.”   Mortensen-Young, 
+152 Hawai‘ i at 392, 526 P.3d at 369  (citation omitted) .  
+  
+    
+    IV. Discussion 
+A. Miranda warnings were not required because James was not 
+“in custody” at the time of his text exchange with CW 
+ The State correctly   asserts the circuit court and ICA erred 
+in concluding Miranda  warnings were required  before CW texted 
+James at the detectives ’  suggestion.  
+ The Fifth Amendment to the U.S. C onstitution and article I, 
+section 10 of the Hawai‘i Constitution guarantee the right 
+against self-incrimination.  Hewitt, 153 Hawai‘ i at 43, 526 P.3d 
+at 568 (citation omitted).  Miranda  warnings help safeguard this 
+right:  
+The  Miranda  rule is, at core, a 
+constitutionally prescribed rule of evidence that 
+requires the pr os
+ecution to lay a sufficient 
+foundation  —  i.e., that the requisite warnings were  
+administered and validly waived before the accused 
+16    
+  
+ 
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+gave the statement sought to be adduced at trial   —  
+before it may adduce evidence of a defendant’s 
+custodial statements that stem from interrogation 
+during [their] criminal trial.   
+The prosecution’s burden of establis hing that  
+the requisite warnings were gi
+ven, however, is not 
+triggered unless the totality of the circumstances reflect that the statement it seeks to adduce at 
+trial  was obtained as a result of “custodial 
+interrogation,” w hich, as  the United States Supreme 
+Court defined it in Miranda , consists of “questioning 
+initiated by  law enforcement offic ers after a person 
+has been taken into custody or otherwise deprived of their  freedom of action in any significant way.”  In 
+other words, the defendant, objecting to the 
+admissibility of their statement   and, thus, seeking 
+to suppress it, must establish that their statement  
+was the result of  (1) “interrogation” that occurred 
+while they were  (2) “in custody.”  
+Hewitt, 153 Hawai ‘i at 43, 526 P.3d at 568 (cleaned up). 
+ Under the federal constitution,  Miranda  warnings  are 
+required when a s  uspect is subjected to “custodial 
+interrogation,”  which is “questioning initiated by law 
+enforcement officers after a person has been taken into custody  
+or otherwise deprived of his freedom of action in any 
+significant way.”   United States v.    Eide, 875 F.2d 1429, 1433 
+(9th Cir. 1989) (cleaned u  p).   James was not in custody or 
+otherwise deprived of his freedom of action in any significant  
+way. Thus, James was not “in custody ”  for Fifth Amendment 
+purposes and Miranda  warnings were not required by t  he federal  
+constitution.   
+This court provides 
+criminal defendants with greater 
+protection under Hawai‘i’s article I, section 10 privilege 
+against self-incrimination than provided by the federal courts 
+17    
+    
+  
+ 
+  
+    
+   
+   
+  
+  
+ 
+  
+ 
+  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+under Miranda and its progeny. Hewitt, 153 Hawai‘ i at 44, 526 
+P.3d at 569 (citation omitted).  Our Miranda rights case law, 
+however, has consistently adhered to the two foundational 
+requirements for Miranda rights to be triggered: 
+“interrogation” and “in custody.” See, e.g., Ah Loo, 94 Hawaiʻ i 
+at 210, 10 P.3d at 731 (citation omitted). 
+The ICA misconstrued Hewitt and its reference to Ketchum, 
+in which we held a person is “in custody ” for the purposes of 
+Miranda 
+rights under article I, section 10 of the Hawai‘i 
+Constitution: 
+[I]f an objective assessment of the totality of the 
+circumstances reflects either (1) that the person has 
+become impliedly accused of committing a crime because the 
+questions of the police have become sustained and coercive, 
+such that they are no longer reasonably designed briefly to 
+confirm or dispel their reasonable suspicion or (2) that 
+the point of arrest has arrived because either (a) probable 
+cause to arrest has developed or (b) the police have 
+subjected the person to an unlawful “ de facto ” arrest 
+without probable cause to do so. 
+Hewitt, 153 Hawai‘i at 43, 526 P.3d at 568 (quoting Ketchum, 97 
+Hawai‘i at 126, 34 P.3d at 1025). 
+The circuit court and ICA appear to have construed Hewitt  
+and Ketchum  to mean that any time probable cause has developed, 
+a defendant is “in custody,”   even when a defendant is nowhere 
+near a law enforcement official.   In Hewitt, however,  we 
+reiterated the basic framework   that “a statement made  by a 
+defendant under custodial interrogation  without a Miranda  
+warning must be suppressed as  unconstitutionally elicited. ”   
+18    
+    
+   
+ 
+  
+    
+ 
+ 
+ 
+ 
+  
+ *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+Hewitt, 153 Hawai ‘i at 43, 526 P.3d at 568 (emphasis added). Our 
+analysis concerning whether Miranda warnings were required in 
+Hewitt was centered on whether the defendant, who was confined 
+to a hospital bed with serious injuries, was “in custody” when 
+questioned by police officers. See Hewitt, 153 Hawai ‘i at 43-46, 
+526 P.3d at 568-71 (holding that if a person is unable to leave a place of interrogation due to circumstances incident to 
+medical treatment, determining whether the person is “in 
+custody” under a to tality of circumstances for purposes of 
+article I, section 10 requires an inquiry into whether the person was at liberty to terminate the interrogation and cause 
+officers to leave). 
+Hewitt  clearly 
+reiterated that  Ketchum’s bright-line rule 
+for when a suspect is “in custody” applies “ when probable cause 
+to arrest exists upon an initial stop or detention.” Hewitt, 
+153 Hawai‘i at 43, 526 P.3d at 568 (emphasis added) (citing  
+Ketchum, 97 Hawai ‘i at 126, 34 P.3d at 1025).  Hewitt  also said  
+that if a detained person’s response s  to a police officer’s 
+questions provide the officer with probable cause to arrest, 
+“the officer is –  at that time  –  required to inform the detained  
+person”  of their Miranda  rights.   Hewitt, 153 Hawai‘ i at 43, 526 
+P.3d at 568 (second  emphasis added)  (citation omitted).  
+Thus, the 
+Ketchum bright-line rule does not apply where 
+probable cause exists but the police have not stopped or 
+19    
+  
+ 
+  
+ 
+   
+ 
+ 
+    
+  
+ 
+ 
+                     
+   
+ 
+  
+ 
+     
+  
+ *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+detained the suspect, or have not otherwise deprived the suspect 
+of freedom of action in any significant way.  See Hewitt , 153 
+Hawai‘i at 43, 526 P.3d at 568; Ketchum , 97 Hawai‘ i at 117-18, 34 
+P.3d at 1016-
+17 (“[T]he privilege against self-incrimination is 
+jeopardized when an individual is taken into custody or 
+otherwise deprived of [their] freedom by the authorities in any 
+significant way and subjected to questioning[.]” (cleaned up)). 
+Here, the detectives directed CW to contact Jam
+es, and 
+James apparently made incriminating statements.  CW was acting 
+as a government agent, but there was no “initial stop or 
+detention” or other deprivation of freedom of action at the time 
+James made the statements. See Hewitt , 153 Hawai‘ i at 43, 526 
+P.3d at 568; Ketchum , 97 Hawai‘i at 117-18, 34 P.3d at 1016-17.  
+Therefore, regardless of whether probable cause to arrest existed at the time CW contacted James, James was not “in 
+custody” and there was no “custodial ” interrogation.
+7 Hence, 
+Miranda warnings were not required under either the federal or state constitutions. 
+The State posits that we should set forth a bright- line rule that a 
+suspect must be in the presence of, or in proximity to, law enforcement or 
+“confined in a correctional facility” to be “in custody.” Because we need 
+not do so in this case and because it is possible to envision circumstances in which a suspect could be interrogated while deprived of freedom in a 
+significant way by authorities without being in their presence, such as 
+through use of technology, including electric fences, we decline to adopt the 
+State’s suggestion. 
+20 7    
+    
+ 
+ 
+  
+ 
+    
+  
+  
+ 
+  
+  
+ *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+B. James’s right to counsel had not attached 
+Because it upheld the circuit court ’s suppression order 
+based on the alleged violation of James ’s Miranda rights, the 
+ICA did not address the circuit court ’s alternative ruling that 
+James’s right to counsel had been violated.  James, 2023 WL 
+3017974, at *1 n.4.  If James’s right to counsel was violated, 
+the circuit court ’s suppression order would be affirmed on this 
+alternative ground. We therefore address that issue. 
+ Even when a defendant is not  subject to custodial 
+interrogation:  
+An individual has a right to counsel under the [S]ixth 
+[A]mendment to  the United States Constitution a nd article 
+I, section 14 of the  Hawaiʻi  State Constitution  which  
+guarantees an accused the right to assistance of counsel 
+for [the accused’ s]  defense.  However, this right attaches 
+at critical stages of the criminal prosecuti on, only at or 
+after the initiation of adversarial judicial criminal  
+proceedings  —  whether by way of formal charge, preliminary   
+hearing, indictment, information or arraignment.   
+State v. Luton , 83 Hawai‘i 443, 448, 927 P.2d 844, 849 (1996) 
+(cleaned up). 
+Thus, the right to cou
+nsel attaches only after the 
+initiation of adversarial judicial criminal proceedings.  Such 
+proceedings had yet to be initiated at the time of the text 
+messages between CW and James.  Therefore, the circuit court 
+erred by suppressing the text messages based on its erroneous 
+conclusion that James was entitled to counsel under the Sixth 
+Amendment and article I, section 14. 
+21    
+   
+ 
+ 
+ 
+ 
+                     
+    
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+C. The ICA erred by concluding it did not have appellate 
+jurisdiction over the circuit court’s order denying the 
+State’s motion for reconsideration 
+Finally, we also address the State’s question regarding the 
+ICA’s holding that it did not have appellate jurisdiction  over 
+the State’s appeal of the circuit court ’s denial of the   motion 
+for reconsideration.  
+The 
+“right of appeal in a criminal case is purely  statutory 
+and exists only when  given by some c
+onstitutional or statutory 
+provision.”   Bohannon, 102 Hawai‘i at 236, 74 P.3d at 988 
+(citation omitted).  HRS § 641-13  enumerates when the  State may 
+appeal a criminal case from the district and circuit courts.  
+Bohannon,   102 Hawai‘i at 236, 74 P.3d at 988.   “As a general 
+rule, we strictly construe HRS § 641-13[.]” State v. Timoteo, 
+87 Hawai‘ i 108, 112, 952 P.2d 865, 869  (1997) (cleaned up).  8
+However, this strict construction rule, like the rule 
+applicable to penal statutes generally, does not permit the 
+court to ignore legislative intent in the face of statutory 
+ambiguity, nor require the court to reject the construction 
+8 HRS § 641- 13 provides in relevant part: 
+An appeal may be taken by and on behalf of the State from 
+the district or circuit co
+urts to the intermediate 
+appellate court, subject to chapter 602, in all criminal 
+matters, in the following instances: 
+. . .. 
+(7) From a pretrial order granting a motion for the 
+suppression of evidence, including a confession or 
+admission, or the return of property, in which case 
+the appellate court shall give priority to the appeal and the order shall be stayed pending the o utcome of 
+the appeal[.] 
+22    
+  
+ 
+ 
+  
+ 
+   *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+that best harmonizes with the design of the statute or the 
+end sought to be achieved. 
+State v. Fukusaku , 85 Hawai‘ i 462, 492, 946 P.2d 32, 62 (1997) 
+(citations omitted)
+. 
+Section 641-13 does not expressly provide for a right of 
+appeal from a motion f
+or reconsideration.  
+23  We agree with the State that , pursuant to  Bohanno
+n, the ICA 
+nonetheless had appellate jurisdiction over the circuit court  ’s  
+order denying the State’s motion for reconside ration.  In 
+Bohannon, the State’s notice of appeal concerning the district 
+court’s order granting the defendant’s motions to  suppress and 
+to dismiss did not expressly refer to the district co urt’s 
+related order denying the State’s motion for reconsideration.  
+102 Hawai‘i at 235, 74 P.3d at 987.  We held the  prosecution’s 
+notice of appeal was nonetheless sufficient to appeal that order 
+because the State’s  “intent to appeal ”  from the order denying 
+its motion for reconsideration could  be “reasonably inferred 
+from its notice of appeal.”   Id.   We agreed with the State that 
+its “right to appeal from the order granting [ the defendant ’s] 
+motion to suppress under HRS § 641-  13(7) encompasses a right to  
+appeal from the order denying its motion to recon  sider the 
+district court’s  order granting the moti on to suppress.”  102 
+Hawai‘i at 234, 74 P.3d at 986 (cleane  d up).  We noted  that the  
+district court’s order denying the motion for reconsideration    
+  
+  
+ 
+ 
+ 
+ 
+      
+   
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+   *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+was “merely an extension of its order granting [the defendant’s] 
+motions to suppress and to dismiss. ” 102 Hawai‘i at 235, 74 P.3d 
+at 987. 
+Here, pursuant to 
+Bohannon, the ICA had appellate 
+jurisdiction over the circuit court’s order denying the State’s 
+motion for reconsideration.  Although HRS § 641-13 does not   
+expressly authorize  appeals by the State   from orders denying  
+motions to reconsider   pretrial orders gra  nting the suppression 
+of evidence, we have held  HRS § 641-13(7) implicitly  encompasses  
+a right to appeal from  such orders.   Bohannon, 102 Hawai‘i at 
+234, 74 P.3d at 986.    
+The ICA determined 
+it did not have jurisdiction over the 
+order denying the State’s motion for reconsideration based on 
+HRAP Rule 4. James, 2023 WL 3017974, at *1 n.1.  HRAP Rule 
+4(a), which applies to appeals of civil cases, contains a 
+provision expressly addressing post-judgment motions.  It 
+provides in relevant part, 
+(3) Time to appeal affected by post-judgment motions. If 
+any party files a timely motion . . . to reconsider . . . 
+and court or agency rules specify t he time by which the 
+motion shall be filed, then the time for filing the notice 
+of appeal is extended for all parties until 30 days after 
+entry of an order disposing of the motion. The presiding 
+court or agency in which the motion was filed shall dispose of any such post -judgment motion by entering an order upon 
+the record within 90 days after the date the motion was 
+filed. If the court or agency fails to enter an order on the record, then, within 5 days after the 90th day, the 
+clerk of the relevant court or agency shall notify the 
+parties that, by operation of thi s Rule, the post- judgment 
+motion is denied and that any orders entered thereafter 
+shall be a nullity. The time of appeal shall run from the 
+date of entry of the c ourt or agency’s order disposing of 
+24    
+  
+ 
+ 
+                     
+   
+ 
+   
+   
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+       
+ 
+  
+ 
+ 
+ 
+ 
+    
+  
+  
+ 
+ 
+ 
+ 
+ 
+    *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+the post- judgment motion, if the order is entered within 
+the 90 days, or from the filing date of the cle rk’s notice 
+to the parties that the post- judgment motion is denied 
+pursuant to the operation of the Rule.
+ The notice of appeal shall be deemed  to appeal the 
+disposition of all post -judgment motions that are timely 
+filed after entry of the judgment or order.  
+      The 90 -day period shall be computed as provided in 
+Rule 26 of  these Rules.  
+HRAP Rule 4(b),  which applies to appeals of criminal cases, 
+contains no similar provision.  9
+9HRAP Rule 4(b) provides in full: 
+(b) Appeals in criminal cases.
+ (1) Time for filing. In a criminal case, the notice 
+of appeal shall be filed within 30 days after entry of the 
+judgment or order appealed from. However, if the notice of 
+appeal is mailed, the notice of appeal shall be deemed 
+timely filed if the mailing is postmarked within the time fixed for filing and is received by the clerk no later than 
+5 days after the postmarked date. For the purposes of 
+calculating o ther deadlines in these Rules, the date of 
+filing under this Rule shall be the date the document is received by the clerk.
+      A motion for leave to file an interlocutory appeal 
+from an order of the circuit court must be filed within 30 
+days of the court’s entry of the order. If such a motion 
+is filed and granted, then the notice of appeal shall be filed within 30 days after entry o f the circuit court’s 
+order granting permission for leave to file an 
+interlocutory appeal. 
+(2) Effect of motions in arrest of judgment or for 
+new trial. If a timely motion in arrest of judgment under 
+Rule 34 of the Hawai ʻi Rules of Penal Procedure or for a new 
+trial under Rule 33 of the Hawa i‘i Rules of Penal Procedure 
+has been made, an appeal from a judgment of conviction may 
+be taken within 30 days after the entry of any order denying the motion.
+ (3) Entry of judgment or order defined. A judgment 
+or order is entered within the meaning of this subsection 
+when it is filed with the clerk of the court.
+ (4) Premature notice of appeal. A notice of appeal 
+filed after the announcement of a decision, sentence or order but before entry of the judgment or order shall be 
+deemed to have been filed on the date such judgment or 
+order is entered.
+ (5) Extensions of time to file a notice of appeal. 
+Upon showing of good cause, the circuit, district, or 
+family court may, no later than 30 days after the time has 
+(continued . . .) 
+25    
+   
+ 
+  
+  
+  
+ 
+  
+   
+ 
+   
+  
+ 
+ 
+  
+                                                                  
+   
+ 
+ 
+ 
+ 
+   
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+HRAP Rule 4(b), however, merely governs timing requirements 
+for filing appeals in criminal cases.  See Bohannon, 102 Hawai‘ i 
+at 235, 74 P.3d at 987. In this case, there is no 
+jurisdictional issue related to the timing of the State’s filing 
+of the notice of appeal.10 The State ’s April 11, 2022 notice of 
+appeal expressly and timely appealed both the March 28, 2022 order granting James’s motion to suppress and the April 4, 2022 
+order denying the State’s motion for reconsideration. And 
+pursuant to Bohannon , HRS § 641-13(7 ) “encompasses a right ” for 
+the State to appeal from the circuit court’s order denying the 
+State’s motion for reconsideration. See Bohannon
+, 102 Hawai‘i at 
+234, 74 P.3d at 986. 
+Therefore, the 
+ICA erred in ruling it lacked appellate 
+jurisdiction over the circuit c ourt’s order denying the State’s 
+motion for reconsideration of the order granting motion to suppress. Based on our reasoning in Sections IV.A and B above, 
+(. . .continued) 
+expired, on motion and notice, extend the time for filing a 
+notice of appeal for a period not to exceed 30 days from 
+the expiration of the time otherwise prescribed by this 
+subdivision (b). Any such motion that is filed before 
+expiration of the prescribed time may be ex parte unless the court otherwise requires. 
+As noted supra, the State filed its notice of appeal on April 11, 2022, 
+less than 30 days after the filing of both the circuit court’s order granting 
+James’s motion to suppress the text messages (filed on March 28, 2022) and 
+order denying the State’s related motion for reconsider ation (filed on April 
+4, 2022). See HRAP Rule 4(b)(1). 
+26 10    
+  
+  *** FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+the circuit court also erred by denying the State’s motion for 
+reconsideration. 
+V. Conclusion 
+For the reasons explained above, we vacate the ICA’s May 
+31, 2023 judgment on appeal as well as the circuit cou  rt’s  March 
+28, 2022 FOF/COL/Order  and April 4, 2022 order denying the 
+State’s motion fo r reconsideration.  We remand to the circuit 
+court for further proceedings consistent with this opinion.   
+27     
+ 
+ 
+      
+ 
+      
+      
+       
+ 
+        
+ Tracy J. Murakami /s/ Mark E. Recktenwald 
+for petitioner 
+/s/ Sabrina S. McKenna 
+Christian G. Enright for respondent /s/ Todd W. Eddins 
+/s/ Lisa W. Cataldo 
+/s/ Clarissa Y. Malinao 

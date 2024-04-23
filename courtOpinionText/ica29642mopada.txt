@@ -1,0 +1,1575 @@
+NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER
+ 
+NO. 29642
+ 
+IN THE INTERMEDIATE COURT OF APPEALS
+ 
+OF THE STATE OF HAWAIf I 
+RHETT BRYANT, Plaintiff-Appellant, v.
+PLEASANT TRAVEL SERVICE, a California Corporation,
+doing business as ROYAL KONA RESORT, Defendant-Appellee
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE THIRD CIRCUIT
+ 
+(CIVIL NO. 06-1-144K)
+ 
+MEMORANDUM OPINION
+ 
+(By: 
+Fujise, Presiding Judge, Leonard and Ginoza, JJ.)
+ 
+Plaintiff-Appellant Rhett Bryant (Bryant) appeals from
+ 
+the February 6, 2009 Final Judgment in favor of Defendant-
+Appellee Pleasant Travel Service, doing business as Royal Kona
+ 
+Resort (Pleasant Travel), entered by the Circuit Court of the
+ 
+Third Circuit (circuit court).1 Bryant was injured while working
+ 
+as an employee of an independent contractor repairing an air
+ conditioning unit on Pleasant Travel's premises. 
+We affirm the judgment to the extent that summary
+ 
+judgment was granted for Pleasant Travel on Bryant's theory of
+ 
+liability that Pleasant Travel retained control over the job site
+ 
+and as based on Michel v. Valdastri, Ltd., 59 Haw. 53, 575 P.2d
+ 
+1299 (1978). However, we vacate the judgment to the extent that
+ 
+summary judgment was granted for Pleasant Travel on Bryant's
+ 
+theory of liability under the peculiar risk doctrine.
+ 
+1
+ The Honorable Ronald Ibarra presided.
+ NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER
+ 
+I. Background
+ 
+A. Factual Background
+ 
+On September 27, 2004, Bryant was injured when debris
+ 
+2
+, one
+ flew from an air conditioning unit atop the Beach Building 
+of three buildings at the Royal Kona Resort Hotel (Hotel), and
+ 
+hit him, injuring him and causing him to fall roughly eight feet
+ 
+from a ladder. Bryant, then 25, was employed by PRO Service, a
+ 
+staffing agency, and was lent to Air Conditioning Services (ACS)
+ 
+with whom Pleasant Travel contracted to service and repair the
+ 
+commercial air conditioners at the Hotel.3 ACS and Pro Service
+ 
+are not parties to this lawsuit. At the time of the incident,
+ the Hotel was owned, as it is now, by Pleasant Travel.
+ 
+The air conditioning units on the Beach Building had
+ 
+been in service since 1967, when the Hotel first opened as the
+ 
+Kona Hilton. The air conditioning system in the building was
+ 
+comprised of two main parts: a chiller in the basement of the
+ 
+building, and two cooling towers on the roof. These cooling
+ 
+towers were made of plywood, although many cooling towers are
+ 
+constructed from metal. A cooling tower is essentially a large
+ 
+box, which encloses a fan and device similar to a car's radiator
+ 
+that circulates water over small wooden boards and allows the air
+ 
+to cool the water. The fan at the top of the unit pulls air into
+ 
+the cooling tower, cooling the water flowing over the boards
+ 
+inside. The cooled water is pumped to the chiller, located in
+ 
+the Hotel's basement and individual room air-conditioning units.
+ 
+The uncontested evidence showed that, on the day of the
+ 
+incident, the cooling tower was in poor shape. A letter on ACS
+ 
+4
+letterhead,  dated March 4, 2004, and addressed to Roy Lewi, Sr.
+2
+ After a renovation in 2005, the Hotel renamed the Beach Building
+to the Lagoon Building. For the sake of consistency we refer to it as the
+Beach Building.
+ 
+3
+ The evidence presented indicated that this contract was maintained
+for approximately seventeen years, however, the record does not contain a
+written contract between ACS and Pleasant Travel.
+ 
+4
+ The final page of the letter is not in the record, so it is
+unclear who wrote the letter.
+ 
+2
+ NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER 
+(Lewi), the foreman of the Hotel's engineering department,
+ 
+informed him that
+ 
+•	 Both cooling towers [sic] tops need to be rebuilt at least
+for now so we can safely service the motor and fan
+assembly[;] existing tower condition is a safety hazard.
+Towers are at the end of their service life.
+ 
+•	 North is electrically and mechanically failed at this time.
+ 
+•	 Both fan shrouds need to be removed and new shrouds
+ fabricated. 
+On the day of the incident, the north cooling tower on the Beach
+ 
+Building was missing a lid and shroud. The shroud was necessary
+ 
+for the air conditioning system to work efficiently, because
+ 
+without it, the heated air pushed out of the cooling tower would
+ 
+be drawn back into the cooling tower and recycled without
+ 
+dissipating the heat.
+ 
+In July 15, 2004, Matthew J. Briley (Briley), the
+ 
+president of ACS, sent a letter to "Royal Kona Resort," which
+ 
+read:
+ 
+It has been well documented that the service lives of
+ 
+the central plant equipment has been exceeded for quite some
+time. ACS has kept them operating more or less for the past
+few years in anticipation of complete replacement. We have
+ provided various quotations and written narratives on the
+state of your central plant equipment and recommended
+courses of action. Communication received from Resort
+ Management has at times indicated imminent availability of
+replacement funds and at other times directed the patching
+and mending of existing systems. Time quantification of
+additional life for these degraded components is precarious
+at best. There are limited repair options available to the
+specific components and catastrophic unit failure cannot be
+ruled out. It is our opinion that the vagaries of
+mechanical fortune have been on our side so far, but without
+a comprehensive plan to deal with the obsolescence of the
+equipment, these fortunes must run out eventually.
+ 
+ACS will provide a reduced cost limited repair
+proposal as requested, however this proposal must be
+submitted with limited expectations as well. . . .
+ 
+The letter then presented a "limited repair proposal [with
+ 
+limited expectations]" (brackets in original) that recommended
+ 
+that the cooling towers at the Beach Building be repaired
+ 
+immediately and replaced within 18 months.
+ 
+It was not just the north tower on the Beach Building,
+ 
+which Bryant worked on, that was in disrepair. The south cooling
+ 
+3
+ NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER 
+tower on the Beach Building, in fact, was in worse condition and 
+had been shut down and removed from service, as only one cooling
+ 
+tower was needed to run the air conditioning. Pleasant Travel
+ 
+agreed to repair the north tower, after receiving a quote5 to
+ 
+rebuild the top. Lewi testified that no one from the hotel
+ "assess[ed] whether these cooling towers were safe to work on"
+ 
+because "that's why I had [Briley] to come in and see what he
+ 
+could do."
+ 
+On the morning of the incident, Bryant and his co­
+worker Michael Glickstein (Glickstein) met at ACS's shop with
+ 
+Donny Andrade, the head of ACS's service division, who instructed
+ 
+them on what to do. According to Glickstein, the instructions
+ 
+were to "try to screw together the rotted portions of the unit
+ 
+that was falling apart and get this fan shroud on the top." He
+ 
+said:
+ 
+We were just trying to shore it up because the whole thing
+kind of shimmied and shook because everything was wet, the
+wood was wet, so it was kind of springy. And the whole
+ thing kind of shook there, so we were trying to pull it
+together a little bit. . . . We were going to put a top on
+it and try to shore it up a little bit. 
+Glickstein and Bryant removed the deteriorated plywood,
+ 
+added wood 2x4s to the side walls of the cooling tower, and
+ 
+attached hinges to the 2x4s, which connected to a new lid. The
+ 
+lid consisted of a one-half inch thick piece of plywood, which
+ 
+Glickstein and Bryant purchased that morning from Home Depot. 
+Glickstein cut out of the plywood a circular hole, approximately
+ 
+54 inches in diameter, with a jigsaw. He and Bryant centered the
+ 
+hole in the lid over the fan, which was already shut off when
+ 
+they arrived on the roof, and placed a metal shroud that had been
+ 
+fabricated by ACS, also centering it over the hole. Glickstein
+ 
+said there was "half an inch, three-quarter of an inch from the
+ 
+5
+ There are several references to cost proposals and invoices for
+the project in the depositions of Lewi and Briley. In one proposal, dated
+"7/14," Briley gave a quote of "Beach building, two cooling towers, repair
+cost 14,500, and then revised cost of 7250 each." We presume this proposal
+was made in 2004, at roughly the same time Briley was advising that the
+cooling towers be replaced.
+ 
+4
+ NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER
+ 
+tip of the fan blade to the front top corner of the shroud, about
+ 
+an inch, half an inch to an inch in there all the way around." 
+Bryant and Glickstein then secured the shroud to the plywood lid
+ 
+using between eight and sixteen screws.
+ 
+After installing the lid and shroud, Glickstein and
+ 
+Bryant cleaned up their materials and Glickstein flipped a switch
+ 
+to turn the fan on. According to Glickstein, the fan made a
+ 
+noise, but "[n]o more funny than a fan spinning like that would
+ 
+normally make. I mean it made noise, a little commotion going on 
+there, but it wasn't like vibrating like strange vibrations or it
+ 
+wasn't shaking apart or anything like that." He said, "[N]othing 
+. . . made [me really] nervous at the time. The whole thing,
+ 
+it's flexible plywood, it's moving a little bit, but it didn't -­
+I think -- I wasn't scared or anything like that, didn't expect
+ 
+what happened to happen." Glickstein and Bryant climbed back on
+ 
+ladders, about six or eight feet tall, standing roughly chest-
+high next to the unit. The ladders had not been removed "in case
+ 
+we had to still do something. . . . [W]e were only going up to
+ 
+look, make sure -- I don't even know what we were looking for, to
+ 
+tell you the truth." Glickstein said the screws "looked fine"
+ 
+and the fan "seemed like it was rotating on the center, on an
+ 
+axis, steady." Glickstein and Bryant were there for no longer
+ 
+than 20 seconds when, according to Glickstein, "[a]ll of a sudden
+ 
+there was a bang and a flash, and it was that fast, boom, and
+ 
+[Bryant] was gone."
+ 
+When Glickstein climbed down from his ladder, he saw
+ 
+Bryant lying on the ground curled in a ball, bleeding profusely
+ 
+from the neck, and his eye was swollen. The shroud was in
+ 
+pieces, "flung all about the roof," although some of the metal
+ 
+was still screwed to the plywood lid. Glickstein observed:
+ 
+[T]he pieces of the shroud were all over the place, maybe
+tore the metal into four or five pieces, shredded it like
+ paper. You could see the fan blade was actually -- there
+was a mark where the fan caught the shroud and chopped into
+it. And I guess that's where it caught on it and ripped it
+loose.
+ 
+5
+ NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER 
+In a deposition, Glickstein testified that he thought
+ 
+the cooling tower "needed more than just what we were doing" and
+ 
+had he directed the repairs, he "would have tried to stiffen up
+ 
+the original plywood, maybe put like a two-foot band around the
+ 
+outside of it or something just to strengthen it a little bit." 
+He said:
+ 
+I would have been happier putting a little more on the
+outside because the way we screwed the 2x4s on, we were
+screwing it onto the rotted wood.
+ 
+So basically, if you would have yanked on it, it
+probably would have just pulled the screws right through the
+rotted wood. But if I had put a band on the outside of it,
+it would have tied it all together, hold that piece in
+there.
+ 
+When asked whether the fan could have sucked the metal
+ 
+shroud in, Glickstein agreed it was possible and explained:
+ 
+[The fan] is creating low pressure. I didn't see it suck
+ the shroud in or anything, but it could have also -- the top
+could have moved down.
+ 
+[PLEASANT TRAVEL'S ATTORNEY]: The top that you installed,
+is that what you're talking about?
+ 
+[GLICKSTEIN]: Yeah, it's only half-inch plywood, and with
+your pressure differential the outside air being more
+pressure that [sic] inside where the fan is flowing air out,
+the outside air is pushing every direction, five directions
+on it.
+ 
+I didn't see it move or anything, but it wouldn't have
+to be visible. Obviously, something moved because it caught
+the fan shroud.
+ 
+. . . .
+ 
+[BRYANT'S ATTORNEY]: So how could the fan then suck in?
+ 
+[GLICKSTEIN]: Well, if the top of the unit it's sitting on
+is bouncing up and down and the shroud is moving up and down
+this way, if it goes -- theoretically, if it went below the
+fan, it's in a low pressure now. Instead of being blown
+out, it's going to come back in.
+ 
+[BRYANT'S ATTORNEY]: I see.
+ 
+[GLICKSTEIN]: 
+I would think that would take a lot of
+ 
+movement. I don't think it had that much movement, eight or
+ten inches. It may have had a half-inch worth of movement,
+something like that. The whole thing is vibrating. It's a
+ 30-pound fan.
+ 
+Others speculated that the design and manufacture of
+ 
+the shroud contributed to the accident. Lewi testified the
+ 
+6
+ NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER
+ 
+shroud was made of 18 or 20 gauge steel, thinner than the
+ 
+fiberglass used on the other cooling tower on the Beach Building,
+ 
+and "real flimsy compared to the old style of fiberglass." Lewi
+ 
+said in his experience, he believed shrouds were typically made
+ 
+of fiberglass. Michael Loando, ACS's supervisor at the Hotel,
+ 
+testified that he did not think the metal shroud was "the right
+ 
+fix" because "[i]t looked flimsy." He opined that the sheet
+ 
+metal shroud "would wave compared to this fiberglass" which,
+ 
+although thicker than the sheet metal, was light and "more
+ 
+rigid."
+ 
+Lewi testified that ACS did not consult with him about
+ 
+what type of fan shroud to use, that he did not direct ACS to
+ 
+fabricate the shroud nor instruct ACS on whether to install a new
+ 
+plywood top. He said: "I left it up to ACS."
+ 
+B. Procedural history
+ 
+Bryant's complaint, filed on September 21, 2006, 
+alleged that Pleasant Travel violated its duty to "maintain,
+ 
+inspect, and keep the air conditioning unit and cooling tower in
+ 
+a reasonably safe condition" and was negligent in designing and
+ 
+constructing the cooling tower's components.
+ 
+Bryant's complaint alleged that he sustained a number
+ 
+of injuries, including a nine-centimeter long laceration to his
+ 
+neck, spine injury, brain injuries, a broken nose and other
+ 
+facial fractures, permanent hearing loss in his left ear, and
+ 
+damage to his left eye. When being deposed, Bryant could not
+ 
+remember many of the details of the day, before and after the
+ 
+incident.
+ 
+Pleasant Travel moved for summary judgment, arguing
+ 
+that Bryant was an employee of ACS, and ACS "exercised complete
+ 
+direction or control over the work performed[.]" Pleasant Travel
+ 
+further argued that although there was an exception to the non­
+liability rule for employers of independent contractors where
+ 
+there was a "peculiar risk" of harm or a "special danger," such
+ 
+an exception did not apply in this case.
+ 
+7
+ NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER 
+Bryant responded that Pleasant Travel controlled the
+ 
+work site, according to deposition testimony from Lewi who said
+ 
+he "oversaw" the ACS employees at the Hotel. However, the
+ 
+deposition attached to Bryant's memorandum in opposition to
+ 
+summary judgment also included the following questioning:
+ 
+Q [BRYANT'S ATTORNEY]: Would you ever go up on the roof
+when the contractor was there? . . . So would you ever go
+up there and observe what they were doing?
+ 
+A [LEWI]: When they're working on something?
+ Q. Yes.
+ A. No.
+ Q. Why is that?
+ A. I don't want to interfere with their expertise. I don't
+ 
+want to see something that -­
+Q. You might question?
+ A. Yeah. So I'll leave it up to them and they'll call me
+when they're done, then I'll do a check.
+ 
+Q. And by a check, you would go up and you'd look at the end
+of the day what work had been done?
+ 
+A. Yeah, whatever they had written down, if they needed a
+2x10, so many 2x10s, that's what I'm getting charged for, so
+much plywood, metal, anything and everything. They can
+always make mistake. I was getting to the point where they
+was charging me for every nut, wire nuts and everything, so
+I didn't bother with that. I was about to open up the box
+and look at that as all that big stuff.
+ 
+Q. I see. So if you're getting charged for 2x4s you want
+to see that they're used?
+ A. They used the amount they said they used.
+ 
+Q. 
+Right.
+ 
+On the issue of peculiar risk, Bryant argued that the peculiar
+ 
+risk was caused by the "unusually poor condition of the cooling
+ 
+tower."
+ 
+The circuit court entered an order granting Pleasant
+ 
+Travel's summary judgment motion on January 16, 2009 and this
+ 
+timely appeal followed. 
+II. Discussion
+ 
+Bryant challenges the circuit court's entry of summary
+ 
+judgment because a jury should have determined genuine issues of
+ 
+8
+ NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER 
+material fact as to "whether the Peculiar Risk Doctrine applied 
+to the facts of the present case"; "whether [Pleasant Travel] 
+exercised sufficient control over the job[]site"; and whether 
+Bryant "was injured by a dangerous condition arising from or 
+intimately connected to the work [he] was hired to perform." 
+The appellate court reviews "the circuit court's grant or denial 
+of summary judgment de novo." Querubin v. Thronas, 107 Hawaif i 
+48, 56, 109 P.3d 689, 697 (2005). 
+Bryant's initial complaint against Pleasant Travel was
+ 
+for negligence. It is well-established that the elements of a
+ negligence claim are: 
+1. A duty, or obligation, recognized by the law, requiring
+the defendant to conform to a certain standard of conduct,
+for the protection of others against unreasonable risks;
+ 
+2. A failure on the defendant's part to conform to the
+standard required: a breach of the duty . . . ;
+ 
+3. A reasonably close causal connection between the conduct
+and the resulting injury. . . .; and
+ 
+4. Actual loss or damage resulting to the interests of
+another. . . .
+ 
+Knodle v. Waikiki Gateway Hotel, Inc. 69 Haw. 376, 384-85, 742
+ 
+P.2d 377, 383 (1987) (quoting W.P. Keeton, Prosser and Keeton on
+ 
+the Law of Torts § 30, at 164-65 (5th ed. 1984)) (brackets
+ 
+omitted) (alterations in original).
+ 
+Whether a defendant owes a duty to the plaintiff is a
+ 
+question of law. Wagatsuma v. Patch, 10 Haw. App. 547, 569, 879
+ 
+P.2d 572, 585 (1994); Hayes v. Nagata, 68 Haw. 662, 666, 730 P.2d
+ 914, 916 (1986). However, "whether or not the defendant's
+ 
+actions violate the required duty . . . is a question of fact." 
+Jones v. Chevron U.S.A., Inc., 718 P.2d 890, 897 (Wyo. 1986). 
+See also Wagatsuma, 10 Haw. App at 574, 879 P.2d at 587 ("The
+ 
+issue of breach of duty . . . is ordinarily one for the jury.").
+ 
+Bryant based his claim against Pleasant Travel on two
+ 
+theories: Pleasant Travel as the employer of an independent
+ 
+contractor and as owner of the premises where the injury
+ 
+occurred.
+ 
+9
+ NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER 
+A.	 Pleasant Travel's duty as employer of an independent
+contractor.
+ 
+As a general rule, "the employer of an independent 
+contractor is not liable for physical harm caused to another by 
+an act or omission of the contractor or his servants." 
+Restatement (Second) of Torts § 409 (1965) (Restatement). 
+Hawaifi applies the general rule. See, e.g., Taira v. Oahu Sugar 
+Co., Ltd., 1 Haw. App. 208, 211-12, 616 P.2d 1026, 1029-30 (1980). See also Fraser v. Morrison, 39 Haw. 370, 376, 1952 WL 
+7360 at *4 (Haw. Terr. 1952) ("A collection agency is an independent contractor for whose act the creditor is not 
+responsible."), abrogated on other grounds by, Hac v. Univ. of 
+Hawaii, 105 Hawaif i 92, 92, 73 P.3d 46, 46 (2003). Bryant relies 
+on two of the many exceptions to the rule: the "peculiar risk" exception and the "retained control" exception. 
+1. "Peculiar Risk" Exception
+ 
+Hawaifi's courts have adopted the peculiar risk 
+exception as explained in the Restatement §§ 416 and 427. 
+Makaneole v. Gampon, 70 Haw. 501, 504, 777 P.2d 1183, 1185 (1989) 
+(Makaneole II). These sections provide: 
+§ 416. Work Dangerous In Absence Of Special Precautions
+ 
+One who employs an independent contractor to do work
+which the employer should recognize as likely to create
+during its progress a peculiar risk of physical harm to
+others unless special precautions are taken, is subject to
+liability for physical harm caused to them by the failure of
+the contractor to exercise reasonable care to take such
+ precautions, even though the employer has provided for such
+precautions in the contract or otherwise.
+ 
+§ 427. Negligence As To Danger Inherent In The Work
+ 
+One who employs an independent contractor to do work
+involving a special danger to others which the employer
+knows or has reason to know to be inherent in or normal to
+ the work, or which he contemplates or has reason to
+contemplate when making the contract, is subject to
+liability for physical harm caused to such others by the
+contractor's failure to take reasonable precautions against
+such danger.
+ 
+Restatement §§ 416 and 427. Both sections are applicable to this
+ 
+case. Also applicable is Restatement § 413, which other
+ 
+10
+ NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER
+ 
+jurisdictions have cited to define the doctrine. See, e.g., Am.
+ 
+States Ins. Co. v. Progressive Cas. Ins. Co., 102 Cal. Rptr. 3d
+ 
+591, 599 (Cal. Ct. App. 2009). Restatement § 413 reads:
+ 413. Duty To Provide For Taking Of Precautions Against
+Dangers Involved In Work Entrusted To Contractor
+ 
+One who employs an independent contractor to do work
+which the employer should recognize as likely to create,
+during its progress, a peculiar unreasonable risk of
+physical harm to others unless special precautions are
+taken, is subject to liability for physical harm caused to
+them by the absence of such precautions if the employer
+ 
+(a) fails to provide in the contract that the
+contractor shall take such precautions, or
+ 
+(b) fails to exercise reasonable care to provide in
+some other manner for the taking of such precautions.
+ 
+Restatement § 413.6 Section 416 is more commonly applied when an
+ 
+employer "should anticipate the need for some specific
+ 
+precaution," whereas the rule in Section 427 applies where "the
+ 
+danger involved in the work calls for a number of precautions, or
+ 
+involves a number of possible hazards[.]" Restatement § 416
+ 
+cmt. a.
+ 
+The commentary to Restatement § 413 explains the
+ 
+meaning of "peculiar risk" as a
+ 
+special risk[], peculiar to the work to be done, and arising
+out of its character, or out of the place where it is to be
+done, against which a reasonable man would recognize the
+necessity of taking special precautions. The situation is
+ one in which a risk is created which is not a normal,
+routine matter of customary human activity, such as driving
+an automobile, but is rather a special danger to those in
+the vicinity, arising out of the particular situation
+created, and calling for special precautions. "Peculiar"
+ does not mean that the risk must be one which is abnormal to
+ the type of work done, or that it must be an abnormally
+great risk. It has reference only to a special,
+recognizable danger arising out of the work itself.
+ 
+Restatement § 413 cmt. b. In order for the exception to apply,
+ 
+the contractor's work does not have to be "an extra-hazardous or
+ 
+6
+ Restatement Section 413 differs from Section 416 in that in the
+ 
+former no precautionary measures have been provided for under the contract and
+in the latter the precautionary measures have been accounted for by contract
+but the contractor did not follow them, in which instance the contractor would
+have a duty to indemnify the employer for liability caused by his negligence.
+See Restatement § 416 cmt. c. The terms of the contract between Pleasant
+ Travel and ACS are not in the record.
+ 
+11
+ NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER
+ 
+abnormally dangerous activity[.]" Restatement § 416 cmt. d. The
+ 
+peculiar risk exception requires that there is "some special
+ 
+hazard resulting from the nature of the work done, which calls
+ 
+for special precautions[,]" id., and "the contractor fail[s] to
+ 
+exercise reasonable care to take [those] adequate precautions." 
+Restatement § 416 cmt. f. The commentary further explains that
+ 
+the peculiar risk doctrine
+ 
+is not concerned with the taking of routine precautions, of
+a kind which any careful contractor could reasonably be
+expected to take, against all of the ordinary and customary
+dangers which may arise in the course of the contemplated
+work. Such precautions are the responsibility of the
+contractor; and if the employer has exercised reasonable
+care to employ a contractor who is competent and careful, he
+is not required to provide, in the contract or otherwise,
+that the contractor shall take them.
+ 
+Restatement § 413 cmt. b.
+ 
+a. Peculiarity of risk is a question of fact.
+ 
+The peculiar risk doctrine is "unequivocally applicable
+ 
+to third persons who are not employees of a contractor[.]"
+ 
+Lindler v. District of Columbia, 502 F.2d 495, 498 (D.C. Cir.
+ 
+1974). However, an "overwhelming majority of jurisdictions" have
+ 
+held that the peculiar risk doctrine could not apply in cases
+ 
+such as this, where the injured employee of an independent
+ 
+contractor sues his employer's employer. See Tauscher v. Puget
+ 
+Sound Power & Light Co., 635 P.2d 426, 429 & n.2 (Wash. 1981). 
+See also Monk v. V.I. Water & Power Auth., 53 F.3d 1381, 1391
+ 
+n.28 (3d Cir. 1995) (listing fourteen states that reject the
+ 
+doctrine and two that approve); Fleck v. ANG Coal Gasification
+ 
+Co., 522 N.W.2d 445, 450-51 (N.D. 1994) (collecting cases
+ 
+approving and disapproving of the doctrine); Clausen v. R.W.
+ 
+Gilbert Constr. Co., Inc., 309 N.W.2d 462, 466 n.1 (Iowa 1981)
+ 
+(same).
+ 
+Nevertheless, in Makaneole II, the Hawaif i Supreme 
+Court held that Restatement §§ 416 and 427 could be applied 
+against a landowner that hired an independent contractor and the 
+injured plaintiff was an employee of the contractor. Makaneole 
+II, 70 Haw. at 507, 777 P.2d at 1187. The court relied on the 
+12
+ NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER 
+legislative history behind the "contractor clause" in Hawaif i's 
+worker's compensation laws to conclude that "the owner of the 
+premises was no longer a statutory employer exempted from suits 
+for negligence under [HRS] § 386-5 [(the exclusive remedy 
+provision)]." 70 Haw. at 507, 77 P.2d at 1187. Thus, we must 
+determine whether the peculiar risk doctrine works to impose 
+liability in this case. 
+In Hawaif i's most recent case on the peculiar risk 
+doctrine, this court treated the question of whether a risk is 
+"peculiar" as a question of fact. In Shaner, we rejected summary 
+judgment in favor of defendant homeowners on the basis that the 
+plaintiff, the personal representative of a deceased employee of 
+a tree-removal company hired by the defendant homeowners, put 
+forth evidence that raised a genuine issue of material fact as to 
+whether the homeowners owed a duty to decedent. Shaner v. Kraus, 
+122 Hawaif i 351, 226 P.3d 521, No. 29379, 2010 WL 1056870 at *4 
+(App. Mar. 19, 2010) (mem. op.). Therefore, we must consider 
+whether the record before us contains evidence sufficient to 
+raise a genuine issue of material fact as to whether there was a 
+peculiar risk inherent in Bryant's work. See Ek v. Herrington, 
+939 F.2d 839, 843 (9th Cir. 1991). 
+b.	 Evidence was sufficient for trial on the peculiar
+risk issue.
+ 
+In Shaner, we addressed whether evidence regarding the
+ 
+employee's work was sufficient for a jury to consider whether a
+ 
+peculiar risk existed. Shaner, 2010 WL 1056870 at *4.7 Shaner
+ 
+is distinguishable from this case because the decedent's work was
+ near high-voltage electric lines, which has been recognized as
+ 
+"inherently dangerous." See, e.g., Paull v. Park County, 218
+ 
+7
+ In Shaner, 2010 WL 1056870 at *2-4, we held that the plaintiff,
+ 
+the personal representative of an employee of a tree-removal company who was
+electrocuted when part of the crane he was riding in hit a live high-voltage
+wire, raised a triable issue of fact as to whether a peculiar risk existed
+where the plaintiff produced evidence that the homeowners had hired the
+contractor after a previous company refused to remove the trees because they
+were too close to high-voltage electrical lines and that decedent's company
+admitted it violated safety directives as specified in the crane manual.
+ 
+13
+ NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER
+ 
+P.3d 1198, 1208 (Mont. 2009) (listing some "inherently dangerous"
+ 
+activities, including blasting, pile driving, crop dusting,
+ 
+demolition, emission of noxious gases or fumes). Bryant does not
+ 
+cite, nor could we find, any case finding air-conditioning repair
+ 
+work in general or repairs made near a fan in particular to be
+ 
+inherently dangerous.
+ 
+Bryant argues that the peculiar risk that he was
+ 
+exposed to was "the extremely poor and dilapidated condition of
+ 
+the wooden cooling tower," yet he does not suggest what
+ 
+precautions were necessary to ameliorate the risk posed by such
+ 
+conditions. However, Pleasant Travel's argument to the contrary
+ 
+is equally unpersuasive. Pleasant Travel relies on Glickstein's
+ 
+testimony that the work was "pretty simple" and there was
+ 
+"nothing unusual" about the work. The fact that the work was
+ 
+"pretty simple" is irrelevant, because the peculiar risk doctrine
+ 
+does not require that the work entail any "special skill" or
+ 
+care, rather "[i]t is sufficient that work of any kind involves a
+ 
+risk, recognizable in advance, of physical harm to others which
+ 
+is inherent in the work itself[.]" Restatement § 427 cmt. b
+ 
+(emphasis added).
+ 
+i. "Unusual" nature of Bryant's work
+ 
+Hawaifi cases appear to leave it to a jury to decide 
+whether the circumstances of a work site are unusual or 
+extraordinary. For example, in Shaner, we remanded the case to 
+consider the peculiar risk question, where there was evidence 
+that the electrocution risk was a routine one for the deceased 
+plaintiff's company, which specialized in removing trees near 
+power lines, while another company had refused the project 
+because of the location. 2010 WL 1056870 at *4. 
+In the case before us, the evidence was that the
+ 
+cooling tower was made of a different material from other cooling
+ 
+towers (wood, rather than metal), and that the wood was in
+ 
+particularly bad condition because the wood comprising it was
+ 
+"soggy and brittle at the same time, kind of squishy in some
+ 
+places and dry and crumbly in other places." Here, the evidence
+ 
+14
+ NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER
+ 
+was sufficient to raise a genuine question as to whether Bryant's
+ 
+work on the day of his injuries "involve[d] circumstances that
+ 
+are substantially out-of-the-ordinary ." Ortiz v. Ra-El Dev.
+ 
+Corp., 528 A.2d 1355, 1358 (Pa. Super. Ct. 1987). 
+ii.	 "Collateral negligence" in the "manner in
+which the work was done"
+ 
+As noted above, the peculiar risk exception requires
+ 
+that the cause of the harm be the absence of "special
+ precautions." See Restatement §§ 413, 416. Bryant's own brief
+ 
+suggests, under a different theory of liability, that the
+ precaution which was missing but necessary here was a "lock-out,
+ 
+tag-out" procedure for re-starting the fan once repairs were
+ 
+complete and that this procedure should have required personnel
+ 
+to keep a safe distance from the air conditioning unit. 
+Bryant's expert explained in a written report that Hawaii
+ 
+Occupational Safety and Health Law regulations provided a
+ 
+standard for "typical minimal lockout procedures," that Pleasant
+ 
+Travel did not have such procedures, and that such procedures
+ 
+would have prevented Bryant's injuries. This leads us to ask
+ 
+whether the failure to observe a standard safety procedure can
+ 
+serve as the basis of a peculiar risk claim.
+ 
+Pleasant Travel's Answering Brief relies on cases that
+ 
+find, as a matter of law, no duty was owed to a independent
+ 
+contractor's employee who failed to follow recognized safety
+ 
+procedures. See Warnick v. Home Depot U.S.A., Inc., 516 F. Supp.
+ 
+2d 459, 470 (E.D. Pa. 2007) (plaintiff failed to use a safety
+ harness and fell through a ceiling); Hernandez v. Midwest Gas
+ 
+Co., 523 N.W.2d 300, 304-05 (Iowa Ct. App. 1994) (plaintiff
+ 
+failed to follow safety handbook, omitted "ordinary safety
+ 
+precautions," and was asphyxiated by natural gas); Sievers v.
+ 
+McClure, 746 P.2d 885, 886 (Alaska 1987) (plaintiff's decedent
+ 
+failed to use fall-prevention devices on an icy roof and fell to
+ 
+his death).
+ 
+15
+ NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER
+ 
+These cases and others discussing the "special
+ 
+precautions" requirement of the Restatement generally apply two
+ 
+arguments. The first is that where the safety precautions are
+ 
+well-recognized in the industry, the precautions are "routine"
+ 
+and cannot be "special" precautions within the meaning of the
+ 
+Restatement. See, e.g., PSI Energy, Inc. v. Roberts, 829 N.E.2d
+ 
+943, 955-56 (Ind. 2005) (industry standards are applicable
+ measures of the "routine precautions" that are the responsibility
+ 
+of the contractor), abrogated on other grounds by Helms v. Carmel
+ 
+High School Vocational Bldg. Trades Corp., 854 N.E.2d 345 (Ind.
+ 
+2006). But see Beckman v. Butte-Silver Bow Cnty., 1 P.3d 348,
+ 
+353 (Mont. 2000) (overruling prior decisions that "misinterpreted
+ the interplay of 'ordinary' or standard and 'special
+ 
+precautions'" and holding that precautions that "although
+ 
+arguably standard with regard to the risk posed, are special in
+ 
+that they are designed to protect workers from the unreasonable,
+ 
+extraordinary, and unusual risks associated with [their work].") 
+The second concludes that a party's failure to follow
+ 
+recognizable safety procedures constitutes "collateral" or
+ 
+"causal negligence" and therefore the risk did not "arise out of"
+ 
+the independent contractor's work. See, e.g., Hernandez, 523
+ 
+N.W.2d at 304 ("[T]he term ['peculiar risk'] means more than
+ danger that arises from the collateral negligence of persons
+ 
+engaged in the activity or danger which arises solely from the
+ 
+method of the activities' performance.").
+ 
+Pleasant Travel's Answering Brief emphasizes the
+ 
+"manner in which the work was done" in its description of cases,
+ 
+suggesting that it intended to argue that Bryant and ACS's
+ 
+collateral negligence prohibited application of the peculiar risk
+ 
+doctrine. Indeed, the peculiar risk doctrine does not apply
+ 
+where the cause of the harm was an independent contractor's
+ 
+"collateral negligence." Restatement § 427 cmt. d. (referring to
+ 
+the definition of collateral negligence stated in Section 426). 
+Section 426 defines collateral or causal negligence as that which
+ 
+"consists solely in the improper manner in which [the contractor]
+ 
+16
+ NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER
+ 
+does the work, and . . . creates a risk of such harm which is not
+ 
+inherent in or normal to the work, and . . . the employer had no
+ 
+reason to contemplate the contractor's negligence when the
+ 
+contract was made."
+ 
+Some courts have found that violations of recognized
+ 
+safety procedures qualify as collateral negligence. See Warnick,
+ 
+516 F. Supp. 2d at 469-70 ("Violations of safety conditions -­whether by the employee or his employer, the contractor -- are
+ 
+not a basis for invoking the doctrine."). See also Motter v.
+ 
+Meadows Ltd. P'ship, 680 A.2d 887, 892 (Pa. Super. Ct. 1996)
+ (finding no peculiar risk in trenching operation where danger was
+ 
+caused by "failure to abide by the OSHA rules and regulations,
+ 
+and not the nature of the soil"); Nagy v. Consumers Power Co.,
+ 
+2001 WL 672171 at *2 (Mich. Ct. App. 2001) ("In cases where the
+ injury results because well-recognized safety measures are not
+ 
+taken by the workers, the risk is not inherent to the work being
+ 
+done but rather is created by the failure to take ordinary
+ 
+precautions.").
+ 
+The California Supreme Court, however, has said "it is
+ 
+often difficult to distinguish those risks that are inherent in
+ 
+the work from those that are collateral, and the line to be drawn
+ 
+between the two types of risks is 'shadowy.'" Toland v. Dunland
+ 
+Hous. Grp., Inc., 955 P.2d 504, 508 (Cal. 1998) (quoting Privette
+ v. Superior Court of Santa Clara Cnty., 854 P.2d 721, 726 (Cal.
+ 
+1993)) (internal quotation marks omitted). Another court
+ 
+explained the distinction in this way:
+ 
+In the one case the doing of the work creates danger and
+requires active care to counteract the danger. In the other
+ there is no danger unless created by [collateral]
+negligence. The one starts with danger and requires
+preventive care to make safety, while the other starts with
+safety and requires negligence to make danger.
+ 
+Lunde v. Winnebago Indus. Inc., 299 N.W.2d 473, 476-77 (Iowa
+ 
+1980) (quoting Carson v. Blodgett Constr. Co., 174 S.W. 447, 448
+ 
+(Mo. Ct. App. 1915)). 
+"The question of whether a contractor's negligence was
+ 
+'collateral,' like the related issue of whether there was a
+ 
+17
+ NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER 
+peculiar risk inherent in the work being performed, is generally
+ 
+an issue for the trier of fact to resolve." Pusey v. Bator, 762
+ 
+N.E.2d 968, 978 (Ohio 2002) (Cook, J., concurring) (citing Caudel
+ v. E. Bay Muni. Util. Dist., 211 Cal. Rptr. 222, 227 (Cal. Ct.
+ 
+App. 1985)). Based on Glickstein's testimony that he "[didn't]
+ 
+know what [they] were looking for" when he and Bryant ascended
+ 
+the ladders next to the cooling tower after installing the shroud
+ 
+and from Loando's testimony that Bryant and Glickstein were
+ 
+supposed to call him to "start it up", it can be inferred that
+ 
+Bryant was not required to put himself in the position where he
+ 
+was injured. However, a reasonable juror could also conclude
+ 
+that it is not improper or unforeseeable that a worker tasked
+ 
+with installing a piece of equipment would check the work after
+ 
+completing the task, and that in order to do so, he would stand
+ 
+within a zone where he would be injured if the equipment failed. 
+If we were to use the test given in Lunde, there would be
+ 
+sufficient evidence that Bryant's work "start[ed] with danger and
+ 
+require[d] preventative care," given Briley's warning that the
+ 
+tower posed a "safety hazard." Moreover, reasonable minds could
+ 
+disagree whether Bryant's actions "create[d] a risk of such harm
+ 
+which is not inherent in or normal to the work," which Pleasant
+ 
+Travel "had no reason to contemplate . . . when the contract was
+ 
+made." Restatement § 426. Therefore, summary judgment in
+ 
+Pleasant Travel's favor based on its collateral negligence theory
+ 
+was inappropriate.
+ 
+c. Conclusion
+ 
+Bryant has raised some genuine questions as to the
+ 
+nature of the risk in the work Bryant was hired to perform. A
+ 
+jury should be permitted to consider the question of whether the
+ 
+cooling tower project posed an "ordinary and customary danger" to
+ 
+Bryant and whether the failure of Bryant to follow safety
+ 
+procedures when starting the cooling tower's fan constituted a
+ 
+"collateral" risk. Summary judgment in favor of Pleasant Travel
+ 
+on this ground was inappropriate.
+ 
+18
+ NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER 
+2. "Retained Control" Exception
+ 
+Another recognized exception to the general rule
+ 
+against assigning liability to the hiring employer of an
+ 
+independent contractor for the contractor's employees' negligence
+ 
+depends on whether the hiring employer retains control over how
+ 
+the independent contractor performed the work. See Taira, 1 Haw.
+ 
+App. at 211-12, 616 P.2d at 1029-30.
+ 
+Bryant argues that "a jury should be allowed to decide
+ 
+if Defendant . . . is subject to liability under the retained
+ control exception." Indeed, we have recognized that "[t]he
+ 
+nature and extent of control by an employer of an independent
+ 
+contractor of the independent contractor's performance of work
+ 
+contracted for is a question of fact, which is to be determined
+ 
+by a consideration of all the circumstances[.]" Makaneole v.
+ 
+Gampon, 7 Haw. App. 448, 455, 776 P.2d 402, 407 (1989) (Makaneole
+ I), (citation omitted), aff'd in part and rev'd in part,
+ 
+Makaneole II . In order for control of a job site to be
+ 
+considered "retained,"
+ 
+[i]t is not enough that [the hiring employer] has merely a
+general right to order the work stopped or resumed, to
+inspect its progress or to receive reports to make
+suggestions or recommendations which need not necessarily be
+followed, or to prescribe alterations and deviations. Such
+ a general right is usually reserved to employers, but it
+does not mean that the contractor is controlled as to his
+ methods of work, or as to operative detail. There must be
+ such a retention of a right of supervision that the
+contractor is not entirely free to do the work in his own
+ way.
+ 
+Id. at 454-55. 776 P.2d at 407 (quoting Restatement § 414 cmt.
+ 
+c).
+ 
+We acknowledged that jurisdictions are split over
+ 
+"whether the employer's liability must be based upon specific
+ 
+control over the activity out of which the injury arose, or
+ 
+whether proof of general control of the work premises is
+ 
+sufficient." Id. at 457, 776 P.2d at 408. Bryant here argues
+ 
+for the broader scope, requiring only control over the work site,
+ i.e., the Hotel property as a whole. Makaneole I did not decide
+ 
+whether the premises owner's control needed to extend to the
+ 
+19
+ NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER 
+independent contractor's specific activity or the premises
+ 
+generally, but instead adopted the rule, stated in Jones, that
+ 
+an owner of a work site who retains the right to direct the
+manner of an independent contractor's performance or assumes
+affirmative duties with respect to safety owes a duty of
+reasonable care to an employee of the independent contractor
+even if the employee is injured doing the very work the
+contractor was hired to perform.
+ 
+Id. at 458, 776 P.2d at 409 (citing Jones, 718 P.2d at 896).
+ 
+Bryant argues that the following facts demonstrate
+ 
+Pleasant Travel's control over the work site: (1) Pleasant
+ 
+Travel's foreman, Roy Lewi, says he "oversaw" ACS workers when
+ 
+they worked at the Hotel; (2) Lewi and Pleasant Travel's
+ 
+engineering and maintenance staff did "trouble-shooting" of the
+ 
+air conditioning system; (3) Lewi approached ACS's president
+ 
+about giving the Hotel workers classes on air conditioning; and
+ 
+(4) a Hotel worker "shadowed" an ACS worker to learn more about
+ 
+the air conditioning system. Even when construed in the light
+ 
+most favorable to Bryant, these facts are insufficient to
+ 
+establish that Pleasant Travel "retain[ed] the right to direct
+ 
+the manner of an independent contractor's performance or
+ 
+assume[d] affirmative duties with respect to safety." Id. In
+ 
+fact, Lewi stated in the deposition submitted by Bryant that when
+ it came to how air conditioning repairs were made, he "left it up
+ 
+to ACS."
+ 
+Bryant's Opening Brief cites three cases relevant to
+ 
+the control issue: Taira, Messier, and Makaneole I. In Taira,
+ 
+this court concluded that the defendant property owner had not
+ retained control because the contract between the defendant and
+ 
+the independent contractor gave the contractor "complete
+ 
+responsibility for making the necessary repairs and for
+ 
+determining how to make those repairs" and the independent
+ 
+contractor directed his employee on how to complete the task that
+ 
+ultimately injured the employee. Taira, 1 Haw. App. at 212, 616
+ 
+P.2d at 1029. In Messier, a product defect case, this court
+ reversed a summary judgment ruling in favor of a defendant
+ 
+property owner where there was evidence that the defendant
+ 
+20
+ NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER 
+required a particular material during construction, approved the
+ 
+design of the allegedly defective building element that injured
+ 
+the plaintiff, and had an employee on the job site daily to
+ 
+oversee construction. Messier v. Ass'n of Apt. Owners of Mt.
+ 
+Terrace, 6 Haw. App. 525, 537, 735 P.2d 939, 948 (1987). In
+ Makaneole I, we reversed a summary judgment ruling in favor of
+ 
+the defendant because the plaintiff established that the
+ 
+defendant's representative maintained an office at the project
+ 
+site, inspected the progress, and took on a number of
+ 
+responsibilities, including reporting subcontractors' substandard
+ 
+work to the independent contractor. 7 Haw. App. at 456-57, 775
+ 
+P.2d at 408. The facts of this case are clearly closer to Taira
+ 
+than Messier or Makaneole I.
+ 
+Here, the undisputed evidence is that not one of
+ 
+Pleasant Travel's employees came to the roof that day to
+ 
+supervise the work, that Bryant and Glickstein spoke only to one
+ 
+of Pleasant Travel's employees that day prior to the accident to
+ 
+get the key to the roof, and that Donny Andrade, an ACS
+ 
+supervisor and not an agent of the Pleasant Travel, instructed
+ 
+Bryant and Glickstein on how to make the repairs. Moreover, Lewi
+ 
+indicated that ACS chose what material and what design was used
+ 
+on the replacement shroud and top. Lewi testified that he did
+ 
+not generally observe what ACS contractors did, other than
+ 
+checking at the end of the day to ensure that the work used the
+ 
+materials Pleasant Travel was billed for. In conclusion, even
+ 
+when viewed in the light most favorable to Bryant, the evidence
+ 
+is insufficient to support a finding that Pleasant Travel
+ 
+retained control over Bryant's work.
+ 
+Bryant points to two facts in arguing that Pleasant
+ 
+Travel was negligent in controlling the job site: (1) "its
+ 
+admitted failure to assess whether the equipment was safe to be
+ 
+worked on at all" after ACS notified it that the cooling tower
+ 
+posed a safety hazard and (2) repeated violations of workplace
+ 
+safety rules regarding the "'lock-out, tag-out' of energized
+ 
+equipment such as the A/C cooling tower's fan." Although
+ 
+21
+ NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER 
+"violations of pertinent provisions of . . . the Occupational
+ 
+Safety and Health Law (OSHL), HRS Chapter 396 . . . [are]
+ 
+admissible as evidence of negligence," Michel v. Valdastri, Ltd.,
+ 
+59 Haw. 53, 55, 575 P.2d 1299, 1301 (1978), the issue of
+ 
+negligence would only arise after Bryant makes a prima facie
+ 
+showing that Pleasant Travel retained control over job site. See
+ 
+Makaneole I, 7 Haw. App. at 459, 775 P.2d at 409. Where there is
+ no evidence that Pleasant Travel retained control over the work
+ 
+contracted to ACS such that Pleasant Travel had a duty to Bryant,
+ 
+these facts regarding Pleasant Travel's alleged negligence in
+ 
+performing that duty are not relevant.
+ 
+B. Pleasant Travel's liability as premise owner
+ 
+HRS § 396-6(a) (1993) codifies the duty of every
+ 
+employer to "furnish to each of the employer's employees
+ 
+employment and a place of employment which are safe as well as
+ 
+free from recognized hazards." This "duty of the employer to
+ 
+provide a safe place to work runs to whomever he requires or
+ 
+permits to perform work on his premises" and does not depend on
+ 
+an employer-employee relationship. Michel, 59 Haw. at 57, 575
+ 
+P.2d at 1301-02. However, "the employer-owner of the premises is
+ nevertheless under no duty to protect the employee from dangerous
+ 
+conditions arising from or intimately connected with the
+ 
+particular defect in the premises or in the machinery which he
+ 
+has been hired to abate or repair." Id. at 57, 575 P.2d at 1302. 
+See HRS § 396-6(a) (exception to "safe place of employment rule"
+ made where employee sent to place for the "specific purpose of
+ 
+abating said hazard").
+ 
+A contractor is presumed to have assumed the risks
+ 
+involved in making repairs. Hammond v. City of El Dorado
+ 
+Springs, 242 S.W.2d 479, 483 (Mo. 1951). See Hines v. Martel
+ 
+Tel. Co., 255 N.W. 233, 235 (Neb. 1934) ("[A] person who
+ 
+contracts to perform labor or services for another is presumed to
+ 
+have so contracted in view of the risks ordinarily incident to or
+ 
+connected with the employment. He assumes all such risks.")
+ 
+(internal quotation marks and citation omitted); E.H. Schopler,
+ 
+22
+ NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER 
+Annotation, Duty of owner of premises to furnish independent
+ 
+contractor or his employee a safe place of work, where contract
+ 
+is for repairs, 31 A.L.R.2d 1382 (1953) ("the owner is not liable
+ 
+for . . . injury of an independent contractor or one of his
+ 
+employees resulting from dangers which the contractor, as an
+ 
+expert, has known, or as to which he and his employees 'assumed
+ 
+the risk.'"). Thus, "the owner or occupier [of premises] is
+ 
+under no duty to protect [an independent contractor's employees]
+ 
+against risks arising from or intimately connected with defects
+ 
+of the premises, or of machinery or appliances located thereon,
+ 
+which the contractor has undertaken to repair." 31 A.L.R.2d
+ 
+1381-82 (1953).
+ 
+Bryant argues that the jury should have been allowed to
+ 
+consider whether he "was injured by the exact instrumentality
+ 
+that ACS was called to repair." Bryant argues that he was
+ 
+"simply tasked to replace the rotted wood on the top of the large
+ 
+cooling tower, and to replace the old shroud around the fan" but
+ 
+"not called to work on the fan itself or on the cooling tower as
+ 
+a whole." If the case were to proceed to trial, he "would have
+ 
+argued that the cause of the accident was the unexpected lateral
+ 
+movement of the fan due to the overall instability of the rotted
+ 
+cooling tower." Bryant theorizes on appeal that "[b]ecause of
+ 
+the unusually poor condition of the wooden cooling tower, the
+ 
+vertical shaft of the fan moved enough . . . to come in contact
+ 
+with the new shroud[.]"
+ 
+Bryant's argument fails for a number of reasons. 
+First, it is clear that the fan is not a separate instrumentality
+ 
+from that which he was called to repair. On this point, Bryant
+ 
+attempts to draw the analogy to Michel v. Valdastri. In Michel,
+ 
+the plaintiff was hired to repair a trolley mechanism on a crane
+ 
+and was allegedly injured when the crane's braking system, which
+ 
+the plaintiff was not hired to repair, failed. 59 Haw. at 55,
+ 
+575 P.2d at 1301. In Michel, it could be inferred that the brake
+ 
+and the trolley, although attached to the same crane, operated
+ 
+independently of each other; that is, if one was inoperable it
+ 
+23
+  NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER
+ 
+had no effect on the other. See id. at 54-55, 575 P.2d at 1300­
+01. To the contrary here, the record establishes that the shroud
+ 
+was necessary to make the fan work efficiently. Thus, it can be
+ 
+said that by replacing the missing shroud, Bryant and Glickstein
+ 
+8
+were repairing  the fan as well.  Furthermore, although Bryant
+ "maintains that the defective condition that caused the accident
+ 
+was the fan and the overall instability of the large wooden
+ 
+cooling tower," he offers no explanation how this "instability"
+ 
+existed after he removed rotted wood from the tower's top and
+ 
+added 2x4s for stability. 
+Accordingly, we cannot agree the fan
+ 
+was not "intimately connected" to the repairs Bryant made.
+ 
+Second, even if we were to assume that the fan and
+ 
+shroud were not "intimately connected," Bryant puts forth no
+ evidence that a defect in the fan alone caused the incident. 
+Glickstein's testimony supports the theory that the shroud was
+ 
+"sucked into" the fan, and the fan "chopped it," but there is no
+ 
+credible evidence in the record to support the alternate theory
+ 
+that the fan shaft moved or that the fan itself was otherwise
+ 
+defective so as to catch and shred the shroud. "A party opposing
+ 
+a motion for summary judgment cannot discharge his or her burden
+ 
+by alleging conclusions, 'nor is [the party] entitled to a trial
+ 
+on the basis of a hope that [the party] can produce some evidence
+ 
+at that time.'" Henderson v. Prof'l Coatings Corp.
+, 72 Haw. 387,
+ 
+401, 819 P.2d 84, 92 (1991) (quoting 10A Charles Alan Wright,
+ Arthur R. Miller & Mary Kay Kane, Federal Practice and Procedure
+ 
+§ 2727 (2d ed. 1983)).
+ 
+Even assuming the fan was not connected to the
+ 
+instrumentality he was hired to repair, without evidence that
+ 
+movement of the fan alone caused the accident, Bryant failed to
+ 
+"set forth specific facts showing that there is a genuine issue
+ 
+8
+ "Repair is restoration by renewal or replacement of subsidiary
+parts of a whole. . . . The word repair contemplates an existing structure or
+thing which has become imperfect by reason of the elements or otherwise, and
+to repair we restore or supply in the original structure that which is lost,
+destroyed or missing." Hammond, 242 S.W.2d at 482 (internal quotation marks
+ 
+omitted).
+ 
+24
+ NOT FOR PUBLICATION IN WEST'S HAWAI fI REPORTS AND PACIFIC REPORTER
+ 
+for trial" regarding whether the cause of his injuries were 
+caused by something other than the instrumentality he was hired 
+to repair. Hawaif i Rules of Civil Procedure Rule 56(e). 
+Therefore, summary judgment in favor of Pleasant Travel on this basis was not erroneous. 
+III. Conclusion 
+For the reasons given in Part II.A.1 above related to
+ 
+the peculiar risk exception, summary judgment in Pleasant
+ 
+Travel's favor was inappropriate. Therefore, the February 6,
+ 
+2009 Final Judgment of the Circuit Court of the Third Circuit is
+ 
+vacated and this case is remanded for further proceedings
+ 
+consistent with this memorandum opinion.
+ 
+DATED: Honolulu, Hawai
+fi, May 30, 2012. 
+On the briefs: 
+Ian L. Mattoch and 
+Daniel P. Kirley,for Plaintiff-Appellant. 
+Presiding Judge 
+J. Patrick Gallagher andJeffrey Y. Higashi,(Henderson Gallagher & Kane),for Defendant-Appellee. 
+Associate Judge 
+Associate Judge
+ 
+25
+ 

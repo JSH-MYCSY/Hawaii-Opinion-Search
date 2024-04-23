@@ -1,0 +1,2299 @@
+FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+IN THE INTERMEDIATE COURT OF APPEALS
+ 
+OF THE STATE OF HAWAI 'I 
+---o0o--­
+LLOYD R. ANASTASI, Plaintiff-Appellant,
+v.
+ 
+FIDELITY NATIONAL TITLE INSURANCE COMPANY,
+Defendant-Appellee.
+ 
+NO. 30557 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT
+ 
+(CIVIL NO. 08-1-0718)
+ 
+DECEMBER 30, 2014
+ 
+FOLEY, PRESIDING JUDGE, FUJISE and GINOZA, JJ.
+
+ 
+OPINION OF THE COURT BY GINOZA, J.
+ 
+Plaintiff-Appellant Lloyd R. Anastasi (Anastasi) filed
+ 
+this lawsuit against his insurer Defendant-Appellee Fidelity
+
+ 
+National Title Insurance Company (Fidelity) claiming that
+ 
+Fidelity unreasonably delayed in paying benefits owed to Anastasi
+ under a title insurance policy. The circumstances of this case
+ involve an underlying lawsuit against Anastasi, in which Fidelity
+ provided a defense under a reservation of rights. Out of that
+ circumstance, Anastasi claims breach of contract and bad faith
+ against Fidelity.
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+This appeal arises from a grant of summary judgment by
+ 
+1
+the Circuit Court of the First Circuit (circuit court)  in favor
+of Fidelity on Anastasi's bad faith claim. The circuit court granted an immediate appeal of its judgment on the bad faith claim pursuant to Rule 54(b) of the Hawai
+'i Rules of Civil 
+Procedure (HRCP). 
+In resolving this appeal, we must determine: whether we
+ 
+have appellate jurisdiction to review discovery rulings by the
+ circuit court; if we have jurisdiction to review any discovery
+ ruling, whether the circuit court abused its discretion in said
+ ruling; whether the circuit court erred in granting summary
+ judgment to Fidelity on the bad faith claim; and whether an award
+ of costs to Fidelity was proper.
+ 
+For the reasons discussed below, we hold that:
+ (1) we have appellate jurisdiction to review the
+ 
+circuit court's ruling that Fidelity need not produce ten
+ documents authored or received by Elizabeth McGinnity
+ (McGinnity), a Senior Vice-President and Major Claims Counsel for
+ Fidelity; however, we do not have appellate jurisdiction to
+ review the circuit court's discovery ruling on "other claims"
+ information sought by Anastasi to prove punitive damages;
+ 
+(2) because McGinnity acted in a dual capacity as both
+ 
+in-house counsel and in generally handling Anastasi's claim, the
+ circuit court abused its discretion in ruling that the entirety
+ of the ten documents withheld from discovery were covered by the
+ attorney-client privilege and/or work-product doctrine;
+ 
+(3) the circuit court erred in determining that
+ 
+Fidelity acted reasonably as a matter of law, and thus, summary
+ judgment for Fidelity must be vacated; and
+ 
+(4) because summary judgment for Fidelity is vacated,
+ 
+any award of costs was not warranted.
+ 
+1
+ The Honorable Rom A. Trader presided, except to the extent noted
+below. 
+2
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+I. Overview
+ 
+To put Anastasi's allegations against Fidelity into
+ 
+context, it is necessary to consider the circumstances of both
+ 
+this case and the underlying lawsuit from which Anastasi's bad
+ faith claim arises.
+ 
+The title insurance policy issued by Fidelity to 
+Anastasi insured that an individual named Alajos Nagy (Nagy) had good title to property located in Mokul
+e'ia, Hawai 'i (the 
+Property) and insured Anastasi against loss in the event a mortgage on the Property executed by Nagy was not enforceable. Anastasi had loaned $2.4 million to Nagy and Nagy had executed the mortgage in favor of Anastasi as security for the loan. As set forth in more detail below, Nagy's title to the property later came into dispute. Individuals named Paul Stickney 
+2
+(Stickney) and Gregory Rand (Rand)  claimed to own the Property
+and brought a quiet title action against Nagy and Anastasi in a
+ case filed in the Circuit Court of the First Circuit entitled
+
+ 
+Stickney, et al. v. Nagy, et al., Civil No. 05-1-2065-11
+
+ 
+(Stickney Lawsuit). After being served with the Stickney
+ Lawsuit, Anastasi tendered a claim to Fidelity under the title
+ policy. Fidelity retained an attorney, Jade Ching (Ching), to
+ defend Anastasi in the Stickney Lawsuit, but Fidelity also
+ reserved its rights under the policy.
+ 
+After the Stickney Lawsuit had been litigated for a
+ 
+little over two years and judgment against Anastasi had been
+ entered, Anastasi filed the instant lawsuit against Fidelity. 
+Anastasi contends that, not long after the Stickney Lawsuit was
+ filed, it became clear that a Warranty Deed purporting to
+ transfer the Property to Nagy had been forged. Anastasi claims
+ Fidelity unreasonably delayed in paying him the $2.4 million owed
+ under the title policy, and also claims that Fidelity improperly
+ controlled Ching's actions in litigating the Stickney Lawsuit.
+ 
+2
+ Stickney was trustee for a trust that purportedly owned the Property
+and Rand was the beneficiary under the trust.
+ 
+3
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+Anastasi's complaint in this case asserts causes of
+ 
+action for breach of contract (Count I) and bad faith (Count
+ 
+II).3 After ruling on various discovery issues, the circuit
+ 
+court granted summary judgment for Fidelity on the bad faith
+ claim and entered judgment on that claim pursuant to HRCP Rule
+ 54(b). Anastasi timely appealed. Thus, this appeal only
+ involves the bad faith claim.
+ 
+In his points of error on appeal, Anastasi contends
+ 
+that the circuit court erred by:
+ 
+(1) ruling that Fidelity's actions were reasonable as a
+ 
+matter of law;
+ 
+(2) ruling that Anastasi did not raise a genuine issue
+ 
+of material fact as to whether Fidelity controlled Ching's
+ actions in the Stickney lawsuit, and that Ching's actions must be
+ imputed to Anastasi as a matter of law;
+ 
+(3) holding that the ten documents authored or received
+ 
+by McGinnity could be withheld under the attorney-client
+ privilege and/or work-product doctrine;
+ 
+(4) holding that Anastasi's claim for punitive damages 
+could be supported only by evidence of Fidelity's handling of similar claims in the State of Hawai
+'i within a limited time 
+period; and 
+(5) awarding costs, because the circuit court was
+ 
+divested of jurisdiction upon the filing of this appeal and
+ because it was premature to determine which party would be the
+ prevailing party.
+II. Underlying Circumstances and Quiet Title Action
+A. Loan to Nagy, Warranty Deed, and Title Insurance
+ 
+The circumstances surrounding the loan to Nagy and the
+ 
+transaction involving the Property are somewhat curious. As
+ noted, Anastasi made the $2.4 million loan to Nagy secured by a
+ 
+3
+ The record reflects that Fidelity paid the $2.4 million to Anastasi
+on August 4, 2008, which was four months after this lawsuit was filed.
+Anastasi's breach of contract claim was based on the non-payment of the $2.4
+million, and thus it is unclear if any issues remain as to Count I.
+ 
+4
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+mortgage on the Property. According to Anastasi's deposition
+ 
+testimony, submitted in relation to Fidelity's motion for summary
+ judgment, he was in the business of making equity loans secured
+ by the value of properties. Anastasi did not know Nagy and did
+ not recall the purpose of the loaned money. An individual named
+ Paul Lee (Lee), a business acquaintance who referred potential
+ borrowers to Anastasi, brought the potential Nagy loan to
+ Anastasi's attention. Anastasi was also contacted by one Michael
+ Talisman (Talisman) about the Nagy loan, and at some point while
+ analyzing the Property, Anastasi received an appraisal of the
+ Property done by an individual named Mark Justmann (Justmann).
+ Based on his own due diligence, Anastasi believed the value of
+ the Property was around $5 million and therefore decided to make
+ the loan to Nagy. 
+Prior to making the loan, Anastasi understood that
+ 
+Talisman had met with the owners of the Property and that
+ Talisman was interested in purchasing the Property. Anastasi
+ also understood that Nagy was not yet the owner of the Property,
+ but Lee told Anastasi that by the time the loan closed, Nagy
+ would be the owner of record, would sign the loan documents, and
+ that title insurance would be issued to Anastasi. Anastasi felt
+ there was a transaction between Talisman, Stickney and Rand to
+ which he was not privy. 
+The Property was owned at the time by a trust in which 
+Stickney was the sole trustee and Rand the sole beneficiary. As part of the loan transaction with Anastasi, Nagy executed the mortgage on the Property on April 25, 2005. Over a month later, the Warranty Deed dated June 1, 2005, was ostensibly signed by Stickney and purported to deed the Property from Stickney to Nagy –- the validity of Stickneys' signature on the Warranty Deed later became a central point of dispute in the Stickney Lawsuit. The Warranty Deed and the mortgage were recorded with the State of Hawai
+'i Bureau of Conveyances on June 17, 2005, and on the 
+same day, Fidelity issued the subject title insurance policy to Anastasi. 
+5
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+The title insurance policy provided that, subject to
+ 
+the exclusions and exceptions set forth in the policy, Fidelity
+ 
+insures, as of Date of Policy shown in Schedule A, against
+loss or damage, not exceeding the Amount of Insurance stated
+in Schedule A, sustained or incurred by the insured by
+reason of:
+ 
+1. 	Title to the estate or interest described in
+ Schedule A being vested other than as stated
+therein;
+ 
+2. 	Any defect in or lien or encumbrance on the
+title;
+ 
+. . . .
+ 
+5.	 The invalidity or unenforceability of the lien of
+the insured mortgage upon the title[.]
+ 
+Schedule A, in turn, indicated that title to the Property was
+ 
+vested in Nagy and that the insured mortgage was the one between
+ Nagy and Anastasi for the $2.4 million debt.
+ 
+Section 4 of the policy's "Conditions and Stipulations"
+ 
+sets forth the parties' rights related to the defense and
+ prosecution of actions, as follows:
+ 
+4. 	DEFENSE AND PROSECUTION OF ACTIONS; DUTY OF INSURED
+CLAIMANT TO COOPORATE
+ 
+(a) Upon written request by the insured and subject to
+the options contained in Section 6 of these Conditions and
+Stipulations, the Company, at its own cost and without
+unreasonable delay, shall provide for the defense of an
+insured in litigation in which any third party asserts a
+claim adverse to the title or interest as insured, but only
+as to those stated causes of action alleging a defect, lien
+or encumbrance or other matter insured against by this
+policy. The Company shall have the right to select counsel
+of its choice (subject to the right of the insured to object
+for reasonable cause) to represent the insured as to those
+stated causes of action and shall not be liable for and will
+ not pay the fees of any other counsel. The Company will not
+pay any fees, costs or expenses incurred by the insured in
+the defense of those causes of action which allege matters
+not insured against by this policy.
+ 
+(b) The Company shall have the right, at its own cost,
+to institute and prosecute any action or proceeding or to do
+any other act which in its opinion may be necessary or
+desirable to establish the title to the estate or interest
+ or the lien of the insured mortgage, as insured, or to
+prevent or reduce loss or damage to the insured. The
+ Company may take any appropriate action under the terms of
+this policy, whether or not it shall be liable hereunder,
+and shall not thereby concede liability or waive any
+provision of this policy. If the Company shall exercise its
+rights under this paragraph, it shall do so diligently. 
+6
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+(c) Whenever the Company shall have brought an action
+or interposed a defense as required or permitted by the
+provisions of this policy, the Company may pursue any
+litigation to final determination by a court of competent
+jurisdiction and expressly reserves the right, in its sole
+discretion, to appeal from any adverse judgment or order.
+ 
+(d) In all cases where this policy permits or requires
+the Company to prosecute or provide for the defense of any
+action or proceeding, the insured shall secure to the
+Company the right to so prosecute or provide defense in the
+action or proceeding, and all appeals therein, and permit
+the Company to use, at its option, the name of the insured
+for this purpose. Whenever requested by the Company, the
+insured, at the Company's expense, shall give the Company
+all reasonable aid (i) in any action or proceeding, securing
+evidence, obtaining witnesses, prosecuting or defending the
+action or proceeding, or effecting settlement, and (ii) in
+any other lawful act which the opinion of the Company may be
+necessary or desirable to establish the title to the estate
+or interest or the lien of the insured mortgage, as insured.
+If the Company is prejudice by the failure of the insured to
+furnish the required cooperation, the Company's obligations
+to the insured under the policy shall terminate, including
+any liability or obligation to defend, prosecute, or
+continue any litigation, with regard to the matter or
+matters requiring such cooperation.
+ 
+(Emphasis added.)
+ 
+Section 7 of the "Conditions and Stipulations" sets
+ 
+forth the "Determination and Extent of Liability" under the
+ 
+policy as follows:
+ 
+This policy is a contract of indemnity against actual
+monetary loss or damage sustained or incurred by the insured
+claimant who has suffered loss or damage by reason of
+matters insured against by this policy and only to the
+extent herein described.
+ 
+(a) The liability of the Company under this policy
+shall not exceed the least of:
+ 
+(i) the Amount of Insurance stated in Schedule A
+[$2.4 million], or, if applicable, the amount of insurance
+as defined in Section 2(c) of these Conditions and
+Stipulations; 
+(ii) the amount of the unpaid principal
+indebtedness secured by the insured mortgage as limited or
+provided under Section 8 of these Conditions and
+Stipulations or as reduced under Section 9 of these
+Conditions and Stipulations, at the time the loss or damage
+insured against by this policy occurs, together with
+interest thereon; or 
+(iii) the difference between the value of the
+insured estate or interest as insured and the value of the
+ insured estate or interest subject to the defect, lien or
+encumbrance insured against by this policy. 
+7
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+If litigation did occur, the Policy provided that
+ 
+Fidelity would not be liable for loss or damage "until there has
+ 
+been a final determination by a court of competent jurisdiction,
+ and disposition of all appeals therefrom, adverse to the title-or
+ to the lien of the insured mortgage, as insured."
+B. Stickney Lawsuit
+ 
+On November 17, 2005, the Stickney Lawsuit was filed by
+ 
+Stickney and Rand against Nagy and Anastasi to quiet title on the
+ Property. The Stickney plaintiffs alleged that Stickney's
+ signature had been forged on the Warranty Deed that purported to
+ convey the Property to Nagy. Anastasi was served with the
+ complaint on or around January 5, 2006, and immediately tendered
+ defense of the lawsuit to Fidelity. There is no dispute that
+ Fidelity promptly provided for Anastasi's defense by retaining
+ Ching to defend him. 
+On January 23, 2006, McGinnity sent a letter to
+ 
+Anastasi advising that Fidelity was accepting his tender of
+ defense for the Stickney Lawsuit, but reserving its rights. 
+McGinnity wrote that Fidelity reserved any and all rights it has,
+ including its right to: continue its investigation of the matter;
+ assert any defense which may become apparent as a result of its
+ investigation; withdraw its defense of Anastasi if it determined
+ Fidelity has no obligation; commence an action against Anastasi
+ on the issue of policy coverage; and deny liability for
+ indemnification and seek reimbursement of attorneys' fees and
+ settlement expenditures made on behalf of Anastasi. The letter
+ also informed Anastasi that Fidelity had retained Ching to
+ represent him in the Stickney Lawsuit. 
+In a letter dated January 27, 2006, Ching informed
+ 
+Anastasi that she and her law firm had been retained to represent
+ him in the Stickney Lawsuit. The letter stated that Ching would
+ be acting as counsel for Anastasi, not Fidelity, and that she
+ would not disclose any confidential communications from him to
+ Fidelity without his consent. The letter also stated inter alia
+ that "[i]t is [] my practice to provide Fidelity with periodic
+ 
+8
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+status reports on the status of cases in which I am representing
+ 
+you, including an assessment of the likelihood of success of the
+ defense of a claim." Further, Ching wrote, 
+[i]t is anticipated that Fidelity will provide
+recommendations and instructions to the law firm regarding
+the steps and procedures to be taken in defending or
+settling the Claim. I shall endeavor to keep you informed
+of such instructions and obtain your consent where
+appropriate to the procedures to be taken in defending or
+settling the title dispute.
+ 
+On October 6, 2006, the Stickney plaintiffs filed a 
+motion for summary judgment in the Stickney Lawsuit, seeking, 
+inter alia, an order establishing that Stickney was the owner of the Property and that neither Nagy nor Anastasi ever had any right, title, or interest in the Property. In Anastasi's memorandum in opposition, filed on October 25, 2006, Ching argued that summary judgment should be denied because 1) "Plaintiffs have not sustained their heavy burden to prove with clear and convincing evidence that Stickney's signature on the Warranty Deed is forged;" 2) "Plaintiffs have not sustained their heavy burden to overcome the presumptions of validity that attach to the Warranty Deed and its certificate of acknowledgment;" and 3) "there are genuine issues of material fact as to Plaintiffs' involvement in the alleged fraudulent forgery." Specifically, Ching argued that the only proof presented by the Stickney plaintiffs to prove that the signature was a forgery was Stickney's self-serving declaration, and that such evidence does not overcome the presumption of validity where execution of the Warranty Deed was done before a notary, Ogden Page (Page). Ching also argued that the "Plaintiffs' relationship with Talisman and Justmann raises genuine questions of material fact that remain to be resolved regarding, among other things, Plaintiffs' involvement in a scheme that left Nagy richer by $2.4 million, Anastasi poorer by the same amount and Plaintiffs in possession of the Hawai
+'i property." In her deposition testimony in the 
+instant case, attached to Fidelity's motion for summary judgment, 
+9
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+Ching testified that "[b]efore we lost the Summary Judgment
+ 
+motion, I thought we were going to win." 
+On April 11, 2007, the circuit court granted summary
+ 
+judgment for the Stickney plaintiffs. On April 20, 2007, Ching
+ filed a motion for reconsideration without, according to Ching,
+ any input from McGinnity. On October 23, 2007, the circuit court
+ denied the motion for reconsideration.
+ 
+In communications between Ching and McGinnity about a
+ 
+possible appeal in the Stickney Lawsuit, Ching expressed her view
+ that Anastasi would likely succeed on appeal but not on remand. 
+Ching recommended preserving Anastasi's appeal rights by filing
+ an appeal before the deadline that was only days away, and
+ McGinnity agreed. Ching filed a notice of appeal on November 21,
+ 2007. On February 27, 2008, the attorney for the Stickney
+ plaintiffs sent an email to Ching indicating that the plaintiffs
+ would accept Ching's offer of $10,000 to settle and the parties
+ would dismiss their respective appeals in the Stickney Lawsuit. 
+On August 14, 2008, the parties to the Stickney Litigation filed
+ a stipulation for dismissal of all claims remaining between the
+ parties.
+C. Appraisal by Harlin Young
+ 
+On February 28, 2008, Fidelity, through its coverage
+ 
+counsel, Clifford Frieden (Frieden), retained Harlin Young
+ (Young) to appraise the Property as of the date of the loss.
+4
+ 
+Young's appraisal was issued on April 30, 2008, and valued the
+ Property at the time of loss as $2,750,000.
+III. The Instant Action
+ 
+On April 8, 2008, while the Stickney Lawsuit was in its
+ 
+final stages and while Young was preparing his appraisal,
+ 
+4
+ As stated above, pursuant to Section 7 of the policy's Conditions and
+Stipulations, Fidelity's liability under the policy was limited to the lesser
+of: $2.4 million; "the amount of the unpaid principal indebtedness secured by
+the insured mortgage . . . at the time [of] loss[;]" or "the difference
+between the value of the insured estate or interest as insured and the value
+ of the insured estate or interest subject to the defect, lien or encumbrance
+insured against by this policy." Young's appraisal valued the Property as of
+January 6, 2006, which was the day that Anastasi presented the claim to
+Fidelity.
+ 
+10
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+Anastasi filed the complaint in the instant case against
+ 
+Fidelity, alleging breach of contract and bad faith, and
+ requesting a judgment directing Fidelity to pay $2.4 million plus
+ interest, general, special, consequential, compensatory and
+ punitive damages, and attorney's fees.
+ 
+On August 4, 2008, Fidelity paid Anastasi $2.4 million
+ 
+under the policy.
+A. Discovery Proceedings
+ 
+Anastasi sought to obtain various documents and
+ 
+information from Fidelity through discovery. Relevant to the
+ issues raised on appeal, Anastasi requested (1) all documents and
+ claim files relating to Anastasi, the Property or the claim,
+ which included documents authored or received by McGinnity, and
+ (2) information and documents related to Fidelity's processing of
+ other claims. It appears that Fidelity produced a number of
+ documents in discovery, but also objected to producing certain
+ documents or allowing certain depositions that it claimed were
+ privileged or beyond the scope of proper discovery.
+5
+ 
+On December 9, 2008, Anastasi filed a motion to compel
+ 
+discovery, asserting that Fidelity had raised unfounded
+ objections to his discovery requests. Anastasi sought discovery
+ of documents written or received by McGinnity which had been
+ withheld from production. Although Fidelity had produced
+ documents involving McGinnity, it had claimed that the attorney-
+client privilege and/or work-product doctrine protected the
+ documents that had been withheld.
+6 Anastasi argued that
+ 
+McGinnity's investigation documents could not be withheld under
+ the attorney-client privilege or work-product doctrine because
+ McGinnity served as a claims adjuster, and not an attorney. 
+5
+ The Declaration of Edmund K. Saffery, an attorney for Fidelity,
+states that "Fidelity has produced its non-privileged documents from its
+claims file along with other documents responsive to Plaintiff Lloyd R.
+Anastasi's [] discovery requests, which total over 8,700 pages."
+6
+ Fidelity had provided a privilege log to Anastasi indicating that
+Fidelity was invoking the attorney-client privilege and/or work-product
+doctrine for the listed documents.
+ 
+11
+  FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+Alternatively, he argued that he had shown substantial need for
+ 
+the documents.
+ 
+In his motion to compel discovery, Anastasi also sought
+ 
+an order requiring Fidelity to produce a variety of information
+ regarding other claims or cases in which: Fidelity had paid
+ claims in excess of $1 million; a judgment or award was entered
+ against Fidelity in excess of $1 million; or Fidelity had been
+ found liable for bad faith delay. Anastasi also sought other
+ claims information about government agency investigations, or
+ complaints to government agencies, that addressed bad faith delay
+ by Fidelity. Anastasi argued that he was entitled to such
+ information about Fidelity's "other claims" because he sought
+ punitive damages from Fidelity and needed to show the existence
+ of established policies or practices in Fidelity's claims
+ handling that are harmful to insureds. 
+7
+On March 17, 2009, the circuit court  issued an Order
+Granting in Part and Denying in Part Plaintiff's Motion to Compel
+ Discovery. As to the documents involving McGinnity, the order
+ stated: 
+1. The Court finds that the Declaration of Elizabeth
+ 
+McGinnity establishes that she is an attorney employed by
+Defendant and therefore, the attorney-client privilege and
+work product privilege may be applicable to documents
+generated and/or received by her.
+ 
+2. With respect to the documents withheld on the
+basis of privilege that were specifically identified in and
+subject to the Motion ("the privileged documents"),
+Defendant will review the privileged documents to determine
+if any additional documents may be produced to Plaintiff and
+will produce those documents to Plaintiff forthwith. If
+ 
+Defendant elects to continue to withhold any of the
+privileged documents, Defendant will produce those documents
+to the Court for an in camera review. The Court will
+ thereafter review each of the remaining privileged documents
+and determine whether Defendant's assertion of attorney-
+client and/or work-product privilege is proper, and if not,
+order the production of that document. 
+(Emphasis added.)
+ 
+7
+ This order was issued by the Honorable Glenn J. Kim.
+ 
+12
+  FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+Given the circuit court's admonition to determine if
+ 
+any additional McGinnity documents could be produced, Fidelity
+ 
+produced additional documents to Anastasi and then submitted the
+ remaining ten documents to the circuit court for in camera
+ review. Following the in camera review, the circuit court issued
+ 
+8
+an amended order on November 5, 2009,  ruling that Fidelity
+properly withheld all of the documents submitted in camera and
+ that "all of the documents are covered by the attorney-client
+
+ 
+privilege and/or the work product doctrine." 
+With regard to Anastasi's request for discovery of 
+"other claims" information, the circuit court's March 17, 2009 order initially denied without prejudice Anastasi's motion to compel such information. Subsequently, pursuant to HRCP Rule 30(b)(6), Anastasi issued a notice to take the depositions of Fidelity representatives with knowledge of specified "other claims" information. 
+In response, Fidelity filed a motion for 
+protective order to preclude inquiry into certain areas. In an order issued on March 10, 2010, the circuit court ruled that Anastasi was entitled to conduct discovery relating to: "inquiries, investigations, complaints and communications from or with government agencies relating to bad faith title insurance claims" involving Fidelity; and "lawsuits, arbitrations or court judgments involving bad faith title insurance claims" against Fidelity. However, the court limited such discovery to claims that arose in the State of Hawai
+'i, that arose or were resolved 
+between January 2006 and August 2008, and that involved allegations of delayed payment, forgery or improper setting of reserves. 
+B. Summary Judgment
+ 
+On March 19, 2010, Fidelity filed a motion for summary
+ 
+judgment on Anastasi's bad faith claim. Fidelity asserted inter
+ alia that its conduct, based on its interpretation of the
+ Policy's provisions, was reasonable, that it was entitled to
+ 
+8
+ The Honorable Rom A. Trader signed this order.
+ 
+13
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+assert its legal contractual rights, and that Ching's actions in
+ 
+defending the Stickney Lawsuit should be imputed to Anastasi.
+ 
+In opposing the motion, Anastasi asserted inter alia
+ 
+that Fidelity unreasonably withheld benefits under the policy by
+ pursuing fruitless litigation and directing Ching to continue
+ litigation after Fidelity learned the Warranty Deed was forged. 
+After a hearing on the motion, the circuit court issued
+ 
+an order on May 24, 2010, granting Fidelity's motion for summary
+ judgment. The order states, in relevant part: 
+1. The undisputed facts establish that during the
+course of the underlying case, Paul Stickney et al. v. Nagy
+et al., Civil No. 05-1-2065-11 in the Circuit Court of the
+First Circuit, State of Hawaii ("Stickney Litigation"),
+Fidelity immediately accepted Plaintiff Anastasi's tender of
+the defense of the claims asserted against him by Paul
+Stickney and Gregory Rand ("Stickney Plaintiffs") and fully
+and timely investigated Plaintiff Anastasi's claim. 
+2. In accordance with the Hawaii Supreme Court's
+holding in Best Place, Inc. v. Penn [America] Ins. Co., 82Hawai'i 120, 920 P.2d 334 (1996), Fidelity acted reasonably
+in its interpretation of the terms and provisions of thetitle insurance policy (the "Policy") issued to PlaintiffAnastasi when it chose to defend the claims asserted againsthim in the Stickney Litigation; particularly since Fidelityhad been told by attorney Jade Ching that she believed theclaim against Plaintiff Anastasi was defensible because,among other things, the alleged forgery of the Warranty Deedat issue in the Stickney Litigation might have been securedwith the complicity of the Stickney Plaintiffs as well asother parties in the Stickney Litigation. Given these undisputed facts, the Court finds that Fidelity was entitledto exercise its legal and contractual rights under thePolicy to defend Plaintiff Anastasi against the claimsalleged against him in the Stickney Litigation and to pursuethat defense to a final determination. 
+3. While it is undisputed that the Stickney
+Plaintiffs' motion for summary judgment was ruled adversely
+to Plaintiff Anastasi and that a decision was made to file
+ both a motion for reconsideration of that ruling and an
+appeal when the motion for reconsideration was denied, these
+facts do not support a finding that Fidelity acted in bad
+faith in its handling of Plaintiff Anastasi's claim. 
+4. Plaintiff Anastasi has failed to adduce any
+evidence to raise a genuine issue of material fact as to
+whether Fidelity controlled and/or directed Plaintiff
+Anastasi's attorneys at Alston Hunt Floyd & Ing in their
+defense of Plaintiff Anastasi in the Stickney Litigation.
+The undisputed facts establish that Fidelity defended the
+Stickney Litigation under a reservation of rights and that
+in accordance with its obligations under Finley vs. Home
+Insurance [Company], 90 Hawai'i 25, 957 P.2d 1145 (1998),
+gave Plaintiff Anastasi's attorneys full rein to conduct the
+defense of their client as they deemed appropriate. 
+14
+ FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+155.  Plaintiff Anastasi has not adduced any evidence to
+support the conclusion that Fidelity directed Plaintiff
+Anastasi's attorneys to delay a resolution of the Stickney
+Litigation for the purpose of allowing Fidelity to forestall
+the payment of benefits to Plaintiff Anastasi under the
+Policy.  Any delay in the resolution of the Stickney
+Litigation was the natural byproduct of the defense strategy
+employed by the Alston Hunt Floyd & Ing attorneys which, as
+a matter of law, must be imputed to him.
+ 
+6.  Fidelity's decision to pay for the work performed
+by two appraisers, James Hallstrom and Stellmacher &
+Sadoyama, and its decision to order an appraisal from Harlin
+Young to determine the amount of the loss under the Policy
+were consistent with and in accordance with the reasonable
+interpretation of Fidelity's rights under the Policy.
+In light of the foregoing, and pursuant to Rule 56 of
+the Hawaii Rules of Civil Procedure, the Court finds that
+there is no genuine issue of material fact as to Plaintiff's
+claim for Breach of Duty of Good Faith and Fair Dealing
+(Count II) against Fidelity and as such, Fidelity's Motion
+for Summary Judgment as to Count II is hereby GRANTED. 
+On May 24, 2010, the circuit court also entered its
+HRCP Rule 54(b) judgment dismissing Anastasi's bad faith claim. 
+On June 8, 2010, Anastasi timely filed a notice of appeal. 
+C.  Award of Costs to Fidelity
+ On June 7, 2010, a day before Anastasi filed his
+notice of appeal, Fidelity filed a notice of taxation of costs
+and bill of costs.  On June 21, 2010, Fidelity filed a Motion for
+Taxation of Costs.
+In an order issued on August 25, 2010, the circuit
+court granted costs to Fidelity in the amount of $25,471.72,
+stating:
+1. The Court has jurisdiction to consider Fidelity's
+Motion for Taxation of Costs as Fidelity's Notice of
+Taxation of Costs/Bill of Costs, filed on June 7, 2010
+meets the requirements of a motion and was timely
+submitted to the Court for its consideration; 
+2.Fidelity is the prevailing party; and 
+3.The costs requested are reasonable. 
+IV.  Standards of Review
+A.  Discovery Rulings
+"We review a trial court's ruling on a motion to compel
+discovery under an abuse of discretion standard.  An abuse of
+discretion occurs when the trial court has clearly exceeded theFOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+bounds of reason or disregarded rules or principles of law or
+ 
+practice to the substantial detriment of a party litigant." Save
+ 
+Sunset Beach Coal. v. City & Cnty. of Honolulu, 102 Hawai 'i 465, 
+484, 78 P.3d 1, 20 (2003) (citations and internal quotation marks
+ omitted).
+ 
+Similarly, we review a protective order issued by a
+ 
+trial court pursuant to HRCP Rule 26(c) under the abuse of
+ discretion standard. Doe v. Doe, 120 Hawai
+'i 149, 165, 202 P.3d 
+610, 626 (App. 2009) (citing Kukui Nuts of Hawaii Inc. v. R.
+ Baird & Co., Inc., 7 Haw. App. 598, 620-21, 789 P.2d 501, 515
+ (1990)).
+B. Summary Judgment
+ 
+On appeal, the grant or denial of summary judgment is
+reviewed de novo. See State ex rel. Anzai v. City and
+ 
+County of Honolulu, 99 Hawai' i 508, [515], 57 P.3d 433,
+[440] (2002); Bitney v. Honolulu Police Dep't, 96 Hawai' i 
+243, 250, 30 P.3d 257, 264 (2001). 
+[S]ummary judgment is appropriate if the pleadings,
+depositions, answers to interrogatories, and admissions
+on file, together with the affidavits, if any, show
+that there is no genuine issue as to any material fact
+and that the moving party is entitled to judgment as a
+matter of law. A fact is material if proof of that
+fact would have the effect of establishing or refuting
+one of the essential elements of a cause of action or
+ defense asserted by the parties. The evidence must be
+ viewed in the light most favorable to the non-moving
+party. In other words, we must view all of the
+evidence and inferences drawn therefrom in the light
+most favorable to the party opposing the motion.
+ 
+Kahale v. City and County of Honolulu, 104 Hawai' i 341, 344,
+90 P.3d 233, 236 (2004) (citation omitted). 
+Nuuanu Valley Ass'n v. City & Cnty. of Honolulu, 119 Hawai 'i 90, 
+96, 194 P.3d 531, 537 (2008).
+ 
+A summary judgment motion challenges the very existence
+or legal sufficiency of the claim or defense to which it is
+addressed. In effect the moving party takes the position
+that he is entitled to prevail because his opponent has no
+valid claim for relief or defense to the action, as the case
+may be. He thus has the burden of demonstrating that there
+is no genuine issue as to any material fact relative to the
+claim or defense and he is entitled to judgment as a matter
+of law.
+ 
+He may discharge his burden by demonstrating that if
+the case went to trial there would be no competent evidence
+to support a judgment for his opponent. For if no evidence
+ 
+16
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+could be mustered to sustain the nonmoving party's position,
+a trial would be useless."
+ 
+First Hawaiian Bank v. Weeks, 70 Haw. 392, 396-97, 772 P.2d 1187, 
+1190 (1989) (citations, internal quotation marks, brackets and ellipses omitted). "Only when the moving party satisfies its initial burden of production does the burden shift to the non-moving party to respond to the motion for summary judgment and demonstrate specific facts, as opposed to general allegations, that present a genuine issue worthy of trial." Jou v. Dai-Tokyo 
+Royal State Ins. Co., 116 Hawai
+'i 159, 164, 172 P.3d 471, 476 
+(2007) (citations and block quote format omitted).
+V. Discussion
+ 
+A. Appellate Jurisdiction
+ 
+We first address Fidelity's contention that we lack
+ 
+appellate jurisdiction to review the circuit court's discovery
+ 
+orders. Fidelity argues that the only issue "certified for
+ appeal" by the circuit court pursuant to HRCP Rule 54(b)
+9 was
+ 
+judgment on the bad faith claim, and thus the interlocutory
+ discovery orders are not properly before this court. We disagree
+ with Fidelity that the circuit court needed to "certify" its
+ discovery orders pursuant to HRCP Rule 54(b) for this court to
+ have jurisdiction to review those orders. However, under the
+ 
+9 HRCP Rule 54(b) provides
+ 
+(b) Judgment Upon Multiple Claims or Involving Multiple
+Parties. When more than one claim for relief is presented in
+an action, whether as a claim, counterclaim, cross-claim, or
+third-party claim, or when multiple parties are involved,
+the court may direct the entry of a final judgment as to one
+or more but fewer than all of the claims or parties only
+upon an express determination that there is no just reason
+for delay and upon an express direction for the entry of
+judgment. In the absence of such determination and
+ direction, any order or other form of decision, however
+designated, which adjudicates fewer than all the claims or
+the rights and liabilities of fewer than all the parties
+shall not terminate the action as to any of the claims or
+parties, and the order or other form of decision is subject
+to revision at any time before the entry of judgment
+adjudicating all the claims and the rights and liabilities
+of all the parties.
+ 
+(Emphasis added.)
+ 
+17
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+appropriate analysis discussed below, we conclude that we have
+ 
+appellate jurisdiction to review only the discovery orders
+ addressing the McGinnity documents, and not the discovery orders
+ addressing information about "other claims" handled by Fidelity.
+ 
+We must determine in each appeal whether we have 
+appellate jurisdiction. Jenkins v. Cades Schutte Fleming & 
+Wright, 76 Hawai
+'i 115, 119, 869 P.2d 1334, 1338 (1994); Kernan 
+v. Tanaka, 75 Haw. 1, 15, 856 P.2d 1207, 1215 (1993).
+ 
+In Weinberg v. Mauch, 78 Hawai 'i 40, 890 P.2d 277 
+(1995), the Hawai 'i Supreme Court recognized that "when an order 
+is properly certified pursuant to HRCP Rule 54(b), the certification 'necessarily render[s] every preliminary ruling upon which it was predicated final and appealable as well.'" Id. at 46, 890 P.2d at 283 (quoting S. Utsunomiya Enters., Inc. v. Moomuku Country Club, 75 Haw. 480, 495, 866 P.2d 951, 960 (1994)); see also Cook v. Surety Life Ins., Co., 79 Hawai
+'i 403, 
+409, 903 P.2d 708, 714 (App. 1995) ("Irrespective of whether the Order was a collateral order or an order certified pursuant to HRCP Rule 54(b), this court will only consider other orders which were preliminary rulings upon which the subject Order was predicated or were part of the series of orders which collectively led to that Order."); Riethbrock v. Lange, 128 Hawai
+'i 1, 17-18, 282 P.3d 543, 559-60 (2012) (recognizing the 
+rulings in Cook and Weinberg, and holding that the appellate court lacked jurisdiction to review an order that was not a preliminary ruling upon which the appealed order was predicated).
+10 
+Rule 54(b) of the Federal Rules of Civil Procedure
+ 
+(FRCP) is materially similar to HRCP Rule 54(b), thus federal
+ 
+10 Relying on Swint v. Chambers County Commission, 514 U.S. 35 (1995), 
+Anastasi also argues that we should exercise "pendent appellate jurisdiction"
+to review rulings that are "inextricably intertwined" with the bad faithruling that is before us in this appeal. In Swint, however, the United StatesSupreme Court rejected the exercise of pendent appellate jurisdiction by theEleventh Circuit Court in that case, id. at 51, and it is debatable to whatextent pendent appellate jurisdiction is recognized in the federal courts.Such jurisdiction has not been recognized in Hawai' i. 
+18
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+authority in this area is also helpful to guide our analysis. 
+Kawamata Farms, Inc. v. United Agri Prod., 86 Hawai 'i 214, 255, 
+948 P.2d 1055, 1096 (1997). FRCP Rule 54(b) has been analyzed as follows: 
+A proper Rule 54(b) judgment is a final judgment for
+all purposes on the adjudicated claims. When an appeal is
+taken from a final judgment, all interlocutory orders of the
+[court] leading up to the judgment merge into the final
+judgment and become appealable at that time. Accordingly,
+when judgment is entered under Rule 54(b), a timely notice
+of appeal brings up for review all interlocutory decisions
+and orders implicated by the judgment.
+ 
+10 Moore's Federal Practice § 54.28[3][c] (3d ed. 2009) (emphasis
+ 
+added) (citations omitted). In Meadaa v. K.A.P. Enterprises,
+ L.L.C., 756 F.3d 875 (5th Cir. 2014), the Fifth Circuit Court of
+ Appeals noted that "[o]n appeals from Rule 54(b) judgments, this
+ court has reviewed discovery and other interlocutory orders that
+ underlie those judgments." Id. at 879 (emphasis added).
+ 
+Contrary to Fidelity's argument, we see no basis for a
+ 
+trial court to explicitly certify a discovery ruling under HRCP
+ Rule 54(b). The rule deals with "entry of a final judgment as to
+ one or more but fewer than all of the claims or parties . . . ." 
+HRCP Rule 54(b) (emphasis added). The rule does not reference
+ application to preliminary or interlocutory orders, such as
+ discovery rulings.
+ 
+We thus consider whether the discovery orders 
+challenged by Anastasi were preliminary rulings upon which the judgment on the bad faith claim was predicated or which were implicated by the judgment. We conclude the circuit court's rulings on the McGinnity documents were a predicate to the bad faith judgment and/or implicated by the judgment. Anastasi sought documents related to Fidelity's handling of his claim in order to discover what facts were known by Fidelity, and when, so that he could demonstrate that Fidelity unreasonably delayed payment under the title policy. The bad faith test adopted in Hawai
+'i establishes that "an insurer may face liability under a 
+bad faith tort action if it fails to deal fairly and in good faith with its insured by refusing, without proper cause, to 
+19
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+compensate its insured for a loss covered by the policy." Best 
+Place, Inc. v. Penn America Ins. Co., 82 Hawai 'i 120, 132-33, 920 
+P.2d 334, 346-47 (1996) (citation and quotation marks omitted). 
+Moreover, given the enhanced standard of good faith that applies in this case because Fidelity defended Anastasi under a reservation of rights, see Finley v. Home Insurance Company, 90 Hawai
+'i 25, 36-37, 975 P.2d 1145, 1156-57 (1998), Anastasi also 
+contends that Fidelity improperly controlled Ching in the Stickney Lawsuit and that Fidelity was more concerned about its financial interests than its obligations to Anastasi. Because McGinnity was significantly involved in Anastasi's claim, the McGinnity documents withheld by Fidelity could have had an impact on the bad faith ruling if the circuit court's discovery ruling was erroneous. Therefore, we have appellate jurisdiction to review the circuit court's orders precluding discovery of the McGinnity documents. 
+On the other hand, we do not have appellate
+ 
+jurisdiction regarding the circuit court's discovery order that
+ limited the "other claims" information that Anastasi could obtain
+ from Fidelity. In Anastasi's briefing to the circuit court and
+ this court, and as acknowledged at oral argument, he seeks the
+ "other claims" information in order to establish punitive
+ damages. That is, he seeks to show that Fidelity's conduct in
+ other cases supports a finding that Fidelity had ongoing policies
+ and practices harmful to its insureds, that it thus acted
+ deliberately in this case, and punitive damages should be
+ awarded. However, such potential facts about other claims
+ relevant to punitive damages would not be a predicate to, or be
+ implicated in, whether summary judgment was proper in the first
+ instance as to the alleged bad faith handling of Anastasi's claim
+ in this case.
+ 
+Therefore, we have appellate jurisdiction only as to
+ 
+the circuit court's discovery rulings related to the McGinnity
+ documents.
+ 
+20
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+B. Discovery Ruling Regarding McGinnity Documents
+ 
+The circuit court ruled that Fidelity need not produce
+ 
+the ten withheld documents involving McGinnity because they were
+ 
+covered by the attorney-client privilege and/or work-product
+ doctrine. As noted in a privilege log prepared by Fidelity, the
+ ten documents were either authored or received by McGinnity. The
+ privilege log also identifies: the number of pages for each
+ document, the type of document (i.e. email, handwritten notes,
+ letter, memorandum, or report), the author and recipient(s), the
+ date (if any), the subject, and the type of privilege asserted by
+ Fidelity (i.e. attorney-client privilege, work-product doctrine,
+ or both). Based on the privilege log, Fidelity claims the
+ attorney-client privilege for documents 6, 8, 15, 24, 25, 157,
+ 158, and 159. Fidelity claims the work-product doctrine for
+ documents 17, 67, 157, 158, and 159 (thus claiming both the
+ privilege and the work-product doctrine for documents 157, 158
+ and 159).
+ 
+Anastasi's arguments regarding the withheld McGinnity
+ 
+documents are somewhat diffuse and imprecise. However, as
+ Fidelity recognizes, it appears that Anastasi's arguments can be
+ summarized as follows: (1) Anastasi's assertion of a bad faith
+ claim eviscerates any privilege that would otherwise attach to
+ McGinnity's communications; (2) McGinnity acted as a claims
+ adjuster, not an attorney, and thus the attorney-client privilege
+ and work-product doctrine do not apply; and (3) because Fidelity
+ named McGinnity as a witness regarding her handling of Anastasi's
+ claim, it opened up her claims file to discovery.
+11
+ 
+Fidelity responds that the assertion of a bad faith
+ 
+claim does not nullify the attorney-client privilege or any
+ immunity under the work-product doctrine, and that Anastasi
+ incorrectly characterizes McGinnity as merely a claims adjuster
+ in this case. Fidelity argues that McGinnity provided legal
+ 
+11 There is no contention in this case that Fidelity is asserting an
+advice of counsel defense. That is, Fidelity does not assert that it acted in
+good faith because it relied on the advice of legal counsel. 
+21
+  FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+advice regarding Fidelity's rights and obligations as to
+ 
+Anastasi's claim under the policy, and that it was necessary to
+ involve an attorney because of the complex problems inherent in
+ title insurance disputes, which involve insurance, property and
+ contract legal issues. Fidelity also argues that it did not
+ waive any privilege or immunity by naming McGinnity as a witness
+ or allowing her to be deposed. Fidelity relies on McGinnity's
+ declaration, submitted in opposition to Anastasi's motion to
+ compel, in which McGinnity states in pertinent part:
+ 
+1. I am a Senior Vice-President and Major Claims
+Counsel for [Fidelity], Defendant in the above-entitled
+matter.
+ 
+2. I have been an attorney for twenty-nine (29) years
+and am licensed to practice law in the States of Illinois
+and Indiana.
+ 
+. . . .
+ 
+5. On or around January 6, 2006, Mr. Anastasi tendered
+to Fidelity the defense of a complaint filed in [the
+Stickney Lawsuit].
+ 
+6. Pursuant to my role as Major Claims Counsel, I
+investigated, analyzed and rendered legal advice in
+connection with the allegations made against the interests
+of our insured (the "Claim") in the Stickney lawsuit by
+making an initial determination on whether the Claim was at
+least potentially covered by the Policy, as well as
+determining what other actions to take in response to the
+Claim. The fact that an attorney was assigned to perform
+these tasks was not an accident. Title insurance
+ indemnifies against loss caused by a multitude of potential
+problems that affect the title or interest of an insured in
+real property. . . .
+ 
+7. As Major Claims Counsel, I am tasked upon receiving
+a claim for coverage with reviewing the title insurance
+policy issued by Fidelity, investigating the factual basis
+of the claim, evaluating the merits of the claim from not
+only a factual, but a legal standpoint and evaluating
+whether the claim falls within the insurance provisions
+and/or exclusions of the Policy. It is only after this is
+done that I provide a legal recommendation to Fidelity as to
+how to respond to the claim. All of these functions were
+ performed by me with regard to the Claim tendered to
+Fidelity by Mr. Anastasi.
+ 
+8. Upon receiving the complaint filed in the Stickney
+lawsuit, it was evident that Fidelity would likely have to
+engage in litigation against other parties to protect both
+Mr. Anastasi's and/or Fidelity's interest. The Complaint
+filed in the Stickney lawsuit alleged, inter alia, claims
+for fraud and conspiracy against Alajos Nagy and "others
+currently unknown at this time." Pursuant to the terms of
+ the Policy, Fidelity had the right to bring claims against
+ 
+22
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+these "other" parties to recover, to the extent possible,
+any amounts that might have to be paid under the Policy. In
+ addition, if the facts adduced in discovery or trial showed
+that Mr. Anastasi was involved in the alleged fraud and
+conspiracy described in the Complaint, I anticipated at the
+time the Claim was tendered that a coverage dispute
+resulting in litigation might ensue between Fidelity and
+Mr. Anastasi.
+ 
+9. After conducting an initial legal and factual
+investigation of the Claim, I determined that Fidelity
+should provide a defense to Mr. Anastasi under a reservation
+of rights. After that determination was made, I sent a
+letter to Mr. Anastasi dated January 23, 2006. That letter,
+a true and correct copy of which is attached hereto as
+Exhibit "B," sets forth Fidelity's initial coverage position
+and gave notice to Mr. Anastasi that Fidelity was providing
+a defense to him under a reservation of rights. My letter
+also informed Mr. Anastasi that Fidelity retained Jade Lynne
+Ching of the law firm of Alston Hunt Floyd & Ing to
+represent him in the Stickney lawsuit. Mr. Anastasi never
+ communicated to me, nor am I aware of any communication by
+him to Fidelity, that he objected either to Fidelity's
+retention of the Alston Hunt firm or Fidelity's decision to
+contest the claims alleged in the Stickney lawsuit.
+ 
+In presenting their arguments on appeal, the parties
+ 
+make no meaningful distinction between the attorney-client
+ 
+privilege and the work-product doctrine, and instead argue both
+ in a combined fashion. However, the attorney-client privilege
+ and the work-product doctrine are distinct from each other and
+ require separate consideration. See Save Sunset Beach, 102
+ 
+Hawai
+'i at 484, 78 P.3d at 20. We first consider Fidelity's 
+assertion of the attorney-client privilege and then its claim
+ under the work-product doctrine.
+1. 	Attorney-Client Privilege
+ 
+a.	 Assertion of a bad faith claim does not nullify
+the attorney-client privilege
+ 
+Relying on cases from jurisdictions outside of Hawai
+'i, 
+Anastasi argues that the attorney-client privilege should not
+ 
+apply in the context of a bad faith lawsuit. For example,
+ Anastasi contends this court should adopt the rule that was
+ adopted in Cedell v. Farmers Insurance Company of Washington, 295
+ P.3d 239 (Wash. 2013), in which the Washington Supreme Court held
+
+ 
+that
+ 
+in first party insurance claims by insured's claiming bad
+faith in the handling and processing of claims, other than
+ 
+23
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+[under insured motorist] claims, there is a presumption of
+no attorney-client privilege. However, the insurer may
+assert an attorney-client privilege upon a showing in camera
+that the attorney was providing counsel to the insurer and
+not engaged in a quasi-fiduciary function.
+ 
+Id. at 246; see also Stewart Title Guar. Co. v. Credit Suisse,
+ 
+Cayman Island Branch, No. 1:11-CV-227-BLW, 2013 WL 1385264, at
+ *4-6 (D. Idaho Apr. 3, 2013) (mem) (adopting the Cedell
+ standard). In Cedell, the Washington Supreme Court created an
+ exception to Washington's attorney-client privilege. The
+ statutory provision setting out the privilege in Washington is
+ fairly limited. See Revised Code of Washington (RCW) § 5.60.060
+ 
+(Supp. 2013). In Hawai
+'i, however, the attorney-client privilege 
+has been codified in much more detail, and we must consider and
+ apply the privilege as it has been legislatively adopted in
+ Hawai
+'i. The rule adopted in Cedell is inconsistent with the 
+privilege as codified in Hawai 'i. 
+In Hawai 'i, the attorney-client privilege is set forth 
+in Rule 503 of the Hawai 'i Rules of Evidence (HRE).12 HRE Rule 
+503(b) provides in pertinent part:
+ 
+(b) General rule of privilege. A client has a
+ 
+privilege to refuse to disclose and to prevent any other
+person from disclosing confidential communications made for
+the purpose of facilitating the rendition of professional
+legal services to the client (1) between the client or the
+client's representative and the lawyer or the lawyer's
+representative, or (2) between the lawyer and the lawyer's
+representative, or (3) by the client or the client's
+representative or the lawyer or a representative of the
+lawyer to a lawyer or a representative of a lawyer
+representing another party in a pending action and
+concerning a matter of common interest, or (4) between
+representatives of the client or between the client and a
+representative of the client, or (5) among lawyers and their
+representatives representing the same client.
+ 
+(Emphasis added.) HRE Rule 503(a)(1) defines a "client" as "a
+ 
+person, public officer, or corporation, association, or other
+ organization or entity, either public or private, who is rendered
+ 
+12 The HRE as a whole were enacted in 1980 pursuant to Hawaii Revised
+Statutes (HRS) Chapter 626. The HRE resulted from a "joint and coordinated
+endeavor of both the judiciary and legislative branches[,]" in that the
+Judiciary submitted the proposed HRE to the Legislature for enactment. See S.
+ 
+Stand. Comm. Rep. No. 22-80, in 1980 Senate Journal, at 1029-31.
+ 
+24
+ FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+  HRE Rule 503(d) provides:13
+25(d) Exceptions.  There is no privilege under this rule:
+(1)Furtherance of crime or fraud.  If the services of the
+lawyer were sought, obtained, or used to enable or aid
+anyone to commit or plan to commit what the client knew
+or reasonably should have known to be a crime or fraud;
+(2)Prevention of crime or fraud.  As to a communication
+reflecting the client's intent to commit a criminal or
+fraudulent act that the lawyer reasonably believes is
+likely to result in death or substantial bodily harm,
+or in substantial injury to the financial interests or
+property of another;
+(3)Claimants through same deceased client.  As to a
+communication relevant to an issue between parties who
+claim through the same deceased client, regardless of
+whether the claims are by testate or intestate
+succession or by inter vivos transaction;
+(4)Breach of duty by lawyer or client.  As to a
+communication relevant to an issue of breach of duty by
+the lawyer to the client or by the client to the
+lawyer;
+(5)Document attested by lawyer.  As to a communication
+relevant to an issue concerning an attested document to
+which the lawyer is an attesting witness;
+(6)Joint clients.  As to a communication relevant to a
+matter of common interest between two or more clients
+if the communication was made by any of them to a
+lawyer retained or consulted in common, when offered in
+an action between any of the clients; or
+(7)Lawyer's professional responsibility.  As to a
+communication the disclosure of which is required or
+authorized by the Hawaii rules of professional conduct
+for attorneys.professional legal services by a lawyer, or who consults a lawyer
+with a view to obtaining professional legal services."  In turn,
+HRE Rule 503(a)(3) defines a "lawyer" as "a person authorized, or
+reasonably believed by the client to be authorized, to practice
+law in any state or nation."  Nothing within the general terms of
+HRE Rule 503 suggest that the attorney-client privilege is
+inapplicable when a bad faith claim is asserted.
+It is also significant to note that HRE Rule 503(d)
+contains a list of seven exceptions for which "[t]here is no
+privilege under this rule[,]"13 and there is no exception therein
+precluding application of the attorney-client privilege because a
+bad faith claim has been asserted.
+The attorney-client privilege has long been recognized
+in Hawai# i, first under common law and then pursuant to HRE Rule
+503.  See DiCenzo v. Izawa,  68 Haw. 528, 535, 723 P.2d 171, 175FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+(1986) (noting that HRE Rule 503 "codified the common-law 
+attorney-client privilege long recognized by the courts of Hawaii"); Sapp v. Wong, 62 Haw. 34, 38-40, 609 P.2d 137, 140-41 (1980) (discussing the common-law doctrine of attorney-client privilege); Wery v. Pac. Trust Co., 33 Haw. 701, 704 (Haw. Terr. 1936) (discussing the common-law standard for attorney-client privilege). "The attorney-client privilege is the oldest of the privileges for confidential communications known to the common law." Upjohn Co. v. United States, 449 U.S. 383, 389 (1981). 
+"The underlying principle of [the attorney-client] privilege is to encourage full and frank communication between attorneys and their clients and thereby promote broader public interests in the observance of law and administration of justice." Save Sunset 
+Beach, 102 Hawai
+'i at 484, 78 P.3d at 20 (citations, internal 
+quotation mark and brackets omitted). "The privilege is bottomed on assumptions that lawyers can act effectively only if they are fully advised of the facts by the parties they represent and disclosure will be promoted if the client knows that what he tells his lawyer cannot be extorted from the lawyer[.]" DiCenzo, 
+68 Haw. at 535, 723 P.2d at 175 (citations, internal quotation marks, and ellipses omitted). 
+Bad faith claims, like other types of claims alleging
+ 
+corporate or company misconduct, can present a challenging
+ context in which to determine whether the attorney-client
+ privilege applies. Nonetheless, an insurer such as Fidelity can
+ no doubt come within the definition of a "client" under HRE Rule
+ 503(a)(1), and the purpose underlying the attorney-client
+ privilege applies when a confidential communication is made
+ between persons covered by HRE Rule 503 for the purpose of
+ facilitating the rendition of legal services to an insurer. 
+There is nothing in HRE Rule 503 to suggest that the privilege
+ does not apply merely because a bad faith claim has been
+ asserted. We thus do not accept Anastasi's contention that his
+ bad faith claim against Fidelity nullifies any attorney-client
+ privilege that would otherwise apply.
+ 
+26
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+b. McGinnity's dual roles in addressing Anastasi's
+claim for title insurance
+ 
+The parties shape their arguments about the privilege
+ 
+based on how they characterize McGinnity's role in this case,
+ 
+with Anastasi asserting that McGinnity acted as a claims adjuster
+ and with Fidelity focusing on her role as Major Claims Counsel. 
+Part of the difficulty in this case is that McGinnity appears to
+ have, in effect, acted in both capacities. She appears to have
+ played a central role in the overall handling of Anastasi's
+ claim, while also conducting legal analysis and providing her
+ recommendations on the matter.
+ 
+Fidelity has implicitly recognized McGinnity's dual
+ 
+roles in that, although it has asserted the attorney-client
+ privilege and work-product doctrine related to McGinnity, it has
+ also: named McGinnity as a witness with respect to "liability and
+ damages, including, but not limited to, matters related to her
+ handling of Mr. Anastasi's claim and communications with
+ Mr. Anastasi's attorney, Jade Ching, concerning Ms. Ching's
+ strategy in defending the claim against Mr. Anastasi and her
+ reasons for believing that the claim against her client was
+ defensible"; produced various documents relevant to McGinnity's
+ activities on the claim; and allowed McGinnity to be deposed,
+ subject to a stipulation with Anastasi that McGinnity's
+ deposition and the production of documents in relation to her
+ deposition did not waive the attorney-client privilege or any
+ work-product immunity to the extent they existed.
+ 
+In this context, we must determine whether the circuit
+ 
+court abused its discretion in precluding discovery of documents
+ 6, 8, 15, 24, 25, 157, 158, and 159, which were withheld by
+ Fidelity based on its assertion of the attorney-client privilege. 
+We are mindful that the party claiming the privilege has the
+ burden of establishing that the privilege exists and that it
+ applies as asserted. DiCenzo, 68 Haw. at 536, 723 P.2d at 176;
+ 
+Sapp, 62 Haw. at 38, 609 P.2d at 140. Additionally, because the
+ privilege "works to suppress otherwise relevant evidence and
+ 
+27
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+forestall a search for truth, the limitations which restrict the
+ 
+scope of its operation must be assiduously heeded. Put another
+ way, the privilege must be strictly limited to the purpose for
+ which it exists." DiCenzo, 68 Haw. at 535, 723 P.2d at 175
+ 
+(citations, internal quotation marks and ellipsis omitted). 
+Based on our review of the record and the eight
+ 
+documents that Fidelity claims are subject to the attorney-client
+ privilege, there does not appear to be any question that the
+ documents were treated as confidential. It also appears that 
+confidential communications between McGinnity and Frieden, an
+ attorney retained by Fidelity to investigate and review coverage
+ of Anastasi's claim, are privileged.
+14 Indeed, Anastasi
+ 
+expressly states in his Reply Brief that he does not question the
+ privilege between Fidelity and Frieden. It therefore appears
+ that memorandums from Frieden to McGinnity, which are a part of
+ documents 157 and 158,
+15 are privileged. Additionally,
+ 
+confidential communications between McGinnity and a
+ representative of Frieden would also be privileged, see HRE
+ 503(a)(4) and (b), and therefore documents 24 and 25 appear to be
+ privileged.
+ 
+The remaining communications in documents 6, 8, 15,
+ 
+157, 158, and 159 are between McGinnity and other employees,
+ executives and/or attorneys within Fidelity. Given Fidelity's
+ claim that McGinnity was acting as Fidelity's lawyer
+16 in
+ 
+authoring or receiving these documents, whether these
+ communications are privileged and were between persons covered by
+ the privilege depends on whether the communications involved the
+ rendition of professional legal services. As an overall matter,
+ the communications must be "made for the purpose of facilitating
+ 
+14 Frieden is a partner in the law firm of Rutan & Tucker, LLP, and is
+not an employee of Fidelity.
+15 Documents 157 and 158 each consist of three separate documents.
+ 
+16 HRE Rule 503(a)(3) defines a "lawyer" as "a person authorized, or
+reasonably believed by the client to be authorized, to practice law in any
+state or nation."
+ 
+28
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+the rendition of professional legal services . . . ." HRE Rule
+ 
+503(b). Moreover, the definitions of a "client,"17 a
+ 
+18
+"representative of the client,"  or other lawyers representing
+the same "client" ultimately hinge on whether the rendering or
+
+ 
+obtaining of legal services was involved.
+ 
+Given McGinnity's dual roles in this case, it is not 
+evident from the information provided by Fidelity (such as McGinnity's declaration) or the documents themselves that each of documents 6, 8, 15, 157, 158, and 159 were made for the purpose of facilitating the rendition of professional legal services. Hawai
+'i appellate courts have not previously addressed a claim of 
+privilege in a context similar to this case. We therefore consider how courts in other jurisdictions have addressed a claim of privilege where an in-house attorney has acted both as legal counsel and in other capacities. Having reviewed numerous cases that touch on the issue, we believe the appropriate analysis is to consider whether a communication is "primarily or predominantly of a legal character." Rossi v. Blue Cross & Blue 
+Shield of Greater N.Y., 540 N.E.2d 703, 706 (N.Y. 1989). See 
+also Alexander C. Black, Annotation, What Corporate Communications Are Entitled to Attorney-Client Privilege - Modern Cases, 27 A.L.R. 5th 76, §41 (1995) (discussing cases in which courts determined that special scrutiny was required when corporate communications involving in-house counsel are claimed to be privileged). The discussion in Rossi is consistent with Hawai
+'i case law directing that the privilege be strictly limited 
+to its purpose. See DiCenzo, 68 Haw. at 535, 723 P.2d at 175.19 
+17 HRE Rule 503(a)(1) defines a "client" as "a person, public officer,
+or corporation, association, or other organization or entity, either public or
+private, who is rendered professional legal services by a lawyer, or who
+consults a lawyer with a view to obtaining professional legal services."
+18
+ HRE Rule 503(a)(2) defines a "representative of the client" as "one
+having authority to obtain professional legal services, or to act on advice
+rendered pursuant thereto, on behalf of the client."
+19 We looked closely at the approach in California addressing counsel
+serving in dual roles, but do not find that approach particularly compatible
+(continued...)
+ 
+29
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+In Rossi, the Court of Appeals of New York addressed
+ 
+whether an internal memorandum from a corporate staff attorney to
+ 
+a corporate officer was protected from disclosure by the
+ attorney-client privilege. The court initially noted the
+ challenges of determining whether the privilege applies when a
+ company's in-house attorney is involved, stating:
+ 
+[U]nlike the situation where a client individually engages a
+lawyer in a particular matter, staff attorneys may serve as
+company officers, with mixed business-legal responsibility;
+whether or not officers, their day-to-day involvement in
+their employers' affairs may blur the line between legal and
+nonlegal communications; and their advice may originate not
+in response to the client's consultation about a particular
+problem but with them, as part of an ongoing, permanent
+relationship with the organization. In that the privilege
+obstructs the truth-finding process and its scope is limited
+to that which is necessary to achieve its purpose, the need
+to apply it cautiously and narrowly is heightened in the
+case of corporate staff counsel, lest the mere participation
+of an attorney be used to seal off disclosure.
+ 
+540 N.E.2d at 705 (internal citations omitted). The court
+ 
+further explained that "[o]bviously, not every communication from
+ staff counsel to the corporate client is privileged. It is
+ equally apparent that no ready test exists for distinguishing
+ between protected legal communications and unprotected business
+ or personal communications; the inquiry is necessarily
+ 
+19 (...continued)
+with Hawai' i law. In California, a trial court must first determine the
+"dominant purpose of the relationship" between the company and its attorney,
+i.e. whether it is an attorney-client relationship or some other type of
+relationship. Costco Wholesale Corp. v. Super. Ct.,  219 P.3d 736, 746 (2009).
+That initial determination then establishes whether communications are generally discoverable or not, although exceptions might apply. Id. This 
+approach appears to have been formulated, in part, to address Californiastatutory law under which "a court may not order disclosure of a communicationclaimed to be privileged to allow a ruling on the claim of privilege[.]" Id. 
+at 745. Apparently, California courts can only review communications claimedto be privileged if review is requested or agreed to by the party claiming the
+privilege. There is no such restriction in Hawai' i and in camera review is 
+utilized by our courts, as demonstrated in this case. We also believe 
+California's approach would not be helpful in Hawai' i to ensure that the 
+attorney-client privilege is strictly limited to its purpose. Even when the dominant purpose of a relationship is attorney-client, there can be instanceswhen communications are not for the purpose of facilitating legal services,especially in the context of a company that utilizes in-house counsel and thatindividual serves in multiple capacities. Thus, we believe that when a trialcourt deems it necessary and appropriate, it is better to review the subject
+communications themselves via in camera review, rather than relying on
+generally categorizing communications based on the dominant nature of therelationship. 
+30
+  RossiFOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+fact-specific." Id. (citation omitted). Quite similar to the
+ 
+privilege adopted in Hawai 'i, the Rossi court recognized under 
+New York law that for the privilege to apply to communications
+ 
+from an attorney to a client, whether or not in response to a
+ particular request, the communication "must be made for the
+ purpose of facilitating the rendition of legal advice or
+ services, in the course of a professional relationship." Id. at
+ 
+706 (citation omitted).
+ 
+The  court considered the context and timing of
+ 
+the memorandum at issue in that case, including that there was
+ imminent litigation looming, and also noted that a lack of legal
+ research in the document was not determinative "where the
+ communication concerns legal rights and obligations and where it
+ evidences other professional skills such as [a] lawyer's judgment
+ and recommended legal strategies." 
+Id. (citation omitted). The
+ 
+court concluded that,
+ 
+[s]o long as the communication is primarily or predominantly
+of a legal character, the privilege is not lost merely by
+reason of the fact that it also refers to certain nonlegal
+matters. Indeed, the nature of a lawyer's role is such that
+legal advice may often include reference to other relevant
+considerations. Here, it is plain from the content and
+context of the communication that it was for the purpose of
+facilitating the lawyer's rendition of legal advice to his
+client. While we are mindful of the concern that mere
+ participation of staff counsel not be used to seal off
+discovery of corporate communications, here nothing suggests
+that this is a situation where a document was passed on to a
+defendant's attorney in order to avoid its disclosure. It
+appears that [the corporate staff attorney] was exercising a
+lawyer's traditional function in counseling his client
+regarding conduct that had already brought it to the brink
+of litigation.
+ 
+Id. (emphasis added) (internal citations, quotation marks and
+ 
+brackets omitted); see also Se. Pa. Trans. Auth. v. CaremarkPCS
+ Health, L.P., 254 F.R.D. 253, 258 (E.D. Pa. 2008) (applying
+ Pennsylvania law to in-house counsel communications and
+ expressing that "[t]he primary purpose of the communication at
+ issue must be to gain or provide legal assistance for the
+ privilege to apply due to the fact that in-house counsel may play
+ a dual role of legal advisor and business advisor" (citation and
+ internal quotation marks omitted)).
+ 
+31
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+In a similar vein, the court in United States Postal
+ 
+Serv. v. Phelps Dodge Refining Corporation, 852 F.Supp. 156 (E.D.
+ 
+N.Y. 1994), recognized that "the mere fact that a communication
+ is made directly to an attorney, or an attorney is copied on a
+ memorandum, does not mean that the communication is necessarily
+ privileged." Id. at 160. Rather,
+ 
+[t]he information-holder's motive for the communication, to
+the extent that it can be discerned from the document, thus
+is an important consideration. If the information-holder
+will communicate with the attorney even if the privilege
+does not exist, or if a nonlegal objective is sufficient to
+stimulate communication with the attorney, then there is no
+reason for the privilege to attach.
+ 
+Id. (citation and internal quotation marks omitted).
+ 
+Beyond the general framework of addressing the
+ 
+privilege where in-house counsel is involved, as set forth above,
+ 
+it is also important in this case to consider how courts have
+ addressed the privilege in the insurance context. We thus
+ recognize that when a communication between an insurance company
+ and its attorney deals with the issue of coverage under a policy,
+ including when the communication references the investigation
+ undertaken to facilitate the rendering of legal advice on
+ coverage, such communication is typically privileged. See Aetna
+ 
+Cas. & Sur. Co. v. Super. Ct., 200 Cal. Rptr. 471, 476 (Cal. Ct.
+ App. 1984) (holding that retention of an attorney to investigate
+ an insurance claim and make a coverage determination under a
+ policy "is a classic example of a client seeking legal advice
+ 
+20
+from an attorney");  Hartford Fin. Servs. Grp., Inc. v. Lake
+Cnty. Park & Recreation Bd., 717 N.E.2d 1232, 1235-36 (Ind. Ct.
+ App. 1999) (relying on Aetna and holding that correspondence
+ between an insurer and its legal counsel, and internal
+ communications regarding the advice of counsel, were covered by
+ the attorney-client privilege in a bad faith lawsuit where the
+ 
+20 Although we do not adopt California's approach regarding the
+"dominant purpose of the relationship" involving a company and in-house
+counsel, cases from California nonetheless provide guidance as to the type of
+conduct that is generally related to legal advice or legal services in the
+insurance context.
+ 
+32
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+attorney investigated the insurance claim, rendered legal advice,
+ 
+and made a coverage determination).
+ 
+"However, the attorney-client privilege only protects 
+disclosure of communications between the attorney and the client; it does not protect disclosure of underlying facts which may be referenced within a qualifying communication." State Farm Fire & 
+Cas. Co. v. Super. Ct., 62 Cal. Rptr. 2d 834, 844 (Cal. Ct. App. 1997) (emphasis omitted). Thus, if facts referenced in privileged communications can be obtained through sources other than privileged communications, the privilege does not shield those facts from being disclosed. See Aerojet-General Corp. v. 
+Trans. Indem. Ins., 22 Cal. Rptr. 2d 862, 866 (Cal. Ct. App. 1993). Generally, "a claim investigation involves gathering information from non-client sources. Gathering such information is not part of any privileged communication, so that process is not privileged. The lawyer's legal analysis based on the information gathered may be privileged or opinion work product, but the factual investigation is not." William T. Barker & Ronald D. Kent, New Appleman Insurance Bad Faith Litigation §16.04[3][c] (2d ed. 2014). This is consistent with Hawai
+'i case 
+law holding that a statement given by an insured to a representative of her insurer soon after an automobile accident was not subject to the attorney-client privilege. DiCenzo, 68 
+Haw. at 536-39, 723 P.2d at 176-78. In DiCenzo, the Hawai
+'i 
+Supreme Court expressed concerns about making statements taken by an insurance investigator or adjustor immune from discovery because the "internal documents of insurance companies obtained in the normal course of business relating to claims of their insureds would then be shielded from discovery," which is beyond the intended reach of the attorney-client privilege. Id. at 537­
+38, 723 P.2d at 177 (citation and internal quotation marks omitted). 
+With the above guideposts in place, we turn back to the
+ 
+particulars of this case. McGinnity's declaration provides a
+ general description of her role as Major Claims Counsel and some
+ 
+33
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+of the actions she took in this capacity regarding Anastasi's
+ 
+claim and tender of the Stickney Lawsuit. Her declaration
+ establishes that at least part of her duties included
+ investigating and assessing whether Anastasi's claim was covered
+ by the title insurance policy. Additionally, her declaration
+ indicates her view that "it was evident that Fidelity would
+ likely have to engage in litigation against other parties to
+ protect both Mr. Anastasi and/or Fidelity's interest." McGinnity
+ attested that Fidelity had the right under the policy to bring
+ claims against other parties to recover amounts that might have
+ to be paid under the policy. Moreover, McGinnity anticipated
+ that coverage litigation might ensue between Fidelity and
+ Anastasi if facts showed that Anastasi was involved in the fraud
+ alleged in the Stickney Lawsuit. The circuit court thus properly
+ relied on McGinnity's declaration in its initial determination
+ that the attorney-client privilege may apply to the withheld
+ documents. As to the documents ultimately submitted for in
+ camera review, however, McGinnity's declaration provides mostly
+ general background information because it does not address why
+ these documents are primarily or predominantly of a legal
+ character and/or the purpose or context regarding those
+ particular communications. Cf. Se. Pa. Trans. Auth., 254 F.R.D.
+ 
+at 259 (noting that the in-house counsel whose communications
+ were at issue attested via affidavit that she and her paralegal
+ worked on the matter in a strictly legal capacity).
+ 
+From our review of documents 6, 8, 15, 157, 158 and
+ 
+159, we do not believe that Fidelity has carried its burden of
+ establishing that the privilege applies as asserted, because it
+ appears that at least some of the documents, or portions of the
+ documents, were not made to facilitate the rendition of legal
+ services. For example, most of documents 6 and 8 seem to relate
+ to standard claims activities such as forwarding Anastasi's claim
+ within Fidelity (although arguably a part of the documents might
+ implicitly touch on a coverage issue). Document 15 involves
+ emails that appear to contain a mixture of general claims
+ 
+34
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+information and also reference to coverage issues. Documents 157
+ 
+and 158 actually consist of three separate documents each,
+ including the memorandums by Frieden that appear to be
+ privileged, but also documents authored by McGinnity that contain
+ a mixture of claims information and some analysis. The privilege
+ log states that documents 157 and 158 were submitted to a claims
+ committee, but it is unclear if the purpose of McGinnity's
+ documents were primarily or predominantly of a legal character,
+ or rather standard claims handling. Document 159, which is quite
+ extensive and consists of one-hundred and seventy-two pages,
+ contains a variety of factual background and investigation
+ without an apparent tie-in to a legal analysis, recommendation,
+ or conclusion. We also note that documents 157, 158, and 159
+ were communications that went to John Hershberger (Hershberger),
+ Senior Vice-President and Major Claims Counsel of Fidelity
+ National Financial, Inc., and/or Gary Urquhart (Urquhart),
+ Executive Vice-President and General Counsel of Fidelity National
+ Financial, Inc.
+21 Like McGinnity, Hershberger and Urquhart hold
+ 
+titles as both executives and as counsel for their respective
+ Fidelity entity. Fidelity provides no explanation of Hershberger
+ and Urquhart's roles in addressing Anastasi's claim or in
+ receiving the subject communications to help explain why these
+ communications are allegedly of a legal character and not part of
+ Fidelity's ordinary business of handling claims.
+ 
+Without further addressing each document, because such
+ 
+review is properly the province of the trial court, we conclude
+ that the circuit court abused its discretion in allowing Fidelity
+ to withhold all of the documents claimed to be privileged, as it
+ appears to us that at least some of the documents, or at least
+ portions of some, relate to the general handling of Anastasi's
+ insurance claim. We conclude that Fidelity has not carried its
+ burden of establishing that documents 6, 8, 15, 157, 158, and 159
+ 
+21 Fidelity National Financial, Inc. is not identical to the Fidelity
+entity named as a party in this case. The parties do not explain the
+difference between these two entities.
+ 
+35
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+as a whole are "confidential communications made for the purpose
+ 
+of facilitating the rendition of professional legal services." 
+HRE Rule 503(b). Even though some of the documents are marked as
+ subject to the attorney-client privilege and/or the work-product
+ doctrine, that alone is not dispositive. See DiCenzo, 68 Haw. at
+ 
+536, 723 P.2d at 176 ("A proper application of the codified
+ privilege, however, requires preliminary judicial inquiry into
+ the existence and validity of the privilege, and the burden of
+ establishing this rests with the claimant." (citations, internal
+ quotation marks and brackets omitted)).
+ 
+We therefore remand this issue to the circuit court for
+ 
+further proceedings consistent with the above discussion. The
+ circuit court may determine in its discretion whether to allow
+ further briefing and/or submissions in light of our discussion
+ above. Moreover, if the circuit court determines that a
+ communication contains both privileged and non-privileged
+ matters, it may allow redaction of the privileged matters and
+ order production of the rest. See TP Orthodontics, Inc. v.
+ 
+Kesling, 15 N.E.3d 985, 997-98 (Ind. 2014).
+ 
+c.	 Naming McGinnity as a witness did not waive the
+attorney-client privilege
+ 
+We reject Anastasi's argument in which he essentially
+ 
+asserts that by naming McGinnity as a witness, no privilege
+ 
+attaches to her communications. Based on our discussion of
+ McGinnity's dual role in this case, her communications and files
+ are clearly discoverable to the extent they are not privileged
+ (or subject to the work-product doctrine discussed below). 
+However, as to communications involving McGinnity that Fidelity
+ can establish were made for the purpose of facilitating the
+ rendition of legal services to Fidelity, i.e. communications
+ primarily or predominantly of a legal character, those
+ communications would be privileged.
+ 
+As previously noted, Fidelity does not attempt to
+ 
+defend against the bad faith claim by arguing that it relied on
+ the advice of its counsel. Therefore, we need not consider
+ 
+36
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+whether the privilege was waived based on the "advice of counsel"
+ 
+defense.
+ 
+2. Work-Product Doctrine
+ 
+Anastasi asserts the circuit court erred in concluding
+ 
+that the work-product doctrine applies to documents 17, 67, 157,
+
+ 
+158, and 159. The work-product doctrine is distinct from the
+ attorney-client privilege. Save Sunset Beach, 102 Hawai
+'i at 
+484, 78 P.3d at 20. "The primary purpose of the work product
+ rule is to prevent exploitation of a party's efforts in preparing
+ for litigation[,]" Holmgren v. State Farm Mut. Auto. Ins. Co.,
+ 976 F.2d 573, 576 (9th Cir. 1992) (citation and internal
+ 
+22
+quotation marks omitted),  and to "protect written statements,
+private memoranda and personal recollections prepared or formed
+ by an adverse party's counsel in the course of his legal duties." 
+Metzler Contracting Co. v. Stephens, 642 F. Supp. 2d 1192, 1205
+ (D. Haw. 2009) (citation and internal quotation marks omitted).
+ 
+In Hawai
+'i, the work-product doctrine is set forth in 
+HRCP Rule 26. Save Sunset Beach, 102 Hawai 'i at 484, 78 P.3d at 
+20. HRCP Rule 26 provides in pertinent part that
+ 
+(b) Discovery Scope and Limits. Unless otherwise
+ 
+limited by order of the court in accordance with these
+rules, the scope of discovery is as follows:
+ 
+(1) In General. Parties may obtain discovery regarding
+any matter, not privileged, which is relevant to the subject
+matter involved in the pending action . . . .
+ 
+. . . .
+ 
+(4) Trial Preparation: Materials. A party may obtain
+discovery of documents and tangible things otherwise
+discoverable under subdivision (b)(1) of this rule and
+prepared in anticipation of litigation or for trial by or
+for another party or by or for that other party's
+representative (including the other party's attorney,
+consultant, surety, indemnitor, insurer, or agent) only upon
+a showing that the party seeking discovery has substantial
+need of the materials in the preparation of the party's case
+and that the party is unable without undue hardship to
+ 
+22 The portions of HRCP Rule 26 related to the work-product doctrine
+are substantially similar to FRCP Rule 26. "[W]here we have patterned a rulewithin the HRCP after an equivalent rule within the FRCP, interpretations ofthe rule by the federal courts are deemed to be highly persuasive in thereasoning of this court." Kawamata Farms, 86 Hawai' i at 255, 948 P.2d at 1096
+(citation and internal quotations marks omitted). 
+37
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+obtain the substantial equivalent of the materials by other
+means. In ordering discovery of such materials when the
+required showing has been made, the court shall protect
+against disclosure of the mental impressions, conclusions,
+opinions, or legal theories of an attorney or other
+representative of a party concerning the litigation.
+ 
+HRCP Rule 26(b) (emphasis added).
+ 
+Much like the attorney-client privilege discussed 
+above, the issues in this case relating to the work-product 
+doctrine are of first impression in Hawai 'i and involve the 
+question of how the work-product doctrine should be applied when an in-house attorney serves in dual capacities and a document involving the attorney may have multiple purposes. In seeking production of the McGinnity documents, Anastasi argued that: the work-product doctrine did not apply to any of the McGinnity documents because she acted as a claims adjuster conducting a purely factual investigation in Fidelity's ordinary course of business; it would be unfair to bar discovery simply because an attorney conducted the investigation; HRCP Rule 26(b)(4) requires that work product be produced in anticipation of litigation, measured by whether the document can fairly be said to have been prepared or obtained because of the litigation; the possibility of litigation in this case was too remote; and he has demonstrated a substantial need for the information because the withheld documents are vital to establishing his bad faith claim. Anastasi also advocated that, if the circuit court found any portions of the documents to be privileged or work product, the court should order those portions redacted. 
+In response to Anastasi's motion to compel, Fidelity
+ 
+asserted that the work-product doctrine applies because, as
+ stated in her declaration, McGinnity immediately anticipated that
+ there was at least a possibility of a dispute between Anastasi
+ and Fidelity, and thus her investigation was conducted with an
+ eye toward potential litigation. Fidelity also asserted that
+ Anastasi did not demonstrate a need for the work product because
+ the information contained in the documents was available in other
+ documents turned over by Fidelity as discovery.
+ 
+38
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+We initially note that Fidelity asserts both the
+ 
+attorney-client privilege and work-product doctrine in regard to
+ 
+documents 157, 158, and 159. An initial consideration in
+ applying the work-product doctrine under HRCP Rule 26(b)(4) is
+ whether discovery is sought of "documents and tangible things
+ otherwise discoverable under subdivision (b)(1) of this
+ rule . . . ." (Emphasis added.) In turn, HRCP Rule 26(b)(1)
+ permits discovery regarding any matter "not privileged." As
+ discussed above, the question of whether the attorney-client
+ privilege applies to documents 157, 158, and 159 is remanded to
+ the circuit court in light of the standards we have adopted. To
+ the extent the circuit court on remand concludes that the
+ attorney-client privilege applies to these documents, the
+ materials would not be subject to the work-product doctrine
+ because they would not be "otherwise discoverable."
+ 
+Assuming the subject documents are "otherwise 
+discoverable," the crux of the work-product dispute between the parties is whether the materials were "prepared in anticipation of litigation." HRCP Rule 26(b)(4); see Ass'n of Apartment Owners of Waikoloa Beach Villas ex rel. Bd. of Directors v. Sunstone Waikoloa, LLC, 130 Hawai
+'i 152, 161, 307 P.3d 132, 141 
+(2013) (noting that the work-product doctrine applied because an opinion letter was a prerequisite for litigation and thus "prepared in anticipation of litigation"); Save Sunset Beach, 102 Hawai
+'i at 484, 78 P.3d at 20 (holding that the work-product 
+doctrine was inapplicable where there was no indication a memorandum was prepared in anticipation of litigation). We note that "[t]he burden of establishing work product protection lies with the proponent, and it must be specifically raised and demonstrated rather than asserted in a blanket fashion." Holliday v. Extex, 447 F. Supp. 2d 1131, 1138 (D. Haw. 2006) (citation and internal quotation marks omitted). 
+The difficulty of this issue is determining at what
+ 
+point work produced by an insurer's in-house counsel acting in a
+ dual role becomes "work prepared in anticipation of litigation." 
+39
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Before the trial court, Fidelity asserted that any document
+ 
+prepared by McGinnity was prepared in anticipation of litigation
+ "if it was created after the insured tendered [his] claim for
+ coverage; if it begins to appear that the insurer might deny
+ coverage or reserve its rights; the insurer denies coverage; if
+ coverage litigation appears imminent; or if coverage litigation
+ commenced[,]" citing Liberty Mutual Fire Insurance Company v.
+ Kaufman, 885 So.2d 905, 910 (Fla. Dist. Ct. App. 2004). However,
+ review of Liberty Mutual indicates that the Florida District
+ Court of Appeal merely stated that a document may be deemed to be
+ in anticipation of litigation in such circumstances, not that it
+ must. Id.
+ 
+Instead, "[i]t is well established that documents
+ 
+prepared in the ordinary course of business are not protected by
+ the work-product doctrine because they would have been created
+ regardless of the litigation." Heath v. F/V ZOLOTOI, 221 F.R.D.
+ 
+545, 549-50 (W.D. Wash. 2004); Thomas Organ Co. v. Jadranska
+ Slobodna Plovidba, 54 F.R.D. 367, 371 (N.D. Ill. 1972) ("[W]e
+ conclude that any document which was prepared in the ordinary
+ course of business and not in anticipation of trial or litigation
+ is routinely discoverable without any showing of need under Rule
+ 26(b)(1) and is not protected by Rule 26(b)(3) notwithstanding
+ that it contains mental impressions, conclusions, opinions and
+ legal theories."). "It is presumed that a document or thing
+ prepared before a final decision was reached on an insured's
+ claim, and which constitutes part of the factual inquiry into or
+ evaluation of that claim, was prepared in the ordinary and
+ routine course of the insurer's business of claim determination
+ and is not work product." Harper v. Auto-Owners Ins. Co., 138
+ 
+F.R.D. 655, 663 (S.D. Ind. 1991). "[M]aterials prepared as part
+ of claims investigation are generally not considered work product
+ due to the industry's need to investigate claims. . . . Documents
+ created during those processes are part of the ordinary course of
+ business of insurance companies." Moe v. Sys. Transp., Inc., 270
+ 
+F.R.D. 613, 624-25 (D. Mont. 2010) (block quote format and
+ 
+40
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+citation omitted); see Thomas Organ, 54 F.R.D. at 374 ("If every
+ 
+time a party prepared a document in the ordinary course of
+ business to guide claim handling, this document was deemed to be
+ prepared in anticipation of litigation, it is difficult to see
+ what would be discoverable.").
+ 
+In circumstances where a document serves a dual purpose,
+that is, where it was not prepared exclusively for
+litigation, then the "because of" test is used. Dual
+ purpose documents are deemed prepared because of litigation
+if "in light of the nature of the document and the factual
+situation in the particular case, the document can be fairly
+said to have been prepared or obtained because of the
+prospect of litigation." In applying the "because of"•
+standard, courts must consider the totality of the
+circumstances and determine whether the "'document was
+ created because of anticipated litigation, and would not
+have been created in substantially similar form but for the
+prospect of litigation.'"
+ 
+United States v. Richey, 632 F.3d 559, 567-68 (9th Cir. 2011)
+ 
+(citations omitted).
+ 
+Given McGinnity's dual roles in this case, and from our
+ 
+in camera review of the documents, it is not evident that
+ Fidelity has carried its burden of establishing that the work-
+product doctrine applies to preclude discovery of documents 17,
+ 67, 157, 158, and 159. In her declaration, McGinnity asserts
+ that she "anticipated at the time the Claim was tendered that a
+ coverage dispute resulting in litigation might ensue between
+ Fidelity and Mr Anastasi." However, this does not establish that
+ documents 17, 67, 157, 158, or 159 were produced or created by
+ McGinnity "because of anticipated litigation, and would not have
+ been created in substantially similar form but for the prospect
+ of litigation." Richey, 632 F.3d at 568 (citation and quotation
+ 
+marks omitted). For instance, Fidelity asserts in its privilege
+ log that document 67, McGinnity's handwritten notes regarding the
+ analysis of Anastasi's claim, is work product but there is
+ nothing specific in McGinnity's declaration explaining how this
+ document was produced "because of anticipated litigation." Thus,
+ there is no indication the handwritten notes are tied to any
+ particular litigation and not McGinnity's general claims
+ investigation, which would have been conducted in substantially
+ 
+41
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+similar form even without the prospect of litigation. See Heath,
+ 
+221 F.R.D. at 549 ("'More than the mere possibility of litigation
+ 
+must be evident' for materials to be considered immune from
+ discovery under the work-product doctrine."); Harper, 138 F.R.D.
+ at 659-60 ("There are many formulations of this level of threat,
+ but the cases generally concur that a party must show more than a
+ 'remote prospect,' an 'inchoate possibility,' or 'a likely
+ chance' of litigation." (citations omitted)); Thomas Organ, 54
+ F.R.D. at 373-74 (rejecting the notion that after a claim has
+ been filed, litigation is always a contingency and "speculative
+ contemplation of possible litigation" constitutes anticipation of
+ litigation).
+ 
+Similarly, it is not clear that documents 157, 158 or
+ 
+159 were made "because of anticipated litigation." On their
+ face, it appears that these documents were part of the process
+ for analyzing and reporting on Anastasi's claim, as well as for
+ obtaining approval to pay benefits under the policy. Thus, based
+ on the record before us, it does not appear that these documents
+ were prepared "because of anticipated litigation."
+ 
+We decline to further address each document. There is
+ 
+nothing in the record to suggest that the circuit court
+ considered whether the withheld documents were produced "because
+ of" anticipated litigation and would not have been created in a
+ substantially similar form but for the prospect of litigation. 
+Based on our review of the existing record, we conclude that
+ Fidelity has not carried its burden of establishing that the
+ work-product doctrine applies to documents 17, 67, 157, 158 and
+ 159. We therefore remand this issue to the circuit court for
+ 
+further proceedings consistent with our discussion above. To the
+ extent the circuit court concludes the documents were produced in
+ anticipation of litigation, and Anastasi has made the requisite
+ showings of "substantial need" and "undue hardship," the court
+ may determine whether redaction is appropriate to "protect
+ against the disclosure of the mental impressions, conclusions,
+ opinions, or legal theories of an attorney or other
+ 
+42
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+representative of a party concerning the litigation." HRCP Rule
+ 
+26(b)(4).
+C. Summary Judgment
+ 
+Although this case will be remanded to the circuit
+ 
+court to further address discovery of the McGinnity documents, we
+ must still consider Anastasi's points of error regarding the
+ summary judgment granted in favor of Fidelity on the existing
+ record. We believe that some of Anastasi's contentions regarding
+ the summary judgment ruling have merit and that the circuit
+ court's errors must be addressed at this time so that the bad
+ faith claim can be properly resolved going forward.
+ 
+Anastasi contends the circuit court erred in granting
+ 
+summary judgment because the court incorrectly determined:
+ (1) that Fidelity's actions were reasonable as a matter of law;
+ and (2) that Anastasi did not raise a genuine issue of material
+ fact as to whether Fidelity controlled Ching's actions in the
+ Stickney Lawsuit and that Ching's actions must be imputed to
+ Anastasi as a matter of law. We agree with the first contention
+ and hold that the grant of summary judgment for Fidelity must be
+ vacated on that ground. As to the second contention, the circuit
+ court was correct that no genuine issue of material fact was
+ raised on the question of Fidelity controlling the Stickney
+ litigation, but imputing the actions of Ching to Anastasi is not
+ relevant in analyzing the enhanced standard of good faith that
+ applies in this case. Rather, the crucial factor in this case is
+ that, on the existing record, Anastasi does not point to any
+ evidence that Fidelity induced Ching to breach any ethical duties
+ to Anastasi in litigating the Stickney Lawsuit.
+1. Bad Faith Standards
+ 
+In Best Place, the Hawai
+'i Supreme Court adopted a 
+reasonableness standard for bad faith claims. 82 Hawai 'i at 132­
+33, 920 P.2d at 346-47. The court held that
+ 
+there is a legal duty, implied in a first- and third-party
+insurance contract, that the insurer must act in good faith
+in dealing with its insured, and a breach of that duty of
+good faith gives rise to an independent tort cause of
+action. The breach of the express covenant to pay claims,
+ 
+43
+   FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+however, is not the sine qua non for an action for breach of
+ 
+the implied covenant of good faith and fair dealing. The
+ implied covenant is breached, whether the carrier pays the
+claim or not, when its conduct damages the very protection
+or security which the insured sought to gain by buying
+insurance.
+ 
+Id. at 132, 920 P.2d at 346 (citations and quotation marks
+ 
+omitted). The court further ruled that in first-party bad faith
+ cases, 
+[w]e believe that the appropriate test to determine bad
+faith is the general standard set forth in Gruenberg [v.
+ Aetna Insurance Company, 510 P.2d 1032 (Cal. 1973)] and its
+progeny. Under the Gruenberg test, the insured need not show
+a conscious awareness of wrongdoing or unjustifiable
+conduct, nor an evil motive or intent to harm the insured.
+An unreasonable delay in payment of benefits will warrant
+recovery for compensatory damages under the Gruenberg test.
+ 
+However, conduct based on an interpretation of the insurance
+contract that is reasonable does not constitute bad faith.
+ 
+Id. at 133, 920 P.2d at 347 (citation omitted) (emphasis added). 
+The court noted that under Gruenberg, an insurer may face
+ liability for bad faith if it "fails to deal fairly and in good
+ faith with its insured by refusing, without proper cause, to
+ compensate its insured for a loss covered by the policy." Id. at
+ 
+132, 920 P.2d at 346 (quoting Gruenberg, 510 P.2d at 1037)
+ (quotation marks omitted).
+ 
+Subsequent to Best Place, the Hawai
+'i Supreme Court 
+adopted standards that apply to bad faith claims arising from circumstances, like the instant case, where an insurance company defended a claim against its insured under a reservation of rights. See Finley v. Home Ins. Co., 90 Hawai
+'i 25, 975 P.2d 
+1145 (1998); Delmonte v. State Farm Fire & Cas. Co., 90 Hawai 'i 
+39, 975 P.2d 1159 (1999). 
+When there is a reservation of rights and an insurer 
+retains an attorney to defend a claim against its insured, the sole client of the retained attorney is the insured. Finley, 90 
+Hawai
+'i at 32-33, 975 P.2d at 1152-53. Recognizing the potential 
+conflicts that could arise in such a circumstance, specific requirements have been adopted to ensure that the retained attorney remains independent of the insurer. Specifically, the Hawai
+'i Supreme Court explained that "where an insurer is 
+44
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+required to provide a defense for its insured, it would be a
+ 
+breach of the duty of good faith to induce retained counsel to
+ 
+provide a defense which did not meet the professional standard
+ 
+set forth by the [Hawai 'i Rules of Professional Conduct (HRPC)]." 
+Id. at 36, 975 P.2d at 1156 (emphasis added). In such
+ circumstance, the insurer may be liable "if its actions caused
+ the attorney's breach of [his or her] duties." Id. (emphasis
+ 
+added); see also Delmonte, 90 Hawai
+'i at 54, 975 P.2d at 1174 
+(explaining that if the retained attorney breached his ethical
+ duties to his clients, the insureds, and such breach was
+ "causally induced" by the insurer's action, then the insurer may
+ be liable for bad faith (emphasis added)).
+ 
+In determining whether the retained attorney has met
+ 
+his or her ethical obligations in this circumstance, the Hawai
+'i 
+Supreme Court held that
+ 
+[a]n attorney who follows the ... requirements of the
+HRPC must: (1) consult with the client as to the "means
+by which the objectives [of the representation] are to
+be pursued"; (2) not allow the insurer to interfere
+with the attorney's "independence of professional
+judgment or with the client-lawyer relationship"; and
+(3) not allow the insurer "to direct or regulate the
+lawyer's professional judgment in rendering legal
+services." Only if these requirements are met will the
+representation of an insured, paid for by an insurer
+with a conflicting interest in the outcome of the
+litigation, comport with the mandates of the HRPC.
+ 
+Delmonte, 90 Hawai 'i at 55, 975 P.2d at 1175 (quoting Finley, 90 
+Hawai'i at 33, 975 P.2d at 1153). 
+In turn, the Hawai 'i Supreme Court also adopted an 
+enhanced standard of good faith applicable to the insurance
+ 
+company in a reservation of rights situation.
+ 
+An insurance company must fulfill an enhanced
+obligation to its insured as part of its duty of good
+faith. Failure to satisfy this enhanced obligation may
+result in liability of the company.
+ 
+This enhanced obligation is fulfilled by meeting
+specific criteria. First, the company must thoroughly
+investigate the cause of the insured's accident and the
+nature and severity of the plaintiff's injuries.
+Second, it must retain competent defense counsel for
+the insured. Both retained defense counsel and the
+ 
+insurer must understand that only the insured is the
+ 
+client.... Finally, an insurance company must refrain
+from engaging in any action which would demonstrate a
+ 
+45
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+greater concern for the insurer's monetary interest
+than for the insured's financial risk.
+ 
+Delmonte, 90 Hawai 'i at 55, 975 P.2d at 1175 (quoting Finley, 90 
+Hawai'i at 36-37, 975 P.2d at 1156-57) (brackets omitted).
+2. Reasonableness of Fidelity's Actions
+ 
+In its summary judgment order, the circuit court held
+ 
+that, in accordance with Best Place,
+ 
+Fidelity acted reasonably in its interpretation of the terms and
+provisions of the title insurance policy (the "Policy") issued to
+Plaintiff Anastasi when it chose to defend the claims asserted
+ against him in the Stickney Litigation; particularly since
+Fidelity had been told by attorney Jade Ching that she believed
+the claim against Plaintiff Anastasi was defensible because, among
+other things, the alleged forgery of the Warranty Deed at issue in
+the Stickney Litigation might have been secured with the
+complicity of the Stickney Plaintiffs as well as other parties in
+the Stickney Litigation. Given these undisputed facts, the Court
+finds that Fidelity was entitled to exercise its legal and
+contractual rights under the Policy to defend Plaintiff Anastasi
+against the claims alleged against him in the Stickney Litigation
+and to pursue that defense to a final determination.
+ 
+Anastasi argues that this ruling was erroneous because
+ 
+he adduced evidence showing that within months after Fidelity
+ 
+received Anastasi's tender of his claim, Fidelity was aware of
+ evidence showing that the Warranty Deed purporting to transfer
+ the Property to Nagy had been forged; and that about four months
+ after receiving the claim, McGinnity had expressed in an email to
+ an FBI agent her belief that there were forgeries involved. 
+Fidelity does not contest the evidence showing that it had
+ information that appeared to indicate there was a forgery of the
+ Warranty Deed to Nagy. Given these circumstances, Anastasi
+ points to Fidelity's own argument in a Georgia lawsuit where it
+ asserted that a forged deed was void ab initio, and argues that
+ Fidelity nonetheless chose in this case to continue litigating in
+ the face of an apparent forgery, relying on the litigation
+ provisions in the policy rather than paying Anastasi.
+ 
+As argued by Fidelity, and recognized by the circuit
+ 
+court in its summary judgment order, the title policy in this
+ case does contain broad provisions allowing Fidelity to defend
+ against claims adverse to the insured title or interest. The
+ policy also allows for diligent pursuit of other actions to
+ 
+46
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+establish the title or interest or the lien of the insured 
+mortgage. Moreover, the policy expressly provides that "the Company may pursue any litigation to final determination by a court of competent jurisdiction and expressly reserves the right, in its sole discretion, to appeal from any adverse judgment or order." Fidelity thus asserts that the circuit court correctly granted summary judgment because, consistent with Best Place, Fidelity's actions were based on a reasonable interpretation of the policy, which does not constitute bad faith. See 82 Hawai
+'i 
+at 133, 920 P.2d at 347 ("[C]onduct based on an interpretation of the insurance contract that is reasonable does not constitute bad faith."). 
+We do not agree that, for summary judgment purposes,
+ 
+Fidelity's litigation provisions and the evidence in the record
+ establish that Fidelity acted reasonably in this case. 
+Considering the evidence in the light most favorable to Anastasi
+ as the non-moving party, it appears that about four months after
+ receiving Anastasi's claim, Fidelity believed that the Warranty
+ Deed to Nagy had been forged. The circuit court correctly notes
+ that Ching nonetheless believed she could successfully defend
+ Anastasi in the Stickney Lawsuit, in part because there was a
+ question whether the Stickney plaintiffs, and perhaps others,
+ might have been involved in the forgery scheme. However, neither
+ the parties nor the circuit court address how proving fraud by
+ the Stickney plaintiffs would affect coverage under the Fidelity
+ policy, as a matter of law, when there still would have
+ apparently been a forgery of the Warranty Deed that purported to
+ transfer the insured title to Nagy. Fidelity does not assert it
+ would have no obligations to Anastasi in that circumstance. 
+Because the legal and coverage consequences of a finding of fraud
+ by the Stickney plaintiffs are unclear, we cannot say as a matter
+ of law that where Fidelity apparently believed there was a
+ forgery of the Warranty Deed, its actions thereafter were
+ reasonable and that summary judgment was appropriate.
+ 
+47
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+We recognize that the Stickney Lawsuit and the 
+underlying transaction posed a somewhat thorny and complicated 
+circumstance to be resolved. Indeed, an additional layer that Fidelity rightly needed to address was whether Anastasi himself may have been complicit in the forgery or some type of attempt to fraudulently obtain title insurance proceeds. Notwithstanding the legitimate questions facing Fidelity in this case, it cannot overly rely on the provisions in the policy allowing it to litigate. Rather, the question under Best Place is whether, given the information Fidelity had, the timing when it had the information, and when it reasonably resolved the issues presented by Anastasi's claim, was there an unreasonable delay in paying Anastasi. See 82 Hawai
+'i at 133, 920 P.2d at 347 (holding that 
+an unreasonable delay in paying benefits will warrant recovery for a bad faith claim). 
+Moreover, Fidelity must meet the enhanced standard of 
+good faith that applies in this circumstance. Anastasi does not appear to contest that Fidelity thoroughly investigated his claim, and as discussed below, we conclude that Anastasi failed to raise any genuine issue of material fact to contest that Fidelity retained competent counsel for him who met her ethical obligations. However, Anastasi argued and adduced sufficient evidence to contest whether Fidelity engaged in action that would "demonstrate a greater concern for the insurer's monetary interest than for the insured's financial risk." Delmonte, 90 
+Hawai
+'i at 55, 975 P.2d at 1175 (quoting Finley, 90 Hawai 'i at 
+36-37, 975 P.2d at 1156-57) (block quote format omitted). That is, Anastasi not only questions the reasonableness of Fidelity's actions after it believed there was a forgery, but also contends that Fidelity's actions were motivated more by a desire to obtain recoupment of funds it might have to pay to Anastasi, rather than a concern for providing the protection owed to Anastasi under the title policy. Given the evidence in the existing record, there is at least a genuine issue of material fact on this issue. 
+48
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Anastasi's bad faith claim, asserting that Fidelity
+ 
+acted unreasonably in not paying his claim for over two and half
+ 
+years, is fact intensive. Applying the requisite summary
+ judgment standards and thus considering the evidence in the light
+ most favorable to Anastasi as the non-movant, we conclude there
+ are genuine issues of material fact as to whether Fidelity
+ unreasonably delayed in paying Anastasi, and therefore summary
+ judgment was not appropriate.
+ 
+3. No evidence that Fidelity induced Ching to breach
+any duties owed to Anastasi 
+With regard to whether Fidelity unduly controlled Ching
+ 
+in litigating the Stickney Lawsuit, the circuit court ruled as
+ 
+follows:
+ 
+4. Plaintiff Anastasi has failed to adduce any
+evidence to raise a genuine issue of material fact as to
+whether Fidelity controlled and/or directed Plaintiff
+Anastasi's attorneys at Alston Hunt Floyd & Ing in their
+defense of Plaintiff Anastasi in the Stickney Litigation.
+The undisputed facts establish that Fidelity defended the
+Stickney Litigation under a reservation of rights and that
+in accordance with its obligations under [Finley] gave
+Plaintiff Anastasi's attorneys full rein to conduct the
+defense of their client as they deemed appropriate. 
+5. Plaintiff Anastasi has not adduced any evidence to
+support the conclusion that Fidelity directed Plaintiff
+Anastasi's attorneys to delay a resolution of the Stickney
+Litigation for the purpose of allowing Fidelity to forestall
+the payment of benefits to Plaintiff Anastasi under the
+Policy. Any delay in the resolution of the Stickney
+Litigation was the natural byproduct of the defense strategy
+employed by the Alston Hunt Floyd & Ing attorneys which, as
+a matter of law, must be imputed to him.
+ 
+In support of its summary judgment motion, Fidelity
+ 
+submitted a declaration by McGinnity in which she stated that,
+ 
+after Ching made an appearance in the Stickney Lawsuit, Ching and
+ Anastasi directed the defense of that lawsuit. Fidelity also
+ submitted the deposition of Ching in which she testified that
+ Fidelity did not direct her in how to defend Anastasi and that
+ she determined the legal strategy used to defend Anastasi in the
+ Stickney Lawsuit. Under the Finley standards, an insurer is
+ subject to bad faith liability when it causally induces retained
+ counsel to breach his or her ethical duties to the insured. The
+ 
+49
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Finley analysis does not include imputing retained counsel's
+ 
+actions to the insured.
+ 
+Anastasi relies on four pieces of counter evidence to 
+argue that Fidelity improperly controlled Ching's actions in the Stickney Lawsuit. However, none of the evidence that Anastasi points to raises any question that Ching breached her ethical obligations to Anastasi, i.e., that she failed to consult with Anastasi as to the means by which the objectives of the representation were to be pursued, allowed Fidelity to interfere with her independent professional judgment or her relationship with Anastasi, or allowed Fidelity to direct her professional judgment in rendering legal services. Finley, 90 Hawai
+'i at 33, 
+975 P.2d at 1153; Delmonte, 90 Hawai 'i at 55, 975 P.2d at 1175. 
+First, Anastasi points to Fidelity's claims handbook
+ 
+which allegedly states that when Fidelity defends against an
+ attack on title, Fidelity is in control of the litigation and
+ will select counsel of its choosing. As noted in Finley, even
+ when an insurance contract contains provisions about controlling
+ litigation,
+ 
+[w]hatever the rights and duties of the insurer and the
+insured under the insurance contract, that contract does not
+define the ethical responsibilities of the lawyer to his
+client.
+ 
+When retained counsel, experienced in the handling of
+insurance defense matters, is allowed full rein to exercise
+professional judgment, the interests of the insured will be
+adequately safeguarded.
+ 
+90 Hawai 'i at 34, 975 P.2d at 1154 (citations and quotation marks 
+omitted). Thus, even if Fidelity's claims handbook contains 
+language asserting a right to control litigation, the question under Finley is whether Ching was nonetheless allowed "full rein" to exercise her professional judgment. If an insurer causally induces retained counsel to breach his or her ethical obligations to the insured, the insurer is subject to bad faith liability. Here, Anastasi points to no evidence suggesting that Ching was constrained in any way in exercising her professional judgment or that she breached any ethical duties to him. 
+50
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Second, Anastasi points to an introductory letter that 
+Ching wrote to Anastasi after being retained to defend him. 
+Anastasi highlights passages in which Ching states that she would be providing Fidelity with correspondence, pleadings, discovery responses, deposition transcripts and periodic status reports, and that "[i]t is anticipated that Fidelity will provide recommendations and instructions to the law firm regarding the steps and procedures to be taken in defending or settling the Claim." Of course, retained counsel in such circumstances must be careful to ensure that his or her only client is the insured, Finley, 90 Hawai
+'i at 32-33, 975 P.2d at 1152-53, and Ching's 
+letter also stated that Anastasi was her client, not Fidelity, and that she would not provide Fidelity with confidential attorney-client information without Anastasi's consent. Moreover, like the claims handbook, Ching's letter does not show that Ching was in any way constrained in exercising her judgment in the Stickney Lawsuit. Rather, we agree with the circuit court that there appears to be no genuine issue of material fact that Ching was allowed "full rein" to defend Anastasi as Ching deemed appropriate. 
+The third and fourth pieces of evidence that Anastasi
+ 
+points to are a memorandum from Ching to McGinnity, and related
+ emails between them, all of which discuss a possible appeal in
+ the Stickney Lawsuit. In Ching's memorandum to McGinnity, Ching
+ concludes that an appeal would likely be successful because there
+ were issues of fact that should have precluded summary judgment
+ in the Stickney Lawsuit. Ching further explained, however, that
+ "it would be a pyrrhic victory" because they likely would not
+ succeed on remand given that the signature on the Warranty Deed
+ did not match known signatures of Stickney and they would
+ therefore not be able to establish the validity of the Warranty
+ Deed. In the email exchange, Ching forwards her memo to
+ McGinnity, states that the deadline to appeal is two days away,
+ and suggests that an appeal be filed to protect Anastasi's appeal
+ rights, noting that the appeal can be dismissed at any time. 
+51
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+McGinnity responds, stating "Yes. File the notice." We can
+ 
+discern no basis for why the memorandum or emails indicate that
+ Ching was breaching her duties to defend Anastasi or being
+ precluded by Fidelity from exercising her independent
+ professional judgment. To the contrary, these documents show
+ that Ching wanted to preserve her client's appeal rights, that
+ she suggested the same to Fidelity, which then agreed. In his
+ deposition, Anastasi testified that his main concern in claiming
+ bad faith against Fidelity is that it took too long to pay him,
+ but in this regard, he testified that he did not fault the
+ conduct of Ching.
+ 
+Given the above, Anastasi failed to show any genuine
+ 
+issue of material fact that Ching breached her ethical duties to
+ him or that Fidelity induced any such breaches. The circuit
+ court's ruling in this regard is thus affirmed. However, the
+ circuit court's ruling that Ching's actions should be "imputed"
+ to Anastasi is neither correct nor relevant to the proper
+ analysis under Finley and Delmonte, and is therefore vacated.
+D. Costs
+ 
+Overall, we vacate the grant of summary judgment on the
+ 
+bad faith claim and Fidelity should not have been deemed the
+ prevailing party. We need not address the issues raised by
+ Anastasi regarding the award of costs because, in any event,
+ costs should not have been awarded to Fidelity.
+VI. Conclusion
+ 
+For the reasons set forth above, we vacate the judgment
+
+ 
+entered in favor of Fidelity on the bad faith claim and remand
+ 
+this case to the circuit court for further proceedings consistent
+ with this opinion.
+Philip J. Leas
+(Jacqueline B. Kido
+with him on the briefs)
+for Plaintiff-Appellant
+ 
+ 
+Thomas Benedict
+ (Carol A. Eblen, Edmund K. Saffery,
+William K. Tanaka with him on
+ the briefs)
+(Goodsill Anderson Quinn & Stifel)
+for Defendant-Appellee
+ 
+52
+
+ 

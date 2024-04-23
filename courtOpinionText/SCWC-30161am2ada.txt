@@ -1,0 +1,990 @@
+________________________________________________________________*** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+Electronically Filed 
+Supreme Court SCWC-30161 19-AUG-2013 08:30 AM 
+IN THE SUPREME COURT OF THE STATE OF HAWAI
+'I 
+---o0o--­
+STATE OF HAWAI‘ I, Petitioner/Plaintiff-Appellee,
+ 
+vs.
+ 
+PAMELA L. TAYLOR, Respondent/Defendant-Appellant.
+ 
+________________________________________________________________ 
+SCWC-30161
+ CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS
+ 
+(ICA NO. 30161; CR. NO. 08-1-0331)
+ 
+AUGUST 19, 2013
+ 
+RECKTENWALD, C.J., NAKAYAMA AND MCKENNA, JJ.,
+AND CIRCUIT JUDGE GARIBALDI, ASSIGNED BY REASON OF VACANCY;
+WITH ACOBA, J., CONCURRING AND DISSENTING SEPARATELY
+ 
+AMENDED OPINION OF THE COURT BY MCKENNA, J.
+ 
+I. Introduction
+ 
+The State asks us in this appeal to overrule the plurality
+ 
+opinion in State v. Stenger, 122 Hawai‘ i 271, 226 P.3d 441 
+(2010). Despite the apparent confusion regarding its actual
+ 
+holding, Stenger does not stand for the proposition for which it
+ is sometimes cited; therefore, we decline to overrule Stenger. 
+“[A] court should not overrule its earlier decisions unless the
+ *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+most cogent reasons and inescapable logic require it.” Johnston
+ 
+v. KFC Nat’l Mgmt. Co., 71 Haw. 229, 233, 788 P.2d 159, 161
+ 
+(1990) (internal quotations and citations omitted). Due to the
+ confusion, however, we do take the opportunity to clarify
+ Stenger’s holding.
+ 
+Since Stenger’s publication, our appellate courts have 
+interpreted the case inconsistently. A dissent to one of our dispositions notes that Stenger held that a trial court has a duty to sua sponte give a jury instruction on a defense that the defendant has not asked for, where there is some evidence supporting the defense, no matter how weak, inconclusive, or unsatisfactory the evidence may be. See, e.g., State v. Pang, 
+No. 29003 (Haw. Aug. 30, 2010) (dissent to order rejecting application for writ of certiorari) at 1. Many of the Intermediate Court of Appeals’ (“ICA”) dispositions note that Stenger held that the trial court has a limited duty to sua sponte instruct the jury on a particular defense only if (1) it appears that the defendant is relying on such a defense, or (2) if there is substantial evidence supportive of such a defense, and the defense is not inconsistent with the defendant’s theory of the case, citing the alternative standard that Chief Justice 
+Moon suggested in dissent. Stenger, 122 Hawai‘ i at 299, 226 P.3d 
+at 469 (Moon, C.J., dissenting). See, e.g., State v. Yue, No. 
+2
+ *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+29141 (App. Sept. 23, 2010)(SDO) at 7; State v. Metcalfe, No.
+ 
+30518 (App. Mar. 30, 2012)(mem.) at 15; State v. Mabson, No.
+ 29386, (App. Sept. 28, 2011)(SDO) at 3. Even though unpublished
+ dispositions of the appellate courts are “not precedent,” they
+ 
+may nonetheless be “cited for persuasive value.” Hawai‘ i Rules 
+of Appellate Procedure Rule 35(c)(2)(2010). Hence, the need for
+ 
+clarity is apparent. 
+In the process of clarifying Stenger, we also reexamine our
+ 
+holding in State v. Nichols, 111 Hawai‘ i 327, 141 P.3d 974 
+(2006). It is this court’s duty to revisit our legal rules from
+ time to time, as circumstances demand:
+ 
+Blind adherence to legal rules constitutes an abrogation of
+the judicial function. Such blind adherence may result as
+much from adoption of a rule without adequate analysis as
+from application of a precedent without examination of its
+claim to validity. Legal rules should result from, rather
+than be a substitute for, legal analysis. Judicial
+ rumination of ideas in a multitude of factual circumstances
+ gives birth to rules. And continued rumination insures that
+ such rules will be applied only as long as they serve the
+function for which they were designed.
+ 
+Columbia Casualty Co. v. Hoohuli, 50 Haw. 212, 217, 437 P.2d 99,
+ 
+104 (1968). On the issue of how appellate courts are to review
+ the impact of an unrequested mistake of fact jury instruction,
+ denominated as error for the first time on appeal, we clarify and
+ hold that such error is to be reviewed first for plain error. In
+ the case of an unrequested mistake of fact jury instruction,
+ plain error exists if the defendant, at trial, had met his or her
+ initial burden to adduce credible evidence of facts constituting
+ 
+3
+  
+   *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+the defense (unless those facts are supplied by the prosecution’s 
+witnesses). See Stenger, 122 Hawai‘ i at 280, 226 P.3d at 450 
+(citing State v. Locquiao, 100 Hawai‘ i 195, 206, 58 P.3d 1242, 
+1253 (2002) and the Commentary to Hawai‘ i Revised Statutes 
+(“HRS”) § 701-115 (1993)). If the omission of the unrequested 
+mistake of fact jury instruction constitutes plain error, it shall be a basis for reversal of the defendant’s conviction only if an examination of the record as a whole reveals that the error was not harmless beyond a reasonable doubt. 
+II. Background
+ 
+A. The Trial
+1
+ 
+Respondent/Defendant-Appellant Pamela Taylor was charged by
+ 
+Felony Information and Non-Felony Complaint with Theft in the
+ 
+2
+Second Degree, in violation of HRS §§ 708-830(2) (1993)  and 708­
+3
+831(1)(b) (1993)  (Count I); and  Unauthorized Practice of Law,
+ 
+4 5
+in violation of HRS §§ 605-14  and -17 (1993 & Supp. 2007)
+1 The Honorable Dexter D. Del Rosario presided.
+ 
+2 At the time of the alleged offense, as it does now, HRS § 708-830(2)
+provided that “[a] person commits theft if the person . . . obtains, or exerts
+control over, the property of another by deception with intent to deprive the
+other of the property.”
+3 At the time of the alleged offense, as it does now, HRS § 708-831(1)(b)
+provided that “[a] person commits the offense of theft in the second degree if
+the person commits theft . . . [o]f property or services the value of which
+exceeds $300[.]”
+4 At the time of the alleged offense, as it does now, HRS § 605-14 provided:
+Unauthorized practice of law prohibited. It shall be
+ unlawful for any person, firm, association, or corporation
+(continued . . . )
+ 
+4
+ *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+(Count II). The charges stemmed from a period of time in
+ 
+February 2007 in which Taylor allegedly offered to provide legal
+ services to Mariko Bereday, and subsequently obtained or exerted
+ control over a retainer check for $7,000.00 by deception.
+ 
+Taylor defended against these allegations by asserting that
+ 
+she herself was a victim of deception. She testified she
+ believed she was offering legal services to Bereday on behalf of
+ 
+6
+Ismael Serna Lara  and Damon Roth, two individuals she assumed
+were lawyers working for a firm called Legal Associate Services,
+ Inc., LLC.
+ 
+The complaining witness, Mariko Bereday, testified to the
+ 
+events leading up to Taylor’s prosecution as follows. Bereday’s
+ friend had referred Taylor to her as an attorney. When Taylor
+ went to Bereday’s home for their first meeting, Taylor stated she
+ was previously a federal public defender but was currently an
+ attorney working at a 35-person law firm.
+ 
+(. . . continued)
+to engage in or attempt to engage in or to offer to engage
+in the practice of law, or to do or attempt to do or offer
+to do any act constituting the practice of law, except and
+to the extent that the person, firm, or association is
+licensed or authorized so to do by an appropriate court,
+agency, or office or by a statute of the State or of the
+United States. Nothing in sections 605-14 to 605-17
+contained shall be construed to prohibit the preparation or
+use by any party to a transaction of any legal or business
+form or document used in the transaction.
+5 At the time of the alleged offense, as it does now, HRS § 605-17 provided
+that a violation of HRS § 605-14 is a misdemeanor. Taylor was acquitted on
+the Unauthorized Practice of Law count. 
+6 Serna Lara was named as a co-defendant in the information and complaint
+but could not be located for trial.
+ 
+5
+ *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+Taylor went to Bereday’s home again with a retainer
+ 
+agreement, which Bereday did not sign, and asked for a $30,000
+ 
+retainer. Because Bereday could only afford $7,000, she wrote
+ out a check in that amount, with the payee line blank at Taylor’s
+ direction. The very next day, Taylor called her from the bank
+ where Taylor was attempting to cash the check. Bereday asked
+ Taylor why the check had to be cashed, and Taylor stated that her
+ boss wanted to make sure Bereday’s money was good. 
+That morning, $7,000.00 was drawn on Bereday’s account. 
+Bereday later became suspicious and asked the bank to see the
+ copy of the check. Bereday was surprised to see Serna Lara’s
+ name on the payee line, having never dealt with him.
+ 
+After learning that there was no such law firm as Legal
+ 
+Associate Services, Inc., LLC and that Taylor was not an
+ attorney, Bereday confronted Taylor and demanded her money back. 
+Taylor returned to Bereday’s home with a Capitol One check for
+ $7,000.00 with Taylor’s “law number” written on it. The check
+ turned out to be a “bogus” check not connected to any checking
+ account. Bereday never got her money back. 
+Other witnesses for the State testified consistently with
+ 
+Bereday’s testimony. Julie Tablit, a customer service manager at
+ the Kapolei Branch of Central Pacific Bank (“CPB”), testified
+ that Taylor took the lead in attempting to cash Bereday’s
+ 
+6
+ *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+$7,000.00 check. Tablit testified that a male and a female (whom 
+she later positively identified through photographic line-ups as Serna Lara and Taylor, respectively) presented a questionable check to one of the bank tellers. The teller called Tablit over because the check amount was over her cashing limit, and Tablit spoke with Taylor, who stated that the check was for “payment or service that was rendered to Ms. Bereday.” Tablit attempted to speak with Serna Lara, but Taylor informed her that he did not speak English. According to Tablit, Serna Lara did not do anything or say anything during the five minutes that Tablit and Taylor spoke. That day, Tablit also confirmed Serna Lara’s 
+identity through his Hawai‘ i drivers license. Serna Lara also 
+inked his thumbprint upon the check, per bank procedures. Tablit 
+could not reach Bereday by phone, so she refused to cash the check and directed Taylor and Serna Lara to the Kahala Times Supermarket in-store branch of CPB, Bereday’s home branch, for further action. 
+Stephanie Hirayama, the manager of that branch, testified
+ 
+that a male and a female (whom she did not rule out in a later
+ photographic lineup as Serna Lara and Taylor), came in to cash
+ the $7,000.00 check. Even though Serna Lara was the payee,
+ Taylor did all the talking. Hirayama testified that Bereday, by
+ 
+7
+ *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+phone, authorized her to cash the check, and that Taylor was the
+ 
+one who took the $7,000.00 cash off the counter.
+ 
+Glenn Taniguchi, an accountant and attorney who had a long-
+standing professional relationship with Bereday, testified that
+ he also discovered Taylor was not listed in the bar directory. 
+When he confronted Taylor with that fact, Taylor told him she was
+  
+listed under her maiden name, Pamela Merch. Taniguchi confirmed
+ 
+that a “Pamela Merch” was an inactive attorney. Unable to reach
+ Merch under the Maryland telephone number in the bar directory,
+ Taniguchi abandoned his efforts to confirm Taylor’s credentials. 
+Taniguchi later demanded that Taylor return the $7,000.00 in the
+ form of a cashier’s check or cash to Bereday by a date certain,
+ which Taylor agreed to do but did not do. Instead, Bereday
+ received the bogus $7,000.00 check from Taylor.
+ 
+Although the State provided no evidence concerning Roth, the
+ 
+State did provide evidence that there was no such business entity
+ by the name of Legal Associate Services, Inc., LLC, and that
+ Serna Lara was not an attorney.
+ 
+Testimony regarding Serna Lara came from David Wong, the 
+owner-operator of the former Mountain View Dairy in Wai
+'anae. He 
+testified that Serna Lara had been a full-time cow-milker for about ten years at the time of the alleged theft. Wong testified that Serna Lara lived in the employee housing complex on-site. 
+8
+ *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+Wong stated that he had seen Taylor at Serna Lara’s home before. 
+Wong testified that Serna Lara was not a licensed attorney, did
+ not work for a law firm, did not run a law office out of his
+ employee housing, and never mentioned anything about working at a
+ law firm. Put plainly, Serna Lara was “[j]ust a milker.”
+ 
+Taylor testified in her own defense. She testified that she
+ 
+graduated from the David A. Clarke School of Law in Washington,
+ 
+D.C. in 1998, moved to Hawai‘ i in 2000, but never took the 
+Hawai‘i bar exam. Taylor never disputed that she was not 
+licensed to practice law in Hawai‘ i. Taylor denied telling 
+Bereday or Taniguchi she was an attorney. 
+Taylor testified generally that she took direction from
+ 
+Serna Lara and Roth. Taylor testified that Bereday spoke by
+ 
+phone with Roth multiple times and directed that her $7,000.00
+ check be turned over to Roth. Unable to reach Roth, Taylor
+ instead turned the check over to Serna Lara and later met up with
+ him at the Kapolei CPB branch. After Tablit refused to cash the
+ check, Taylor and Serna Lara went to the Kahala CPB branch, where
+ Hirayama cashed the check and handed the money to Serna Lara. 
+Taylor testified that she never touched the money and did not
+ know what happened to the $7,000.00 in cash.
+ 
+Taylor testified that Serna Lara instructed her to visit
+ 
+Bereday’s home again to deliver a receipt for the check and other
+ 
+9
+ *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+paperwork. After Bereday demanded a refund of the $7,000.00,
+ 
+Serna Lara became “infuriated,” wrote out a refund check, and
+ directed Taylor to deliver the check to Bereday, which Taylor
+ did.
+ 
+Taylor testified that she believed Serna Lara and Roth were
+ 
+attorneys because she met them through a mutual attorney friend,
+ Pamela Merch. She said she believed Roth was an attorney because
+ he did not agree to meet with Taylor until Merch was on-island to
+ make the formal introduction at Roth’s Queen Street office. She
+ allegedly believed Serna Lara was an attorney because when she
+ met him, he was “professional-looking” and “average articulate”
+ in his use of English. Taylor testified that she filled out a
+ job application, was hired by Roth and Serna Lara in 2006, did
+ clerical work for both, and was paid by check per assignment.
+ 
+She testified that she had visited Serna Lara at the dairy
+ 
+farm, and he explained that “he was an overseer of a set of the
+ farmers,” a job he held in addition to his work as an attorney at
+ the law firm. On cross-examination, the State pointed out
+ photographic evidence that Serna Lara was not dressed
+ professionally (i.e., he was dressed in a shirt and shorts) when
+ he and Taylor attempted to cash the check on a regular business
+ day in the middle of the day. Taylor testified that she did not
+ find his manner of dress curious.
+ 
+10
+ *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+She testified that she did not know Roth and Serna Lara were
+ 
+not attorneys with a legitimate law firm. Taylor testified that
+ 
+she understood the process of becoming a licensed attorney but
+ never confirmed whether Serna Lara or Roth were licensed to
+ 
+practice law in Hawai‘ i. 
+The defense did not submit any jury instructions. All of 
+the court’s jury instructions were given by agreement. There was 
+no instruction on mistake of fact. 
+The jury found Taylor guilty of theft in the second degree
+ 
+but acquitted her of unauthorized practice of law. The trial
+ 
+court issued its Judgment of Conviction and Sentence, sentencing
+ Taylor to five years of incarceration and restitution of
+ $7,000.00 to Bereday. Taylor timely appealed. 
+B. The Appeal
+ 
+For the first time on appeal, Taylor argued, “The trial
+ 
+court reversibly erred in sua sponte failing to instruct the jury
+ 
+on the mistake-of-fact defense as to Theft2-Deception.” 
+Specifically, Taylor argued that she was operating under the
+ mistaken belief that she 
+was acting on behalf of attorneys Serna Lara and Roth. . . .
+Since Taylor was mistaken as to the facts that Roth and
+Serna Lara (1) were not attorneys, (2) were not members of a
+35-person law firm, and (3) were ineligible to practice law,
+she was entitled to a “mistake of fact” instruction. In
+ other words, Taylor did not commit Theft2 by deception
+because she did not accept Bereday’s check, knowing that
+Roth and Serna Lara intended to take the money without
+rendering legal services to Bereday. 
+11
+ *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+Taylor further cited to Stenger, 122 Hawai' i 271, 226 P.3d 
+441, which was decided after she was convicted, for the 
+proposition that, where some evidence was adduced that the defendant was laboring under a mistake of fact that could negate the state of mind necessary to commit theft, the trial court was required to sua sponte instruct the jury on the mistake of fact defense, and the court’s failure to so instruct the jury was not harmless beyond a reasonable doubt. Taylor concluded by requesting that the ICA vacate her Theft2-Deception conviction and remand the case for a new trial, with an order that the court instruct the jury on the mistake of fact defense. 
+The State’s Answering Brief focused on Stenger. The State
+ 
+argued that Stenger was wrongly decided, for reasons set forth in
+ the Stenger dissent, authored by Justice Nakayama and joined by
+ Chief Justice Moon. Those reasons were that requiring a sua
+ sponte mistake of fact jury instruction (1) requires the trial
+ court to advocate for the criminal defendant by identifying, and
+ therefore highlighting, all possible defenses to the jury; (2)
+ implicitly requires that the State (in order to stave off
+ automatic retrial) request an instruction on potentially all
+ defenses that are supported by any piece of weak evidence in the
+ record; and (3) incentivizes defense counsel not to request a
+ mistake-of-fact instruction in order to “receive an automatic
+ 
+12
+   *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+retrial” when the issue is raised on appeal. In conclusion, the
+ 
+State requested that the ICA affirm Taylor’s conviction.
+ 
+The ICA held, “Based on [Stenger], we conclude that the
+ 
+Circuit Court erred in failing to instruct the jury on Taylor’s
+ mistake-of-fact defense and that such error was not harmless
+ beyond a reasonable doubt.” State v. Taylor, No. 30161 (App.
+ 
+Feb. 29, 2010)(SDO) at 2. The ICA therefore vacated the trial
+ 
+court’s judgment of conviction and sentence and remanded the case
+ 
+for a new trial on the charge of second-degree theft by
+ deception. See id. 
+The State now renews its request that this court overrule
+ 
+Stenger.
+ 
+III. Discussion
+ 
+A. The Mistake of Fact Defense
+ 
+Taylor was charged with Theft in the Second Degree, by
+ 
+Deception, in violation of HRS § 708-830(2), which states, “A
+ 
+person commits theft if the person . . . obtains, or exerts
+ control over, the property of another by deception with intent to
+ deprive the other of the property,” and in violation of HRS §
+ 708-831(1)(b), the value of the property or services having
+ exceeded $300. “Deception” is further defined, in relevant part,
+ in HRS § 708-800 (1993) as knowingly “[c]reat[ing] or
+ confirm[ing] another’s impression which is false and which the
+ 
+13
+  
+    
+    *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+defendant does not believe to be true,” “[f]ail[ing] to correct a
+ 
+false impression which the person previously has created or
+ confirmed,” or “[p]romis[ing] performance which the person does
+ not intend to perform or knows will not be performed. . . .” 
+Mistake of fact can be a defense to Theft in the Second
+ 
+Degree. This defense is provided by statute:
+ 
+Ignorance or mistake as a defense.  In any prosecution for
+an offense, it is a defense that the accused engaged in the
+prohibited conduct under ignorance or mistake of fact if:
+(1) The ignorance or mistake negatives the state of mind
+required to establish an element of the offense; or
+(2) The law defining the offense or a law related thereto
+provides that the state of mind established by such
+ignorance or mistake constitutes a defense.
+ 
+HRS § 702-218 (1993) (emphasis added). 
+B. State v. Stenger
+ 
+Our most recent case expounding on mistake of fact
+ 
+instructional error is Stenger, 122 Hawai‘ i 271, 226 P.3d 441. 
+In that case, Petitioner/Defendant-Appellant Angela Stenger was 
+charged and convicted of Theft in the First Degree for allegedly 
+taking $23,034 in welfare benefit overpayments. 122 Hawai‘ i at 
+276, 226 P.3d at 446. The State alleged that Stenger obtained
+ 
+the overpayments by deceiving the Department of Human Services
+ (“DHS”) when she failed to report that her children were not
+ living with her and failed to report her income from substitute
+ 
+teaching, from her surf school, and via inheritance. 122 Hawai‘ i 
+at 275-76, 226 P.3d at 445-46. At trial, Stenger requested a
+ 
+14
+ *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+claim of right instruction on the basis that Stenger “believed 
+she was entitled to the benefits that she obtained and exerted 
+control over[.]” 122 Hawai‘ i at 276, 226 P.3d at 446. The trial 
+court denied the request. Id. 
+Stenger appealed her conviction to the ICA, arguing that the 
+trial court erred by refusing to give the requested claim of 
+right instruction and “fail[ed] sua sponte to give a mistake-of­fact instruction[.]” Id. In other words, Stenger raised the 
+lack of an explicit mistake of fact instruction for the first time before the ICA. The ICA vacated the trial court’s judgment of conviction and remanded Stenger’s case for a new trial. 122 
+Hawai‘i at 277, 226 P.3d at 447. It held that the trial court 
+erred in denying Stenger’s requested claim of right instruction. 122 Hawai‘ i at 276-77, 226 P.3d at 446-47. It also held that 
+Stenger was not entitled to a mistake of fact instruction because 
+her claimed mistake concerned what she was required to report, which the ICA considered to be a mistake of law and no defense. 
+122 Hawai‘ i at 277, 226 P.3d at 447. 
+On certiorari, Stenger pressed the mistake of fact issue,
+ 
+arguing that the ICA gravely erred in concluding she was not
+ 
+entitled to the instruction. Id. Stenger acknowledged that she
+ 
+did not request an explicit mistake of fact instruction at trial,
+ but she argued that the evidence adduced at trial supported the
+ 
+15
+ *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+instruction, and that the trial court’s failure to give the
+ 
+instruction was not harmless beyond a reasonable doubt. Id. 
+Stenger argued that she labored under the following mistake of
+ fact: “if she believed she was complying with the reporting
+ requirements by virtue of the items she did report to DHS, then
+ she could not have ‘knowingly’ created or failed to correct a
+ 
+false impression.” 122 Hawai‘ i at 280, 226 P.3d at 450. 
+A plurality of this court agreed with Stenger. The
+ 
+plurality concluded that the trial court’s “failure to instruct
+ 
+on the defense of mistake of fact” was not harmless beyond a
+ reasonable doubt because there was a “reasonable possibility that
+ the jury, if provided with a separate mistake of fact
+ instruction, could have found that [Stenger] believed she
+ complied with the reporting requirements and, thus, did not
+ 
+knowingly deceive DHS.” 122 Hawai‘ i at 282-83, 226 P.3d at 452­
+53 (following the analytical framework set forth in Nichols, 111
+ Hawai‘i 327, 141 P.3d at 974). 
+In reaching this conclusion, the Stenger plurality first
+ 
+favorably cited Locquiao, 100 Hawai‘ i at 206, 58 P.3d at 1253 and 
+the commentary to HRS § 701-115 for the following proposition:
+ 
+With respect to defenses that negate penal liability, the
+defendant has the initial burden to adduce ‘credible
+ evidence of facts constituting the defenses, unless those
+facts are supplied by the prosecution’s witnesses.’ 
+122 Hawai‘ i at 280, 226 P.3d at 450. 
+16
+ *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+The plurality noted that Locquiao held that “where a 
+defendant has adduced evidence at trial supporting an instruction 
+on the statutory defense of ignorance or mistake of fact, the trial court must, at the defendant’s request, separately instruct as to the defense, notwithstanding that the trial court has also instructed regarding the state of mind requisite to the charged 
+offense.” 122 Hawai‘ i at 281, 226 P.3d at 451 (citing Locquiao, 
+100 Hawai‘ i at 208, 58 P.3d at 1255) (emphasis added)). This is 
+so, “no matter how weak, inconclusive, or unsatisfactory the 
+evidence [as to the defendant’s mistake of fact] may be.” 122 
+Hawai‘i at 281, 226 P.3d at 451. See also State v. Stocker, 90 
+Hawai‘i 85, 94 n.10, 976 P.2d 399, 408 n.10 (1999) (“To meet his 
+[or her] initial burden of production [on a non-affirmative 
+defense, including mistake of fact], the defendant need only come forward with “‘some’ evidence, ‘no matter how weak, inconclusive, or unsatisfactory the evidence may be.’”) 
+It was no accident that the plurality turned to Locquiao, a 
+case involving a mistake of fact instruction requested by the defendant at trial but denied by the trial court. Stenger argued that she “did request a claim of right instruction, which is a subspecies of mistake of fact, and, therefore, . . . that request should be construed liberally to encompass a request for mistake 
+of fact.” 122 Hawai‘ i at 281 n.13, 226 P.3d at 451 n.13. The 
+17
+ *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+Stenger plurality construed Stenger’s mistake of fact instruction 
+to have been “requested” by the defendant at trial as “encompass[ed]” in her request for a claim of right instruction. 
+122 Hawai‘ i at 284, 226 P.3d at 454. 
+The plurality explained that the claim of right defense is a 
+“particular type of mistake of fact that would be logically 
+encompassed under a general mistake of fact instruction.” Id. 
+Specifically, a claim of right instruction would be appropriate where the defendant asserts “(1) some form of pre-existing 
+ownership or possession of (2) specific property.” 122 Hawai‘ i 
+at 285, 226 P.3d at 455. Based on the evidence presented, the 
+Stenger plurality concluded that it was a mistake of fact defense Stenger asserted at trial, not a claim of right defense. Id. 
+As Judge Kim emphasized in his concurrence, “I would contend 
+that . . . the defense in the instant case did essentially request a jury instruction on the mistake of fact defense when it mistakenly requested one on claim of right. . . . In effect, the defense had the theory right, but the specific instruction wrong, and the trial court, while correctly recognizing the latter, 
+mistakenly failed to recognize the former[.]” 122 Hawai‘ i at 
+296, 226 P.3d at 466 (Kim, J., concurring) (emphasis added). One 
+of the dissents recognized that, had Stenger explicitly requested the mistake of fact jury instruction, under Locquiao, the trial 
+18
+ *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+court would have been required to so instruct. 122 Hawai‘ i at 
+300 n.1, 226 P.3d at 470 n.1 (Nakayama, J., dissenting) 
+The Stenger plurality could have expressly stated that a 
+trial court has a duty to correct an erroneous request for a jury 
+instruction where the theory of the defense clearly implicates 
+another jury instruction. See State v. Faria, 100 Hawai‘ i 383, 
+390, 60 P.3d 333, 340 (2002) (“[F]aced with inaccurate or 
+incomplete instructions, the trial court has a duty to, with the aid of counsel, either correct the defective instructions or to otherwise incorporate it into its own instructions.”); State v. 
+Vanstory, 91 Hawai‘ i 33, 42, 979 P.2d 1059, 1068 (1999) (“If the 
+instructions requested by the parties are inaccurate or 
+incomplete but are necessary ‘in order for the jury to “have a clear and correct understanding of what it is that they are to decide[,]”’ then the trial court has the duty either to correct any defects or to fashion its own instructions.”) (citing State v. Okumura, 78 Hawai
+'i 383, 411, 894 P.2d 80, 108 (1995)); State 
+v. Sawyer, 88 Hawai‘ i 325, 330, 966 P.2d 637, 642 (1998) (same). 
+Upon review, then, Stenger actually determined that (1) a
+ 
+trial court has a duty to properly instruct the jury on mistake
+ of fact in the face of a requested but erroneous jury instruction
+ on claim of right; and (2) the mistake of fact jury instruction
+ was further required to be given because the defendant
+ 
+19
+ *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+“requested” it and raised some evidence in support of the 
+defense. Read this way, Stenger did not actually disrupt our instructional error precedent to the extent feared by the dissent 
+in that case. See 122 Hawai‘ i at 306, 226 P.3d at 476 (Nakayama, 
+J., dissenting) (interpreting Stenger to require a trial court to 
+“instruct the jury sua sponte as to all defense instructions that may possibly be implicated by the facts”). Read this way, it also would not have been necessary for Chief Justice Moon to propose an alternative test, which has since been inconsistently adopted by the ICA in appeals raising instructional error. See 
+122 Hawai‘ i at 298, 299, 226 P.3d at 468, 469 (Moon, C.J., 
+dissenting) (“[T]he trial court has a limited duty to sua sponte instruct the jury on a particular defense if (1) it appears that the defendant is relying on such a defense, or (2) if there is substantial evidence supportive of such a defense and the defense is not inconsistent with the defendant’s theory of the case.”) (citing People v. Barton, 906 P.2d 531, 535 (Cal. 1995)). Rather, as to requested jury instructions, Stenger reaffirmed the trial court’s duty to correct erroneously requested jury instructions, and reaffirmed that a defendant is entitled to a requested jury instruction on a defense when he presents some evidence going to the defense. 
+20
+ *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+C. State v. Nichols
+ 
+Thus, Stenger does not stand for the proposition that it has
+ 
+become cited for: that a trial court errs in failing to sua
+ 
+sponte give a jury instruction unrequested by the defendant at
+ 
+trial; Nichols, however, does. 111 Hawai‘ i 327, 141 P.3d 974. 
+Thus, Nichols is actually dispositive of Taylor’s appeal, and we
+ 
+take the opportunity to revisit that case. In Nichols, the
+ defendant (“Nichols”) was charged with and convicted of
+ Terroristic Threatening in the First Degree in violation of HRS §
+ 
+707-716(1)(c) (1993). 111 Hawai‘ i at 328-29, 141 P.3d at 975-76. 
+On certiorari, Nichols argued, inter alia, that the trial
+ 
+court erred in not instructing the jury that they could compare
+ 
+the “relevant attributes” between him and the complaining witness
+ (a police officer) to determine whether the complaining witness
+ 
+objectively, reasonably felt threatened. 111 Hawai‘ i at 329, 141 
+P.3d at 976. As with Taylor, the error in Nichols was raised for
+ 
+the first time on appeal, as Nichols had not requested the
+ instruction at trial, and no such instruction was given to the
+ 
+jury. 111 Hawai‘ i at 333, 339 n.7, 141 P.3d at 980, 986 n.7. 
+In reversing Nichols’ conviction, this court held
+ 
+[A]lthough as a general matter forfeited assignments of
+error are to be reviewed under the [Hawai‘ i Rules of Penal 
+21
+  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+Procedure (“HRPP”)] Rule 52(b)[7] plain error standard of
+review, in the case of erroneous jury instructions, that
+standard of review is effectively merged with the HRPP Rule
+52(a)
+[8] harmless error standard of review because it is the
+ 
+duty of the trial court to properly instruct the jury. As a
+ result, once instructional error is demonstrated, we will
+vacate, without regard to whether timely objection was made,
+if there is a reasonable possibility that the error
+contributed to the defendant’s conviction, i.e., that the
+ 
+erroneous jury instruction was not harmless beyond a
+reasonable doubt.
+ 
+111 Hawai‘ i at 337, 141 P.3d at 984. We stated the new “merger” 
+9
+rule “flow[ed] from this court’s holding in Haanio  that the duty
+to instruct the jury ultimately lies with the trial court[.]” 
+111 Hawai‘ i at 335-36, 141 P.3d at 982-83 (footnote omitted). 
+We reiterate that it is the trial court’s duty to
+ 
+properly instruct the jury. However, in the case of a jury
+ 
+7 Under HRPP Rule 52(b) (1977), “Plain errors or defects affecting
+substantial rights may be noticed although they were not brought to the
+attention of the court.”
+ 
+8 Under HRPP Rule 52(a) (1977), “Any error, defect, irregularity or
+variance which does not affect substantial rights shall be disregarded.”
+ 
+9 Upon further review, however, State v. Haanio, 94 Hawai‘ i 405, 16 P.3d
+246 (2001), did not necessarily compel the holding in Nichols, which Stenger
+adopted. Stenger, 122 Hawai‘ i at 281, 226 P.3d at 451. Haanio held “that 
+trial courts must instruct juries as to any included offenses when ‘there is a
+rational basis in the evidence for a verdict acquitting the defendant of theoffense charged and convicting the defendant of the included offense[.]’”
+Haanio, 94 Hawai‘ i at 413, 16 P.3d at 254. This is so “despite any objection
+by the defense, and even in the absence of a request from the prosecution.”
+Id. In other words, “trial courts are duty bound to instruct juries ‘sua
+sponte . . . regarding lesser included offenses’ . . . having a rational basis
+in the evidence.” 94 Hawai‘ i at 415, 16 P.3d at 256 (citation omitted).
+There is a clear difference between requiring sua sponte jury
+instructions on lesser included offenses versus defenses, in terms of the
+burden upon the trial court, and in terms of the effect upon trial strategy.
+See, e.g., State v. Auld, 114 Hawai‘ i 135, 148, 149, 157 P.3d 574, 587, 588
+(App. 2007) (“A rule requiring the court to give a self-defense instruction
+even if deliberately not requested by the defense would put the trial court ina difficult position . . . Permitting a defendant to exercise a measure ofstrategic control over whether the jury is instructed on self-defense . . .would simply allow the defendant to focus the jury’s attention. . . .”)(Nakamura, J., concurring and dissenting). 
+22
+  *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+instruction that is not requested at trial, the omission of which
+ 
+is later denominated as error for the first time on appeal, the
+ Nichols’ “merger” holding should also be clarified. 
+Upon further examination of this case, it appears that the 
+Nichols court, despite its “merger” holding, continued to engage in a two-step, plain-error-then-harmless error review in analyzing instructional error. Nichols observed that the 
+defendant must first overcome the presumption that the 
+instructions as given were correct. 111 Hawai‘ i at 337 n.6, 141 
+P.3d at 984 n.6. Once instructional error is demonstrated, the 
+defendant must then show that that there was a reasonable possibility that the erroneous jury instruction contributed to 
+his or her conviction, i.e., that the instructional error was not 
+harmless beyond a reasonable doubt. See 111 Hawai‘ i at 337, 141 
+P.3d at 984. 
+The first step in the Nichols analysis was our determination 
+that “the circuit court’s failure to give a ‘relevant attributes’ 
+instruction was plain error[.]” 111 Hawai‘ i at 338, 141 P.3d at 
+985 (emphasis added). This was so because under State v. 
+Valdivia, the failure to instruct on relevant attributes in a terroristic threatening case is reversible error in any event, whether or not the relevant attributes instruction is requested (as it was in Valdivia) or unrequested (as it was in Nichols). 
+23
+ *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+95 Hawai‘ i 465, 479, 24 P.3d 661, 675 (2001) (concluding that the 
+omission of an instruction on relevant attributes was error 
+because “the jury . . . should have been instructed that it could consider relevant attributes of both the defendant and the [complaining witness] in determining whether the [complaining witness’s] fear of bodily injury . . . was objectively reasonable under the circumstances. . . .”) 
+The next step in the Nichols analysis was our determination
+ 
+that “there is a reasonable possibility that the error
+ 
+contributed to Nichol’s conviction, i.e., the error was not
+ 
+harmless beyond a reasonable doubt.” 111 Hawai‘ i at 338, 141 
+P.3d at 985 (emphasis added). Thus, it would appear that, rather 
+than “merging” the two standards of review, the Nichols court retained the two-step plain-error-then-harmless-error inquiry. 
+Thus, in the case of a mistake of fact jury instruction that 
+is not requested and not given at trial, the omission of which is denominated as error for the first time on appeal, we clarify that the plain error standard continues to apply. Plain error exists “[i]f the substantial rights of the defendant have been 
+affected adversely[.]” State v. Kikuta, 125 Hawai‘ i 78, 95, 253 
+P.3d 639, 656 (2011). This court “will apply the plain error 
+standard of review to correct errors [that] seriously affect the fairness, integrity, or public reputation of judicial 
+24
+ 10 *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+proceedings, to serve the ends of justice, and to prevent the
+ 
+denial of fundamental rights.” Id. (citations omitted). 
+In the case of a jury instruction on mistake of fact that is
+ 
+not requested by the defense and not given by the trial court,
+ plain error affecting substantial rights exists if the defendant
+ had met his or her initial burden at trial of adducing credible
+10
+ 
+evidence of facts constituting the defense (or those facts are
+ supplied by the prosecution’s witnesses). See Stenger, 122
+ 
+Hawai‘i at 280, 226 P.3d at 450 (citing Locquiao, 100 Hawai‘ i at 
+206, 58 P.3d at 1253 and the Commentary to HRS § 701-115). See
+ 
+id. 
+We draw our holding from HRS § 701-115(2) and its
+ 
+Commentary. HRS § 701-115 (1993) provides:
+ 
+By “credible” evidence we mean evidence “offering reasonable grounds for
+being believed.” Webster’s Ninth New Collegiate Dictionary 305 (1988). The 
+Dissent defines “credible” to mean “not incredible, that is, not ‘too
+extraordinary and improbable to be believed[.]’” Dissent at n.11 (citingMerriam Webster’s Collegiate Dictionary 590 (10th ed. 1993)). Respectfully,we have already opined that evidence that is “not credible,” as Taylor’s was,could merely be “plausible (and, therefore, not incredible),” just notentirely believable.” State v. Maelega, 80 Hawai' i 172, 178 n.9, 907 P.2d
+758, 764 n.9 (1995).
+We are aware that “credibility” is usually associated with subjective
+believability. See, e.g., State v. West, 95 Hawai' i 452, 464, 24 P.3d 648,
+660 (2001) (“[A]ppellate courts must objectively review all the evidence andavoid commenting on its subjective believability, especially the credibilityof the witnesses.”) Appellate courts are, however, sometimes required toemploy credibility determinations. For example, “[w]hen an appellate courtreviews the sufficiency of the evidence, it examines whether there wassubstantial evidence to support the conclusion of the trier of fact. . . .Substantial evidence as to every material element of the offense charged iscredible evidence which is of sufficient quality and probative value to enablea person of reasonable caution to support a conclusion.” State v. Gomes, 117 
+Hawai'i 218, 226, 177 P.3d 928, 936 (2008) (citation omitted). Thus, in the
+current context, we examine whether the defendant met her initial burden toadduce evidence with reasonable grounds for being believed. 
+25
+  
+   
+   
+   
+   
+  The Code establishes two classes of defenses. As to
+ 
+both, it places an initial burden on the defendant to come
+forward with some credible evidence of facts constituting
+the defense, unless, of course, those facts are supplied by
+the prosecution’s witnesses.
+ As to the burden of persuasion, two different rules
+are codified. In the case of defenses which are not
+ 
+affirmative, the defendant need only raise a reasonable
+doubt as to the defendant’s guilt. The other side of the
+ coin is that the prosecution must prove beyond a reasonable
+doubt facts negativing the defense. The prosecution in fact
+does this when the jury believes its case and disbelieves
+the defense.
+ 
+ In the case of affirmative defenses, the burden on the
+defendant increases. Now the defendant must prove by a
+preponderance of the evidence facts which negative the
+defendant’s penal liability. Subsection (4) defines
+“affirmative defense,” making it clear that this type of
+defense needs special legislative prescription. Unless the
+*** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+Defenses. (1) A defense is a fact or set of facts which
+negatives penal liability.
+(2) No defense may be considered by the trier of fact unless
+evidence of the specified fact or facts has been
+presented. If such evidence is presented, then:
+(a) If the defense is not an affirmative defense, the
+ 
+defendant is entitled to an acquittal if the trier of fact
+finds that the evidence, when considered in the light of any
+contrary prosecution evidence, raises a reasonable doubt as
+to the defendant’s guilt; or
+(b) If the defense is an affirmative defense, the defendant
+is entitled to an acquittal if the trier of fact finds that
+the evidence, when considered in light of any contrary
+prosecution evidence, proves by a preponderance of the
+evidence the specified fact or facts which negative penal
+liability.
+(3) A defense is an affirmative defense if:
+(a) It is specifically so designated by the Code or another
+statute; or
+(b) If the Code or another statute plainly requires the
+defendant to prove the defense by a preponderance of the
+evidence.
+ The Commentary to HRS § 701-115 provides, in full: 
+Legislature has made a particular defense affirmative, the
+defendant’s burden is only to raise a reasonable 
+doubt.11
+ 
+The dissent states that the majority “preemptively shifts the burden of
+persuasion to the defendant at a point in the litigation where the defendant
+is only required to satisfy the burden of production.” Dissent at V.B. 
+However, the commentary actually states that the defendant must “come forward
+with some credible evidence of facts constituting the defense,” and the phrase
+“come forward” clearly elaborates upon the statute’s requirement that the
+defendant “present[]” “evidence of the specified fact or facts” before the
+(continued . . . )
+ 
+26
+ 11 *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+Contrary to the Dissent’s assertion, Maelega, 80 Hawai‘ i 
+172, 907 P.2d 758, did not invalidate the Commentary to HRS §
+ 
+701-115. Dissent at VI.A. In that case, the defendant
+ (“Maelega”), who was tried for murder, requested a jury
+ instruction on extreme mental and emotional disturbance (“EMED”). 
+80 Hawai‘ i at 174, 907 P.2d at 760. We observed that the 
+requirement in State v. Nobriga, 10 Haw. App. 353, 359, 873 P.2d
+ 
+110, 113 (1994), that the defendant come forward with credible
+ evidence was inconsistent with this court’s holding in State v.
+ Pinero, 75 Haw. 282, 304, 859 P.2d 1369, 1379 (1993), that even
+ “weak, inconclusive, or unsatisfactory” evidence supports the
+ giving of a defense instruction. That much remains true as to
+ requested defense instructions, which Maelega’s was. 
+The primary issue in Maelega, however, was not the meaning
+ 
+of the Commentary but whether the circuit court’s modified
+ instruction on the defendant’s requested EMED defense, which
+ included language drawn from the Commentary, impermissibly
+ 
+(. . . continued)
+trier of fact considers a defense. In other words, “credible evidence” in the
+Commentary refers to the defendant’s burden of production, not persuasion. In fact, the next paragraph in the Commentary states the “burden of persuasion”is identified as belonging to the State or to the defendant, depending uponwhether the defense is an affirmative or non-affirmative defense. Thus, theCommentary still provides helpful guidance as to the defendant’s burden ofcoming forward with credible evidence to constitute a defense. Contrary tothe Dissent’s assertion, this interpretation of the Commentary to HRS § 701­115 is still viable. Dissent at VI.A. As recently as Locquiao and Stenger,we continued to favorably cite to the Commentary to HRS § 701-115. See 
+Locquiao, 100 Hawai' i at 206, 58 P.3d at 1253; Stenger, 122 Hawai' i at 280, 226
+P.3d at 450. 
+27
+ *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+shifted the burden of proof onto the defendant. Maelega, 80
+ 
+Hawai‘i at 176, 907 P.2d at 762. The modified instruction read 
+as follows:
+ 
+The defense of extreme mental or emotional disturbance
+ 
+places the initial burden on the defendant to come forward
+ 
+with some credible evidence of fact constituting a defense
+ 
+unless those facts are supplied by the prosecution’s
+witnesses. If this occurs, the prosecution must then prove
+beyond a reasonable doubt that the defendant was not at the
+time of the offense under the influence of extreme mental or
+ emotion [sic] disturbance for which there is a reasonable
+explanation.
+ 
+80 Hawai‘ i at 176, 907 P.2d at 762 (emphasis in original). 
+We held that this instruction “impliedly instructed the jury
+ 
+that the burden under HRS § 701-115(2) was a question of fact for
+ 
+the jury to decide,” i.e., that the jury was to decide whether
+ Maelega came forward with some credible evidence of facts
+ 
+constituting the EMED defense. 80 Hawai‘ i at 177, 907 P.2d at 
+763. We held that the circuit court should not have instructed
+ 
+the jury on Maelega’s “burden of production. . . .” Id. Rather,
+ 
+the jury should have been instructed only as to the State’s
+ 
+ultimate burden of persuasion to negative Maelega’s EMED defense
+ beyond a reasonable doubt. Id. 
+We stated that it was not the jury’s job to “conclude[] that
+ 
+Maelega’s purported defense was not credible,” because “it is not
+ the province of the jury to second guess the judge’s decision to
+ 
+instruct on EMED manslaughter. . . .” 80 Hawai‘ i at 178 n.9, 179 
+n.10, 907 P.2d at 764 n.9, 765 n.10. Rather, we held that
+ 
+28
+ *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+whether the defendant’s burden of production “has been met is a 
+question that should be decided by the trial court as a matter of 
+law.” 80 Hawai‘ i 179 n.10, 907 P.2d at 765 n.10; see also 80 
+Hawai'i at 177 n.8, 907 P.2d at 763 n.8 (characterizing the trial 
+court’s determination that a defendant has met his initial burden 
+of producing “some credible evidence of facts constituting the defense” as calling for a “legal conclusion.”). In Maelega, we believed that the circuit court had, by giving the EMED instruction to the jury, “implicitly acknowledged that, based on the record, a reasonable juror could harbor a reasonable doubt as to whether Maelega acted while under an extreme emotional disturbance for which there was a reasonable explanation when he 
+killed [the victim.]” 80 Hawai‘ i at 177, 907 P.2d at 763. 
+Therefore, the role of the trial court in deciding to give a jury 
+instruction on a requested non-affirmative defense is to resolve a question of law based on an objective juror standard. 
+Synthesizing and applying HRS § 701-115, its Commentary, and
+ 
+Maelega in the context of this case, we hold that, in the case of
+ an unrequested mistake of fact jury instruction denominated as
+ error for the first time on appeal, HRS § 701-115(2) and its
+ accompanying Commentary place the burden of production on the
+ defendant to present evidence of the specified fact or facts
+ going to the defense. In other words, the defendant must have
+ 
+29
+  *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+come forward at trial with credible evidence of facts
+ 
+constituting the defense, unless those facts were supplied by the
+ prosecution’s witnesses. Further, “credible evidence” in this
+ context means that the circuit court should have concluded, based
+ on the record that existed at trial, that the evidence “offered
+ reasonable grounds for being believed,” i.e., that “a reasonable
+ juror could harbor a reasonable doubt” as to the defendant’s
+ guilt, and should have given the unrequested mistake of fact jury
+ instruction. Failure to give the mistake of fact jury
+ instruction under these circumstances constitutes plain error.
+12
+ 
+This is so, because a defense like mistake of fact is
+ 
+capable of “negativ[ing] the state of mind required to establish
+ an element of the offense,” thus capable of avoiding conviction. 
+HRS § 702-218 (1993); see also HRS § 701-114(1)(b) (1993) (“[N]o
+ person may be convicted of an offense unless the following are
+ proved beyond a reasonable doubt: . . . The state of mind
+ required to establish each element of the offense[.]”).
+ 
+This court may notice as plain error the omission of a
+ 
+mistake of fact jury instruction if it appears that the defendant
+ 
+In this regard, we disagree with the Dissent that weak, inconclusive, or
+unsatisfactory evidence going to a particular defense is always “apparent” to
+the trial court in a bench or jury trial. Dissent, Section V.A. It is more
+ likely the case that weak, inconclusive, or unsatisfactory evidence would
+become “apparently” relevant to a particular defense when the defendant
+requests the defense and the trial court’s attention is drawn to such evidence
+in the record. Absent such a request, due to its nature, weak, inconclusive,
+or unsatisfactory evidence relevant to an unstated defense may not necessarily
+take on any apparent significance during trial.
+ 
+30
+ 12  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+has come forward with credible13 evidence going to the defense 
+that the jury should have been able to consider, as such an error 
+“seriously affects the fairness, integrity, or public reputation of judicial proceedings,” and it would “serve the ends of justice” and “prevent the denial of fundamental rights” to 
+address such an omission. Kikuta, 125 Hawai‘ i at 95, 253 P.3d at 
+656. In such an instance, where the omission of the mistake of
+ 
+fact jury instruction constitutes plain error, it shall be a
+ 
+basis for reversal of the defendant’s conviction only if an
+ examination of the record as a whole reveals that the error was
+ not harmless beyond a reasonable doubt.
+ 
+D. Taylor’s Appeal
+ 
+Turning to Taylor’s appeal, the absence of a jury
+ 
+instruction on mistake of fact was not plain error, because
+ Taylor had not met her initial burden of adducing credible
+14
+ 
+evidence of facts constituting the defense, and those facts were
+ not supplied by the prosecution’s witnesses. Taylor’s testimony
+ that she believed Roth and Serna Lara were attorneys after she
+ met them through Pamela Merch at their Queen Street office and
+ worked for them in a clerical capacity for a year was not
+ 
+15
+credible , in light of the evidence, as summarized above. 
+13 See supra note 10. 
+14 See supra note 10. 
+15 See supra note 10. 
+31 *** FOR PUBLICATION IN WEST’S HAWAI' I REPORTS AND PACIFIC REPORTER *** 
+Therefore, the omission of the mistake of fact jury instruction
+ 
+at trial was not plain error. Even assuming arguendo that it
+ was, there is no reasonable possibility that the omission of a
+ mistake of fact instruction contributed to Taylor’s conviction. 
+In other words, the omission of the mistake of fact jury
+ instruction was harmless beyond a reasonable doubt.
+ 
+We therefore reverse the ICA’s March 27, 2012 Judgment on
+ 
+Appeal, entered pursuant to its February 29, 2012 Summary
+ Disposition Order, which vacated the October 7, 2009 Judgment and
+ Conviction of the Circuit Court of the First Circuit and remanded
+ this case for a new trial. 
+Taylor’s Judgment of Conviction and
+ 
+Sentence is affirmed.
+ 
+Kimberly Tsumoto Guidry 
+for petitioner
+ /s/ Mark E. Recktenwald
+/s/ Paula A. Nakayama
+ /s/ Sabrina S. McKenna
+/s/ Colette Y. Garibaldi
+ Phyllis J. Hironaka 
+for respondent
+ 
+32
+ 

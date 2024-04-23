@@ -1,0 +1,567 @@
+NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+NO. CAAP-12-0000796
+ 
+IN THE INTERMEDIATE COURT OF APPEALS
+ 
+OF THE STATE OF HAWAI 'I 
+THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK,
+AS TRUSTEE FOR THE CERTIFICATEHOLDERS CWALT, INC.,
+ALTERNATIVE LOAN TRUST 2006-0A21,
+MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-0A21,
+Plaintiff-Appellee,
+v.
+ 
+BERNARDO LIZARRAGA,
+Defendant-Appellant,
+and
+ 
+JOHN DOES 1-50 AND JANE DOES 1-50, Defendants
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE FIFTH CIRCUIT
+ 
+(CIVIL NO. 11-1-0118)
+
+ 
+MEMORANDUM OPINION
+ 
+(By: 
+Foley, Presiding J., Fujise and Reifurth, JJ.)
+ 
+Defendant-Appellant Bernardo Lizarraga (Lizarraga)
+ 
+appeals from: 
+(1) the "Order Granting Plaintiff's Motion for Summary
+ 
+Judgment and Writ of Possession Filed January 27, 2012" (Order
+ 
+Granting Motion for SJ & Writ) entered on June 13, 2012;
+ 
+(2) the "Judgment for Possession" entered on June 13,
+ 
+2012; and
+ 
+(3) the "Order Denying Defendant's Motion for Rehearing
+ 
+of Plaintiff's Motion for Summary Judgment and Writ of Possession
+ 
+Filed January 27, 2012, and Defendant's Motion to Compel
+ Plaintiff to Produce Documents Filed March 21, 2012 and/or for
+ Reconsideration of this Court's May 1, 2012 Decision to Grant
+ Plaintiff's Motion for Summary Judgment and Deny Defendant's
+ Motion to Compel Filed on May 22, 2012" (Order Denying Motion for
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Rehearing/Reconsideration) entered on September 18, 2012, entered
+ 
+1
+in the Circuit Court of the Fifth Circuit  (circuit court).
+ 
+On appeal, Lizarraga argues that the circuit court
+
+ 
+erred in (1) granting summary judgment in favor of Plaintiff-
+Appellee the Bank of New York Mellon fka the Bank of New York as
+ Trustee for the Certificateholders CWALT, Inc., Alternative Loan
+ Trust 2006-OA21, Mortgage Pass-Through Certificates, Series 2006­OA21 (BNYM) and (2) denying Lizarraga's motion to compel
+ 
+discovery.
+2
+ 
+I. BACKGROUND
+ 
+It is undisputed that on August 21, 2006 Lizarraga 
+executed and delivered to Countrywide Home Loans, Inc. 
+(Countrywide) a promissory note (Note) in the amount of $715,500. 
+As security for the Note, Lizarraga executed a mortgage 
+(Mortgage) on his property in Kilauea, Hawai 'i (Property) to 
+Mortgage Electronic Registration Systems, Inc. (MERS) "as nominee 
+for [Countrywide] and [Countrywide's] successors and assigns."3 
+Lizarraga failed to make the payments due under the
+ 
+Mortgage, so Countrywide sent Lizarraga a notice of intent to
+ 
+accelerate his Mortgage payments (Notice of Intent) on December
+ 
+17, 2008. The Notice of Intent informed Lizarraga of his default
+ 
+amount, notified him of his right to cure the default, and warned
+ that failure to do so would accelerate the Mortgage payments and
+ possibly result in the foreclosure and sale of the Property.
+ 
+On March 7, 2010, MERS, as nominee for Countrywide,
+ 
+executed an "Assignment of Mortgage" (AOM), which assigned the
+ 
+Mortgage to BNYM. On the same day, BNYM executed a "Notice of
+ 
+Mortgagee's Intention to Foreclose Under Power of Sale"
+ (Foreclosure Notice) because Lizarraga failed to cure his
+ 
+default.
+ 
+1
+ The Honorable Randal G.B. Valenciano presided .
+ 
+2
+ This court notes that Lizarraga's opening brief does not comply
+with Hawai' i Rules of Appellate Procedure (HRAP) Rule 28(a), which provides
+that "[e]xcept after leave granted, an opening . . . brief shall not exceed 35
+pages[.]" Counsel is warned that future violations of HRAP Rule 28 may resultin sanctions. 
+3
+ Debra Ann Rawlins was also included as a party to the Note and
+Mortgage, but is not included as a party to this appeal.
+ 
+2
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+On May 14, 2010, BNYM proceeded with the foreclosure
+ 
+sale and, being the only bidder, purchased the Property for
+ 
+$675,000. Kevin A. Durham, who was authorized to act on behalf
+ of BNYM, executed "Mortgagee's Affidavit of Foreclosure Under
+ Power of Sale" (Affidavit of Foreclosure) on May 19, 2010. On
+ 
+June 2, 2010, the Affidavit of Foreclosure was recorded with the
+ 
+State of Hawai
+'i Bureau of Conveyances. On July 6, 2010, BNYM 
+executed and recorded a quitcliam deed (Deed), through which BNYM
+ 
+transferred all of BNYM's "right, title, and interest in" the
+ 
+Property to itself. The Deed stated:
+ 
+THAT WHEREAS, under and pursuant to [Grantor-BNYM's]
+foreclosure rights under power of sale as provided in Hawaii
+Revised Statutes Sections 667-5 through 667-10, and that
+certain first mortgage dated 8/21/2006 and recorded on
+8/31/2006 in the Bureau of Conveyance of the Regular
+Document System of the State of Hawaii, as Document No.
+2006-159953, [Grantor-BNYM] held a public auction on
+5/14/2010 at 12 NOON, wherein the [Property] was offered for
+sale and wherein [Grantee-BNYM] was the purchaser of said
+[P]roperty, all as set forth in [Affidavit of Foreclosure],
+recorded as aforesaid on 6/2/2010 as Document No.
+2010-075466;
+ 
+NOW, THEREFORE, [Grantor-BNYM] in consideration of the
+sum of $675,000.00 to [Grantor-BNYM] paid by [Grantee-BNYM],
+receipt whereof is hereby acknowledged, does hereby Release,
+Remise and Forever Quitclaim all of [Grantor-BNYM's] right,
+title and interest in and to all of the [Property] . . . unto
+[Grantee-BNYM];
+ 
+And the reversions, remainders, rents, issues and
+profits thereof and all of the right, title and interest of
+the [Grantor-BNYM], both at law and in equity, therein and
+thereto;
+ 
+TO HAVE AND TO HOLD the same, together with all rights,
+easements, privileges and appurtenances thereunto belonging
+or appertaining or held and enjoyed therewith unto [Grantee-
+BNYM], absolutely and in fee simple.
+ 
+On August 2, 2010, BNYM notified Lizarraga that the Property had
+ 
+been sold in a non-judicial foreclosure sale and demanded that
+ Lizarraga vacate the Property within ten calendar days. Lizarraga
+ refused to vacate the Property.
+ 
+On June 21, 2011, BNYM filed a "Verified Complaint for
+ 
+Ejectment" (Complaint) in Circuit Court, alleging that BNYM was
+ 
+the fee simple owner of the Property through a non-judicial
+ 
+foreclosure sale. BNYM's Complaint sought (1) a judgment granting
+ BNYM exclusive possession of the Property; (2) a writ of
+ possession directing the removal of Lizarraga from the Property
+ 
+3
+
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+and that the Property be placed in BNYM's possession; and (3) an
+ 
+award of damages, attorneys' fees, and costs to BNYM.
+ 
+On January 27, 2012, BNYM filed "Plaintiff's Motion for
+ 
+Summary Judgment and Writ of Possession" (Motion for SJ & Writ).
+ 
+In support of its Motion for SJ & Writ, BNYM attached various
+ 
+documents to demonstrate that it was entitled to foreclose upon
+ and possess the Property, including the Deed, the Affidavit of
+ Foreclosure, and a declaration from BNYM's counsel stating that
+ the "foreclosure was conducted in compliance with applicable
+ Hawaii law, specifically [Hawaii Revised Statutes (HRS)] Section
+ 
+667-5 and 667-10, as amended, and the terms and conditions of the
+ 
+recorded mortgage that was foreclosed."
+ 
+On February 2, 2012, pursuant to Hawai 'i Rules of Civil 
+4
+Procedure (HRCP) Rule 34  Lizarraga served BNYM with Lizarraga's
+first request for production of documents (Request for
+Production). On February 27, 2012, BNYM filed a motion for
+ 
+protective order against Lizarraga's Request for Production
+ 
+(Motion for Protective Order). BNYM's Motion for Protective Order
+ 
+stated: 
+[Lizarraga's] document request at this late juncture
+seeks information which is not relevant to the subject matter
+involved in the instant ejectment action and is not relevant
+to the subject matter involved in the instant ejectment
+action and is not reasonably calculated to lead to the
+discovery of admissible evidence. As a result, [BNYM] seeks
+a court order ruling that the discovery sought in
+[Lizarraga's] request not be had.
+ 
+On March 21, 2012, Lizarraga filed "[Lizarraga's] (1)
+ 
+4
+ HRCP Rule 34 provides, in relevant part:
+ 
+Rule 34.	 PRODUCTION OF DOCUMENTS, ELECTRONICALLY STORED
+INFORMATION AND TANGIBLE THINGS AND ENTRY UPON
+ LAND FOR INSPECTION AND OTHER PURPOSES.
+ 
+(a) Scope. Any party may serve on any other party a
+request . . . to produce and permit the party making the
+request, or someone acting on the requestor's behalf, to
+inspect and copy, any designated documents or electronically
+stored information . . . , or to inspect and copy, test, or
+sample any tangible things which constitute or contain
+matters within the scope of Rule 26(b) and which are in the
+possession, custody or control of the party upon whom the
+request is served[.]
+ 
+HRCP Rule 26(b)(1)(A) provides, in relevant part, that "[p]arties may obtain
+discovery regarding any matter, not privileged, which is relevant to the
+subject matter involved in the pending action[.]"
+ 
+4
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Opposition to [BNYM's] Motion for Protective Order and (2) Motion
+ 
+to Compel [BNYM] to Produce the Documents" (Motion to Compel). 
+The circuit court held hearings on April 10, 2012 and May 1, 2012
+ 
+to consider BNYM's Motion for SJ & Writ and Motion for Protective
+ Order, as well as Lizarraga's Motion to Compel. At the May 1,
+ 2012 hearing, the circuit court denied Lizarraga's Motion to
+ Compel, granted BNYM's Motion for Protective Order, and granted
+ BNYM's Motion for SJ & Writ.
+ 
+On May 22, 2012, Lizarraga filed "[Lizarraga's] Motion
+ 
+for Rehearing of Plaintiff's Motion for Summary Judgment and Writ
+ of Possession Filed January 27, 2012, and [Lizarraga's] Motion to
+ Compel [BNYM] to Produce Documents Filed March 21, 2012 and/or for
+ Reconsideration of this Court's May 1, 2012 Decision to Grant
+ [BNYM's] Motion for Summary Judgment and Deny [Lizarraga's] Motion
+ to Compel" (Motion for Rehearing/Reconsideration).
+ 
+On June 13, 2012, the circuit court entered its written
+ 
+order denying Lizarraga's Motion to Compel, order granting BNYM's
+ Motion for Protective Order, Order Granting Motion for SJ & Writ,
+ and Judgment for Possession. On June 29, 2012, the circuit court
+ entered a Writ of Possession. On August 28, 2012, the circuit
+ court held a hearing on Lizarraga's Motion for Rehearing/
+ Reconsideration and denied his motion. On September 18, 2012, the
+ circuit court entered its written Order Denying Motion for
+ Rehearing/Reconsideration.
+ 
+Also on September 18, 2012, Lizarraga filed a notice of
+ 
+appeal from the circuit court's (1) Order Granting Motion for SJ &
+ Writ; (2) Judgment for Possession; and (3) Order Denying Motion
+ for Rehearing/Reconsideration.
+II. STANDARD OF REVIEW
+ 
+A. Summary Judgment
+ 
+[An appellate] court reviews a trial court's grant of
+summary judgment de novo. O'ahu Transit Servs., Inc. v.
+Northfield Ins. Co., 107 Hawai' i 231, 234, 112 P.3d 717, 720
+(2005). The standard for granting a motion for summary
+judgment is well settled: 
+Summary judgment is appropriate if the pleadings,
+depositions, answers to interrogatories, and admissions
+on file, together with the affidavits, if any, show
+that there is no genuine issue as to any material fact
+and that the moving party is entitled to judgment as a
+matter of law. A fact is material if proof of that
+fact would have the effect of establishing or refuting
+ 
+5
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+one of the essential elements of a cause of action or
+ 
+defense asserted by the parties. The evidence must be
+ viewed in the light most favorable to the non-moving
+party. In other words, [the appellate court] must view
+all of the evidence and the inferences drawn therefrom
+ in the light most favorable to the party opposing the
+motion.
+ 
+Price v. AIG Hawai' i Ins. Co., 107 Hawai' i 106, 110, 111 P.3d
+1, 5 (2005) (original brackets and citation omitted). 
+Kamaka v. Goodsill Anderson Quinn & Stifel, 117 Hawai 'i 92, 104, 
+176 P.3d 91, 103 (2008). The Hawai 'i Supreme Court has further 
+explained the respective burdens of the moving and non-moving
+ 
+parties on summary judgment:
+ 
+The burden is on the party moving for summary judgment
+(moving party) to show the absence of any genuine issue as to
+all material facts, which, under applicable principles of
+substantive law, entitles the moving party to judgment as a
+matter of law. This burden has two components.
+ 
+First, the moving party has the burden of producing
+support for its claim that: (1) no genuine issue of material
+fact exists with respect to the essential elements of the
+claim or defense which the motion seeks to establish or which
+ the motion questions; and (2) based on the undisputed facts,
+it is entitled to summary judgment as a matter of law. Only
+when the moving party satisfies its initial burden of
+production does the burden shift to the non-moving party to
+respond to the motion for summary judgment and demonstrate
+specific facts, as opposed to general allegations, that
+present a genuine issue worthy of trial.
+ 
+Second, the moving party bears the ultimate burden of
+persuasion. This burden always remains with the moving party
+and requires the moving party to convince the court that no
+genuine issue of material fact exists and that the moving
+part is entitled to summary judgment as a matter of law.
+ 
+Tri-S Corp. v. W. World Ins. Co., 110 Hawaii 473, 488, 135 P.3d 
+82, 97 (2006) (quoting
+ French v. Hawaii Pizza Hut, Inc., 105
+ 
+Hawai'i 462, 470, 99 P.3d 1046, 1054 (2004)).'
+B. Motion to Compel
+ 
+"We review a trial court's ruling limiting the scope of
+ 
+discovery under the abuse of discretion standard." Fisher v.
+ 
+Grove Farm Co., 123 Hawai 'i 82, 94, 230 P.3d 382, 394 (App. 2009) 
+(citing State v. Fukusaku,  85 Hawai 'i 462, 477–78, 946 P.2d 32, 
+47–48 (1997)).
+ 
+III. DISCUSSION
+
+ 
+A. BNYM's Motion for SJ & Writ
+ 
+Lizarraga argues that the circuit court erred when it
+ 
+granted BNYM's Motion for SJ & Writ because genuine issues of fact
+ remained as to (1) whether BNYM had the actual and contractual
+ 
+6
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+authority to foreclose upon the Property; (2) whether the transfer
+ 
+of title to BNYM was void and unenforceable; (3) whether BNYM was
+ the holder of the Note with the right to foreclose upon the
+ Mortgage; and (4) whether the Note and Mortgage were "procured by
+ unfair and deceptive acts and practices."
+ 
+While Lizarraga provides various defenses to summary 
+judgment, this court must first determine whether BNYM, the moving party, met its initial burden of production. See Tri-S Corp., 110 
+Hawai
+'i at 488, 135 P.3d at 97. In order to maintain an ejectment 
+action, a plaintiff "must necessarily prove that he or she owns the parcel in issue, meaning that he or she must have the title to and right of possession of such [a] parcel[.]" Kondaur Capital 
+Corp. v. Matsuyoshi, 136 Hawai
+'i 227, 241, 361 P.3d 454, 468 
+(2015) (citations, internal quotation marks, and brackets omitted). When a plaintiff receives title to a property through a quitclaim deed, the legitimacy of plaintiff's title is intertwined with the validity of the foreclosure sale. Id. (noting that "[A] 
+quitclaim deed is capable of conveying only that which the predecessor-in-interest already possessed in the first place[.]"); see Hustace v. Kapuni, 6 Haw. App. 241, 245, 718 P.2d 1109, 1112 (1986). In addition, a plaintiff in an ejectment action "must establish that possession is unlawfully withheld by another." Kondaur, 136 Hawai
+'i at 241, 361 P.3d at 468) (quoting Carter v. 
+Kaikainahaole, 14 Haw. 515, 516 (Haw. Terr. 1902)). 
+Kondaur is the most recent Hawai 'i Supreme Court case 
+involving an ejectment action after a non-judicial foreclosure. In Kondaur, the mortgagee conducted a non-judicial foreclosure of the mortgagor's property under the power of sale. Kondaur, 136 
+Hawai
+'i at 230, 136 P.3d at 457. At the foreclosure sale, 
+mortgagee was the highest bidder. Id. Subsequent to purchasing 
+the property, mortgagee executed a quitclaim deed conveying the property to itself and then gave mortgagor notice to vacate the property. Id. When mortgagor did not vacate the property, 
+mortgagee filed a complaint against mortgagor, seeking a judgment for exclusive possession of the property and a writ of possession. Id. at 231, 361 P.3d at 458. Mortgagee filed a motion for summary judgment against mortgagor and attached its affidavit of 
+7
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+foreclosure under power of sale as "evidence that the power of
+ 
+sale was duly executed." Id. The lower court subsequently
+ 
+granted summary judgment in mortgagee's favor. Id. at 232, 361
+
+ 
+P.3d at 459.
+ 
+On appeal, the Hawai 'i Supreme Court held that "the 
+duties set forth in Ulrich [v. Sec. Inv. Co., 35 Haw. 158 (Haw.
+ Terr. 1939)] remain viable law and are applicable to non-judicial
+ foreclosure of real property mortgages." Kondaur,
+ 136 Hawai 'i at 
+229, 361 P.3d at 456. The supreme court maintained:
+ 
+Ulrich requires mortgagees to exercise their right to
+non-judicial foreclosure under a power of sale in a manner
+that is fair, reasonably diligent, and in good faith, and to
+demonstrate that an adequate price was procured for the
+property [(Ulrich requirements)]. In instances where the
+mortgagee assumes the role of a purchaser in a self-dealing
+transaction, the burden is on the mortgagee, or its quitclaim
+transferee or non-bona fide successor, to establish its
+compliance with these obligations. Its failure to do so would
+render the foreclosure sale voidable and could therefore be
+ set aside at the timely election of the mortgagor.
+ 
+Id. at 240, 361 P.3d at 467 (internal citations and footnotes 
+omitted) (citing Ulrich, 35 Haw. at 168). The supreme court determined that "the Ulrich requirements are not statutorily or contractually based" but, instead, are "separate and distinct from the requirements of the foreclosure statute and operative mortgage." Kondaur, 136 Hawai
+'i at 243, 361 P.3d at 470. 
+Consequently, "a mortgagee's minimal adherence to the statutory requirements and the terms of the mortgage . . . does not establish that the foreclosure sale similarly satisfied the Ulrich requirements." Id. 
+Applying the Ulrich requirements to the case before it,
+ 
+the supreme court held that the mortgagee's affidavit of
+ foreclosure under power of sale did not show that the sale was
+ conducted "in a manner that was fair, reasonably diligent, and in
+ good faith" nor did it show that an adequate price was obtained
+ for the sale of the property and, thus, mortgagee failed to
+ produce evidence that the foreclosure sale satisfied the Ulrich
+ requirements. Id. at 243, 361 P.3d at 470. The supreme court
+ 
+held that because mortgagee failed to meet its initial burden of
+ proof, summary judgment was erroneously granted in its favor. Id.
+ 
+at 242-44, 361 P.3d at 469-71. 
+Similar to the facts in Kondaur, BNYM obtained its
+ 
+8
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+interest in the Property through a self-dealing transaction and
+ 
+quitclaim deed and, therefore, was required (1) "to introduce
+ evidence that [BNYM] exercised its right to non-judicial
+ foreclosure under a power of sale in a manner that was fair,
+ reasonably diligent, and in good faith" and (2) "to demonstrate
+ that an adequate price was procured for the Property." Id. at
+ 
+242, 361 P.3d at 469 (citing Ulrich, 35 Haw. at 168). 
+In support of its Motion for SJ & Writ, BNYM submitted a 
+copy of the Deed and a declaration from its attorney stating that the foreclosure sale complied with HRS § 667-5 through -10 (1993) and the terms of the Mortgage. BNYM's evidence showed minimal adherence to the requirements of the statute and Mortgage; however, BNYM's evidence did not establish that the foreclosure sale satisfied the Ulrich requirements -- i.e., that the sale of the Property was conducted "in a manner that was fair, reasonably diligent, and in good faith" and that BNYM procured "an adequate price" for Property. See Kondaur, 136 Hawai
+'i at 242, 361 P.3d at 
+469. Because BNYM did not provide any evidence that the
+ 
+foreclosure sale complied with the Ulrich requirements, BNYM
+ failed to meet its initial burden of production and the burden
+ never shifted to Lizarraga to raise genuine issues of material
+ fact. See id. The circuit court, therefore, erred in granting
+ 
+summary judgment in BNYM's favor. See id. (holding that summary
+ 
+judgment was inappropriate where mortgagee failed to satisfy its
+ initial burden of showing that the foreclosure sale complied with
+ the requirements of Ulrich).
+5
+ 
+B. Motion to Compel
+ 
+Lizarraga contends the circuit court abused its
+ 
+discretion in denying his Motion to Compel discovery. Lizarraga
+ argues that his "document requests were narrowly tailored to the
+ foregoing issues, and were critical to the [c]ircuit [c]ourt's
+ determination of whether [BNYM] as Trustee had authority to
+ foreclose, whether it had a claim to title and standing to sue as
+ a plaintiff herein, and whether a fraud ha[d] been committed." 
+5
+ Because we hold that BNYM failed to satisfy its initial burden of
+production, we need not address the merits of Lizarraga's remaining points on
+appeal that challenge the circuit court's Order Granting Motion for SJ & Writ.
+ 
+9
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+The record demonstrates that Lizarraga had sufficient
+ 
+opportunity to conduct discovery, but unduly delayed doing so. 
+BNYM filed its Complaint on June 21, 2011. Lizarraga retained
+ counsel as early as August 8, 2011 when he filed an answer to the
+ Complaint. While BNYM began requesting discovery from Lizarraga
+ on October 14, 2011, Lizarraga failed to propound discovery on
+ BNYM until February 2, 2012. Notably, Lizarraga did not file his
+ Request for Production until after BNYM filed its January 27, 2012
+ Motion for SJ & Writ, which was more than seven months after BNYM
+ filed its initial Complaint.
+ 
+In addition, many of the documents requested in 
+Lizarraga's Request for Production -- such as the documents proving compliance with the Pooling and Serving Agreement (PSA), 
+the "complete employment history" of several BNYM signatories, and 
+the "original 'wet ink' Note" -- are not relevant to the question of whether BNYM was entitled to summary judgment in its ejectment action. See HRCP Rule 26(b)(1)(A) ("Parties may obtain discovery 
+regarding any matter, not privileged, which is relevant to the subject matter involved in the pending action[.]"; See also U.S. Bank Nat'l Ass'n v. Salvacion, 134 Hawai
+'i 170, 175-76, 338 P.3d 
+1185, 1190-91 (App. 2014) (holding that a mortgagor does not have standing to challenge mortgagee's non-compliance with the terms of a PSA); U.S. Bank Nat'l Ass'n v. Benoist, No. CAAP-14-0001176 at *4 (App. Nov. 12, 2015) (SDO) (holding that "purported use of 'robo-signers' did not prevent [mortgagor] from foreclosing on the [m]ortgage"); Wells Fargo Bank, N.A. v. Hensley, No. CAAP-12­0000089 at *3 (App. Mar. 28, 2013) (SDO) (holding that "The Hawai
+'i statutes governing non-judicial foreclosure [HRS § 667-5 
+to -10] do not expressly require that the foreclosing party produce a physical copy of the original note."). 
+"[T]he extent to which discovery is permitted under
+ 
+[HRCP] Rule 26 (as well as Rules 33 and 34) is subject to
+ considerable latitude and the discretion of the trial court." 
+Wakabayashi v. Hertz Corp., 66 Haw. 265, 275, 660 P.2d 1309, 1315­16 (1983) (brackets omitted); see Hensley, SDO at *3. Given
+ Lizarraga's delay, the nature of Lizarraga's requested discovery,
+ and the circuit court's discretion, the circuit court did not
+ 
+10
+ NOT FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+abuse its discretion when it denied Lizarraga's Motion to Compel.
+IV. CONCLUSION
+ 
+Therefore, we vacate the Circuit Court of the Fifth
+ 
+Circuit's (1) June 13, 2012 "Order Granting Plaintiff's Motion for
+ 
+Summary Judgment and Writ of Possession Filed January 27, 2012;"
+ (2) June 13, 2012 "Judgment for Possession;" and (3) September 18,
+ 2012 "Order Denying Defendant's Motion for Rehearing of
+ Plaintiff's Motion for Summary Judgment and Writ of Possession
+ Filed January 27, 2012, and Defendant's Motion to Compel Plaintiff
+ to Produce Documents Filed March 21, 2012 and/or for
+ Reconsideration of this Court's May 1, 2012 Decision to Grant
+ Plaintiff's Motion for Summary Judgment and Deny Defendant's
+ Motion to Compel Filed on May 22, 2012," except that we affirm the
+ circuit court's denial of Lizarraga's Motion to Compel. This case
+ is remanded for proceedings consistent with this Memorandum
+ Opinion.
+ 
+DATED: Honolulu, Hawai
+'i, June 8, 2016. 
+On the briefs:
+ 
+Gary Victor Dubin
+Frederick J. Arensmeyer
+Daisy Lynn B. Hartsfield(with them on the reply brief)
+Zeina Jafar
+ (Dubin Law Offices)
+for Defendant-Appellant.
+ Presiding Judge
+Associate Judge
+Associate Judge
+Rosalie Euna Kim
+(Reed Smith)
+and
+ Sharon V. Lovejoy
+Brandi J. Balanda (Starn O'Toole Marcus & Fisher)
+for Plaintiff-Appellee.
+ 
+
+ 
+11
+
+ 

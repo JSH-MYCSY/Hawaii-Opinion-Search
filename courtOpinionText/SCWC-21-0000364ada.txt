@@ -1,0 +1,773 @@
+*** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ʻI 
+ 
+---o0o--- 
+ 
+ 
+STATE OF HAWAI ʻI,  
+Respondent/Plaintiff- Appellee,
+ 
+vs.  
+ 
+TROY D. BORGE, JR.,  
+Petitioner/Defendant- Appellant. 
+  
+ 
+ 
+SCWC-21-0000364 
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS 
+(CAAP-21-0000364; CR. NO. 2CPC- 20-0000288 ) 
+ 
+MARCH 15, 2023 
+ 
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, WILSON, AND EDDINS, JJ.
+OPINION OF THE COURT BY McKENNA, J.   
+ 
+ 
+I.  Introduction  
+ This case addresses whether the Circuit Court of the Second 
+Circuit (“circuit court”)1 abused its discretion by denying Troy 
+D. Borge’s (“Borge”) motion to dismiss an indictment where , 
+                                                 
+1  The Honorable Kelsey T. Kawano presided.  Electronically Filed
+Supreme Court
+SCWC-21-0000364
+15-MAR-2023
+08:01 AM
+Dkt. 25 OP*** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 2 before the grand jury, the prosecutor elicit ed testimony that 
+Borge had invoked his right to remain silent.   
+ 
+We also address whether the circuit court erred by   
+awarding the complaining witness (“CW”) $1,461,444.01 in 
+restitution for hospital bills under Hawai‘i Revise
+d Statutes 
+(“HRS”) § 706- 646 (2014 & Supp. 2019) when (1) CW did not 
+request restitution for these amounts; and (2) most of the bills 
+were written off by the hospital a nd some were paid by CW’s 
+insurer, AlohaCare.  
+We hold the circuit court abused its  discretion when it 
+denied Borge’s motion to dismiss indictment .  The prosecutor 
+violated Borge’s Hawaiʻi due process right to a fair and 
+impartial grand jury hearing by eliciting testimony before the 
+grand jury that Borge invoked his right to remain silent.  
+With respect to restitution, interpreting HRS § 706- 646, we 
+hold that (1) restitution is limited to amounts requested by a 
+victim; and (2) the restitution awarded was not for CW’s 
+“reasonable and verified losses ” because (a) HRS § 706- 646(3) 
+allows for restituti on only for amounts “sufficient to reimburse  
+any victim fully for losses ” (emphasis added); ( b) the 
+collateral source rule does not apply; and (c) e ven if HRS § 
+706-646 was ambiguous, the rule of lenity would not allow the 
+restitution awarded here for the reasons already provided.   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 3  We therefore also overrule the opinion of the Intermediate 
+Court of Appeals (“ICA”) in State v. Tuialii, 121 Hawai ‘i 135, 
+214 P.3d 1125 (App. 2009), overruled on other grounds by State 
+v. Kealoha, 142 Hawai ‘i 46, 414 P.3d 98 (2018), which held that a 
+restitution award can include sums paid by a direct victim’s 
+insurer.  
+Hence, we  vacate the circuit court ’s September 3, 2020 
+findings of fact, c onclusions of law, and o rder denying motion 
+to dismiss indictment (“order denying motion to dismiss 
+indictment”), June 7, 2021 judgment of conviction and sentence 
+(“judgment”), and June 17, 2021  free-standing order of 
+restitution, as well as the ICA’s October 19, 2022 j udgment on 
+appeal, and we remand to the circuit court for dismissal of the 
+indictment and further proceedings consistent with this opinion. 
+II.  Background 
+A.  Factual background   
+On November 5, 2019, the Maui Police Department (“MPD”) 
+responded to an incident at the
+ Pā‘ia Youth and Cultural Center.  
+CW suffered serious injuries after Borge struck him on the head 
+several times with a piece of wood.  MPD arrested Borge the 
+following day and initiated criminal charges.  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 4  B.  Circuit court proceedings 
+ 1. First indictment 
+On November 22, 2019, the State of Hawai ʻi (“the State”) 
+presented the case to a grand ju
+ry, which returned an indictment 
+charging Borge with attempted second- degree murder in violation 
+of HRS §§ 705-500(2) (2014 ) and 707- 701.5 (2014 & Supp. 2018) .2  
+On April 13, 2020, however, the circuit court3 granted 
+Borge’s motion to dismiss t he first indictment without 
+prejudice.4  
+ 
+ 
+ 
+                                                 
+2  The State actually first prosecuted Borge in the District Court of the 
+Second Circuit (“district court” ) in case no. 2DCW -19-2338.  The complaint 
+charged Borge with attempted murder in the second degree.  The Honorable 
+Kristin M. Hamman found probable cause lacking for the attempted second -
+degree murder charge, but found probable cause for the lesser included 
+offense of first- degree assault.  The State then filed an amended complaint 
+charging attempted first -degree assault and the district court committed 
+Borge to the circuit court for further proceedings.   No further action 
+appears in the record on this cha rge.   
+ 
+ Then, on April 14, 2020, the day after the first indictment was 
+dismissed, the State filed a felony information against Borge 
+in case no. 
+2CPC-20-207, charging him with first -degree assault.  On September 13, 2021, 
+after Borge’s conviction and s entencing in th e case before this court, the 
+Honorable Kelsey T. Kawano granted the State’s motion to dismiss th e felony 
+information without prejudice .  
+ 
+3  The Honorable Rhonda I.L. Loo presided over the circuit court 
+proceedings in case no. 2CPC -19-795. 
+ 
+4  The circuit court concluded the State improperly presented hearsay 
+testimony regarding an eyewitness ’s statements to the police and statements 
+of CW’s treating physician.  The State appealed to the ICA, but the appeal 
+was dismissed after the State re -indicted Borge in the case now before this 
+court.  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 5  2. Second indictment 
+ On June 26, 2020, the State convened a second grand jury 
+proceeding.  The State presented testimony from an eyewitness 
+and MPD Detective Dennis Clifton  (“Detective Clifton”) . 
+Detective Clifton testified that he was assigned to 
+investigate the case and that  he met with Borge on November 7, 
+2019, the day after Borge was arrested.  The prosecutor then 
+questioned Detective Clifton about that contact: 
+Q.  . . .  . Did you notice any injures to Mr. Borge?  
+A.  No. 
+Q.  None to his head, arms, anyplace?  
+A.  No, sir.  
+Q.  Okay.  And you didn’t take any statement from Mr. 
+Borge? 
+A.  We attempted to question him, but he requested to speak 
+to an attorney . 
+ 
+(Emphases added.)  
+After completing questioning of Detective Clifton, the 
+prosecutor stated, “Before I proceed, Detective Clifton 
+testified [that] Mr. Borge was asking for an attorney.  I’m 
+going to advise the grand jury that you’re not to consider that 
+information in your deliberation.”  
+ On June 29, 2020, the grand jury returned a
+ second 
+indictment, again charging Borge with attempted second- degree 
+murder.  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 6   3. Motion to dismiss second indictment 
+ On July 17, 2020, Borge mo ved to dismiss th e second 
+indictment.5  Borge argued the prosecutor committed prosecutorial 
+misconduct before the grand jury in violation of his due process 
+rights by improperly eliciting  testimony that he had exercised 
+his right to remain silent.  He pointed to Detective Clifton ’s 
+testimony that MPD “attempted to question” Borge, “but he 
+requested to speak to an attorney.”  
+The circuit court denied Borge’s motion to dismiss the 
+second indictment and, on September 3, 2020, entered its order 
+denying motion to dismiss indictment.  
+4. No contest plea  
+ On December 7, 2020, Borge entered a no- contest plea to the 
+lesser included offense of a ssault in the f irst degree in 
+violation of HRS § 707-710 (2014).  Borge reserved the right to 
+                                                 
+5  Borge initially asserted HRS § 701- 110(2) (2014) and the doctrine of 
+collateral estoppel barred the indictment because the district court entered 
+a final order committing only the lesser included first -degree assault 
+charge, not the attempted second -degree murder charge, to the circuit court 
+for further proceedings.  Borge is not pursuing that claim on certiorari and 
+we therefore do not address it .  
+ 
+Borge also alleged the prosecutor presented excessive hearsay and 
+failed to present clearly exculpatory evidence.  He asserted the individual 
+and cumulative effect of the alleged misconduct violated his due process 
+right to a fair and unbiased grand jury.  In addition, Borge asserted the 
+indictment must be dismissed because the evidence presented to the grand jury 
+was insufficient to establish probable cause that Borge committed attempted 
+second-degree murder.   Because we hold the improper elicitation of testimony 
+regarding Borge’s invocation of his right to remain silent requires dismissal 
+of the indictment, we do not further discuss these additional arguments.  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 7    appeal the circuit court’s order denying motion to dismiss 
+indictment.  
+ 5. Sentencing, including restitution order  
+A presentence report was filed on February 2, 2021.  The 
+circuit court ordered the filing of a restitution report.  In 
+the Second Circuit, the court’s special services branch  contacts 
+those identified in the police report to determine whether they 
+are victims who have sustained losses and wish to submit claims 
+for restitution.  
+On April 7, 2021, the State filed a
+n addendum to the 
+presentence report regarding restitution.  It included a 
+restitution claim from CW’s mother requesting $6,320.66 for her 
+and her husband’s air fare, lodging, ground transportation, food, 
+and other expenses for their travel back and forth from their 
+North Dakota home due to CW’s injuries and hospitalizations .7  
+The court officer recommend ed restitution totaling $5,030.64 
+from these amounts.   The circuit court denied the claims from 
+CW’s parents. 
+However, th e addendum also included 115 pages of billing 
+records from Maui Memorial reflecting total medical bills of at 
+                                                 
+7  The request also included $100 for dental services and a $770 credit 
+card charge from Maui Health System’s Maui Memorial Medical Center (“Maui 
+Memorial”), both of which the court officer did not recommend based on 
+“insufficient documentation.”  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 8 least $1,461,444.01,8 and also reflecting  payments of $204,174.49 
+by AlohaCare as well as adjustments or write-off s of 
+$996,283.16.9 
+The circuit court held several 
+hearings  on sentencing and 
+restitution; Borge continuously objected to restitution being 
+ordered for the medical bills.10   
+On June 7, 2021, the circuit court entered its judgment
+, 
+convicting Borge of first- degree assault and sentencing him to a 
+ten-year term of imprisonment.  T he circuit court also sentenced 
+Borge to pay restitution of $1,461,444.01 for CW’s medical 
+bills.  On June 17, 2021, the circuit court also entered a free-
+standing order of restitution, ordering Borge to pay CW 
+the 
+$1,461,444.01. 
+ 
+ 
+                                                 
+8  According to the State, this is the total amount for all billings in 
+the record.  
+ 
+9  The bills appear to reflect payments of $160,008.20, $245.88, and 
+$43,920.41, sub- totaling $204,174.49 , adjustments or write -offs of 
+$617,625.08, $387.12, and $378,270.96, sub -totaling $996,283.16,  and a 
+remaining balance of $261,619.36.  These amounts would  total $1,462,077.01, a 
+difference from the $1,461,4 44.01 that would not be reconciled by the $7 70 
+credit card charge referenced supra in note 6.  These differences are 
+immaterial, however, for the rulings in this opinion.  
+ 
+10  At the June 4, 2021  hearing, the circuit court referenced a filing from 
+the State, “ consisting  of a declaration of custodian of records submitted 
+under cover from Alana Kushi (phonetic), who declares pursuant to declaration 
+that she is the patient financial services assistant with Maui Health System, 
+Maui Memorial Medical Center; that she is the custodian of records on behalf 
+of Maui Health System Maui Memorial Medical Center; that Maui Health System, 
+Maui Memorial Medical Center maintains the attached billing records; and 
+attached billing records are true and correct copies of the billing records; 
+and that those billing records contain 115 pages for ” CW.  This filing does 
+not appear in the record.  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 9 C.  ICA proceeding 
+On appeal, Borge asserted the circuit court erred when it  
+(1) denied his motion to dismiss the second indictment; and (2) 
+ordered he pay restitution to CW that included medical expenses 
+paid by CW’s insurance provider.  Borge repea ted the arguments 
+raised in his motion to dismiss the second indictment.  Borge 
+additionally argued the restitution order was not supported by 
+our restitution statute, HRS § 706 -646. 
+ On September 14, 2022, the ICA filed a s ummary disposition 
+order affirming the circuit court’s judgment.  State v. Borge, 
+No. CAAP-21- 0000364 (Haw. App. Sept. 14, 2022) (SDO).  With 
+respect to the issues we address on certiorari, the ICA 
+concluded the prosecutor’s examination of Detective Clifton did 
+not violate Borge’s due process right to a fair and impartial 
+grand jury.  Id. at 4-6.  Citing State v. Rodrigues , 113 Hawai ‘i 
+41, 147 P.3d 825  (2006), the ICA framed the prosecutor’s line of 
+inquiry “as detailing the actions Detective Clifton took the 
+night of the incident[.]”  Borge, SDO at 5  (citing Rodrigues, 
+113 Hawai‘ i at 49–50, 147 P.3d at 833-34).  The ICA noted 
+Detective Clifton referenced Borge’s silence only once .  Id.  
+The ICA reasoned that “the prosecutor did not comment on Borge’s 
+silence, did not use his silence to imply his guilt, and 
+immediately gave curative instructions to the grand jury[ ,]” so *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 10 the questioning did not constitute prosecutorial misconduct.  
+Id. at 6. 
+The ICA also addressed Borge’s assertion  that the 
+restitution order did not comply with the statutory requirements 
+set out by HRS § 706- 646.  Id. at 12-14.  The ICA cited its 
+Tuialii opinion  for the proposition that HRS § 706- 646 “does not 
+support the theory that a crime victim has not suffered a loss 
+if (or to the extent that) the victim has received 
+indemnification from its insurer[.]”  Borge, SDO at 12 (citing 
+State v. Martin, No. CAAP-19 -0000220 (Haw. App. Mar. 10, 2020) 
+(SDO) (citing Tuialii, 121 Hawai ʻi at 139
+-42, 214 P.3d at 1129-
+32)).  The ICA did not address Bor ge’s argument that the 
+insurance carrier was not a victim.  See  id. at 12-14. 
+D.  Certiorari proceedings 
+ On certiorari, Borge asserts the ICA erred in affirming the 
+circuit court’s (1) order denying  motion to dismiss indictment; 
+and (2) restitution order.  Borge repeats his arguments raised 
+below.   
+III.  Standards of Review 
+A.  Motion to dismiss indictment 
+ “A motion to dismiss an indictment is . . . reviewed for an 
+abuse of discretion.  The trial court abuses its discretion when 
+it clearly exceeds the bounds of reason or disregards rules or 
+principles of law or practice to the substantial detriment of a *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 11 party litigant.”  State v. Pitts , 146 Hawai ʻi 120, 129, 456 P.3d 
+484, 493 (2019) (citation s omitted).  “The burden of 
+establishing abuse of discretion is on appellant, and a strong 
+showing is required to establish it.”  State v. Wong , 97 Hawaiʻi 
+512, 517, 40 P.3d 914, 919 (2002) (citation omitted).  
+“[D]ismissal of an indictment is required only in flagrant cases 
+in which the grand jury has been overreached or deceived in some 
+significant way.”   97 Hawaiʻi at 526, 40 P.3d at 928.  
+B.  Constitutional violations 
+“Questions of constitutional law are reviewed under the 
+right/wrong standard.”  Pitts, 146 Hawai ‘i at 129, 456 P.3d at 
+493 (citation omitted).  
+C.  Statutory interpretation 
+“The interpretation of a statute is a question of law.  
+Review is de novo , and the standard of review is right/wrong.”  
+Kimura v. Kamalo, 106 Hawai ‘i 501, 507, 107 P.3d 430, 436 (2005) 
+(citation omitted).  Our statu tory interpretation is guided by 
+the following principles: 
+First, the fundamental starting point for statutory 
+interpretation is the language of the statute itself.  
+Second, where the statutory language is plain and 
+unambiguous, our sole duty is to give effect to its plain 
+and obvious meaning.  Third, implicit in the task of 
+statutory construction is our foremost obligation to 
+ascertain and give effect to the intention of the 
+legislature, which is to be obtained primarily from the 
+language contained in the statute itself.  Fourth, when 
+there is doubt, doubleness of meaning, or indistinctiveness 
+or uncertainty of an expression used in a statute, an 
+ambiguity exists.  And fifth, in construing an ambiguous 
+statute, the meaning of the ambiguous words may be sought *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 12 by examining the context, with which the ambiguous words, 
+phrases, and sentences may be compared, in order to 
+ascertain their true meaning.  
+ 
+Ito v. Invs. Equity Life Holding Co., 135 Hawai ʻi 49, 61, 346 
+P.3d 118, 130 (2015) (citation omitted).  
+IV.  Dis cussion 
+A. The prosecutor violated Borge’s due process right to a 
+ fair and impartial grand jury hearing by eliciting 
+ testimony before the grand jury that Borge invoked his 
+ right to remain silent 
+ 
+Article I, section 5 of the Constitution of the State of 
+Hawaiʻi provides that no person shall be deprived of liberty 
+without due process of law.  We have recognized that due process 
+of law requires a fair and impartial grand jury hearing.  
+State 
+v. Rodrigues, 63 Haw. 412, 417, 629 P.2d 1111, 1115 (1981).  
+Further, prosecutorial misconduct that undermines the 
+fundamental fairness and integrity of the grand jury process is 
+presumptively prejudicial.  Wong, 97 Hawaiʻi at 517-18, 40 P.3d 
+at 919-20 (citations omitted).  But “‘prosecutorial misconduct ’ 
+is a legal term of art that refers to any improper action 
+committed by a prosecutor, however harmless or unintentional. ”  
+State v. Williams, 146 Hawai‘ i 62, 72, 456 P.3d 135, 145 (2020) 
+(citation omitted).  
+ We have also repeatedly recognized the importance of th e 
+constitutional right against self -incrimination.  See, e.g. , 
+State v. Mainaaupo , 117 Hawai‘ i 235, 252, 178 P.3d 1, 18 (2008) *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 13 (“There is nothing more basic and more fundamental than that the 
+accused has a constitutional right to remain silent, and the 
+exercise of this privilege may not be used against [them].” 
+(citations omitted))
+.  This right is secured  by article I, 
+section 10 of the Hawai ‘i Constitu
+tion, which provides, “nor 
+shall any person be compelled in any criminal case to be a 
+witness against oneself .”  The ri ght against self-incrimination 
+is sacrosanct.  See Brown v. Walker, 161 U.S. 591, 637 (1896) 
+(“The reprobation of compulsory self -incrimination is an 
+established doctrine of our civilized society.”); Havard v. 
+State, 94 So.3d 229, 237 (Miss. 2012) (“A defendant’s right 
+against self incrimination is not only sacrosanct, but is 
+commonly known across this land.”).  
+Hence, w e have held the right prohibits the prosecution 
+from adducing evidence of or commenting on a person’s exercise 
+of that right.  See State v. Beaudet-Close, 148 Hawai ʻi
+ 66, 72-
+73, 468 P.3d 80, 86 -87 (2020).  We have further held that a 
+prosecutor may not directly or indirectly imply guilt by 
+eliciting testimony  during a question -and-answer exchange with  a 
+witness at trial concerning a defendant ’s exercise of their 
+right to remain silent.  State v. Tsujimura , 140 Hawai ʻi 299, 
+315-18, 400 P.3d 500, 51 6-19 (2017) .  In those circumstances, we 
+have applied the following test:  “ whether the prosecutor 
+intended for the information elicited to imply the defendant’s *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 14  guilt or whether the character of the information suggests to 
+the factfinder that the defendant’s prearrest silence may be 
+considered as inferential evidence of the defendant’s guilt.”  
+140 Hawai‘ i at 315, 400 P.3d at 516 (citing Rodrigues , 113 
+Hawai‘i 41, 147 P.3d 825).  
+Before the second grand jury, the prosecutor  asked 
+Detective Clifton “And you didn’t take any statement from Mr. 
+Borge?”  Detective Clifton responded , “We attempted to question 
+him, but he requested to speak to an attorney.”   
+The prosecutor may not have known that Detective Clif ton 
+would respond as he did.  But he did know Borge had refused to 
+make a statement.  If a grand jur or had asked that question, the 
+prosecutor or grand jury counsel would have needed to inform the 
+jury that it was not a proper question.   It is difficult to 
+understand why, in any  grand jury proceeding, a prosecutor would 
+ask an officer whether he obtained the defendant’s statement 
+when the answer is “no.”  Not only is such a question not needed 
+to obtain an indictment,11 absent unusual circumstances, the 
+question and answer would violate a defendant’s constitutional 
+right against self-incrimination.  
+Regarding unusual circumstances, 
+the State, as well as the 
+ICA, opine that the question and answer were allowed by 
+                                                 
+11  During the first grand jury proceeding, the State did not ask Detective 
+Clifton whether Borge had given a statement before the jury returned the 
+attempted murder indictment.   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 15 Rodrigues, 113 Hawai ʻi 41, 147 P.3d 825.  See Borge, SDO at 5- 6 
+(citing Rodrigues, 113 Hawaiʻ i at 49–50, 147 P.3d at 833–34).  In 
+Rodrigues, at trial, the prosecutor elicited testimony that the 
+defendant declined to agree to an audiotaped reiteration of his 
+post-arrest statement to a detective.  113 Hawai‘i at 49, 147 
+P.3d at 833.  We held that , under the circumstances of that 
+case, the elicited statement was not an improper comment on the 
+defendant’s refus al to testify.  113 Hawai‘i at 49-50, 147 P.3d 
+at 833-34.  We stated the prosecutor’s conduct  was not improper 
+because the question was posed and the information was elicited 
+“as part of the prosecution’s effort to maximize the 
+reliability” of the det ective’s recollections “and to explain 
+why the detective could only rely on his notes and not an 
+audiotape of the interview[.]”   Id.   
+ Rodrigues , however, concerned unusual circumstances in a 
+trial setting.  The opinion does not affect a defendant’s 
+fundamental right against self- incrimination, nor  the 
+prohibition against the State adducing evidence of or commenting 
+on a defendant’s exercise of that right.  Rodrigues  held that 
+the circumstances there d id not rise to an improper comment on 
+the defendant’s refusal to testify , but its holding is limited 
+to the unusual facts of that case.  Rodrigues  does not stand for 
+the proposition that the State can routinely ask an officer 
+whether there was an attempt t o take a defendant’s statement , *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 16 knowing that the defendant had refused, under the guise of 
+establishing that an officer conducted a thorough investigation.  
+ Further, Rodrigues also said the “line of inquiry designed 
+to establish the detective’s custom and  practice regarding 
+accurately transcribing such statements, was unaccompanied by 
+any implication of guilt[.]”  Id.; see also  Tsujimura, 140 
+Hawaiʻi at 318, 400 P.3d at  519 (emphasizing that R odrigues does 
+not permit the indirect use of a defendant’s silence to imply 
+guilt).  Rodrigues also does not mean, however,  that if the 
+State posits that testimony adduced regarding a defendant’s 
+exercise of the right against self-
+incrimination was not 
+intended to imply guilt, admission of or comment on such 
+testimony becomes permissible.  Such a subjective standard would 
+vitiate a defendant’s right against self -incrimination.  
+ Rather, we hold that in the grand jury context, the test is 
+whether the prosecutor intended for the information elicited to 
+imply probable cause exists or whether the character of the 
+information suggests to the jurors  that the accused’s silence 
+may be considered as inferential evidence to find probable 
+cause.  See Tsujimura, 140 Hawai ‘i at 315, 400 P.3d at 516 
+(citing Rodrigues, 113 Hawai‘ i 41, 147 P.3d 825).   Here, whether 
+or not the State anticipated Detective Clifton ’s response,12 the 
+                                                 
+12  The State argues the prosecutor ’s inquiry did not cons titute misconduct 
+because Detective Clifton’s testimony was non-responsive.  Although the  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 17  character of the evidence clearly indicates its presentation was 
+improper.  The State adduced express evidence  that Borge refused 
+to give a statement to Detective Clifton.  Simply put, the 
+prosecutor should not have posed the question in the first 
+place.13 
+The question and answer constituted a flagrant violation of 
+Borge’s due process rights.  Hence, we hold the circuit court 
+abused its discretion when it denied Borge’s motion to dismiss 
+this indictment.   
+B.   The circuit court erred by ordering Borge to pay 
+ $1,461,444.01 in restitution to CW 
+  
+Borge also asserts the circuit court erred by ordering him 
+to pay CW $1,461,444.01 in restitution for medical bills from 
+                                                                                                                                                             
+prosecutor’s question technically called for a “yes” or “no” answer, 
+Detective Clifton’s answer was responsive.  It addressed whether he took a 
+statement from Borge; indeed, the question itself implicated Borge’s righ t to 
+remain silent.  W e do not address possible scenarios in which a witness’s 
+answer is completely non -responsive. 
+ 
+13  The ICA also agreed with the State’s contention that the prosecutor 
+advisement to the grand jury to disregard Detective Clifton’s cured any 
+misconduct.  Borge, SDO at 5-6.  We have held a  curative instruction can 
+sometimes “cure”  prosecutorial misconduct.  Mainaaupo, 117 Hawai ‘i at 255, 178 
+P.3d at 21 (citation omitted).  We note that a  “cure” generally comes from a 
+judge’s instruction, not from a prosecutor.  HRS § 612-16(d) (2016) provides 
+in relevant part: 
+ 
+[T]he [cir cuit] court shall give [the grand jur ors] such 
+information as it may deem proper as to their duties and as 
+to the law pertaining to such cases as may come before 
+them.  The court may further charge the grand jurors and 
+alternate grand jurors from time to time, as it may deem 
+necessary.   
+ 
+ In any case, the “advisement” given  here could not have constituted a 
+“cure” even if given by the circuit court.  The advisement was merely to 
+disregard D etective Clifton’s testimony that Borge “was asking fo r an 
+attorney.”  There was no instruction to disregard Borge’s refusal to give a 
+statement, i.e., his exercise of his right to remain silent.  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 18 Maui Memorial.  Borge asserts the ordered restitution does not 
+comply with HRS § 706
+-646. 
+HRS § 706 -646 provides in relevant part:   
+(1) As used in this section, “victim” includes  any of the 
+following:  
+(a) The direct victim of a crime including a business 
+entity, trust, or governmental entity ; 
+. . . . 
+(c) A governmental entity that has reimbursed the 
+victim for losses arising as a result of the crime or 
+paid for medical care provided to the victim as a 
+result of the crime[.] 
+. . . . 
+(2) The court shall order the defendant to make restitution 
+for reasonable and  verified losses suffered by the victim 
+or victims as a result of the defendant’s offense when 
+requested by the victim. . . .  
+(3) In ordering restitution, the court shall not consider 
+the defendant’s financial ability to make restitution in 
+determining the  amount of restitution to order.  The court, 
+however, shall consider the defendant’s financial ability 
+to make restitution for the purpose of establishing the 
+time and manner of payment.  . . . Restitution shall be a 
+dollar amount that is sufficient to reimburse any victim 
+fully for losses, including but not limited to : 
+(a) Full value of stolen or damaged property, as 
+determined by replacement costs of like property, or 
+the actual or estimated cost of repair, if repair is 
+possible;  
+(b) Medical expenses, which shall include mental  
+health treatment, counseling, and therapy ; 
+(c) Funeral and burial expenses; and  
+(d) Lost earnings, which shall include paid leave.  
+ 
+(Emphases added.) 
+For the following reasons, w
+e agree that the circuit 
+court’s restitution or der was erroneous and must be vacated.     
+1. Under HRS §  706-646, restitution is only to be  
+ awarded to a victim only for amounts requested 
+ 
+ Subsection (1) of HRS §  706-646 allows for restitution to a 
+“victim.”  Under HRS § 706- 646(1)(a) and (c), “victim” means the 
+“direct victim of a crime ” or a “governmental entity that has *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 19  reimbursed the victim for losses arising as a result of the 
+crime or paid for medical care provided to the victim as a 
+result of the crime[ .]”  CW is obviously a direct victim under 
+subsection (1)(a).  The record does not indicate, however, that 
+Maui Memorial and AlohaCare are governmental entities.  In any 
+event, the restitution was awarded to CW.  
+In State v. Demello, 136 Hawai ‘i 193, 196, 361 P.3d 420, 423 
+(2015), we held HRS § 706- 646 allows for restitution of a 
+victim’s losses that are (1) reasonable, (2) verified, (3) 
+suffered as a result of the defendant’s conduct, and (4) 
+requested by the victim.  The language in requirement (4) 
+expressly appears in subsection (2).  See HRS § 706-646(2). 
+Here, the circuit court awarded $1,461,444.01 in 
+restitution to CW for medical bills from Maui Memorial.  But CW 
+did not request restitution for these medical bills.  Rather, 
+the record includes  a restitution  claim from CW’s mother 
+requesting $6,320.66 for her and her husband’s air fare , lodging, 
+ground transportation, food, and other expenses for their travel 
+back and forth from their North Dakota home due to CW’s injuries 
+and hospitalizations.14  Even if we assume CW’s parents had 
+requested restitution on behalf of CW, CW never requested 
+restitution for the medical bills that were awarded to him.  
+                                                 
+14  As noted, the request also included $100 for dental services and a $770 
+credit card charge from Maui Memorial,  both of which the court officer did 
+not recommend based on “insufficient documentation.”  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 20  Therefore, for this reason alone, the circuit court erred by 
+awarding the $1,461,444.01 in medical expenses as restitution to 
+CW.  
+2. The restituti on awarded was not for CW’s reasonable 
+ and verified losses   
+ 
+Borge also argues that  restitution was erroneously ordered 
+because AlohaCare paid Maui Memorial for CW’s medical expenses.  
+In other words, he argues that payments made on behalf of a 
+direct victim by collateral sources are not “reasonable and 
+verified losses” of the direct victim.15 
+The circuit court awarded restitution for the total of 
+billings from Maui Memorial, including payments of at least 
+$204,174.49 by AlohaCare and $996,283.16 in adjustments or 
+write-offs.16   
+ a. HRS §  706-646(3) allows for restitution only for  
+   amounts sufficient to reimburse a victim fully  
+   for losses 
+   
+ HRS §  706-646(3) expressly provides that “[r]estitution 
+shall be a dollar amount that is sufficient to reimburse any 
+victim fully for losses[.] ”  HRS § 706 –646 does not define 
+“losses” other than the categories of “losses” listed in 
+subsection (3).  Construing an early version of the original 
+                                                 
+15  We address this issue based on the “capable of repetition, yet evading 
+review” exception to the mootness doctrine.  See State v. Tui, 138 Hawai ʻi 
+462, 468, 382 P.3d 274, 280 (2016).  
+ 
+16  See supra note 8. *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 21 restitution statute, however, we stated, “[t]he total amount of 
+the restitution ordered by the trial court should be the actual 
+loss or damage incurred by the victim .”  State v. Johnson, 68 
+Haw. 292, 295, 711 P.2d 1295, 1298 (1985) (emphasis added) 
+(citing HRS §§ 706 –605(1)(e), 706 –624(2)(i)).17   
+The plain language of HRS §  706-646(3) does not allow a 
+restitution award to include adjustments of bills written off by 
+medical providers.  The victim never paid these amounts.  Hence, 
+the victim does not need to be “reimbursed” for amounts never 
+paid.   
+By the same token, this plain  language does not allow a 
+restitution award to a direct victim to include medical expenses 
+paid by an insurer or indemnifier.  A direct victim has not paid 
+these amounts, so there is nothing to “reimburse.”   
+Amounts paid by a medical or casualty insurer differ  from 
+the “lost wages” we allowed in Demello, which is now reflected 
+in section 706-646(3)(d), which provides restitution for “[l]ost 
+earnings, which shall include paid leave.”  This is because a 
+victim should be “reimbursed” for paid leave the victim used due 
+to a defendant’s offense, which the victim otherwise would have 
+been able to take for other reasons. 
+ 
+                                                 
+17  In Johnson, we used the term “actual loss” to affirm a restitution 
+order in the amount of “$5,406.33 less $75.00 .”  68 Haw. at 295- 97, 711 P.2d 
+at 1298- 99. *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 22  b. The collateral source rule does not apply 
+The circuit court applied  the ICA’s opinion in Tuialii, 121 
+Hawaiʻi 135, 214 P.3d 1125, when it ordered this restitution 
+award.   
+ In Tuialii, the ICA held the trial court properly ordered 
+restitution to a direct victim of sums already paid by its  
+insurer.  121 Hawai ‘i at 139, 214 P.3d at 1129.  The ICA 
+posited 
+that HRS § 706- 646 does not call for reduction of restitution 
+due to insured victims.  121 Hawai‘ i at 140, 214 P.3d at 1130.  
+The ICA opined the legislature “had two intended purposes when 
+adopting restitution”:  
+[I]n the criminal justice system, the victim of crime is 
+almost always negle cted.  By requiring the “convicted 
+person” to make restitution and reparation to the 
+victim, justice is served .  In so doing, the criminal 
+repays not only “society” but the persons injured by the 
+criminal’s acts.  There is a dual benefit to this concept:  
+The victim is repaid for his loss and the criminal may 
+develop a degree of self -respect and pride in knowing that 
+he or she has righted the wrong committed . 
+ 
+121 Hawai‘ i at 141, 214 P.3d at 1131 (second emphasis added) 
+(quoting S. Stand. Comm. Rep. No. 789, in 1975 Senate Journal, 
+at 1132).  The ICA concluded that requiring a defendant to pay 
+restitution, even for amounts indemnified by the direct victim’s 
+insurer, “furthers the rehabilitative purposes of HRS § 706 -646 
+to the greatest extent possible.”  121  Hawai‘i at 142, 214 P.3d 
+at 1132.18   
+                                                 
+18  The ICA concluded a criminal court therefore “need not sort out 
+insurance indemnities, subrogation rights, and/or other potential civil law *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+23 Justice Pollack ’s dissent in Demello opined that, contrary 
+to Tuialii, “losses” do not include amounts covered by 
+collateral sources like insurance.  See Demello, 136 Hawai ‘i at 
+216 n.24, 361 P.3d at 443 n.24 (Pollack, J., dissenting) (“[A]n 
+order of restitution based on gross receipts, instead of net 
+income, would seemingl y not represent [the victim’s] actual 
+loss.” (emphasis added)) .  We now address the issue and agree 
+that the collateral source rule does not apply to HRS §  706-646. 
+The collateral source rule is a common law doctrine.  Bynum  
+v. Magno, 106 Hawai ‘i 81, 86 n.11, 101 P.3d 1149, 1154 n.11
+(2004) (citing Restatement (Second) of Torts § 920A cmt. d 
+(1979)).19  At common law, a civil defendant would be  entitled to 
+a jury trial for amounts over $5,000 under article I, section 13 
+of the Hawai‘i Constitution.   The Hawaiʻi Rules of Evidence 
+(“HRE”), HRS Chapter 626, would govern a trial determination of 
+whether medical expenses are reasonable and causally related to 
+implications before ordering a thief or other criminal to repay his victim 
+under the criminal restitution statute. ”  121 Hawaiʻ i at 142, 214 P.3d at 
+1132.  This court rejected certiorari.  State v. Tuialii, No. 29239 (Haw. 
+Jan. 11, 2010) (order), denying cert. to 121 Hawai ‘i 135, 214 P.3d 1125  (App. 
+2009). 
+19As explained in Bynum, in general, the collateral  source rule is a tort
+law concept that payments made to an injured person from an independent 
+source does not diminish recovery from the wrongdoer.   106 Hawai‘i at 86, 101
+P.3d at 1154. The Restatement (Second) of Torts § 920A  provides that, under 
+the collateral source rule, p ayments made to or benefits conferred on an 
+injured party from other sources are not credited against the tortfeasor ’s 
+liability, “ although they cover all or a part of the harm for which the 
+tortfeasor is liable. ”  Comment b to section 920A further explains that 
+although double compensation may result to the plaintiff, such a benefit 
+should redound to the injured party rather than “become a windfall” to the 
+party causing the injury.  Restatement (Second) of Torts § 920A cmt. b.  
+ *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 24 an incident.  Pursuant to HRE Rule 1101(d)(3) (2016), however, 
+the 
+Hawaiʻi Rules 
+of Evidence do not even apply to sentencing 
+proceedings, including restitution determinations. 
+ The rest itution at issue here is simply not based on the 
+common law of torts; it is a statutorily authorized remedy under 
+the Hawaiʻ i
+ Penal Code.  And the goal of restitution has 
+traditionally generally been to prevent injustice and unjust 
+enrichment, Small v. Badenhop, 67 Haw. 626, 636 &  n.12 & 13, 701 
+P.2d 647, 654 & n.12 & 13 (1985), and not to award “damages” to 
+which the tort-action collateral source rule applies.  
+Hence, we hold the collateral source rule does not apply to 
+restitution under HRS § 706 -646.  Application of the rule would 
+be inconsistent with the plain language of subsection (3), which 
+only allows for a victim to be “reimbursed” for actual losses. 
+ Hence, the ICA’s holding in Tuialii  that a restitution 
+award can include sums paid by  an insurer to a victim is 
+overruled.   
+c.  Even if HRS § 706 -646 was ambiguous, the rule of 
+ lenity would now allow the restitution awarded 
+ in this case 
+ 
+Finally, if a statute is ambi guous, and the legislative 
+history does not provide sufficient guidance, we follow 
+the rule of  lenity.  The rule of lenity provides that where a 
+criminal statute is ambiguous, it “must be strictly construed 
+against the government and in favor of the accused. ”  State v. *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 25  
+ 
+ 
+ Guyton, 135 Hawai ʻi 372, 380, 351 
+P.3d 1138, 1146 (2015) 
+(citations  omitted); see  also Bittner v. United States, 143 S. 
+Ct. 713, 724 (2023) (“Under the rule of lenity, this Court has 
+long held, statutes imposing penalties are to be ‘construed 
+strictly’ against the government and in favor of individuals
+.” 
+(citation omitted)) .   
+HRS § 706 -646 is not ambiguous with respect to the 
+restitution issues addressed in this opinion.  But, even if it 
+was, the rule of lenity would mandate that we interpret the 
+statute in Borge’s favor  based on the reasons already explained.   
+For all these reasons, the circuit court erred by awarding 
+$1,461,444.01 in restitution to CW.  
+V.  Conclusion 
+Based on the reasoning above, we vaca te the circuit court ’s 
+September 3, 2020 findings of fact, conclusions of law, and 
+order denying motion to dismiss indictment, June 7, 2021 
+judgment of conviction and sentence, and June 17, 2021 free-
+standing order of restitution, as well as the ICA’s October 19, 
+2022 judgment on appeal, and we remand to the circuit court for  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+26 dismissal of the indictment and further proceedings consistent 
+with this opinion. 
+Hayden Aluli  
+for petitioner/s/ Mark E. Recktenwald 
+ 
+/s/ Paula A. Nakayama  
+Renee Ishikawa Delizo
+for respondent   
+/s/ Sabrina S. McKenna  
+/s/ Michael D. Wilson  
+/s/ Todd W. Eddins  

@@ -1,0 +1,305 @@
+  NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+NO. CAAP-20-0000033 
+IN THE INTERMEDIATE COURT OF APPEALS 
+OF THE STATE OF HAWAI# I 
+BRYAN MEYER, Petitioner-Appellant,
+v. 
+S
+TATE OF HAWAI# I, Respondent-Appellee, 
+APPEAL FROM THE DISTRICT COURT OF THE FIRST CIRCUIT
+(CASE NO. 1DTA-16-03836; 1SD191000004)  
+MEMORANDUM OPINION 
+(By:  Leonard, Presiding Judge, Hiraoka and Nakasone, JJ.) 
+Petitioner-Appellant Bryan Meyer (Meyer
+) appeals from 
+the Findings of Fact (FOFs), Conclusions of Law (COLs), and Order 
+Denying [Hawai# i Rules of Penal Procedure (HRPP)] Rule 40 
+Petition for Post Conviction Relief (
+Order Denying Rule 40 
+Petition), filed January 3, 2020 by the District Court of the 
+First Circuit (District Court).1 
+On appeal, Meyer contends the District Court erred in 
+concluding: (1) that his due process rights were not violated by 
+Respondent-Appellee State of Hawai# i 's (State) failure to produce 
+information favorable to him in violation of Brady v. Maryland
+, 
+373 U.S. 83 (1963),2 and (2) that he was not denied effective 
+assistance of counsel. Meyer requests that the Order Denying 
+1 The Honorable Clarence A. Pacarro presided in the Rule 40 post-
+conviction proceedings. 
+2 In Brady, the United States Supreme Court held that under the due
+process clause, the prosecution was required to disclose evidence favorable to
+the accused where the evidence is material to guilt or to punishment, and thatfailure to disclose would deprive the accused of a fair trial.  373 U.S. at 87-88.  
+ NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Rule 40 Petition and his conviction be vacated, and this matter 
+be remanded for a new trial.  
+We hold that the State's failure to disclose the report 
+at issue, which consisted of material impeachment evidence under Brady, violated due process, and the Rule 40 Petition should have been granted.  We thus vacate and remand. 
+I. BACKGROUND 
+The pertinent background, some of which is derived from 
+the uncontested FOFs
+3 in the Order Denying Rule 40 Petition, is 
+as follows: 
+OVUII trial 
+On November 1, 2016, Meyer was charged, via Complaint, 
+with Operating a Vehicle Under the Influence of an Intoxicant 
+(OVUII) in violation of Hawaii Revised Statutes (HRS) 
+§ 291E-61(a)(1).  FOFs 1-2.  At trial,4 two Honolulu Police 
+Department (HPD) officers testified as follows:  Officer Russell Maeshiro (Officer Maeshiro) testified as to observing Meyer veer 
+out of lane three times and indicia of alcohol consumption; 
+Officer Lordy Cullen (Officer Cullen) testified as to indicia of 
+Meyer's alcohol consumption, to the instruction and demonstration 
+of the standardized field sobriety test (SFST), and as to Meyer's 
+performance on the SFST.  FOF 4.
+5 Meyer testified.  FOF 5. 
+After closing arguments, the trial court made the 
+following findings:6 
+THE COURT: . . . . So as has already been discussed at
+length, there was almost no testimony inconsistent between 
+3 Unchallenged FOFs are binding on the parties and on appeal.  
+State v. Rodrigues, 145 Hawai #i 487, 494, 454 P.3d 428, 435 (2019) (quoting
+Kelly v. 1250 Oceanside Partners, 111 Hawai #i 205, 227, 140 P.3d 985, 1007 
+(2006)). 
+4 The Honorable James H. Ashford presided over the underlying OVUII 
+proceedings.  For clarity, the proceedings before Judge Ashford are referred
+to as "trial court," while the proceedings before Judge Pacarro are referredto as "District Court." 
+5 The Order Denying Rule 40 Petition contains typographical error
+consisting of two separate FOFs numbered as "4." 
+6 The transcript of the March 16, 2017 trial was supplied as an
+exhibit to Meyer's Rule 40 Petition. 
+2  
+  
+ NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Officer Maeshiro and defendant.  So I do take as credible 
+and accurate everything that Officer Maeshiro testified to. 
+. . . . 
+So that takes us away from Maeshiro's testimony into
+–- into Officer Cullen and the defendant's testimonyregarding the field sobriety test. . . . 
+. . . . 
+Candidly I'm not saying that Mr. Meyer is lying, but I'm
+very concerned about his ability to accurately perceive andaccurately recall what transpired. 
+So on balance I accept Officer Cullen's testimony.  And to 
+the extent it –- defendant's testimony is inconsistent on thesepoints, I reject the defendant's testimony. 
+. . . . 
+So, Mr. Meyer, I think you understand this, but to be
+perfectly clear, you're convicted.  I buy the State's–- Iaccept as true what the officers testified to. 
+On March 16, 2017, Meyer was convicted as charged. FOF 6. 
+OVUII appeal 
+Meyer appealed his judgment of conviction and sentence 
+to this court on May 16, 2017.  FOF 7.  On February 19, 2019, we affirmed the judgment "without prejudice to any subsequent 
+petition under [HRPP] Rule 40, to the District Court addressing the ineffective assistance of counsel claim raised herein." State v. Meyer, No. CAAP-17-0000420, 2019 WL 181144, at *5 (App. Jan. 14, 2019) (SDO).
+HRPP Rule 40 
+On May 16, 2019, Meyer filed a Rule 40 Petition for 
+Post Conviction Relief (Rule 40 Petition) with the District 
+Court. In his Rule 40 Petition, Meyer argued that the State was 
+in possession of a seventeen-page report summarizing an internal 
+investigation of Officer Cullen (Cullen Report)
+7 for Unauthorized 
+Computer Access in the First Degree (Unauthorized Computer Access 
+7 The Cullen Report detailed allegations that Officer Cullen used
+another officer's computer login credentials to request special duty
+assignments.  The Honolulu Department of the Prosecuting Attorney declined toprosecute the case. 
+3 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+First)8 that occurred in 2010, and that the State failed to 
+disclose the report to Meyer's trial counsel9 during the pendency 
+of Meyer's OVUII trial.  Meyer argued that the State's 
+withholding of the report was a violation of the rule in Brady,10 
+as "this information would have been favorable to [Meyer] giving[Meyer] the opportunity to cross examine [Officer] Cullen on the  
+favorable materials pursuant to Hawai# i Rules of Evidence [(HRE)] 
+Rule 608(b) . . . ."
+11  Meyer's Rule 40 Petition also included an 
+8 A person commits Unauthorized Computer Access First under HRS §
+708-895.5 (2001) if: 
+the person knowingly accesses a computer, computer system,
+or computer network without authorization and therebyobtains information, and: 
+(a) The offense was committed for thepurpose of commercial or private financialgain; 
+(b) The offense was committed in
+furtherance of any other crime; 
+(c) The value of the information obtained
+exceeds $5,000; or 
+(d) The information has been determined by
+statute or rule of court to requireprotection against unauthorizeddisclosure. 
+(2) Unauthorized computer access in the first degree is aclass B felony.  
+9 Meyer was represented by new counsel ( Appellate Counsel ) for the
+appeal in CAAP-17-0000420, during the Rule 40 proceeding, and in the instantappeal. 
+10 Hawai #i has incorporated the Brady rule into Hawai #i "due process 
+jurisprudence":  "due process requires that the prosecution disclose evidencefavorable to the accused that, if suppressed, would deprive the defendant of afair trial."  Birano v. State, 143 Hawai #i 163, 181, 426 P.3d 387, 405 (2018)
+(internal quotation marks omitted) (quoting State v. Matafeo, 71 Haw. 183,185-86, 787 P.2d 671, 672 (1990)). 
+11 HRE Rule 608(b) permits the credibility of witnesses to be
+attacked by specific instances of conduct probative of untruthfulness.  The rule provides in pertinent part: 
+(b) Specific instances of conduct.  Specific instances ofthe conduct of a witness, for the purpose of attacking thewitness' credibility, if probative of untruthfulness, may beinquired into on cross-examination of the witness and, inthe discretion of the court, may be proved by extrinsicevidence. . . . 
+4   
+  
+  
+ NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+ineffective assistance of counsel claim.  According to Meyer, 
+upon the filing of the Rule 40 Petition, the State had not yet
+turned over the Cullen Report to Meyer's Appellate Counsel.  12 
+Following a subpoena duces tecum filed by Meyer, the
+State submitted to the District Court the records regarding  
+Officer Cullen for in camera review. T
+he District Court held a 
+hearing on the Rule 40 Petition on November 18, 2019.  At the hearing, the District Court asked the State whether the Cullen Report was turned over to Meyer because it was potentially Brady material: 
+THE COURT:  I did have a question.  I forgot 
+to bring this up since [Appellate Counsel] made this 
+representation that after this, those 17 pages were disclosed based on this prosecutor's understanding they were Brady material.  Do you have a position on that?  Were they turned over because your office considers thaBrady material? 
+t 
+[PROSECUTOR]:  So I -- I'll note that the statute 
+of limitations didn't expire for the particular investigate --  
+THE COURT:  And I saw that --  
+[PROSECUTOR]:  -- (indiscernible) the facts --  THE COURT:  -- in your argument but. [PROSECUTOR]:  Right, up until 2018.  And so I 
+think there, you know, once we're disclosing it, there's 
+less of a question about what -- I think before 2018, it's quite clear that it may not have even come in, and there's a -- there's a serious barrier to admissibility.  And the test that our court uses in terms of evaluating Brady material is that it's got to be at least admissible because it's got to be relevant.  So if you don't have that baseline of admissibility, because the defendant would be able to have an absolute privilege, I think that changes in 2018, becomes maybe a question.  As I said, it's never really been litigated whether or not this particular charge is, and I think just to be safe, we're releasing it.  But I think prior to 2018, there's a strong argument that with the statute of limitations still open, that material is not going to be admissible because the defendant could just take a Fifth Amendment privilege. 
+THE COURT:  But --  
+12 In his Declaration included with the Rule 40 Petition, Meyer's
+Appellate Counsel stated that he received the Cullen Report from the State aspart of initial discovery disclosures during Appellate Counsel'srepresentation of a different client in a separate, unrelated criminalproceeding.  
+5 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+ 
+ 
+ 
+  
+ [APPELLATE COUNSEL]:  May I -- 
+THE COURT:  -- but you're not saying you 
+accept this Brady material?  You're just saying as a 
+matter of caution, you're turning it over because the statute has run? 
+[PROSECUTOR]:  No, no, no, because the statute 
+has run. 
+THE COURT:  That's why you're turning it 
+over.  That's --  
+[PROSECUTOR]:  Turning it over.  
+THE COURT:  Yeah. [PROSECUTOR]:  And in this case, yeah, as a 
+matter of caution because it hasn't been litigated yet. 
+It is not clear from the above exchange whether the State agreed 
+that the Cullen Report was Brady material that should have been disclosed. 
+The District Court issued its Order Denying Rule 40 
+Petition on January 3, 2020, from which Meyer timely appealed. 
+II. STANDARDS OF REVIEW 
+"We consider a court's conclusions of law regarding a 
+petition for post-conviction relief de novo[.]"  Grindling v. State, 144 Hawai# i 444, 449, 445 P.3d 25, 30 (2019) (citing 
+Fragiao v. State, 95 Hawai# i 9, 15, 18 P.3d 871, 877 (2001)).  
+"A court's findings of fact in connection with a petition for post-conviction relief are reviewable under the clearly erroneous standard."  Id. (citing Wilton v. State, 116 Hawai# i 106, 110 
+n.7, 170 P.3d 357, 361 n.7 (2007)).
+III. DISCUSSION 
+Meyer contends that his due process rights were 
+violated by the failure of the State to disclose the Cullen Report before his OVUII trial.  Meyer argues that the District 
+Court erred in: (1) its COL 5, and that the District Court should 
+have found that Meyer was "entitled to discover the past instance which may permit . . . Meyer to develop the bias, interest, or motive as well as reputation for truthfulness on cross-examination"; (2) its COL 4, and that the District Court should have found that the State should have disclosed the Cullen Report 
+6   
+ NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+even if the materials would have been deemed inadmissible for
+purposes of impeachment; and (3) erred in its COL 2, which applies an incorrect "'harmless error' type analysis."  
+13  
+The Cullen Report contained admissible, material
+impeachment evidence 
+Meyer argues that the Cullen Report should have at 
+least been admissible at trial under HRE Rule 608(b).   This 
+argument has merit.  14
+13 The challenged COLs state: 
+2. The Hawai #i State Constitution requires the
+proponent of a Brady claim to show that "the suppressed
+evidence would create a reasonable doubt about the Appellant's guilt that would not otherwise exist." State v. Jenkins, 93 Hawai #i 87, 104, 997 P.2d 13, 30 (2000);
+State v. Fukusaku, 85 Hawai #i 462, 479, 946 P.2d 32, 49 (1997). 
+. . . . 
+4.
+ The subpoenaed documents do not reflect that the
+alleged conduct of Officer Cullen affected his credibilityas a witness in Petitioner's unrelated OVUII trial. See State v. Pacheco, 96 Hawai #i 83, 99-l00, 26 P.3d 572, 588-89
+(2001) (declining to treat shoplifting from a church asconduct relevant to or probative of defendant's veracity asa witness); State v. Pudiquet, 82 Hawai #i 419, 427, 922 P.2d
+1032, 1040 (declining to admit a nine-year-old theftconviction as too collateral, too remote, and irrelevant todishonesty). 
+5. The subpoenaed documents do not demonstrate bias,
+self-interest, or any other factor that would undermine thereliability of Officer Cullen's testimony againstPetitioner. The documents do not show Officer Cullen had anypersonal stake in Petitioner's OVUII trial or that thedeclined case against him affected the reliability of histestimony. Cf. Birano v. State, 143 Hawai #i 163, l9l, 426
+P.3d 387, 415 (2018) (finding relevant to a witness'scredibility the possibility of a favorable sentencingrecommendation from the State). See also Boyd v. State, No.CAAP-18-0000056, 2019 WL 3082992, at *5 (App. July 15, 2019)(SDO) (declining to treat four-year-old prosecution againstofficer for shoplifting as probative of his SFST testimony
+in unrelated OVUII trial), cert. denied , SCWC-18-0000056, 
+2019 WL 6492519 (Dec. 3, 2019). 
+14 Meyer points to the State's statement at the Rule 40 hearing that
+the Cullen Report was not released at the time of Meyer's OVUII trial because
+the statute of limitations on the alleged claim against Officer Cullen had notyet expired. Meyer argues that even if Officer Cullen pleaded the FifthAmendment while testifying during trial, the evidence "should be heldadmissible at least until the witness denied the conduct." The State did not address this argument in its Answering Brief. 
+7 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+  Under HRE Rule 608(b), the credibility of a witness may 
+be attacked using "[s]pecific instances of conduct" that are 
+"probative of untruthfulness."  HRE Rule 608(b); see also State v. Su, 147 Hawai# i 272, 282, 465 P.3d 719, 729 (2020).  The types 
+of conduct deemed admissible under HRE Rule 608(b) are "conduct regarding lies and falsifications."  Su, 147 Hawai# i at 282, 465 
+P.3d at 729 (citing Addison M. Bowman, Hawaii Rules of Evidence Manual § 608-2[1][B] at 6-42-43 (2018–2019 ed.)).  In Su, the supreme court clarified that the admissibility of evidence under HRE Rule 608(b) involves a two-step inquiry: 
+(1) whether the specific conduct evidence proffered for the
+purpose of attacking the witness's credibility is probativeof untruthfulness, and, if so, (2) whether the probativevalue of the evidence of the specific conduct issubstantially outweighed by the danger of unfair prejudice,confusion of the issues, or misleading the jury, or byconsiderations of undue delay, waste of time, or needlesspresentation of cumulative evidence pursuant to HRE Rule403. 
+Id. at 283, 465 P.3d at 730.  "[U]nder the first step, a [non-
+defendant] witness may generally be cross-examined about specific instances of conduct probative to credibility, if probative of untruthfulness."  Id. (footnote omitted).  If the witness denies the conduct during cross-examination, then "the court has discretion to permit or exclude extrinsic evidence of the misbehavior" subject to the HRE Rule 403 balancing test.  Id. at 284, 465 P.3d at 731. 
+Here, based on our review of the Cullen Report, the 
+allegations against the officer contained in the report were probative of untruthfulness. The evidence qualified for 
+admissibility for purposes of impeachment under HRE Rule 608(b). 
+See Birano, 143 Hawai# i at 183 n.35, 426 P.3d at 407 n.35. 
+A "[v]iolation of the constitutional right to confront 
+adverse witnesses is subject to the harmless beyond a reasonable doubt standard."  Id. at 190, 426 P.3d at 414 (quoting State v. Balisbisana, 83 Hawai# i 109, 113-14, 924 P.2d 1215, 1219-20 
+(1996)).  The failure of the State to disclose impeachment 
+8 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+ 
+ 
+ evidence warrants a new trial if the evidence is material either 
+to guilt or punishment, and when the reliability of a witness may be determinative of guilt or innocence.  State v. Alkire, 148 Hawai# i 73, 88, 468 P.3d 87, 102 (2020). 
+Here, Officer Cullen's testimony was material to 
+Meyer's conviction.  The trial court stated, "I buy the State's–-I accept as true what the officers testified to."  The trial 
+court concluded that the inconsistencies between Meyer's 
+testimony and Officer Cullen's testimony weighed in favor of Officer Cullen being more credible.  Thus, the failure to 
+disclose was material and was not harmless beyond a reasonable 
+doubt where the outcome of Meyer's trial turned on the credibility of Meyer and Officer Cullen.  See Su, 147 Hawai# i at 
+285, 465 P.3d at 732 (citing State v. Pond, 118 Hawai# i 452, 469, 
+193 P.3d 368, 385 (2008)); Birano, 143 Hawai# i at 190, 426 P.3d 
+at 414.   
+The State had a duty to disclose the Cullen Report 
+Meyer argues that he did not receive a fair trial 
+because the Cullen Report was "necessary to bolster his own 
+credibility over that of Officer Cullen," especially because the trial court found Officer Cullen's testimony more credible. 
+Meyer argues that the Cullen Report should have been disclosed to 
+Meyer during his trial proceedings because the report was indicative of Officer Cullen's fraudulent conduct; indicative of Officer Cullen's motive, and would constitute evidence pertaining to Office Cullen's "truthfulness, veracity, and/or credibility." 
+Meyer's argument regarding Officer Cullen's credibility has 
+merit. 
+"Under Brady, the government must disclose evidence 
+favorable to the defense 'where the evidence is material either to guilt or to punishment.'"  Alkire, 148 Hawai# i at 88, 468 P.3d 
+at 102 (brackets omitted) (quoting Kyles v. Whitley, 514 U.S. 419, 432 (1995)).  "'Material' evidence includes that pertaining to witness credibility, as when the 'reliability of a given witness may well be determinative of guilt or innocence,' the 
+9 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+nondisclosure of evidence affecting that witness's credibility is 
+material."  Id. at 89, 468 P.3d at 103 (quoting Giglio v. United States, 405 U.S. 150, 154 (1972)).  "[F]avorable evidence is material, and constitutional error results from its suppression by the government, if there is a reasonable probability that, had the evidence been disclosed to the defense, the result of the proceeding would have been different."  Id. (internal quotation marks omitted) (quoting Kyles, 514 U.S. at 433).  Impeachment evidence falls under Brady because impeachment evidence is "'evidence favorable to an accused' . . . [and] if disclosed and used effectively, it may make the difference between conviction and acquittal."  U.S. v. Bagley, 473 U.S. 667, 676 (1985) (citation omitted). 
+"[C]entral to the protections of due process is the 
+right to be accorded a meaningful opportunity to present a complete defense."  Birano, 143 Hawai# i at 181, 426 P.3d at 405 
+(quoting State v. Tetu, 139 Hawai# i 207, 219, 386 P.3d 844, 856 
+(2016)).  Our supreme court recognized that "the prosecution has a constitutional obligation to disclose evidence that is material to the guilt or punishment of the defendant."  Id. at 182, 426 P.3d at 406 (quoting Matafeo, 71 Haw. at 185, 787 P.2d at 672).  "The duty to disclose evidence that is favorable to the accused includes evidence that may be used to impeach the government's witnesses by showing bias, self-interest, or other factors that might undermine the reliability of the witness's testimony."  Id. (citing Giglio, 405 U.S. at 154).  In Birano, our supreme court recognized that the duty to disclose is triggered when "the government possesses information that may have a potential negative impact on a key witness's credibility . . . ."  Id. at 183, 426 P.3d at 407.  The evidence, however, must be "admissible evidence affecting witness credibility[.]"  Id. at 183 n.35, 426 P.3d at 407 n.35 (explaining that examples of evidence affecting witness credibility that may trigger the duty to disclose as including "a witness's ulterior motive for testifying, a relevant sensory or mental defect, inconsistent 
+10 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+ past statements, or previous acts indicating dishonesty.") 
+(citing Milke v. Ryan, 711 F.3d 998, 1001 (9th Cir. 2013); United States v. Kohring, 637 F.3d 895, 907 (9th Cir. 2011)).  
+Further, "[t]he duty to disclose material impeachment 
+evidence is compelled not only by due process, but also the constitutional right to confrontation."  Birano, 143 Hawai# i at 
+183, 426 P.3d at 407.  A defendant's right to cross-examination of the state's witnesses to demonstrate bias or motive is protected by the sixth amendment of the United States Constitution and by Article I, section 14 of the 
+Hawai# i 
+Constitution.  Id.
+Discovery obligations for non-felony and criminal 
+traffic offenses, such as OVUII, are governed by HRPP Rule 16(d), which requires that, "[u]pon a showing of materiality and if the request is reasonable, the court in its discretion may require disclosure as provided for in this Rule 16 in cases other than those in which the defendant is charged with a felony, but not in cases involving violations."  HRPP Rule 16(d); 
+see also Alkire, 
+148 Hawai# i at 89, 468 P.3d at 103 (citing State v. Lo, 116 
+Hawai# i 23, 26, 169 P.3d 975, 978 (2007)).  However, "[i]n some 
+cases . . . due process will require the State to disclose evidence beyond the disclosures required by the rules of penal procedure."  State v. Texeira, 147 Hawai# i 513, 528 n.24, 
+465 P.3d 960, 975 n.24 (2020) (citing Tetu, 139 Hawai# i at 214, 
+386 P.3d at 851 ("[T]he HRPP Rule 16 discovery right does not purport to set an outer limit on the court's power to ensure a defendant's constitutional rights.")). 
+Here, the Cullen Report contained potentially 
+admissible impeachment material that should have been disclosed to Meyer by the State.  The trial court found Officer Cullen's testimony to be more credible than Meyer's testimony. The State 
+was in possession of information that may have had a potential 
+negative impact on Officer Cullen's credibility.  See Birano, 143 Hawai# i at 182, 426 P.3d at 406.  The State had a duty to 
+disclose the credibility evidence pertaining to Officer Cullen to 
+11 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+allow Meyer the opportunity to present a meaningful defense and 
+to cross-examine.  See id.; Alkire, 148 Hawai# i at 89, 468 P.3d 
+at 103.  The District Court's conclusion in COL 4 that the Cullen Report did not contain conduct that "affected [the officer's] credibility as a witness," and thus not subject to disclosure as Brady material was erroneous.  See Grindling, 144 Hawai# i at 449, 
+445 P.3d at 30.  The Rule 40 Petition should have been granted. 
+In light of the above, we need not address Meyer's 
+remaining contentions. 
+IV. CONCLUSION 
+For the foregoing reasons, we (1) vacate the Findings 
+of Fact, Conclusions of Law, and Order Denying Rule 40 Petition for Post Conviction Relief, filed January 3, 2020 by the District Court of the First Circuit; and (2) remand for entry of an order granting the Rule 40 Petition filed on May 16, 2019 for the reasons set forth in this Memorandum Opinion, vacating the March 16, 2017 Judgment of Conviction and Sentence, and ordering a new trial. 
+DATED:  Honolulu, Hawai# i, February 23, 2023. 
+On the briefs: /s/ Katherine G. Leonard
+Presiding Judge 
+/s/ Keith K. Hiraoka
+Associate Judge 
+/s/ Karen T. Nakasone
+Associate Judge 
+12 Richard L. Holcomb,(Holcomb Law, LLLC)for Petitioner-Appellant 
+Stephen K. Tsushima,
+Deputy Prosecuting Attorneyfor Respondent-Appellee 

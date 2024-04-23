@@ -1,0 +1,598 @@
+*** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ***  
+ 
+ 
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+IN THE SUPREME  COURT OF  THE STATE OF HAWAI ʻI 
+ 
+---o0o--- 
+_____________________________________________________________  
+ 
+STATE OF HAWAI ʻI, 
+Respondent/Plaintiff
+-Appellee,  
+ 
+vs. 
+ 
+SUSAN E. SHAW, 
+Petitioner/Def endant-Appellant.  
+________________________________________________________________ 
+ 
+SCWC-18-0000599 
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF  APPEALS 
+(CAAP-18 -0000599; 1CPC-17 -0001118) 
+ 
+OCTOBER 1,  2021 
+ 
+RECKTENWALD, C.J., NAKAYAMA, Mc KENNA, AND WILSON, JJ.,
+AND INTERMEDIATE COURT OF APPEALS JUDGE NAKASONE, 
+ASSIGNED BY REASON OF VACANCY 
+ 
+OPINION OF THE COURT BY WILSON, J.  
+ 
+I.  INTRODUCTION  
+This case arises from Petitioner/ Defendant -Appellant 
+Susan E. Shaw’s (“Shaw”) five-year prison sentence and 
+conviction for Computer Fraud in the Third Degree  (“Comput er 
+Fraud 3”)  and Fraudulent Use of a Credit Card  (“Credit Card Electronically Filed
+Supreme Court
+SCWC-18-0000599
+01-OCT-2021
+08:50 AM
+Dkt. 17 OP*** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ***  
+2 Fraud”).  Shaw appealed her Judgment of Conviction and Sentence 
+to the Intermediate Court of Appeals (“ ICA”).  The ICA vacated 
+the Circuit Court of the First Circuit ’s1 (“circuit court ”) 
+Judgment of Conviction and Sentence and remanded the case to the 
+circuit court for further proceedings.  
+  Shaw raises four primary points of error and alleges 
+that the ICA erred :  (1) when it held that the State of Hawaiʻi 
+(the “State”)  need not allege that Shaw acted pursuant to a 
+scheme or course of conduct for Computer Fraud 3  in the 
+indictment ; (2) when it held that the circuit court (a) did not 
+err in instructing the jury on the definition of “inference” and 
+(b) did not err in instructing the jury on the elements of 
+Computer Fraud 3; (3) when it held that the circuit court did 
+not err in denying her Motion to Dismiss with Prejudice; and 
+(4) when it failed to address the issues related to (a)  the 
+sufficiency of evidenc e, (b) the admission of unsworn hearsay 
+evidence, and (c)  the numerous prejudicial evidentiary errors.   
+  We hold that the ICA did not err  when it held that  
+aggregation of multiple transactions under Computer Fraud 3  is 
+permissible .  We further hold that the indictment was defective 
+with respect to Count I, Computer Fraud 3,  and that  the denial 
+of Shaw’s Motion to Dismiss the Indictment was error.   
+                     
+1  The Honorable Faʻauuga L. Toʻotoʻo presided.  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ***  
+3  
+(continued . . .)  Accordingly , we vacate the circuit court’s order denying Shaw’s 
+Motion to Dismiss the Indictment for Count I, and remand with 
+instructions to  dismiss Count I without prejudice .  Because the 
+indictment for Count I, Computer Fraud 3 is dismissed  without 
+prejudice , we do not address Shaw’s other points of error.  
+II.  BACKGROUND  
+  The charges against Shaw arise from allegations that 
+between January 16, 2017, through and including May 18, 2017, 
+Shaw falsely inflated customer tips for 105 customers, totaling 
+$717.35, at the restaurant where she worked as a server.   Shaw 
+was charged  with one count of Computer Fraud 3, in violation of 
+Hawaiʻi Revised Statutes ( “HRS”) § 708-891.6 (2014), and one 
+count of Credit Card Fraud, in violation of HRS § 708 -8100(1)(c) 
+(2014).2  After a jury trial, Shaw was convicted o n both counts.  
+                     
+2  The August 15, 2017 indictment states:  
+ 
+ The Grand Jury charges:  
+ COUNT I:  On or about January 16, 2017, through  and 
+including May 18, 2017, in the City and County of Honolulu, 
+State of Hawaii, Susan E. Shaw, did knowingly access a 
+computer, computer system, or computer network with the 
+intent to commit the offense of theft in the third degree, 
+thereby committing th e offense of Computer Fraud in the 
+Third Degree in violation of Section 708 -891.6 of the 
+Hawaii Revised Statutes.  
+ A person commits the offense of theft in the third 
+degree if she intentionally obtains and exerts control over 
+property of another, the value  of which exceeds Two Hundred 
+and Fifty Dollars ($250.00), with intent to deprive the 
+other of property valued in excess of Two Hundred and Fifty 
+Dollars ($250.00).  Sections 708 -832(a)(a) and 708 -830(1) 
+of the Hawaii Revised Statutes.  (HPD Report Number 
+17189819 -002).  Count I related to the access and use of a 
+computer, to with a “point of sale computer terminal”, with *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ***  
+4 Prior to the jury trial , Shaw filed a Motion to 
+Dismiss with Prejudice  on the basis that the State failed to 
+adduce sufficient evidence to establish probable cause for 
+either of the two counts at the grand jury proceedings because 
+the State excluded  elements of the offense.  Additionally, Shaw 
+contended that Computer Fraud 3  could only be prosecuted based 
+on a single victim of theft, and Credit Card Fraud could only be 
+prosecuted based on the use of a single credit card or credit 
+card number and a single credit card victim.   Shaw argued that 
+if HRS § 708 -801(6) allows aggrega tion of theft amounts from a 
+single victim or multiple victims, the State failed to adduce 
+evidence that Shaw acted pursuant to a single scheme or course 
+of conduct required for aggregation.   The circuit court denied 
+                     
+(continued . . .) 
+ 
+intent commit [ sic] theft of money valued in excess of 
+$250.00, and the defendant did, in fact, so obtain money 
+valued in excess of $250. 00. 
+ COUNT II:  On or about January 16, 2017, through and 
+including May 18, 2017, in the City and County of Honolulu, 
+State of Hawaii, Susan E. Shaw, with intent to defraud the 
+issuer, or another person or organization providing money, 
+services, or anythin g of value, or any other person, did 
+use credit card numbers without the consent of the 
+cardholders for the purpose of obtaining money or anything 
+else of value, and the value of all money and other things 
+of value so obtained exceeded Three Hundred Dollar s 
+($300.00) in any six -month period, thereby committing the 
+offense of Fraudulent Use of Credit Card, in violation of 
+Sections 708 -8100(1)(c) of the Hawaii Revised Statutes.  
+(HPD Report no 17 -189819-003).  Count II related to the use 
+of credit card number s, without the cardholders’ consent, 
+for the purpose of obtaining money valued in excess of 
+$300.00 during the time period specific herein, a period of 
+less than six months, and the defendant di, in fact, so 
+obtain money valued in excess of $300.00  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ***  
+5 Shaw’s motion , finding that “overwhelmi ng evidence ” supported 
+the indictment .  
+On July 30, 2018, Shaw appealed to the ICA .  Relevant 
+to this appeal, Shaw argued that the indictment was fatally 
+defective for failing to allege that Shaw acted pursuant to a 
+scheme or continuing course of conduct3 and that the circuit 
+court erred in denying Shaw’s Motion to Dismiss with Prejudice  
+because the State failed to adduce sufficient evidence to 
+establish probable cause that Shaw used a computer to steal more 
+than $250 .00 from a single victim.   See HRS § 708 -891.6 (“A 
+person commits the offense of computer fraud in the third degree 
+if the person knowingly accesses a computer, computer system, or 
+computer network with the intent to commit the offense of theft 
+in the third or fourth degree. ”); HRS § 708-832(1)(a) (2016) (“A 
+person commits the offense of theft in the third degree if the 
+person commits theft . . . [o]f property or services the value 
+of which exceeds $250[ .]”). 
+                     
+3  The indictment in Count I read as follows:  
+COUNT I:  On or about January 16, 2017, through and 
+including May 18, 2017, in the City and County of Honolulu, 
+State of Hawaii, Susan E. Shaw, did knowingly access a 
+computer, computer system, or computer network wit h the 
+intent to commit the offense of theft in the third degree, 
+thereby committing the offense of Computer Fraud in the 
+Third Degree in violation of Section 708 -891.6 of the 
+Hawaii Revised Statutes.  
+ *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ***  
+6   The ICA vacated the circuit court’s Judgment of 
+Conviction and Sentence , vacated Shaw’ s conviction for Credit 
+Card Fraud under Count II,  and remanded the case for a new trial 
+on Count I , Computer Fraud 3 .  The ICA concluded  that the 
+indictment for Count I was legally sufficient , and that Shaw 
+failed to show , under Motta/Wells,4 Count I could not be 
+construed to charge Computer Fraud 3 .  The ICA also concluded 
+that Shaw failed to show that  she suffered prejudice from the 
+State’s failure to allege a scheme or course of conduct in Count 
+I.  Additionally, the ICA held that the State was not barr ed 
+from aggregating multiple alleged instances of theft in charging 
+Shaw with Computer Fraud 3:  
+In Count I, Shaw was charged with Computer Fraud 3, which 
+requires an allegation that the charged individual 
+“knowingly accesse[d] a computer, computer system, or 
+computer network with the intent to commit the offense of 
+theft in the third or fourth degree .”  HRS § 708 -891.6 
+(emphasis added).  Thus, because Computer Fraud 3 is 
+predicated on theft in the third or fourth degree, it 
+follows that Computer Fraud 3 may  also be charged as a 
+continuing course of conduct.  
+ 
+The ICA further held that the indictment as a whole charged Shaw 
+with Computer Fraud 3 under a continuing course of conduct 
+theory because both counts referred to the same four -month time 
+period when the  alleged crimes occurred.  
+                     
+4  An appellate court will “not reverse a conviction ba sed upon a 
+defective indictment unless the defendant can show prejudice or that the 
+indictment cannot within reason be construed to charge a crime.”  State v. 
+Motta, 66 Haw. 89, 91, 657 P.2d 1019, 1020 (1 983).   *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ***  
+7 For the Credit Card Fraud charge , the ICA held that 
+the circuit court erred when it failed to dismiss Count II for 
+lack of sufficient evidence to establish probable cause because 
+the plain language of HRS § 708 -8100(2) did not all ow the 
+offense of Credit Card Fraud to be prosecuted as a class C 
+felony based on an aggregation of the values of multiple 
+transactions involving more than one credit card or credit card 
+number.  In light of this holding, the ICA held that the circuit 
+court erred when it failed to dismiss Count II.5  For Count I,  
+Computer Fraud 3,  the ICA held that Shaw’s challenge for lack of 
+probable cause was rendered moot when she was subsequently 
+convicted at trial, and held that there were no “unusual 
+circumstances ” in this case  to warrant a review of probable 
+cause.  But, the ICA  held that Shaw’s conviction  for Computer 
+Fraud 3 must be vacated and remanded for a new trial because the 
+instruction regarding Computer Fraud 3 did not submit to the 
+jury the factual questio n of whether Shaw engaged in one scheme 
+or course of conduct . 
+  Shaw argues before  this court that  the ICA erred when 
+it held that the State need not allege scheme in the indictment  
+                     
+5  The ICA’s dismissal of Count II, Credit C ard Fraud, was not 
+appealed to this court and will not be addressed in this opinion’s 
+discussion . *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ***  
+8 and that the circuit court did not err in denying Shaw’s Motion 
+to Dismiss  with Prejudice .   
+III.  STANDARDS OF REVIEW  
+A. Statutory Interpretation  
+The interpretation of a statute is a question of law 
+reviewable de novo.  State v. Arceo , 84 Hawai‘i 1, 10, 928 P.2d 
+843, 852 (1996).  We follow several established rules of 
+statutory co nstruction:  
+First, our foremost obligation is to ascertain and give effect to 
+the intention of the legislature, which is obtained primarily 
+from the language contained in the statute[s] themselves.  
+Second, [l]aws in pari materia, or upon the same subject matter, 
+shall be construed with reference to each other.  What is clear 
+in one statute may be called in aid to explain what is doubtful 
+in another.  And, third, [t]he legislature is presumed not to 
+intend an absurd result, and legislation will be construed  to 
+avoid, if possible, inconsistency, contradiction[,] and 
+illogicality.  
+ 
+Id. at 19, 928 P.2d at 861 (alterations in original) (citations 
+and quotations omitted).  
+B. Motion to Dismiss Indictment  
+We review de novo a circuit court ’s order denying a  
+motion to d ismiss an indictment based on sufficiency of the  
+evidence to support the indictment.  State v. Taylor , 126 Hawaiʻi 
+205, 215, 269 P.3d 740, 750 (2011).  
+In reviewing the sufficiency of the evidence to establish 
+probable cause before the grand jury, every legitimate 
+inference that may be drawn from the evidence must be drawn 
+in favor of the indictment and neither the t rial court nor 
+the appellate court on review may substitute its judgment 
+as to the weight of the evidence for that of the Grand 
+Jury.  The evidence to support an indictment need not be 
+sufficient to support a conviction.  
+ *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ***  
+9 Id. (quoting State v. Ganal , 81 Hawaiʻi 358, 367, 917 P.2d 370,  
+379 (1996)).   
+IV.  DISCUSSION  
+ 
+A. The ICA did not err when it held that multiple transactions 
+can be aggregat ed pursuant to HRS § 708 -801(6) for Computer 
+Fraud 3.  
+Shaw contends  that aggregation of multiple 
+transactions pursuant to HRS § 708-801(6) is impermissible for 
+proving Computer Fraud 3.  The ICA was correct in its 
+determination  that aggregation of multiple transactions pursuant 
+to HRS § 708-801(6) is permissible for Computer Fraud 3 .  
+However, we respectfully disagree with th e ICA’s reasoning.  
+The ICA concluded that  the theft statute support s 
+aggregation of multiple transactions for Computer Fraud 3.  It 
+is true that t his court  has previously  held that theft may be 
+charged under a continuing course of conduct theory : 
+The lang uage of the theft statute indicates that 
+theft may be charged on a continuing conduct theory.   The 
+theft statute provides that a person commits theft if the 
+person “obtains, or exerts control over, the property of 
+another by deception with intent to depriv e the other of 
+the property.”   HRS § 708 -830(2) (2014).  Similarly, a 
+person commits theft in the second degree “if the person 
+commits theft .  . . [o]f property or services the value of 
+which exceeds $300.”   HRS § 708 -831(1)(b).  
+ 
+Here, the Legislature ’s decision to define theft as 
+obtaining or exerting control over “property or services,”  
+see HRS §§ 708 -830.5(1)(a),  708-831(1)(b),  708-832(1)(a),  
+708-833(1), and not “a piece of property or a service,” 
+indicates that the Legislature did not necessarily intend  
+that theft be charged individually.  Furthermore,  HRS 
+§ 708-801(6) provides that “[a]mounts involved in thefts 
+committed pursuant to one scheme or course of conduct, 
+whether the property taken be of one person or several 
+persons, may be aggregated in dete rmining the class or 
+grade of  the offense.”   This indicates that the Legislature *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ***  
+10 explicitly considered that theft could be charged on a 
+continuing course of conduct theory.  
+ 
+State v.  Yokota, 143 Hawai‘i 200, 205-06, 426 P.3d  424, 429-30 
+(2018).   
+However, that Computer Fraud 3 is “predicated” on 
+theft in the third or fourth degree does not answer the question 
+of whether Computer Fraud 3 can be charged as a continuing 
+course of conduct.  This is because Computer Fraud requires a 
+specific intent  to commit theft in the third or fourth degree.  
+The continuing offense doctrine asks “whether the individual 
+acts are prohibited, or the course of action which they 
+constitute. ”  Blockburger v. United States , 284 U.S. 299, 302 
+(1932) (emphasis added) .  The continuous o ffense doctrine 
+therefore turns on whether the legislature envisioned that the 
+conduct of the offense could constitute a continuous course of 
+action.  Yokota, 143 Hawaiʻi at 205, 426 P.3d at 429 (“[T]he test 
+to determine whether a crime may be charged on a continuous 
+conduct theory is whether the language, structure, and purpose 
+of the statute reveals a legislative intent to criminalize 
+continuing conduct.”  (quoting State v. Decoite , 132 Hawaiʻi 436, 
+438, 323 P.3d 80, 81 (2014) )).  Whether the proscribed conduct  
+“is statutorily defined as an uninterrupted and continuing 
+course of conduct, or manifests a plain legislative purpose to *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ***  
+11 be treated as such, or both ” is critica l to the continuing 
+offense doctrine.   Arceo, 84 Hawaiʻi at 19, 928 P.2d at 861.   
+If the statute “comprehend[s] acts that essentially 
+are of a transitory nature or brief duration ,” then the 
+legislature likely did not contemplate the crime to be 
+continuing ; but if the act proscribed by the statute “describes 
+an ongoing course of conduct,” that “connotes a legislative 
+design to make an aspect of [the crime] continuing[.]”  State v. 
+Temple, 65 Haw. 261, 267, 650 P.2d 1358, 1362 (1982).  Here, 
+Computer Fraud 3  is defined as follows:   “A person commits the 
+offense of computer fraud in the third degree if the person 
+knowingly accesses  a computer, computer system, or computer 
+network with the intent to commit the offense of theft in the 
+third or fourth degree .”  HRS § 708 -891.6 (emphasis added) .  
+“‘Access’ means to gain entry to, instruct, communicate with, 
+store data in, retrieve data from, or otherwise make use of any 
+resources of a computer, computer system, or computer network. ”  
+HRS § 708-890.  At least some o f these acts “connote[] a 
+legislative design to make an aspect of [Computer Fraud 3] 
+continuing[.]”  Temple, 65 Haw. at 267, 650 P.2d at 1362.  At 
+the least, “communicat[ing] with,” “stor[ing] data in,” 
+“mak[ing] use of a computer, computer system, or comp uter 
+network” reflect acts that are not “transitory .  . . or brief,”  
+id., but in stead “involve ongoing processes[.]”  Decoite, 132 *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ***  
+12 Hawaiʻi at 439, 323 P.3d at 83.   Cf. State v. Martin , 62 Haw. 
+364, 366, 616 P.2d 193, 19 5–96 (1980) (finding continuous theft  
+on the state when defendant filed fraudulent public assistance 
+forms); State v. Stenger , 122 Hawai‘i 271, 279, 226 P.3d 441, 449 
+(2010) (finding continuous theft on the state when defendant 
+continued to receive public assistance when no longer needed) .  
+Thus, the ICA correct ly held that aggregation of multiple 
+transactions is permissible for Computer Fraud 3.  
+B. The ICA erred when it held that the State need not allege 
+scheme in the charging document for Computer Fraud 3  under 
+the Motta/Wells rule. 
+The ICA incorrectly held  that under the Motta/Wells 
+rule the Count I  charge for  Computer Fraud 3 was legally 
+sufficient because it was not necessary to include in the 
+indictment  language establishing that  Shaw acted pursuant to a 
+scheme or course of conduct.  Because Count I failed to include 
+the essential attendant circumstances element of scheme or 
+course of conduct , it cannot be reasonably construed to charge a 
+crime.  As discussed below, even if the language in th e 
+indictment  tracks the statutory offense languag e, that alone 
+does not render a charge legally sufficient .  When the 
+indictment is read as a whole, Count I fails to charge a crime.  
+Under the Motta/Wells rule, if an objection to a 
+deficient indictment is raised for the first time on appeal, the 
+indictme nt must be liberally construed.  Motta, 66 Haw. at 90, *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ***  
+13 657 P.2d at 1019–20; State v. Wells , 78 Hawai‘i 373, 381, 894 
+P.2d 70, 78 (1995) .  An appellate court will “not reverse a 
+conviction based upon a defective indictment unless the 
+defendant can show prej udice or that the indictment cannot 
+within reason be construed to charge a crime.”   Motta, 66 Haw. 
+at 91, 657 P.2d at 1020.  If an element of an offense is missing 
+or an element in the charge does not “comport with its statutory 
+definition,” the charge can not be reasonably construed to charge 
+a crime.  State v. Baker , 146 Hawai‘i 299, 308, 463 P.3d 956 , 965 
+(2020), as corrected  (May 20, 2020)  (citing State v. Pacquing , 
+139 Hawai‘i 302, 308, 389 P.3d  897, 903 (2016) ; State v. Wheeler , 
+121 Hawai‘i 383, 394, 219 P.3d 1173, 1181 (2009)).  However, “ one 
+‘way in which  an otherwise deficient count can be reasonably  
+construed to  charge a crime is by examination of the charge as a 
+whole,’” State v. Tominiko , 126 Hawai‘i 68, 76, 266 P.3d 1122, 
+1130 (2011)  (quoting State v. Elliott , 77 Hawai‘i 309, 312, 884 
+P.2d 372, 375 (1994)) , which allows “two counts [to] be read 
+together ,” id.  This court  “employ[s] practical considerations 
+and common sense ” when interpreting the indictment as a whole.   
+State v. Sprattling , 99 Hawai‘i 312, 319, 55 P.3d 276, 283 
+(2002).  Additionally, this court has held that, in some cases, 
+when the language of the charge tracked the statutory definition  
+of the offense  and all of the elements as defined in the statute *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ***  
+14 are alleged in the indictment, the indictment was not defective.  
+See State v. Treat , 67 Haw. 119, 120, 680 P.2d 250, 251 (1984) .   
+Here, the Motta/Wells liberal construction rule 
+applies because Shaw challenged the sufficiency of the 
+indictment for the first time on appeal.  Based on t he 
+Motta/Wells liberal construction rule, the ICA held that the 
+Computer Fraud 3  charge was legally  sufficient and held that the 
+State was not required to “ expressly allege in the Indictment 
+that Shaw engaged  in a scheme or course of conduct ” because the 
+Computer Fraud 3 charge “tracked” the language of the statutory 
+offense and the predicate theft offense , and all of the 
+statutory elements were included in the  indictment.  
+1. Because the indictment did not allege that Shaw 
+intended to commit theft in the fourt h degree, and no 
+transaction was greater than $250.00, the State was 
+required to allege scheme or course of conduct  in the 
+indictment.   
+The State alleged only that Shaw “did knowingly access 
+a computer . . . with the intent to commit the offense of theft 
+in the third degree , [and] thereby committed  the offense” of 
+Computer Fraud 3.  (Emphasis added.)  Because the indictment did 
+not allege Shaw knowingly accessed a computer, computer system, 
+or computer network with the intent to commit the offense of 
+theft in the fourth degree , and since none of the individual 
+transactions were greater than $250.00, the State was required 
+to include in the indictment language that Shaw possessed the *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ***  
+15 intent to commit theft in the third degree through a continuing 
+course of c onduct over the four -month period.  The State failed 
+to do so.    
+Shaw correctly contends that even under the 
+Motta/Wells liberal construction rule , the indictment was 
+insufficient .  The indictment  failed to charge an essential 
+attendant circumstances element.  See HRS § 702 -205 (“The 
+elements of an offense are such (1) conduct, (2) attendant 
+circumstances, and (3) results of conduct[.]”); State v. Bovee , 
+139 Hawaiʻi 530, 538, 394 P.3d 760, 768 (2017) .  In this case, 
+the State aggregated  the theft amounts f rom separate victims to 
+reach the $250 .00 threshold for Theft in the Third Degree  
+necessary to prove Computer Fraud 3.  The State’s prosecution of 
+Shaw for Computer Fraud 3 necessarily required proof of multiple 
+thefts committed pursuant to a common scheme  or course of 
+conduct because none of the individual thefts met the $250.00 
+statutory threshold.  Charging this crime under an aggregation 
+theory is predicated  on Shaw having committed the thefts 
+pursuant to a scheme or course of conduct.  Thus, the indict ment 
+must allege that the defendant acted pursuant to a scheme or 
+course of conduct when Computer Fraud 3 is charged based on an 
+aggregation theory because scheme or course of conduct is a n 
+attendant circumstance s element that the State must prove.  
+Because the indictment did not include this element of scheme or *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ***  
+16 course of conduct, required for Computer Fraud 3  based upon an 
+aggregation theory , the indictment failed to charge a crime.   
+2. The fact that Count I, Computer Fraud 3, tracked the 
+statutory offense language does not mean it was 
+legally sufficient.  
+The ICA was incorrect when it held that the charge was 
+sufficient merely because the charge “tracked” the language of 
+the statutory offense and the predicate theft offense , and all 
+the statutory elements w ere included in the  indictment.  This 
+court has stated that a charge can be insufficient even when the 
+charge tracks the language of the statute if it fails to 
+sufficiently describe the crime:   
+In some cases, however, a charge tracking the language of 
+the statute defining the offense nevertheless violates an 
+accused’s due process rights . 
+ 
+This is so because although “some statutes in our 
+criminal laws so clearly and specifically define[] 
+the offense that nothing more is required in [a 
+charge] than the adop tion of language of the statute, 
+other statutes fail to sufficiently describe the 
+crime and [a charge] couched merely in the language 
+of such a statute would violate due process .” 
+ 
+State v. Nesmith , 127 Hawai‘i 48, 53, 276 P.3d 617, 622 (2012)  
+(emphases ad ded) (quoting  State v. Israel , 78 Hawai‘i 66, 73, 890 
+P.2d 303, 310  (1995)).  
+The indictment in the instant case “ fail[s] to 
+sufficiently describe the crime ” and, thus, the  charge “couched 
+merely in the [statutory] language . . . violate[s] due 
+process.”  See id.  As discussed above, to charge Shaw with *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ***  
+17 Computer Fraud 3 based on  an aggregation theory, the State must 
+show that Shaw acted pursuant to a scheme or course of conduct.  
+If one of the individual transactions met the $250 .00 statutory 
+threshold, sch eme or course of conduct need not be proved, and 
+indictment language that simply track s the language of the 
+statute would be  sufficient.  But here, the individual 
+transactions do not meet the statutory threshold, so the State 
+must prove scheme or course of  conduct.  Thus, when an 
+aggregation theory is used, a charge that simply tracks the 
+language of the statute can violate due process even under the 
+Motta/Wells liberal construction rule because scheme or course 
+of conduct  is necessary to prove Computer Fra ud 3 based upon an 
+aggregation theory . 
+3. Count I is legally insufficient even if the indictment 
+is read “as a whole.”  
+Even if Count I failed to charge a crime, the ICA 
+concluded  that “it is clear from reading the Indictment as  a 
+whole that the State charged Shaw with Computer Fraud 3 on a  
+continuing course of conduct theory .”  Relying on Tominiko6 and 
+reading the two charges together, t he ICA reasoned that, Charge 
+                     
+6 In Tominiko , the defendant was charged with operating a vehicle 
+under the influence of an intoxicant ( “OVUII”).  Tominiko , 126 Hawaiʻi at 71, 
+266 P.3d at 1125.  The language charging OVUII was missing the element that 
+the conduct occurred on a public roadway .  Id. at 76, 266 P.3d at 1130.  The 
+supreme court read the indictment “as a whole” and held that the OVUII charge 
+was not deficie nt because a separate count contained the necessary  allegation 
+and both counts refer red to operating a motor vehicle on  the same day in 
+Honolulu, Hawaiʻi.  Id. *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ***  
+18 I was sufficient because the two charges included the same time 
+period and Charge II’s plural la nguage indicated multiple 
+victims and instances of theft.   
+A key distinction between Tominiko  and this case is 
+that, in Tominiko , the other count explicitly included the 
+essential element.  Tominiko , 126 Hawai‘i at 76, 266 P.3d at 1130 
+(holding that a cha rge that was missing the essential public 
+road element  was not insufficient when read “as a whole” with 
+another charge that did include the essential public road 
+element).  Here, Charge II did not specifically allege scheme or 
+course of conduct, but instea d alluded to a scheme or course of 
+conduct with the use of plural language, alleging that Shaw “ did 
+use credit card numbers without the consent of the cardholders  
+for purpose of obtaining money,  or anything else of value, and 
+the value of all money and oth er things of value so obtained 
+exceeded  Three Hundred Dollars ($300.00)  . . . .”   Thus, 
+Tominiko  is not analogous because in Tominiko  the other count 
+explicitly included the required element , whereas, here, the 
+other count implie d scheme or course of condu ct, without 
+explicitly identifying  it.  
+Analogizing to Tominiko , the ICA pointed to the same 
+time period in both counts to support its conclusion that “both 
+charges are based on the same underlying conduct.”   Once again, 
+Tominiko  is not analogous.  In Tominiko, this court pointed to *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ***  
+19 the facts that both charges referred to operating a motor 
+vehicle in Honolulu,  Hawaiʻi on the same day to reach its 
+conclusion that “ it can be reasonably inferred that they refer 
+to the same incident .”  Tominiko , 126 Hawaiʻi at 76, 266 P.3d at 
+1130.  In this case, the ICA relied exclusively on the fact that 
+the charges referenced the same  location, Honolulu,  Hawaiʻi, and 
+the same four -month time period.  The inference that the two 
+counts refer to the same incidences  cannot be “rea sonably 
+inferred” as in Tominiko .  Four months is a much longer time 
+period than one day , and the two charges c ould have referenced 
+different activities during those four months.  In Tominiko , the 
+two charges were related to the same singular incident  involving 
+a “motor vehicle”  that occured on the same day, whereas, here, 
+there are multiple instances  of theft , making it less apparent  
+that the instances of theft by computer fraud referred to in 
+Count I are the same instances referred to by Count II  for 
+Credit Card Fraud .   
+Notably, in Tominiko , both charges shared a common 
+element:  operating a motor vehicle.7  Id. at 70, 266 P.3d at 
+1124.  And the court pointed to this commonality when reading 
+the indictment as a whole.  Id. at 76, 266 P.3d at 1130.  In 
+                     
+7 In Tominiko , the defendant was charged with OVUII  and Driving 
+Without Motor Vehicle Insurance .  126 Hawaiʻi at 70, 266 P.3d at 1124. *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ***  
+20 contrast, an individual can commit Computer Fraud 3 without 
+using credit cards and can commit Credit Card Fraud wi thout 
+using a computer.  Therefore , the ICA ’s reliance on Tominiko  is 
+unfounded .  The similarities between Count I and Count II  are 
+insufficient to support the argument that the two counts  refer 
+to the same underlying conduct.  Therefore, the two counts 
+cannot be “read as a whole ,” and the ICA erred when it concluded 
+that Count I , Computer Fraud 3,  could be rea sonably construed to 
+charge a crime.  
+Consequently, w e conclude t hat Count I, Computer Fraud 
+3 was insufficient.  See Wheeler, 121 Hawaiʻi at 394, 21 9 P.3d at 
+1181 (holding charge was insufficient when it failed to allege 
+all of the essential elements of the offense charged).  
+V.  CONCLUSION  
+  For the foregoing reasons, we hold that  when Computer 
+Fraud 3 is charged under an aggregation theory and none o f the 
+individual instances of theft meet the $250 .00 statutory 
+threshold, the State must allege the defendant acted pursuant to 
+a scheme or course of conduct  in the charging document .  
+Accordingly,  we affirm in part, and vacate in part, the ICA’s 
+June 19, 2020 judgment on appeal.  Because Count I, Computer 
+Fraud 3, did not contain an essential attendant circumstances 
+element required for  the offense charged , we vacate the circuit 
+court’s order denying Shaw’s Motion to Dismiss the Indictment *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ***  
+21 
+/s/ Mark E. Recktenwald 
+/s/ Paula A. Nakayama 
+/s/ Sabrina S. McKenna 
+/s/ Michael D. Wilson 
+/s/ Karen T. Nakasone for Count I, remand with instructions to dismiss Count I  without 
+prejudice , and remand for further proceedings consistent with 
+this opinion . 
+ 
+Taryn R. Tomasa for 
+petitioner/defendant-appellant  
+ 
+Chad M. Kumagai for 
+respondent/plaintiff-appellee  
+ 
+ 

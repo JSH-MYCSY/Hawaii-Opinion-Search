@@ -1,0 +1,1592 @@
+** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ʻI 
+ 
+---o0o--- 
+________________________________________________________________  
+ 
+OCEAN RESORT VILLAS VACATION OWNERS ASSOCIATION,  
+a domestic nonprofit corporation; OCEAN RESORT VILLAS NORTH 
+VACATION OWNERS ASSOCIATION, a domestic nonprofit corporation;
+VIC H. HENRY; and PETER A. BAGATELOS, Plaintiffs-Appellees, 
+ 
+vs. 
+ 
+COUNTY OF MAUI and MAUI COUNTY COUNCIL, 
+Defendants -Appellants.   
+ 
+________________________________________________________________ 
+ 
+SCAP-18-0000578 
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE SECOND CIRCUIT 
+(CAAP-18 -0000578; 2CC181000848)  
+ 
+JUNE 19, 2020 
+ 
+McKENNA, POLLACK, AND WILSON, JJ.,  
+WITH RECKTENWALD, C.J., CONCURRING AND DISSENTING ,
+WITH WHOM NAKAYAMA, J., JOINS 
+ 
+OPINION OF THE COURT BY McKENNA, J.   
+I.  Introduction  
+ This interlocutory appeal from the Circuit Court of the 
+Second Circuit (“circuit court”)1 involves a taxpayer challenge 
+ 
+1   The Honorable Peter T. Cahill preside d. Electronically Filed
+Supreme Court
+SCAP-18-0000578
+19-JUN-2020
+02:42 PM** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+2 
+ to the timeshare real property tax classif ication created by the 
+County of Maui and Maui County Council (collectively, the 
+“County”)  in 2004.  Plaintiffs -Appellees are timeshare owners of 
+Westin Kaʻanapali Ocean Resort Villas (“ORV”) and Ocean Resort 
+Villas North  (“ORVN”) (collectively , “Taxpayers” ).  Taxpayers  
+initially filed a Complaint in 2013 and First Amended Complaint 
+(“FAC”) in 2014 seeking declaratory relief pursuant to Hawaiʻi 
+Revised Statutes ( “HRS”) § 632-1 regarding the legality and 
+constitutionality of the County’s timeshare real property tax 
+classification and whether its method of promulgation violated  
+the Hawaiʻi Sunshine Law  (Counts I through IV) .   
+ In preparing its defense  to the initial Complaint , the 
+County discovered it had not assessed Taxpayers over $10 mi llion 
+in timeshare real property taxes before 2009.  The County then 
+issued “amended assessments” to the Taxpayers  for tax years 
+2006, 2007, and 2008 for ORV , and 2008 for ORVN , who paid the 
+taxes under protest and appealed to the Maui County  Board of 
+Review (“BOR”), then on to the Tax Appeal Court  (“TAC”).  The 
+Taxpayers  then also filed a Second Amended Complaint (“SAC”) 
+alleging the County issued the “amended assessments” in 
+retaliation for the  Taxpayers’  lawsuit.  The  SAC added Counts V 
+through VII  again seeking declaratory relief pursuant to HRS    
+§ 632-1 alleging  illegality and unconstitutionality as well as 
+seeking damages and attorneys ’ fees pursuant to 42 U.S.C.      ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+3 
+ §§ 1983 and 1988 in Count VIII for the alleged constitutional 
+violations .  
+ On cross -motions for partial summary judgment, the circuit 
+court voided the timeshare real property tax classification as 
+illegal, and it ordered the County to refund the Taxpayers the 
+$10 million+ in “amended assessments” plus general excise tax  
+and interest, as well as approximately $83,000 in fees paid to 
+the County BOR, and $111,000 in appeal fees paid to the TAC.  
+The circuit court also awarded the Taxpayers over $455,000 in 
+attorneys
+’ fees and over $18,000 in costs in Count VIII.  The 
+County timely appealed, and this court accepted transfer of the 
+appeal from the Intermediate Court of Appeals (“ICA”) .   
+ The County raises seven points of error:  (1) the circuit 
+court improperly exercised subject matter jurisdiction over the 
+case, as exclusive subject m atter jurisdiction lay with the T AC; 
+(2) the voiding of the timeshare real property tax 
+classification violated the separation of powers doctrine; (3) 
+the circuit court’s ruling that the timeshare real property tax 
+classification may only be established th rough “actual use” of 
+the property was contrary to the Maui County real property tax 
+code; (4) the circuit court’s ruling that the Taxpayers  are 
+entitled to tax refunds threatens the County’s fiscal health; 
+(5) the circuit court was incorrect in ruling that the “amended 
+assessments” were illegal and retaliatory; (6) the circuit ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+4 
+ court’s order for a refund of the “amended assessments” and 
+related tax appeal fees was an abuse of discretion; and (7) the 
+circuit court’s award of attorney’s fees and costs was an abuse 
+of discretion.   According to the parties, points of error 1 
+through 4 relate to the initial constitutional challenge to the 
+timeshare real property tax classification, and points of error 
+5 through 7 relate to the SAC’s additional challenges to the 
+“amended assessments.”   
+ During the course of briefing before this court, the 
+parties participated in  voluntary mediation and entered into a  
+partial settlement with respect to the “amended assessment” 
+points of error  (i.e., Points of Error 5, 6, and 7) .  They then 
+stipulated to partially dismiss this appeal and remand the case 
+to the circuit court for vacatur of the final judgment and 
+various orders on the “amended assessment” Counts (Counts V, VI, 
+VII, and VIII of the SAC).   The County also contemporaneously 
+filed a motion for partial dismissal of the appeal, again based 
+on the parties’ partial settlement , and asked this court to 
+directly order vacatur of the circuit court’s final judgment and 
+orders on the “amended assessments” counts.   The Taxpayers filed 
+a notice of no opposition .   
+ A majority of this court disapproved of the stipulation  
+and denied the motion to dismiss.  As further explained below, 
+we noted, “This court has adopted the United States Supreme ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+5 
+ Court’s holding in U.S. Bancorp Mortg. Co. v. Bonner Mall 
+P’ship, 531 U.S. 18, 29 (1994), that , in general,  ‘mootness by 
+reason of settlement does not justify vacatur of a judgment 
+under review.’  See Goo v. Arakawa , 132 Hawaiʻi 302, 314, 321 
+P.3d 655, 665 (2014).”   We further observed that , as a practical 
+matter, the parties had stipulated to vacate one of the  circuit 
+court’s orders that contained an issue still under review in the 
+present appeal.   
+ In examining this appeal, we now note that the first point 
+of error, challenging the circuit court ’s subject matter 
+jurisdiction , is dispositive  in our review  of the circuit court  
+decisions certified for interlocutory appeal , which involved 
+Counts I and V through VIII of the SAC.  We hold that the 
+circuit court was without subject matter jurisdiction over 
+Counts I and V through VII  of the Taxpayer s’ SAC.  Although 
+there is a right to jury trial for declaratory judgment actions 
+under HRS § 632 -1, In re Marn Family  Litig., 141 Hawaiʻi 1, 8, 
+403 P.3d 621, 628 (2016) , Taxpayers  sought declaratory relief in 
+those counts pursuant to HRS § 632 -1, which explicitly provides 
+that “declaratory relief may not be obtained . . . in any 
+controversy with respect to taxes[.] ”  The partial ruling as t o 
+Count I and the final judgment as to Counts V through VII 
+certified for interlocutor y appeal were based on declaratory 
+rulings regarding such “controvers[ies] with respect to taxes. ”   ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+6 
+  With respect to those counts, t he Taxpayers  were instead 
+required to  challenge the legality and constitutionality of Maui 
+County’s real property timeshare classification and rates 
+through the procedures set forth in HRS chapter 232 and Maui 
+County Code  (“MCC”) chapter 3.48 , which require an appeal to the 
+county BOR, then to the TAC.  
+ In addition, with respect to the final judgment for Count 
+VIII (the 42 U.S.C § 1983 count requesting a jury trial and 
+damages due to alleged federal constitutional violations, for 
+which attorneys ’ fees and costs were awarded by the circuit 
+court pursuant to 42 U.S.C § 1988 ), the circuit court ’s judgment 
+was dependent on the federal constitutional violations declared 
+by the circuit court to have existed in counts over which it 
+lacked subject matter jurisdiction.2  Therefore, the final 
+judgment on Count VIII must also be set aside.   
+ We therefore vacate the circuit court’s orders and judgment 
+giving rise to this interlocutory appeal and remand this case to 
+the circuit court for further proceedings consistent with this 
+opinion. 
+ 
+ 
+ 
+ 
+2  See also infra note 19.  ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+7 
+ II.  Procedural history  
+A.  Complaint, FAC, and SAC  
+ On August 19, 2013, the Taxpayers  filed a Complaint 
+challenging the constitutionality of Maui County Ordinance No. 
+3227, which created the County’s timeshare real proper ty tax 
+classification  in 2004, and demanded  a jury trial .  With respect 
+to “jurisdiction, ” Taxpayers specially alleged that 
+“[j]urisdiction  in this Court is proper pursuant to          
+[HRS §] 632 -1.”   
+ According to the Taxpayers, immediately prior to the 
+establishment of a separate real property tax classification for 
+timeshares, timeshares  had been  included in the “hotel and 
+resort” real property tax classification  and therefore taxed at 
+the hotel and r esort rate .  The Taxpayers  alleged that the 
+County’s creation of a separate real property timeshare tax 
+classification, and its accompanying high er rate, was intended 
+to make up for losses in revenue from the transient 
+accommodations tax (“TAT”), which is a state tax shared with the 
+counties .  They also alleged that Maui County Resolution      
+No. 13-60, which established the 2014 timeshare real property 
+tax rate, was adopted in violation of Hawaiʻi’s Sunshine Law.  
+The Taxpayers represented that they paid their real property 
+taxes for the 2014 fiscal year under protest.   ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+8 
+  Count I of the Complaint alleged an equal protection 
+violation  under the United States Constitution and the Hawaiʻi 
+State Constitution .  The Taxpayers alleged that the timeshare  
+real property tax rate was the highest real property tax rate in 
+the county, although timeshare use does not differ from hotel 
+and resort use.  They also alleged that the tax 
+disproportionately impacted nonresidents, who are the 
+overwhelming majority of t imeshare owners in the county of Maui.  
+Count II alleged a Sunshine Law violation.  The Taxpayers  
+alleged that some Maui County Councilmembers “sought to secure 
+other Councilmembers’ commitment to vote on the timeshare tax 
+rate” through communications  that violated the Sunshine Law .  
+Thus, the Taxpayers requested relief in the form of a 
+declaration that (1) the timeshare classification and tax rate 
+violated the equal protection clauses of the United States 
+Constitution and Hawaiʻi State Constitution,  and (2) Maui County 
+Resolution No. 13 -60, establishing the fiscal year 2014 real 
+property timeshare tax rate, was void as violative of the 
+Sunshine Law.   
+ On August 28, 2014, the Taxpayers filed their FAC.  
+Taxpayers agai n asserted jurisdicti on pursuant  to HRS § 632 -1.  
+The FAC added another Sunshine Law violation count , alleging 
+that some Maui County Councilmembers communicated improperly 
+with other Councilmembers to secure their votes for Maui County ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+9 
+ Resolution No. 14-54, which established the fiscal year 2015 
+timeshare real property tax rate.  The FAC also alleged that the 
+fiscal year 2014 and 2015 Sunshine Law violations deprived the 
+Taxpayers of due process under the United States Constitution 
+and Hawaiʻi State Co nstitution.  As a result of the addition of 
+these two new counts, the four total counts were renumbered as 
+follows:  Count I (equal protection), Count II (due process), 
+Count III (Sunshine Law violation for fiscal year 2014), and 
+Count IV (Sunshine Law vio lation for fiscal year 2015) .  The 
+Taxpayers again requested relief in the form of a declaration  
+that (1) the timeshare classification and tax rate s violated the 
+equal protection clauses of the United States and Hawaiʻi 
+Constitutions,  and that  (2) Maui Cou nty Resolution Nos. 13 -60 
+and 14-54, establishing the fiscal year 2014 and 2015 real 
+property timeshare tax rates, respectively, were void as 
+violative of the Sunshine Law, and, therefore, also violated the 
+Taxpayers’ procedural due process rights under th e United States 
+Constitution and Hawaiʻi State Constitution.   
+ Taxpayers were later granted leave to file the SAC.3  Once 
+again, Taxpayers alleged jurisdiction pursuant to HRS § 632 -1.  
+In the SAC, filed August 12, 2016, they alleged that the County 
+ 
+3  The County unsuccessfully opposed the Taxpayers’ motion for leave to 
+file the SAC.  The County argued that the circuit court lacked subject matter 
+jurisdiction over the tax disputes involving the “amended assessments,” as 
+exclusive subject matter jurisdict ion lay with the TAC.   ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+10 
+ had issued to them “amended assessments” in 2016 for tax years 
+2006, 2007, and 2008 for ORV, and for 2008 for ORVN , in 
+retaliation for the Taxpayers’ lawsuit .  For those years, the 
+County had taxed the land and buildings in ORV and ORVN but had 
+not assessed the timeshare real property tax.  The County’s 
+“amended assessments” totaled over $10  million and were due in 
+30 days.  T he Taxpayers st ated they paid the taxes under protest 
+and appealed the “amended assessments” to the County BOR , paying 
+a $75 filing fee for each of the 1,115 appeals brought by 
+timeshare owners.  In response to these “amended assessments,” 
+the Taxpayers  added four more counts to their Complaint:  Count 
+V (declaratory judgment as to the illegality of the “amended 
+assessments”), Count VI ( violations of the right to free speech 
+and the right to petition the government for redress under the 
+United States Consti tution and Hawaiʻi State Constitution ), Count 
+VII (violation of procedural due process  under the United States 
+Constitution and the Hawaiʻi State Constitution ), and Count VIII 
+(42 U.S.C. § 1983 claim  for damages based on the constitutional 
+violations ).  
+ The Taxpayers again requested a declaration  that (1) the 
+real property timeshare classification and fiscal year 2014 and 
+2015 rates were unconstitutional, (2) the Maui County 
+resolutions establishing the fiscal year 2014 and 2015 real 
+property timeshare tax  rates were void as violative of the ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+11 
+ Sunshine Law  and, therefore, violated Taxpayer’s procedural due 
+process rights, and  that (3) the “amended assessments” were 
+invalid and unenforceable because they violated the Maui County 
+Code; the rights to free speech , to petition the government for 
+redress, and to procedural and substantive due process under the 
+United States Constitution and the Hawaiʻi State Constitution ; 
+therefore, the Taxpayers were entitled to refunds of real 
+property taxes and appeal fees paid .4    
+B.   The County’s motion for summary judgment as to Counts I and 
+ II of the FAC  
+ 
+ On July 1, 2016, the County moved for summary judgment on 
+Counts I and II of the FAC, arguing that the circuit court 
+lacked subject matter jurisdiction over the case, as  the TAC had 
+exclusive jurisdiction over tax disputes.   They quoted HRS      
+ 
+4  On August 12, 2015, the Taxpayers’ filed a complaint against the County 
+in Civ. No. 15 -1-0435 before Second Circuit Court Judge Rhonda I. L. Loo.  In 
+it, they alleged that the County set the fiscal year 2016 timeshare real 
+property tax rate in County Resolution No. 15 -52 in violation of the Sunshine 
+Law (Count I), which violated their due process rights under the United 
+States Constitution and the Hawaiʻi State Constitution (Count II).  The 
+Taxpayers again sought a declaration to that effect from the circuit court.   
+ A month later, the County filed its answer and a counterclaim for set -
+off and/or damages against the Taxpayers.   The County counterclaimed for set -
+off, against any damages claimed by the Taxpayers, the amount of real 
+property timeshare taxes owed by the Taxpayers due to the County’s erroneous 
+underassessment of real property taxes before 2009.   
+ In November 2015, the Taxpayers moved to dismiss the counterclaim.  
+They argued that the circuit court lacked subject matter jurisdiction because 
+the MCC “vests the [BOR] and [TAC] with exclusive jurisdiction over appeals 
+of contested tax liability. . . .”   The Taxpayers then moved to consolidate 
+the matter before Judge Loo with the instant proceeding before Judge Cahill.  
+Judge Cahill denied the motion to consolidate.  Judge Loo then agreed with 
+the Taxpayers, and granted their motion to dismiss the County ’s counterclaim.  
+According to the County, the Taxpayers ultimately dismissed, with prejudice, 
+the lawsuit before Judge Loo.     
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+12 
+ § 232-12, which states that the T AC “shall determine all 
+questions of fact and all questions of law, including 
+constitutional questions. . . .”  The circuit court denied the 
+motion.   
+C.  Disposition of Counts V, VI, VII, and VIII of the SAC   
+ On December 1, 2016, the Taxpayers  filed four separate 
+motions for partial summary judgment as to Counts V, VI, VII, 
+and VIII of the SAC.  On December 12, 2017, the County filed its 
+own motion for partial summary judgment as to Count V of the 
+SAC.  The County also filed an opposition to th e Taxpayers’ 
+motion for partial summary judgment as to Count V, arguing that 
+the circuit court lacked subject matter jurisdiction over Count 
+V, as exclusive subject matter jurisdiction lay with the T AC 
+over this  tax dispute . 
+ On January 26, 2017, the circu it court filed the “Court’s 
+Sua Sponte Order.”   In it, the circuit court stated as follows 
+with respect to  subject matter jurisdiction:  
+ On the issue of the Court’s jurisdiction to hear the 
+issues related to real property taxes, it is noted that the 
+Constitution of the State of Hawaiʻi preserves any party’s 
+right to a trial by jury.  One or more party in this case 
+has requested jury trial.  Once it has been demanded, the 
+jury demand applies to all unless a mutual waiver has been 
+agreed upon.  
+ The statute creating a “TAX COURT” states that the 
+Tax Court shall decide all issues of fact and law.  HRS    
+§ 232-13.  The statute does not authorize the Tax Court to 
+empanel a jury for any purpose or to decide those issues 
+that a party would otherwise h ave a right to be determined 
+by a jury.  Although the statutes creating the Tax Court 
+discuss a party’s ability to raise “constitutional issues,” 
+the statute appears to be devoid of a mechanism whereby a ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+13 
+ person’s right to trial by jury on those issues is 
+preserved.  HRS § 232 -15.  In addition, the precise 
+question that the Tax Court has jurisdiction to decide is 
+set forth in HRS § 232 -13. 
+ 
+The question of the circuit court’s subject matter jurisdiction 
+had come up  because the Taxpayers had  challenged the “a mended 
+assessments” b oth in circuit court and by bringing appeals 
+before the County BOR and TAC.  The circuit court therefore  
+invited the parties to submit further briefing  addressing “(1) 
+whether the Court’s view of the statutes and law is accurate; 
+(2) if accurate discuss how does such a view comports [sic] with 
+each party’s rights; and (3) assuming this court exercises 
+jurisdictions [sic] what if any impact does that have on the 
+current status of any pending tax appeal, and how should this 
+Court handle t hose issues. ”   
+ The principal argument in t he Taxpayers’ further briefing 
+was that the circuit court had jurisdiction over the case 
+because they challenged the legality of the “amended 
+assessments ,” not just the ir amount.  For this proposition, 
+Taxpayers cited Kingdom and Territory of Hawaiʻi cases, most of 
+which predated the tax appeal provision s in HRS chapter 232  and 
+MCC chapter 3.48 .  See infra note 13.   
+ The County argued that the Taxpayers’ challenge to the  
+legality of the  “amended assessments” was a challenge to the 
+“change in valuation of the same property,” or the amount of the 
+assessments.  It contended that exclusive subject matter ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+14 
+ jurisdiction over the contested amount of taxes lay with the 
+TAC.  
+ On August 9, 2017, t he circuit court  ruled in the 
+Taxpayers’ favor on the “amended assessment” counts in the SAC  
+(Counts V, VI, VII, and VIII) .5  It ordered the County to refund 
+the Taxpayers  the over $10 million in “amended assessments,” as 
+well as $83,325.00 in appe al fees to the BOR they had paid.  By 
+further order, the  circuit court directed  the County to pay 
+$540,545.94 (representing $111,400.00 in appeal fees the 
+Taxpayers  paid to the T AC, and $429,145.94 in general excise 
+taxes the Taxpayers  paid to the State).  The ci rcuit court later 
+granted the Taxpayer s’ request for $455,749.56 in attorneys’ 
+fees and $18,177.43 in costs  in Count VIII .  
+ The circuit court concluded i t could assert subject matter 
+jurisdiction over the “amended assessment” counts , Counts V 
+through VIII of the SAC,  because HRS § 232 -13 does not empower 
+the TAC to empanel a jury.  It went on to conclude that “circuit 
+courts are courts of general jurisdiction, and their subject 
+matter jurisdiction extends to all matters properly brought 
+before them, unless precluded by constitution or statute.”   The 
+ 
+5  The circuit court ’s August 9, 2017 order is titled “Court’s Findings of 
+Fact, Conclusions of Law; Order Granting Plaintiffs’ Motions for Partial 
+Summary Judgment on Counts V, VI, VII and VIII of the Second Amended 
+Complaint Filed August 12, 2016, filed on December 1, 2016; and Denying 
+Defendants County of Maui and the Maui County Council’s Motion for Partial 
+Summary Judgment as to Count V of the Plaintiffs’ Second Amended Complaint 
+Filed 2016 -08-12, Filed on December 12, 2016. ”  ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+15 
+ circuit court further stated that the “TAC does not have 
+exclusive jurisdiction over [the Taxpayers’ claims] in this 
+case, which specifically challenge the legality of the Amended 
+Assessments, not th eir amount.”  The circuit court stated that 
+the TAC had no power to grant the Taxpayers’ requested relief, 
+which was a declaration that the taxes were unconstitutional.   
+Lastly, the circuit court concluded that it had asserted 
+jurisdiction over the “amende d assessment” claims first; 
+therefore, it would retain jurisdiction through the conclusion 
+of the case.   
+D.  Disposition of Count I of the SAC  
+ The Taxpayers then turned to Count I of the SAC, which 
+alleged an equal protection violation under the United S tates 
+Constitution and the Hawaiʻi State Constitution.  On September 
+29, 2017, the Taxpayers  filed a “Motion for Partial Summary 
+Judgment, Based on Use, as to Count 1 (Equal Protection) of the 
+Second Amended Complaint Filed August 12, 2016.”  They argued 
+there was no rational basis supporting different real property 
+taxation rates for timeshares versus hotels, where there was no 
+difference in actual use of the two types of properties.   
+ On December 19, 2017, the Taxpayers  filed a “Motion for 
+Partial Summary Judgment Re: Illegality of the Timeshare Real 
+Property Tax Classification ,” also as to Cou nt I.  They argued  
+that the County had no authority  to create a tax on timeshares ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+16 
+ to remedy disparities in state TAT revenues.  They elaborated 
+that the M CC authorizes real property tax classifications based 
+on distinctions in use only .  Further, they cont ended that the 
+Hawaiʻi State Constitution gives the state, not counties, power 
+over remedying any disparities in assessing or distributing the  
+TAT.   
+ In its memorandum in opposition, the County countered  that 
+the Taxpayers’ arguments that timeshare and hotel use are 
+identical, and that the timeshare real property tax is a de 
+facto TAT, are factually erroneous.   The County asserted that 
+the rational bas es behind the timeshare real property tax 
+classificati on included collecting a more equitable share of 
+taxes for County services used by timeshare owners, eliminating 
+the tax disparity between hotels and timeshares, and 
+disincentivizing hotel conversion to timeshares.    
+ On March 23, 2018, the circuit court ruled in the 
+Taxpayers’ favor .6  The circuit court found that the County’s 
+purpose in establishing the timeshare real property tax 
+classification was to remedy a perceived disparity in TAT 
+assessments.   The circuit court concluded that such purpose 
+ 
+6  The circuit court ’s ruling was titled “Findings of Fact, Conclusions of 
+Law; Order Granting Plaintiffs’ Motion for Partial Summary Judgmen t Re: 
+Illegality of the Timeshare Real Property Tax Classification, Filed December 
+19, 2017, and Denying as Moot Plaintiffs’ Motion for Partial Summary 
+Judgment, Based on Use, as to Count I (Equal Protection) of the Second 
+Amended Complaint Filed August 12 , 2016, Filed September 29, 2017.”   
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+17 
+ violated the MCC, which requires that tax classifications of 
+real property be based on actual use.  The circuit court 
+concluded that the timeshare real property tax classification  
+was “illegal and void.”   
+E.  Appeal  
+ On June 25, 2018, the circuit court entered orders allowing 
+interlocutory appeals of its rulings in Counts I and V through 
+VIII of the SAC.7   
+ The County then timely filed its Notice of Appeal from the 
+June 25, 2018 orders certifying the interlocutory appeals.  This 
+case was subsequently transferred from the ICA to this court .  
+The County raises the following points of error, the first of 
+which is dispositive of this appeal : 
+(1) The circuit court’s assertion of subject matter 
+jurisdiction over this case was wrong because s pecial and 
+exclusive subject matter jurisdiction lay with the [TAC];  
+ 
+(2) the circuit court’s ruling voiding the Timeshare real 
+property taxation classification was contrary to the 
+constitutional doctrine of separation of powers;  
+  
+(3) the circuit court’s ruling that the Timeshare real 
+property taxation classification may only be established 
+upon consideration of the “actual use” of property was 
+ 
+7  The circuit court ’s orders are entitled (1) “Order Certifying for 
+Interlocutory Appeal the Findings of Fact, Conclusions of Law; (Illegality) 
+Order, Filed March 23, 2018, Pursuant to Hawaii Revised Statutes Section  
+641-1(b) and Staying Proceedings under Hawaii Rules of Civil Procedure 
+Rule[s] 62(d) and (e),” its partial ruling as to Count I, and (2) “Order 
+Certifying for Interlocutory Appeal Counts V, VI, VII, and VIII of the Second 
+Amended Complaint, Filed August 12, 2016, Pursuant to Hawaii Rules of Civil 
+Procedure Rule 54(b), and Staying Proceedings under Hawaii Rules of Civil 
+Procedure Rule[s] 62(d) and (e).”  On July 2, 2018, the circuit court entered 
+final judgment on Counts V, VI, VII, and VIII of the Second Amended 
+Complaint.   
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+18 
+ wrong and contrary to the Maui County real property tax 
+code;  
+ 
+(4) the circuit court’s r uling that the [Taxpayers]  are 
+entitled to as much as $34,000,000 in tax refunds was 
+wrong, an abuse of discretion, and threatens the County’s 
+bond credit rating and the fiscal security of its 
+residents;  
+ 
+(5) the circuit court’s ruling (that the County’s decision 
+to assess back taxes upon the Taxpayers  for Timeshare real 
+property taxes that were inadvertently not previously 
+taxed, was unconstitutional as “illegal” and “retaliatory”) 
+was wrong;  
+ 
+(6) the circuit court’s order for a refund for [Taxpayers]  
+of the paid back taxes and appeal fees, pending an Appeal 
+in [the TAC] , was an abuse of discretion; and  
+ 
+(7) the circuit court’s award of attorneys’ fees and costs 
+to [Taxpayers]  was an abuse of discretion.   
+ 
+F.  Partial settlement on appeal 
+ The partie s then voluntarily submitted their appeal to  the 
+Center for Alternative Dispute Resolution’s Appellate Mediation 
+Program (“ CADR AMP ”).  Six months later, the CADR  AMP filed a 
+report informing the court that “[t]he parties partially settled 
+or narrowed issu es, but were unable to resolve the entire 
+appeal” and “case returned to appellate docket).”  In a status 
+report, t he parties represented that mediation had resolved 
+points of error 5, 6, and 7, and that only the first four points 
+of error remain to be reso lved by this court.  The parties 
+stated that they entered into a Settlement and Release Agreement  
+in which they agreed to seek vacatur of the circuit court’s 
+orders and judgments concerning the “amended assessments .”   ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+19 
+  The parties contemporaneously filed a “Stipulation for 
+Partial Dismissal of Appeal with Prejudice and for Remand .”  The 
+parties stipulated to dismiss with prejudice, pursuant to HRAP 
+Rule 42(b),8 that part of the appeal involving points of error 5, 
+6, and 7 .  To that end, they agreed to seek vacatur of those 
+circuit court orders and judgment giving rise to points of error 
+5, 6, and 7, including the circuit court’s August 9, 2017 order .9  
+To the extent that order contained rulings regarding the circuit 
+court’s subject matter jurisdiction, however, the parties asked 
+this court not to vacate the order.  In other words, on the face 
+of the Stipulation and Order, the parties agree to dismiss an 
+order that they acknowledge may contain an issue still before 
+this court.   
+ The parties further stipulated “that . . . this Court 
+remand the matter in part, only as to the dismissed Points of 
+Error, to the [circuit court] for further action as separately 
+agreed by the parties in their settlement agreement.”  Under the 
+ 
+8  HRAP Rule 42(b) is titled “Dismissal in the appellate courts,’ and it 
+provides the following:  
+ 
+If the parties to a docketed app eal or other proceeding 
+sign and file a stipulation for dismissal, specifying the 
+terms as to payment of costs, and pay whatever fees are 
+due, the case shall be dismissed upon approval by the 
+appellate court, but no mandate or other process shall 
+issue wit hout an order of the court.  Upon motion and 
+notice, the appellate court may dismiss the appeal upon 
+terms fixed by the appellate court.  
+ 
+9  See supra note 5. 
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+20 
+ parties’ Settlement and Release Agreement, the “further action” 
+referred to was an agreement  to “jointly request that the Hawaiʻi 
+Supreme Court dismiss the Amended Assessment Appeal from SCAP 
+No. 18-0000578 . . . [and] remand this matter in part to the 
+Second Circu it Court, for further action,” namely the joint 
+filing of a “Stipulation and Order Partially Lifting Stay”  in 
+order to vacate the circuit court’s orders and final judgment on 
+the “amended assessment” counts.10      
+ A week later, the County filed a “Motion  for Partial 
+Dismissal of Appeal with Prejudice and Remand for Vacating of 
+Findings of Fact, Conclusions of Law, Orders and Partial Final 
+Judgment” (“Motion to Dismiss”).   Although the Motion to Dismiss 
+and the Stipulation and Order both seek a dismissal of the part 
+of this appeal stemming from the orders and final judgment on 
+the “amended assessment” counts, the Motion to Dismiss went 
+further than the Stipulation and Order and directly asked this 
+court to “direct the circuit court on remand to v acate” the 
+orders and final judgment on the “amended assessment” counts, 
+“if this court deems it appropriate.”    
+ 
+10  Under the Settlement and Release Agreement, the County refunded to the 
+Taxpayers  the over $10 million in amended assessments they paid, plus 
+interest, as well as the BOR fees totaling over $83,000.00.  The Taxpayers  
+will keep this refunded amount.   The County will also pay the Taxpayers  
+$585,326.99 (attorneys’ fees and costs and T AC appeal fees).  The parties 
+will work out GET taxes owed after the 2020 tax season.    ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+21 
+  A majority of this court disapproved of the Stipulation and 
+Order and denied the Motion to Dismiss.  The majority noted , 
+“This court has adopt ed the United States Supreme Court’s 
+holding in U.S. Bancorp Mortg. Co. v. Bonner Mall P’ship , 531 
+U.S. 18, 29 (1994), that ‘mootness by reason of settlement does 
+not justify vacatur of a judgment under review.’  See Goo v. 
+Arakawa, 132 Hawaiʻi 302, 314, 3 21 P.3d 655, 665 (2014).”  The 
+majority further observed that the parties had stipulated to 
+vacate one of the circuit court’s orders that may still be at 
+issue in the present appeal.  
+III. Standards of review 
+A.  Jurisdiction  
+ “The existence of jurisdiction is a question of law that we 
+review de novo under the right/wrong standard.  Questions 
+regarding subject matter jurisdiction may be raised at any stage 
+of a cause of action. . . .  A judgment rendered by a circuit 
+court witho ut subject matter jurisdiction is void.”  Amantiad v. 
+Odum, 90 Hawaiʻi 152, 159, 977 P.2d 160, 167 (1999) (citations 
+omitted).  
+B.  Interpretation of statutes and ordinances  
+ Statutory interpretation is a question of law 
+reviewable de novo.  This court’s statutory construction is 
+guided by established rules:  
+ 
+First, the fundamental starting point for 
+statutory interpretation is the language of the 
+statute itself.  Second, where the statutory 
+language is plain and unambiguous, our sole ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+22 (continued. . .)  
+ duty is to gi ve effect to its plain and obvious 
+meaning.  Third, implicit in the task of 
+statutory construction is our foremost 
+obligation to ascertain and give effect to the 
+intention of the legislature, which is to be 
+obtained primarily from the language contained 
+in the statute itself.  Fourth, when there is 
+doubt, doubleness of meaning, or 
+indistinctiveness or uncertainty of an 
+expression used in a statute, an ambiguity 
+exists. 
+ 
+ When interpreting a municipal ordinance, we apply the 
+same rules of construction that w e apply to statutes.  
+ 
+Rees v. Carlisle , 113 Hawaiʻi 446, 452, 153 P.3d 1131, 1137 
+(2007) (citations omitted).   
+IV.  Discussion  
+A.   The circuit court lacked subject matter jurisdiction over 
+ the Counts I and V through VIII of the Taxpayers’ SAC  
+ 
+ 1.  The parties’ arguments11 
+ 
+11  We note that the Hawaiʻi Tax Foundation was given leave to file a  brief 
+of amicus curiae in this appeal.  The Tax Foundation states it is a “non -
+partisan, non -political IRC § 501(c)(3) organization whose mission is to 
+educate taxpayers and lawmakers on taxation and public finance.”   
+ The Tax Foundation acknowledges that “HRS § 632 -1, the declaratory 
+judgment statute on which [the Taxpayers] premised circuit court jurisdiction 
+in their original and first amended complaints, forbids declaratory judgments 
+in tax controversies.”  The Tax Foundation goes on, however, to argue that 
+circuit court jurisdiction “is allowed whe n the lawsuit is not attempting to 
+keep government from assessing and collecting taxes, so there is no bar when 
+the taxes in question have already been paid.”  In the Tax Foundation’s view, 
+the Taxpayers are not attempting to keep the government from asses sing or 
+collecting taxes because they paid their timeshare real property taxes under 
+protest.  The Tax Foundation cites to Grace Bus. Dev. Corp. v. Kamikawa , 92 
+Hawaiʻi 608, 613 n.5, 994 P.2d 540, 545 n.5 (2000) , for this proposition.  
+This case does not a pply to the present appeal, as it held that there was no 
+“actual dispute ” before over which the TAC could have had jurisdiction under 
+HRS § 40 -35, the “Payment to state under protest ” statute, and that a “formal 
+administrative decision, such as a notice of  assessment, denial of refund, or 
+an adverse ruling ” was required before such a suit could be brought.  92 
+Hawaiʻi at 612, 613,  994 P.2d at 544, 545.  Thus, that case is clearly 
+distinguishable, as Taxpayers here are contesting “assessments. ”   
+ The Tax Foundation also acknowledges that “[s]tatutes and ordinances 
+relating to tax appeals have established specialized procedures for 
+contesting tax assessmen ts and specialized bodies such as the Boards of 
+Review and the Tax Appeal Court,” citing HRS chapter 232 and MCC chapter 
+3.48.  In other words, “tax controversies in court are usually handled by the ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+23 
+  
+ The County’s first point of error is that the circuit court 
+lacked subject matter jurisdiction over this case because 
+special and exclusive subject matter jurisdiction lay with the 
+TAC.  The County supports its position by citing  to the tax 
+appeal provisions in HRS chapter 232  and MCC chapter 3.48, as 
+well as Kinkaid v. Bd. of Rev. , 106 Hawaiʻi 318, 104 P.3d 905 
+(2004).12  The County argues that there is no “identifiable 
+constitutional provision, statute, or code provision pursuan t to 
+which the [c]ircuit [c]ourt could have asserted general subject 
+matter jurisdiction over an area of law specifically carved out 
+by statute and recognized by this Court as the exclusive 
+jurisdiction of the [TAC]. . . .”  The County therefore asks us 
+to void the circuit court’s final judgment; as well as its 
+orders on Counts I, V, VI, VII, and VIII; and to dismiss this 
+ 
+(continued . . .) 
+[TAC].”  Although the Tax Foundation urge s this court to uphold the circuit 
+court’s exercise of jurisdiction over this case, due to the five years’ worth 
+of work that went into litigating it, ultimately the Tax Foundation expresse s 
+doubt that the circuit court could award the Taxpayers damages in the form of 
+tax refunds without “subvert[ing] the prescribed tax appeal processes. . . .”   
+  
+12  The County relies heavily upon Kinkaid for the proposition that special 
+and exclusive subject matter jurisdiction over tax matters lay with the TAC.  
+Kinkaid’s holding was not that broad.  In Kinkaid, taxpayers had already 
+appealed their real property assessments to the BOR and brought dueling  
+appeals from the BOR to both the TAC and the circuit court.  Kinkaid, 106 
+Hawaiʻi at 320, 104 P.2d at 907.  We held only that the TAC has exclusive 
+jurisdiction over appeals from the BOR , to the exclusion of the circuit 
+court.  Kinkaid, 106 Hawaiʻi at 324, 104 P.2d at 911.  Thus, Kinkaid does not 
+aid us in addressing the issue in this appeal, which is whether the circuit 
+court had original subject matter jurisdiction to entertain this tax 
+challenge, to the exclusion of the BOR and TAC.   ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+24 
+ case, without prejudice, for lack of subject matter 
+jurisdiction.       
+ The Taxpayers disagree, asserting that the circuit court 
+had jurisdiction over their case.  They contend  that their 
+challenge to the County’s real property timeshare tax 
+classification was to the constitutionality and legality, and 
+not the amount, of the assessment.  Therefore, they argue, they 
+could not have brought their claims to the BOR, which cannot 
+decide questions of constitutionality or illegality.  
+Consequently, they argue, they could not have brought their 
+claims to the TAC, because an appeal to the TAC must come from 
+the BOR.  The Taxpayers then assert that circuit courts exercise 
+general jurisdiction, and that their subject matter extends to 
+all matters properly brought before them unless precluded by 
+constitution or statute, citing State v. Kotis , 91 Hawaiʻi 319, 
+326 n.9, 984 P.2d 78, 85 n.9 (1999).  By contrast, they state, 
+the TAC is a court of limited jurisdiction, hearing and 
+deciding, without a jury, direct appeals from tax assessors’ 
+assessments or decisions made by a county BOR, citing Lewis v. 
+Kawafuchi , 108 Hawaiʻi 69, 73, 116 P.3d 711, 715 (App. 20 05).  
+Lastly, the Taxpayers cite to cases primarily from the Kingdom ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+25 (continued. . .)  
+ and Territory of Hawaiʻi13 to support the proposition that there 
+is a distinction between “challenges to the legality of a tax, 
+ 
+13  The Taxpayers  cite to McBryde v. Kala , 6 Haw. 529 (Haw. King. 1884); 
+Hilo Sugar Co. v. Tucker , 8 Haw. 148 (Haw. King. 1890); Shaw v. Booth , 14 
+Haw. 117 (Haw. Terr. 1902); Hill v. Yee Chan & Co. , 31 Haw. 809 (Haw. Terr. 
+1931); In re Taxes Maui Agr. Co. , 34 Haw. 515 (Haw. Terr. 1938); In re Smart , 
+54 Haw. 250, 505 P.2d 1179 (1973); and Grace Bus. Dev. Corp. v. Kamikawa , 92 
+Hawaiʻi 659, 994 P.2d 591 (App. 1999).  None of these cases have retained 
+their vitality on the issue of the circuit court’s subject matter 
+jurisdiction.   The first five cases ( McBryde, Hilo Sugar Co. , Shaw, Hill, and 
+In re Taxes Maui Agr. Co. ) all involve the old distinction between the 
+regular courts, which could address the illegality of an assessment, and the 
+specialty tax boards an d courts, which could not.  See McBryde, 6 Haw. at 530 
+(holding tax court was without authority to decide whether double taxation 
+was illegal, because double taxation was not among the enumerated issues the 
+tax court was authorized by statute to address); Hilo Sugar Co. , 8 Haw. at 
+150 (holding circuit court “may interfere where the assessment is illegal,” 
+but not “to review the judgment of the Assessor in estimating values); Shaw, 
+14 Haw. at 119 (“In general, questions of judgment and fact are for the 
+assessors and the specially constituted tax courts and questions of 
+constitutionality . . . are for the regular courts.”); Hill, 31 Haw. at 812 
+(holding that a taxpayer could collaterally attack, in circuit court, an 
+updated assessment as an “unauthorized and i nvalid” exercise of power by the 
+assessor); In re Taxes Maui Agr. Co. , 34 Haw. at 551 (holding that the tax 
+courts lacked jurisdiction to determine the validity of an assessment).  In 
+re Taxes of Maui Agr. Co.  appears to have been overruled by In re Valley  of 
+Temples Corp. , 56 Haw. 229, 230 -31, 533 P.2d 1218, 1219 (1975), which held, 
+“We hold that In re Taxes Maui Agr. Co. , supra, decided in 1938, is no longer 
+applicable authority in the determination of the Tax Appeal Court’s 
+jurisdiction in real property tax appeals.  Since 1939 the Legislature has 
+expressly provided that an appeal from a final decision of the Board to the 
+Tax Appeal Court ‘shall bring up for determination all questions of fact and 
+all questions of law, including constitutional questions  involved in the 
+appeal.’ 1939 S.L.H. c. 208, § 7; HRS § 232 -17 (Supp. 1974).”  ( Emphasis 
+added; footnote omitted).  In re Valle y of the Temples Corp.  thus implicitly 
+overruled the pre -1938 cases, McBryde, Hilo Sugar Co. , Shaw, and Hill, as 
+well.  Similarly, In re Smart , 54 Haw. 250, 505 P.2d 1179, appears to have 
+been superseded by the statute cited in In re Valley of Temples, Cor p., HRS  
+§ 232-17.  In re Smart  held that “where Taxpayer’s suit contests the 
+valuation placed upon the real property by the tax assessor rather than the 
+legality of the assessment, we are of the opinion that the language of HRS    
+§ 246-46 [requiring appe als of assessments to come before the BOR or TAC] 
+applies exclusively,” and remanding the case to the circuit court for 
+dismissal.  54 Haw. at 252, 505 P.2d at 1181.  Lastly, it is true that the 
+Taxpayers’ last case, Grace Bus. Dev. Corp. v. Kamikawa , 92 Hawaiʻi at 669, 
+994 P.2d at 601 held that “[w]here . . . the dispute is not over the amount 
+of the taxes, but over their basic validity, HRS § 40 -35 [which allowed suit 
+in the circuit court] is the avenue for taxpayer relief.  Where the dispute 
+is over the amount of the value or tax assessed, chapter 232 [requiring 
+appeal to the BOR and TAC] appl[ies].”  The case was reversed by this court 
+in Grace Bus. Dev. Corp. , 92 Hawaiʻi 608, 994 P.2d 504, because there was no ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+26 
+ which may be raised initially in a court of original 
+jurisdiction, from challenges to the amount of a valuation or 
+tax, which may not.”14    
+ 
+(continued . . .) 
+“actual dispute,” since the taxpayers were not assessed any taxes before they 
+brought their challenge to the TAC.   
+ 
+14  The Taxpayers also argue that the County “conflates the jurisdictional 
+considerations underlyi ng the Illegality Order and the [“Amended 
+Assessments”] Order; however, we note that the Taxpayers’ arguments 
+concerning subject matter jurisdiction as to both aspects of this case are 
+largely the same.   Thus, we treat the issue of the circuit court’s subj ect 
+matter jurisdiction as pertaining to all of the orders and the judgment that 
+are the subjects of this interlocutory appeal . 
+ We note that the only additional reasons the circuit court gave for 
+exercising jurisdiction over the “amended assessments” counts w ere that (1) 
+the Taxpayers had made a jury demand in their complaint, FAC, and SAC, and 
+the TAC is not empowered to empanel a jury under HRS § 232 -13, and (2) that 
+the circuit court had exercised jurisdiction first.  These reasons do n ot 
+support an exercise of the circuit court’s jurisdiction over this real 
+property tax appeal.  
+ First, the right to a jury trial presupposes jurisdiction in the 
+circuit court to begin with.  The right alone is not an independent basis for 
+jurisdiction in t he circuit courts.  Hawaiʻi State Constitution article I, 
+section 13 states , “In suits at common law where the value in controversy 
+shall exceed five thousand dollars, the right of trial by jury shall be 
+preserved. ”  In determining whether a suit is “at co mmon law,” the test is 
+“whether the cause of action seeks legal or equitable relief.”  In re Marn 
+Family Litig ., 141 Hawaiʻi at 8, 403 P.3d at 628.  Thus, courts look to “the 
+nature of the remedy to determine whether a jury trial is warranted.”  Id.  
+Generally, where the remedy requested is legal, there is a right to jury 
+trial; by contrast, where the remedy requested is equitable, there is no 
+right to jury trial.  Id.  In this case, the Taxpayers requested declaratory 
+relief, for which there is generally a right to jury trial.  Id.  However, 
+HRS § 632 -1 precludes declaratory relief in tax controversies.  Therefore, 
+there is no relief requested b y Taxpayers that would afford them the right to 
+a jury trial  in Counts I and V through VII certified for interlocutory 
+appeal.  And although there would also be a right to jury trial under Count 
+VIII, the 42 U.S.C. § 1983 count, liability under that count was based on the 
+circuit court ’s declaration of federal constitutional violations in other 
+counts over which it lacked subject matter jurisdiction.  Therefore, t he 
+right to a jury trial does not provide a basis for subject matter 
+jurisdiction in the circui t court as to the counts before us . 
+ Second, lack of subject matter jurisdiction can be raised at any point 
+in the proceedings, regardless of whether the circuit court “exercised 
+jurisdiction first.”  Questions regarding subject matter jurisdiction “may be 
+raised at any stage of a cause of action. . . .  A judgment rendered by a 
+circuit court without subject matter jurisdiction is void.”  Amantiad , 90 
+Hawaiʻi at 159, 977 P.2d at 167.  
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+27 
+  This first point of error concerning the circuit court’s 
+subject matter jurisdiction is dispositive of the entire 
+interlocutory appeal.  As a preliminary matter, we note that the 
+Taxpayers consistently sought declaratory relief in their 
+Complaint, FAC, and SAC  pursuant to HRS § 632 -1.15  As further 
+discussed below, d eclaratory relief under HRS § 632 -1 is not 
+available  for “any controver sy with respect to taxes ” that seeks 
+to interfere with the County’s authority to assess and collect 
+real property timeshare taxes.  Rather, the Taxpayers should 
+have proceeded through the tax appeal procedures set forth in 
+HRS chapter 232 and MCC chapter 3.4 8, which require an appeal of 
+assessments to the County BOR and TAC, even for questions 
+ 
+15  As noted, Taxpayers specifically  referenced HRS § 632 -1 in their  
+Complaint, FAC, and SAC.  T he Taxpayers’ initial Complaint requested relief 
+in the form of a declaration that (1) the timeshare classification and tax 
+rate violated the equal protection clauses of the United States Constitution 
+and Hawaiʻi State Constitut ion, and (2) Maui County Resolution No. 13 -60, 
+establishing the fiscal year 2014 real property timeshare tax rate, was void 
+as violative of the Sunshine Law.  The Taxpayers’ FAC again requested relief 
+in the form of a declaration that (1) the timeshare cla ssification and tax 
+rates violated the equal protection clauses of the United States and Hawaiʻi 
+Constitutions, and that (2) Maui County Resolution Nos. 13 -60 and 14 -54, 
+establishing the fiscal year 2014 and 2015 real property timeshare tax rates, 
+respecti vely, were void as violative of the Sunshine Law, and, therefore, 
+also violated the Taxpayers’ procedural due process rights under the United 
+States Constitution and Hawaiʻi State Constitution.  The Taxpayers’ SAC again 
+requested relief in the form of a de claration that (1) the real property 
+timeshare classification and fiscal year 2014 and 2015 rates were 
+unconstitutional, (2) the Maui County resolutions establishing the fiscal 
+year 2014 and 2015 real property timeshare tax rates were void as violative 
+of the Sunshine Law and, therefore, violated Taxpayer’s procedural due 
+process rights, and that (3) the “amended assessments” were invalid and 
+unenforceable because they violated the Maui County Code; the rights to free 
+speech, to petition the government for redress, and to procedural and 
+substantive due process under the United States Constitution and the Hawaiʻi 
+State Constitution; therefore, the Taxpayers were entitled to refunds of real 
+property taxes and appeal fees paid.   
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+28 
+ involving the constitutionality or illegality of an assessment.16  
+As to Counts I and V through VII  certified for interlocutory 
+appeal, w e therefore agree with the Coun ty that the circuit 
+court lacked subject matter jurisdiction to address the 
+assessments challenged by the Taxpayers in this case .  In 
+addition, a s Count VIII, the 42 U.S.C. § 1983 count, is 
+dependent on alleged constitutional violations declared in other 
+counts certified for interlocutory appeal, that part of  the 
+judgment must be set aside on that basis also.17   
+ 2. HRS § 632-1 precludes declaratory relief in  
+  “any controversy with respect to taxes ” 
+ 
+ We address HRS § 632 -1 first.  As specially stated in the 
+Complaint, FAC, and SAC, this case was brought seeking 
+ 
+16  We note that equal protection challenges to County tax assessments have 
+come to this court through the County BORs and the TAC .  See, e.g. , Corboy v. 
+Louie, 128 Hawaiʻi 89, 283 P.3d 695 (2011) (county taxpayer suit alleging 
+denial of exemption from real property taxes equal to the exemption granted 
+to Hawaiian homestead lessees under the Hawaiian Homes Commission Act 
+violated their right to equal protection under the United States Constitution 
+and Hawaiʻi State Constitution, and seeking a refund of real property taxes 
+paid).  Similarly, cases like the Taxpayers’ , challenging County real 
+property tax classifications  as illegal or violative of constitutional equal 
+protection, have also come to this court through the County BORs and the TAC.  
+See, e.g. , Gardens at West Maui Vacat ion Club v. Cty . of Maui, 90 Hawaiʻi 334, 
+978 P.2d 772 (1999) (county taxpayer suit alleging that re -classification of 
+Maui timeshares from “apartment” to “hotel/resort” classification violated 
+equal protection under the United States Constitution and the Hawaiʻi State 
+Constitution);  Kinkaid, 106 Hawaiʻi 318, 104 P.3d 905 (county taxpayer suit 
+alleging that re -classification of their residential units from “apartment” 
+to “hotel and resort” was “unlawful”).  The legal challenges raised in the 
+Taxpayers’ case  are of the kind that the TAC is authorized and able to 
+address.  
+   
+17  See also infra note 19. ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+29 
+ declaratory relief under HRS § 632-1, which provides the 
+following:  
+In cases of actual controversy, courts of record, within 
+the scope of their  respective jurisdictions, shall have 
+power to make binding adjudications of right, whether or 
+not consequential relief is, or at the time could be, 
+claimed, and no action or proceeding shall be open to 
+objection on the ground that a judgment or order mere ly 
+declaratory of right is prayed for; provided that 
+declaratory relief may not be obtained  in any district 
+court, or in any controversy with respect to taxes , or in 
+any case where a divorce or annulment of marriage is 
+sought.   
+ 
+(Emphasis added.)   
+ The instant case is a “controversy with respect to taxes. ”  
+We recently interpreted that phrase in Tax Foundation v. Hawaiʻi, 
+144 Hawaiʻi 175, 439 P.3d 175 (2019) .  In that case, the Tax 
+Foundation brought a complaint for declaratory relief under HRS 
+§ 632-1.  144 Hawaiʻi at 181, 439 P.3d at 133.  It  brought claims 
+under the Hawaiʻi State Constitution challenging  the Department 
+of Budget and Finance ’s practice of r etaining, for 
+administrative costs, a portion of the City and County of 
+Honolulu’s rail surcharge on general excise and use taxes.  Id.   
+The circuit court granted the State’s motion to dismiss the 
+complaint, which asserted, inter alia,  that the circuit co urt 
+lacked subject matter jurisdiction because HRS § 63 2-1 prohibits 
+declaratory relief in any controversy with respect to taxes.  
+144 Hawaiʻi at 182, 183, 439 P.3d at 134 , 135.    ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+30 
+  We concluded that the circuit court erred in dismissing the 
+Tax Foundation’s complaint for lack of subject matter 
+jurisdiction, because the Tax Foundation’s complaint was not a 
+“controversy with respect to taxes” under HRS § 632 -1.  144 
+Hawaiʻi at 188, 439 P.3d at 140.   We explained that the Tax 
+Foundation was not “dis put[ing] its liability to pay general 
+excise and use tax, or the Honolulu County surcharge.”  Id.  
+Rather, it contested “only the ‘administration and allocation’ 
+of the Honolulu County surcharge after it is assessed and 
+collected.”  Id.  We therefore  adopted the holding in Hawaiʻi 
+Ins. Council v. Lingle , 117 Hawaiʻi 454, 184 P.3d 769 (App. 
+2008), that declaratory relief “may be obtained in tax matters 
+under HRS § 632-1 where such relief does not interfere with the 
+assessment o r collection of taxes .”  Id. (emphasis added).     
+ In this case, however, the Taxpayers’ Complaint, FAC, and 
+SAC all sought declaratory relief in the form of voiding the 
+County’s real property timeshare tax, a result which would 
+“interfere with the assessm ent or collection of taxes.”  
+Therefore, in this case, the Taxpayers’ suit is a “controversy 
+with respect to taxes,” for which declaratory relief under HRS  
+§ 632-1 is not allowed.  For that reason, the circuit court 
+lacked jurisdiction over the Taxpayers’  suit.   
+ This is not to say that Taxpayers were without recourse in 
+challenging the legality or constitutionality of the real ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+31 
+ property timeshare tax classification , rates, or assessments .  
+Their recourse was through the county procedures for appealing 
+tax assessments.  We note that the Hawaiʻi State Constitution, 
+article VIII, section 3 sets forth the counties’ authority over 
+real property taxes as follows:  “ The taxing power shall be 
+reserved to the State, except so much thereof as may be 
+delegated by the  legislature to the political subdivisions, and 
+except that all functions, powers and duties relating to the 
+taxation of real property shall be exercised exclusively by the 
+counties , with the exception of the county of Kalawao.”  
+(Emphasis added.)  HRS chapter 232 , titled “Tax Appeals,”  
+reinforces the primacy of the tax appeal procedures set forth in  
+County codes like  MCC chapter 3.48 , titled “Real Property Tax .”  
+HRS § 232 -3 is titled “Grounds for appeal, real property taxes,” 
+and it states that a taxpayer aggrieved by an assessment must 
+show a “[l]ack of uniformity or inequality, brought about by 
+illegality of the methods used or error in the application of 
+the methods to th e property involved ,” HRS § 232 -3(2), or 
+“[i]llegality, on any ground arising under the Constitution or 
+laws of the United States or the laws of the State (in addition 
+to the ground of illegality in the methods used, mentioned in 
+[HRS § 232 -3(2)],”  HRS § 232-3(4).  Similarly, MCC § 3.48.605, 
+titled “Grounds -- Real property taxes,” provides that a 
+taxpayer aggrieved by an assessment must show:  ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+32 
+ B.  Lack of uniformity or inequality, brought about by 
+inability [sic] of the methods used or error in the 
+application of the methods to the property involved; or  
+. . . .  
+E.  Illegality, on any ground arising under the 
+Constitution or laws of the United States or the laws of 
+the State or the ordinances of the County in addition to 
+the ground of illegality of the met hods used, mentioned in 
+subsection B of this section.  
+ 
+ In this case, portions of Count I as well as Counts V 
+through VII have been certified for interlocutory appeal.  I n 
+Count I, the Taxpayers allege d that the County’s real property 
+timeshare tax classification and rates violated the equal 
+protection clause s of the United States Constitution and the 
+Hawaiʻi State Constitution , because timeshares were taxed at a 
+much higher rate than hotels and resorts , even though the actual 
+use of both classifications of real property was similar.   
+Likewise, Count V sough t a declaratory judgment as to the 
+illegali ty of the “amended assessment,"  Count VI alleged  
+violations of the right to free speech and the right to p etition 
+the government for redress under the United States Constitution 
+and Hawaiʻi State Constitution , and Count VII alleged  a violation 
+of procedural due process under the United States Constitution 
+and the Hawaiʻi State Constitution .  Also, the attorney s’ fees 
+and costs awarded under Count VIII, the 42 U.S.C § 1983 count, 
+were dependent upon the constitutional violations found by the 
+circuit court in other counts; therefore  Count VIII was 
+dependent on the rulings regarding unconstitutionality in other ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+33 (continued. . .)  
+ counts, so the award of attorneys’ fees and costs must be set 
+aside.18  Taxpayers alleged they were not liable for taxes, and 
+they requested and obtained an order from the circuit court 
+ruling the taxes illegal and unconstitutional and ordering a 
+refund of t axes already paid.  Thus, as HRS § 632 -1 precludes 
+declaratory judgments for “controvers[ies] with respect to 
+taxes” that “interfere [] with the assessment or collection of 
+taxes,” the circuit court lacked subject matter jurisdiction  as 
+to Counts and V through VII and as to the liability portion of 
+Count VIII, which was dependent on the other counts .19   
+ 
+18  See also infra note 19. 
+ 
+19  With respect to Count VIII asserting a 42 U.S.C. § 1983 violation, w e 
+note that i n National Private Truck Council, Inc., v. Oklahoma Tax 
+Commission , 515 U.S. 582 (1995), the United States Supreme Court explicitly 
+held as follows:  
+ 
+In determining whether Congress has authorized state courts 
+to issue injunctive and declaratory relief in state tax 
+cases, we must interpret  § 1983 in light of the strong 
+background principle against federal interference with 
+state taxation.   Given this principle, we hold that  § 
+1983 does not call for either federal or state courts to 
+award injunctive and declaratory relief in state tax cases 
+when an adequate lega l remedy exists. Petitioners do not 
+dispute that Oklahoma has offered an adequate remedy in the 
+form of refunds. Under these circumstances, the Oklahoma 
+courts’ denial of relief under  § 1983 was consistent with 
+the long line of precedent underscoring the federal  
+reluctance to interfere with state taxation.  
+ 
+ This holding expanded on the Court ’s previous holding in Fair 
+Assessment in Real Estate Ass ’n, Inc. v. McNary , 454 U.S. 100 (1981), in 
+which the Court held that 42 U.S.C.  § 1983 does not permit federal courts to 
+award damages in state tax cases when state law provides an adequate remedy. 
+454 U.S. at 116.  
+  
+ In National , the Court went on to state:  
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+34 (continued. . .)  
+  We note that Taxpayers are not without remedies to obtain 
+the relief they request .  A taxpayer aggrieved by an assessment 
+can appeal to the County BOR under HRS § 232 -15 (titled “Appeal 
+to board of review”).20  The taxpayer can raise questions 
+ 
+(continued . . .) 
+Of course, nothing we say prevents a State from empowering 
+its own courts to issue injunctions and declaratory 
+judgments even when a legal remedy exists.  Absent a valid 
+federal prohibition, state courts are free to issue 
+injunctions and declaratory judgments under  state law.  
+When a litigant seeks declaratory or injunctive relief 
+against a state tax pursuant to  § 1983, however, state 
+courts, like their federal counterparts, must refrain from 
+granting federal relief under  § 1983 when there is an 
+adequate legal remedy.  
+ 
+515 U.S. at 592.   
+ 
+ Based on  National  and Fair Assessment , some state courts of last resort 
+have held that st ate courts cannot entertain 42 U.S.C §  1983 claims brought 
+by taxpayers where state law provides an adequate remedy.  See, e.g., Francis 
+v. City of Columbus , 676 N.W.2d 346 ( Neb. 2004) (holding that where state law 
+provides an adequate legal remedy, state courts cannot entertain a § 1983 
+claims); Kowenhoven v. County of Allegheny , 901 A.2d 1003 ( Penn. 2006) 
+(holding that taxpayers challenging county assessment practices had adequate 
+state law remedy that precluded claim for § 1983 money damages); Jade 
+Aircraft Sales, Inc. v. Crystal , 674 A.2d 834 (Conn. 1996)  (holding that 
+because taxpayer challenging use tax in connection with taxpayer ’s in-state 
+use of airplane purchase d out-of-state had an opportunity to receive an 
+adequate legal remedy, trial court did not have jurisdiction to entertain the 
+§ 1983 action); General Motors Corp. v. City of Linden , 671 A. 2d 560 (N.J. 
+1996) (holding in taxpayer case alleging due process vi olation for alleged 
+discrimination by city in assessing automobile assembly plant, adequacy of 
+state law remedies barred state courts from providing relief under § 1983 for 
+tax claim); and Camps Newfound/Owatonna Corp. v. Town of Harrison , 705 A.2d 
+1109 (Maine 1998)  (requiring dismissal of § 1983 claim brought by taxpayer 
+challenging constitutionality of statute denying property tax exemption for 
+nonprofits operated principally for out -of-state residents because state law 
+provided adequate remedy).   
+ 
+ Because this issue was not briefed by the parties, we do not further 
+address this issue at this time.   
+ 
+20  HRS § 232 -16, titled “Appeal to tax appeal court,” allows direct 
+appeals to the TAC, but not where taxpayers are appealing a real property tax 
+assessment.  In appeals from real property tax assessments, the taxpayer 
+“shall first obtain a decision from an administrative body established by 
+county ordinance, prior to appealing to the tax appeal court, if county ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+35 
+ involving the United States Constitution, which the BOR is not 
+authorized to entertain, but which preserve s the issues for a 
+later appeal to the TAC:  
+The appeal  shall be considered and treated for all purposes 
+as a general appeal and shall bring up for determination 
+all questions of fact and all questions of law, excepting 
+questions involving the Constitution or laws of the United 
+States, necessary to the determi nation of the objections 
+raised by the taxpayer in the notice of appeal.   Any 
+objection involving the Constitution or laws of the United 
+States may be included by the taxpayer in the notice of 
+appeal and in such case the objections may be heard and 
+determined by the tax appeal court on appeal from a 
+decision of the board of review; but this provision shall 
+not be construed to confer upon the board of review the 
+power to hear or determine such objections.   
+ 
+HRS § 232 -15 (emphasis added) .  See also MCC § 3.48 .625 (“The 
+[BOR] shall have the power and authority to decide all questions 
+of fact and all questions of law, excepting questions involving 
+the Constitution or laws of the United States, necessary to the 
+determination of the objections raised by the taxpay er . . . in 
+the notice of appeal; provided, that the [BOR] shall not have 
+power to determine or declare an assessment illegal or      
+void. . . .”).   
+ A taxpayer dissatisfied with the decision of the County BOR 
+may appeal to the TAC , at which time the con stitutional 
+questions can be addressed:  
+ 
+(continued . . .) 
+ordinance requires a taxpayer to do so.”  In this case, MCC § 3.48.595 is a 
+county ordinance requiring a taxpayer to “first appeal to the County board of 
+review, pursuant to section 232 -16, Hawaii Revised Statutes.”  ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+36 
+ An appeal shall lie to the tax appeal court from the 
+decision of a state board of review, or equivalent 
+administrative body established by county ordinance.  
+. . . . The appeal shall bring up for determination all 
+questions of fact and all questions of law, including 
+constitutional questions involved in the appeal . 
+      
+HRS § 232 -17 (Emphasis added.)   The TAC “shall have the power 
+and authority . . . to decide all questions of fact and all 
+questions of law, including constitutional questions, involved 
+in any such matters, without the intervention of a jury.”  HRS  
+§ 232-11; see also HRS § 232 -13 (“[T]he [tax appeal] court shall 
+determine all ques tions of fact and all questions of law, 
+including constitutional questions, involved in the appeal .”).   
+See also  MCC § 3.48.655 ( “The appeal [to the TAC] shall be 
+considered and treated for all purposes as a general appeal and 
+shall bring up for determination all questions of fact and all 
+questions of law, excepting questions involving the Constitution 
+or laws of the United S tates, necessary for the determination of 
+the objections raised by the taxpayer in the notice of appeal.  
+Any objection invo lving the Constitution or laws of the United 
+States may be included by the taxpayer in the notice of appeal, 
+and in such case, the objections may be heard and determined by 
+the tax appeal court on appeal from a decision of the board of 
+review.”).  Appeals of TAC decisions go to the ICA (HRS          
+§ 232-19), then on to this court (HRS § 602-59), for further 
+review of any constitutional rulings.   Contrary to the 
+Taxpayers’ assertions, the circuit court was without authority ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+37 
+ to exercise general jurisdiction  over this matter, where doing 
+so was precluded by HRS chapter 232 and MCC chapter 3.48.  
+ In short, the circuit court lacked subject matter 
+jurisdiction over th e Taxpayers’ challenges to their real 
+property tax assessments , because (1) they raised  a “contr oversy 
+with respect to taxes” under HRS § 632 -1, which the circuit 
+court was not authorized to entertain, and (2) HRS chapter 232 
+and MCC chapter 3.48 provided the process by which Taxpayers 
+could bring their challenges to the legality and 
+constitutionalit y of the real property timeshare tax 
+classification and rates.    
+B.   The parties’ stipulation and order was properly 
+ disapproved, and the County’s motion for partial dismissal 
+ of this appeal was properly denied.   
+ The parties asked this court to order the circuit court to 
+vacate certain of its orders and its judgment, related to the 
+“amended assessments”  counts solely due to their partial 
+settlement of the “amended assessment s” points of error.  Had 
+this court so acted, the circuit court would hav e vacated the 
+very order containing its erroneous assertion of subject matter 
+jurisdiction , before this court would have had a chance to 
+review it .21   
+ 
+21  See text accompanying note 9 as well as supra note 5. ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+38 
+  Moreover,  there are grave concerns posed by adopting a 
+process by which an appellate court, based solel y on settlement 
+of the parties on appeal, approves a stipulation to dismiss an 
+appeal, where the parties’  end goal is vacating a trial court’s 
+orders or judgments.  This process, known as a “stipulated 
+reversal” or “stipulated vacatur” was discussed in Neary v. 
+Regents of Univ . of California , 834 P.2d 119, 131 (Cal. 1992).  
+In that case, the California Supreme Court held that its 
+“appellate courts have the legal authority to reverse (or 
+otherwise vacate) a trial court’s judgment when the parties 
+stipulate t o such action as a condition of a proposed settlement 
+pending appeal,” absent a showing of extraordinary 
+circumstances.  Neary, 834 P.2d at 120, 125.  The Neary court 
+supported its holding with the following policy pronouncements:  
+(1) settlement agreement s are highly favored, and even a post -
+judgment settlement will spare the parties, as well as the 
+judiciary, future expenditures of time and money; (2) denying a 
+stipulated reversal is unfair to the parties as it does not 
+carry out their interests in ending  litigation; and (3) trial 
+court judgments can be reversed or vacated by stipulation, as 
+trial court judgments are not binding authority in any event.  
+834 P.2d at 121 -25.   
+ The dissent in Neary presented the following policy reasons 
+against adopting the stipulated reversal procedure: (1) ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+39 
+ stipulated reversals erode public confidence in the judiciary 
+due to the perception that a party with enough financial means 
+can “purchase the nullification of the adverse judgment”; (2) 
+stipulated reversals discourage pretrial settlements; (3) trial 
+court judgments should be preserved for their public value; (4) 
+parties should not be allowed to dictate an appellate courts’ 
+actions.  Neary, 834 P.2d at 127-33 (Kennard, J., dissenting).  
+ The Neary decision has been roundly criticized by legal 
+scholars.  See, e.g. , Judith Resnik, Whose Judgment?  Vacating 
+Judgments, Preferences for Settlement, and the Role of 
+Adjudication at the Close of the Twentieth Century , 41 UCLA L. 
+Rev. 1471 (1994); Steven R. Harmon, Unsettling Settlements:  
+Should Stipulated Reversals be Allowed to Trump Judgments’ 
+Collateral Estoppel Effects Under Neary , 85 Cal. L. Rev. 479 
+(1997); Daniel Purcell, The Public Right to Precedent:  A Theory 
+and Rejection of Vacatur , 85 Cal. L. Rev. 867 (1997); Michael W. 
+Loudenslager, Erasing the Law:  The Implications of Settlements 
+Conditioned upon Vacatur or Reversal of Judgments , 50 Wash. & 
+Lee L. Rev. 1229 (1993).   One scholar highlighted the “tangible 
+but frequently undetectable social costs” of allowing courts to 
+consider vacaturs based solely on  the parties’ settlement  during 
+the pendency of an appeal :  
+These costs include the public cost of forgoing the 
+collateral estoppel and res judicata effects of the prior 
+judgment.  This cost is borne directly by third party ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+40 
+ litigants but shared by the public interest in preventing 
+duplicative and piecemeal litigati on.  The costs also 
+include the erasure of collateral consequences of an 
+adverse judgment, the loss of precedential value for 
+judicial decisions, and a diminished respect for the 
+judicial process.  Moreover, rather than encouraging the 
+settlement process, a judicial rule encouraging routine 
+grants of vacatur disrupts the process.  A procedure which 
+allows parties to obtain vacatur as a matter of right by 
+conditioning a postjudgment settlement on vacatur will 
+encourage parties to delay settlement until after  trial 
+because the effects of an adverse judgment can be avoided 
+at little or no cost by postjudgment settlement.  The 
+procedure will also permit the prevailing party to obtain 
+as a private windfall the public costs of vacatur, and will 
+place the defense o f the integrity of judicial decisions in 
+the hands of litigants who are not in a position to 
+safeguard the public values inherent therein.  
+  
+Accordingly, the settlement of a case pending appeal should 
+not entitle the litigants to vacatur as a matter of ri ght.  
+Rather, the courts should review motions to vacate with the 
+presumption that vacatur is not an appropriate tool for 
+erasing an unfavorable trial court decision.  The standard 
+motion to vacate after a postjudgment settlement, motivated 
+solely by the l osing party ’s desire to avoid the collateral 
+consequences of that judgment, should be routinely denied.  
+Though the litigants should retain the opportunity to 
+persuade the court that there is particular prejudice in an 
+individual case, such as the unfairne ss presented by the 
+Munsingwear [22] doctrine, the litigants should bear the 
+burden of convincing the court that this dilemma is not of 
+their own making.  Absent such a showing, the judgment in a 
+case which has been resolved through settlement should 
+enjoy the same vitality as that in any other case in which 
+the losing litigant chooses not to appeal.   
+  
+Jill E. Fisch,  Rewriting History:  The Propriety of Eradicating 
+Prior Decisional Law Through Settlement and Vacatur , 76 Cornell 
+L. Rev. 589, 641 -42 (1991) (emphasis added) . 
+ The United States Supreme Court rejected the stipulated 
+reversal process for federal courts in U.S. Bancorp Mortg. Co. 
+v. Bonner Mall P’ship , 513 U.S. 18 (1994).  One commentator  
+ 
+22  See United States v. Munsingwear , 340 U.S. 36, 39 -40 (1950) (allowing 
+an appellate court to vacate or reverse a trial court judgment during the 
+pendency of an appeal when the case is mooted  through “happenstance”).  ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+41 
+ characterized Bancorp as “having dealt perhaps the most 
+significant blow to Neary” without even mentioning it by name.   
+Harmon, Unsettling Settlements , 85 Cal. L. Rev. at 481.  In 
+Bancorp, the United States Supreme Court addressed “whether 
+appellate courts in the federal system should vacate civil 
+judgment s of subordinate courts in cases that are settled after 
+appeal is filed or certiorari sought.”  Bancorp, 513 U.S. at 19.  
+In other words, the issue was “whether courts should vacate 
+where mootness results from a settlement.”  513 U.S. at 23.  The 
+Bancorp court answered in the negative : 
+We hold that mootness by reason of settlement does not 
+justify vacatur of a judgment under review.  This is not to 
+say that vacatur can never be granted when mootness is 
+produced in that fashion.  As we have described, the 
+determination is an equitable one, and exceptional 
+circumstances may conceivably counsel in favor of such a 
+course.  It should be clear from our discussion, however, 
+that those exceptional circumstances do not include the 
+mere fact that the settlement agreement provides for 
+vacatur —- which neither diminishes the voluntariness of 
+the abandonment of review nor alters any of the policy 
+considerations we have discussed.  Of course even in the 
+absence of, or before considering the existence of, 
+extraordinary circumstances, a court of appeals presented 
+with a request for vacatur of a district -court [sic] 
+judgment may remand the case with instructions that the 
+district court consider the request, which it may do 
+pursuant to Federal Rule of Civil Pro cedure 60(b).  
+  
+Bancorp, 513 U.S. at 25 (emphasis added).  In terms of policy 
+considerations against vacatur following settlement on appeal, 
+the Bancorp court noted, “Where mootness results from settlement 
+. . . the losing party has voluntarily forfeited h is legal 
+remedy by the ordinary processes of appeal or certiorari, 
+thereby surrendering his claim to the equitable remedy of ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+42 
+ vacatur.”  Bancorp, 513 U.S. at 25.  The Court continued, “To 
+allow a party who steps off the statutory path to employ the 
+secondar y remedy of vacatur as a refined form of collateral 
+attack on the judgment would -- quite apart from any 
+consideration of fairness to the parties -- disturb the orderly 
+operation of the federal judicial system.”  Bancorp, 513 U.S. at 
+27.   
+ Thus, Bancorp strongly discouraged stipulated vacaturs and 
+reversals based solely on settlement on appeal.  The Bancorp 
+court, however,  retained an exception to this rule, previously 
+articulated in dictum in Munsingwear , 340 U.S. 36 , that 
+“mootness by happenstance provid es sufficient reason to vacate.”  
+Bancorp, 513 U.S. at 25 n.3.  Happenstance includes 
+circumstances unattributable to any of the parties , and it does 
+not include settlement, which the parties enter into 
+voluntarily.  Bancorp, 513 U.S.  at 23-27.   
+ In Goo, this court generally adopted the United States 
+Supreme Court’s holding  and policy reasons23 from Bancorp, 531 
+U.S. at 29, that “mootness by reason of settlement does not  
+ 
+23 Goo also noted a further undesirable unintended co nsequence of allowing 
+parties to stipulate to vacatur after settlement on appeal as follows:  “This 
+practice had led to a situation where ‘repeat litigants,’ such as insurance 
+companies, were settling cases after losing at the trial level against ‘one -
+time litigants,’ such as policy -holders, but only on the condition that 
+judgments adverse to the interests of the repeat litigant were vacated,” thus 
+enabling insurance companies to “eradicate or reduce the number of pro -policy 
+holder decisions and then argue that the weight of authority [was] in their 
+favor.”  Id. (citation omitted, brackets in original).   
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+43 (continued. . .)  
+ justify vacatur of a judgment under review.”  See Goo, 132 
+Hawaiʻi at 314-15, 321 P.3 d at 665-66.  Goo characterized Bancorp 
+as holding “that appellate courts could no longer vacate lower 
+court judgments based solely on a settlement agreement, which 
+represents a voluntary abandonment of the right to appellate 
+review, absent ‘exceptional’ o r ‘extraordinary’ circumstances.”  
+132 Hawaiʻi at 314, 321 P.3d at 665.24   
+ Goo went on, however, to observe that where a fact -
+intensive inquiry is required in order to determine, in the 
+first instance, whether mootness on appeal was the result of 
+happenstance or a party’s voluntary action, then it is 
+appropriate for the appellate court to remand the case  to the 
+trial court for its evaluation.  132 Hawaiʻi at 317-18, 321 P.3d 
+at 667-68.25  Under those circumstances, Goo held, “[W]hen a case 
+ 
+24  Respectfully, the dissent therefore misapprehend s the holding  of Goo 
+when it states “this court  . . . examined this issue  . . . and . . . 
+concluded that, when parties to a case on appeal seek vacatur of the trial 
+court’s order pursuant to settlement, the appropriate course is to remand the 
+case so that the trial court may consider the equities of the motion for 
+vacatur. ”   
+  
+25  In Goo, real property developers had had their preliminary plat 
+approval rescinded after Maui County changed its height restriction 
+ordinance.  132 Hawaiʻi at 307, 321 P.3d at 659.   The developers then met 
+privately with the Maui mayor and secured his permission to con tinue 
+developing the project.  Id.  Neighboring homeowners then successfully sued 
+the developers, the mayor, and the county planning director seeking 
+declaratory and injunctive relief requiring the county to enforce the new 
+height restriction ordinance.  132 Hawaiʻi at 308, 321 P.3d at 659.  Upon the 
+denial of their motion for attorney’s fees, the homeowners appealed to the 
+ICA.  132 Hawaiʻi at 309, 321 P.3d at 660.   On appeal, the case was mooted 
+when the Maui County Council passed an ordinance essentially grandfathering 
+in the development at its planned height, as part of a “global settlement” of 
+various lawsuits concerning the new height restriction ordinance.  132 Hawaiʻi ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+44 (continued. . .)  
+ becomes moot on appeal and the trial court has not had an 
+opportunity to evaluate a motion for vacatur, the appellate  
+court, in the absence of exceptional circumstances, should 
+remand the case to the trial court to give the court  the first 
+opportunity to evaluate the cause of the mootness based on a 
+complete record” instead of the appellate court itself vacating 
+the judg ment.  132 Hawaiʻi at 317, 321 P.3d at 668.  Goo did not 
+in any way preclude an appellate court from declining a request 
+to vacate a trial court judgment.  Goo’s further statement, that 
+“when a case is mooted while on appeal, the appellate court 
+should, absent e xceptional circumstances, remand the case to the 
+trial court for a consideration of the vacatur issue,”26 
+ 
+(continued . . .) 
+at 310, 312, 321 P.3d at 66 1, 663.  The developers persuaded the ICA to 
+vacate the circuit court’s judgment due to mootness.  132 Hawaiʻi at 311, 321 
+P.3d at 662.   On certiorari, this court vacated the ICA’s judgment and 
+remanded the case to the circuit court to determine whether va catur of its 
+order was appropriate, because it was unclear whether mootness occurred by 
+happenstance or through the voluntary action of a party (the County).  132 
+Hawaiʻi at 318, 321 P.3d at 66 9.  
+ In this case, no fact -intensive inquiry is required, as th is settlement 
+was the result of the parties ’ voluntary action.  The dissent would instead  
+presumptively  allow remand s for the trial court to consider the equities of 
+vacatur even without circumstances requiring a fact -intensive inquiry . 
+ 
+26  The context of this sentence in Goo differs from the dissent ’s 
+characterization .  Goo stated that where a fact -intensive inquiry is required 
+in order to determine whether mootness on appeal was the result of 
+happenstance or a party’s voluntary action, then i t is appropriate for the 
+appellate court to remand the case to the trial court for its evaluation.  
+132 Hawaiʻi at 317-18, 321 P.3d at 667 -68.  The dissent would instead make 
+remand for trial court consideration of the equities of vacatur the 
+presumption  rather than the exception.  We disagree with the dissent ’s 
+assertion that “the trial court is best equipped to make the equitable 
+determination of whether vacatur is appropriate .”  Respectfully, this court ’s 
+function and role differs from that of trial courts.  This court ’s 
+“jurisdiction and powers ” include “mak[ing] . . . such . . . mandates  and ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+45 
+ similarly applies only where the cause of mootness on appeal is 
+unclear and the inquiry into it fact -intensive  and the appellate 
+court has concluded that vacatur may be an appropriate 
+disposition in the case .  In short , Goo held that mootness 
+solely by reason of settlement does not  justify vacatur of a 
+judgment under review , but, where the cause of mootness is 
+unclear (i.e., whether it i s the result of happenstance or some 
+voluntary action of a party or parties), remand to the trial 
+court for its evaluation is appropriate.   Goo, 132 Hawaiʻi at 
+314-15, 317, 321 P.3d at 665-66, 668.  The instant case 
+represents a clear example of mootness o n appeal solely by 
+reason of the voluntary settlement of the parties; therefore, 
+remand to the circuit court for its evaluation of vacatur was 
+not necessary or desirable.  Rather, disapproval of the parties’ 
+stipulation and order, and the County’s motion f or partial 
+dismissal, were appropriate.  
+V.  Conclusion  
+ For the foregoing reasons, the circuit court lacked subject 
+matter jurisdiction over the Taxpayers’ challenges to their real 
+ 
+(continued . . .) 
+tak[ing] such other steps  . . .  for the promotion of justice . . . . ”  HRS  
+§ 602-5(a)(6).  The Neary dissent cited above by  former Justice Joyce Kenn ard 
+of the California Supreme Court, who served on that court for thirty -five 
+years, succinctly explains why the “promotion of justice” dictates against 
+procedures that facilitate stipulated reversals .  
+ 
+   
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  **  
+ 
+ 
+46 
+ property timeshare tax assessments .  We therefore vacate the 
+orders and judgment giving rise to this interlocutory appeal and 
+remand this case to the circuit court for further proceedings 
+consistent with this opinion .   
+Brian A. Bilberry 
+for appellants  
+ 
+  
+ 
+  
+ 
+ 
+ /
+/
+/s/ Sabrina S. McKenna 
+s/ Richard W. Pollack    
+s/ Michael D. Wilson     
+Robert G. Klein 
+(Lisa W. Cataldo, 
+Becky T. Chestnut, 
+Kurt W. Klein, and 
+David A. Robyak, 
+with him on the briefs)
+for appellees 
+ 
+Thomas Yamachika 
+for amicus curiae 
+Tax Foundation of Hawai ʻi 

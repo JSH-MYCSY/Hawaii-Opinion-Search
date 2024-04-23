@@ -1,0 +1,588 @@
+ 
+ 
+ 
+ 
+              
+ 
+ 
+ NOT FOR PUBLICATION IN WEST' S HAWAI ‘I REPORTS AND PACIFIC REPORTER  
+Electronically Filed 
+Intermediate Court of Appeals CAAP-22-0000315 30-JAN-2024 08:25 AM Dkt. 101 MOT 
+NOS. CAAP-22-0000315, CAAP-22-0000366, and
+CAAP-22-0000367 
+ 
+ 
+IN THE INTERMEDIATE COURT OF APPEALS 
+OF THE STATE OF HAWAII ‘ 
+CAAP-22-0000315 
+ANTHONY K. CHATMAN, Petitioner-Appellant, v.
+STATE OF HAWAII ‘, Respondent-Appellee 
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT 
+(CASE NO. 1PR191000006) 
+ 
+and 
+ 
+CAAP-22-0000366 
+STATE OF HAWAI ‘I, Plaintiff-Appellee, v.
+ANTHONY K. CHATMAN, Defendant-Appellant 
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT 
+(FC-CR NO. 1FC021000011) 
+ 
+and 
+ 
+CAAP-22-0000367 
+STATE OF HAWAI ‘I, Plaintiff-Appellee, v.
+ANTHONY K. CHATMAN, Defendant-Appellant 
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT 
+(CR NO. 1PC021002353)  
+ 
+  
+ 
+   
+ 
+   MEMORANDUM OPINION 
+(By: Leonard, Acting Chief Judge, Hiraoka and Nakasone, JJ.) NOT FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+This consolidated appeal  arises out of proceedings 
+conducted on remand following the Hawai ‘i Supreme Court's 2019 
+Summary Disposition Order in State v. Chatman, No. SCWC-16-
+0000429, 2019 WL 912118 (Haw. Feb. 22, 2019) (SDO) ( 2019 Chatman 
+Remand Order ). The 2019 Chatman Remand Order ordered an 
+evidentiary hearing in the circuit court pursuant to Hawai ‘i 
+Rules of Penal Procedure ( HRPP) Rule 40(f) , because Defendant-
+Appellant Anthony K. Chatman ( Chatman) "asserted a colorable 
+claim" that a "missing trial transcript" of the prosecution's child abuse expert witness "prejudiced his appeal[.]" Id. at 
+*2. The circuit court issued its "Findings of Fact and Conclusions of Law [( FOF/COL)] and Order Granting in Part and 
+Denying in Part Petitioner's Amended Petition for Post-Conviction Relief, Filed April 9, 2021"  (Rule 40 Order ), 
+granting Chatman's petition for relief in part, finding Chatman received ineffective assistance of counsel in his direct appeal, 
+and ordering a new appeal. The Rule 40 Order also vacated the 
+2004 judgments against Chatman in the two underlying criminal cases, and re-entered both judgments on March 31, 2022, so Chatman could "pursue new appeals" in those cases. In this appeal, Chatman appeals from the (1) Rule 40 Order in CAAP-22-0000315 ( Rule 40 Appeal ); (2) "Judgment of Guilty Conviction and 
+Sentence[,] Notice of Re-entry" ( Re-entered Attempted Murder 
+Judgment ) in CAAP-22-0000366 ( Attempted Murder Appeal ); and (3) 
+"Judgment of Guilty Conviction and Sentence[,] Notice of Re-entry" ( Re-entered Witness Offenses Judgment ) in CAAP-22-0000367 
+21
+1 We consolidated CAAP-22-0000366 and CAAP-22-0000367 under CAAP-
+22-0000315 by a December 28, 2022 order. [22-135 dkt. 75] 
+2 The 2022 Re-entered Witness Offenses Judgment reflects
+convictions for Bribery of a Witness (Count 1), Intimidation of a Witness
+2  
+ 
+  
+ 
+   
+  
+    
+  
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+  While Chatman raises multiple points of error ( POEs) 
+in the three appeals,  we confine our review to Chatman's main 
+contention that the Circuit Court erred in FOF/COLs 42, 44, and 
+45, by granting him a new appeal instead of a new trial, as it is dispositive. We hold that the Rule 40 Order was erroneous in part because the Circuit Court should have granted Chatman the requested relief of a new trial in the attempted murder case, rather than a new appeal. Under the unique circumstances of 
+this case, where the record reflects specific prejudice to 
+Chatman's ability to appeal due to the missing material trial testimony of the State's child abuse expert, a new appeal on the same incomplete record is an inadequate remedy.  4(Witness Offenses Appeal ), all entered on March 31, 2022, by the 
+Circuit Court of the First Circuit.  3
+(Count 2), and Extortion in the Second Degree (Count 3) in 1PC021002353.
+Chatman's extortion conviction in Count 3, however, was vacated on Chatman's2006 direct appeal due to merger. State v. Chatman, No. 26763, 2006 WL
+2236740, at *35 (Haw. Aug. 3, 2006) (mem. op.) ( 2006 Chatman Opinion ). 
+3 The Honorable Matthew J. Viola presided over the Rule 40 hearing,
+entered the Rule 40 Order, and re-entered the judgments in the underlying
+cases. 
+4 In the Rule 40 Appeal, CAAP-22-0000315, Chatman: (1) challenges
+FOFs 11, 23, 24, 42, 44, and 45 as erroneous; (2) contends that while theCircuit Court "correctly" found Chatman's counsel was ineffective on directappeal for failing to raise the issue of the missing transcript, the Circuit
+Court erred by ordering a new appeal based on the same, incomplete record;
+and (3) contends that while the Circuit Court "correctly" found that themissing 87 minutes of expert testimony were "material," the Circuit Courterroneously ordered a new appeal rather than a new trial. 
+3   In both the Attempted Murder Appeal (CAAP-22-0000366) and the
+Witness Offenses Appeal (CAAP-22-0000367), Chatman raises identical POEs thatthe Circuit Court (1) erroneously denied Chatman's motion for a mistrial
+regarding Plaintiff-Appellee State of Hawai ‘
+i's (State) child abuse expert
+Victoria Schneider M.D.'s ( Dr. Schneider ) testimony; (2) erroneously denied
+Chatman's motion for mistrial due to prosecutorial misconduct; and that (3)
+this court should grant Chatman a new trial due to the missing transcript ofDr. Schneider's testimony. 
+In the  Attempted Murder Appeal only, Chatman  
+raises an additional POE, that the case should be dismissed based on State v. 
+Obrero, 151 Hawai ‘i 472, 517 P.3d 755 (2022). We address Chatman's Obrero
+argument infra, and do not address the remaining POEs in light of our
+resolution.  
+ 
+   
+   
+  
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+I. BACKGROUND 
+In the underlying criminal proceedings in FC-CR 
+No. 02-1-0011 ( Attempted Murder Case ) and Cr. No. 02-1-2353 
+(Witness Offenses Case ), following a 2003 consolidated jury 
+trial, Chatman was convicted of Attempted Murder in the Second 
+Degree of his infant son in the Attempted Murder Case; and of bribery, intimidation, and extortion of a witness in Counts 1, 2, and 3, against the mother of his infant son, in connection with her testimony for the Attempted Murder Case. Chatman, 2006 WL 2236740, at *1-2. While Chatman's extortion conviction was 
+vacated in the 2006 Chatman Opinion on direct appeal, the 
+remaining convictions were affirmed. Id. 
+In the instant appeal, Chatman, self-represented, 
+filed his 2015 Motion for Correction or Modification of the Record ( Motion for Correction ) arguing that the trial record was 
+missing Dr. Schneider's testimony on her slide show presentation, and that Chatman was prejudiced by his "inability 
+to make substantive claims[ ] relating to Dr. Schneider's 
+Powerpoint presentation, in any future post-conviction or habeas proceedings." Chatman, 2019 WL 912118, * at 2. The Circuit Court denied the Motion for Correction without a hearing. Id.
+Chatman appealed to this court in 2016; we affirmed in 2018; the supreme court's 2019 Chatman Remand Order vacated in part, 
+concluding that: 
+Chatman has asserted a colorable claim that Dr. Schneider's 
+missing trial testimony may have specifically prejudicedhis appeal. On the issue of incomplete trial records, thiscourt has previously stated that "[t]he general rule is
+that where the transcripts of a defendant's trial are
+incomplete because they omit portions of the trialproceedings, such omissions do not mandate reversal unlessthey specifically prejudice the defendant's appeal." State
+v. Kiese, 126 Hawai ‘i 494, 508, 273 P.3d 1180, 1194 (2012). 
+Id. at *2-3. 
+4  
+ 
+   
+ 
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+The 2019 Chatman Remand Order also set forth the 
+following pertinent background for the missing trial testimony 
+issue: 
+On June 17, 2003, Dr. Victoria Schneider (Dr. Schneider), a
+pediatrician, was called by the State to testify as anexpert on child abuse. After describing the injuries thatthe Minor suffered, Dr. Schneider asked if she could sharea slide show presentation on shaken baby syndrome with the
+jury to explain how shaking could have caused the Minor's
+injuries. Defense Counsel objected. After examining theslides and concluding that they would not be misleading,the circuit court allowed Dr. Schneider to testify inconjunction with the slide presentation, and asked her to
+return the following morning on June 18, 2003 to begin her
+presentation. The court then adjourned for the day. 
+ 
+The June 18, 2003 trial transcript in the Record on Appeal
+does not contain Dr. Schneider's testimony on the slide
+show presentation.  Instead, the first page of the
+transcript begins with Defense Counsel's objection to Dr.
+Schneider's testimony. The trial transcript indicates
+Defense Counsel stated that Dr. Schneider "was rambling on 
+5
+ 5   This omission in the trial transcript contrasts with the HAJIS
+case summary in the Record on Appeal, which notes that on June 18, 2003, the
+following occurred: 
+9:04 A.M. CASE CALLED IN PRESENCE OF COUNSEL, DPA/D.OYASATO, CA/C. KANAI AND DEFT ONLY RE: COURT'S INQUIRY OFSTATE'S OFFER OF PROOF AS TO WHAT DR. SCHNEIDER'S OPINION WILL BE. COURT NOTED IT WAS NOT AWARE DOCTOR WAS ALSO THE TREATING PHYSICIAN. 
+ 
+COURT'S RECORD MADE. DOCTOR WILL BE PROHIBITED FROM EXPRESSING AN OPINION AS TO THE CREDIBILITY OF THE MOTHER OR WHO MAY HAVE CAUSED INJURIES. 
+ 
+9:21 A.M. JURY PRESENT; CASE CALLED; APPEARANCES NOTED. 
+ 
+9:22-10:31 A.M. FURTHER TESTIMONY OF DR. SCHNEIDER. 
+ 
+9:23-9:32 A.M. [SHAKEN BABY SYNDROME] SLIDE SHOW
+PRESENTATION PREPARED BY DR. SCHNEIDER. 
+ 
+10:31 A.M. RECESS. 
+ 
+10:49 A.M. RECONVENED W/COUNSEL & DEFT ONLY RE: DEFT'SOBJECTION TO WITNESS TESTIFYING AS TO THE "HISTORY" 
+PROVIDED BY MOTHER AND DEFT'S FURTHER OBJECTION TO THE WITNESS "RAMBLING NARRATIVE" DURING THE SLIDE SHOW PRESENTATION. DEFENDANT'S ORAL MOTION FOR JUDGMENT OF ACQUITTAL - DENIED. 
+ 
+10:55 A.M. JURY PRESENT. 
+Id.
+ at *1 n.3 (brackets in original). 
+5  
+ 
+  
+ 
+   
+ 
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+and on, and it looked like a lecture [rather] than
+testimony in court." Defense Counsel therefore argued that
+"[Dr. Schneider's] rambling narrative had an undue
+prejudicial impact on the Defense. And for that reason, Iwould request a mistrial--in this area or in combinationwith other areas." The circuit court denied Chatman's motion for mistrial, but stated "your record is preserved."
+At that point, Defense Counsel began his cross-examination
+of Dr. Schneider. 
+Id. at *1 (brackets and footnote in original). The 2019 Chatman
+Remand Order noted that: "while Defense Counsel made an oral motion for a mistrial following Dr. Schneider's testimony and the circuit court assured Chatman that 'your record is 
+preserved,' the testimony which was objected to was not 
+preserved[,]" and "[t]his omission may have specifically prejudiced Chatman's appeal." Id. at *3 (citation omitted). The supreme court mandated a HRPP Rule 40 evidentiary hearing on Chatman's Motion for Correction, to "determine, pursuant to 
+[Hawai ‘i Rules of Appellate Procedure ( HRAP)] Rule 10(e),  
+whether correction or modification of the record is 
+appropriate." Id. at *4 (footnote added).   
+6 
+  The record on remand reflects the Circuit Court 
+conducted proceedings in 2019 and 2020, during which the parties 
+6 HRAP Rule 10(e) provides in pertinent part: 
+(e) Correction or modification of the record . 
+(1) If any differences arise as to whether the record
+truly discloses what occurred in the court or agency
+appealed from, the differences shall be submitted to andsettled by that court or agency and the record made to
+conform to the truth. 
+(2) If anything material to any party is omitted from
+the record by error or accident or is misstated therein,
+corrections or modifications may be as follows:
+(A) by the stipulation of the parties; or
+(B) by the court or agency appealed from, either
+before or after the record is transmitted; or
+(C) by direction of the appellate court before
+which the case is pending, on proper suggestion or its owninitiative. 
+(3) All other questions as to the form and contents
+of the record shall be presented to the appellate courtbefore which the case is pending. 
+6  
+ 
+  
+ NOT FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+attempted to re-create the record of the missing testimony.   On 
+March 12, 2021, the court entered an "Order Re: Correction 
+and/or Modification of the Record" ( Order Correcting Record ). 
+This order stated that: 
+the record of the trial proceedings held on June 18,
+2003 in State of Hawai ‘i v. Anthony Chatman , FC-CR No. 
+02-1-0011 and CR. No. 02-1-2353, shall be corrected
+and/or modified to include the following:
+a. On June 18, 2003, the case was called at 9:04 
+a.m. Present at this time were [DPA], Defense
+[Counsel] and Defendant Anthony Chatman.
+b. Between 9:04 and 9:21 a.m., a conversation was
+had between the court and attorneys outside ofthe presence of the jury.
+c. At 9:21 a.m., the case was called in the
+presence of the jury as well as [DPA], Defense[Counsel] and Defendant Anthony Chatman.
+d. At 9:22 a.m., Dr. Victoria Schneider began
+testifying on direct examination as a witness
+for the State of Hawai ‘i. 
+e. Between 9:23 a.m. and 9:32 a.m., Dr.
+Schneider's testimony included a PowerPoint
+slide presentation.
+f. Dr. Schneider's PowerPoint slide presentation
+consisted of several slides that had been 
+marked for identification on June 17, 2003, as
+State's Exhibit 66. 
+g. Dr. Schneider's PowerPoint slide presentation
+included a presentation on shaken baby syndromeand included an animated demonstration of the 
+shaking of an infant and injuries described as
+subdural hematoma and retinal hemorrhages.
+h. Dr. Schneider's PowerPoint slide presentation
+concluded at 9:32 a.m. 
+i. Dr. Schneider's entire direct testimony ended
+at 10:31 a.m. 
+j. During Dr. Schneider's direct examination on
+June 18, 2003, defense counsel made at leastone objection to Dr. Schneider's testimony.The objection was that she was testifying by
+narrative. 
+The objection was sustained by the
+court. 
+Rule 40 Order, FOF/COL 23. 
+  Following the entry of the March 12, 2021 Order 
+Correcting Record, Chatman was permitted to file his April 9, 2021 Amended Rule 40 Petition, in which he argued that: his 
+counsel on direct appeal was ineffective for "fail[ing] to 
+recognize the absence of more than one hour of expert testimony from the record on appeal, as well as the absence of the
+7  
+ 
+   On November 30, 2021, the Circuit Court held a hearing 
+on Chatman's Amended Rule 40 Petition, during which Chatman's 
+counsel on direct appeal ( Appellate Counsel ) testified. The 
+Circuit Court's March 31, 2022 Rule 40 Order made the following pertinent FOF/COLs: 7
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  NOT FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+objection to said testimony which formed one of the bases of 
+[Chatman]'s motion for mistrial"; and that the corrected record still prejudiced Chatman's due process rights because the missing portions of the transcript were still unavailable. 
+Chatman claimed that "[t]he omissions contained within the newly 
+created record specifically prejudice[d]" Chatman, and requested relief in the form of a new trial. 
+11. On February 22, 2019, the Supreme Court entered a
+Summary Disposition Order, vacating the ICA's judgment
+and the circuit court's order denying Petitioner's
+Motion for Correction. The Supreme Court remanded the
+case to the circuit court for a HRPP Rule 40 evidentiary hearing on the Motion for Correction: "Weremand the case to the circuit court for a HRPP Rule 40 evidentiary hearing on Chatman's Motion for
+Correction, in which the circuit court should
+determine, pursuant to HRAP Rule 10(e), whethercorrection or modification of the record is appropriate." 
+. . . . 
+14. On September 6, 2019, a hearing was held in which the
+State of Hawai'i stipulated that the missing portion
+of Dr. Schneider's testimony from the June 18, 2003
+trial transcript was material and was omitted from the
+record by error or accident. 
+. . . . 
+24. Following Dr. Schneider's testimony at trial, [Trial
+Counsel] made an oral motion for a mistrial. 
+The 
+trial judge denied the motion, stating in part: "Imust deny the motion for mistrial, but your record ispreserved." 
+. . . . 
+42. [Chatman]'s Appellate Counsel erred in omitting
+appealable issues in the Direct Appeal and therefore 
+7 Appellate Counsel was not Chatman's trial defense counsel ( Trial 
+Counsel). 
+8  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+precluded a determination of those issues on their
+merits. A new trial would not be the appropriate
+remedy responsive to this error. Rather, the
+appropriate remedy for Appellate Counsel's ineffectiveassistance in the Direct Appeal is to allow [Chatman]an opportunity to assert the omitted appealable issuesin a new appeal, where an appellate court can decide
+them on their merits. Id. at 394. 
+. . . . 
+44. [Chatman] asserts that the record, as corrected or
+modified by the court's March 12, 2021 Order Re:
+Correction and/or Modification of the Record, is soincomplete that his ability to assert a potentiallymeritorious argument in a new appeal is specificallyprejudiced. Whether the record on appeal, as
+corrected or modified, is so incomplete that it
+specifically prejudices [Chatman]'s ability to raise apotentially meritorious argument in a new appeal is anissue for an appellate court to determine in the newappeal. 
+45. The Amended Rule 40 Petition is granted with respect
+to [Chatman]'s request for post-conviction reliefbased on ineffective assistance of Appellate Counsel(ground 1); The Amended Rule 40 Petition is deniedwith respect to [Chatman]'s request for a new trial on
+the grounds that the modified and/or corrected record
+specifically prejudices his due process rights onappeal (ground 2.) 
+46. Pursuant to HRPP 40(g)(1), and based on the foregoing
+findings and conclusions that Appellate Counselrendered ineffective assistance on the Direct Appealand that a new appeal is the appropriate remedy, thecourt will enter separate orders in the underlyingcriminal cases vacating and reentering the judgments
+of conviction filed on July 19, 2004, to allow
+[Chatman] the opportunity to pursue new appeals inthose matters. 
+(Emphases added.)  The Circuit Court concluded that a new 
+appeal, rather than a new trial as Chatman requested, was "the 
+appropriate remedy[.]" FOF/COL 46. To effectuate the new 
+appeal remedy, the Circuit Court re-entered the July 19, 2004 judgments of conviction in the Attempted Murder Case and the Witness Offenses Case  so Chatman could pursue "new appeals" in 
+these cases. Id.  Chatman timely appealed.  8
+8 Chatman challenges FOF/COLs 11, 23, 24, 42, 44 and 45 on appeal.
+FOF/COL 23 is quoted supra. 
+9  
+ 
+  
+ 
+  
+ 
+ 
+  
+ NOT FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+II. STANDARDS OF REVIEW 
+  "We consider a court's conclusions of law regarding a 
+petition for post-conviction relief de novo[.]" Grindling v. 
+State, 144 
+Hawai ‘i 444, 449, 445 P.3d 25, 30 (2019) (citing 
+Fragiao v. State, 95 Hawai ‘i
+ 9, 15, 18 P.3d 871, 877 (2001)). A 
+COL "that presents mixed questions of fact and law is reviewed 
+under the clearly erroneous standard[.]" State v. Rodrigues, 
+145 Hawai ‘i 487, 494, 454 P.3d 428, 435 (2019) (citation 
+omitted). 
+III. DISCUSSION 
+A. In the Rule 40 Appeal, the remedy of a new appeal
+rather than a new trial was erroneous where the 
+missing material trial testimony of the State's expertwitness specifically prejudiced Chatman's ability to
+appeal in the Attempted Murder Case. 
+In the Rule 40 Appeal, Chatman asserts that in 
+ordering a new appeal, the Circuit Court "essentially granted 
+[Chatman] no remedy" because "[t]he record is still incomplete 
+as there are still 87 minutes of missing expert testimony, arguments, and objections."
+9 Chatman argues that the Circuit 
+Court should have concluded that the missing transcript mandated a new trial because the omission of the transcript specifically prejudiced Chatman's ability to appeal. 
+ 
+ The State argues that the Circuit Court correctly 
+granted Chatman a new appeal rather than a new trial because Chatman failed "to make a reasonable attempt to reconstruct, modify, or supplement the missing portions of the record," and failed to "demonstrate specific prejudice." The State relies on 
+State v. Bates, 84 
+Hawai ‘i 211, 217, 933 P.2d 48, 54 (1997) to 
+support its argument that if an "entire transcript could not be 
+9 Chatman's calculation that the "87 minutes" missing from the
+court record is the number of minutes that passed between the case being
+called at 9:04 a.m. and the end of Dr. Schneider's testimony at 10:31 a.m.,according to the court minutes. 
+10  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+prepared, the parties must show compliance with HRAP Rule 10(c) 
+. . . or show that error was committed by the trial court." 
+1. The State's argument based on State v.
+Bates and HRAP Rule 10(c) is without merit. 
+Bates involved inaudible entries in trial transcripts, 
+not missing material trial testimony as in this case, and it is 
+inapposite. Id. at 214, 933 P.2d at 51. The Bates court held that where that defendant "made no attempt to reconstruct the record pursuant to HRAP 10(c)
+10 or correct or modify the record 
+pursuant to HRAP 10(e)[,]" the defendant failed to demonstrate 
+"specific prejudice by reason of inaudible entries in a trial 
+transcript," and was "not entitled to a new trial." Id. at 56, 933 P.2d at 219 (footnote added). 
+Here, the State's argument that Chatman had to comply 
+with HRAP Rule 10(c) is without merit, where the supreme court's 2019 Chatman Remand Order directed the Circuit Court to "determine, pursuant to HRAP Rule 10(e) , whether correction or 
+modification of the record is appropriate." 2019 WL 912118, at *4 (emphasis added). The Circuit Court did so, and entered the March 12, 2021 Order Correcting Record, the contents of which is set forth in FOF 23 in the Rule 40 Order, quoted supra. Assuming arguendo  HRAP Rule 10(c) applied to these proceedings 
+10 HRAP Rule 10(c) provides: 
+If the reporter refuses, becomes unable, or fails to
+transcribe all or any portion of the evidence or oral
+proceedings after proper request, the party may (i) requestthat transcription of the reporter's notes be submitted toanother reporter for transcription where feasible; or (ii)prepare a statement of the evidence or proceedings from the
+best available means, including the party's recollection or
+uncertified transcripts or reporter's notes. The statement shall be served on the opposing party(ies), who may serveobjections or propose amendments thereto within 10 daysafter service. Thereupon the statement and any objections
+or proposed amendments shall be submitted to the court or
+agency appealed from for settlement and approval and assettled and approved shall be included by the clerk of thecourt appealed from in the record on appeal.
+11  
+ 
+  
+  NOT FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+on remand, the extensive attempts by the Circuit Court and the 
+parties to recreate the missing record, culminating in the Circuit Court's March 12, 2021 Order Correcting Record, established Rule 10(c) compliance. The State's arguments are 
+unavailing. 
+2. The record reflects that, under the
+unique circumstances of this case, where
+Chatman's ability to appeal was prejudiceddue to the missing material trial testimony
+of the State's child abuse expert, a new
+appeal on the same incomplete record is an
+ineffective remedy. 
+Chatman argues that the Circuit Court should have 
+found "specific prejudice" under Kiese, because "the record 
+remains incomplete" and an appellate court "cannot determine 
+whether the lower court committed reversible error" during the missing portion of Dr. Schneider's testimony. (Brackets and emphasis omitted.) In this regard, Chatman challenges FOF/COLs 42, 44, and 45, which stated that the remedy is a new appeal, because "[w]hether the record on appeal, as corrected or modified, is so incomplete that it specifically prejudices 
+[Chatman]'s ability to raise a potentially meritorious argument 
+in a new appeal is an issue for an appellate court to determine in the new appeal." Chatman's argument that specific prejudice warranting a new trial was already established on the record before the Circuit Court, is persuasive. 
+12 
+  "'The general rule is that where the transcripts of a 
+defendant's trial are incomplete because they omit portions of the trial proceedings, such omissions do not mandate reversal unless they specifically prejudice the defendant's appeal.'" 
+Kiese, 126 
+Hawai ‘i at 508, 273 P.3d at 1194 (brackets omitted) 
+(quoting State v. Ganotisi, 79 Hawai ‘i 342, 343, 902 P.2d 977, 
+978 (App. 1995)). Both Kiese and Ganotisi found no specific  
+ 
+  
+  
+ 
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+prejudice to the defendants' appeals for inaudible, or 
+indiscernible responses in transcripts,  and did not involve
+testimony that is completely missing from the transcript, as here. 11  
+  Here, the June 18, 2003 transcript omitted one hour 
+and nine minutes of Dr. Schneider's testimony, from 9:22 a.m. to 10:31 a.m., that the Circuit Court determined was "material" in FOF/COL 14.
+12 The materiality of Dr. Schneider's testimony as 
+the State's child abuse expert witness in an attempted murder prosecution involving Chatman's infant son, is plainly evident. 
+The missing testimony is the entire further direct examination 
+of Dr. Schneider, which included Dr. Schneider's PowerPoint presentation on shaken baby syndrome that drew "at least one" defense objection and a defense motion for a mistrial. FOF/COL 23(g), (j), and 24. While the Order Correcting Record attempted to fill the void of the missing testimony, it is an inadequate 
+11 In Kiese, the court concluded no specific prejudice existed
+because while the trial transcript contained numerous inaudible responses,
+and the court, prosecutor, and defense attorney had noted for the record that"the [witness] was nodding, shaking his head, or shrugging"; there were no
+objections; and that the parties' interpretations of the witness's testimony
+and "what was captured for the record at the trial level was understood by
+all." 126 
+Hawai ‘i at 508, 273 P.3d at 1194. 
+ Ganotisi is also distinguishable from the instant case. In 
+Ganotisi, the defendant argued on appeal that he was denied his right to due
+process because the 368 notations of inaudible or indiscernible responses in
+the 325 pages of transcript of his two-day trial rendered his appellatecounsel "unable to accurately review the trial proceedings to determine
+whether prejudicial error occurred." Ganotisi, 79 
+Hawai ‘i at 343, 902 P.2d at 
+978. The defendant's trial was recorded by video camera, and the videotape
+of the trial was transcribed by a court reporter; both the transcripts and a
+copy of the video recording were part of the record on appeal. Id. The 
+supreme court determined that while there were omissions in the transcript,
+it could still discern from the remainder of the transcript and the videorecording as to why the challenged evidence was admitted and why the courtsustained the state's objection. Id. at 344-46; 902 P.2d at 979-81. 
+13  12   Unchallenged FOFs are binding on the parties and on appeal.
+State v. Rodrigues, 145 Hawai ‘i 487, 494, 454 P.3d 428, 435 (2019) (quoting
+Kelly v. 1250 Oceanside Partners, 111 Hawai ‘i 205, 227, 140 P.3d 985, 1007 
+(2006)).  
+ 
+  
+   
+ NOT FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+substitute for a transcript necessary for appellate counsel to 
+properly challenge an issue, and for an appellate court to review the same. "The burden is upon appellant in an appeal to show error by reference to matters in the record, and he or she 
+has the responsibility of providing an adequate transcript." 
+Bettencourt v. Bettencourt, 80 Hawai ‘i 225, 230, 909 P.2d 553, 
+558 (1995) (brackets omitted) (quoting Union Bldg. Materials 
+Corp. v. The Kakaako Corp., 5 Haw. App. 146, 151, 682 P.2d 82, 87 (1984)); see HRAP Rule 10(b)(1) (requiring the preparation of a transcript for appellate review); HRAP Rule 28(b)(4)(ii) and 
+(iii) (requiring appellant identify where in the record error 
+occurred, and how it was preserved). Chatman's ability to appeal any of his missing objection or objections to Dr. Schneider's missing testimony and the motion for mistrial stemming from the same testimony, are clearly prejudiced. The 
+remedy of a new appeal does not rectify the prejudice to 
+Chatman's ability to appeal where the recording of the missing 
+trial testimony is still missing and unavailable.  We conclude 
+that under the unique circumstances of this case, Chatman demonstrated specific prejudice to his ability to appeal due to missing material trial testimony of Dr. Schneider, warranting a 
+new trial. 
+See Kiese, 126 13
+Hawai ‘i at 508, 273 P.3d at 1194. The 
+Circuit Court erred in granting Chatman a new appeal instead of 
+a new trial in FOF/COLs 42, 44, and 45. See Rodrigues, 145 
+Hawai‘i at 494, 454 P.3d at 435.  
+13 We take judicial notice of the July 18, 2022 "Certificate of No
+Transcript" filed by the Supervising Court Reporter of the Circuit Court in
+CAAP-22-0000366 and CAAP-22-0000367, which indicates that the transcripts ofthe June 18, 2003 trial proceedings are "not available as the requested
+hearing dates are (1) outside the [Court Reporter's Office]'s records
+retention period of 10 years so the Court Reporters Office has no ability toobtain them and/or (2) the Court Reporters Office has no current contact
+information for each former Official Court Reporter[.]" See Hawai ‘i Rules of 
+Evidence Rule 201; State v. Kwong, 149 Hawai ‘i 106, 113-14, 482 P.3d 1067, 
+1074-75 (2021). 
+14  
+ 
+  
+ 
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+B. In the Attempted Murder Appeal, the 2022 Re-
+entered Attempted Murder Judgment and the
+original 2004 judgment are vacated. 
+  We also address Chatman's POE in the Attempted Murder 
+appeal that the Complaint should be dismissed under Obrero, in 
+which the supreme court held that charging a defendant with a felony by complaint, rather through an indictment or information, violates Hawaii Revised Statutes ( HRS) § 801-1 
+(2014). 151 Hawai ‘i at 478, 482, 517 P.3d at 761, 765. 
+Chatman 
+contends that the Complaint should be dismissed because he was "charged with Attempted Murder in the Second Degree by Complaint," and not by grand jury indictment. The State argues, among other things, that Obrero does not apply because Chatman raises his HRS § 801-1 challenge for the "first time on appeal[,]" and "does not allege that he was prejudiced by the 
+complaint" nor that "the complaint cannot be construed to charge 
+a crime." The State's argument has merit. 
+In Obrero, the supreme court held that had the 
+defendant challenged the complaint and the State's failure to comply with HRS § 801-1 for the first time on appeal, the supreme court would have "presume[d] the validity of the 
+complaint against him and would not [have] reverse[d] his 
+conviction absent a showing that the complaint prejudiced him or could not be construed to charge a crime." Id. at 478 n.11, 517 P.3d at 761 n.11. 
+Here, the record reflects that Chatman did not 
+challenge the Complaint or the State's compliance with HRS § 
+801-1 below. Nor does Chatman argue on appeal how the Complaint 
+"prejudiced him or could not be construed to charge a crime." Thus, we "presume the validity" of the Complaint against Chatman and reject Chatman's challenge. See id.
+  In light of the resolution of the Rule 40 Appeal 
+supra, that a new trial is the appropriate remedy in the
+15  
+ 
+  
+ 
+  
+ 
+  NOT FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+Attempted Murder Case, we vacate the 2022 Re-entered Attempted 
+Murder Judgment and the earlier 2004 Attempted Murder Judgment, and order a new trial on the Attempted Murder Case. 
+C. In the Witness Offenses Appeal, the 2022 Re-
+Entered Witness Offenses Judgment is vacated. 
+IV. CONCLUSION 
+For the foregoing reasons, with respect to the 
+following orders and judgments entered by the Circuit Court of the First Circuit:   The missing trial testimony of child abuse expert, Dr. 
+Schneider, warrants the relief of a new trial in the Attempted 
+Murder Case, but not for the Witness Offenses Case. Nothing in the Rule 40 Order indicates why relief was appropriate or warranted in the Witness Offenses Case. The Circuit Court erred 
+by entering the 2022 Re-Entered Witness Offenses Judgment and 
+ordering a new appeal in that case. See Rodrigues, 145 Hawai ‘i 
+at 494, 454 P.3d at 435. We thus vacate the Re-entered Witness 
+Offenses Judgment, and the earlier 2004 Witness Offenses Judgment still stands, with respect to Counts 1 and 2.
+14   
+(1) in CAAP-22-0000315, the Rule 40 Appeal, we affirm 
+in part and vacate in part the March 31, 2022 "Findings of Fact and Conclusions of Law and Order Granting in Part and Denying in Part Petitioner's Amended Petition for Post-
+Conviction Relief, Filed April 9, 2021"; 
+(2) in CAAP-22-0000366, the Attempted Murder Appeal, 
+the March 31, 2022 "Judgment of Guilty Conviction and 
+Sentence[,] Notice of Re-entry" and the earlier July 19, 2004 "Judgment of Guilty Conviction and Sentence" are vacated, and we remand for a new trial; 
+(3)
+ in CAAP-22-0000367, the Witness Offenses Appeal, 
+the March 31, 2022 "Judgment of Guilty Conviction and 
+14 See footnote 2 supra, regarding disposition of Count 3.
+16  
+ 
+   
+ 
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+Sentence[,] Notice of Re-entry" is vacated, and the earlier July 19, 2004 "Judgment of Guilty Conviction and Sentence" still stands. 
+DATED: 
+Honolulu, Hawai ‘i, January 30, 2024. 
+17  
+   
+ 
+ 
+ On the briefs: 
+/s/ Katherine G. LeonardGeorge A. Burke, Acting Chief JudgeAttorney for Petitioner-
+Appellant in /s/ Keith K. HiraokaCAAP-22-0000315 Associate Judge 
+Randal I. Shintani, /s/ Karen T. NakasoneAttorney for Defendant-Associate JudgeAppellant in CAAP-22-0000366
+and CAAP-22-0000367 
+Stephen K. Tsushima,
+Deputy Prosecuting Attorneyfor Respondent-Plaintiff-
+Appellee 

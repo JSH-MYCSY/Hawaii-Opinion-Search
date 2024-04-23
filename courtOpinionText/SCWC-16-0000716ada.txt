@@ -1,0 +1,760 @@
+***  FOR PUBLICATION IN W EST’S HAWAIʻI REP ORTS AND PACIFIC REPORTER  ***  
+1 IN THE SUPREME COURT OF THE STATE OF HAWAIʻ I  
+---o0o--- 
+STATE OF HAWAIʻ I
+,  
+Respondent/Plaintiff-Appellee, 
+vs. 
+TROY HOSAKA,  
+Petitioner/Defendant-Appellant. 
+SCWC-16-0000716 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS 
+(CAAP-16-0000716; CR. NO. 16-1-0057) 
+AUGUST 28, 2020 
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, AND WILSON, JJ.1 
+1Associate Justice Richard Pollack, who was a member of the court 
+when the oral argument was held, retired from the bench on June 30, 2020. Electronically Filed
+Supreme Court
+SCWC-16-0000716
+28-AUG-2020
+08:02 AM 
+ 
+***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+ 
+2 
+ OPINION OF THE COURT BY RECKTENWALD, C.J. 
+ 
+I.  INTRODUCTION 
+ In 2016, police arrested Troy Hosaka for Habitually 
+Operating a Vehicle Under the Influence of Intoxicants (Habitual 
+OVUII).  After his arrest, a Honolulu Police Department (HPD) 
+officer read Hosaka the Department’s implied consent form (HPD-
+396K) advising him of his right to refuse testing and explaining 
+that Hosaka “may [] be subject to the procedures and sanctions 
+under [Hawaiʻ i Revised Statutes (HRS)] chapter 291E,” if he 
+refused.  Hosaka signed and initialed the form, electing to take 
+a breath test.  Now, Hosaka seeks to suppress the breath test 
+results, arguing that his consent was not knowing, intelligent and voluntary because the form did not comply with the implied 
+consent statutory scheme governed by HRS Chapter 291E and is 
+inaccurate as a result.  We disagree. 
+We conclude that HPD’s implied consent form complied 
+with HRS Chapter 291E and was accurate.  Moreover, even if the 
+form had been inaccurate, non-compliance with the implied 
+consent statutory scheme does not automatically mandate suppression — suppression is only warranted where an arrestee 
+did not validly consent to chemical testing.  While an 
+inaccuracy in an implied consent form is a relevant factor to 
+consider, whether consent is knowing, intelligent and voluntary 
+must be determined by looking to the totality of the  
+ 
+***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+ 
+3 
+ circumstances.  Consent 
+ can be invalid if the inaccurate 
+information conveyed is reasonably likely to influence an 
+arrestee’s consent, in which case the consent is not knowing or 
+intelligent; or it can be invalid because it was coerced, in 
+which case the consent is not voluntary.  In both situations, 
+the question is whether the consent was valid, not whether the 
+form complied with every technical requirement in the implied 
+consent statutory scheme.  Here, because the totality of the 
+circumstances show that Hosaka validly consented to a breath test, the breath test results are admissible. 
+II.  BACKGROUND 
+ By driving on a public road in the State of Hawaiʻ i, 
+drivers are deemed to have consented to a blood, breath, or urine test (“chemical test”) to determine the level of 
+intoxicants in their system if they are suspected of driving 
+under the influence.  HRS § 291E-11(a) (2007).  When requesting 
+a driver take a chemical test, a law enforcement officer must 
+inform the driver that they have the right to refuse testing.  
+HRS § 291E-11(b)(2).  If the driver chooses to refuse, they must 
+be informed of the administrative sanctions that could be imposed as a result — namely, suspension of their license and 
+privilege to drive — and given an opportunity to reconsider 
+their decision.  HRS § 291E-15 (Supp. 2016).  If, after that 
+second advisement, the driver persists in refusing, their  
+ 
+***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+ 
+4 
+ driver’s license may be suspended after a hearing.  HRS § 291E-
+41 (Supp. 2012). 
+A. 
+Factual Background 
+ In January 2016, police pulled over and arrested 
+Hosaka for Habitual OVUII.  Hosaka has not contested that police 
+had probable cause to arrest him on suspicion of driving under 
+the influence of intoxicants.   
+While Hosaka was in custody, HPD Officer Jared Spiker 
+read Hosaka, verbatim, HPD’s implied consent form (HPD-396K) entitled “USE OF INTOXICANTS WHILE OPERATING A VEHICLE — IMPLIED 
+CONSENT FOR TESTING” (“implied consent form” or “form”).  The 
+form stated in relevant part: 
+USE OF INTOXICANTS WHILE OPERATING A VEHICLE 
+IMPLIED CONSENT FOR TESTING[2] 
+ 
+DATE OF ARREST:  1-11-16   REPORT NO.: 16- 015999  
+ 
+ARRESTEE’S[] NAME: Troy Hosaka      
+ 
+I,  Jared Spiker  , a police officer, swear that the 
+following statements were read to the arrestee[].  
+Pursuant to chapter 291E, Hawaiʻ i Revised Statutes 
+(HRS), Use of Intoxicants While Operating a Vehicle, 
+you are being informed of the following: 
+ 
+1. TH  Any person who operates a vehicle upon a 
+public way, street, road, or highway or on or in the 
+waters of the State shall be deemed to have given consent to a test or tests for the purpose of 
+determining alcohol concentration or drug content of 
+the person[’]s breath, blood, or urine as applicable.
+ 
+ 2.
+ TH  You are not entitled to an attorney before you 
+submit to any test[] or tests to determine your 
+alcohol and/or drug content.  
+ 3.
+ TH  You may refuse to submit to a breath or blood 
+                     
+2 Italicized text indicates where the form was filled out by hand.  ***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+5 test, or both for the purpose of determining alcohol 
+concentration and/or blood or urine test, or both for 
+the purpose of determining drug content.  If you do 
+refuse, then none shall be given, except as provided 
+in section 291E- 21.[]  However, if you refuse to 
+submit to a breath, blood, or urine test, you may be 
+subject to up to the sanctions of 291E- 65[] if you 
+are under 21 years of age at the time of the offense.  43
+In addition, you may also be subject to the 
+procedures and sanctions under chapter 291E, part 
+III. 
+ALCOHOL CONCENTRATION
+ 
+TH AGREED TO TAKE A BREATH TEST AND REFUSED THE 
+BLOOD TEST  
+. . . . 
+I, THE ARRESTEE/RESPONDENT, ACKNOWLEDGE THAT I MADE 
+THE CHOICE(S) INDICATED ABOVE AND WAS INFORMED OF THE 
+INFORMATION IN THIS REPORT. 
+ARRESTEE’S[] SIGNATURE: Troy Hosaka [Date]: 1-12-16 
+SIGNED:  Jared Spiker  [ID]: 103267 [Date]: 1-12-16 
+(Emphasis added.)  
+Hosaka initialed each of the form’s three advisement 
+paragraphs, initialed that he “agreed to take a breath test and 
+refused the blood test,” and signed the form at the bottom to 
+“acknowledge that [he] made the choice[] indicated above and was 
+informed of the information in [the form].”  After completing the form, Hosaka took the breath test, which showed that his 
+blood alcohol content was .134 percent — well over the legal 
+3HRS § 291E- 21(a) (2007) permits a law enforcement officer to 
+obtain a breath, blood, or urine sample from any driver involved in a 
+collision causing injury or death to any person. 
+4HRS § 291E-65 (Supp. 2016) governs administrative sanctions for a 
+refusal by a person under twenty- one arrested under HRS § 291E- 64 (2007) 
+(operating a vehicle after consuming a measurable amount of alcohol).  
+Sanctioning under this section would not apply to Hosaka, since Hosaka was 
+forty-two at the time of his arrest.  ***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+6 limit.  The State of Hawaiʻi charged Hosaka with Habitual OVUII, 
+in violation of HRS § 291E-61.5 (2007 & Supp. 2015),  in the 
+Circuit Court of the First Circuit (circuit court).   65
+B. Circuit Court’s Suppression of Hosaka’s Breath Test Results
+Before trial, Hosaka filed a motion to suppress his 
+breath test results, arguing that the test constituted an 
+unreasonable search in violation of the United States and 
+Hawaiʻi Constitutions.  He argued that his purported consent was 
+coerced, and thus invalid, because the implied consent form 
+advised him, “if you refuse to submit to a breath, blood, or 
+urine test . . . you may [] be subject to the procedures and 
+sanctions under chapter 291E, part III.”  According to Hosaka, 
+by informing him that he may be subject to sanctions if he were 
+to refuse testing, the form failed to adequately inform him of 
+his right to withdraw his consent and did not follow statutorily 
+required procedures.  Thus, the breath test violated his fourth 
+5HRS § 291E- 61.5 provides in relevant part: 
+(a)A person commits the offense of habitually
+operating a vehicle under the influence of an
+intoxicant if:
+(1)The person is a habitual operator of a
+vehicle while under the influence of anintoxicant; and
+(2)The person operates or assumes actualphysical control of a vehicle:
+. . . . 
+(C)With .08 or more grams of alcoholper two hundred ten liters of
+breath[.]
+6The Honorable Glenn J. Kim presided.  
+ 
+***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+ 
+7 
+ amendment right to be free from unreasonable searches and 
+seizures, and the results of the test needed to be suppressed.   
+The circuit court agreed with Hosaka, concluding that 
+HRS §§ 291E-11 and 291E-15, when read in pari materia, required 
+“an arrested person [] first [be] given a completely 
+unencumbered choice to refuse to submit” to testing.  
+Accordingly, police could not inform Hosaka that any sanctions 
+could result from a refusal until after he made the initial choice to refuse.  Because the implied consent form advised 
+Hosaka that sanctions “may” result, the circuit court found that 
+his consent was coerced and suppressed the breath test results.   
+C. ICA Proceedings  The State appealed the suppression of Hosaka’s breath 
+test results to the Intermediate Court of Appeals (ICA), arguing that the form complied with HRS Chapter 291E and that the 
+chapter did not require an OVUII arrestee to have an 
+“unencumbered choice” to refuse a chemical test.    The ICA agreed with the State that suppression was not 
+warranted, vacating the circuit court’s order and remanding the case for further proceedings.  However, the ICA agreed with the 
+circuit court that HPD’s implied consent form did not comply 
+with HRS Chapter 291E’s mandated procedures because the chapter 
+required that an OVUII arrestee have an initial opportunity to 
+refuse to submit to testing prior to being informed of possible  
+ 
+***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+ 
+8 
+ sanctions.  
+ 
+ Nevertheless, the ICA concluded that suppression of 
+Hosaka’s breath test was not the proper remedy for non-
+compliance with HRS Chapter 291E procedures because HRS § 291E-
+15 barred the imposition of sanctions only where the arrestee 
+was never informed of potential sanctions at any point during 
+the advisal.  Here, because the form informed Hosaka of the 
+possible sanctions for refusing and Hosaka was given the opportunity to refuse testing with those sanctions in mind, the 
+ICA concluded that the form’s statement that Hosaka “may” have 
+been subject to sanctions was accurate and therefore that the 
+results need not be suppressed.  Further, the ICA held that that 
+the circuit court “erred in concluding that burdening an 
+arrestee’s election to refuse to submit to testing with any 
+significant sanctions renders the arrestee’s consent invalid.”   
+ Hosaka timely filed an application for writ of 
+certiorari.   
+III.  STANDARDS OF REVIEW 
+A. Statutory Interpretation 
+ The interpretation of a statute is a question of law 
+that this court reviews de novo.  State v. Arceo, 84 Hawaiʻ i 1, 
+10, 928 P.2d 843, 852 (1996). 
+When construing a statute, our foremost obligation is 
+to ascertain and give effect to the intention of the 
+legislature, which is to be obtained primarily from the language contained in the statute itself.  And we  
+ 
+***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+ 
+9 
+ must read statutory language in the context of the 
+entire statute and construe it in a manner consistent 
+with its purpose. 
+ 
+State v. Ruggiero, 114 Hawaiʻ i 227, 231, 160 P.3d 703, 707 (2007) 
+(quoting Gray v. Admin. Dir. of the Court, 84 Hawaiʻ i 138, 144, 
+931 P.2d 580, 586 (1997)). 
+B. Motion to Suppress 
+ We review a circuit court’s findings of fact on a 
+motion to suppress under the clearly erroneous standard.  State 
+v. Alvarez, 138 Hawaiʻ i 173, 181, 378 P.3d 889, 897 (2016).  
+However, we review the court’s conclusions of law de novo: “The 
+question of whether the facts as found amount to legally 
+adequate ‘consent’ is a question of constitutional law that a 
+court answers by exercising its ‘own independent constitutional 
+judgment based on the facts of the case.’”  State v. Won, 137 
+Hawaiʻi 330, 341, 372 P.3d 1065, 1076 (2015) (quoting State v. 
+Trainor, 83 Hawaiʻ i 250, 255, 925 P.2d 818, 823 (1996)). 
+IV.  DISCUSSION 
+ The fourth amendment to the United States Constitution 
+and its counterpart, article I, section 7 of the Hawaiʻ i  
+Constitution, guarantee the right of persons to be free from 
+unreasonable searches.  An intoxilyzer test is a search under 
+these provisions; however, consent is a well-established 
+exception to the requirement that a warrant be obtained before a 
+search takes place.  Won, 137 Hawai
+ʻi at 340, 372 P.3d at 1075.   
+ 
+***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+ 
+10 
+ As discussed above, the State contends that Hosaka consented to 
+a breath test when advised of his rights under the implied 
+consent statute. 
+ “This court has stated unambiguously that for consent 
+to be ‘in fact, freely and voluntarily given,’ the consent ‘must 
+be uncoerced,’” a determination that requires looking to the 
+totality of the circumstances.  Id. at 341, 372 P.3d at 1076 
+(quoting Nakamoto v. Fasi, 64 Haw. 17, 21, 635 P.2d 946, 951 
+(1981)). 
+ Thus, to decide whether to suppress the results of a 
+chemical test administered on the basis of an arrestee’s consent, the court must evaluate the circumstances under which 
+consent was given.  While the accuracy of the implied consent 
+form and its compliance with HRS Chapter 291E are relevant 
+considerations, the central inquiry is not simply whether the 
+form complies with the relevant statutes, but whether the 
+circumstances indicate the arrestee’s consent was knowing, 
+intelligent, and voluntary.  See Won, 137 Hawaiʻ i at 345, 372 
+P.3d at 1080 (“[I]n order to legitimize submission to a 
+warrantless BAC test under the consent exception, . . . it must 
+be concluded that, under the totality of the circumstances, 
+consent was in fact freely and voluntarily given.”). 
+A. The Implied Consent Form Complied with HRS Chapter 291E  
+ 
+ Hosaka argues that his consent was coerced because of  
+ 
+***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+ 
+11 
+ defects in HPD’s implied consent form.  Accordingly, we first 
+consider whether the form was accurate and in compliance with 
+the implied consent statutory scheme (HRS Chapter 291E).  We 
+conclude that it was. 
+ 
+1. HRS Chapter 291E establishes a two-step procedure for 
+advising OVUII arrestees of their right to refuse 
+chemical testing 
+ 
+ First, we agree with the circuit court and the ICA 
+that HRS Chapter 291E’s provisions, when read in pari materia, 
+establish a two-step procedure for advising arrestees of their 
+right to refuse chemical testing.  See State v. Kamana‘ o, 118 
+Hawaiʻi 210, 218, 188 P.3d 724, 732 (2008) (“[L]aws in pari 
+materia, or upon the same subject matter, shall be construed 
+with reference to each other.  What is clear in one statute may 
+be called upon in aid to explain what is doubtful in another.” 
+(quoting Barnett v. State, 91 Hawaiʻ i 20, 31, 979 P.2d 1046, 1057 
+(1999))).  
+ HRS § 291E-11 provides in relevant part:  
+(a) Any person who operates a vehicle upon a public 
+way, street, road, or highway . . . of the State 
+shall be deemed to have given consent, subject to 
+this part, to a test or tests approved by the 
+director of health of the person’s breath, blood, or 
+urine for the purpose of determining alcohol concentration . . . of the person’s breath, blood, or 
+urine, as applicable. 
+ 
+(b) 
+The test or tests shall be administered at the 
+request of a law enforcement officer having probable 
+cause to believe the person operating a vehicle upon 
+a public way, street, road, or highway . . . of the 
+State is under the influence of an intoxicant or is under the age of twenty- one and has consumed a 
+measurable amount of alcohol, only after:  
+ 
+***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+ 
+12 
+  
+ (1)  A lawful arrest; and 
+ 
+ (2) The person has been informed by a law 
+enforcement officer that the person may refuse 
+to submit to testing under this chapter. 
+ 
+(Emphases added.) 
+ While HRS § 291E-11, on its own, suggests that OVUII 
+arrestees need only be provided with one opportunity to refuse, it is clear from other statutes within HRS Chapter 291E that an 
+additional advisement must be afforded to OVUII arrestees who refuse to submit to testing. 
+ At the time of Hosaka’s offense, for instance, HRS 
+§ 291E-15 (Supp. 2011),
+7 which governs the imposition of 
+sanctions, required law enforcement officers to give arrestees a 
+second opportunity to refuse after advising them of possible 
+sanctions: 
+If a person under arrest refuses to submit to a 
+breath, blood, or urine test, none shall be given, 
+except as provided in section 291E- 21.  Upon the law 
+enforcement officer’s determination that the person under arrest has refused to submit to a breath, 
+blood, or urine test, if applicable, then a law 
+enforcement officer shall: 
+ 
+                     
+7   At the time Hosaka was arrested, HRS § 291E- 15 also required law 
+enforcement to advise an arrestee of the possible criminal sanctions under HRS § 291E- 68.  However, in 2016, HRS § 291E- 68 was repealed by the 
+legislature in response to this court’s decision in Won, 137 Hawaiʻ i
+ 330, 372 
+P.3d 1065 (holding that burdening a defendant’s right to refuse to submit to 
+BAC testing under the threat of criminal sanctions was inherently coercive).  
+See 2016 Haw. Sess. Laws Act 17, § 2 at 21.  At that time, the legislature 
+also amended HRS § 291E- 15 to remove its reference to HRS § 291E- 68.  See id. 
+§ 1 at 21.  Because of these legislative amendments and because Hosaka was 
+never advised of any possible criminal sanctions, it is not necessary to 
+address HRS § 291E- 68 as a requirement in the instant case.  Therefore, our 
+analysis applies to the current version of HRS § 291E- 15 as well as the 
+version in place at the time of Hosaka’s arrest.  
+  
+ 
+***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+ 
+13    (continued . . .)  
+  (1) Inform the person under arrest of the 
+sanctions under section 291E- 41 [or] 291E
+-65 . . . 
+and 
+ 
+ (2)  Ask the person if the person still 
+refuses to submit to a breath, blood, or urine test, 
+thereby subjecting the person to the procedures and 
+sanctions under part III or section 291E- 65, as 
+applicable[.] 
+ 
+(Emphasis added.)  
+ HRS § 291E-65, which governs sanctions for persons 
+under 21 arrested for operating a vehicle after consuming a measurable amount of alcohol, likewise requires an officer to 
+ask if an arrestee “still” refuses after informing them of 
+sanctions.
+8  Similarly, HRS § 291E-41, which establishes the 
+                     
+8 HRS § 291E- 65 provides in relevant part: 
+  
+ (a)  If a person under arrest for operating a 
+vehicle after consuming a measurable amount of 
+alcohol, pursuant to section 291E
+-64, refuses to 
+submit to a breath or blood test, none shall be given, except as provided in section 291E- 21, but the 
+arresting law enforcement officer, as soon as 
+practicable, shall submit an affidavit to a district 
+judge of the circuit in which the arrest was made, 
+stating: 
+  (1) That at the time of the arrest, the 
+arresting officer had probable cause to believe the 
+arrested person was under the age of twenty 
+-one and 
+had been operating a vehicle upon a public way, street, road, or highway or on or in the waters of 
+the State with a measurable amount of alcohol; 
+  (2) That the arrested person was informed 
+that the person may refuse to submit to a breath or blood test, in compliance with section 291E
+-11;  
+  (3) That the person had refused
+  to submit to 
+a breath or blood test; 
+  (4) That the arrested person was:
+  
+ 
+(A) Informed of the sanctions of this 
+ 
+ 
+ ***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+14 (c)If a respondent has refused to be tested after
+being informed:
+(1)That the person may refuse to submit to
+testing in compliance with section 291E- 11; and 
+(2)Of the sanctions of this part and then
+asked if the person still refuses to submit to a 
+breath, blood, or urine test, in compliance with the 
+requirements of section 291E- 15, 
+the revocation imposed . . . shall be for a period of 
+two years, three years, four years, or ten years, respectively [depending on the number of prior 
+alcohol- related law enforcement contacts]
+. 
+(Emphasis added.) 
+These statutes, when read together, demonstrate that 
+before sanctions for refusal can be imposed, law enforcement 
+must follow a two-step procedure: first, an OVUII arrestee must 
+be given an opportunity to refuse to submit to testing; second, 
+if the arrestee refuses, the arrestee must then be informed of 
+the specific sanctions that could result and asked whether they 
+still refuse testing. 
+The legislative history of HRS § 291E-15 also supports 
+section; and then 
+(B)Asked if the person still refuses
+to submit to a breath or blood test, in compliance 
+with the requirements of section 291E- 15; and  
+(5)That the arrested person continued to
+refuse to submit to a breath or blood test. 
+(Emphasis added.) duration of an administrative revocation of a driver’s 
+license for a refusal, requires that the arrestee refused, 
+was advised of sanctions, and then asked if they “still 
+refuse[d]”: ***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+15 [P]olice officers are [] required to read an
+inordinate amount of information to a suspect of
+DUII.  This measure is an attempt to simplify [the
+implied consent] process while protecting the rightsof the accused by clarifying that information on the
+consequences of refusing to submit to a blood,breath, or urine test only need to be read to an
+individual if the individual refuses to submit to
+such a test.  Your Committee believes that this bill
+will support law enforcement and increase traffic
+safety.
+H. Stand. Comm. Rep. No. 310-06, in 2006 House Journal, at 1218.
+The Senate Committee on Judiciary and Hawaiian Affairs 
+similarly explained that the purpose of the bill was to 
+“considerably reduce the amount of time spent by the police in 
+processing persons arrested for [OVUII]” by requiring that 
+police “inform a person arrested . . . of the sanctions for 
+refusal to submit to [a] breath, blood, or urine test only if 
+[a] person withdraws [their implied] consent to testing[.]”  S.
+Stand. Comm. Rep. No. 3303, in 2006 Senate Journal, at 1587
+(emphasis added).
+9H.B. 3257 was introduced by the legislature in 2006 and 
+eventually was enacted into law as Act 64.  See 2006 Haw. Sess. Laws Act 64, 
+at 96-101. For example, the House Committee on Transportation explained 
+that the purpose of amending the implied consent statutory 
+scheme was to streamline the implied consent process by only 
+requiring officers to advise arrestees of the sanctions that 
+could be imposed if the arrestee had already refused testing:this interpretation of the implied consent statutory scheme.  
+See H.B. 3257, H.D. 1, S.D. 2, 23rd Leg., Reg. Sess. (2006).9 
+ 
+***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+ 
+16 
+  Accordingly, we hold that under HRS Chapter 291E, an 
+OVUII arrestee who initially refuses to submit to chemical 
+testing must be given a second opportunity to refuse after being 
+advised of the possible sanctions. 
+ 2. 
+The HPD’s implied consent form complied with HRS 
+Chapter 291E 
+ 
+ However, the fact that officers must follow a two-step 
+procedure before sanctions can be imposed does not mean that the 
+form in this case violated HRS Chapter 291E: Hosaka did not 
+initially refuse chemical testing, and so HRS § 291E-15, which 
+establishes the two-step procedure discussed above, does not 
+apply to Hosaka’s case.  See HRS § 291E-15 (“Upon the law 
+enforcement officer’s determination that the person under arrest has refused to submit to a breath, blood, or urine test . . . .”).  The requirements of HRS § 291E-15 are only 
+triggered if the arrestee initially refuses; they do not apply 
+to arrestees who, like Hosaka, choose not to withdraw their 
+consent to chemical testing when first asked. 
+ Most importantly, however, the two-step procedure does 
+not require that an arrestee’s initial refusal be “completely 
+unencumbered,” as the circuit court believed.  HRS Chapter 291E permits law enforcement to tell arrestees that they “may” be 
+subject to sanctions when giving the first implied consent 
+advisal.  The plain language of HRS § 291E-11 provides that a ***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+17 B. Hosaka Voluntarily Consented to a Breath Test Under the
+Totality of the Circumstances 
+Having determined that the implied consent form did 
+not violate statutory mandates, we turn to Hosaka’s remaining 
+arguments that his consent was not knowing, intelligent, and 
+voluntary because the form contained inaccurate and misleading 
+information under Wilson and was inherently coercive under Won. 
+10We disagree with the ICA that sanctions could have been imposed 
+under HRS § 291E- 15 based solely on the implied consent form used to advise 
+Hosaka initially.  As discussed above, HRS Chapter 291E requires that 
+an 
+arrestee be given two opportunities to consent to chemical testing, and HRS 
+§291E-15 only applies if an arrestee initially refuses testing.  After that
+first refusal, HRS § 291E- 15(1) requires that a law enforcement officer
+“[i]nform the person under arrest of the sanctions under section 291E- 41 [or]
+291E-65[.]”  Thus, HRS § 291E- 15 requires an arrestee be informed of the
+sanctions which could apply — not simply that unspecified sanctions may
+exist.  As Form HPD- 396K informed an arrestee only that sanctions “may”
+result and did not explain what the potential sanctions were, law enforcementwould have to conduct a more detailed advisement in compliance with HRS
+§291E-15(2) before sanctions could be imposed.test can be administered only after (1) a lawful arrest, and (2
+) an 
+advisement that the arrestee has the right to refuse.  HRS § 
+291E-11(b).  It does not prohibit a law enforcement officer from 
+telling an arrestee, as part of that first advisement, that sanctions 
+“may” be imposed for a refusal.  Similarly, even if HRS § 291E-15 
+applied to Hosaka, the statute does not prohibit officers from 
+advising arrestees of possible sanctions when they first ask an 
+arrestee to submit to a chemical test and then later providing a more 
+specific explanation of the potential sanctions if an arrestee 
+refuses.   Accordingly, we conclude that the implied consent form 
+complied with HRS Chapter 291E.10 
+ 
+***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+ 
+18 
+  1. Wilson does not support suppression of chemical test 
+results solely due to an inaccurate or incomplete 
+implied consent form 
+   
+ The circuit court concluded that the implied consent 
+form was inaccurate and therefore that this court’s decision in 
+Wilson, 92 Hawaiʻ i 45, 987 P.2d 268, required the suppression of 
+Hosaka’s breath test results.  According to the circuit court, 
+because the form in this case did not follow the required two-
+step procedure set forth in HRS § 291E-15, sanctions could never 
+have been imposed, so it was inaccurate for the form to advise 
+Hosaka that they “may” have been.  We disagree. 
+ First, we conclude that the implied consent form was 
+accurate.  It advised Hosaka that if he refused chemical testing, he “may [] be subject to the procedures and sanctions 
+under chapter 291E, part III.”  That was a true statement: At 
+the time Hosaka was advised, sanctions could have been imposed 
+if he refused and continued to refuse after being advised of the 
+possible sanctions, as required by HRS § 291E-15.  Although the 
+imposition of sanctions required additional steps, the 
+possibility of sanctions for a refusal existed even at the beginning of Hosaka’s implied consent advisal.  HPD’s form 
+accurately explains this possibility by telling arrestees that 
+if they refused, they “may” be subject to the procedures and 
+sanctions in the implied consent statute.  
+ However, even if we determined that HPD’s implied  
+ 
+***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+ 
+19 
+ consent form was potentially misleading, that fact alone does 
+not warrant suppression.  We take this opportunity to reiterate 
+that the constitution requires knowing, intelligent, and 
+voluntary consent — not compliance with every technical 
+requirement in the implied consent statutory scheme.  See Won, 
+137 Hawaiʻ i at 354, 372 P.3d at 1089 (“[T]he question of whether 
+the implied consent statute is adhered to is separate and 
+distinct from the constitutional inquiry into whether there is 
+actual consent to BAC testing under HRS § 291E-11(b).”).  Thus, 
+the operative question is whether any defects in the form were 
+likely to influence an arrestee’s decision whether to consent.  
+ In Wilson, the implied consent advisement informed 
+arrestees, “[I]f you refuse to take any tests . . . your driving privileges will be revoked for one year instead of the three 
+month revocation that would apply if you chose to take the test 
+and failed it[.]”  92 Hawaiʻ i at 47, 987 P.2d at 270.  That 
+advisement was wholly incorrect — if a driver failed to take a test, their driving privileges could be revoked for “anywhere 
+from three months to one year.”  Id.  We found that the nature 
+of the misrepresentation — that Wilson’s driver’s license would be suspended for less time if he took a test and failed, than if 
+he refused a test — “was relevant to [the defendant’s] decision 
+whether to agree to or refuse the blood alcohol test.”  Id. at 
+51, 987 P.2d at 274.  As a result of the form’s  
+ 
+***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+ 
+20 
+ misrepresentation, we held that suppression was necessary. 
+ Wilson stands for the fundamental principle that 
+police officers may not induce an arrestee into not withdrawing 
+their implied consent by giving an inaccurate or misleading 
+implied consent advisement.  Thus, we held that “where a change 
+in wording of the implied consent warnings operates to convey a 
+different meaning than that specified in the statute, the driver 
+cannot be held to have made a knowing and intelligent decision whether to submit to an evidentiary alcohol test.”  Wilson, 92 
+Hawaiʻi at 50, 987 P.2d at 273. 
+ We recognize that in Wilson we stated, “the arresting 
+officer’s violation of [the implied consent statute’s] consent requirement precludes admissibility of Wilson’s blood test 
+results in his related criminal DUI proceeding.”  Id. at 53–54, 
+987 P.2d at 276–77.  However, this does not mean that any imperfection in the implied consent form mandates suppression of 
+the chemical test results.  The implied consent form in Wilson 
+omitted the maximum possible administrative sanction to create the misleading and inaccurate impression that the penalty for refusing of a chemical test would be worse than submitting to a 
+test and failing.  This misrepresentation was of the type 
+reasonably likely to influence an arrestee into consenting to a 
+chemical test; therefore, the arrestee’s consent was not ***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+21 11We emphasize that the constitutional infirmity in Wilson was not 
+the incomplete advisement per se, but the nature of the incompleteness — the 
+implied consent form omitted a substantive fact that rendered it misleading. knowing, intelligent, and voluntary.11  Id. at 47, 987 P.2d at 270; 
+cf. State
+ v. Matsumoto, 145 Hawaiʻi 313, 324, 452 P.3d 310, 321 
+(2019) (“[D]eliberate
+ falsehoods extrinsic to the facts of the 
+alleged offense,
+ which are of a type reasonably likely 
+to .
+ . . influence an accused to make a confession regardless of 
+guilt, []
+ will be regarded as coercive per se.” (quoting State v. 
+Kelekolio, 
+74 Haw. 479, 512–13, 849 P.2d 58, 73–74 (1993))(emphases 
+added)).
+  
+Wilson involved an inaccurate advisement informing an 
+arrestee 
+that the length of a driver’s license suspension would be 
+three 
+months instead of one year, an inaccuracy we characterized as 
+“substantive” and “substantial,” and which was reasonably likely to 
+influence an
+ arrestee’s decision.  92 Hawai‘i at 53 n.11, 987 P.2d 
+at 276
+ n.11. Accordingly, Wilson should not be read to invalidate 
+consent due
+ solely to minor defects in the implied consent advisory 
+that 
+are unlikely to do so.
+In this case, the implied consent form accurately informed 
+Hosaka of the possible sanctions and did not omit any important 
+information that could have influenced his decision whether to 
+withdraw his implied consent.  Even if the statement that 
+sanctions “may” be imposed is considered misleading because 
+intervening steps would have to take place before that could ***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+22 happen, any inaccuracy was slight and unlikely to affect an 
+arrestee’s decision whether to consent to a chemical test.  
+Accordingly, suppression is not warranted under Wilson.    
+2. HPD’s implied consent form was not coercive under Won
+Hosaka further argues that under this court’s decision
+in Won, 137 Hawaiʻ i 330, 372 P.3d 1065, the mere mention of 
+sanctions in the implied consent form was coercive and therefore 
+mandates suppression of the breath test results.  The circuit 
+court agreed, concluding that even though Won involved criminal 
+sanctions for a refusal, “under the reasoning of Won, burdening 
+an arrestee’s election to refuse with any significant sanctions 
+cannot help but render any subsequent purported consent legally 
+insufficient and therefore null and void.”  We disagree with the 
+circuit court’s interpretation of Won. 
+In Won, the defendant consented to a chemical test 
+after being advised that if he refused chemical testing he would 
+“be subject to up to thirty days imprisonment and/or fine up to 
+$1,000 or the sanctions of 291E-65, if applicable.”  Id. at 335, 
+372 P.3d at 1070 (emphasis omitted).  We held that “[w]here 
+arrest, conviction, and imprisonment are threatened if consent 
+to search is not given, the threat infringes upon and oppresses 
+the unfettered will and free choice of the person to whom it is 
+made, whether by calculation or effect.”  Id. at 346, 372 P.3d 
+at 1081.  Notably, we concluded that in addition to the sheer  
+ 
+***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+ 
+23 
+ threat of criminal punishment, the advisement was especially 
+coercive because “the choice presented by the Implied Consent 
+Form forces a defendant to elect between fundamental rights 
+guaranteed by the Hawaiʻ i Constitution,” and the duration of 
+possible imprisonment for a refusal was significantly higher 
+than the possible imprisonment for a first OVUII offense.  Id. 
+at 347-48, 372 P.3d at 1082-83 (emphasis omitted). 
+ However, we also explicitly distinguished 
+administrative sanctions from the threat of criminal prosecution and imprisonment: “It bears repeating here that this opinion 
+does not concern the civil administrative penalties attendant to 
+a driver’s refusal of BAC testing.  See HRS § 291E–41(d) (Supp. 
+[2012]); see generally HRS Chapter 291E, Part III.  Those types 
+of sanctions are not affected in any way by our decision.”  Id. 
+at 349 n.34, 372 P.3d at 1084 n.34.  Given Won’s repeated 
+references to the coercive nature of the criminal sanctions at issue, the circuit court erred in concluding that Won prohibited 
+“any significant sanction burdening a defendant’s choice to refuse.” 
+ Here, the implied consent form that Hosaka signed can 
+be distinguished from the form in Won: it did not threaten 
+Hosaka with arrest or imprisonment for refusing a chemical test; 
+it did not require him to choose between constitutional rights; 
+and it did not advise him, as the forms in both Won and Wilson  
+ 
+***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+ 
+24 
+ did, that the punishment for refusal would be worse than the 
+punishment for failing a chemical test.  Even if a threat of 
+administrative sanctions could be coercive under some 
+circumstances, the circumstances here do not rise to that level.  
+Moreover, there are no other factors (and certainly no other 
+factual findings regarding such factors) that could have been 
+coercive or that suggest Hosaka was, in fact, coerced.  Thus, as 
+the totality of the circumstances demonstrates that Hosaka voluntarily consented to the breath test, the results of that 
+test are admissible. 
+V.  CONCLUSION 
+ We hold that the implied consent form in this case 
+complied with HRS Chapter 291E and was not inaccurate or misleading.  Further, we clarify that not all inaccuracies in 
+implied consent forms require suppression of chemical testing 
+results: only inaccuracies that are reasonably likely to 
+influence an arrestee to consent will require suppression. Similarly, informing an arrestee of possible civil sanctions 
+does not make an advisement automatically coercive.  As the 
+implied consent form here was not inaccurate or coercive, and 
+the circuit court did not find that any of the other 
+circumstances of Hosaka’s advisal were coercive, Hosaka 
+knowingly, intelligently, and voluntarily consented to the 
+breath test, and the results of the breath test are admissible.   
+ 
+***  FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+ 
+25 
+ Accordingly, the ICA’s judgment on appeal filed June 18, 2019, 
+is affirmed, and this case is remanded to the circuit court for 
+further proceedings consistent with this opinion.  Howard K. K. Luke 
+for petitioner 
+    /s/ Mark E. Recktenwald 
+    /s/ Paula A. Nakayama 
+    /s/ Sabrina S. McKenna 
+    /s/ Michael D. Wilson 
+ 
+   
+Brian R. Vincent 
+for respondent       
+ 

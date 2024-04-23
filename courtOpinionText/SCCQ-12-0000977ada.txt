@@ -1,0 +1,1937 @@
+                                                                 
+     ***FOR  PUBLICATION  IN  WEST’S  HAWAI'I  REPORTS  AND  PACIFIC  REPORTER*** 
+Electronically Filed 
+Supreme Court SCCQ-12-0000977 13-FEB-2014 10:17 AM 
+IN THE SUPREME COURT OF THE STATE OF HAWAI' I
+ 
+NAUTILUS INSURANCE COMPANY,
+Plaintiff-Appellant,
+ 
+vs.
+ 
+LEXINGTON INSURANCE COMPANY, DOE DEFENDANTS 1-10,
+Defendants-Appellees.
+ 
+                                                            
+SCCQ-12-0000977
+ 
+ORIGINAL PROCEEDING
+ 
+February 13, 2014
+ 
+RECKTENWALD, C.J., NAKAYAMA, ACOBA, McKENNA, AND POLLACK, JJ.
+ 
+OPINION OF THE COURT BY ACOBA, J.
+ 
+The United States Court of Appeals for the Ninth
+ 
+Circuit (Ninth Circuit) certified the following questions of law
+ 
+to this court:
+ 
+1. Whether  an  insurer  may  look  to  another  insurer’s
+policy  in  order  to  disclaim  the  duty  to  defend,  where  the
+complaint  in  the  underlying  lawsuit  alleges  facts  within
+ 
+coverage.
+         
+       
+          
+         
+        
+        
+        
+          
+          
+ 
+         
+             
+            
+            
+          ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+2. Whether  an  “other  insurance”  clause  that  purports  to
+release  an  otherwise  primary  insurer  of  the  duty  to  defend
+if  the  insurer  becomes  excess  as  to  liability  is
+enforceable.
+ 
+3. Whether  the  irreconcilability  of  “other  insurance”
+ 
+provisions  in  otherwise  primary  insurance  policies  should  be
+determined  before  or  after  the  operation  of  the  “other
+ 
+insurance”  provisions  is  determined.
+ 
+4. Whether,  and  when,  an  excess  insurer,  or  an  otherwise
+primary  insurer  who  becomes  an  excess  insurer  by  operation
+of  an  “other  insurance”  clause,  has  a  duty  to  defend.
+ 
+I.
+ 
+A.
+ 
+VP & PK (ML) LLC (VP & PK) is the owner and developer
+ 
+of a tract of land in the Maui Lani Project District. 
+VP & PK
+ 
+purchased a Commercial General Liability insurance policy1
+ for
+its work on the Maui Lani site from Defendant-Appellee Lexington
+ Insurance Company (Lexington). The policy’s Occurrence Form
+ included the following “Other Insurance” provision: 
+4.	 Other  Insurance
+ 
+If other valid and collectible insurance is available
+ 
+to the insured for a loss we cover under Coverages A
+or B of this Policy, our obligations are limited as
+follows :
+ 
+a.	 Primary  Insurance
+ 
+This insurance is primary except when b. Excess Insurance,
+below, applies . If this insurance is primary, our
+obligations are not affected unless any of the other
+insurance is also primary. Then, we will share with all
+that other insurance by the method described in c. Method of
+Sharing, below.
+ 
+1
+ “Liability insurance” is defined as “[a]n agreement to cover a
+ 
+loss resulting from the insured’s liability to a third party, such as a loss
+incurred by a driver who injures a pedestrian.” Black’s Law Dictionary 873
+ 
+(9th ed. 2009). “The insured’s claim under the policy arises once the
+insured’s liability to a third party has been asserted.” Id.
+ 
+2
+         
+ 
+    
+   
+   
+   
+   
+    
+   
+  
+     
+    
+   
+        
+        
+       
+        
+        
+         
+      
+  
+        
+         
+       
+         
+       
+        
+       
+        
+        
+       
+  ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+b.	 Excess Insurance
+ 
+This insurance is excess over :
+ 
+. . . .
+ 
+(2)	 Any other primary insurance
+available to you covering
+liability for damages arising
+out of the premises or
+operations of the “products­completed operations” hazard
+ for which you have been added
+as an additional insured by
+attachment of an endorsement .
+ 
+When this insurance is excess, we will have no
+duty under Coverages A or B to defend the
+insured against any “suit” if any other insurer
+has a duty to defend the insured against that
+“suit”. If no other insurer defends, we will
+undertake to do so, but we will be entitled to
+the insured’s rights against all those other
+insurers.
+ 
+. . . .
+ 
+c.	 Method of sharing
+ 
+If all of the other insurance permits contribution by
+equal shares, we will follow this method also. Under
+ this approach each insurer contributes an equal amount
+until it has paid its applicable limit of insurance or
+none of the loss remains, whichever comes first.
+ 
+If any of the other insurance does not permit
+contribution by equal shares, we will contribute by
+limits. Under this method, each insurer’s share is
+based on the ratio of its applicable limit of
+insurance to the total applicable limits of insurance
+of all insurers.
+ 
+(Emphases added.) Lexington did not include Kila Kila
+ 
+Construction (Kila Kila) as an additional insured.
+ 
+Kila Kila was one of VP & PK’s subcontractors for the
+ 
+Maui Lani development. Kila Kila purchased a Commercial General
+ Liability Coverage insurance policy for its work on the Maui Lani
+ site from Plaintiff-Appellant Nautilus Insurance Company
+ 
+3
+         
+ 
+       
+          
+        
+  
+ 
+       
+       
+       
+        
+       
+    
+ 
+    
+   
+   
+    
+     
+     
+     
+   
+            
+        
+         
+        
+       
+    
+        
+  
+  ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+(Nautilus). The Commercial General Liability Coverage form
+ 
+contained an “Other Insurance” provision, which stated as
+ follows:
+ 
+4.	 Other Insurance
+ 
+If other valid and collectible insurance is available
+ 
+to the insured for a loss we cover under Coverages A
+or B of this Coverage Part, our obligations are
+limited as follows :
+ 
+a.	 Primary Insurance
+ 
+This insurance is primary except when b. below
+ 
+applies . If this insurance is primary, our
+obligations are not affected unless any of the
+other insurance is also primary. Then, we will
+share with all that other insurance by the
+method described in c. below.
+ 
+b.	 Excess Insurance
+ 
+This insurance is excess over :
+ 
+. . . .
+ 
+(2)	 Any other primary insurance
+available to you covering liability
+arising out of the premises or
+operations for which you have been
+added as an additional insured by
+attachment of an endorsement .
+ 
+(Emphases added.) Nautilus’s policy also contained an
+ 
+“Additional Insured Endorsement” modifying the Commercial General
+ Liability Coverage and adding VP & PK as an additional insured:
+ 
+SECTION II - WHO IS AN INSURED is amended to include as an
+ 
+insured the person or organization shown in the Schedule
+below, but only for liability arising out of your negligence
+and only for occurrences or coverage not otherwise excluded
+in the policy to which this endorsement applies.
+ 
+SCHEDULE
+ 
+Name of Person or Organization:
+ 
+VP & PK (ML) LLC and Central Pacific Bank
+98-880 Iwaena St
+ 
+Aiea, HI 96701
+ 
+4
+         
+          ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Project: The Fairways at Maui Lani Cost $1.7
+ 
+Million
+ 
+(Emphases added.)
+ 
+Both parties’ General Commercial Liability policies
+ 
+include duties to both defend and indemnify. 
+B.
+ 
+On June 3, 2008, Karen Goo and a number of Maui
+ 
+residents sued VP & PK, Kila Kila, and other VP & PK
+ 
+subcontractors for damages resulting from construction in Maui
+ Lani. The complaint alleged facts falling within the coverage of
+ both policies. Nautilus funded the defense of both Kila Kila and
+ VP & PK during the entirety of the Goo lawsuit. Ultimately, VP &
+ PK was found solely liable on some claims and ordered to pay
+ damages totaling $232,700. Kila Kila was not found liable on any
+ claims. 
+C.
+ 
+Lexington acknowledged that it would indemnify VP & PK
+ 
+for the jury verdict, and satisfied the entirety of the judgment
+ against VP & PK. It does not appear to dispute its obligation to
+ pay the full amount of damages. However, Lexington denies any
+ obligation to contribute to Nautilus’s costs in funding the
+ defense.
+ 
+D.
+ 
+On September 14, 2009, Nautilus filed a Complaint in 
+the Hawai' i Circuit Court of the Second Circuit, seeking, inter 
+5
+         
+     
+        
+          
+           
+          ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+alia, a declaration that Lexington owed VP & PK a duty to defend
+ 
+and that it breached that duty, and (2) equitable contribution
+ from Lexington for defense costs. On November 10, 2009,
+ 
+2
+Lexington removed the case to the District Court,  pursuant to 28
+U.S.C. 1332(a)(1).
+3 On November 17, 2010, the District Court
+ 
+granted summary judgment to Lexington on all of Nautilus’s
+ claims. 
+The District Court found that (1) Lexington was
+ 
+permitted to look beyond the face of the complaint and its policy
+ -- and, specifically, to Nautilus’s policy -- to determine
+ whether it had a duty to defend; (2) Lexington’s policy was in
+ excess to Nautilus’s policy; (3) as a result, Lexington’s duty to
+ defend had never been triggered; and (4) Nautilus was entitled to
+ neither a declaratory judgment nor any contribution for the
+ defense costs. Nautilus Ins. Co. v. Lexington Ins. Co., Cv. No.
+ 
+90-00537 DAE-LEK, 2010 WL 4812742, at *12-16 (D. Haw. Nov. 17,
+ 2010).
+ 
+Nautilus appealed to the Ninth Circuit on December 14,
+ 
+2010, and on October 9, 2012, the Ninth Circuit sua sponte
+ requested that the parties file supplemental briefing addressing
+ 
+2
+ The Honorable David A. Ezra presided.
+ 
+3
+ 28 U.S.C. 1332(a)(1) provides that “[t]he district courts shall
+ 
+have original jurisdiction of all civil actions where the matter in
+controversy exceeds the sum or value of $75,000, exclusive of interest and
+costs, and is between (1) citizens of different States[.]”
+ 
+6
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+whether questions in the case should be certified to this court, 
+and inviting them to comment on four proposed questions for certification. Neither party objected to certification in their briefs, and both concede that Hawai' i law governs this 
+controversy. 
+On November 2, 2012, the Ninth Circuit filed a request 
+with this court to answer four certified questions. Hawai' i 
+Rules of Appellate Procedure Rule 13(a) provides that “[w]hen a federal district or appellate court certifies to the Hawai' i 
+Supreme Court that there is involved in any proceeding before it a question concerning the law of Hawai' i that is determinative of 
+the cause and that there is no clear controlling precedent in the Hawai'i judicial decisions, the Hawai' i Supreme Court may answer 
+the certified question by written opinion.” On January 10, 2013, this court accepted the certified questions. Nautilus filed its Opening Brief on August 5, 2013, Lexington filed its Answering Brief on September 12, 2013, and Nautilus filed a Reply Brief on September 26, 2013. 
+II. 
+Question 1:  Whether an insurer may look to another
+ 
+insurer’s policy in order to disclaim the duty to defend, where
+ the complaint in the underlying lawsuit alleges facts within
+ coverage. 
+7
+         
+         
+           
+              ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+A.
+ 
+1.
+ 
+Both parties’ arguments on this question focus on this 
+court’s 2000 opinion in Dairy Road Partners v. Island Ins. Co., 92 Hawai' i 398, 992 P.2d 93 (2000). However, we hold that Dairy 
+Road Partners does not clearly resolve the scenario presented by this certified question. 
+In Dairy Road Partners, the insurer, Island Insurance, 
+disclaimed its duty to defend insureds Dairy Road Partners (DRP) and Shell in a pending action. 92 Hawai
+'i at 408, 992 P.2d at 
+103. The complaints against the insureds alleged facts that
+ would fall within Island Insurance’s coverage, thereby requiring
+ that Island Insurance defend the claims.
+4 Id. at 414, 992 P.2d
+ 
+at 109. However, Island Insurance conducted its own
+ investigation and disclaimed the defense based on the facts
+ uncovered in that investigation, which would apparently put the
+ underlying events outside the scope of Island Insurance’s
+ coverage. Id. at 409, 992 P.2d at 104.
+ 
+In reaching its conclusion as to whether Island 
+Insurance had a duty to defend under these circumstances, this court relied on Hawai' i insurance law principles with respect to 
+the duty to defend. Id. at 411-13, 992 P.2d at 106-08. The 
+4
+ The opinion noted that “Island [Insurance] does not dispute that
+ 
+the complaints in both of the underlying lawsuits allege claims that, if
+proven, would be covered by the policy.” Id. at 414, 992 P.2d at 109.
+ 
+8
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+operative question was whether, “for the purposes of overcoming
+ 
+the duty to defend, Island [Insurance] was permitted to conduct a
+ factual investigation despite the allegations of the underlying
+ complaints.” Id. at 415, 992 P.2d at 110 (emphases in original). 
+Prior case law in Hawai' i had indicated that “insurers 
+may generally overcome their duty to defend by relying on ‘factual’ sources beyond the pleadings[,]” and Dairy Road Partners expressed concern about this holding, because of the potential for adverse consequences to insureds. Id. at 417, 992 
+P.2d at 112. First, the insured could “be saddled with the Procrustean dilemma of being forced to adduce facts proving his or her own liability in the underlying lawsuit in order to satisfy the insurer that there may be merit to the underlying covered claim.” Id. For example, in Dairy Road Partners, DRP 
+would have had to prove that its employee was acting within the scope of his employment in order to demonstrate to Island Insurance that DRP had coverage under its policy and thus Island Insurance was required to defend. Id. However, DRP would be 
+liable in the underlying litigation if its employee was found to be acting within the scope of his employment. Id. Thus, DRP 
+would be compelled to take inconsistent positions. Id. 
+Second, this court was also concerned with the
+ 
+inconsistent judgments that could result if an insurer could look
+ to facts outside the complaint in disclaiming its duty to defend. 
+9
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Id. Dairy Road Partners explained that “[a] circuit court
+ 
+presiding over a declaratory judgment action might rule, based on
+ an insurer’s superior production of evidence concerning material
+ facts that will be directly in dispute in the underlying lawsuit,
+ that there is no possibility of coverage[,]” and “[s]ubsequently,
+ the trier of fact in the underlying lawsuit . . . might find that
+ the insured is liable on a claim covered by the policy.” Id.
+ 
+(emphasis in original).
+ 
+This court noted that “the majority of jurisdictions
+ 
+addressing the issue forbade insurers from relying upon extrinsic
+ evidence for the purposes of disclaiming the duty to defend.” 
+Id. at 418, 992 P.2d at 113. Dairy Road Partners ultimately
+ 
+adopted the majority rule, with a limited exception, wherein an
+ insurer “may only disclaim its duty to defend by showing that
+ none of the facts upon which it relies might be resolved
+ differently in the underlying lawsuit.” Id. at 422, 992 P.2d at
+ 
+117 (emphasis in original). In other words, the decision held an
+ insurer who relied on extrinsic facts in disclaiming its duty to
+ defend would have to show that those facts could not be disputed
+ in the underlying lawsuit. Id. Otherwise, the insurer would not
+ 
+be allowed to disclaim its duty to defend based on those
+ extrinsic facts. Id. To illustrate, where an insurer argues
+ 
+that an occurrence was outside of the effective period of the
+ policy, an insurer would likely be able to rely on that extrinsic
+ 
+10
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+fact, because “the parameters of the effective period of the
+ 
+policy would not normally be subject to dispute in the underlying
+ action.” Id. at 422 n.14, 992 P.2d at 117 n.14. 
+Holding thus, Dairy Road Partners concluded that Island
+ 
+Insurance was required to defend DRP and Shell, because the
+ additional facts it uncovered through its own investigation were
+ “inextricably intertwined in the factual matters at issue in the
+ underlying lawsuits and [could not], therefore, serve as a basis
+ for disclaiming the duty to defend.” Id. at 423, 992 P.2d at 118
+ 
+(emphasis added).
+ 
+2.
+ 
+Nautilus interprets the Dairy Road Partners decision as
+ 
+dispositive on the issue of whether an insurer may look to “other
+ insurance” to disclaim its duty to defend. Under Dairy Road
+ Partners, Nautilus asserts, “an insurer that issues a general
+ liability policy to an insured is obligated to defend a claim
+ whenever there is a ‘mere potential for coverage’ under the
+ policy.” (Emphasis in original.) (Quoting id. at 413, 992 P.2d
+ at 108.) According to Nautilus, Dairy Road Partners completely
+ excluded the possibility for an insurer to look to any extrinsic
+ evidence beyond the allegations in the complaint in determining
+ whether it had the duty to defend, unless such evidence would not
+ bear any relation to the question of liability in the underlying
+ suit. 
+11
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Nautilus avers that the provision in its policy, adding
+ 
+VP & PK as additional insureds, would constitute extrinsic
+ 
+evidence bearing a relation to the question of liability in the
+ underlying suit, and thus cannot be considered by Lexington in
+ disclaiming its duty to defend. In Nautilus’s view, the “facts”
+ this court referred to in Dairy Road Partners “(1) must be
+ relevant to the underlying lawsuit, and (2) cannot be open to a
+ different resolution than what the insurer believes them to be.” 
+Lexington, on the other hand, responds that “[t]o find 
+that insurers may not consider other policies covering their insured would deprive them of essential information in ascertaining whether there is a duty to defend.” Lexington argues that to hold otherwise “would render ‘other insurance’ clauses meaningless, in contravention of this court’s case law holding that contract provisions should not be interpreted such that they are rendered meaningless. (Citing Stanford Carr Dev. Corp. v. Unity House, Inc., 111 Hawai' i 286, 297, 141 P.3d 459, 
+470 (2006).) (Other citations omitted.) 
+As to the import of Dairy Road Partners, Lexington
+ 
+avers that that decision does not preclude an insurer from
+ looking at the available insurance policies in order to determine
+ whether or not it has a duty to defend an insured. According to
+ Lexington, this court “focused on the unintended consequences of 
+12
+         
+ ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+permitting insurers to rely on factual sources beyond the
+ 
+pleadings.” (Emphasis added.) 
+Lexington emphasizes that the two concerns articulated
+ 
+by this court in Dairy Road Partners, first, that an insured
+ would have to prove his or her own liability in the underlying
+ lawsuit in order to satisfy the insurer that it has the duty to
+ defend, and second, that allowing insurers to rely on factual
+ sources behind the pleadings that may result in inconsistent
+ judgments, are not present in this case. Instead, it argues, “VP
+ 
+& PK was not forced to allege facts proving its own liability in
+ 
+order to trigger the duty to defend because Nautilus had already
+ 
+agreed to provide a defense; and [] there was no risk of
+ inconsistent judgments because the Nautilus and Lexington
+ policies were not before the jury in the [u]nderlying [a]ction.” 
+3.
+ 
+Dairy Road Partners clearly established the principles 
+that the duty to defend is broader than the duty to indemnify, and that “[a]ll doubts as to whether a duty to defend exists are resolved against the insurer and in favor of the insured[.]” 92 Hawai'i at 412, 992 P.2d at 107 (citations and internal quotation 
+marks omitted). In the same vein, this court has held that “the duty to defend ‘rests primarily on the possibility that coverage exists. This possibility may be remote but if it exists, the insurer owes the insured a defense.’” Id. (emphasis in original) 
+13
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+(quoting Standard Oil Co. of California v. Hawaiian Ins. & Guar.
+ 
+Co., Ltd., 65 Haw. 521, 527, 654 P.2d 403, 407 (1973)) (other
+ citation and internal quotation marks omitted). These precepts
+ are ultimately relevant to our answers to the certified questions
+ presented to this court. 
+However, the specific holding in Dairy Road Partners
+ 
+does not appear dispositive of the outcome of the first certified
+ question. The extrinsic evidence considered in Dairy Road
+ Partners included factual matters relevant to the outcome of the
+ underlying litigation. Here, in contrast, the question is
+ whether an insurer may take into account the operation of its
+ policy in conjunction with other insurance policies, to determine
+ if it must defend a particular suit. Thus, the insurer would be
+ looking at the construction and operation of other insurance
+ policies in disclaiming a duty to defend, which presents some
+ different considerations than the “extrinsic evidence” that was
+ at issue in Dairy Road Partners. 
+The clearest signal that Dairy Road Partners does not
+ 
+control in this case is the rationale expressed in Dairy Road
+ Partners that allowing insurers to rely on extrinsic factual
+ evidence could potentially (1) compel the insured to adduce facts
+ proving his or her own liability in the underlying suit; and (2)
+ result in inconsistent judgments regarding facts that would be in
+ dispute in the underlying lawsuit as well as relevant to the
+ 
+14
+         
+  
+        
+           
+            
+             
+           
+  ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+insurer’s duty to defend. 92 Hawai' i at 417, 992 P.2d at 112. 
+As Lexington correctly points out, these concerns will generally 
+not be implicated when the question is whether an insurer should be able to look to other insurance companies’ policies when disclaiming the duty to defend. The question of whether the insured has coverage under another policy is typically one of contract interpretation, and thus may not involve issues that could be in dispute in the underlying action.
+5 
+While the insurance company in Dairy Road Partners
+ 
+conducted independent investigative research into the
+ circumstances of the underlying occurrence, here, in contrast,
+ the “research” contemplated would be identifying and interpreting
+ the policies of other companies that had potentially applicable
+ insurance. Therefore, extrinsic “facts” may be distinguished
+ analytically from extrinsic “policies”, and Dairy Road Partners
+ does not mandate a specific answer to the first certified
+ question.
+ 
+B.
+ 
+“Primary insurance is typically the first layer of
+ 
+coverage.” See 23 Appleman, Insurance Law and Practice § 145.1,
+ 
+5
+ As this case illustrates, however, sometimes the question of
+ 
+whether the insured is covered under another policy will involve facts that
+could be relevant to the underlying litigation. As will be explained infra,
+the question of whether VP & PK is covered under Nautilus’s policy turns on
+whether Kila Kila was negligent -- an issue squarely addressed in the
+ underlying litigation.
+ 
+15
+         
+       
+        
+       
+          
+        
+       
+        
+        
+      ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+at 3 (2003) [hereinafter “Appleman”]; Liberty Mut. Ins. Co. v. 
+Sentinel Ins. Co., 120 Hawai' i 329, 354, 205 P.3d 594, 619 (App. 
+2009). A carrier’s obligations under a primary policy attach whenever there is a possibility of coverage, even when that possibility is remote. See, e.g., Dairy Road Partners, 92 
+Hawai'i at 412, 992 P.2d at 107. “The second layer of coverage 
+is excess coverage.” 23 Appleman § 145.1, at 4. The difference between coverages has been explained thusly: 
+Because separate premiums are assessed against the insured
+for excess and primary coverage, excess coverage is not
+triggered until the underlying primary policy limits are
+exhausted within the meaning of the excess policy. Also, in
+contrast to primary policies, a pure excess policy provides
+specific coverage above an underlying limit of primary
+insurance and often will refer directly within the excess
+policy declaration and policy itself to primary insurers as
+well as other excess insurers.
+ 
+Id. 
+1.
+ 
+Here, Lexington’s policy provides that its otherwise 
+primary insurance becomes excess in the event that “other 
+insurance” is available. This is known as an “other insurance” clause. See Walton v. State Farm Mut. Auto Ins. Co., 55 Haw. 
+326, 329, 518 P.2d 1399, 1401 (1974). Such clauses have been upheld in this jurisdiction, so long as “‘they are not in contravention of statutory inhibitions or public policy.’” Liberty Mut. Ins. Co., 120 Hawai' i at 349-50, 205 P.3d at 614-15 
+(quoting First. Ins. Co. of Hawai' i v. State, 66 Haw. 413, 423, 
+665 P.2d 648, 655 (1983) (other citation omitted)). As relevant 
+16
+         
+ 
+       
+           
+         
+     ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+to this case, Lexington’s otherwise primary policy becomes an
+ 
+excess policy by operation of the “other insurance” clause. 
+The relationship between the potential primary and
+ 
+excess coverages in this case is different from many other types
+ of cases where excess coverage is considered. Here, Lexington’s
+ policy was primary coverage for VP & PK (not taking into
+ consideration the “other insurance clause”), and Nautilus’s
+ policy was primary coverage for Kila Kila, and possibly also
+ provided primary coverage for VP & PK by operation of Nautilus’s
+ “Additional Insureds” endorsement. Thus, presumably, VP & PK
+ negotiated with Lexington and paid premiums for a primary
+ coverage policy that included, inter alia, the “other insurance”
+ clause, and Kila Kila negotiated with Nautilus and paid premiums
+ for a primary coverage policy that included, inter alia, the
+ additional insured endorsement of VP & PK.
+6
+ 
+2.
+ 
+To reiterate, the policy that Nautilus issued to Kila
+ 
+Kila included an endorsement of VP & PK as an “additional
+ insured”, stating that “WHO IS INSURED is amended to include as
+ an insured [VP & PK], but only for liability arising out of [Kila
+ Kila’s] negligence and only for occurrences or coverage not
+ 
+6
+ Nautilus’s policy also contained a substantially similar “other
+ 
+insurance” provision, but as will be explained infra, since there are no
+allegations that Kila Kila had “other insurance”, this provision from
+Nautilus’s policy is not at issue.
+ 
+17
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+otherwise excluded in the policy to which this endorsement
+ 
+applies.” (Emphasis added.) Lexington’s “other insurance”
+ clause, in turn, only applies if VP & PK has other insurance, and
+ so in order for Lexington’s “other insurance” clause to become
+ operable, it appears that the “additional insured” endorsement in
+ Nautilus’s policy must also be triggered.
+ 
+Nautilus alleges that the “additional insured”
+ 
+endorsement in its policy could have been resolved in two
+ different ways, depending on the outcome in the underlying case. 
+Based on the language of the endorsement, Nautilus asserts that
+ VP & PK would only be covered as an additional insured under its
+ policy in the event that Kila Kila were found to be negligent. 
+According to Nautilus, the coverage of VP & PK was contingent on
+ the outcome of the underlying litigation, and therefore,
+ Lexington had no right to consider Nautilus’s policy when
+ disclaiming the duty to defend. 
+Nautilus further cites to a New York case, 83 Kajima
+ 
+Const. Servs., Inc. v. Cati, Inc., 302 A.D.2d 228 (N.Y. App. Div.
+ 2003), in support of its contention. Nautilus analogized the
+ circumstances in Cati, Inc., which involved two insurers with
+ “additional insured” language in one of the policies, to those in
+ this case. According to Nautilus, the coverage of one of the
+ insureds in Cati, Inc. was contingent on “the negligence or
+ responsibility of the named insured.” (Quoting Cati, Inc., 302
+ 
+18
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+A.D. at 228.) The New York Appellate Division, First Department,
+ 
+held that under those circumstances, the duty of one of the
+ insurers to defend could be “deferred pending determination of
+ the underlying action.” (Quoting id. at 229.) Nautilus contends
+ that in this case, based on its additional insureds provision,
+ Nautilus’s duty to defend VP & PK could have similarly been
+ deferred until Kila Kila’s negligence was determined in the
+ underlying case, and that, until such a determination was made,
+ Lexington would have been obligated to defend VP & PK. 
+Nautilus also alleges that Lexington wrongly assumed
+ 
+that it was an excess insurer pursuant to its “Other Insurance”
+ clause. In Nautilus’s view, “Lexington was primary as to the
+ liability of its named insured, and could have been primary
+ throughout the entire defense[,]” because Nautilus’s Additional
+ Insured Endorsement did not even apply until Kila Kila was found
+ negligent. According to Nautilus, it had the right to place
+ conditions on its additional insured endorsement obligation, and
+ if those conditions were not met, then VP & PK would not have
+ been an additional insured to Nautilus’s policy.
+ 
+Moreover, Nautlius alleges that “[if] members of the 
+Hawai'i Supreme Court can come to two different interpretations 
+with respect to the same insurance policy,” as they did in Dairy Road Partners, where two justices dissented to the majority’s interpretation of the business automobile liability policy, 
+19
+         
+ ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+“surely Lexington can appreciate the possibility that when it
+ 
+interpreted Nautilus’ policy that there may be an interpretation
+ of the policy that was different from its own interpretation.” 
+As a policy matter, Nautilus maintains that, “[b]ased on the
+ complexity of an insurance policy, an insurer should not be
+ allowed to look at another insurer’s policy when deciding whether
+ or not the insurer owes its insured a duty to defend.” 
+As to the significance of the limitations on Nautilus’s
+ 
+“Additional insured Endorsement,” Lexington argues that it does
+ not matter whether it was conditioned on Kila Kila’s negligence,
+ because there were allegations in the underlying action that Kila
+ Kila had been negligent, and Nautilus had a duty to defend based
+ on those allegations. According to Lexington, “[j]ust because it
+ was later determin[ed] that Kila Kila was not negligent, does not
+ negate Nautilus’ duty to defend.” 
+Lexington avers that, by operation of its “Other
+ 
+Insurance” provision, Nautilus was the primary insurer of VP &
+ PK, and was defending, and therefore Lexington had no duty as an
+ excess insurer to defend under the circumstances. Lexington
+ distinguishes Cati, Inc. on the basis that the additional insured
+ provision in that case was worded differently than Nautilus’s
+ Additional Insured Endorsement. In Cati, Inc., the policy
+ provided that “additional insured coverage will be primary only
+ if the underlying claim is determined to be solely as a result of
+ 
+20
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+the negligence or responsibility of the named insured[,]” (some 
+emphasis omitted) (quoting Cati, Inc., 302 A.D. 2d at 229), whereas Nautilus’s Additional Insured Endorsement does not contain that specific contingent language. Therefore, Lexington asserts, because there was negligence on the part of Kila Kila alleged in the underlying action, Nautilus “had the primary duty to defend as determined at the outset pursuant to the language of the Additional Insured Endorsement and Hawai' i law.” 
+In its Reply Brief, Nautilus responds that in a
+ 
+coverage dispute all relevant insurance policies may be
+ considered, but that when an insurer is determining its duty to
+ defend its insured, “[t]he fact that there is another insurer
+ providing a defense to the insured is irrelevant [because] [a]n
+ insurance policy between an insurer and its insured is personal.” 
+Nautilus argues that allowing one insurer to look at another
+ insurer’s policy would increase the risk of prejudice, for
+ example, should the insurer misinterpret another insurer’s
+ policy. Nautilus explains that, illustrative of such, Lexington
+ has misinterpreted Nautilus’s Additional Insured endorsement to
+ be contingent on “alleged negligence” when in actuality it is
+ contingent on “actual negligence.” According to Nautilus, if
+ Lexington’s interpretation of the Additional Insured Endorsement
+ were accurate, then Nautilus would have had to pay the judgment
+ against VP & PK so long as the complaint alleged negligence
+ 
+21
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+against Kila Kila, regardless of whether the jury found Kila Kila
+ 
+to actually be negligent. 
+Nautilus also counters Lexington’s argument that
+ 
+limiting an insurer’s ability to consider other insurance
+ policies would render “other insurance” provisions meaningless. 
+Nautilus avers that “other insurance” clauses, like the one in
+ Lexington’s policy, relate to the duty to indemnify, rather than
+ the duty to defend. The duty to indemnify would not be affected
+ by any limitations on what an insurer can consider in deciding
+ whether it has the duty to defend. 
+3.
+ 
+In recognition of the fact that the duty to defend is 
+broader than the duty to indemnify, Hart v. Ticor Title Ins. Co., 126 Hawai' i 448, 458, 272 P.3d 1215, 1225 (2012), courts have 
+held that “if an exclusion may operate to relieve an insurer of its duty to indemnify and the applicability of the exclusion cannot be determined until after a trial, the insurer must defend the underlying suit.” Ostrager & Newman, Insurance Coverage Disputes § 5.02(a), at 312. Nautlius’ argument is that since 
+the “other insurance” provision in Lexington’s policy would operate to relieve Lexington of its duty to indemnify only if Kila Kila was negligent, an issue to be determined at trial, Lexington had the duty to defend the underlying suit. 
+22
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+C.
+ 
+Ultimately, in deciding whether insurers may look to 
+other policies in disclaiming the duty to defend, we rely on 
+policy considerations behind why the duty to defend exists, including what options are available to insurers, Hawai' i 
+jurisprudence on the duty to defend, the possible risks in allowing insurers to disclaim their duty based on other policies, and the reasonable expectations of insureds. 
+We have observed that “insurers have the same rights as 
+individuals to limit their liability[] and to impose whatever conditions they please on their obligation, provided they are not in contravention of statutory inhibitions or public policy.” First Ins. Co. of Hawai' i, Inc. v. State, 66 Haw. 413, 423, 665 
+P.2d 648, 655 (1983) (internal citations and quotation marks omitted). On the other hand, however, we have long held that any ambiguities in an insurance contract regarding coverage are resolved in favor of the insured as against the insurer. See 
+Tri-S Corp. v. W. World Ins. Co., 110 Hawai' i 473, 489, 135 P.3d 
+82, 98 (2006) (explaining that ambiguities must be resolved in favor of the insured and “policies are to be construed in accord with the reasonable expectations of a layperson”); Allstate Ins. Co. v. Ponce, 105 Hawai' i 445, 458, 99 P.3d 96, 109 (2004) 
+(holding that the ambiguity in the term of the insurance contract should be resolved in favor of the insured); Estate of Doe v. 
+23
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Paul Revere Ins. Group, 86 Hawai' i 262, 277, 948 P.2d 1003, 1118 
+(1997) (stating that this court must “resolve any contractual 
+ambiguities against the insurer”); see also Allstate Ins. Co. v. Pruett, 118 Hawai' i 174, 186 P.3d 609 (2008) (applying these 
+principles in interpreting ambiguous language in an insurance contract exclusion). 
+When it comes to the duty to defend, a heavy burden is 
+placed on the insurer if that insurer wishes to disclaim its duty. To reiterate, “‘the duty to defend rests primarily on the possibility that coverage exists.’” Tri-S Corp., 110 Hawai' i at 
+488, 135 P.3d at 97 (emphasis in original) (quoting Dairy Road Partners, 92 Hawai' i at 412, 992 P.2d at 107). Furthermore, to 
+reiterate, all doubts as to a duty to defend are resolved against the insurer and in favor of the insured. Id. 
+“The contractual obligation to defend is triggered by
+ 
+the insured tendering the defense to the insurer.” 22 Appleman §
+ 136.1, at 8. If an insurer is not certain as to whether coverage
+ exists, there are several options available to that insurer. The
+ insurer may file a declaratory judgment action to determine
+ whether it is required to defend, it can defend under a non-
+waiver agreement or reservation of rights, or it can refuse to
+ defend and risk the consequences. 22 Appleman § 136.7, at 45. 
+The first of these options enables an insurer to
+ 
+establish in a court action whether it must defend. This permits
+ 
+24
+         
+        
+          
+             
+      ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+an insurer to determine coverage issues, “allowing the insurer to
+ 
+address the limits of its duty to defend without risking a later
+ finding that it acted in bad faith.” Id. at 50. However, as
+ 
+will be explained, an otherwise primary insurer may not disclaim
+ its duty to defend on the basis of a general “other insurance”
+ provision.
+7 By requiring that a primary insurer have the duty to
+ 
+defend, regardless of its “other insurance” clause, an insured
+ will be ensured a defense where he or she may be entitled to one. 
+The second option, defending under a non-waiver 
+agreement or reservation of rights, permits an insured to “satisfy its duty to defend the policyholder while simultaneously preserving its ability to rely later on any available policy defenses that might have vitiated the duty.” Id.; see AIG Hawaii 
+Ins. Co., Inc. v. Smith, 78 Hawai' i 174, 179-80, 891 P.2d 261, 
+266-67 (1995) (discussing the validity of a reservation of rights by the insurer in connection with tendering a defense). It has been explained that “[a] reservation of rights agreement is notice by the insurer to the insured that the insurer will defend the insured but that the insurer is not waiving any defenses . . . it may have under the policy.” First Ins. Co. v. Hawaii, 
+Inc. v. State, 66 Haw. at 422, 665 P.2d at 654 (internal 
+7
+ Of course, where one insurance policy explicitly contemplates the
+ 
+operation of another specifically named policy by reference, the insurer will
+not be looking outside its own policy, and therefore may look to that named
+policy in disclaiming its duty to defend.
+ 
+25
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+quotation marks and citation omitted). In the event that it is
+ 
+later determined that the insurer had no duty to defend, the
+ insurer may recoup its expenses from the insured. See 22
+ 
+Appleman § 136.7, at 46. 
+This ability of an insurer to tender a defense under a
+ 
+reservation of rights, without necessarily acceding to the notion
+ that its policy provides coverage, supports the conclusion that
+ insurers should not be permitted to look to other policies in
+ disclaiming the duty to defend. Insofar as an insurer may
+ believe that another policy provides coverage, in lieu of its
+ policy, that insurer may tender a defense under a reservation of
+ rights -- leaving open the possibility that another insurer may
+ be ultimately responsible for the costs of coverage.
+ 
+It is the third of these options -- an insurer refusing 
+to defend and risking the consequences -- that we hope to avoid in situations where the insurer would be primary, except by operation of its “other insurance” clause. Where an insured has contracted for primary insurance, an insurer should not be able to refuse to defend and place the risk on the insured, of the insurer’s erroneous understanding of another insurance policy that is not part of the original contract. Instead, all primary carriers should be involved in the initial proceedings where the complaint alleges facts within the scope of coverage. See Dairy 
+Road Partners, 92 Hawai' i at 422, 992 P.2d at 117. 
+26
+         
+         
+            ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+In Hawai' i, it has been established that insurers may 
+8
+look to the facts of the complaint  and their own policies in
+determining whether they have the duty to defend a particular
+ 
+action. 
+In Lexington’s view, insurance companies should be able
+ 
+to interpret 
+other policies as well in disclaiming the duty to
+ 
+defend. The danger in this approach, as Nautilus points out, is
+ that the insurance company may misinterpret the other policy in
+ disclaiming its duty. Of course, an insurer may misinterpret its
+ own policy, but misinterpretation may be of a greater risk where
+ the insurer is examining a contract to which it is not a party. 
+We have held that “[t]o ascertain whether coverage 
+exists in insurance coverage disputes, we must look to the language of the insurance policy consistent with the insurer and insured’s intent and expectations.” Methven-Abreu v. Hawaiian 
+Ins. & Guar. Co., 73 Haw. 385, 390, 834 P.2d 279, 283 (1992) (internal quotation marks omitted); but cf. Willis v. Swain, 129 Hawai'i 478, 485 n.12, 304 P.3d 619, 626 n.12 (2013) (“While 
+courts say they are looking for the intention of the parties, in reality they are making a judgment about the scope of coverage based on the text of the policy, the circumstances, and public policy.” (emphasis omitted) (internal quotation marks and citation omitted)). An insurer who is not a party to a 
+8
+ As explained supra, Dairy Road Partners limited the ability of
+ 
+insurers to use extrinsic facts in disclaiming their duty to defend.
+ 
+27
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+particular “other” contract may not be able to accurately
+ 
+ascertain the expectations of the insurer and insured who are the
+ actual parties to the other contract. 
+Moreover, the relationship between the insured and its 
+primary insurer with respect to the duty to defend is a personal one. See, e.g., Am. Fid. & Cas. Co. v. Penn. Thresherman & 
+Farmers’ Mut. Cas. Ins. Co., 280 F.2d 453, 459 (5th Cir. 1960) (stating that “the duty to defend is one which is personal to the relationship of [the] insurer and [the] assured”). The insured chose a particular insurer as its primary insurer, and as such, the insured has the reasonable expectation that that insurer will come to the insured’s defense where coverage is applicable. See Dairy 
+Road Partners, 92 Hawai' i at 422, 992 P.2d at 117; Commerce & Indus, 
+Ins. Co. v. Bank of Hawai' i, 73 Haw. 322, 327, 832 P.2d 733, 736 
+(1992) (“An insurer has a duty to proceed in defense of a suit, at least to the point of establishing that liability upon which plaintiff was relying was in fact not covered by the policy, and not that it merely might not be.” (internal quotation marks and citation omitted)). 
+Accordingly, where an insured has contracted for primary 
+insurance, that insured should be entitled to a defense by its insurer. See Hawaiian Holiday Macadamia Nut Co. v. Indust. Indem. 
+Co., 76 Hawai' i 166, 169, 872 P.2d 230 (1994) (holding that the 
+“insurer’s duty to defend its insured is contractual in nature”). 
+28
+          
+          
+             
+        
+           ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+In General Motors Acceptance Corp. v. Nationwide Insurance Co., 828
+ 
+N.E.2d 959 (N.Y. 2005), for example, the New York Court of Appeals
+ addressed a similar situation where there were two coincidental
+ primary insurance policies, but where one was deemed “excess” by
+ the operation of an “other insurance” clause. 828 N.E.2d at 962. 
+That court reasoned that “[p]rimary insurance premiums are based,
+ at least in part, on the insurer’s consideration that it may be
+ liable to defend an action[,]” and held that “[r]elieving primary
+ insurers of the duty to defend would provide a windfall to the
+ carrier insofar as the costs of defense -- litigation insurance -­are contemplated by, and reflected in, the premiums charged for
+ primary coverage.” Id. 
+Therefore, we hold that a primary insurer may not look to
+ 
+another insurance policy in disclaiming its duty to defend. If a
+ primary insurer is tendered a defense, and believes that it is
+ actually an excess insurer or otherwise has no duty to defend by
+ operation of its “other insurance” clause, then that primary
+ insurer must still defend in the action. This is the appropriate
+ remedy, rather than leaving the defense up to other insurers or,
+ potentially up to the insured, where the insured has contracted for
+ primary insurance coverage.
+9 The options available for a primary
+ 
+9
+ However, where an insurer holds a true excess policy, then the
+ 
+parties have bargained for excess insurance. As noted, in many of these true
+excess policies, the other applicable primary insurance is specifically
+listed, and such policies are designed to provide coverage over and above
+(continued...)
+ 
+29
+         
+            
+          
+           
+           
+              
+           
+          
+           
+            
+          ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+insurer that believes it has been rendered an excess insurer by the
+ 
+operation of its “other insurance” clause are discussed below.
+ 
+III.
+ 
+Question 2:  Whether an “other insurance” clause that
+ 
+purports to release an otherwise primary insurer of the duty to
+ defend if the insurer becomes excess as to liability is
+ enforceable.
+ 
+A.
+ 
+As to this question, the bulk of Nautilus’s arguments
+ 
+are premised on the specific provisions of Lexington’s policy,
+ rather than as addressed toward the more general question posed
+ by the Ninth Circuit to this court. Nautilus avers that
+ Lexington’s “Other Insurance” clause violated “‘the rule the
+ insurance provisions that take away or limit coverage must be
+ conspicuous, plain, and clear.’” (Quoting Carmel Dev. Co. v. RLI
+ Ins. Co., 126 Cal. App. 4th 502, 516 (2005).) It reiterates that
+ Lexington’s “Other Insurance Clause” is contingent on the outcome
+ at trial, and since Kila Kila was found not to be negligent,
+ 
+9(...continued)
+other existing primary policies. See 23 Appleman § 145.1, at 5 (“[I]n
+contrast to primary policies, a pure excess policy provides specific coverage
+above an underlying limit of primary insurance and often will refer directly
+within the excess policy declaration and policy itself to primary insurers as
+well as other excess insurers.”). In such cases, an insurer may look to other
+insurance policies in disclaiming its duty to defend in order to avoid
+needless litigation either in the form of declaratory judgment actions, or
+contribution of defense costs after the fact, where the insured did not
+bargain for primary coverage from that insurer in the first instance, as was
+explicitly considered in the contract between the insurer and insured.
+ 
+30
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Nautilus was not responsible for any loss and therefore VP & PK
+ 
+had no “other valid and collectible insurance.” Nautilus further
+ argues that Lexington’s “Other Insurance” clause should be
+ interpreted to limit indemnification only. As to “Other
+ Insurance” clauses generally, however, Nautilus does posit that
+ an “Other Insurance” clause that purports to release an otherwise
+ primary insurer of the duty to defend if the insurer becomes
+ excess as to liability should not be enforceable because it
+ “fails to give the insured adequate notice that it may not
+ receive a defense it believed it bargained for” and “blurs the
+ distinction between an insurer’s duty to defend and duty to
+ indemnify.” 
+In response, Lexington alleges that there is no public
+ 
+policy against enforcement of “other insurance” provisions, and
+ that the ICA has recognized the utility of excess “other
+ insurance” clauses in the context of uninsured motorist
+ insurance. Liberty Mut. Ins. Co, 120 Haw. at 353-354, 205 P.3d
+ 
+at 618-19. Lexington maintains that under California law,
+ federal and state courts routinely enforce excess other insurance
+ clauses in the absence of prejudice to the insured. (Citing
+ Fireman’s Fund Ins. Co. v. Md. Cas. Co., 65 Cal. App. 4th 1279,
+ 1304 (1998) (“The courts will generally honor the language of
+ excess ‘other insurance’ clauses when no prejudice to the
+ interests of the insured will ensue.”).) Lexington avers that
+ 
+31
+         
+         
+         
+        
+            ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+the insured in this case was not prejudiced by the enforcement of
+ 
+the “other insurance” clause, and was not left without a defense
+ due to the circularity of other insurance provisions. Lexington
+ also declares that the placement of its clause does not violate
+ “the rule that insurance provisions that take away or limit
+ coverage must be conspicuous, plain, and clear”, that if Nautilus
+ had refused to defend VP & PK, Lexington would have defended
+ under the terms of its policy and contrary to Nautilus’s
+ suggestion, the insured would not be left “in a lurch”. 
+In its Reply Brief, Nautilus reiterates that
+ 
+“[i]nsureds should not be left to wonder if the carriers that
+ they have been paying premium rates to may or may not come to
+ their defense because they have been added on to another policy
+ as an additional insured.” As a policy matter, Nautilus suggests
+ that “[i]f insureds are added on as additional insureds on
+ another policy, let the insureds reap the benefits, not the
+ insurance companies who have been receiving premiums to provide
+ primary coverage.” 
+B.
+ 1.
+ 
+In Liberty Mutual Insurance Co., the ICA majority
+10
+ 
+10
+ The Honorable Corinne K.A. Watanabe filed an opinion dissenting in 
+part, holding that the excess “other insurance” clause “invalidly limited
+Liberty Mutual’s [uninsured motorist] liability, as defined by Hawai 'i 
+statutes and case law, is against public policy and is, therefore void and
+(continued...)
+ 
+32
+         
+    
+  
+             
+    ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+addressed an “other insurance” clause of an insurance policy
+ 
+sharing some characteristics with the type of policy described in
+ 
+the Ninth Circuit’s certified question -- specifically, it made
+  
+the named insurer into an excess insurer if there was any other 
+collectible insurance, under certain circumstances. 120 Hawai' i 
+at 345, 349, 205 P.3d at 610, 614. The “Other Insurance” provision in Liberty Mutual’s policy stated, in part, that “
+any 
+insurance we [Liberty Mutual] provide with respect to a vehicle you [the named insured] do not own shall be excess over any other collectible insurance.” Id. at 345, 205 P.3d at 610 (emphases 
+added). Thus, as with the “Other Insurance” provision presented in this case, the Liberty Mutual provision transformed some of its apparently primary coverage into excess coverage, if there 
+was other collectible insurance available. See id.
+ 
+Rather than the duty to defend, the question in Liberty
+ 
+Mutual Insurance Co. was whether Liberty Mutual was required to
+ 
+pay for uninsured motorist benefits as a primary insurer or as an
+ 
+excess insurer. Id. at 336, 205 P.3d at 601. In addressing this
+ 
+issue, the ICA referred to policy considerations, and also
+ 
+considered the statutory scheme governing automobile insurance
+ coverage, which is not at issue in this case. The ICA majority
+ 
+10(...continued)
+unenforceable.” Liberty Mut. Ins. Co. , 120 Hawai 'i at 356, 205 P.3d at 621 
+(Watanabe, J., dissenting in part). 
+33
+         
+ 
+  
+         
+                
+             
+           ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+upheld the excess “other insurance” clause in Liberty Mutual’s
+ 
+policy, stating that “such clauses serve valid purposes, such as
+ helping to keep costs of premiums down[,]” and that “[b]y
+ allowing insurance companies to set the priority of payment
+ through excess provisions, they are better able to assess the
+ risk of providing the coverage and to charge the insured
+ accordingly.” Id. at 353, 205 P.3d at 619.
+ 
+2.
+ 
+This case presents a different question, however, in
+ 
+that Liberty Mutual Insurance Co. considered an excess “other
+ insurance” clause in the context of the duty to indemnify -- and
+ here we consider the validity of that type of provision when it
+ 
+11
+ allows the insurer to escape or become excess  as to the duty to
+defend
+ where the insurer is excess as to liability. In the
+ 
+discussion supra, it was explained how the duty to defend is broader than the duty to indemnify, Hart, 126 Hawai' i at 458, 272 
+P.3d at 1225, and in accordance with that axiom, Nautilus urges us to make unenforceable any clauses relieving the primary insurer of the duty to defend if the insurer becomes excess as to 
+liability. 
+11
+ Lexington avers that the operation of its “other insurance” clause
+ 
+makes it only excess as to the duty to defend, and does not allow it to escape
+the duty to defend entirely when it becomes excess as to liability. Both
+ 
+situations are addressed herein, and the same result would apply in either
+situation.
+ 
+34
+         
+  ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+However, in light of our holding as to the first
+ 
+certified question, we conclude that we need not render those
+ 
+clauses completely unenforceable. Instead, we simply reiterate
+ that a primary insurer has the initial duty to defend, regardless
+ of any “other insurance” provision purporting to relieve that
+ insurer of the duty to defend if it is deemed excess as to
+ liability, but that an insurer may enforce such an “other
+ insurance” clause when obtaining equitable contribution or
+ reimbursement for defense costs where it believes that it has
+ been made excess by operation of an “other insurance” clause.
+ 
+This result is consistent with the expectations of the 
+insured, specifically that where the insured is paying for primary insurance, it will be defended where there is a possibility of coverage. See Dairy Road Partners, 92 Hawai' i at 
+412, 992 P.3d at 107. The insured will not be “left in a lurch,” as Nautilus avers, because the primary insurer, regardless of its “other insurance” clause, will have a responsibility to defend. Moreover, while such clauses may not be used to allow an otherwise primary insurer to refuse to tender a defense altogether, they will be enforced to achieve an equitable result between two or more insurance companies, an approach that allows the terms of the contract to take effect, without placing an 
+undue burden on the insured. Cf. Sentinel Ins. Co., 76 Hawai' i 
+at 302, 875 P.2d at 919 (holding that under the circumstances of 
+35
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+the case, “[e]quity . . . dictates that the court allocate
+ 
+contribution among liable insurers in proportion to the time
+ periods their policies covered”).
+ 
+We note that some courts have held that if a primary
+ 
+insurer undertakes the insured’s defense, it may not seek
+ reimbursement from another primary insurer, on the grounds that
+ there is no contractual relationship between the two insurers and
+ that the defending insurer was undertaking duties consistent with
+ its contract with the insured. 22 Appleman § 136.10 at 80-81;
+ see, e.g., Jostens, Inc. v. Mission Ins. Co., 387 N.W.2d 161, 166
+ (Minn. 1986) (“This court has held that when there is a bona fide
+ dispute between two carriers with overlapping coverages as to
+ which is primary, whichever undertakes to defend cannot pass on
+ its defense expense to the other carrier.”). However, we
+ conclude that the better approach is to allow one insurer to
+ obtain contribution from another co-insurer that is also
+ contractually obligated to defend the insured. See Nat’l Indem.
+ 
+Co. v. St. Paul Ins. Co., 724 P.2d 544, 544-45 (Ariz. 1986)
+ (“When an insurer has a duty to defend the insured, there should
+ be no reward to the insurer for breaching that duty. A breach of
+ the obligation to defend should not be encouraged, but the rule
+ which allows an insurer to avoid the costs of defense tends to
+ encourage an avoidance of the insurer’s responsibilities.”). 
+This contribution or reimbursement shall be in accordance with
+ 
+36
+         
+  
+         
+           
+         
+           
+ ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+all contract terms, including those purporting to make one
+ 
+insurer excess to the other where “other insurance” is
+ available.
+12
+ 
+As to the Ninth Circuit’s second certified question, we
+ 
+therefore answer “yes”, but conditionally. “Other insurance”
+ clauses purporting to relieve the insurer of the duty to defend
+ if the insurer becomes excess as to liability are enforceable,
+ but only in an action between two or more insurers for recovery
+ of defense costs.
+ 
+IV.
+ 
+Question 3: Whether the irreconcilability of “other
+ 
+insurance” provisions in otherwise primary insurance policies
+ should be determined before or after the operation of the “other
+ insurance” provisions is determined.
+ 
+The “irreconcilability” referenced by the Ninth Circuit
+ 
+in this question is the concept, mentioned above, that “other
+ insurance” provisions may become irreconcilable, or mutually
+ repugnant, where identical clauses are presented in two primary
+ liability policies. “When both policies contain ‘other
+ insurance’ clauses which provide that the coverage afforded shall
+ be deemed excess insurance if other insurance exists to cover the
+ 
+12
+ As will be discussed infra, where both primary insurers have
+ 
+“other insurance” clauses purporting to relieve them of the duty to defend,
+such clauses are irreconcilable, or “mutually repugnant” and therefore will
+ not be enforced, leaving both insurers as primary insurers for purposes of
+cost allocation.
+ 
+37
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+loss, most courts hold that the excess clauses operate to cancel
+ 
+each other out and the policies of both insurers must be
+ considered primary insurance.” Ostrager & Newman, 2 Handbook on
+ Insurance Coverage Disputes § 11.03, at 1001. 
+A.
+ 
+Nautilus argues that it should be first determined
+ 
+whether the two policies insured against the same risk at the
+ same level of coverage, then determine whether or not the two
+ policies conflict, and only then determine the operation of the
+ “Other Insurance” provisions. According to Nautilus, the two
+ policies in this case did not insure against the same risk at the
+ same level of coverage, and so there was no need to determine
+ whether the policies conflict. Nautilus further alleges that,
+ even assuming that the two policies did provide the same level of
+ coverage, the policies contain almost identical “other insurance”
+ language and therefore are irreconcilable. Finally, Nautilus
+ contends that the operation of the “other insurance” provisions
+ should be determined last because until it has been determined
+ that there is a “loss”, which is typically determined at the end
+ of the underlying lawsuit, it is not necessary to determine the
+ operation of the “other insurance” provisions. 
+Lexington responds that a court should first determine
+ 
+whether “other insurance” provisions in two policies actually
+ conflict. In Lexington’s view, “[t]he rule of repugnancy should
+ 
+38
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+only apply if there is an actual conflict between the two “other
+ 
+insurance” clauses,” and here, there was no such conflict. 
+(Citation omitted.) (Emphasis in original.) Contrary to
+ Nautilus’s argument, Lexington maintains that there is no need to
+ decide whether there is the same level of coverage or level of
+ risk between the two policies, because the duty to defend does
+ not require this determination. Instead, Lexington notes,
+ “‘other insurance’ provisions must be reviewed at the inception
+ of litigation,” because “[i]f there is a covered claim . . . 
+then there is a duty to defend; but then where there are multiple
+ insurers, then the policy language, the contractual language,
+ must be reviewed and analyzed to determine if there is a priority
+ or primary in that defense.” 
+B.
+ 
+As noted, the majority view is that “other insurance” 
+policies that are irreconcilable, or “mutually repugnant” will negate each other, and neither will be enforced. See Liberty 
+Mut. Ins. Co., 120 Hawai' i at 354, n.23, 205 P.3d at 619 n.23 
+(explaining, but not applying, this concept). The underlying proposition is that where both policies have identical “other insurance” provisions which provide that the coverage afforded will be deemed excess insurance if other insurance exists to cover the loss (or tender a defense), these excess clauses operate to “cancel each other out”, and the policies of both 
+39
+         
+         
+          
+           ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+insurers must be considered primary insurance. See, e.g., CSE
+ 
+Ins. Grp. v. Northbrook Prop. & Cas. Co., 23 Cal. App. 4th 1839
+ 
+(1994); Empire Cas. Co. v. St. Paul Fire & Marine Ins. Co., 764
+ P.2d 1191, 1199 (Colo. 1998); Universal Underwriters Ins. Co. v.
+ Allstate Ins. Co., 592 A.2d 515, 517 (N.H. 1991). Put another
+ way, if each excess clause was given effect, neither policy would
+ provide primary coverage.
+13 See, e.g., Fed. Ins. Co. v. Atl.
+ 
+Nat’l Ins. Co., 250 N.E.2d 193 (N.Y. 1969).
+ 
+Setting the issue of irreconcilability aside
+ 
+temporarily, we note that although both policies in this case
+ contain an “other insurance clause,” by their operation the
+ clauses do not create a scenario in which the two policies would
+ “cancel each other out” and neither would provide primary
+ coverage. Only Lexington’s “other insurance” provision could
+ potentially take effect in this case, because VP & PK was added
+ as an “additional insured” onto Nautilus’s policy. By contrast,
+ the “other insurance” provision in Nautilus’s policy would not
+ have taken effect because Kila Kila was not an “additional
+ insured” on Lexington’s policy. By adding VP & PK as an
+ “additional insured” under certain circumstances, Nautlilus
+ understood that it may have had to provide coverage for VP & PK. 
+13
+ This same reasoning applies where two or more primary policies
+ 
+contain “escape” clauses, which, if both were enforced, would deprive the
+insured of all coverage. See 22 Appleman § 140.3, at 399.
+ 
+40
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Presumably this consideration was taken into account as part of
+ 
+the premiums that Nautilus charged to Kila Kila. 
+These circumstances are distinguishable from the
+ 
+situation argued by Nautilus in its briefs. A more typical
+ situation arises where there is one insured and two insurance
+ companies, and both insurance companies are deemed excess by
+ operation of the “other insurance” provisions, thereby leaving
+ the insured with no primary insurance. Here, instead, VP & PK
+ will either be covered by Nautilus as a primary insurer, because
+ it is listed as an “additional insured” on Nautilus’s policy, or,
+ the “additional insured” provision will not come into play, so VP
+ & PK will not be covered by Nautilus, and therefore, the “other
+ insurance” provision in Lexington’s policy will not be triggered,
+ and Lexington will remain the primary insurer. 
+Where it is possible to avoid a finding of “mutual
+ 
+repugnance” altogether, therefore, it should be determined from
+ the face of the two policies, and the allegations in the
+ complaint, whether such allegedly “mutually repugnant” clauses
+ are actually relevant before both clauses are deemed inoperable. 
+For example, it has been explained that “[w]hen only one of two
+ policies co-insuring the same loss contains an ‘other insurance”
+ clause, courts generally will give effect to the ‘other
+ insurance’ provision (if it is not contrary to statute or public
+ policy).” Ostrager & Newman, 2 Handbook on Insurance Coverage
+ 
+41
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Disputes § 11.03[b], at 999. This rule seeks to effectuate the
+ 
+intent of the insurers and avoid cancelling out contract terms
+ that need not be voided. Similarly, when only one of the “other
+ insurance” clauses in two or more policies would be relevant in a
+ given case based on the terms of the clause and the allegations
+ in the underlying case, the clause that does become operational
+ should be given effect.
+ 
+This is not to say, however, that the full operation of
+ 
+the clauses must be determined before irreconcilability may be
+ considered. For example, here, there is a dispute about whether
+ VP & PK was actually covered as an “additional insured” under
+ Nautilus’s policy, based on the issue of Kila Kila’s negligence,
+ which was resolved only in the underlying trial. A court looking
+ at the insurance contracts at any time prior to the conclusion in
+ the underlying litigation would not necessarily be able to
+ ascertain whether Lexington’s “other insurance” would actually
+ become fully operational. However, in this case one would be
+ able to determine whether the clauses would even be relevant by
+ looking at the face of the contracts and the allegations of the
+ complaint. Lexington’s clause is relevant and Nautilus’s is not. 
+Based on this preliminary determination, there would be no need
+ to consider irreconcilability or mutual repugnance.
+ 
+By determining whether an “other insurance” clause is
+ 
+triggered first, a court may be able to avoid irreconcilability
+ 
+42
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+or mutual repugnance, such as in this case, and better effectuate 
+the contract language. This is consistent with the principle that “[i]nsurance policies are subject to the general rules of contract construction,” and thus, “the court must . . . respect the plain terms of the policy and not create ambiguity where none exists.” First Ins. Co. of Hawai' i, Inc., 66 Haw. at 423-24, 665 
+P.2d at 655 (alteration in original) (internal brackets, citations, and quotation marks omitted). We hold, therefore, that it must first be determined whether two or more “other insurance” provisions are relevant, based on the face of the policies and the complaint, and only then must it be decided whether the provisions are irreconcilable. The complete operation of the “other insurance” clauses may be resolved thereafter. 
+V.
+ 
+Question 4: Whether, and when, an excess insurer, or
+ 
+otherwise primary insurer who becomes an excess insurer by
+ operation of an “other insurance” clause, has a duty to defend. 
+A.
+ 1.
+ 
+As to this question, as noted before, Nautilus avers
+ 
+that a primary insurer who becomes an excess insurer by operation
+ of an “Other Insurance” clause has the duty to defend its insured
+ because “the duty to defend is one which is personal to the
+ 
+43
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+relationship of [the] insurer and [the insured].” Nautilus
+ 
+analogizes the facts to those of American Fidelity & Casualty
+ Co., where, according to Nautilus, two individuals, Clay and
+ Britt, were covered by two different insurers. (Citing 280 F.2d
+ at 455.) “American” was Clay’s primary insurer and
+ “Pennsylvania” was Britt’s primary insurer. (Citing id.) 
+American brought an action seeking a declaration that it did not
+ have a duty to defend Clay, because Clay was an additional
+ insured under the insurance policy between Britt and
+ Pennsylvania. (Citing id. at 457.) 
+American’s argument was based on the “other insurance”
+ 
+clause in its policy, which American alleged rendered its policy
+ excess and Pennsylvania’s primary, thus relieving American of any
+ duty to defend Clay until Pennslyvania had exhausted its policy
+ limitations in doing so. (Citing id. at 456-57, 456 n.4.) 
+Nautilus refers to the Fifth Circuit’s holding stating that
+ American was incorrect in believing that based on the “other
+ insurance” clause, “‘it was merely an ‘excess’ insurer, its duty
+ to defend, like the obligation to pay, was excess also.’” 
+(Quoting id. at 458.) The Fifth Circuit concluded that “‘there
+ can be no possible basis for American’s denial of its contractual
+ duty of defense.’” (Quoting id. at 457.)
+ 
+Thus, Nautilus maintains that Lexington is still
+ 
+required to defend VP & PK even if it were excess as to its
+ 
+44
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+defense obligations. In support of this contention, Nautilus
+ 
+cites to Southern Farm Bureau Casualty Insurance Co. v. Allstate
+ Insurance Co., 150 F. Supp. 216 (W.D. Ark. 1957), for the
+ proposition that even where the insured’s primary insurer was
+ excess to another insurer for damages, it still had the duty to
+ defend the named insured, and to State Farm Mutual Automobile
+ Insurance Co. v. Foundation Reserve Insurance Co., 431 P.2d 737,
+ 741 (N.M. 1967), which held that even though Allstate’s insurance
+ was excess, that did not relieve it of its duty to defend. In
+ Nautilus’s view, the better rule is to require a primary insurer
+ who finds itself in an excess position because of an “other
+ insurance” clause to defend its named insured, because this rule
+ would “benefit an insured who paid for primary coverage and
+ expected primary coverage,” closing loopholes that would allow an
+ insurance company to “shirk its responsibility.” 
+If the rule were otherwise, Nautilus points to the
+ 
+possibility for oscillating coverage in this case, where
+ Lexington looked at Nautilus’s policy and concluded it was excess
+ and therefore did not owe a duty to defend, but where because at
+ trial Kila Kila was found not negligent, Nautilus’s policy then
+ became inapplicable to VP & PK, making Lexington VP & PK’s
+ primary insurer again. Nautilus concludes that because there is
+ only a possibility that a primary insurer may become excess, that 
+45
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+insurer has the duty to defend regardless of what the “other
+ 
+insurance” clause may state.
+ 
+2.
+ 
+Lexington answers that by operation of its “other
+ 
+insurance” clause, it did not have a duty to defend unless and
+ until Nautilus had exhausted its coverage, or unless Nautilus
+ refused to defend. Lexington avers that despite Nautilus’s
+ allegations about the expectations the insured, here it is
+ undisputed that VP & PK never tendered its claim to Lexington,
+ but instead directly to Nautilus, “who VP & PK must have assumed
+ would provide them a defense.” Lexington states that it is “not
+ asserting that it had no duty to defend, but rather by its policy
+ terms, [its] duty to defend was excess to Nautilus’s duty under
+ [both insurance companies’] policy language.” 
+According to Lexington, some courts hold to the
+ 
+contrary of the Fifth Circuit’s decision in American & Casualty
+ Co., with respect to the respective duties that subsist among one
+ or more otherwise primary liability insurers. Lexington
+ maintains that the better approach is to “follow those courts
+ that give effect to or reconcile competing clauses dealing with
+ the existence of other insurance, at least where the insured is
+ being provided a defense by one or more of its carriers.” In
+ connection with this proposal, Lexington cites to United States
+ Fidelity & Guaranty Co. v. Federated Rural Electric Insurance
+ 
+46
+         
+        
+            
+            
+             
+            
+      ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Corp., 37 P.3d 828 (Okla. 2001), for the proposition that
+ 
+“‘[W]here an insured has both primary and excess liability
+ insurance, the excess insurer is not responsible to participate
+ in the costs of defense until after the limits of the primary
+ policy are exhausted[,]’” (quoting U.S. Fid. & Guar. Co., 37 P.3d
+ at 832-33), and to Western Casualty & Surety Co. v. Western World
+ Insurance Co., 769 F.2d 381 (7th Cir. 1985), for the view that
+ “‘when one policy is primary and the other is excess, only the
+ primary insurer need defend claims below the limits of the
+ primary policy.” (Quoting W. Cas. & Sur. Co., 769 F.2d at
+ 385).)
+14
+ 
+Finally, Lexington asserts that its approach is
+ 
+consistent with the insurance law principles of “(1) honoring
+ insurers’ rights to limit their liability and impose whatever
+ conditions they please on their obligation, provided they are not
+ in contravention of statutory inhibitions or public policy; and
+ (2) that every insurance contract shall be construed according to
+ the entirety of its terms and conditions as set forth in the
+ policy.” Lexington also points out that there is no prejudice to 
+14
+ Lexington also cites Liberty Mutual Insurance Co. v. Pacific
+ 
+Indemnity Co. , 579 F. Supp. 140, 145 (W.D. Pa. 1984), Continental Casualty Co.
+v. Pacific Indemnity Co. , 134 Cal. App. 3d 389 (1982), Hartford Accident &
+Indemnity Co. v. Ryder Truck Rental, Inc. , 85 A.D.2d 145, 447 (N.Y. App. Div.
+1982), and U.S. Fire Insurance Co. v. United Service Auto Ass’n , 772 S.W.2d
+218, 220 (Tex. Ct. App. 1989).
+ 
+47
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+the insured, apparently under terms such as those at issue in
+ 
+this case, “because it must be and will be defended.” 
+3.
+ 
+Nautilus replies that the cases cited by Lexington in
+ 
+support of its position are not applicable to this case. 
+Nautilus argues that United States Fiduciary & Guarantee Co.
+ dealt with a true excess carrier, not one who becomes excess
+ through an “other insurance” provision, and that similarly,
+ Pacific Indemnity Co. dealt with “true excess” insurers. 
+Additionally, it states that Continental Casualty Co., Hartford
+ Accident & Indemnity Co., and U.S. Fire Insurance Co. do not
+ involve an additional insured issue. 
+With respect to the Seventh Circuit’s decision in
+ 
+Western Casualty & Sururety Co., Nautilus maintains that that
+ case supports its position that Lexington owed a duty to defend. 
+According to Nautilus, Western Casualty & Sururety Co. held that
+ “‘when a case is settled the claims of the two insurers must be
+ resolved according to the terms of the excess clauses.’” 
+(Quoting W. Cas. & Sur. Co., 769 F.2d at 385.) Nautilus points
+ out the hypothetical Western Casualty & Sururety Co., regarding
+ the possible outcome had that case gone to trial, and “the
+ judgment revealed” that the first primary insurer did not cover
+ the “loss”, then that court may have allowed that primary insurer
+ to recover from a second primary insurer who had been deemed
+ 
+48
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+excess because there was other primary insurance covering the
+ 
+“loss”. (Citing id. at 386.) Nautilus says that it, like the
+ first primary insurer in the hypothetical, did not cover the
+ “loss” and therefore Nautilus should be able to recover the costs
+ of defense from Lexington. 
+B.
+ In response to this certified question, we hold that 
+an otherwise primary insurer who becomes an excess insurer by operation of an “other insurance” clause owes the duty to defend from the time the defense is tendered. “[T]he duty to defend must be determined when the claim is initially asserted.” Hart, 
+126 Hawai' i at 458, 272 P.3d at 1225 (internal quotation marks 
+and citation omitted). 
+1.
+ 
+Our disposition as to the first question essentially
+ 
+resolves this question as well -- because we hold that primary
+ insurers who could allegedly become excess insurers by operation
+ of an “other insurance” clause are not permitted to look to other
+ policies when determining whether they have a duty to defend. 
+Therefore, the duty to defend will arise as if they are the
+ primary insurers, inasmuch as they have not yet been deemed an
+ “excess insurer” by operation of the “other insurance” provision. 
+Pursuant to our holding herein, only if an otherwise primary
+ insurer is deemed an “excess insurer” in an action seeking
+ 
+49
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+contribution or reimbursement of defense costs may that insurer
+ 
+look to the operation of an “other insurance” clause making it
+ excess.
+ 
+As to question 2, we held that “other insurance”
+ 
+clauses purporting to release an otherwise primary insurer of its
+ duty to defend if it becomes excess as to liability are
+ enforceable in certain circumstances. However, the question of
+ liability cannot be determined until after the conclusion of
+ litigation (or sometimes at all, in the event that the case
+ settles). “[A]n insurer’s ultimate non-liability should not free
+ it from its concurrent and distinct contractual duty to defend.” 
+Id. (internal quotation marks and citation omitted). Therefore,
+ the duty to defend may not be disclaimed by an otherwise primary
+ insurance carrier during the proceedings on the basis of a clause
+ purporting to make that insurer excess.
+ 
+The instant case illustrates the problem with allowing
+ 
+an insurer to disclaim the duty to defend at any time before the
+ conclusion of the litigation based on such a clause. For
+ example, the underlying litigation has been concluded in this
+ case, and it does not appear that Lexington can actually be
+ deemed an “excess insurer”. As explained supra, Lexington can
+ only be an excess insurer if VP & PK is covered by another
+ policy. VP & PK is covered by Nautilus’s policy only for
+ occurrences arising out of Kila Kila’s negligence. Kila Kila was
+ 
+50
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+found not to be negligent in the underlying litigation. Hence,
+ 
+the additional insured coverage of VP & PK in Nautilus’s policy
+ was not operable, and, accordingly, Lexington’s “other insurance”
+ policy was also not operable. It would appear to answer the
+ question presented, that Lexington, therefore, is the primary
+ insurer, and Nautilus should be able to recover defense costs in
+ full from Lexington. None of this could necessarily have been
+ determined before the close of litigation, however, since VP &
+ PK’s indemnity coverage was dependent upon a particular finding. 
+As explained supra, our case law holds that the duty to 
+defense arises where there is a mere possibility of coverage. See Dairy Road Partners, 92 Hawai' i at 413, 992 P.2d at 108. 
+Extrapolating from this principle, we conclude that where it cannot be determined whether an otherwise primary insurer becomes an excess insurer until the conclusion of the underlying litigation, that an otherwise primary insurer has the duty to defend, from the time it receives tender of the defense. In the Seventh Circuit decision cited by parties’ briefs, Western Casualty & Surety Co., that court stated that “[t]he state [of Illinois] seeks to encourage all carriers to participate in the initial proceedings, and as the state courts have found, it is a bad idea to inform insurance carriers that whichever is the least faithful to its obligation to the insured will escape all liability as long as a responsible carrier covers the loss.” 769 
+51
+         
+ 
+            
+              
+              
+             ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+F.2d at 383. We agree that all carriers must be encouraged to
+ 
+participate in initial proceedings, and our holding as to these
+ questions is intended to mandate otherwise primary insurers to
+ defend and avoid uncertainty on the part of insureds as to who
+ will in fact provide his, her, or its defense.
+ 
+2.
+ 
+We turn briefly to the cases cited by the parties in
+ 
+support of their respective positions. In American Fiduciary &
+ Casualty Co., cited by Nautilus, the Fifth Circuit appears to
+ have reached the same conclusion that we reach herein, namely
+ that where the insurance coverage of an otherwise primary insurer
+ would become excess over other “valid and collectible insurance”
+ by operation of an “other insurance” clause, that primary insurer
+ must undertake the defense. 280 F.2d at 457. The Fifth Circuit
+ explained that the duty to defend is one which is personal to the
+ relationship of the insurer and the insured -- and as such,
+ “[w]hatever may be the right ultimately to saddle off a part of
+ the cost of defense actually undertaken once payment has been
+ made, . . . it is contrary to the very nature of the contract
+ that the insurer can scout around in hopes that it can find
+ someone whose defense the [insured] is compelled to accept.”
+15
+ 
+15
+ The Fifth Circuit does also appear to rely, in part, on the fact
+ 
+that the “other insurance” clause at issue in that case did not refer to the
+ 
+duty to defend. American Fiduciary & Casualty Co. , 280 F.2d at 459. As
+ 
+quoted supra, the “other insurance” clause in this case does refer to the duty
+(continued...)
+ 
+52
+         
+         
+              
+   ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Id. at 459-60 (emphasis added).
+ 
+Lexington does not appear to dispute the holding of
+ 
+American Fiduciary & Casualty Co., but instead sets forth case
+ 
+law from other jurisdictions in support of a different approach. 
+In U.S. Fiduciary & Guarantee Co., the Oklahoma Supreme Court
+ held that an excess insurer has no duty to participate in defense
+ costs. 37 P.3d at 830. In that case, however, one of the
+ insurance companies involved was a primary insurer and one was a
+ true excess insurer, and thus it is not relevant in deciding this
+ certified question. Id. In Pacific Indemnity Co., the Western
+ 
+District of Pennsylvania held that two insurance policies
+ covering the same risk both contained competing excess clauses,
+ and therefore neither clause was given effect and the two
+ insurers stood on equal ground. 579 F. Supp. at 143. The costs
+ of the defense were then pro-rated in proportion with the policy
+ limits of the primary policies. Id. at 144. Thus, Pacific
+ 
+Indemnity Co. also appears not to support Lexington’s position
+ because the two competing “other insurance” clauses were deemed
+ irreconcilable and not given effect. Id. at 143. 
+In Continental Casualty Co., the California Court of
+ 
+Appeal addressed a dispute between two insurance carriers over
+ 
+15(...continued)
+to defend. However, the Fifth Circuit’s reasoning remains persuasive
+regardless of the presence or absence of a reference to the duty to defend in
+the “other insurance” clause.
+ 
+53
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+their respective liability for settlement of a malpractice case. 
+134 Cal. App. 3d at 393. That court construed the two “other
+ insurance” clauses in the policies, where the issue was
+ “conflicting excess insurance coverage[,]” id. at 397, and
+ accordingly concluded that it could “see no justification for
+ choosing one policy over the other as being primarily liable for
+ the excess liability.” Id. Continental Casualty Co. thus
+ 
+allocated liability where there were irreconcilable clauses,
+ unlike this case, where the issue is defense costs. 
+Hartford Accident & Indemnity Co. is also inapposite,
+ 
+in that it appears to rest its holding on the fact that the
+ action involved an accident with a lessee driver, where one
+ insurer was the lessor’s insurer and one insurer was the driver’s
+ insurer. 85 A.D.2d at 147 (“There is no reason why the insurer
+ of a lessor should not be required to defend against an accident
+ of a lessee driver even when the driver has his own separate
+ insurance coverage.”). In U.S. Fire Insurance Co., moreover, it
+ was “undisputed and uncontested” by one of the insurers that if
+ both insurers’ automobile liability policies provided coverage,
+ then under Texas law, its policy would be the primary policy and
+ the other one would be the excess policy. 772 S.W.2d at 222. 
+Thus, the primary/excess issue had already been resolved by
+ operation of Texas law, id., and as such, U.S. Fire Insurance Co.
+ is not on point.
+ 
+54
+         
+   ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+In the Seventh Circuit’s decision in Western Casualty &
+ 
+Surety Co., one otherwise primary insurer was deemed excess based
+ 
+on a provision in its policy deeming it excess if the insured had
+ “other insurance insuring against a loss covered by this policy.” 
+769 F.2d at 383-84 (emphasis added). That court’s holding
+ appears to be based on the fact that the case settled, and
+ therefore there was an established “loss” that would make one of
+ the insurers excess. Id. at 384. It stated that “when a case is
+ 
+settled the claims of the two insurers must be resolved according
+ to the terms of the excess clauses[.]” Id. at 385. Although the
+ 
+Seventh Circuit did explain that “when one policy is primary and
+ the other is excess, only the primary insurer need defend claims
+ below the limits of the primary policy[,]” this statement was in
+ a context where one insurer sought compensation from the other
+ for the costs of litigating and settling the suit. Id. at 383,
+ 
+385. 
+In sum, none of the cases cited by Lexington evince
+ 
+policy rationales that would support an approach different from
+ the one we take in responding to the Ninth Circuit’s certified
+ 
+questions. We therefore hold that the duty to defend arises at
+ 
+the outset of the litigation for an otherwise primary insurer who
+ 
+could become an excess insurer by operation of an “other
+ insurance clause.”
+ 
+55
+         
+ ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+VI.
+ 
+Based on the foregoing, we answer the certified
+ 
+questions as follows:
+ 
+1. Whether an insurer may look to another insurer’s policy
+ 
+in order to disclaim the duty to defend, where the complaint in
+ 
+the underlying lawsuit alleges facts within coverage.
+ 
+Unless another insurer’s policy is specifically named
+ 
+in the first insurer’s policy, an insurer may not look to another
+ 
+insurer’s policy in order to disclaim the duty to defend, where
+ the complaint in the underlying lawsuit alleges facts within
+ coverage.
+ 
+2. Whether an “other insurance” clause that purports to
+ 
+release an otherwise primary insurer of the duty to defend if the
+ 
+insurer becomes excess as to liability is enforceable.
+ 
+An “other insurance” clause purporting to release an
+ 
+otherwise primary insurer of the duty to defend if the insurer
+ 
+becomes excess as to liability is enforceable, but only as
+ between two or more insurers seeking to allocate or recover
+ defense costs.
+ 
+3. Whether the irreconcilability of “other insurance”
+ 
+provisions in otherwise primary insurance policies should be 
+56
+         
+  ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+determined before or after the operation of the “other insurance”
+ 
+provisions is determined.
+ 
+The relevance of the “other insurance” provisions
+ 
+should be determined from the face of the policies and the
+ 
+allegations in the complaint first. Then, it can be decided
+ whether the relevant “other insurance” provisions are
+ 
+irreconcilable or “mutually repugnant.” If the provisions are
+ 
+reconcilable, the operation of the “other insurance” provisions
+ 
+may then be considered.
+ 
+4. Whether, and when, an excess insurer, or an otherwise
+ 
+primary insurer who becomes an excess insurer by operation of an
+ 
+“other insurance” clause, has a duty to defend.
+ 
+An otherwise primary insurer who becomes an excess
+ 
+insurer by operation of an “other insurance” clause has a duty to
+ 
+defend as soon as a claim is tendered to it and there is the mere
+ possibility that coverage of that claim exists under its policy.
+ 
+Roy F. Hughes and
+Charlene Tran Murata,
+for plaintiff-appellant /s/ Mark E. Recktenwald
+ /s/ Paula A. Nakayama
+ 
+Randall Y. Yamamoto and
+Christine E. Savage,
+for defendant-appellee
+ /s/ Simeon R. Acoba, Jr.
+ /s/ Sabrina S. McKenna
+ /s/ Richard W. Pollack
+ 
+57
+ 

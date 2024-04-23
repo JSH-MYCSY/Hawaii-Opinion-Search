@@ -1,0 +1,527 @@
+NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+NO. CAAP-19-0000563
+IN THE INTERMEDIATE COURT OF APPEALS
+OF THE STATE OF HAWAI# I
+STATE OF HAWAI#I, Plaintiff-Appellant, v.
+DANIEL IRVING JAMES MANION, Defendant-Appellee
+APPEAL FROM THE DISTRICT COURT OF THE FIRST CIRCUIT
+HONOLULU DIVISION
+(CASE NO. 1DTA-19-00266)
+MEMORANDUM OPINION
+(By: Chan, Presiding Judge, and Hiraoka and Wadsworth, JJ.)
+Plaintiff-Appellant State of Hawai#i (State) appeals
+from the July 10, 2019 Notice of Entry of Judgment and/or Order
+and Plea/Judgment ( Interlocutory Order), and the August 23, 2019
+Findings of Fact, Conclusions of Law, and Order Granting in Part
+and Denying in Part Defendant's Motion to Suppress Statements
+(Suppression Order ), both entered in the District Court of the
+First Circuit, Honolulu Division (District Court).   The State
+contends that the District Court erred by granting in part
+Defendant-Appellee Daniel Irving James Manion's (Manion ) motion
+to suppress statements, arguing that Manion was not in custody or
+seized until after he took a Standard Field Sobriety Test ( SFST
+or FST) and was arrested for Operating a Vehicle Under the
+Influence of an Intoxicant ( OVUII), in violation of Hawaii1/
+1/The Honorable Summer Kupau-Odo presided.  It appears that the
+Interlocutory Order is not appealable because it does not reference the
+District Court's ruling on the motion to suppress statements.  See Hawai #i
+Rules of Appellate Procedure ( HRAP) Rule 4(b)(1).  In its Statement of
+Jurisdiction, the State clarifies its intent to appeal from the Suppression
+Order, which is appealable.    NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+Revised Statutes (HRS ) § 291E-61(a)(1) (Supp. 2018).   Thus, the
+State argues that various statements made by Manion, and Manion's
+performance on the SFST, should not have been suppressed.  The
+State also challenges Conclusions of Law ( COLs) Nos. 8, 10
+through 15, 17, and 18 of the Suppression Order.  2/
+Upon careful review of the record and the briefs
+submitted by the parties and having given due consideration to
+the arguments advanced and the issues raised by the parties, as
+well as the relevant statutory and case law, we resolve the
+State's contentions as follows. 
+I.  BACKGROUND
+On January 4, 2019, at about 4:40 a.m., Honolulu Police
+Department ( HPD) Officer Corey Morgan received a report of a
+motor vehicle collision in the Kalama Valley area at Kealahou
+Street and Kipukai Place.  When Officer Morgan arrived at the
+scene, he observed a white Hyundai with extensive front end
+damage.  Manion was sitting in the driver's seat.  While
+approaching the driver's window, Officer Morgan also observed a
+vehicle fluid trail leading up to the Hyundai, from the scene
+where a parked vehicle had been struck.  Officer Morgan first
+asked Manion "if he was injured, if he was okay," and then asked
+him where he was coming from.  Manion told Officer Morgan "he had
+a rough day and that he was at Sandy's prior to the incident and
+he did have an alcoholic beverage."  Officer Morgan thought
+Manion said it was "a 40-ounce, a 40" and that "the accident
+wasn't a result of his drinking but him texting while driving." 
+While talking to Manion, Officer Morgan detected a strong odor of
+alcohol coming from Manion's vehicle and observed him with red
+and watery eyes.  Officer Morgan asked Manion for his driver's
+2/HRS § 291E-61(a) states, in relevant part:
+Operating a vehicle under the influence of an
+intoxicant .  (a)  A person commits the offense of operating
+a vehicle under the influence of an intoxicant if the person
+operates or assumes actual physical control of a vehicle:
+(1) While under the influence of alcohol in an
+amount sufficient to impair the person's normal
+mental faculties or ability to care for the
+person and guard against casualty[.]
+2NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+license, registration, and insurance, and Manion produced those
+documents.  Officer Morgan then asked Manion if he would be
+willing to participate in the SFST.  Manion agreed.  
+Prior to administering the SFST, Officer Morgan asked
+Manion several questions, which are known as medical rule-out
+questions.  Officer Morgan asked Manion whether he had any
+physical defects; whether he was taking any medication; whether
+he was under the care of a doctor, eye doctor, or dentist;
+whether he had an artificial or glass eye; whether he was
+epileptic or diabetic; whether he was blind in either eye; and
+whether he wore corrective lenses.  Manion answered no to all of
+the questions. 
+The SFST consists of three tests and prior to
+administering them, Officer Morgan gave Manion instructions on
+how to perform the tests, asked him if he understood the
+instructions, and asked him if he had any questions.  Officer
+Morgan told Manion that he would be judged on how well he
+followed the instructions.  Manion was not advised of his Miranda
+rights that night.   When the SFST was performed, Officer Morgan
+saw signs of impairment on all three tests, and Manion was
+offered the option of a preliminary alcohol screening. 3/
+HPD Officer Landon Miyamura ( Officer Miyamura ) arrived
+at the scene of the collision at about 5:00 a.m.  Officer
+Miyamura offered Manion the preliminary alcohol screening. 
+Following the screening, Manion was arrested for OVUII and
+transported to the main station, where Officer Miyamura
+administered an Intoxilyzer test to Manion.  The Intoxilyzer test
+result indicated Manion's blood alcohol content.  After
+administering the test, Officer Miyamura showed Manion the
+Intoxilyzer result and told him "this is your result[.]" 
+According to Officer Miyamura, Manion responded:  "[T]hat's
+impossible, I only had one 40 and two fireball shots in three
+hours." 
+Manion filed a motion to suppress statements.  At the
+hearing on the motion to suppress, Officers Morgan and Miyamura,
+3/See Miranda v. Arizona, 384 U.S. 436 (1966).
+3NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+as relevant, testified to the above.  In addition, Officer Morgan
+testified that he believed he had probable cause to arrest Manion
+for OVUII at the point when he (Officer Morgan) made observations
+consistent with alcohol impairment, and before asking Manion if
+he would participate in the SFST.  Officer Morgan also stated
+that Manion was not free to leave at this point.  During closing
+argument, the State asserted:  "Now, at the point where [Officer
+Morgan] when he's speaking with the defendant notices indicia of
+alcohol consumption and he has observed that there is severe
+front end damage to the vehicle, the State is willing to concede
+that probable cause might have developed at that point.  The
+officer certainly believed that it had developed at that point." 
+The State then argued, among other things, that there was no
+interrogation after that point, but did not argue that Manion was
+not in custody. 
+After the hearing concluded, the District Court ruled
+that Officer Morgan did not have probable cause to arrest Manion
+during their initial exchange when Officer Morgan asked Manion if
+he was okay and where he was coming from.  This ruling was later
+set forth in COL No. 7 of the Suppression Order, which states:
+7.  At the time Officer Morgan first approached
+Defendant and asked him if he was okay and where he was
+coming from, the officer knew only that Defendant had been
+involved in an accident.  During this initial, brief
+conversation, Officer Morgan was trying to determine whether
+Defendant needed medical attention.  Officer Morgan did not
+have probable cause to arrest Defendant for an offense;
+Defendant was not the focus of any criminal investigation. 
+Therefore, Defendant was not in "custody," and his
+statements – admitting to drinking a "40" at Sandy's and
+then explaining that his texting, as opposed to drinking,
+caused the accident – were not the product of custodial
+interrogation.
+On appeal, the State does not dispute this conclusion.
+The District Court also ruled that Officer Morgan did
+have probable cause to arrest Manion for OVUII after their
+initial exchange, and before Morgan asked Manion to participate
+in the SFST.  The District Court's COLs that are challenged on
+appeal state as follows:
+8. Following the initial exchange with Defendant, at
+this stage of the encounter, Officer Morgan now knew:
+Defendant had hit a parked vehicle; Defendant had drank a
+"40"; and Defendant was exhibiting red and watery eyes and
+an odor of alcohol from his breath. Thus, not only did
+Defendant become the focus of an OVUII investigation,
+4NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+Officer Morgan had sufficient probable cause to arrest
+Defendant for OVUII. Defendant also was not free to leave
+the scene. Accordingly, legal custody had attached.
+. . . .
+10. Focusing on Defendant's perception, without regard
+to Officer Morgan's intent, at the point where Defendant had
+already admitted to drinking a "40" and tried to explain how
+his texting, as opposed to his drinking, caused the
+accident, Officer Morgan should have known that all of his
+subsequent questions were reasonably likely to elicit
+incriminating responses. See [State v. ]Melemai, 64 Haw.
+[479,] 482, 643 P.2d [541,] 544 [(1982)] (finding "custody
+attached and Miranda warnings were required" after the
+officer's first question (if he had hit anyone with his car)
+and before the second (why he ran away)).
+11. Asking Defendant if he would be willing to
+participate in the SFST, after Defendant claimed his texting
+caused the accident, was akin to saying, "I don't believe
+you," which reasonably invites more incriminating statements
+from Defendant.  Asking Defendant the MRO questions –
+requests for personal health information about medications
+taken, whether he was under the care of a doctor or dentist
+– was reasonably likely to elicit an incriminating response,
+including admissions to having taken other substances.  See
+State v. Rippe, 119 Hawai #i 15, 23, 193 P.3d 1215, 1223
+(App. 2008) ("interrogation" comprises "a request for
+information").
+12. The further Defendant progressed into the SFST,
+the more coercive the atmosphere became, so that asking him
+whether he understood the instructions and had no questions
+for each of the three parts of the SFST compounded the
+reasonable likelihood of more incriminating responses.
+13. Defendant's responses were in fact incriminating.
+Defendant's answers to the MRO questions and his "yes"
+responses to understanding the SFST instructions gave
+Officer Morgan information that the officer used (and the
+State would argue the court use) to evaluate Defendant's
+performance on the SFST and, in turn, level of impairment.
+See Rippe, 119 [Hawai #i ]at 23, 193 P.3d at 1223.
+14. These precise questions and responses were not at
+issue in State v. Wyatt, 67 Haw. 293, 303, 687 P.2d 544, 551
+(1984), in which the Hawai #i Supreme Court held that because
+a field sobriety test seeks neither "communications" nor
+"testimony," but rather "an exhibition of physical
+characteristics of coordination," it does not violate the
+constitutional prohibition against compulsory self-
+incrimination. Again, pursuant to Kazanas, which was decided
+after Wyatt, the questions Officer Morgan asked Defendant
+(after Defendant was in legal custody and denied alcohol as
+the cause of his car accident) were reasonably likely to
+induce Defendant to "communicate" incriminating responses
+and hence constituted "interrogation."
+15. Because Officer Morgan did not advise Defendant of
+his Miranda rights prior to asking him (1) to participate in
+the SFST, (2) the MRO questions, and (3) whether he
+understood the instructions for, and if he had any questions
+about, the HGN, W&T, and OLS, Defendant's responses to these
+questions are inadmissible at trial.
+. . . .
+5NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+17. Officer Morgan would not have administered the
+SFST without (1) asking for and obtaining Defendant's
+agreement to participate in the SFST, (2) asking for and
+obtaining Defendant's responses to the MRO questions, and
+(3) asking for and obtaining Defendant's assurances that
+Defendant understood the instructions to the HGN, W&T, and
+OLS.  Accordingly, inasmuch as Defendant's performance of
+the SFST resulted from Officer Morgan illegally obtaining
+Defendant's responses to the foregoing questions,
+Defendant's performance on the SFST is inadmissible fruit of
+the poisonous tree.
+18. Finally, Officer Miyamura should have known that
+showing Defendant the results of his breath test at the main
+station constituted an accusation that was reasonably likely
+to elicit an incriminating response. Accordingly,
+Defendant's response – "that's impossible, I only had one
+'40' and two fireball shots in three hours" – stems from
+custodial interrogation and is inadmissible.
+II.  Discussion
+The State contends that the District Court erred in
+suppressing "Manion's agreement to take the SFST, Manion's
+responses to the 'medical rule-out' questions, Manion's responses
+to the SFST instructions, Manion's responses to why he had been
+approached, Manion's performance on the SFST and any statements
+[he] made after the SFST," on the ground that Miranda warnings
+had not been read to Manion "immediately when he was stopped."4/  
+The State argues that Miranda warnings were not required because
+Manion was not in custody or interrogated until after the SFST
+was administered and he was arrested for OVUII. 
+Thus, we must examine whether Manion's statements after
+he was asked to participate in the SFST stemmed from custodial
+interrogation.  See State v. Uchima, 147 Hawai#i 64, 84, 464 P.3d
+852, 872 (2020) ("as a matter of state constitutional law,
+statements stemming from custodial interrogation may not be used
+by the State unless it 'first demonstrate[s] the use of
+procedural safeguards effective to secure the privilege against
+self-incrimination'" (quoting State v. Kazanas, 138 Hawai# i 23,
+34, 375 P.3d 1261, 1272 (2016))).  Custodial interrogation is
+comprised of two components, "interrogation" and "custody." 
+4/Contrary to the State's argument, the District Court did not
+suppress Manion's various statements because Miranda warnings had not been
+read to Manion "immediately when he was stopped."  See supra COLs 7, 15.  In
+addition, the District Court did not suppress "Manion's responses to why he
+had been approached."  See supra COLs 8, 10 through 15, 17, and 18.    
+6NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+Kazanas, 138 Hawai# i at 35, 375 P.3d at 1273.  See Uchima, 147
+Hawai#i at 84, 464 P.3d at 872 ("Our caselaw has stated that 'two
+criteria are required before Miranda rights must be given: (1)
+the defendant must be under interrogation; and (2) the defendant
+must be in custody." (brackets omitted) (quoting State v. Kauhi,
+86 Hawai# i 195, 204, 948 P.2d 1036, 1045 (1997))). 
+To determine whether an interrogation is custodial, the
+totality of the circumstances analysis focuses on "the place and
+time of the interrogation, the length of the interrogation, the
+nature of the questions asked, the conduct of the police, and any
+other relevant circumstances."  State v. Ah Loo, 94 Hawai# i 207,
+210, 10 P.3d 728, 731 (2000) (brackets omitted) (quoting State v.
+Melemai, 64 Haw. 479, 481, 643 P.2d 541, 544 (1982)); see also
+Kazanas, 138 Hawai#i at 35, 375 P.3d at 1273 (reiterating same). 
+In this regard, the supreme court has acknowledged that "'no
+precise line can be drawn' between 'custodial interrogation,' on
+the one hand, and 'permissible general on-the-scene questioning,'
+on the other."  Ah Loo, 94 Hawai# i at 210, 10 P.3d at 731
+(brackets omitted) (quoting State v. Patterson, 59 Haw. 357, 362,
+581 P.2d 752, 755-56 (1978)).  The totality of the circumstances
+test applies to custodial interrogation, "in the sense that the
+defendant is deprived of his or her freedom of action in any
+significant way."  Kazanas, 138 Hawai# i at 35, 375 P.3d at 1273.  
+In contrast, "the touchstone in analyzing whether
+'interrogation' has taken place is whether the police officer
+'should have known that his or her words and actions were
+reasonably likely to elicit an incriminating response from the
+defendant.'"  Id. at 38, 375 P.3d at 1276 (brackets omitted)
+(quoting State v. Paahana, 66 Haw. 499, 503, 666 P.2d 592, 595-
+596 (1983)); see Uchima, 147 Hawai#i at 84, 464 P.3d at 872
+("[I]nterrogation encompasses not only express questioning, but
+also any words or actions on the part of the police (other than
+those normally attendant to arrest and custody) that the police
+should know are reasonably likely to elicit an incriminating
+response from the suspect." (quoting State v. Trinque, 140
+Hawai#i 269, 277, 400 P.3d 470, 478 (2017))). 
+7NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+In State v. Wyatt, 67 Haw. 293, 687 P.2d 544 (1984),
+where the defendant was briefly detained and therefore seized,
+but not in custody or coercively questioned, the supreme court
+held that Miranda warnings were not required before she was asked
+if she had been drinking.  Id. at 297-301, 687 P.2d at 548-50. 
+The supreme court further concluded that the SFST that the
+defendant performed was not constitutionally infirm because the
+test sought only an exhibition of her physical characteristics of
+coordination, rather than communications or testimony, even
+though its purpose was to gather evidence of criminal conduct. 
+Id. at 302-03, 687 P.2d at 551.  In State v. Kaleohano, 99
+Hawai#i 370, 377, 56 P.3d 138, 145 (2002), the supreme court
+noted that if probable cause to arrest or sustained and coercive
+questioning were present, then questions posed by the police
+could amount to custodial interrogation.  Id. (quoting Ah Loo, 94
+Hawai#i at 210, 10 P.3d at 731).  The court concluded that
+because there was no probable cause to arrest the defendant, and
+in light of the fact that the officer did not subject the
+defendant to sustained and coercive questioning, the officer was
+not required to give the defendant a Miranda warning prior to
+asking her if she had been drinking.  Id. at 377-78, 56 P.3d at
+145-46.
+Here, in its closing remarks at the suppression
+hearing, the State did not dispute – and indeed, stated it "was
+willing to concede" – that Officer Morgan had probable cause to
+arrest Manion for OVUII after their initial exchange and before
+Officer Morgan asked Manion if he would participate in the SFST. 
+Relatedly, the State did not dispute that Manion was in custody
+when Officer Morgan asked him whether he would participate in the
+SFST.  These issues are therefore waived on appeal.  See, e.g.,
+State v. Skapinok, No. CAAP-19-0000476, 2020 WL 2991783, at *5
+(Haw. App. June 4, 2020) (Mem. Op.) (concluding that where the
+State conceded in the District Court that the defendant was in
+custody prior to the suppressed statements, the issue was waived
+on appeal), cert. granted, No. SCWC-19-0000476, 2020 WL 5836356,
+at *1 (Haw. Oct. 1, 2020); State v. Moses, 102 Hawai# i 449, 456,
+77 P.3d 940, 947 (2003) (stating the general rule that if a party
+8NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+fails to raise an argument at trial, that argument will be deemed
+to be waived on appeal); State v. Harada, 98 Hawai#i 18, 30, 41
+P.3d 174, 186 (2002) (concluding that the prosecution failed to
+properly preserve its exigent circumstances claim and thus waived
+it); State v. Anger, 105 Hawai#i 423, 432–33, 98 P.3d 630, 639–40
+(2004) (applying the doctrine of judicial estoppel in declining
+to address an argument by the prosecution-appellee that was
+inconsistent with the position the prosecution had taken in the
+trial court); State v. Adler, 108 Hawai# i 169, 175, 118 P.3d 652,
+658 (2005) (defendant judicially estopped from claiming on appeal
+he possessed marijuana by prescription when he conceded in motion
+to dismiss it cannot be prescribed). 
+Moreover, the record supports the District Court's
+conclusions in COL No. 8.  We recognize that red and glassy eyes
+and "imperfect driving," standing alone, are insufficient to
+establish probable cause to arrest a person for OVUII. 
+Kaleohano, 99 Hawai#i at 377-78, 56 P.3d at 145-46.  Here,
+however, the evidence showed that after Officer Morgan's initial
+exchange with Manion, Officer Morgan knew that Manion: (1) had
+hit a parked vehicle; (2) was exhibiting red and watery eyes and
+an odor of alcohol; and (3) had said that he was coming from
+Sandy's and had drunk a "40."  On this record, we cannot conclude
+that the District Court was wrong in ruling that Officer Morgan
+had probable cause to arrest Manion for OVUII after their initial
+exchange, as set forth in COL No. 8.  Given the additional
+testimony by Officer Morgan that Manion was not free to leave the
+scene at that point, and based on the totality of the
+circumstances, we also cannot conclude that the District Court
+was wrong in ruling that legal custody had attached.
+Because "[a]n individual in police custody may not be
+subjected to interrogation without first being advised of his [or
+her] Miranda rights[,]" the remaining issue is whether the
+subsequent questions by police that resulted in the suppressed
+statements and SFST performance constitute interrogation. 
+Melemai, 64 Haw. at 481, 643 P.2d at 543-44 (quoting Patterson,
+59 Haw. at 358-59, 581 P.2d at 753); see Uchima, 147 Hawai# i at
+84-85, 464 P.3d at 872-73.  In Uchima, the supreme court rejected
+9NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+a similar claim that an officer's preliminary questions prior to
+administering an FST constituted an interrogation requiring
+Miranda warnings.  147 Hawai# i at 84-85, 464 P.3d at 872-73.  The
+court reasoned:   
+Here, [the officer who administered the FST] asked [the
+defendant] whether he would participate in an FST, whether
+he understood the instructions of the individual tests, and
+whether he had any questions.  These preliminary questions
+were not reasonably likely to lead to incriminating
+responses because neither an affirmative or negative
+response to these questions is incriminating.  Rather, the
+questions allow the officer to determine whether [the
+defendant] was willing to undergo the FST and whether he
+understood the officer's instructions prior to performing
+the three tests comprising the FST.  Thus, these questions
+were not of such nature that [the officer who administered
+the FST] should have known that they were likely to elicit
+an incriminating response.
+Id. at 84, 464 P.3d at 872; see also Pennsylvania v. Muniz, 496
+U.S. 582, 603-04 (1990) (rejecting the contention that Miranda
+warnings are required prior to an inquiry as to whether a
+defendant understood SFST instructions, because the "focused
+inquiries were necessarily 'attendant to' the police procedure
+held by the court to be legitimate.")
+In Uchima, the supreme court also ruled that the
+defendant's performance on the FST did not constitute an
+interrogation requiring Miranda warnings.  147 Hawai# i at 84-85,
+464 P.3d at 872-73.  The court stated:  
+[The defendant's] performance on the FST does not
+constitute incriminating statements. "[T]he privilege
+[against self-incrimination] is a bar against compelling
+'communications' or 'testimony[.]'"  State v. Wyatt, 67 Haw.
+293, 303, 687 P.2d 544, 551 (1984) (quoting Schmerber v.
+California, 384 U.S. 757, 763-64, 86 S.Ct. 1826, 16 L.Ed.2d
+908 (1966)).  In Wyatt, this court held that when conducting
+an FST the State does not seek "communications" or
+"testimony," but rather, "an exhibition of 'physical
+characteristics of coordination.'"  Id. (quoting State v.
+Arsenault, 115 N.H. 109, 336 A.2d 244, 247 (1975)). Here,
+[the officer who administered the FST] did not seek
+"communications" or "testimony" from [the defendant]. 
+Rather, in conducting the FST, the officer sought "an
+exhibition of 'physical characteristics of coordination.'" 
+Id.  "Consequently, the field sobriety test was not rendered
+infirm by the constitutionally guaranteed privilege against
+compulsory self-incrimination."  Id.
+Id. at 84, 464 P.3d at 872-73 (footnote omitted).
+The same analysis applies here.  Asking Manion whether
+he was willing to participate in the SFST, whether he understood
+the instructions to the SFST, and whether he had any questions
+10NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+did not implicate his right to self-incrimination and did not
+constitute interrogation, as these questions were not reasonably
+likely to lead to incriminating responses.  Similarly, Manion's
+performance on the SFST did not constitute incriminating
+statements in response to an interrogation requiring Miranda
+warnings.  Thus, we conclude that the District Court erred in COL
+Nos. 10 through 15 and 17 by suppressing Manion's responses to
+whether he would participate in the SFST, whether he understood
+the instructions and had any questions regarding the SFST, and
+the officer's observations of Manion's performance on the SFST. 
+Accordingly, COL Nos. 10 through 15 and 17 are wrong in relevant
+part.
+However, because Manion was in custody for OVUII before
+the SFST was administered (see supra), the medical rule-out
+questions constituted interrogation warranting Miranda warnings. 
+See State v. Sagapolutele-Silva, 147 Hawai# i 92, 101-03, 464 P.3d
+880, 889-91 (App. 2020), cert. granted, SCWC-19-0000491, 2020 WL
+5544434, at *1 (Haw. Sept. 16, 2020).  As stated above, "the
+touchstone in analyzing whether interrogation has taken place is
+whether the police officer should have known that his [or her]
+words and actions were reasonably likely to elicit an
+incriminating response from the defendant."  Kazanas, 138 Hawai#i
+at 38, 375 P.3d at 1276 (brackets omitted) (quoting Paahana, 66
+Haw. at 503, 666 P.2d at 595-96) (internal quotation marks
+omitted).  Relying upon Rhode Island v. Innis, 446 U.S. 291
+(1980), Kazanas reiterated that "interrogation consists of any
+express question — or, absent an express question, any words or
+conduct — that the officer knows or reasonably should know is
+likely to elicit an incriminating response."  Id. (quoting State
+v. Ketchum, 97 Hawai#i 107, 121, 34 P.3d 1006, 1020 (2001))
+(internal quotation marks omitted).  An incriminating response is
+any response, either inculpatory or exculpatory.  Innis, 446 U.S.
+at 301 n.5.  In contrast, a physical inability to articulate
+words in a clear manner due to lack of muscular coordination of
+the tongue and mouth is not testimonial evidence for purposes of
+self-incrimination.  Muniz, 496 U.S. at 590-91.
+11NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+Here, during his testimony, Officer Morgan identified
+the medical rule-out questions that he posed to Manion, and the
+District Court summarized those questions in Finding of Fact
+(FOF) No. 7.   Based on, among other things, our analysis in
+Sagapolutele-Silva, we conclude that the medical rule-out
+questions posed to Manion were reasonably likely to elicit an
+incriminating response and, therefore, constituted interrogation. 
+See 147 5/
+Hawai#i at 101-03, 464 P.3d at 889-91. 
+Manion was in custody when the medical rule-out
+questions were asked.  He had not been given Miranda warnings. 
+The medical rule-out questions constituted interrogation.  Thus,
+we conclude that Manion's responses to those questions should
+have been suppressed and the District Court did not err to the
+extent it so concluded in COL Nos. 10 through 15.
+The State also challenges COL No. 18, in which the
+District Court concluded that Manion's response to being shown
+the results of his Intoxilyzer test at the main police station
+stemmed from custodial interrogation and was inadmissible.  The
+State does not dispute that Manion had been arrested and was in
+custody at that time.  The State also does not dispute FOF No.
+15, in which the District Court found:  
+At no point in time did either officer tell Defendant
+he had the right to remain silent and anything he said could
+be used against him.  Defendant was never advised of any of
+his Miranda rights.
+ 
+Yet the State makes no argument that showing Manion the results
+of his Intoxilyzer test in these circumstances did not constitute
+custodial interrogation.  We therefore deem the point of error
+waived.  See HRAP Rule 28(b)(7). 
+5/FOF No. 7 states: 
+ 
+Prior to administering the SFST, Officer Morgan asked
+Defendant questions referred to as the Medical Rule Out
+("MRO") questions, including whether Defendant was taking
+any medications or whether he was under the care of a doctor
+or dentist.  Officer Morgan asked the questions to rule out
+causes, other than alcohol, that could affect Defendant's
+performance on the SFST.  Defendant answered "no" to the MRO
+questions.
+12NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+III.  Conclusion
+For these reasons, we conclude that the District Court
+erred in suppressing Manion's responses to whether he would
+participate in the SFST, whether he understood the instructions
+and had any questions regarding the SFST, and the officer's
+observations of Manion's performance on the SFST.  We conclude
+that the District Court did not err in suppressing Manion's
+responses to the medical rule-out questions and to being shown
+the results of his Intoxilyzer test.  Accordingly, the August 23,
+2019 Findings of Fact, Conclusions of Law, and Order Granting in
+Part and Denying in Part Defendant's Motion to Suppress
+Statements is affirmed in part and vacated in part.  The case is
+remanded to the District Court for further proceedings.
+DATED:  Honolulu, Hawai# i, October 30, 2020.
+On the briefs:
+Brian R. Vincent,
+Deputy Prosecuting Attorney,
+City & County of Honolulu,
+for Plaintiff-Appellant.
+Alen M. Kaneshiro
+for Defendant-Appellee.  /s/ Derrick H.M. Chan
+Presiding Judge
+/s/ Keith K. Hiraoka
+Associate Judge
+/s/ Clyde J. Wadsworth
+Associate Judge
+13

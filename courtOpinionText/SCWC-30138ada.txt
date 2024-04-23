@@ -1,0 +1,1698 @@
+     ***FOR  PUBLICATION  IN  WEST’S  HAWAI'I  REPORTS  AND  PACIFIC  REPORTER*** 
+Electronically Filed 
+Supreme Court SCWC-30138 12-SEP-2011 09:45 AM 
+IN THE SUPREME COURT OF THE STATE OF HAWAI' I 
+---o0o--­
+STATE OF HAWAI
+'I, Petitioner/Plaintiff-Appellee
+ 
+vs.
+ 
+JOHN C. VEIKOSO, Respondent/Defendant-Appellant
+ 
+NO. SCWC-30138
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS
+ 
+(CR. NO. 09-1-0194)
+ 
+SEPTEMBER 12, 2011
+ 
+RECKTENWALD, C.J., NAKAYAMA, ACOBA, DUFFY, AND MCKENNA, JJ.
+ 
+OPINION OF THE COURT BY ACOBA, J.
+ 
+We hold that, although the Intermediate Court of
+ 
+Appeals (ICA) held that the circuit court of the first circuit
+ 
+1
+(the court)  erred in admitting the testimony of Dr. Wayne Lee
+(Dr. Lee), the physician who examined Complaining Witness (CW) #2
+ 
+1
+ The Honorable Steven S. Alm presided.
+         
+           
+        
+          
+            
+            
+      
+      
+          
+         
+  
+      ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+regarding alleged threats made by Respondent/Defendant-Appellant
+ 
+John C. Veikoso (Respondent) against CW #2, the ICA committed
+ grave error in concluding that the error was not harmless. See
+ 
+State v. Veikoso, No. 30138, 2010 WL 5037006, at *16-17 (App.
+ Dec. 9, 2010) (mem.). In our view, the error in admitting such
+ testimony was harmless beyond a reasonable doubt. Accordingly,
+ we reverse the February 1, 2011 judgment of the ICA, filed
+ pursuant to its December 9, 2010 Memorandum Opinion (memo op.),
+2
+ 
+insofar as it vacated the court’s September 28, 2009 Judgment
+ convicting Respondent on Counts 4-8 (involving CW #2) and
+ remanded those counts for a new trial.
+3
+ 
+I.
+ 
+On February 11, 2009, Respondent was charged by 
+Petitioner/Plaintiff-Appellee State of Hawai' i (Petitioner) in an 
+eight-count indictment with: (1) Sexual Assault in the First Degree, Hawai' i Revised Statutes (HRS) § 707-730(1)(a) (Supp. 
+2009) (Counts 1 and 2 involving Complaining Witness (CW) #1 and Counts 4 (sexual penetration of penis into mouth) and 5 (sexual 
+4
+penetration of penis into vagina) involving CW #2) ; (2) Sexual
+2 The memo op. was filed by Presiding Judge Alexa D.J. Fujise and
+ 
+Associate Judges Katherine G. Leonard and Lisa M. Ginoza.
+ 
+3 Inasmuch as Respondent did not file an application for writ of
+ 
+certiorari seeking review of the opinion of the ICA, the ICA’s judgment is
+affirmed insofar as it affirmed the September 28, 2009 Judgment of the court
+as to Respondent’s convictions on Counts 1-3.
+ 
+4
+ HRS § 707-730(1) provides in relevant part:
+ 
+§707-730 Sexual Assault in the first degree. (1) A
+person commits the offense of sexual assault in the first
+degree if:
+(a)	 
+T
+he person knowingly subjects another person to
+(continued...)
+ 
+2
+         
+      
+      
+           
+         
+ 
+      
+      
+       
+      
+        
+       
+      
+   
+      
+      
+      ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Assault in the Third Degree, HRS § 707-732(1)(f) (Supp. 2009)5
+ 
+(Count 6 (mouth on breast) and 7 (hand on breast) involving CW
+ 
+#2); and (3) Kidnapping, HRS § 707-720(1)(d) and/or (e) (Supp.
+ 2009) (Count 3 involving CW #1 and Count 8 (with intent to
+ inflict bodily injury or to subject to sexual offense or to
+ terrorize) involving CW #2).
+6 Counts 1 through 3 arose from
+ 
+events taking place on January 18, 2009, involving CW #1, and
+ Counts 4 through 8 from events taking place on February 7, 2009
+ involving CW #2. According to Petitioner, on separate occasions,
+ Respondent solicited CW #1 and CW #2 respectively, who were
+ working as prostitutes, from the same location, “drove both women
+ over the Pali Highway--while threatening, terrifying, and beating
+ them--to Maunawili Elementary School, where he sexually assaulted
+ them in a similar manner at the same bench, after which he
+ abruptly changed his demeanor to reflect a caring and [sic]
+ concern for his victims.” 
+4(...continued)
+ 
+an act of sexual penetration by strong
+compulsion.
+ 
+5	 HRS § 707-732 provides in relevant part:
+ 
+§707-732 Sexual Assault in the third degree. (1) A
+person commits the offense of sexual assault in the third
+degree if:
+(f)	 The person knowingly, by strong compulsion, has
+sexual contact with another person or causes
+another to have sexual contact with the actor.
+ 
+6
+ HRS § 707-720(1) provides in relevant part:
+ 
+§707-720 Kidnapping. (1) A person commits the
+offense of kidnapping if the person intentionally or
+knowingly restrains another person with intent to:
+ 
+. . . .
+ (d)	 Inflict bodily injury upon that person or
+subject that person to a sexual offense;
+ 
+(e)	 Terrorize that person or a third person[.]
+ 
+3
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+II.
+ 
+The following essential matters, some verbatim, are
+ 
+from the record, the ICA opinion, and the submissions of the
+ 
+parties.
+ 
+The charges in the case were joined pursuant to Hawai' i 
+Rules of Penal Procedure (HRPP) Rule 8 (2009), which permits the joinder of two or more offenses, with each offense stated in a separate count, when the offenses “(1) are of the same or similar character, even if not part of a single scheme or plan; or (2) are based on the same conduct or on a series of acts
+ connected together or constituting parts of a single scheme or
+ plan.” As discussed infra, Respondent filed a Motion for
+ Severance of the Charges (Motion for Severance) arguing that he
+ would be prejudiced by the joinder. Petitioner contended, inter
+ alia, that Respondent would not be prejudiced by the joinder
+ because the evidence supporting each offense would likely be
+ admissible against Respondent, even if tried separately, to show
+ intent, common scheme, plan, design or modus operandi. 
+Respondent’s motion was denied by the court and the separate
+ offenses involving CW #1 and CW #2 were joined in the same trial.
+ 
+III.
+ 
+A.
+ 
+Opening Argument
+ 
+At trial, defense counsel contended in his opening
+ 
+argument that CW #2 consented to having sex with Respondent and
+ “voluntarily went in[to Respondent’s] car, with the purpose of
+ 
+4
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+making money.” He suggested that CW #2 had fabricated the
+ 
+complaint against Respondent because “at some point . . . there
+ was a dispute about the money being paid or not paid”; “there was
+ an agreement for $120[,]” but the $120 “was found folded in
+ [Respondent’s] pocket.” 
+B.
+ 
+CW #1’s Testimony
+ 
+The incident pertaining to CW #1 is not at issue on
+ 
+certiorari. See supra note 7. Petitioner contends that the
+ 
+testimony of both complaining witnesses may be considered as part
+ of the evidence to be weighed in CW #2’s case. Inasmuch as we
+ conclude, for the reasons stated herein, that the evidence
+ regarding CW #1 cannot be considered with the evidence regarding
+ CW #2, CW #1’s testimony is not included herein.
+ 
+C.
+ 
+CW #2’s Testimony
+ 
+CW #2 testified that in the early morning hours of
+ 
+February 7, 2009, she was “down at Nuuanu [Avenue], behind [the
+ stores] Pali Longs [and] Safeway,” when Respondent drove up in a
+ Ford Mustang and asked her if she wanted to “cruise with him.” 
+CW #2 agreed and voluntarily entered the vehicle. As Respondent
+ drove over the Pali Highway, Respondent “kept saying, Oh I can
+ take you back if you’re scared. . . . I can go get somebody else. 
+If you want to go back, just tell me.” But CW #2 said, “I don’t
+ mind. We can go hang out.” As Respondent turned into a dark
+ neighborhood on Old Pali Road, he reiterated that he could take 
+5
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+her back if she was scared. She finally said, “Okay, already.
+ 
+. . . Just take me back[.]” Then, Respondent responded, “Oh,
+ why? Are you scared of me now?” CW #2 reached for the phone
+ “because [she] was scared”; Respondent grabbed it from her,
+ struck her face and the back of her head several times, grabbed
+ her hair, and pulled her down to the center console. CW #2 saw
+ blood dripping from her face onto the console. She also
+ indicated that when hit on the back of the head, she “blacked
+ out[,]” but eventually regained consciousness. Respondent
+ repeatedly told CW #2, “Shut the fuck up[,] . . . you’re going to
+ do what I tell you to do[,]” while grabbing her by the hair and
+ pulling her down. CW #2 thought she was going to die. 
+When CW #2 attempted to escape, Respondent told her,
+ 
+“Oh, try and get out[,]” but when CW #2 grabbed the door handle,
+ he “grabbed [her] hair again” and said, “What the fuck are you
+ doing?” When she tried to pull away from Respondent, he began to
+ hit her on the back of the head with his fist or elbow. When she
+ began screaming and pleading for Respondent to let her go,
+ Respondent threatened, “Shut the fuck up or I’m going to shoot
+ you.” (Emphasis added.) CW #2 finally yanked her hair free from
+ Respondent’s hand and he said, “Oh, what the fuck are you doing? 
+I’m going to crack you again.” After that, CW #2 remained quiet
+ so that Respondent would not hurt her anymore. 
+As they headed down the windward side of the Pali
+ 
+Highway, Respondent told CW #2 that he would let her go at a
+ nearby bus stop and give her money to catch the bus home. But as 
+6
+         
+   
+            
+            
+              
+           
+           
+            
+               
+               
+  ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+they passed the bus stop, Respondent continued to drive and
+ 
+eventually turned into the Maunawili area. At some point, CW #2
+ attempted to turn off Respondent’s ignition and Respondent said,
+ “Look at what the fuck you did, bitch. . . . Oh, you want me to
+ crack you again?” Respondent remarked, “The last girl that was
+ with me got out, but she broke her collarbone.”
+7
+ 
+Respondent continued to drive through the dark stretch
+ 
+of Maunawili and eventually turned into Maunawili Elementary
+ School. As he pulled in, he said, “[Y]ou can tell your friends
+ this is where you got fucked.” He pulled into a dark area near a
+ dumpster and said, “[Y]ou’re going to do whatever I want you to
+ do and then you can go; You’ll be fine if you do it.” Respondent
+ then pulled CW #2 out of the vehicle by her hair and dragged her
+ to a bench. 
+At the bench, Respondent undressed, undressed CW #2,
+ 
+put his penis “[i]nto her mouth” and forced CW #2 to perform oral
+ sex on him. She did not scream because she “was scared
+ [Respondent] was either going to hurt [her] or kill [her].” 
+Thereafter, Respondent laid down and instructed CW #2 “to get on
+ top of him.” She again complied, believing that “he was going to
+ hit [her] again or kill [her].” Respondent “put his penis into 
+7
+ It is noted that the court orally instructed the jury it was to
+ 
+consider CW #2’s allegation that Respondent “made a statement to her about the
+ 
+last person to jump out of the car got a broken collarbone,” “only as evidence
+ in this particular matter regarding [CW #2].” The court further instructed
+ that “evidence regarding each matter is to be considered separately and used
+only in the charges pertaining to a particular incident.” The court stated,
+ “They don’t get in any way mixed up with each other. It can’t be considered
+ in any other way than . . . in regards to this particular incident, with this
+particular witness[.]”
+ 
+7
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+[CW #2’s] vagina” and “made [her] suck his penis one more time.” 
+Then, he made CW #2 lay down on the bench, kissed her, bit her
+ lip, and spat inside her mouth as he placed “his hand . . . on
+ [her] neck area” and “press[ed] down on . . . [her] throat”
+ making it “hard to breathe.” Respondent also “touched [CW #2’s]
+ breast, and then [] put his mouth on her breast.” He told CW #2
+ that he was going to ejaculate “in [her] mouth” and she was
+ “going to swallow it.” CW #2 “got on top of him one more time”;
+ Respondent said, “Oh, get ready.” CW #2 “got off” of Respondent
+ and Respondent “grabbed her neck[,]” “stuck his penis into her
+ mouth and ejaculated”; he said, “Oh, you better swallow it.” 
+After the incident, Respondent said, “I’ll give you
+ 
+your cell phone back” if you “just come with me back to my car.” 
+CW #2 told Respondent that she would meet him at the side of his
+ car so he could give it to her. She started walking quickly
+ toward the parking lot, but removed her shoes, and began running
+ toward the highway. She attempted to flag down several cars
+ until finally, Chad Ogawa (Ogawa) stopped. She ran up to his car
+ and said, “Sir, Sir, please help me, please help me[.]” As they
+ were driving, CW #2 saw that the Ford Mustang was still parked by
+ the dumpster. Ogawa could not see the license plate number so he
+ got out of the vehicle and walked towards the Ford Mustang. 
+Ogawa returned to the vehicle with the license plate number and
+ told CW #2 to save it in his cell phone.
+ 
+Ogawa then drove CW #2 to a “7-Eleven” store to leave
+ 
+her with one of his classmates, who “was going to call the cops.” 
+8
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+After the police arrived, they took CW #2 to a residence where
+ 
+she identified Respondent as her assailant and recognized the
+ Ford Mustang by a sticker that was on the windshield. 
+Ogawa’s Testimony
+ 
+Ogawa testified that in early morning hours of
+ 
+February 7, 2009, he was driving home from a nightclub, and as he
+ drove past Maunawili Elementary School, CW #2 ran up to his car
+ and asked him for help. CW #2 was “frantic”; her blouse was
+ ripped and she had blood on her lip. She told Ogawa that “she
+ just got raped at the school right across the street.” Ogawa
+ told her to get in the car and as they started driving past the
+ school, CW #2 said, “‘There he is.’” Ogawa got out of his car
+ and started “sneaking up to [Respondent’s] car.” Ogawa took down
+ the license plate number, and recorded it in his cell phone. 
+Ogawa then drove to 7-Eleven, where an employee at the gas
+ station called 911 and placed a report. Ogawa did not call the
+ police himself because he had an outstanding traffic warrant. 
+Dr. Lee’s Testimony
+ 
+Petitioner’s expert witness, Dr. Lee, testified that on
+ 
+February 7, 2009, he examined CW #2 at the Kapiolani Medical
+ Center’s Sex Abuse Treatment Center for three hours. Dr. Lee
+ testified that “[t]he purpose of [his] examination was to examine
+ the patient for any injuries that might need medical attention
+ and also to gather forensic evidence.” He explained that there
+ are two parts to the exam: the first part is the historical exam
+ to find out “the nature of your complaint and why you’re at the 
+9
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+doctor’s office” and the second part of the exam is the physical
+ 
+exam. 
+During the historical exam, CW #2 complained of pain in
+ 
+her upper lip, a bleeding nose, pain on the left side of her face
+ and the back of her head, blood when she wiped after using the
+ restroom, pain on her left arm, and marks on her right hip. When
+ Dr. Lee asked her how the pain and bleeding started, she told him
+ that her assailant punched her nose, causing it to bleed; punched
+ her cheek and the back of her head, causing her to have a
+ headache and ringing in her ears; grabbed her arm, causing pain;
+ pulled her out of her car, causing pain on her right hip; punched
+ her lips and left side of her face; pulled her hair; and bit her
+ lip and left breast. CW #2 also told Dr. Lee that her assailant
+ “put his penis in her vagina[,]” and that she was scared because
+ he grabbed her throat, “made her massage his penis[,]” perform
+ oral sex on him, rubbed her genital area, fondled her breast and
+ entire body, kissed her breasts, spat in her mouth, and
+ ejaculated in her mouth and forced her to swallow. CW #2 told
+ Dr. Lee that “she did it” because she “was scared” and “[d]idn’t
+ want to get hit again.” 
+In addition, Dr. Lee testified that he asked CW #2 “if
+ 
+there were any threats involved” and she said yes. (Emphasis
+ added.) According to Dr. Lee, CW #2 told him that Respondent
+ said “[she] wouldn’t be going home if [she] didn’t do what he
+ told [her] to do.” (Emphasis added.) Dr. Lee further testified
+ that CW #2 told him, “‘He said he would shoot me. He said I’d be 
+10
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+lucky to go home today because most girls don’t go home[.]’” 
+(Emphasis added.)
+ 
+During the physical examination, Dr. Lee found that CW
+ 
+#2 had “tenderness” to her breast; “recent abrasions or scratches
+ on her ride side of her neck and her right thigh”; lesions on her
+ neck; “tenderness” and “pain in her left shoulder and arm”; “a
+ two-centimeter area” on the back of her neck “that was raised and
+ tender,” “consistent with a hematoma” or “lump” or “a ‘goose
+ egg[]’ on her scalp,” with “bleeding under the skin”; “a recent
+ contusion”; a “red” and “swollen lip”; tenderness on the bridge
+ of her nose; and multiple, recent contusions, bruises and
+ abrasions on her body. According to Dr. Lee, CW #2 had pain, but
+ no marks, on her right shoulder, at the bridge of her nose, and
+ in the cheek bone area. 
+In his pelvic examination, Dr. Lee observed some
+ 
+redness on her external genitalia, indicating “that recently
+ there was some irritation there.” Dr. Lee also discovered a
+ loose black hair, which did not match CW #2's hair color. Id. 
+Dr. Lee “noted that at the time of [his examination,] there was
+ some scant pinkish vaginal discharge” and later in the
+ examination he “saw it coming from the . . . opening of the
+ cervix.” Dr. Lee “assumed that this was the beginning of a
+ menstrual period for her” because “blood coming from the cervix
+ is--you know, . . . a menstrual period.” When asked whether his
+ bimanual examination was “consistent with penetration of the
+ genital opening[,]” Dr. Lee responded, “Yes, it was.” Although 
+11
+         
+ 
+  
+ 
+        
+          
+        
+         
+          
+       
+           
+            
+        
+       
+          
+              
+           
+          
+              
+           
+       
+        
+    
+         
+         
+   
+ 
+   
+     
+     
+       
+     
+      
+     
+  ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+he indicated that the bimanual examination, during which he
+ 
+places “fingers inside of her vagina[,]” “was unremarkable,”
+ “normal,” Dr. Lee was asked on redirect examination, “[T]he fact
+ that you don’t see injuries to the genital area, does that rule
+ out a sexual assault?” He responded, “No, It does not.”
+8
+ 
+At the close of Dr. Lee’s testimony, defense counsel
+ 
+moved to strike Dr. Lee’s testimony regarding statements that CW
+ #2 was assaulted and threatened by Respondent, arguing that such
+ testimony has “nothing to do with a physical examination.” The
+ following exchange took place:
+ 
+THE  COURT:   Under  803(b)(4) [ 9
+]  statements for purposes
+of 
+medical diagnosis, the doctor has to do a thorough
+diagnosis; and based on the diagnosis, it’s going to lead to
+the appropriate treatment. So finding out, for instance,
+whether an assault takes place or takes place with a
+stranger or intimate family member is going to have to do
+with the doctor’s treatment recommendations on staying away
+from people, being close to people. Her talking about it in
+her history of talking about it is an integral part of that.
+And the treatment he may order may include psychological
+counseling, may include post-traumatic stress disorder, if
+ 
+8 On appeal, Respondent argued that the court erred in allowing Dr.
+ 
+Lee to opine that his findings did not rule out sexual assault where there was
+no physical evidence to support his opinion. According to Respondent, this
+ was error because “the testimony had the improper prejudicial effect of
+bolstering CW # 2’s credibility.” Veikoso , 2010 WL 5037006, at *11. The ICA
+ 
+rejected the argument, reasoning that Dr. Lee “testified that his findings did
+ not ‘rule out’ sexual assault.” Id.
+ 
+9	 Hawai'i Rules of Evidence (HRE) Rule 803(b)(4) (1993) provides: 
+Hearsay exceptions; availability of declarant
+immaterial. The following are not excluded by the hearsay
+rule, even though the declarant is available as a witness:
+ 
+. . . .
+ (b) Other exceptions.
+ 
+. . . .
+ (4)	 Statements made for purposes of medical
+diagnosis or treatment and describing medical
+history, or past or present symptoms, pain, or
+sensations, or the inception or general
+character of the cause or external source
+ thereof insofar as reasonably pertinent to
+diagnosis or treatment.
+ 
+12
+         
+           
+            
+  
+         
+      
+    
+         
+         
+         
+         
+        
+         
+           
+      
+    
+           
+         
+        
+          
+           
+    ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+appropriate; and the only way that can come about is to get
+the history from her. So the objection is noted, but it is
+overruled under 803(b)(4).
+And because [CW #2] is present, she’s going to be
+available for cross-examination so there’s no confrontation
+ clause issue at this time.
+ 
+[DEFENSE COUNSEL]: I’d just like to point out, [Y]our
+[H]onor, that the purpose of this examination was not for
+purposes of diagnosis and treatment. The purpose of this
+examination was for--it’s a sex assault examination. So I
+ don’t believe the doctor even testified as to what
+ treatment, if anything, he was going to recommend. By
+allowing this doctor to testify as to what [CW #2] may have
+said will bolster--unnecessarily bolster the testimony of
+[CW #2] in this case.
+THE COURT: Okay. I think it’s for both. The
+ 
+doctor’s examination is to look for evidence of sex assault
+ trauma, if that’s what really happened; but her statements
+to him are for both diagnosis and treatment and referral.
+So I think it’s for all of those purposes. So your
+ objection is noted and overruled.
+ 
+(Emphasis added.)
+ 
+Testimony of Cathy Matsuoka
+ 
+Cathy Matsuoka (Matsuoka) testified that as to evidence
+ 
+relating to CW #2, she examined dried secretion swabs, a blood
+ sample, vaginal swabs, pubic hair combings collected from CW #2,
+ four swab samples with blood-like substances collected from a
+ Ford Mustang, and a pair of jean shorts recovered from
+ Respondent. Matsuoka indicated that the samples were collected
+ from “the back cup holder on the driver’s side[,]” “the back cup
+ holder on the passenger side[,]” “the front cup holder on the
+ passenger side[,]” and the “middle storage compartment” of
+ Respondent’s vehicle. All swab samples collected from the Ford
+ Mustang were determined to be human blood and matched the DNA
+ profile of CW #2. Matsuoka also detected human blood on
+ Respondent’s jean shorts and determined that the DNA profile of
+ the blood matched CW #2’s DNA profile. As to CW #2’s vaginal
+ swabs, semen was indicated, but no male DNA was present in that 
+13
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+particular sample. The DNA profile of the dried secretion swab
+ 
+excluded Respondent as a possible contributor. 
+Closing Argument
+ 
+Respondent did not testify at trial. During closing
+ 
+argument, defense counsel again argued that CW #2 had consented
+ to having sex with Respondent, and that this was a case of
+ Respondent “not having money to pay for sex.” According to the
+ defense, after “taking the 120 dollars, [] there was a
+ disagreement.” 
+D.
+ 
+Jury Verdict and Sentencing 
+On July 29, 2009, the jury found Respondent guilty on
+ 
+all eight counts. On September 28, 2009, the court sentenced
+ Respondent.
+ 
+IV.
+ 
+On October 28, 2009, Respondent filed a notice of
+ 
+appeal. Relevant to our disposition, Respondent argued on appeal
+ that the court erred in admitting Dr. Lee’s testimony regarding
+ Respondent’s threats and opinions regarding the lack of forensic
+ evidence. The ICA rejected all of Respondent’s other arguments,
+ but determined that the court erred in admitting Dr. Lee’s
+ testimony regarding alleged threats made by Respondent against CW
+ #2 and that such error was not harmless beyond a reasonable
+ doubt. 
+A.
+ 
+In support of its conclusion that the court erred in
+ 
+admitting Dr. Lee’s testimony regarding threats, the ICA noted
+ 
+14
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+that Hawai' i courts have not fully developed the reach of HRE 
+Rule 803(b)(4) as to the admissibility of threats. It was noted 
+that “[o]ther courts generally admit hearsay statements describing the physical nature of the assault, as such statements pertain to the “cause or external source of the injuries.” Veikoso, 2010 WL 5037006, at *12 (citing Guam v. Ignacio, 10 F.3d 608, 613 (9th Cir. 1993)). The ICA concluded that “Dr. Lee’s testimony regarding CW # 2’s description of the physical aspects of the assault was admissible under this reasoning.” Id. 
+However, the ICA stated that as to statements regarding
+ 
+fault, “courts have tended to adopt either a broad or narrow
+ interpretation of this hearsay exception.” Id. “Under the
+ 
+narrower interpretation, courts will not admit hearsay statements
+ pertaining to fault[,] . . . including those regarding the
+ identity of the assailant[.]” Id. “Under the broader
+ 
+interpretation, courts appear to be more willing to admit hearsay
+ statements assigning fault,” and in the child abuse context,
+ statements relating to the assailant’s identity. Id. It was
+ 
+noted that “[s]everal jurisdictions have extended this reasoning
+ to domestic assault complainants, as their ongoing safety and
+ psychological treatment depends on the identity of the abuser.” 
+Id.
+ 
+According to the ICA, however, “even courts employing
+ 
+the broad interpretation generally do not admit statements
+ describing alleged threats the defendant made to the
+ complainant.” Id. The ICA stated that although only “[a]
+ 
+handful of cases have dealt with the type of hearsay at issue in 
+15
+          
+            
+             
+         
+         
+           ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+this case--alleged threats of the assailant[--t]he overwhelming
+ 
+majority have held the threats inadmissible” as unrelated to
+ medical diagnosis or treatment. Id. at *13. The ICA adopted the
+ 
+majority view, determining that Dr. Lee’s testimony regarding
+ alleged threats was inadmissible because “there is no testimony
+ linking [Respondent]’s alleged threats to the cause or inception
+ of CW # 2’s injuries.” Id. The ICA acknowledged that this court
+ 
+has held that HRE 803(b)(4) “extends to statements made for the
+ purpose of psychological treatment.” Id. at *14 (citations
+ 
+omitted).
+10 According to the ICA, although “alleged threats
+ 
+could arguably be admissible if conveyed for the purpose of
+ psychological diagnosis or treatment, no such foundation was laid
+ here.” Id. In accordance with the foregoing, the ICA held that
+ 
+the court erred in admitting the testimony under HRE Rule
+ 803(b)(4). Id. at *15.
+ 
+B.
+ 
+The ICA then proceeded to consider whether the court’s
+ 
+error was harmless beyond a reasonable doubt and held that it was
+ not. See id. According to the ICA, “in adult sexual assault
+ 
+cases, the credibility of the complainant is paramount[]” and
+ where, as in this case, the defendant raises a defense of
+ consent, the complaining witness is “critical . . . as he or she
+ is often the sole eyewitness to what occurred.” Id. It was 
+10
+ The ICA cited to State v. Yamada , 99 Hawai 'i 542, 546-47, 556, 57 
+P.3d 467, 471-72, 481 (2002), where this “court held that a videotape of the 
+defendant’s ‘reenactment’ of the events giving rise to prosecution wasadmissible because the reenactment was conducted to aid the treatingpsychologist in making a diagnosis.” Veikoso , 2010 WL 5037006, at *14. 
+16
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+noted that Respondent “attempted to cast doubt upon CW # 2’s
+ 
+credibility on several bases” including,
+ 
+her  failure  to  disclose  to  the  [g]rand  [j]ury  that  she  was
+working  as  a  prostitute;  her  failure  to  disclose  until  the
+week  of  trial  that  she  had  sex  for  a  fee  with  another  man
+ 
+earlier  that  same  night;  her  failure  to  report  the  incident
+immediately  after  it  happened;  and  discrepancies  with  her
+[g]rand  [j]ury  testimony.
+ 
+Id. 
+While acknowledging that Petitioner “presented limited
+ 
+corroborating evidence from Dr. Lee and Ogawa,” the ICA found it
+ significant that “the statement concerning alleged threats went
+ to the heart of the key witness’s testimony[,]” was “not
+ cumulative to other evidence[,]” and “[s]everal of the most
+ damaging statements were conveyed solely through Dr. Lee’s
+ hearsay testimony.” Id. The ICA noted that, for example,
+ 
+“CW # 2 never testified that [Respondent] told her ‘she’d be
+ lucky to go home today’” or that Respondent had allegedly
+ remarked that “‘most girls don’t go home.’” Id. (brackets
+ 
+omitted). Thus, according to the ICA, “[t]he jury was [] allowed
+ to consider evidence it should not have heard[]” and “[t]he
+ threats to which CW # 2 did testify arguably were colored with
+ heightened credibility as a result of Dr. Lee’s improper
+ testimony.” Id. In the ICA’s view, “[t]he alleged threats,
+ 
+relayed in raw terms as vivid and concrete quotations and
+ repeated several times, may have tipped the scale in favor of
+ CW # 2’s credibility.” Id. It therefore concluded “that there
+ 
+is a reasonable possibility that the error might have contributed
+ to the conviction and we cannot conclude that the error was 
+17
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+harmless beyond a reasonable doubt.” Id. The ICA’s conclusion
+ 
+ultimately led to the filing of Petitioner’s Application, which
+ 
+poses the only question before this court. 
+V.
+ 
+Petitioner’s Application filed on May 2, 2011, sets
+ 
+forth the following question: “In light of the overwhelming
+ evidence of [Respondent’s] sexual assaults and kidnapping
+ convictions involving CW #2, did the ICA err gravely in vacating
+ and remanding Counts 4 through 8 for a new trial on account of
+ Dr. Lee’s testimony concerning CW #2’s report of the threats
+ [Respondent] made against her?” Respondent filed a Response to
+ Petitioner’s Application on May 17, 2011 (Response).
+ 
+VI.
+ 
+A.
+ 
+Petitioner does not challenge, but agrees with the
+ 
+ICA’s conclusion that the court erred in admitting Dr. Lee’s
+ testimony regarding alleged threats made by Respondent against CW
+ #2 under HRE Rule 803(b)(4). Petitioner states that it “has no
+ quarrel with the ICA” as to its conclusion that the court “erred
+ in admitting” “Dr Lee’s testimony regarding CW #2’s report of
+ [Respondent’s] threats” “under HRS Rule 803(b)(4)” where “Dr. Lee
+ did not explain the connection between the threats and the
+ necessity of any treatment, psychological or otherwise.” 
+However, Petitioner disagrees “with the ICA’s ruling that the
+ error below was not harmless.” 
+Citing State v. Machado, 109 Hawai' i 445, 453-56, 127 
+P.3d 941, 949-52 (2006), Petitioner contends that “there was no 
+18         
+           
+          
+         
+   
+           
+      
+            
+          
+          
+ 
+     
+        ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+reasonable possibility that the error contributed to
+ 
+[Respondent]’s conviction.” According to Petitioner, in Machado,
+ the trial court admitted as an excited utterance a police
+ sergeant’s testimony regarding statements made to him by the
+ complainant upon arriving at her home. (Citing id. at 448-49,
+ 127 P.3d at 944-45.) As Petitioner noted, this court determined
+ that although the circuit court erred in admitting the testimony
+ as an excited utterance, the error was harmless in light of the
+ entire record because even in the absence of the improper
+ testimony, “the [complainant’s] testimony and her 911 call[ 
+11
+ ]
+established the elements of the . . . charges beyond a reasonable
+ doubt[.]” 
+(Citing id.
+ at 453-56, 127 P.3d at 949-52.)
+ 
+Petitioner maintains that, in contrast to Machado, the
+ 
+ICA “examined the error in isolation and purely in the
+ abstract[,]” “fail[ing] to balance the error against the
+ overwhelming, compelling evidence” supporting Respondent’s
+ convictions. First, Petitioner notes that the instant case did
+ not “present the typical ‘he said, she said’ credibility battle
+ between the victim and the accused” since Respondent “never
+ 
+11 The complainant had placed a call to the police, which was played
+ 
+for the jury. The 911 call included the following statements:
+ 
+1.	 “Please hurry up he’s going to kill me, please hurry”
+ 
+2.	 “My boyfriend Dennis Machado”
+ 
+3.	 “He choked me and he, he tried to stab me with a
+knife, please help me, please help me”
+ 
+4.	 “He choked me and he, he choked and he held me on the
+ground and stepped on my head, he pinned me down and
+tried to stab me, and he slammed me into the wall,
+please, please”
+ 
+5.	 “Somebody’s here, the police are here”
+ 
+Machado , 109 Hawai 'i at 448, 127 P.3d at 944. 
+19
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+testified, and indeed, presented no evidence on his behalf at
+ 
+trial.” Thus, Petitioner avers that, because there was nothing
+ indicating that CW #2 was not credible, CW #2’s “testimony alone
+ evinced beyond a reasonable doubt that [Respondent] kidnapped her
+ with intent to subject her to sexual advance [and] terrorize her”
+ and that Respondent “sexually assaulted her on at least four
+ occasions by strong compulsion” and had other “sexual contact
+ with her by strong compulsion.” 
+Additionally, Petitioner points out that the scientific
+ 
+evidence proved that “CW #2’s blood was in [Respondent’s] Mustang
+ and on his shorts.” According to Petitioner, such evidence
+ objectively establishes that Respondent’s sexual contact with CW
+ #2 was not consensual. In Petitioner’s view, the evidence was
+ also overwhelming because of the testimony of both complaining
+ witnesses. Based on the foregoing, Petitioner contends that
+ “[i]t is inconceivable that Dr. Lee’s testimony . . . might have
+ had anything to do with [Respondent’s] convictions in light of
+ the entire record.” 
+B.
+ 
+Respondent’s Response states that Petitioner fails to
+ 
+point to overwhelming, compelling evidence supporting
+ Respondent’s convictions. First, Respondent notes that “adult
+ sexual cases are often credibility contests” and here, CW #2’s
+ credibility was called into question on several different
+ grounds, including her “failure to inform the [g]rand [j]ury that
+ she was working as a prostitute, her eve-of-trial disclosure that 
+20
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+she engaged in sex for a fee the same night as her encounter with
+ 
+[Respondent], and other discrepancies between her testimony and
+ other accounts she gave under oath.” Thus, Respondent contends
+ that CW #2’s “testimony alone does not constitute ‘overwhelming,
+ compelling evidence’ that would render the [] court’s error
+ harmless beyond a reasonable doubt.” 
+Next, as to the presence of CW #2’s blood in
+ 
+Respondent’s Mustang and on his shorts, Respondent contends that
+ such presence “can be interpreted in many different ways” and
+ “absolutely does not offer ‘objective’ conclusions of any kind,
+ especially in light of Dr. Lee’s testimony that CW #2 was
+ starting her menstrual period.” 
+Also, Respondent maintains that the evidence of both
+ 
+complaining witnesses cannot be considered together. According
+ to Respondent, although the ICA stated that the evidence would
+ likely have been admissible against Respondent if the cases had
+ been tried separately to show modus operandi or identity, such
+ evidence would not be admissible to prove Respondent’s guilt. In
+ addition, Respondent notes that the jury received a cautionary
+ instruction prohibiting it from considering the evidence in such
+ a manner.
+ 
+Finally, Respondent argues that although Petitioner
+ 
+focuses on the ICA’s conclusion that “Dr. Lee’s testimony ‘may
+ have tipped the scale in favor of CW #2’s credibility,’” (quoting
+ Veikoso, 2010 WL 5037006, at *8), Petitioner “ignores the ICA’s 
+21
+         
+      
+       
+           
+        
+       
+           
+        
+     
+          
+        
+          
+           
+         
+         
+            
+         
+       
+  
+   ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+thorough analysis of all the evidence[.]” Respondent points to
+ 
+the following passage in support of the foregoing contention:
+ 
+“The hearsay testimony was highly prejudicial to
+[Respondent]. The alleged threats were repeated several
+times and were presented as CW # 2’s own words. Moreover,
+in adult sexual assault cases, the credibility of the
+complainant is paramount. The complaining witness is
+critical to establishing a lack of consent, as he or she is
+often the sole eyewitness to what occurred. Although
+[Petitioner] presented limited corroborating evidence from
+Dr. Lee and Ogawa, CW # 2’s credibility was still critical
+to establishing all five counts. [Respondent] argued a
+defense of consent in his closing argument. He attempted to
+cast doubt upon CW # 2’s credibility on several bases: her
+ failure to disclose to the [g]rand [j]ury that she was
+working as a prostitute; her failure to disclose until the
+week of trial that she had sex for a fee with another man
+ earlier that same night; her failure to report the incident
+immediately after it happened; and discrepancies with her
+[g]rand [j]ury testimony.”
+ 
+(Quoting Veikoso, 2010 WL 5037006, at *15.)
+ 
+VII.
+ “Regarding the erroneous admission of evidence by a
+ 
+trial court, this court has said that[, e]ven if the trial court
+ 
+erred in admitting evidence, a defendant’s conviction will not be
+ overturned if the error was harmless beyond a reasonable
+ doubt[.]” Machado, 109 Hawai' i at 452, 127 P.3d at 948 (internal 
+quotation marks and citation omitted). Under this standard,
+ “[t]he error is not to be viewed in isolation and considered
+ purely in the abstract.” Id. (internal quotation marks and
+ 
+citation omitted). Rather, the error “must be examined in the
+ light of the entire proceedings and given the effect which the
+ whole record shows it to be entitled. In that context, the real
+ question becomes whether there is a reasonable possibility that
+ error might have contributed to conviction.” Id. at 452-53, 127
+ 
+P.3d at 948-49 (internal quotation marks and citation omitted). 
+22
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+VIII.
+ 
+With respect to assessing whether the erroneous 
+admission of evidence was harmless beyond a reasonable doubt, 
+this court has stated that the “[m]ere sufficiency of the evidence to support the jury verdict, apart from that aspect of the case affected by the error, would not be enough.” State v. 
+Pokini, 57 Haw. 26, 30, 548 P.2d 1402, 1405 (1976). However, Petitioner is correct that this court had held that “‘[w]here there is a wealth of overwhelming and compelling evidence tending to show the defendant guilty beyond a reasonable doubt, errors in the admission or exclusion of evidence are deemed harmless.’” State v. Toyomura, 80 Hawai' i 8, 27, 904 P.2d 893, 912 (1995) 
+(quoting State v. Nakamura, 65 Haw. 74, 80, 648 P.2d 183, 187 (1982)); accord State v. Rivera, 62 Haw. 120, 128, 612 P.2d 526, 532 (1980). 
+IX.
+ 
+We first consider whether CW #1’s testimony may be
+ 
+weighed in assessing whether there was overwhelming and
+ compelling evidence tending to show Respondent was guilty of
+ Counts 4-8 beyond a reasonable doubt. As indicated, the offenses
+ involving CW #1 and CW #2 were joined pursuant to HRPP Rule 8. 
+Respondent filed his Motion for Severance on May 6, 2009, arguing
+ that he would be prejudiced by the joinder of offenses. On
+ May 11, 2009, Petitioner filed its Memorandum in Opposition to
+ Respondent’s Motion for Severance, maintaining that the defendant
+ seeking severance has the burden of showing prejudice would
+ result from joinder of the offenses. 
+23
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Petitioner noted that one instance in which joinder may
+ 
+deny a defendant a fair trial is where evidence damaging to the
+ 
+defendant would not have been admissible if the offenses had been
+ tried separately. Petitioner contended that here (1) the
+ evidence supporting CW #1 would be admissible against Respondent
+ as to counts involving CW #2 to show intent, common scheme, plan,
+ design or modus operandi and (2) although consolidated trials
+ will almost always permit the admission of some evidence that
+ would not be admissible as to each and every count if tried
+ separately, any potential prejudice may be effectively dispelled
+ by a jury instruction that each count and the evidence that
+ applies to each count is to be considered separately. The court
+ denied Respondent’s Motion for Severance on June 4, 2009. 
+On appeal, Respondent argued that he was prejudiced by
+ 
+the joinder. In considering the foregoing argument, the ICA
+ stated that Respondent was not prejudiced by inadmissable
+ evidence because the evidence of the incident involving CW #1
+ “would likely have been admissible to show modus operandi and
+ identity” because the “two incidents are so ‘strikingly similar
+ . . . as to support the inference that both were the handiwork of
+ the very same person.’” Veikoso, 2010 WL 5037006, at *8 (quoting
+ 
+Commentary to HRE Rule 404). However, the ICA was incorrect. 
+Here, the testimony of CW #1 would not be admissible to
+ 
+prove identity because identity was not disputed. Rather,
+ Respondent raised a defense of consent and suggested that CW #2
+ had fabricated the complaint because “at some point[,] . . . 
+24
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+there was a dispute about the money being paid or not paid”;
+ 
+“there was an agreement for $120[,]” but the $120 “was found
+ folded in [Respondent’s] pocket.” See supra. According to
+ 
+Respondent, this was a case of Respondent “not having money to
+ pay for sex.” Thus, the testimony of CW #1 was not admissible
+ against Respondent as to Counts 4-8 to show identity.
+ 
+Furthermore, this court has explained that modus
+ 
+operandi evidence ultimately goes to identity and consequently,
+ where “the identity of the perpetrator of the crimes [is] not
+ denied, [] the admission of the other crimes evidence as proof of
+ modus operandi cannot be justified[.]” State v. Castro, 69 Haw.
+ 
+633, 645, 756 P.2d 1033, 1042 (1988); see People v. Boyd, 851
+ N.E.2d 827, 836 (Ill. App. Ct. 2006) (stating that “[m]odus
+ operandi evidence ordinarily is not relevant where identity is
+ not at issue”; because “the defense theory was consent, the
+ identity of the offender was not at issue” and “[m]odus operandi
+ would not have been a relevant basis to admit the other crimes
+ evidence”); Rosky v. State, 111 P.3d 690, 698 (Nev. 2005)
+ (stating that “[g]enerally, modus operandi evidence is proper in
+ situations where a positive identification of the perpetrator has
+ not been made, and the offered evidence establishes a signature
+ crime so clear as to establish the identity of the person on
+ trial”) (internal quotation marks and citations omitted). Again,
+ because identity was not in dispute in this case, CW #1’s
+ testimony was not admissible against Respondent as to charges
+ involving CW #2 to show modus operandi. Nevertheless, excluding 
+25
+         
+ 
+         
+             
+             
+         
+         
+         
+          
+          
+          
+   
+             
+              
+             
+            
+   
+        
+  
+    
+      
+         
+       
+      
+       
+      
+       
+  
+      
+   ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+CW #1’s testimony, there was overwhelming evidence presented
+ 
+tending to show that Respondent was guilty of Counts 4-8 beyond a
+ reasonable doubt.
+12
+ 
+X.
+ A.
+ 
+As noted supra, Respondent was charged with two counts
+ 
+of Sexual Assault in the First Degree. As to Count 4, the jury
+ was instructed that the offense of Sexual Assault in the First
+ Degree has three material elements: (1) Respondent subjected CW
+ 
+13
+ #2 to an act of sexual penetration  by inserting his penis into
+12 Although the jury heard CW #1’s testimony, here, the court
+ 
+instructed the jury that it was to consider the evidence that applies to each
+count separately. At the close of trial, the court instructed the jury as
+ follows:
+ 
+The defendant is charged with more than one offense under
+separate counts in the indictment. Each count and the
+ evidence that applies to that count is to be considered
+separately. The fact that you may find the defendant not
+guilty, or guilty of one of the counts charged, does not
+mean that you must reach the same verdict with respect to
+any other count charged.
+ 
+Thus, we may presume that the jury did not consider CW #1’s testimony inreaching its verdict as to Counts 4-8. See State v. Webster , 94 Hawai 'i 241,
+248-49, 11 P.3d 466, 473-74 (2000) (“A jury is presumed to follow the court’sinstructions.” (Quoting State v. Cardus , 86 Hawai 'i 426, 438, 949 P.2d 1047, 
+1059 (App. 1997).)). 
+13 HRS § 707-700 (Supp. 2009) defines “sexual penetration” as
+ 
+follows:
+ 
+“Sexual penetration” means:
+ (1)	 Vaginal intercourse, anal intercourse, fellatio,
+deviate sexual intercourse, or any intrusion of
+any part of a person’s body or of any object
+into the genital or anal opening of another
+person’s body; it occurs upon any penetration,
+however slight, but emission is not required.
+As used in this definition, “genital opening”
+includes the anterior surface of the vulva or
+ labia majora; or
+ 
+(2)	 Cunnilingus or anilingus, whether or not actual
+penetration has occurred.
+ 
+26
+         
+        
+         
+         
+       
+       
+       
+       
+   
+ 
+ 
+       
+        
+          
+       
+       
+         
+         
+        ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+14	 and (3) did so knowingly her mouth, (2) by strong compulsion,  1
+5
+ 
+as to each element of the offense. As to Count 5, the jury was
+ 
+instructed that the elements of Sexual Assault in the First
+ Degree were: (1) Respondent subjected CW #2 to an act of sexual
+ penetration by inserting his penis into her genital opening,
+ (2) by strong compulsion, and (3) did so knowingly as to each
+ element of the offense. 
+1.
+ 
+As to the element of “sexual penetration” under Count
+ 
+4, CW #2 testified that Respondent put his penis “[i]nto [her]
+ mouth” and forced her to perform oral sex on him. She further
+ testified that after forcing her to have vaginal sex, Respondent
+ “made [her] suck his penis one more time.” 
+Then, according to CW
+ 
+#2, Respondent told her that he was going to ejaculate “in [her]
+ mouth[,]” “stuck his penis into her mouth[,] ejaculated[,]” and
+ said, “[Y]ou better swallow it.” CW #2’s testimony was
+ 
+14	 HRS § 707-700 (1993) defines “strong compulsion” as follows:
+ 
+“Strong compulsion” means the use of or attempt to use
+one or more of the following to overcome a person:
+(1)	 A threat, express or implied, that places a
+person in fear of bodily injury to the
+individual or another person, or in fear that
+the person or another person will be kidnapped;
+ 
+(2)	 A dangerous instrument; or
+ 
+(3)	 Physical force .
+ 
+(Emphases added.)
+ 
+HRS § 702-206(2) (1993) defines “knowingly” as follows:
+ 
+(a)	 A person acts knowingly with respect to his conduct
+when he is aware that his conduct is of that nature.
+ 
+(b)	 A person acts knowingly with respect to attendant
+circumstances when he is aware that such circumstances
+ 
+exist.
+ 
+(c)	 A person acts knowingly with respect to a result of
+his conduct when he is aware that it is practically
+certain that his conduct will cause such a result.
+ 
+27
+ 15         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+corroborated by Dr. Lee’s testimony that CW #2 told him during
+ 
+her physical examination that her assailant made her perform oral
+ sex on him, ejaculated in her mouth, and made her swallow. 
+As to the element of “sexual penetration” under
+ 
+Count 5, CW #2 testified that Respondent “put his penis into
+ [her] vagina[.]” The foregoing testimony was corroborated in
+ this case by Dr. Lee’s testimony that CW #2 related to him during
+ her physical examination that her assailant “put his penis in her
+ vagina.” Dr. Lee also indicated that his bimanual examination
+ was “consistent with penetration of the genital opening.” In
+ addition, according to the testimony of Ogawa, when CW #2 ran up
+ to his car, her blouse was ripped and she told him immediately
+ upon entering his vehicle that “she just got raped at the school
+ right across the street.” 
+2.
+ 
+As to the element of “strong compulsion” under both
+ 
+Counts 4 and 5, there was evidence that Respondent used both
+ “threat[s],” plac[ing] [CW #2] in fear of bodily injury” or “in
+ fear that [she would] . . . be kidnapped[,]” and “physical force”
+ “to overcome CW #2.” HRS § 707-700. As to threats, CW #2
+ testified that Respondent repeatedly told her, “Shut the fuck
+ up[,] . . . you’re going to do what I tell you to do”; when she
+ started screaming, Respondent threatened, “Shut the fuck up or
+ I’m going to shoot you”; when Respondent grabbed CW #2’s hair
+ after she grabbed the handle of Respondent’s vehicle, CW #2
+ pulled free and Respondent said, “Oh, what the fuck are you
+ doing? I’m going to crack you again”; while driving, CW #2
+ 
+28
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+turned off Respondent’s ignition and Respondent said, “Look at
+ 
+what the fuck you did, bitch. . . . Oh, you want me to crack you
+ again?”; at some point after she had attempted to escape from his
+ vehicle, Respondent told CW #2 that “[t]he last girl that was
+ with [him] got out, but she broke her collarbone”; upon arriving
+ at Maunawili Elementary School, Respondent warned, “[Y]ou’re
+ going to do whatever I want you to do and then you can go; You’ll
+ be fine if you do it.” 
+There was also evidence that Respondent used
+ 
+“[p]hysical force” to overcome CW #2. CW #2 testified that
+ Respondent struck her in the face and the back of the head
+ several times, grabbed her hair, and pulled her down to the
+ center console, causing her to bleed and “black[] out.” She
+ stated that when she attempted to free her hair from Respondent’s
+ hands, he hit her on the back of the head with his fist or elbow. 
+Once at the school, Respondent dragged her by the hair to a bench
+ before demanding her to perform oral and vaginal sex. He then
+ placed his hands on her neck and pressed down on her throat,
+ making it difficult for her to breathe, and ejaculated in her
+ mouth. 
+CW #2’s testimony regarding the physical force used by
+ 
+Respondent against her was corroborated by Dr. Lee’s testimony. 
+As recounted, Dr. Lee testified that CW #2 related to him that
+ her assailant punched her nose, causing it bleed; punched her
+ cheek and the back of her head, causing her to have a headache
+ and ringing in her ears; grabbed her arm, causing pain; pulled
+ her out of her car, causing pain on her right hip; punched her
+ 
+29
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+lips and left side of her face; pulled her hair; and bit her lip
+ 
+and left breast. 
+Dr. Lee further testified that during his physical
+ 
+examination of CW #2, he observed “tenderness” in her breast;
+ “recent abrasions or scratches on her ride side of her neck and
+ her right thigh”; lesions on her neck; “tenderness” and “pain in
+ her left shoulder and arm”; “a two-centimeter area” on the back
+ of her neck “that was raised and tender,” “consistent with a
+ hematoma” or “lump” or “a goose egg[] on her scalp,” with
+ “bleeding under the skin”; “a recent contusion”; a “red” and
+ “swollen lip”; tenderness on the bridge of her nose; and
+ multiple, recent contusions, bruises and abrasions on her body. 
+CW #2’s testimony regarding Respondent’s use of physical force
+ against her was also corroborated by Ogawa’s testimony that CW #2
+ had blood on her lip when she ran up to his car and asked for
+ help. 
+In addition, the physical evidence presented in this
+ 
+case confirmed that CW #2’s blood was in Respondent’s vehicle and
+ on his shorts, further corroborating CW #2’s testimony.
+ Respondent contends that the physical evidence does not offer
+ “‘objective’ conclusions of any kind, especially in light of Dr.
+ Lee’s testimony that CW #2 was starting her menstrual period.” 
+However, it is significant that Matsuoka testified the blood was
+ discovered on the “middle compartment” and “cup holder” of
+ Respondent’s vehicle, which corroborates CW #2’s testimony that
+ Respondent pulled her down to the center console, causing her to
+ bleed. 
+30
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Finally, there was evidence that Respondent’s threats
+ 
+and force was sufficient to overcome CW #2. According to CW #2’s
+ 
+testimony, she did not scream and complied with Respondent’s
+ demands because she was “scared [he] was going to hit [her] [] or
+ kill [her].” CW #2’s testimony in that regard was corroborated
+ by Dr. Lee’s testimony that CW #2 told Dr. Lee that “she did it”
+ because she “was scared” and “[d]idn’t want to get hit again.” 
+3. 
+As to the requisite state of mind under Counts 4 and 5, 
+a person acts “knowingly” with respect to his or her conduct when he is aware that his conduct is of that nature. HRS § 702­206(2). This court has stated that “it is not necessary for the prosecution to introduce direct evidence of a defendant’s state of mind in order to prove that the defendant acted intentionally, knowingly or recklessly.” State v. Eastman, 81 Hawai' i 131, 
+140-41, 913 P.2d 57, 66-67 (1996) (citing State v. Rushing, 62 Haw. 102, 106, 612 P.2d 103, 106-07 (1980)). “Given the difficulty of proving the requisite state of mind by direct evidence in criminal cases, proof by circumstantial evidence and reasonable inferences arising from circumstances surrounding the defendant’s conduct is sufficient.” Id. (citing State v. Batson, 
+73 Haw. 236, 254, 831 P.2d 924, 934 (1992)). “The mind of an alleged offender may be read from his acts, conduct and inferences fairly drawn from all the circumstances.” Id. (citing 
+Batson, 73 Haw. at 254, 831 P.2d at 934). 
+As to whether Respondent knowingly subjected CW #2 to
+ 
+an act of sexual penetration under Count 4, CW #2 testified that
+ 
+31
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Respondent dragged her to a bench, undressed himself and CW #2 
+before inserting his penis “[i]nto her mouth” and forcing her to perform oral sex on him. According to CW #2’s testimony, Respondent then told her that he was going to ejaculate “in [her] mouth” and she was “going to swallow it.” He then placed his penis into CW #2’s mouth a second time and ejaculated therein. It may be “‘reasonabl[y] infer[red] [] from [the] circumstances surrounding [Respondent]’s conduct[,]’” Eastman, 81 Hawai' i at 
+140-41, 913 P.2d at 66-67 (citing Batson, 73 Haw. at 254, 831 P.2d at 934), that Respondent was “aware” he was placing his penis in CW #2’s mouth, thereby indicating that he knowingly subjected CW #2 to an act of sexual penetration under Count 4. 
+As to whether Respondent knowingly subjected CW #2 to
+ 
+an act of sexual penetration under Count 5, CW #2 testified that
+ when they arrived at the school, Respondent said, “[Y]ou can tell
+ your friends this is where you got fucked.” Before placing his
+ penis into her vagina, Respondent dragged CW #2 by the hair to a
+ bench, undressed himself and CW #2, and instructed CW #2 “to get
+ on top of him.” It may be reasonably inferred from the
+ circumstances surrounding Respondent’s conduct that Respondent
+ was “aware” he was placing his penis into CW #2’s vagina, and
+ therefore, knowingly subjected CW #2 to an act of sexual
+ penetration under Count 5.
+ 
+As to the element of strong compulsion, CW #2 testified
+ 
+that Respondent continued to use force against her even after she
+ started bleeding and blacked out. After being threatened and hit
+ several times, CW #2 began screaming, but Respondent continued to
+ 
+32
+         
+         
+       
+        
+            
+          
+        
+       ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+threaten and use force against CW #2. In addition, Respondent
+ 
+threatened and used force against CW #2 more than once. It may
+ be inferred from the circumstances that Respondent was “aware” he
+ was using threats and force to overcome CW #2, and therefore,
+ knowingly subjected CW #2 to acts of sexual penetration by strong
+ compulsion.
+ 
+In light of the foregoing, there was “overwhelming 
+. . . evidence tending to show [Respondent] guilty [of Counts 4 and 5] beyond a reasonable doubt[.]” Toyomura, 80 Hawai' i at 27, 
+904 P.2d at 912. 
+B.
+ 
+With respect to Counts 6 and 7, Respondent was charged
+ 
+with two separate counts of Sexual Assault in the Third Degree. 
+The jury was instructed as to Count 6 that the offense of Sexual
+ Assault in the Third degree has three material elements: 
+16
+ (1) Respondent subjected CW #2 to sexual contact  by placing his
+hand on her breast, (2) by strong compulsion, (3) and did so
+ knowingly as to each element of the offense. The jury was
+ instructed that the elements of Counts 7 were: (1) Respondent
+ subjected CW #2 to sexual contact by placing his mouth on her
+ breast, (2) by strong compulsion, (3) and did so knowingly as to
+ each element of the offense. 
+16
+ HRS § 707-700 (Supp. 2009) defines “sexual contact” as follows:
+ 
+“Sexual contact” means any touching, other than acts
+ 
+of “sexual penetration”, of the sexual or other intimate
+parts of a person not married to the actor, or of the sexual
+or other intimate parts of the actor by the person, whether
+directly or through the clothing or other material intended
+to cover the sexual or other intimate parts.
+ 
+33
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+1.
+ 
+With respect to the first element of Counts 6 and 7, CW
+ 
+#2 testified that Respondent “touched [her] breast, and . . . put
+ 
+his mouth on her breast.” Dr. Lee corroborated the foregoing,
+ testifying that CW #2 related to him during her physical
+ examination that her assailant “fondled her . . . boobs” and
+ “kissed her breasts[.]” He also testified that CW #2 told him
+ that her assailant had bitten her breast, and noted that during
+ his physical examination of CW #2, she had “minimal tenderness”
+ in her left breast, meaning that “when Dr. Lee” touched it[, CW
+ #2] was sensitive or . . . sore[.]” 
+2.
+ 
+As discussed in the previous section, there was
+ 
+evidence supporting the element of strong compulsion for purposes
+ of Counts 6 and 7.
+ 
+3. 
+With respect to whether Respondent knowingly subjected
+ 
+Respondent to sexual contact under Counts 6 and 7, as indicated
+ in the previous section, prior to Respondent placing his hand and
+ mouth on CW #2’s breast, he dragged her to a bench by the hair,
+ undressed himself and CW #2, and forced her to perform oral and
+ vaginal sex. Thereafter, he “laid [her] down on the bench[,]”
+ “kissed [her,]” and touched and placed his mouth on her breast. 
+It may be reasonably inferred from the circumstances surrounding
+ Respondent’s conduct that Respondent was “aware” he was touching
+ and placing his mouth on CW #2’s breast, and therefore, knowingly
+ subjected CW #2 to sexual contact.
+ 
+34
+         
+       
+       
+        
+ 
+       
+         
+     
+     
+   
+ 
+       
+       
+         
+ 
+       
+        
+       ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+With respect to the element of strong compulsion, for
+ 
+the reasons discussed in the previous section, it may be inferred
+ 
+from the circumstances that Respondent was aware he was using
+ threats and force to overcome CW #2. Thus, there was evidence
+ that Respondent knowingly subjected CW #2 to sexual contact, by
+ strong compulsion.
+ 
+Based on the foregoing, there was “overwhelming and 
+compelling evidence tending to show [Respondent] guilty [of Counts 6 and 7] beyond a reasonable doubt” such that the “errors in the admission” of Dr. Lee’s testimony regarding threats may be “deemed harmless.” Toyomura, 80 Hawai' i at 27, 904 P.2d at 912 
+(internal quotation marks and citation omitted). 
+C.
+ 
+The jury was instructed as to Count 8 that the offense
+ 
+of Kidnapping has three material elements: (1) Respondent
+ 
+  18  19
+ restrained CW #2,17	(2) intentionally or knowingly,  (3) with 
+17	 HRS § 707-700 (1993) defines “restrain” as follows:
+ 
+“Restrain” means to restrict a person’s movement in
+such a manner as to interfere substantially with the
+person’s liberty:
+(1)	 By means of force, threat , or deception; or
+ 
+(2)	 If the person is under the age of eighteen or
+incompetent, without the consent of the
+relative, person, or institution having lawful
+custody of the person.
+ 
+(Emphasis added.)
+ 
+18
+ HRS § 702-206(1) (1993) defines “intentionally” as follows:
+ 
+(a)	 A person acts intentionally with respect to his
+conduct when it is his conscious object to engage in
+such conduct.
+ 
+(b)	 A person acts intentionally with respect to attendant
+circumstances when he is aware of the existence of
+ such circumstances or believes or hopes that they
+exist.
+ 
+(continued...)
+ 
+35
+         
+        
+         
+   
+        ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+intent to inflict bodily injury upon CW #2 or subject CW #2 to a
+ 
+sexual offense or terrorize CW #2. HRS § 707-720(d) & (e).
+ 
+1.
+ 
+As to the element of restraint, there was evidence that
+ 
+Respondent “restrict[ed CW #2]’s movement in such a manner as to
+ interfere substantially with [CW #2]’s liberty . . . [b]y means
+ of force” and “threat.” HRS § 707-700. As to the use of force
+ to restrain CW #2, CW #2 testified that when she asked Respondent
+ to take her back and reached for her phone, Respondent grabbed it
+ from her, struck her in the face and the back of the head several
+ times, grabbed her hair, and pulled her down to the center
+ console, causing her to bleed and “black[] out.” When CW #2
+ attempted to escape from the vehicle, Respondent told her, “Oh,
+ try and get out[,]” but when she grabbed the door handle, he
+ “grabbed [her] hair again” and said, “What the fuck are you
+ doing?” Then, when she tried to pull her hair away from
+ Respondent, he hit her on the back of her head with his fist or
+ elbow. As stated, CW #2’s testimony regarding the use of force
+ against her was corroborated by the testimonies of Dr. Lee and
+ Ogawa, as well as the physical evidence presented. See supra. 
+As to the use of threats to restrain CW #2, CW #2
+ 
+testified that when she started screaming and pleaded for
+ Respondent to let her go, Respondent said, “Shut the fuck up or
+ 
+18(...continued)
+(c)	 A person acts intentionally with respect to a result
+of his conduct when it is his conscious object to
+cause such a result.
+ 
+19
+ See supra note 15 for the definition of “knowingly.”
+ 
+36
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+I’m going to shoot you.” Respondent repeatedly warned, “Shut the
+ 
+fuck up[,] . . . you’re going to do what I tell you to do.” 
+According to CW #2’s testimony, she attempted to open the door to
+ the vehicle but Respondent grabbed her hair and said, “Oh, what
+ the fuck are you doing? I’m going to crack you again.” After
+ she had tried to escape, Respondent told CW #2 that “[t]he last
+ girl that was with [him] got out, but [] broke her collarbone.” 
+Then, upon arriving at the school, Respondent told her, “[Y]ou’re
+ going to do whatever I want you to do and then you can go; You’ll
+ be fine if you do it.” She eventually kept quiet and ceased from
+ attempting to escape because she was afraid Respondent would hurt
+ or kill her. 
+2.
+ 
+As to the second element of Kidnapping, Respondent must
+ 
+have intentionally or knowingly restrained CW #2 by use of
+ threats or force. A person acts intentionally with respect to
+ his conduct when it is his conscious object to engage in such
+ conduct. HRS § 702-206(1). Here, there was evidence indicating
+ that Respondent’s use of force was specifically in response to CW
+ #2’s requests for Respondent to let her go and attempts to
+ escape. According to CW #2, after she entered Respondent’s
+ vehicle, when she told him to take her back, Respondent said,
+ “Oh, why? Are you scared of me now?” When CW #2 reached for her
+ cell phone because she was scared, Respondent struck her in the
+ face and back of the head. Thereafter, he told her to try to
+ escape, but he grabbed her by the hair and struck her on the back
+ of her head with his fist or elbow when she tried to break free. 
+37
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+Similarly, Respondent’s threats against CW #2 were also
+ 
+made specifically in response to CW #2’s request to let her go
+ 
+and attempts to escape. When CW #2 began screaming and pleaded
+ with Respondent to let her go, Respondent threatened to shoot CW
+ #2. When she tried to escape from his vehicle, he threatened to
+ strike her again. He then warned that another female’s attempt
+ to escape resulted in the female breaking her collarbone. 
+Respondent told CW #2 that if she did as he told her to, she
+ would be “fine.” Here, there was evidence from which it may be
+ inferred that it was Respondent’s conscious object to restrain CW
+ #2 by means of threat of force.
+ 
+As noted, a person acts “knowingly” with respect to his
+ 
+conduct when he is aware that his conduct is of that nature. HRS
+ § 702-206(2). It may also be inferred from the foregoing
+ evidence that Respondent was “aware” he was restraining CW #2 by
+ use of threat or force.
+ 
+3.
+ 
+As to the third element of Kidnapping, there was
+ 
+evidence that Respondent restrained CW #2 with intent to inflict
+ bodily injury upon CW #2, subject CW #2 to a sexual offense or
+ terrorize CW #2. HRS § 707-720(d) & (e). As discussed supra,
+ there was corroborated evidence that Respondent restrained CW #2
+ for the purpose of terrorizing her with threats and to inflict
+ bodily injury on her. There was also evidence that Respondent
+ restrained her for the purpose of committing a sexual offense,
+ i.e., sexual assault in the first and third degrees. See supra. 
+In sum, there was “overwhelming and compelling evidence tending
+ 
+38
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+to show [Respondent] guilty [of Count 8] beyond a reasonable 
+doubt,” such that the “errors in the admission” of Dr. Lee’s testimony regarding threats may be “deemed harmless.” Toyomura, 
+80 Hawai' i at 27, 904 P.2d at 912 (internal quotation marks and 
+citation omitted). 
+XI.
+ 
+According to the ICA, the admission of Dr. Lee’s
+ 
+threats was not harmless beyond a reasonable doubt because, in
+ its view, the testimony “may have tipped the scale in favor of CW
+ #2’s credibility.” Veikoso, 2010 WL 5037006, at *15. However,
+ 
+even if the ICA was correct, Dr. Lee’s improper testimony
+ regarding threats would have bolstered or corroborated CW #2’s
+ testimony, if at all, only as to the alleged threats made by
+ Respondent against her. With respect to Counts 4 through 7, the
+ evidence of the other threats would support the element of strong
+ compulsion. Notably, however, the element of strong compulsion
+ may be proved by establishing that the actor used threats or
+ force against a person. See HRS § 707-700 (defining “strong
+ 
+compulsion” as “the use of or attempt to use” “[a] threat,
+ express or implied, that places a person in fear of bodily injury
+ to the individual or another person, or in fear that the person
+ or another person will be kidnapped[] . . . or . . . [p]hysical
+ force” “to overcome a person”) (emphases added). Similarly, as
+ to Count 8, evidence of threats would support the element of
+ restraint. But, that element may likewise be proved by
+ establishing that the actor used threats or force against a
+ person. See id. (defining “restraint” as “restrict[ing] a
+ 
+39
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+person’s movement in such a manner as to interfere substantially
+ 
+with the person’s liberty . . . [b]y means of force, threat, or
+ deception”) (emphasis added). 
+Here, there were numerous instances of threats other 
+than the two objectionable ones related by Dr. Lee, that were corroborated by the evidence. Additionally, there was compelling evidence that Respondent not only threatened CW #2, but also used force against her. That testimony would not have been bolstered by Dr. Lee’s improper testimony regarding threats. Rather, CW #2’s testimony regarding force was corroborated by admissible testimony by Dr. Lee regarding physical injuries, Ogawa’s testimony, and the physical evidence presented in this case. Hence, there was overwhelming evidence of force used by Respondent to overcome CW #2, which would establish the element of “strong compulsion” for purposes of Sexual Assault in the First and Third Degree, and the element of “restraint” for purposes of Kidnapping, beyond Dr. Lee’s testimony regarding the two challenged threats. See State v. Haili, 103 Hawai' i 89, 106, 
+79 P.3d 1263, 1280 (2003) (concluding that “[t]he erroneous admission of evidence that [the victim] told others that [the defendant] was threatening to kill her” was “harmless” because “[e]ven without the admission of this hearsay testimony, the jury still would have heard testimony that [the defendant] threatened [the victim’s] life”); see also State v. Perez, 64 Haw. 232, 234, 638 P.2d 335, 337 (1981) (stating that even if it could be said that the trial court erred in admitting testimony regarding the contents of an anonymous phone call, the error was harmless 
+40
+         ***FOR PUBLICATION IN WEST’S HAWAI 'I REPORTS AND PACIFIC REPORTER*** 
+beyond a reasonable doubt because “[t]he anonymous phone call was 
+not the only evidence that connected appellant to the victim”; the victim identified the defendant’s picture as her attacker, noted that the defendant was wearing the same coat he was wearing when she was attacked, and also identified him in court). In that light, there is no “possibility” of a “reasonable” nature that the error “contributed to [Respondent’s] conviction.” Machado, 109 Hawai' i at 452, 127 P.3d at 948. Thus, the error 
+was harmless beyond a reasonable doubt. 
+XII. 
+Based on the foregoing, the ICA gravely erred in
+ 
+concluding that Dr. Lee’s testimony regarding two threats was not
+ harmless beyond a reasonable doubt. Veikoso, 2010 WL 5037006, at
+ 
+*15. Accordingly, we reverse the February 1, 2011 Judgment of
+ the ICA insofar as it vacated the court’s September 28, 2009
+ Judgment as to Respondent’s conviction for Counts 4-8, and we
+ reinstate and affirm the court’s said September 28, 2009 Judgment
+ as to Counts 4-8. 
+James M. Anderson, Deputy
+Prosecuting Attorney,
+City & County of Honolulu,for petitioner/plaintiff­appellee. /s/ Mark E. Recktenwald
+ /s/ Paula A. Nakayama
+ /s/ Simeon R. Acoba, Jr.
+ 
+Randall K. Hironaka 
+(Miyoshi & Hironaka),
+(Joyce Matsumori-Hoshijoon the briefs), for
+respondent/defendant­appellant.
+ /s/ James E. Duffy, Jr.
+ /s/ Sabrina S. McKenna
+41
+ 

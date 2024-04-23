@@ -1,0 +1,1508 @@
+*** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+  
+ 
+ 
+   
+ 
+  
+ 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAIʻ I 
+ 
+---o0o--- 
+ 
+ 
+JAMES B. NUTTER & COMPANY, 
+Respondent/Plaintiff-Appellee, 
+ 
+vs. 
+ 
+ELTON LANE NAMAHOE, SR., 
+Petitioner/Defendant-Appellant, 
+ 
+and 
+ 
+SECRETARY OF HOUSING AND URBAN DEVELOPMENT,
+Respondent/Defendant-Appellant.  
+ 
+ 
+SCWC-17-0000496 
+ 
+CERTIORARI FROM THE INTERMEDIATE COURT OF APPEALS 
+(CAAP-17-0000496; CIVIL NO. 12-1-0113) 
+ 
+MARCH 31, 2023 
+ 
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, WILSON, AND EDDINS, JJ. 
+ 
+OPINION OF THE COURT BY RECKTENWALD, C.J. 
+ 
+I. INTRODUCTION 
+ 
+ Elton Lane Namahoe, Sr. lost his home to a judicial 
+foreclosure of a reverse mortgage after he allegedly failed to Electronically Filed
+Supreme Court
+SCWC-17-0000496
+31-MAR-2023
+07:46 AM
+Dkt. 24 OP*** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+2 
+ make $500.00 worth of repairs.  The lender, James B. Nutter 
+Company (JBNC), brought a foreclosure proceeding against Namahoe 
+for allegedly “default[ing] in the observance and performance of 
+the terms, covenants and conditions [of his mortgage] by failing 
+to repair the property as required by the Repair Rider to the 
+Loan Agreement in a timely manner.”     
+In the Circuit Court of the Third Circuit, JBNC filed 
+a Motion for Summary Judgment and Decree of Foreclosure against 
+Namahoe, which the court granted.  More than two and a half 
+years after the foreclosure, Namahoe filed a 
+Hawaiʻi Rules of 
+Civil Procedure (HRCP) Rule 60(b) (2006) Motion for Relief from 
+Judgment, specifically citing subsections 60(b)(3), (4), and (6).  The circuit court denied these motions, in addition to 
+Namahoe’s subsequently filed HRCP Rule 59 (2000) Motion for 
+Reconsideration.
+1   
+  On appeal to the Intermediate Court of Appeals (ICA), Namahoe argued that JBNC sought foreclosure on impermissible 
+grounds and that: (1) the circuit court abused its discretion in 
+denying Namahoe’s HRCP Rule 60(b)(3) motion because JBNC and its 
+attorneys committed fraud in seeking the foreclosure; (2) under 
+HRCP Rule 60(b)(4), the circuit court’s judgment was void because he was not properly served; (3) under HRCP Rule 
+ 
+1  The Honorable Greg K. Nakamura presided. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+3 
+ 60(b)(6), JBNC committed fraud on the court by failing to 
+disclose the facts supporting foreclosure and by failing to 
+satisfy statutory attorney affirmation requirements; and (4) the 
+circuit court erred in denying his HRCP Rule 59 Motion for 
+Reconsideration.   
+The ICA affirmed the circuit court’s judgment in favor 
+of JBNC.  James B. Nutter & Co. v. Namahoe, No. CAAP-17-0000496, 
+2022 WL 899896 at *12 (App. March 28, 2022).  In his application for certiorari, Namahoe asks this court to vacate the ICA’s 
+judgment affirming the circuit court’s denial of his motions brought under HRCP Rule 60(b) and Rule 59.   
+  We resolve Namahoe’s appeal as follows.  We agree with 
+the ICA that the circuit court did not err in finding that 
+Namahoe was time-barred from raising a HRCP Rule 60(b)(3) motion 
+and that, under HRCP Rule 60(b)(4), the judgment was not void, 
+because he was personally served.  Further, the ICA and circuit 
+court did not err in rejecting Namahoe’s Rule 59 Motion for Reconsideration.  
+  
+ But we conclude that the ICA erred in affirming the 
+circuit court’s denial of Namahoe’s request for relief under HRCP Rule 60(b)(6).  Specifically, we hold that there are 
+grounds for relief both on a fraud on the court theory and under 
+the equitable principles governing foreclosure.  JBNC submitted 
+a materially deficient attorney affirmation to the circuit court *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+4 
+ (continued . . .) in support of its motion for summary judgment, and the balance 
+of equities weighed strongly against foreclosure.  Accordingly, 
+we reverse the circuit court’s denial of Namahoe’s HRCP Rule 
+60(b)(6) motion and vacate the Decree of Foreclosure insofar as 
+it would otherwise preclude Namahoe from asserting a wrongful 
+foreclosure counterclaim. 
+II.  BACKGROUND 
+A.  
+Foreclosure and Circuit Court Proceedings 
+ 
+This case centers around a home equity conversion 
+mortgage (reverse mortgage)2 on Elton Lane Namahoe, Sr.’s home, 
+which is located in Kurtistown, Hawaiʻ i.  Namahoe’s lender, JBNC, 
+through its former attorneys Clay Chapman Iwamura Pulice & 
+Nervell (Clay Chapman), brought a foreclosure action against 
+Namahoe for allegedly “default[ing] in the observance and 
+performance of the terms, covenants and conditions by failing to 
+repair the property as required by the Repair Rider to the Loan 
+Agreement in a timely manner.”  Specifically, JBNC sought 
+foreclosure based on Namahoe’s alleged failure to complete 
+$500.00 worth of repairs to his home.3   
+ 
+2  Although the loan at issue is more precisely a home equity 
+conversion mortgage, this opinion refers to the broader term “reverse 
+mortgage” for the sake of consistency with the parties’ briefs, circuit court 
+orders, and ICA opinion.  
+   
+3  Lenders are required to set aside 150% of the estimated cost of 
+repairs.  24 C.F.R. § 206.19(f)(1) ( 2009).  Because the Repair Rider set *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+5 
+ 1.  
+Reverse mortgage loan agreement 
+   On October 19, 2009, Namahoe executed a promissory 
+note (Note) in favor of JBNC for the maximum principal sum of 
+$189,000.00.  The agreement also included a home equity 
+conversion loan agreement (Loan Agreement) and a Repair Rider.  
+Namahoe also executed, as mortgagor, an adjustable rate home 
+equity conversion mortgage (Security Instrument) securing the 
+Note and Loan Agreement and incorporating his property located 
+at 16-1218 ʻ Ōpeʻapeʻa Road, Kurtistown (Property) into the 
+mortgage.  According to the Loan Agreement, out of a “Principal 
+Limit” of $67,536.00, Namahoe was to receive a “Loan Advance” of 
+$52,462.48.  The remaining balance was to cover the “Servicing Fee Set Aside,” closing costs, and funds designated for repairs.   
+2.  Alleged breach of the Repair Rider 
+ 
+JBNC alleged that Namahoe “defaulted in the observance 
+and performance of the terms, covenants and conditions” of the Repair Rider by failing to make timely repairs on the Property.  
+The Repair Rider, in relevant part, states: 
+THIS REPAIR RIDER is made on October 19, 2009, 
+and is incorporated into and shall be deemed to 
+supplement the Loan Agreement of the same date made 
+by the undersigned Lender and the undersigned Borrower and the Secretary of Housing and Urban 
+Development (“S ecretary”). 
+ 
+(. . . continued)  
+aside a total of $750.00 for repairs, this indicates an estimated $500.00 
+cost of repairs.  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+6 
+ I.  Lender’s Promises 
+A.  The Lender shall set aside $750.00 from the 
+initial Principal Limit under the Loan 
+Agreement to be used for the purpose of 
+bringing the Property up to the property 
+standards required by the Secretary [of Housing 
+and Urban Development (HUD)] by repairing:  
+The hall and carport ceiling shows evidence of 
+water stains due to roof leak.  The Front stair 
+rail showed evidence of
+ water rot.  All to be 
+repaired. 
+ 
+. . . 
+ 
+C.  The Lender shall require one or more inspections by a
+ HUD-approved inspector during 
+the course of the repair work.   The Lender 
+shall not release any funds for work which is not complete and which is not approved by a 
+HUD-approved inspector.  The Lender certifies 
+by executing this Repair Rider that the repairs 
+which are funded under this Repair Rider will 
+be completed in a manner to meet HUD property 
+standards required by the Secretary as 
+determined by a HUD- approved inspector. 
+ 
+. . . 
+ 
+E.  Until a HUD
+-approved inspector finds that 
+all repairs required by Section I.A. of this 
+Repair Rider have been completed in a satisfactory manner, the Lender shall not 
+release funds in excess of (i) the total value 
+of work satisfactorily completed, and (ii) the 
+value of materials or equipment delivered to, and suitably stored at, the site but not yet incorporated in the work, less (iii) ten 
+percent heldback, less (iv) prior advances 
+under this Repair Rider. 
+ 
+II.  Borrower’s Promises 
+A.  The Borrower will complete all repairs 
+required by Section I.A. of this Repair Rider so that the Property meets the property 
+standards required by the Secretary as determined by a HUD- approved inspector. 
+ 
+B.  Borrower shall cause work to begin on 
+October 19, 2009.  Borrower shall have work 
+completed by October 18, 2010.  Work is to be 
+performed with reasonable diligence.  Should 
+Borrower fail to comply with these terms, until 
+all repair work is satisfactorily completed 
+Borrower shall not request and Lender shall not 
+make any further payments under the Loan 
+Agreement except for payment of repairs *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+7 
+ required by Section I.A. of this Repair Rider 
+and Loan Advances required under Section 4.5. 
+of the Loan Agreement. 
+ 
+. . . 
+ 
+(Emphasis added.) 
+ 
+As a result of Namahoe’s alleged failure to complete 
+the enumerated repairs, JBNC demanded immediate payment in full 
+of all outstanding principal and accrued interest arising from 
+the reverse mortgage.4  Although the Repair Rider does not 
+include an acceleration provision, section 9(b) of the Security 
+Instrument states that JBNC may require “immediate payment in 
+full of all sums secured by this Security Instrument, upon 
+approval by an authorized representative of the Secretary, if: . 
+. . (iii) [a]n obligation of the Borrower under this Security 
+Instrument is not performed.”  Thus, a failure to satisfy the 
+duty to repair under the Repair Rider may qualify as a 
+sufficient breach to require immediate payment.   
+JBNC was required to notify Namahoe and the Secretary 
+of HUD (Secretary) if the loan ever became due and payable under 9(b), and was limited in its right to pursue foreclosure by the 
+terms of the Security Instrument:  
+ 
+4  Compliance with the Repair Rider was to be determined by a    
+HUD-approved inspector.  As set forth below, the record does not establish 
+whether any HUD- approved inspectors surveyed the repairs or reported any 
+deficiencies with Namahoe’s repair work.   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+8 
+ Lender shall not have the right to commence 
+foreclosure until Borrower has had thirty (30) days 
+after notice to either: 
+ 
+(i) Correct the matter which resulted in the 
+Security Instrument coming due and payable; or 
+ 
+(ii) Pay the balance in full; or  
+(iii) Sell the Property for the lesser of the 
+balance or 95% of the appraised value and 
+apply the net proceeds of the sale toward 
+the balance; or 
+ 
+(iv) Provide the Lender with a deed in lieu of 
+foreclosure. 
+ 
+   The Loan Agreement and Note outlined the process for 
+notice.  The Loan Agreement provided, in relevant part:  
+6.3.  Notices.  Any notice to Borrower provided for in this 
+Loan Agreement shall be given by delivering it or by 
+mailing it by first class mail unless applicable law 
+requires use of another method.  The notice shall be 
+directed to the property address shown in the Security 
+Instrument or any other address all Borrowers jointly 
+designate.   
+ 
+  The Note provided: 
+  
+9.  GIVING OF NOTICES 
+Unless applicable law requires a different method, any 
+notice that must be given to Borrower under this Note will 
+be given by delivering it or by mailing  it by first class 
+mail to Borrower at the Property address above or at a 
+different address if Borrower has given Lender a notice of 
+Borrower’s different address. 
+ 
+(Emphases added.)  
+JBNC mailed a letter to Namahoe’s P.O. Box on  
+November 16, 2011 titled “Notice of Intent to Foreclose.”  The 
+letter stated:  
+  Our records reflect that a default now exists on the 
+above referenced loan.  The default consists of the failure 
+to repair the property as required by the Repair Rider to 
+the Loan Agreement in a timely manner.  As a result your 
+loan has been called due and payable because of non-*** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+9 
+ compliance with the Deed of Trust/Mortgage securing the 
+Promissory Note underlying this home loan.  
+ 
+. . . 
+ 
+ 
+ This letter serves as further notice that [JBNC] 
+intends to enforce the provisions of the Note and Deed of 
+Trust (Mortgage).  Unless you cure the default on or before 
+30 days from the date of this letter, this shall serve as 
+further notice to you that immediately thereafter, and without further demand or notice to you, [JBNC] shall accelerate the entire amount due of both principal and 
+interest, which shall become immediately due and payable, 
+invoke any remedies provided for in the Note and Deed of 
+Trust (Mortgage), including but not limited to the 
+foreclosure sale of the property. 
+ 
+On April 6, 2012, JBNC sent another letter to Namahoe 
+at his P.O. Box.  It stated, “[y]ou did not comply with the 
+Repair Rider to the Loan Documents in that you failed to repair 
+the property in a timely manner.  Therefore, the Lender has 
+called the loan immediately due and payable.”   
+Namahoe’s alleged violation of the Repair Rider 
+triggered the acceleration of his total remaining balance.  Thus, for a $500.00 deficiency, Namahoe was presented with a 
+bill for $75,946.58 plus interest, and he ultimately lost his 
+home.   
+3.  Foreclosure proceeding in the circuit court 
+ 
+On March 6, 2012, JBNC filed its foreclosure complaint
+against Namahoe in the Circuit Court of the Third Circuit.  Robert A. Estacion, a civil process server, failed to serve the complaint on Namahoe during his first three attempts.  
+Estacion’s stated reasons for non-service include “NO ONE HOME”  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+10 
+ and “NOT LIVING AT THIS ADDRESS (per neighbor and friend down 
+the street).”  JBNC then filed two Freedom of Information Act 
+(FOIA) requests seeking information related to Namahoe’s mailing 
+address.  In response to the FOIA request for a physical address 
+associated with Namahoe’s P.O. Box, the post office provided the 
+  
+conducted a “skip trace”  on Namahoe and confirmed the Property 
+address as his current address.   5Road.  JBNC also asserted that it address as 16-1218 ʻŌpeʻape ʻa
+  On November 13, 2012, Estacion filed a Return and 
+Acknowledgment of Service which included what appeared to be 
+Namahoe’s signature, indicating personal service of the 
+complaint at Namahoe’s home.  Based on the record, Namahoe did not subsequently answer or otherwise respond to the Complaint.
+6   
+On May 20, 2013, JBNC filed a Motion for Summary 
+Judgment and Decree of Foreclosure, exclusively relying on the 
+allegation that Namahoe had failed to repair the property in a 
+timely manner.7   
+In support of the motion, JBNC attached a Declaration 
+of Indebtedness signed by JBNC’s Vice President Bruce Huey, 
+ 
+5   Here, “skip trace” refers to a LexisNexis Accurint report. 
+ 
+6  Four years later, in his declaration submitted in support of his 
+HRCP Rule 60(b) motion, Namahoe attested that he did not recall signing the 
+Return and Acknowledgement of Service and that he “would not have understood 
+it anyway.”   
+ 
+7  JBNC did not expressly inform the circuit court that Namahoe’s 
+alleged default concerned only $500.00 of repairs.   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+11 
+ attesting that he had personal knowledge that “based on [his] 
+review of the records and files related to the mortgage loan” 
+Namahoe “defaulted in the observance and performance of the 
+terms, covenants and conditions by failing to repair the 
+property, as required by the Repair Rider to the Loan Agreement, 
+in a timely manner.”  Huey’s declaration included a copy of 
+HUD’s approval of JBNC’s request to call the loan due and 
+payable, and specified that written notice was given to Namahoe 
+regarding his obligation to pay in full all outstanding 
+principal and accrued interest due on the loan.   
+JBNC also attached an attorney affirmation signed by 
+Robert M. Ehrhorn, Jr. of Clay Chapman, pursuant to Hawaiʻ i 
+Revised Statutes (HRS) § 667-17 (Supp. 2012) (repealed 2017) 
+(current version at HRS § 667-18), which stated: 
+2.  On May 3, 2013, I received a written 
+communication from Bruce Huey, Vice President of James B. 
+Nutter & Company, who informed me that he personally 
+reviewed [JBNC’s] documents and records relating to this loan file . . . [and] confirmed the factual accuracy of the 
+allegations set forth in the Motion for Summary Judgment[.] 
+ 
+3.  Based upon the communication from the person 
+identified in Paragraph 2 above, as well as upon my own inspection and other reasonable inquiry under the 
+circumstances, I affirm that, to the best of my knowledge, information, and belief, the Motion for Summary Judgment, 
+and other papers filed or submitted to the Court in this 
+matter contain no false statements of fact or law and that 
+[JBNC] has legal standing to bring this foreclosure action.  
+I understand my continuing obligation to amend this 
+Affirmation in light of newly discovered material facts 
+following its filing. 
+ 
+4.  To the best of Declarant’s knowledge, 
+information, and belief the allegations contained in the *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+12 
+ Motion for Summary Judgment are warranted by existing law 
+and have evidentiary support. 
+ 
+(Emphases added.)  
+   Other than these declarations, JBNC did not provide 
+any evidence of Namahoe’s breach of the reverse mortgage terms 
+and failure to cure the default.  
+Namahoe did not oppose the Motion for Summary Judgment 
+and Decree of Foreclosure, and he did not appear before the 
+circuit court.  The circuit court’s relevant Findings of Fact 
+and Conclusions of Law were as follows: 
+FINDINGS OF FACT 
+ 
+ . . . 
+ 
+3.  [Namahoe] defaulted in the observance and 
+performance of the terms, covenants and conditions by 
+failing to repair the property, as required by the Repair Rider to the Loan Agreement, in a timely manner.  [HUD] 
+approved [JBNC’s] Request to Call The Loan Due And Payable, 
+for immediate payment in full of all outstanding principal 
+and accrued interest as required by paragraph 7(B)(iii) of 
+the Note. 
+   
+4.  Written notice was given to [Namahoe] that 
+because of his failure to repair the property as required 
+by the Repair Rider to the Loan Agreement in a timely manner, [JBNC] required immediate payment in full of all outstanding principal and accrued interest due on the loan.  
+However, despite said notice the default was not cured and 
+the loan has not been paid off.
+ 
+ 
+. . .  
+. . .  CONCLUSIONS OF LAW
+ 
+ 
+3)  [JBNC] is entitled to have its Mortgage 
+foreclosed, a commissioner appointed to take possession of and sell the mortgaged property . . . and the proceeds of 
+sale applied, first, to the payment of delinquent of real  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+13 
+ property taxes, then to the amounts due on [JBNC’s] 
+Mortgage and the balance, if any, as determined by the 
+Court. 
+ 
+(Emphasis in original.) 
+  Subsequently, JBNC purchased Namahoe’s home for $85,904.96, and Namahoe was served with a Writ of Ejectment on 
+June 22, 2014.
+8   
+4.  Namahoe’s HRCP Rule 60(b) Motion for Relief 
+ 
+On January 3, 2017, more than two and half years after 
+being served with the Writ of Ejectment, Namahoe filed a HRCP Rule 60(b) Motion for Relief from Judgment, citing subsections 
+60(b)(3), (4), and (6).
+9   
+ 
+8  According to Namahoe, the loss of his only home caused him to 
+become unsheltered.   
+ 
+9  HRCP Rule 60(b) states, in relevant part:  
+Mistakes; inadvertence; excusable neglect; newly discovered 
+evidence; fraud, etc.   On motion and upon such terms as are 
+just, the court may relieve a party or a party’s legal 
+representative from a final judgment, order, or proceeding 
+for the following reasons: . .  . (3) fraud (whether 
+heretofore denominated intrinsic or extrinsic), misrepresentation,  or  other misconduct of an adverse 
+party; (4) the judgment is void; . . . or (6) any  other 
+reason justifying relief from the operation of the 
+judgment.  The motion shall be made within a reasonable 
+time, and for reason[] . . .(3) not more than one year 
+after the judgment, order, or proceeding was entered or 
+taken.  A motion under this subdivision (b) does not affect 
+the finality of a judgment or suspend its operation.  This rule does not limit the power of a court to entertain an 
+independent action to relieve a party from a judgment, order, or proceeding, or to set aside a judgment for fraud 
+upon the court. 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+14 
+   
+ Namahoe also submitted a declaration in which he 
+attested that he timely made the required repairs pursuant to 
+the Repair Rider, and that JBNC had no right to foreclose: 
+5.  I understood I was supposed to make repairs after 
+I received the money.  A neighbor (name forgotten) who was 
+a tenant of Nick Rapoza helped me repair the entire front 
+porch railing and I bought putty and we plugged the leak in 
+the carport roof and repaired the surface.  There was no 
+leaking after the repairs were done.  This was all done 
+right after I got the money and was simple to do.  I used 
+my own money and some labor to make the repairs. 
+ 
+[ . . . 
+] 
+ 
+7. 
+ I do not remember [Estacion] handing me the 
+foreclosure Complaint on November 9, 2012.  [Nor] do I 
+recall signing any paper that I received the Complaint.  I 
+would not have understood it anyway. 
+ 
+ 8.  My first memory about the foreclosure was a 
+telephone call from an attorney who said he wanted to inspect my house and property because it was his job to 
+sell my
+ house at a foreclosure auction.  I was shocked!  I 
+did not know of any foreclosure.  How come no one wrote me, telephoned me, or came to the house.  I was always there because I had no car, very little money and only a few 
+neighbors and relatives.  I had to hitch rides from my 
+house in remote Hawaiian Acres to shop for food and collect 
+my mail at my post office box in Hilo.  I was angry and 
+upset and never heard again from the attorney. 
+ 
+  Namahoe’s HRCP Rule 60(b)(3) motion argued that JBNC 
+committed fraud by (1) failing to obtain an inspection by a HUD-
+approved inspector as required by the Repair Rider, (2) failing 
+to use the $750.00 in set aside funds for repairs, and (3) 
+failing to give Namahoe a “realistic opportunity to have the mortgage reinstated.”
+10  Namahoe also argued that JBNC’s 
+attorneys, the law firm of Clay Chapman, committed fraud by 
+ 
+10  Namahoe does not provide any additional factual basis for these 
+claims beyond his declaration.   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+15 
+  failing to include pertinent facts and disclosures in its 
+attorney affirmations as required by HRS § 667-17.  
+Specifically, Namahoe alleged that Clay Chapman failed to 
+disclose the aforementioned instances of alleged fraud in their 
+HRS § 667-17 affirmation, and that the attorneys failed to amend 
+the affirmation after the companion Domingo case clarified that 
+noncompliance with a similar repair rider was an inadequate 
+basis for foreclosure.   James B. Nutter & Co. v. Domingo, No. 
+CAAP-15-0000659, 2016 WL 5920412 (App. Oct. 11, 2016) (SDO).  Namahoe also argued that his motion was timely because the “final act” in the foreclosure proceeding was March 26, 2016, 
+when JBNC allegedly sold the Property to a third party.
+1211
+   
+ 
+ 
+11  We take judicial notice of the court records in the unpublished 
+Domingo case, in accordance with Hawai‘ i Rules of Evidence (HRE) Rule 201 
+(1993).  James B. Nutter & Co. v. Domingo, No. CAAP- 15-0000659, 2016 WL 
+5920412 (App. Oct. 11, 2016) (summary disposition order).  Because the 
+unpublished Domingo case figured prominently in the pleadings and oral 
+argument in this case, a brief summary is provided here. 
+     
+The Domingo foreclosure was similar to the Namahoe foreclosure, 
+including a nearly identical repair rider and loan called due for alleged failure to make repairs.  Id. at *1.  Both Domingo and Namahoe asserted that 
+they completed necessary repairs.  See id. at *1—2.  
+ 
+ The ICA affirmed the circuit court’s ruling that JBNC’s 
+assumption that Domingo had failed to make the required repairs was not a sufficient justification to accelerate the mortgage note and seek 
+foreclosure.  Id.
+  The ICA affirmed the order and clarified that “JBNC’s 
+burden, . . . was to prove that at trial Domingo would be unable to prove 
+that the required repairs were done.”  Id. at *2. 
+   
+The Domingo foreclosure action discussed above is distinct from 
+the Domingo v. James B. Nutter & Co., Civil No. 16-1- 0249, CAAP- 17-0000324, 
+wrongful foreclosure action pending before the ICA.  The latter action is discussed in further detail below.  
+(continued . . .) *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+16 
+   
+ Next, Namahoe asserted that the Decree of Foreclosure 
+was void under HRCP Rule 60(b)(4) because, as a result of JBNC 
+allegedly “knowingly mailing notices to an address where there 
+was no mail delivery,” Namahoe was deprived of notice of the 
+foreclosure proceeding and an adequate opportunity to defend 
+against the action.13   
+Finally, Namahoe raised a HRCP Rule 60(b)(6) claim, 
+arguing that JBNC committed fraud on the court.  Unlike his HRCP 
+Rule 60(b)(3) fraud claim which centered on JBNC’s acts and 
+omissions in relation to Namahoe, the HRCP Rule 60(b)(6) motion focused on an alleged “pattern of mortgage abuse” by lenders 
+such as JBNC who make it a part of their business operations to 
+bring “unfounded” foreclosure actions.   
+JBNC did not present any new evidence rebutting the 
+statements in Namahoe’s declaration.  Rather, in response to 
+Namahoe’s HRCP Rule 60(b)(3) motion, JBNC responded that the 
+motion was untimely because the relevant final act in this casewas the July 2, 2013 Decree of Foreclosure.  With regard to  
+(. . . continued)  
+12  Evidence of the alleged sale to a third party is not in the 
+record.  However, JBNC did not dispute Namahoe’s claim that the property had 
+been sold on March 26, 2016.   
+ 
+13  Namahoe did not present a factual basis for this allegation 
+beyond that he “believes that in accordance with the standard practice of the 
+United States Postal Service [JBNC] was receiving the returned envelopes 
+marked undeliverable,” and that JBNC subsequently mailed pleadings to 
+Namahoe’s P.O. Box after JBNC “already knew that the post office box had been 
+closed.”  (Emphasis added.) *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+17 
+ Namahoe’s HRCP Rule 60(b)(4) motion, JBNC maintained that 
+Namahoe was personally served with the Complaint on November 9, 
+2012, and that neither JBNC nor the circuit court had an 
+affirmative duty to “track Namahoe down” due to Namahoe’s 
+failure to inform the court of any changes to his mailing 
+address.  Finally, on Namahoe’s HRCP Rule 60(b)(6) claim, JBNC 
+responded that even if it had committed fraud, which JBNC 
+disputes, the “substance of [Namahoe’s] allegations” fails to 
+rise to the level of “corruption of the judicial process itself”
+as required by Cvitanovich-Dubie v. Dubie.  125 
+Hawaiʻi 128, 144,
+254 P.3d 439, 455 (2011) (quoting Schefke v. Reliable CollectionAgency, Ltd., 96 Hawai
+ʻi 408, 431 n.42, 32 P.3d 52, 75 n.42 
+(2001), as amended (Oct. 11, 2001)).  Rather, JBNC’s alleged 
+acts of fraud only concerned “a single litigant.”  JBNC did not 
+present any additional evidence of Namahoe’s alleged 
+noncompliance with the terms of the reverse mortgage.      
+ 
+ 
+   The circuit court denied Namahoe’s HRCP Rule 60(b) 
+motion in full.  With regard to Namahoe’s HRCP Rule 60(b)(6) 
+fraud on the court argument, the court determined:  
+  Regarding the fraud on the court type theories I’m 
+going to think that that’s more properly addressed in 
+[Domingo v. James B. Nutter & Co., Civil No. 16-1- 0249, 
+CAAP-17-0000324].[14]  I see that case as being that 
+ 
+14  Domingo v. James B. Nutter & Co., Civil No. 16-1- 0249, CAAP- 17-
+0000324, is pending before the ICA.  It involves Domingo and Namahoe’s 
+wrongful foreclosure claims against JBNC.  We take judicial notice of the 
+court records in this related case, in accordance with HRE Rule 201.  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+18 
+ independent action that’s mentioned under Rule 60(b).  And 
+my impression is that independent action is not really a 
+60(b) type motion.  
+ 
+  There’s still a fraud on the court type claim for 
+relief by Mr. Namahoe against Clay Chapman.  And Mr. 
+Namahoe would have at least the opportunity to attempt to 
+amend the pleadings in that case to state, let’s say, clear 
+claims for relief a gainst [JBNC].  So that's what the 
+Court’s belief is. 
+ 
+. . . 
+ 
+I think Mr. Namahoe still has a claim for relief 
+against . . . Clay Chapman.  And then you have the 
+opportunity to amend.  I’m thinking that you already have that action already . . . . You did not need to go forward 
+on the . . . case regarding those theories cause they’re in the [Domingo v. James B. Nutter & Co., Civil No. 16-1- 0249, 
+CAAP-17-0000324] action.  You already have the forum for 
+that.  It’s not as if I -- you know, the Court has to set 
+aside the judgment here for you to be able to address your 
+issues in the other case.  It’s my thinking. 
+ 
+(Emphases added.)  
+The circuit court presented Namahoe with a catch-22.  
+The circuit court required Namahoe to pursue his fraud on the 
+court claim against JBNC in the wrongful foreclosure action, Domingo v. James B. Nutter & Co., Civil No. 16-1-0249,      
+CAAP-17-0000324.  However, as noted at oral argument, Namahoe was precluded by the circuit court from asserting a wrongful 
+foreclosure claim in that action due to the issuance of the 
+Decree of Foreclosure below.  Thus, Namahoe’s path to recovery 
+was effectively blocked, and his only opportunity for relief is 
+the instant case.     On April 13, 2017, Namahoe filed a HRCP Rule 59 motion
+for reconsideration of the circuit court’s order denying his  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+19 
+ motion for relief, arguing that Hungate v. Law Off. of David B. 
+Rosen, 139 Hawaiʻ i 394, 391 P.3d 1 (2017), established the 
+importance of notice to foreclosure proceedings.   He added that
+JBNC was aware that the notices mailed to the Property’s 
+physical address and the P.O. Box were deemed undeliverable and any alleged personal service was ineffective because Namahoe’s 
+serious health conditions and his use of marijuana to treat his 
+pain impeded his comprehension.  The circuit court denied 
+Namahoe’s motion on the grounds that HRCP Rule 5(a) only 
+required JBNC to serve Namahoe with the Complaint, and that 
+Hungate did not provide an adequate basis for altering or 
+amending the denial of Namahoe’s HRCP Rule 60(b) motion.  See HRCP Rule 5(a) (2019).     15  
+B.  ICA Appeal 
+ 
+On appeal to the ICA, Namahoe raised two points of 
+error, arguing first that the circuit court erred in denying 
+Namahoe’s HRCP Rule 60(b) motion because (a) the Decree of 
+Foreclosure was obtained through JBNC’s fraud, 
+misrepresentation, and misconduct; (b) JBNC failed to provide 
+adequate notice to Namahoe; and (c) JBNC and its attorneys 
+ 
+15  Hungate was decided in the context of a non- judicial foreclosure, 
+in which there is, by definition, no judicial officer to supervise and ensure 
+the integrity of the foreclosure process.  139 Hawaiʻi at 398,  391 P.3d at 5.  
+Accordingly, Hungate is distinguishable from the immediate case and need not 
+be discussed further.  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+20 
+ committed fraud on the court, all of which prevented Namahoe 
+from fairly presenting his case.  Namahoe next argued that the 
+circuit court abused its discretion by denying Namahoe’s HRCP 
+Rule 59 motion for reconsideration. 
+  
+With regard to his HRCP Rule 60(b) arguments, Namahoe 
+largely reiterated points raised before the circuit court.  
+Namahoe reasserted the claims underpinning his HRCP Rule 
+60(b)(3) motion, arguing that JBNC had no legal authority to 
+seek foreclosure because (1) Namahoe did not receive notice of 
+the proceedings; (2) JBNC did not notify Namahoe of his right to reinstatement; (3) JBNC did not perform a HUD inspection 
+required by the Repair Rider; and (4) JBNC’s attorneys failed to 
+include the previous facts in its affirmation and failed to 
+amend the affirmation to include the related Domingo foreclosure 
+action, which involved JBNC, their same attorneys, and “the same justification for the reverse mortgage foreclosure” which the 
+circuit court found improper and in violation of HRS § 667-17.   
+Namahoe again raised his HRCP Rule 60(b)(4) claim, 
+asserting that the Decree of Foreclosure was void because Namahoe lacked adequate notice of the proceeding, thus depriving 
+Namahoe of due process.  
+ 
+In his HRCP Rule 60(b)(6) claim, Namahoe argued that 
+he was entitled to relief from the Decree of Foreclosure because 
+JBNC and its attorneys did not disclose all relevant facts to *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+21 
+ the circuit court.  Specifically, Namahoe asserted that JBNC’s 
+conduct rose to the level of fraud on the court because its 
+attorneys submitted an insufficient and misleading attorney 
+affirmation, as required by HRS § 667-17, despite the plain 
+language of the reverse mortgage not permitting foreclosure 
+under the circumstances.  Namahoe also reasserted his HRCP Rule 
+60(b)(3) fraud arguments, stating that JBNC had not informed 
+Namahoe of his right to reinstatement, did not inspect the 
+property using a HUD-approved inspector, and pursued foreclosure 
+despite the ruling in the Domingo foreclosure action.  These errors by JBNC “went to the very heart of the circuit court’s 
+jurisdiction and [JBNC’s] ability to even foreclose.”   
+With respect to the circuit court’s denial of 
+Namahoe’s HRCP Rule 59 Motion for Reconsideration, Namahoe 
+argued that the circuit court mistakenly concluded that JBNC’s 
+notices were sufficient.  Namahoe maintained that new evidence 
+provided in support of his HRCP Rule 59 motion demonstrated that (1) JBNC was aware that Namahoe was not receiving mail at his 
+physical address and (2) Namahoe’s serious health conditions at 
+the time of the proceedings impeded his comprehension.   
+The ICA affirmed the circuit court’s orders denying 
+Namahoe’s HRCP Rule 60(b) motion for relief and HRCP Rule 59 
+motion for reconsideration.  James B. Nutter & Co. v. Namahoe,
+No. CAAP-17-0000496, 2022 WL 899896 at *12 (App. March 28,  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+22 
+ 2022).  First, the ICA held that Namahoe’s HRCP Rule 60(b)(3) 
+motion asserting fraud was untimely, as the applicable 
+“judgment, order, or proceeding” in this case was the Decree of 
+Foreclosure entered on July 2, 2013 — nearly four years before 
+Namahoe’s HRCP Rule 60(b)(3) motion.  Id. at *7.  Second, the 
+ICA determined from the record that Namahoe was personally 
+served with the Complaint and was therefore not denied due 
+process.  Id. at *7—9.  Third, the ICA held that the circuit 
+court did not abuse its discretion when it denied Namahoe relief 
+under HRCP Rule 60(b)(6) on the grounds that Namahoe could seek appropriate relief in an alternate forum, i.e., his separate 
+wrongful foreclosure action against JBNC raised in Domingo v. 
+James B. Nutter & Co., Civil No. 16-1-0249, CAAP-17-0000324.  
+Id. at *10—11.  The ICA also noted that by the time the JBNC 
+wrongful foreclosure suit was initiated by Domingo and Namahoe, 
+Namahoe’s property had already been purchased by JBNC at auction 
+and sold to a third party.  Id. at *11.  
+ 
+Finally, the ICA affirmed the circuit court’s denial 
+of the Rule 59 motion and rejected Namahoe’s claims of new evidence, finding that much of the evidence was not in fact new, 
+and that no “cogent argument” was raised as to why the allegedly 
+“new” evidence could not have been presented earlier.  Id. at 
+*11—12.   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+23 
+ C.  
+Supreme Court Proceedings 
+ 
+Namahoe filed a timely application for a writ of 
+certiorari. 
+  First, he argues that the ICA erred in affirming the 
+lower court’s denial of his HRCP Rule 60(b)(3) motion because (1) the one-year deadline began running on March 26, 2016, when 
+JBNC allegedly sold the property to a third party; (2) it did 
+not take into account the fact that JBNC’s foreclosure was based 
+on “allegedly unrepaired repairs” worth $500.00 and that JBNC 
+was aware that Namahoe actually made those repairs; and (3) it “leave[s] the door open” for other bad actors to instigate 
+“bogus proceedings.”  (Emphasis in original.)   
+  Second, he argues that the ICA erred in affirming the 
+lower court’s denial of his HRCP Rule 60(b)(4) motion based on 
+the Return and Acknowledgement of Service.  Namahoe asserts that 
+the fact that the signature on the Return and Acknowledgement of 
+Service is “markedly different” from his signature on the Note, Loan Agreement, and Repair Rider should have been sufficient to 
+rebut the prima facie evidence of notice.  He also argues that 
+the entire proceedings were void under Hungate, 139 Hawai‘ i 394, 
+391 P.3d 1 (2017), because statutory notice requirements are 
+trumped by the more “stringent” notice requirements included in 
+the specific “loan/note/mortgage documents.”   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+24 
+  
+ Third, Namahoe asserts that the ICA erred in affirming 
+the circuit court’s denial of his HRCP Rule 60(b)(6) motion 
+because the circuit court failed to reach the merits of the 
+issue and “merely punted” it by declaring that Namahoe could 
+bring the claim in the separate wrongful-foreclosure action.   
+  Lastly, Namahoe asserts that the ICA erred by 
+affirming the circuit court’s denial of his HRCP Rule 59 motion, 
+because his counsel presented new information — after the 
+conclusion of his HRCP Rule 60(b) motion — regarding his P.O. 
+Box being closed in September 2013.  He further argued that the ICA “missed the issue” in distinguishing Hungate because it 
+actually “stands for the proposition” that when loan and mortgage documents require additional notice requirements on top 
+of those required by the statutes, “failure to comply” with the 
+additional requirements is “fatal to the foreclosure itself.”  
+Hungate, 139 Hawai‘ i at 404, 391 P.3d at 11. 
+III.  STANDARDS OF REVIEW 
+A. HRCP Rule 60(b) Relief From Judgment or Order 
+“[T]he trial court has a very large measure of 
+discretion in passing upon motions under [HRCP] Rule 60(b) and
+its order will not be set aside unless we are persuaded that under the circumstances of the particular case, the court’s 
+refusal to set aside its order was an abuse of discretion.”   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+25 
+ Haw. Hous. Auth. v. Uyehara, 77 Hawai‘ i 144, 147, 883 P.2d 65, 68
+(1994) (quoting Paxton v. State, 2 Haw. App. 46, 48, 625 P.2d 
+1052, 1054 (1981)).  Therefore, the circuit court’s decisions 
+related to Namahoe’s HRCP Rule 60(b) motion are reviewed for an 
+abuse of discretion.  “The burden of establishing abuse of discretion [in denying a HRCP Rule 60(b) motion] is on the 
+appellant, and a strong showing is required to establish it.”  
+Ditto v. McCurdy, 103 
+Hawai‘i 153, 162, 80 P.3d 974, 983 (2003).  
+Notwithstanding this general rule, “under HRCP Rule 
+60(b)(4), an order is ‘void only if the court that rendered it 
+lacked jurisdiction of either the subject matter or the parties 
+or otherwise acted in a manner inconsistent with due process of 
+law.’”  In re Haw. Elec. Co., Inc., 149 Hawai‘ i 343, 362—63, 489 
+P.3d 1255, 1274—75 (2021).  As such, a denial of a HRCP Rule 
+60(b)(4) motion is reviewed de novo.  See id. 
+B. HRCP Rule 59 Motion for Reconsideration 
+ 
+As this court has often stated, “[t]he purpose of a 
+motion for reconsideration is to allow the parties to 
+present new evidence and/ or arguments that could not have 
+been presented during the earlier adjudicated motion.”   
+Reconsideration is not a device to relitigate old matters or to raise arguments or evidence that could and should 
+have been brought during the earlier proceeding. 
+ 
+Sousaris v. Miller, 92 Hawai‘ i 505, 513, 993 P.2d 539, 547 (2000) 
+(citations omitted) (quoting First Ins. Co. of Haw. Ltd. v. 
+Lawrence, 77 Hawai‘ i 2, 17, 991 P.2d 489, 504 (1994)).   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+26 The appellate court reviews a “trial court’s ruling on 
+a motion for reconsideration . . . under the abuse of discretion 
+standard.”  Ass’n of Apartment Owners of Wailea Elua, 100 
+Hawaiʻi 
+97, 110, 58 P.3d 608, 621 (2002).  An abuse of discretion occurs 
+if the trial court has “clearly exceeded the bounds of reason or disregarded rules or principles of law or practice to the 
+substantial detriment of a party litigant.”  Amfac, Inc. v. 
+Waikiki Beachcomber Inv. Co., 74 Haw. 85, 114, 839 P.2d 10, 26 
+(1992). C. Foreclosure Actions
+Foreclosure is an equitable action.  “Courts of 
+equity have the power to mold their decrees to conserve the 
+equities of the parties under the circumstances of the 
+case.”  A court sitting in equity in a foreclosure case has 
+the plenary power to fashion a decree to conform to the 
+equitable requirements of the sit uation.  Whether and to 
+what extent relief should be granted rests within the sound 
+discretion of the court and will not be disturbed absent an 
+abuse of such discretion. 
+Peak Cap. Grp., LLC v. Perez, 141 Hawaiʻ i 160, 172, 407 P.3d 116, 
+128 (2017) (citations omitted) (quoting Honolulu, Ltd. v. 
+Blackwell, 7 Haw. App. 210, 219, 750 P.2d 942, 948 (1988)). 
+A circuit court abuses its equitable discretion “by 
+issuing a decision that clearly exceeds the bounds of reason or 
+disregard[s] rules or principles of law or practice to the substantial detriment of the appellant.”  Hawaii Nat’l Bank v. 
+   2, 7, 58 P.3d 60, 65 (2002) (quoting Shanghai Cook, 100 Hawaiʻi*** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+27 Inv. Co. v. Alteka Co., 92 Hawaiʻ i 482, 493, 993 P.2d 516, 526 
+(2000)). 
+IV. DISCUSSION
+A. Introduction
+We hold that the ICA did not err in affirming the 
+circuit court’s denial of Namahoe’s motions under HRCP Rule 59, 
+Rule 60(b)(3), and Rule 60(b)(4).  However, the ICA erred in 
+affirming the circuit court’s denial of relief under HRCP Rule 
+60(b)(6) for two reasons.  First, the record establishes that 
+JBNC failed to comply with HUD regulations and Hawaiʻ i state law 
+in pursuit of foreclosure against Namahoe.  Thus, JBNC lacked 
+legal authority to foreclose and its attorneys provided the 
+lower court with an inadequate and misleading HRS § 667-17 
+attorney affirmation.  This conduct constitutes fraud on the 
+court for purposes of HRCP Rule 60(b)(6).   
+Second, the balance of equities weighs heavily against 
+a decree of foreclosure for the alleged failure to complete $500.00 worth of repairs.  HRCP Rule 60(b) allows courts to 
+relieve a party from a final judgment or order “upon such terms 
+as are just[.]”  Here, justice requires Namahoe to be afforded 
+an effective remedy.  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+28 
+ B.  
+The Legal Framework Protecting Homeowners 
+Before analyzing JBNC’s conduct toward Namahoe in 
+isolation, a brief review of reverse mortgages and the relevant 
+regulatory landscape is warranted.  Reverse mortgages are 
+distinct from conventional mortgages both in their function and 
+purpose.  Reverse mortgages, of which home equity conversion 
+mortgages (HECMs) make up a significant portion,16 are loans that 
+allow senior homeowners to withdraw a portion of their home’s equity in the form of cash.  Consumer Financial Protection 
+Bureau, Reverse Mortgages: Report to Congress 5—6 (June 2012).  
+This provides seniors with capital to pay for living expenses and other costs, with the loan only reaching maturity when the 
+borrower dies, sells the home or moves out, or fails to maintain 
+the property or pay necessary fees and taxes.  Id. at 5—6, 22; 
+see also HRS § 506-10 (2008) (listing the events that make a 
+reverse mortgage loan due).  This transaction for cash at the 
+expense of ownership of one’s home — the largest and most significant asset most Americans possess — has significant 
+ramifications for senior citizens, their families, and the 
+communities in which they live.  Protecting Seniors: A Review of  
+ 
+16  The mortgage at issue in this case is specifically a home equity 
+conversion mortgage.  HECMs are only available for seniors above 62 years of 
+age who own a property and occupy it as their principal residence.  For 
+consistency with the briefs, circuit court documents, and ICA Memorandum 
+Opinion, this court uses the broader term “reverse mortgage.” *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+29 
+ the FHA’s Home Equity Conversion Mortgage (HECM) Program: 
+Hearing Before the Subcomm. on Housing, Community Development, 
+and Insurance of the H. Comm. on Financial Services, 116th Cong. 
+2 (2019) (statement of Rep. Wm. Lacy Clay, Chairman, H. Subcomm. 
+on Hous., Cmty. Dev., and Ins.) (“The racial wealth gap is 
+exacerbated as countless families[, largely racial minorities,] 
+are deprived of the chance to pass on their homes and other 
+property to their children and other heirs, leading to . . . 
+gutted city blocks, and less overall wealth.”)   
+Seniors face a significant risk of abuse by lenders, 
+and the consequences of reverse mortgages can be unclear at the time of signing, but disastrous for mortgagors.  See Reverse 
+Mortgages: Polishing Not Tarnishing the Golden Years: Hearing 
+Before the Senate Special Comm. on Aging, 110th Cong. 1 (2007) 
+(statement of Senator Herb Kohl, Chairman, Special Comm. on Aging) (“[Reverse mortgage] [a]gents are targeting seniors 
+aggressively in ways that this Committee has seen before: through direct mail, celebrity endorsements, and free lunch 
+seminars.  Marketers often gloss over the risks of a reverse 
+mortgage, but they convey the pay-off quite clearly.”);  Sarah 
+B. Mancini & Odette Williamson, Reversing Course: Stemming the 
+Tide of Reverse Mortgage Foreclosures Through Effective 
+Servicing and Loss Mitigation, 26 Elder L.J. 85, 86—87, 119—20 
+(2018) (“[o]lder adults who have taken out reverse mortgages are *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+30 
+ particularly resource
+-constrained.  They tend to take out these 
+loans as a last resort, motivated by a lack of sufficient income 
+to cover rising medical costs and other essential expenses.”).  
+Namahoe appears to have been targeted in a similar manner; 
+according to his declaration: “some folks came to my door and 
+told me I could obtain a loan and not pay back anything while I 
+lived and resided at the property.  I believed them and I 
+obtained what I understand was a reverse mortgage. . . . I spent 
+the money over the years paying bills and buying food.”   
+Due to the significant risks of abuse by lenders and 
+inadequate understanding of reverse mortgage agreements by many senior citizens, reverse mortgages and foreclosures are subject 
+to stringent rules and regulations promulgated by both federal 
+and state authorities.  Lenders offering loans backed by HUD, of 
+which reverse mortgages and HECMs are one type, are required to 
+make reasonable efforts to conduct face-to-face interviews with 
+delinquent mortgagors, 24 C.F.R. § 203.604 (2009), conduct loss mitigation efforts to cure defaults, 24 C.F.R. §§ 203.605 (2009) 
+and 203.501 (2009), conduct pre-foreclosure review, 24 C.F.R.   
+§ 203.606 (2009), and facilitate reinstatement of the mortgage, 
+24 C.F.R. § 203.608 (2009).  Failure to comply with these 
+regulations may result in civil penalties or the withdrawal of a 
+mortgagee’s HUD approval.  24 C.F.R. § 203.500 (2009).   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+31 
+ Our state legislature has also acted to combat 
+predatory lending in the context of reverse mortgages.  Lenders 
+are required to refer borrowers to HUD-approved counselors, and 
+must be presented with a signed certification confirming that 
+the borrower has received counseling prior to accepting an 
+application for a reverse mortgage loan.  HRS § 506-10.   
+Further, in the aftermath of economic crash and 
+foreclosure crisis in the early-2010s, the legislature passed 
+HRS § 667-17.  The language of the attorney affirmation even 
+refers to the conditions that gave rise to the statute: 
+During and after August 2010, numerous and widespread 
+insufficiencies in foreclosure filings in various courts 
+around the nation were reported . . . , including failure 
+to review documents and files to establish standing and other foreclosure requisites; filing of notarized 
+affidavits that falsely attest to such review and to other critical facts in the foreclosure process; and 
+“robosignature” of documents. 
+ 
+HRS § 667-17.  
+ 
+Importantly for this appeal, HRS § 667-17 requires 
+attorneys filing on behalf of mortgagees seeking foreclosure to 
+sign and submit an affirmation that the attorney has verified the accuracy of filed documents, and confirm that the lender has 
+an adequate factual and legal basis for pursuing foreclosure.
+17  
+As officers of the court, attorneys for mortgagees seeking 
+ 
+17  HRS § 667- 17 states, “[a]ny attorney who files on behalf of a 
+mortgagee seeking to foreclose on a residential property under this part 
+shall sign and submit an affirmation that the attorney has verified the 
+accuracy of the documents submitted, under penalty of perjury and subject to 
+applicable rules of professional conduct.”  HRS § 667- 17.  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+32 
+ (continued . . .) foreclosure must affirm not only the accuracy of the factual 
+allegations underlying foreclosure, but also the legal 
+sufficiency of foreclosure claims.   Id.  Attorneys are also 
+under a “continuing obligation to amend” the affirmation in the event of newly discovered material facts after filing.  Id. 18
+It is within this expansive legislative and regulatory 
+framework that JBNC and its attorneys at Clay Chapman pursued 
+foreclosure on Namahoe’s only home — all on the basis of a 
+$500.00 repair obligation.  C.  The ICA Did Not Err in Affirming the Circuit Court’s Denial 
+of Namahoe’s HRCP Rule 59, Rule 60(b)(3), and Rule 60(b)(4) 
+Motions 
+ 
+1.  HRCP Rule 59 Motion for Reconsideration 
+Namahoe asserts that the ICA erred in affirming the 
+circuit court’s denial of his HRCP Rule 59
+19 motion for 
+ 
+ 
+18  One of the form affirmations in § 667- 17 states: 
+ 
+Based upon my communication with [the foreclosing 
+entity], as well as upon my own inspection and other 
+reasonable inquiry under the circumstances, I affirm that, 
+to the best of my knowledge, information, a
+nd belief, the 
+Summons, Complaint, and other papers filed or submitted to 
+the Court in this matter contain no false statements of 
+fact or law and that plaintiff has legal standing to bring 
+this foreclosure action.  
+ (Emphasis added.) 
+ 
+19  HRCP Rule 59 states, in relevant part: 
+ 
+(a) Grounds.  A new trial may be granted to all or 
+any of the parties and on all or part of the issues (1) in 
+an action in which there has been a trial by jury, for any 
+of the reasons for which new trials have heretofore been *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+33 
+ reconsideration despite (1) the existence of “new evidence” 
+showing the P.O. Box was closed in September 2013; and (2) the 
+supreme court decision in Hungate, decided shortly before his 
+HRCP Rule 60(b) motion, which stands for the proposition that 
+failure to comply with the terms of a mortgage is fatal to the 
+foreclosure itself.   Hungate v. Law Off. of David B. Rosen, 139 20
+Hawaiʻi 394, 391 P.3d 1 (2017). 
+This court has stated, “[t]he purpose of a motion for 
+reconsideration is to allow the parties to present new evidence and/or arguments that could not have been presented during the 
+earlier adjudicated motion.”  Amfac, 74 Haw. at 114, 839 P.2d at
+27.  “Reconsideration is not a device to relitigate old matters or to raise arguments or evidence that could and should have  
+(. . . continued)  
+granted in actions at law in the courts of the state; and 
+(2) in an action tried without a jury, for any of the 
+reasons for which rehearings have heretofore been granted 
+in suits in equity in the courts of the State.  On a motion 
+for a new trial in an action tried w ithout a jury, the 
+court may open the judgment if one has been entered, take 
+additional testimony, amend findings of fact and 
+conclusions of law or make new findings and conclusions, 
+and direct the entry of a new judgment.  
+ 
+20  The ICA correctly distinguished Hungate.  In Hungate, this court 
+held that in a non- judicial foreclosure, the mortgagee has a duty to follow 
+statutory and contractual notice requirements in order to ensure the borrower 
+receives adequate notice of the foreclosure proceeding.  Hungate, 139 Hawaiʻ i 
+at 403-04, 391 P.3d at 10- 11.  While Namahoe is seeking to void a judgment in 
+a reverse- mortgage judicial- foreclosure proceeding, Hungate instead dealt 
+with non- judicial foreclosure — a distinct procedure.  See id. at 399, 391 
+P.3d at 6.  That is, Hungate is premised on clarifying the burdens on the 
+mortgagee in the context of a proceeding in which “[t]here is no neutral 
+party, such as a court, [to] supervis[e] the sale and ensur[e] a fair and 
+reasonable process.” Id. at 409, 391 P.3d at 16.  Such is not the case here, 
+where the judgment of foreclosure was rendered by the circuit court.  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+34 
+ been brought during the earlier proceeding.”  Sousaris, 92 
+Hawai
+‘i at 513, 993 P.2d at 547 (2000).   
+In order for reconsideration to be granted on the 
+basis of newly discovered evidence: “(1) it must be previously 
+undiscovered even though due diligence was exercised; (2) it must be admissible and credible; (3) it must be of such a 
+material and controlling nature as will probably change the 
+outcome and not merely cumulative or tending only to impeach or 
+contradict a witness.”  Kawamata Farms, Inc. v. United Agri 
+Products, 86 Hawai‘ i 214, 251, 948 P.2d 1055, 1092 (1997) 
+(quoting Orso v. City & Cnty. of Honolulu, 56 Haw. 241, 250, 534 
+P.2d 489, 494 (1975), overruled on other grounds by Kahale v. 
+City & Cnty. of Honolulu, 104 Hawai‘ i 341, 90 P.3d 233 (2004)). 
+Here, the ICA correctly noted that Namahoe’s arguments 
+regarding notice were already made as part of his HRCP Rule 
+60(b) motion.  James B. Nutter & Co. v. Namahoe, No. CAAP-17-
+0000496, 2022 WL 899896 at *11—12.  Most importantly, as the ICA concluded, “there is no cogent argument as to why the ‘new’ evidence and arguments concerning proper notice could not have 
+been presented earlier.”  Id. at *11. 
+2.  HRCP Rule 60(b)(3) 
+Namahoe asserts that the ICA erred in affirming the 
+circuit court’s denial of his HRCP Rule 60(b)(3) motion for *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+35 
+ untimeliness.  According to the circuit court, the event that 
+triggered the countdown to the one-year deadline was the circuit 
+court’s July 2, 2013 Decree of Foreclosure.  Namahoe filed his 
+HRCP Rule 60(b)(3) motion on January 3, 2017, well past the one-
+year deadline.  Namahoe contends that the “final act” was when 
+JBNC sold the property to a third party in 2016, thus making his 
+motion timely.   
+We disagree with Namahoe, and hold that his HRCP Rule 
+60(b)(3) motion was untimely.  The ICA correctly noted that 
+“Namahoe argued that [JBNC’s] fraud, misrepresentation, and misconduct occurred when [JBNC] sought and obtained foreclosure 
+against Namahoe on impermissible grounds.”  James B. Nutter & 
+Co. v. Namahoe, No. CAAP-17-0000496, 2022 WL 899896 at *7 (App. 
+March 28, 2022) (emphasis added).  As a result, Namahoe was seeking “relief from the Foreclosure Judgment itself . . . [and] 
+not from the sale of the Property to a third party after the 
+Property’s sale to [JBNC] was confirmed.”  Id. at *7.  Thus, the 
+final judgment, for purposes of HRCP Rule 60(b)(3), was the 2013 
+Decree of Foreclosure and Namahoe’s motion was untimely.   
+3.  HRCP Rule 60(b)(4) 
+Namahoe next argues that the Decree of Foreclosure was
+void due to lack of service, because JBNC allegedly mailed notices to Namahoe’s home address despite that address not  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+36 
+ receiving mail delivery.   However, the November 9, 2012 Return 
+and Acknowledgment of Service was signed by Namahoe, comprising 
+prima facie evidence of valid service.  Namahoe was served with 
+all required documents, including the Complaint, Foreclosure 
+Mediation Notice and Foreclosure Mediation Request, and Summons.  
+[ICA Dkt. 35:81]  Furthermore, had Namahoe wanted to contest the 
+signature, HRS § 634-22 (2013) provides the means for him to 
+examine the process server.  Namahoe requested no such 
+examination.  21
+  Having established that the above documents were 
+properly served, Namahoe was not deprived of notice.  As the ICA 
+correctly states — and Namahoe does not challenge — under HRCP 
+Rule 5(a), “no service need be made on parties in default for 
+failure to appear, except that pleadings asserting new or 
+additional claims for relief against them shall be served upon 
+them in the manner provided for service of summons in Rule 4 of 
+these Rules.”  HRCP Rule 5(a) (2000) (emphasis added).  Therefore, once the complaint was personally served on Namahoe, 
+JBNC was not required to serve subsequent filings, as long as it 
+did not assert additional claims.   
+ 
+21  Namahoe also alleges that JBNC continued sending mail to 
+Namahoe’s P.O. Box despite knowing that it had been deactivated. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+37 
+  D.  
+The ICA Erred in Affirming the Circuit Court’s Denial of 
+Namahoe’s HRCP Rule 60(b)(6) Motion 
+ 
+Namahoe is entitled to relief pursuant to his HRCP 
+Rule 60(b)(6) motion on two grounds: (1) JBNC and its attorneys 
+committed fraud on the court, and (2) principles of equity 
+necessitate relief from the operation of the foreclosure 
+judgment.  Accordingly, we reverse the ICA’s decision affirming the circuit court’s denial of Namahoe’s HRCP Rule 60(b)(6) 
+motion, and vacate the Decree of Foreclosure insofar as it would 
+preclude Namahoe from asserting a wrongful foreclosure claim 
+against JBNC.
+22  
+1.  JBNC committed fraud on the court   
+This case presents an opportunity to clarify the 
+applicability of a HRCP Rule 60(b)(6) fraud on the court theory 
+to this set of facts.  Namahoe asserts that the circuit court 
+abused its discretion in “merely punt[ing]” his fraud on the 
+court claim in the separate Domingo wrongful foreclosure action 
+against JBNC, which is currently on appeal.  We agree that the circuit court’s denial of a remedy was an abuse of discretion, 
+and that Namahoe was entitled to relief in the immediate action.   
+This court has defined fraud on the court as “a wrong
+against the institutions set up to protect and safeguard the  
+ 
+22  This decision has no bearing on the judgment confirming sale. *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+38 
+ public, institutions in which fraud cannot complacently be 
+tolerated consistently with the good order of society.”  Schefke 
+v. Reliable Collection Agency, Ltd., 96 
+Hawaiʻi 408, 430, 32 P.3d 
+52, 74 (2001) (quoting Kawamata Farms, 86 Hawai
+‘i at 256, 948 
+P.2d at 1097).  Our case law has provided examples of what rises 
+to the level fraud on the court.  As this court further 
+explained: 
+Not any fraud connected with the presentation of a case 
+amounts to fraud on the court.  It must be a “ direct 
+assault on the integrity of the judicial process.”  Courts 
+have required more than nondisclosure by a party or the 
+party’s attorney to find fraud on the court.  Examples of 
+such fraud include “bribery of a judge,” and “the 
+employment of counsel in order to bring an improper influence on the court.” 
+ 
+Schefke, 96 Hawai‘ i at 431, 32 P.3d at 75 (citations omitted). 
+Pursuant to HRCP Rule 60(b)(6), courts have broad 
+authority to provide relief from final judgments obtained by 
+fraud on the court, upon a motion made “within a reasonable 
+time.”23  Unlike other motions for relief or reconsideration of a 
+judgment, courts retain flexibility to exercise this power in the face of fraud on the court, precisely because a decision 
+obtained through such means cannot be final.  See Kenner v. 
+Comm’r of Internal Revenue, 387 F.2d 689, 691 (7th Cir. 1968) 
+(“[I]t can be reasoned that a decision produced by fraud on the 
+court is not in essence a decision at all, and never becomes 
+ 
+23  The “reasonable time” limit notably contrasts with the one- year 
+limit on HRCP Rule 60(b)(3) fraud claims.  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+39 
+ final.”); see also PennyMac Corp. v. Godinez, 148 
+Hawaiʻi 323, 
+328—329, 474 P.3d 264, 269—270 (2020) (noting that the purpose 
+of HRCP Rule 60(b) motions “is to authorize the reopening of a 
+closed case or a final order,” and that “[Appellant’s] HRCP Rule
+60(b) motion was not a new action but rather a continuation of the original foreclosure case.”).  Further, we have expressed a 
+“preference for judgments on the merits over the finality of 
+judgments procured through fraud.”  Matsuura v. E.I. du Pont de 
+Nemours and Co., 102 Hawai‘ i
+ 149, 157—58, 73 P.3d 687, 695—96 
+(2003).  
+Fraud on the court cannot be neatly defined, but it is 
+understood by courts, including this court, to affect more than 
+the litigants in the underlying dispute.  Cvitanovich-Dubie, 125 
+Hawaiʻi at 144—46, 254 P.3d at 455—57.  Like other jurisdictions, 
+we narrowly interpret fraud on the court.  Compare id., with Ray 
+v. Ray, 647 S.E.2d 237, 239 (S.C. 2007) (“Generally speaking, 
+only the most egregious misconduct . . . in which an attorney is 
+implicated will constitute fraud on the court.”) (citation omitted), and SEC v. N. Am. Clearing, Inc., 656 F. App’x 947, 
+949 (11th Cir. 2016) (stating that the fraud on the court standard “is more exacting than the standard for fraud under 
+[Federal Rules of Civil Procedure (FRCP)] Rule 60(b)(3), 
+encompassing only the most egregious misconduct . . . .”).  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+40 
+ Otherwise, judgments would remain subject to challenge in 
+perpetuity, and the one-year time limitation on motions for 
+relief predicated on regular fraud pursuant to HRCP Rule 
+60(b)(3) would be hollowed.   
+Despite the high threshold for a finding of fraud on 
+the court, we find that JBNC committed fraud on the court in 
+pursuit of this foreclosure against Namahoe. 
+Namahoe’s fraud on the court claim is premised on 
+JBNC’s initiation of foreclosure proceedings “without fully 
+disclosing to the lower court the facts supporting the foreclosure.”  Specifically, Namahoe argues that JBNC did not 
+diligently verify whether he actually failed to make the 
+required repairs through use of a HUD-approved inspector, and 
+JBNC did not provide the court with evidence of Namahoe’s 
+alleged failure to make the repairs.     
+In response to Namahoe’s HRCP Rule 60(b)(6) motion, 
+JBNC did not present evidence of Namahoe’s alleged failure to make the repairs.  JBNC instead reiterates its assertion that 
+Namahoe failed to make the repairs, and argues that it was 
+simply following HUD protocol in calling the loan due and 
+payable — and pursuing foreclosure — as a result of Namahoe’s 
+failure to comply with the Repair Rider.  JBNC also responds 
+that its actions in this case do not pass the threshold to 
+support a finding of fraud on the court because they involve the *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+41 
+ parties to the case only.  In other words, their conduct does 
+not implicate the judicial process writ large.  However, JBNC’s 
+conduct does not just involve Namahoe.   
+Attorneys representing foreclosing lenders must verify 
+and affirm to the court the accuracy of documents proffered by 
+the lender/client in order to prevent unwarranted foreclosures.  
+HRS § 667-17.  Attorney affirmations in foreclosure proceedings 
+are a statutory means of protecting homeowners from wrongful 
+foreclosure, as they prevent the courts from advancing fraud by 
+lenders in foreclosure actions.  Id.  According to the statutory 
+mandate, attorneys shall file an affirmation with the court 
+“that the attorney has verified the accuracy of the documents 
+submitted, under penalty of perjury and subject to applicable 
+rules of professional conduct.”  Id.  The purpose of the statute 
+“is to prevent unwarranted foreclosure actions on residential property by requiring an attorney who files a judicial 
+foreclosure . . . to also submit a signed affidavit to the court . . . stating that the attorney has verified the accuracy of the 
+document submitted.”  H. Stand Comm. Rep. No. 697-14, in 2014 
+House Journal, at 1127.  The statute specifically notes that:  
+During and after August 2010, numerous and widespread 
+insufficiencies in foreclosure filings in various courts 
+around the nation were reported by major mortgage lenders 
+and other authorities, including failure to review 
+documents and files to establish standing and other 
+foreclosure requisites; filing of notarized affidavits that 
+falsely attest to such review and to other critical facts *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+42 
+ in the foreclosure process; and “robosignature” of 
+documents. 
+ 
+HRS § 667-17. 
+Failure to submit adequate documentation, including 
+the attorney affirmation, has been determined to be an adequate 
+basis for denial of a motion for summary judgment.  Wells Fargo 
+Bank, N.A. v. Fong, 149  249, 252, 255—56, 488 P.3d 1228, Hawaiʻi
+1231, 1234—35 (2021).  It is reasonably inferred that to require 
+attorney affirmations is to also require them to be accurate and 
+complete.  Anything less would render the statutory requirement 
+meaningless.  See In re City & Cnty. of Honolulu Corp. Counsel, 
+54 Haw. 356, 373, 507 P.2d 169, 178 (1973) (“It is a cardinal rule of statutory construction that a statute ought upon the 
+whole be so construed that, if it can be prevented, no clause, sentence or word shall be superfluous, void, or 
+insignificant.”); Korean Buddhist Dae Won Sa Temple of Haw. v. 
+Sullivan, 87 Hawaiʻ i 217, 230, 953 P.2d 1315, 1328 (1998) (courts 
+can consider “[t]he reason and spirit of the law, and the cause 
+which induced the legislature to enact it . . . to discover its 
+true meaning.”) (bracket and ellipsis points in original).  
+Because attorney affirmations are representations to the court, 
+an inaccurate, incomplete, or otherwise misleading HRS § 667-17 
+affirmation may constitute a misrepresentation to the court.  
+Accordingly, an inadequate attorney affirmation may rise to the *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+43 
+ level of fraud on the court.  In these instances, relief from
+the Decree of Foreclosure is justified.
+   24 
+Here, the attorney affirmation submitted in support of 
+the foreclosure of Namahoe’s home was inaccurate and incomplete 
+in several respects.  JBNC appears to have initiated foreclosure 
+despite having knowledge that it failed to comply with the 
+Repair Rider — the violation of which triggered the foreclosure.  
+According to the Repair Rider attached to JBNC’s complaint, the 
+burden was on JBNC to certify “that the repairs which are funded 
+under this Repair Rider will be completed in a manner to meet HUD property standards required by the Secretary as determined 
+by a HUD-approved inspector.”  However, the record is devoid of 
+any admissible evidence of Namahoe’s alleged failure to carry 
+out the repairs.  As the ICA stated in its Memorandum Opinion, 
+“there is no declaration or other evidence in the record of the 
+ 
+24  The circuit court in the Domingo and Namahoe foreclosure 
+action in Domingo v. James B. Nutter & Co., Civil No. 16-1- 0249,         
+CAAP-17-0000324, highlighted the importance of the attorney affirmation: 
+If the representations contained in the affirmation 
+required under HRS § 667- 17 are not directed to the 
+mortgagor, then to whom are they directed?  Quite clearly 
+they are directed to the Court presiding over the 
+foreclosure case.  The Court implicitly relies upon the 
+attorney affirmation.  The attorney affirmation “helps 
+ensure that Hawaiʻi’s courts are not used as instruments of 
+fraud in foreclosure actions.”  Conf. Comm. Rep.
+ No. 62-12, 
+in 2013 House Journal, 27th Leg., Reg. Sess. a t 1632 (Haw. 
+2013). 
+Since the attorney affirmation contains 
+representations to the Court, if the attorney affirmation 
+contains misrepresentations they are misrepresentations to 
+the Court.  Sanctions
+ and remedies may be available as a 
+result of these misrepresentations to the Court.  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+44 
+ particular repairs Namahoe allegedly failed to complete.”  No. 
+CAAP-17-0000496, 2022 WL 899896 at *11 n.10 (App. March 28, 
+2022) (emphasis added).  Furthermore, nowhere in the record does 
+JBNC confirm that Namahoe’s property had been inspected by a 
+HUD-certified inspector.   Pursuant to the Repair Rider, JBNC 
+had the independent duty to ensure that a HUD-approved inspector had inspected Namahoe’s property prior to initiating foreclosure 
+proceedings.   25
+By submitting an attorney affirmation in support of 
+foreclosure against Namahoe, without first verifying that there was an adequate factual and legal basis for foreclosure pursuant 
+HRS § 667-17, the attorney affirmation falsely affirmed the 
+sufficiency of the basis for the foreclosure.  This failure by 
+JBNC and its attorneys supports a finding of fraud on the court.    
+In its Memorandum Opinion, the ICA concluded that the 
+circuit court did not abuse its discretion when it denied 
+Namahoe’s HRCP Rule 60(b) motion because “the foreclosure proceedings were final and unappealable, Namahoe had been 
+ejected from his home, and the Property had been purchased by 
+[JBNC] and sold to a third party.”  Id. at *11.  Implicit in its 
+decision, and more directly addressed in JBNC’s Answering Brief, 
+ 
+25  Based on the current record, it is unknown whether any inspectors 
+were sent to survey the state of repairs on Namahoe’s property.  Namahoe 
+attests that two individuals inspected his property, but that none indicated 
+any problems with Namahoe’s repairs.   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+45 
+ is that “any need for Namahoe to reopen these proceedings was 
+substantially outweighed by the value of finality in this 
+litigation.”  However, JBNC’s conduct toward Namahoe and the 
+subsequent filing of a legally and factually deficient attorney 
+affirmation led the circuit court to conclude that applicable 
+statutes, regulations, and contractual provisions were followed.  
+These failures pass the threshold to constitute fraud on the 
+court, and, accordingly, the circuit court erred in denying 
+Namahoe’s HRCP Rule 60(b)(6) motion for relief insofar as it 
+would otherwise preclude Namahoe from asserting a wrongful foreclosure counterclaim.   
+2.  
+Principles of equity necessitate relief  
+ 
+Namahoe’s claim for relief under HRCP Rule 60(b)(6) 
+should also have been granted because JBNC had no equitable basis to pursue foreclosure in these specific circumstances.  We 
+hold that the circuit court abused its discretion in denying 
+Namahoe relief.   
+The function of the court in a foreclosure proceeding 
+is to ascertain the precise amount due under the mortgage.  
+Honolulu, Ltd. v. Blackwell, 7 Haw. App. 210, 219, 750 P.2d 942, 
+948 (1988).  A key factor in the court’s determination of whether and to what extent to provide equitable relief is 
+whether forfeiture would be harsh and unreasonable under the 
+circumstances.  Jenkins v. Wise, 58 Haw. 592, 597—98, 574 P.2d *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+46 
+ 1337, 1341 (1978).  We can think of no better example of a harsh 
+and unreasonable forfeiture than foreclosure of one’s home based 
+on an alleged default of a $500.00 agreement.   
+A court’s discretionary decision shall not be set 
+aside “unless manifestly against the clear weight of the 
+evidence.”  Id. at 598, 574 P.2d at 1342.  Here, because JBNC 
+failed to disclose all pertinent evidence, the circuit court issued its judgment and denied equitable relief without availing 
+itself of all relevant facts.  A careful review of the record 
+leads us to conclude that the Decree of Foreclosure was in error.  
+As we explained in Jenkins, “[e]quity, . . . abhors 
+forfeitures and where no injustice would thereby result to the 
+injured party, equity will generally favor compensation rather 
+than forfeiture against the offending party.”  Id. at 597, 574 
+P.2d at 1341.  We have also held in the wrongful foreclosure context that “where the property has passed into the hands of an innocent purchaser for value, . . . an action at law for damages 
+is generally the appropriate remedy.”  Delapinia v. Nationstar 
+Mortgage LLC, 150 Hawai‘ i 91, 101-02, 497 P.3d 106, 116-17 (2021) 
+(quoting Mount v. Apao, 139 Hawai‘ i 167, 180, 384 P.3d 1268, 1281 
+(2016)).   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+47 
+ Accordingly, we hold that Namahoe’s HRCP Rule 60(b)(6) 
+motion should have been granted on this alternate ground, and 
+that, accordingly, he should not be precluded from seeking 
+relief in the form of a wrongful foreclosure counterclaim 
+against JBNC.   
+3.  
+Namahoe’s HRCP Rule 60(b)(6) motion is not time barred 
+ 
+Unlike HRCP Rule 60(b)(3) fraud, which imposes a one-
+year time limit, a party seeking relief under HRCP Rule 60(b)(6) must bring their motion “within a reasonable time.”  HRCP Rule 
+60(b).  We have interpreted HRCP Rule 60(b)(6) as requiring litigants to establish “the existence of ‘extraordinary 
+circumstances’ that prevented or rendered [them] unable to 
+prosecute an appeal” within the “reasonable time” period.  Haw. 
+Hous. Auth. v. Uyehara, 77 Hawaiʻ i 144, 148—49 , 883 P.2d 65, 69—
+70 (1994).  Under the similar federal rule, relief is available 
+under FRCP Rule 60(b)(6) (2007) “within a reasonable time.”  
+FRCP Rule 60(c)(1) (2007).  This phrasing has been interpreted 
+to mean that relief is available “only where extraordinary 
+circumstances prevented a litigant from seeking earlier, more 
+timely relief.”  U.S. v. Alpine Land & Reservoir Co., 984 F.2d 
+1047, 1049 (9th Cir. 1993).   
+Our case law sets a high bar.  In Uyehara, Uyehara 
+filed his Rule 60(b) motion over three-and-a-half years after  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+48 
+ the entry of the order.  77 
+Hawaiʻi at 149, 883 P.2d at 70 
+(1994).  Uyehara claimed that his delay in filing was “not 
+unreasonable because, throughout this period, [Uyehara] was 
+attempting to obtain counsel.”  Id.  This court concluded, 
+however, that “even under the more relaxed time limitations of HRCP Rule 60(b)(6), it is unreasonable for Uyehara to claim that
+three and one-half years is a reasonable time expenditure for 
+obtaining an attorney.”  Id.; see Aiona v. Wing Sing Wo Co., 45 
+Haw. 427, 432, 368 P.2d 879, 882 (1962) (“‘There must be an end 
+to litigation someday, and free, calculated, deliberate choices 
+are not to be relieved from.’  Three years is far in excess of a
+reasonable time within which to make a decision as to choice of remedy.”) (quoting Ackermann v. U.S., 340 U.S. 193, 198 (1950)). 
+ 
+   
+Here, Namahoe has demonstrated extraordinary 
+circumstances that would justify waiting more than three years 
+from the filing of the Decree of Foreclosure — and more than two 
+years from the filing of the Order Confirming Sale — to file his 
+Rule 60(b) motion.  Namahoe recounted that he had “no memory of 
+being served or signing a paper that I was served,” and that he 
+was receiving care for an illness.  Namahoe further claims that 
+after the Writ of Ejectment was served, he was forced to live in a van “until it broke down.”  This inquiry is fact-specific and 
+determined on a case-by-case basis.  See Alpine Land, 984 F.2d *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+49  /s/ Todd W. Eddins    /s/ Mark E. Recktenwald 
+ /s/ Paula A. Nakayama 
+   /s/ Sabrina S. McKenna 
+  
+ /s/ Michael D. Wilson    
+ 
+ 
+  
+     
+ 
+ 
+at 1049.  Here, Namahoe has shown that the delay was warranted 
+due to his personal circumstances which were, in significant 
+part, generated by JBNC’s conduct.     
+V.  CONCLUSION 
+Namahoe presented two valid bases for relief from the 
+Decree of Foreclosure issued by the circuit court.  We find that JBNC committed fraud on the court, and that the balance of 
+equities weighed against foreclosure in this case.  Thus, the 
+circuit court’s denial of Namahoe’s HRCP Rule 60(b)(6) motion is 
+hereby reversed, and the Decree of Foreclosure is vacated insofar as it would preclude Namahoe from asserting a wrongful 
+foreclosure claim.  We remand for further proceedings consistent 
+with this opinion.
+Kai K.A. Lawrence,
+William J. Rosdil,
+for petitioner   
+  
+ 
+David J. Minkin, 
+for respondent  
+   
+ 
+ 
+ 

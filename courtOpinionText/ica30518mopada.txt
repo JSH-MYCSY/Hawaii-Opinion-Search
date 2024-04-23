@@ -1,0 +1,1068 @@
+NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+NO. 30518
+ 
+IN THE INTERMEDIATE COURT OF APPEALS
+ 
+OF THE STATE OF HAWAI' I 
+STATE OF HAWAI' I, Plaintiff-Appellee,
+v.
+ 
+KEVIN C. METCALFE, Defendant-Appellant.
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE THIRD CIRCUIT
+ 
+(CR. NO. 09-1-215K)
+ 
+MEMORANDUM OPINION
+ 
+(By: Nakamura, C.J., Foley and Ginoza, JJ.)
+ 
+Defendant-Appellant Kevin C. Metcalfe (Metcalfe) 
+appeals from the March 25, 2010 judgment entered by the Circuit 
+Court for the Third Circuit (circuit court).1 Plaintiff-Appellee 
+State of Hawai' i (State) charged Metcalfe by amended complaint 
+with one count of Murder in the Second Degree in violation of 
+2
+Hawaii Revised Statutes (HRS) §§ 707-701.5(1)  (1993 Repl.) and
+1
+ The Honorable Ronald Ibarra presided. 
+2
+ HRS § 707-701.5(1) provides in relevant part:
+ 
+[§707-701.5] Murder in the second degree.  (1) Except as provided
+in section 707-701, a person commits the offense of murder in the second
+degree if the person intentionally or knowingly causes the death of
+another person.
+ 
+. . . 
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+3
+706-660.1(1)  (1993 Repl.) (Count I) and one count of Carrying or
+Use of Firearm in the Commission of a Separate Felony in
+ 
+4
+violation of HRS § 134-21(a)  (Supp. 2006) (Count II).  After a
+ 
+jury trial, Metcalfe was found guilty of manslaughter in Count I
+ 
+and guilty as charged in Count II. The circuit court sentenced
+ 
+Metcalfe to an indeterminate term of twenty years incarceration
+ 
+in both counts, to run concurrently with each other.
+ 
+On appeal, Metcalfe asserts the following points of
+ 
+error: (1) the circuit court erred in denying his motion to
+ 
+dismiss; (2) the circuit court plainly erred in allowing improper
+ 
+lay opinion testimony of Dr. Anthony Manoukian (Dr. Manoukian)
+ 
+and Detective Walter Ah Mow (Det. Ah Mow), where the prosecution
+ 
+3 HRS § 706-660.1(1) provides in relevant part:
+ 
+§706-660.1 Sentence of imprisonment for use of a firearm,
+semiautomatic firearm, or automatic firearm in a felony.  (1) A person
+convicted of a felony, where the person had a firearm in the person's
+possession or threatened its use or used the firearm while engaged in
+the commission of the felony, whether the firearm was loaded or not, and
+whether operable or not, may in addition to the indeterminate term of
+imprisonment provided for the grade of offense be sentenced to a
+mandatory minimum term of imprisonment without possibility of parole or
+probation the length of which shall be a follows:
+(a)	 For murder in the second degree and attempted
+murder in the second degree –- up to fifteen
+years;
+(b)	 For a class A felony –- up to ten years;
+(c)	 For a class B felony –- up to five years; and
+(d) For a class C felony –- up to three years.
+ 
+. . . .
+4 HRS §134-21 provides in relevant part:
+ 
+[§134-21] Carrying or use of firearm in the commission of a
+separate felony; penalty.  (a) It shall be unlawful for a person to
+knowingly carry on the person or have within the person's immediate
+control or intentionally use or threaten to use a firearm while engaged
+in the commission of a separate felony, whether the firearm was loaded
+or not, and whether operable or not; . . .
+ 
+. . . .
+ (b) A conviction and sentence under this section shall be in
+ 
+addition to and not in lieu of any conviction and sentence for the
+separate felony; provided that the sentence imposed under this section
+may run concurrently or consecutively with the sentence for the separate
+felony.
+(c) Any person violating this section shall be guilty of a class
+A felony.
+ 
+2
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+failed to qualify them as experts under Hawaii Rules of Evidence
+ 
+(HRE) 702; (3) the circuit court plainly erred in giving a wrong
+ 
+jury instruction regarding opinion testimony, which was modified
+ 
+from a standard expert witness instruction, because there was no
+ 
+expert witness testimony; (4) the circuit court plainly erred in
+ 
+giving an erroneous self-defense instruction; (5) the circuit
+ 
+court plainly erred in failing to give an instruction on defense
+ 
+of property; (6) the circuit court plainly erred in failing to
+ 
+give a cautionary jury instruction regarding medical marijuana;
+ 
+(7) there was insufficient evidence that the shotgun fired by
+ 
+Metcalfe was a "firearm;" and (8) trial counsel rendered
+ 
+ineffective assistance of counsel.
+ 
+For the reasons discussed below, we affirm.
+ 
+I. Background
+ 
+This case arises from an incident on May 6, 2009,
+ 
+wherein Metcalfe fired a shotgun and Larry Kuahuia (Kuahuia) was
+ killed. Metcalfe was charged with one count of Murder in the
+ 
+Second Degree and one count of Carrying or Use of Firearm in the
+ 
+Commission of a Separate Felony.
+ 
+On December 7, 2009, Metcalfe filed a motion to dismiss
+ 
+the amended complaint on double jeopardy and collateral estoppel
+ 
+grounds. After a hearing on January 28, 2010, the circuit court
+ 
+issued an order denying the motion to dismiss. The circuit court
+ 
+held that there was "no constitutional or statutory impediment
+ 
+prohibiting the State from proceeding by way of a preliminary
+ 
+hearing when a grand jury has filed a No Bill." 
+A jury trial was held on February 2, 3, 4, 9, 10, and
+ 
+11, 2010. The prosecution presented evidence seeking to show,
+ 
+among other things, that decedent Kuahuia was shot in the back
+ 
+and from a distance.
+ 
+Metcalfe testified in his defense that, at
+ 
+approximately 10:30 p.m., he confronted Kuahuia after an alarm
+ 
+indicated someone was on Metcalfe's property and Metcalfe saw via
+ 
+3
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+a surveillance monitor that someone was outside his greenhouse
+ 
+and trying to cut through a shade cloth. The greenhouse
+ 
+contained Metcalfe's tools and medical marijuana plants. After
+ 
+approaching the area with his shotgun, Metcalfe claims that he
+ 
+saw Kuahuia crouched on the ground. Metcalfe claims that he told
+ 
+Kuahuia, among other things, that he had a gun and to get on the
+ 
+ground, but Kuahuia came towards and then jumped toward Metcalfe
+ 
+holding something Metcalfe thought was a cutting instrument. 
+Metcalfe claimed that he pulled the trigger on his shotgun in
+ 
+self-defense.
+ 
+II. Discussion
+ 
+A. No Error In Denying Metcalfe's Motion to Dismiss
+ 
+To the extent it can be understood, Metcalfe appears to
+ 
+argue on appeal that, because his trial counsel failed to provide
+ 
+the circuit court with evidence regarding the grand jury and
+ 
+preliminary hearing proceedings, the trial court somehow erred in
+ 
+denying Metcalfe's motion to dismiss without any records or files
+ 
+in evidence. Metcalfe's motion to dismiss had asserted that
+ 
+because probable cause for the charges was found at the
+ 
+preliminary hearing, after a grand jury had previously issued a
+ 
+"no bill," the State was precluded by collateral estoppel and
+ 
+double jeopardy from re-litigating the issue of probable cause. 
+The declaration of Metcalfe's trial counsel, attached to the
+ 
+motion to dismiss, had also claimed that the finding of probable
+ 
+cause in the preliminary hearing was made "when the prosecutor
+ 
+omitted significant evidence that the grand jury heard, some of
+ 
+which was exculpatory from this preliminary examination, and thus
+ 
+[the judge] did not have the benefit of hearing the entire
+ 
+circumstances of the offense."
+ 
+Metcalfe's opening brief makes the seemingly
+ 
+conflicting argument that a party alleging error has the duty of
+ 
+demonstrating error by bringing the appropriate record before the
+ 
+court, that in this case his trial counsel failed to provide the
+ 
+4
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+circuit court with the transcripts from the grand jury and
+ 
+preliminary hearing proceedings, and that the circuit court then
+ 
+abused its discretion by denying the motion to dismiss "without
+ 
+reviewing the evidence." Even if we presume Metcalfe has not
+ 
+waived this point of error for failure to present a discernible
+ 
+5
+ he fails on appeal to demonstrate any error by the
+ argument,
+circuit court. 
+There are no transcripts from the grand jury or
+ 
+the preliminary hearing proceedings in the record on appeal, and
+ therefore Metcalfe makes no showing that the trial court abused
+ 
+its discretion or that he was prejudiced in any way. 
+See State
+ 
+v.
+ Taylor, 126 Hawai' i 205, 214, 269 P.3d 740, 749 (2011) ("In 
+cases involving allegations of prosecutorial abuse or misconduct, 
+[the supreme court] has applied an abuse of discretion standard 
+when reviewing a motion to dismiss an indictment.") (citing State 
+v. Mendonca, 68 Haw. 280, 282–83, 711 P.2d 731, 733–34 (1985)).
+ 
+To the extent Metcalfe's point of error challenges the 
+circuit court's decision on double jeopardy grounds, double 
+jeopardy only applies after "jeopardy" has attached, which in the 
+case of a jury trial occurs when a jury is empaneled and sworn. 
+See Serfass v. United States, 420 U.S. 377, 388 (1975); State v. 
+Quitog, 85 Hawai' i 128, 141, 938 P.2d 559, 572 (1997). Metcalfe 
+cannot show that jeopardy attached at the grand jury stage, and his trial counsel conceded as much. Moreover, Metcalfe presents 
+no authority for the proposition that the doctrine of collateral 
+estoppel is applicable relative to his motion to dismiss. 
+We conclude there is no merit regarding this point of
+ 
+error.
+ 
+5
+ See Hawai' i Rules of Appellate Procedure (HRAP) Rule 28(b)(7) (Points
+not argued may be deemed waived); Exotics Hawaii-Kona, Inc. v. E.I. Du Pont
+Nemours & Co., 116 Hawai' i 277, 288, 172 P.3d 1021, 1032 (2007) (A court may
+disregard points of error when the appellant fails to present "discerniblearguments" supporting those assignments of error). 
+5
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+B.	 No Plain Error In Allowing the Testimony of
+Dr. Manoukian and Det. Ah Mow
+ 
+Metcalfe argues on appeal that the trial court plainly 
+erred in permitting the testimony of Dr. Manoukian and Det. Ah 
+Mow because they were both proffered as lay opinion witnesses, 
+although their respective testimony demonstrated expert 
+knowledge. The State never proffered Dr. Manoukian or Det. Ah 
+Mow as "experts," and the circuit court never expressly qualified 
+them as such. Because Metcalfe did not object to Dr. Manoukian 
+or Det. Ah Mow's testimony, we review Metcalfe's point of error 
+under the plain error standard of review. See State v. Staley, 
+91 Hawai' i 275, 282, 982 P.2d 904, 911 (1999). 
+If the substantial rights of the defendant have been
+affected adversely, the error will be deemed plain error.
+Further, [appellate courts] will apply the plain error
+standard of review to correct errors which seriously affect
+the fairness, integrity, or public reputation of judicial
+proceedings, to serve the ends of justice, and to prevent
+the denial of fundamental rights.
+ 
+State v. Nichols, 111 Hawai' i 327, 334, 141 P.3d 974, 981 (2006) 
+(internal citation and citation omitted). 
+The testimony by Dr. Manoukian and Det. Ah Mow
+ 
+constituted "expert testimony" governed by HRE Rule 702, because
+ 
+their testimony involved "scientific, technical, or other
+ 
+specialized knowledge[.]" The State does not contest that these
+ 
+witnesses gave expert testimony. Dr. Manoukian testified, among
+ 
+other things: that he performed an autopsy on defendant Larry
+ 
+Kuahuia, and that in his opinion, "within the bounds of
+ 
+reasonable medical certainty," Kuahuia died due to a shotgun
+ 
+wound to the back; that pictures taken during the autopsy showed
+ 
+"parallel grazing wounds" on each side of Kuahuia's torso, which
+ 
+indicated the trajectory of the shotgun wound was back to front;
+ 
+and that the approximate range of firing could be estimated by
+ 
+multiplying the diameter of the pellet injury times three and
+ 
+6
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+converting it to feet, which was approximately 60 feet in this
+ 
+case. 
+Det. Ah Mow tested the shotgun that was recovered at
+ 
+the scene, using the same type of ammunition recovered at the
+ 
+scene, to conduct a shotgun pattern test to "determine the
+ 
+distance of . . . the shotgun as the pellets go through the
+ 
+barrel and make a spread pattern onto a target." Det. Ah Mow
+ 
+fired a silhouette target from eight different distances, which
+ 
+demonstrated generally that the spread pattern increased as the
+ 
+distance increased. Det. Ah Mow also testified as to the
+ 
+distances that the shotgun shells were ejected.
+ 
+We conclude that allowing Dr. Manoukian and Det. Ah Mow
+ 
+to testify without the circuit court designating them as expert
+ 
+witnesses was not plain error. Where a defendant argues for the
+ 
+first time on appeal that failure to formally qualify a witness
+ 
+as an expert is error, but does not argue that the witness is not
+ 
+qualified, or that his or her testimony or methods are
+ 
+inadequate, any such error by the trial court is harmless. See
+ 
+United States v. York, 572 F.3d 415, 421-22 (7th Cir. 2009)
+ (Although FBI agent was not formally qualified by the trial court
+ 
+as an expert witness, any error was harmless. "Notably,
+ 
+[defendant] does not challenge Brown's qualifications, his
+ 
+methods, or the accuracy of his testimony here on appeal. . . .
+ 
+[G]iven Brown's qualifications, and no attempt to disparage them
+ 
+here on appeal, we find that Brown would have easily qualified as
+ 
+an expert had the court conducted the formal Rule 702
+ 
+analysis."); People v. Lomanaco, 802 P.2d 1143, 1145 (Colo. App.
+ 
+1990) ("[T]rial court's omission, absent any request by the
+ 
+prosecutor or objection by defense counsel, to qualify the agent
+ 
+specifically as an expert had no adverse effect upon defendant's
+ 
+substantial rights. The foundation questions implied that the
+ 
+agent, whose credentials illustrated his substantial expertise,
+ 
+was proffered as an expert.")
+ 
+7
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Additionally, the testimony by Dr. Manoukian and Det.
+ 
+Ah Mow demonstrates that they qualify as experts under HRE 702,
+ 
+and thus any error in allowing their testimony did not affect the
+ 
+fairness, integrity, or public reputation of the judicial
+ 
+proceedings. See United States v. Mendoza, 244 F.3d 1037, 1046­
+47 (9th Cir. 2001) (assuming arguendo that the district court
+ erred in admitting testimony as the opinion of a percipient
+ 
+witness when it was expert opinion, such error was harmless
+ 
+because the record showed that the witness could have been
+ 
+qualified as an expert under Rule 702 of the Federal Rules of
+ 
+Evidence); United States v. Figueroa-Lopez, 125 F.3d 1241, 1247
+ 
+(9th Cir. 1997); United States v. Ramsey, 165 F.3d 980, 984 (D.C.
+ 
+Cir. 1999) (concluding there was no plain error where,
+ 
+"[a]lthough the trial judge never formally qualified [the
+ 
+witness] as an expert witness, his testimony functionally
+ 
+satisfied the requirements for expert testimony set forth in
+ 
+Federal Rule of Evidence 702.").
+ 
+HRE Rule 702 establishes three conditions for the
+ 
+receipt of expert testimony: (1) the witness must be qualified by
+ 
+knowledge, skill, experience, training, or education; (2) the
+ 
+testimony must have the capacity to "assist the trier of fact to
+ 
+understand the evidence or determine a fact in issue[;]" and
+ 
+(3) the expert's analysis must meet a threshold level of 
+reliability and trustworthiness. See State v. Torres, 122 
+Hawai'i 2, 31, 222 P.3d 409, 438 (App. 2009) (citations omitted), 
+corrected on other grounds by, 125 Hawai' i 382, 262 P.3d 1006 
+(2011). In short, the expert testimony must be relevant and 
+reliable. See State v. Fukusaku, 85 Hawai' i 462, 473, 946 P.2d 
+32, 43 (1997). 
+In this case, both Dr. Manoukian and Det. Ah Mow are
+ 
+qualified by knowledge, skill, experience, training, or
+ 
+8
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+education, as evidenced by their testimony on direct
+ 
+examination.6 Metcalfe does not dispute their qualifications.
+ 
+Similarly, it is clear that the disputed testimony was
+ 
+relevant given Metcalfe's theory of self-defense and his claim
+ 
+that he shot at Kuahuia as Kuahuia charged toward him.7 Metcalfe
+ 
+does not dispute the relevance of Dr. Manoukian and Det. Ah Mow's
+ testimony.
+ 
+The testimony by Dr. Manoukian and Det. Ah Mow was also
+ 
+reliable. Dr. Manoukian described in detail the basis for his
+ 
+opinion that decedent was shot in the back at an approximate
+ 
+distance of 60 feet, including: parallel sets of grazing wounds
+ 
+on each side of decedent's torso showing a back to front
+ 
+trajectory of the bullets; the spread of numerous entry wounds on
+ 
+the back; the lack of any "large central defect" that would
+ 
+indicate a close-range firing; a general rule of thumb used in
+ 
+pathology whereby the diameter of the pellet injury times three
+ 
+6 Dr. Manoukian testified inter alia that: his occupation is as a
+pathologist, as the laboratory director at Maui Memorial Medical Center, and
+also as the coroner's physician for the County of Maui, on the Big Island andalso on Kauai; he is a physician and surgeon licensed in the State of Hawai' i;
+he is certified by the American Board of Pathology in anatomic and clinicalpathology and forensic pathology; he has performed over 3,000 autopsies; hehas observed in excess of a hundred cases in which the cause of death was injury caused by a firearm; and he has had autopsy training with respect todeath due to firearms. 
+Det. Ah Mow testified that he is a certified firearms instructor for the 
+Hawai'i Police Department; he has been an instructor with the Special Response
+Team (SRT); he is certified regarding firearms by the FBI and National RifleAssociation; and he has had training by the FBI regarding shotguns.
+7 At trial, Dr. Manoukian testified: that he performed an autopsy of
+Kuahuia; that injuries to Kuahuia's body indicated the trajectory of the
+shotgun wound and the range of fire; and that Kuahuia's cause of death was a
+shotgun wound to the back. He testified that the distance from the gun to
+decedent was approximately 60 feet, and that there was no evidence to indicate
+that the decedent was shot in the front of his body. 
+Det. Ah Mow testified that he had test fired Metcalfe's 12 gauge shotgun
+from various distances to show the spread pattern of the pellets as they hit a
+cardboard silhouette target. The testimony of Ah Mow generally illustrated
+that the spread pattern on the targets grew larger at larger distances, and
+was utilized by the prosecution to support its theory that Metcalfe shot the
+decedent from a far distance and in the back.
+ 
+9
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+equals a ballpark figure of the distance in feet between the 
+decedent and the barrel of the shotgun; the fact that the only 
+injuries he observed to the front of Kuahuia's body were 
+abrasions or scraping; and there was nothing to indicate Kuahuia 
+was shot in the front of his body. Dr. Manoukian has qualified 
+as an expert in other cases in this state, including in the area 
+of forensic pathology. See e.g., State v. Espiritu, 117 Hawai' i 
+127, 138, 176 P.3d 885, 896 (2008); State v. Cordeiro, 99 Hawai' i 
+390, 419, 56 P.3d 692, 721 (2002). 
+Det. Ah Mow testified that the semi-automatic shotgun
+ 
+he used during his test firing was the same shotgun recovered
+ 
+from the crime scene. He explained that the purpose of the test
+ 
+fire was to determine the distance of the shotgun as the pellets
+ 
+go through the barrel and make a spread pattern onto a target. He
+ 
+shot eight standard police silhouette targets, at distances of
+ 
+8 9
+10, 20, 30, 40, 50, 55, 47 feet 8 inches,  and 51 feet 1 inch  . 
+Det. Ah Mow utilized the same type of ammunition that was
+ 
+recovered from the Metcalfe residence in his test firing. He
+ 
+described the spread patterns for each distance, which suggested
+ 
+that as the distance from the target increased, the spread
+ 
+pattern also increased. He also measured the distances between
+ 
+where he shot and where the spent shells fell. Metcalfe does not
+ 
+challenge the reliability of the testimony. 
+Metcalfe argues, pursuant to 
+Torres, that the testimony
+ 
+of Dr. Manoukian and Det. Ah Mow was not lay opinion testimony,
+ 
+but rather expert testimony. As discussed above, we agree with
+ 
+Metcalfe's contention in this regard. Beyond that, however,
+ 
+Torres is distinguishable. In Torres, the trial court did not
+ 
+specifically rule on whether certain testimony had been admitted
+ 
+8
+ The distance between a spent shotgun shell and a hacksaw found at the
+ 
+scene.
+9
+ The distance between another spent shotgun shell and the hacksaw
+found at the scene.
+ 
+10
+  NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+as lay opinion or expert testimony. 122 Hawai' i at 28, 222 P.3d 
+at 435. On appeal, this court held that the opinion provided by 
+the subject witness required expert testimony, but that the 
+witness did not qualify as an expert under HRE Rule 702 given, 
+inter alia, the lack of foundation to qualify him as an expert 
+and his own testimony that he was not an expert in the relevant 
+fields of expertise. Id. at 29-31, 222 P.3d at 436-38. To the 
+contrary in this case, and as discussed above, the testimony of Dr. Manoukian and Det. Ah Mow established their qualifications as 
+expert witnesses relative to their challenged testimony. 
+The circuit court did not plainly err in allowing the
+ 
+testimony of Dr. Manoukian and Det. Ah Mow. 
+C.	 No Plain Error in the Jury Instruction on Opinion
+Testimony
+ 
+Metcalfe argues that the standard jury instruction on 
+expert witness testimony was erroneously modified by the trial 
+court's substitution of the words "opinion testimony" for the 
+word "expert," that the instruction improperly blended HRE Rules 
+701 and 702, tracked the language of neither rule, and thus ran 
+afoul of both rules. We review the circuit court's jury 
+instructions under the harmless beyond a reasonable doubt 
+standard. See Nichols, 111 Hawai' i at 337, 141 P.3d at 984 
+("[A]lthough as a general matter forfeited assignments of error are to be reviewed under the HRPP Rule 52(b) plain error standard 
+of review, in the case of erroneous jury instructions, that 
+standard of review is effectively merged with the HRPP Rule 52(a) 
+harmless error standard of review because it is the duty of the 
+trial court to properly instruct the jury.") 
+The circuit court gave the following instructions: 
+During the trial you heard the testimony of one or
+more witnesses who were allowed to give opinion testimony. 
+Training and experience may make a person qualified to
+ 
+give opinion testimony in a particular field. The law
+ 
+allows that person to state an opinion about matters in that
+field. Merely because such a witness has expressed an
+ 
+11
+   
+ 
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+opinion does not mean, however, that you must accept this
+opinion. It is up to you to decide whether to accept this
+testimony and how much weight to give it. You must also
+ decide whether the witness's opinions were based on sound
+reasons, judgment, and information. 
+(emphasis added). 
+Hawai'i Standard Jury Instruction Criminal(HAWJIC) 4.05 
+(Dec. 1991), related to expert witnesses, states: 
+During the trial you heard the testimony of one or
+more witnesses who were described as experts. 
+Training and experience may make a person an expert in
+ 
+a particular field. The law allows that person to state an
+opinion about matters in that field. Merely because such a
+witness has expressed an opinion does not mean, however,
+that you must accept this opinion. It is up to you to
+decide whether to accept this testimony and how much weight
+to give it. You must also decide whether the witness's
+ opinions were based on sound reasons, judgment, and
+information. 
+(Emphasis added). 
+The only difference between the instructions given and 
+standard jury instruction HAWJIC 4.05 is that the circuit court: 
+used the phrase "allowed to give opinion testimony" instead of 
+the phrase "described as experts" in the first paragraph; and 
+used the phrase "qualified to give opinion testimony" instead of 
+the phrase "an expert" in the second paragraph. Because the 
+given instructions as a whole accurately state the law, the 
+instructions are not in error. See HRE 702; Territory v. 
+Adelmeyer, 45 Haw. 144, 163, 363 P.2d 979, 989 (1961) ("Experts' opinions vary and the competence, credibility and weight of their 
+testimony is exclusively the province of the jury."); State v. 
+Sawyer, 88 Hawai' i 325, 335, 966 P.2d 637, 647 (1998) (holding 
+that a failure to strictly conform to a HAWJIC instruction did not automatically result in incomplete and confusing jury 
+instructions); State v. Mark, 123 Hawai' i 205, 219-20, 231 P.3d 
+478, 492-93 (2010) (appellate courts are not bound by pattern jury instructions). 
+12
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+D. No Error in the Jury Instruction on Self-Defense
+ 
+Metcalfe argues that the self-defense instruction was 
+erroneous in that: (1) it lacked a two-part inquiry as required 
+by State v. Van Dyke, 101 Hawai' i 377, 69 P.3d 88 (2003); (2) it 
+did not contain the definition of confinement under HRS § 703­304(6); and (3) the part of the instruction required under State 
+v. Lubong, 77 Hawai' i 429, 886 P.2d 766 (App. 1994) was 
+erroneous. 
+As to Metcalfe's first contention, the circuit court 
+did not run afoul of Van Dyke. In Van Dyke, the Hawai' i Supreme 
+Court held that the circuit court's self-defense instruction was 
+in error because the defendant expressly disputed whether his use 
+of force constituted "deadly force," but the circuit court 
+instructed the jury only as to justifiable use of "deadly force" 
+and not the justifiable use of "force."  101 Hawai' i at 387-88, 
+69 P.3d at 98-99.
+10 Metcalfe does not assert that, like the 
+defendant in Van Dyke, he disputed whether his use of force 
+constituted deadly force. Therefore, it is arguable whether Van 
+Dyke applies to this case. Even assuming it does, the circuit 
+court did instruct the jury as to the justifiable use of both 
+"force" and "deadly force" in this case. 
+Metcalfe's second argument is that the self-defense
+ 
+instruction was erroneous in that it did not contain the
+ 
+definition of "confinement" under HRS § 703-304(6), which he
+ 
+contends was applicable to this case. The circuit court did not
+ 
+err in omitting the definition of "confinement" because it was
+ 
+not warranted or applicable. There was no evidence that Kuahuia
+ 
+was confined. Moreover, Metcalfe fails to argue how justifiable
+ 
+confinement would be relevant to the charges brought against him
+ 
+10
+ The supreme court in Van Dyke noted that "force" resulting in 
+death was not necessarily "deadly force," as "such conduct must be accompanied
+by the requisite state of mind[,]" and thus, the circuit court had erred intaking the question of what degree of force was used out of the hands of thejury. 101 Hawai' i at 387-88, 69 P.3d at 98-99. 
+13
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+of: Murder in the Second Degree; and Carrying or Use of Firearm
+ 
+in the Commission of a Separate Felony (Murder in the Second
+ 
+Degree).
+ 
+Metcalfe's third argument is that the Lubong portion of 
+the self-defense instruction was erroneous because it used the 
+phrase "reasonably prudent person" rather than "reasonable 
+person." The "reasonably prudent person" language in the 
+instruction is based on Lubong. 77 Hawai' i at 433, 886 P.2d at 
+770. Metcalfe cites no authority that would overturn Lubong or
+ 
+that suggests that the "reasonably prudent person" standard is
+ 
+materially different from the "reasonable person" standard.
+ 
+Metcalfe next contends that the self-defense
+ 
+instruction was erroneous because it "omitted the Lubong case's
+ 
+explanation of how to apply the subjective prong." The relevant
+ 
+part of the circuit court's self-defense instruction included the
+ 
+instruction that "[f]or this part of the test, you should place
+ 
+yourself in the shoes of the defendant.". Reading the
+ 
+instructions as a whole, omitting other explanatory language from
+ 
+Lubong was not erroneous.
+ 
+Finally, Metcalfe argues that the Lubong portion of the
+ 
+instructions was "flawed because it failed to specify that the
+ 
+prosecution had the duty to disprove self-defense beyond a
+ 
+reasonable doubt." Essentially, Metcalfe asserts that, although
+ 
+the self-defense instruction as a whole contained the proper
+ 
+admonition that the prosecution had the duty to disprove self-
+defense beyond a reasonable doubt, the admonition should have
+ 
+also been contained in the Lubong portion of the instruction. We
+ 
+do not agree. Immediately prior to the Lubong portion of the
+ 
+instructions, the circuit court's instruction stated:
+ 
+Justifiable use of force, commonly known as self
+defense is a defense to the charge of Murder in the Second
+Degree and Manslaughter. Once there is any evidence of
+justification, the burden is on the prosecution to prove
+ 
+beyond a reasonable doubt that the force used by the
+ 
+Defendant was not justifiable. If the prosecution does not
+ 
+14
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+meet this burden then you must find the Defendant Not Guilty
+of Murder in the Second Degree and Manslaughter.
+ 
+(Emphasis added).
+ 
+In sum, the circuit court did not err in its 
+instructions on self-defense. The instructions, when considered 
+as a whole, are not prejudicially insufficient, erroneous, 
+inconsistent, or misleading. See State v. Behrendt, 124 Hawai' i 
+90, 102, 237 P.3d 1156, 1168 (2010). 
+E.	 Jury Instruction on Defense of Property Was Not
+Required
+ 
+Metcalfe argues that the circuit court erred in failing
+ 
+to instruct the jury on the defense of property, asserting that a
+ 
+trial court has the duty to sua sponte instruct the jury on a
+ 
+particular defense if: (1) it appears that the defendant is
+ 
+relying on such a defense; or (2) if there is substantial
+ 
+evidence supportive of such a defense and the defense is not
+ 
+inconsistent with the defendant's theory of the case. See State
+ 
+v. Stenger, 122 Hawai' i 271, 298, 226 P.3d 441, 468 (2010) (Moon, 
+C.J., dissenting); see also, State v. Yue, 2010 WL 3705983 
+(Hawai'i App. 2010). 
+Metcalfe fails to demonstrate that he relied on the
+ 
+justification of defense of property. Rather, he argues that the
+ 
+circuit court should have instructed on the defense of property
+ 
+because he "did not specifically disavow the defense.". However,
+ 
+Metcalfe's having not disavowed the defense is not equivalent to
+ 
+having relied on the defense.
+ 
+Additionally, there was not substantial evidence to
+ 
+support a justification based on defense of property. Metcalfe
+ 
+argues that his initial conduct in arming himself, confronting
+ 
+Kuahuia, and his actions up until the point that he discharged
+ 
+the shotgun, supported a defense of property. Metcalfe is not
+ 
+charged, however, with the actions prior to discharge of the
+ 
+shotgun. Rather, the charge of Murder in the Second Degree
+ 
+15
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+asserted that he intentionally or knowingly caused the death of
+ 
+Kuahuia, and the charge of Carrying or Use of Firearm in the
+ 
+Commission of a Separate Felony asserted, inter alia, that he
+ 
+intentionally used a firearm while engaged in the commission of a
+ 
+separate felony, Murder in the Second Degree. Metcalfe did not
+ 
+contend at trial that he shot at Kuahuia in order to protect his
+ 
+property. Rather, Metcalfe testified that, as Kuahuia was
+ 
+approaching him, he initially fired a warning shot because he was
+ 
+"scared to death," Kuahuia was attacking him, and when asked
+ 
+"were you thinking about your property, or were you thinking
+ 
+about something else," Metcalfe responded "I was thinking about
+ 
+myself.". Metcalfe testified that from the flash of the warning
+ 
+shot, he could see Kuahuia and it appeared Kuahuia was still
+ 
+coming towards him. Metcalfe testified that he subsequently
+ 
+fired the gun again.
+ 
+The circuit court was not required in this case to give
+ 
+an instruction on defense of property.
+ 
+F.	 Cautionary Jury Instruction on Medical Marijuana Not
+Required
+ 
+Metcalfe argues, for the first time on appeal, that the 
+circuit court erred in failing to issue a cautionary instruction 
+to the jury in order to "clarify, and clearly impress upon the 
+jury, that there was nothing criminal or wrong, with the 
+possession and use of medical marijuana by Metcalfe, Rocky, and 
+Meech, who all had medical marijuana permits." Metcalfe fails to 
+present any authority that would require the circuit court to 
+give such a "cautionary instruction." Moreover, there was 
+testimony to the effect that permits were issued in Hawai' i 
+allowing medical marijuana use, including to Metcalfe. We conclude there was no plain error by the circuit court in not 
+providing a cautionary instruction as asserted by Metcalfe. 
+16
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+G. Sufficient Evidence Regarding a Firearm
+ 
+Metcalfe argues that there was insufficient evidence
+ 
+that the shotgun was a "firearm" as defined in HRS § 134-1 (1993
+ 
+Repl.) because "[n]o witness testified that the shotgun was a
+ 
+'firearm . . . for which the operative force is an explosive[.]'" 
+Metcalfe's argument is without merit. HRS § 134-1 defines
+ 
+"firearm" as "any weapon, for which the operating force is an
+ 
+explosive, including but not limited to pistols, revolvers,
+ 
+rifles, shotguns, automatic firearms . . . . " (Emphasis added). 
+The definition of "firearm" specifically includes shotguns. 
+Metcalfe testified he pulled the trigger on a shotgun. Even
+ 
+assuming it was necessary that there be additional evidence that
+ 
+"the operating force is an explosive," Metcalfe testified to the
+ 
+bright flash that occurred when he pulled the trigger on the
+ 
+shotgun.
+ 
+H. Ineffective Assistance of Counsel Not Established
+ 
+Metcalfe argues that he had ineffective assistance of 
+trial counsel. To prevail on this point, Metcalfe must show both 
+"that there were specific errors or omissions reflecting 
+counsel's lack of skill, judgment, or diligence" and "that such 
+errors or omissions resulted in either the withdrawal or 
+substantial impairment of a potentially meritorious defense." 
+State v. Wakisaka, 102 Hawai' i 504, 514, 78 P.3d 317, 327 (2003) 
+(citation omitted). 
+First, Metcalfe argues that trial counsel failed to
+ 
+properly argue and preserve the issue of prosecutorial misconduct
+ "regarding Metcalfe's pre-trial challenge to the re-filing of
+ 
+charges after the grand jury initially returned a 'no bill.'"
+ 
+Metcalfe's argument fails because he does not demonstrate how the
+ 
+prosecutor's re-filing of charges after the grand jury initially
+ 
+returned a "no bill" would constitute prosecutorial misconduct. 
+Metcalfe fails to show error by his trial counsel or that an
+ 
+17
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+error resulted in the withdrawal or substantial impairment of a
+ 
+potentially meritorious defense.
+ 
+Second, Metcalfe argues that his trial counsel failed
+ 
+to object to the admission of numerous physical items of
+ 
+evidence, for which no authentication or relevance was
+ 
+established. Metcalfe fails to identify the items of evidence
+ 
+for which admission should have been challenged, or how failure
+ 
+of his trial counsel to challenge admission detrimentally
+ 
+affected his defense. 
+Third, Metcalfe argues that his trial counsel failed to
+ 
+object to the testimony of Dr. Manoukian and Det. Ah Mow as
+ 
+improper HRE Rule 701 lay opinion, because they were never
+ 
+qualified as "experts" under HRE Rule 702. The underlying basis
+ 
+for this argument has been addressed above. Given our reasoning
+ 
+and holding that the testimony by Dr. Manoukian and Det. Ah Mow
+ 
+was properly admitted, Metcalfe fails to show there was error by
+ 
+his trial counsel or a withdrawal or substantial impairment of a
+ 
+potentially meritorious defense. 
+Fourth, Metcalfe argues that his trial counsel were
+ 
+ineffective in that they elicited expert ballistics testimony
+ 
+from a lay police officer witness on cross-examination, and
+ 
+violated HRE Rules 701 and 702. Metcalfe fails to articulate or
+ 
+specify the portions of Officer Smith's testimony that was
+ 
+allegedly detrimental to his defense. He also fails to
+ 
+demonstrate that the testimony elicited from officer Smith was
+ 
+"expert" testimony. Although Metcalfe suggests that Officer
+ 
+Smith's testimony resulted in the "'firearm' element possibly
+ 
+being proved through cross-examination," as discussed above, the
+ 
+definition of "firearm" includes a shotgun, and moreover,
+ 
+Metcalfe's testimony provided sufficient evidence that he used a
+ 
+firearm.
+ 
+Fifth, Metcalfe argues that his trial counsel were
+ 
+ineffective in that they failed to object to the measurements
+ 
+18
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+from the Total Station device, which they challenged as
+ 
+unreliable. Again, Metcalfe fails to explain how his trial
+ 
+counsels' alleged failure to object to the measurements resulted
+ 
+in the substantial impairment of his defense.
+ 
+Sixth, Metcalfe argues that trial counsel were
+ 
+ineffective in failing to question Dr. Manoukian regarding
+ 
+whether a gunshot residue test was performed on decedent Kuahuia,
+ 
+because "[t]he presence of gunshot residue on Decedent's hands
+ 
+would contradict the prosecution's theory that the shotgun was
+ 
+fired from a 60-foot distance[.]" Even if we were to assume that
+ 
+a gunshot residue test was in fact performed on the decedent,
+ 
+Metcalfe's implicit assumption that gunshot residue was on the
+ 
+decedent's hands is highly speculative and not supported by
+ 
+evidence in the record. Metcalfe has not demonstrated that the
+ 
+failure to question Dr. Manoukian regarding gunshot residue on
+ 
+the decedent impaired a meritorious defense. 
+Seventh, Metcalfe argues that trial counsel were
+ 
+ineffective in failing to object to, or exclude in limine before
+ 
+trial, the prosecution's photograph and questioning about medical
+ 
+marijuana. Alternatively, Metcalfe asserts his trial counsel
+ 
+should have requested a cautionary instruction about medical
+ 
+marijuana. Metcalfe's arguments lack merit. Metcalfe's
+ 
+marijuana usage at the time of the incident was relevant to his
+ 
+conduct, perception of events, and his ability to remember
+ 
+events. Metcalfe also fails to explain how the photograph or
+ 
+questioning about marijuana substantially impaired a meritorious
+ 
+defense. Further, as discussed above, there is no legal
+ 
+authority supporting the cautionary instruction Metcalfe asserts
+ 
+should have been given regarding medical marijuana.
+ 
+Eighth, Metcalfe argues that his trial counsel were
+ 
+ineffective because they failed to request a defense of property
+ 
+instruction. As discussed above, a defense of property
+ 
+19
+ NOT FOR PUBLICATION  IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+instruction was not warranted in this case. Failure to request
+ 
+the instruction did not constitute ineffective assistance of
+ 
+trial counsel.
+ 
+III. Conclusion
+ 
+Based on the foregoing, we affirm the judgment entered
+ 
+by the circuit court on March 25, 2010. 
+DATED: Honolulu, Hawai' i, March 30, 2012. 
+On the briefs: 
+Karen T. Nakasone 
+Deputy Public Defenderfor Defendant-Appellant Chief Judge 
+Ricky R. DamervilleDeputy Prosecuting AttorneyCounty of Hawaiifor Plaintiff-Appellee 
+Associate Judge 
+Associate Judge 
+20
+ 

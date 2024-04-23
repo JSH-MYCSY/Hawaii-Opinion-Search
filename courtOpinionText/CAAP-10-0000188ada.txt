@@ -1,0 +1,2600 @@
+--------------------------------------------FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+IN THE INTERMEDIATE COURT OF APPEALS
+ 
+OF THE STATE OF HAWAI' I 
+---o0o--­
+NO. CAAP-10-0000188
+ 
+COUNTY OF HAWAI' I, a municipal corporation
+of the STATE OF HAWAI' I, Plaintiff-Appellee,
+v.
+ 
+UNIDEV, LLC, A Delaware Limited Liability Company,
+Defendant-Appellant,
+and
+ 
+JOHN DOES 1-50; JANE DOES 1-50; DOE PARTNERSHIPS 1-50;
+DOE CORPORATIONS 1-50; DOE NON-PROFIT ENTITIES 1-50;
+DOE LIMITED LIABILITY COMPANIES 1-50; DOE ENTITIES 1-50,
+Defendants.
+ 
+NO. CAAP-11-0000019
+ 
+COUNTY OF HAWAI' I, a municipal corporation
+of the STATE OF HAWAI' I, Plaintiff-Appellant,
+v.
+ 
+UNIDEV, LLC A Delaware Limited Liability Company;
+UNIDEV HAWAII, LLC, A Delaware Limited Liability Company;
+JOHN DOES 1-50; JANE DOES 1-50; DOE PARTNERSHIPS 1-50;
+DOE CORPORATIONS 1-50; DOE NON-PROFIT ENTITIES 1-50;
+DOE LIMITED LIABILITY COMPANIES 1-50; DOE ENTITIES 1-50,
+Defendants-Appellees.
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE THIRD CIRCUIT
+ 
+(CIVIL NOS. 09-1-264K & 10-1-427K)
+ 
+AUGUST 31, 2012
+ 
+FOLEY, PRESIDING JUDGE, REIFURTH and GINOZA, JJ.
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+OPINION OF THE COURT BY GINOZA, J.
+ 
+In this consolidated appeal, we address two separate
+ 
+appeals from civil actions that were consolidated in the Circuit
+ 
+Court of the Third Circuit (circuit court).1 In appeal No. CAAP­
+10-0000188, UniDev, LLC (UniDev) appeals from the circuit court's
+ 
+September 13, 2010 order expunging a lis pendens2 filed by UniDev
+ 
+(Expungement Order), as well as the circuit court's December 1,
+ 
+2010 order denying UniDev's motion for reconsideration of the
+ 
+Expungement Order (Reconsideration Order). UniDev contends on
+ 
+3
+appeal that the circuit court erred in expunging its lis pendens
+ 
+because: (1) UniDev's counterclaim under Hawaii's Uniform
+ Fraudulent Transfer Act (HUFTA), Hawaii Revised Statutes (HRS)
+ 
+Chapter 651C, provides a proper basis for a 
+lis pendens; (2) the
+ 
+circuit court erroneously held that UniDev was not entitled to a
+ 
+lis pendens, in part, because the HUFTA provides alternative
+ 
+remedies, such as injunctive relief, that would not encumber
+ 
+property; and (3) the circuit court also erroneously expunged the
+ 
+lis pendens on the basis that UniDev failed to establish that it
+ 
+was likely to prevail on its HUFTA claim.
+ 
+1 The Honorable Elizabeth A. Strance presided.
+ 
+2 Although it is subject to various definitions, when referring to a
+lis pendens in this opinion, we refer to "[a] notice, recorded in the chain of
+title to real property, required or permitted in some jurisdictions to warn
+all persons that certain property is the subject matter of litigation, and
+that any interests acquired during the pendency of the suit are subject to its
+outcome." Black's Law Dictionary 1015 (9th ed. 2009). We interchangeably
+refer to a "notice of pendency of action," which is the statutory language
+used to describe a lis pendens in HRS § 634-51 (Supp. 2011).
+3
+ UniDev's opening brief does not comply with Rule 28 of the Hawai' i 
+Rules of Appellate Procedure (HRAP) in that it does not contain a concise
+statement of points of error that reflects "where in the record the allegederror was objected to or the manner in which the alleged error was brought tothe attention of the court[.]" We may therefore disregard the points raised
+by UniDev. HRAP Rule 28(b)(4); In re Contested Case Hearing on the Water Use Permit Application Filed by Kukui (Molokai), Inc., 116 Hawai' i 481, 506, 174
+P.3d 320, 345 (2007). In our discretion, we address the issues raised by
+UniDev, but UniDev's counsel is cautioned to comply with HRAP Rule 28 in thefuture. 
+2
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+In appeal No. CAAP-11-0000019, the County of Hawai' i 
+(County) appeals from the circuit court's December 17, 2010 order 
+granting UniDev's motion to compel alternative dispute resolution 
+(ADR) and to stay the proceedings, as well as the circuit court's 
+January 3, 2011 amended order (referred together as the ADR 
+Orders). With respect to the ADR Orders, the County's points of 
+error on appeal are that the circuit court erred: (1) by failing 
+to rule that UniDev waived any right to compel arbitration; (2) 
+by determining that the County was required to arbitrate pursuant 
+to arbitration provisions contained in a Development Services 
+Agreement (DSA) and an Amended and Restated Development Services 
+Agreement (ADSA); (3) by determining that all of the County's 
+claims were subject to arbitration; and (4) by determining that 
+all of UniDev's counterclaims were subject to arbitration.4 
+For the reasons expressed below, as to UniDev's appeal,
+ 
+we hold that UniDev's HUFTA claim does not support the filing of
+ 
+a lis pendens. Thus, the circuit court did not abuse its
+ 
+discretion in expunging UniDev's lis pendens or in denying
+ 
+UniDev's request for reconsideration of the Expungement Order. 
+As to the County's appeal, we hold that the circuit
+ 
+court incorrectly compelled the County to arbitrate all claims
+ 
+and counterclaims under the arbitration provisions in the DSA and
+ 
+ADSA. The County is bound only by the DSA's arbitration
+ 
+provision, and its limited scope covers only a portion of the
+ 
+County's negligence claim and a portion of UniDev's breach of
+ 
+contract claim. UniDev did not waive its rights under the DSA
+ 
+arbitration provision.
+ 
+4
+ The circuit court's ruling is couched in terms of requiring
+alternative dispute resolution because the relevant provisions in the DSA and
+ADSA address mediation and arbitration. The parties' arguments to this court,
+however, focus on the requirement to arbitrate. We thus limit our discussion
+ to the arbitration provisions in the DSA and the ADSA.
+ 
+3
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+I. Case Background
+ 
+On March 2, 2006, UniDev and the County entered into 
+the DSA, a contract in which UniDev was engaged to provide 
+services related to the planning, pre-development, financing and 
+construction of an affordable workforce housing project (Project) 
+in Waikoloa in the County of Hawai' i. The County owned the 
+property where the Project would be developed (Property), but the DSA contemplated that the County would transfer title to the 
+Property to a: 
+to-be-formed non-profit entity (the "Non-Profit"), which
+Non-Profit shall in turn form a non-profit subsidiary or
+affiliated entity to act as the borrower of the financing
+for the Project (the "SPE") and shall enter into a ground
+5
+lease with the SPE with respect to the Site[. ]
+In addition, the DSA memorialized the parties'
+ 
+intention that "upon the formation of the SPE, the [County] shall
+ 
+assign all of its rights and obligations in and under this
+ 
+Agreement to the SPE." The DSA contained a provision mandating
+ 
+alternative dispute resolution for "[a]ny dispute arising under
+ 
+the terms" of the DSA. 
+Pursuant to the DSA's terms, the County transferred
+ 
+title to the Property to the Hawaii Island Housing Trust (HIHT),
+ 
+which subsequently leased the Property to Waikoloa Workforce
+ 
+Housing, LLC (WWH). The County also assigned the DSA to WWH by
+ 
+entering into an "Assignment and Assumption Agreement"
+ 
+(Assignment) with WWH, dated July 26, 2006, which states in part:
+ 
+1. Assignment. Assignor [County] hereby grants,
+conveys and assigns unto Assignee [WWH] all right, title and
+interest of Assignor in, to and under all of the Contracts
+ 
+5
+ The County's complaint in Civil No. 09-1-264K alleges representations
+were made by UniDev that the development could be structured so that the
+County would have no continuing obligations or liabilities, and that the
+development could be undertaken by a stand-alone, not-for-profit corporation
+wholly independent of the County. UniDev's counterclaim alleges that Hawaii
+Island Housing Trust (HIHT) and Waikoloa Workforce Housing, LLC (WWH) were
+created to remove the County from active management of the Project. The
+ record indicates HIHT became the "non-profit" and WWH became the "SPE"
+contemplated under the DSA.
+ 
+4
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+to the fullest extent that they are legally assignable . . .
+ 
+.
+ 
+2. Assumption. By accepting this Assignment and by
+its execution, Assignee hereby accepts the assignment of the
+Contracts, and assumes and agrees to perform all of the
+terms, covenants and conditions of the Contracts therein
+that would (except for this Assignment) be required to be
+performed on the part of Assignor thereunder from and after
+6
+the date hereof and not before.[ ]
+On February 21, 2008, about a year and seven months
+ 
+after the assignment of the DSA to WWH, UniDev and WWH entered
+ 
+into the ADSA, which states in part that UniDev and WWH "now wish
+ 
+to amend the DSA to reflect certain changes in facts and
+ 
+circumstances that have occurred since the DSA was first executed
+ 
+by UniDev and the County." The parties agreed to "amend and
+ 
+restate the DSA" as follows: 
+1. Engagement. The Sponsor [(WWH)] hereby continues the
+ 
+engagement of UniDev to undertake the Services in accordance
+ 
+with the terms and conditions set forth in this Agreement;
+provided, however, that UniDev shall not begin the Services
+with respect to any Construction Phase of the Project until
+such time as it has received a written notice to proceed
+therefor from the Sponsor. UniDev hereby agrees to
+undertake such Services in accordance with the terms and
+ conditions set forth in this Agreement.
+ 
+2. Agreement. This Agreement shall consist of the matters
+set forth herein, including without limitation, Riders A, B,
+C and D (collectively, the "Riders").
+ 
+(Emphasis added). Certain provisions differ between the DSA and
+ 
+ADSA, although the ADSA contains an arbitration provision
+ 
+substantially similar to the one contained in the DSA. The
+ 
+County was not a signatory to the ADSA.
+ 
+On June 12, 2008, the County, HIHT, and WWH entered
+ 
+into a "Development Financing Agreement", setting forth the terms
+ 
+for the release of an additional $31 million to WWH which had
+ 
+been appropriated by the County for use in furtherance of the
+ 
+Project.
+ 
+6 In "Schedule 1" to the Assignment, the DSA is listed as the contract
+being assigned.
+ 
+5
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+In April 2009, WWH notified UniDev to cease work and to
+ 
+submit its final invoices. The Property was thereafter returned
+ 
+to the County.
+ 
+II. Proceedings In The Circuit Court
+ 
+Following UniDev's termination from the Project, the
+ 
+County filed a lawsuit on July 1, 2009 in Civil No. 09-1-264K,
+ 
+asserting five causes of action against UniDev: (1) false claims
+ 
+in violation of HRS § 46-171; (2) intentional misrepresentation;
+ 
+(3) fraudulent inducement; (4) negligent misrepresentation; and
+ 
+(5) negligence.
+ 
+On August 17, 2009, UniDev filed a Notice of Removal to 
+the U.S. District Court for the District of Hawai' i. However, 
+the federal district court subsequently remanded the case back to the circuit court. 
+On March 29, 2010, UniDev answered the County's
+ 
+complaint and filed a counterclaim against the County as well as 
+WWH and HIHT. UniDev's counterclaim asserted four counts:
+ 
+(1) breach of contract (against the County and WWH); (2) quantum
+ 
+meruit (against the County and WWH); (3) intentional interference
+ 
+with contract (against the County); and (4) fraudulent transfer
+ 
+(against HIHT and the County). 
+On November 23, 2010, the County filed a second
+ 
+complaint against UniDev in Civil No. 10-1-427K, asserting the
+ 
+following causes of action: (1) false claims in violation of
+ 
+HRS § 46-171; (2) unfair and deceptive practices in violation of
+ 
+HRS Chapters 480 and 481; (3) intentional misrepresentation;
+ 
+(4) fraudulent inducement; and (5) negligent misrepresentation.
+ 
+The circuit court consolidated Civil No. 09-1-264K and
+ 
+Civil No. 10-1-427K on December 16, 2010. 
+A. Lis Pendens
+ 
+On April 1, 2010, UniDev filed a lis pendens with
+ 
+respect to the Property and recorded the lis pendens in the
+ 
+Bureau of Conveyances on April 6, 2010. On April 15, 2010, the
+ 
+6
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+County filed a Motion to Dismiss Counter-Claim and to Expunge Lis
+ 
+Pendens or in the Alternative for Partial Summary Judgment. 
+Following a hearing, the circuit court entered an order granting
+ 
+the County's motion to expunge the lis pendens, but denying the
+ 
+remainder of the motion. UniDev filed a motion for
+ 
+reconsideration of the Expungement Order, which the circuit court
+ 
+denied. UniDev timely appealed.
+ 
+B. ADR Orders
+ 
+On August 2, 2010, UniDev filed a Motion to Compel ADR
+ 
+and to Stay Proceedings (Motion to Compel ADR). During a hearing
+ 
+on the motion, neither party asserted a material factual dispute
+ 
+and no evidentiary hearing was held. On December 17, 2010, the
+ 
+circuit court granted UniDev's Motion to Compel ADR. An amended
+ 
+order was subsequently issued on January 3, 2011 to clarify which
+ 
+proceedings were stayed pending ADR. The County timely appealed
+ 
+the ADR Orders.
+ 
+III. Standards of Review
+ 
+A. Order Expunging Lis Pendens
+ 
+"Whether a lis pendens should be expunged is a question 
+to be resolved in the exercise of the trial court's discretion; 
+accordingly, the trial court's decision is reviewed for an abuse 
+of that discretion." Knauer v. Foote, 101 Hawai' i 81, 83, 63 
+P.3d 389, 391 (2003) (quoting S. Utsunomiya Enters., Inc. v. 
+Moomuku Country Club, 75 Haw. 480, 504, 866 P.2d 951, 964 
+(1994)). An abuse of discretion occurs if the trial court has 
+"clearly exceeded the bounds of reason or disregarded rules or 
+principles of law or practice to the substantial detriment of a 
+party litigant." Amfac, Inc. v. Waikiki Beachcomber Inv. Co., 74 
+Haw. 85, 114, 839 P.2d 10, 26 (1992). 
+B. Motion for Reconsideration
+ 
+[T]he purpose of a motion for reconsideration is to allow
+the parties to present new evidence and/or arguments that
+could not have been presented during the earlier adjudicated
+motion. Reconsideration is not a device to relitigate old
+ 
+7
+  FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+matters or to raise arguments or evidence that could and
+should have been brought during the earlier proceeding.
+ 
+Ass'n of Apartment Owners of Wailea Elua v. Wailea Resort Co., 
+100 Hawai' i 97, 110, 58 P.3d 608, 621 (2002) (quoting Sousaris v. 
+Miller, 92 Hawai' i 505, 513, 993 P.2d 539, 547 (2000)) (internal 
+quotation marks omitted). The appellate court reviews a trial 
+court's ruling on a motion for reconsideration under the abuse of 
+discretion standard. Id. 
+C.	 Motion to Compel Arbitration
+ 
+As expressed by the Hawai' i Supreme Court: 
+A [circuit] court's order granting a motion to compel
+arbitration and to stay proceedings pending arbitration is
+reviewed de novo. The [circuit] court's decision is reviewed
+using the same standard employed by the [circuit] court and
+based upon the same evidentiary materials as were before it
+in determination of the motion.
+ 
+Haw. Med. Ass'n v. Haw. Med. Serv. Ass'n, 113 Hawai' i 77, 90, 148 
+P.3d 1179, 1192 (2006) (quoting Fireman's Fund Ins. Co. v AIG
+ 
+Haw. Ins. Co., 109 Hawai' i 343, 348, 126 P.3d 386, 391 (2006)). 
+The trial court can only decide, as a matter of law, whether
+to compel the parties to arbitrate their dispute if there is
+no genuine issue of material fact regarding the existence of
+a valid agreement to arbitrate. See Par–Knit Mills, Inc. v.
+ Stockbridge Fabrics Co., 636 F.2d 51, 54 (3d Cir.1980).
+Therefore, we hold that the standard of review applicable to
+the trial court's decision in this case should be that which
+ is applicable to a motion for summary judgment.
+Accordingly, we review this case de novo, using the same
+standard employed by the trial court and based upon the same
+evidentiary materials "as were before [it] in determination
+of the motion."
+ 
+Koolau Radiology, Inc. v. Queen's Med. Ctr., 73 Haw. 433, 439-40,
+ 
+834 P.2d 1294, 1298 (1992).
+ 
+HRS § 658A-7 (Supp. 2011) provides, in pertinent part:
+ 
+(a) On motion of a person showing an agreement to arbitrate
+and alleging another person's refusal to arbitrate pursuant
+to the agreement:
+ 
+. . .
+ 
+(2)	 If the refusing party opposes the motion, the
+court shall proceed summarily to decide the
+ 
+issue and order the parties to arbitrate unless
+ 
+8
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+it finds that there is no enforceable agreement
+to arbitrate.
+ 
+(Emphasis added).7
+ 
+A party seeking to compel arbitration must demonstrate
+ 
+the existence of an enforceable arbitration agreement and that
+ 
+the disputed matter is the type of claim that the parties agreed
+ 
+to arbitrate. If the movant carries this burden, the burden then
+ 
+shifts to the party opposing arbitration to present evidence on
+ 
+its defenses to the arbitration agreement. 4 Am. Jur. 2d
+ 
+Alternative Dispute Resolution § 98 (2007).
+ 
+D. Contract Interpretation
+ 
+As a general rule, the construction and legal effect
+to be given a contract is a question of law freely
+reviewable by an appellate court. The determination whether
+a contract is ambiguous is likewise a question of law that
+is freely reviewable on appeal. These principles apply
+equally to appellate review of the construction and legal
+effect to be given a contractual agreement to arbitrate.
+ 
+Yogi v. Haw. Med. Serv. Ass'n, 124 Hawai' i 172, 174, 238 P.3d 
+699, 701 (App. 2010) (quoting Brown v. KFC Nat'l Mgmt. Co., 82 
+Hawai'i 226, 239, 921 P.2d 146, 159 (1996)). 
+IV. Discussion
+ 
+A. Expungement of UniDev's Lis Pendens
+ 
+HRS § 634-51 (Supp. 2011) sets forth the statutory 
+requirements for the recording of a
+ lis pendens in Hawai' i. 
+§ 634-51 Recording of notice of pendency of action. 
+In any action concerning real property or affecting the
+ 
+title or the right of possession of real property, the
+plaintiff, at the time of filing the complaint, and any
+other party at the time of filing a pleading in which
+affirmative relief is claimed, or at any time afterwards,
+may record in the bureau of conveyances a notice of the
+ 
+pendency of the action, containing the names or designations
+ 
+7
+ The Hawai' i Supreme Court adopted the summary judgment standard for
+addressing a motion to compel arbitration based on HRS § 658-3 (1993 Repl.),
+noting its requirement that "[i]f the existence of an arbitration agreement isin issue, 'the court shall proceed summarily to the [judge or jury] trial
+thereof.'" Koolau Radiology, 73 Haw. at 439, 834 P.2d at 1298 (alteration in
+original). Along with all of Chapter 658, HRS § 658-3 was repealed in 2001
+and replaced with HRS Chapter 658A. HRS § 658A-7 is even clearer than thenow-repealed HRS § 658-3 in requiring that the trial court decide a motion tocompel arbitration "summarily." 
+9
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+of the parties, as set out in the summons or pleading, the
+object of the action or claim for affirmative relief, and a
+description of the property affected thereby. From and
+ after the time of recording the notice, a person who becomes
+a purchaser or incumbrancer of the property affected shall
+be deemed to have constructive notice of the pendency of the
+action and be bound by any judgment entered therein if the
+person claims through a party to the action; provided that
+in the case of registered land, section 501-151, sections
+501-241 to 501-248, and sections 501-261 to 501-269 shall
+ govern.
+ 
+This section authorizes the recording of a notice of
+the pendency of an action in a United States District Court,
+as well as a state court.
+ 
+(Emphases added).
+ 
+UniDev filed and recorded its lis pendens based on the
+ 
+HUFTA claim asserted as part of its counterclaim in Civil No. 09­
+01-264K. UniDev's HUFTA claim, pursuant to HRS Chapter 651C,8
+ 
+8 The Hawaii Uniform Fraudulent Transfer Act (HUFTA) is codified in HRS
+Chapter 651C. HRS § 651C-4 (1993 Repl.) states, in relevant part:
+ 
+[§651C-4] Transfers fraudulent as to present and
+future creditors. (a) A transfer made or obligation
+incurred by a debtor is fraudulent as to a creditor, whether
+the creditor's claim arose before or after the transfer was
+ made or the obligation was incurred, if the debtor made the
+transfer or incurred the obligation: 
+(1)	 With actual intent to hinder, delay, or defraud
+any creditor of the debtor[.]
+ 
+HRS § 651C-5 (1993 Repl.) states, in relevant part:
+ 
+[§651C-5] Transfers fraudulent as to present
+creditors. (a) A transfer made or obligation incurred by a
+debtor is fraudulent as to a creditor whose claim arose
+ 
+before the transfer was made or the obligation was incurred
+if the debtor made the transfer or incurred the obligation
+without receiving a reasonably equivalent value in exchange
+for the transfer or obligation and the debtor was insolvent
+at that time or the debtor becomes insolvent as a result of
+ the transfer or obligation. 
+HRS § 651C-7(a) (1993 Repl.) sets forth remedies available in a HUFTA action,
+including:
+ 
+[§651C-7] Remedies of creditors. (a) In any action
+for relief against a transfer or obligation under this
+chapter, a creditor, subject to the limitations provided in
+section 651C-8, may obtain:
+( 1 )	 Avoidance of the transfer or obligation to the
+ 
+extent necessary to satisfy the creditor's
+ 
+claim;
+ 
+(continued...)
+ 
+10
+  FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+asserts that WWH and HIHT fraudulently transferred their
+ 
+respective interests in the Property to the County after WWH
+ 
+became indebted to UniDev for development fees of at least $3.2
+ 
+million. UniDev contends that, because its HUFTA claim seeks to
+ 
+set aside a fraudulent transfer of property, this claim affects
+ 
+the title or right to possession of real property and is thus a
+ 
+proper basis for recording a lis pendens under HRS § 634-51.
+ 
+1.	 The Circuit Court's Ruling
+ 
+The circuit court rejected UniDev's contention that its
+ 
+HUFTA claim could be the basis for its lis pendens. In its order
+ 
+dated September 13, 2010, the circuit court explained its ruling
+ 
+as follows:
+ 
+1.	 Defendant's claims, including its claims for
+fraudulent transfer do not seek title or affect title
+ to property as Hawaii Revised Statutes ("H.R.S.") has
+been interpreted. See S. Utsunomiya Enterprises, Inc.
+vs. Moomuku Country Club, 75 Hawaii, 480, 866 P.2d 951
+(1994). 
+2.	 Although Defendant is correct that no Hawaii appellate
+decision addresses the issue of lis pendens in the
+ 
+context of a fraudulent transfer claim made pursuant
+to Hawaii Revised Statutes ("H.R.S.") Ch. 651C (Hawaii
+Uniform Fraudulent Transfer Act or "HUFTA") this Court
+notes that HUFTA contains alternate remedies, i.e.
+injunctive relief from further disposition of the
+property, that would not encumber property. See
+ 
+H.R.S. § 65[1]C-7(a)(3). Thus, Defendant has remedies
+ which do not run afoul of the lis pendens requirements
+set forth [in] S. Uts[u]nomiya. 
+3.	 Therefore, HUFTA contains provisions by which a
+creditor can be protected from further transfer or
+dilution of the value of property in cases where it
+ 
+8(...continued)
+ 
+. . . . 
+(3)	 Subject to applicable principles of equity and
+in accordance with applicable civil rules of
+procedure:
+(A)	 An injunction against further disposition
+by the debtor or a transferee, or both, of
+the asset transferred or of other
+ property;
+ 
+. . . . 
+(C)	 Any other relief the circumstances may
+require. 
+(emphasis added).
+ 
+11
+   FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+[is] not seeking title for itself while avoiding the
+dangers of abuses of the lis pendens procedure. A
+ 
+carte blanche approval of a lis pendens [] when a
+claim made pursuant to HUFTA is filed invites the
+dangers sought to be avoided by S. Uts[u]nomiya.
+ 
+4.	 In addition, even if a lis pendens was available,
+Defendant has failed to introduce admissible evidence
+ that it is likely to prevail on the merits of its
+HUFTA claim or any other evidence upon which the court
+could evaluate the propriety of a lis pendens in this
+ 
+case.
+ 
+(Footnote omitted).
+ 
+The circuit court further noted its disagreement with
+ 
+the federal district court's ruling in Sports Shinko Co. v. QK
+ 
+Hotel, LLC, 457 F. Supp. 2d 1121 (D. Haw. 2006), which upheld a
+ lis pendens based on a HUFTA claim. In Sports Shinko, and more
+ recently in Valvanis v. Milgroom, 529 F. Supp. 2d 1206 (D. Haw.
+ 
+9
+2007), the U.S. District Court for the District of Hawai' i 
+concluded that a HUFTA claim under HRS Chapter 651C, which sought 
+statutory avoidance of a real property transfer, supports the 
+recording of a lis pendens under HRS § 634-51. 
+UniDev's appeal in this case raises a similar question
+ 
+of whether a HUFTA claim, seeking to avoid an allegedly
+ 
+fraudulent transfer of real property, supports the recording of a
+ 
+lis pendens under HRS § 634-51. This is an issue of first
+ 
+impression for Hawaii's appellate courts.
+ 
+2.	 S. Utsunomiya
+ 
+The seminal case in Hawai' i addressing the propriety of 
+recording a lis pendens under HRS § 634-51 is S. Utsunomiya.10 
+9
+ Valvanis relied primarily on the ruling in Sports Shinko. See
+ 
+Valvanis, 529 F. Supp. 2d 1206.
+10 In S. Utsunomiya, plaintiff S. Utsunomiya Enterprises, Inc. (S.
+Utsunomiya) entered into a letter of intent to purchase real property from
+defendant Moomuku Country Club (Moomuku) and put down a $200,000 deposit.
+After concluding that Moomuku could not convey free and clear title, S.
+Utsunomiya notified Moomuku that it was rescinding the letter of intent and
+demanded that the deposit be returned. S. Utsunomiya thereafter filed suit
+seeking, inter alia, to recover its deposit and simultaneously filed a notice
+(continued...)
+ 
+12
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+As an initial matter in S. Utsunomiya, the Hawai' i Supreme Court 
+adopted the approach of cases from New York and California that 
+"[i]n determining the validity of a lis pendens, courts have 
+generally restricted their review to the face of the complaint" 
+and that "the likelihood of success on the merits is irrelevant 
+to determining the validity of the lis pendens." 75 Haw. at 505­
+06, 866 P.2d at 964 (citing 5303 Realty Corp. v. O & Y Equity Corp., 476 N.E.2d 276, 280-81 (N.Y. 1984), and Urez Corp. v. Superior Court, 235 Cal. Rptr. 837, 842 (Cal. Ct. App. 1987)). 
+We thus agree with UniDev that the circuit court erred
+ 
+to the extent that it based its ruling on UniDev's failure to
+ 
+show it was likely to prevail on the merits of its HUFTA claim. 
+Under S. Utsunomiya, the propriety of a lis pendens is based on a
+ 
+review of the complaint (or in this case the counterclaim), and
+ 
+the likelihood of success on the merits is not relevant. 75 Haw.
+ 
+at 505-06, 866 P.2d at 964. Given the overall analysis under S.
+ 
+Utsunomiya, however, the circuit court's error in this regard was
+ 
+harmless.
+ 
+In construing HRS § 634-51, the Hawai' i Supreme Court 
+in S. Utsunomiya determined that the statute was ambiguous as to its language "concerning real property or affecting title or the 
+right of possession of real property[.]" 75 Haw. at 506-07, 866 
+P.2d at 965. The supreme court further determined that the 
+statute should be construed to restrict rather than broaden the 
+application of the lis pendens doctrine, explaining: 
+In order to place the purpose of HRS § 634–51 in
+perspective, some historical reference is appropriate. HRS §
+634–51 is clearly a codification of the common law doctrine
+of lis pendens.
+ 
+10(...continued)
+of lis pendens
+ alleging its deposit was made towards purchase of the property.
+S. Utsunomiya thereafter amended its complaint and the lis pendens to allege a
+lien on Moomuku's interest in the property, to the extent of the $200,000
+deposit. 75 Haw. at 484-88, 866 P.2d at 956-57.
+ 
+13
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+At common law [under the doctrine of lis pendens] the
+mere existence of a lawsuit affecting real property
+was considered to impart constructive notice that
+anyone who acquired an interest in the property after
+the suit was filed would be bound by any judgment in
+that suit.
+ 
+La Paglia, 215 Cal.App.3d at 1326, 264 Cal.Rptr. at 66
+(citations omitted). Further,
+ 
+[t]he purpose of the doctrine was to assure that a
+court retained its ability to effect justice by
+preserving its power over the property, regardless of
+whether a purchaser had any notice of the pending
+suit. Courts and commentators acknowledged the
+doctrine's potentially harsh impact on innocent
+purchasers, but they willingly accepted this as a
+necessary concomitant to preserving the judicial
+ power.
+ 
+5303 Realty Corp., 64 N.Y.2d at 319, 486 N.Y.S.2d at 881,
+ 
+476 N.E.2d at 280 (citations omitted); accord Kaapu, 72 Haw.
+at 269, 814 P.2d at 397 ("'[t]he purpose of the doctrine is
+to provide the courts with control over property involved in
+actions pending before them'") (citation omitted). In this
+ 
+regard, the doctrine of lis pendens protected a plaintiff
+from having his or her claim to the property defeated by the
+subsequent alienation of the property to a bona fida
+purchaser during the course of the lawsuit. See Kaapu, 72
+Haw. at 269, 814 P.2d at 397.
+ 
+However, to ameliorate the harsh effect of the common
+law rule on third parties, legislatures have, over time,
+enacted lis pendens statutes to limit the legal fiction of
+"constructive knowledge" of pending claims to those
+instances where a notice of lis pendens was recorded. La
+ Paglia, 215 Cal.App.3d at 1326, 264 Cal.Rptr. at 66; see
+ 5303 Realty Corp., 64 N.Y.2d at 319, 486 N.Y.S.2d at 881,
+ 476 N.E.2d at 280. In this respect, the history of lis
+ 
+pendens legislation has been construed as indicative of the
+intent to restrict rather than broaden application of lis
+ pendens. Urez Corp., 190 Cal.App.3d at 1145, 235 Cal.Rptr.
+ 
+at 839.
+ 
+75 Haw. at 507-09, 866 P.2d at 965 (underline emphasis added).
+ 
+Although acknowledging that there was authority in
+ 
+other jurisdictions allowing a lis pendens when an equitable lien
+ 
+action "concerned" land, the Hawai' i Supreme Court held that "we 
+find more persuasive the authority that holds that the lis
+ 
+pendens statute must be strictly construed and that the
+ 
+application of lis pendens should be limited to actions directly
+ 
+seeking to obtain title to or possession of real property." Id.
+ 
+14
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+at 510, 866 P.2d at 966 (underline emphasis added). The supreme
+ 
+court adopted the reasoning of the California Court of Appeals in
+ 
+Urez, 235 Cal. Rptr. 837, which opted for a narrow construction
+ 
+of the California lis pendens statute applicable to that case:
+ 
+In holding that the lis pendens should have been expunged,
+the California Court of Appeals reviewed the history of the
+doctrine of lis pendens and then turned to the complaint,
+observing that the claims for relief at issue were
+ 
+essentially a fraud action seeking money damages
+with additional allegations urged to support the
+equitable remedies of a constructive trust or an
+equitable lien. Plaintiff does not claim any
+ownership or possessory interest in the subject
+property. Rather, he seeks reinstatement or
+creation of a "beneficial" interest in the
+ property for the purpose of securing payment of
+money owed him under his defunct second trust
+deed.
+ 
+[Urez, 235 Cal. Rptr. at 842]. The court concluded:
+ 
+. . . At bottom, the "beneficial" interest
+plaintiff claims in the subject property is for
+the purpose of securing a claim for money
+damages. In our view, allegation of this
+interest is not an action affecting title or
+possession of real property.
+ 
+We conclude, therefore, that allegations
+ 
+of equitable remedies, even if colorable, will
+ 
+not support a lis pendens if, ultimately, those
+ allegations act only as a collateral means to
+ collect money damages. It must be borne in mind
+ 
+that the true purpose of the lis pendens statute
+is to provide notice of pending litigation and
+not to make plaintiffs secured creditors of
+defendants nor to provide plaintiffs with
+additional leverage for negotiating purposes.
+ 
+Id. at [842–43] (emphasis added). . . .
+ 
+We find the discussion in Urez to be well-reasoned and
+ 
+therefore adopt it here.
+ 
+75 Haw. at 510-12, 866 P.2d at 966-67 (original brackets 
+omitted). The Hawai' i Supreme Court further reasoned that a 
+"narrow construction of Hawai' i's lis pendens statute is 
+counseled by sound authority recognizing the real potential for 
+abuse of lis pendens," Id. at 512, 866 P.2d at 967, and stated: 
+15
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+Indeed, as we have noted, one court has acknowledged that
+ 
+[w]hile the [California] lis pendens statute was
+designed to give notice to third parties and not to
+aid plaintiffs in pursuing claims, the practical
+effect of a recorded lis pendens is to render a
+defendant's property unmarketable and unsuitable as
+security for a loan. The financial pressure exerted
+on the property owner may be considerable, forcing him
+to settle not due to the merits of the suit but to rid
+ himself of the cloud upon his title. The potential
+for abuse is obvious.
+ 
+. . . This court is in accord.
+ 
+Id. (quoting La Paglia v. Superior Court, 264 Cal. Rptr. 63, 66
+ 
+(Cal. Ct. App. 1989)).
+ 
+Applying these principles to the lis pendens filed in
+ 
+that case, the S. Utsunomiya court held that:
+ 
+A fair reading of Utsunomiya's amended complaint
+reveals that it is predominantly a fraud and breach of
+contract complaint (obviously amended to allege an equitable
+lien) seeking damages. We agree with Moomuku that
+Utsunomiya does not claim title to or a right of possession
+of the property. Thus, HRS § 634-51 is not implicated and
+Utsunomiya's amended lis pendens should have been expunged.
+ 
+Id. at 513, 866 P.2d at 967 (emphasis added).
+ 
+3. Application of S. Utsunomiya to This Case
+ 
+In light of S. Utsunomiya, the crux of whether UniDev
+ 
+had a proper basis for its lis pendens under HRS § 634-51 is
+ 
+whether UniDev's HUFTA claim is an action "directly seeking to
+ obtain title to or possession of real property." Id. at 510, 866
+ 
+P.2d at 966. Restricting our review to the face of UniDev's
+ 
+counterclaim, as required by S. Utsunomiya, it is apparent that
+ 
+UniDev's HUFTA claim does not satisfy the requirements in S.
+ Utsunomiya for recording a lis pendens.
+ 
+The allegations specific to UniDev's HUFTA claim state:
+ 
+39. On or about April 17, 2009, WWH became indebted
+to UniDev for development fees due under the ADSA in an
+amount to be proved at trial but not less than
+$3,230,343.00.
+ 
+40. On or about April 22, 2009, WWH transferred to
+HIHT or to the County its leasehold interest in the land on
+which the Project was being built, and HIHT transferred to
+the County all of its interest in that land.
+ 
+16
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+41. WWH's leasehold interest in the land on which
+ 
+the Project was being built and HIHT's interest in that land
+were their only substantial assets.
+ 
+42. In exchange for WWH's transfer to HIHT or to the
+County of its leasehold interest in the land on which the
+Project was being built, WWH received nothing reasonably
+equivalent in value, and as a result of the transfer, WWH's
+debts greatly exceeded its assets.
+ 
+43. In exchange for HIHT's transfer to the County of
+its interest in the land on which the Project was being
+built, HIHT received nothing reasonably equivalent in value,
+and as a result of the transfer, HIHT's debts greatly
+exceeded its assets.
+ 
+44. WWH and HIHT made these transfers, and the
+County accepted them, with actual intent to hinder, delay or
+defraud UniDev in its efforts to collect the not less than
+ $3,230,343.00 WWH owes it.
+ 
+45. The transfers alleged above are fraudulent
+transfers within the meaning of the Uniform FraudulentTransfer Act (Hawai' i Revised Statutes ch. 651C) that may be
+avoided by UniDev. 
+Significantly, UniDev's prayer for relief in its
+ 
+counterclaim demands judgment:
+ 
+A. For damages against the County and WWH in an
+amount to be proven at trial but not less than $4 million;
+ 
+B. For restitution from the County and WWH in an
+amount to be proven at trial but not less than $3 million,
+in the event damages are not awarded;
+ 
+C. For an order avoiding WWH's transfer to HIHT or
+to the County of its leasehold interest in the land on which
+the Project was being built and HIHT's transfer to the
+County of its interest in that land, to the extent necessary
+to satisfy UniDev's counterclaims against WWH;
+ 
+D. For costs of suit, including reasonable
+attorney's fees; and
+ 
+E. For all other relief the Court deems just and
+ 
+proper.
+ 
+(Emphasis added). As in S. Utsunomiya, UniDev does not seek to
+ 
+directly obtain title to, or possession of, the Property. 
+Rather, UniDev seeks to avoid the transfer of WWH and HIHT's
+ 
+respective interest in the Property for the purpose of securing
+ 
+payment of money which might potentially be owed if UniDev
+ 
+succeeds on its counterclaims. This is not a direct claim for
+ 
+17
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+the Property, and further, because a fair reading of UniDev's
+ 
+counterclaim establishes that its primary purpose is to obtain
+ 
+money damages, the HUFTA claim is asserted for a purpose which
+ 
+was rejected as a basis for a lis pendens in S. Utsunomiya. 75
+ 
+Haw. at 511-12, 866 P.2d at 966-67.
+ 
+4. Sports Shinko and Kirkeby
+ 
+Based on the analysis in Sports Shinko, UniDev argues 
+that its HUFTA claim is not merely a collateral means to collect 
+money damages, but it is a statutory claim with a statutory 
+remedy that, if successful, will change title to and possession 
+of the Property. In Sports Shinko, the U.S. District Court for 
+the District of Hawai' i reasoned in part that "[a]lthough the 
+creditor/plaintiff is not directly seeking to obtain title for 
+itself, it is enough that the creditor/plaintiff is directly 
+seeking to obtain title for the debtor, on the 
+creditor/plaintiff's behalf." 457 F. Supp. 2d at 1129 (relying 
+on Kirkeby v. Superior Court, 93 P.3d 395 (Cal. 2004), and 
+Hunting World, Inc. v. Superior Court, 26 Cal. Rptr. 2d 923 (Cal. 
+Ct. App. 1994)). 
+Given the analysis and holding in S. Utsunomiya,
+ 
+however, we come to a different conclusion than the ruling in
+ 
+Sports Shinko. The HUFTA, which pertains to the transfer of a
+ 
+11
+broad range of property (and not just real property),  provides
+various remedies for a fraudulent transfer. See  HRS § 651C-7. 
+UniDev points to the remedy under HRS § 651C-7(a)(1), which
+ 
+11 "Transfer" is defined as "every mode, direct or indirect, absolute
+or conditional, voluntary or involuntary, of disposing of or parting with an
+asset or an interest in an asset, and includes a payment of money, a release,
+a lease, and the creation of a lien or encumbrance." HRS § 651C-1 (1993
+Repl.). "Asset" is defined as "property of a debtor but does not include:
+(1) Property to the extent that it is encumbered by valid lien; (2) Property
+to the extent that it is generally exempt under nonbankruptcy law; or (3) An
+interest in property held in tenancy by the entireties to the extent that it
+is not subject to process by a creditor holding a claim against only one
+tenant." Id. "Property" is defined as "anything that may be the subject of
+ownership." Id.
+ 
+18
+   FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+allows a creditor, subject to certain limitations, to obtain 
+"[a]voidance of the transfer . . . to the extent necessary to 
+satisfy the creditor's claim[.]" At bottom, however, this 
+statutory remedy simply codifies a means to collect money 
+damages. This falls short of the Hawai' i Supreme Court's ruling 
+in S. Utsunomiya strictly construing HRS § 634-51. 
+The HUFTA is silent with regard to lis pendens.  As
+ 
+noted above, the HUFTA addresses fraudulent transfers of a broad
+ 
+range of property, not just real property. A lis pendens, on the
+ 
+other hand, applies only with respect to real property. See HRS
+ 
+§ 634-51. Moreover, the HUFTA makes no distinction between real
+ 
+property and other types of property that may be covered by that
+ 
+chapter. Thus, there is nothing to suggest that HRS Chapter 651C
+ 
+contemplates the recording of a lis pendens.
+ 
+Sports Shinko also relied heavily on the California 
+Supreme Court's opinion in Kirkeby. However, we conclude that 
+Kirkeby is not persuasive given the Hawai' i Supreme Court's 
+ruling in S. Utsunomiya. Indeed, it appears that Kirkeby is at odds with S. Utsunomiya. 
+In Kirkeby,
+12 the California Supreme Court construed
+ 
+California statutes which allow a lis pendens to be filed when a
+ 
+party to an action asserts a "real property claim," which in turn
+ 
+was defined as "the cause or causes of action in a pleading which
+ 
+would, if meritorious, affect (a) title to, or the right to
+ 
+possession of, specific real property[.]" 93 P.3d at 398
+ 
+(emphasis added). Based on its determination that "we cannot
+ 
+ignore the plain language of the statute," (emphasis added), the
+ 
+California Supreme Court held that the claim in that case seeking
+ 
+to void the transfer of properties under California's Uniform
+ 
+Fraudulent Transfer Act (CUFTA) would "affect title to specific
+ 
+real property" if successful, and therefore, supported a lis
+ 
+12 Kirkeby was decided in 2004, ten years after S. Utsunomiya.
+ 
+19
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+pendens. Id. at 401. In reaching this conclusion based on the 
+plain language of the California statutes, the court rejected the 
+argument based on prior decisions of the California Courts of 
+Appeal, including Urez and La Paglia, that a court "must look 
+through the pleadings to ascertain the purpose of the party 
+seeking to maintain notice of lis pendens." Id. at 400. The 
+court determined that the "argument fails based on the plain 
+language of the applicable statute." Id. The California Supreme 
+Court's implicit rejection of the analysis in Urez and La Paglia 
+is thus contrary to the Hawai' i Supreme Court's ruling in S. 
+Utsunomiya, which relied extensively on the analysis in Urez and La Paglia.
+13 
+In short, the Hawai' i Supreme Court determined that the 
+language of HRS § 634-51 was ambiguous and strictly construed it such that a lis pendens in Hawai' i is limited to "actions 
+directly seeking to obtain title to or possession of real property." S. Utsunomiya, 75 Haw. at 510, 866 P.2d at 966. To 
+the contrary in Kirkeby, although the specific language of the 
+California statutes being construed was materially similar to HRS 
+§ 634-51, the California Supreme Court relied on the plain 
+language of its statutes to conclude that a CUFTA claim supported a lis pendens. See 93 P.3d at 401. Under the prevailing law in 
+Hawai'i, HRS § 634-51 must be strictly construed. 
+13 We must therefore disagree with the reasoning in Sports Shinko that:
+ 
+In analyzing the doctrine of lis pendens and its
+ 
+application to fraudulent transfer claims, the California
+Supreme Court in Kirkeby relied on two earlier California
+ lis pendens cases. Those same two cases-La Paglia and
+ Urez-were relied on by the Hawaii Supreme Court in its
+seminal decision on lis pendens in Utsunomiya. Indeed, as
+discussed above, the Hawaii Supreme Court explicitly adopted
+the reasoning of the Urez decision.
+ 
+457 F. Supp. 2d at 1128. Rather than relying on Urez and La Paglia, the
+ California Supreme Court in Kirkeby rejected the argument based on those cases
+and instead relied on a plain reading of the applicable statute. See Kirkeby,
+93 P.3d at 400.
+ 
+20
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+We further note that in addressing the potential for
+ 
+abuse of the lis pendens statutes, the Kirkeby court reasoned
+ 
+that the California statutory scheme provides many grounds for
+ 
+expunging a lis pendens that should discourage such abuse. See
+ 
+id. Grounds for expungement discussed in Kirkeby include: "if
+ 
+the court finds that the claimant has not established by a
+ 
+preponderance of the evidence the probable validity of the real
+ 
+property claim[,]" which "therefore requires a 'judicial
+ 
+evaluation of the merits' of a claimant's case[;]" and "even if a
+ 
+claimant shows a probably valid claim, the court may still order
+ 
+a lis pendens expunged if adequate relief for the claimant may be
+ 
+secured by the giving of an undertaking." Id. Moreover, a
+ 
+property owner may be entitled to attorney's fees and costs if
+ 
+successful in expunging a lis pendens. Id.
+ 
+Hawaii's lis pendens statute, on the other hand, does 
+not similarly contain these avenues for expunging a lis pendens 
+and protecting against the abusive use of a lis pendens. As discussed above, the potential for abuse in recording a lis pendens was a key concern to the Hawai' i Supreme Court in 
+S. Utsunomiya and one of the reasons it strictly construed
+ HRS § 634-51. See 75 Haw. at 512, 866 P.2d at 967.
+ 
+5. Alternative Remedies Under the HUFTA
+ 
+Finally, we address UniDev's argument that the circuit
+ 
+court incorrectly expunged the lis pendens based, in part, on
+ 
+grounds that the HUFTA contains alternative remedies, such as
+ 
+injunctive relief, that would not encumber the Property. We do
+ 
+not read the circuit court's order in the same way as UniDev. In
+ 
+our view, the circuit court's reference to other remedies under
+ 
+the HUFTA was for the purpose of explaining why it would be wrong
+ 
+to give a "carte blanche" approval of a lis pendens whenever a
+ 
+HUFTA claim is asserted, because it is possible under HUFTA for a
+ 
+party to seek remedies that do not involve seeking title to the
+ 
+subject property for the party. Based on this reading of the
+ 
+21
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+circuit court's September 13, 2010 order, we agree with the
+ 
+circuit court that the assertion of a HUFTA claim does not
+ 
+necessarily mean a lis pendens is authorized. Ultimately, a
+ 
+court reviewing the propriety of a lis pendens must follow the
+ requirements set out in S. Utsunomiya.
+ 
+6. Conclusion Regarding the Lis Pendens
+ 
+Accordingly, given that UniDev's HUFTA claim as
+ 
+asserted in its counterclaim does not directly seek to obtain
+ 
+title to or possession of the Property, the circuit court did not
+ 
+abuse its discretion in granting the County's motion to expunge
+ 
+UniDev's lis pendens in this case.
+ 
+Because UniDev sets forth the same arguments in support
+ 
+of its appeal of the Reconsideration Order, we likewise conclude
+ 
+that the circuit court did not abuse its discretion in denying
+ 
+UniDev's motion for reconsideration.
+ 
+B. The ADR Orders
+ 
+On December 17, 2010, the circuit court granted
+ 
+UniDev's motion to compel ADR and ruled that all of the County's
+ 
+claims and all of UniDev's counterclaims were subject to the ADR
+ 
+provisions in the DSA and the ADSA. The County challenges this
+ 
+ruling, asserting that the circuit court: failed to rule that
+ 
+UniDev waived any right to arbitration; erroneously determined
+ 
+that the County was required to submit to arbitration pursuant to
+ 
+the DSA and ADSA; and erroneously determined that all of the
+ 
+County's claims and all of UniDev's counterclaims were subject to
+ 
+arbitration.
+ 
+Upon the filing of a motion to compel arbitration, the 
+court determines: "1) whether an arbitration agreement exists 
+between the parties; and 2) if so, whether the subject matter of 
+the dispute is arbitrable under such agreement." Koolau 
+Radiology, 73 Haw. at 445, 834 P.2d at 1300; see also Brown, 82 
+Hawai'i at 238, 921 P.2d at 158; accord, HRS § 658A-6(b) (Supp. 
+2011). 
+22
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+When a party opposing a motion to compel arbitration 
+has claimed that the right to arbitrate has been waived, the 
+Hawai'i Supreme Court has also decided the issue of waiver. See 
+e.g., Fireman's Fund Ins. Co., 109 Hawai' i at 354-55, 126 P.3d at 
+397-99; Ass'n of Owners of Kukui Plaza v. Swinerton & Walberg 
+Co., 68 Haw. 98, 108-09, 705 P.2d 28, 35-37 (1985). 
+We therefore address the issues raised by the County in
+ 
+the following order: (1) whether an arbitration agreement exists
+ 
+between the County and UniDev; (2) if so, whether the County's
+ 
+claims and UniDev's counterclaims are arbitrable under the
+ 
+agreement (i.e. come within the scope of the arbitration
+ 
+agreement); and (3) if so, whether UniDev has waived its right to
+ 
+arbitration.
+ 
+1.	 Whether an Arbitration Agreement Exists Between
+the County and UniDev
+ 
+The County contends that the circuit court erred in
+ 
+ruling that there are existing arbitration agreements between the
+ 
+County and UniDev as contained in the DSA and ADSA. Regarding
+ 
+the DSA, the County argues that it was no longer a party to that
+ 
+agreement after the DSA was assigned to WWH. Regarding the ADSA,
+ 
+the County argues it was never a party to that agreement, which
+ 
+was executed between UniDev and WWH.
+ 
+Public policy encourages arbitration as a means of 
+settling differences and thereby avoiding litigation, however, 
+"there still must be an underlying agreement between the parties 
+to arbitrate." Luke v. Gentry Realty, Ltd., 105 Hawai' i 241, 
+247, 96 P.3d 261, 267 (2004) (quoting Arrants v. Buck, 130 F.3d 
+636, 640 (4th Cir. 1997)). 
+It is undisputed that both the DSA and ADSA contain
+ 
+substantially similar arbitration provisions.14 Moreover, both
+ 
+14 UniDev and the County entered into the DSA on March 2, 2006. The
+ 
+DSA's arbitration provision states in relevant part:
+ 
+(continued...)
+ 
+23
+  FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+arbitration agreements are governed by HRS Chapter 658A.15
+ 
+HRS § 658A-6(a) addresses the validity of an agreement to
+ 
+arbitrate, stating: 
+[§658A-6] Validity of agreement to arbitrate.  (a) An
+agreement contained in a record to submit to arbitration any
+existing or subsequent controversy arising between the
+parties to the agreement is valid, enforceable, and
+ irrevocable except upon a ground that exists at law or in
+ 
+equity for the revocation of a contract.
+ 
+(Emphasis added).
+ 
+As noted above, we review a ruling on a motion to 
+compel arbitration de novo and based on the same standards that 
+apply to a summary judgment ruling. Brown, 82 Hawai' i at 231, 
+921 P.2d at 151; Yogi, 124 Hawai' i at 174, 238 P.3d at 701. As 
+the party seeking to compel arbitration, UniDev carries the 
+initial burden of establishing that an arbitration agreement 
+exists between the parties. If UniDev meets its initial burden, 
+the burden shifts to the County to show that an arbitration 
+14(...continued)
+ 
+13. Dispute. Any dispute arising under the terms of this
+ 
+Agreement that is not resolved within a reasonable period of
+time by authorized representatives of UniDev and the Sponsor
+shall be brought to the attention of the Chief Executive
+Officer of UniDev and the Executive Director of the Sponsor
+for joint resolution. Thereafter, if the matter in dispute
+is still unresolved, then the parties shall in good faith
+mutually appoint a mediator to mediate the dispute, provided
+that if the parties cannot agree upon a mediator, then
+either party may petition a court of competent jurisdiction
+to appoint a mediator. If the matter in dispute is still
+ 
+not resolved by mediation, then the parties shall submit the
+ 
+matter to arbitration as provided in the "Uniform
+ Arbitration Act" under State law.
+ 
+(Emphasis added). On February 21, 2008, UniDev and WWH entered into the ADSA.
+The ADSA's arbitration provision is materially similar to the DSA's
+arbitration provision. County representatives did not sign the ADSA. 
+15 In 2001, the Hawai' i legislature repealed HRS Chapter 658 and enacted
+HRS Chapter 658A. HRS Chapter 658A is applicable to agreements to arbitrate
+made on or after July 1, 2002. See HRS § 658A-3(a) (Supp. 2011). The DSA and 
+ADSA were entered into on March 2, 2006 and February 21, 2008, respectively,
+and thus HRS Chapter 658A is applicable to the arbitration provisions in bothagreements. 
+24
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+agreement does not exist. 4 Am. Jur. 2d Alternative Dispute
+ 
+Resolution § 98 (2007). 
+a. The DSA
+ 
+There is no dispute that the County and UniDev executed
+ 
+the DSA and that the DSA contains an arbitration provision. 
+Thus, it appears that UniDev meets its initial burden of showing
+ 
+that an arbitration agreement exists. The County contends,
+ 
+however, that the Assignment from the County to WWH constituted a
+ 
+novation which relieved the County of the DSA's arbitration
+ 
+agreement. Alternatively, the County argues that the ADSA
+ 
+between UniDev and WWH is a substituted contract which replaced
+ 
+the DSA. We do not agree with either of these arguments.
+ 
+Generally, a novation is but one type of a substituted
+ 
+contract. The Restatement (Second) of Contracts § 279 (1981)
+ 
+provides:
+ 
+§ 279. Substituted Contract
+ 
+(1) A substituted contract is a contract that is
+itself accepted by the obligee in satisfaction of the
+obligor's existing duty.
+ 
+(2) The substituted contract discharges the original
+duty and breach of the substituted contract by the
+obligor does not give the obligee a right to enforce
+the original duty.
+ 
+"If a substituted contract brings in a new party it is called a
+ 
+'novation[.]'" Id. cmt. a.16 "A novation is a substituted
+ 
+contract that includes as a party one who was neither the obligor
+ 
+nor the obligee of the original duty." Id. § 280 (1981).17
+ 
+16 As to a novation, "[t]he performance to be rendered under the new
+duty may be the same as or different from that to be rendered under the
+original duty." Restatement (Second) of Contracts § 280 cmt. a (1981). The
+ effect of a novation is that it "discharges the original duty, just as any
+other substituted contract does, so that breach of the new duty gives no right
+of action on the old duty." Id. cmt. b.
+17 Restatement (Second) of Contracts § 280 is based on the former
+Restatement (First) of Contracts § 424 (1932), which was relied upon by theHawai'i Supreme Court in Hawaii Builders Supply Co. v. Kaneta, 42 Haw. 111, 
+112 (1957), in addressing the question of a novation. See Restatement 
+(continued...)
+ 
+25
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+Under this framework, the County's argument as to both
+ 
+the Assignment and the ADSA is essentially that each document was
+ 
+a novation with regard to the DSA, because WWH was substituted
+ 
+for the County. For either the Assignment or the ADSA to have
+ 
+been a novation, UniDev must have agreed to the discharge of the
+ 
+County's duties under the DSA in consideration for the promise of
+ 
+WWH to undertake those duties. See Haw. Builders Supply Co. v.
+ 
+Kaneta, 42 Haw. 111 (Haw. Terr. 1957); Restatement (Second) of
+ 
+Contracts § 280 cmt. c and d. "[A] discharge of a previous
+ 
+contractual duty is one of the essential elements of a novation." 
+Kaneta, 42 Haw. at 112.
+ 
+[A] mere promise by a third party to assume the obligor's
+ 
+duty, not offered in substitution for that duty, does not
+ result in a novation, and the new duty that the third party
+may owe to the obligee as an intended beneficiary is in
+addition to and not in substitution for the obligor's
+original duty. For a novation to take place, the obligee
+ 
+must assent to the discharge of the obligor's duty in
+ 
+consideration for the promise of the third party to
+ undertake that duty.
+ 
+Restatement (Second) of Contracts § 280 cmt. d (emphasis added).
+ 
+The Assignment was not a novation. There is nothing in
+ 
+the record on appeal evidencing that UniDev agreed to discharge
+ 
+the County from its duties under the DSA. Even if, as the County
+ 
+asserts, UniDev consented to the assignment of the DSA from the
+ 
+County to WWH and UniDev's counterclaim asserts that WWH was set
+ 
+up to "take over" the performance of the DSA, such evidence and
+ 
+admissions by UniDev do not equate to a discharge of the County's
+ 
+17(...continued)
+(Second) of Contracts § 280 Rep. Note.
+ 
+We recognize that the term novation has been given a broader meaning in
+some authorities. 
+For instance, one definition of a "novation" in Black's Law
+Dictionary is: "The act of substituting for an old obligation a new one that
+either replaces an existing obligation with a new obligation or replaces anoriginal party with a new party." Black's Law Dictionary 1168 (9th ed. 2009).
+However, given the Hawai' i Supreme Court's prior reliance on the Restatement
+(First) of Contracts in Kaneta, and because the Restatement provides a morecomprehensive authority as to both novations and substituted contracts, welook to that source for guidance. 
+26
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+duties under the DSA. An assignment, without more, does not
+ 
+discharge the original obligor under a contract.
+ 
+A mere assignment does not release the assignor from
+his or her obligations to the other party under the assigned
+contract, absent an agreement that can be implied from facts
+other than the other contracting party's consent to the
+assignment; or the consent of the obligee.
+ 
+Even if an assignee assumes the obligations of the
+contract, the assignor remains secondarily liable as a
+surety or guarantor.
+ 
+6 Am. Jur. 2d Assignments § 129 (2008) (footnotes omitted).
+ 
+Similarly, the ADSA executed between UniDev and WWH was
+ 
+not a novation. There is nothing in the record before us that
+ 
+reflects that UniDev, as obligee, agreed that the ADSA would
+ 
+discharge the County's duties under the DSA.
+ 
+The County's obligation under the DSA's arbitration
+ 
+provision thus continues to exist.
+ 
+b. The ADSA
+ 
+We now turn to whether the arbitration provision in the
+ 
+ADSA exists as between the County and UniDev. It is undisputed
+ 
+that the County did not execute the ADSA. Thus, UniDev (a
+ 
+signatory to the ADSA) seeks to enforce the ADSA arbitration
+ 
+provision against the County (a nonsignatory to the ADSA). The
+ 
+circuit court appears to have determined that the ADSA
+ 
+arbitration provision applies to the County because the ADSA
+ 
+"restates" the DSA.
+ 
+The County argues that the circuit court erred because
+ 
+the County was never a party to the ADSA and WWH did not enter
+ 
+into the ADSA on behalf of the County.
+ 
+UniDev contends that the ADSA arbitration provision
+ 
+applies to the County because the ADSA simply restated the DSA
+ 
+arbitration provision without relieving the County of its
+ 
+obligations under the DSA. Alternatively, UniDev argues that the
+ 
+County ratified WWH's actions and that WWH acted under the
+ 
+apparent authority of the County with regard to the ADSA.
+ 
+27
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+We do not agree with UniDev that the ADSA arbitration 
+agreement applies to the County on the basis that the ADSA 
+"restates" the DSA. UniDev cites no authority for this 
+proposition and thus sets forth no basis, as a matter of law, 
+that the County is bound by the ADSA's arbitration provision 
+under this theory. Regardless of whether UniDev and WWH intended 
+to restate the DSA by their respective execution of the ADSA, the 
+County simply was not a signatory to the ADSA. "[A] party cannot 
+be required to submit to arbitration any dispute which he has not 
+agreed so to submit." Sher v. Cella, 114 Hawai' i 263, 267, 160 
+P.3d 1250, 1254 (App. 2007) (quoting Merrill Lynch Inv. Managers 
+v. Optibase, Ltd., 337 F.3d 125, 131 (2nd Cir. 2003)). We thus
+ 
+conclude that the circuit court erred in this regard.
+ 
+UniDev's alternative arguments are based on theories 
+related to agency. In Luke, the Hawai' i Supreme Court declined 
+to resolve the question of whether a signatory may bind a 
+nonsignatory to an arbitration agreement, but referred to 
+Thomson-CSF, S.A. v. Am. Arbitration Ass'n, 64 F.3d 773, 776 (2d 
+Cir. 1995) for a discussion of the issue. 105 Hawai' i at 248 
+n.11, 96 P.3d at 268 n.11. In Thomson-CSF, the Court of Appeals for the Second Circuit stated that "[t]his Court has made clear 
+that a nonsignatory party may be bound to an arbitration 
+agreement if so dictated by the 'ordinary principles of contract 
+and agency.'" 64 F.3d at 776 (citing McAllister Bros. v. A & S 
+Transp. Co., 621 F.2d 519, 524 (2d Cir. 1980)).
+18 Whether to 
+compel arbitration is a matter of contract, see Sher, 114 Hawai' i 
+at 267, 160 P.3d at 1254, and therefore we agree with Thomson-CSF 
+that ordinary principles of contract and agency apply. 
+18 The court in Thomson-CSF noted that, under common law principles of
+contract and agency law, it had previously "recognized five theories for
+binding nonsignatories to arbitration agreements: 1) incorporation by
+reference; 2) assumption; 3) agency; 4) veil-piercing/alter ego; and
+5) estoppel." 64 F.3d at 776.
+ 
+28
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+UniDev argues that the County ratified the ADSA by 
+suing UniDev for breaches of the ADSA and other alleged 
+activities of the County. However, the County's complaints 
+against UniDev do not assert claims for breach of the ADSA, and 
+even if the County's claims could be construed in such a manner, 
+UniDev fails to carry its burden to establish ratification. See 
+Ass'n of Apartment Owners of Maalaea Kai, Inc. v. Stillson, 108 
+Hawai'i 2, 13-14, 116 P.3d 644, 655-56 (2005) (stating that 
+ratification requires "the affirmance by a person of a prior act 
+which did not bind him but which was done or professedly done on 
+his account, whereby the act, as to some or all persons, is given 
+effect as if originally authorized by him") (citations omitted). 
+The evidence that UniDev points to, primarily the Declaration of 
+Craig Dougall (Dougall) attached to its Motion to Compel ADR 
+filed in the circuit court, fails to establish that WWH entered 
+into the ADSA on account of the County. Dougall, a former 
+employee of UniDev and later the chief executive officer of WWH, 
+attests that the assignment of the DSA to WWH, among other 
+things, was done so that WWH would be an entity independent of 
+the County. The evidence in the record does not support UniDev's 
+argument based on ratification. 
+UniDev also argues that WWH acted with the County's
+ 
+apparent authority and thus the County is bound by the ADSA's
+ 
+arbitration provision. "Apparent authority arises when 'the
+ 
+principal does something or permits the agent to do something
+ 
+which reasonably leads another to believe that the agent had the
+ 
+authority he was purported to have.'" Cho Mark Oriental Food,
+ 
+Ltd. v. K & K Int'l, 73 Haw. 509, 516, 836 P.2d 1057, 1062 (1992)
+ 
+(quoting Hawaiian Paradise Park Corp. v. Friendly Broad. Co., 414
+ 
+F.2d 750, 756 (9th Cir. 1969)). "The critical focus is not on
+ 
+the principal and agent's intention to enter into an agency
+ 
+relationship, but on whether a third party relies on the
+ 
+principal's conduct based on a reasonable belief in the existence
+ 
+29
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+of such a relationship." Id. at 516-17, 836 P.2d at 1062
+ 
+(citation omitted).
+ 
+Again, UniDev relies primarily on the declaration of
+ 
+Dougall. With regard to the County's conveyance of the Property
+ 
+to HIHT and assignment of the DSA to WWH, Dougall attested that
+ 
+these steps were taken "to remove the County from the executive
+ 
+management of the Project and to have WWH, as a supposedly
+ 
+independent entity, take over that responsibility, and also, in
+ 
+part, to limit the County's liability for the Project." Although
+ 
+Dougall also attests that the County remained intimately involved
+ 
+with controlling and managing the Project, neither his
+ 
+declaration nor any other evidence submitted by UniDev shows that
+ 
+UniDev reasonably believed WWH was acting as the County's agent,
+ 
+especially in regard to executing the ADSA. To the contrary, the
+ 
+evidence shows, as articulated by Dougall, that the Project was
+ 
+purposefully structured so that WWH would be an independent
+ 
+entity (even if, arguably, WWH's independence later became a
+ 
+point of contention between the parties).
+ 
+Reviewing the motion and the evidence presented de novo 
+and under the applicable summary judgment standards that apply to 
+a motion to compel arbitration, see Koolau Radiology, 73 Haw. at 
+439-40, 834 P.2d at 1298, we conclude that UniDev failed to 
+establish that WWH had apparent authority to enter the ADSA as 
+the County's agent. As the party seeking to compel arbitration, 
+UniDev thus fails to carry its burden to establish that the ADSA 
+applies to the County under UniDev's theory of apparent 
+authority. See id.; Haw. Med. Ass'n, 113 Hawai' i at 90, 148 P.3d 
+at 1192. 
+We thus conclude that the circuit court erred in
+ 
+determining that the ADSA arbitration agreement applies to the
+ 
+County.
+ 
+30
+  FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+2. Scope of the DSA Arbitration Agreement
+ 
+We now consider whether the scope of the DSA's
+ 
+arbitration provision covers the claims and counterclaims
+ 
+asserted by the parties. The circuit court held that all of the
+ 
+claims in the County's two complaints and in UniDev's
+ 
+counterclaim were within the scope of the DSA and ADSA
+ 
+arbitration provisions. Given our ruling above, we consider only
+ 
+the DSA arbitration provision. The DSA's arbitration provision
+ 
+covers "[a]ny dispute arising under the terms of this
+ 
+Agreement[.]" 
+"Although the public policy underlying Hawai' i law 
+strongly favors arbitration over litigation, the mere existence 
+of an arbitration agreement does not mean that the parties must 
+submit to an arbitrator disputes which are outside the scope of 
+the arbitration agreement." Hawaii Med. Ass'n, 113 Hawai' i at 
+92, 148 P.3d at 1194 (quoting Brown, 82 Hawai' i at 244, 921 P.2d 
+at 164). "What issues, if any, are beyond the scope of a 
+contractual agreement to arbitrate depends on the wording of the 
+contractual agreement to arbitrate." Id. (quoting Rainbow 
+Chevrolet, Inc. v. Asahi Jyuken (USA), Inc., 78 Hawai' i 107, 113, 
+890 P.2d 694, 700 (App. 1995), superseded by statute on other grounds as stated in, Ueoka v. Szymanski, 107 Hawai' i 386, 114 
+P.3d 892 (2005)). "Arbitration is a matter of contract; so a 
+party cannot be required to submit to arbitration any dispute 
+which he has not agreed so to submit." Sher, 114 Hawai' i at 267, 
+160 P.3d at 1254 (quoting Merrill Lynch, 337 F.3d at 131) 
+(internal quotation marks omitted). "Any doubts concerning the 
+scope of arbitrable issues should be resolved in favor of 
+arbitration." Lee v. Heftel, 81 Hawai' i 1, 4, 911 P.2d 721, 724 
+(1996) (quoting Moses H. Cone Mem'l Hosp. v. Mercury Constr. 
+Corp., 460 U.S. 1, 24-25 (1983)) (brackets omitted). "As with 
+any contract, the parties' intentions control, but those 
+31
+    FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+intentions are generously construed as to issues of
+ 
+arbitrability." Id. (quoting Mitsubishi Motors Corp. v. Soler
+ 
+Chrysler-Plymouth, Inc., 473 U.S. 614, 626 (1985)) (brackets
+ 
+omitted).
+ 
+As noted, under the DSA, arbitration is required for
+ 
+"[a]ny dispute arising under the terms of this Agreement[.]" The
+ 
+County argues that similar language has been held to be
+ 
+"relatively narrow" under cases decided by the Ninth Circuit and
+ 
+Hawaii's federal district court. The County relies on
+ 
+Mediterranean Enterprises, Inc. v. Ssangyong Corp., 708 F.2d 1458
+ 
+(9th Cir. 1983), Tracer Research Corp. v. National Environmental
+ Services Co., 42 F.3d 1292 (9th Cir. 1994), and Cape Flattery
+ Ltd. v. Titan Maritime LLC, 607 F. Supp. 2d 1179 (D. Haw.
+ 
+2009).
+19
+ 
+UniDev, to the contrary, argues that this type of
+ 
+arbitration clause has been construed broadly and interpreted to
+ 
+encompass claims that touch matters covered by the parties'
+ 
+contract or that have their roots in the relationship created by
+ 
+the contract. UniDev relies on PRM Energy Systems, Inc. v.
+ 
+Primenergy, L.L.C., 592 F.3d 830 (8th Cir. 2010); Oldroyd v.
+ Elmira Savings Bank, FSB, 134 F.3d 72 (2nd Cir. 1998); Int'l
+ Asset Mgmt., Inc. v. Holt, 487 F. Supp. 2d 1274 (N.D. Okla.
+ 2007); EFund Capital Partners v. Pless, 59 Cal. Rptr. 3d 340
+ (Cal. Ct. App. 2007); and Eatoni Ergonomics, Inc. v. Research In
+ Motion Corp., 633 F. Supp. 2d 109 (S.D.N.Y. 2009).
+20
+ 
+19 None of the cases cited by either the County or UniDev interpret
+language identical to the arbitration provision in this case. For the cases
+ 
+cited by the County: Mediterranean Enterprises construed an agreement
+requiring arbitration for "[a]ny disputes arising hereunder[,]" 708 F.2d at
+1461; Tracer Research Corp. construed an agreement requiring arbitration for
+"any controversy or claim arising out of this Agreement[,]" 42 F.3d at 1295;
+and Cape Flattery Ltd. construed an agreement requiring arbitration for "[a]ny
+dispute arising under this Agreement[.]" 607 F. Supp. 2d at 1185.
+ 
+20 PRM Energy Systems construed an agreement requiring arbitration for
+"all disputes arising under" the agreement. 592 F.3d at 836-37. Oldroyd
+ 
+(continued...)
+ 
+32
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+We conclude that the particular language agreed to by
+ 
+the County and UniDev in the DSA arbitration provision was
+ 
+intended to be fairly narrow. In cases construing agreements
+ 
+requiring arbitration for disputes "arising under" or "arising
+ 
+out of" the agreement or arising "hereunder," there is a split of
+ 
+authority among federal courts as to how such language should be
+ 
+interpreted. Some courts, primarily in the Ninth Circuit,
+ 
+construe that type of arbitration language as being narrow and
+ 
+restrict arbitration only to disputes relating to interpretation
+ 
+and performance of the contract. See Mediterranean Enters.,
+ 
+Inc., 708 F.2d 1458; In re Kinoshita & Co., 287 F.2d 951 (2d Cir.
+ 
+1961); Cape Flattery Ltd., 607 F. Supp. 2d at 1185-88. On the
+ other side, some courts construe such language broadly. See
+ 
+Dialysis Access Ctr., LLC v. RMS Lifeline, Inc., 638 F.3d 367,
+ 380-82 (1st Cir. 2011) (rejecting Kinoshita); Battaglia v.
+ McKendry, 233 F.3d 720, 725-27 (3d Cir. 2000); Gregory v.
+ Electro-Mechanical Corp., 83 F.3d 382, 385 (11th Cir. 1996). We
+ 
+need not decide that particular issue.
+ 
+Here, the arbitration provision has further limiting
+ 
+language, that arbitration be had for "[a]ny dispute arising
+ 
+20(...continued)
+construed an agreement requiring arbitration for "[a]ny dispute, controversy
+or claim arising under or in connection with [Oldroyd's employment
+agreement]." 
+134 F.3d at 76. International Asset Management construed an
+ 
+agreement requiring arbitration for "[a]ny disputes hereunder." 487 F. Supp.
+2d at 1288. EFund Capital Partners construed an agreement requiring
+arbitration for "[a]ny dispute or other disagreement arising from or out of
+[the] Consulting Agreement[.]" 59 Cal. Rptr. 3d at 347. Eatoni Ergonomics
+ 
+construed an agreement requiring arbitration for "any disputes under this
+agreement[.]" 633 F. Supp. 2d at 112.
+ 
+UniDev also points to two Hawai' i cases, Lee and Rainbow Chevrolet, but
+these cases likewise interpret contract language different from the
+arbitration provision in this case. Lee construed an agreement requiring
+arbitration for "any dispute or claim in law or equity aris[ing] out of [theagreement.]" 81 Hawai' i at 2, 911 P.2d at 722. Rainbow Chevrolet construed 
+an agreement requiring arbitration for "[a]ny dispute arising under [the]
+lease or any addendum or other agreement incidental or ancillary to [the]Lease or any aspect of the relationship under the Lease between [San Jose] and[Rainbow.]" 78 Hawai' i at 110, 890 P.2d at 697. 
+33
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+under the terms of this Agreement." (Emphasis added). Even 
+though public policy strongly favors arbitration, the scope of 
+arbitration ultimately depends on the wording of the contract. 
+Haw. Med. Ass'n, 113 Hawai' i at 92, 148 P.3d at 1194. By 
+choosing the specific and clear language in the DSA arbitration 
+provision, the parties indicated their intent to require 
+arbitration when a dispute implicates or involves the terms of 
+the DSA. Therefore, arbitration is required for claims that 
+involve construction or interpretation of the DSA's terms, or 
+that require a determination of the parties' rights and/or 
+obligations under the terms of the DSA. 
+a. County's Claims
+ 
+Applying the aforementioned principles to the County's
+ 
+claims, we conclude that only a portion of the County's
+ 
+negligence claim falls within the scope of the DSA's arbitration
+ 
+provision. The County asserts the following claims: false claims
+ 
+in violation of HRS § 46-171; intentional misrepresentation;
+ 
+fraudulent inducement; negligent misrepresentation; negligence;
+ 
+and unfair and deceptive practices in violation of HRS § 480-2
+ 
+and § 481A-3. All but two of these claims are asserted in both
+ 
+the County's complaint filed in Civil No. 09-01-264K (first
+ 
+complaint) and the County's later complaint filed in Civil No.
+ 
+10-1-427K (second complaint), with somewhat different underlying
+ 
+factual allegations. Whether a claim falls within the scope of
+ 
+an arbitration agreement turns on the factual allegations in the
+ 
+complaint rather than the legal causes of action asserted. Cf.
+ 
+Simula, Inc. v. Autoliv, Inc., 175 F.3d 716, 721 (9th Cir. 1999)
+ 
+(citing Mitsubishi Motors Corp., 473 U.S. at 624 n.13) (examining
+ 
+the factual allegations raised to determine which causes of
+ 
+action were arbitrable). We thus analyze the allegations
+ 
+underlying the claims, as asserted in the two complaints.
+ 
+The County's cause of action for false claims does not
+ 
+implicate the terms of the DSA. In the County's first complaint,
+ 
+34
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+it alleges that UniDev submitted a false claim in April 2009
+ 
+under the ADSA, to which the County was not a party and thus
+ 
+under which it did not owe any funds. This complaint also
+ 
+alleges UniDev made false claims by submitting invoices to WWH
+ 
+for services already paid, knowing that WWH was receiving County
+ 
+funds through various financing agreements. The County also
+ 
+alleged that UniDev made various false statements to induce the
+ 
+County to award the project to UniDev and enter into the DSA. 
+None of these allegations involve the terms of the DSA.
+ 
+The County's claim for intentional misrepresentation in
+ 
+its first complaint is based on the allegation that 
+"because under its DSA and Amended DSA with WWH, a portion
+of UniDev's fees would be earned when funding was provided
+to WWH for The Project, UniDev and/or UniDev Hawai' i 
+intentionally made numerous false representations and
+provided false documentation to the County to induce it to
+ provide funding to WWH." 
+(Emphasis added). Although the DSA is mentioned, it merely sets
+ 
+the context that UniDev made misrepresentations to the County in
+ 
+order to obtain funds during the time the DSA was assigned to
+ 
+WWH. As identified in the first complaint, specific alleged
+ 
+misrepresentations occurred from 2007 through 2008, which is
+ 
+after the DSA had been assigned to WWH. Based on the allegations
+ 
+in the first complaint, whether UniDev made intentional
+ 
+misrepresentations to the County does not involve the terms of
+ 
+the DSA. 
+The County's claim for intentional misrepresentation in
+ 
+the second complaint alleges that UniDev made misrepresentations
+ 
+"in order to be awarded the Project and obtain funds from the
+ 
+County[,]" including that UniDev: made misrepresentations in its
+ 
+response to the County's Request for Proposal (which sought
+ 
+proposals from potential developers to develop the Project);
+ 
+submitted invoices to pay contractors and then failed to pay all
+ 
+or a portion of the represented expenses; and misrepresented the
+ 
+amounts to be paid to certain contractors. The second complaint
+ 
+35
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+also alleges UniDev made misrepresentations in submitting
+ 
+invoices for which UniDev had already received payment. None of
+ 
+these allegations involve interpreting or construing the terms of
+ 
+the DSA.
+ 
+The County's claim for fraudulent inducement in the two
+ 
+complaints alleges that UniDev made false representations to the
+ 
+County for the purpose of inducing the County to award the
+ 
+Project to UniDev, to induce the County to provide funding for
+ 
+the Project, and to induce the County to pay false invoices. 
+These allegations do not raise issues implicating the terms of
+ 
+the DSA.
+ 
+The County's claim for negligent misrepresentation is
+ 
+based on allegations that UniDev made misrepresentations in order
+ 
+to get funding pursuant to its DSA and ADSA with WWH, and to
+ 
+induce the County to award the Project to UniDev, provide
+ 
+funding, and pay false invoices. Again, the DSA is mentioned
+ 
+simply to set the context for when the alleged misrepresentations
+ 
+were made. The terms of the DSA are not implicated.
+ 
+The County's claim for negligence alleges that UniDev
+ 
+owed a duty to the County to use reasonable care in the
+ 
+performance of its professional services. The County alleges, in
+ 
+part, that pursuant to the DSA, prior approval was to be obtained
+ 
+for certain consultant contracts and their expenses, with which
+ 
+UniDev failed to abide, and that UniDev purported to be the
+ 
+owner's representative but failed to take actions in the interest
+ 
+of the County. These allegations require a determination of
+ 
+UniDev's duties owed to the County under the DSA and UniDev's
+ 
+performance related to those duties. To this extent, the terms
+ 
+of the DSA are thus implicated and this part of the claim must be
+ 
+arbitrated. To the extent that the County's allegations may
+ 
+assert duties owed by UniDev under the ADSA, that part of the
+ 
+claim is not arbitrable.
+ 
+36
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+As to the factual allegations underlying the County's
+ 
+claim of unfair and deceptive trade practices, the County alleges
+ 
+that UniDev: made misrepresentations as to its ability to obtain
+ 
+financing, its experience in developing housing projects, and
+ 
+that County funds would not be needed for the Project; submitted
+ 
+false invoices; and failed to disclose relationships or
+ 
+agreements with contractors that constituted conflicts of
+ 
+interest that benefitted UniDev to the detriment of the County. 
+The terms of the DSA have no bearing on these allegations.
+ 
+In sum, only the County's claim for negligence, based
+ 
+on UniDev's alleged duties under the DSA, implicates the terms of
+ 
+the DSA between the County and UniDev. This portion of the
+ 
+negligence claim must be submitted to arbitration. The other
+ 
+claims asserted by the County are not within the scope of the
+ 
+DSA's limited arbitration provision. 
+b. UniDev's Counterclaims
+ 
+UniDev asserts the following counterclaims against the
+ 
+County: breach of contract; quantum meruit; intentional
+ 
+interference with contract; and fraudulent transfer. To
+ 
+determine whether these counterclaims are covered by the DSA's
+ 
+arbitration clause, we consider the factual allegations asserted
+ 
+by UniDev related to its counterclaims.
+ 
+UniDev's claim for breach of contract against the
+ 
+County is based on allegations that: the County and UniDev
+ 
+entered into the DSA; the County assigned its rights under the
+ 
+DSA to WWH, but the County remained intimately involved and WWH
+ 
+was an alter ego, agent or instrumentality of the County; WWH was
+ 
+the alter ego, agent or instrumentality of the County with regard
+ 
+to the ADSA; under the DSA and ADSA, UniDev performed certain
+ 
+services; under the DSA and ADSA, the County and WWH agreed to
+ 
+pay UniDev certain fees; and the County and WWH breached the DSA
+ 
+and ADSA by unilaterally halting the Project and refusing to pay
+ 
+UniDev the agreed fees. To the extent these allegations assert
+ 
+37
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+that the County breached the DSA, they implicate the terms of the
+ 
+DSA and are thus arbitrable. All other allegations underlying
+ 
+this claim deal with UniDev's theories based on alter ego or
+ 
+agency, which do not involve interpreting the terms of the DSA
+ 
+and thus are not within the scope of the DSA arbitration
+ 
+provision.
+ 
+UniDev's claim for quantum meruit is based on the 
+services it performed from November 2004 through April 2009. UniDev alleges that the County substantially benefitted from 
+UniDev's services and would be unjustly enriched if not required 
+to pay UniDev for its services. "[A] claim for unjust enrichment 
+requires only that a plaintiff prove that he or she 'confer[red] 
+a benefit upon' the opposing party and that the 'retention [of 
+that benefit] would be unjust.'" Durette v. Aloha Plastic 
+Recycling, Inc., 105 Hawai' i 490, 504, 100 P.3d 60, 74 (2004) 
+(citation omitted). UniDev's asserted claim for quantum meruit 
+does not implicate the terms of the DSA and is not arbitrable. 
+UniDev's claim of intentional interference with
+ 
+contract is based on allegations that the County interfered with
+ 
+contractual rights and obligations that existed from July 2006
+ 
+through April 2009 as between WWH and UniDev under the DSA and
+ 
+ADSA. The DSA was assigned to WWH in July 2006. These
+ 
+allegations specifically focus on UniDev's contractual rights
+ 
+with respect to WWH, not the County. Thus, this claim does not
+ 
+involve the terms of the DSA as between the County and UniDev,
+ 
+and therefore, is not arbitrable.
+ 
+UniDev's claim for fraudulent transfer is based on
+ 
+allegations that WWH became indebted to UniDev for fees under the
+ 
+ADSA, and the transfer of WWH's leasehold interest in the
+ 
+Property to HIHT and the subsequent transfer of HIHT's fee-simple
+ 
+interest in the Property to the County was fraudulent as to
+ 
+UniDev under the HUFTA. Specifically, UniDev alleges WWH and
+ 
+HIHT transferred their interests in the Property to hinder, delay
+ 
+38
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+or defraud UniDev's efforts to collect fees owed by WWH. This
+ 
+claim does not implicate the terms of the DSA and is not
+ 
+arbitrable.
+ 
+In sum, UniDev's counterclaim for breach of contract
+ 
+against the County is arbitrable to the extent it alleges that
+ 
+the County breached the DSA. In all other respects, UniDev's
+ 
+counterclaims do not implicate the terms of the DSA and are thus
+ 
+outside the scope of the DSA arbitration provision.
+ 
+3. Waiver
+ 
+We next address the County's argument that UniDev
+ 
+waived any right to arbitrate. Contrary to UniDev's assertions,
+ 
+the issue of waiver is properly before this court. Because
+ 
+HRS § 658A-6 is identical to the revised Uniform Arbitration Act
+ 
+(2000) (RUAA) § 6, we find the comments to RUAA § 6 to be
+ 
+persuasive. Comment 5 to RUAA § 6 states that "[w]aiver is one
+ 
+area where courts, rather than arbitrators, often make the
+ 
+decision as to enforceability of an arbitration clause." Various
+ 
+federal courts of appeals comport with this practice. See Marie
+ 
+v. Allied Home Mortg. Corp., 402 F.3d 1, 13-14 (1st Cir. 2005)
+ 
+(holding that waiver by litigation-related activity is
+ 
+presumptively an issue for the court); accord Ehleiter v.
+ 
+Grapetree Shores, Inc., 482 F.3d 207, 217-21 (3d Cir. 2007); JPD,
+ Inc. v. Chronimed Holdings, Inc., 539 F.3d 388, 393-94 (6th Cir.
+ 
+2008). 
+Moreover, the policy rationales articulated in Radil v.
+ 
+National Union Fire Insurance Co., 233 P.3d 688 (Colo. 2010) are
+ persuasive. There, the Colorado Supreme Court held that, absent
+ 
+a clear intent to the contrary expressed by the parties in the
+ 
+arbitration agreement, litigation-based waiver is an issue for
+ 
+determination by the trial court, not an arbitrator, in part
+ 
+because: (1) trial courts are better-suited than arbitrators to
+ 
+decide claims of litigation-based waiver, given that waiver
+ 
+depends on the parties' conduct before the court and implicates
+ 
+39
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+trial court procedures with which arbitrators may have less
+ 
+familiarity; (2) sending waiver claims to an arbitrator is
+ 
+inefficient because an arbitrator's determination that there was
+ 
+a waiver sends the proceedings back to the trial court with no
+ 
+progress with respect to the merits of the dispute; and (3) the
+ 
+procedural question whether there was a litigation-based waiver
+ 
+is unrelated to the merits of the dispute, which the parties
+ 
+intended to be decided by an arbitrator. 233 P.3d at 694-95; see
+ 
+also Good Samaritan Coffee Co. v. LaRue Distrib., Inc., 748
+ 
+N.W.2d 367, 373-75 (Neb. 2008). We adopt these policy rationales
+ 
+and conclude that a court, not an arbitrator, presumptively
+ 
+should decide the issue of whether a party waived its right to
+ 
+arbitrate by actively litigating. In light of the foregoing, and
+ 
+because the arbitration provision in this case does not express a
+ 
+contrary intent by the parties, we proceed to decide the waiver
+ 
+issue.
+ 
+The undisputed facts are as follows. On July 1, 2009,
+ 
+the County filed its first complaint in Civil No. 09-1-264K. On
+ 
+August 17, 2009, UniDev filed a Notice of Removal of Action to
+ 
+Federal Court. On February 11, 2010, the federal court remanded
+ 
+the action to the circuit court. On March 29, 2010, UniDev filed
+ 
+its answer and counterclaim, which did not mention its right to
+ 
+arbitrate. UniDev then served the County with its first set of
+ 
+interrogatories and a request for production of documents, and
+ 
+responded to the County's request for production of documents. 
+On April 1, 2010, UniDev filed a lis pendens on the Property. On
+ 
+April 15, 2010, the County filed a Motion to Dismiss Counterclaim
+ 
+and to Expunge Lis Pendens or in the Alternative for Partial
+ 
+Summary Judgment (Motion to Expunge Lis Pendens). On May 17,
+ 
+2010, UniDev filed its opposition to this motion. On May 24,
+ 
+2010, at a hearing held on the County's Motion to Expunge Lis
+ 
+40
+  FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+Pendens, counsel for UniDev expressed UniDev's intention to
+ 
+litigate in court and to not seek arbitration.21
+ 
+On June 1, 2010, eight days after UniDev's counsel
+ 
+stated that UniDev intended to litigate rather than arbitrate,
+ 
+UniDev's counsel sent email correspondence to the County's
+ 
+counsel inquiring about the "possibility of mediating" the
+ 
+matter. The County responded by email on June 10, 2010, that it
+ 
+would voluntarily participate in ADR, along with WWH and UniDev,
+ 
+on the condition that the action would not be stayed pending the
+ 
+outcome of mediation. UniDev's counsel responded the same day
+ 
+that it would confer with its client and would be in touch. The
+ 
+same day, June 10, 2010, WWH filed a motion to dismiss and/or
+ 
+stay UniDev's counterclaim and to compel ADR with UniDev. Less
+ 
+than two months later, on August 2, 2010, UniDev filed its Motion
+ 
+21 In particular, the following verbal exchange took place between
+UniDev's counsel, Mr. Fritz, and the court:
+ 
+THE COURT: The second level of inquiry I have for the
+parties is: In reviewing the development service agreement,
+the amended and restated development service agreement, it
+would appear to the Court that there are mandatory
+alternative dispute resolution provisions that the parties
+are required to undertake. And I guess neither party
+addressed this in the motion, whether or not the claims are
+ripe, absent the parties undertaking to mediate and/or
+arbitrate any disputes on the underlying contract.
+ 
+MR. FRITZ: I can answer that, but I have to go outside the
+record, and I don't like to do that. But I will represent
+to the Court that my client did request mediation on several
+occasions and was rebuffed on every single one of them.
+ 
+THE COURT: So why aren't you in court on a motion to –- or a
+response to the motion, to require mediation?
+ 
+MR. FRITZ: Because we don't read those provisions as
+mandatory. We think they are waiveable. I mean, you know,
+we requested mediation. The County refused; cancelled the
+project. I think it would be futile to try to attempt a
+mediation. It would waste everybody's time.
+ 
+And even when there is an arbitration agreement, a binding
+ 
+arbitration agreement in a contract, the parties are free to
+ 
+disregard it and litigate in court, and that's what the
+ parties have chosen to do in this case.
+ 
+(Emphasis added). 
+41
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+to Compel ADR. On November 23, 2010, the County filed its second
+ 
+complaint in Civil No. 10-1-427K.
+ 
+The ADR Orders did not address waiver. The County
+ 
+asserts that UniDev expressly waived its right to arbitrate on
+ 
+the record on May 24, 2010. Moreover, the County contends that
+ 
+UniDev's actions were inconsistent with any right to arbitrate
+ 
+because UniDev failed to assert any right to arbitrate in its
+ 
+answer, and UniDev also actively litigated by filing its notice
+ 
+of removal, filing the lis pendens, opposing the County's Motion
+ 
+to Expunge Lis Pendens, and participating in discovery. UniDev
+ 
+argues that its actions did not constitute waiver and, moreover,
+ 
+the County failed to show that it was prejudiced by UniDev's
+ 
+actions. 
+Waiver is "an intentional relinquishment of a known 
+right, a voluntary relinquishment of rights, and the 
+relinquishment or refusal to use a right." Fireman's Fund Ins. 
+Co., 109 Hawai' i at 354, 126 P.3d at 397 (quoting Daiichi Haw. 
+Real Estate Corp. v. Lichter, 103 Hawai' i 325, 346 n.17, 82 P.3d 
+411, 432 n.17 (2003)). Due to the public policy encouraging 
+arbitration as a means of settling differences, waiver of a 
+contractual right to arbitration will not be lightly inferred. 
+Rainbow Chevrolet, 78 Hawai' i at 114, 890 P.2d at 701. 
+In Ass'n of Owners of Kukui Plaza, the Hawai' i Supreme 
+Court held that a party may waive its right to arbitration by 
+engaging in conduct "deemed inconsistent with a reliance on the 
+contract." 68 Haw. at 109, 705 P.2d at 36. The following year, 
+the Hawai' i Supreme Court held that "[t]he failure to make a 
+timely assertion of the right to arbitrate constitutes a waiver 
+of that right." Moorcroft v. First Ins. Co. of Haw., Ltd., 68 
+Haw. 501, 503-04, 720 P.2d 178, 180 (1986). The following 
+principles emerged: 
+a party may waive its right to arbitration by (1) failing to
+assert its right, Moorcroft v. First Ins. Co. of Hawaii,
+ Ltd., 68 Haw. 501, 720 P.2d 178 (1986), or (2) taking
+ 
+42
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+actions that are "'completely inconsistent with any reliance
+thereon.'" Ass'n of [Owners] of Kukui Plaza v. Swinerton &
+ 
+Walberg Co., 68 Haw. 98, 110, 705 P.2d 28, 36 (1985)
+(citation omitted).
+ 
+Rainbow Chevrolet, 78 Hawai' i at 114, 890 P.2d at 701; see also 
+Shimote v. Vincent, 80 Hawai' i 96, 100, 905 P.2d 71, 75 (App. 
+1995).22 
+In addition to the principles set forth in Ass'n of 
+Owners of Kukui Plaza, Rainbow Chevrolet, and Shimote, we also 
+consider UniDev's argument that the County must show it has 
+suffered prejudice from UniDev's conduct. The precise question 
+is, given the County's claim that UniDev has waived its 
+arbitration rights by engaging in conduct inconsistent with 
+arbitration, whether the County must show that it suffered 
+prejudice from UniDev's conduct. In Shimote, this court's 
+analysis implicitly considered the prejudicial effects on the 
+party opposing an untimely assertion of arbitration rights. 80 
+Hawai'i at 101, 905 P.2d at 76 (noting that the defendants 
+seeking arbitration had actively litigated for six years and their conduct "would easily lead the other parties to believe 
+that [defendants] would proceed to trial."). Moreover, public 
+policy favors arbitration and the waiver of a right to arbitrate 
+will not be lightly inferred. Rainbow Chevrolet, 78 Hawai' i at 
+114, 890 P.2d at 701. These considerations suggest that 
+prejudice is a relevant factor before there can be a waiver. 
+Decisions by other courts considering the issue have
+ 
+concluded that prejudice is a relevant factor for this type of
+ 
+waiver analysis. See e.g., Nev. Gold & Casinos, Inc. v. Am.
+ 
+22 The cases from which these principles emerged were decided when HRS
+Chapter 658 was in effect. The statutory framework under HRS Chapter 658
+imposed a duty on the circuit court, whether or not any party soughtarbitration, to determine whether issues before it were referable to 
+arbitration and to act accordingly pursuant to HRS § 658-5. Rainbow 
+Chevrolet, 78 Hawai' i at 113-14, 890 P.2d at 700-01. The current statutory
+scheme under HRS Chapter 658A, adopted in 2001, does not impose a similar
+burden on the circuit courts. Instead, initiation of arbitration liesdirectly with the parties. 
+43
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+Heritage, Inc., 110 P.3d 481, 485 (Nev. 2005) ("[A] waiver may be
+ 
+shown when the party seeking to arbitrate (1) knew of his right
+ 
+to arbitrate, (2) acted inconsistently with that right, and
+ 
+(3) prejudiced the other party by his inconsistent acts.");23
+ 
+accord Fisher v. A.G. Becker Paribas Inc., 791 F.2d 691, 694 (9th
+ 
+Cir. 1986); Gen. Star Nat'l Ins. Co. v. Adminstratia Asigurarilor
+ de Stat, 289 F.3d 434, 438 (6th Cir. 2002); Com-Tech Assocs. v.
+ Computer Assocs. Int'l Inc., 938 F.2d 1574, 1576 (2d Cir. 1991).
+ 
+Moreover, because RUAA § 6 is identical to HRS § 658A­
+6, the comments to this section are persuasive. Comment 5 to
+ 
+RUAA § 6 states that "because of the public policy favoring
+ 
+arbitration, a court normally will only find a waiver of a right
+ 
+to arbitrate where a party claiming waiver meets the burden of
+ 
+proving that the waiver has caused prejudice." Therefore, in
+ 
+light of the foregoing, in reviewing the County's assertion that
+ 
+UniDev has waived its arbitration rights by conduct inconsistent
+ 
+with such rights, we consider whether the County has shown that
+ 
+it has been prejudiced by UniDev's conduct.
+ 
+The record indicates that UniDev moved to compel ADR a 
+year after first removing the case to federal court and, upon 
+remand, approximately five months after filing its answer. The 
+parties had engaged in some litigation up to that point, but not 
+extensively. Further, although UniDev conducted and responded to 
+some discovery, participation in discovery is not completely 
+inconsistent with arbitration. Fireman's Fund Ins. Co., 109 
+Hawai'i at 354-55, 126 P.3d at 397-98. The discovery engaged in 
+by the parties was not substantial. Moreover, the record 
+indicates that a few days after UniDev stated it would litigate 
+rather than seek arbitration, it contacted the County to inquire 
+23 Nevada, like Hawai' i, has adopted the revised Uniform Arbitration Act
+(2000). The revised Uniform Arbitration Act (2000) was applicable to Nev. Gold 
+& Casinos, Inc. because the arbitration agreement in that case was entered
+into after October 1, 2001, the effective date for Nevada's adoption of the
+revised Uniform Arbitration Act (2000). See Nev. Rev. Stat. § 38.216. 
+44
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+into the possibility of participating in ADR. Less than two
+ 
+months after WWH filed its motion to compel ADR for UniDev's
+ 
+counterclaims against WWH, UniDev filed its motion to compel ADR
+ 
+against the County. As UniDev indicated at oral argument, the
+ 
+circumstances changed when WWH sought to compel part of the case
+ 
+into ADR. Under these circumstances, UniDev's conduct was not
+ 
+inconsistent with its arbitration rights to the point of waiver.
+ 
+Additionally, the County has not met its burden of
+ 
+showing it was prejudiced. The County argues that it will suffer
+ 
+prejudice if it is required to arbitrate because it "will be
+ 
+forced to duplicate its efforts and expend substantial time and
+ 
+resources." However, the possibility that some duplication will
+ 
+result is not prejudicial to the County, especially considering
+ 
+that less than five months elapsed from the time UniDev filed its
+ 
+answer until it filed its Motion to Compel ADR. See Fisher, 791
+ 
+F.2d at 698 (stating that the possibility that there may be some
+ 
+duplication from parallel proceedings is not prejudicial).
+ 
+The County has not demonstrated that UniDev waived its
+ 
+right to arbitrate, including any showing of prejudice resulting
+ 
+from the alleged inconsistent acts of UniDev. Therefore, under
+ 
+these circumstances, we conclude that UniDev did not waive its
+ 
+arbitration rights under the DSA.
+ 
+V. Conclusion
+ 
+Based on the foregoing, as to UniDev's appeal in No.
+ 
+CAAP-10-0000188, the circuit court did not abuse its discretion
+ 
+in expunging UniDev's lis pendens or in denying UniDev's request
+ 
+for reconsideration of the Expungement Order. Therefore, the
+ 
+circuit court's order expunging UniDev's lis pendens, filed
+ 
+September 13, 2010, and its order denying UniDev's motion for
+ 
+reconsideration of the Expungement Order, filed December 1, 2010,
+ 
+are affirmed. 
+45
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+As to the County's appeal in No. CAAP-11-0000019, we
+ 
+conclude that the circuit court erred in compelling arbitration
+ 
+for all of the County's claims and all of UniDev's counterclaims.
+ 
+The circuit court's orders filed December 17, 2010 and January 3,
+ 
+2011 are affirmed to the extent that they compelled arbitration
+ 
+as to: the County's claim for negligence based on UniDev's duty
+ 
+under the DSA; and UniDev's counterclaim for breach of contract
+ 
+against the County, alleging the County breached the DSA. In all
+ 
+other respects, the orders are vacated.
+ 
+This case is remanded to the circuit court for further
+ 
+proceedings consistent with this opinion.
+ 
+Paul Alston
+ 
+(Maren L. Calvert and
+J. Blaine Rogers with him
+on the briefs)
+(Alston Hung Floyd & Ing)
+for Defendant-Appellant in CAAP-10-0000188
+and Defendants-Appellees in CAAP-11-0000019
+ 
+Laureen L. Martin
+ 
+(Joseph K. Kamelamela and
+Julie K. Mecklenburg with her
+on the briefs)
+Deputies Corporation Counsel
+for Plaintiff-Appellee in CAAP-10-0000188
+and Plaintiff-Appellant in CAAP-11-0000019
+ 
+John R. Lacy
+Claire E. Goldberg
+(Goodsill Anderson Quinn & Stifel)
+on the briefs only
+for Counterclaim Defendant-Appellee
+Hawaii Island Housing Trust
+in CAAP-10-0000188
+ 
+46

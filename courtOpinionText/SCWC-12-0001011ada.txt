@@ -1,0 +1,1856 @@
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAI I  
+ 
+ 
+________________________________________________________________  
+ 
+________________________________________________________________  
+ 
+ 
+ 
+ 
+McKENNA, POLLACK, AND WILSON, JJ.,
+
+  
+WITH NAKAYAMA, J., DISSENTING, WITH WHOM RECKTENWALD, C.J., 
+JOINS
+  
+ 
+ 
+  
+  ***    FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER     ***  
+Electronically Filed 
+Supreme Court SCWC-12-0001011 21-JUN-2016 09:56 AM 
+---oOo---
+STATE OF HAWAI I, Respondent/Plaintiff-Appellee,
+  
+ 
+vs.
+  
+ 
+GREGORY A. KAZANAS, Petitioner/Defendant-Appellant.
+  
+SCWC-12-0001011
+  
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS
+  
+(CAAP-12-0001011; CR. NO. 11-1-1592)
+ 
+JUNE 21, 2016
+  
+OPINION OF THE COURT BY McKENNA, J.
+  
+I. Introduction 
+This month marks the fiftieth anniversary of the United 
+States Supreme Court’s landmark decision
+, Miranda v. Arizona, 
+384 U.S. 436 (1966). In that case, the Court held that “the 
+prosecution may not use statements, whether exculpatory or 
+inculpatory, stemming from custodial interrogation of [a]         
+ 
+ 
+ 
+  
+  
+  
+  
+ 
+   
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+defendant unless it demonstrates the use of procedural 
+safeguards effective to secure the privilege against self-
+incrimination.” 384 U.S. at 444.  The Court envisioned the 
+following procedural safeguard: “Prior to any questioning, the 
+person must be warned that he [or she] has a right to remain 
+silent, that any statement he [or she] does make may be used as 
+evidence against him [or her], and that he [or she] has a right 
+to the presence of an attorney, either retained or appointed. ” 
+Id.   
+The 
+Miranda 
+advisement provides “concr ete constitutional 
+guidelines for law enforcement agencies and courts to follow.” 
+384 U.S. at 442. At the time the Court announced the Miranda  
+rule, it had become increasingly alarmed by the psychologically 
+coercive nature of police interrogations. 384 U.S. at 448 
+(“[C]oercion can be mental as well as physical . . . [T]he blood 
+of the accused is not the only hallmark of an unconstitutional 
+inquisition.”) (citing Blackburn v. Alabama, 361 U.S. 199, 206 
+(1960)). 
+Although none of the petitioners in the Miranda case 
+was the victim of “overt physical coercion or patent psychological ploys,” the Court was no netheless concerned  that 
+the police officers who questioned the petitioners did not  
+“undertake to afford appropriate safeguards at the outset of the 
+interrogation to insure that the statements were truly the 
+product of free choice.” 384 U.S. at 457.  
+2
+
+         
+ 
+ 
+ 
+   
+ 
+  
+  *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+In this appeal, we decide whether an arrestee not advised 
+of his Miranda rights was “interrogated” in the constitutional 
+sense. Briefly stated, Petitioner/Defendant-Appellant Gregory 
+Kazanas (“Kazanas”) was charged with one count of Criminal 
+Property Damage in the First Degree and one count of 
+Unauthorized Entry into Motor Vehicle in the First Degree 
+(“UEMV”). The charges stemmed from events alleged to have taken 
+place on Halloween 2011. Kazanas was accused of breaking the 
+back windshield of a car then rea ching through the driver’s side 
+open window to punch the driver in the face. Kazanas was identified by the complaining witness and arrested. The Honolulu Police Department (“HPD”) police officer assigned to 
+accompany Kazanas to Queen ’s Medical Center knew the reason for 
+the arrest. In an apparent effort to make small talk and calm Kazanas down, she asked him how his Halloween went.  During the 
+conversation, Kazanas stated, “If people didn’t upset me, I 
+wouldn’t have to punch them.” The statement was adm itted at 
+trial, and Kazanas was ultimately convicted of UEMV. 
+We hold that, although the officer testified that she did 
+not intend her small talk to provoke an incriminating response, 
+she “should have known that her words were reasonably likely to 
+elicit an incriminating response from the person in custody.” 
+State v. Joseph, 109 Hawai i 482, 495, 128 P.3d 795, 808 (2006) 
+(“Interrogation involves any practice reasonably likely to 
+3
+         
+ 
+ invoke an incriminating response without regard to objective 
+evidence of the intent of the police.”).   The questioning  in 
+this case was reasonably likely to elicit an incriminating 
+response as the events of the night culminated in Kazanas’s  
+arrest for UEMV. The officer knew how Kazanas’s Halloween went. Thus, her question was  reasonably likely to elicit from Kazanas 
+details about the alleged crime. In other words, the police 
+officer subjected Kazanas, a person in custody pursuant to an 
+arrest, to interrogation; accordingly, Kazanas was entitled to 
+be advised of his 
+Miranda  rights before the small talk  
+conversation began. As Kazanas’s right against self -
+incrimination was violated, his statement should have been suppressed at trial.  
+ 
+  On certiorari, Kazanas also argues that the circuit court 
+abused its discretion in admitting prior bad act evidence that 
+Kazanas had run, jumped, and punched two  people in 2007 and  
+punched another person in the face, arms, and legs, then struck her in the face with a cane in  2006, incidents that occurred  
+before the Halloween 2011 incident. On certiorari, Kazanas no 
+longer disputes that he opened the door to the admission of the 
+evidence when he testified he was physically incapable of 
+running, jumping, and punching ever since he sustained serious 
+injuries in a nine-story fall from a hotel balcony in 2005.  
+Rather, on certiorari, Kazanas challenges the circuit court’s *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+4
+
+         
+ 
+ 
+weighing of the evidence’s probative value versus the danger of 
+prejudice under Hawai i Rules of Evidence (“HRE”) Rule 403 
+(1980). We hold that the circuit court abused its discretion  in 
+admitting evidence of the 2006 prior bad acts, as only the 2007 
+incident was necessary to counter Kazanas’s testimony, and the 
+probative value of the 2006 acts was substantially outweighed by the danger of unfair prejudice.     
+ 
+   
+  
+ 
+   
+  
+ 
+   
+ 
+ 
+                     
+   *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+In sum, the ICA erred in concluding that Kazanas’s 
+statement was not procured in violation of his Miranda rights 
+and therefore admissible
+.  The ICA also erred in concluding that 
+the circuit court properly permitted the State to introduce 
+evidence of Kazanas’s 2006 prior bad acts. Therefore, the ICA’s 
+Judgment on Appeal and the Circuit Court of the First Circuit’s1 
+(“circuit court”) Judgment of Conviction of Probation Sentence 
+are vacated, and this case is remanded for a new trial.  
+II. Background 
+A. Indictment and Pre-Trial Motions 
+On November 3, 2011, Kazanas was charged by Indictment of 
+one count of Criminal Property Damage in the First Degree, in 
+violation of Hawai i Revised Statutes (“HRS”) § 708 -820(1)(a) 
+The Honorable Rom A. Trader presided. 
+5
+ 1         
+ 
+ 
+ 
+    
+ Kazanas filed his Motion in Limine #1 seeking exclusion of 
+the following evidence:  
+ 
+ 
+ 
+ 
+ Before trial, the State filed its Notice of Intent to Use 
+Evidence of Prior Acts.   Specifically, the State sought to admit 
+evidence of (1) a 2007 assault in the third degree conviction, 
+stemming from an incident in which  Kazanas and another person 
+attacked two men from behind, then ran from police and jumped a 
+fence; and (2) a 2006 abuse of family or household member 
+conviction, stemming from an incident in which Kazanas ambushed his ex-girlfriend in her apartment; punched her on her face, 
+arms, and legs; and struck her in the face with a cane.  
+                     *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+(2014)2, and one count of Unauthorized Entry into Motor Vehicle 
+in the First Degree, in violation of HRS § 708-836.5(1) (2014).3 
+(a) Testimonial or documentary evidence relating to the 
+defendant’s prior criminal record, including any reference 
+to defendant’s conviction and being placed on probation in 
+CR. NO. 06-1- 0995; and 
+. . . . 
+ 
+(c) Statements made by the defendant to Honolulu Police 
+Officer CHRIST Y-LYNN AVILLA on November 1, 1011 [sic] at 
+approximately 0050 hours at the Queen’s Medical Center .. . 
+. 
+2   HRS § 708- 820(1)(a) provides, as it did at the time of the alleged 
+offense, “A person commits the offense of criminal property damage in the first degree if by means other than fire . . . [t]he person intentionally or 
+knowingly damages property and thereby recklessly places another person in 
+danger of death or bodily injury. . . .”  
+3   HRS § 708- 836.5(1) provides, as it did at the time of the alleged 
+offense, “A person commits the offense of unauthorized entry into motor 
+vehicle in the first degree if the person intentionally or knowingly enters or remains unlawfully in a motor vehicle, without being invited, licensed, or 
+otherwise authorized to enter or remain within the vehicle, with the intent 
+to commit a crime against a person or against prop erty rights.”  
+6
+         
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+     
+ 
+  
+  
+  
+  
+ She further testified that at the  hospital, Kazanas began 
+“making comments that were rude and other patients could hear *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+Before trial, the State also filed a Motion to Determine 
+the Voluntariness of Defend ant’s Statement to the Police. The 
+motion sought orders from the court 
+1. Finding and concluding that the statements made by 
+Defendant Gregory A. Kazanas . . . to Officer Christy -Lynn 
+Avilla . . . on November 1, 2011, were voluntarily made. 
+2. Prohibiting the defense from commenting upon or making 
+reference to the substance of Defendant’s statement to the 
+police, unless the prosecution first introduces evidence of the same. 
+The specific statements Kazanas made to Officer Avilla were, “I 
+wouldn’t have to punch people if they didn’t upset me,” and “If 
+you didn’t catch me now for this, you would’ve caught me later 
+for something else.” 
+Immediately before trial, the circuit court held a hearing 
+on the State’s motion. Officer Avilla testified as follows: 
+She transported Kazanas to Queen ’s Medical Center in the early 
+morning hours of November 1, 2011.  Kazanas was transported to the hospital because he had injuries on his right hand. Officer 
+Avilla told Kazanas “multiple times” that he was under arrest 
+for UEMV, first when she handcuffed him, next during transport, 
+and lastly at the hospital. Although she did not inform him 
+that he had the right to remain silent, she did tell him, upon 
+his arrest, “that he was not allowed to talk about the case or 
+say anything about what he had been arrested for.” 
+7
+         
+ 
+ 
+ 
+  
+ 
+   
+   
+ According to Officer Avilla, it was Kazanas who decided to 
+“spontaneously utter[], ‘If people didn’t upset me, I wouldn’t 
+have to punch them.’”   She  further testified that Kazanas’s 
+statement was not in response to any questions she asked him.   
+Although she was not sure how much time had passed between her 
+small talk questions and his statements, Officer Avilla 
+testified that his statements were made “just out of the blue, 
+that was out of context of what we were talking about,” 
+referring to the conversation about Halloween and costumes.   
+After Kazanas made his statement, Officer Avilla told him “his case was still under investigation and to stop what he was 
+saying, because it could be used against him in a court of law.”   
+Kazanas then apologized; about a minute or so later, he then *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+it. . . .”   Avilla moved Kazanas to an HPD room within the 
+hospital. Avilla and Kazanas sat about six feet away from each other, with Kazanas in handcuffs.   Although Officer Avilla did 
+not detect alcohol on Kazanas’s breath, his “demeanor made it seem that he was under the influence o f something. . . .”    
+In order to “help him calm down and get his mind off of 
+saying . . . 
+rude things,” she began asking Kazanas “questions 
+about if he enjoyed Halloween that night, what kind of costumes did he see, but nothing along the lines in reference to the 
+investigation. . . .” Officer Avilla testified she did not know 
+what his responses would be. 
+8
+         
+ 
+ 
+ 
+     
+ The circuit court granted in  part and denied in part the 
+State’s Motion to Determine Voluntariness of Defendant’s 
+Statement to the Police.   The court granted the motion in part, 
+finding that “Defendant’s statement to Officer Avilla, ‘I wouldn’t have to punch people if they didn’t upset me’ was a 
+voluntary statement and is admissible.”   The circuit court 
+excluded, however, Kazanas’s second statement to Officer Avilla 
+(“If you didn’t catch me now for this, you would have caught me 
+later for something else”); the circuit court reasoned t hat the 
+statement, while voluntary, was unfairly prejudicial to Kazanas.  
+ 
+ 
+  
+ 
+  
+      
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+stated, “If you didn’t catch me now, you would have caught me 
+for something else later.” 
+The circuit court also took up the State’s notice of intent 
+to use Kazanas’s prior bad acts, namely the 2007 assault and a 
+2006 abuse of family or household member arrests that led to 
+convictions. The circuit court precluded use of Kazanas’s prior 
+bad acts but stated that it would revisit its ruling if the defense opened the door to that evidence. 
+B.  Trial Testimony 
+1. The State’s Case in Chief 
+The State called former HPD Police Officer James Easley.  
+He testified that he saw Kazanas dressed as a knight on Halloween in Waikiki. He recognized Kazanas from his police 
+officer days. Years before (in 2005), Easley had responded to 
+9
+         
+ 
+ 
+the Aloha Surf Hotel after Kazanas had fallen from a ninth floor 
+balcony. When Easley arrived, Kazanas was still coherent.   
+Easley testified he would never forget Kazanas’s name or face 
+because the incident  had an impact upon him.   
+ 
+  
+  
+   
+ 
+  
+   
+  *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+Easley testified that he saw Kazanas, who was holding 
+something i
+n his hand, “str[ike] the back window of a white 
+sedan that was stopped there in t raffic, shattering the glass.” 
+Kazanas then “ran around to the front of the car and he jumped 
+on the hood of the car, kind of rolling on over, and then he 
+approached the driver’s side window of the vehicle and began 
+punching the driver through the . . . open window.” After the 
+incident ended, Easley contacted his police officer friends on 
+duty and identified Kazanas as the suspect. 
+The State then called complaining witness Geoffrey Ross.  
+He testified that it was about midnight on Halloween when he was 
+driving on Kuhio Avenue with friends, to see “the craziness, the 
+festivities, what people were doing.” Ross testified that a 
+group of about a dozen or two dozen people ran across the street 
+in front of the car.  They were running to observe a fist fight. 
+“Out of the blue,” Ross testified, “one more person [came] 
+charging across the street . . . and ran headlong into the right 
+front corner of the car. . . .” Ross wondered if the person was 
+injured, when the person “[a]ll of a sudden . . . bounce[d] up and continue[d] right through . . . to where the fight was.” 
+10
+         
+ 
+ 
+Ross sensed that people who had just witnessed what happened 
+thought he was “a person who had just hit a pedestrian” and 
+“converged on the car to accuse [him]” and stop him from getting 
+away.    
+ 
+  
+  
+ 
+  
+      
+ After the attack, Ross drove slowly up Kuhio Avenue towards 
+some police cars and reported the incident.   Not long after the 
+incident, Ross was taken to do a drive-by identification of the 
+suspect. He was “[a]s certain as [he] could be” that he 
+identified Kazanas as his assailant during the drive-by identification. On cross-examination, Ross testified that he 
+“didn’t believe that” the person who punched him was “the person 
+who broke the glass because [he] couldn’ t see how a person could *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+As he slowly moved his car over to the curb, a crowd of 
+people began yelling, pounding on the windows of the car, and 
+rocking the car. 
+Someone broke the back windshield, but Ross 
+could not see who it was; Ross had a passenger in the back seat at the time. Someone with heavy shoes or boots was also on the 
+hood of the car, stomping against the windshield in an attempt 
+to crack it. That person “hopped off to the left side of the 
+car” and came up to Ross’s open window. He “encircle[d Ross’s] 
+neck and h[e]ld onto it, and then -- with the one arm, and then 
+with the other . . . punch[ed] the side of [Ross’s] face with a 
+closed fist.” Ross was struck “two, three times” to the “[l ]eft 
+side cheek and ear area, jaw.” 
+11
+         
+ 
+ 
+ 
+  
+  
+  
+   
+   
+        
+ At the hospital, Kazanas “was being rude and saying things 
+that were verbally offensive to other people in the area,” so 
+Officer Avilla moved him to the HPD patient room away from other 
+patients. In order to “take his mind off of what he was 
+saying,” she engaged Kazanas in conversation.   Officer Avilla 
+“ask[ed] him how was his Halloween, did he enjoy the costumes, 
+things along that matter, but never about the in vestigation.”   
+Kazanas then stated, “If people didn’t upset me, I wouldn’t have 
+to punch them.”   Officer  Avilla testified that Kazanas made the 
+statement even though she “was not asking him anything about the 
+investigation.”   She then immediately told Kaza nas “that 
+whatever he said can be used against him in a court of law, and 
+to stop what he was saying.”  
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+break the glass and in that short of a time . . . then appear on 
+the front of the car.”  
+The State next called Officer Avilla, who had been with HPD 
+for five years at the time of trial. 
+She testified that on 
+Halloween night in 2011, she was on patrol when she was 
+instructed to stand by Kazanas on Kuhio Avenue to await a field 
+show-up identification. After a positive identification was 
+made, Kazanas was placed under arrest. Officer Avilla’s role 
+was to transport Kazanas to Queen ’s Medical Center. She noticed 
+Kazanas had cuts, scrapes, and redness on his right hand. 
+12
+         
+ 
+ 
+ 
+    
+  
+  
+ 
+    
+  
+   
+ 
+ 
+  
+  *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+2. The Defense’s Case in Chief 
+Kazanas’s defense was, not only did he not commit the 
+offenses, he was physically incapable of committing the 
+offenses. Kazanas called his friends Simon Farrington and Hans 
+Kolbisen, who were both with him on Halloween. Both testified 
+that Kazanas was not the person who broke the car windshield and 
+punched the driver. 
+Kazanas also testified in his own defense. He stated that 
+a group of friends met at his house before heading into Waikiki 
+on Halloween night. Kazanas was briefly separated from the 
+group. During the time he was separated, someone drop-kicked him to the ground. He explained that red marks on his knuckles 
+were the result of his labored attempts to “[s]tand[] up a fter 
+[he] had been kicked . . . .” 
+During this part of his testimony, Kazanas elaborated on 
+his physical condition.  According to Kazanas, his “wrist doesn’t bend back . . . [due to] a do uble compound fracture from 
+falling off the nine-story building,” and his right arm cannot 
+extend beyond 90 degrees. Due to the limitations in his wrist 
+and right arm, Kazanas was “unable to get to the upright 
+position placing both of [his] hands on the ground, so [he had] 
+to use [his] knuckles [to] push [himself] off up the ground. . . 
+.” His right leg also does not bend beyond 90 degrees. He 
+explained that the nine-story fall resulted in “four lumbar 
+13
+         
+ 
+ 
+ 
+  He resumed his testimony about Halloween night, stating 
+that after he got up from being drop-kicked, he “shuffled away” 
+because he “can’t run.”   Kazanas then returned to his group of 
+friends and witnessed the incident involving Ross.   Kazanas 
+testified that he was not the one who smashed the car’s back window. He also testified that he did not jump on the hood of 
+the car, because he would only have been able to “crawl up onto 
+the hood” because he “can’t jump.”   He elaborated, “My legs 
+restrict me to jump. I have about 37 screws and seven rods in 
+my legs from my hips to my feet; it’s like I’m wearing a pair of 
+steel-toe boots all the time.  I can barely jump an inch or two 
+off the ground.”       
+ Kazanas also denied reaching into the car  to punch Ross; he 
+testified, “I wouldn’t have been able to reach into the car 
+. . . I have limited range of motion on my arm, my right arm 
+specifically.”   Kazanas explained that he has “calcium deposits 
+in [his] elbow restricting any movement,” as we ll as calcium 
+deposits in his knee that render him barely able to “walk up a *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+vertebrae [shattering], double compound fractures on  [his] 
+wrists, double compound fractures on both of [his] thighs and 
+both of [his] shins, and broke[n] . . . arms and elbows and 
+shoulders. . . .”   Kazanas recalled that he was in a “medically -
+induced coma for three weeks [and] three weeks in recovery, in traction. . . .”    
+14
+
+         
+ 
+ 
+ 
+    
+ 
+  
+     
+ As a result of Kazanas’s testimony that he was not 
+physically capable of committing the charged offenses, the State 
+sought to revisit the issue of Kazanas’s prior bad acts.   The 
+State argued that Kazanas “opened the door” to the admission of prior bad act evidence when he argued that he was physically 
+incapable of breaking the car windshield and punching Ross 
+because of injuries he suffered from the nine-story fall.   The 
+defense counter-argued that the prior bad acts were dissimilar 
+to the acts for which Kazanas was on trial: first, Kazanas was 
+the one injured in the 2007 assault; second, the 200  6 abuse o f 
+family or household member involved Kazanas’s striking someone with a walking stick, and there was no allegation in the instant 
+case that Kazanas struck anyone with an implement.    *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+set of steps without kicking the top rung.” Kazanas 
+characterized himself as “disabled.” Kazanas stated that when 
+the incident was over, he walked away. 
+When asked why he told Officer Avilla, “I wouldn’t have to 
+punch people if they didn’t upset me,” Kazanas explained that he 
+was “under stress” and “was just speculating to the fact that 
+[the police officers] said that I was under arrest for an 
+assault.” On cross-examination, Kazanas affirmatively answered 
+the State’s question that he “couldn’t have done this attack 
+because [he] physically can’t attack a person. . . .” 
+15
+         
+ 
+ 
+ The circuit court allowed the admission of the prior bad 
+act evidence as follows:  
+ 
+  [W]hat is abundantly clear in the record thus far is 
+that Mr. Kazanas as a result of the injuries that he 
+sustained in 2005 from the fall from the ninth floor lanai 
+of I believe it’s the Aloha Surf . . . that he sustained 
+some very serious and significant injuries that rendered 
+him essentially and in his words disabled and physically 
+incapable of engaging in certain types of physical conduct or actions.  
+ And so given that, the State’s request to question 
+the defendant regarding these prior incidents is not the 
+typical situation where it’s going to some sort of 404(b) 
+type of purpose such as to establish intent, knowledge, 
+modus operandi, absence of mistake, any of those things. 
+In this particular instance, the Court believes that the 
+information  that is contained within the State’s notice, at 
+least selected and very limited portions of it, would appear to be relevant to the jury’s assessment of the defendant’s, number one, his credibility, because he’s made 
+statements here in court that he doesn’ t have certain 
+physical capabilities, yet as documented in these reports there are several references to him punching individuals, 
+to him running away, to him jumping . . . and to the extent that the fact that there is contrary evidence that would 
+bear upon the credibility of the defendant’s testimony, 
+clearly that would be relevant.  
+ Also, it would be relevant just squarely on the issue 
+of whether he has these physical capabilities or not. It’s up to the jury to decide. 
+I’m not going to decide. But 
+this evidence in that limited capacity would appear to be  
+appropriate.  
+ 
+The circuit court also noted that it was “absolutely crucial    
+. . . that a cautionary instruction would have to be given. . . 
+.”   The circuit court further warned the State that the “onl y 
+thing that [it was] going to be permitted to ask the defendant are things that related to his physical actions in those prior 
+incidents,” as related in the respective police reports, but not 
+the facts of arrest or conviction.   The circuit court also noted 
+for the record that it performed a HRE Rule 403 balancing test and “believe[d] the probative value of the proffered evidence as *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+16
+
+         
+ 
+ 
+limited by the Court outweigh[ed] any concern of any unfair or 
+substantial prejudice to the defendant.”  
+ 
+  Before the State cross-examined Kazanas on his prior bad 
+acts, the circuit court instructed the jury as follows:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+You may hear evidence relating to one or more prior 
+incidents involving the defendant. 
+This evidence is 
+admitted for a specific limited purpose and only may be 
+considered by you as bearing upon the credibility of the 
+defendant and whether the defendant may or may not have 
+certain physical capabilities. 
+You are specifically instructed that you may not 
+consider this evidence as establishing any violent or bad character of the defendant, or that it proves that he acted 
+in conformity therewith during the events underlying the 
+alleged offenses in this case. 
+You are prohibited f rom considering this evidence on 
+any other issue or for any other purpose besides what the Court has ordered. 
+The State then cross-examined Kazanas about these prior bad 
+acts, which Kazanas acknowledged happened after his 2005 fall.    
+Kazanas admitted that in 2007, he ran “as fast as [he could]” 
+down the street after two men before jumping over a  waist-high 
+picket fence. Then he and another individual punched the two 
+men in the face. Kazanas also admitted that in 2006, he struck 
+a woman in the face with his cane and punched her on the face, arms, and legs.  
+On redirect examination, Kazanas 
+testified that he used a 
+cane to get around after his nine-story fall. With regard to 
+the punching incidents, Kazanas testified that he punched with 
+his left arm because his right arm was in a cast. He also 
+17
+         
+ 
+ 
+ 
+       
+ 
+ 
+  
+ 
+  
+    
+ 
+ 
+ In a published opinion, a majority of the ICA affirmed 
+Kazanas’s Judgment of Conviction of Probation  Sentence, 
+rejecting both of Kazanas’s points of error, discussed in 
+greater detail below.   State v. Kazanas,  134 Hawai i 117, 129, 
+336 P.3d 217, 229 (2014)  .   
+ 
+    
+ As to Kazanas’s argument that his incriminating statement 
+should have been suppressed at trial, the ICA held the 
+following: *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+testified that in the 2007 incident, he and another individual 
+were punching a person who had assaulted him earlier.  
+3. Verdict 
+The jury acquitted Kazanas of Count 1 (Criminal Property 
+Damage in the First Degree) and convicted Kazanas of Count 2 
+(UEMV). The circuit court entered a Judgment of Acquittal as to 
+Count 1, and a Judgment of Conviction of Probation Sentence as 
+to Count 2. Kazanas was sentenced to five years’ probation , 
+with a special condition of 90 days’ imprisonment . Kazanas 
+timely appealed. 
+C.  ICA Appeal 
+On appeal, Kazanas raised two points of error:  
+A. The trial court erred in allowing Defendant’s statement 
+to Officer Avilla into evidence.  
+B. The trial court erred in allowing prior incidents 
+involving the Defendant into evidence.  
+1
+. Admission of Statement to Officer 
+18
+         
+ 
+ 
+ 
+  
+134 Hawai i at 119, 336 P.3d  at 219.  The ICA noted that there  
+was “no dispute that Kazanas was in custody when he made the 
+challenged statement to Officer Avilla,” thus limiting its 
+analysis to “whether Kazanas was subjected to ‘interrogation’ 
+when he made the statement.” 134 Hawai i at 126, 336 P.3d  at  
+226. 
+ The ICA observed, “The United States Supreme Court defines 
+‘interrogation’ for Miranda  purposes as referring to ‘express 
+questioning or its functional equivalent.’” Id.  (citing Rhode 
+Island v. Innis, 446 U.S. 291, 300-01 (1980)).  The ICA also  
+quoted Innis  for the proposition that “the definition of 
+interrogation can extend only to words or actions on the part of 
+police officers that they should have known  were reasonably 
+likely to elicit an incriminating response.” Id.   (citing 446 
+U.S. at 301-02) (footnote omitted; emphasis added by ICA).   
+According to the ICA, t his definition of “interrogation” was 
+adopted by the Hawai i Supreme Court in Ketchum, 97 Hawai i at 
+119, 34 P.3d at 1018, as follows: “[T]he ultimate question becomes whether the police officer should have known that his or *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+We conclude that Officer Avilla did not subject Kazanas to 
+“interrogation” for purposes of  Miranda  and that Kazanas’s 
+statement was not in response to “interrogation” by the 
+Officer. Therefore, the absence of prior Miranda  warnings 
+by Officer Avilla did not provide a basis to suppress 
+Kazanas’s spontaneous and volunteered statement. Under the 
+circumstances presented, we hold that the trial court 
+properly permitted the State to introduce Kazanas’s 
+statement at trial.  
+19
+
+         
+ 
+ 
+ 
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+her words or actions were reasonably likely to elicit an 
+incriminating response from the person in custody.” Id.  
+(brackets omitted). The ICA noted that Ketchum  held that 
+whether “interrogation” has occurred depends upon the “totality 
+of the circumstances . . . with a focus upon the officer’s 
+conduct, the nature of the question (including whether the 
+question is a ‘routine booking question’), and any other 
+relevant circumstance.” 97 Hawai i at 121, 34 P.3d at 1020.   
+Further, the ICA noted, “[V]olunteered confessions or 
+admissions, obtained independent of express police questioning 
+or its functional equivalent, are admissible.” Kazanas, 134 
+Hawaii at 126, 336 P.3d at 226 (citing  , inter alia ,  State v. 
+Ikaika, 67 Haw. 563,  566, 698 P.2d 281,  284 (1985)).   
+The ICA then examined Ikaika
+, a case in which this court 
+held that the defendant was not subjected to interrogation.  67 Haw. 563, 698 P.2d 281. In that case, Lieutenant Richard 
+Bartolome, who was acquainted with the defendant (Ikaika), asked 
+him while he was booking and fingerprinting him, “What’s 
+happening? Must be heavy stuff for two detectives to bring you 
+down here?” 67 Haw. at 565, 698 P.2d at 283. Ikaika “responded 
+that he had been picked up for questioning about [a] murder,” 
+then, “[w]ithout further comment by Bartolome,” Ikaika blurted 
+out, “Bartolome I cannot lie to you, you’ve done a lot for me 
+20
+         
+ 
+ 
+ 
+  Analogizing Ikaika  to the instant case, the ICA concluded, 
+“under the totality of the circumstances, that Kazanas’s 
+statement, ‘If people didn’t upset me, I wouldn’t have to punch 
+them,’ was volunteered, un solicited, and spontaneous, and was 
+not in response to any interrogation by Officer Avilla.” 
+Kazanas, 134 Hawai i at 127, 336 P.3d at 227. Therefore, the ICA 
+held that prior Miranda  warnings were not required. Id.   The 
+totality of the circumstances incl uded (1) Officer Avilla’s 
+warning that Kazanas was not allowed to talk about the case or 
+say anything about what he had been arrested for; (2) the “small 
+talk” nature of Officer Avilla’s questions about Halloween, akin 
+to the “pleasantry” in Ikaika; (3) the non-responsive and “out -
+of-the-blue” nature of Kazanas’s statement about punching people; (4) the period of time that had passed between Officer 
+Avilla’s small talk questions and Kazanas’s statement; and (5) 
+Kazanas’s own explanation that he made the sta tement because he 
+was “under stress” and “just speculating to the fact that [the 
+police] said that [he] was under arrest for an assault.” 134 *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+and you have been too nice to me. I shot the haole.” Id.   This 
+court held that Bartolome’s question was just a “pleasantry,” and that Ikaika’s confession “was of the nature of an 
+unsolicited, spontaneous statement made in the absence of any 
+police questioning.” 67 Haw. at 567, 698 P.2d at 285.  
+21
+
+         
+ 
+ 
+ 
+   
+ 
+ Judge Foley dissented. 134 Hawai i at 129, 336 P.3d  at 229  
+(Foley, J., dissenting). To Judge Foley, “Kazanas’ statement 
+was obtained as a result of a custodial interrogation because 
+Avilla was aware of the circumstances of Kazanas’ detention, and 
+Avilla asked an open-ended question, the subject matter of which 
+was the same as that for which Kazanas was detained.” 134 
+Hawaii at 130, 336 P.3d  at 230 (Foley, J., dissenting) (footnote  
+omitted). Unlike Lieutenant Bartolome in the Ikaika  case, 
+Officer Avilla “was familiar with [the detainee’s ] case, the two 
+were not previously acquainted, and [ the detainee’s ] statement . 
+. . was responsive to the police officer’s question.” Id.  
+(Foley, J., dissenting).   Judge Foley considered Officer 
+Avilla’s explanation that she asked about Halloween to calm 
+Kazanas down to be “nothing more than a post hoc rationalization 
+for asking the question.” Id.  (Foley, J., dissenting) (citing 
+Ketchum, 97 Hawai i at 119, 34 P.3d at 1018.    
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+Hawaii at 127-28, 336 P.3d at 227-28.  The ICA then held that 
+the circuit court did not err in permitting the State to 
+introduce Kazanas’s volunteered statement at trial. 134 Hawai i 
+at 128, 336 P.3d at 228. 
+Judge Foley then analogized Kazanas’s case to Ketchum, a 
+case in which this court held that police officers who asked a 
+detainee for his home address should have reasonably known that 
+22
+         
+ 
+ 
+ 
+  
+ 
+  
+ As to Kazanas’s second point of error, the ICA held “that 
+the trial court did not err in permitting the State to introduce 
+prior incidents involving Kazanas that were relevant to his 
+physical capabilities, after Kazanas opened the door to such 
+evidence.” 134 Hawai i at 119, 336 P.3d at 219.  Kazanas opened 
+the door by testifying that after his 2005 nine-  story fall, “he 
+was physically incapable of engaging in the conduct alleged by 
+[Ross], namely, jumping on the hood of the car and reaching into 
+the car and punching [Ross].” 134 Hawai i at 129, 336 P.3d at *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+asking the question would elicit an incriminating response, as 
+the detainee lived at a residence, which was identified in a 
+search warrant, in which drugs had just been found. Id. (Foley, 
+J., dissenting) (citing Ketchum, 97 Hawai i at 128, 34 P.3d at 
+1027). Judge Foley stated, “[S]ince Avilla knew the events of 
+Halloween night led to Kazanas’ arrest, asking how his night went invited Kazanas to describe events underlying his arrest.” 
+134 Hawai i at 131,  336 P.3d at 231 (Foley, J., dissenting).  
+Judge Foley believed the circuit court erred in admitting the 
+statement, and that the error was not harmless beyond a 
+reasonable doubt, as Kazanas’s case rested upon the credibility 
+of his witnesses versus those of the State.  
+Id.  (Foley, J., 
+dissenting).  
+2.  
+Admission of Prior Bad Acts 
+23
+         
+ 
+ 
+ 
+  
+   
+ Whether an accused’s right against self -incrimination under 
+the Hawai i constitution was protected through the use of a 
+Miranda warning is a question of constitutional law, which this 
+court reviews 
+de novo   under the right/wrong standard.  State v. 
+Jenkins, 93 Hawai i 87, 100, 997 P.2d 13, 26 (2000) (citations 
+omitted). We “exercise our own independent constitutional 
+judgment[,] based on the facts of the case[,]” to answer 
+questions of constitutional law. Id.       
+    *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+229. The ICA also concluded, “[W]e cannot say that the Circuit 
+Court abused its discretion in balancing the probative value of 
+the evidence regarding the prior incidents against the risk of 
+unfair prejudice,” further noting that the circuit court’s 
+limiting instruction “served to mitigate any unfair prejudice 
+resulting from the evidence of the prior incidents.” Id.  
+(citation omitted).  Judge Foley did not dissent to this 
+holding. 
+III. Standards of Review 
+A. Violation of Miranda Rights 
+B. HRE Rules 404(b) and 403 
+“Prior bad act” evidence under [HRE]  Rule 404(b) . . . is 
+admissible when it is 1) relevant and 2) more probative 
+than prejudicial. A trial court’s determination that 
+evidence is “relevant” within the meaning of HRE Rule 401 . . . is reviewed under the right/wrong standard of review. 
+However, a trial court’s balancing of the probative value 
+of prior bad act evidence against the prejudicial effect of 
+such evidence under HRE Rule 403 . . . is reviewed for an 
+abuse of discretion. An abuse of discretion occurs when 
+the court clearly exceeds the bounds of reason or 
+24
+         
+ 
+ 
+ 
+  
+    
+   
+ 
+ 
+  
+  
+    
+ The Fifth Amendment to the United States Constitution 
+states, in relevant part, that no person “shall be compelled in 
+any criminal case to be a witness against himself. . . .” *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+disregards rules or principles of law to the substantial 
+detriment of a party litigant.  
+State v. Behrendt, 124 Hawai ʻi 90, 102, 237 P.3d 1156, 1168 
+(2010) (brackets and ellipses in original) (citation omitted). 
+IV. 	Discussion 
+A. 	Kazanas’s Right against Self -Incrimination Was 
+Violated. 
+On certiorari, Kazanas argues, “There [were] no exigent 
+circumstances nor legitimate purpose for Officer Avilla to engage in such conversation with Petitioner Kazanas while in her custody which involved ‘Halloween’ events which were related to 
+the circumstances of his arrest.” Kazanas argues that Officer 
+Avilla, who had five years’ experience with HPD at the time of Kazanas’s arrest, “should have known that such conversation was 
+reasonably likely to elicit an incriminating response from 
+Petitioner Kazanas.” The State, in its Response, counter-argues 
+that Kazanas “seems to have omitted numerous crucial details 
+that are part of the ‘totality of the circumstances’ surrounding 
+his utterance.” The State endorses the ICA majority’s detailing 
+of the totality of the circumstances, as well as its conclusions that Officer Avilla’s questions did not constitute interrogation 
+and that Kazanas’s statement was volunteered. 
+25
+         
+ 
+ 
+Similarly, Article I, section 10 of the Hawai i Constitution  
+provides, in relevant part, that “[n]o person sha ll . . . be 
+compelled in any criminal case to be a witness against oneself.” 
+This section of the Hawai i  Constitution “provides ‘an 
+independent source’ from that of the fifth amendment to the 
+United States Constitution for the ‘protections which the Unite d 
+States Supreme Court enumerated’ in Miranda . . . .” Ketchum, 97 
+Hawaii at 116, 34 P.3d at 1015 (citing  State v. Santiago, 53 
+Haw. 254, 266, 492 P.2d 657, 664 (1971)). “[A]s a matter of state constitutional law,” id., “before the State may use 
+statements stemming from custodial interrogation, it must first 
+demonstrate the use of procedural safeguards effective to secure 
+the privilege against self-incrimination.” Ikaika, 67 Haw. at 
+566, 698 P.2d at 283-84 (citing, inter  alia, Miranda, 384 U.S. 
+at 467). 
+ 
+  A critical safeguard is the Miranda  warning: an accused 
+must be “warned that he or she had a right to remain silent, 
+that anything said could be used against him or her, that he or 
+she had a right to the presence of an attorney, and  that if he 
+or she could not afford an attorney one would be appointed for 
+him or her.” Ketchum, 97 Hawai i at 116, 34 P.3d at 1015  
+(brackets and citation omitted). The Santiago  Court held that 
+“every accused must be informed of the fact that he or she h as *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+26
+
+         
+ 
+ 
+certain rights under the Hawai i  Constitution.” Ketchum,  97 
+Hawaii at 116, 34 P.3d at 1016 (citing  Santiago, 53 Haw. at 267, 
+492 P.2d at 665) (brackets omitted). To be thus informed 
+“maintains the value of protecting the accused’s privilege to 
+freely choose whether or not to incriminate himself or herself,” 
+because “to convict a person on the basis of a statement  
+procured in violation of his or her constitutional rights is 
+intolerable.” Ketchum, 97 Hawai i at 116 -17, 34 P.3d at 1015-16 
+(citing Santiago, 53 Haw. at 267, 492 P.2d at 665) (brackets and 
+ellipsis omitted).  
+ 
+  We have held that the “ Miranda  rule” is a “constitutionally 
+prescribed rule of evidence that requires the prosecution to lay a sufficient foundation” before adducing at trial evidenc e of 
+statements made by a defendant subjected to custodial 
+interrogation. 97 Hawai i at 117, 34 P.3d at 1016 (footnote  
+omitted). If a defendant was not Mirandized before providing 
+such statements, then the statements may not be used either as 
+direct evidence or to impeach the defendant’s credibility. See  
+State v. Hoey, 77 Hawai i 17, 33, 881 P.2d 504, 520 (1994).  A  
+defendant seeking to suppress his or her  statement at trial 
+“must establish that his or her statement was the result of (1) ‘interrogation’ that occurred while he or she was (2) ‘in *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+27
+
+         
+ 
+ 
+ 
+  
+ 
+ There is no dispute that Kazanas, who was under arrest by 
+the time Officer Avilla engaged him in conversation about 
+Halloween, was “in  custody”; therefore, we examine whether 
+Officer Avilla’s Halloween questions constituted 
+“interrogation.”   
+  
+ 
+ 
+   
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+custody.’” Ketchum, 97 Hawai i at 118, 34 P.3d at 1017 
+(citations omitted). 
+As a preliminary matter, we clarify that determining 
+whether “interrogation” has taken place is not measured by the 
+“totality of the circumstances,” as Ketchum held; rather, 
+“interrogation” occurs when police know or should know that 
+their words or actions are reasonably likely to elicit an 
+incriminating response from the suspect, as Innis held. The 
+United States Supreme Court in Innis addressed the situation, 
+similar to this case, in which a defendant was in custody, and the only question was whether the police officers “interrogated” 
+him. In other words, the Court did not address the meaning of 
+“custodial interrogation” as a single integrated determinant in 
+applying Miranda; rather, the court addressed only the meaning 
+of the “interrogation” prong under Miranda
+. See  446 U.S. at 298 
+(“It is . . . uncontested that the respondent was ‘in custody’ 
+while being transported to the police station.  The issue, 
+therefore, is whether the respondent was ‘interrogated’ by the 
+police officers in violation of the respondent’s undisputed 
+28
+
+         
+ 
+ 
+ 
+   *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+right under  Miranda   to remain silent until he had consulted with  
+a lawyer.”) (footnote omitted). The Innis  Court defined “the 
+term ‘interrogation’ under Miranda” as “not only . . . express 
+questioning, but also . . . any words or actions on the part of 
+the police (other than those normally attendant to arrest and 
+custody) that the police should know are reasonably likely to 
+elicit an incriminating response from the suspect.” 446 U.S. at 
+301 (footnotes omitted). Notably, the United States Supreme 
+Court did not reference a “totality of the circumstances” 
+standard for measuring when interrogation has occurred.   
+This court first adopted the Innis definition of 
+“interrogation” in State v. Paahana,  66 Haw. 499, 666 P.2d 592 
+(1983). Paahana  discussed the distinction between the Innis  
+test for interrogation and the totality of the circumstances test as follows: 
+To be considered custodial interrogation, an officer’s 
+questions or actions must be of such a nature that would 
+“‘subjugate the individual to the will of his examiner’ and 
+thereby undermine the privilege against compulsory sel f-
+incrimination.” Rhode Island v. Innis , 446 U.S. 291, 299 
+(1980) (quoting Miranda v. Arizona , 384 U.S. 436, 457- 58 
+(1966). In determining whether the defendant’s statement 
+was made in a custodial context, the totality of circumstances must be considered, including the time, place and length of the interrogation, the nature of the 
+questions asked, the conduct of the police at the time of  
+the interrogation, and any other pertinent factors.  See  
+State v. Melemai , 64 Haw. 479, 481, 643 P.2d 541, 544 
+(1982), State v. Sugimoto, 62 Haw. 259, 265, 614 P.2d 386, 
+391 (1980), State v. Patterson, 59 Haw. 357, 361, 581 P.2d 
+752, 755 (1978). In determining whether an officer’s 
+questions constitute interrogation, the test is whether the officer should have known that his words and actions were 
+reasonably likely to elicit an incriminating response from 
+defendant. Innis, 446 U.S. at 301.  
+29         
+ 
+ 
+ 
+  
+Paahana,  66 Haw. at 502-03, 666 P.2d at 595-96 (emphasis added).  
+This court, like the Innis  Court, made no mention of a  “totality 
+of the circumstances” review of the officer’s words and actions  
+in evaluating whether “interrogation” had taken place .    
+Instead Paahana  cited Melemai,  Sugimoto , and Patterson, for the 
+proposition that  the “totality of the circumstances”  test 
+applies in determining when on-the-scene and/or investigative 
+questioning by the police develops into custodial interrogation, 
+in the sense that the defendant is deprived of his or her  
+freedom of action in any significant way. In other words, in Melemai, Sugimoto, and  Patterson, there was no dispute that the 
+defendants had been interrogated by the police; at issue in those cases was whether  the defendants were “in custody”  as a 
+result of the defendant being subjugated to the will of the 
+examining officer by the interrogation.  
+ 
+ 
+  
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+In 
+Melemai
+, a jogger was struck by a pick-up truck.  64 
+Haw. at 480, 643 P.2d at 485. Eyewitnesses gave the police the 
+truck’s license plate number, and the police visited the 
+residence of the truck’s registered owner, the defendant. Id. 
+Without Mirandizing him, the police asked the defendant if he 
+had hit anyone with his car and why. Id. In analyzing whether 
+the defendant was in custody when the police questioned him, the Melemai court stated: 
+30
+
+         
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+Since defendant was “interrogated” within the mean ing of  
+Miranda,  the determinative issue is whether defendant was 
+in custody or otherwise deprived of his freedom of action 
+in any significant way. This determination is to be made 
+by objectively appraising the totality of the 
+circumstances. These include  the place and time of the 
+interrogation, the length of the interrogation, the nature 
+of the questions asked, the conduct of the police, and all 
+other relevant circumstances.  
+ 
+64 Haw. at 481, 643 P.2d at 544 (emphasis added and citations 
+omitted). 
+Similarly, Sugimoto involved police questioning of an 
+individual who voluntarily came to the police station to speak about a crime and who was not, at that time, a suspect and was 
+not Mirandized. 62 Haw. at 265, 614 P.2d at 391. The defendant 
+later became a suspect and was charged and tried for the crime, 
+and he argued that “because the questioning took place at the 
+police station, Miranda 
+warnings should have been given to him 
+even though at the time of the interrogation he was not a suspect in the investigatio n.” 
+Id.  In other words, 
+“interrogation” standing alone was not at issue; rather, at 
+issue was whether the defendant was “in custody when he was questioned.” This court stated 
+To determine whether custodial interrogation occurred and  
+Miranda  warnings were required, we must objectively examine  
+the totality of the circumstances   at the time of the 
+questioning. Factors for our consideration include the  
+time and place of the interrogation, the length of the 
+interrogation, the questions asked, the behavior of the 
+police officer, and any other pertinent circumstances. . .  
+We hold that the fact that the questioning occurred in the 
+police station is but one factor, albeit an important once, 
+in deciding whether the defendant -appellant was in custody  
+when he was questioned.  
+ 
+Id. (emphasis added). 
+31
+
+         
+ 
+ 
+ 
+  
+ 
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+Lastly, Patterson  involved investigative questioning by the 
+police when they encountered the defendant at the scene of a 
+burglary in progress. 
+59 Haw. at 358, 581 P.2d at 366. The 
+police asked the defendant if he lived at the property and whether he had permission to be there; if he owned the car he 
+was standing next to; and whether personal property seen on the 
+front seat of the car belonged to him. Id.  After the defendant 
+answered the questions in the negative, the police arrested him upon probable cause that he committed burglary.  Id. The 
+defendant successfully moved to suppress these statements, arguing that he was not Mirandized at the time. 59 Haw. at 366, 581 P.2d at 753. This court reversed the suppression order, 
+noting 
+Where the police, prior to questioning the individual, are 
+in possession of facts sufficient to effect an arrest 
+without a warrant based upon probable cause, it is less 
+likely that the person confronted would be allowed to come and go as he pleases. The degree of this likelihood may, 
+of course, depend upon the nature and gravity of the 
+offense, as well as other circumstances. In any event, 
+whether the defendant was in custody  or otherwise deprived 
+of his freedom of action for Miranda purposes is to be 
+determined from the totality of the circumstances, 
+objectively appraised. These would include the place and 
+time of the interrogation, the length of the interrogation, the nature of the questions asked, the conduct of the 
+police, and all other relevant circumstances.  
+ 
+59 Haw. at 361, 581 P.2d at 755 (emphasis added and citations 
+omitted). In short, all of these cases utilized a “totality of 
+the circumstances” test in determining whether defendants, who 
+were plainly subjected to police questioning, were “in custody.” 
+32
+
+         
+ 
+ 
+ 
+  We recognize (as did the ICA) that this court stated in  
+Ketchum,  “[W]hether a police officer has subjected a person to  
+‘interrogation’ is determined by objectively assessing the 
+‘totality of the circumstances.’” 97 Hawai i at 119, 34 P.3d at 
+1018 (citing State v. Ah Loo, 94 Hawai i 207, 210, 10 P.3d 728, 
+731 (2000); and Ikaika , 67 Haw. at 567, 698 P.2d at 284). The 
+cases cited for the “totality of the circumstances” standard for 
+analyzing whether “interrogation” has taken p lace do not support 
+the Ketchum  court’s statement. Taking the older case, Ikaika,  
+first, we note that that case held, “As it is undisputed that the Defendant in the instant case was in[]custody at the time 
+his incriminating statements were made, our inquiry will focus 
+on whether he was subject to interrogation. The test is whether  
+the police officer should have known that his words or actions  
+were reasonably likely to elicit an incriminating response from  
+the Defendant.” 67 Haw. at 567, 698 P.2d at 284 (citing Innis, 
+446 U.S. at 301) (footnote omitted). Ikaika footnoted the  
+“totality of the circumstances” test, listing “time, place and *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+In the instant case, the situation is precisely the reverse:  
+there is no dispute that Kazanas was “in custody” because he was  
+under arrest; at issue in this case is whether he was 
+“interrogated.” Therefore, the “totality of the circumstances” 
+test does not apply to this determination.  
+33
+
+         
+ 
+ length of interrogation, the nature of the questions asked, the 
+conduct of the police at the time of the interrogation, and any 
+other pertinent factors,” but only to note that the test is used 
+for purposes of “determining whether Defendant’s statements were 
+made in 
+a custodial context ,” i.e., not for purposes of 
+determining whether a defendant was “interrogated.” 67 Haw. at 567 n.2, 698 P.2d at 284 n.2 (emphasis added). Far from 
+adopting a “totality of the circumstances” test for 
+interrogation, Ikaika  reaffirmed that “[t]he test” for 
+“interrogation” is the Innis  test. 67 Haw. at 567, 698 P.2d at 
+284 (citing Innis, 446 U.S. at 301) (footnote omitted).    
+ 
+  
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+The second case cited by Ketchum
+, Ah Loo
+, similarly does 
+not support the proposition that the “totality of the 
+circumstances” test is used in determining “interrogation.” Ah 
+Loo
+ involved facts similar to Melemai and Sugimoto
+, in that a  
+defendant was subjected to on-the-scene express questioning by 
+police. In 
+Ah Loo, the defendant was asked his age by a police 
+officer who encountered him at a scene where underage drinking 
+was suspected.  94 Hawaii at 209, 10 P.3d at 730. The police 
+officer “subjected Ah Loo to ‘express questioning;’” thus, there 
+was no doubt Ah Loo was “interrogated.” 94 Hawai i at 210, 10 
+P.3d at 731. Like Melemai and Sugimoto , and unlike the instant 
+case, therefore, “the outcome dispositive issue” in the Ah Loo 
+case was “whether Ah Loo was ‘in custody.’” Id. This court 
+34
+
+         
+ 
+ 
+ 
+  Further underscoring the fact that Ketchum  misstated the 
+test for interrogation, we note that we have used the “totality  
+of the circumstances” test only once since Ketchum’s 
+publication, see State v. Naititi  , 104 Hawai i 224, 236, 87 P.3d 
+893, 905 (2004), and mentioned it only once in passing in State 
+v. McKnight, 131 Hawai i 379, 392, 319 P.3d 298, 311 (2013). 
+Furthermore, we have continued to refer solely to the Innis  test 
+in analyzing interrogation under Miranda  without conducting or 
+even referring to a “totality of the circumstances” review. See  
+Joseph, 109 Hawai i at 495, 128 P.3d at 808; Eli, 126 Hawai i at 
+                     
+  
+   *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+held, “To determine whether ‘interrogation’ is ‘custodial,’ we 
+look to the totality of the circumstances, focusing on ‘the 
+place and time of the interrogation, the length of the 
+interrogation, the nature of the questions asked, the conduct of 
+the police, and [any] other relevant circumstances.” Id. 
+(citing, inter alia, Melemai, 64 Haw. at 481, 643 P.2d at 544;  
+Sugimoto, 62 Haw. at 265, 614 P.2d at 391; and Patterson, 59 
+Haw. at 361, 581 P.2d at 755). In short, the statement in Ketchum that “interrogation” is determined by looking at the 
+“totality of the circumstances” finds no basis in Ikaika  or Ah 
+4  Loo  or this court’s prior case law.   
+The Dissent acknowledges that it relies on only what it sees as an 
+“implicit” application of a “totality of the circumstances” interrogation 
+test in Innis and Ikaika in supporting Ketchum ’s statement.  Dissent at 5. 
+35
+ 4         
+ 
+ 
+ 
+    
+ There is no need to overrule Ketchum, however, because the 
+case properly “reaffirm[ed Innis’] principle that  
+‘interrogation’ consists of any express question –  or, absent an 
+express question, any words of conduct –  that the officer knows  
+or reasonably should know is likely to elicit an incriminating 
+response.” 97 Hawai i at 121, 34 P.3d at 1020. Ketchum  also 
+delineated the Innis  principle as “the ultimate question” in 
+evaluating whether the police have interrogated a defendant in 
+custody. 97 Hawai i at 120, 34 P.3d at 1019. We agree and 
+reaffirm that the touchstone in analyzing whether 
+“interrogation” has taken place is whether the police officer 
+“should have known that his [or her] words and actions were reasonably likely to elicit an incriminating response from the 
+defendant.” Paahana, 66 Haw. at 503, 666 P.2d at 595-96 (citing 
+Innis, 446 U.S. at 301).     Dissent at 3.  
+                     
+   
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+522, 273 P.3d at 1208. This suggests that Ketchum’s formulation 
+does not constitute “the clear state of Hawa ii law” on 
+interrogation under Miranda, contrary to the Dissent’s 
+5assertion.
+Further, the Dissent maintains that we “denounce” the totality of the 
+circumstances test in evaluating whether interrogation has occurred. Dissent 
+at 1, 8. We do not “denounce” the test; we simply clarify that the 
+appropriate test to use under a careful reading of our precedent is “whether 
+the officer should have known that his words and actions were reasonably 
+likely to elicit an incriminating response from defendant.” Paahana
+, 66 Haw. 
+at 503, 666 P.2d at 595 -96 (quoting Innis, 446 U.S. at 301) 
+36
+ 5         
+ 
+  In this case, in analyzing whether Kazanas was 
+“interrogated,” the majority of the ICA relied heavily upon 
+Ikaika, a case in which this court held that a defendant’s 
+confession that he “shot the haole” to his police lieutenant 
+acquaintance was “of the nature of an unsolicited, spontaneous 
+statement made in the absence of police questioning.”   67 Haw. 
+at 565, 698 P.2d at 283. Indeed, the court held the police 
+lieutenant’s words (“What’s happening? Must be heavy stuff for 
+two detectives to bring you down here?”) were merely a 
+“pleasantry.” 67 Haw. at 567, 69 8 P.2d at 285. Ikaika is  
+inapposite because under the facts of that case, Ikaika had not 
+been “interrogated.” As Judge Foley noted in dissent in this 
+case, unlike Bartolome  and Ikaika, Avilla and Kazanas were not 
+previously acquainted with each other. 134 Hawai i at 130, 336 
+P.3d at 230 (Foley, J., dissenting). Also unlike Bartolome, 
+Avilla knew the circumstances behind her detainee’s police 
+involvement. Id.   (Foley, J., dissenting). Therefore, when 
+Avilla asked Kazanas how his night was going, her words cannot be understood as a mere pleasantry like Bartolome’s; it was  
+reasonably likely that  her question would  have elicited 
+Kazanas’s incriminating statement. This court in Ikaika  noted 
+that Bartolome, on the other hand, “[a]t most . . . could have 
+expected that the Defendant respond to his pleasantry by 
+informing him of the reasons for the Defendant’s being booked 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+37
+
+         
+ 
+ 
+ 
+  Rather,  Kazanas’s situation is more analogous to Joseph, 
+109 Hawai i 482, 128 P.3d 795, and  State v. Eli , 126 Hawai i 510,  
+273 P.3d 1196 (2012), which both involved police speaking with 
+non-Mirandized suspects.  In Joseph, the police engaged the 
+defendant in a “pre -interview,” in which they asked him 
+questions about his involvement in a shooting without first 
+reading him his Miranda  rights; after the pre-interview, the 
+police Mirandized the defendant then audiotaped a formal 
+interview with him. 109 Hawai i at 484, 487, 128 P.3d at 797,  
+800. The defendant was then charged with murder and firearm 
+offenses, and he successfully moved to suppress his pre-interview and formal interview statements to the police. 109 
+Hawaii at 487-88, 492, 128 P.3d at 800 -01, 805.  This court 
+affirmed the circuit court, holding that “it [was] evident 
+Miranda warnings, as independently grounded in the Hawai i 
+Constitution, were required prior to the pre-interview.” 109 Hawaii at 495, 128 P.3d at 808.    
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+and the case he was involved in.” Ikaika, 67 Haw. at 567, 698  
+P.2d at 284-85. Instead, Ikaika’s full -blown confession was, in 
+those circumstances, voluntary. We agree with the dissent that 
+Ikaika does not govern this case.    
+Similarly, in Eli
+, after a defendant had turned himself in 
+for assaulting his daughter, he was arrested but not Mirandized, 
+38
+         
+ 
+ 
+then invited to give “his side of the story” to an HPD detective 
+in a pre-interview.  126 
+Hawaii at 514, 273 P.3d at 1200.  This  
+court held that “after arrest the police practice of inviting an 
+arrestee to make a statement and to give his or her ‘side of t he 
+story’ or similar entreaties in a ‘pre -interview’ before Miranda  
+warnings are given, violates the defendant’s right against self -
+incrimination, article I, section 10, and right to due process, 
+article I, section 5, of the Hawai
+i  Constitution.” 126 Hawaii  
+at 513, 273 P.3d at 1199 (footnotes omitted).  
+ 
+    
+  
+ 
+                     
+ Innis  6   The Dissent argues that Joseph  and  Eli   are distinguishable from this 
+case, inter alia, because the pre -interviews in those cases “occurred at the 
+police station in an interview setting,” and “Officer Avilla asked Kazanas 
+general questions about his Halloween while they were waiting at the hospital.”  Dissent at 16 . It is unclear why the location of the questioning 
+should make a difference in determining, under
+and 
+Paahana, “whether 
+the officer should have known that his words and actions were reasonably 
+likely to elicit an incriminating response from defendant.” Paahana, 66 Haw. 
+at 503, 666 P.2d at 595 -96 (quoting Innis, 446 U.S. at 301). The Dissent’s 
+distinction wrongly suggests that a court should more readily find that 
+“interrogation” has taken place if questioning occ urs at the police station. 
+That suggestion finds no support in Innis  or Hawai i case law. Further, such 
+a rule could encourage police officers to question suspects outside the 
+confines of the police station in order to take advantage of a relaxed 
+standard for reviewing whether interrogation has occurred based simply upon 
+where questioning has taken place.  *** FOR PUBLICATION IN WEST’S HAWAI I  REPORTS AND PACIFIC REPORTER *** 
+Eli and Joseph both involved express police questions about 
+the circumstances giving rise to offenses later charged. 
+Kazanas’s case differs only in degree.6 In determining whether 
+Kazanas was “interrogated,” we look to the test articulated in 
+Paahana (and Eli and Joseph), which was “whether the officer 
+should have known that his words and actions were reasonably 
+likely to elicit an incriminating response from defendant.” 
+39
+         
+ 
+ 
+Paahana
+ 
+  
+ The Dissent argues that the Innis  analysis cannot be 
+performed without a totality of the circumstances review. 
+Dissent at 8. There is a difference, however, between 
+considering the words and actions of the police officer  and the 
+“totality of the circumstances.”  We view a “totality of the circumstances” review as sweeping in any circumstance, without 
+limitation, for the court’s consideration. See, e.g., Ketchum , 
+97 Hawai i at 119, 34 P.3d at 1018 (listing the following 
+considerations under a “totality of  the circumstances” review:  
+“the conduct of the police, the nature of the questions asked, and any other relevant circumstance . . . .” (emphasis added).   
+The Innis  test itself, however, set limits on what courts should 
+consider in determining whether a po lice officer “should have 
+known [his or her words or actions] were reasonably likely to 
+elicit an incriminating response.” 446 U.S.at 302. Those 
+limits were as follows:  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+, 66 Haw. at 503, 666 P.2d at 595-96 (quoting Innis, 446 
+U.S. at 301); Eli, 126 Hawai i at 522, 273 P.3d at 1208; Joseph, 
+109 Hawai i at 495, 128 P.3d at 808. Under this test, we look to
+the words and actions of the police officer, not to  the totality
+of the circumstances.    
+ 
+ 
+[T]he term “interrogation” under Miranda refers not only to 
+express questioning but also to any words or actions on the 
+part of the police . . . that the police should know are 
+reasonably likely to elicit an incriminating response from 
+the suspect. The latter portion of this definition focuses 
+40
+         
+ 
+ 
+ 
+  
+ 
+  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+primarily upon the perceptions of the suspect  rather than 
+the intent of the police. This focus reflects the fact 
+that the Miranda  safeguards were designed to vest a suspect 
+in custody with an added measure of protection against coercive police practices, without regard to objective 
+proof of the underlying intent of the police.  
+ 
+446 U.S. at 301 (emphasis added). Thus, a police officer’s 
+words and actions evaluated under Innis would generally not 
+include evidence of police intent. Conducting a “totality of 
+the circumstances” review to include evidenc e of Officer 
+Avilla’s intent, like the Dissent has (Dissent at 13), goes 
+against Innis’s express holding. 
+It is true that the Innis court footnoted that police 
+intent may be relevant where, for example, “a police practice is designed to elicit an incriminating response from the accused,” 
+as it would be “unlikely that the practice will not also be one 
+which the police should have known was reasonably likely to have 
+that effect.” 446 U.S. at 301 n.7. In other words, evidence 
+that the police know that they have designed a practice reasonably meant to elicit incriminating responses should be 
+relevant in analyzing whether interrogation has taken place.  
+That is not the case here, where evidence of Officer Avilla’s 
+subjective intent (that she was trying to calm Kazanas down) was 
+used by the Dissent to excuse the reasonable consequence of her 
+conduct, which was that her conversation about Halloween 
+elicited an incriminating response from Kazanas. Dissent at 12. 
+Innis’s exception for considering police intent does not stretch 
+41
+         
+ 
+ 
+that far. See also   Joseph, 109 Hawai i at 495, 128 P.3d at 808 
+(holding that “[i]nterrogation involves any practice reasonably 
+likely to invoke an incriminating response  without regard to 
+objective evidence of the intent of the police ,” and citing 
+State v. Jenkins, 1 Haw. App. 430, 437-38, 620 P.2d 263, 269 
+(1980),  for the following statement: “That the matron may not 
+have subjectively intended  the question to yield a confession or 
+an incriminating statement is irrelevant .”) (emphasis added).  
+ 
+  
+ 
+  
+ 
+   
+  *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+In short, police intent is one of those circumstances that 
+would not be considered in reviewing a police officer’s words 
+and act
+ions. In this case, the Dissent’s conclusion that 
+Kazanas was not interrogated relies heavily upon Officer Avilla’s testimony about her subjective intent: “that the 
+questions she asked Kazanas were made in an attempt to calm 
+Kazanas down, and were nothing more than small talk that did not 
+have to do with the investigation.” Dissent at 12. The 
+Dissent’s analysis of the interrogation issue illustrates how using the improper legal test yields an incorrect result. The 
+proper test is “whether the officer shou ld have known that his 
+words and actions were reasonably likely to elicit an incriminating response from defendant.” Paahana, 66 Haw. at 
+503, 666 P.2d at 595-96 (quoting Innis , 446 U.S. at 301). 
+In this case, Officer Avilla took Kazanas alone to HPD’s 
+private room in the hospital. Although she did not expressly 
+42
+         
+ 
+ ask Kazanas about punching Ross and smashing the car’s rear 
+windshield, she did ask him how his Halloween went. As the ICA 
+dissent points out, Officer Avilla knew how Kazanas’s Halloween 
+went, as she encountered him at the tail end of his night at the  
+field show-up identification, and she was directed to transport him to Queen’s Medical Center  after his UEMV arrest, which had 
+occurred about an hour earlier. As such, from Officer Avilla’s 
+stance,  it was “reasonably likely” that Kazanas would answer the  
+question about how his Halloween went with an incriminating  
+statement about the events leading to Kazanas’s arrest. 
+Therefore, Officer Avilla “should have known that [her] words or actions were reasonably likely to elicit an incriminating 
+response’ from the person in custody.”  
+Ketchum, 97 Hawai i at  
+119, 34 P.3d at 1018 (citation omitted). In other words, 
+Officer Avilla subjected Kazanas to “interrogation,” without the 
+protection of a Miranda  advisement, thus  rendering inadmissible 
+his statement. See  Naititi, 104 Hawai i at 237, 87 P.3d at    906  
+(“[I]f a defendant’s Miranda  rights against self-incrimination 
+have been violated, then any resulting statement will be 
+inadmissible at trial as a per se   matter. . . .”)  
+ 
+  To conclude that Officer Avilla’s question did not 
+constitute “interrogation” (as the ICA majority and the Dissent 
+have done) would undermine  Kazanas’s right against self-*** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+43
+
+         
+ 
+ 
+incrimination under Article I, Section 10 of the Hawai i 
+Constitution and encourage police officers to engage suspects in  
+custody in non-Mirandized and seemingly harmless conversations 
+about “how their night was going” in the hope that the suspects 
+may make incriminating statements about the events leading up to 
+their arrest. As the United States Supreme Court has observed, the
+ Miranda  warning “may serve to make the individual more 
+acutely aware that he is faced with a phase of the adversary system --  that he is not in the presence of persons acting 
+solely in his intere st.” Miranda, 384 U.S. at 469. In this 
+case, Officer Avilla was attending an arrestee at Queen ’s 
+Medical Center; although she testified that she intended her “small talk” to calm Kazanas down, her role as a police officer 
+rendered her part of a system that was adversarial to Kazanas at 
+that moment, and engaging in conversation at that point could 
+not be “solely in his interest.” Kazanas had a right to know 
+that then, via a proper Miranda  advisement.  
+ 
+  As Kazanas’s statement was procured without a proper 
+Miranda advisement, the circuit court erred in admitting the 
+statement at trial. See Hoey , 77 Hawai i at 33, 881 P.2d at 520. 
+We cannot say that this error is harmless beyond a reasonable 
+doubt. This case turned on the credibility of the State’s 
+versus Kazanas’s witnesses. See State v. Fetelee , 117 Hawai i *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+44
+
+         
+ 
+ 
+ 
+    
+ The use of a criminal defendant’s voluntary 
+statements and admissions as evidence at trial is a 
+critical component of our criminal justice system. 
+Voluntary statements and admissions are reliable. They 
+provide key evidence necessary to solve crimes and 
+facilitate our search for the truth.  They provide 
+assurance to the public that the culprit has been brought 
+to justice and promote faith and confidence in our judicial 
+system.  
+ 
+      
+  
+   
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+53, 86, 175 P.3d 709, 742 (2008) (“In light of the [improper 
+admission of evidence] and the fact that this case turns on the 
+credibility of [the trial witnesses], we cannot say that the  
+trial court’s admission of the evidence was harmless beyond a reasonable doubt.”) There was a reasonable possibility that the 
+admission of the statement contributed to his conviction.       
+Lastly, we address the ICA majority’s incomplete statement 
+about confessions: 
+Kazanas, 134 Hawai i 
+ at 118, 336 P.3d at 218. A defendant’s 
+statements are only admissible when a defendant, subjected to 
+custodial interrogation, is first advised of his or her Miranda 
+rights, and, if so advised, nevertheless voluntarily, 
+intelligently, and knowingly waives his or her constitutional rights. A defendant in custody and subjected to interrogation 
+has a right to be advised of the consequences of foregoing his 
+or her right against self-incrimination so “that there can be 
+any assurance of real understanding and intelligent exercise of 
+the privilege.” Miranda, 384 U.S. at 469.  Then, should a 
+Mirandized defendant decide to waive his or her right against 
+45
+         
+ 
+ 
+ 
+                      
+   
+ 
+  
+  
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+self-incrimination, the State must show that the waiver was  made  
+“voluntarily, knowingly, and intelligently.” State v. Amorin , 61 
+Haw. 356, 358, 604 P.2d 45, 47 (1979). A court reviewing such 
+a waiver must “examine the entire record and make an independent 
+determination of the ultimate issue of voluntariness based on 
+the totality of circumstances.” McKnight , 131 Hawai i at 393, 
+319 P.3d at 312 (citations omitted).  Thus,   the use of a 
+defendant’s statements at trial often requires a rigorous review 
+ beyond a simple determination of “voluntariness.”7    Therefore,  
+8    the ICA majority’s statement is incomplete.
+7 In Eli, we explained the difference between the Miranda inquiry and the 
+voluntariness inquiry as follows: 
+It must be emphasized that the  Miranda   requirement, based 
+on article 1, section 10 of the Hawai i Constitution, 
+requires warnings to be given prior to questioning in a 
+custodial setting, while constitutional due process, based 
+on article 1, section 5 of the Hawai i Constitution, 
+requires a statem ent to be “voluntary” in order to be 
+admissible. “Put differently, if a defendant’s Miranda  
+rights against self -incrimination have been violated, then 
+any resulting statement will be inadmissible at trial as a 
+per se matter, obviating the need for any [voluntary] due process inquiry into whether the defendant’s confession has 
+been coerced[.]” “Correlatively, having been properly 
+Mirandized, if a defendant who is subjected to custodial 
+interrogation makes a statement, then, depending on the 
+circumstances, an inquiry into whether the defendant’s 
+right to due process of law has been violated via coercion, 
+may be warranted.”  
+Eli
+, 126 Hawai i at 520 n.17, 273 P.3d at 1206 n.17 (citations omitted). 
+8 The Dissent defends the ICA majority’s view that Kazanas’s statement 
+was voluntary, asserting 
+This case does not involve long periods of isolation  or 
+interrogation, an atmosphere of intimidation, or purposeful subjugation of  the defendant to the will of the police 
+officer. Furthermore, this case does not involve the 
+“dangers of false confessions” that accompany an 
+intimidating interrogation atmosphere. If anything, the 
+majority’s holding in this case undermines the truth 
+(continued. . .) 
+46
+         
+ 
+ 
+ 
+       
+    
+ 
+ 
+ 
+  “[W]hen evidence of other crimes, wrongs, and acts [under 
+HRE Rule 404(b)] is offered by the prosecution, the problem for 
+                                                                  
+ 
+ 
+ 
+   
+ 
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+B. 	The Circuit Court Abused Its Discretion in 
+Applying Rule 403.
+ 
+Kazanas argues on certiorari that “allowing references to 
+the prior aggressive conduct [i.e., punching and striking other 
+persons on separate occasions] was definitely prejudicial and 
+outweighed the probative value relating to Petitioner Kazan as’s 
+phsycial [sic] capabilities.” In other words, Kazanas 
+challenges the circuit court’s weighing of probative value versus prejudicial effect of the evidence under HRE Rule 403. 
+(continued. . .) 
+seeking function of the judicial system by suppressing 
+statements  that were made without the influence of an  
+interrogation atmosphere.  See State v. Flores , 131 Hawai i 
+43, 56, 314 P.3d 120, 133 (2013) ( “Our courts are . . . 
+forums for the discovery of truth .”); see  also Miranda, 384 
+U.S.  at 478 ( “Any statement given freely and voluntarily 
+without any compelling influences is, of course, admissible 
+in evidence.”)  
+Dissent at 18
+-19.  First, the constitutional test does not require 
+proof of an intimidating interrogation atmosphere. The relevant 
+inquiry is whether Kazanas was subjected to interrogation. 
+Second, the Flores case cited by the Dissent does not stand for 
+the proposition that suppressing statements hinders the truth -seeking 
+function of trial. Rather, Flores held that a jury should be 
+instructed of the option of convicting a defendant of a lesser included offense in order to ascertain the truth and render an accurate verdict. 
+131 Hawai i at 56, 314 P.3d at 133. 
+Lastly, we respectfully believe the Dissent takes the Miranda 
+proposition about voluntary statements out of context. 
+The Miranda 
+quotation goes on to state, “There is no requirement that police stop a 
+person who enters a police station and states that he wishes to confess 
+a crime, or a person who calls the police to offer a confession or any 
+other statement he desires to make.” 384 U.S. at 478. The United 
+States Supreme Court sought to reassure law enforcement that its 
+decision would not render all voluntary confessions inadmissible in evidence. Kazanas’s case does n ot involve a voluntary unburdening of 
+the offenses committed on Halloween. Rather, his statements were made 
+in response to Officer Avilla’s interrogation. 
+47
+         
+ 
+ 
+the trial court is one ‘of classifying and then balancing[, if 
+necessary]. . . the prejudicial impact of the evidence [with] 
+its probative worth.’” State v. Castro , 69 Haw. 633, 644, 756 
+P.2d 1033, 1041 (1988) (first set of brackets in original; second set of brackets added). 
+The factors the trial court 
+balances are:  
+ 
+  
+ 
+ 
+ In its Response, the State argues that the balance of 
+Castro factors tipped in favor of admitting the prior bad act 
+evidence: 
+ The strength of the evidence regarding the prior 
+incidents was relatively substantial inasmuch as [Kazanas] 
+admitted to running jumping, and punching other people. 
+The similari ties between [Kazanas’s] conduct at issue in 
+the prior incidents and the conduct in which he engaged 
+while committing the unauthorized entry into the CW’s car 
+were readily apparent. The period of time between the 
+prior incidents and the crime the  jury convicted [Kazanas] 
+of committing in the instant case also mitigated in favor 
+of allowing the deputy prosecutor to question him about the 
+prior incidents. The instant crime occurred after 
+[Kazanas’s] fall in 2005 while he was allegedly still 
+suffering from the debilitating effects of the fall.  The 
+record also reveals that the deputy prosecutor demonstrated a legitimate and compelling need for the evidence regarding 
+the prior incidents, inasmuch as the evidence would refute 
+[Kazanas’s] claim that he “couldn’t  have done this attack 
+because [he] physically [could not] attack a person[.]”  
+ Moreover, the record does not reveal and [Kazanas] 
+does not contend  that the deputy prosecutor had more 
+effective alternate proof to refute his claim regarding the 
+allegedly lasting and debilitating effects of his fall. 
+Significantly, there is no reason to conclude the evidence 
+regarding the prior incidents “probably rouse[d] the jury 
+to overmastering hostility,” inasmuch as the deputy *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+the strength of the evidence as to the commission of the other crime, the similarities between the crimes, the 
+interval of time that has el apsed between the crimes, the 
+need for the evidence, the efficacy of alternative proof, 
+and the degree to which the evidence probably will rouse 
+the jury to overmastering hostility. 
+Id. (citation omitted). 
+48
+         
+ 
+ 
+ 
+    
+ 
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+prosecutor generally limited the questions to that which 
+was reasonably necessary to establish [Kazanas’s] physical 
+abilities.  
+ 
+Further, the State argues that the jury was given a limiting 
+instruction on the use of the prior bad act evidence 
+(immediately before the prosecutor’s questioning of Kazan as 
+about the prior bad acts, as well as at the end of trial), which the jury was presumed to have followed, and which dispelled any 
+potential for unfair prejudice to Kazanas due to the admission 
+of the evidence. The State argues, “[T]he ICA concluded 
+correctly that ‘we cannot say that the Circuit Court abused its discretion in balancing the probative value of the evidence 
+regarding the prior incidents against the risk of unfair 
+prejudice, in allowing the State to introduce evidence of the 
+prior incidents.” 
+In this case, it is clear that evidence of the 2007 assault 
+was properly admitted under Rule 403 for all the reasons 
+expounded by the State above. The 2007 assault incident 
+involved witness statements that Kazanas and another individual 
+ran up to two men, punched them in the face, then ran from police, physical acts Kazanas testified he was incapable of 
+performing after the 2005 accident. Kazanas even jumped a fence 
+in the 2007 incident an attempt to elude the police. 
+Upon the admission of the evidence of the 2007 assault, 
+however, evidence of the 2006 abuse of family or household 
+49
+         
+ 
+ 
+member incident was  an abuse of discretion.   Preliminarily, it 
+should be noted that the 2006 abuse incident involved two sets 
+of prior bad acts occurring contemporaneously: first, the 
+complaining witness stated that Kazanas punched her on the face, 
+arms, and legs; second, the complaining witness and another 
+witness stated that Kazanas struck the complaining witness on 
+the face with his cane.   It is true that the evidence of the 
+2006 abuse bad acts was strong (based on similar evidence as the 2007 assault incident, namely police  reports and witness 
+statements). Kazanas’s act of striking the complaining witness in the face with a cane, however, was not similar to the physical acts of punching, running, and jumping that he was 
+accused of in the instant case, and that he denied the physical 
+ability to perform after the 2005 accident. Therefore, the 
+evidence was not needed. Alternative evidence of  the 2007 
+assault incident, which the State was allowed to present, was more efficacious on the issue of Kazanas’s physical ability to 
+punch, run, and jump. Moreover, the fact that Kazanas struck a woman in the face with his cane carried with it the potential to 
+rouse the jury to overmastering  hostility against Kazanas.  The 
+circuit court, in short, abused its discretion in weighing the probative value versus potential prejudicial effect of the 2006 
+cane strike bad act evidence.  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+50
+
+         
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+    
+   
+ 
+   
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+As to the punches to the complaining witness’s face, arms, 
+and legs in the 2006 abuse incident, while that evidence might 
+have been similar to the punch in the instant case, it was also 
+not needed, as the State already had been allowed to present 
+efficacious, alternative proof of the same physical capabilities 
+(i.e., evidence of the 2007 assault). And again, evidence that 
+Kazanas punched a woman in the face, arms, and legs could have 
+potentially roused the jury to overmastering hostility against 
+Kazanas. Therefore, the circuit court abused its discretion in 
+weighing the probative value versus potential prejudicial effect 
+of the 2006 punching bad act evidence. 
+Consequently, the ICA erred when it held that it could not 
+conclude that the circuit court abused its discretion in 
+performing the HRE Rule 403 balancing test.  We cannot say that 
+this error is harmless beyond a reasonable doubt. This case 
+turned on the credibility of the State’s versus Kazanas’s 
+witnesses. See Fetelee , 117 Hawai i at 86, 175 P.3d at 742.  
+There was a reasonable possibility that the admission of the 
+2006 bad act evidence contributed to his conviction. 
+V. Conclusion 
+Kazanas was subjected to interrogation when Officer Avilla 
+asked him about his Halloween. Article I, Section 10 of the 
+Hawaii Constitution therefore required Officer Avilla to have 
+51
+         
+ 
+ advised Kazanas of his 
+Miranda  rights prior to engaging him in 
+the conversation. Further, as his right against self-
+incrimination was not safeguarded during the conversation with 
+Officer Avilla, Kaz anas’s statement should have been suppressed. 
+Therefore, the ICA majority erred in holding that Kazanas’s statement was voluntary and therefore admissible at trial. With 
+respect to the 2006 incident, the ICA also erred in concluding   
+that it could not be said that the circuit court abused its discretion in performing its HRE Rule 403 balancing in admitting 
+evidence of Kazanas’ prior bad acts. The ICA’s Judgment on 
+Appeal and the circuit   court’s  Judgment of Conviction of 
+Probation Sentence are vacated, and this case is remanded for   
+further proceedings consistent with this opinion.   
+ 
+  
+       
+        
+        
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+/s/ Sabrina S. McKenna 
+/s/ Richard W. Pollack 
+/s/ Michael D. Wilson 
+52
+ 

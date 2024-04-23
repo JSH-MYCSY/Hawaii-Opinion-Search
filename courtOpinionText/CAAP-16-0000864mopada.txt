@@ -1,0 +1,499 @@
+NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+NO. CAAP-16-0000864 
+IN THE INTERMEDIATE COURT OF APPEALS
+OF THE STATE OF HAWAI# I  
+MARIA M. FREDRICKSEN, Plaintiff-Appellant, v.
+KALE C. DYAS, Defendant-Appellee,
+and 
+JOHN DOES 1-10; JANE DOES 1-10; DOE PARTNERSHIPS 1-10;
+DOE CORPORATIONS 1-10; DOE "NON-PROFIT" CORPORATIONS 1-10;
+and DOE GOVERNMENTAL ENTITIES 1-10, Defendants 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT 
+(CIVIL NO. 14-1-1686-08) 
+MEMORANDUM OPINION 
+(By: Leonard, Presiding Judge, and Wadsworth and Nakasone, JJ.) 
+This appeal arises out of a personal injury lawsuit 
+brought by Plaintiff-Appellant Maria M. Fredricksen (Fredricksen) 
+against Defendant-Appellee Kale C. Dyas (Dyas). Fredricksen 
+appeals from the November 15, 2016 Final Judgment, entered by the 
+Circuit Court of the First Circuit (circuit court),1/ pursuant to 
+a jury verdict in favor of Dyas and against Fredricksen. 
+On appeal, Fredricksen contends that the circuit court 
+erred in: (1) failing to instruct the jury on Hawaii Revised Statutes (HRS) § 291C-32(a)(1)(A) (2007),
+2/ after taking judicial 
+1/    The Honorable Jeanette H. Castagnetti presided. 
+2/   HRS § 291C-32(a)(1)(A) states: 
+Vehicular traffic facing a circular green signal may proceed
+straight through or turn right or left unless a sign at theplace prohibits either such turn. But vehicular traffic,including vehicles turning right or left, shall yield theright-of-way to other vehicles and to pedestrians lawfully
+(continued...) 2NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+notice of the statute; (2) denying Fredricksen's motions for a 
+mistrial and a new trial; (3) refusing to give several of Fredricksen's proposed jury instructions and requested standard jury instructions; (4) granting Dyas's motion for judgment as a matter of law on Fredricksen's claim for punitive damages;
+3/ and 
+(5) awarding Dyas costs pursuant to Hawai# i Rules of Civil 
+Procedure (HRCP) Rule 68. 
+We affirm the Final Judgment for the reasons set forth 
+below. 
+I. Background 
+On June 24, 2012, Fredricksen and Dyas were involved in 
+a motor vehicle collision at the intersection of Waialae and 6th Avenues (
+the Intersection) in Honolulu. On August 5, 2014, 
+Fredricksen filed a complaint against Dyas arising out of the collision, alleging claims for negligence, negligent infliction of emotional distress, and punitive damages. 
+A jury trial commenced on July 25, 2016. 
+At trial, 
+Fredricksen testified as follows. On June 24, 2012, she was traveling ewa (westbound) toward town on Waialae Avenue. She saw one car coming toward her (eastbound) in the center oncoming lane. The closer she got to that car, the less she was able to see "directly behind [it]," but she was still able to see "farther back." As Fredricksen approached the Intersection, the light was green. Intending to turn left onto 6th Avenue, Fredricksen put on her left blinker, slowed down and came to a complete stop at the Intersection. When she stopped, "at least [her front] bumper was into [the crosswalk;]" the front of her car was not behind the stop line. The car that had been coming toward her also came to a complete stop at the Intersection, facing Fredricksen, with its left blinker on. Fredricksen 
+/ (...continued)
+within the intersection or an adjacent crosswalk at the time
+such signal is exhibited. 
+3/   "[A] claim for punitive damages is not an independent tort, but is
+purely incidental to a separate cause of action." Ross v. Stouffer Hotel Co. (Hawai #i
+ ), 76 Hawai #i 454, 466, 879 P.2d 1037, 1049 (1994) (citing Kang v.
+Harrington, 59 Haw. 652, 660, 587 P.2d 295, 291 (1978)). 
+2 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+acknowledged that the car facing her "truncated [her] view. It 
+didn't appear to block the lane but there was only so much of it that [she] could see. . . . [I]t blocked the vision past town side . . . past the rear end." Fredricksen also acknowledged that she "had an obligation as a left-turning vehicle at an intersection to maintain a look out to make sure that a vehicle was not approaching from the opposite direction close enough to constitute a hazard[.]" She did not see any vehicle approaching either in the curb lane or from behind the car that was stopped in front of her. Once that car began to make its left turn, Fredricksen also started her turn onto 6th Avenue. She looked to see if there was any traffic coming toward her in the curb lane, she saw none, and she made her left turn "in an arc." She did not see Dyas's vehicle prior to the collision. Fredricksen's vehicle was in the Intersection at the time of the collision. 
+Dyas testified at trial as follows. On the day of the 
+collision, Dyas took a left turn out of a McDonald's parking lot onto Waialae Avenue, heading east. He crossed Waialae to the center lane, immediately signaled to make a lane change, and slowly proceeded into the right, eastbound lane. Dyas estimated his speed at the time to be around 25-30 miles per hour, where the posted speed limit was 25 miles per hour. As Dyas approached the Intersection, he observed a green light and a stopped car with a left-turn signal on, ahead of him in the left, eastbound lane. At some distance from the Intersection, Dyas took his foot off the gas pedal and lightly placed the ball of his foot on the brake pedal. Dyas acknowledged that he knew it was possible there may have been another car on the other side of the stopped car making a left turn from the opposite direction. When Dyas entered the Intersection, he collided with Fredricksen's car, which was "diagonally coming right at [him]" from his left. 
+At the close of Fredricksen's case on August 2, 2016, 
+it appears that Dyas orally moved for judgment as a matter of law on the issue of punitive damages.
+4/ Following a weekend break in 
+the trial, the circuit court orally granted the motion on 
+4/   The transcript of Dyas's oral motion and any related argument is
+not part of the record on appeal. 
+3   
+  NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+August 5, 2016. 
+Both parties called their own accident reconstruction 
+experts to testify as to their analyses of the collision. A 
+significant point of contention arose from the testimony of Robert Anderson (Anderson), Dyas's accident reconstruction 
+expert. During direct examination on August 5, 2016, and as 
+further set out below, Anderson testified as to when a left-turning vehicle at an intersection must yield the right of way to oncoming traffic. 
+On August 6, 2016, Fredricksen orally moved for a 
+mistrial, arguing that Anderson's testimony constituted an improper legal conclusion and a violation of the circuit court's motion-in-limine (MIL) rulings barring expert testimony on 
+opinions that were not previously disclosed.
+5/ On August 8, 2016, 
+the circuit court denied the motion for mistrial, but ruled that 
+Anderson's testimony was improper, ordered it stricken, and gave the jury a curative instruction. 
+On August 6, 2016, the circuit court also settled jury 
+instructions with the parties. During the conference, a significant point of contention arose as to whether the jury should be instructed on the language of HRS § 291C-32(a)(1)(A). After hearing argument from both parties, the circuit court took judicial notice of the statute,
+6/ but refused Fredricksen's 
+5/ Fredricksen's MIL 12 sought to "limit the testimony of [Dyas's]
+experts to their reports and oral deposition testimony to the extent that the
+testimony supplements their reports." The circuit court granted Fredricksen'sMIL 12. 
+Dyas's MIL 3 sought to preclude Fredricksen's experts from
+providing opinions that were not already previously disclosed in their expertreports and/or within their deposition testimony. The circuit court grantedDyas's MIL 3. 
+6/ The circuit court took judicial notice of HRS § 291C-32(a)(1)(A)
+in the following exchange with Fredricksen's counsel: 
+THE COURT: . . . Your question is whether or not [HRS
+§ 291C-32(a)(1)(A)] can specifically be referenced? 
+[FREDRICKSEN'S COUNSEL]: That's one. 
+THE COURT: Okay. 
+[FREDRICKSEN'S COUNSEL]: And the other is is the Court
+going to take judicial notice of the statute for the record?
+(continued...) 
+4 6/ (...continued)NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+  proposed jury instruction 10, which substantially restated the 
+language of the statute.7/ Instead, the circuit court allowed 
+Fredricksen's proposed jury instruction 6, as modified by the court, concluding that it was for the jury to decide who was obligated to yield the right of way under the facts and circumstances of the case. As given to the jury, the relevant portion of this instruction stated: "The driver of a vehicle approaching an intersection must yield the right-of-way to a vehicle that has lawfully entered the intersection and must exercise reasonable care to avoid a collision with another vehicle lawfully in the intersection." 
+On August 9, 2016, the jury returned a verdict in favor 
+of Dyas. In response to Question No. 1 on the special verdict form – "By a preponderance of evidence, was [Dyas] negligent?" – the jury answered "No." 
+On August 22, 2016, Fredricksen filed a motion for 
+mistrial, judgment as a matter of law as to liability and a new trial on damages, or new trial. Fredricksen argued that Anderson's challenged testimony constituted an improper opinion on an ultimate issue and a violation of the circuit court's MIL rulings. Dyas opposed the motion, and a hearing was held on October 7, 2016. The circuit court denied Fredricksen's motion and entered the corresponding order on November 1, 2016. 
+THE COURT: Well, I can take judicial notice of the law
+–- of the statute because it's -- it's on the books. 
+It's 
+the law. 
+[FREDRICKSEN'S COUNSEL]: Okay. 
+THE COURT: So the request for judicial notice is
+granted. 
+7/ Fredricksen's proposed jury instruction 10 provided: 
+Vehicles that face a circular green traffic signal may
+proceed straight through the intersection or turn right or
+left unless a sign at the intersection prohibits eitherturn. 
+During the time that the green traffic signal is on,
+all vehicle traffic, including vehicles turning right orleft, must yield the right-of-way to other vehicles that arewithin the intersection and to pedestrians who are in theintersection crosswalk. 
+5   NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+On August 26, 2016, Dyas filed a motion for costs. 
+Fredricksen opposed the motion, and a hearing was held on 
+October 7, 2016. The circuit court granted in part and denied in part Dyas's motion for costs, awarding him $35,398.27 pursuant to HRCP Rule 54(d), and $49,101.15 pursuant to HRCP Rule 68, for a total of $84,499.42.
+8/ 
+On November 15, 2016, the circuit court entered its 
+Final Judgment in favor of Dyas. This appeal followed. 
+II. Discussion 
+A. Jury Instruction on HRS § 291C-32(a)(1)(A) 
+Fredricksen argues that the circuit court, having taken 
+judicial notice of HRS § 291C-32(a)(1)(A), failed to "clearly and fully inform the jury of [the court's] finding" and should have incorporated the language of this section into a jury instruction, as the law applicable to the facts of the case. Specifically, Fredricksen argues that the circuit court erred in: (1) refusing Fredricksen's proposed jury instruction 10, which incorporated the "operative language" of HRS § 291C-32(a)(1)(A); (2) refusing to allow Fredricksen's counsel to present the language of the statute to the jury in closing arguments; and (3) failing to fully include the language of the statute in a curative instruction to disregard Anderson's testimony about the law pertaining to left-turning vehicles. 
+Fredricksen relies in part on Hawaii Rules of Evidence 
+(HRE) Rule 201(g) (2016), which states in relevant part that 
+"[i]n a civil proceeding, the court shall instruct the jury to 
+accept as conclusive any fact judicially noticed." Fredricksen argues that, as the trial court must instruct the jury on the court's judicial notice of an adjudicative fact, so, too, must the court instruct the jury to accept as conclusive any law judicially noticed. 
+As Fredricksen acknowledges, however, HRE Rule 201 
+"governs only judicial notice of adjudicative facts," HRE Rule 
+8/ On appeal, Fredricksen does not challenge the costs awarded under
+HRCP Rule 54(d). 
+6   NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+201(a), meaning "those [facts] relevant to the issues before the 
+court. . . ." HRE Rule 201 cmt. HRE Rule 202 (2016),  which 
+governs judicial notice of law, contains no similar provision limiting the taking of such notice or requiring the trial court to instruct the jury to accept as conclusive any law judicially noticed. That said, the Hawai# i Supreme Court has stated: 9/
+It is axiomatic that a court must "know" the law within its 
+jurisdiction; hence a court is required to "notice"applicable law and to instruct the jury thereon, and thelitigants are not permitted to attempt to persuade the jurythat the law is other than the court finds it to be. 
+State v. West, 95 Hawai# i 22, 26-27, 18 P.3d 884, 888-89 (2001) 
+(emphasis added) (quoting Jones on Evidence § 2:2 (7th ed. 
+1992)). Thus, while a trial court is not required to instruct the jury on any and all law judicially noticed, it must instruct the jury on "applicable law" judicially noticed. 
+Here, the circuit court judicially noticed HRS 
+§ 291C-32(a)(1)(A), which provides in relevant part that "[v]ehicular traffic facing a circular green light may proceed straight through or turn right or left[,]" but "shall yield the 
+9/ HRE Rule 202 states: 
+(a) Scope of rule. This rule governs only judicial
+notice of law. 
+(b) Mandatory judicial notice of law. The court shall
+take judicial notice of (1) the common law, (2) the
+constitutions and statutes of the United States and of everystate, territory, and other jurisdiction of the UnitedStates, (3) all rules adopted by the United States SupremeCourt or by the Hawaii Supreme Court, and (4) all dulyenacted ordinances of cities or counties of this State. 
+(c) Optional judicial notice of law. Upon reasonable
+notice to adverse parties, a party may request that thecourt take, and the court may take, judicial notice of (1)all duly adopted federal and state rules of court, (2) allduly published regulations of federal and state agencies,(3) all duly enacted ordinances of municipalities or othergovernmental subdivisions of other states, (4) any matter oflaw which would fall within the scope of this subsection orsubsection (b) of this rule but for the fact that it hasbeen replaced, superseded, or otherwise rendered no longerin force, and (5) the laws of foreign countries,international law, and maritime law. 
+(d) Determination by court. All determinations of law
+made pursuant to this rule shall be made by the court andnot by the jury, and the court may consider any relevantmaterial or source, including testimony, whether or notsubmitted by a party or admissible under these rules. 
+7 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+right-of-way to other vehicles . . . lawfully within the 
+intersection . . . at the time such signal is exhibited." Notably, the circuit court did not conclude that this statute applied to the circumstances of this case, but, rather, took notice of the statute "because it's . . . on the books. It's the law." See HRE Rule 202(b)(2) (the court must take judicial 
+notice of the statutes of every state). Nevertheless, both parties testified that they each faced a green light as they approached the Intersection. On that basis, HRS § 291C-32(a)(1)(A) would appear to apply, at least in relevant part, to the evidence presented at trial. 
+Dyas argues that the circuit court's failure to 
+instruct the jury on HRS § 291C-32(a)(1)(A) was not error because the court correctly instructed the jury on the more specific and controlling statute, HRS § 291C-62 (2007). HRS § 291C-62 provides: 
+The driver of a vehicle intending to turn within an
+intersection or into an alley, private road, or driveway
+shall yield the right-of-way to any vehicle, bicycle, orperson approaching from the opposite direction or proceedingin the same direction when such vehicle, bicycle, or personis within the intersection or so close thereto as to constitute an immediate hazard. 
+Both parties agreed below that HRS § 291C-62 applied to
+the circumstances here – a conclusion we also reach – as the 
+record shows the collision occurred while Fredricksen was making a turn within the Intersection. We cannot conclude, however, that in these circumstances, HRS § 291C-62 necessarily "controls over" HRS § 291C-32(a)(1)(A).  
+Where statutes on the same subject matter appear to 
+conflict, we apply the following rules of construction: 
+First, legislative enactments are presumptively valid
+and "should be interpreted in such a manner as to givethem effect." Second, "laws in pari materia, or uponthe same subject matter, shall be construed withreference to each other. What is clear in one statute may be called in aid to explain what is doubtful inanother." HRS § 1-16 (1985). Third, "where there is a'plainly irreconcilable' conflict between a generaland a specific statute concerning the same subjectmatter, the specific will be favored. However, wherethe statutes simply overlap in their application,effect will be given to both if possible, as repeal by
+implication is disfavored.
+" 
+Richardson v. City & County of Honolulu, 76 Haw. 46, 54-55, 868 
+8 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+P.2d 1193, 1201-02 (1994) (some internal citations omitted). 
+As relevant here, we conclude that HRS 
+§ 291C-32(a)(1)(A) and HRS § 291C-62 overlap in their application 
+and both can be given effect; they do not create a plainly irreconcilable conflict. We read these two statutes together and apply them to the present circumstances as follows: a vehicle facing a green light may enter the intersection and turn left, but must yield the right-of-way to a vehicle approaching from the opposite direction when that vehicle is "so close [to the intersection] as to constitute an immediate hazard." HRS § 291C-62; see HRS § 291C-32(a)(1)(A). Conversely, the driver of the approaching vehicle, facing a green light, and not so close to the intersection as to constitute an immediate hazard, must yield the right-of-way to the left-turning vehicle lawfully with the intersection. 
+Because these two statutes are reconcilable and can 
+both be given effect, the applicable principles stated in both statutes should have been - and in fact were (see infra) – submitted to the jury, for a determination as to which party should have yielded the right-of-way, based on the evidence presented at trial. See Vincent v. Clouse, No. CAAP-13-0005130, 
+2014 WL 6488871, at *9 (Haw. App. Nov. 19, 2014) (Mem. Op.) ("The issue of whether [the plaintiff] should have yielded the right of way to [the defendant] should be submitted to a trier of fact." (citing State v. Arena, 46 Haw. 315, 330, 379 P.2d 594, 603 (1963) ("On the evidence, the question of whether or not the proximity of the oncoming traffic required [the decedent driver] to yield the right of way was clearly open for the jury's determination."), overruled on other grounds by Samson v. Nahulu, 136 Hawai# i 415, 363 P.3d 263 (2015))). 
+"The standard of review for a trial court's issuance or 
+refusal of a jury instruction is whether, when read and considered as a whole, the instructions given are prejudicially insufficient, erroneous, inconsistent, or misleading." Moyle v. 
+Y & Y Hyup Shin, Corp., 118 Hawai# i 385, 391, 191 P.3d 1062, 1068 
+(2008) (quoting Stanford Carr Dev. Corp. v. Unity House, Inc., 111 Hawai# i 286, 297, 141 P.3d 459, 470 (2006)). Where a jury 
+9 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+instruction is a correct statement of the law, is applicable to 
+the issues presented, and is not covered by other instructions, a trial court is required to submit it to the jury. Medeiros v. 
+Choy, 142 Hawai# i 233, 247, 418 P.3d 574, 588 (2018) (citing Gibo 
+v. City & Cty. of Honolulu, 51 Haw. 299, 304, 459 P.2d 198, 201 (1969)). 
+Here, the circuit court submitted to the jury 
+Fredricksen's proposed jury instruction 11, as modified by the court. As given, this instruction correctly stated the law – indeed, it quoted the language of HRS § 291C-62 verbatim – and was applicable to the evidence presented at trial. 
+The circuit court also gave the jury the following 
+instruction, based in part on Fredricksen's proposed jury instruction 6: "The driver of a vehicle approaching an intersection must yield the right-of-way to a vehicle that has lawfully entered the intersection and must exercise reasonable care to avoid a collision with another vehicle lawfully in the intersection." This instruction correctly stated the law as it applied to the evidence presented at trial, and adequately covered the applicable principle stated in HRS § 291C-32(a)(1)(A). See State v. Stuart, 51 Haw. 656, 660-61, 
+466 P.2d 444, 447 (1970) ("[W]here a given proposition of law is requested to be given in an instruction, the instruction may properly be refused where the same proposition is adequately covered in another instruction that is given. This is true even where the refused instruction is a correct statement of the law."); State v. Nakama, No. 28372, 2009 WL 953305, at * 1 (Haw. App. Apr. 9, 2009) (SDO) (same). Although this instruction did not include the statute's reference to "vehicular traffic facing a circular green signal," that omission was not prejudicial in this context, where the instruction broadened the scope of the applicable principle to all situations in which the driver of a vehicle approaches an intersection, whether controlled or uncontrolled. Indeed, the instruction covered the very principle derived from HRS § 291C-32(a)(1)(A) that Fredricksen requested be given in an instruction. Thus, a separate instruction incorporating the language of HRS § 291C-32(a)(1)(A) was not 
+10 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+required, and the circuit court did not err in refusing to give 
+proposed jury instruction 10. See Stuart, 51 Haw. at 660-61, 466 P.2d at 447. 
+Relatedly, the circuit court did not err in denying 
+Fredricksen's request to "present the statutory language" of, or to otherwise "reference," HRS § 291C-32(a)(1)(A) in closing arguments to the jury.  As the circuit court noted, the 
+applicable principle derived from the statute was adequately covered in Fredricksen's proposed jury instruction 6, as modified. The jury was therefore properly instructed on the law and, accordingly, the parties were free to refer to such law in their closing arguments. 
+No statutory "reference" or citation 
+was required in this context. There was also no need for the circuit court to specifically reference the statute in its curative instruction regarding Anderson's testimony, which we conclude below was sufficient in itself. 10/
+10/   It appears that while settling jury instructions, Fredricksen
+asked the circuit court for clarification on whether counsel would be allowed 
+to "reference" HRS § 291C-32(a)(1)(A) in closing arguments, in the followingrelevant exchange: 
+THE COURT: Let me give you my inclination on number
+10. My inclination would be to refuse this specificinstruction because I think even with the Court's modification on number 6, it does capture what is set forthin 291C-32, and specifically I'm referring to paragraph 4,Instruction No. 6. So I think it would be duplicative tohave this instruction. 
+[FREDRICKSEN'S COUNSEL]: Are we allowed to argue, in
+closing, the statute . . . . 
+. . . . 
+THE COURT: . . . 
+Your question is whether or not that
+statute can specifically be referenced? 
+[FREDRICKSEN'S COUNSEL]: That's one. 
+. . . . 
+THE COURT: . . . . 
+So I do believe paragraph 4 of Instruction No. 6 does
+set forth some of 291C-32(a), and so you're free to argue
+it, but I just don't see the need to specifically reference291C -- you know, to say during closing argument, HawaiiRevised Statutes Section 291C-32. They'll get theinstruction, certainly, and you're free to have -- ask themto turn to the specific page of their jury instructions andto have them follow you with it. 
+11 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+B. Motions for Mistrial 
+Fredricksen moved for a mistrial at two different 
+junctures in the proceedings: (1) after Anderson testified as to 
+when a left-turning vehicle at an intersection must yield the right of way to oncoming traffic; and (2) after the jury rendered its verdict. Fredricksen argues that the circuit court erred when it denied Fredricksen's motions for mistrial at both junctures. 
+"Appellate review of a trial court's ruling on a motion 
+for mistrial is under the abuse of discretion standard." Kawamata Farms, Inc. v. United Agri Prods., 86 Hawai# i 214, 245, 
+948 P.2d 1055, 1086 (1997) (quoting Aga v. Hundahl, 78 Hawai# i 
+230, 245, 891 P.2d 1022, 1037 (1995)). 
+"A motion for mistrial 
+should be granted when there is an occurrence of such character and magnitude that a party is denied the right to a fair trial." Id. (quoting 
+Aga, 78 Hawai# i at 245, 891 P.2d at 1037). "The 
+denial of a motion for mistrial or new trial 'is within the sound discretion of the trial court and will not be upset absent a clear abuse of discretion.'" State v. Pasene, 144 Hawai# i 339, 
+365, 439 P.3d 864, 890 (2019) (quoting State v. Furutani, 76 Hawai# i 172, 178-79, 873 P.2d 51, 57-58 (1994)). 
+During direct examination by Dyas's counsel, Anderson 
+testified as follows: 
+Q. Okay. Are you familiar with the laws concerning
+left-turning vehicles in intersections? 
+A. I believe so. 
+Q. Okay. And --
+[FREDRICKSEN'S COUNSEL]: Your honor, legal
+conclusion. 
+THE COURT: At this point the objection's
+overruled. BY [DYAS'S COUNSEL]: 
+Q. Okay. Mr. Anderson, are you familiar with the
+laws applicable to left-turning vehicles --
+A. I--
+Q. -- in intersections? 
+A. I am. 
+Q. And when there's a green light for both a 
+12   NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+vehicle that is travelling into and through an intersection
+and a green light for a left-turning vehicle, who has theright-of-way? 
+A. Well, as simple as it seems it -- it is, the
+person going through has right-of-way and the person who'sturning left has to yield. 
+In her motions for mistrial, Fredricksen contended that 
+Anderson's testimony constituted an improper legal conclusion and 
+a violation of the circuit court's MIL rulings barring expert opinions that were not previously disclosed. Fredricksen further argued that Anderson's testimony was highly prejudicial and that the circuit court's curative instruction was insufficient, particularly in light of the court's decision not to specifically instruct the jury on HRS § 291C-32(a)(1)(A). 
+In denying Fredricksen's first (oral) motion for a 
+mistrial, the circuit court noted that counsel's initial objection to the question – "Are you familiar with the laws concerning left-turning vehicles in intersections?" – was premature, and that counsel failed to object to the follow-up questions that elicited Anderson's challenged testimony, or to otherwise alert the court that Anderson's opinion had not previously been disclosed in his deposition or reports. Indeed, shortly after Anderson gave the testimony at issue, which occurred on a Friday afternoon, the court took a short afternoon recess, after which Anderson continued to testify and Fredricksen still raised no objection to the earlier testimony. Fredricksen first brought the matter to the circuit court's attention the next day, Saturday, at the beginning of a conference to settle jury instructions, at which time Fredricksen made her oral motion for a mistrial. The circuit court heard argument from both parties at that time, and then denied the motion on Monday morning, before trial recommenced. Nevertheless, after Dyas's counsel acknowledged that the challenged testimony had not been part of Anderson's deposition,
+11/ the circuit court ruled "that 
+testimony, that line of questioning should not have been brought up[,]" ordered the testimony stricken, and gave the jury a 
+11/ It also appears that the challenged opinion was not disclosed in
+Andersen's report. 
+13 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+curative instruction. Specifically, the circuit court instructed 
+the jury as follows: 
+The Court has ordered stricken Mr. Anderson's 
+testimony concerning when a left-turning vehicle must yield
+to oncoming traffic. 
+When a Court strikes testimony of a witness, you must
+disregard it and you must not consider it during yourdeliberations and in reaching a verdict in this case. Thus you cannot consider in your deliberations Mr. Anderson'stestimony of when a left-turning vehicle must yield tooncoming traffic. As the trier of fact in this case, it isfor you to decide which party had the right of way on June24th, 2012. 
+"When a court has admonished a jury to disregard an 
+improper statement, the ordinary presumption is that the jury 
+will do so." Ray v. Kapiolani Medical Specialists, 125 Hawai# i 
+253, 269, 259 P.3d 569, 585 (2011) (quoting Chung v. Kaonohi Center Co., 62 Haw. 594, 599, 618 P.2d 283, 287 (1980), abrogated on other grounds by, Francis v. Lee Enterprises, Inc., 89 Hawai# i 
+234, 244, 971 P.2d 707, 717 (1999)). 
+"However, 'th[e supreme] 
+court has held that when improper testimony is prejudicial to the opposing party, the ordinary presumption prevails only if there is a reasonable certainty that the impression upon the jury could be or was dispelled by the court's admonition.'" Id. (quoting 
+Chung
+, 62 Haw. at 599, 618 P.2d at 287). 
+Here, after Anderson gave the challenged testimony, 
+Dyas's counsel did not further inquire into or emphasize the testimony but instead moved on to a different line of questioning. In addition, the challenged testimony was not referenced in any later testimony by Anderson or other witnesses. Further, the circuit court gave the curative instruction on the next trial day — the Monday following the Friday on which the challenged testimony was given — after the issue was raised in Fredricksen's first motion for mistrial. We conclude that under these circumstances, there is at least a reasonable certainty that the circuit court's prompt curative instructions dispelled any prejudicial effect of the challenged testimony. See Chung, 
+62 Haw. at 599-600, 618 P.2d at 288 (holding that improper testimony did not warrant mistrial where the circuit court gave a prompt curative instruction, and "there was not a series of improper statements throughout the trial, nor was the improper 
+14 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+ testimony allowed to stand, thereby permitting emotional and 
+irrelevant testimony to influence the jury"); cf. Ray, 125 Hawai# i at 269, 259 P.3d at 585 (holding that the circuit court's 
+jury instructions did not cure its improper admission of expert witness testimony where multiple witnesses referred to the testimony before the curative instruction was issued more than three weeks after the inadmissible testimony, and the instruction itself did not inform the jury that the testimony was inadmissible). 
+Accordingly, on this record, we cannot conclude that 
+the circuit court abused its discretion in denying Fredricksen's motions for mistrial. 
+C. Other Jury Instructions 
+Fredricksen argues that the circuit court erred in 
+refusing to give several of Fredricksen's proposed jury 
+instructions and requested standard jury instructions. Specifically, Fredricksen contends that the circuit court should have given her proposed jury instructions 4, 6, 8-11, 14-19, 22, 23, 25-28, and 31, as well as Hawai# i Standard Civil Jury 
+Instruction (
+HCJI) No. 8.7. In reviewing Fredricksen's point of 
+error, we consider whether the instructions, when read and considered as a whole, are prejudicially insufficient, erroneous, inconsistent, or misleading. See supra; 
+Moyle, 118 Hawai# i at 
+391, 191 P.3d at 1068. 
+1. Proposed Jury Instructions 4, 6, 8-11, and 14 
+Fredricksen contends that her proposed instructions 4, 
+6 (as originally proposed prior to the court's modification), 
+8-11, and 14 were intended to "'bridge the gap' between the existing pattern instructions and specific motor vehicle crash instructions which are based in large part on Hawai# i statutory 
+and case law[.]" 
+We previously discussed Fredricksen's proposed jury 
+instruction 6 and concluded that, as modified by the circuit court, this instruction correctly stated the law as it applied to the evidence presented at trial and adequately covered the 
+15 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+applicable principle stated in HRS § 291C-32(a)(1)(A). See 
+supra. 
+Fredricksen's proposed jury instructions 4 and 8 were 
+duplicative of her proposed jury instruction 3, which covered a 
+driver's duty of due care and was given to the jury. The circuit court thus did not err in refusing to give proposed jury instructions 4 and 8. 
+Fredricksen's proposed jury instruction 9 was 
+duplicative of her proposed jury instruction 1, which covered the basic speed law and was given to the jury. The circuit court thus did not err in refusing to give proposed jury instruction 9. 
+The portion of proposed jury instruction 11 that was 
+not given to the jury included language derived from a Louisiana case, Severson v. St. Catherine of Sienna Catholic Church, 707 So.2d 1026, 1030 (La. App. 5 Cir. 1998). Fredricksen has not explained why the circuit court was required to adopt this statement of Louisiana law. In the absence of Hawai# i law 
+holding the same, it was not error for the circuit court to refuse the corresponding portion of Fredricksen's proposed jury instruction 11. 
+Proposed jury instruction 14 addressed emergencies on 
+the roadway and the duty of due care. As explained above, proposed jury instruction 3 covered a driver's duty of due care and was given to the jury; the corresponding portion of proposed jury instruction 14 was therefore repetitive. Moreover, in granting Fredricksen's MIL 17, the circuit court precluded evidence and argument that Dyas was presented with a sudden emergency immediately prior to the collision, a ruling that Fredricksen has not challenged on appeal. As sudden emergency was not a trial issue, the remainder of proposed jury instruction 14 was inapplicable, and it was not error to refuse the instruction. 
+2. Proposed Jury Instructions 15-19, 22, 23, 26-28, and 31 
+Fredricksen argues that her proposed jury instructions 
+15-19, 22, 23, 25-28, and 31 were intended to elaborate upon or 
+16  
+  
+  
+  NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+correct errors in the language of the HCJI.12/ 
+Proposed jury instructions 15-18 were intended to 
+supplement HCJI 6.1,13/ which defines negligence and was given to 
+the jury. Some portions of proposed jury instructions 15-18 were 
+repetitive of HCJI 6.1. Portions that were not repetitive appear to have originated from discussions in Hawai# i case law. 
+Fredricksen has not offered any argument as to how the failure to include the requested additional language rendered HCJI 6.1 prejudicially insufficient, erroneous, inconsistent, or misleading. See Moyle, 118 Hawai# i at 391, 191 P.3d at 1068. We 
+therefore conclude that the circuit court's refusal to give proposed jury instructions 15-18 was not error. See id.
+Proposed jury instruction 19 was intended to supplement 
+HCJI 6.2,
+14/ which addresses foreseeability in the context of 
+negligence. It appears that proposed jury instruction 19 also originated from discussions in Hawai# i case law. Again, 
+Fredricksen has not provided any argument as to how the failure to include the requested instruction rendered HCJI 6.2 prejudicially insufficient, erroneous, inconsistent, or 
+12/ We address proposed jury instruction 25 in Subsection 3, below. 
+13/ HCJI 6.1 provides: 
+Negligence is doing something which a reasonable
+person would not do or failing to do something which a
+reasonable person would do. It is the failure to use that care which a reasonable person would use to avoid injury tohimself, herself, or other people or damage to property. 
+In deciding whether a person was negligent, you must
+consider what was done or not done under the circumstances as shown by the evidence in this case. 
+14/ HCJI 6.2 provides: 
+In determining whether a person was negligent, it may
+help to ask whether a reasonable person in the samesituation would have foreseen or anticipated that injury ordamage could result from that person's action or inaction.If such a result would be foreseeable by a reasonable personand if the conduct reasonably could be avoided, then not toavoid it would be negligence. 
+Only the general nature of the harm need be
+foreseeable. A person need not have foreseen the precisenature of the resulting injury or the exact manner in whichit occurred. 
+The first paragraph of this instruction was given to the jury. 
+17   
+  NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+misleading. See id. We thus conclude that the circuit court's 
+refusal to give proposed jury instructions 15-18 was not error. 
+Proposed jury instruction 22 was intended to supplement 
+HCJI 7.1,  which addresses legal cause of an injury or damage, 
+and HCJI 7.3,  which addresses a plaintiff's pre-existing injury 
+or condition in determining the amount of damages. Both HCJI 7.1 and 7.3 were given to the jury. 
+Once again, Fredricksen has not 
+provided any argument as to how the failure to include the requested additional language rendered HCJI 7.1 and 7.3 prejudicially insufficient, erroneous, inconsistent, or 16/15/
+15/ HCJI 7.1 provides: 
+An act or omission is a legal cause of an
+injury/damage if it was a substantial factor in bringing
+about the injury/damage. 
+One or more substantial factors such as the conduct of 
+more than one person may operate separately or together tocause an injury or damage. In such a case, each may be alegal cause of the injury/damage. 
+16/ HCJI 7.3 provides: 
+In determining the amount of damages, if any, to be
+awarded to plaintiff(s), you must determine whetherplaintiff(s) had an injury or condition which existed prior
+to the [insert date of the incident] incident. If so, you
+must determine whether plaintiff(s) was/were fully recovered
+from the pre-existing injury or condition or whether thepre-existing injury or condition was latent at the time ofthe subject incident. A pre-existing injury or condition islatent if it was not causing pain, suffering or disabilityat the time of the subject incident. 
+If you find that plaintiff(s) was/were fully recovered
+from the pre-existing injury or condition or that suchinjury or condition was latent at the time of the subjectincident, then you should not apportion any damages to thepre-existing injury or condition. 
+If you find that plaintiff(s) was/were not fully
+recovered and that the pre-existing injury or condition wasnot latent at the time of the subject incident, you shouldmake an apportionment of damages by determining what portionof the damages is attributable to the pre-existing injury orcondition and limit your award to the damages attributableto the injury caused by defendant(s). 
+If you are unable to determine, by a preponderance of
+the evidence, what portion of the damages can be attributedto the pre-existing injury or condition, you may make arough apportionment. 
+If you are unable to make a rough apportionment, then
+you must divide the damages equally between the pre-existinginjury or condition and the injury caused by defendant(s). 
+18   
+  NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+misleading, and we conclude it was not error to refuse proposed 
+jury instruction 22. In addition, because the jury found that Dyas was not negligent, it did not reach the issue of damages. Fredricksen thus has failed to demonstrate how the court's refusal to give proposed jury instruction 22 affected her substantial rights. See HRCP Rule 61. Accordingly, the circuit 
+court's decision not to include proposed instruction 22, even if erroneous, was harmless and does not warrant reversal. 
+Fredricksen argues that proposed jury instruction 23 
+was intended to "remedy" HCJI 8.2, which defines special damages as "those damages which can be calculated precisely or can be determined by you with reasonable certainty from the evidence." Specifically, Fredricksen contends that HCJI 8.2 erroneously uses the phrase "reasonable certainty." Hawai# i courts, however, have 
+consistently required that damages be proven with "reasonable certainty" in this context. See, e.g., Exotics Hawaii-Kona, Inc. 
+v. E.I. Du Pont De Nemours & Co., 116 Hawai# i 277, 292, 172 P.3d 
+1021, 1036 (2007) ("It is well-settled that all tort claims require that damages be proven with reasonable certainty.") (citing numerous cases). The circuit court thus did not err in refusing proposed jury instruction 23. Furthermore, because the jury found that Dyas was not negligent, it did not reach the issue of damages. 
+Fredricksen thus has failed to demonstrate how 
+the court's refusal to give proposed jury instruction 23 affected her substantial rights. See HRCP Rule 61. Accordingly, the 
+circuit court's decision not to include proposed instruction 22, even if erroneous, was harmless and does not warrant reversal. 
+Proposed jury instructions 26-28 were intended to 
+supplement HCJI 8.14,
+17/ which defines "wanton," and HCJI 8.17,18/ 
+17/ HCJI 8.14 provides: 
+An act is "wanton" when it is reckless, heedless, or
+characterized by extreme foolhardiness, or callous disregard
+of, or callous indifference to, the rights or safety ofothers. 
+18/ HCJI 8.17 provides:
+Gross negligence is conduct that is more extreme than
+ordinary negligence. It is an aggravated or magnifiedfailure to use that care which a reasonable person would useto avoid injury to himself, herself, or other people or
+(continued...) 
+19 18/ (...continued)NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+which defines "gross negligence," for the purpose of determining 
+punitive damages. However, the circuit court granted Dyas's motion for judgment as a matter of law on Fredricksen's punitive damages claim, a ruling that we affirm in Section D. below. Because the punitive damages claim was not submitted to the jury, the circuit court did not err in refusing proposed jury instructions 26-28. 
+Fredricksen argues that the circuit court should have 
+given proposed jury instruction 31, which stated in relevant part that the jury "may not consider [Fredricksen's] motives in bringing this law suit." However, the circuit court granted Fredricksen's MIL 3, precluding evidence and argument speculating as to Fredricksen's motives for bringing suit. And Fredricksen points to no evidence in the record from which the jury could have inferred her motives for bringing suit. Because Fredricksen's motives were not at issue, proposed instruction 31 was inapplicable. Cf. Medeiros, 142 Hawai# i at 246, 418 P.3d at 
+587 (holding that a plaintiff's proposed jury instruction to restrict consideration of plaintiff's motive in bringing suit was applicable to the issues raised, where defendant sought to elicit motive evidence for the purpose of demonstrating that plaintiff committed worker's compensation fraud for monetary gain and that the lawsuit was similarly motivated, and encouraged the jurors to so conclude in closing argument). Thus, the circuit court did not err in refusing to give Fredricksen's proposed jury instruction 31. 
+3. HCJI No. 8.7, Proposed Jury Instruction 25, and the
+Proposed Life Expectancy Table 
+Fredricksen contends that the circuit court erred in 
+refusing to give HCJI No. 8.7, which states: "The life 
+expectancy of plaintiff(s) may be considered by you in determining the amount of damages, if any, which he/she/they should receive for permanent injuries and future expenses and losses." 
+Fredricksen further argues that the court erred in 
+damage to property. 
+But gross negligence is something less
+than willful or wanton conduct. 
+20 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+refusing to give proposed jury instruction 25, which also 
+addressed life expectancy and was intended to replace HCJI No. 8.7. In addition, Fredricksen asserts that the circuit court 
+erred "in denying her use of a life expectancy table." 
+Fredricksen has not provided a sufficient record for 
+our review of these alleged errors. See HRAP Rule 10(b) (making 
+it the appellant's responsibility to include in the record on appeal transcripts of the pertinent oral proceedings conducted by the trial court); Bettencourt v. Bettencourt, 80 Hawai# i 225, 
+230, 909 P.2d 553, 558 (1995) ("The burden is upon appellant in an appeal to show error by reference to matters in the record, and he [or she] has the responsibility of providing an adequate transcript." (quoting Union Bldg. Materials Corp. v. The Kakaako Corp., 5 Haw. App. 146, 151, 682 P.2d 82, 87 (1984))). Fredricksen acknowledges, for example, that the transcripts of the orthopedic surgeons who purportedly testified "on the nature and permanency of [her] crash injuries . . . are not part of the [r]ecord on [a]ppeal." As a result, we are unable to determine whether giving HCJI No. 8.7 or proposed jury instruction 25 was warranted, or whether her injuries were of a sufficient "permanent character" to warrant the use of the life expectancy table. See Franco v. Fujimoto, 47 Haw. 408, 435, 390 P.2d 740, 
+755 (1964) ("The use of mortality tables in personal injury actions is limited to injuries of a permanent character."), overruled on other grounds by Barretto v. Akau, 51 Haw. 383, 393, 463 P.2d 917, 923 (1969). Because Fredricksen has failed to provide a sufficient record, we disregard the asserted errors regarding the life expectancy instructions and table. See 
+Tradewinds Hotel, Inc. v. Cochran, 8 Haw. App. 256, 266, 799 P.2d 60, 67 (1990). 
+Even if we were to consider the asserted errors, 
+Fredricksen has failed to demonstrate how they affected her substantial rights, given that the jury did not reach the issue of damages. See HRCP Rule 61. Accordingly, the alleged errors, 
+even if made, were harmless and do not warrant reversal. 
+21 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+D. Motion for Judgment as a Matter of Law 
+Fredricksen argues that the circuit court erred in 
+granting Dyas's oral motion for judgment as a matter of law on 
+her punitive damages claim. 
+Again, Fredricksen has not supplied a complete record 
+for our review of the asserted point of error. Specifically, Fredricksen acknowledges that "[t]he transcript documenting Mr. Dyas's oral motion [for judgment as a matter of law on punitive damages] was not ordered for this appeal." As a result, we are unable to review the parties' arguments at the time of the motion, including any argument made by Fredricksen in opposition, such that we can determine whether Fredricksen preserved the arguments she is now making on appeal. In this regard, Fredricksen also fails to identify in her opening brief "where in the record the alleged error was objected to or the manner in which the alleged error was brought to the attention of the [circuit] court . . . ." HRAP Rule 28(b)(4). Fredricksen thus has failed to satisfy her "burden . . . to show error by reference to matters in the record," including her "responsibility of providing an adequate transcript." Bettencourt, 80 Hawai# i at 230, 909 P.2d at 558 ("we are, . . . 
+unable to consider the merits of appellant's contention . . . because appellant failed to include the transcript of the applicable hearing in the record on appeal"); Tradewinds Hotel, 8 Haw. App. at 266–67, 799 P.2d at 66–67 (court is unable to review asserted errors where appellant has failed to provide transcript of proceedings below). 
+Fredricksen asserts that "[b]efore issuing its ruling 
+on August 5, 2016," i.e., three days after the motion was made, "the Court did not offer an opportunity for Ms. Fredricksen to submit argument[,]" and that "[i]f given an opportunity for further argument, Ms. Fredricksen would have cited to and relied on her gross negligence and reckless disregard of safety argument in her June 30, 2016 memorandum in opposition to Mr. Dyas' summary judgment motion to strike her punitive damages claim[.]" (Emphasis added.) Fredricksen's careful choice of words suggests that she argued against Dyas's motion for judgment as a matter of 
+22 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+law at the time it was made, but, for whatever reason, did not 
+include the transcript as part of the record. Regardless, because Fredricksen has not provided this court with a complete record of the motion and related arguments, we are unable to review her point of error. Accordingly, we disregard Fredricksen's argument that the circuit court erred in granting Dyas's oral motion for judgment as a matter of law on the punitive damages issue. See HRAP Rule 28(b)(4); Tradewinds 
+Hotel, 8 Haw. App. at 266, 799 P.2d at 67. 
+Even if we were to consider the asserted error, 
+Fredricksen has failed to demonstrate how it affected her substantial rights, given that the jury did not reach the issue of damages. See HRCP Rule 61. Accordingly, the alleged error, 
+even if made, was harmless and does not warrant reversal. 
+E. Award of Costs 
+Fredricksen contends that the circuit court erred in 
+awarding Dyas costs pursuant to HRCP Rule 68. 
+HRCP Rule 68 provides in relevant part: "At any time 
+more than 10 days before the trial begins, any party may serve 
+upon any adverse party an offer of settlement or an offer to allow judgment to be taken against either party for the money or property or to the effect specified in the offer, with costs then accrued." If an offer of settlement is made, and "[i]f the judgment finally obtained by the offeree is not more favorable than the offer, the offeree must pay the costs incurred after the making of the offer." The latter quoted language was contained in Dyas's June 22, 2016 settlement offer to Fredricksen pursuant to HRCP Rule 68 (Settlement Offer). 
+Here, Fredricksen argues that under the "express terms" 
+of Dyas's Settlement Offer and "basic contract principles," HRCP Rule 68 does not apply and cannot be enforced against Fredricksen because, as the offeree, she did not obtain a judgment in her favor. Fredricksen relies on case law from the United States Supreme Court interpreting Federal Rules of Civil Procedure (FRCP) Rule 68 and from other jurisdictions interpreting 
+purportedly analogous state rules. 
+23 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+However, this court's decision in Kikuchi v. Brown, 110 
+Hawai# i 204, 130 P.3d 1069 (App. 2006), which Fredricksen does 
+not cite in her opening brief, is dispositive. The plaintiff in 
+Kikuchi argued in part, as Fredricksen does here, that "if the plaintiff does not win some sort of verdict against the defendant, an offer of [settlement] under Rule 68 is void, and cannot be used [by the defendant] to gain an award of costs." Id. at 207, 130 P.3d at 1072. 
+We first acknowledged having 
+previously held that HRCP Rule 68's provision for payment of post-offer costs "is not applicable in a case where judgment is rendered against the offeree." Id. at 208, 130 P.3d 1073. We noted, however, that, "[a]t the time, HRCP Rule 68 was virtually identical to its federal counterpart and federal courts had so construed FRCP Rule 68." Id. at 208, 130 P.3d 1073. We then discussed the effect of the 1999 amendment to HRCP Rule 68: 
+The federal rule and the pre-1999 version of HRCP Rule 68
+were limited to "a party defending against a claim" and HRCPRule 68 had been further limited to only those costsassociated with the claim the party was defending against.Crown Props., Inc. v. Fin. Sec. Life Ins. Co., 6 Haw. App.105, 113, 712 P.2d 504, 510 (1985). With the 1999 amendment to HRCP Rule 68, "any party may serve upon any adverse partyan offer of settlement or an offer to allow judgment to betaken against either party." (Language added in 1999underscored.) 
+Id. 
+We construed the change in language as follows: 
+The intent behind this amendment appears clear: To level the playing field by allowing offers of settlement by allparties to the litigation and to encourage the offeree toaccept the offer or run the risk that he or she must pay theofferor's costs if the eventual judgment is not morefavorable than the offer. The change to the language of thefirst sentence of the rule by necessity changed the meaningof the fourth: the offeror could be any party and theofferee could be any party who had received the offer.Consequently, because a defendant could now be an "offeree,"a plaintiff could collect post-judgment costs where ajudgment in defendant's favor was not more favorable thanthe plaintiff's offer. In short, the removal of thedefendant-only limitation on offerors also removed theplaintiff-only limitation on judgments. Similarly, theamendment allowing an offer of judgment to be taken "againsteither party" would be rendered meaningless if the rule werestill to be interpreted as applying only to judgmentsrendered in the offeror's favor. 
+Id. at 208-09, 130 P.3d 1073-74. We thus held that "HRCP Rule 68 
+does apply where the judgment is in the defendant-offeror's favor as it too can represent a judgment that is not more favorable to 
+24 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+the offeree than the offer." Id. at 209, 130 P.3d 1074; see also 
+Cox v. Cox, 138 Hawai# i 476, 486 n.16, 382 P.3d 288, 298 n.16 
+(2016) (noting that "the plain language of [Hawai# i Family Court 
+Rules] Rule 68," which is similar to HRCP Rule 68, "permits an 
+award of post-offer costs even in instances where the judgment obtained favors the defendant-offeror and is against the plaintiff-offeree" (citing HFCR Rule 68 and 
+Kikuchi)).19/ 
+Here, judgment was entered in favor of Dyas, the 
+defendant-offeror. The judgment was not more favorable to Fredricksen, the offeree, than the Settlement Offer. HRCP Rule 68 therefore applied, and the circuit court did not abuse its discretion in awarding Dyas costs pursuant to that rule. 
+III. Conclusion 
+For these reasons, we affirm the Final Judgment, 
+entered on November 15, 2016, in the Circuit Court of the First Circuit. 
+DATED: Honolulu, Hawai# i, January 29, 2021. 
+On the briefs: 
+Arthur Y. Park, /s/ Katherine G. Leonard
+Presiding Judge
+/s/ Clyde J. Wadsworth
+Associate Judge
+/s/ Karen T. Nakasone
+Associate JudgePatricia Kim Park,John C. McLaren,Micah P.K. Aiu (Park & Park)and Robert F. Miller for Plaintiff-Appellant. 
+Rebecca A. Copeland(Law Office ofRebecca A. Copeland, LLC)for Defendant-Appellee. 
+19/ Fredricksen argues for the first time in her reply brief that our
+ruling in Kikuchi should be "re-evaluated" in light of the extrajurisdictionalauthorities cited in her opening brief. We decline to do so. See Ray, 125
+Hawai #i at 267, 259 P.3d at 583 (new argument raised in a reply brief was
+waived); HRAP Rule 28(d) (providing that "[t]he reply brief shall be confinedto matters presented in the answering brief"); see also Cox, 138 Hawai #i at 
+486 n.16, 382 P.3d at 298 n.16 (relying on this court's interpretation of HRCPRule 68's provision for payment of post-offer costs). 
+25 

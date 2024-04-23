@@ -1,0 +1,731 @@
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NOT FOR PUBLICATION IN WEST' S HAWAI ‘I REPORTS AND PACIFIC REPORTER   
+Electronically Filed 
+Intermediate Court of Appeals CAAP-19-0000824 26-DEC-2023 08:03 AM Dkt. 122 MO 
+NO. CAAP-19-0000824 
+ 
+ 
+IN THE INTERMEDIATE COURT OF APPEALS
+OF THE STATE OF HAWAII ‘  
+BANK OF HAWAII,
+Plaintiff-Appellee,
+v. 
+KEVIN M. BERTELMANN, INDIVIDUALLY AND AS
+TRUSTEE OF THE HAROLD E. BERTELMANN REVOCABLE 
+LIVING TRUST DATED MARCH 10, 2010,
+Defendant-Appellant,
+and 
+COUNTY OF HAWAI ‘I, REAL PROPERTY TAX DIVISION,
+Defendant-Appellee,
+and 
+JOHN DOES 1-20, JANE DOES 1-20, DOE CORPORATIONS 1-20,
+DOE ENTITIES 1-20, AND DOE GOVERNMENTAL UNITS 1-20,
+Defendants 
+APPEAL FROM THE CIRCUIT COURT OF THE THIRD CIRCUIT 
+(CIVIL NO. 18-1-0304) 
+MEMORANDUM OPINION 
+(By: Ginoza, Chief Judge, Wadsworth and Nakasone, JJ.)   
+ 
+   
+  
+ 
+ 
+   
+ 
+  NOT FOR PUBLICATION IN WEST' S HAWAI ‘I REPORTS AND PACIFIC REPORTER  
+Defendant-Appellant Kevin M. Bertelmann ( Bertelmann ), 
+self-represented, appeals from: (1) the October 21, 2019 
+"Findings of Fact and Conclusions of Law and Order Granting Plaintiff Bank of Hawaii's [( BOH)] Motion for Summary Judgment 
+and For Interlocutory Decree of Foreclosure, Filed August 1, 2019" (Foreclosure Decree ); and (2) the October 21, 2019 
+Judgment and Notice of Entry of Judgment ( Foreclosure Judgment ), 
+both filed and entered by the Circuit Court of the Third Circuit (Circuit Court ).
+1 
+  On appeal, Bertelmann contends  that the Circuit Court 
+(1) lacked jurisdiction because BOH "lacked proper standing to sue[,]" and thus the Foreclosure Decree and Foreclosure Judgment are void; (2) erroneously granted BOH's Motion to Set Aside Entry of Default; (3) erroneously denied Bertelmann's Motion to Continue; and (4) erroneously granted BOH's Motion for Summary Judgment and For Interlocutory Decree of Foreclosure ( MSJ). 
+We affirm. 2
+I. BACKGROUND 
+  On November 29, 2018, BOH filed a foreclosure 
+complaint against Bertelmann, individually and as trustee of the Harold E. Bertelmann Revocable Living Trust ( Bertelmann  Trust). 
+The Complaint alleged, among other things, that: Bertelmann's parents, Harold E. ( Harold) and Margaret K. ( Margaret ) 
+Bertelmann (collectively, Parents) took out a loan in 2003 with 
+BOH by executing a Home Equityline Agreement ( Note); the loan 
+with BOH was secured by a mortgage ( Mortgage ) on real property 
+on Pohā Street, N ā‘ālehu, Hawai ‘i 96722 ( Subject Property ); the 
+Subject Property was transferred via a 2010 deed to the 
+1 The Honorable Henry T. Nakamoto presided. 
+2 We have reordered Bertelmann's points of error for clarity.
+2   
+ 
+   
+ 
+  
+  
+ 
+  
+  
+ 
+  
+ 
+   
+ NOT FOR PUBLICATION IN WEST' S HAWAI ‘I REPORTS AND PACIFIC REPORTER  
+Bertelmann Trust; Bertelmann was named as successor trustee for 
+the Bertelmann Trust in 2015 after Harold passed ; that 
+Bertelmann, as Trustee of the Bertelmann Trust, transferred the Subject Property to himself, individually, in a 2016 deed; 
+Bertelmann defaulted on the Note; following demand to cure the 
+default and Bertelmann's failure to cure, the entire principal balance of the Mortgage and Note were accelerated and immediately due and payable; and BOH was entitled to foreclose the Mortgage and sell the Subject Property. 
+On January 31, 2019, Bertelmann filed his Answer and 
+Counterclaims ( Counterclaim ).
+3 
+On February 25, 2019, BOH filed its Answer to 
+Bertelmann's Counterclaim. 
+  On February 28, 2019, Bertelmann  submitted to the 
+Circuit Court his Request for Entry of Default, pursuant to 
+Hawai‘i Rules of Civil Procedure ( HRCP) Rule 55(a),  "against 
+[BOH] for failure to file a valid Reply within the time allowed 
+by the above rules and law."  4
+On March 1, 2019, Bertelmann's brother, Chris P. 
+Bertelmann ( Chris
+), filed a Motion to Intervene. 
+On March 4, 2019, the Circuit Court granted 
+Bertelmann's Request for Entry of Default against BOH. 
+3 The Counterclaim alleged wrongful foreclosure; wrongful or
+fraudulent inducement; bad faith; deceptive trade practices; harassment; and
+intentional, reckless, or negligent infliction of emotional distress. To date, the Counterclaim has not been adjudicated by the Circuit Court.
+Bertelmann does not challenge the Foreclosure Judgment on grounds that his
+counterclaims remain pending. 
+4 HRCP Rule 55(a) (2000), provides for the entry of default "[w]hen
+a party against whom a judgment for affirmative relief is sought has failed
+to plead or otherwise defend as provided by these rules and that fact is made
+to appear by affidavit or otherwise . . . ." 
+3   
+ 
+   
+  
+ 
+  
+  
+ 
+   NOT FOR PUBLICATION IN WEST' S HAWAI ‘I REPORTS AND PACIFIC REPORTER  
+On March 13, 2019, BOH filed a non-hearing Motion to 
+Set Aside Entry of Default ( Motion to Set Aside ) pursuant to 
+HRCP Rule 55(c),5 arguing that BOH filed and served its Answer to 
+Bertelmann's Counterclaim on February 25, 2019. The Circuit 
+Court granted the Motion to Set Aside ( Order Setting Aside 
+Default). 
+On April 24, 2019, the Circuit Court denied Chris's 
+Motion to Intervene. 
+On July 29, 2019, Chris filed a Notice of Transfer of 
+Title and Ownership of Subject Real Property with the Circuit Court, giving notice of the transfer of the Subject Property 
+from Bertelmann to Chris. 
+On August 1, 2019, BOH filed its Motion for Summary 
+Judgment ( MSJ) on the Complaint arguing, among other things, 
+that Bertelmann was in default for failing to pay the principal and interest due under the Note and Mortgage, and BOH was entitled to foreclosure of the Mortgage secured by the Subject 
+Property. Exhibits to the MSJ included: a legal description of 
+the Subject Property (Exhibit 1), the Note (Exhibit 2), the Mortgage (Exhibit 3), a death certificate of the Parents (Exhibit 4 and 6), a 2010 Warranty Deed transferring the Subject Property from Harold to the Bertelmann Trust (Exhibit 5), a 2016 Warranty Deed transferring the Subject Property from Bertelmann 
+as trustee of the Bertelmann Trust to Bertelmann as an 
+individual (Exhibit 7), the payment history for the Note (Exhibit 8), a September 11, 2018 Notice of Default letter sent to the successor of the Bertelmann Trust at the Subject Property address (Exhibit 9), and a notice of pendency of action 
+5 HRCP Rule 55(c) (2000), entitled "Setting aside default,"
+provides that: "[f]or good cause shown the court may set aside an entry of
+default[.]" 
+4   
+ 
+   
+  
+ 
+  
+ 
+  
+  
+   NOT FOR PUBLICATION IN WEST' S HAWAI ‘I REPORTS AND PACIFIC REPORTER  
+(Exhibit 10).6 A Declaration of Rachel Anfinson ( Anfinson ) as 
+the Assistant Vice President of BOH was also attached. 
+On August 30, 2019, Bertelmann filed a non-hearing 
+"Motion to Join," seeking leave to join Chris as a "third party 
+Defendant-Counter Plaintiff" in the case. 
+  On September 6, 2019, Bertelmann filed a "Memorandum 
+of Points and Authorities in Support of Motion to Continue" (
+Motion to Continue ) arguing, among other things, that the 
+provisions and terms of the Mortgage were "unconscionable and/or illegal and the contract when viewed in its entirety is void"; 
+that the BOH failed to give notice of the MSJ to the County of 
+Hawai‘i, Real Property Tax Division ( County) and Chris; that the 
+MSJ exhibits contained "redacted materials, or uncertified 
+public document[s]"; that BOH failed to establish standing; and that the September 11, 2018 Notice of Default letter was sent to his "property address and not to his mailing address." 
+At the September 11, 2019 hearing on the MSJ, the 
+Circuit Court orally denied Bertelmann's Motion to Continue
+7 and 
+6 Exhibit 10 was described as a "true and correct copy of [BOH]'s
+Notice of Pendency of Action." Exhibit 10 is missing from the record on
+appeal; however, as explained infra, Exhibit 10 does not appear material to
+this appeal. 
+7 BOH argues that Bertelmann appeals from an "Order Denying Motion
+to Continue" and "cannot challenge an order that was not raised in his Notice
+of Appeal." The record does not contain a written order denying the Motion
+to Continue. While an "oral decision is not an appealable order[,]" KNG
+Corp. v. Kim, 107 Hawai ‘i 73, 77, 110 P.3d 397, 401 (2005) (citing Hawaii ‘ 
+Rules of Appellate Procedure ( HRAP) Rules 4(a)(1) & (5)), "[a]n appeal from a
+final judgment 'brings up for review all interlocutory orders not appealable
+directly as of right which deal with issues in the case.'" Ueoka v.
+Szymanski, 107 Hawai ‘i 386, 396, 114 P.3d 892, 902 (2005) (quoting Pioneer
+Mill Co., Ltd. v. Ward, 34 Haw. 686, 694 (1938)). 
+Bertelmann appeals from
+the Foreclosure Judgment, which is a final and appealable judgment entered on
+the Foreclosure Decree pursuant to HRS § 667-51(a)(1); and we may review the
+Circuit Court's oral ruling as an interlocutory order reviewable on appeal.
+See KNG Corp., 107 Hawai ‘i at 77, 110 P.3d at 401 (recognizing that, because
+(continued . . .)
+5   
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ NOT FOR PUBLICATION IN WEST' S HAWAI ‘I REPORTS AND PACIFIC REPORTER  
+proceeded to hear BOH's MSJ.   While Bertelmann did not present 
+arguments in opposition at the hearing, both the Circuit Court 
+and BOH acknowledged that Bertelmann's Motion to Continue contained arguments in opposition to the MSJ.  The Circuit Court 
+granted the MSJ. 8
+(. . . continued) 
+the appellant was appealing from a final judgment for summary possession, the
+district court's oral ruling on an oral motion to establish a rent trust fundwould be treated as an interlocutory order reviewable on appeal). 
+8 The record reflects the following: 
+[BOH'S COUNSEL]: Nothing further, Your Honor. We did
+file an opposition to the [Motion to Continue] yesterday. Iemailed a copy to defendant Mr. Bertelmann and he confirmedreceipt of that. I believe the Court also received it as
+well, but I just wanted to make sure that was in the
+record. 
+  We believe the opposition somewhat speaks for itself.
+We had a very tight timeline to file it, but essentially we
+don't believe there's any basis in the motion to continue
+itself that warrants an actual continuance of the motion for summary judgment. It's mostly arguments arguing inopposition of the motion for summary judgment as opposed toa basis to continue it --
+  THE COURT: Okay. 
+  [BOH'S COUNSEL]: -- under 56(f), et cetera. 
+ 
+ THE COURT: Okay. Very well. So the Court, um, that's
+why the reason the Court allowed this motion to come
+forward. 
+ 
+. . . . 
+  THE COURT: But the Court will deny the motion to
+continue so we will proceed with the motion. 
+ 
+. . . . 
+ 
+THE COURT: And, Mr. Bertelmann, you have anything
+further? 
+ 
+MR. BERTELMANN: No, not at this time, Your Honor. 
+(continued . . .) 
+6   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+  
+ NOT FOR PUBLICATION IN WEST' S HAWAI ‘I REPORTS AND PACIFIC REPORTER  
+On October 21, 2019, the Circuit Court filed the 
+Foreclosure Decree and entered the Foreclosure Judgment. 
+Bertelmann timely appealed. 
+II. STANDARDS OF REVIEW 
+Standing 
+  "The issue of standing is reviewed de novo on appeal." 
+Tax Found. of Haw. v. State, 144 Hawai ‘i 175, 185, 439 P.3d 127, 
+138 (2019) (brackets omitted) (quoting Mottl v. Miyahira, 
+95 
+Hawai ‘i 381, 388, 23 P.3d 716, 723 (2001)). 
+Motion to Set Aside an Entry of Default 
+We review a Circuit Court's ruling on a request to set 
+aside a default under HRCP Rule 55(c) for abuse of discretion. 
+Chen v. Mah, 146 Hawai ‘i 157, 171, 457 P.3d 796, 810 (2020) 
+(quoting Cnty. of Hawai ‘i v. Ala Loop Homeowners, 123 Hawai ‘i 391, 
+404, 235 P.3d 1103, 1116 (2010)). 
+Motion for Continuance 
+"A trial court's decision to deny a request for a 
+continuance pursuant to HRCP Rule 56(f) will not be reversed 
+absent an abuse of discretion."   Kaleikini v. Yoshioka, 
+128 Hawai ‘i 53, 67, 283 P.3d 60, 74 (2012) (quoting Josue v. 
+Isuzu Motors Am., Inc., 87 Hawai ‘i 413, 416, 958 P.2d 535, 538 
+(. . . continued) 
+THE COURT: Okay. So the Court has reviewed the motion
+for summary judgment. I'll note that in this matter there
+was a valid note and mortgage. There was a default. Defaulthas not been cured. 
+Proper notice of the default was given to
+[Bertelmann] and that [BOH] had standing to file thisaction on the date the complaint was filed so therefore themotion for summary judgment is granted. 
+(Emphases added.) 
+7   
+ 
+  
+ 
+ NOT FOR PUBLICATION IN WEST' S HAWAI ‘I REPORTS AND PACIFIC REPORTER  
+(1998)). "An abuse of discretion occurs if the trial court 
+'clearly exceeded the bounds of reason or disregarded rules or principles of law or practice to the substantial detriment of a party litigant.'" Id. (quoting Amfac, Inc. v. Waikiki 
+Beachcomber Inv. Co., 74 Haw. 85, 114, 839 P.2d 10, 26 (1992)). 
+Motion for Summary Judgment 
+On appeal, "[a] trial court's decision on a motion for 
+summary judgment is reviewed de novo." 
+Wells Fargo Bank, N.A. 
+v. Fong, 149 Hawai ‘i 249, 253, 488 P.3d 1228, 1232 (2021) 
+(citation omitted).   
+[S]ummary judgment is appropriate if the pleadings,
+depositions, answers to interrogatories, and admissions on
+file, together with the affidavits, if any, show that thereis no genuine issue as to any material fact and the moving
+party is entitled to judgment as a matter of law. 
+ 
+The burden is on the party moving for summary
+judgment (moving party) to show the absence of any genuine
+issue as to all material facts, which, under applicable
+principles of substantive law, entitles the moving party to
+judgment as a matter of law. 
+Id. (quoting French v. Haw. Pizza Hut, Inc., 105 Hawai ‘i 462, 
+470, 99 P.3d 1046, 1054 (2004); Fujimoto v. Au, 95 Hawai ‘i 116, 
+136, 19 P.3d 699, 719 (2001)). 
+ III. DISCUSSION 
+A. 
+POE 1: Bertelmann's contention that the Circuit 
+Court lacked jurisdiction because BOH "lacked
+proper standing to sue" is waived. 
+Bertelmann argues that BOH did not have standing at 
+the time it filed its Complaint because a foreclosing plaintiff 
+must suffer an "injury in fact" to invoke the jurisdiction of the court; the "injury in fact" is the mortgagor's failure to make payment; and BOH did not suffer any injury in fact from Bertelmann, because Bertelmann "was neither mortgagee nor mortgagor since he did not sign the Note." Bertlemann contends 
+8   
+ 
+  
+ NOT FOR PUBLICATION IN WEST' S HAWAI ‘I REPORTS AND PACIFIC REPORTER  
+that because BOH "lacked proper standing to sue[,]" the Circuit 
+Court lacked jurisdiction. 
+BOH asserts that Bertelmann "did not raise this 
+argument in the Circuit Court, and therefore, it should be 
+disregarded as having been waived." 
+In Hawaii‘ state courts, "standing is not an issue of 
+subject matter jurisdiction[.]" 
+Tax Found. of Haw., 144 Hawai ‘i 
+at 192, 439 P.3d at 144. Unlike issues of subject matter 
+jurisdiction, which may be raised at any time or even sua sponte, standing is not a jurisdictional issue and may be waived. See id. at 191 n.21, 439 P.3d at 143 n.21.  
+  Here, it appears that Bertelmann did not raise these 
+standing arguments below. 
+Bertelmann's Motion to Continue in 
+response to the MSJ referenced "Material Issues of Fact and Standing," but he argued only that the Mortgage was illegal and void and that he never received notice of default—both issues we address infra in Part III.D. Bertelmann's challenge to BOH's 
+standing is waived. See Ass'n. of Apt. Owners of Wailea Elua v. 
+Wailea Resort Co., Ltd., 100 Hawai ‘i 97, 107, 58 P.3d 608, 618 
+(2002) ("Legal issues not raised in the trial court are 
+ordinarily deemed waived on appeal.").  
+B. POE 2: The Circuit Court did not abuse its 
+discretion in granting the motion to set aside
+the default that had been erroneously entered
+against BOH. 
+Bertelmann argues that the Motion to Set Aside should 
+not have been granted because: (1) BOH sued Bertelmann in the 
+"wrong legal capacity"; (2) BOH "omitted the requisite memorandum of law mandated under [Rules of the Circuit Courts of 
+the State of 
+Hawaii ‘ (RCCH) Rule] 7(a)"; (3) BOH provided no 
+facts justifying its late filing of its Answer to Bertelmann's 
+9   
+ 
+   
+ 
+ 
+ 
+ 
+  
+ NOT FOR PUBLICATION IN WEST' S HAWAI ‘I REPORTS AND PACIFIC REPORTER  
+Counterclaim; and (4) BOH mischaracterized the law in its Reply 
+Memorandum.9 
+BOH argues that Bertelmann's argument is without merit 
+because it is "undisputed that at the time the clerk entered 
+default against BOH, BOH had already filed and served its Answer 
+to [Bertelmann]'s Counterclaim." BOH asserts that the entry of default against BOH was "clearly done in error" as BOH did not fail "to plead or otherwise defend" against Bertelmann's Counterclaim. BOH's contention has merit. 
+HRCP Rule 12(a)(1) requires that: "A defendant shall 
+serve an answer within 20 days after being served with the summons and complaint, except when service is made under Rule 4(c) and a different time is prescribed in an order of court under a statute or rule of court." HRCP Rule 55(a), pertaining to entry of default, provides: "When a party against whom a judgment for affirmative relief is sought has failed to plead or otherwise defend as provided by these rules and that fact is 
+made to appear by affidavit or otherwise, the clerk shall enter 
+the party's default." (Emphasis added.) In Chen, the supreme court noted that "there is no HRCP rule rendering an answer filed after twenty days of service of process ineffective[,]" where "default has not been requested and entered pursuant to 
+9 Bertelmann contends that BOH "mischaracterized the law" and 
+"failed to satisfy the Nakila three prong test" required of a party seeking
+to set aside an entry of default. See The Nature Conservancy v. Nakila,
+4 Haw. App. 584, 590, 671 P.2d 1025, 1030 (1983). In Nakila, this court
+relied on BDM, Inc. v. Sageco, Inc., 57 Haw. 73, 77, 549 P.2d 1147, 1150
+(1976), for the proposition that a trial court should set aside the entry ofdefault when: (1) "the nondefaulting party will not be prejudiced by thereopening," (2) "the defaulting party has a meritorious defense," and(3)
+ "the default was not the result of inexcusable neglect or a wil[l]ful
+act." BDM was prospectively abrogated by the Hawai ‘i Supreme Court in 2020.
+See Chen, 146 Hawai ‘i at 176-77, 457 P.3d at 815-16 ("Prospectively, a
+HRCP Rule 55(c) motion to set aside entry of default is to be evaluated basedonly on whether there has been a showing of 'good cause[.]'"). 
+10   
+ 
+  
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+  NOT FOR PUBLICATION IN WEST' S HAWAI ‘I REPORTS AND PACIFIC REPORTER  
+HRCP Rule 55(a)[.]" 146 Hawai ‘i at 172 n.15, 457 P.3d at 811 
+n.15. Thus, a late answer is permissible as long as default 
+has not yet been requested and entered. See id.10
+Here, the record reflects that BOH filed and served 
+its February 25, 2019 Answer to Bertelmann's Counterclaim a few 
+days after the 20-day deadline under HRCP Rule 
+12(a)(1).11 
+Because default had not yet been requested or entered when BOH filed its late Answer, BOH could still have filed its Answer, and cured its default by doing so. See id.; Hudson v. State of North Carolina, 158 F.R.D. 78, 80 (E.D.N.C. 1994) (applying 
+identical federal rule
+12 and holding that the defendants' late 
+answer "cured their default and thereafter entry of default 
+would not be appropriate"). An entry of default under HRCP Rule 55(a) may only be obtained against a party who has failed to 
+plead or otherwise defend. See McManus v. Am. States Ins. Co., 
+201 F.R.D. 493, 499 (C.D. Cal. 2000) (applying identical federal 
+rule and holding that entry of default was proper where the 
+request for entry of default "reached the courthouse before [the defendant]'s Answer"). BOH did not fail to plead, but had filed its February 25, 2019 Answer three days before default was requested on February 28, 2019 and entered on March 4, 2019. 
+10 The supreme court in Chen explained that: "[I]n our circuit
+courts, counsel and parties often provide the courtesy of informally
+extending time for answering complaints without court involvement, and simplydo not request a formal entry of default until after the courtesy time has
+expired." 146 
+Hawai ‘i at 172 n.15, 457 P.3d at 811 n.15 (citing Guidelines of
+Professional Courtesy and Civility for Hawai ‘i Lawyers Section 2(a) (2018)). 
+11 The record reflects that BOH's Answer was filed twenty-five days
+after Bertelmann's Counterclaim was filed and served, when it should have
+been filed within twenty-two days under HRCP Rule 12(a)(2)(requiring filingof answer 20 days after service) and Rule 6 (enlarging time by two days whereservice made by mail). 
+12 Federal Rules of Civil Procedure Rule 55(a) is identical to
+HRCP Rule 55(a). 
+11   
+ 
+  
+ 
+  
+ 
+ NOT FOR PUBLICATION IN WEST' S HAWAI ‘I REPORTS AND PACIFIC REPORTER  
+The entry of default under these circumstances was erroneous, 
+and the Circuit Court did not abuse its discretion in granting 
+BOH's motion to set aside the default. See Chen, 146 Hawai ‘i at 
+171, 457 P.3d at 810. 
+C. POE 3: The Circuit Court did not abuse its 
+discretion in denying the Motion to Continue. 
+Bertelmann argues that the Circuit Court erred in 
+denying Bertelmann's Motion to Continue where: (a) Bertelmann's 
+Motion to Join was pending hearing, and (b) discovery and discovery issues had not been resolved or completed. 
+BOH argues that the Motion to Continue was properly 
+denied, as Bertelmann "failed to argue a valid basis to seek a continuance pursuant to HRCP Rule 56(f)." BOH asserts that "nothing argued in the motion suggested that [Bertelmann] needed additional time to oppose BOH's MSJ, nor did it provide any insight, if BOH's MSJ was to be continued, as to what [Bertelmann] intended to do during the interim." 
+HRCP Rule 56(f) provides that "the circuit court may 
+deny a motion for summary judgment if the opposing party establishes that additional discovery is necessary." Org. of 
+Police Officers v. City and Cnty. of Honolulu, 149 Hawai ‘i 492, 
+519, 494 P.3d 1225, 1252 (2021). 
+The opposing party "must 
+demonstrate how postponement of a ruling on the motion will 
+enable him or her, by discovery or other means, to rebut the 
+movants' showing of absence of a genuine issue of fact." Acoba
+v. Gen. Tire, Inc., 92 Hawai ‘i
+ 1, 9-10, 986 P.2d 288, 296-97 
+(1999) (brackets omitted) (quoting Josue v. Isuzu Motors Am., Inc., 87 
+Hawai ‘i 413, 416, 958 P.2d 535, 538 (1998)). 
+Here, Bertelmann's Motion to Continue argued that BOH 
+failed "to notify Defendant County" and "Chris" regarding the 
+12   
+ 
+  
+ 
+ 
+  
+  NOT FOR PUBLICATION IN WEST' S HAWAI ‘I REPORTS AND PACIFIC REPORTER  
+MSJ; that there was a "failure to join [Chris] as a party" and 
+that a "Motion for Joinder [was] submitted for filing on August 29, 2019"; that the exhibits attached to the MSJ contained "redacted materials, or uncertified" documents; that Margaret 
+was "impaired" and that the Mortgage and Note are "voidable"; 
+and that the Mortgage is "null and void." On appeal, Bertelmann asserts that the "Motion to Join was pending[,]" that "discovery issues had not been resolved[,]" and that due to personal circumstances, a continuance was necessary.
+13 Bertelmann has not 
+demonstrated how any additional discovery was "necessary" or how 
+postponement of a ruling on the motion would have enabled him to 
+rebut BOH's "showing of absence of a genuine issue of fact." 
+See Org. of Police Officers, 149 Hawai ‘i at 579, 494 P.3d at 
+1252; Acoba, 92 Hawai ‘i at 9-10, 986 P.2d at 296-97. The Circuit 
+Court did not abuse its discretion in denying Bertelmann's Motion to Continue. See Kaleikini, 128 Hawai ‘i at 67, 283 P.3d 
+at 74. 
+D. POE 4: Bertelmann's challenges to the granting
+of the MSJ are without merit. 
+Bertelmann argues that the MSJ was erroneously granted 
+because (1) "BOH produced no evidence showing [Bertelmann] was 
+properly noticed of default per Note or Mortgage terms[,] or, by its unauthorized redactions of Note and Mortgage, which created a disputed material issue of fact"; (2) "BOH's Mortgage is void and its terms breach the Note"; (3) "the disparate signatures of [Margaret] in BOH's MSJ Mortgage copy and [Bertelmann]'s 
+13 Bertelmann points out that "a certified BOH mortgage copy, was
+excluded from BOH's MSJ[,]" and that BOH was "obligated to provide . . . a
+postal receipt to authenticate the [Notice of Default] letter mailing."Bertelmann also points out that his "Motion to Continue was made [pursuant to
+HRCP] Rule 56(f)"; and that he had "limited time and financial resources" due
+to working far away and "coping with personal, financial, and litigationissues[.]" 
+13   
+ 
+   
+ 
+  
+ 
+  
+ 
+  NOT FOR PUBLICATION IN WEST' S HAWAI ‘I REPORTS AND PACIFIC REPORTER  
+Mortgage copy establish a disputed material issue of fact"; and 
+(4) BOH's counsel wrongly: "submitted redacted MSJ exhibits without consent," "submitted a manufactured lis pendens cover sheet," and "removed [the County] as a party without court 
+consent[.]"  
+14 
+The record reflects that Bertelmann did not file an 
+opposition to BOH's MSJ or present oral argument opposing the 
+MSJ at the hearing, and that his arguments regarding the MSJ appear to be raised for the first time on appeal. Arguments "not raised in the trial court are ordinarily deemed waived on 
+appeal." 
+Ass'n of Apt. Owners of Wailea Elua, 100 Hawai ‘i at 
+107, 58 P.3d at 618 (2002). However, it appears that Bertelmann's Motion to Continue, liberally construed, contained 
+opposition argument to the MSJ. 
+See Erum v. Llego, 147 Hawai ‘i 
+368, 380-81, 465 P.3d 815, 827-28 (2020) (holding that this 
+court is obligated to interpret pleadings prepared by self-represented litigants liberally to the extent "the litigant's argument can reasonably be discerned"). We address each of Bertelmann's arguments to the extent it is discernible. 
+See id.
+1. The Notice of Default was properly sent to
+the address listed on the Mortgage. 
+Bertelmann argues that BOH's copy of the Note and 
+Mortgage contains an "illegitimate redaction" of his Parents' 
+address,15 and "there is no way of knowing where BOH was 
+14 Bertelmann again argues that BOH lacked standing in bringing suit
+against him, which we addressed supra in Part III.A., regarding POE 1. 
+BOH explains that it was obligated to redact personal
+information, including the Parents' address, in public filings pursuant to
+HCRR Rule 9. Personal information, as defined by HCCR Rule 2.19, does notinclude residential addresses. See HCRR Rule 2.19 (explaining that personalinformation includes "social security numbers, dates of birth . . ., names of
+minor children, bank or investment account numbers, medical and health
+records, and social service reports"). Nevertheless, this error washarmless, as both parents were deceased at the time the September 11, 2018
+14 15   
+ 
+   BOH argues that at the time of the September 11, 2018 
+Notice of Default letter, "both of the Bertelmanns [(the 
+Parents)] had passed away[,]" "the Property was placed in the 
+Bertelmann Trust[,]" and Bertelmann "transferred the Property out of the Trust to himself, individually[.]" Thus, "pursuant to the terms and obligations under the Mortgage, BOH properly sent the Notice of Default to The Successor Trustee of The Harold E. Bertelmann Revocable Living Trust [at] the Property 
+address."   BOH claims that it could not send "submissions and 
+fillings [sic] in this case" to the address on the Mortgage, and 
+BOH rather was required to send these materials to the Na ‘alehu 
+post office box address because that is the address Bertelmann 
+provided in his responsive pleading and other filings.  
+  
+ NOT FOR PUBLICATION IN WEST' S HAWAI ‘I REPORTS AND PACIFIC REPORTER  
+obligated to send or deliver any 'cancellation notice.'" Bertelmann denies receiving the September 11, 2018 Notice of Default letter, and argues that the letter is "not addressed to [him]," "not addressed to any named living person[,]" "addressed 
+to his property and not his mailing address[,]" and the "zip 
+code is wrong." Bertelmann argues that the notice of the MSJ and all other "motions, notices, and correspondence" were mailed 
+to his "Na ‘alehu post office box[.]" 
+The Mortgage states: 
+NOTICES. Any notice required to be given under this
+Mortgage, including without limitation any notice ofdefault . . . shall be effective when . . . deposited inthe United States mail, as first class, certified or 
+registered mail postage prepaid, directed to the addresses
+shown near the beginning of this Mortgage. . . . For noticepurposes, Grantor agrees to keep Lender informed at alltimes of Grantor's current address. . . . 
+Notice of Default was sent, and BOH took reasonable steps under thesecircumstances to send the Notice of Default to the Subject Property address
+that was listed at the beginning of the Mortgage and not redacted. See HRCP 
+Rule 61 ("The court . . . must disregard any error or defect in the
+proceeding which does not affect the substantial rights of the parties.").
+15   
+ 
+  
+ 
+ Bertelmann argues that the Mortgage is "void" because 
+it conveys to BOH "'all' of [his Parents'] rights, title, and 
+interests in their Naalehu ‘ residence and real property"; "grants 
+an assignment to BOH of their personal property"; and is 
+essentially a "deed masquerading or disguised as a mortgage/security agreement[.]" Bertelmann asserts that the Mortgage terms are "onerous, oppressive, and unconscionable, . . . and breach the terms of the Note" because the Mortgage 
+conveys "all title and interest" of the Subject Property and 
+residence, while the Subject Property and residence was to only be "secured by a Mortgage." Bertelmann's argument that the Mortgage violated HRS §§ "481(a)(3)"
+ 17 and "480-2"  was not 18
+ 
+  
+ 
+  
+ NOT FOR PUBLICATION IN WEST' S HAWAI ‘I REPORTS AND PACIFIC REPORTER  
+(Emphases added.) Pursuant to the Mortgage, BOH sent their September 11, 2018 Notice of Default letter via "Regular and Certified Mail" to the Subject Property addressed to 95-5575 
+Pohā Street in "Naalehu, HI 96722," which is the address listed 
+in the Mortgage for the Subject Property and "shown near the beginning of" the Mortgage; and thus, BOH properly directed the Notice of Default letter to that address. If there were any changes to the "Grantor's current address[,]" it was the Grantor's duty to keep BOH informed and as such it was not BOH's 
+obligation to find a new address to send mail to.
+16 Thus, 
+Bertelmann's argument is without merit. 
+2. The Mortgage is not "void." 
+16 The Mortgage refers to the Parents as the "Grantor." 
+17 It appears that Bertelmann cited the wrong statute. Chapter 480
+deals with "Deceptive Trade Practices," and Chapter 481, which Bertelmann
+refers to, is entitled "Fair Trade Regulations" and includes various sections
+(i.e., HRS §§ 481-1, 481-2, etc.). 
+16   
+ 
+   BOH argues that there is no evidence in the record of 
+"procedural unconscionability" or "substantive 
+unconscionability." The Mortgage was intended to "serve as a security interest for the Note" and it did not act as a "deed transferring the Property to BOH."   
+  Bertelmann does not point to anything in the record that supports his broad assertion that the Mortgage is "void" because the Mortgage was a "deed masquerading or disguised as a 
+mortgage/security agreement[.]" Bertelmann does not elaborate 
+how the Mortgage was "onerous, oppressive, and unconscionable." The language in the Mortgage
+19 created a security interest and 
+ 
+  
+ 
+  
+ NOT FOR PUBLICATION IN WEST' S HAWAI ‘I REPORTS AND PACIFIC REPORTER  
+raised below and is waived. See Ass'n of Apt. Owners of Wailea 
+Elua, 100 Hawai ‘i at 107, 58 P.3d at 618.  
+18 HRS § 480-2 (2008), prohibits "[u]nfair methods of competition
+and unfair or deceptive acts or practices in the conduct of any trade or
+commerce[.]" 
+19 The Mortgage stated: 
+Possession and Use. Until the occurrence of an Event 
+of Default, Grantor may (1) remain in possession andcontrol of the Property; (2) use, operate or manage theProperty; and (3) collect the Rents from the Property. 
+ 
+. . . . 
+ 
+Security Agreement. This instrument shall constitute
+a Security Agreement to the extent any of the Property
+constitutes fixtures, and Lender shall have all of the
+rights of a secured party under the Uniform Commercial Code
+as amended from time to time. 
+  
+. . . . 
+ 
+FULL PERFORMANCE. If Grantor pays all the
+indebtedness when due, terminates the credit line account,
+and otherwise performs all of the obligations imposed uponGrantor under this Mortgage, Lender shall execute anddeliver to Grantor a suitable satisfaction of this Mortgage
+and suitable statements of termination of any financing
+statement on file evidencing Lender's security interest inthe Rents and the Personal Property.  
+  
+17   
+ 
+  
+  
+  
+ 
+  
+  NOT FOR PUBLICATION IN WEST' S HAWAI ‘I REPORTS AND PACIFIC REPORTER  
+did not act as a "deed" to transfer the title of the Subject 
+Property to BOH; Bertelmann's argument is thus without merit. 
+3. BOH's copy of the Mortgage, which was
+attached as Exhibit 3 to its MSJ, was
+properly authenticated and admissible. 
+Bertelmann argues that there are 
+"alterations/discrepancies" in the following copies of the 
+Mortgage: Exhibit A to Bertelmann's Answer, Bertelmann's mailed copy per discovery request, and Exhibit 3 to BOH's MSJ. Bertelmann claims that he has a "colorable claim of forgery and/or fraud in the factum against BOH." 
+BOH argues that Bertelmann "attempts to reference 
+various documents that are not part of the Record on Appeal and to which he has no personal knowledge of[,]" such as the "documents taken from BOH's production of documents." BOH also points out that Exhibit "A" to Bertelmann's Answer was also not "properly authenticated," no one "knows where it came from[,]" and Bertelmann does not have "personal knowledge" of the 
+Mortgage. Rather, BOH's copy of the Mortgage accompanying its 
+MSJ was "properly authenticated." 
+HRCP Rule 56, entitled "Summary Judgment," provides: 
+(e) Form of affidavits; further testimony; defense
+required.  Supporting and opposing affidavits shall be made
+on personal knowledge, shall set forth such facts as would
+be admissible in evidence, and shall show affirmativelythat the affiant is competent to testify to the mattersstated therein. Sworn or certified copies of all papers or
+parts thereof referred to in an affidavit shall be attached
+thereto or served therewith. The court may permitaffidavits to be supplemented or opposed by depositions,answers to interrogatories, or further affidavits. When amotion for summary judgment is made and supported asprovided in this rule, an adverse party may not rest upon
+the mere allegations or denials of the adverse party's
+pleading, but the adverse party's response, by affidavitsor as otherwise provided in this rule, must set forthspecific facts showing that there is a genuine issue fortrial. If the adverse party does not so respond, summary 
+18   
+ 
+  
+  
+ NOT FOR PUBLICATION IN WEST' S HAWAI ‘I REPORTS AND PACIFIC REPORTER  
+judgment, if appropriate, shall be entered against the
+adverse party. 
+HRCP Rule 56(e) requires "documentation submitted in support of 
+a summary judgment motion to be properly sworn to or to be certified. Documents that are plainly inadmissible in evidence and are unsworn, not properly sworn to, and/or uncertified cannot be considered upon a summary judgment motion." Pioneer
+Mill Co., Ltd. v. Dow, 90 
+Hawai ‘i 289, 297, 978 P.2d 727, 735 
+(1999) (citation omitted). Exhibits are authenticated when they 
+are "sworn to or []certified by the preparer or custodian of those exhibits." Id. (citation omitted). 
+Here, Bertelmann's copy of the Mortgage, which was 
+attached as Exhibit "A" to his Answer, was not admitted into evidence, sworn to, or certified. See id. Additionally, 
+Bertelmann attached a copy of the Mortgage from BOH's discovery 
+production as Appendix 2 to his Opening Brief. Appendix 2 is 
+not in the trial court record, the Circuit Court denied Bertelmann's request to supplement the record with BOH's discovery production, and that production is not in the record on appeal for this court to consider. 
+See HRAP Rule 10(a) ("The 
+record on appeal shall consist of the trial court . . . record 
+. . . ."). 
+BOH's copy of the Mortgage, attached to its MSJ as 
+Exhibit 3, was admissible for the Circuit Court's consideration 
+in determining whether to grant BOH's MSJ where the exhibit was properly authenticated by Anfinson's declaration that she was the "Assistant Vice President" of BOH; had "personal knowledge" 
+of the facts stated in the declaration; was a "custodian" of 
+BOH's records; and certified that the Mortgage was a "true and correct copy" containing a Bureau of Conveyance seal. See
+19   
+ 
+  
+ NOT FOR PUBLICATION IN WEST' S HAWAI ‘I REPORTS AND PACIFIC REPORTER  
+HRCP Rule 56(e); Pioneer Mill Co., 90 Hawai ‘i at 297, 978 P.2d at 
+735. Thus, the Circuit Court properly considered BOH's copy of 
+the Mortgage attached to its MSJ, and Bertelmann's argument is 
+without merit. See U.S. Bank Nat'l Ass'n v. Benoist, 
+No. CAAP-14-0001176, 2015 WL 7260350, at *5 (App. Nov. 12, 2015) (SDO) (holding that the bank's attached exhibits to their motion for summary judgment were admissible, where there was a signed declaration by the servicer of the bank, the declaration 
+indicated that she was a custodian of the business records, that 
+she had personal knowledge of the matters in the declaration, and the documents attached as exhibits were certified as true copies). 
+4. Bertelmann's remaining arguments opposing
+the MSJ, regarding the "manufactured lispendens cover sheet" and BOH's alleged
+removal of the County as a party "without
+court consent," are without merit. 
+20  
+ Bertelmann's argument that Exhibit 10 was not "a true 
+and correct copy" of BOH's Notice of Pendency of Action; that it 
+"omit[ted] the BOC seal, registrar's name, and signature" and that Exhibit 10 is "missing," do not raise a "disputed material issue of fact" as Bertelmann claims. Bertelmann does not 
+explain how his "substantial rights" were affected by his claims 
+of error regarding Exhibit 10, or how any of these alleged errors were material or relevant to the granting of the MSJ. See HRCP Rule 61 ("The court . . . must disregard any error or defect . . . which does not affect the substantial rights of the 
+parties.");  Peak Cap. Grp., LLC v. Perez, 141 
+Hawai ‘i 160, 177, 
+407 P.3d 116, 133 (2017) (explaining that the effect of a notice 
+of pendency of action "is to render a property unmarketable and unusable as security for a loan" (ellipsis omitted) (quoting   
+ 
+  
+ 
+  NOT FOR PUBLICATION IN WEST' S HAWAI ‘I REPORTS AND PACIFIC REPORTER  
+S. Utsunomiya Enters., Inc. v. Moomuku Country Club, 75 Haw. 
+480, 502-03, 866 P.2d 951, 963-64 (1994))). 
+  Bertelmann also asserts that BOH inaccurately removed 
+the County as a party when it failed to give notice to the 
+County of its filing of the MSJ. 
+BOH explains that the County 
+was "dismissed" since the May 3, 2019 "Stipulation for Partial 
+Dismissal of Defendant County of Hawai ‘i‘ [sic] (West Hawai 'i) 
+[sic] Real Property Tax Office Without Prejudice" ( Stipulation 
+for Partial Dismissal of County ), and the County "has not once 
+taken a position in this case, submitted any other filings aside 
+from its Answer to the Complaint, and has never objected to not being served with any of the submissions[.]"  Bertelmann's 
+contention lacks merit, where BOH and Bertelmann entered into the May 3, 2019 Stipulation for Partial Dismissal of Defendant County.
+ Bertelmann agreed to remove the County as a party, and 
+the County was no longer a party when the August 1, 2019 MSJ was filed. 20
+For the reasons set forth above, we conclude that the 
+Circuit Court did not err by granting BOH's MSJ. See Fong, 
+149 Hawai ‘i at 253, 488 P.3d at 1232. 
+IV. CONCLUSION 
+For the foregoing reasons, the (1) October 21, 2019 
+"Findings of Fact and Conclusions of Law and Order Granting 
+Plaintiff Bank of Hawaii's Motion for Summary Judgment and For Interlocutory Decree of Foreclosure, Filed August 1, 2019"; and (2) October 21, 2019 Judgment and Notice of Entry of Judgment, 
+20 The stipulation, signed by Bertelmann himself stated: "all 
+claims against Defendant County . . . in the above-entitled action shall be
+and hereby are dismissed without prejudice" and that the County "need not
+participate in further court proceedings involving the Subject Property,
+unless such participation is determined to be necessary by the County or theCourt." 
+21   
+ 
+   
+ 
+ NOT FOR PUBLICATION IN WEST' S HAWAI ‘I REPORTS AND PACIFIC REPORTER  
+both filed and entered by the Circuit Court of the Third 
+Circuit, are affirmed. 
+DATED: Honolulu, Hawai ‘i, December 26, 2023. 
+22  
+ 
+  
+ 
+ 
+ On the briefs: 
+/s/ Lisa M. GinozaKevin M. Bertelmann Chief JudgeDefendant-Appellant 
+/s/ Clyde J. WadsworthJai W. Keep-Barnes Associate Judge(Bays Lung Rose & Holma)
+for Plaintiff-Appellee /s/ Karen T. NakasoneAssociate Judge 

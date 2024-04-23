@@ -1,0 +1,571 @@
+***  FOR PUBLICATION IN W EST’ S HAWAI ʻI  REPORTS AND PACIFIC REPORTER  ***  
+ 
+ 
+ 
+ 
+ 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAIʻ I 
+---o0o---
+________________________________________________________________ 
+ 
+PENNYMAC CORP., 
+Respondent/Plaintiff-Appellee, 
+ 
+vs. 
+ 
+LEWANNA GODINEZ, 
+Petitioner/Defendant-Appellant. 
+________________________________________________________________ 
+ 
+SCWC-18-0000185 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS 
+(CAAP-18-0000185; CIV. NO. 13-1-0741) 
+ 
+OCTOBER 8, 2020 
+ 
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, AND WILSON, JJ., AND 
+CIRCUIT JUDGE BROWNING, ASSIGNED BY REASON OF VACANCY 
+ 
+OPINION OF THE COURT BY RECKTENWALD, C.J.  
+I. INTRODUCTION 
+  This case requires us to determine whether res 
+judicata precludes a Hawaiʻ i Rules of Civil Procedure (“HRCP”) 
+Rule 60(b) motion for relief from judgment in a foreclosure 
+proceeding.  We conclude that it does not.   Electronically Filed
+Supreme Court
+SCWC-18-0000185
+08-OCT-2020
+07:47 AM***  FOR  PUBLICATION IN WEST’ S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+2 In 2017, the Circuit Court of the Second Circuit found 
+Lewanna Godinez in default on her mortgage and granted summary 
+judgment in favor of Respondent/Plaintiff PennyMac Corp., issuing a decree of foreclosure and entering final judgment.  
+Before a foreclosure sale took place, Godinez filed an HRCP Rule 
+60(b) motion, raising the issue of PennyMac’s standing to bring 
+a foreclosure action against her.  The circuit court denied the 
+motion, and Godinez appealed.  The Intermediate Court of Appeals 
+(ICA) affirmed the circuit court’s denial, holding that res 
+judicata barred Godinez’s HRCP Rule 60(b) challenge to standing, citing to this court’s decision in Mortgage Electronic 
+Registration Systems v. Wise, 130 Hawaiʻ i 11, 17, 304 P.3d 1192, 
+1198 (2013).   
+We hold that res judicata did not preclude Godinez’s 
+post-judgment HRCP Rule 60(b) motion and that Wise is 
+inapplicable under these circumstances.  Nevertheless, we agree with the ICA that the circuit court did not abuse its discretion 
+in denying Godinez’s HRCP Rule 60(b) motion.  Accordingly, we 
+affirm the judgment of the ICA.   
+II. BACKGROUND
+A. Factual Background
+In December 2007, Godinez executed and delivered to 
+Washington Mutual Bank, FA, a mortgage encumbering real property ***  FOR  PUBLICATION IN WEST’ S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+3 
+ on Maui as security for a promissory note.   In September 2008, 
+the United States Department of the Treasury closed Washington 
+Mutual Bank, FA, appointing the Federal Deposit Insurance Corporation (FDIC) as receiver.   1
+  In January 2010, Godinez defaulted on the note.  The FDIC then assigned the Mortgage to J.P. Morgan Chase Bank in a 
+Corporate Assignment of Mortgage.   B. Circuit Court Proceedings 
+  On July 5, 2013, Chase
+ initiated foreclosure 
+proceedings in the circuit court.2  While foreclosure proceedings 
+were pending, in February 2014, Chase assigned its mortgage 
+interest to PennyMac through a Hawaiʻ i Assignment of Mortgage 
+recorded on April 28, 2014.  In May 2015,3 Chase filed a motion 
+to substitute PennyMac as the plaintiff and “real party in 
+interest.”  The circuit court granted the motion and amended the 
+complaint and caption.   
+  In March 2016, PennyMac filed a motion for summary 
+judgment asking the circuit court to find Godindez in default on the promissory note and mortgage, and issue a decree of 
+                     
+1  The mortgage was recorded in the State of Hawaiʻ i Bureau of 
+Conveyances on December 12, 2007.   
+   
+ 2  The Honorable Rh onda I.L. Loo presided. 
+ 
+3  Between April 3, 2014 and February 25, 2015, the case was put on 
+hold for loss mitigation.   
+ ***  FOR  PUBLICATION IN WEST’ S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+4 
+ foreclosure.  In support, PennyMac submitted a declaration 
+attesting, “[PennyMac] has possession of the promissory note 
+with standing to prosecute the instant action and the right to foreclose the subject Mortgage.”  Godinez opposed the motion and 
+argued, inter alia, that “PennyMac admittedly lacked standing at 
+the time of the filing of the Complaint and therefore this Court 
+lacks jurisdiction[.]”  The circuit court held a hearing on 
+PennyMac’s motion for summary judgment on June 28, 2016.
+  At the 
+close of the hearing, the court orally granted the motion.     After the summary judgment hearing but before a 
+written summary judgment order was filed, this court decided 
+Bank of America, N.A. v. Reyes-Toledo, 139 Hawaiʻ i 361, 390 P.3d 
+1248 (2017), which held that “a foreclosing plaintiff must 
+establish entitlement to enforce the note” by showing they had physical possession of it “at the time the action was 
+commenced[.]”  Id. at 368, 390 P.3d at 1255.  Accordingly, on 
+May 15, 2017,4 Godinez filed a motion to dismiss for lack of 
+standing, arguing “[PennyMac] clearly states [it was the] holder 
+in due course of the note at the time of the verified complaint, 
+but do[es] not present evidence in any exhibits.”  During a 
+hearing on the motion, Godinez argued the then-recent decisions 
+                     
+4  On July 20, 2016, Godinez filed for bankruptcy, and the 
+foreclosure proceedings were stayed until April 2017 when the bankruptcy 
+proceedings terminated.   ***  FOR  PUBLICATION IN WEST’ S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+5 
+ in Reyes-Toledo, and U.S. Bank, N.A. v. Mattos, 140 Hawaiʻ i 26, 
+398 P.3d 615 (2017), demonstrated that PennyMac lacked standing.  
+ 
+  In response, PennyMac argued that Godinez’s standing 
+arguments were barred under the law of the case doctrine because 
+the circuit court had already resolved the issue and orally granted PennyMac’s motion for summary judgment.  Nevertheless, 
+recognizing that Reyes-Toledo required foreclosing parties to 
+show they had possession of the note at the time the foreclosure complaint was filed, PennyMac asked the circuit court for “leave 
+to supplement the record to support its (or its predecessor’s), 
+standing to commence this action.” 
+  At the hearing on Godinez’s motion to dismiss for lack of standing, the circuit court applied the law of the case 
+doctrine to the issue of standing and orally denied Godinez’s motion.  The circuit court further discussed that in the 
+interest of justice and judicial efficiency, the recent Reyes-
+Toledo decision did not warrant dismissal, and the court allowed 
+PennyMac an opportunity to supplement the record to support its 
+standing.  Upon receipt of PennyMac’s supplemental Reyes-Toledo 
+declaration, on November 22, 2017, the circuit court entered written findings of fact, conclusions of law, and an order granting PennyMac’s motion for summary judgment.  Accordingly, 
+the circuit court issued the Foreclosure Decree and Judgment, 
+appointing a Commissioner to oversee the sale.   ***  FOR  PUBLICATION IN WEST’ S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+6 
+  
+ Godinez did not appeal the order granting summary 
+judgment or the Foreclosure Decree and Judgment.  Instead, on 
+January 16, 2018, Godinez filed a pro se HRCP Rule 60(b) motion for relief from the Foreclosure Decree.  In the motion, Godinez 
+alleged, inter alia, that newly discovered evidence rendered the 
+Foreclosure Decree void and showed that PennyMac lacked 
+standing.  She maintained that the evidence was “newly 
+discovered” because her previous attorney had “overlooked it.”   
+  PennyMac responded to Godinez’s HRCP Rule 60(b) motion 
+and argued, “all of the alleged new evidence could have been discovered by [Godinez] at any time prior to the entry of the 
+Foreclosure [Decree], are not admissible or credible, and are 
+not controlling in nature as to change the outcome of the 
+Court’s ruling.”   
+  The circuit court summarily denied Godinez’s HRCP Rule 
+60(b) motion, and Godinez filed a timely notice of appeal.   C. ICA Summary Disposition Order 
+  The ICA affirmed the circuit court in a Summary 
+Disposition Order, noting that Godinez made “no discernible 
+argument on appeal” that the circuit court abused its discretion 
+in denying Godinez’s HRCP Rule 60(b) motion.  Further, the ICA 
+held that “Godinez’s failure to appeal from the Foreclosure 
+Decree and Judgment barred Godinez from now challenging PennyMac’s standing under the doctrine of res judicata,” citing ***  FOR  PUBLICATION IN WEST’ S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+7 
+ this court’s decision in Wise.  (Emphasis added.)  However, 
+recognizing that res judicata could not be applied to void 
+judgments, the ICA also observed, “[l]ack of standing does not render a court’s judgment void under HRCP Rule 60(b),” and 
+quoted from this court’s decision in Tax Foundation of Hawaiʻ i v. 
+State, 144 Hawaiʻ i 175, 188, 439 P.3d 127, 140 (2019): “[i]n 
+Hawaiʻi state courts, standing is a prudential consideration 
+. . . and is not an issue of subject matter jurisdiction.”  
+Accordingly, the ICA concluded that the circuit court did not 
+abuse its direction in denying Godinez’s HRCP Rule 60(b) motion.   
+Godinez filed an application for writ of certiorari 
+asking this court to review one question: whether the ICA erred in holding that res judicata barred her from arguing that the 
+plaintiff lacked standing in an HRCP Rule 60(b) motion.   
+III.
+ STANDARDS OF REVIEW 
+A. Res Judicata 
+  “Application of res judicata is a question of law.  
+Questions of law are reviewed de novo under the right/wrong 
+standard.”  Eastern Sav. Bank, FSB v. Esteban, 129 Hawaiʻ i 154, 
+157, 296 P.3d 1062, 1065 (2013) (citations omitted). 
+B. HRCP Rule 60(b) 
+  A circuit court’s decision on an HRCP Rule 60(b) 
+motion is reviewed for abuse of discretion:   ***  FOR  PUBLICATION IN WEST’ S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+8 
+ [T]he trial court has a very large measure of discretion in 
+passing upon motions under [HRCP] Rule 60(b) and its order 
+will not be set aside unless we are persuaded that under 
+the circumstances of the particular case, the court’s 
+refusal to set aside its order was an abuse of discretion. 
+ 
+Hawaiʻi Hous. Auth. v. Uyehara, 77 Hawaiʻ i 144, 147, 883 P.2d 65, 
+68 (1994) (citations omitted). 
+“The burden of establishing abuse of discretion [in 
+denying an HRCP Rule 60(b) motion] is on the appellant, and a 
+strong showing is required to establish it.”  Ditto v. McCurdy, 
+103 Hawaiʻ i 153, 162, 80 P.3d 974, 983 (2003). 
+IV. DISCUSSION 
+A.
+ Res Judicata Did Not Preclude Godinez’s HRCP Rule 60(b) 
+Motion 
+  We have often recognized that “[a]ccording to the 
+doctrine of res judicata, the judgment of a court of competent 
+jurisdiction is a bar to a new action in any court between the 
+same parties or their privies concerning the same subject 
+matter[.]”  Kauhane v. Acutron Co., 71 Haw. 458, 463, 795 P.2d 
+276, 278 (1990) (alterations and citation omitted).  A party 
+asserting res judicata has the burden of establishing: “(1) 
+there was a final judgment on the merits, (2) both parties are 
+the same or in privity with the parties in the original suit, 
+and (3) the claim decided in the original suit is identical with 
+the one presented in the action in question.”  Bremer v. Weeks, 
+104 Hawaiʻ i 43, 54, 85 P.3d 150, 161 (2004).  As we discussed in ***  FOR  PUBLICATION IN WEST’ S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+9 
+ Kauhane, the purpose of res judicata is to preclude successive 
+litigation: 
+ The purpose of the doctrine of res judicata is to 
+prevent a multiplicity of suits and to provide a limit to 
+litigation.  It serves to relieve parties of the cost and 
+vexation of multiple lawsuits, conserve judicial resources, 
+and, by preventing inconsistent decisions, encourage 
+reliance on adjudication.  The res judicata doctrine thus furthers the interests of litigants, the judicial system 
+and society by bringing an end to litigation where matters 
+have already been tried and decided on the merits.  It is a 
+rule of fundamental and substantial justice, of public 
+policy and private peace. 
+ 
+ The doctrine therefore permits every litigant to have 
+an opportunity to try his case on the merits; but it also 
+requires that he be limited to one such opportunity.  
+Unsatisfied litigants have a remedy: they can appeal through available channels.  But they cannot, even if the 
+first suit may appear to have been decided wrongly, file 
+new suits. 
+ 
+Kauhane, 71 Haw. at 463, 795 P.2d 278–79 (emphases added) 
+(citations and alterations omitted).   
+  By definition, the doctrine of res judicata only 
+applies to new suits: It is inapplicable in a continuation of 
+the same suit.  18 Charles Alan Wright, Arthur R. Miller, & Edward H. Cooper, Federal Practice & Procedure § 4404 (3d ed. 
+2020) (“Res judicata applies as between separate actions, not within the confines of a single action on trial or appeal.”); 
+cf. Ditto, 98 Hawaiʻ i at 128 n.6, 44 P.3d at 279 n.6 (2002) 
+(noting that the doctrine of collateral estoppel5 was 
+                     
+5  In the past, the term “res judicata” was used to describe both 
+claim preclusion (res judicata) and issue preclusion (collateral estoppel).  
+See Exotics Hawaiʻi-Kona, Inc. v. E.I. Dupont De Nemours & Co., 104 Hawaiʻi 
+358, 365 n.14, 90 P.3d 250, 257 n.14 (2004) (noting that the lack of 
+distinction between the terms can lead to confusion).  However, we have since 
+clarified that, though “Hawaiʻ i appellate cases may have conflated the two ***  FOR  PUBLICATION IN WEST’ S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+10 
+ inapplicable where the issues involved “essentially a 
+continuation of the same suit and same claim”); see also 
+Esteban, 129 Hawaiʻ i at 159, 296 P.3d at 1067 (applying res 
+judicata based on a “previous lawsuit”); Bremer, 104 Hawaiʻ i at 
+54, 85 P.3d at 161 (same, as to “original suit”); Kauhane, 71 
+Haw. at 464, 795 P.2d at 279 (“both actions”); In re Bishop, 36 
+Haw. 403, 416 (Haw. Terr. 1943) (“new action”). 
+  Accordingly, the determinative question on appeal is whether Godinez’s post-judgment HRCP Rule 60(b) motion was a new 
+action or a continuation of the same action.  We conclude that 
+that Godinez’s HRCP Rule 60(b) motion was a continuation of the 
+foreclosure decree and judgment, and therefore the ICA erred by 
+applying the doctrine of res judicata. 
+1. An HRCP Rule 60(b) motion is a continuation of the 
+action 
+  Although we have not addressed whether an HRCP Rule 
+60(b) motion is a continuation of the original action, we have acknowledged that the primary purpose of the motion “is to 
+authorize the reopening of a closed case or a final order.”  Cho 
+v. State, 115 Hawaiʻ i 373, 383, 168 P.3d 17, 27 (2007) (emphasis 
+                     
+doctrines,” “[c]laim preclusion and issue preclusion are . . . separate 
+doctrines that involve distinct questions of law.”  Esteban, 129 Hawaiʻ i at 
+158, 158 n.8, 296 P.3d at 1066, 1066 n.8.  Nevertheless, even if the ICA 
+intended the term “res jud icata” to refer to issue preclusion, the result is 
+the same because, as we explained in Ditto, both doctrines apply only in a 
+second, subsequent case.  98 Hawaiʻ i at 128 n.6, 44 P.3d at 279 n .6.   ***  FOR  PUBLICATION IN WEST’ S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+11 
+ and citation omitted).  We now clarify that an HRCP Rule 60(b) 
+motion is a continuation of the original action.   
+HRCP Rule 60(b) permits a party to seek relief from a 
+“final judgment, order, or proceeding”: 
+On motion and upon such terms as are just, the court may 
+relieve a party or a party’s legal representative from a 
+final judgment, order, or proceeding for the following reasons: (1) mistake, inadvertence, surprise, or excusable 
+neglect; (2) newly discovered evidence which by due 
+diligence could not have been discovered in time to move 
+for a new trial under Rule 59(b); (3) fraud (whether 
+heretofore denominated intrinsic or extrinsic), misrepresentation, or other misconduct of an adverse party; 
+(4) the judgment is void; (5) the judgment has been 
+satisfied, released, or discharged, or a prior judgment 
+upon which it is based has been reversed or otherwise 
+vacated, or it is no longer equitable that the judgment should have prospective application; or (6) any other 
+reason justifying relief from the operation of the 
+judgment.  The motion shall be made within a reasonable 
+time, and for reasons (1), (2), and (3) not more than one 
+year after the judgment, order, or proceeding was entered or taken.  A motion under this subdivision (b) does not 
+affect the finality of a judgment or suspend its operation.  
+ 
+  Under the federal equivalent of HRCP Rule 60(b),6 
+Federal Rules of Civil Procedure (FRCP) Rule 60(b), federal 
+courts have recognized that an FRCP Rule 60(b) motion is 
+“considered ancillary to or a continuation of the original 
+suit[.]”  Smith v. Widman Trucking & Excavating, Inc., 627 F.2d 
+792, 799 (7th Cir. 1980); see Charter Twp. of Muskegon v. City 
+of Muskegon, 303 F.3d 755, 762-63 (6th Cir. 2002) (“[S]o long as 
+the Rule 60 claim is one which seeks relief from judgment, it is 
+                     
+6   “Rule 60 of the Federal Rules of Civil Procedure (FRCP) is 
+essentially identical to HFCR Rule 60.  Therefore, authorities interpreting 
+the Federal Rules are ‘highly persuasive.’”  Thomas- Yukimura v. Yukimura, 130 
+Hawaiʻi 1, 7 n.16, 304 P.3d 1182, 1188 n.16 (2013) (citation omitted).  
+ ***  FOR  PUBLICATION IN WEST’ S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+12 
+ not considered an independent claim[.]”); Bankers Mortgage Co. 
+v. United States, 423 F.2d 73, 78 (5th Cir. 1970); see also 12 
+Moore’s Federal Practice - Civil § 60.61 (3d ed. 2020) (“A[n FRCP] Rule 60(b) motion is considered a continuation of the 
+original proceeding.”).   
+  The Restatement (Second) of Judgments provides: “The [Rule 60(b)] motion is to be distinguished from a separate 
+action, . . . to set aside a judgment, and from an attack on a 
+judgment made defensively when the judgment in question is 
+relied upon by an opposing party in the course of a subsequent action.”  Restatement (Second) of Judgments § 78 Relief by 
+Motion (Am. Law. Inst. 2020) (emphasis added).  With regard to both state and federal Rule 60(b) motions, the Restatement notes 
+that “in most jurisdictions[,] the motion is regarded as a 
+continuation of the original action[.]”  Id.  
+PennyMac claims that “an appeal of an order disposing 
+of a Rule 60(b) motion cannot be used [as] a vehicle to 
+challenge an underlying judgment,” and similarly argues that 
+Godinez “is not permitted in a Rule 60(b) motion to collaterally attack the lower court’s conclusion that Respondent had standing 
+when Petitioner could have complained of that conclusion and the 
+judgment thereon on direct appeal.”  “A collateral attack ‘is an 
+attempt to impeach a judgment or decree in a proceeding not 
+instituted for the express purpose of annulling, correcting or ***  FOR  PUBLICATION IN WEST’ S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+13 
+ modifying such judgment or decree.’”  Kim v. Reilly, 105 Hawai‘ i 
+93, 96, 94 P.3d 648, 651 (2004).  A Rule 60(b) motion is 
+therefore not a “collateral attack” — the purpose of Rule 60(b) is to provide a mechanism for challenging a final judgment.  
+HRCP Rule 60(b) (“On motion . . . the court may relieve a party 
+or a party’s legal representative from a final judgment. . .”); 
+see also Watts v. Pinckney, 752 F.2d 406, 410 (9th Cir. 1985) 
+(noting a Rule 60(b) motion is a direct attack on a judgment). 
+In sum, we conclude that Godinez’s HRCP Rule 60(b) 
+motion was not a new action but rather a continuation of the original foreclosure case. 
+2. Res judicata does not apply to an HRCP Rule 60(b) 
+motion 
+  Godinez asserts the ICA erred in holding that res judicata barred her HRCP Rule 60(b) motion.  She argues, “To 
+hold that a Rule 60(b) motion is precluded under the doctrine of 
+res judicata defies logic, procedure, is contrary to and 
+inconsistent with [Wise], and in effect would completely nullify 
+Rule 60(b).”  She further argues, “Courts have long held that direct attacks on judgments under Rule 60(b) are not subject to res judicata,” citing a case from the Supreme Court of Alaska, 
+Dixon v. Pouncy, 979 P.2d 520, 523-24 (Alaska 1999), which in 
+turn cited cases from the Sixth and Ninth Circuit Courts of ***  FOR  PUBLICATION IN WEST’ S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+14 
+ Appeal.
+  We agree with Godinez and hold that the ICA erred in 
+applying res judicata to her HRCP Rule 60(b) motion.   
+  As Godinez notes, a number of other states have held 
+that res judicata generally does not apply to Rule 60(b) 
+motions.  See, e.g., Jones v. Murphy, 772 A.2d 502, 505 (Vt. 
+2001); Dixon, 979 P.2d at 524; New Maine Nat. Bank v. Nemon, 588 
+A.2d 1191, 1194 (Me. 1991); Pepper v. Zions First Nat. Bank, 
+N.A., 801 P.2d 144, 150-51 (Utah 1990).  Federal courts have 
+likewise recognized that res judicata generally does not bar 
+FRCP Rule 60(b) motions.  See Watts, 752 F.2d at 410 (“Res 
+judicata does not preclude a litigant from making a direct 
+attack under Rule 60(b) upon the judgment before the court which 
+rendered it.” (alteration omitted) (quoting Jordon v. Gilligan, 
+500 F.2d 701, 710 (6th Cir. 1974)); cf. Estrada–Rodriguez v. 
+Lynch, 825 F.3d 397, 402 (8th Cir. 2016) (“Collateral estoppel 
+does not apply here because the . . . issue was not previously determined by a valid and final judgment in a prior action 
+. . . .  Instead, the . . . issue was determined at an earlier stage of the same action and was reconsidered pursuant to the 
+reopening of the action.”).  As the United States Supreme Court 
+observed, “[i]t is clear that res judicata and collateral 
+estoppel do not apply if a party moves the rendering court in 
+the same proceeding to correct or modify its judgment.”  Arizona 
+v. California, 460 U.S. 605, 619 (1983). ***  FOR  PUBLICATION IN WEST’ S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+15 
+   PennyMac argues res judicata bars Godinez from 
+relitigating the issue of standing, relying on a case from the 
+Supreme Court of Ohio, Bank of America, N.A. v. Kuchta, 21 
+N.E.3d 1040, 1045-47 (Ohio 2014), and an unpublished ICA 
+decision, Wells Fargo Bank N.A. v. Lacuesta, No. CAAP-14-
+0001121, 2017 WL 2117678, at *2 (Haw. App. May 15, 2017), which cited to Kuchta.  In Kuchta, the court held that res judicata 
+barred borrowers from challenging standing by filing a Rule 60(b) motion.  Id. at 1045.  However, the Kuchta decision goes 
+against the weight of authority on this issue, and so we find it 
+unpersuasive. 
+  In concluding res judicata applied to Godinez’s HRCP Rule 60(b) motion, the ICA relied on our decision in Mortgage 
+Electronic Registration Systems, Inc. v. Wise, 130 Hawaiʻ i 11, 
+304 P.3d 1192 (2013).  But Wise does not control here because it 
+involved a separate proceeding in which the doctrine of res judicata was properly applied.
+7 
+  As we explained in Wise, “mortgage foreclosure 
+proceedings may be treated as analogous to two separate 
+proceedings for res judicata purposes” because of their 
+                     
+ 7   We recognize that the ICA has applied res judicata as a bar to 
+HRCP Rule 60(b) motions within the foreclosure context in numerous cases.  
+See, e.g., Bank of Am., N.A. v. Panzo, Nos. CAAP- 14-0001356, CAAP- 15-0000660, 
+2017 WL 1194002 ( Haw. App. March 31, 2017); Nationstar Mortg. LLC v. 
+Boonstra, No. CAAP- 18-0000583, 2019 WL 2441427 ( Haw. App. June 12, 2019).  
+Our decision today does not disturb those prior decisions that have become 
+final. ***  FOR  PUBLICATION IN WEST’ S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+16 “bifurcated nature[.]”  Id. at 17, 304 P.3d at 1198 (emphasis 
+added).  As a result, we held that “res judicata would preclude 
+[p]etitioners from challenging [r]espondent’s standing in their  
+appeal from the order confirming sale” because “challenges to  
+[r]espondent’s standing were subsumed under the foreclosure  
+judgment, which had [become] final and binding.”  Id. (emphasis  
+added).  Wise said nothing about Rule 60(b) motions, which we  
+had previously recognized could be filed even after a  
+foreclosure decree became final.  Beneficial Hawai ‘i, Inc. v.  
+Casey, 98 Hawai ‘i 159, 166, 45 P.3d 359, 366 (2002) (analyzing  
+the merits of issues raised in a Rule 60(b) motion filed eleven  
+months after the foreclosure decree entered).
+ Thus, our decision in Wise did not dispense with res 
+judicata’s separate-action-or-proceeding requirement.  Rather, 
+Wise reinforced the notion that res judicata only applies 
+between separate actions or proceedings.  130 Hawai ʻi at 19 n.12, 
+304 P.3d at 1200 n.12 (“[B]y filing a motion [for the] 
+confirmation of sale, [r]espondent may be understood to have in 
+effect filed a 
+separate action upon the judgment in a 
+foreclosure action.” (emphasis added) (citation and quotation 
+marks omitted)). 
+As Godinez argues, her HRCP Rule 60(b) motion was 
+filed as a direct challenge to the Foreclosure Decree and 
+Judgment.  It was filed before the commencement of any***  FOR  PUBLICATION IN WEST’ S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+17 
+ foreclosure sale or the inception of a separate action to 
+confirm the sale.   Under these circumstances, Wise was 
+inapplicable and res judicata did not preclude Godinez from 
+challenging standing.  Accordingly, the ICA erred in this 
+regard.  8
+B. The ICA Correctly Affirmed the Circuit Court’s Denial of 
+Godinez’s Rule 60(b) Motion 
+  Notwithstanding the incorrect application of res 
+judicata, the ICA properly concluded that the circuit court did 
+not abuse its discretion in denying Godinez’s HRCP Rule 60(b) 
+motion.  Trial courts are vested with “a very large measure of 
+discretion” in deciding HRCP Rule 60(b) motions, Hawaiʻ i Housing 
+Authority v. Uyehara, 77 Hawaiʻ i 144, 147, 883 P.2d 65, 68 
+(1994), and, as the ICA recognized, “Godinez makes no 
+discernible argument on appeal as to whether the [c]ircuit 
+[c]ourt abused its discretion in entering the Order Denying 
+Relief[.]”   
+  Godinez argues for the first time in her application 
+for writ of certiorari that relief is warranted under HRCP Rule 
+60(b)(6), the rule’s catch-all provision, which authorizes 
+                     
+8 As discussed below, the circuit court retains discretion to deny 
+an HRCP Rule 60(b) motion even without application of res judicata.  Thus, if 
+Godinez had filed her motion after the foreclosure sale took place (or even 
+just shortly before), the c ircuit court could have denied the motion as 
+untimely because Rule 60(b) motions must be filed within a “reasonable time” 
+or, alternatively, because a lender or third- party would be prejudiced by 
+overturning the judgment.  See 11 Charles Alan Wright, Arthur R. Miller, & 
+Mary Kay Kane, Federal Practice & Procedure § 2857 (3d ed. 2020).   ***  FOR  PUBLICATION IN WEST’ S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+18 
+ relief for “any other reason justifying relief from the 
+operation of the judgment,” based on PennyMac’s lack of 
+standing.  Relying on our decision in Tax Foundation, 144 Hawai‘ i 
+at 192, 439 P.3d at 144, Godinez asserts that lack of standing 
+is grounds for relief under HRCP Rule 60(b)(6), “especially as 
+this [c]ourt has identified standing . . . [as] one of the 
+‘prudential considerations of judicial self-governance.’”   
+  In response, PennyMac argues Godinez waived all of her arguments that relief was warranted under any provision of HRCP 
+Rule 60(b).  But even if Godinez had not, “[t]here are simply no 
+extraordinary circumstances that warrant extraordinary relief 
+under HRCP Rule 60(b)(6).”  We agree.  
+1. Godinez’s argument that PennyMac lacked standing does 
+not constitute “extraordinary circumstances”  
+  A party seeking relief under HRCP Rule 60(b)(6) after 
+the time for appeal has run must establish the existence of 
+“extraordinary circumstances” that prevented or rendered them 
+unable to prosecute an appeal.  Uyehara, 77 Hawaiʻ i at 148–49, 
+883 P.2d at 69–70.  This is because HRCP Rule 60(b)(6) “is not 
+for the purpose of relieving a party from free, calculated and 
+deliberate choices [they have] made.”  Id. at 149, 883 P.2d at 
+70 (quoting In re Hana Ranch Co., 3 Haw. App. 141, 147, 642 P.2d 
+938, 942 (1982)).  ***  FOR  PUBLICATION IN WEST’ S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+19 
+  
+ Godinez has not demonstrated “extraordinary 
+circumstances” sufficient for the relief requested.  The record 
+does not support Godinez’s claim that PennyMac lacked standing.  The circuit court found that PennyMac had standing after 
+PennyMac filed a declaration to comply with our decision in 
+Reyes-Toledo.  Given the circuit court’s unchallenged findings,
+9 
+Godinez has failed to demonstrate how the court abused its discretion in denying her HRCP Rule 60(b) motion. 
+2. The circuit court did not abuse its discretion by 
+declining to reverse previously decided issues 
+  “[A] fundamental precept of common-law adjudication is 
+that an issue once determined by a competent court is 
+conclusive.”  Arizona, 460 U.S. at 619.  This “general 
+principle[] of finality and repose” is embodied in the law of the case doctrine, which provides that “when a court decides 
+upon a rule of law, that decision should continue to govern the 
+same issues in subsequent stages in the same case.”  Id. at 618.  
+                     
+9   Had there been reliable evidence that PennyMac lacked entitlement 
+to enforce the promissory note because its predecessor- in-interest did not 
+possess the note at the time the complaint was filed, a different outcome 
+could be warranted.  See Reyes-Toledo, 139 Hawaiʻi at 369, 390 P.3d at 1256 
+(describing standing as a necessary safeguard given the “widespread problems 
+created by the securitization of mortgages”); see also Deutsche Bank Nat. 
+Trust Co. v. Johnston, 369 P.3d 1046, 1053 (N.M. 2016) (“Under these 
+circumstances, not even the plaintiffs may be sure if they actually own the 
+notes they seek to enforce.”).  For example, issues related to standing could 
+justify HRCP Rule 60(b) relief based on fraud or newly discovered evidence.  However, not only has Godinez failed to demonstrate entitlement to relief 
+under those sections of HRCP Rule 60(b), she has abandoned those arguments on 
+appeal.  Accordingly, Godinez has failed to demonstrate “extraordinary 
+circumstances” sufficient to justify relief. ***  FOR  PUBLICATION IN WEST’ S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+20 
+ Accordingly, the circuit court was within its discretion to 
+leave an issue it had already decided undisturbed. 
+ 
+ We have previously addressed the law of the case 
+doctrine only as applied by lower courts on remand after an 
+appeal.  E.g., Ditto, 98 Hawaiʻ i at 128, 44 P.3d at 279.  The 
+doctrine can also be invoked by a trial court with respect to 
+its own rulings, and in that instance, the doctrine is 
+discretionary and operates as a presumption against 
+reconsideration.10  18B Charles Alan Wright, Arthur R. Miller, & 
+Edward H. Cooper, Federal Practice & Procedure § 4478.1 (2d ed. 
+2020).  Here, in adjuicating Godinez’s motion to dismiss for 
+lack of standing, which was filed prior to Godinez’s Rule 60(b) 
+motion, the circuit court refused to reconsider the issue based 
+on the law of the case doctrine.  It would not have been an abuse of discretion for the court to apply the same rule when 
+faced with the same question in Godinez’s Rule 60(b) motion.   
+Godinez fully litigated the question of standing 
+before the trial court, filing numerous motions, challenging the 
+documents submitted by PennyMac, and arguing the issue before 
+                     
+10  By contrast, when “the law of the case” has been established by 
+an appellate court, the lower court is obliged to apply it.  Ditto, 98 Hawaiʻ i 
+at 128, 44 P.3d at 279; s ee also Weinberg v. Mauch, 78 Hawaiʻ i 40, 47, 890 
+P.2d 277, 284 (1995) (“The doctrine of the law of the case states that a 
+determination of a question of law made by an appellate court in the course 
+of an action becomes the law of the case and may not be disputed by a 
+reopening of the question at a later stage of litigation.” (citations and 
+quotation marks omitted)).  ***  FOR  PUBLICATION IN WEST’ S HAWAI ʻI REPORTS AND PACIFIC REPORTER  ***  
+ 
+21   /s/ Mark E. Recktenwald 
+  /s/ Paula A. Nakayama   /s/ Sabrina S. McKenna 
+  /s/ Michael D. Wilson 
+ /s/ R. Mark Browning 
+ the court at the summary judgment hearing as well as at the 
+hearing on her motion to dismiss after this court decided Reyes-
+Toledo.  Nothing in the record suggests that Godinez did not 
+have a full and fair opportunity to litigate the issue.  And, as the ICA noted, Godinez failed to timely appeal from the circuit 
+court’s summary judgment order.   
+  Accordingly, the circuit court did not abuse its discretion in denying Godinez’s HRCP Rule 60(b) motion, and the 
+ICA properly affirmed the circuit court’s decision. 
+V. CONCLUSION 
+  Subject to the foregoing clarification, we affirm the 
+ICA’s January 10, 2020 Judgment on Appeal. 
+Gary Victor Dubin and 
+Frederick J. Arensmeyer
+for petitioner    
+ 
+ 
+ 
+Patricia J. McHenry,
+Peter T. Stone and Sun Young Park  for respondent 
+      
+  
+  

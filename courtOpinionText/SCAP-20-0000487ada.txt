@@ -1,0 +1,1809 @@
+***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ʻI 
+ 
+---o0o--- 
+________________________________________________________________
+ 
+ 
+KIAʻI WAI O WAI
+ʻALEʻALE, an unincorporated community association,
+Plaintiff- Appellant, 
+ 
+vs. 
+ 
+DEPARTMENT OF WATER, COUNTY OF KAUA ʻI, applicant and accepting 
+agency of the subject environmental a ssessment, 
+Defendant -Appellee.  
+________________________________________________________________ 
+ 
+SCAP-20-0000487 
+ 
+APPEAL FROM THE ENVIRONMENTAL COURT OF THE FIFTH CIRCUIT 
+(CAAP-20-0000487;  CIV. NO. 5CC181000063) 
+ 
+SEPTEMBER 23, 2022 
+ 
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, WILSON, AND EDDINS, JJ. 
+ 
+OPINION OF THE COURT BY McKENNA, J. 
+ 
+ 
+I. Introduction 
+This transfer case addresses the required scope of 
+environmental review under the Hawai ‘i Environmenta
+l Policy Act Electronically Filed
+Supreme Court
+SCAP-20-0000487
+23-SEP-2022
+09:28 AM
+Dkt. 48 OP***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 2 (“HEPA”) and its administrative rules.  The Department of Water, 
+County of Kaua‘ i 
+(“KDOW”) proposes to install an 18-inch-diameter 
+water transmission line in the Līhu ‘e area.  The proposed line 
+(“relief line”) will run approximately 9,000 feet in length and 
+connect on each end to existing KDOW water lines.  Pursuant to 
+HEPA, KDOW prepared 
+a draft environmental assessment (“ DEA”) for 
+the relief line and made an anticipated finding of no 
+significant impact (“ AFONSI”).  After receiving comments on the 
+DEA, KDOW published its final environmental assessment (“FEA”)  
+and made a finding of no significant impact (“FONSI”) . 
+Kia‘i Wai o Wai‘ale‘ale (“Kia‘i Wai”) challenged the FEA in 
+the Environmental Court of the Fifth Circuit (“environmental 
+court”).1  In part, Kia‘i Wai argued KDOW did not comply with 
+HEPA and its administrative rules because the FEA d oes not 
+analyze how the relief line would facilitate greater water 
+withdrawals and impact streams in Kaua‘i’s southeast ern 
+watersheds.  Kia‘ i Wai also argued the relief line was improperly 
+“segmented” from certain Līhu‘e development projects and a water 
+treatment plant project, and those projects therefore should 
+have been analyzed as part of the same “action .”  The 
+environmental court granted summary judgment in favor of KDOW as 
+to all of Kia‘i Wai’s claims.    
+                     
+1  The Honorable Kathleen N.  A. Watanabe  presided. ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 3   We hold KDOW did not properly  analyze the impact of water 
+withdrawals facilitated by the relief line.  The FEA does not 
+analyze possible increased water withdrawals, concluding  the 
+relief line “will not increase withdrawal of water. ”  However, 
+the record--including the FEA itself-- indicates  the relief line 
+will carry more water from an upgraded water treatment plant to 
+meet the needs of new developments.  
+HEPA and its administrative 
+rules require analysis of “secondary impacts,” which can occur 
+outside the physical footprint of a project.   
+Additionally, KDOW may have improperly “segmented ” the 
+relief line from planned  development projects and a water 
+treatment facility project.  We clarify the “independent 
+utility” test and hold that a project may be improperly 
+segmented from other projects even if it has some i ndependent 
+utility.  We adopt the “double” or “multiple” independent 
+utility test and hold the independent utility test requires 
+courts to consider whether each of the projects-- not just one of 
+the projects--would occur independently.  
+Hence, w e conclude KD OW must prepare a new environmental 
+assessment (“EA”)  that complies with HEPA and its administrative 
+rules.  We also address Kia
+‘i Wai’s other claims.  ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 4 II. Background  
+A. Factual background  
+ 
+1. The Līhu ‘e Development Plan and the proposed relief 
+line 
+ 
+According to the FEA, in 1994, the Hawai ‘i Land Use
+ 
+Commission approved the Līhu ‘e-Hanamā‘ulu Master Planned 
+Community proposal ( “Līhu‘e Development Plan ”).  The Līhu ‘e 
+Development Plan covers approximately 515 acres, nearly all the 
+acreage available for development in the Līhu ‘e area, and 
+includes residential units, commercial and industrial 
+properties, and public facilities.  The Līhu‘e Development Plan 
+was submitted by Amfac/JMB Hawaii, Inc.  Grove Farm Company, 
+Inc. (“Grove Farm”) is the successor in interest to Amfac/JMB 
+Hawaii, Inc. and is required to participate in the funding and 
+development of water source, storage, and transmission 
+facilities for the Līhu ‘e Development Plan. 
+In 2009, Kodani & Associates Engineers, LLC prepared a 
+“Water Master Plan” to address the water requirements of the 
+Līhu‘e
+ Development Plan.  The developments in the Līhu‘e 
+Development Plan (“Līhu‘e developments”)  will be2 served by 
+                     
+2  The relief line FEA states the Līhu‘ e developments “will be” served by 
+the Līhu‘ e system , suggesting the developments had not been completed as of 
+2018.  The record does not indicate the  current status of the Līhu ‘e 
+Development Plan.   At oral argument  before this court , counsel was unaware of 
+the current status of the Līhu‘e developments or the related Waiahi Surface 
+Water Treatment Plant  
+described below. ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 5 KDOW’s Puhi-Līhu‘ e-Hanamā‘ulu-Kapa‘a Water System (“Līhu ‘e 
+system”).  The Līhu ‘e system is a public water system operated by 
+KDOW that serves residential, commercial, industrial, public, 
+and resort uses.  
+The relief line FEA describes how the relief line is 
+necessary to meet the water transmission needs of the Līhu‘e 
+Development Plan:  
+ 
+The Water Master Plan identified a decrease in system 
+pressures and flows as a result of the [Līhu‘e] Development 
+Plan unless transmission and distribution improvements were 
+provided.  Hydraulic modeling showed that the pressure at 
+the Mā‘alo Road and Kūhiō  Highway intersection, 102’ 
+elevation, exceeded the 125 [pounds per square inch]  
+maximum under average day demands.  
+ As a result of the 
+excess pressure, elevation, and velocity restrictions, the 
+current transmission  line capacity is deemed inadequate .  
+The proposed Relief Line is necessary to address this 
+capacity limitation . 
+ 
+(Emphasis added and endnote omitted.)  
+The FEA explains that the relief line will create more 
+capacity to transmit water from the Waiahi Surfa ce Water 
+Treatment Plant (“Waiahi SWTP”)3 and certain wells.  The Waiahi 
+SWTP is of particular importance to this case.  As the FEA 
+explains, “[t]he Waiahi SWTP is a major source of potable water 
+for the Līhu
+‘e system.  The current  capacity of the Waiahi SWTP 
+is 3.0 million gallons per day (MGD) in accordance with various 
+governmental regulations and approvals. ”  
+ 
+                     
+3  The relief line FEA also refers to the Waiahi SWTP as the “ Grove Farm 
+Surface Water Treatment Plant .”  ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 6 (continued . . . )  The FEA explains: 
+KDOW determined that the [existing water main] is not 
+adequate to transmit the current source water without 
+exceeding the 6 [feet per second (“ FPS”)] max flow rate 
+allowed by Hawai
+‘i Water System Standards (“WSS”).  The 
+proposed Relief Line is necessary to meet WSS standards (6 
+FPS max flow criteria) with current sources on Mā‘alo Road. 
+ 
+. . . .  
+ 
+The proposed Relief Line will improve the overall 
+water system transmission capability  by transmitting water 
+from Waiahi SWTP, Pukaki well, and Hanamā ‘ulu Wells 3 and 4  
+sources, which are the existing sources on Mā‘alo Road, 
+directly to the central Līhu‘ e area.  It  will also improve 
+the system’s reliability because it creates transmission 
+redundancy from the existing sources on Mā‘alo Road to 
+central Līhu ‘e which has the greatest demand in the system. 
+ 
+(Emphasis added.)    
+ Thus, the FEA indicates the relief line is necessary to 
+address a “capacity limitation,” which is “a result of the 
+[Līhu‘e] Development Plan,” and also to improve reliability and 
+transmission of “current source  water.” 
+ Grove Farm will pay one -third of the estimated $3 million  
+project cost, and KDOW will pay two-thirds.    
+2. Water sources 
+   
+ As indicated by its name, 
+the Waiahi SWTP treats surface 
+water rather than groundwater.  The Waiahi SWTP draws water from 
+at least two surface water hydrologic u nits: #2040, Wailua, and 
+#2042, Hanamā‘ ulu.4     
+                     
+4  A “hydrologic u nit” is a surface drainage area , a ground water basin , 
+or a combination of the two.  Hawai‘ i Revised Statutes (“ HRS”) § 174C-3 
+(2011).  The Com mission on Water Resource Management (“the CWRM”) manages the ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 7 Water for the Waiahi SWTP  is stored in the Kapaia Reservoir 
+before treatment for use in KDOW ’s water system .5  Water reaches 
+the Kapaia Reservoir by way of the Hanamā‘ulu Ditch, which 
+diverts water from the South Fork Wailua River.  The South Fork 
+Wailua River is, in turn, fed by numerous streams.  Some of 
+those streams, including Wai‘ale‘ale Stream and Waikoko Stream,  
+are diverted by the ‘Ili‘ili‘ula North Wailua Ditch and their 
+waters pass through hydropower plants before reaching the Sou th 
+Fork Wailua River.  The diversion points of Wai‘ale‘ale Stream 
+and Waikoko Stream are located on state Department of Land and 
+Natural Resources (“ DLNR”) forest reserve land.   
+ A Commission on Water Resource Management (“ CWRM”) document 
+explains the importance of Wai‘ale‘ale Stream
+, Waikoko Stream, 
+and other nearby water resources  to traditional and customary 
+Hawaiian practices:  
+The region has tremendous historic and cultural importance  
+and features prominently in Hawaiian spiritual practices.  
+The waters carry the literal and  spiritual nourishment from 
+the mountain to the ocean that Hawaiian communities have 
+relied upon for generations.  As such, the physical 
+presence of stream diversions has a negative effect on 
+these practices and  restoration of mauka to makai 
+streamflow is critical to protecting  Hawaiian culture.   
+                                                                  
+( . . . continued)  
+State’s water resources based on designated h ydrologic u nits.  See  HRS § 
+174C-31(h), (i) (2011).  
+ 
+5  One way to understand the relevant water sources  and diversions is  by 
+reference to a schemati c of the water system.  A schematic of diversions in 
+the Wailua h ydrologic unit is contained in the record as part of an August 
+21, 2018 CWRM staff submittal recommending amended interim instream flow 
+standards for Wai‘ ale‘ale Stream and Waikoko Stream (“2 018 CWRM staff 
+submittal”).   ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 8 3. Draft environmental assessment and comments 
+ 
+KDOW is the “proposing agency”  for the relief line and is 
+therefore responsible for preparing an  EA and determining 
+whether an environmental impa ct statement (“EIS”) is required.   
+See Hawai‘i Admin istrative Rules (“HAR”) § 11-200-9 (replaced 
+2019).  The EA for the relief line was prepared by Kodani & 
+Associates Engineers, LLC
+, the same firm that prepared the Water 
+Master Plan for the Līhu‘e Development Plan.6   
+KDOW made an A FONSI and published the  DEA for the relief 
+line in the Office of Environmental Quality Control ’s (“OEQC’s”) 
+Environmental Notice on February 8, 2018.7   
+  Kia‘i Wai and its members submitted comments on the DEA 
+until March 12, 2018, the day comments were due.  Kia‘i Wai 
+submitted two comments as described below.8 
+ 
+                     
+6  References to “KDOW” in this opinion may refer to Kodani & Associates 
+Engineers, LLC acting on behalf of KDOW.   
+ 
+7  In 2021, the OEQC was renamed the “Environmental Review Program” and 
+transferred from the Department of He alth to the Office of Planning and 
+Sustainable Development.  See 2021 Haw. Sess. Laws Act 152 , at 567-78.   
+ 
+8  Additionally, on June 30, 2017, before the publication of the February 
+8, 2018 DEA, the State of Hawaiʻi Department o f Hawaiian Home Lands (“DHH L”) 
+submitted comments in response to KDOW’s early consultation request.  DHHL 
+expressed concern about how the relief line project would impact DHHL’ s 
+future planned developments in Wailua  and 
+potential lo ʻi kalo uses of DHHL 
+lands.  DHHL also stated that the relief line 
+DEA should discuss impacts to 
+surface water resources and cultural uses of those resources.  Thus, DHHL 
+recommended an EIS be prepared for the relief line.   ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 9 a. Comments by Sustainable Resources Group Int’l, 
+Inc. on behalf of Kia‘i Wai 
+ 
+Sustainable Resources Group Int’l, Inc. (“SRGII”) prepared 
+comments on behalf of Kia‘i Wai.  
+The comments alleged numerous 
+shortcomings with the DEA, including a lack of hydraulic 
+analysis demonstrating the existing line was inadequate.  SRGII 
+also noted: 
+[T]here are several statements that mention the relief line 
+is sized to provide future transmission needs, without any 
+discussion and/or reference to future needs.  This raises 
+the question as to whether this proposed relief line is 
+part of plans to increase conveyance capacity in the 
+pipeline network to meet future water demands.  If in fact 
+this proposed project is part of future actions that affect 
+water use and increase consumptive uses, then it is logical 
+to surmise there will be increased withdraws from source 
+surface and/or groundwaters in the future to meet demand.   
+As such, pursuant to Chapter 343, the DEA should consider 
+cumulative impacts of all actions proposed as part of 
+future water uses, and not just assessment of the Relief 
+Line.  
+ 
+ KDOW responded by stating , “[T]he proposed Relief Line will 
+increase water transmis sion capacity within the existing KDOW 
+water system; however, it will not result in any increase of the 
+withdrawal of any of the groundwater or surface water sources.”   
+b. Comments by Bridget Hammerquist on behalf of Kia
+‘i 
+Wai and minutes from KDOW board meetings  
+ 
+ 
+Bridget Hammerquist (“Hammerquist ”), a co-founder of Kia‘i 
+Wai, submitted comments on behalf of Kia‘i Wai and attached  
+minutes from KDOW’s December 2009 and January 2010 board 
+meetings.  According to Hammerquist, the KDOW meeting minutes 
+“conf
+irm the [relief line] was proposed as part of Grove Farm ’s ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 10 application to KDOW for approval of [a]  Plan to increase 
+capacity at the [Waiahi] SWTP.”     
+ The December 17, 2009 KDOW board meeting included KDOW 
+board members, KDOW staff members, and representa tives from 
+Grove Farm.  One agenda item for the meeting was “ Manager’s 
+Report No. 10-30 -  Request Board Approval of Grove Farm ’s 
+Request to Add Capacity to the Waiahi Treatment Facility .”9  As 
+documented in the meeting minutes, the KDOW staff recommended 
+the board allow Grove Farm to increase the capacity of the 
+Waiahi SWTP.  However, the KDOW staff had “reservations” about 
+“available water” and “ transmission capacity needed for the new 
+flow rate.
+”     
+Regarding water availability, the staff noted that the 
+Kapaia Reservoir is large but “ it is not known at this time ” 
+whether increasing the capacity of the treatment plant would 
+affect water availability in the reservoir.  The staff requested 
+                     
+9  At a March 13, 2019 hearing on one of KDOW’s motions for partial 
+summary judgmen t, counsel for KDOW stated, “T he minutes from the 2009  excerpt 
+that [Kia‘i Wai’s attorney] attached, again, relates to a  wastewater treatment 
+facility that was proposed back  in 2009.”   This was incorrect.  The attached 
+minutes referred to “potable water p roduction” from a reservoir.  The FEA 
+states that the Waiahi SWTP “is a major source of potable water for the Līhu ‘e  
+system.”  
+ 
+At oral argument  before this court, counsel for KDOW stated that the 
+meeting minutes were “not proper
+ly brought up” before the e nvironmental 
+court.  However, if the environmental court did not recognize the relevance 
+of the meeting minutes, this  could have been due to KDOW’s representation 
+that the minutes referred to a wastewater treatment plant.   ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 11 a flow-duration study to measure the water flowing through the 
+reservoir, the water taken out, and the reservoir level.  
+ Next, the KDOW staff had concerns about transmitting the 
+increased quantity of water from the facility once the treatment 
+capacity increased
+.  Apparently, at the time of the board 
+meeting, there was an e xisting agreement between KDOW and Grove 
+Farm, which acknowledged  additional transmission capacity could 
+be necessary and allocated the costs of transmission upgrades.10  
+One of the solutions to the transmission problem discussed at 
+the board meeting was t
+he “Ehiku bypass line,” another name for 
+the proposed relief line.11  The Grove F arm representatives at 
+the meeting made clear that the bypass line was necessary for 
+the expansion of the Waiahi SWTP:  “[ Mr. Nishimura , a KDOW board 
+member] asked the applicant if they do the expansion would it 
+                     
+10  The agreement stated:  
+ 
+[T]he parties acknowledge that a portion of the BWS water transmission 
+system located in the Hanamaulu area in Kuhio Highway (from Kapaia 
+Bridge to Wilcox Hospital and running toward Kapaa), which is intended 
+to transport portions of the delivered water, may req uire upsizing or 
+replacement, due to a physical size constraint, in order to accept the 
+quantity of delivered water contemplated by this agreement.  The 
+parties have agreed that any mutually approved cost required to upsize 
+or replace the described portio n of the transmission system or to 
+install an additional transmission line along the cane haul road/Ehiku 
+Street route, as each are shown on the map attached as Exhibit 3 (the 
+“Pipeline Improvement Map”) shall be borne 66.67% by BWS and 33.33% by 
+Grove Farm. 
+ 
+(Emphasis added.)   
+ 
+11  The FEA describes  how the proposed relief line  connects from Mā‘alo Road 
+to ‘Ehiku Road via the privately owned Kapaia  Cane Haul Road.  S imilarly, the 
+“Ehiku bypass line” described in the board meeting  would travel “along [Grove 
+Farm’s
+] cane haul road connecting to  Ehiku and Isenberg Roads. ”   ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 12 require this line to go in; Mr. Tresler [a Grove Farm 
+representative] replied, ‘yes.’”  Mr. Tresler also stated that 
+“they need to install this line now ,” and “the bottom line is 
+the Ehiku line needs to go in if we expand the plant .”   
+ The meeting minutes also indicate
+ the Waiahi SWTP expansion 
+was essential to the Līhu‘e Development Plan
+.  The Water Master 
+Plan identified the Waiahi SWTP as the water source for the 
+Līhu‘e developments , and KDOW’s approval of the Waiahi SWTP 
+expansion would help Grove Farm secure funds from lenders.12   
+ Minutes from the 
+January 28, 2010 KDOW board meeting 
+indicate the KDOW board approved Grove Farm’s request to expand 
+                     
+12  The minutes include the following exchange:  
+ 
+Mr. D. Fujimoto [a KDOW board member] felt that the applicant did 
+have urgency and wondered if they needed a  decision today.  
+ 
+Mr. Costa [a KDO W board member] wondered if they were trying to 
+get their Water Master Plan.  Mr. Tresler  replied that it was approved 
+and their source was sited as Waiahi.  He said they won’ t shut down if 
+they don’ t get approval today; but at the same time, he couldn ’t 
+understand why they couldn ’t get an approval today because it is an 
+important aspect when you go  to lenders and they ask if you have water, 
+but they don’ t have the papers from the  Department of Water approving 
+this. 
+ 
+Mr. Costa wondered if this has a bearing on Wailani project.  Mr. 
+Tresler replied that it  does and includes Ahukini Makai and Kohealoa, 
+and they have to move quickly once it  is closed. 
+ 
+The projects referenced  in this exchange are some of the projects in 
+the Līhu‘ e Developme
+nt Plan.  The FEA states:  “The Līhu‘ e Development Plan 
+described the planned development plans of  the Wailani project (Molokoa, 
+Ahukini Mauka, and Ahukini Makai) and the Hanamā‘ulu Triangle project .”  
+(Endnote omitted.)  ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 13 the Waiahi SWTP.  At the meeting, the parties noted the 
+expansion project might not take place until many years later.13   
+In light of  these meeting minutes, Kia‘i Wai posed the 
+following question in its comments on the relief line DEA:  “Is 
+the proposed change part of a larger water capacity delivery 
+plan and if so how does the current KDOW DEA comply with [Hawai‘ i 
+Revised Statutes (“ HRS”) chapter 343]  and its requirement  that 
+environmental assessments not be perform ed on segments of a 
+larger development plan? ”   
+In response to Kia‘i Wai’s comments and the attached meeting 
+minutes, KDOW wrote:  
+ The scope of this project is limited to addressing an 
+existing hydraulic deficiency in [KDOW’s] existing water 
+distribution system.  There is no proposed increase in 
+source capacity with this project.  Additionally, . . . 
+“The Proposed Relief Line addresses existing inadequate 
+transmission facilities and is not a commitment to larger 
+actions.”  The proposed project is independent of other 
+actions.  The existing capacity of the Waiahi  [SWTP] is not 
+being changed [within] the scope of this project, nor will 
+this Project modify the capacity of the Waiahi [S WTP].  
+ 
+4. Final environmental assessment 
+ 
+By letter dated March 12, 2018, KDOW transmitted the FEA 
+and FONSI to the OEQC for publication in the Environmental 
+Notice.   
+The FEA includes a section on water resources.  In that 
+section, the FEA reviews the water sources that supply the Līhu‘ e 
+                     
+13  The KDOW board imposed the condition that the expansion was to be 
+completed by September 30, 2018.  The record does not reflect whether Grove 
+Farm later received an extension.   ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 14 system and discusses the interim instream flow standards14 for 
+those sources.  The FEA ’s section regarding “potential impacts” 
+on water resources states in its entirety:  
+The proposed Relief Line will increase water 
+transmission capacity within the ex
+isting KDOW water 
+system; however, it will not result in any increase of the 
+withdrawal of any of the groundwater or surface water 
+sources.  The maximum rate of flow from the existing 
+groundwater wells and Waiahi SWTP will not increase  as a 
+result of the installation of the proposed Relief Line.  As 
+such, the proposed Relief Line is in compliance with both 
+the [Water Resource Protection Plan] and the Interim 
+Instream Flow Standard as contained in  HAR § 13-169-45.   
+ 
+The proposed Relief Line has no significant adverse 
+impact on the hydrologic resources or characteristics of 
+the area and therefore, no mitigation measures are 
+proposed.  
+ 
+ The FEA also includes a section on “secondary and 
+cumulative impacts”  of the project, which states:  
+The Līhu
+‘e Development Plan described the planned 
+development plans of the Wailani project (Molokoa, Ahukini 
+Mauka, and Ahukini Makai) and the Hanamā‘ulu Triangle 
+project.  These planned developments account for 
+approximately 515 acres of land, or nearly all the acreage 
+available  for development in the Līhu‘e area, and include 
+single and multifamily residential units, commercial, 
+industrial properties, and public facilities (YWCA, parks).  
+  
+The proposed Relief Line does not increase source and 
+storage in the Līhu‘e area; the proposed Relief Line will 
+not increase withdrawal of water.   It is necessary to 
+address the current system limitations.  [A]ddressing the 
+current system limitation, through increasing the size of 
+the pipe, may result in the availability of additional 
+transmission capacity.  Such additional capacity would be 
+available to future development, subject to the Water 
+System Standards . . . . The proposed Relief Line addresses 
+existing inadequate transmission facilities and does not 
+induce, change, or  intensify unplanned  growth or 
+development.  
+ 
+(Emphasis added and endnote  omitted. )  
+                     
+14  See infra note 33. ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 15 B. Procedural background 
+ 
+1. Environmental court proceedings  
+ 
+a. Complaints 
+ 
+ On October 17, 2018, Kia‘i
+ Wai filed an amended complaint 
+against KDOW.15  The amended complaint challenged KDOW’s failure 
+to analyze the relief line’s impact on water resources, 
+alleging: (1) because the FEA did not analyze increased water 
+use facilitated by the relief line, KDOW violated HEPA and its 
+administrative rules,  HRS § 195D -4 (2011),16 KDOW’s public trust 
+obligations, and article XII, section 7 of the Hawai ‘i 
+Constitution;17 and (2) KDOW improperly “segmented” its 
+environmental review  by failing to consider impacts of the Līhu‘ e 
+Development Plan despite acknowledging the relief line is a 
+necessary precedent to the Līhu‘ e development projects.  The 
+amended complaint also alleged the following procedural 
+violations: (1) KDOW 
+could not have adequately considered public 
+                     
+15  On April 23 , 2018, Kia ‘i Wai filed a “Co mplaint for Declaratory, 
+Injunctive, and Other Relief” against KDOW , Grove Farm, the Department of 
+Public Works (“DPW”) of the County of Kaua ‘i,  and the State of Hawai ʻi 
+Department of Transportation (“DOT”) in the environmental court.  In the 
+amended complaint, 
+Kia‘i Wai removed Grove Farm, DPW, and the DOT as 
+defendants, so that only KDOW remained as a defendant.     
+ 
+16 HRS § 195D-4 is part of the Hawai‘i endangered sp ecies statute . 
+ 
+17  Article XII, section 7 of the Hawai ‘i Constitution states: “ The State 
+reaffirms and shall protect all rights, customarily and traditionally 
+exercised for subsistence, cultural and religious purposes and possessed by 
+ahupua‘a tenants who are descendants of native Hawaiians who inhabited the 
+Hawaiian Islands prior to 1778, subject to the right of the State to regulate 
+such rights.”  ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 16 comments on the DEA because KDOW transmitted its FEA to the OEQC 
+the same day comments were due; and (2) KDOW relied on input 
+from the CWRM yet did not include the substance of the CWRM’s 
+input in the FEA.  Additionally , the amended complaint alleged 
+neither KDOW nor Grove Farm holds a water lease or permit from 
+the state Board of Land and Natural Resou rces (“BLNR”), and KDOW 
+violated HRS § 171- 58 (2011)18 by failing to obtain a lease or 
+permit prior to granting rights to use s tate land and water 
+resources.  Kia‘ i Wai also sought injunctive relief.19   
+b. Motions for summary judgment  
+ 
+KDOW filed motions for  partial summary judgment , which 
+together addressed all of Kia‘ i Wa
+i’s claims .   
+In its motions, KDOW maintained “the Relief Line ’s purpose 
+is limited to addressing an existing hydraulic deficiency in the 
+County’s existing water distribution system and [] there is no 
+proposed increase in source capacity with this project .”  KDOW 
+argued that if Kia ‘i Wai’s view
+ were adopted , environmental 
+review of the water source would be required  “for every repair 
+                     
+18  HRS chapter 171 addresses the management and disposition of public 
+lands.  HRS § 171- 58 states in part, ”Except as provided in this section, the 
+right to any mineral or surface or ground water shall not be included in any 
+lease, agreement, or sale, this right being reserved to the State ,” and, 
+“Disposition of water rights may be made by lease at public auction as 
+provided in this chapter or by permit for temporary use on a month -to-month 
+basis . . . .” 
+ 
+19  Although not addressed on appeal, KDOW also alleged: (1) the FEA d oes 
+not analyze reasonable alternatives to the relief line; and (2) the FEA fails 
+to discuss how the proposed relief line will be used  and why the existing 
+transmission line is inadequate.  ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 17 project that the County does .  . . whether it’s a repair or 
+. . . just a replacement line . . . .”    
+KDOW also contended the relief line was not improperly 
+segmented from the Līhu‘e Development Plan
+:  
+It is undisputed that the Grove Farm Final EA[20] was 
+completed, accepted, and approved in 1994.  It is also 
+undisputed that the purpose of the Relief Line is to 
+provide redundancy and reliability to KDOW ’s water system.  
+Given this, the Relief Line has utility separate and 
+independent from that Development Plan, and is neither a 
+condition precedent to nor dependent  on the Development 
+Plan. 
+ 
+Additionally, KDOW asserted it was not required to obtain a 
+lease or permit for water pursuant to HRS § 171-58 because HRS § 
+54-15 (2012) empowers the KDOW board to “manage, control, and 
+operate the waterworks of the county and all property thereof, 
+for the purpose of supplying water to the public in the 
+county . . . .”   
+ In opposition, Kia‘i
+ Wai argued that the FEA itself states 
+that the relief line is needed because of the Līhu‘e 
+developments.  Kia‘i Wai also provided a declara tion from 
+hydrologist and water resource engineer Matt Rosener  
+(“Rosener”) .  The declaration stated that, in light of plans to 
+expand the capacity of the Waiahi SWTP, “it seems highly likely 
+that increased water transmission capacity through the proposed 
+Relief Line will trigger subsequent development of water 
+                     
+20  This document is not in the record.  ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 18 processing capacity. ”  In addition to referencing the KDOW board 
+meeting minutes, Rosener cited  a Department of Health inspection 
+report for the Waiahi SWTP dated March 16, 2018, which stated 
+that the facility “is slated for an upgrade that will increase 
+production capacity from 3.00 [ MGD] to 4.77 MGD. ”     
+ Rosener also quantified  how the relief line would increase 
+transmission capacity:   
+If the proposed Relief Line is constructed, the new 
+limiting m ain segments will be the 16” pipelines that the 
+Relief Line would connect to at either end.  The 
+transmission capacity in this scenario would be 5.41 MGD 
+which is 178% of the existing capacity of 3.05 MGD. 
+  This 
+is [] not insignificant.  Future water demand estimates for 
+Līhu‘e-Puhi presented in KDOW’s Water Plan 2020 are 4.07 MGD 
+and 5.50 MGD for 2020 and 2050, respectively.  
+ 
+Rosener concluded: 
+Given the potential for this project to 1.) trigger 
+other water system development and 2.) result in  continued 
+inter
+-basin water transfer from several stream sources, 
+including those under current  water appropriation contested 
+case status, it seems that potential impacts to the stream 
+water sources should have been evaluated by KDOW and their 
+consultant in the  environmental review  process. 
+ 
+ Additionally, Kia
+‘i Wai argued KDOW was required to obtain a 
+lease or permit from the BLNR for its use of water from state 
+lands.  Kia‘ i Wai asserted an EIS has never been done for the 
+Līhu‘e system, and KDOW would be required to prepare an EIS once 
+it applies for a lease or permit from the BLNR.   
+By orders entered April 2, 2019, October 3, 2019, and June 
+30, 2020, t he environmental court granted summary judgment in 
+favor of KDOW as to all the counts in Kia‘i Wai
+’s amended ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 19 complaint.  The environmental court entered  final judgment in 
+favor of KDOW on June 30, 2020.     
+2. Appeal  
+ 
+ Kia‘i Wai filed a notice of appeal to the  Intermediate Court 
+of Appeals (“ICA”)  on July 29, 2020.  Kia ‘i Wai asked the ICA to:  
+(1) reverse the environmental court’s orders granting summary 
+judgment to KDOW;21 (2) declare that KDOW violated HEPA and KDOW 
+is required to prepare an EIS and obtain a “lease, license[ ,] or 
+revocable permit”  to use state water pur suant to HRS § 171-58; 
+and (3) issue a temporary injunction against “extraction and 
+transport of water ” from Kauai’s eastern and southeastern  
+watersheds until KDOW completes an EIS for its “water transport 
+system” and obtains a “lease, license[ ,] or revoc able permit 
+. . . .”   
+We granted Kia ‘i Wai’s application to transfer the case to 
+this court.22  After completion of briefing, oral argument took 
+place on April 5, 2022. 
+III.  Standards of Review 
+A. Summary judgment  
+ 
+Hawai‘i appellate courts review an award of s ummary 
+judgment de novo under the same standard applied by the 
+                     
+21  Kia‘i Wai does not challenge the environmental court’s disposition of 
+Counts V (failure to consid
+er alternatives) and  VI (failure to include 
+certain required information)  in the amended complaint.   
+ 
+22 Hui Ho‘opulapula Nā  Wai o Puna and the Sierra Club (collectively, 
+“amici”) were also granted 
+leave to appear and file an amicus brief.   ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 20   circuit court. . . . Summary judgment is appropriate if the 
+pleadings, depositions, answers to interrogatories, and 
+admissions on file, together with the affidavits, if any, 
+show that there is no genuine issue as to any material fact 
+and that the moving party is entitled to judgment as a 
+matter of law. . . . The moving party bears the burden of 
+demonstrating that there is no genuine issue as to any 
+material fact with respect to the essential ele ments of the 
+claim or defense and must prove that the moving party is 
+entitled to judgment as a matter of law.  This court must 
+review the evidence and inferences in the light most 
+favorable to the non -moving party.  
+ 
+In cases of public importance, a circu it court should 
+grant a motion for summary judgment sparingly, and never on 
+limited and indefinite factual foundations.  
+ 
+Kilakila 
+‘O Haleakala v. University of Hawai‘i (“Kilakila ”), 138 
+Hawai‘i 364, 375, 382 P.3d 176, 187 (2016) (cleaned up). 
+B. Agency determinations under HEPA 
+ 
+For agency determinations under HEPA, the appropriate 
+standard of review depends on the specific question under 
+consideration.  Generally, a court reviews agency 
+determinations that involve factual questions under a 
+clearly erroneou s standard.  An agency’s conclusion of law 
+that presents mixed questions of fact and law is reviewed 
+under the clearly erroneous standard because the conclusion 
+is dependent upon the facts and circumstances of the 
+particular case.  However, whether or not an agency has 
+followed proper procedures or considered the appropriate 
+factors in making its determination is a question of law, 
+and will be reviewed de novo.  
+ 
+Kilakila, 138 Hawai ‘i at 375
+–76, 382 P.3d at 187 –88 (cleaned up). 
+A finding of fact or a mixed de termination of law and fact 
+is clearly erroneous when  
+(1) the record lacks substantial evidence to support the 
+finding or determination, or (2) despite substantial 
+evidence to support the finding or determination, the 
+appellate court is left with the def inite and firm 
+conviction that a mistake has been made.  We have defined 
+“substantial evidence” as credible evidence which is of 
+sufficient quality and probative value to enable a person 
+of reasonable caution to support a conclusion.  ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 21 In re Water Use Permi t Applications (“Waiāhole I”), 94 Hawai‘i 
+97, 119, 9 P.3d 409, 431 (2000) (cleaned up). 
+ This court “must take a ‘close look’ at agency decisions 
+that involve the public trust.”  Kauai Springs, Inc. v. Plan. 
+Comm’n of Kaua‘ i, 133 Hawai‘i 141, 165, 324 P.3d 951, 975 (2014) 
+(citation omitted) .  “As in other cases, agency decisions 
+affecting public trust resources carry a presumption of 
+validity.”  133 Hawai ‘i at 164, 324 P.3d at 974 (citation and 
+emphasis omitted). 
+IV. Discussion 
+A. Secondary impacts  
+ 
+The purpose of HEPA is to “ ensure that environmental 
+concerns are given appropriate consideration in decision making” 
+and to “alert decision makers to significant environmental 
+effects which may result from the implementation of certain 
+actions.”  HRS § 343
+-1 (2010).  To facilitate informed decision -
+making, an EA must be prepared “at the earliest practicable time 
+to determine whether an environmental impact statement shall be 
+required . . . .”  HRS § 343 -5(b) (2010 & Supp. 20 12).  “Upon 
+completion of the final environmental assessment, if the 
+reviewing agency determines that the proposed action is likely 
+to cause a significant impact on the environment, an 
+environmental impact statement must be prepared.  Alternatively, 
+if the reviewing agency determines that the proposed action will ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 22 not result in a significant environmental impact, then the 
+agency must issue and publish a finding of no significant impact 
+. . . .”  Kilakila, 138 Hawai ‘i at 370
+-71, 382 P.3d at 182-83  
+(citation omitted). 
+“In determining whether an action may have a signi ficant 
+effect on the environment, the agency shall consider every phase  
+of a proposed action, the expected consequences, both primary 
+and secondary, and the cumulative as well as the short-term and 
+long-term effects of the action.”  HAR § 11–200–12(b) (rep laced 
+2019)23 (emphasis added).  “Secondary impacts ” or “secondary 
+effects” are “effects which are caused by the action and are 
+later in time or farther removed in distance, but are still 
+reasonably foreseeable ,” including “ growth inducing effects and 
+other effects related to induced changes in the pattern of land 
+use, population density or growth rate, and related effects on 
+air and water and other natural systems, including ecosystems .”  
+HAR § 11-200- 2 (replaced 2019).  
+ Thus, if increased water withdrawals  are a “reasonably 
+foreseeable” result of the proposed relief line , then they  
+should be analyzed as secondary impacts.   But, in this case, 
+                     
+23  HEPA’s administrative rules, HAR title 11, chapter 200, were repealed 
+and replaced by HAR title 11 , chapter 200.1, effective August 9, 2019.  See 
+2019 HI REG TEXT 490491 (Aug. 31, 2019).   
+ 
+The changes to HEPA’s administrative rules  do not substantially alter 
+the provisions at issue in this case, so the court’s holdings here should 
+also apply to title 11 chapter 200.1. ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 23 KDOW determined the relief line “will not increase withdrawal of 
+water.”   
+We conclude KDOW failed  to properly consid er increased 
+water withdrawals as a secondary impact, for two reasons.  
+First, to the extent the FEA  finds that water withdrawals will 
+not increase, this finding is clearly erroneous.  Second, KDO W 
+misapplied HEPA by limiting its review to the physical foo tprint 
+of the project and failing to consider secondary impacts beyond 
+the project site.      
+1. KDOW clearly erred in finding water withdrawals will 
+not increase 
+ 
+KDOW contends it properly  analyzed  impacts on water sources 
+because the relief line will not result in increased water 
+withdrawals.  In the sections  on “secondary impacts ” and 
+“potential impacts ,” the FEA states that “ the proposed Relief 
+Line will not increase withdrawal of water ” and “will not result 
+in any increase of the withdrawal of any of the groundwater or 
+surface water sources. ”  KDOW told the environmental court that 
+“the Relief Line’ s purpose is limited to addressing an existing 
+hydraulic deficiency in the County ’s existing water  distribution 
+system .  . . .”  At oral argument, KDOW’s cou nsel told this 
+court: “[T]he [] amount of water that [is] going through now and 
+the [] amount of water that will be going through in the future 
+will be the same; it’s just that you now have a different pipe ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 24 system to deliver that water more efficiently;  so it’s the speed 
+of the water going through the pipes, not necessarily the amount 
+of water going through the pipes. ”24   
+However, to the extent the FEA makes a factual finding that 
+no additional water will be transported by the relief line, this 
+finding is clearly erroneous.   
+Although the FEA does indicate the relief line will help 
+achieve compliance with water “velocity” requirements, the FEA 
+provides no evidence that the relief line will not increase 
+water withdrawals.  For instance, the FEA does not include any 
+water demand projections indicating Līhu ‘e water use 
+will remain 
+static even though the relief line increases the transmission 
+system capacity.  Nor does the FEA indicate the water supply to 
+the Līhu‘e system is somehow constrained (perhaps due to t he 
+capacity of the Kapaia Reservoir or the water  sources).  Nor 
+does the FEA provide any other explanation for why water 
+withdrawals will not increase (for instance, even if the relief 
+line facilitated greater water use, perhaps the water would be 
+reallocated from other areas so water withdrawals would not 
+increase overall). 
+To the contrary, the FEA on its face indicates the relief 
+line will facilitate increased water use
+.  According to the FEA, 
+                     
+24  KDOW’s counsel also stated: “We’re not going to draw more water or less 
+water through the pipe; all this basically does is improve the hydraulic 
+efficiency-- . . . .”  ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 25 the relief line will not only affect water “velocity ” but will  
+also “increase water transmission capacity within the existing 
+KDOW water system . . . .”25  (Emphasis added.)  The FEA also 
+explicitly states that the relief line is “ sized to provide for 
+future transmission needs. ”  
+Further, the FEA indicates the additio nal capacity will be 
+put to use: the FEA explains that “[t]he Water Master Plan 
+identified a decrease in system pressures and flows as a result 
+of the [Līhu‘ e] Development Plan unless transmission and 
+distribution improvements were provided. . . . The proposed 
+Relief Line is necessary to address this capacity limitation. ”  
+(Emphasis added.)  In plain terms, the FEA says  a bigger pipe is 
+needed to transmit more water and meet the needs of over 500 
+acres of planned 
+development.   
+                     
+25  The “velocity” of the water is likely  directly related to the amount of 
+water transm itted by the pipe.  Although the record does not include  details 
+about what “velocity” means in th is context, in general the velocity of water 
+in a pipe (feet per second) is a function of the flow rate  (gallons per 
+minute, or million gallons per day) and t he inverse of the pipe diameter 
+squared.  See Washington State University, Pipe Water Velocity and Minimum 
+Pipe Diameter, http://irrigation.wsu.edu/Content/Calculators/General/Pipe -
+Velocity.php, also available at https://perma.cc/AZ95 -9RGQ. 
+ 
+Thus, by “incr easing the size of the pipe ,” the relief line coul d 
+seemingly transmit more gallons per minute, or million gallons per day,  
+without exceeding a given velocity, such as the 6 FPS maximum velocity under 
+the Water System Standards.   
+ ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 26 Apart from the FEA, Kia‘i Wai provides additional evidence 
+that the relief line will lead to increased water use.26  KDOW 
+board minutes show the KDOW board approved an expansion of the 
+Waiahi SWTP, and a Department of Health report from 2018  
+confirmed the Waiahi SWTP “is slated for an upgrade that will 
+increase production capacity from 3.00 [ MGD] to 4.77 MGD 
+. . . .”  Additionally, hydrologist and water resource engineer 
+Rosener explained the relief line would increase the 
+transmission capacity of the water system by 78 percent.  
+Rosener also noted that, according to KDOW ’s own planning 
+documents, 
+Līhu‘e water demand will increase from an estimated 
+4.07 MGD in 2020 to 5.50 MGD in 2050.   
+In sum, the record demonstrates the relief line will 
+facilitate increased water use and increased  withdrawals from 
+surface or groundwater sources, or both.  There is increasing 
+demand (over 500 acres of planned development).  There is 
+increasing supply to meet th at demand (capacity upgrades to the 
+Waiahi SWTP).  And the purpose of the relief line is to connect  
+a greater supply of water to meet the greater demand. 
+Contrary to KDOW ’s arguments, the possibility of increased 
+water use is not too speculative.  “Secondary impact s” are 
+“effects which are caused by the action and are later in time or 
+                     
+26  As discussed below, to demonstrate issues with the environmental review 
+process, plaintiffs may introduce evidence that was not part of the 
+environmental review process . ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 27 farther removed in distance, but are still reasonably 
+foreseeable.”  HAR § 11- 200-2.  The record before us 
+sufficiently demonstrates that increased water withdrawals are a 
+“reasonably foreseeable” result of the relief line .27   
+2. KDOW misapplied HEPA’S requirement to  analyze 
+secondary impacts  
+ 
+As discussed above, the FEA does not provide  a candid 
+assessment of how the relief line could facilitate increased 
+water use by transporting water from the upgraded Waiahi SWTP to 
+planned developments
+.  Thus, KDOW’s conclusion that the relief 
+line “will not result in any increase of the withdrawal of any 
+of the groundwater or surface water sources ” is not a factual 
+statement about the likely impact of the relief line.  Rather, 
+                     
+27  Although Kia‘ i Wai  focuses on Wai‘ale‘al e Stream and Waikoko Stream, the 
+record suggests increased water use facilitated by the relief line may not 
+necessitate increased  diversion of Wai‘a le‘ale Stream and will not necessitate 
+increased diversion
+ of Waikoko Stream.  As discussed above, t he water for the 
+Kapaia Reservoir and Waiahi SWTP 
+is diverted from the  South Fork Wailua River 
+and reaches the reservoir through the Hanamā‘ulu Ditch.  Water diverted from 
+Wai‘ale‘ale Stream and Waikoko Stream contributes to the flow of the South 
+Fork Wailua River after passing through hydroelectric plants.  However, 
+according to the 2018 CWRM staff submittal,  the diversion of Wai‘ale‘ale 
+Stream only represents a small portion of 
+the South Fork Wailua River flow.  
+Thus, even if more water is diverted from the South Fork Wailua River through 
+the Hanamā ‘ulu Ditch, this may not necessitate greater or continued  diversion 
+of Wai‘ale‘ale Stream.  Additionally, increased water use from the Waiahi SWTP 
+would appear to not require greater or continued  diversion of Waikoko Stream  
+because the waters of Waikoko Stream would reach the South Fork Wailua River 
+regardless of whether they are diverted for use in the hydroelectric plants.   
+In sum, although not completely clear, the record suggests that the portion 
+of the South Fork Wailua River below the Hanamā‘ulu Ditch is the area that 
+would be impacted by increased water use  from the Waiahi SWTP.  The record 
+does not indicate how or whether greater diversion of the South Fork Wailua 
+River would impact tributary streams.  In any case, the FEA does not describe 
+the impacts to the water resources that would be affected .   ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 28 this conclusion is merely a statement that the relief line 
+project itself does not entail any changes to water sources.28 
+KDOW’s narrow scope of environmental review does not 
+comport with HEPA’s requirement to consider secondary impacts.  
+Critically, KDOW fails to differentiate between “the scope of 
+the proposed action and scope of the [H]EPA review .”  Cf. Border 
+Power Plant Working Grp. v. Dep’t of Energy , 260 F. Supp. 2d 
+997, 1014 (S.D. Cal. 2003).  KDOW is correct t hat “[t]he 
+existing capacity of the Waiahi [SWTP] is not being changed 
+[within] the scope of this project  . . . .”  (Emphasis added.)  
+However, for the purpose of HEPA r eview, “in addition to the 
+direct site of impact the agency must also consider other 
+impacts that are incident to and a consequence of the primary 
+impact.”  Sierra Club v. State Dep’t of Transp.  (“Superferry 
+I”), 115 Hawai‘ i
+ 299, 341, 167 P.3d 292,  334 (2007) (cleaned up).   
+Indeed, the definition of “secondary impacts” explicitly 
+includes “e ffects which are caused by the action and are later 
+in time or farther removed in distance .  . . .”  HAR § 11- 200-2 
+(emphasis added). 
+We previously addressed secondary impacts in Superferry I.  
+See 115 Hawai‘ i at 338, 167 P.3d at 331.  That case concerned 
+                     
+28  The FEA contains several carefully worded sentences to this effect.  
+For instance, the FEA states , “The maximum rate of flow from the existing 
+groundwater wells and Waiahi SWTP will not inc rease as a result of the 
+installation of the proposed Relief Line ,” and, “The proposed Relief Line 
+does not increase source and storage in the Līhu‘e area . . . .”   ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 29 certain harbor improvements that were necessary for a proposed 
+inter-island ferry service.29  115 Hawai‘i at 305, 167 P.3d at 
+298.  We determined the state Department of Transportation 
+(“DOT”) failed to properly consider secondary impac ts when it 
+“studiously restrict[ed] its consideration of environmental 
+impact to the physical harbor improvements themselves”  and 
+ignored the impacts from the actual operation of the ferry 
+service.  115 Hawai‘i at 342, 167 P.3d at 335.  W e concluded DOT 
+should have considered the harbor improvements ’ “facilitation” 
+of the ferry project as a secondary impact.30  Id. 
+Superferry  I is analogous to this case.  The relief line 
+could similarly “ facilitate ” additional water use, and the FEA 
+should have analyzed impacts to water resources  as secondary 
+impacts.  See id.  Just as the operation of the ferry service 
+was a reasonably foreseeable result of the harbor upgrades in 
+Superferry I, increased withdrawal and use of water is a 
+                     
+29  Superferry I concerned an “exemption determination”: “ DOT’s 
+determination that the improvements to Kahului Harbor to accommodate the 
+Superferry project [were]  exempt from the requirements of HEPA, thus 
+obviating the need for an EA .”  115 Hawai‘ i at 306, 167 P.3d  at 299.  However, 
+Superferry I is applicable to the FEA in this case even though it concerned a 
+different aspect of HEPA analysis.  The court in Superferry I cited to the 
+same HAR provisions at issue in this case and relied on a case about an FEA.  
+115 Hawai‘ i at 339 n.49, 341, 167 P.3d at 332 n.49, 334. 
+ 
+30  Along the same lines, in Kilakila, we held that a particular telescope 
+project was not a secondary impact of the University of Hawai ‘i’s Observato ry 
+Site Management Plan.  
+See 138 Hawai‘ i at 380- 81, 382 P.3d at 192 -93.  We 
+noted that the management plan  imposed restrictions that would apply to the 
+telescope project; because the management plan did not “facilitate, or make 
+easier,” the telescope proj ect, the telescope project was not a secondary 
+impact of the management plan.  Id. (footnote omitted).   
+ ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 30 reasonably foreseeable result of the tr ansmission upgrade here.  
+See id.  And, l ike in Superferry  I, KDOW cannot limit the scope 
+of its environmental analysis to the physical footprint of the 
+project.  See id. 
+In fact, one of our earliest HEPA cases supports the 
+sensible proposition that water transmission infrastructure 
+implicates water resources.  Molokai Homesteaders concerned a 
+private corporation’s request to “rent space” in a public water 
+system to transport water from its well in central Moloka ‘i to a 
+resort complex it planned to develop at the  island’s west end.  
+Molokai Homesteaders Co-op. Ass ’n v. Cobb, 63 Haw. 453, 456 –57, 
+629 P.2d 1134, 1138  (1981).  The court determined the relevant 
+agency approval occurred before HEPA ’s effective date but noted 
+an EIS would likely have been required had HEPA b een in effect:  
+We entertain no doubt that the pertinent statutory 
+provisions would mandate the preparation of an EIS if 
+Kaluakoi’ s application for “rental of space” in the 
+[Moloka‘ i Irrigation] System’ s facilities were presented to 
+the Board now  [that HEPA is effective].  A proposal whose 
+approval would facilitate the development of a large resort 
+complex in a previously unpopulated area through the use of 
+the Molokai Irrigation System’s pipeline , allow water to be 
+transported  from its source to another area, and cause a 
+rise in the salinity of the system ’s irrigation water would 
+be within the purview of activities covered by Chapter 343.  
+The use of a government pipeline, the implicit commitment 
+of prime natural resources  to a particular purpose,  perhaps 
+irrevocably, and the substantial social and economic 
+consequences of the governmental approval of the proposal 
+would dictate the preparation of an EIS.  
+ 
+63 Haw. at 466 –67, 629 P.2d at  1144 (emphasis added  and footnote 
+omitted).  Like in Molokai Homesteaders, “the use of the ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 31 transmission facilities ” in this case clearly implicates water 
+resources.  See 63 Haw. at  455, 629 P.2d at  1137.     
+3. Independent utility 
+ 
+The fact that the relief line addresses existing capacity 
+constraints and provides reliability benefits does not excuse 
+KDOW from considering the impacts associated with increased 
+water withdrawals. 
+Barnes v. U.S. Depar tment of Transportation  is instructive.  
+See 655 F.3d 1124 (9th Cir. 2011).  In Barnes , the Ninth Circuit 
+invalidated the FEA for a new runway at an airport because the 
+FEA did not consider the impacts of increased airplane traffic 
+as an indirect effect of the proposed runway.31  655 F.3d at 
+1136-39.  The court rejected the defendant s’ argument that “an 
+EA need not account for the growth -inducing effects of a project 
+designed to alleviate current congestion.”  655 F.3d at 1138.  
+The court concluded: “ [E]ven if the stated purpose of the 
+project is to increase safety and efficiency, the agencies must 
+analyze the impacts of the increased demand attributable to the 
+                     
+31  Hawai‘i courts consider case law on HEPA’s federal counterpart, the 
+National Environmental Policy Act (“NEPA”).  See Superferry I , 115 Hawai‘i at 
+306, 167 P.3d at 299.  NEPA law has historically referred to “indirect” 
+effects, which are equivalent to secondary  impacts under HEPA.  See 40 C.F.R. 
+§ 1508.8(b) ( effective 1978 to 2020 and reinstated 2022 as 40 C.F.R. § 
+1508.1(g)(2)) (“[Effects include:] Indirect effects, which are caused by the 
+action and are later in time or farther removed in distance, but are still 
+reasonably foreseeable.  Indirect effects may include growth inducing effects 
+and other effects related to induced changes in the pattern of land use, 
+population density or growth rate, and related effects on air and water and 
+other natural systems, including ecosystems. ”).  ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 32 additional runway as growth- inducing effects . . . .”  655 F.3d 
+at 1139. 
+Here, KDOW argues the relief line is needed to address 
+existing transmission issues.  However, the FEA states the 
+relief line is also “sized to provide for futur e transmission 
+needs.”  Even if a “stated purpose ” of the relief line is to 
+address existing needs, KDOW tacked on additional transmission 
+capacity that  goes beyond existing  needs.  See id.  The relief 
+line upgrade here is akin to replacing a two -lane road with a 
+four-lane highway:  even if the old road needed to be fixed 
+anyway, that does not change the fact that the new highway adds 
+additional capacity
+, nor does it alleviate the environmental 
+impacts of the upgrade.   
+Additionally, this case is distinguishable  from Kilakila , 
+in which we determined a particular telescope project was not a 
+secondary impact of 
+the University of Hawai ‘i’s Obs
+ervatory Site 
+Management Plan.  See 138 Hawai‘i at 380-81, 382  P.3d at 192-93.  
+In that case, we noted the management plan had “independent 
+utility by providing guidelines and monitoring strategies that 
+universally apply to all ongoing and future actions within the 
+Observatory Site . . . .”  Id.  The management plan was not 
+specifically designed to facilitate the telescope project, so it 
+was useful “regardless of whether the Telescope Project [was ] 
+built.”  Id.   In contrast, the relief line here is specifically ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 33 “sized to provide for future transmission needs. ”  The relief 
+line adds additional capacity,  a purpose of which is to transmit 
+greater quantities of water.  Thus, although the relief line has 
+some utility independent of increased water use, part of its 
+purpose and function is dependent on increased water use. 
+   
+4. Past or future environmental analysis   
+ 
+The existence of past environmental review or the 
+possibility of future analysis  also does not excuse KDOW’s 
+obligation to consider water withdrawals as a secondary impact.    
+First, the FEA does not prop erly incorporate any previous 
+environmental review documents.  HEPA’s administrative rules 
+provided for “consideration of previous determinations and 
+accepted statements” in HAR § 11-200-13 (replaced 2019).  A 
+previous determination may be incorporated by reference if it 
+“has logical relevancy and bearing to the action be ing 
+considered” and only after “considerable pre -examination and 
+comparison . . . .”  HAR § 11-200-13.  In this case, the FEA for 
+the relief line merely mentions the existence of the Līhu‘e 
+Development Plan and the related Water Master Plan.  Even if an 
+FEA was completed for the Līhu‘e Development Plan32 the relief 
+line FEA does not incorporate any previous assessment of water 
+withdrawal impacts.  Thus, if past planning documents analyzed 
+                     
+32  KDOW asserts that a “ Grove Farm FEA” was completed for the “Grove Farm 
+Development.”  However, no such document is in the record. ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 34 water withdrawals resulting from the relief line or a similar 
+project, KDOW might have met its HEPA obligations by relying in 
+part on those documents, provided their analysis was still 
+pertinent to current circumstances; however, it did not do so 
+here. 
+Second, the fact that increased surface water withdrawals 
+would be subject to regulatory approval does not excuse KDOW’s  
+failure to consider water use as a secondary impact .  The FEA 
+discusses the interim instream flow standards33 for the streams 
+that supply the Līhu ‘e water system, stating: “The maximum rate 
+of flow from the existing groundwater wells and Waiahi SWTP will 
+not increase as a result of the installation of the proposed 
+Relief Line.  As such, the proposed Relief Line is in compliance 
+with both the [Water Resource Protection Plan] and the Interim 
+Instream Flow Standard as contained in HAR § 13 -169-45.”   
+                     
+33  “Instream flow standard”  refers to “a quantity or flow of water or 
+depth of water which is required to be present at a specific location in a 
+stream system at certain specified times of the year to protect aquatic life, 
+wildlife, recreationa l, aesthetic, scenic, and other beneficial instream 
+uses.”  HAR § 13- 169-2.  An “interim instream flow standard” is “a temporary 
+instream flow standard of immediate applicability, adopted by the [CWRM] 
+without the necessity of a public hearing, and termin ating upon the 
+establishment of an instream flow standard. ”  HAR § 13- 169-2.  “Instream flow 
+standards are an integral part of the regulatory scheme established by the 
+[State Water] Code . . . [and] serve as the primary mechanism by which the 
+[CWRM] is to d ischarge its duty to protect and promote the entire range of 
+public trust purposes dependent upon instream flows.”  Waiāhole I , 94 Hawai‘ i 
+at 147–48, 9 P.3d at 459–60 (cleaned up).   
+ 
+ The interim instream flow standards for Kaua‘i essentially authorized 
+all then- existing diversions around the time the State Water Code was 
+adopted.  See HAR § 13 -169-45.  Following the initial registration of stream 
+diversions, any new or expanded stream diversion has  required an a mendment to 
+the interim instream flow stand ard.  See HAR §§ 13-169-45, 13-168-31.   ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 35 Even if increased surface water withdrawals would be 
+subject to the interim instream flow standards set by the CWRM, 
+KDOW still had to analyz e water wi thdrawals as a secondary 
+impact.  This court has explained : “If the fact that other laws 
+and rules that facially appear to bear upon the environmental 
+effects of an activity would exclude the activity from HEPA ’s 
+purview, then this would frustrate HEPA’s p urpose of requiring 
+agencies to appropriately consider environmental concerns in 
+their decision-making process.”  Umberger v. DLNR, 140 Hawai‘i 
+500, 518, 403 P.3d 277, 295 (2017).  We have previously 
+emphasized the “importance of early environmental assessment” 
+and HEPA’s
+ “express mandate that environmental review be 
+undertaken at the ‘earliest practicable time. ’”  See Sierra Club 
+v. Off. of Plan., 109 Hawai‘i 411, 418, 126 P.3d 1098, 1105 
+(2006) (cleaned up).    
+Hence, even if increas ed water withdrawals w ould be subject 
+to future regulatory approval, KDOW still had  to consider 
+secondary impacts or properly incorporate previous analysis of 
+those impacts.  
+5. Procedure  on remand  
+ 
+Finally, we clarify the procedure to be followed on remand.   
+KDOW may demonstrate in a new EA that increased water 
+withdrawals are not a reasonably foreseeable result of the 
+relief line.  From the record currently before us , there can be ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 36 no dispute that KDOW failed to take the required “hard look” at 
+the possibility of increased water usage.  Superferry I, 115 
+Hawai‘i at 342, 167 P.3d at  335 (quoting Price v. Obayashi Hawaii 
+Corp., 81 Hawai‘ i 171, 182  n.12, 914 P.2d 1364, 1375 n.12 
+(1996)).  However, KDOW may be able to explain in a revised EA 
+why the relief line will likely not facilitate increased water 
+withdrawals. 
+If KDOW can demonstrate the relief line will likely not 
+increase water withdrawals, it  must do so in a revised EA.  That 
+is, KDOW cannot merely present additional evidence to the 
+environmental court on remand. 
+We have explained that “in a declaratory action brought to 
+challenge an agency’s determination that an environmental impact 
+statement is not required, a reviewing court may consider other 
+evidence in addition to the agency record to determine whether 
+the agency decision -maker adequately considered the potential 
+environmental effects and alternatives for a particular project 
+or action.”  Kilakila, 138 Hawai‘ i at 378, 382 P.3d at 190.
+    
+The reason for this rule is that    
+[t]o limit the judicial inquiry regarding the completeness 
+of the agency record to that record would, in some 
+circumstances, make judicial review meaningless and 
+eviscerate the very purposes of NEPA [or HEPA].  The 
+omission of technical scientific information is often not 
+obvious from the record itself, and a court may therefore 
+need a plaintiff’s  aid in calling such omissions to its 
+attention.  
+ ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 37 138 Hawai ʻi at 378, 382 P.3d at 190 (emphasis added) (quoting 
+Sierra Club v. Peterson, 185 F.3d 349, 370 (5th Cir. 1999)). 
+However, while plaintiffs  may present extra- record evidence 
+to identify issues with the environmental review process, an 
+agency cannot rely on extra-record evidence as a substitute for 
+analysis the  agency should have included in an environmental 
+review document.  The rule allowing extra- record evidence in 
+HEPA cases “is not a two-way street .”  See Citizen Advocs. for 
+Responsible Expansion, Inc. (I -Care) v. Dole, 770 F.2d 423, 438 
+n.18 (5th Cir. 1985) (discussing NEPA).  “[I] f the agency knew 
+that it could always ‘supplement ’ or ‘create’ the administrative 
+record in the reviewing court, ” then the agency “ would have 
+little incentive to prepare an adequate and reviewable 
+administrative record, despite the clear mandate of NEPA [ and 
+HEPA] that the agency prepare the required record before 
+deciding upon a particular course of conduct. ”  Id.  Further, 
+HEPA, like NEPA, “ expressly places the burden of compiling 
+information on the agency so that the public and interested 
+government departments can conveniently monitor and criticize 
+the agency’s action. ”  Grazing Fields Farm v. Goldschmidt, 626 
+F.2d 1068, 1073 (1st Cir. 1980).  
+Additionally, it would frustrate public pa rticipation in 
+the HEPA process if agencies could remedy deficient HEPA 
+analysis with evidence submitted to a court after- the-fact.  See  ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 38 Dubois v. U.S. Dep’t of Agric. , 102 F.3d 1273, 1289 (1st Cir. 
+1996) (“[P]ost hoc rationalizations are inherently suspect, and 
+in any event are no substitute for the agency’s following 
+statutorily mandated [NEPA] procedures.”).34  While it may 
+sometimes be appropriate for agencies to submit extra- record 
+evidence--for example, to provide context, explain their 
+procedures, or rebut the plaintiffs ’ evidence --courts must not 
+allow that evidence to pass as explanations or justifications 
+that should have been in the environmental review documents in 
+the first place.   
+B. Cumulative impacts 
+ 
+ The FEA also does not  properly analyze cumulative impacts.  
+The FEA only considers cumulative impacts at the project site, 
+not cumulative impacts on water resources.     
+“‘Cumulative impact ’ means the impact on the environment 
+which results from the incremental impact of the action when 
+added to other past, present, and reasonably foreseeable future 
+actions regardless of what agency or person undertakes such 
+                     
+34  See also Grazing Fields Farm, 626 F.2d at  1072 (holding that 
+information “contained in the administrative record, but not incorporated in 
+any way into an EIS, [cannot] bring into compliance with NEPA an EIS that by 
+itself is inadequate”); I-291 Why? Ass’ n v. Burns, 517 F.2d 1077, 1081 (2d 
+Cir. 1975) (holding subsequent studies could not cure deficient EIS “ because 
+they were not circulated for review and comment in accordance with procedures 
+established to comply w ith NEPA”); Nat. Res. Def. Council, Inc. v. Morton, 
+458 F.2d 827, 836 (D.C. Cir. 1972)  (“The subject of environmental impact is 
+too important to relegate either to implication or to subsequent  
+justification by counsel.  The [EIS] must set forth the materia l contemplated 
+by Congress in form suitable for the enlightenment of the others concerned. ” 
+(footnote omitted)). ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 39 other actions.  Cumulative impacts can result from individually 
+minor but collectively significant actions taking place over a 
+period of time.”  H AR § 11-200-2.  
+We have previously provided the following illustration  of 
+cumulative impacts:  “ [T]he addition of a small amount of 
+sediment to a creek may have only a limited impact on salmon 
+survival, or perhaps no impact at all.  But the addition of a 
+small amount here, a small amount there, and still more at 
+another point could add up to something with a much greater 
+impact, until there comes a point where even a marginal increase 
+will mean that no salmon survive.”  Kilakila , 138 Hawai ‘i at 381 
+n.35, 382 P.3d at 193  n.35 (quoting Klamath–Siskiyou Wildlands 
+Ctr. v. Bureau of Land Mgmt., 387 F.3d 989, 994 (9th Cir. 
+2004)). 
+A Ninth Circuit case provides an example of  how to analyze 
+cumulative impacts in a water diversion case.35  See Ctr. for 
+Env’t L. & Pol ’y v. U.S. Bureau of Reclamation, 655 F.3d 1000, 
+1008 (9th Cir. 2011).  That case concerned water withdrawals 
+from Lake Roosevelt, an impoundment of the Columbia River, which 
+was already subject to numerous 
+withdrawals at the time.  655 
+F.3d at 1003 .  The court held the EA for the additional water 
+                     
+35  “NEPA provides a nearly identical definition of ‘cumulative impacts’ as 
+HEPA does.”  Kilakila, 138 Hawai‘ i at 381 n.34, 382 P.3d at 193 n.34 (citing 
+40 C.F.R. § 1508.7 (effective 1978 to 2020 and substantially reincorporated 
+into 40 C.F.R. § 1508.1(g) effective 2022)) . ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 40 withdrawals properly analyzed cumulative impacts because it 
+examined “both the existing condition of the area and what the 
+effects of the project would be. ”  655 F.3d at 1008 (cleaned 
+up).  For instance, the discussion of landslide impacts noted 
+how “
+concern for landslides [was]  minor for lake levels above 
+1,260 feet, moderate for lake levels between 1,240 and 1,260 
+feet, and major for lake levels below 1,240 feet. ”  Id.  The EA 
+then concluded “landslide potential would not change as a result 
+of the proposed action, in large part because the additional 
+drawdown during the period when the lake is less than 1,240 feet 
+would be minimal (less than 1 inch).”   Id. (cleaned up).  In 
+other words, the impact of the wit hdrawals depended on the level 
+of the lake, which was affected by other  withdrawals.36  
+ Under  HEPA’s cumulative impact rules , the relief line FEA 
+should discuss additional water withdrawals facilitated by the 
+relief line in relation to existing and anticip ated withdrawals.  
+For instance, diverting 1 MGD from a 10  MGD stream flow with no 
+existing or anticipated diversions is different than diverting 
+that same amount if the stream already had diversions 
+of 7 MGD 
+and additional diversions of  2 MGD were planned for a separate 
+                     
+36  See also Thomas v. Peterson, 753 F.2d 754, 760 (9th Cir. 1985)  (holding 
+environmental analysis of logging road must consider cumulative impacts of 
+timber sales); Delaware Riverkeeper Network v. FERC, 753 F.3d 1304, 1319 -20 
+(D.C. Cir. 2014) (holding upgrade to segment of natural gas pipeline must 
+consider cumulative impacts of upgrades to other parts of the pipeline) .  ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 41 future project; the same incremental withdrawal leads to a dry 
+streambed in the latter scenario. 
+C. Segmentation  
+ 
+KDOW may also have improperly segmented the relief line 
+from other projects.   
+Segmentation was addressed in HAR § 11-200-7 (replaced 
+2019), which provided :37 
+A group of actions proposed by an agency or an 
+applicant shall be treated as a single action when:  
+ 
+(1) The component actions are phases or increments of 
+a larger total undertaking;  
+ 
+(2) An individual project is a  necessary precedent 
+for a larger project;  
+ 
+(3) An individual project represents a commitment to 
+a larger project; or  
+ 
+(4) The actions in question are essentially identical 
+and a single statement will adequately address the 
+impacts of each individual action and those
+ of the 
+group of actions as a whole.  
+ 
+This court has applied  an “independent utility”  test to 
+determine whether actions are segmented  under HAR § 11- 200-7. 
+                     
+37  The revised rule, HA R § 11-200.1-10, provides: 
+ 
+A group of actions shall be treated as a single action when:  
+ 
+(1) The component actions are phases or increments of a larger total 
+program;
+ 
+ 
+(2) An individual action is a necessary precedent to a larger action;  
+ 
+(3) An individual action represents a commitment to a larger action; or  
+ 
+(4) The actions in question are essentially identical and a single EA 
+or EIS will adequately address the impacts of each individual action 
+and those of the group of actions as a whole. ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 42 In Kahana Sunset, we held the EA for the drainage system of 
+a development had to include the development itself .  See Kahana 
+Sunset Owners Ass ’n v. Cnty. of Maui, 86 Hawai ‘i 66
+, 74, 947 P.2d 
+378, 386 (1997).  In that case,  the plans for a development of  
+over 300 residences included  a new drainage line connecting to 
+an existing culvert.  86 Hawai‘i at 71-7 2, 947 P.2d at 383- 84.  
+The drainage line would be installed beneath “state or county 
+lands” and did not fall within a HEPA exem ption, thus triggering 
+the requirement for an EA.  Id.   The court held the EA had to  
+encompass the entire development, not just the drainage line, 
+stating:  
+HAR § 11– 200–7 provides that “[a] group of actions proposed 
+by an agency or an applicant shall be treated as a single 
+action when: (1) The component actions are phases or 
+increments of a larger total undertaking; [or] (2) An 
+individual project is a necessary precedent for a larger 
+project.”  . . . The proposed drainage system is part of the 
+larger project and is a “necessary precedent” for the 
+development.  The drainage system has no independent 
+utility.  It would not  be constructed except as part of the 
+larger development.  Isolating only that particular 
+component of the development for environmental assessment 
+would be improper segmentation of the project.  
+ 
+86 Hawai‘ i at 74, 947 P.2d at 386.  Thus, even though only the 
+drainage line triggered HEPA, the EA had to consider  the entire 
+development as part of the same action.  Id. ; see also  
+Sierra Club v. Off. of Plan., 109 Hawai ‘i at 413, 416, 126 P.3d 
+at 1100, 1103 (holding development project triggered HEPA review 
+because drinking water and sewage lines for the development 
+would eventually be installed under state land
+; the EA had to ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 43 address “the environmental effects of the entire Project 
+. . . .”).  
+ In Kilakila , we held that, under HAR § 11 –200–7(1), the EA 
+for the University of Hawai ‘i Observatory Site Management Plan 
+did not have to include a particular proposed telescope project .  
+138 Hawai‘ i at 379–80, 382 P.3d at 191–92.  We observed that the 
+guidelines in the management plan applied to the entire 
+observatory site , which included numerous existing astronomical 
+facilities.  Id.  We concluded: “ Because the Management Plan ’s 
+strategies and guidelines apply to the entire Observatory Site 
+and may be implemented regardless of whether the Telescope 
+Project is constructed, the Manag ement Plan has independent 
+utility from the Telescope Project, and, consequently, the 
+Telescope Project and Management Plan do not constitute a 
+‘single action’ under HAR § 11 –200–7(1).”  138 Hawai‘i at 380, 
+382 P.3d at 192. 
+   Neither Kahana Sunset  nor Kilakila resolves this case.  
+Whereas the drainage pipe in Kahana Sunset had no independent 
+utility, the relief line has  some utility independent of the 
+Līhu
+‘e Development Plan and the Waiahi SWTP expansion because it 
+provides system redundancy and addresses existing needs.  At the 
+same time, this case differs from Kilakila because the relief 
+line goes beyond existing needs and includes “additional 
+capacity” which appears to have no purpose except serving ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 44 “future development.”  This is a novel case because the relief 
+line has some independent utility and some “dependent” utility.   
+ We conclude KDOW is not automatically insulated from Kia‘i 
+Wai’s segmentation  claim merely because the relief line has 
+some 
+independent utility or because some project wa s necessary to 
+address existing transmission issues. 
+ For instance, the Ninth Circuit38 held the EIS for a forest 
+road must also analyze impacts of the timber sales the road was 
+“designed to facilitate”  because the road did not have 
+“sufficient [independent] utility.”   Thomas v. Peterson, 753 
+F.2d 754, 755, 760 (9th Cir. 1985) (emphasis added) .  The court 
+stated: “ It is clear that the timber sales cannot proceed 
+without the road, and the road would not be built but for the 
+contemplated timber sales. . . . while the [Forest] Service has 
+stated that the road will yield other benefits, it does not 
+claim that such other benefits would justify the road in the 
+                     
+38  The NEPA regulations for “c onnected actions, ” are analogous to HEPA’s 
+segmentation regulations.  See, e.g., Great Basin Mine Watch v. Hankins, 456 
+F.3d 955, 968– 69 (9th Cir. 2006) . 
+ 
+Actions are connected if they:  
+ 
+(i) Automatically trigger other actions which may require environmental  
+impact statements.  
+ 
+(ii) Cannot or will not proceed unless other actions are taken 
+previously or simultaneously.  
+ 
+(iii) Are interdependent parts of a larger action and depend on the 
+larger action for their justification . 
+ 
+Id. (citing 40 C.F.R. § 1508.25  (effective 1978 and substantially 
+incorporated into 40 C.F.R. § 1501.9  effective 2020)).  ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 45 absence of the timber sales. ”  753 F.2d at  758–59 (emphasis 
+added).  
+ We hold that, because the relief line has so me independent 
+utility but also goes beyond existing needs, the question is not 
+whether KDOW would have undertaken some project  to address the 
+existing transmission issues and increase system reliability 
+even absent the Līhu ‘e Development Plan and the Waiahi SWTP 
+expansion; rather, the question is whether KDOW would have 
+undertaken the relief line project as proposed  absent the Līhu‘e 
+Development Plan and the Waiahi SWTP expansion.39  From the 
+record, it appears that, alth ough KDOW might have taken some 
+action to address existing transmission issues, the relief line 
+as proposed is specifically designed to accommodate future 
+transmission needs.  Without the Līhu‘e developments and the 
+Waiahi SWTP expansion, the additional capacity provided by the 
+relief line would be extraneous.  However, the record does not 
+                     
+39  We find this approach sensible in light of Kahana Sunset, 86 Hawai‘ i 66, 
+947 P.2d 378.  Suppose in Kahana Sunset the developer had wanted to replace 
+and significantly upgrade an existing drainage line to accommodate the new 
+development, rather than install a new line.  And suppose the existing line 
+was nearing the end of its lifespan and needed to be replaced anyway.  We see 
+no reason why the development should evade environmental review in this 
+situation.  The existing need for a replacement line would not mitigate the 
+environmental impacts of the new development, nor would it change the fact 
+that the purpose of the additional drainage  capacity is to facilitate the new 
+development.      
+ 
+We see many similarities between this case and Kahana Sunset, as both 
+cases concern transmission lines (a potable  water line and drainage line, 
+respectively) needed for new developments.  The difference  is that, in this 
+case, the development may have attempted to hitch a free ride past HEPA 
+review by tacking additional capacity on to a project that was needed  anyway. ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 46 conclusively resolve this issue , so the environmental court is 
+to address it on remand after considering additional evidence 
+from Kia‘ i Wai.40      
+ We note, however, that
+ our inquiry is not limited to the 
+independent utility of the relief line.  The Ninth Circuit has 
+explained that the “independent utility ” test can be either a 
+“single” independent utility test or what might be termed a 
+“double” or “multiple”  independent utility test:  
+[“]The crux of the [independent utility] test is whether 
+‘each of two projects  would have taken place with or 
+without the other  and thus had independent utility.’”  We 
+have occasionally stated this same test alternatively as 
+“when one of the p rojects might reasonably have been 
+completed without the existence of the other, the two 
+projects have independent utility  and are not ‘connected’ 
+for NEPA’ s purposes.”  Rather than adopting a single 
+independent utility test, we have focused on whether “ each 
+of two projects  would have taken place with or without the 
+other,” and have extended our analysis to each project.  
+ 
+Sierra Club v. Bureau of Land Mgmt., 786 F.3d 1219, 1226 (9th 
+Cir. 2015) (citations omitted). 
+ We now adopt the “double” or “multiple”  independent utility 
+test.41  To determine whether projects are improperly segmented 
+under HAR § 11-200- 7, courts should consider whether each of the 
+projects would take place independently.  We cited the single 
+                     
+40  As discussed above, KDOW cannot supplement the record with information 
+that should have been included in the FEA.  This is especially true when 
+public comments on the DEA  raised segmentation as a concern.  However, the 
+record before us is insufficient to establish whether the relief line FEA was 
+improperly segmented.  Kia‘i Wai must provid e additional evidence.     
+ 
+41  Although Sierra Club v. Bureau of Land Mgmt., 786 F.3d at 1226, helps 
+describe the difference between a “single” and “double” independent utility 
+test, we do not necessarily adopt  the manner in which the Ninth Circuit 
+applied the double independent utility test in that case.   ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 47 independent utility test in Kilakila,  138 Hawai ‘i a
+t 379 n.32, 
+382 P.3d at 191 n.32.  However, in Kilakila  we only considered 
+HAR § 11-200 -7(1), not any of the other three provisions in HAR 
+§ 11-200 -7.  See 138 Hawai‘i at 379 n.31, 382 P.3d at 191 n.31.  
+Taking HAR § 11- 200-7(2) into account, we conclude t he double 
+independent utility test is necessary to effectuate HAR § 11-
+200-7(2), w hich applied where “[a]n individual project is a 
+necessary precedent for a larger project . . . .”   
+Thus, in  this case, we must also examine the independent 
+utility of the Waiahi SWTP expansion and the Līhu
+‘e developments.  
+If the Waiahi SWTP expansion or the Līhu‘e developments would not 
+occur without the relief line, then the relief line is a 
+“necessary precedent” to those projects under HAR § 11- 200-7(2).  
+ The record suggests the relief line is a necessary 
+precedent for the Waiahi SWTP expansion and the Līhu ‘e 
+developments.  For instance, at the 
+December 17, 2009 KDOW board 
+meeting, a Grove Farm representative stated that “ they need to 
+install this line now ” and “the bottom line is the Ehiku line 
+needs to go in if we expand the plant .”  Also, the FEA states 
+the relief line is “necessary” for the water transmission needs 
+of the Līhu‘ e developments.  However, given the lack of 
+information in the record about the Waiahi SWT P expansion and ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 48 (continued . . . )  the Līhu‘ e developments, we leave this determination for the 
+environmental court on remand.42   
+ Finally , for actions to have been improperly segmented, the 
+actions must fall within the formal definition of an “action” 
+under HEPA.43  See Superferry I, 115 Hawai‘i at 338, 167 P.3d at 
+                     
+42  We note the relief line may still be a “necessary precedent” for  the 
+Waiahi SWTP expansion and the Līhu ‘e developments even if the transmission 
+line project could have taken an alternate route.  The FEA cannot just 
+conclude the relief line was not strictly “necessary” because some other 
+transmission project hypothetically could have met the needs of the 
+Waiahi 
+SWTP expansion and the Līhu ‘e Developmen t Plan.  The point is that a major 
+transmission upgrade was needed, even if  KDOW and Grove Farm had several 
+options available.  Additionally, the Līhu‘e
+ Development Pla n cannot avoid 
+review even if Grove Farm hypothetically could have initiated a different 
+transmission project for the Līhu‘ e developmen ts without the use of public 
+lands or funds. 
+ Contra Sierra Club v. Bureau of Land Mgmt., 786 F.3d at 1226 
+(holding wind project had independent utility from road on federal land 
+because developers could have used a private road instead).  Perhaps Grove 
+Farm and its consultant could have designed a Water Master Plan for the Līhu‘e 
+Development Plan that would have avoided triggering HEPA review , but it 
+appears they did not.  T he question is whether the relief line is a necessary 
+precedent for the Līhu ‘e developments as proposed , not whether some 
+alternative Līhu‘ e Development Plan could have avoided HEPA review.  Cf. Port 
+of Astoria, Or. v. Hodel, 595 F.2d 467, 477 (9th Cir. 1979)  (“By entering 
+into a contract to supply the power to the project and to construct the 
+transmission line to the plant, the agency has so federalized the entire 
+project that it has become ‘major Federal action ’ requiring a federally 
+responsible environmental impact statement. ” (citations omitted)). 
+        
+43  As defined in HAR § 11-200-2: 
+ 
+“Action” means any program or project to be initiated by an agenc y or 
+applicant. 
+ 
+. . . . 
+ 
+ “Agency” means any department, office, board, or commission of the 
+state or county government which is part of the executive branch of 
+that government.  
+“Applicant” means any person who, pursuant to statute, ordinance, or 
+rule, off icially requests approval from an agency for a proposed 
+action. 
+ 
+“Approval” means a discretionary consent required from an agency prior 
+to actual implementation of an action.  Discretionary consent means a 
+consent, sanction, or recommendation from an agen cy for which judgment ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 49 (continued . . . )  331.  The Waiahi SWTP expansion and the Līhu ‘e  developments would 
+appear to be projects initiated by an agency or by a legal 
+entity who, pursuant to statute, ordinance, or rule, officially 
+requested discretionary a
+pproval from an agency.44  However, the 
+environmental court should make this determination on remand.45 
+ In conclusion, we also observe that too broad a reading of 
+the segmentation rules w ould require boundless HEPA review.  The 
+segmentation rules should be applied using common sense to 
+further informed decision-making.   See HRS § 343 -1.  However, 
+this case appears to fall squarely within the segmentation 
+rules.46  Although further information is required, the record 
+                                                                  
+( . . . continued)  
+and free will may be exercised by the issuing agency, as distinguished 
+from a ministerial consent.  Ministerial consent means a consent, 
+sanction, or recommendation from an agency upon a given set of facts, 
+as prescribed by law or rul e without the use of judgment or discretion.  
+ 
+44  The FEA explains, “In 1994, [the Līhu‘e Development Plan] received State 
+Land Use Commission approval .”  On January 28, 2010, the KDOW board approved 
+Grove Farm’s request to expand the Waiahi SWTP.     
+ 
+45  Additionally, KDOW argues that  KDOW and Grove Farm are separate 
+entities.  We note that HAR § 11- 200-7 stated: “A group of actions proposed 
+by an agency or an applicant shall be treated as a single action when [any of 
+four criteria are met.]”  (Emphasis added.)  The 2019 amendments to the HEPA 
+regulations removed the reference to “ an agency or an applicant” and instead 
+provide that “[a] group of actions shall be treated as a single action when  
+[any of four criteria are met.]”   See HAR § 11- 200.1-10.  In this case , we do 
+not think KDOW can defeat a  segmentation claim  merely because Grove Farm and 
+KDOW are separate entities.  The relief line is intended in large part to 
+benefit Grove Farm, and  Grove Farm will pay one -third of the relief line’s 
+cost.     
+ 
+46  Cf. Morgan v. Walter, 728 F. Supp. 1483, 1493 (D. Idaho 1989)  (holding, 
+at the preliminary injunction stage, that the EA for a water diversion system 
+should include the fish propagation facility that was the recipient of the 
+water because the fish propagation facility “ could not exist absent a 
+diversion”); Port of Astoria, Or. v. Hodel, 595 F.2d at 477 (holding a 
+federal agency’s contract to supply power to a private aluminum plant could ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 50 before us suggests a “clear nexus ” between the relief line, the 
+Waiahi SWTP expansion,  and the Līhu ‘e Development Plan
+.47  See 
+Save the Yaak Comm. v. Block, 840 F.2d 714, 720 (9th Cir. 1988).  
+Based on the KDOW meeting minutes and the FEA itself, it appears 
+the relief line “ had always been conceptualized as part of the 
+integrated entire project.”  See Baykeeper v. U.S. Army Corps of 
+Engineers, No. CIV. S- 06-1908, 2006 WL 2711547, at *11 (E.D. 
+Cal. Sept. 20, 2006).48  
+                                                                  
+( . . . continued)  
+not be separated from the environmental impacts of the plant itself: “[The 
+agency] shares responsibility for the environmental effects [of the aluminum 
+plant] because its contractual obligation to supply [the corporation]  with 
+power enables [the corporation]  to build the plant and requires [the agency] 
+to erect transmission lines. ”).   
+ 
+47  Although not in the record, the Water Master Plan  prepared in 2009  by 
+Kodani & Associates Engineers, LLC  would likely help clarify the relationship 
+between the relief line, the Waiahi SWTP, and the Līhu‘e Development Plan. 
+ 
+48  To comply with HEPA, KDOW must analyze the relief line’s impact on 
+water resources, including cultural practices  associated with water 
+resources.  See HAR §§ 11-200-10 (replaced 2019), 11-200-12 (replaced 2019), 
+11-200.1-13, 11-200.1-21.  We therefore do not reach Kia‘i Wai’s 
+constitutional arguments concerning the public trust and article XII, section  
+7 of the Hawai‘ i Constitution .  See State v. Lo , 66 Haw. 653, 657, 675 P.2d 
+754, 757 (1983) (“If a case can be decided on either of two grounds, one 
+involving a constitutional question, the other a question of statutory 
+construction or general law, this c ourt will decide only the latter.”  
+(cleaned up)). 
+ 
+ Kia‘i Wai also alleges a violation of HRS § 195D- 4, part of the Hawai‘ i 
+endangered species statute.  Kia‘ i Wai  does not explain, however,  how KDOW 
+violated the statute; Kia‘i Wai merely cites, without explanation, to a 
+portion of the statute that defines what a threatened species is and 
+authorizes the DLNR to designate threatened species.  Thus, the environmental 
+court properly granted summary judgment in favor of KDOW as to Kia‘i Wai’s 
+claim under
+ HRS § 195D -4. ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 51 D. Public  comment process  
+  
+ Kia‘i Wai argues KDOW did not properly consider public 
+comments on the DEA because KDOW filed the  FEA too quickly.  
+KDOW transmitted the  FEA to the OEQC by letter  dated March 12, 
+2018, the day comments were due (the document was stamped as 
+received by the OEQC March 13, 2018).   
+ Under HAR § 11- 200-9.1(c) (replaced 2019) : “[T]he proposing 
+agency shall respond in writing to all comments received or 
+postmarked during the thirty- day review period, incorporate 
+comments as appropriate, and append the comments and responses 
+in the final environmental assessment.”   (Emphasis added.)  
+Because agencies must  respond to comments postmarked  within the 
+public comment period, agencies  should leave time for comments 
+to arrive by mail before finalizing an  EA.   
+ The record does not indicate whether KDOW received any 
+mailed comments after the submission deadline.  However, KDOW’s 
+finalization of the EA without waiting to receive mailed 
+comments “does  not satisfy the appearance of justice, since it 
+suggests that the [consideration of comments] is an afterthought 
+and that proceedin gs were merely moving in predestined grooves. ”  ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 52 See Mauna Kea Anaina Hou v. BLNR, 136 Hawai‘i 376, 391, 363 P.3d 
+224, 239 (2015) (cleaned up).49    
+V. Conclusion 
+In enacting HEPA, the legislature found that “ public 
+participation during the review process benefits all parties 
+involved and society as a whole. ”  See HRS § 343 -1.  From the 
+record before us, it appears public participation in this case 
+was hindered because the FEA did not provide a candid assessment  
+of the relief line’s purpose  and function.   
+KDOW erred by limiting the scope of its environmental 
+analysis to the physical footprint of the proposed project.  
+KDOW must issue a new EA50 that either analyzes the effects of 
+                     
+49  In Count III of its amended complaint, Kia‘i Wai alleged KDOW failed to 
+disclose the substance of input from the CWRM, which KDOW relied on in the 
+FEA.  Additionally, amici argue 
+the FEA includes  citations to documents that 
+were not rea sonably available to the public.  Although Kia‘ i Wai asserts the 
+environmental court erred in granting summary judgment  in favor of KDOW  on 
+Count III, Kia‘ i Wai does not argue this point in its opening brief.  We 
+therefore decline to address whether KDOW should have made certain underlying 
+information available.  
+See HRAP Rule 28(b)(7) ( 2000); Ass’n of Apartment 
+Owners of Wailea Elua v. Wailea Resort Co., 100 Hawai‘ i 97, 110, 58 P.3d 608, 
+621 (2002) (“Where an appellant raises a point of error but fails to  present 
+any accompanying argument, the point is deemed waived. ” (citation omitted)).  
+ 
+Kia‘i Wai also argues in a conclusory fashion that KDOW’s failure to 
+properly consider public comments amounted to a due process violation.  
+Because KDOW’s compliance w ith HEPA’s rules will remedy Kia‘i Wai’s procedural 
+concerns, we do not address Kia‘i Wai’s due process claim s.  See Lo, 66 Haw. 
+at 657, 675 P.2d at 757 (explaining constitutional avoidance doctrine ). 
+ 
+50  Alternatively, KDOW may opt to prepare an EIS inste ad of an EA.  See  
+HRS § 343- 5(b); HAR § 11 -200.1-14(d).  ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 53 increased water use or explains how the relief line will not 
+facilitate increased water withdrawals.51     
+Hence, f or the reasons explained above, we vacate the 
+environmental court’s  April 2, 2019 order granting partial 
+summary judgment; the October 3, 2019 order granting partial 
+summary judgment, except as to Counts V and VI and as to Kia‘i
+ 
+Wai’s claim under HRS § 195D -4; the June 30, 2020  order granting 
+                     
+51  We do not address Kia‘i Wai’s argument that KDOW or Grove Farm require a 
+lease or permit pursuant to HRS § 171- 58, which concerns disposition of water 
+from state lands.  Because of Grove Farm’s i nterest in this issue, Grove Farm  
+must be made a party to address this issue.  See Hawai‘i Rules of Civil 
+Procedure Rules 19 (2000) and 21 (1980).  For the same reason, we do not 
+decide whether the environmental court lacked jurisdiction over this claim.  
+We also do not address Kia‘i Wai’s argument about the need for an EIS 
+addressing KDOW’s entire water system, as this claim is derived from Kia‘i 
+Wai’s argument about H RS § 171 -58.       
+ 
+ As to the question of whether KDOW requires a lease or permit, 
+the 
+briefing is also inadequate.  As described in the 2018 CWRM staff submittal, 
+the diversions of Wai ‘ale‘ale Stream and Waikoko Stream , the ‘Ili‘ili‘ula North 
+Wailua Ditch, which carries the diverted water to hydroelectric plants, and 
+the Upper and Lower
+ Waiahi Hydropower plants are operated by Kaua ‘i Island 
+Utility Cooperative (“KIUC”).  KIUC does not control the use of the  water 
+once it leaves the tailrace of the Lower Waiahi Hydropower plant.   
+Additionally, the diversion of the South Fork Wailua River that supplies the 
+Kapaia Reservoir appears to be located on Grove Farm land rather than state 
+land.  In sum, it appears the diversions on state land are operated by KIUC, 
+and Grove Farm and KDOW receive the diverted water later after it passes 
+through KIUC’s hydropower plants.  
+ 
+ 
+ KIUC may have a permit or lease pursuant to HRS § 171- 58, and the 
+parties do not discuss what bearing this may have on how HRS § 171 -58 applies 
+to KDOW or Grove Farm.  The parties also do not discuss whether county 
+departments of water would be required to bid against private entities under 
+Kia‘i Wai’s interpretation of  HRS § 171- 58.  The parties also do not discuss 
+HRS § 171-95 (2011 & Supp. 2016), concerning disposition of public lands to 
+counties and other governmental agencies;  HRS § 171
+-11 (2011), concerning 
+set-asides of public lands to counties and agencies for public use or 
+purpose; or HRS § 46- 1.5(23)(f) (Supp. 2018), concerning the power of 
+counties to take over waterworks systems from the State.  We do not determine 
+whether these and other statutes are relevant.  Finally, the parties do not 
+discuss “
+the express constitutional and statutory designation of the [CWRM] 
+as the final authority over matters of water use planning and regulation ,” 
+which limits the powers of the cou
+nties.  See Waiāhole I , 94 Hawai ‘i at 188, 9 
+P.3d at 500. ***   FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 54  partial summary judgment, except as to Count III; and the June 
+30, 2020 order entering final judgment in favor of KDOW.  We 
+remand this case to the environmental court for further 
+proceedings consistent with this opinion, including a 
+determination of whether injunctive relief is warranted. 
+ 
+Lance D. Collins and 
+Bianca Isaki 
+for Plaintiff-Appellant /s/ Mark E. Recktenwal
+/s/ Paula A. Nakayama 
+/s/ Sabrina S. McKenna
+   d  
+    
+Naomi U. Kuwaye  
+Rosemary T. Fazio and  
+Nicholas G. Altuzarra 
+for Defendant-Appellee 
+   
+ /s/ Michael D. Wilson  
+       
+      /s/ Todd W. Eddins 
+Leinā‘ala L. Ley  and
+Isaac H. Moriwake 
+for amici curiae   
+  
+     

@@ -1,0 +1,1549 @@
+FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+IN THE INTERMEDIATE COURT OF APPEALS
+ 
+OF THE STATE OF HAWAI' I 
+–––O0O–––
+ 
+LAHAINA FASHIONS, INC., a Hawai' i corporation,
+Plaintiff-Appellant/Cross-Appellee,
+v. 
+BANK OF HAWAII, a Hawai' i corporation;
+HAWAIIAN TRUST COMPANY, LTD., as Trustee for
+Hawai'i Real Estate Equity Fund; HAWAI' I REAL 
+ESTATE EQUITY FUND; PACIFIC CENTURY TRUST,
+a division of Bank of Hawai' i as Trustee of 
+the Hawai' i Real Estate Equity Fund,
+Defendants-Appellees/Cross-Appellants
+and 
+JOHN DOES 1-10, AND DOE ENTITIES 1-10,
+Defendants 
+NO. 30644
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE SECOND CIRCUIT
+ 
+(CIVIL NO. 07-1-0506(3))
+ 
+FEBRUARY 21, 2013
+ 
+FOLEY, PRESIDING JUDGE, FUJISE AND REIFURTH, JJ.
+ 
+OPINION OF THE COURT BY REIFURTH, J.
+ 
+Plaintiff-Appellant/Cross-Appellee Lahaina Fashions,
+ 
+Inc. ("Lahaina") appeals from the July 8, 2010 Final Judgment,
+ 
+entered by the Circuit Court of the Second Circuit ("Circuit
+ 
+1
+Court")  in favor of Defendants-Appellees/ Cross-Appellants Bank
+of Hawai
+'i ("Bank"); Hawaiian Trust Company, Ltd. ("Hawaiian 
+1
+ The Honorable Joseph E. Cardoza presided.
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+Trust"); Hawai' i Real Estate Equity Fund ("REEF"); and Pacific 
+Century Trust (collectively, "Defendants") following a jury 
+trial. 
+On appeal, Lahaina claims that the Circuit Court erred
+ 
+in (1) denying its motion to correct the verdict and enter a
+ judgment ("Motion to Correct Verdict and Enter Judgment") and its
+ motion to deny the Defendants' proposed findings of fact and
+ conclusions of law and to resubmit to the jury ("Motion to
+ Resubmit"); (2) granting the Defendants' motion for judgment as a
+ matter of law ("JMOL") as to Lahaina's breach-of-fiduciary-duty
+ claim; (3) excluding from evidence Plaintiff's Exhibit 81
+ ("Exhibit 81"), which consists of (i) an email from the Bank's
+ attorney James K. Tam ("Attorney Tam") to an officer at the Bank,
+ and (ii) a letter from Lahaina's attorney, David H. Nakamura
+ ("Attorney Nakamura"), to Attorney Tam; and (4) refusing to
+ disclose all of Defendants' attorney-client communications
+ concerning the property in question from 1994 through 2002.
+ 
+Defendants filed a cross-appeal, asserting that the
+ 
+Circuit Court erred in denying three pre-judgment motions in
+ which Defendants argued that Lahaina's tortious-interference
+ claim was barred by the statute of limitations. 
+We affirm.
+ 
+I. BACKGROUND
+ 
+A. History of the Property and the parties
+ Prior to 1994, Lahaina held fee simple title to a
+ 
+parcel of commercial property at 744 Front Street in Lahaina,
+ 
+Maui (the "Property"). Lahaina, however, had incurred debt of
+ nearly $3.4 million and, by early 1994, had defaulted on a $2.5
+ million mortgage held by International Savings & Loan
+ ("International Savings"). International Savings was seeking to
+ foreclose on the Property; consequently, Lahaina sought to sell
+ the Property in order to repay its debts. 
+Defendants, through Hawaiian Trust, purchased the
+ 
+Property and leased the Property back to Lahaina for 50 years. 
+The lease agreement between Hawaiian Trust and Lahaina ("Lease")
+ gave Lahaina an option to purchase the Property from Hawaiian
+ 
+2
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+Trust for $6 million within the first ten years of the Lease
+ 
+should Lahaina wish to sell a fee simple interest to a third-
+party purchaser (the "Option"). Pursuant to the terms of the
+ Option, Hawaiian Trust was entitled to 50% of any proceeds in
+ excess of $9 million upon Lahaina's sale of the Property to a
+ third party. 
+In the fall of 1999, Lahaina's largest anchor tenant,
+ 
+Planet Hollywood, surrendered its sublease on the Property. 
+Consequently, Lahaina was unable to make its rental payments to
+ Hawaiian Trust and defaulted under the Lease. On May 1, 2000,
+ the then-owner of the Property, Pacific Century Trust, filed a
+ lawsuit against Lahaina, seeking a judgment for possession, a
+ writ of possession, and damages ("May 2000 Lawsuit"). On
+ June 19, 2001, the trial court orally granted Pacific Century
+ Trust's motion for judgment of possession and a writ of
+ possession. 
+On July 13, 2001, before the trial court entered its 
+judgment in favor of Pacific Century Trust, Lahaina filed a voluntary Chapter 11 bankruptcy petition with the United States Bankruptcy Court for the District of Hawai' i ("Bankruptcy 
+Court"). Lahaina asked the Bankruptcy Court to approve its sale of its leasehold interest in the Property to LoKo Maui, LLC in exchange for the payment of Lahaina's arrearage plus an additional $275,000.00 for Lahaina. The Bankruptcy Court approved the sale of Lahaina's leasehold interest in the Property. The May 2000 Lawsuit was subsequently dismissed with prejudice by stipulation. 
+B. The Complaint
+ 
+Lahaina initiated the lawsuit which is the basis of
+ 
+2
+this appeal on June 25, 2007,  asserting claims against
+Defendants for fraud, conspiracy to defraud, breach of fiduciary
+ duty, and tortious interference with prospective business
+ advantage. 
+Lahaina claimed that the Defendants never intended to
+ 
+2
+ Although the Complaint was filed on November 29, 2007, the parties
+entered into a tolling agreement whereby the statute of limitations was deemed
+tolled from June 25, 2007. 
+3
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+honor, and intentionally interfered with Lahaina's subsequent
+ 
+attempts to exercise, the Option. Lahaina alleged that the
+ Defendants' actions caused Lahaina to sell its rights under the
+ Lease for a substantial loss. 
+C. Trial
+ 
+1. Testimony of George Weir
+ 
+George Weir ("Weir"), who Lahaina describes as "the
+ 
+Bank's senior executive officer at the time it entered the
+ 
+agreement with Lahaina", testified at trial on April 27, 2009, on
+ the issue of whether Defendants owed Lahaina any contractual or
+ fiduciary duties. The testimony relevant to the issues on appeal
+ concerned Weir's understanding of the legal effect of the Option:
+ 
+Q. [by Joseph M. Alioto ("Attorney Alioto")] All
+ 
+right. So if the option is exercised, you'd have to give
+clear title, wouldn't you?
+ 
+A. [by Weir] Of course.
+ 
+Q. Of course. So you have to make sure that its —
+the land — if the option is — if the option is exercised,
+you have to make sure that the land is clear?
+ 
+A. Yes.
+ 
+Q. You have to hold it in effect for Lahaina's
+ 
+benefit, if they exercise the option?
+ 
+A. At the time -- if they were to exercise their
+option and we were to accept it, at close of escrow, we'd
+have to deliver clean title.
+ 
+Q. So you have an obligation to Lahaina to make sure
+that at –– that if the option is in fact exercised, you're
+going to give him clear title?
+ 
+A. At close of escrow, yes, sir.
+ 
+Q. So in effect then, Lahaina would be a beneficiary
+and you would have the obligation to make sure nothing
+happens to the land if the option is closed?
+ 
+A. At the time of the close of escrow we'd have to
+ 
+deliver it clear, as I say.
+ 
+Q. So you have a duty to Lahaina to make sure that
+nothing happens in the meantime?
+ 
+A. Certainly nothing that can't be fixed.
+ 
+Q. So you have an obligation to make sure that either
+nothing happens or if something does, you've got to fix it?
+ 
+A. True.
+ 
+Q. 	
+And that's an obligation to whom?
+ 
+4
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+A. Would be to the lessee, to the tenant.
+ 
+Q. To?
+ 
+A. Lahaina.
+ 
+Q. Lahaina. Okay. Now, would you say that that puts
+you in a fiduciary relationship with them?
+ 
+A. It's a stretch. I'll take that.
+ 
+Q. You'll accept that?
+ 
+A. A definition of a fiduciary is one who has a
+confidential relationship with another, which could extend
+to husband and wife. So sure.
+ 
+Lahaina cites additional testimony from Weir of similar import
+ 
+and character. 
+2. Waiver of attorney-client privilege
+ 
+On direct examination on May 5, 2009, Cassandra Joy
+ 
+Leolani Abdul ("Abdul"), who Lahaina calls a "senior officer of
+ the Bank," responding to Defendants' counsel's question about who
+ it was that made the decision about "what type of information to
+ include in . . . declarations [filed] in support of the motions
+ in the [May 2000 Lawsuit]," testified that the Bank's attorney
+ made the decision. When asked whether she advised the Bank's
+ attorney "to not tell the judge that people had expressed an
+ interest in the property," Abdul testified that she did not. 
+The next day, Lahaina filed its motion in limine to find
+ privilege waived and to compel discovery, arguing that the Bank
+ waived its attorney-client privilege. 
+On May 11, 2009, the Circuit Court ruled, orally, that
+ 
+the Bank had waived the attorney-client privilege as to documents
+ 
+relating to who made the decisions about what type of
+information to include in declarations in support of motions
+in the previous litigation with [Lahaina], to include who
+made the decision to disclose information concerning those
+individuals who had expressed an interest in the property,
+but not limited to that category.
+ 
+Lahaina subsequently filed its motion in limine to determine the
+ 
+scope of waiver, arguing that the Circuit Court should find that
+ Defendants were not entitled to rely on the attorney-client
+ privilege for any communications between Defendants and their
+ attorneys "from 1994 through 2002 with reference to any matter
+ related to [the Property]" because the communications were either
+ 
+5
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+made in furtherance of fraud or had been waived by significant
+ 
+voluntary disclosures. 
+The Circuit Court examined the documents in camera,
+ 
+and, at a hearing on May 26, 2009, according to Lahaina, "refused
+ to disclose all of the documents and selected only a few of the
+ requested documents" for disclosure. On May 28, 2009, the court
+ entered its Order Granting Plaintiff's Motion in Limine to Find
+ Privilege Waived and to Compel Discovery, directing that
+ Defendants produce 
+all previously withheld documents relating to who made the
+decisions on behalf of Defendants about what type of
+information to include in declarations filed with the Court
+ . . . , including, but not limited to, disclosure of
+information concerning individuals who had expressed an
+interest in purchasing [the Property]. 
+3. Exhibit 81
+ 
+Exhibit 81 consists of two documents. One document is
+ 
+a letter from Lahaina's attorney to the Bank's attorney, dated
+ 
+July 10, 2000, proposing settlement ("Letter"). The Letter
+ states that Lahaina "makes this proposal so that it may finalize
+ several pending offers to purchase both its 614 Front Street
+ parcel and the 744 Front Street property." The other document is
+ an email from the Bank's attorney to Abdul dated July 17, 2000
+ ("Email"), which states: "i [sic] agree with you that the offer
+ is unacceptable; it is in the REEF's best interest to get back
+ the property and market it as fee owner; we are proceeding with
+ partial summary judgment. jim[.]" The statement, "We are
+ verifying that this email is referring to the offer attached
+ hereto," is handwritten on the document. 
+The Circuit Court ultimately excluded Exhibit 81 from 
+evidence pursuant to Hawai' i Rules of Evidence ("HRE") Rule 401,
+3 
+3
+ HRE Rule 401 states:
+ 
+"Relevant evidence" means evidence having any tendency
+to make the existence of any fact that is of consequence to
+the determination of the action more probable or less
+probable than it would be without the evidence.
+ 
+Haw. R. Evid. 401 (1993).
+ 
+6
+  FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+4 5 6
+402, 403, and 408.
+4. Defendants' motion for JMOL
+ 
+After Lahaina concluded its case in chief, Defendants
+ 
+moved for JMOL, arguing, among other things, that (1) the
+ 
+tortious-interference and breach-of-fiduciary-duty claims were
+ barred by the two-year statute of limitations in HRS § 657-7, and
+ (2) the breach-of-fiduciary-duty claim must fail because Lahaina
+ failed to show that Defendants owed it a fiduciary duty. 
+The
+ 
+Circuit Court denied the motion as to (1) and granted the motion
+ as to (2). 
+4
+ HRE Rule 402 states:
+ 
+All relevant evidence is admissible, except as
+otherwise provided by the Constitutions of the United States
+and the State of Hawaii, by statute, by these rules, or by
+other rules adopted by the supreme court. Evidence which is
+ not relevant is not admissible.
+ 
+Haw. R. Evid. 402 (1993).
+ 
+5
+ HRE Rule 403 states:
+ 
+Although relevant, evidence may be excluded if its
+probative value is substantially outweighed by the danger of
+unfair prejudice, confusion of the issues, or misleading the
+jury, or by considerations of undue delay, waste of time, or
+needless presentation of cumulative evidence.
+ 
+Haw. R. Evid. 403 (1993).
+ 
+6
+ HRE Rule 408 states:
+ 
+Evidence of (1) furnishing or offering or promising to
+furnish, or (2) accepting or offering or promising to
+accept, a valuable consideration in compromising or
+attempting to compromise a claim which was disputed as to
+either validity or amount, or (3) mediation or attempts to
+mediate a claim which was disputed, is not admissible to
+prove liability for or invalidity of the claim or its
+amount. Evidence of conduct or statements made in
+ compromise negotiations or mediation proceedings is likewise
+not admissible. This rule does not require the exclusion of
+any evidence otherwise discoverable merely because it is
+presented in the course of compromise negotiations or
+mediation proceedings. This rule also does not require
+exclusion when the evidence is offered for another purpose,
+such as proving bias or prejudice of a witness, negativing a
+contention of undue delay, or proving an effort to obstruct
+a criminal investigation or prosecution.
+ 
+Haw. R. Evid. 408 (1993).
+ 
+7
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+D. The verdict
+ 
+The jury was asked to render a special verdict on the
+ 
+fraud-in-the-inducement, conspiracy-to-defraud, and tortious­
+interference claims. Instructions on the Verdict Form stated: 
+"At least ten jurors must agree on each answer." On the fraud­in-the-inducement claim, the jury found that Lahaina had failed
+ to prove that "at the time it entered into the Lease in 1994,
+ Defendants did not intend to honor the option provision in the
+ Lease[.]" On the conspiracy-to-defraud claim, the jury found
+ that Lahaina failed to meet its burden of showing by clear and
+ convincing evidence that Defendants conspired to commit fraud
+ upon Lahaina. 
+As for the tortious-interference claim, the Verdict
+ 
+Form posed seven yes/no questions to the jury. The first four
+ questions asked whether Lahaina had met its burden of proof on
+ each of the first four elements of a tortious-interference
+ 
+7
+claim; the jury answered "Yes" to each.  In answer to Questions
+ 
+5 and 6, the jury found that Lahaina was entitled to $680,000.00
+ in general damages and $770,821.00 in punitive damages. 
+Question 7, however, read:
+ 
+Plaintiff initiated this lawsuit on June 25, 2007.
+Did Defendants meet their burden of proof by a preponderance
+of the evidence that Plaintiff was either aware of its
+ interference claim or had enough information to warrant an
+investigation which, if reasonably diligent, would have led
+to discovery of the interference two or more years prior to
+June 25, 2007?
+ 
+The jury answered "Yes" to Question 7. 
+This verdict was read in open court on June 10, 2009. 
+7
+ The elements of a tortious-interference claim are:
+ 
+(1) the existence of a valid business relationship or
+prospective advantage or expectancy sufficiently definite,
+specific, and capable of acceptance in the sense that there
+is a reasonable probability of it maturing into a future
+economic benefit to the plaintiff; (2) knowledge of the
+relationship, advantage, or expectancy by the defendant; (3)
+a purposeful intent to interfere with the relationship,
+advantage, or expectancy; (4) legal causation between the
+act of interference and the impairment of the relationship,
+advantage, or expectancy; and (5) actual damages.
+ 
+Buscher v. Boning, 114 Hawai' i 202, 216 n.7, 159 P.3d 814, 828 n.7 (2007)
+(quoting Kahala Royal Corp. v. Goodsill Anderson Quinn & Stifel, 113 Hawai' i 
+251, 267 n.18, 151 P.3d 732, 748 n.18 (2007). 
+8
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+At counsel's request, the jury was polled. Eleven of the twelve
+ 
+jurors stated that they agreed with all of the answers read in
+ open court. The verdict was then entered into the record. 
+Following the entry of the verdict, the Circuit Court
+ 
+addressed the jurors, stating:
+ 
+After you have been discharged from your jury service
+in this case, you are free to discuss this case with anyone.
+You may discuss your opinion about how the case was
+presented, the performance of the attorneys, the credibility
+of the witnesses, the usefulness of the exhibits, the jury
+instructions and procedural matters. However, you should be
+careful not to discuss your thoughts or any other juror's
+thought processes, in other words, why or how the jurors
+reached or did not reach their verdict or verdicts.
+ 
+To do so would violate the confidentiality of the jury
+deliberation process. If you wish to report any improper
+conduct by any juror or jurors during the deliberations that
+may have been prejudicial to either party or that may have
+compromised the fairness of your jury deliberations and/or
+verdicts, then please do so by notifying the Bailiff before
+you leave the courthouse.
+ 
+If at some point after you've already left the
+courthouse you want to contact the Court about the above
+concerns, please send a letter to the Court. The Court upon
+review of these matters may summon some or all of the jurors
+back to court to hold a hearing to determine whether there
+was any misconduct that may have been prejudicial to the
+parties. Again, this is a standard instruction read at the
+conclusion of all jury trials in the courtroom.
+ 
+. . . .
+ 
+On behalf of the Judiciary, on behalf of the staff of
+my Court, and I'm sure I speak on behalf of the parties as
+well, thank you to each and every one of you for your
+dedicated service as jurors in this case. And at this time,
+you are discharged from further jury service in this matter.
+And the Bailiff will escort you out of the courtroom. Thank
+ you so much.
+ 
+The jury then left the courtroom.
+ 
+E. Post-verdict proceedings
+ 
+Later that day, the Circuit Court went back on the
+ 
+record. The court, with the jury not present, stated:
+ 
+I make it a practice to go into the jury room after trial is
+over to meet with jurors to thank them for their jury
+service and see if they have any questions or suggestions
+for the Court.
+ 
+And so, I did so in this case as well. And while I
+ 
+was doing that, statements were made that could potentially
+raise an issue relative to the verdict of the jury. I
+ disclosed this to the parties and asked the parties if they
+desired any additional disclosure from the Court. The
+ 
+9
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+Plaintiff has requested further disclosure. The defense has
+ 
+requested or stated that the trial was over and the verdict
+has been made a part of the record and that the proceedings
+were concluded, and therefore, objects to any additional
+disclosure. I've indicated to the parties what I'm inclined
+to do is to go on record as I am doing at this point, that I
+would welcome briefing from the parties on this particular
+issue relative to what the Court should disclose, if
+anything. I just didn't want to hold this information from
+the parties.
+ 
+But at the same time, I don't want to go beyond that
+and do anything that I shouldn't be doing. So I'm making
+this disclosure to the parties and encourage a briefing from
+the parties so that I can consider their briefing as well as
+my own research on the issue and also attempt to preserve
+the status quo to the extent that that can be done to
+instruct the –– bring the jury back, they're still here, and
+to simply instruct them that they're not to discuss the case
+with anyone or allow anyone to discuss the case with them.
+ 
+The jury was then called back into the court room. 
+The Circuit Court told them: 
+Ladies and gentlemen, earlier I gave you an instruction, and
+I'm going to need to rescind that, so that's the reason we
+had you return to the courtroom; otherwise, there's nothing
+that you need to be concerned with. And that is I read you
+an instruction that began, "After you have been discharged
+from your jury service in this case, you are free to discuss
+this case with anyone."
+ 
+And I went through the balance of the instruction.
+I'm going to rescind that and instruct you that, at this
+point, you are not free to discuss this case with anyone.
+ 
+The Circuit Court then stated: "We'll release you at this time
+ 
+subject to potential recall." The jury was then excused. 
+On August 7, 2009, with the parties present, the
+ 
+Circuit Court conducted a colloquy of Jurors 1 through 12
+ ("Colloquy"). The Circuit Court read the verdict to each juror
+ and then asked if the verdict conformed with the juror's
+ decision. If the juror answered "No," the Court would generally
+ inquire further. 
+At the Colloquy, Jurors 3, 6, 11, and 12 stated that
+ 
+the Verdict Form accurately reflected their verdict. 
+Juror 5 was
+ 
+the juror who originally stated that the Verdict Form did not
+ reflect her decision on June 10, 2009.
+8 Juror 4 stated that she
+ 
+could not remember one way or the other. 
+Jurors 2, 7, 8, 9, and 10 stated that the answer to
+ 
+Question 7 was accurately recorded as "Yes," but that the jury
+ 
+8
+ Juror 5 explained that she had voted "No" on Question 7.
+ 
+10
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+thought that by answering "Yes," Lahaina's tortious-interference
+ 
+claim would not be barred by the statute of limitations. For
+ instance, Juror 7 stated that the jurors had "misinterpreted"
+ Question 7 and that, although the jury answered "Yes" to Question
+ 7, "we felt that the statute of limitations was still valid when
+ the plaintiff had found out." Juror 8 likewise stated that the
+ jury "misunderstood" the question but had answered "Yes." Juror
+ 10 stated that they did not recognize that they had "chosen the
+ wrong answer" until the judge came into the jury room "and
+ explained all those things." Juror 2 offered a similar, but more
+ detailed, explanation:
+ 
+THE COURT: In relation to time, when did you realize
+the answer to the last question was inaccurate, in other
+words, before or after you left the courthouse on June 10th,
+2009?
+ 
+[JUROR 2]: When we had our discussion with you and
+you commented on the decision, that he wasn't within the
+statute of limitations, and that was not what we understood
+we had answered.
+ 
+So somehow there was a misunderstanding with the way
+that question was phrased. We felt — otherwise, we wouldn't
+have put the figures in there, and we wouldn't have said yes
+to interfere — I guess you could still say yes to
+interference and still say it's not within the statute of
+limitations. But we felt there was interference and that it
+ was within the statute of limitations but there was not
+ conspiracy.
+ 
+Juror 1 simply stated that the jury's answer to
+ 
+Question 7 was "no instead of yes." Juror 1 was not asked to
+ 
+explain what he meant by this. 
+On August 17, 2009, Lahaina filed its Motion to Correct
+ 
+Verdict and Enter Judgment, seeking an order to "1) correct the
+ verdict by striking the answer 'Yes' to Verdict Form Question 7
+ for 'Interference with Prospective Business Expectancy,' filed
+ June 10, 2009, and 2) to enter judgment in favor of Plaintiff." 
+On September 4, 2009, the Circuit Court orally denied the motion. 
+On July 8, 2010, the Circuit Court issued its findings of fact,
+ conclusions of law, and order denying Lahaina's Motion to Correct
+ Verdict and Enter Judgment.
+ 
+On April 1, 2010, Lahaina filed its Motion to Resubmit
+ 
+seeking re-submission of Question 7 to the jury, and arguing that
+ the jury had not yet been discharged. The Circuit Court denied
+ 
+11
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+the motion. 
+This appeal followed.
+ 
+II. STANDARDS OF REVIEW
+ 
+Hawai'i Rules of Civil Procedure ("HRCP") Rule 60 
+The granting or denying of an HRCP Rule 60 motion is 
+reviewed under the abuse-of-discretion standard. See Kienker v. 
+Bauer, 110 Hawai' i 97, 113, 129 P.3d 1125, 1141 (2006), 
+superceded by statute on other grounds as stated in 
+Kaho'ohanohano v. Dept of Human Servs., State of Haw., 117 Hawai' i 
+262, 178 P.3d 538 (2008). 
+Findings of fact
+ 
+A trial court's finding of fact is reviewed under the 
+clearly erroneous standard. Inoue v. Inoue, 118 Hawai' i 86, 92, 
+185 P.3d 834, 840 (App. 2008). A finding of fact "is clearly erroneous when, despite evidence to support the finding, the appellate court is left with the definite and firm conviction in reviewing the entire evidence that a mistake has been committed." Id. (citing Chun v. Bd. of Tr. of the Emps.' Ret. Sys. of the State of Haw., 106 Hawai' i 416, 430, 106 P.3d 339, 353 (2005)). 
+A finding "is also clearly erroneous when the record lacks substantial evidence to support the finding." Id. (quoting 
+Leslie v. Estate of Tavares, 91 Hawai' i 394, 399, 984 P.2d 1220, 
+1225 (1999)). 
+Conclusions of law
+ 
+An appellate court reviews a trial court's conclusion 
+of law under the right/wrong standard. Chun, 106 Hawai' i at 430, 
+106 P.3d at 353. 
+Motions for JMOL
+ 
+"It is well settled that a trial court's rulings on 
+motions for judgment as a matter of law are reviewed de novo." Miyamoto v. Lum, 104 Hawai' i 1, 6, 84 P.3d 509, 514 (2004) 
+(footnote omitted) (citing In re Estate of Herbert, 90 Hawai' i 
+443, 454, 979 P.2d 39, 50 (1999)). 
+12
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+Evidentiary rulings
+ 
+[D]ifferent standards of review must be applied to trial
+court decisions regarding the admissibility of evidence,
+depending on the requirements of the particular rule of
+evidence at issue. When application of a particular
+evidentiary rule can yield only one correct result, the
+proper standard for appellate review is the right/wrong
+standard. However, the traditional abuse of discretion
+standard should be applied in the case of those rules of
+evidence that require a "judgment call" on the part of the
+trial court.
+ 
+Walsh v. Chan, 80 Hawai' i 212, 215, 908 P.2d 1198, 1201 (1995) 
+(quoting Craft v. Peebles, 78 Hawai' i 287, 293-94, 893 P.2d 138, 
+144-45 (1995)). 
+III. DISCUSSION
+ 
+A.	 The Circuit Court correctly denied Lahaina's Motion to
+Correct Verdict and Enter Judgment and its Motion to
+Resubmit.
+ 
+Lahaina argues that the Circuit Court erred in denying
+ 
+the Motion to Resubmit, under which the jury would be given the
+ 
+opportunity to enter a new verdict, and the Motion to Correct
+ Verdict and Enter Judgment, under which the trial court would
+ amend the verdict, because (1) the jury had not been discharged
+ and (2) "[i]t was obvious that a majority of jurors found that
+ the Bank was liable for [tortious interference], but mistakenly
+ marked the verdict form." We disagree and hold that Lahaina
+ failed to show that the jury was capable of amending its verdict
+ and the Circuit Court did not abuse its discretion in denying the
+ Motion to Correct Verdict and Enter Judgment because the Colloquy
+ did not establish that the jury merely made a clerical mistake
+ when entering its verdict onto the Verdict Form.
+ 
+1.	 The jury had been discharged and lacked the
+authority to amend its verdict.
+ 
+The August 17, 2009 Motion to Correct Verdict and Enter
+ 
+Judgment was based on the former jurors' statements at the
+ 
+Colloquy. The Circuit Court denied the motion. On April 1,
+ 2010, nearly ten months after the jury entered its verdict,
+ Lahaina filed the Motion to Resubmit, arguing that the jury had
+ not yet been discharged pursuant to State v. Manipon, 70 Haw.
+ 
+13
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+175, 765 P.2d 1091 (1989), and, thus, could still render a
+ 
+verdict on Question 7. The Circuit Court, however, concluded
+ that the jury had in fact been discharged and could no longer
+ amend its verdict.
+9 Lahaina argues that this conclusion was
+ 
+erroneous. 
+After a jury is discharged, it cannot amend, correct,
+ 
+or clarify its verdict. See Dias v. Vanek, 67 Haw. 114, 118, 679
+ 
+P.2d 133, 136 (1984) (holding that after the discharge of the
+ jury, the only course of action to remedy an ambiguous verdict is
+ a new trial). This follows because after the jury is discharged,
+ the jury ceases to exist as an entity. See Ex parte T.D.M., No.
+ 
+1091645, 2011 WL 5110207, at *4 (Ala. Oct. 28, 2011) ("a jury may
+ amend its verdict at any time before it is discharged, but it is
+ equally clear under our authorities that the discharge of the
+ jury by the trial court ends their consideration of the case."
+ (quoting Preferred Risk Mut. Ins. Co. v. Stuart, 395 So.2d 980,
+ 986 (Ala. 1981) (internal quotation marks omitted))); People v.
+ Hendricks, 737 P.2d 1350, 1358 (Cal. 1987) (stating that after
+ the verdict is received and the jury is discharged, the jury
+ cannot alter or amend the verdict "[a]s well might any other
+ twelve men be called to alter it as the men who were jurors"
+ (quoting People v. Lee Yune Chong, 29 P. 776, 777 (1892)); Kempf
+ Contracting & Design, Inc. v. Holland-Tucker, 892 N.E.2d 672, 676
+ (Ind. Ct. App. 2008) ("When a jury is officially discharged, it
+ becomes functus oficio [sic] as a jury in that particular case,
+ and anything it does thereafter, even by order of the trial
+ court, is null and void." (footnote omitted)); State v.
+ Rodriguez, 134 P.3d 737, 739 (N.M. 2006) (after "a verdict has
+ been received and entered upon the minutes, and the jury has been
+ dismissed, they [sic] have not the power to reassemble and alter
+ their [sic] verdict" (quoting Murry v. Belmore, 154 P. 705, 707
+ (N.M. 1916) (internal quotation marks and brackets omitted)).
+ 
+The question, then, is: When is a jury deemed to have 
+been "discharged" in Hawai' i such that the jury can no longer 
+9
+ The Circuit Court stated that the rescission of its instruction to
+ 
+the jurors that they were free to discuss with anyone did not rescind its
+order discharging the jury. 
+14
+  
+    FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+amend its verdict? For the reasons expressed below, we hold that
+ 
+a jury is no longer capable of amending its verdict once the
+ verdict is accepted by the trial court and the jury is explicitly
+ discharged from further responsibilities in the case. 
+The length of a juror's service is governed by statute. 
+In Hawai' i, "trial jurors shall serve only one day or one trial 
+during the year." H
+AW. REV. STAT. § 612-22 (Supp. 2011). 
+"Prospective jurors who are accepted to serve on a jury shall complete the duration of the trial and shall be dismissed from service for the year." Id. While HRS § 612-22 does not 
+specifically address the issue of the amendment of verdicts,
+10 
+the legislature, in defining the limits of a trial juror's duties, plainly indicated that an individual's responsibilities as a juror end when the trial is complete. 
+Once the trial court accepts and records the jury's
+ 
+verdict and explicitly discharges the jury, the trial is complete
+ and the jury ceases to exist as a legal entity. This conclusion
+ is consistent with Manipon, 70 Haw. 175, 765 P.2d 1091, the case
+ upon which Lahaina's argument largely relies. In Manipon, the
+ defendant was charged with robbery in the first degree. 70 Haw.
+ at 176, 765 P.2d at 1092. After deliberating, the jury returned
+ one completed verdict form, which found the defendant not guilty
+ of the lesser included offense of robbery in the second degree;
+ the other verdict forms were returned unsigned. Id. Because no
+ 
+verdict was reached on the first-degree robbery charge, the trial
+ court re-read the instructions on the elements of the two robbery
+ charges and instructed the jury that only if it found the
+ defendant not guilty of the first-degree-robbery charge could it
+ return a verdict on the lesser included offense. Id. The jury
+ 
+10
+ The legislature amended HRS § 612-22 in 1987 to include the
+language in question as part of an effort to reduce the time jurors would be
+asked to serve and allow greater jury participation in the community. See
+ 
+Conf. Comm. Rep. No. 82, in 1987 House Journal, at 1039; Conf. Comm. Rep. No.
+95, in 1987 Senate Journal, at 866—67; S. Stand. Comm. Rep. No. 827, in 1987
+Senate Journal, at 1247–48. The demands on jurors prior to the 1987 amendment
+were substantially heavier than today—Professor Jon Van Dyke, testifying
+before the House Judiciary Committee, stated that those selected as potential
+jurors in the First Circuit Court would, on average, report to the courthouse
+ten separate days and sit for two or three trials. Hearing on HB 162 Before
+ 
+the H. Comm. on Judiciary, 14th Leg. (Haw. Mar. 4, 1987) (testimony of Prof.
+Jon Van Dyke).
+ 
+15
+  FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+subsequently returned a verdict finding the defendant guilty of
+ 
+first-degree robbery. Id.
+ 
+On appeal, the defendant argued that the trial court
+ 
+erred in re-instructing the jury when the jury had found the
+ defendant not guilty of the lesser included offense. Id. at 177,
+ 
+765 P.2d at 1092. The Supreme Court disagreed, stating:
+ 
+As long as the jury remains under the direction of the
+trial court, it is within the court's province to have them
+render a correct verdict. State v. Leevans, [], 424 P.2d
+1016, 1020 ([Wash.] 1967). "When a verdict is rendered in
+ 
+improper form, is incomplete, is insufficient in substance,
+is not responsive to or does not cover the issues, or is
+otherwise defective, the trial court may recommit the
+verdict to the jury with proper instructions." Id. See
+ 
+also State v. Culbertson, [], 522 P.2d 391, 394 ([Kan.]
+1974).
+ 
+Id. at 177, 765 P.2d at 1092–93. The Court held that, because
+ 
+there was no verdict on the first-degree robbery charge, the jury
+ 
+had not completed its duty, and "the trial court properly re-
+instructed the jurors in order to obtain a complete and correct
+ verdict before discharging them." Id. at 177, 765 P.2d at 1093. 
+Furthermore, the Court held that the defendant's double-jeopardy
+ rights were not violated, stating: "The office of a juror is not
+ discharged until the acceptance of the verdict by the court." 
+Id.
+ 
+The phrase "remains under the direction of the trial
+ 
+court" in Manipon comes from State v. Leevans, 424 P.2d 1016
+ (Wash. 1967), which states that "[a]s long as the jury had the
+ case in their hands and remained under the direction of the
+ court, it was within the court's province to have them render a
+ complete verdict." 424 P.2d at 1020. This phrase appears to
+ have a specialized meaning in Washington. Examining the
+ citations in State v. Badda, 411 P.2d 411 (Wash. 1966), the case
+ cited in Leevans, we see that the foundation for the statement of
+ law in Leevans is a Washington statute, which, in 1926, stated:
+ 
+When the verdict is given, and is such as the court may
+receive, and if no juror disagree or the jury be not again
+sent out, the clerk shall file the verdict. The verdict is
+ then complete and the jury shall be discharged from the
+case. The verdict shall be in writing, and under the
+ 
+direction of the court shall be substantially entered in the
+ 
+journal as of the day's proceedings on which it was given.
+ 
+See Bino v. Veenhuizen, 250 P. 450, 451 (Wash. 1926) (emphasis
+ 
+16
+   FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+added) (the statute referenced is currently codified in amended 
+form at W ASH. REV. CODE § 4.44.460 (2003)). From this, the 
+Washington Supreme Court stated that "[a]s long as the jurors, under the direction of the court, exercised according to law, have the case in their hands, it is within their province to change or modify the verdict." Id. The corollary of this is 
+that "after a verdict has been received and recorded and the jury discharged, it can no longer function as a jury." Beglinger v. 
+Shield, 2 P.2d 681, 683 (Wash. 1931). Thus, in Washington, whether a jury remains "under the direction of the trial court," i.e., has not yet been discharged, is linked to whether the verdict has been received and recorded. This understanding is consistent with Hawai' i law. See State v. Daniels, 109 Hawai' i 1, 
+7, 122 P.3d 796, 802 (2005) (applying the principle that "[t]he office of the juror is not discharged until the acceptance of the verdict of the court" in the context of a clarification-of­verdict analysis). 
+Lahaina cites to State v. Pare, 755 A.2d 180 (Conn.
+ 
+2000), for support. In Pare, the Connecticut Supreme Court said
+ that:
+ 
+Discharge is defined as "[t]he relieving of a witness,
+juror, or jury from further responsibilities in a case."
+Black's Law Dictionary (7th Ed. 1999). According to that
+definition, a jury cannot be considered discharged so long
+as its members have yet to fulfill an outstanding obligation
+pursuant to their status as jurors.
+ 
+755 A.2d at 190. Lahaina claims that Pare is consistent with
+ 
+Manipon because, under Manipon, a jury may correct the verdict so
+ long as it remains "under the direction of the trial court." 
+Lahaina argues that because the Circuit Court "recalled the
+ jurors and ordered them not to speak to each other about the
+ case" and because it "further ordered them that they would be
+ recalled at a later time to provide evidence," the jury was still
+ "'under the direction of the trial court' and had 'yet to fulfill
+ an outstanding obligation pursuant to their status as jurors.'" 
+In Pare, the jury returned a verdict finding the
+ 
+defendant guilty of murder. 755 A.2d at 184–85. After polling
+ the jurors as a group, the trial judge stated: "The jury can
+ retire now and if you wait for a moment, I'll be in to speak to
+ 
+17
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+you very shortly." Id. at 185. The judge did not state that the
+ 
+jury was discharged. As soon as the jury exited the courtroom,
+ 
+defense counsel requested that the court poll the jurors
+ individually, but the trial court denied the request. Id. at
+ 
+185–86. The issue on appeal was whether a request to poll jurors
+ after a guilty verdict was timely made pursuant to a Connecticut
+ Practice Book rule mandating that polling requests be made
+ "before the jury [members] have been discharged." Id. at 182 &
+ 
+n.2. The state contended that the jury's duties were fulfilled
+ 
+when the jury announced its verdict and the jury "retired to the
+ jury room to await the judge's remarks." Id. at 190. The
+ 
+Supreme Court of Connecticut disagreed, stating that "when, as
+ here, the trial court effectively informs the members of the jury
+ that, upon departing from the courtroom, they nonetheless remain
+ under the supervisory authority of the trial court, it cannot be
+ said that the jury is discharged under the common understanding
+ of that term." Id.
+ 
+This case is different. Here, the jury rendered a
+ 
+verdict. The jury was then polled. Eleven of the twelve jurors
+ confirmed in open court that the verdict read in court was their
+ verdict. The verdict was then entered into the record. The
+ judge then announced that the jury was "discharged from further
+ jury service in this matter," noting that upon discharge, they
+ could discuss the case with anyone. The trial complete, the jury
+ left the courtroom. The judge did not inform the jurors that
+ they remained under the supervisory authority of the court or
+ that the jurors needed to wait for the judge to come and talk to
+ them. To the contrary, the trial judge informed the jurors that
+ their duties as jurors had been fulfilled. Thus, the jury in
+ this case was "discharged" and could not be legally reassembled
+ to amend its verdict even by order of the trial court. 
+Therefore, Pare is inapposite.
+ 
+We recognize that, in some states, the "verbal
+ 
+discharge or dismissal of the jury by the trial court does not
+ render the jury discharged for purposes of subsequent reassembly
+ to correct or amend a verdict." See State v. Green, 995 S.W.2d
+ 
+591, 609 (Tenn. Crim. App. 1998). Instead, some courts focus on
+ 
+18
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+whether the jury has left the presence and control of the trial
+ 
+court following the conclusion of trial. See, e.g., State v.
+ 
+Brandenburg, 120 A.2d 59 (Hudson County Ct. 1956); Melton v.
+ Commonwealth, 111 S.E. 291 (Va. 1922). Other courts also focus
+ on what the jurors did or could have done following a formal
+ order of discharge. For instance, some jurisdictions consider
+ whether the jurors had dispersed, see David J. Marchitelli,
+ Annotation, Propriety of Reassembling Jury to Amend, Correct,
+ Clarify, or Otherwise Change Verdict After Discharge or
+ Separation at Conclusion of Civil Case, 19 A.L.R. 5th 622 § 5
+ (1994) [hereinafter "Marchitelli"], or whether there was a
+ possibility or opportunity for the jurors to have had improper
+ contact with third parties, see, e.g., T.D.M., 2011 WL 5110207,
+ at *4; Rodriguez, 134 P.3d 737; Green, 995 S.W.2d 591.
+11
+ 
+The decision of where to draw the line, in the absence
+ 
+of a statute on point, comes down to balancing interests; among
+ others, the desire for verdicts to reflect the true merits of the
+ case, judicial economy, and the need to preserve the preeminence
+ of the jury's role in our system of law.
+12 Under any approach,
+ 
+however, the integrity of the jury system must be protected. 
+In Melton, for instance, the Virginia Supreme Court
+ 
+held that "[s]o long as the whole jury are in the actual and
+ visible presence of the court, and under its control, an
+ inadvertent announcement of their discharge may be recalled as a
+ matter still in the breast of the court, but not thereafter." 
+111 S.E. at 294. But once a jury leaves the courtroom following
+ discharge, "no longer subject to the usual charge to juries who
+ are allowed to separate pending the trial, that they should not
+ 
+11
+ Lahaina, in its opening brief, did not argue that we should adopt
+any of these common alternatives, but instead rested its case on the
+"consisten[cy]" between Manipon and Pare.
+ 
+12
+ These principles have firm roots in Hawai' i law. See Kanahele v. 
+Han, 125 Hawai' i 446, 457, 263 P.3d 726, 737 (2011) ("Permitting a jury to
+'correct its own mistakes conserves judicial resources and the time and
+convenience of citizen jurors, as well as those of the parties[,]' and allowsthe case to be resolved 'according to the intent of the original fact-finder,while that body is still present and able to resolve the matter.'" (quoting
+Duk v. MGM Grand Hotel, Inc., 320 F.3d 1052, 1058 (9th Cir. 2003)); Pancakes of Haw., Inc. v. Pomare Props. Corp., 85 Hawai' i 300, 305, 944 P.2d 97, 102
+(App. 1997) ("[T]he right to a jury trial in civil cases is clearly among the
+most sacred, fundamental rights enjoyed by our citizens."). 
+19
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+converse with others about the case nor permit others to converse
+ 
+with them about it," the jury no longer exists, and evidence that
+ the jurors were, in fact, not sullied is inadmissible. Id. "The
+ 
+sanctity of jury trials cannot be thus subjected to the hazard of
+ suspicion." Id.; see also T.D.M., 2011 WL 5110207, at *6 ("[a]
+ 
+critical concern raised by a jury's discharge, later recall, and
+ subsequent returning of a verdict is the possibility that jurors
+ could be communicated with or tampered with by any person or any
+ outside influence during the very few minutes that transpired
+ between the time of discharge and recall" (quoting Preferred
+ Risk, 395 So.2d at 988) (internal quotation marks omitted)).
+ 
+On the other hand, there are strong justifications for
+ 
+our holding that a jury cannot amend its verdict following the
+ acceptance and recordation of the verdict and an explicit order
+ discharging the jury.
+ 
+Some courts have considered the office of the jury
+terminated at the time that the trial judge has announced to
+the panel that it is dismissed, and have generally
+prohibited any further consideration of the verdict, without
+regard to whether the jurors have had an opportunity to
+separate or be influenced by nonjurors. One rationale given
+for the rule is the need for a clear distinction between a
+ still constituted jury, and one that has been relieved of
+legal authority to act further. In this regard, it has been
+pointed out that parties, courts, and juries are generally
+given ample opportunity to discover and remedy defects and
+disagreements before the jury has been excused, which, in
+light of the difficulties involved in defining the discharge
+of the jury in terms of varying facts and circumstances, as
+well as the need to promote the stability of verdicts in
+general, provides the basis of the argument for terminating
+the jurisdiction of the court and the jury upon the
+pronouncement of the jury's discharge.
+ 
+Marchitelli, 19 A.L.R. 5th 622 § 2. To hold that a jury can no
+ 
+longer amend its verdict following formal discharge respects the
+ limited but important role that juries and their deliberations
+ play in our legal system. Furthermore, this rule offers the
+ greatest protection against the erosion of public confidence in
+ juridical impartiality.
+13
+ 
+13
+ Beyond the overarching concerns of non-jurors influencing jurors
+following formal discharge, the process of accepting and recording the jury
+verdict in open court, in and of itself, has the inherent potential to impact
+the minds of jurors. The announcement of the jury's verdict, in both criminal
+and civil cases, is usually the most dramatic moment of a trial. Parties,
+attorneys, and the gallery can react viscerally to a verdict with a wide array
+of emotions: people gasp, hug, break down into tears, shake their head in
+disgust, or yell out in exultation. See, e.g., Strip Club Bouncer Found Not
+ 
+20
+   FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+Finally, even if we were to apply a standard more
+ 
+amenable to the amendment of verdicts, we would still hold that
+ 
+the jury had been discharged. For instance, Lahaina cites
+ Rodriguez, 134 P.3d 737, for the proposition that "whether a jury
+ has been discharged requires a determination of whether the jury
+ is still in the presence and control of the trial court, and if
+ not, whether the jury was possibly influenced by an unauthorized
+ contact." Id. at 739. Even under Rodriguez, however, Lahaina's
+ 
+argument that the jury had not been discharged would still fail. 
+Upon the polling of the jury, eleven of the twelve jurors stated
+ that the verdict read in open court was their verdict. The
+ Circuit Court accepted the verdict and then formally discharged
+ the jury. The jurors left the courtroom. After the jurors left
+ the courtroom following a formal order discharging them from
+ further service in the case, they were no longer in the presence
+ and control of the trial court. See Melton, 111 S.E. at 294.
+ 
+Because the jurors had left the presence and control of
+ 
+the trial court, the next question under Rodriguez would be
+ whether the jury had possibly been influenced by an unauthorized
+ contact. Juror 2's and Juror 10's statements at the Colloquy
+ showed that the trial judge had contact with the jurors in the
+ jury room after formal discharge at which time he discussed the
+ legal implications of the jury's verdict with the jurors in an
+ informal fashion. Juror 2 and Juror 10 stated that the jury
+ first realized that it had misinterpreted Question 7 during this
+ 
+Guilty in Unruly Patron's Death, H ONOLULU STAR-ADVERTISER , Apr. 14, 2012,
+www.staradvertiser.com/news/breaking/147386765.html (defendant "let out a yell
+when a court clerk read the jury's not guilty verdict"); Commonwealth v.
+ Craig, 370 A.2d 317, 318 (Pa. 1977) (spontaneous shouts of approval from the
+gallery following guilty verdict). Even the absence of a reaction can be
+ 
+attributed profound significance. See, e.g., Juror: Sandusky Lacked Emotion,
+Confirming Correct Verdict, F
+OXNEWS.COM (June 23, 2012)
+http://www.foxnews.com/us/2012/06/23/juror-sandusky-lacked-emotion-confirming­
+correct-verdict/ (reporting that, for one juror, the defendant's "lack of
+emotion as the guilty verdicts were read at his child sex abuse trial
+confirmed the verdicts were the right ones," because his reaction indicated
+that "he knew it was true"). While such reactions during trial are frequently
+to be expected, cf. Jay M. Zitter, Annotation, Emotional Manifestations by
+ 
+Victim or Family of Victim During Criminal Trial as Ground for Reversal, New
+ 
+Trial, or Mistrial, 31 A.L.R. 4th 229 § 2[a] (1984), reactions made following
+the recitation of the verdict are different because they are in direct
+response to the jury's action. In that moment, jurors are directly confronted
+with the profound effect that their verdict has on the lives of their fellow
+citizens.
+ 
+21
+  
+  FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+discussion.  Such contact between the trial judge and the jurors,
+ 
+outside of the presence of the parties and their attorneys, would
+ 
+have been utterly and completely inappropriate had the trial been
+ ongoing and the jury not been discharged. And because of this,
+ it would have called the impartiality of the trial judge and
+ jurors into question should the jury have been reconstituted for
+ the purpose of rendering a different verdict. "That an officer
+ 
+of the court can constitute an improper or 'outside' influence on
+ 
+a juror, however innocent the officer's intent and behavior, has
+ been established." See T.D.M., 2011 WL 5110207, at *7. Thus,
+ 
+even under a test favoring the amendment of verdicts following
+ formal discharge, the jury was no longer capable of amending its
+ verdict.
+ 
+Consequently, we hold that the jury could not amend its
+ 
+verdict following the acceptance and recordation of the verdict
+ and the trial court's subsequent explicit discharge of the jury. 
+Until the verdict is accepted and recorded, it is not final. 
+Manipon, 70 Haw. at 177, 765 P.2d at 1093 ("The office of a juror
+ is not discharged until the acceptance of the verdict by the
+ court."); see also 75B Am. Jur. 2d Trial § 1537 (2007)
+ ("Generally, an unrecorded verdict is amendable, but a jury's
+ recorded verdict is inviolate."). But once the verdict is
+ accepted, the more time that passes is more time in which jurors
+ could be reconsidering their verdict on an inappropriate basis. 
+Our holding protects the integrity of jury verdicts and promotes
+ public confidence in the foundations of our judicial system. 
+Thus, the Circuit Court did not err in denying the Motion to
+ Correct Verdict and Enter Judgment and the Motion to Resubmit.
+ 
+2.	 There was no valid basis for amending the Verdict
+Form.
+ 
+Lahaina argues that the former jurors' statements
+ 
+"obvious[ly]" establish "that a majority of jurors found that the
+ 
+Bank was liable for interference with a prospective business
+ advantage, but mistakenly marked the special verdict form." We
+ disagree and hold that Lahaina failed to present a valid basis
+ 
+22
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+for amending the Verdict Form.14
+ 
+HRE Rule 606(b) categorically bars individual jurors
+ 
+from impeaching a jury verdict based on any juror's thought
+ 
+process in assenting or dissenting to the verdict. HRE Rule
+ 606(b) states:
+ 
+Inquiry into validity of verdict or indictment. Upon
+an inquiry into the validity of a verdict or indictment, a
+juror may not testify concerning the effect of anything upon
+the juror's or any other juror's mind or emotions as
+influencing the juror to assent to or dissent from the
+verdict or indictment or concerning the juror's mental
+processes in connection therewith. Nor may the juror's
+affidavit or evidence of any statement by the juror
+indicating an effect of this kind be received.
+ 
+Haw. R. Evid. 606(b) (1993). 
+Cabral v. McBryde Sugar Co., 3 Haw. App. 223, 228, 647
+ 
+P.2d 1232, 1235 (1982) is on point here. In Cabral, a negligence
+ 
+case, the jury returned a special verdict form, which was read in
+ open court, setting the plaintiffs' total damages sustained at
+ $24,750.00 and apportioning liability at 45% for the defendant
+ and 55% for the plaintiffs. 3 Haw. App. at 224–25, 647 P.2d at
+ 1233. The plaintiffs' counsel polled the jurors, and all agreed
+ that the verdict read in open court was accurate. Id. at 225,
+ 
+647 P.2d at 1233. It is undisputed that the jury was then
+ discharged. Id. at 228, 647 P.2d at 1235. The plaintiffs
+ 
+subsequently filed a motion under, among other things, HRCP Rule
+ 59 to amend the verdict or, in the alternative, for a new trial. 
+Id. at 225–27, 647 P.2d at 1234. The plaintiffs attached
+ affidavits from eleven of the twelve jurors stating that the
+ special verdict form confused them, that the jurors had
+ unanimously agreed that the plaintiff's negligence was 45%
+ responsible for the damages caused (not 55%), that they intended
+ for the plaintiffs to receive a $24,750.00 judgment, and that the
+ verdict read in open court was inconsistent with the jury's
+ actual intentions. Id. at 225–26, 647 P.2d at 1234. The trial
+ 
+14
+ Although the jury had already been discharged, had Lahaina
+presented a valid basis for impeaching the verdict, it could have been granted
+a new trial, although we note that Lahaina never asked for one. Cf. Dias, 67
+Haw. at 118, 679 P.2d at 136 (holding that once the jury is discharged, "the
+only available remedy [for correcting an ambiguous verdict] is a remand for a
+new trial"). Lahaina neither presented a valid basis for impeaching the
+verdict, nor did it request a new trial.
+ 
+23
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+court denied the motion. Id. at 226, 647 P.2d at 1234.
+ 
+The Cabral court framed the issue on appeal as whether
+ 
+"when a jury, subsequent to its discharge, realizes that its
+ 
+answers to the questions on the special verdict form have caused
+ a result opposite from what it intended, it will be allowed to
+ change one or more of its answers so as to cause the result it
+ intended." Id. at 228, 647 P.2d at 1235. The Cabral court held
+ 
+that the answer to the question was "no" and affirmed the
+ judgment, stating:
+ 
+It must be remembered that the jury was answering a
+special verdict form. A special verdict, as distinguished
+from a general verdict, is one in which the jury find all
+the facts of the case and refer the decision of the cause
+ upon those facts to the court. Thus, the jury was not asked
+to decide the ultimate verdict. It was asked to answer six
+ questions, which it did. The fact that the jury, because of
+the confusion or misunderstanding of the jurors, answered
+the six questions in a way that caused the judge to enter an
+ultimate verdict opposite from the one the jurors expected
+him to enter is not grounds for reversal.
+ 
+Hawai'i has adopted the rule stated in 76 Am.Jur.2d,
+Trial, § 1219 (1975), that affidavits of jurors impeaching averdict will not be received where the facts sought to beshown are such as inhere in the verdict. Here, the factsshown are such as inhere in the verdict. Consequently, theaffidavits should not have been received by the court belowand there is no grounds for reversal. 
+Id. (internal quotation marks and citations omitted).
+ 
+Jurors, however, are not barred from testifying that,
+ 
+after the jury reached a definitive verdict, a mistake was made
+ 
+entering that verdict onto the verdict form. See 27 Charles Alan
+ 
+Wright et al., Federal Practice & Procedure § 6075.1 (2d ed.
+ 2007). Evidence of such a mistake falls "outside the scope of
+ testimony precluded by Rule 606(b)" because such evidence would
+ not be offered to describe the thought process of the jury or to
+ bring the validity of the verdict into question, but rather would
+ be "offered to prove what the verdict truly was." Id.
+ 
+Here, the Circuit Court found that although some
+ 
+responses from some of the jurors "indicated that the verdict
+ that was returned in relation to Question No. 7 was not the
+ verdict of the jury[,] . . . some jurors did explain that they
+ had intended a different result . . . ." The Circuit Court,
+ having considered all of the jurors' statements, concluded that
+ "what the jurors might have intended cannot serve as a basis for
+ 
+24
+  FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+the Court altering the verdict returned by the jury and confirmed
+ 
+by the jury through the Court's polling on the date that the
+ verdict was returned." 
+The Circuit Court's findings and conclusions are well-
+supported by the record. It is abundantly clear, when
+ considering the weight of the Colloquy as a whole, that the
+ jurors misunderstood the legal effect of their answer—that is,
+ they thought that by answering "Yes" to Question 7, the result
+ would be that Lahaina's tortious-interference claim would not be
+ barred by the statute of limitations and Lahaina would recover
+ damages. Jurors 2, 7, 8, 9, and 10 stated that the jurors
+ misinterpreted or misunderstood Question 7, and that the jury
+ answered "Yes" to Question 7 because of that misunderstanding. 
+Jurors 2 and 10 specifically stated that it was not until the
+ trial judge spoke with them in the jury room that they realized
+ their mistake. Jurors 3, 6, 11, and 12 said that the verdict
+ entered was accurate. Juror 5 had already stated that the
+ Verdict Form did not accurately reflect her decision when the
+ jury was polled on June 10, 2009. Only Juror 1, who was not
+ asked to explain her answer, stated that the answer to Question 7
+ "is no instead of yes." The overwhelming weight of the jurors'
+ statements at the Colloquy show that the jury did not merely make
+ a clerical error, i.e., decide that the answer to Question 7 was
+ "No" but accidentally put an "X" next to the answer "Yes" on the
+ Verdict Form.
+ 
+The Circuit Court found that the jury's error was that
+ 
+it misunderstood the legal effect of its answer to a simple yes-
+or-no question and was not merely a clerical error. The record
+ amply supports this finding. This type of juror confusion is not
+ a basis for amending the verdict. See Haw. R. Evid. 606(b)
+ 
+(evidence of a "juror's mental processes in connection" with his
+ or her assent to or dissent from the verdict cannot be received);
+ Cabral, 3 Haw. App. at 228, 647 P.2d at 1235 ("The fact that the
+ jury, because of the confusion or misunderstanding of the jurors,
+ answered [special verdict] questions in a way that caused the
+ judge to enter an ultimate verdict opposite from the one the
+ jurors expected him to enter is not grounds for reversal."). 
+25
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+Thus, the Circuit Court did not abuse its discretion in denying
+ 
+the Motion to Correct Verdict and Enter Judgment or the Motion to
+ Resubmit.
+ 
+B.	 Lahaina fails to show that the Circuit Court erred in
+ 
+granting Defendants' motion for JMOL on its breach-of­fiduciary-duty claim.
+ 
+Lahaina argues that the Circuit Court erred in granting
+ 
+the Defendants' motion for JMOL on Lahaina's breach-of-fiduciary­
+duty claim because the Defendants and Lahaina had created a
+ trustee-beneficiary relationship. Lahaina claims that Weir
+ admitted that the Defendants owed a fiduciary duty to Lahaina and
+ that this admission constituted sufficient evidence to defeat
+ JMOL. 
+Lahaina's argument is without merit. In general,
+ 
+neither lay nor expert witnesses can give his or her opinion on
+ "matters which involve questions of law." See Beal v. S. Union
+ 
+Gas Co., 349 P.2d 337, 346 (N.M. 1960); 4 Weinstein's Federal
+ Evidence § 701.04, at 701-38 (2d ed. 2011) [hereinafter,
+ "Weinstein"] ("In general, lay witnesses may not testify to an
+ opinion that is simply a legal conclusion[.]"). Opinion
+ testimony "containing a legal conclusion conveys what may be
+ erroneous legal standards to the jury, and invades the court's
+ province in determining the applicable law and then instructing
+ the jury." 4 Weinstein § 701.04, at 701-38. Such testimony is
+ "without probative value and cannot raise a fact issue or support
+ a finding of fact." Robertson Tank Lines, Inc. v. Van Cleave,
+ 
+468 S.W.2d 354, 361 (Tex. 1971).
+ 
+Whether a fiduciary duty exists is a question of law. 
+Kemp v. State of Hawai' i Child Support Enforcement Agency, 111 
+Hawai'i 367, 383, 141 P.3d 1014, 1030 (2006). Here, the portion 
+of Weir's testimony at issue merely consists of statements regarding Weir's personal understanding of the legal issues in the case at the time of trial. For instance, Weir testified that Defendants owed certain duties and obligations to Lahaina under the Lease. Weir also testified that such duties put the Defendants "in a fiduciary relationship with [Lahaina]" because, in Weir's mind, "[a] definition of a fiduciary is one who has a 
+26
+  FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+confidential relationship with another[.]" Weir's personal
+ 
+opinions concerning the legal effect of the Lease or Defendants'
+ purported fiduciary relationship with Lahaina are conclusory
+ statements of law, wholly devoid of probative value. 
+Furthermore, Weir's testimony underscores the dangers of
+ testifying to matters of law, as Weir's stated understanding of
+ the term "fiduciary" was very clearly incomplete. See B
+LACK'S LAW
+ 
+DICTIONARY 702 (9th ed. 2009) (defining "fiduciary" as "[a] person
+ 
+who is required to act for the benefit of another person on all
+ matters within the scope of their relationship; one who owes to
+ another the duties of good faith, trust, confidence, and
+ candor"). 
+"[T]he relation between the vendor and the purchaser is
+ 
+not a trust; nor is it a fiduciary relationship."  Restatement
+ 
+(Third) of Trusts § 5 cmt. i (2003); see also Restatement
+ (Second) of Trusts § 13 (1959) ("A contract to convey property is
+ not a trust, whether or not the contract is specifically
+ enforceable."); 1 Austin Wakeman Scott et al., Scott and Ascher
+ on Trusts § 2.3.9, at 118 (5th ed. 2006) ("It is clear that the
+ relationship between vendor and purchaser is different from that
+ between trustee and beneficiary, in that the vendor, unlike a
+ trustee, is not in a fiduciary relationship with the
+ purchaser."). Because the Option is, in essence, a contract for
+ Defendants to sell the Property back to Lahaina, Defendants did
+ not hold the Property in trust for Lahaina. Therefore, Lahaina
+ has not shown error.
+ 
+C.	 The Circuit Court did not abuse its discretion in
+ 
+excluding Exhibit 81.
+ 
+Lahaina argues that the Circuit Court erred in 
+excluding Exhibit 81 because (a) Hawai' i case law indicates that 
+HRE Rule 408 does not prohibit the introduction of settlement-
+negotiation evidence from a separate case and (b) it is relevant to Defendants' motive and intent to frustrate Lahaina's rights under the Option. 
+We need not address whether the Circuit Court's
+ 
+application of HRE Rule 408 was erroneous because the Circuit
+ 
+27
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+Court did not abuse its discretion in excluding Exhibit 81
+ 
+pursuant to HRE Rules 401 through 403. The Email simply states
+ "i [sic] agree with you that the offer is unacceptable; it is in
+ the REEF's best interest to get back the property and market it
+ as fee owner; we are proceeding with partial summary judgment." 
+The Email relates to the exercise of Defendants' own legal rights
+ in pursuing summary judgment and does little, if anything, to
+ show Defendants' illicit intent to tortiously or fraudulently
+ harm Lahaina. The Letter merely puts the Email in context and
+ does nothing to show Defendants' motive or intent to do anything. 
+Lahaina was already in default on the Lease when the Letter and
+ Email were sent, and Lahaina has not shown that Defendants were
+ obligated to accept tender of this particular offer. 
+Furthermore, the Circuit Court could have reasonably decided that
+ the Email would confuse the jury or give rise to prejudice and
+ that such confusion or prejudice would substantially outweigh its
+ limited probative value. See Haw. R. Evid. 403. Lahaina fails
+ 
+to address HRE Rule 403's countervailing concerns in its briefs. 
+Thus, Lahaina fails to show that the Circuit Court abused its
+ discretion in excluding Exhibit 81. 
+D.	 The Circuit Court did not err in limiting the discovery
+of attorney-client communications.
+ 
+Lahaina argues that because the Circuit Court found
+ 
+that Defendants had waived its attorney-client privilege with
+ 
+regard to how Defendants and their attorneys framed certain
+ declarations filed in the May 2000 Lawsuit, the Circuit Court was
+ obligated to order disclosure of any and all communications
+ between Defendants and their attorneys between 1994 through 2002
+ "with reference to any matter related to [the Property]." 
+The Circuit Court did not abuse its discretion by
+ 
+limiting the scope of waiver as it did. 
+HRE Rule 511 states:
+ 
+A person upon whom these rules confer a privilege
+against disclosure waives the privilege if, while holder of
+the privilege, the person or the person's predecessor
+voluntarily discloses or consents to disclosure of any
+significant part of the privileged matter. This rule does
+ not apply if the disclosure itself is a privileged
+communication.
+ 
+Haw. R. Evid. 511 (1993). Lahaina contends that the commentary
+ 
+28
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+to HRE 511 supports its position that it is entitled to discovery
+ 
+of any privileged communications between Defendants and their
+ attorneys relating to the Property in general, whether or not
+ they relate to the declarations filed in the May 2000 Lawsuit,
+ over an eight-year period. The commentary states:
+ 
+The sole justification for any rule of privilege is
+protection of a personal right of confidentiality that is
+recognized to be of greater societal importance than the
+principle of free disclosure of all relevant evidence in a
+judicial proceeding. Any intentional disclosure by the
+holder of the privilege defeats this purpose and eliminates
+the necessity for the privilege in that instance.
+Consistent with this, waiver of privilege is generally
+absolute. Once confidentiality has been destroyed by
+intentional disclosure, the holder of the privilege may not
+reinvoke it, and the evidence is as admissible as if no
+privilege had initially existed.
+ 
+Haw. R. Evid. 511 Commentary. Lahaina's argument is without
+ 
+merit.
+ 
+The parties have not cited any Hawai' i case law 
+determining the scope of a waiver of attorney-client privilege. Nevertheless, "[t]he widely applied standard for determining the scope of a waiver of attorney-client privilege is that the waiver applies to all other communications relating to the same subject matter." See Fort James Corp. v. Solo Cup Co., 412 F.3d 1340, 
+1349 (Fed. Cir. 2005). Defining the boundaries of waiver is fact-intensive. "There is no bright line test for determining what constitutes the subject matter of a waiver, rather courts weigh the circumstances of the disclosure, the nature of the legal advice sought and the prejudice to the parties of permitting or prohibiting further disclosures." Id. at 1349-50. 
+However, the disclosure of information resulting from the waiver of the attorney-client privilege extends only "to communications about the matter actually disclosed." See Chevron Corp. v. 
+Pennzoil Co., 974 F.2d 1156, 1162 (9th Cir. 1992) (internal quotation marks omitted) (quoting Weil v. Inv./Indicators, Research and Mgmt., Inc., 647 F.2d 18, 25 (9th Cir. 1981)). 
+Here, Abdul testified that the Bank's attorneys decided
+ 
+what information to include in declarations filed in the May 2000
+ Lawsuit and that Abdul did not advise the attorneys to omit
+ information that third parties had expressed an interest in the
+ Property. Lahaina has not presented any reason why it should be
+ 
+29
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+entitled to discover all attorney-client communications relating
+ 
+to the Property over the span of eight years. Thus, the Circuit
+ Court did not abuse its discretion in refusing to disclose all of
+ Defendants' attorney-client communications relating to the
+ Property.
+ 
+In light of our decisions above concerning Lahaina's
+ 
+points of error, Defendants' cross-appeal is moot.
+ 
+IV. CONCLUSION
+ 
+The July 8, 2010 Final Judgment of the Circuit Court of
+ 
+the Second Circuit is affirmed.
+ 
+Joseph M. Alioto and
+James M. Dombroski
+ for Plaintiff-Appellant/
+Cross-Appellee
+ 
+Terence J. O'Toole
+ 
+and Andrew Lautenbach
+ for Defendants-Appellees/
+Cross-Appellants
+ 
+30
+ 

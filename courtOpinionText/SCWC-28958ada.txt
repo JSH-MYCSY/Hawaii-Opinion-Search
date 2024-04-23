@@ -1,0 +1,1133 @@
+ 
+ 
+ 
+   
+ 
+ 
+ 
+  
+ 
+ 
+________________________________________________________________    *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER    ***   
+Electronically Filed 
+Supreme Court 
+SCWC-28958 27-MAR-2015 
+10:24 AM 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ʻI  
+---
+oOo---
+C. BREWER AND COMPANY, LTD., Respondent/Plaintiff-Appellant,  
+  
+vs.  
+ 
+MARINE INDEMNITY INSURANCE COMPANY OF AMERICA;  
+FIREMAN’S FUND INSURANCE COMPANY OF HAWAII; and  
+JAMES RIVER INSURANCE COMPANY,  
+Petitioners/Defendants-Appellees,  
+ 
+and  
+ 
+INDUSTRIAL INDEMNITY COMPANY; INDUSTRIAL INSURANCE  
+ 
+COMPANY OF HAWAII, LTD.; NATIONAL UNION FIRE INSURANCE COMPANY
+  
+OF PITTSBURGH; UNITED STATES FIRE INSURANCE COMPANY;
+  
+LIBERTY MUTUAL INSURANCE COMPANY; TIG INSURANCE COMPANY;
+  
+COLUMBIA CASUALTY COMPANY; THE HOME INSURANCE COMPANY; 
+  
+RELIANCE INSURANCE COMPANY; LEXINGTON INSURANCE COMPANY; 
+  
+CIGNA PROPERTY AND CASUALTY INSURANCE CO.; PACIFIC EMPLOYERS 
+INSURANCE CO., INC.; SCOTTSDALE INSURANCE COMPANY; 
+  
+FIRST STATE INSURANCE CO.; KILAUEA IRRIGATION CO., INC.;
+  
+ KEHALANI HOLDINGS CO., INC.; STATE OF HAWAI ʻI; and   
+HAWAII INSURANCE GUARANTY ASSOCIATION;  
+Respondents/Defendants-Appellees,  
+ 
+and  
+ 
+STATE OF HAWAI ʻI,   
+Respondent/Third-Party Plaintiff-Cross-Appellant,  
+ 
+vs.  
+      
+ 
+   
+ ________________________________________________________________  
+ 
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS
+  
+ 
+ 
+ 
+NAKAYAMA, ACTING C.J., McKENNA, POLLACK, AND WILSON, JJ., AND 
+CIRCUIT JUDGE KUBO, IN PLACE OF RECKTENWALD, C.J., RECUSED
+  
+ 
+ 
+  
+ 
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+MARSH USA, INC., Respondent/Third-Party Defendants-Appellees,  
+ 
+and 
+ 
+ 
+KEHALANI HOLDINGS COMPANY, INC.,
+  
+Respondent/Third-Party Plaintiff-Cross-Appellant,  
+ 
+ 
+vs. 
+ 
+ 
+UNITED NATIONAL INSURANCE COMPANY; COMMONWEALTH INSURANCE
+  
+COMPANY; ALEXANDER HOWDEN LIMITED; INTEGRITY INSURANCE
+  
+COMPANY; HAWAIIAN INSURANCE & GUARANTY COMPANY, LIMITED;
+  
+HOLLAND-AMERICA; INTERNATIONAL  INSURANCE COMPANY;
+  
+TRADEWIND INSURANCE COMPANY, LIMITED; and 
+  
+ISLAND INSURANCE COMPANY, LIMITED,
+  
+Respondent/Third-Party  Defendants-Appellees.  
+ 
+SCWC-28958  
+ 
+(ICA NO. 28958; CIV. NO. 06
+-1-0140)
+ 
+MARCH 27, 2015  
+ 
+OPINION OF THE COURT BY McKENNA, J. 
+  
+I. Introduction 
+On March 14, 2006, a large portion of the Kaloko Dam 
+(“Dam”) in Kīlauea, Kauaʻ i collapsed, releasing over three 
+million gallons of water, resulting in the loss of seven lives 
+as well as extensive property damage (“Dam Breach”).  At the 
+time of the Dam Breach, James Pflueger (“Pflueger”) owned the 
+Dam. Pflueger filed a lawsuit in the Circuit Court of the First Circuit seeking damages and indemnification from C. Brewer and 
+Company, Ltd. (“C. Brewer” ) for claims brought against him 
+-2-     
+ 
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+                         
+   
+    
+   
+ *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+arising out of the Dam Breach.  Pflueger v. State,  Civ. No. 06 – 
+1–1391 (“Pflueger complaint”).  According to the Pf lueger 
+complaint, C. Brewer sold him property, including the Dam, while 
+aware of the Dam’s questionable structural stability. C. Brewer 
+then filed a complaint in the Circuit Court of the Fifth Circuit (“circuit court”) seek ing rulings regarding obligations owed by 
+seventeen insurance companies that had issued various insurance 
+policies to C. Brewer covering different time periods. 
+This 
+opinion addresses issues arising out of the 
+policy issued to C. Brewer by James River Insurance Company 
+(“James River”), a commercial general liability (“CGL”) policy1 
+in effect at the time of the Dam Breach.  The circuit court granted summary judgment in favor of James River, ruling that a 
+“Designated Premises Endorsement” (“DPE”), which purported to 
+limit coverage to specific premises listed in a separate 
+“Schedule of Locations” (“Schedule”), precluded coverage.  The 
+circuit court ruled that James River was therefore not required 
+to defend or indemnify C. Brewer against Pflueger’s claims. On 
+1 CGL policies are “third -party” policies, which “provide [] 
+coverage for the insured’s liability to another . . . wherein the carrier 
+generally assumes a contractual duty to pay judgments recovered against the 
+insured arising from the insured’s negligence.”  Sentinel  Ins. Co. v. First 
+Ins. Co. of Hawai ʻi, 76 Hawai
+ʻi 277, 289, 875 P.2d 894, 906 (1994). 
+Generally, a CGL policy “is not limited to accidents on the business 
+premises , but rather has at least nationwide coverage.” 3 New Applema n 
+Insurance Law Practice Guide § 30.04[3][a] (201 5).  See also  9A Couch on 
+Insurance § 129:2 (“Commercial general liability policies are not . . . strictly confined to oper ations performed on the insured’ s business 
+premises.”). 
+-3-     
+ 
+   
+  
+  
+  *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+appeal, the Intermediate Court of Appeals (“ ICA”) concluded that 
+the parties’ intent as to the DPE was ambiguous, and remanded 
+the case for a determination of the parties’ intent regarding 
+the DPE. 
+James River raised the following question on 
+certiorari: 
+Did the ICA gravely err when it reversed the circuit 
+court’s finding that the “Limitation of Coverage to 
+Designated Premises Endorsement” in the James River 
+liability policy issued to C. Brewer, considered in the context of the entire policy, unambiguously precludes coverage as a matter of law, for the bodily injury and 
+property damage claims stated against C. Brewer in 
+underlying actions arising from the March 2006 failure of 
+the Ka Loko Dam and Reservoir. 
+ 
+We hold that the James River DPE provides coverage for  
+injury and damage that occurs on premises not listed in the 
+Schedule if the injury or damage arises out of the ownership, 
+maintenance or use  of a designated  premises.  In determining 
+whether an injury or damage  arose  out of the use of a designated  
+premises, we adopt  the legal interpretation of “arising out of” 
+in American Guarantee and Liability Insurance Co. v. 1906 Co. , 
+129 F.3d 802 (5th Cir. 1997):  “The phrase ‘arising out of’ is 
+ordinarily understood to mean ‘originating from,’ ‘having its 
+origin in,’ ‘growing out of,’ or ‘flowing from.’ In the 
+insurance context, this phrase is often interpreted to require a causal connection between the injuries alleged and the objects 
+made subject to the phrase.”   129 F.3d at 807.  We therefore 
+hold that the DPE unambiguously provides coverage for negligence 
+-4
+-     
+ 
+   
+  
+  
+ American Empire 
+  
+ 
+  
+ 
+ 
+                         
+ 
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+claims against C. Brewer arising out of the use of designated 
+premises. 
+We further hold that language in a designated premises 
+endorsement “must be clear and unequivocal []” to convert a CGL 
+policy to a premises liability policy2 that limits coverage to 
+injuries occurring on specific premises. 
+Surplus Lines Insurance Co. v. Chabad House of North Dade, Inc., 
+771 F. Supp. 2d 1336, 1343 (S.D. Fla. 2011), aff’d
+, 450 F. App’x 
+792 (11th Cir. 2011)
+.  In this case, the DPE is not sufficiently 
+“clear and unequivocal” to limit coverage to injuries occurring 
+on the designated premises, as argued by James River.  Thus, the 
+DPE does not limit liability to injury and damage occurring on 
+designated premises. 
+Therefore, the circuit court erred in granting summary 
+judgment in favor of James River, and the ICA erred in 
+concluding that it is necessary to determine the parties’ intent 
+2 A premises liability policy is a type of general liability 
+insurance that limits coverage to specific premises identified in the policy.  
+See 3 New Appleman Insurance Law Practice Guide § 30.04[3][a] (2015) (“Some types of general liability insurance, however, are premises -specific.  The 
+most common such policies are Garage policies and policies of Owners’, 
+Landlords’ and Tenants’ (“OLT”) insurance.”) A premises liability policy is 
+“[a] very common form of liability insurance [] which insures the owner, 
+occupier, or operator of real property against liability incident to his ownership or use of the premises .” Am. Guarantee, 129 F.3d at 808 (quoting 
+11 Couch on Ins. § 44:379 at 551 (2d. ed. 1982)). 
+The purpose of a premises 
+liability policy “is simply to protect against liability arising from the 
+condition or use of the building as a building[,] [and is] distinguish[able] 
+from insurance against liability arising from the nature of the enterprise or activity conducted” in the building itself. Id. (quoting 11 Couch on Ins. § 
+44:379
+ at 551). 
+-5-     
+ 
+   
+  
+ 
+ 
+  
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+   
+ 
+ 
+                         
+  
+ 
+ 
+    
+  *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+as to the effect of the DPE. Accordingly, we affirm in part and 
+vacate in part the ICA’s October 22, 2013 judgment, and instruct 
+the circuit court to further proceed consistent with this 
+opinion. 
+II. Background 
+A. Kaloko Dam and Irrigation System 
+The Kaloko Irrigation System (“System”) was 
+constructed in the late 1800s by Kilauea Sugar Company (“KSC”), 
+a C. Brewer subsidiary, to collect and distribute water to 
+irrigate sugar cane fields in K īlauea, Kauaʻ i. The System relied 
+on rain water from a State-owned mauka3 watershed, which was 
+funneled through ditches, flumes, and gates into the Kaloko 
+Ditch, then into the Kaloko Reservoir (“Reservoir”). The water 
+was held in the Reservoir by the earthen Dam, and then 
+distributed through flumes, ditches, and pipes to sugar cane 
+4fields makai of the Reservoir. 
+KSC exited the sugar cane industry in about 1970 and 
+stopped maintaining the System, which then fell into disrepair.  In 1971, C. Brewer began to sell off some of its lands, 
+3 In this context, mauka connotes inland or toward the mountains.  
+See Mary Kawena Pukui & Samuel H. Elbert, Hawaiian Dictionary  242, 485 
+(1986). 
+4 In this context, makai means ocean.  See Pukui & Elbert, supra , 
+at 225. 
+-6-     
+ 
+   
+   
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+  
+  
+ 
+ 
+                         
+ 
+ *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+specifically those makai of the Dam, which were later developed 
+for agricultural or residential uses. 
+In 1977, the State of Hawai ʻi (“State”) and C. Brewer 
+entered into an agreement that required C. Brewer to, among 
+other things, restore and expand the System.5 C. Brewer formed 
+the Kilauea Irrigation Company (“KIC”) to satisfy its obligations to the State, revitalize the System, and sell System 
+water to local farmers for irrigation. 
+In February 1987, KIC entered into a Water Rights 
+Agreement (“WRA”) with an owner of property adjoining C. 
+Brewer’s land. The WRA made KIC solely responsible for 
+operating, inspecting, maintaining, and repairing the System and 
+Dam.  In 1987, C. Brewer sold the land under the Reservoir to 
+Pflueger. 
+B. Circuit Court Proceedings 
+James River’s CGL policy was the only policy in effect 
+on the date of the Dam Breach. Before filing suit, C. Brewer 
+tendered the defense of the Pflueger complaint to James River, 
+which refused to defend. 
+5 In exchange, the State promised to end its condemnation 
+proceedings over certain C. Brewer agricultural parcels in Kilauea. 
+-7-     
+ 
+   
+  
+                         
+  
+ 
+ 40. The Pflueger Complaint alleges that Plaintiff’s 
+negligent acts and/or omissions (i.e. failure to inspect, 
+maintain, and/or repair the 
+dam) caused continuous, 
+incremental and indivisible physical injury to tangible property - Pflueger’s dam . . . .  
+ 41. On January 19, 2007, plaintiffs in the Pflueger 
+suit stated in interrogatory responses that the failure of Plaintiff herein failed to maintain the Dam from before 
+1982 to March 14, 2006 . . . .  *** FOR PUBLICATION IN WEST’S HAWA II 
+ REPORTS AND PACIFIC REPORTER *** 
+C. Brewer’s second amended complaint (“complaint”)6 
+noted that C. Brewer was a named insured under James River 
+policy number 00013398-0, policy period 12/15/2005 to 
+12/15/2006. According to the complaint, the insuring agreement 
+under the policy stated:  
+We will pay those sums that the insured becomes legally 
+obligated to pay as damages because of “bodily injury” or 
+“property damage” to which this insurance applies.  . . . 
+This insurance applies to “bodily injury” and “property 
+damage”  only if: (2) The “bodily injury” or “property 
+damage” occurs during the policy period[.]  
+Accordingly, C. Brewer alleged that the James River policy 
+covered claims against it related to the Dam Breach.    C. Brewer  
+also asserted that James River was obligated to defend and indemnify it because  none of the policy’s exclusions applied.  
+James River moved for summary judgment, arguing inter 
+alia, that various endorsements and exclusions in its policy 
+precluded coverage for damages from the Dam Breach. 
+In 
+particular, James River argued that the policy’s DPE limited 
+coverage to liability arising out of the ownership, maintenance,  
+6 C. Brewer’s complaint alleged the following regarding the 
+Pflueger complaint: 
+-8-     
+ 
+   
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+   *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+or use of specifically identified premises.  The Dam site was 
+not listed as a designated premises. 
+The circuit court granted summary judgment in favor of 
+James River based upon the DPE, concluding that it unambiguously 
+precluded coverage for claims against C. Brewer arising out of 
+the Dam Breach, and that, therefore, James River was not 
+obligated to provide a defense or coverage to C. Brewer. In 
+granting summary judgment, the circuit court concluded that the 
+James River policy contained no ambiguous terms, and that C. 
+Brewer’s assertion of coverage for claims arising out of the 
+“use” of its corporate headquarters exceeded the bounds of the 
+plain and ordinary meaning of the policy terms. 
+C. Appeal to the ICA 
+On appeal, the ICA noted: 
+The key question is whether the language ‘arising out of 
+the ownership, maintenance, and use of the [designated] 
+premises’ can be interpreted to encompass the use of C. 
+Brewer’s business headquarters (one of the designated premises) to make negligent business decisions that caused 
+personal injury and property damage  outside of the 
+designated premises. 
+ 
+C. Brewer & Co. v. Industrial Indem. Co, No. 28958 (App. Aug. 7, 
+2013) (mem.), at 34. 
+The ICA concluded that the parties’ conflicting 
+interpretations of the DPE were reasonable, 
+and held the DPE 
+ambiguous as being reasonably susceptible to more than one meaning. C. Brewer , mem. op. at 36 (citing Hawaiian Ass’n of 
+Seventh-Day Adventists v. Wong  , 130 Hawaiʻ i 36, 45, 305 P.3d 452, 
+-9-     
+ 
+   
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+  
+      
+                         
+  
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+461 (2013)) (“A contract is ambiguous when its terms are 
+reasonably susceptible to more than one meaning.”). In so 
+concluding, the ICA explained: 
+The use of the language “arising out of the ownership, 
+maintenance, and use of the premises” suggests that the parties may have intended to restrict coverage to injuries 
+and damages occurring on the designated premises.  However, 
+the designated premises endorsement applies not only to 
+bodily injury and property damage, but also to “personal 
+and advertising injury” arising out of the use of the designated premises.  
+Id.  The ICA concluded that the inclusion of “advertising 
+injury” in the DPE suggested that the parties may have intended 
+to include coverage for negligent decisions made at designated 
+premises that results in injury and damage elsewhere.  The ICA 
+reasoned that while decisions made at C . Brewer’s corporate 
+headquarters would likely be the cause of any advertising 
+injury, the resulting injury would occur off designated 
+premises. Id.   
+Accordingly, the ICA held that the James River policy 
+was ambiguous as to whether the DPE barred coverage, and thus 
+raised a genuine issue of material fact with respect to the 
+parties’ intent.7 C. Brewer,  mem. op. at 32, 37. The ICA 
+7 In further support of the conclusion that a genuine issue of fact 
+with respect to the parties’ intent existed, the ICA stated in a footnote 
+that there was “a suggestion in James River’s arguments , based on extrinsic 
+circumstances, that C. Brewer was winding up its corporate affairs and thus 
+intended to obtain a different kind of CGL policy -- one that would require a lower premium but provide more limited coverage.”   C. Brewer, mem. op. at 37 
+n.20. 
+-10-     
+ 
+   
+       
+ 
+  
+ 
+  
+ 
+  
+  
+ *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+therefore vacated the circuit court’s Final Judgment and 
+remanded to the circuit court. C. Brewer, mem. op. at 43. 
+III. Standard of Review 
+This court reviews a circuit court’s grant or denial 
+of summary judgment de novo under the same standard applied by 
+the circuit court. Dairy Rd. Partners v. Island Ins. Co., 92 
+Hawaiʻi 398, 411, 992 P.2d 93, 106 (2000). “[S]ummary judgment 
+is appropriate if the pleadings, depositions, answers to 
+interrogatories, and admissions on file, together with the 
+affidavits, if any, show that there is no genuine issue as to 
+any material fact and that the moving party is entitled to 
+judgment as a matter of law.” Id. (citation omitted). 
+This court must view all of the evidence and the 
+inferences drawn therefrom in the light most favorable to the party opposing the motion. Maguire v. Hilton Hotels Corp., 79 
+Hawaiʻi 110, 112, 899 P.2d 393, 395 (1997). 
+IV. Discussion 
+A. The Underlying Lawsuit 
+The Pflueger complaint alleged that C. Brewer was 
+negligent with respect to (1) its obligation to maintain the System and (2) its entrustment of the maintenance and operation 
+of the System to KIC, as follows: 
+92. Brewer, independently and through its wholly -
+owned subsidiary, KIC, owed a duty of reasonable care to 
+Plaintiffs and others to properly operate, inspect, repair 
+-11-     
+ 
+   
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+and/or maintain the System, including the Dam and 
+Reservoir. 
+93. Brewer, independently and through its wholly -
+owned subsidiary, KIC, breached its duty to properly 
+operate, inspect, repair and/or maintain the System, 
+including the Dam, its appurtenant structures and/or the Reservoir. 
+. . . 
+96. Brewer owed a duty of reasonable care to 
+Plaintiffs and others to ensure the proper operation, inspection, repair and/or maintenance of the System, including the Dam and Reservoir. 
+97. After its formation of KIC, Brewer knew or 
+reasonably should have foreseen that KIC was not competent 
+to operate and maintain the System in general and the Dam 
+and Reservoir in particular. 
+98. Brewer knew or should have known that, because of 
+its lack of expertise, knowledge and/or resources, KIC would operate, inspect, repair and/or maintain the System 
+in a manner involving unreasonable risk to others. 
+99. Brewer was negligent in its entrustment of the 
+System to KIC. 
+100. Brewer breached its duty to Plaintiffs and 
+others by negligently entrusting KIC with the responsibility to operate, inspect, repair and/or maintain 
+the System, including the Reservoir and Dam. 
+Therefore, the Pflueger complaint  alleged that C. 
+Brewer was obligated to pay Pflueger damages resulting from C. 
+Brewer’s negligent acts or omissions , including its negligent 
+entrustment of the system to KIC and its   alleged  failure to 
+maintain the System, warn about the System’s unsafe conditions,  
+and adequately capitalize its land operations and the companies 
+responsible for maintaining and repairing the Dam, which 
+resulted in injury and  damage due to the Dam  Breach.   
+James River’s obligation to indemnify  C. Brewer for  
+claims asserted  against it by   the Pflueger complaint  depends 
+upon whether the policy covers injury and  damage occurring on 
+undesignated premises that results from C. Brewer’s negligent acts or omissions arising from the use of  designated premises.  
+-12
+-     
+ 
+   
+    
+ *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+James River’s position is that the DPE precluded any possibility 
+that it would be obligated to indemnify C. Brewer.  
+B. Construction of the Designated Premises Endorsement 
+We note a few general principles of law that will 
+guide us in interpreting the policy at issue. 
+First, “insurance 
+policies are subject to the general rules of contract 
+construction; the terms of the policy should be interpreted 
+according to their plain, ordinary, and accepted sense in common 
+speech unless it appears from the policy that a different 
+meaning is intended.” Dairy Rd. Partners v. Island Ins. Co.,  92 
+Hawaii 398, 411, 992 P.2d 93, 106 (2000) ( brackets and citation 
+omitted). Thus, policy language “must be construed liberally in 
+favor of the insured and [any] ambiguities [must be] resolved 
+against the insurer.” 92 Hawai ‘i at 412, 992 P.2d at 107 
+(alteration in original).  Second, pursuant to Hawai i Revised  
+Statutes § 431:10  -237 (1993): “Every insurance contract shall 
+be construed according to the entirety of its terms and 
+conditions as set forth in the policy, and as amplified, extended, restricted, or modified by any rider, endorsement or 
+application atta ched to and made a part of the policy.” 
+Moreover, “[b] ecause an insurer’s duty to defend its insured is 
+contractual in nature, we must look to the language of the  
+policy involved to determine the scope of that duty. ”   
+Sentinel,  
+-13
+-     
+ 
+   
+    
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+76 Hawaiʻ i at 287, 875 P.2d at 904. “[W]henever the insurer 
+relies on an exclusionary clause of a policy as a defense to 
+liability, it has the burden of proving facts which bring the case within the exclusion.” 
+Quinn v. Wilshire Ins. Co. , 53 Haw. 
+19, 21, 486 P.2d 
+59, 60 (1971).  In addition, any ambiguity in 
+an exclusionary clause is construed in favor of the insured and 
+“strictly construed against the insurer.” Retherford v. Kama,  
+52 Haw. 91, 470 P.2d 517 (1970). 
+The 
+DPE, titled, “Limitation of Coverage to Designated 
+Premises,” states: “This insurance applies only to ‘bodily injury’, ‘property damage’, or ‘personal and advertising injury’ 
+arising out of the ownership, maintenance or use of the premises shown in the above Schedule.” The DPE lists “Locations 1 -3.” 
+The parties are in agreement that “Locations 1 -3” includes C. 
+Brewer’s corporate headquarters at 311 Pacific Street, but not 
+the Dam site. 
+James River and C. Brewer  present conflicting 
+interpretations of the DPE.  James River argues that the DPE 
+unambiguously limits coverage under the policy to liability for 
+injury and damage on premises  listed in the Schedule,  and thus 
+it has no obligation to defend or indemnify C. Brewer against 
+the Pflueger lawsuit  because the Dam site is not listed.  C. 
+Brewer argues that the DPE is ambiguous as to whether injury and  
+damage “arising out of” the “use” of listed premises is covered, 
+-14-     
+ 
+   
+  
+  
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+contending that the “arising out of” language in the DPE 
+requires broad construction in its favor.  
+We have held that “[a] contract is ambi
+guous when its 
+terms are reasonably susceptible to more than one meaning.” 
+Hawaiian Ass’n of Seventh -Day Adventist v. Wong , 130 Hawai i 36, 
+45, 305 P.3d 452, 461 (2013). We therefore begin by analyzing 
+whether the positions advanced by the parties are reasonable 
+interpretations of the policy’s language. 
+James River cites to Union American Insurance Co. v. 
+Haitian Refugee Center/Sant Refijie Ayisyin, Inc. , 858 So.2d 
+1076 (Fla. Dist. Ct. App. 2003), in support of its argument that 
+the DPE must be construed to limit liability to designated premises. In Union American, a Haitian Refugee Center 
+(“Center”) allegedly failed to provide adequate security at a street rally it sponsored located far from and unrelated to the 
+Center’s headquarters, the designated pr emises, which led to the 
+shooting of an individual at the rally by another individual in the crowd. 858 So.2d at 1077. The policy’s designated premises 
+endorsement limited coverage to “bodily injury . . . arising out 
+of [t]he ownership, maintenance or use of the premises shown in 
+the [s]chedule and operations necessary or incidental to those 
+premises[.]” 
+Id. 
+(first and second bracket in original; third 
+bracket added) (quoting insurance policy at issue). The District Court of Appeal of Florida for the Third District 
+-15-     
+ 
+   
+  
+ 
+ 
+ 
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+(“appeals court”) reversed the lower court’s holding that the 
+policy provided coverage, concluding that the designated 
+premises endorsement effectively converted the CGL policy  into a  
+premises liability policy  despite the words “commercial lines 
+policy” on the policy’s cover sheet . 858 So.2d at 1078 n.1, 
+1079 (reversing judgment).  The appeals court explained that providing coverage on the ground that the event  was an operation 
+necessary or incidental to the  Center’s  business  involved a 
+judicial rewriting of the policy by substituting “
+business”  for 
+the policy word “premises.” 858 So.2d  at 1078. The appeals 
+court stated: “This is a process in which we may not engage.” Id.  
+Union American concerne
+d a wrongful death action based 
+on an alleged failure to provide adequate security, while this 
+case involves damages for C. Brewer’s alleged negligent 
+entrustment of the System to KIC and its alleged failure to disclose unsafe conditions, adequately capitalize KIC, or maintain the System. In addition, the injury in Union American  
+occurred in a manner unrelated to the Center. 858 So.2d at 
+1077. 
+In this case, however, 
+the injury and damage arguably 
+relate to C. Br ewer’s “use” of its corporate headquarters to 
+make negligent business decisions. Union American  is therefore 
+distinguishable.  
+-16
+-     
+ 
+   
+  
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+C. Brewer contends that the policy provides coverage 
+for injury and 
+damage arising out of i ts “use” of its corporate 
+headquarters to make negligent corporate decisions even though 
+the resulting damage happened at the unlisted Dam site. In 
+support, C. Brewer relies on American Guarantee and Liability 
+Insurance Co. v. 1906 Co.,
+ 129 F.3d 802 (5th Cir. 1997) 
+(applying Mississippi state law), a case in which the court 
+construed a designated premises endorsement with language 
+similar to the James River DPE, to include coverage for injuries 
+and damages occurring on a premises not listed in the 
+endorsement. 
+In American Guarantee,  an insurer sought a judgment 
+that the CGL policy it sold to a Coca-Cola Bottling Company 
+(“Coke Company”) afforded no coverage or defense for injuries 
+arising out of a photography studio, wholly-owned and operated 
+as a division of the Coke Company, in which the Coke Company 
+chief executive officer’s (CEO) son, also an employee, surreptitiously videotaped female customers changing their 
+clothes. 129 F.3d at 804. The designated premises endorsement 
+at issue limited covera ge to “‘bodily injury,’ ‘property 
+damage,’ ‘personal injury,’ ‘advertising injury’ and medical 
+expenses arising out of . . . [t]he ownership, maintenance or 
+use of the premises shown in the Schedule and operations 
+necessary or incidental to those premises[.]” 129 F.3d at 8 06 
+-17
+-     
+ 
+   
+   
+   
+ 
+  
+ 
+ 
+  
+ *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+(quoting insurance policy at issue).  The studio, located a mile 
+away from the Coke Company, was not a designated premises. 
+The Fifth Circuit held that the designated premises 
+endorsement did not preclude coverage for negligence claims 
+arising out of the use of the Coke Company headquarters, a 
+designated premises, regarding supervisory actions over the 
+studio and the CEO’s son. 129 F.3d at 808.  The Fifth Circuit 
+concluded that the designated premises endorsement unambiguously 
+covered injuries occurring at uncovered premises if a causal 
+connection bet ween the injuries and “use” of a designated 
+premises existed. See 129 F.3d at 807 (“[T]he phrase ‘arising 
+out of’ the ‘use’ of the designated premises requires that there 
+be a causal connection between the injuries . . . and the 
+designated premises . . . .”). In construing a causal 
+connection, the Fifth Circuit opined as follows: “The phrase 
+‘arising out of’ is ordinarily understood to mean ‘originating from,’ ‘having its origin in,’ ‘growing out of,’ or ‘flowing from.’ In the insurance context, this phrase is often 
+interpreted to require a causal connection between the injuries 
+alleged and the objects made subject to the phrase.” Id. 
+(internal citation omitted). 
+The Fifth Circuit reasoned that the studio was owned 
+and operated as a division of the Coke Company, the studio and 
+Coke Company shared the same general checking account, employees 
+-18-     
+ 
+   
+ *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+of the studio were considered Coke Company employees, and all 
+major business decisions concerning the studio, from the 
+purchase of the equipment to the scope and ultimate termination 
+of the business, were made at the Coke Company’s headquarters, a 
+designated premises.  129 F.3d at 807-08.  The Fifth Circuit 
+held that “[u]nder the circumstances, a factfinder could find a 
+causal connection between [the Coke Company]  and [the CEO’s]  
+supervisory activities, the operation of the designated 
+premises, and the injuries that resulted from [the CEO’s son’s ]  
+intentional and tortious actions at [the studio].” 129 F.3d at 808. 
+Similarly, in this case, the System was owned and 
+operated by KIC, a C. Brewer subsidiary, KIC’s employees were 
+considered employees of C. Brewer, and all major business 
+decisions concerning the System, including the allege  d failure 
+to capitalize KIC, the entrance into various agreements to  
+maintain the System, and the eventual sale of the land  
+underlying the Reservoir, were apparently made at C. Brewer’s 
+corporate headquarters. Therefore, a causal connection could 
+possibly be found between C. Brewer and its entrustment of the 
+System to KIC, the operation of the designated premises, and the 
+injuries that resulted from C. Brewer’s  allegedly  negligent 
+corporate decisions.  
+-19
+-     
+ 
+   
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+In addition, by relying on Union American,  James River 
+seeks to rewrite the term “arising out of” to limit liability to 
+injury and damage occurring on designated premises. 
+Such a 
+construction of the DPE would effectively convert the James 
+River policy from a CGL policy to a premises liability policy 
+that limits coverage to certain premises. James River’s 
+argument contradicts the policy, which specifically states that 
+it is a “commercial general liability” policy. In addition, 
+such a construction contravenes general principles of insurance 
+construction, which provide that policy language “must be 
+construed liberally in favor of the insured and [any] ambiguities [must be] resolved against the insurer.” 
+Dairy Rd. 
+Partners
+, 92 Hawai ‘i at 412, 992 P.2d at 107 (alteration in 
+original). 
+In our view,  American Empire  Surplus Lines Insurance 
+Co. v. Chabad House of North Dade, Inc.
+, 771 F. Supp. 2d 1336 
+(S.D.
+ Fla. 2011), correctly analyzes the requirements for 
+converting a CGL policy to a premises liability policy.  The 
+policy at issue in Chabad House  is similar to the James River 
+policy. Chabad House involved a “commercial general liability” 
+policy that covered injury and  damage occurring anywhere in the 
+“coverage territory,” defined in the policy as encompassing, at 
+minimum, the United States, Canada, and Puerto Rico,  and also 
+-20
+-     
+ 
+   
+   
+  
+ 
+ 
+  
+  
+  
+                         
+  
+ 
+   
+  
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+contained a similarly worded designated premises endorsement.8 
+771 F. Supp. 2d at 1339, 1343. 
+Citing to American Guarantee , in which the designated 
+premises were 
+specifically incorporated into the policy on the 
+declarations page so as to put the insured on notice that 
+coverage was limited to certain premises, the Chabad House court 
+held that language in a DPE used to convert a CGL to a premises 
+liability policy “must be clear and unequivocal.”  771 F. Supp. 
+2d at 1343. We likewise hold that a DPE “must be clear and 
+unequivocal[]” to convert a CGL policy to a premises liability 
+policy in order to effectively limit coverage to injury or 
+damage that occurs on undesignated premises.  Id. 
+In this case, the James River DPE does not clearly 
+convert the policy into 
+a premises liability policy.  The DPE is 
+similarly incorporated by reference into the policy on the declarations page; however, the declarations page does not list 
+the designated premises.  Therefore, the DPE is not sufficiently clear and unequivocal to put the insured on notice and convert 
+The designated premises endorsement in Chabad House  states:  
+“This endorsement modifies insuranc e provided under the following: Commercial 
+General Liability Coverage Part.” 771 F. Supp. 2d at 1343 (quoting insurance 
+policy at issue) . It limits coverage to “‘bodily injury’, ‘property damage’, 
+‘personal and advertising injury’ and me dical expenses arising out of: (1) 
+The ownership, maintenance or use of the premises shown in the Schedule . . . 
+and operations necessary or incidental to those pre mises.” Id. 
+(quoting 
+insurance policy at issue). 
+-21-8      
+ 
+   
+    
+     
+ See  Dairy Rd. Partners
+ 
+  
+    
+  
+ 
+ 
+                         
+ 
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+the policy.9 Accordingly, we reject James River’s argument t o 
+construe the DPE as limiting coverage to injury and damage 
+occurring on designated premises. , 92 
+Hawai‘i at 412, 992 P.2d at 107 (holding that policy language 
+“must be construed liberally in favor of the insured and [any] 
+ambiguities [must be] resolved against the insurer.”). 
+In further support of its position, C. Brewer contends 
+that the inclusion of “personal and advertising injury” in the 
+DPE “suggests that the parties may have intended to include coverage for negligent decisions made at a designated premises 
+that resulted in injury and damages elsewhere .” (quoting C. 
+Brewer
+, mem. op. at 36). C. Brewer also notes that Chabad House  
+found that the policy’s broad coverage territory , which included 
+the United States, Canada, Puerto Rico, and, under certain 
+circumstances, other parts of the world, contradicted the 
+designated premises endorsement. James River asserts that C. 
+9 We note that although the parties are in agreement that the Dam 
+site was not a listed premises, the DPE does not clearly define which 
+premises correspond to “Locations 1 -3.” The declarations page contains a 
+section titled, “Endorsements,” which refers the reader to a list of forms 
+and endorsements in “attached schedule A.” “Schedule A” is essentially a 
+table of contents, and includes the DPE. 
+The DPE contains a section titled, “Schedule,” which reads 
+“Premises: Locations 1 -3” with no reference directing the reader on where to 
+find the list of locations. To find the “Schedule of Locations,” the reader 
+must refer to a form titled, “Policy Changes,” also listed on “Schedule A.” 
+The “Schedule of Locations” section contained on the “Policy Changes” page lists three premises, including 311 Pacific Street, but also lists a number 
+of vacant parcels identified by TMK number. 
+-22-     
+ 
+   
+  
+  
+                         
+   
+ 
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+Brewer’s interpretation is overly broad and renders the “arising 
+out of” language meaningless. 
+As the ICA reasoned, decisions made at C. Brewer’s 
+corporate headquarte
+rs would likely be the cause of any 
+advertising injury;  however, the resulting injury would not 
+occur on designated premises  .   In addition, the James River 
+policy’s broad coverage territory  similarly encompasses the 
+United States, Canada, Puerto Rico, and, under certain  
+10  circumstances, other parts of the world.  Therefore , C. 
+Brewer’s arguments further support its interpretation of the 
+DPE. 
+C. Classification Limitation Endorsement 
+James River also argues  that its classification   
+limitation endorsement  limits  coverage only to “t hose operations 
+specified . . .  under the ‘description of operations’ or 
+10 The James River policy defines “coverage territory” to mean: 
+a. The United States of America (including its territories 
+and possessions), Puerto Rico and Canada; 
+b. International waters or airspace, but only if the injury 
+or damage occurs in the course of travel or 
+transportation between any places included in a. above; 
+or 
+c. All other parts of the world if the injury or damage 
+arises out of: 
+(1) Goods or products made or sold by you in the 
+territory described in a. above; 
+(2) The activities of a person whose home is in the 
+territory described in a. above, but is away for a short time on your business; or 
+(3) “Personal and advertising injury” offenses that 
+take place through the Internet or similar 
+electronic means of communication . . . . 
+-23-     
+ 
+   
+   
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+‘classification’ on  the declarations of the policy.”   As C. 
+Brewer emphasizes, the declarations page does not contain a 
+“Description of Operations,” but rather, a “Description of 
+Business” in which the phrase “Real Estate Owners” was inserted. 
+James River maintains that C. Brewer was not the owner of any 
+real estate at the time of the accident and therefore, the 
+classification limitation endorsement affirms that the policy, 
+read as a whole, was clearly intended to provide coverage only  
+for C. Brewer’s liability as the owner of r eal estate 
+specifically listed in the Schedule.  C. Brewer maintains that 
+the classification limitation endorsement does not limit 
+coverage to “land, owned or otherwise[,]” and that the phrase 
+“Real Estate O wners” created ambiguity.  
+The ICA concluded that 
+the classification limitation 
+endorsement did not resolve the ambiguity regarding coverage 
+because the James River policy did not define “Real Estate 
+Owners,” and the allegations in the Pflueger lawsuit “arguably implicated C. Brewer’s activities and operations as a real 
+estate owner, such as [its alleged] failure[s] to warn about the 
+unsafe condition of the Kaloko Dam and . . . to adequately 
+capitalize its land operations and companies responsible for 
+maintaining and repairing the Kaloko Dam.” 
+C. Brewer,  mem. op. 
+at 38.  
+-24
+-     
+ 
+   
+  *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+Contrary to James River’s asse rtions, the 
+classification limitation endorsement supports C. Brewer’s 
+argument that the DPE does not precl  ude coverage for bodily 
+injury and property damage on premises not listed  in the 
+Schedule. The limitation specifically states:   “The coverage 
+provided by this policy applies only to those operations   
+specified in the applications(s) [sic] for insurance on files 
+with the Company and described under the ‘description of 
+operations’ or ‘classification on the declaration of the 
+policy.’” (emphasis added) .   Thus, the policy specifically 
+applies to “operations” specified in the application, and not the specified “premises .” Moreover, it appears that C. Brewer 
+was leasing the 311 Pacific Street property. Therefore, 
+according to James River’s argument regardin g the classification 
+limitation endorsement, injury and damage that occur    on premises  
+listed in the Schedule would be excluded from coverage because  
+C. Brewer did not “own” the property listed. James River’s  
+argument is illogical  and would require  this court to rewrite 
+the terms of the  policy to ignore the premises specifically 
+listed in the Schedule that C. Brewer did   not own, despite their  
+clear inclusion in the policy.  
+Accordingly, the classification limitation endorsement 
+also supports C. Brewe r’s position that the policy was meant to 
+cover injury and damage 
+occurring on premises not listed in the 
+-25-     
+ 
+   
+   
+  
+  
+ 
+   
+ 
+ 
+                         
+  
+  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+Schedule. Any ambiguities in this endorsement must also be 
+construed against James River. See 92 Hawai ‘i at 4 12, 992 P.2d 
+at 107. 
+D. Additional Exclusions 
+The circuit court granted James River’s motion for 
+summary judgment based on the erroneous conclusion that the DPE 
+excluded coverage for inj
+ury and damage occurring on premises 
+not listed in the DPE Schedule. Therefore, the circuit court did not analyze the James River policy in its entirety to 
+determine whether any other exclusions or endorsements James 
+River asserted in its motion for summary judgment applied to 
+preclude coverage under the James River policy.
+11 We decline to 
+address for the first time on certiorari exclusions that the 
+circuit court did not reach. 
+V. Conclusion 
+Adopting American Guarantee , we hold that the phrase 
+“‘arising out of’ the ‘use’ of the designated premises requires 
+that there be a causal connection between the injuries . . . and 
+the designated premises[.]” 129 F.3d at 807.  We further hold 
+that the DPE unambiguously provides coverage for  “bodily injury” 
+11 James River included a number of exclusions in its motion for 
+summary judgment that allegedly preclude coverage , including a “subsidence” 
+exclusion, a provision limiting coverage to C. Brewer (and thus, precluding 
+coverage for KIC), an irrigation and earth movement exclusion, and a provision excluding coverage for misrepresentation , fraud, and breach of the 
+covenant of good faith and fair dealing. 
+-26-     
+ 
+   
+    
+  
+ 
+ 
+  
+ 
+ 
+                         
+ 
+ 
+ 
+ 
+ 
+  
+ *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+and “property damage” that bears a causal connection to the 
+“use” of designated premises, regardless of where the injury or 
+damage occurs. Applying American Guarantee  to the facts of this 
+case, we hold that the DPE 
+unambiguously provides coverage for  
+negligence claims arising out of the use of C. Brewer’s 
+12  corporate headquarters.  Thus, the parties’ intent as to the 
+DPE is not at issue.  
+We therefore affirm in part and vacate in part the 
+ICA’s October 22, 2013 judgment . We affirm that portion of the 
+judgment 
+to the extent that it vacated the circuit court’s 
+December 21, 2007 Final Judgment.  We vacate in part that 
+portion of the judgment to the extent that it instructed the 
+12 Although the duty to defend was not raised on certiorari, it was 
+raised in the circuit court and the ICA. We note that “the duty to defend 
+‘rests primarily on the possibility that coverage exists.  This possibility 
+may be remote, but if it exists[,] the [
+insurer] owes the insured a 
+defense.’ ”  Sentinel Ins. Co. v. First Ins. Co. of Hawai ʻi, 76 Hawaiʻ i 277, 
+287, 875 P.2d 894, 904 (1994) (alteration in original) (citations omitted)
+.  
+Thus, the broader duty to defend rests on the possibility that the insured 
+would be entitled to indemnification under the policy. See id.  (“In order to 
+determine whether [the insurer] had a duty to defend . . . , we must examine 
+whether the underlying action raised the possibility that the [insured] would 
+be entitled to indemnification under any of the policies issued by [the 
+insurer].”). “All doubts as to whether a duty to defend exists are resolved 
+against the insurer and in favor of the insured[.]” Id. (alteration in 
+original) (citation s omitted). 
+-27-     
+ 
+   
+ 
+  
+  
+  
+  
+  
+ *** FOR PUBLICATION IN WEST’S HAWA II REPORTS AND PACIFIC REPORTER *** 
+circuit court on remand to determine the parties’ intent 
+regarding the DPE. On remand, we instruct the circuit court to 
+proceed consistent with this opinion.  
+Keith K. Hiraoka,   
+Jodie D. Roeca,  
+Robert J. Romero,    
+pro hac vice and  
+Maria S. Quintero,    
+pro hac vice, for  
+petitioner/defendant-  
+appellee James River  
+Insurance Company   
+ /s/ Paula A. Nakayama  
+/s/ Sabrina S. McKenna  
+/s/ Richard W. Pollack  
+/s/ Michael D. Wilson  
+/s/ Edward H. Kubo, Jr.  
+Kenneth R. Kupchak,  
+Tred R. Eyerly, and  
+Mark M. Murakami    
+for respondent/plaintiff-  
+appellant C. Brewer  
+and Company, Ltd.  
+-28-

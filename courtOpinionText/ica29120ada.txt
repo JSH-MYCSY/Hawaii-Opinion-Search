@@ -1,0 +1,616 @@
+FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+IN THE INTERMEDIATE COURT OF APPEALS
+ 
+OF THE STATE OF HAWAI' I 
+–––O0O–––
+ 
+LEIS FAMILY LIMITED PARTNERSHIP, a Hawai' i limited 
+partnership, and COOLING ASSOCIATES LLC, a Hawai' i 
+limited company, Plaintiffs-Appellants,
+v. 
+SILVERSWORD ENGINEERING, a Hawai' i corporation, Defendant,
+and 
+C. DON MANUEL/HAWAII, INC., a Hawai' i corporation,
+and MORIKAWA & ASSOCIATES, LLC, a Hawai' i limited 
+liability company, Defendants-Appellees 
+NO. 29120
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE SECOND CIRCUIT
+ 
+(CIVIL NO. 05-1-0057(3))
+ 
+FEBRUARY 16, 2012
+ 
+FUJISE AND REIFURTH, JJ., AND
+FOLEY, PRESIDING JUDGE, CONCURRING SEPARATELY
+ 
+OPINION OF THE COURT BY REIFURTH, J.
+ 
+Plaintiffs-Appellants Leis Family Limited Partnership
+ 
+("Leis Family") and Cooling Associates LLC ("Cooling")
+ 
+(collectively, "Appellants") appeal from the March 24, 2008
+ judgment ("Judgment") issued by the Circuit Court of the Second
+ 
+1
+Circuit ("Circuit Court")  in favor of Defendants-Appellees C.
+Don Manuel/Hawai
+'i, Inc. ("Manuel") and Morikawa & Associates, 
+LLC ("Morikawa") (collectively, "Designers"). The Circuit Court
+ granted the Designers' motion for summary judgment on the grounds
+ that Appellants' professional negligence claims were barred by
+ the economic loss doctrine. We affirm.
+ 
+1
+ The Honorable Joseph E. Cardoza presided.
+  FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+I.	 BACKGROUND2
+ 
+This appeal pertains to the design, construction, and
+ 
+3
+installation of a thermal energy system ("System")  at Premier
+Place, a building located in the Maui Technology Park in Kîhei. 
+In an October 2002 contract, Double P, the owner of Premier
+ Place, hired General Contractor to provide contractor services
+ related to the System. 
+Appellants allege that General Contractor
+ 
+subcontracted with Dorvin D. Leis Company, Inc. ("Dorvin")4 to
+ 
+provide mechanical engineering and construction services related
+ to the System. Dorvin, in turn, subcontracted with Silversword
+ Engineering, Inc. ("Silversword") to design the System. The
+ contract between Dorvin and Silversword contains a provision
+ labeled "9. Limitation of Liability," that states: "To the
+ maximum extent permitted by law, liability for [Dorvin's] damages
+ will not exceed the compensation received under this Agreement." 
+Silversword subcontracted with Manuel for design assistance on
+ the System and with Morikawa for electrical engineering
+ assistance for data collection concerning the chiller equipment
+ at Premier Place. Morikawa appears to have had a separate
+ contract with Dorvin to design electrical circuits, although no
+ such contract is in the record and its existence is not clear
+ from the parties' briefs. 
+2 Appellants' opening brief fails to comply with Hawai' i Rules of 
+Appellate Procedure ("HRAP") Rule 28(b)(3), which requires appellants to
+present "the facts material to consideration of the questions and pointspresented" with record citations to "all supporting and contradictoryevidence." Here, the "Factual Background" section of the opening brief merelyrestates and references the "Factual Background" section of the Appellants'January 15, 2008 memorandum in opposition to the Designers' motion for summaryjudgment. The "Factual Background" section of the memorandum in opposition,on the other hand, references nothing at all. As a result, it amounts to argument. It is axiomatic that the "[a]rgument of counsel in a memorandum of
+law . . . is not evidence." Thomas v. Burlington Indus., Inc., 769 F. Supp.
+368, 369 (S.D. Fla. 1991). 
+Counsel for Appellants is warned that, pursuant to HRAP Rule 51,
+future non-compliance with HRAP 28(b)(3) may result in sanctions.
+ 
+3
+ The System is an alternative air conditioning unit designed to
+make ice at night, when power costs are lower, to use as coolant during the
+day. 
+4
+ Dorvin Leis is identified as the President of Dorvin Leis Company,
+Inc. in the June 27, 2002 standard agreement for services between Silversword
+and Dorvin. 
+2
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+Appellants allege that the System was severely
+ 
+undersized, did not satisfy the Premier Place's cooling load
+ 
+requirement, was prone to failure, and had experienced numerous
+ problems since its installation. 
+Although the record is unclear, the parties agree that
+ 
+at some point, the Appellants acquired an interest in the
+ Contract and/or the System. On February 18, 2005, Appellants
+ filed a Complaint against Silversword and the Designers alleging
+ professional negligence. Appellants did not allege that the
+ Designers, or either of them, made negligent misrepresentations
+ regarding the qualities, performance characteristics, or
+ capabilities of the System. There is no evidence that Appellants
+ filed suit against General Contractor or its immediate
+ subcontractor, Dorvin. 
+On December 10, 2007, Designers filed a motion for
+ 
+summary judgment arguing that the economic loss doctrine bars
+ Appellants' claims against them. The Circuit Court agreed and
+ granted the Designers' motion for summary judgment. The Judgment
+ was entered in favor of the Designers on March 24, 2008.
+5 This
+ 
+appeal followed.
+ 
+II. POINTS OF ERROR
+ 
+On appeal, Appellants contend that the trial court
+ 
+erred: (1) in granting summary judgment on the basis of the
+ 
+economic loss doctrine, despite the fact that the parties were
+ not in privity of contract; (2) in concluding that privity is not
+ a requirement for application of the economic loss doctrine; and
+ (3) in not adopting the deviation-from-industry-standards
+ exception to the economic loss doctrine. 
+III. STANDARDS OF REVIEW
+ 
+The appellate court reviews "the circuit court's grant
+ 
+or denial of summary judgment de novo. Under the de novo
+ 
+5
+ Appellants' claim against Silversword was dismissed pursuant to a
+March 20, 2008 settlement agreement between Leis Family, Cooling, Dorvin,
+Double P, General Contractor and Silversword, and an April 14, 2008
+stipulation for dismissal with prejudice of Appellants' claims against
+Silversword entered into between Leis Family, Cooling, Silversword and the
+Designers. 
+3
+  FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+standard, [the appellate court examines] the facts and answer the 
+question without being required to give any weight to the circuit court's answer to it." Haw. Ventures, LLC, v. Otaka, Inc., 114 
+Hawai'i 438, 457, 164 P.3d 696, 715 (2007) (internal quotation 
+marks, citations, and brackets omitted). 
+IV.	 DISCUSSION
+ 
+The economic loss doctrine "bars recovery in tort for 
+purely economic loss." City Express, Inc. v. Express Partners, 
+87 Hawai' i 466, 469, 959 P.2d 836, 839 (1998). It "marks the 
+fundamental boundary between the law of contracts, which is 
+designed to enforce expectations created by agreement, and the law of torts, which is designed to protect citizens and their property by imposing a duty of reasonable care on others." Id. 
+(quoting Berschauer/Phillips Constr. Co. v. Seattle Sch. Dist., 881 P.2d 986, 990 (Wash. 1994)) (internal quotation marks omitted). The doctrine "was designed to prevent disproportionate liability and allow parties to allocate risk by contract." Id. 
+A.	 The progression of the economic loss doctrine in
+Hawai'i 
+The economic loss doctrine was first acknowledged by
+ 
+the United States Supreme Court in East River Steamship Corp. v.
+ 
+Transamerica Delaval, Inc., 476 U.S. 858 (1986). The Supreme
+ Court effectively adopted the rationale of the California Supreme
+ Court in Seely v. White Motor Co., 403 P.2d 145 (Cal. 1965), and
+ held that no products liability claim lies in admiralty when a
+ commercial purchaser alleges injury only to the product itself,
+ resulting in purely economic loss. E. River, 476 U.S. at 871.
+ 
+In holding that a manufacturer in a commercial
+ 
+relationship has no duty under either a negligence or strict
+ products liability theory to prevent a product from injuring
+ itself, the Supreme Court explained that:
+ 
+"The distinction that the law has drawn between tort
+ 
+recovery for physical injuries and warranty recovery for
+economic loss is not arbitrary and does not rest on the
+'luck' of one plaintiff in having an accident causing
+physical injury. The distinction rests, rather, on an
+understanding of the nature of the responsibility a
+manufacturer must undertake in distributing his [or her]
+products." Seely[, 403 P.2d at 151]. When a product
+ 
+4
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+injures only itself the reasons for imposing a tort duty are
+weak and those for leaving the party to its contractual
+remedies are strong.
+ 
+The tort concern with safety is reduced when an injury
+is only to the product itself. When a person is injured,
+the "cost of an injury and the loss of time or health may be
+an overwhelming misfortune," and one the person is not
+prepared to meet. Escola v. Coca Cola Bottling Co. [of
+ 
+Fresno, 150 P.2d 436, 441 (Cal. 1944)] (opinion concurring
+in judgment). In contrast, when a product injures itself,
+the commercial user stands to lose the value of the product,
+risks the displeasure of its customers who find that the
+product does not meet their needs, or, as in this case,
+experiences increased costs in performing a service. Losses
+ 
+like these can be insured. See 10A G. Couch, Cyclopedia of
+Insurance Law §§ 42:385–42:401, 42:414–417 (2d ed. 1982); 7
+E. Benedict, Admiralty, Form No. 1.16-7, p. 1–239 (7th
+ed.1985); 5A J. Appleman & J. Appleman, Insurance Law &
+Practice § 3252 (1970). Society need not presume that a
+customer needs special protection. The increased cost to
+ the public that would result from holding a manufacturer
+liable in tort for injury to the product itself is not
+justified.  Cf. United States v. Carroll Towing Co., 159
+F.2d 169, 173 (C.A.2 1947).
+ 
+Id. at 871–72.
+ 
+The Hawai' i Supreme Court first adopted the economic 
+loss doctrine "insofar as it applies to claims for relief based
+ 
+on a product liability or negligent design and/or manufacture
+ theory" in State ex rel. Bronster v. U.S. Steel Corp., 82 Hawai' i 
+32, 40, 919 P.2d 294, 302 (1996). In Bronster, the City and
+ County of Honolulu selected a certain type of steel manufactured
+ by the defendant, U.S. Steel Corp., for use in the construction
+ of Aloha Stadium after U.S. Steel Corp. allegedly represented
+ that the steel would be resistant to corrosion. Id. at 36–38,
+ 
+919 P.2d at 298–300. After the steel began to rust to the point
+ that it endangered the structural integrity of the stadium, the
+ State, which had taken over responsibility for the stadium
+ project from the City and County of Honolulu, sued U.S. Steel
+ Corp. for negligent misrepresentation. Id. at 38, 919 P.2d at
+ 
+300. The trial court granted U.S. Steel Corp's motion to
+ dismiss, stating that "where a seller or a manufacturer of a
+ product negligently misrepresents the qualities, performance
+ characteristics, or capabilities of the product, and the product
+ fails to perform according to those representations, resulting in
+ economic damage only, the seller may not be held liable in tort." 
+Id.
+   
+5
+  FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+The Hawai' i Supreme Court, however, reversed, holding 
+that a cause of action founded on negligent misrepresentation is 
+not precluded by the economic loss doctrine because the claim does not sound in products liability. Id. at 40, 919 P.2d at 
+302. The Court reasoned that (1) the tort of negligent
+ 
+misrepresentation is founded on the breach of a duty separate and
+ distinct from the duty abolished by the economic loss rule, (2)
+ pecuniary losses are recoverable in a claim for negligent
+ misrepresentation, and (3) the conflict between recovery of
+ economic losses under a product liability theory and the Uniform
+ Commercial Code is not present in the case of an action based on
+ negligent misrepresentation. Id. at 40-43, 919 P.2d at 302-05.
+ 
+Two years later, in City Express, Inc., the Hawai' i 
+Supreme Court addressed the case of a developer who hired an architectural company to design a warehouse. The architectural company employed an architect and engineer who worked on the project. 87 Hawai' i at 467, 959 P.2d at 837. After the 
+warehouse was constructed, the use of forklifts on the second floor caused the floor to crack. Id. The developer filed a 
+third-party complaint against the architectural company, as well as the architect and engineer in their personal capacities, alleging professional negligence. Id. at 467–68, 959 P.2d at 
+837–38. The trial court granted the third-party defendants' motion for directed verdict, holding, in part, that "[i]n a claim for negligence, no recovery may be had for 'economic loss' damages, such as cost to repair the product of the alleged negligence, its diminished value, or consequential loss of profit. Such 'economic loss' damages must instead be recovered in contract . . . . Since [the developer's] claim is in negligence, it may not recover 'economic loss' damages." Id. at 
+468, 959 P.2d at 838. 
+We partially vacated the ruling, holding that the 
+third-party defendants could recover damages for additional costs, lost rent, and either the cost of remedying the defect or the difference between the value of the building as designed and the value of the building if it had been properly designed. Id. 
+The Hawai' i Supreme Court granted certiorari to address "the 
+6
+   FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+availability of economic loss damages in a negligence action
+ 
+against a design professional." Id.
+ 
+The Hawai' i Supreme Court reversed, holding that "[i]n 
+the context of construction litigation, where a party is in privity of contract with a design professional, economic loss damages are limited to contractual remedies, and a negligence action may not be maintained." Id. at 469, 959 P.2d at 839. The 
+Court noted that the opposite holding would hamper the ability of parties to construction contracts to allocate their risks. Id. 
+at 470, 959 P.2d at 840. The Court stated that its ruling "preserves the right of design professionals to limit their exposure to liability through contract." Id. 
+The Hawai' i Supreme Court subsequently explored the 
+application of the economic loss doctrine in the absence of privity of contract. In Association of Apartment Owners of Newtown Meadows ex rel. its Board of Directors v. Venture 15, Inc., 115 Hawai' i 232, 167 P.3d 225 (2007), a condominium 
+association sued a subcontractor in negligence for constructing defective concrete slabs which were used in the construction of the condominium project. Id. at 238–239, 167 P.3d at 231–32. 
+The subcontractor did not have a contract with the condominium association. Id. at 285, 167 P.3d at 278. The subcontractor 
+argued that the pure economic losses of the condominium association were barred by the economic loss doctrine. Id. 
+The Hawai' i Supreme Court held that recovery for 
+economic loss in negligence is barred, even in the absence of privity of contract, "when allowing such recovery would blur the distinction between contract and tort law." Id. at 292, 167 P.3d 
+at 285. The Court noted that the general contractor and subcontractor had "allocated the risks and benefits of performance in their contract," id., and that imposing a tort duty upon the subcontractor correlative to the contract's specifications "would disrupt the contractual relationships between and among the various parties." Id. (quoting Plourde 
+Sand & Gravel Co. v. JGI Eastern, Inc., 917 A.2d 1250, 1256-57 (N.H. 2007)) (internal quotation marks omitted).
+ 
+7
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+The Court also noted, however, that the economic loss
+ 
+doctrine may not apply when the plaintiff alleges that the
+ 
+defendant breached a duty independent and separate from its
+ contractual obligations. Id. at 295, 167 P.3d at 288. The Court
+ 
+agreed with Kennedy v. Columbia Lumber & Manufacturing Co., 384
+ S.E.2d 730 (S.C. 1989), which stated:
+ 
+A builder may be liable to a home buyer in tort
+despite the fact that the buyer suffered only "economic
+losses" where: (1) the builder has violated an applicable
+ building code; (2) the builder has deviated from industry
+standards; or (3) the builder has constructed housing that
+he knows or should know will pose serious risks of physical
+harm.
+ 
+Newtown Meadows, 115 Hawai' i at 295, 167 P.3d at 288 (quoting 
+Kennedy, 384 S.E.2d at 738). The Court specifically adopted the 
+first exception related to violation of an applicable building code, but declined to address the second or third exceptions. Id.
+ 
+Appellants here contend that the economic loss doctrine
+ 
+does not apply to negligence claims against design professionals
+ who are not in privity of contract. Alternatively, Appellants
+ urge us to adopt the second Kennedy exception and to recognize an
+ exception to the economic loss doctrine where the builder has
+ deviated from industry standards.
+ 
+B.	 The application of the economic loss doctrine is not
+dependent on whether parties are in privity of
+contract.
+ 
+Appellants argue that "under City Express, the
+ 
+application of the economic loss doctrine to negligence claims
+ 
+against a design professional turns on whether or not a party is
+ in privity of contract with the design professional." 
+Appellants, however, appear to read a substantive distinction
+ into City Express where none exists. City Express stands for the
+ 
+proposition that the economic loss doctrine applies when a party
+ is in privity of contract with a design professional. It does
+ not foreclose application of the doctrine in the absence of
+ 
+8
+  FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+privity of contract.6 The Hawai' i Supreme Court in City Express 
+merely limited its holding to the specific facts of the case, a 
+practice consistent with "the common law's wisdom in insisting on singular determinations on singular issues reasoned narrowly . . . ." See Richard B. Cappalli, The Common Law's Case Against Non-
+Precedential Opinions, 76 S. Cal. L. Rev. 755, 783 (2003). 
+To prove this point, Newtown Meadows, although a 
+construction case not involving design professionals, clearly stands for the proposition that the economic loss doctrine bars the recovery of purely economic losses, even in the absence of privity of contract, so long as "allowing such recovery would blur the distinction between contract and tort law." 115 Hawai'i at 292, 167 P.3d at 285. 
+In order for us to adopt the Appellant's position, we 
+would have to conclude that the Hawai' i Supreme Court intended to 
+apply the economic loss doctrine in construction cases involving design professionals in privity of contract, and to all other construction-related parties – but not design professionals – whether in privity of contract or not.
+7 We observe no basis for 
+the proposed distinction, and Appellant does not suggest one. Therefore, we hold that Appellants' argument is without merit. 
+6 Although the Court in City Express applied the economic loss
+doctrine in the case of a design professional in privity of contract with the
+Plaintiff-owner, its rationale was not limited to design professionals:
+ 
+If tort and contract remedies were allowed to overlap,
+certainty and predictability in allocating risk would
+decrease and impede future business activity. The
+ construction industry in particular would suffer, for it is
+in this industry that we see most clearly the importance of
+the precise allocation of risk as secured by contract. The
+ 
+fees charged by architects, engineers, contractors,
+ 
+developers, vendors, and so on are founded on their expected
+ liability exposure as bargained and provided for in the
+ contract.
+ 
+87 Hawai' i at 470, 959 P.2d at 840 (quoting Berschauer/Phillips Constr. Co.,
+881 P.2d at 992). 
+7
+ The legal principle enunciated in Newtown Meadows is of general
+applicability and is grounded in the holding in City Express. Furthermore,
+"[t]he work provided by construction contractors or the services rendered by
+design professionals in the commercial building process are both integral to
+the building process and impact the quality of building projects." See
+ 
+Terracon Consultants W., Inc. v. Mandalay Resort Grp., 206 P.3d 81, 90 (Nev.
+2009). 
+9
+  FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+C.	 The Designers did not have a duty sounding in tort to
+avoid economic loss.
+ 
+Appellants argue that the economic loss doctrine is 
+inapplicable because their claims "are based on allegations that 
+[the Designers] violated a legal duty, separate and apart from any contractual duty."
+8 Under the economic loss doctrine, "a 
+manufacturer in a commercial relationship has no duty under either a negligence or strict products liability theory to prevent a product from injuring itself." Bronster, 82 Hawai' i at 
+39, 919 P.2d at 301. This principle applies with equal force to design professionals. See City Express, 87 Hawai' i at 469–70, 
+959 P.2d at 839–40. Even in the absence of privity of contract between the design professional and a project owner, the law does not impose a duty in tort if it would "disrupt the contractual relationships between and among the various parties." See 
+Newtown Meadows, 115 Hawai' i at 292, 167 P.3d at 285. "Society 
+need not presume that a customer needs special protection." See 
+Bronster, 82 Hawai' i at 40, 919 P.2d at 302 (quoting E. River, 
+476 U.S. at 868). 
+Appellants fail to state a duty owed by the Designers
+ 
+to Appellants cognizable under our tort law. Double P contracted
+ with General Contractor for the construction of the System. As
+ with every commercial transaction of this sort, Double P had the
+ opportunity to negotiate contractual rights against General
+ Contractor or any of its subcontractors. Its failure to do so,
+ and irrespective of Appellants' reasons for not bringing suit
+ against those with whom it was in privity of contract, does not
+ warrant creation of a duty in tort on the part of the Designers. 
+After all, the subcontractors and design professionals similarly
+ 
+8
+ In an August 30, 2010 letter to the Clerk of the Appellate Court,
+Appellants' attorney drew our attention to Hawaii Motorsports Investment, Inc.
+ 
+v. Clayton Group Services, Inc., 693 F. Supp. 2d 1192 (D. Haw. 2010) for the
+proposition that "[t]he economic loss rule does not preclude a professional
+negligence claim arising from the breach of a duty arising from a professional
+relationship, not from a contract." Id. at 1199. That case, however, dealt
+with a motion to dismiss under Federal Rules of Civil Procedure Rule 12(b)(6).
+As a result, the U.S. District Court's holding hinged on the fact that the
+plaintiff alleged that the defendant breached a professional duty, not that
+any duty actually existed in that case. See id. Thus, Hawaii Motorsports
+ 
+does not provide support for Appellants' position.
+ 
+10
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+had the right to negotiate limits to their liability, as
+ 
+Silversword did with Dorvin. 
+Allowing Appellants to recover purely economic loss 
+under a tort theory would allow a commercial project owner to recover product-related damages under a tort theory as a consequence of the owner's deliberate choice not to contract with the third party (the design professional), but instead to require the second party (the general contractor) to do so. There is no reason that we can perceive to make tort liability against design professionals contingent on the project owner's election to hire a general contractor and thus "blur the distinction between contract and tort law." Newtown Meadows, 115 Hawai' i at 292, 167 
+P.3d at 285. "[T]he injury suffered — the failure of the product to function properly — is the essence of a warranty action, through which a contracting party can seek to recoup the benefit of its bargain." E. River, 476 U.S. at 868. Because the 
+economic loss doctrine functions to bar the recovery of such losses in "negligent design and/or manufacture" cases, Bronster, 82 Hawai' i at 40, 919 P.2d at 302, we conclude that Appellants' 
+claims are barred. 
+D.	 The "deviation-from-industry-standards" exception to
+the economic loss doctrine.
+ 
+In the event that we conclude that the economic loss
+ 
+doctrine applies to design professionals not in privity of
+ 
+contract, Appellants urge us to adopt Kennedy's deviation-from­industry-standards exception to the doctrine. That is, they ask
+ us to recognize that a design professional owes a duty in tort to
+ a commercial project owner to perform its work "commensurate with
+ industry standards," Kennedy, 384 S.E.2d at 737 (citing Terlinde
+ v. Neely, 271 S.E.2d 768, 770 (S.C. 1980)), the breach of which
+ allows the owner to recover purely economic damages.
+9 Appellants
+ 
+9
+ Kennedy itself does not support the breadth of the Appellants'
+proposed exception. "Kennedy's holding is expressly limited to the home
+buyer/builder context, and is specifically premised on a policy of protecting
+the new home buyer." Colleton Preparatory Acad., Inc. v. Hoover Universal,
+ 
+Inc., 412 F.Supp.2d 560, 563 (D. S.C. 2006) (citing Bishop Logging Co. v. John
+ Deere Indus. Equip. Co., 455 S.E.2d 183, 188 (S.C. Ct. App. 1995) (describing
+(continued...)
+ 
+11
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+warn that a contrary holding would insulate a design professional
+ 
+from liability. 
+The Nevada Supreme Court in Terracon Consultants
+ 
+Western, Inc. v. Mandalay Resort Group, 206 P.3d 81 (Nev. 2009)
+ ably explains why we reject Appellants' position. In Terracon,
+ the plaintiffs hired an engineering consultant to prepare a
+ geotechnical report and a recommended foundation design for a
+ proposed Las Vegas resort and casino. Id. at 83–84. The
+ 
+consultant allegedly failed to predict the amount of settling
+ underneath the foundation, and the plaintiffs were required to
+ repair and reinforce the foundation before continuing
+ construction. Id. at 84. Plaintiffs sued in Nevada state court
+ 
+for professional negligence, but the consultant removed the
+ matter to the U.S. District Court for the District of Nevada. 
+Id.
+ 
+In a certified question, the district court asked the
+ 
+Nevada Supreme Court: "Does the economic loss doctrine apply to
+ preclude negligence-based claims against design professionals
+ such as engineers and architects, who provide services in the
+ commercial property development or improvement process, when the
+ plaintiffs seek to recover purely economic losses?" Id. at 83. 
+The Nevada Supreme Court held that the answer was yes. Id. at
+ 
+83. The court reasoned that the purpose of the economic loss
+ 
+doctrine is "to shield defendants from unlimited liability for
+ all of the economic consequences of a negligent act, particularly
+ in a commercial or professional setting . . . ." Id. at 83. The
+ 
+court stated:
+ 
+In the context of engineers and architects, the bar
+created by the economic loss doctrine applies to commercial
+activity for which contract law is better suited to resolve
+professional negligence claims. This legal line between
+contract and tort liability promotes useful commercial
+economic activity, while still allowing tort recovery when
+personal injury or property damage are present. . . . 
+. . . .
+ 
+We perceive no significant policy distinction that
+would drive us to permit tort-based claims to recover
+ 
+9(...continued)
+Kennedy
+ as a partial rejection of the economic loss rule "in the residential
+home building context")).
+ 
+12
+   FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+economic losses against design professionals, such as
+architects and engineers, who provided their professional
+services in the commercial property development and
+improvement process, when we have concluded that such claims
+are barred under the economic loss doctrine if brought
+against contractors and subcontractors involved in
+physically constructing improvements to real property. The
+ work provided by construction contractors or the services
+rendered by design professionals in the commercial building
+process are both integral to the building process and impact
+the quality of building projects. Therefore, when the
+quality is deemed defective, resulting in economic loss,
+remedies are properly addressed through contract law.
+ 
+Id. at 89–90 (citations omitted).
+ 
+The holding in Terracon is consistent with Hawai' i 
+precedent and reflects our judgment of the proper allocation of 
+commercial risk. The Hawai' i Supreme Court has held that design 
+professionals in privity of contract with the plaintiff are not liable in tort for economic damages. City Express, 87 Hawai' i at 
+470, 959 P.2d at 840. As stated earlier, privity of contract is not the criterion upon which the economic loss doctrine depends; instead, it is whether "allowing such recovery would blur the distinction between contract and tort law." Newtown Meadows, 115 
+Hawai'i at 292, 167 P.3d at 285; see also Francis v. Lee Enter., 
+Inc., 89 Hawai' i 234, 244, 971 P.2d 707, 717 (1999) ("Courts 
+should avoid creating causes of action that unnecessarily blur the distinction between tort and contract"). That is, we will not "disrupt the contractual relationships between and among the various parties." Newtown Meadows, 115 Hawai' i at 292, 167 P.3d 
+at 285 (quoting Plourde, 917 A.2d at 1256-57) (internal quotation marks omitted). 
+In commercial contracts, parties "are free to adjust 
+their respective obligations to satisfy their mutual expectations." See City Express, 87 Hawai' i at 470, 959 P.2d at 
+840 (quoting American Towers Owners Ass'n v. CCI Mechanical, Inc., 930 P.2d 1182, 1190 (Utah 1996)) (internal quotation marks omitted). The application of the economic loss doctrine encourages parties to negotiate and state clearly the limits of their liability in a contract, and "preserves the right of design professionals to limit their exposure to liability through contract." Id. 
+13
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+We decide today only that a deviation from industry
+ 
+standards exception to the economic loss doctrine generally does
+ 
+not apply to design professionals. If work falling below
+ industry standards was excepted from the economic loss doctrine,
+ it would, for all practical purposes, destroy the design
+ professional's ability to contract for protection from liability. 
+In virtually all suits in negligence against a design
+ professional, the crux of the claim is that the design
+ professional's work product was substandard. Because a duty to
+ conform to industry standards would run parallel to any contract,
+ the design professional would constantly be subject to
+ litigation.
+10 To compensate for this risk, the costs of hiring a
+ 
+design professional would inevitably rise.
+ 
+Strong policy considerations compel us to reject
+ 
+Appellants' arguments that the economic loss doctrine should not
+ apply here and, alternatively, that we should adopt the
+ deviation-from-industry-standards exception to the economic loss
+ doctrine in this case. Any countervailing policy considerations,
+ we think, can be mitigated through contractual negotiations. 
+Here, Double P, as Appellants' presumable predecessor in
+ interest, could have protected itself through its contract with
+ General Contractor; any failure to do so, or the Appellants'
+ decision not to sue General Contractor for some other reason,
+ does not warrant an expansion of the law to permit Appellants to
+ sue the Designers in tort. Therefore, based on the record before
+ us, we hold that the Circuit Court was correct in granting
+ summary judgment to the Designers. 
+V. CONCLUSION
+ 
+The March 24, 2008 Judgment in Favor of Defendants C.
+ 
+Don Manuel/Hawaii, Inc. and Morikawa & Associates, LLC as to all
+ 
+10
+ Appellants argue that the State of Hawai' i's newly constituted
+design claim conciliation panels, as established by Hawaii Revised Statutes
+§ 672B-1 et seq. (Supp. 2010), would preclude the bringing of frivolous andfraudulent claims against design professionals. This misses the point: theHawai'i Rules of Civil Procedure already prevent parties from bringing
+frivolous and fraudulent claims. See Haw. R. Civ. P. 11(b). The economic 
+loss doctrine protects wider, deeper interests than does the existence ofdesign claim conciliation panels. 
+14
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+Claims in the Complaint, entered in the Circuit Court of the
+ 
+Second Circuit, is affirmed.
+ 
+On the briefs:
+ 
+Philip L. Deaver and
+Lori N. Tanigawa
+(Bays Deaver Lung Rose & Holma)
+for Plaintiffs-Appellants
+Leis Family Limited Partnership
+and Cooling Associates LLC
+ 
+Bruce M. Ito,
+for Defendants-Appellees
+C. Don Manuel/Hawaii, Inc. and
+Morikawa & Associates, LLC
+ 
+15
+ 

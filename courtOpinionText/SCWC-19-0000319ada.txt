@@ -1,0 +1,882 @@
+*** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAIʻ I 
+ 
+---o0o--- 
+ 
+STATE OF HAWAIʻ I, 
+Respondent/Plaintiff-Appellee, 
+ 
+vs. 
+ 
+PETER DAVID, 
+Petitioner/Defendant-Appellant. 
+ 
+ 
+SCWC-19-0000319 
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS 
+(CAAP-19-0000319; CASE NO. 1PC111000050) 
+ 
+SEPTEMBER 9, 2021 
+ 
+NAKAYAMA, McKENNA, WILSON, AND EDDINS, JJ.; 
+AND RECKTENWALD, C.J., DISSENTING 
+ 
+OPINION OF THE COURT BY EDDINS, J. 
+ 
+On the night of New Year’s Day 2011, Peter David killed his 
+cousin Santhony Albert.  The two had been drinking at family 
+gatherings.  They fought outside a relative’s apartment.  David 
+stabbed Albert.  David said he acted in self-defense.   Electronically Filed
+Supreme Court
+SCWC-19-0000319
+09-SEP-2021
+07:55 AM
+Dkt. 5 OP*** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 2 A jury convicted David of assault in the first degree.  The 
+Intermediate Court of Appeals affirmed.  
+David challenges the trial court’s ruling preventing him 
+from advancing evidence of Albert’s .252 blood alcohol 
+concentration (BAC) level unless he called an expert to explain 
+its meaning.     
+We hold that the trial court erred in conditioning the BAC 
+evidence on such expert testimony.  Excluding the BAC evidence 
+undercut David’s constitutional right to present any and all 
+competent evidence to support his defense.  It violated David’s 
+due process right to a fair trial.   
+We vacate David’s conviction for assault in the first 
+degree and remand the case to the circuit court.1  
+                                                 
+1  In this appeal, David also argues that several remarks made during 
+trial by the deputy prosecuting attorney constituted prosecutorial 
+misconduct.  Because we do not find reversible error in the ICA’s analysis of his prosecutorial misconduct claim, s ee State v. David, No. CAAP- 19-0000319, 
+2020 WL 5821323 at *5-*9 (App. Sept. 30, 2020) (mem. op.), we decline to 
+address this issue.  Given that the trial court’s error regarding the BAC 
+evidence only affected David’s conviction in Count 1, we affirm the ICA’s 
+Judgment on Appeal and the Circuit Court of the First Circuit’s Judgment of Conviction and Sentence relating to Count 2.  In Count 2, the jury convicted 
+David of assault in the third degree relating to an incident after the 
+stabbing.  Because the jury could not unanimously answer a special 
+interrogatory asking whether the assault was “ committed in a fight or scuffle 
+entered into by mutual consent,” the court convicted David of assault in the 
+third degree’s petty misdemeanor variant ( Hawaiʻi Revised Statutes (HRS)
+  
+§ 707-712(2)(1993)).  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 3 I. BACKGROUND 
+This was David’s second jury trial.2  In his first trial, 
+David faced a murder in the second degree charge.3  The jury 
+convicted him of manslaughter.  Because the trial court had 
+admitted improper rebuttal testimony, this court vacated David’s 
+conviction.  State v. David, 141 Hawaiʻ i 315, 317, 409 P.3d 719, 
+721 (2017).   
+On retrial, the prosecution called several of David and 
+Albert’s relatives.  David also testified.4  
+David and Albert spent New Year’s Day socializing with 
+family members.  Like most of the men at the family gatherings, 
+they drank alcohol.  Late in the evening, the cousins fought in 
+a parking lot fronting a family member’s apartment.  David 
+stabbed Albert.  Albert died. 
+Before the fatal altercation, David and Albert were 
+drinking in the apartment.  David testified he asked Albert for 
+a beer.  Albert responded by punching him in the face.  He also 
+struck David with a beer bottle and boasted, “you see, I can 
+beat you up.”  Albert’s comment appeared connected to an earlier 
+incident at a different family member’s apartment.  There, David 
+                                                 
+2  The Honorable Paul B. K. Wong presided.  
+3  The Honorable Randal K. O. Lee presided.   
+4  A Chuukese interpreter interpreted David’s testimony and interpreted 
+for him during the trial.    *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 4 explained, he went outside.  Albert followed him and taunted:  
+“[W]hat [are you] looking at[?] . . .[Y]ou want me to beat you 
+up[?]”  David said he ignored Albert.  He knew Albert was 
+“drunk.”  
+David testified that not long after Albert punched him and 
+hit him with a beer bottle, Albert went downstairs to the 
+parking lot.  He called David to meet him there.  David did, but 
+only to ask Albert to return to the apartment, not to fight.  
+David said Albert kicked and punched him.  David fell facedown; 
+he was pinned between two cars.  Albert stood above him.  Albert 
+continued to kick and punch him.  David said he feared for his 
+life.  He felt “very scared” and thought he was “going to die 
+from what [Albert was] doing.”  
+David told the jury he acted in self-defense.  He “grabbed 
+something.”  He swung the object behind him toward Albert.  When 
+asked about his state of mind, David explained: “I was 
+protecting myself, thought that something was going to happen to 
+me.  So that’s –– that’s why I did that, not knowing at what he 
+was going to –– what the assault was going to be.”  David 
+insisted he “was just trying to protect [him]self from injury, 
+continuing threat . . . in a moment of rush.”     
+David was unsure whether he contacted Albert with the 
+object.  But Albert stopped hitting him.  Albert ran away.  
+David followed.  Soon, he saw Albert walking to the apartment *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 5 with help from another relative.  He saw Albert fall to the 
+ground.  David left; he later learned that Albert had died. 
+The next day, a forensic pathologist performed an autopsy.  
+Albert’s blood was drawn and tested.  The toxicology report 
+showed that Albert’s BAC was .252.  
+At David’s first trial, the State presented BAC evidence 
+testimony from the forensic pathologist.  She informed the jury: 
+“[Albert] did have alcohol, and the level was .25 percent.”  
+The second trial was different.  This time, the State moved 
+in limine to preclude admission of the .252 BAC evidence.  The 
+trial court ruled that the presence of alcohol in Albert’s blood 
+was admissible.  But the court prevented any references to the 
+“actual number.”  It reasoned:   
+With respect to the toxicology result performed on Santhony 
+Albert as part of the autopsy that was conducted by the 
+Honolulu Medical Examiner’s office, the Court denies 
+State’s motion in limine.  The presence of blood alcohol 
+level in . . . Mr. Albert’s body is relevant and 
+corroborative of testimony that is going to be presented in 
+this case.  So the fact that there is alcohol in the 
+decedent’s blood is admissible. 
+The actual number, though, the .252, the Court is going to 
+preclude, unless there’s linkage, unless there is going to 
+be some kind of testimony that will explain what the .252 
+means or does or how it affects the particular decedent in 
+this case.  So that’s a very high bar, I think, because 
+alcohol has different effects on different people. 
+And how drunk the decedent might have been is available to 
+both parties by way of lay testimony and the percipient witnesses that observed the decedent on the date of the 
+offense. 
+(Emphases added.) 
+ Before the forensic pathologist testified, David moved the *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 6 court to reconsider its ruling.  The court denied the motion:  
+The actual [BAC] number does provide the opportunity for 
+the jury to speculate and perhaps even be confused because without any expert testimony to explain the meaning of the 
+number, it is, in this Court’ s opinion, speculative.  As 
+indicated by [the State], alcohol affects people differently.  In addition to tolerance of individuals, 
+their weight and their metabolic makeup also affect the ability to process alcohol in a person’s system and 
+therefore minimize or enhance the effect of any particular 
+blood alcohol on that person.  So without any anchoring 
+testimony to explain the number, it is in fact speculative.   
+And with respect to common understanding as to the legal 
+limit for driving, while .08 is the legal limit established 
+by the legislature to delineate the line in the sand as to 
+whether or not a person is operating a vehicle under the 
+influence of an intoxicant, it really doesn’ t point out to 
+the amount of impairment that person is actually 
+experiencing.  At one point in time, the legal limit not 
+too long ago was .10, and for other states, it has been a 
+different number, and again, that number, without some 
+anchoring testimony, is speculative and does not add 
+anything to the jury’ s consideration of the case.   
+So based on [Hawaiʻi Rules of Evidence (HRE)] Rule 403, 
+[David’s] request is respectfully denied.   
+(Emphasis added.)  The court further ruled that defense counsel 
+could not ask the forensic pathologist whether there was a “high 
+level of alcohol” in Albert’s blood.5  
+The expert then testified that Albert’s blood contained 
+alcohol; she did not reference his BAC or generally describe the 
+level of alcohol in his blood.6   
+                                                 
+5  The court believed:  
+The amount of intoxication that the decedent actually 
+experienced is more accurately portrayed by the demeanor or 
+the actions as seen by percipient witnesses and the amount 
+of perhaps Budweiser or hard liquor drank by the decedent 
+by percipient witnesses rather than the number or whether 
+or not the blood level or blood alcohol level at the 
+autopsy is high or low. 
+6  At trial, the forensic pathologist also testified that a stab- like 
+wound penetrated Albert’s lung and heart, “slightly at an upward angle,” *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+7 David’s defense centered on his account of what happened.  
+It also featured a Honolulu Police Department officer’s 
+testimony.  Officer Violet Williams recounted an unconnected 
+incident where an intoxicated Albert acted aggressively and 
+irrationally toward her and other officers.  Officer Williams 
+testified that she responded to a “fight call” in November 2008.  
+About twenty people were yelling at each other in a parking lot.  
+As she was instructing everyone to leave, Albert approached her 
+from behind.  He pushed her left arm.  He yelled, “fuck you, you 
+bitch.”  He called her “pig” and other vulgarities.  Officer 
+Williams described Albert’s demeanor as “extremely irate,” 
+“uncooperative,” and “disrespectful.”  She smelled alcohol on 
+his breath; he “appear[ed] to be intoxicated.”  When she tried 
+to arrest Albert, he resisted.  After he was placed in a police 
+car, he kicked toward Officer Williams and other officers. 
+During closing argument, defense counsel spotlighted 
+Albert’s drunken, aggressive behavior to support David’s 
+defense: 
+[W]e know how [Albert] is when he’s drunk, intoxicated.
+This is circumstantial evidence as to who is first
+aggressor in this case.
+At another time how was [Albert] acting when he was 
+intoxicated, even to a police officer?  He’s drunk, he’s 
+argumentative, he’s belligerent, he’s swearing.  This is a 
+causing severe bleeding leading to his death.  She opined that the “small 
+irregular- shaped hole” in Albert’s upper left chest was inconsistent with a 
+knife wound; it was likely caused by “a narrow, pointed, elongated 
+object . . . at least 4 inches or more in length.” *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+8 window, circumstantial evidence as to what Santhony Albert 
+was on this particular January 2nd, 2011.  He was the first 
+aggressor, ladies and gentlemen.7 
+The jury heard evidence about David and Albert’s drinking.  
+The witnesses generally discussed that “the men” at the family 
+gatherings were drinking.  But no witness testified about the 
+quantity and frequency of Albert’s alcohol consumption.  And 
+only one witness (aside from David) described Albert’s condition 
+as “drunk.”8  Albert’s BAC - the only evidence objectively 
+quantifying the extent and degree of Albert’s intoxication – was 
+kept from the jury.
+II. DISCUSSION
+A. The probative value of the BAC evidence was not
+substantially outweighed by the danger of confusing or 
+misleading the jury or unfairly prejudicing the State 
+Neither the trial court nor the ICA believed the BAC
+7The defense’s opening statement also focused on Albert’s intoxicated, 
+violent behavior: 
+A bruise to the forehead, a black eye to the right eye, a 
+severe laceration to the bridge of his nose, a laceration 
+to his neck, abrasions or lacerations to the right forearm, abrasions to his knee, some bruising to his back, some 
+injuries to his heel and his feet.  
+The evidence will show these are the visible injuries that 
+[David] sustained from a drunken attack from his own 
+cousin, Santhony Albert, on New Year’ s night, 2011.  What 
+the evidence will show is that it came to a split- second 
+decision, a choice between getting beaten up bad and 
+potentially being killed or defending himself against his 
+own cousin. 
+(Emphasis added.) 
+8On cross- examination, this witness conceded that in an earlier 
+proceeding (David’s first trial), she had testified Albert appeared drunker 
+than David.  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 9 evidence was irrelevant.  Rather, its preclusion was based on 
+the defense’s failure to hire an expert to explain its meaning.  
+We conclude that defense expert testimony was not necessary 
+to admit Albert’s .252 BAC.9   The typical adult citizen has the 
+aptitude to understand, weigh, and value the reasonable inferences drawn from a decedent’s .252 BAC in a self-defense 
+case.  This ability comes from jurors’ common knowledge and life 
+experience regarding BAC and alcohol’s association with aggression.  The trial court’s concern about confusing or 
+misleading the jury was misplaced.  The court erred in requiring 
+expert testimony about Albert’s BAC and its behavioral impact.  
+1. Albert’s .252 BAC was highly probative to David’s 
+defense 
+ 
+ Protecting himself against his heavily intoxicated and 
+violent cousin formed the nucleus of David’s defense.  David’s 
+self-defense claim pivoted on evidence that Albert became 
+aggressive after drinking a lot of alcohol.  The defense 
+unveiled its theory during opening statement and bookended it in 
+closing argument.  
+To support his defense, David testified that shortly before 
+the fatal event, Albert was drinking alcohol and got violent with him.  David asked Albert for a beer.  Albert did not give 
+                                                 
+9  Proper foundation must be laid to admit BAC results.  State v. Villena, 
+140 Hawaiʻ i 370, 376, 400 P.3d 571, 577 (2017).  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 10 him a beer.  Instead, Albert struck David with a beer bottle and 
+punched him in the face.  
+David described the moments preceding Albert’s death.  
+David told the jury that Albert started the fight.  Albert 
+punched and kicked him.  Albert continued to attack him after 
+David fell to the ground.
+  David feared for his life.  So he 
+stabbed Albert.  
+To further support his defense theory, David called Officer 
+Williams.  Her testimony was relevant to Albert’s history of 
+exhibiting combative behavior when drunk.  She described 
+responding to a “fight call” where an intoxicated, “extremely 
+irate” Albert pushed her from behind, yelled vulgarities at her, 
+and acted irrationally and aggressively toward police officers. 
+By showing Albert’s violent, drunken behavior, David 
+provided a sufficient basis to admit the BAC evidence.  See 
+Swilley v. State, 295 So. 3d 362, 365-66 (Fla. Dist. Ct. App. 
+2020) (reasoning that the jury could hear BAC evidence where the defendant claiming self-defense testified that the complainant 
+was aggressive when drinking and smelled like alcohol during the 
+incident).  
+The BAC evidence provided an objective, scientific basis 
+for the jury to evaluate the extent and degree of Albert’s 
+intoxication.  The evidence certified Albert’s highly inebriated
+condition.  It had a tendency to prove consequential facts  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 11 central to David’s defense: It would have (1) aided the jury’s 
+determination as to who was more likely the aggressor; (2) 
+assisted the jury in understanding David’s state of mind and his 
+perception of imminent harm; and (3) helped corroborate David’s 
+view that Albert was acting violently and erratically while 
+intoxicated, causing David to believe lethal force was necessary 
+to protect himself.  See Durrett v. Commonwealth, No. 2014-SC-
+000177-MR, 2015 WL 4979723 at *5 (Ky. Aug. 20, 2015) (mem. op.) (“Anytime someone is killed and the killer claims that he did so 
+to protect himself, the behavior of the victim is obviously 
+going to be of principal importance.  And evidence that the 
+deceased was intoxicated when he died can be relevant to 
+assessing who was the aggressor by allowing for a fuller 
+understanding of the victim’s behavior and the killer’s 
+perception of imminent harm.”) ; State v. Baker, 623 N.E.2d 672, 
+10
+                                                 
+10  In Durrett, the Kentucky Supreme Court further opined that  
+BAC evidence was relevant insofar as [the decedent’s] 
+inebriation might help explain the aggressive behavior 
+alleged by Durrett and thereby corroborate Durrett’ s 
+version of events.  And it could also have been further 
+relevant to explain why Durrett may have been acting under an erroneous belief of the need to act in self- defense or 
+in the degree of force necessary as part of an imperfect self-defense, which Durrett was entitled to have the jury 
+consider.   
+2015 WL 4979723 at *5.  However, the Durrett court ultimately held that the 
+trial court did not abuse its discretion by excluding the deceased’s BAC because it was “not particularly corroborative” of the defendant’s self-
+defense claim.  Id. at *6.  Unlike the present case where David and Albert 
+drank together and had a physical altercation before the deadly incident, 
+Durrett did not interact with the deceased “except, possibly, locking eyes” 
+right before he shot him.  Id. at *5.  The alleged threat in Durrett occurred 
+hours before the shooting.  Id.  The Durrett court held that “[d]ue to the *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 12 677 (Ohio Ct. App. 1993) (holding that the trial court erred in 
+excluding evidence of the decedent’s blood alcohol level because 
+it was “important to the issue of self-defense, relevant 
+specifically to the issue of who was more likely the aggressor 
+in the incident”). 
+Albert’s .252 BAC had high probative value.  It far 
+exceeded the evidentiary value attached to witness testimony 
+recalling Albert’s drinking or lay opinion testimony describing him as “drunk.”   
+2.
+ HRE Rule 403 favors admission of the BAC evidence 
+without “anchoring” expert testimony 
+ 
+a. BAC levels and the association between excessive alcohol consumption and aggression are within the common knowledge and experience of ordinary jurors 
+ 
+Blood alcohol concentration evidence requires little 
+explanation.  The national standard for driving under the 
+influence of alcohol is .08.  See Missouri v. McNeely, 569 U.S. 
+141, 169-70 (2013) (Roberts, C.J., concurring in part and dissenting in part) (“All 50 States and the District of Columbia 
+have laws providing that it is per se illegal to drive with a 
+BAC of 0.08 percent or higher.”); see also HRS § 291E-61(a)(4) 
+(2020) (prohibiting operation of a vehicle “[w]ith .08 or more 
+                                                 
+shooting’s temporal remoteness to the only instance of alleged aggressive 
+behavior by [the deceased], the probative value of the BAC evidence here was 
+very low.”  Id.  In contrast, t he probative value of Albert’s BAC was high 
+given the testimony regarding Albert’s drinking and his aggressive behavior 
+toward David both shortly and immediately before the deadly fight.   *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 13 grams of alcohol per one hundred milliliters or cubic
+centimeters of blood”).
+  11 
+BAC tests numerically quantify alcohol consumption.  The 
+decimal .08 is possibly the most recognizable number in criminal 
+law.  The mass media communications industry routinely publishes 
+BAC numbers.12  Public safety and health advisements also 
+reference BAC levels.13  The ordinary person may not understand 
+                                                 
+11  Hawaiʻi adopted the .08 threshold in 1995.  See 1995 Sess. Laws Act 226, 
+§ 9 at 587 (amending former HRS § 291-4 governing “[d]riving under the 
+influence of intoxicating liquor” to set the BAC threshold at .08).  Hawaiʻ i 
+law recognized the dangers associated with high BAC levels by providing for 
+increased punishment for “highly intoxicated drivers” (defined as those with 
+a BAC level exceeding .15).  HRS §§ 291E-1 (2007), 291E-41(b) (2007 & Supp. 
+2008), 291E-61(b) (2007 & Supp. 2008).  In 2009, the legislature removed 
+these increased sanctions.  2009 Sess. Laws Act 88, § § 5, 6 at 215, 217.  And 
+in 2010, it repealed the definition of “highly intoxicated driver.”  2010 
+Sess. Laws Act 166, § 5 at 399.  In July 2021, the legislature resurrected 
+the definition of “highly intoxicated driver” and re- imposed increased 
+sanctions on these drivers.  Act 216 (July 6, 2021).     
+12  See, e.g., Richard Winton, Judge expunges Mel Gibson’s drunk- driving 
+conviction, L.A. TIMES (Oct. 7, 2009, 12:00 AM PT), 
+https://www.latimes.com/archives/la- xpm-2009-oct-07-me-gibson7- story.html 
+[https://perma.cc/D65K- SFB2] (discussing actor Mel Gibson’s 2006 drunk 
+driving conviction based on his .12 BAC and his belligerent behavior at the 
+time of the arrest, including “profane outbursts” and “repeated threats 
+against the arresting deputy”) .  
+13  See, e.g., Planning and Implementing Screening and Brief Intervention 
+for Risky Alcohol Use: A Step- by-Step Guide for Primary Care Practices, CDC 
+4, 8, n.c. (2014) (emphasis added), https://www.cdc.gov/ncbddd/fasd/documents/alcoholsbiimplementationguide.pdf 
+[https://perma.cc/73RJ- T733] (defining “binge drinking” as consuming more 
+than the CDC’s single day limit within a two- hour period because “drinking at 
+this level typically brings the average adult’s blood alcohol concentration (BAC) above 0.08 g/dL” and reporting that “[b]inge drinking is associated 
+with a wide range of . . . health and social problems, including sexually transmitted diseases, unintended pregnancy, and violent crime”); Traffic 
+Safety Facts: 2018 Data,  NAT’L HIGHWAY TRAFFIC SAFETY ADMIN. 1 (2019), 
+https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812864 [https://perma.cc/Z42E- PCLK](“In 2018 there were 10,511 fatalities in motor 
+vehicle traffic crashes in which at least one driver had a BAC of .08 g/dL or 
+higher.”).    *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 14 how a BAC level is calculated or what it means chemically.  See 
+State v. Werle, 121 
+Hawai‘i 274, 282, 218 P.3d 762, 770 (2009) 
+(stating “[b]lood alcohol tests are scientific in nature”).  But
+adults in the United States generally share a basic 
+understanding that .08 is a threshold quantification of alcohol 
+consumption that impairs an individual’s physical and mental 
+faculties and ability to safely drive a car.  It is also common 
+knowledge, and an unremarkable proposition, that the higher a 
+person’s BAC, the more impaired the person becomes by alcohol’s 
+effects.   14 
+“Scientists and nonscientists alike have long recognized 
+a[n] . . . association between alcohol consumption and violent 
+or aggressive behavior.”15  A strong association between alcohol 
+                                                 
+14  See The ABCs of BAC: A G uide to Understanding Blood Alcohol 
+Concentration and Alcohol Impairment, N AT’L HIGHWAY TRAFFIC SAFETY ADMIN. (2016) 
+(emphasis removed), https://www.nhtsa.gov/staticfiles/nti/pdf/809844-
+TheABCsOfBAC.pdf [ https://perma.cc/B6W2- A3PG] (explaining that “[t]he more 
+you drink, the higher your BAC” and “the greater the effect [of alcohol]” and 
+conveying that “[d]rivers with a BAC of .08 are approximately 4 times more likely to crash than drivers with a BAC of zero” while those with a BAC of 
+.15 are “at least 12 times more likely to crash than drivers with a BAC of 
+zero”).  As the Dissent points out, see dissent at 2, n.1, various sources 
+cited in this opinion’s footnotes, including those published by reputable 
+media and international organizations as well as U.S. government agencies, were not before the trial court.  This fact does not preclude us from relying 
+on them to show that BAC and the association between alcohol and aggression 
+are well-known.  See State v. Won, 137 Hawaiʻ i
+ 330, 366, 372 P.3d 1065, 1101 
+(2015) (Nakayama, J., dissenting) (citing various publications from the 
+National Highway Traffic Safety Administration and California Department of 
+Motor Vehicles to explain the link between “extreme OVUII,” “ recidivism,” and 
+“drunk-driving fatalities”).   
+15  Alcohol Alert, NAT’L INST. ON ALCOHOL ABUSE AND ALCOHOLISM (updated Oct. 2000), 
+https://pubs.niaaa.nih.gov/publications/aa38.htm [ https://perma.cc/JE6B-
+NQ2B].   *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+15 use and domestic violence and sexual violence is likewise well-
+known.  Increased alcohol consumption may not cause 
+violent or
+aggressive behavior, but ordinary adults understand the link between the two.
+  1716  
+Courts have long recognized that alcohol’s effects such as 
+violence are within jurors’ common understanding.  See Byrd v. 
+State, 123 So. 867, 869 (Miss. 1929) (acknowledging that “it is 
+a matter of common observation that intoxication excites or 
+emphasizes the ordinary characteristics of the person and makes 
+a quarrelsome or dangerous man more so”); see also State v. 
+Ferrer, 95 Hawai‘ i 409, 427, n.17, 23 P.3d 744, 762, n.17 (App. 
+2001) (citations omitted) (recognizing that “certain reactions 
+to alcohol are so common that [courts] take judicial notice of 
+16See Preventing violence by reducing the availability and harmful use of 
+alcohol, WHO 3 (2009), 
+https://www.who.int/violence_injury_prevention/violence/alcohol.pdf 
+[https://perma.cc/RJ2H- PQ7L] (“Importantly, the role of alcohol in aggression 
+extends across many different forms of violence, including youth violence, sexual violence, intimate partner violence, child maltreatment and elder 
+abuse.”). 
+17See U.S. DEP’T. OF HEALTH AND HUMAN SERVS., Tenth Special Report to the U.S. 
+Congress on Alcohol and Health: Highlights from Current Research 63 (2000) 
+[hereinafter, Special Report to the U.S. Congress] (“ Studies of violent 
+incidents have continued to find that alcohol use often precedes violent events and that the amount of drinking is related to the severity of the 
+subsequent violence.”); see also Raul Caetano, et al., Alcohol- Related 
+Intimate Partner Violence Among White, Black, and Hispanic Couples in the 
+United States, NAT’L INST. ON ALCOHOL ABUSE AND ALCOHOLISM, 
+https://pubs.niaaa.nih.gov/publications/arh25- 1/58-65.htm 
+[https://perma.cc/G9H4- WEUM] (citations omitted) (“A considerable proportion 
+of the violence that occurs in the United States is associated with alcohol.  A review of the literature on alcohol and violent crime concluded . . . 
+homicide victims are more likely than their assailants to have been intoxicated if they provoked the fight.”).   *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 16 them” and these reactions include “[d]isorderly or unusual 
+conduct”); State v. Randles, 334 P.3d 730, 734 (Ariz. Ct. App. 
+2014) (stating that it is “common knowledge that alcohol can 
+cause belligerence and aggressiveness”); Lyons Farms Tavern, 
+Inc. v. Mun. Bd. of Alcoholic Beverage Control, 261 A.2d 345, 
+351–52 (N.J. 1970) (noting that “[i]t is common knowledge that 
+the use of intoxicants frequently unduly excites the tempers, 
+emotions and actions of those who indulge”).    
+The temporal and individual variations of alcohol’s impact 
+are similarly within jurors’ common understanding.  They 
+understand that alcohol affects people in different ways.  See 
+Lynn v. Stinnette, 31 P.2d 764, 767 (Or. 1934) (“It is common 
+knowledge that intoxicating liquor has varying effects on 
+different individuals.  Some it impels to boisterousness and 
+loud talking; others, to quarrelsomeness and sullenness.”); 
+State v. Noble, 250 P. 833, 834 (Or. 1926) (declaring it was a 
+“matter of common knowledge” that drinking alcohol “has some 
+effect upon the person drinking it, and that this effect 
+continues for a longer or shorter period, according to the 
+amount drunk, and the individual drinking it”).   
+ Because BAC and the link between alcohol and aggression are 
+within ordinary adults’ common knowledge, David’s jury was 
+“fully capable of making the connections to the facts of [this] 
+particular case before them and drawing inferences and *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 17 conclusions therefrom.”  State v. Salavea, 147 Hawaiʻi 564, 582, 
+465 P.3d 1011, 1029 (2020). 
+b. Expert testimony about Albert’s BAC and its 
+effects was unnecessary 
+ 
+Under HRE Rule 702,18 a person with “specialized knowledge” 
+may testify if the knowledge “will assist the trier of fact to 
+understand the evidence or to determine a fact in issue.”   
+Specialized knowledge testimony imparts “knowledge not possessed 
+by the average trier of fact who lacks the expert’s skill, 
+experience, training, or education.”  State v. McDonnell, 141 
+Hawai‘i 280, 291, 409 P.3d 684, 695 (2017) (citation omitted). 
+When the issues in the case are within jurors’ common 
+knowledge, however, “expert testimony is unnecessary.”  Brown v. 
+Clark Equip. Co., 62 Haw. 530, 537, 618 P.2d 267, 272 (1980).  
+We conclude that alcohol and its association with violence fall 
+into this category.  Understanding the BAC evidence and 
+alcohol’s impact on Albert is not beyond the firsthand personal 
+experiences and secondhand information accumulated by typical 
+jurors.  The jury knows an individual’s .252 BAC means that the 
+                                                 
+18  HRE Rule 702 (1992) provides:  
+ 
+If scientific, technical, or other specialized knowledge 
+will assist the trier of fact to understand the evidence or 
+to determine a fact in issue, a witness qualified as an 
+expert by knowledge, skill, experience, training, or 
+education may testify thereto in the form of an opinion or otherwise.  In determining the issue of assistance to the 
+trier of fact, the court may consider the trustworthiness and validity of the scientific technique or mode of 
+analysis employed by the proffered expert.
+ *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 18 individual is highly drunk; using the common knowledge about 
+intoxication and its association with aggression, the jury can 
+evaluate the BAC and its behavioral impact.  So it was improper 
+for the circuit court to make the defense hire an “expert” to 
+explain the BAC evidence before the jury could hear that 
+evidence.    
+Courts in other jurisdictions have not required expert 
+testimony in similar situations.  In State v. Randles, an 
+Arizona self-defense case, the trial court admitted a defense 
+expert’s testimony regarding cocaine’s effects.  334 P.3d at 
+733.  Expert testimony on alcohol’s effects, however, was 
+excluded.  Id.  Thus, without expert testimony, the jury 
+considered evidence of the decedent’s .13 BAC.  Id. at 734.  In 
+upholding the ruling, the Randles court reasoned that the jury 
+was able “to fully evaluate [the defendant’s] self-defense claim” based on “the common knowledge that alcohol can cause 
+belligerence and aggressiveness,” in combination with other evidence presented to the jury.  Id.  See also Dixon v. Stewart, 
+658 P.2d 591, 597 (Utah 1982) (observing that “it is generally held that expert testimony is not required in the case of 
+intoxication with alcohol”).  
+Alcohol’s behavioral effects are familiar to the average 
+juror.  But the behavioral effects of drugs may not be.  
+Reflecting this difference, some courts require expert testimony *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 19 on the effects of drugs, but not on the effects of alcohol.  See 
+id. (observing that “some jurisdictions have specially held that 
+a more trained or experienced observer is necessary to testify 
+as to the intoxicating effects of drugs” while expert testimony 
+on alcohol’s impact is generally not required). 
+Even so, Hawaiʻ i courts have allowed evidence about an 
+eyewitness’s drug use and addiction without expert testimony.  
+See State v. Sabog, 108 Hawai‘ i 102, 111, 117 P.3d 834, 843 (App. 
+2005) (holding that expert testimony was not a precondition to 
+cross-examine a witness about drug use and addiction near the 
+time of the incident); see also State v. Calara, 132 Hawai‘ i 391, 
+402, 322 P.3d 931, 942 (2014) (acknowledging that “a defendant 
+is entitled to cross-examine a witness concerning the witness’s 
+drug use and addiction at or near the time of the incident to 
+the extent that it affected the witness’s perception or 
+recollection of the alleged event” (cleaned up)). 
+On subjects that are unfamiliar to the jury, we have 
+acknowledged the trial court’s discretion to admit expert 
+testimony.  See State v. Udo, 145 Hawaiʻ i 519, 525-30, 454 P.3d 
+460, 466-71 (2019) (referencing expert testimony on cause of death in a homicide case); State v. Yamada, 99 Hawai‘ i 542, 546, 
+57 P.3d 467, 471 (2002) (referring to a defense expert’s 
+testimony that the defendant’s mental disorder substantially 
+impaired his “capacity to appreciate the wrongfulness of his *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 20 conduct and to conform his actions to the requirements of the 
+law”).   
+Although alcohol’s general behavioral impact could be an 
+appropriate subject for expert testimony,19 we conclude that 
+specialized knowledge testimony was not required to admit the BAC evidence.  The link between excessive alcohol intake and 
+increased aggression is not a “widely held misconception[]” or 
+“constrain[ed] [by] popular myths.”  McDonnell, 141 Hawai‘ i at 
+291–92, 409 P.3d at 695–96 (citation omitted).  
+This court has shared misgivings about an expert-centric 
+approach to fact-finding.  With experts’ “aura of special 
+reliability and trustworthiness,” there is a danger that jurors will “abdicate their role of critical assessment” or “surrender 
+their own common sense in weighing testimony.”  State v. 
+Batangan, 71 Haw. 552, 556, 799 P.2d 48, 51 (1990) (cleaned up);  
+see also State v. Metcalfe, 129 Hawai‘ i 206, 225-26, 297 P.3d 
+1062, 1081-82 (2013) (mentioning that some judges prefer eliminating the term “expert” from jury proceedings to “ensure 
+that juries are not overwhelmed by the so-called experts, so as 
+to deprive them of their right to determine the facts of a case 
+based upon all of the evidence and to ensure that trial courts 
+                                                 
+19  See, e.g., Rapoza v. Parnell, 83 Hawaiʻ i 78, 86 -87, 924 P.2d 572, 580- 81 
+(App. 1996) (allowing a defense expert in a negligence case to testify about 
+plaintiff’s BAC and alcohol’s impact to establish a possible causal 
+relationship between plaintiff’s intoxication and the accident). *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 21 do not inadvertently put their stamp of authority on expert 
+testimony” (cleaned up)).  These concerns do not undermine the 
+value of expert testimony in assisting the jury with 
+understanding evidence.  But when the topic is familiar to the 
+typical juror, conditioning admissibility on expert testimony 
+devalues the collective wisdom of twelve citizens.  
+Jurors are expected to rely upon their general knowledge of 
+how humans operate in the world.  See Hawai‘ i Pattern Jury 
+Instructions – Criminal, Instr. 3.03 (“You must consider only the evidence that has been presented to you in this case and 
+inferences drawn from the evidence which are justified by reason 
+and common sense.”).  Based on a case’s evidence and their common knowledge, jurors can form their views about whether a 
+person with a high BAC was, for instance, “boisterous[],” Lynn, 
+31 P.2d at 767, “amorous,” Pezzo v. State, 903 So. 2d 960, 961 
+(Fla. Dist. Ct. App. 2005), “belligeren[t],” Randles, 334 P.3d 
+at 734, “happy,” State v. Griffin, 529 P.2d 399, 404 (Or. Ct. 
+App. 1974), or “quarrelsome,” Byrd, 123 So. at 869.   
+Hence, expert testimony on what Albert’s .252 BAC meant was 
+unnecessary.   *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 22 c. The probative value of the BAC evidence was not 
+substantially outweighed by the risks of 
+confusing the jury or unfairly prejudicing the 
+State 
+ 
+We disagree with the trial court’s conclusion that HRE Rule 
+40320 prevented the BAC evidence’s admission without expert 
+testimony to explain its behavioral impact.   
+The BAC evidence was highly probative.  See supra section 
+II.A.1.  One prosecution witness described Albert as drunk.  
+This colloquial and subjective account of Albert’s condition 
+crudely measured his alcohol consumption.  The chemical analysis 
+of Albert’s blood, in contrast, revealed a reasonably accurate 
+measure of his intoxication.  
+It is difficult to see how jurors could be confused and 
+misled by Albert’s .252 BAC without testimony from a defense expert.  The commonly understood .08 benchmark for impaired 
+driving tethered the BAC evidence; it was a suitable anchor to 
+evaluate the extent of Albert’s intoxication.  Cf. State v. Van
+Dyke, 101  377, 381, n. 11, 69 P.3d 88, 92, n. 11 (2003) 
+(pointing out in a homicide case involving self-defense that 
+retrograde extrapolation evidence of the defendant’s .198 BAC Hawai‘i 
+                                                 
+20  HRE Rule 403 (1980) provides: 
+  
+Although relevant, evidence may be excluded if its 
+probative value is substantially outweighed by the danger of unfair prejudice, confusion of the issues, or misleading 
+the jury, or by considerations of undue delay, waste of time, or needless presentation of cumulative evidence.
+ *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 23 “amount[ed] to two-and-one-half times the legal drinking 
+limit”).  As Van Dyke suggests, the .08 legal drinking limit is 
+a useful, recognized benchmark for fact finders to gauge the 
+degree and extent of intoxication.  21
+  The trial court overstated the evidence’s potential to confuse jurors.  The court admitted Albert’s .252 BAC in David’s 
+first trial.  No expert testified about the BAC’s meaning.  It 
+seems the jury ascribed weight and value to the evidence without confusion.  Further, this court has decided homicide cases with 
+self-defense claims where the jury heard BAC evidence without 
+expert testimony about its behavioral effects.  See, e.g., State 
+v. Maluia, 107 Hawai‘ i 20, 23, 108 P.3d 974, 977 (2005) 
+(describing evidence of the decedent’s .195 BAC and the 
+defendant’s .131 BAC).  
+The BAC evidence would not, as the trial court believed, 
+invite juror speculation.  The jury heard about Albert’s 
+behavior on New Year’s Day.  It learned of his intoxicated, 
+aggressive encounter with Officer Williams.  All the case’s 
+evidence could and should be evaluated against the backdrop of the jurors’ common knowledge about BAC and alcohol’s effects.  
+                                                 
+21  See also Special Report to the U.S. Congress at 56 (emphasis added) 
+(reporting that, in one study involving drinking by criminal offenders, “the 
+estimated average blood alcohol concentration (BAC) of offenders who had been 
+drinking was in the range of double or triple the thresholds of impairment of 
+most commonly used in State driving while intoxicated (DWI) laws,” using the 
+DWI laws as an anchor to compare the levels of intoxication).  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 24 The jurors’ consideration of Albert’s BAC in these circumstances 
+can hardly be dismissed as “speculative.”  See Newell v. State, 
+49 So. 3d 66, 72-73 (Miss. 2010) (rejecting the trial court’s ruling that toxicology results invited speculation by the jury 
+because the decedent’s aggressive and violent behavior had been 
+presented before the toxicology-related testimony).  
+The trial court believed that an explanation about “how 
+[BAC] affect[ed] the particular decedent in this case” was necessary “because alcohol has different effects on different 
+people.”  We disagree.   
+First, whether expert testimony is admissible does not 
+depend on its ability to provide case-specific, individualized 
+opinions.  See 
+McDonnell, 141 Hawai‘ i at 293, 409 P.3d at 697 
+(concluding that the trial court properly admitted expert 
+testimony when the expert “indicated that he was not familiar 
+with any of the facts of the case” and did not even mention the 
+child victim); see also State v. Plew, 745 P.2d 102, 107 (Ariz. 
+1987) (holding that “the expert may and often should properly refrain from specifically stating that this particular person must have acted in this precise manner at this exact point”).   
+Second, the absence of expert testimony about alcohol’s 
+“particular” effects did not stop the trial court from allowing 
+general evidence of Albert and David’s drinking.  If the 
+ordinary juror lacked understanding about alcohol consumption *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 25 and its resulting behavioral effects, the court would presumably 
+have foreclosed the testimony.  But it did not.  Further, under 
+the court’s rationale for excluding the BAC evidence, a routine 
+feature of assault trials – testimony about how much, what, 
+when, and where a person drank alcohol – would seemingly be 
+inadmissible without expert testimony to explain the evidence.   
+Additionally, we are not persuaded by the trial court’s 
+reasoning that an individual’s level of intoxication is more 
+accurately portrayed by testimony regarding the individual’s 
+demeanor.  Although a witness may generally opine on another’s 
+sobriety, we have recognized flaws with opinion testimony based 
+on observation.  See State v. Toyomura, 80 Hawai‘ i 8, 25, 904 
+P.2d 893, 910 (1995) (citation omitted)(observing that field 
+sobriety tests “avoid the shortcomings of casual 
+observations”).22   
+We have not expressed the same concern with reliable BAC 
+evidence.23  BAC levels are a useful gauge of alcohol consumption 
+and its likely effects.  See supra section II.A.2.a.  If a lay 
+witness can express an opinion regarding the sobriety of another, there is no logic to limiting the admissibility of 
+                                                 
+22  In State v. Jones, 148 Hawai‘ i 152, 176, 468 P.3d 166, 190 (2020), we 
+held that police officers cannot give a lay or expert opinion that a driver 
+appeared “intoxicated” in drunk driving prosecutions.    
+23  At trial and on appeal, the State did not challenge the reliability of 
+the toxicology test performed on Albert.  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 26 reliable, objective evidence showing a person’s intoxication 
+level.   
+In rejecting David’s evidence, the trial court and the ICA 
+both concluded that it was cumulative.  The trial court ruled: 
+“how drunk the decedent might have been is available to both 
+parties by way of lay testimony and the percipient witnesses 
+that observed the decedent on the date of the offense.”  The ICA 
+reasoned that there was “extensive evidence that Albert had been drinking” and mentioned that there was other testimony about his 
+violent conduct while intoxicated. 
+  
+Evidence is not cumulative unless it is “substantially the 
+same as other evidence that has already been received.”  State 
+v. Pulse, 83 Hawai‘ i 229, 247, 925 P.2d 797, 815 (1996).  Unlike 
+situations where witnesses testify to the same thing or images 
+show the same thing, BAC evidence captures more than what 
+general testimony about drinking conveys.  Here, it proved that 
+Albert was excessively intoxicated.  No other evidence did.24   
+Additionally, David was entitled to present his own 
+evidence about the extent and degree of Albert’s intoxication.  
+See State v. Lowther, 7 Haw. App. 20, 26, 740 P.2d 1017, 1021 
+(1987) (citation omitted) (acknowledging that criminal 
+                                                 
+24  The dissent points to the “ample other evidence of Albert’s 
+intoxication.”  See dissent at 6.  The evidence showed, as we acknowledge, 
+that Albert drank or he was drunk; yet it did not reveal how drunk he was.  
+One witness’s testimony on cross- examination that Albert was drunker than 
+David did not indicate the extent of his intoxication.  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 27 defendants have “the right to present their own evidence”).  
+Much of the evidence relating to Albert’s drinking came from the 
+State’s witnesses – family members who were unsympathetic to 
+David’s plight.  Their general testimony did not fully frame the 
+volatile situation David described finding himself in.  David 
+wanted to present a defense in which the jury could consider 
+evidence that Albert’s degree of intoxication exceeded three 
+times the legal limit to drive – not merely that he had been 
+drinking an unknown amount of alcohol.   
+Finally, even if there was some uncertainty about what a 
+.252 BAC could prove, any doubt should have been resolved in 
+David’s favor.  See State v. Kato, 147 Hawai‘ i 478, 494, 465 P.3d 
+925, 941 (2020) (advising that “a trial court should resolve a 
+close question of admissibility in favor of the defendant”).   
+We conclude that the trial court misapplied HRE Rule 403 
+when it excluded the BAC evidence unless the defense hired an 
+expert.  It did not confuse or mislead the jury; it wasn’t 
+prejudicial25 or cumulative.  The jury was fully capable of 
+                                                 
+25  Other than holding that the BAC evidence introduced without expert 
+testimony would be “speculative,” neither the trial court nor the ICA 
+identified any unfair prejudice to the State which would emerge from David’s 
+evidence.  “Unfair prejudice means an undue tendency to suggest a decision on an improper basis, commonly, though not necessarily, an emotional one.”  
+State v. St. Clair, 101 Hawaiʻ i
+ 280, 289, 67 P.3d 779, 788 (2003) (cleaned 
+up).  We do not believe the jury would decide the case emotionally or on any 
+improper basis if it considered Albert’s .252 BAC.   *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 28 weighing and valuing the BAC evidence alongside all the case’s 
+evidence.26   
+B. Excluding Albert’s BAC level violated David’s 
+constitutional right to present a complete defense 
+ 
+David argues that excluding Albert’s .252 BAC violated his 
+due process right to present a complete defense.  The ICA held 
+that the trial court’s ruling was “not substantially 
+detrimental” to David’s defense.  We disagree.   
+ A defendant’s right to present a complete defense is vital 
+to due process.  State v. Williams, 147 Hawaiʻ i 606, 614, 465 
+P.3d 1053, 1061 (2020).  An accused has the “constitutional right to present any and all competent evidence” to support a 
+defense.  State v. Abion, 148 Hawai‘ i 445, 448, 478 P.3d 270, 273 
+(2020) (emphases added) (citation omitted).  We have further 
+explained:  
+Where the accused asserts a defense sanctioned by law to 
+justify or to excuse the criminal conduct charged, and 
+there is some credible evidence to support it, the issue is 
+one of fact that must be submitted to the jury, and it is 
+reversible error for the court to reject evidence which, if 
+admitted, would present an essential factual issue for the 
+trier of fact. 
+ 
+Id. (emphases added) (cleaned up).  
+David said he acted in self-defense.  See HRS § 703-304(2) 
+(1993 & Supp. 2001) (“The use of deadly force is 
+                                                 
+26  We hold that expert testimony is not a precondition to admit BAC 
+evidence for the purposes underlying David’s defense.  We do not foreclose 
+expert testimony regarding BAC. *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 29 justifiable . . . if the actor believes that deadly force is 
+necessary to protect [the person] against death, [or] serious 
+bodily injury . . . .”).  David’s jury was instructed on his 
+defense.   
+Presenting a rational explanation for his conduct 
+underpinned David’s defense.  He boosted his theory of the case 
+by calling Officer Williams and testifying himself about 
+Albert’s aggressive behavior while intoxicated.  Evidence of 
+Albert’s .252 BAC could have affected the jury’s understanding 
+of Albert’s motive or intention.  It could have similarly 
+influenced the jury’s understanding of David’s state of mind and 
+his belief that danger was imminent.  It also corroborated his 
+testimony concerning Albert’s aggressive behavior.  The evidence 
+would have helped explain David’s perception that Albert was 
+volatile due to being excessively intoxicated.  
+David’s defense hinged on his credibility – the 
+believability of his testimony about Albert’s violent, 
+irrational behavior and how it influenced David’s conduct.  See 
+State v. Lealao, 126 Hawai‘ i 460, 470, 272 P.3d 1227, 1237 (2012) 
+(recognizing that in a self-defense case, the defendant’s 
+credibility is “at the crux” of the case because the jury must 
+decide “whether the defendant did in fact subjectively believe 
+the use of force was necessary”).  The BAC evidence was 
+instrumental to bolstering David’s credibility.  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 30 Because David’s defense depended on his account of Albert’s 
+behavior before the fatal altercation and, by extension, on his 
+credibility, we hold that there is a reasonable possibility that 
+excluding the BAC evidence affected the trial’s outcome.  See 
+State v. DeLeon, 131 Hawai‘i 463, 486, 319 P.3d 382, 405 (2014) 
+(holding that because the defendant’s self-defense argument 
+relied largely on the decedent’s behavior immediately before the 
+shooting, the exclusion of expert testimony that “the presence 
+of cocaine could [have] render[ed] [the decedent’s] level of 
+intoxication perhaps a stage higher” presented a reasonable 
+possibility that it could have affected the trial’s outcome, and 
+therefore it “compromised [the defendant’s] ability to present a 
+complete defense”)27; see also Harris v. Cotton, 365 F.3d 552, 
+556-57 (7th Cir. 2004) (recognizing the state court’s finding 
+that “[h]ad the jurors known of [the decedent’s] blood alcohol 
+level and his use of cocaine, they [might] have credited [the 
+defendant’s] claim of [the decedent’s] hostile and erratic 
+behavior” and holding that there was “a reasonable probability 
+that the outcome of the proceedings would have been different if 
+the toxicology results were presented”); Cromartie v. State, 1 
+                                                 
+27  Although the trial court allowed a defense expert to testify about the 
+decedent’s BAC and the effects of alcohol in DeLeon, 131 Hawai‘ i at 474, 319 
+P.3d at 393, the case addressed a different issue: the exclusion of expert 
+opinion regarding cocaine use.  Id. at 481-86, 319 P.3d at 400- 05.  The issue 
+we resolve here - whether the defense must present expert testimony regarding 
+BAC evidence - was not examined.       *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+31 So. 3d 340, 341, n.2, 343 (Fla. Dist. Ct. App. 2009) (holding 
+that exclusion of the decedent’s .19 BAC violated the 
+defendant’s due process rights by preventing him from presenting 
+evidence which “could have been critical in bolstering his 
+theory of defense”).   Given Albert’s erratic and belligerent 
+conduct toward David before the fatal incident, the degree of his intoxication mattered.  Albert’s BAC was the only evidence 
+that provided a reliable measurement of his inebriation.  It was critical to bolstering David’s credibility. 28
+The circuit court’s error in excluding the BAC evidence 
+affected David’s right to a fair trial.  See Pulse, 83 Hawai‘ i at 
+247-48, 925 P.2d at 815-16 (observing that excluding competent
+evidence that violated an accused’s constitutional right was
+considered presumptively prejudicial and holding that the trial
+court’s error in disallowing a defense witness’s testimony at a
+suppression hearing was not harmless); Arias v. State, 20 So. 3d
+980, 983-84 (Fla. Dist. Ct. App. 2009) (citation omitted)
+(holding that excluding the toxicology evidence showing the
+decedent’s .21 BAC was reversible error because “a homicide
+28The ICA distinguished Cromartie from the present case on the basis that 
+in Cromartie there was no other evidence regarding the decedent’s drinking or 
+any testimony concerning the decedent’s violent behavior.  Although the 
+underlying facts may differ, Cromartie supports the overarching principle 
+that any evidence bolstering a defendant’s self- defense theory should be 
+admitted unless there are valid countervailing reasons.  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 32 /s/ Paula A. Nakayama 
+/s/ Sabrina S. McKenna 
+/s/ Michael D. Wilson 
+/s/ Todd W. Eddins
+ defendant is afforded wide latitude in the introduction of 
+evidence supporting his self-defense theory”).   
+The right to due process entitled David to present any and 
+all competent evidence tending to show that he acted in self-
+defense.  Abion, 148 Hawai‘ i at 448, 478 P.3d at 273.  Because 
+the trial court rejected admissible evidence that was probative 
+to consequential factual issues connected to David’s defense, we 
+hold that it violated David’s right to present a complete 
+defense.  
+III. CONCLUSION 
+We vacate the ICA’s Judgment on Appeal and the circuit 
+court’s Judgment of Conviction and Sentence regarding David’s 
+conviction for assault in the first degree.  The case is 
+remanded to the trial court for proceedings consistent with this 
+opinion. 
+Taryn R. Tomasa,
+for petitioner  
+ Brian R. Vincent,
+for respondent  
+ 

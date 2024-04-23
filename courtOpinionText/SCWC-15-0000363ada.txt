@@ -1,0 +1,844 @@
+*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+IN THE SUPREME COURT OF THE STATE OF HAWAI #I
+---o0o---
+                                                                 
+ROBERT FLUBACHER,
+Petitioner/Petitioner-Appellant,
+vs.
+STATE OF HAWAI #I,
+Respondent/Respondent-Appellee.
+                                                                 
+SCWC-15-0000363
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS
+(CAAP-15-0000363; S.P.P. NO. 14-1-00004)
+MARCH 21, 2018
+RECKTENWALD, C.J., McKENNA, POLLACK, AND WILSON, JJ., 
+WITH NAKAYAMA, J., DISSENTING SEPARATELY
+OPINION OF THE COURT BY RECKTENWALD, C.J.
+Robert Flubacher pled guilty to various offenses in
+multiple cases, and was sentenced to extended term sentences,
+which became final in 2003.  In 2014, Flubacher filed a petitionElectronically Filed
+Supreme Court
+SCWC-15-0000363
+21-MAR-2018
+08:10 AM*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+for post-conviction relief pursuant to Hawai #i Rules of Penal
+Procedure (HRPP) Rule 40, arguing that his sentence was illegal
+because a judge, not a jury, found a relevant fact used to
+enhance his sentence in violation of Apprendi v. New Jersey, 530
+U.S. 466 (2000).  The Circuit Court of the First Circuit (circuit
+court)1 denied the petition, and the Intermediate Court of
+Appeals (ICA) affirmed.  On certiorari, Flubacher argues that his
+extended term sentences were imposed in an illegal manner, and
+requests that this court vacate and remand for resentencing. 
+This appeal requires us to revisit our prior decisions
+which addressed whether Hawaii’s extended term sentencing scheme
+was invalid under Apprendi and subsequent Supreme Court cases
+including Blakely v. Washington , 542 U.S. 296 (2004), United
+States v. Booker, 543 U.S. 220 (2005), and Cunningham v.
+California, 549 U.S. 270 (2007).  This court initially held that
+certain features of Hawaii’s scheme (specifically, that the facts
+determined by the judge were “extrinsic” to the charged offense)
+meant that Hawaii’s statute was not invalidated by the rule
+announced in Apprendi .  State v. Kaua , 102 Hawai# i 1, 72 P.3d 473
+(2003).
+Our initial application of Apprendi in Kaua was
+rejected by both the United States District Court for the
+The Honorable Richard K. Perkins presided.1
+2*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+District of Hawai# i and the Court of Appeals for the Ninth
+Circuit.  See Kaua v. Frank , 436 F.3d 1057, 1062 (9th Cir. 2006);
+Kaua v. Frank,  350 F. Supp. 2d 848, 849–50, 855-56 (D. Haw.
+2004).  Then, commencing after the decision in Blakely , our own
+decisions reflected disagreement as to whether our sentencing
+scheme was unconstitutional.  See, e.g., State v. Rivera , 106
+Hawai#i 146, 102 P.3d 1044 (2004); State v. Gomes , 107 Hawai #i
+308, 113 P.3d 184 (2005); State v. Maugaotega , 107 Hawai #i 399,
+114 P.3d 905 (2005) ( Maugaotega I).  Nevertheless, it was not
+until after the decision in Cunningham that a majority of the
+court determined that our scheme was invalid.  State v.
+Maugaotega, 115 Hawai# i 432, 168 P.3d 562 (2007) (Maugaotega II ).
+It is against this backdrop that we consider
+Flubacher’s appeal, and conclude that our sentencing scheme was
+invalid based on the holding in Apprendi .  As set forth below,
+Apprendi plainly stated that a sentencing scheme was invalid when
+it allowed a judge, rather than a jury, to determine facts that
+resulted in extended sentences.  In concluding that Apprendi
+invalidated our sentencing scheme, we note that the State has now
+conceded that the scheme was unlawful based on Apprendi , and that
+accordingly, Flubacher is entitled to relief.  While that
+concession is not binding on us, we conclude, for the reasons set
+forth below, that it is well founded.    
+3*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+Thus, we conclude that Flubacher’s extended term
+sentences were imposed in an illegal manner.  Accordingly, we
+vacate the ICA’s Judgment on Appeal, and remand this case to
+circuit court for further proceedings consistent with this
+opinion.
+I.  Background
+Flubacher was charged with: Unauthorized Control of
+Propelled Vehicle (Count I), Driving Without License (Count II),
+and Theft in the Fourth Degree (Count III) in Cr. No. 01-1-2788;
+Robbery in the First Degree (Count I), Assault in the First
+Degree (Count II), Assault in the First Degree (Count III),
+Assault in the Second Degree (Count IV), and Unauthorized Control
+of Propelled Vehicle (Count V) in Cr. No. 01-1-2789; and Robbery
+in the First Degree in Cr. Nos. 02-1-0089, 02-1-0090, and
+02-1-0125.  Flubacher pled guilty to all counts in each case. 
+The State filed a motion for extended term of
+imprisonment pursuant to Hawai #i Revised Statutes (HRS) §§ 706-
+6612 and 706-662(4)(a),3 as follows:  (1) in Cr. No. 01-1-2788,
+2HRS § 706-661 (Sentence of imprisonment for felony; extended
+terms) (Supp. 1999) provided, in pertinent part:
+In the cases designated in section 706-662, a person
+who has been convicted of a felony may be sentenced to
+an extended indeterminate term of imprisonment.  When
+ordering such a sentence, the court shall impose the
+maximum length of imprisonment which shall be as
+follows:
+(continued...)
+4*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+from a five year term of imprisonment to ten years for Count I;
+(2) in Cr. No. 01-1-2789, from a twenty year term of imprisonment
+to life with the possibility of parole for Count I, from ten year
+terms of imprisonment to twenty years for Counts II and III, and
+from five year terms of imprisonment to ten years for Counts IV
+and V; and (3) in Cr. Nos. 02-1-0089, 02-1-0090, and 02-1-0125,
+from twenty year terms of imprisonment to life with the
+possibility of parole. 
+The circuit court4 granted the State’s motion, and
+(...continued)2
+(1) For murder in the second degree--life without the
+possibility of parole;
+(2) For a class A felony--indeterminate life term of
+imprisonment;
+(3) For a class B felony--indeterminate twenty-year
+term of imprisonment; and
+(4) For a class C felony--indeterminate ten-year term
+of imprisonment.
+3HRS § 706-662(4)(a) (Criteria for extended terms of imprisonment)
+(Supp. 2001) provided:
+A convicted defendant may be subject to an extended
+term of imprisonment under section 706-661 if the
+convicted defendant satisfies one or more of the
+following criteria:
+(4) The defendant is a multiple offender whose
+criminal actions were so extensive that a
+sentence of imprisonment for an extended term is
+necessary for protection of the public.  The
+court shall not make this finding unless:
+(a) The defendant is being sentenced for
+two or more felonies or is already under
+sentence of imprisonment for felony[.] 
+4The Honorable Michael A. Town presided.
+5*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+sentenced Flubacher to pay restitution, and to serve the
+following terms of imprisonment concurrently, with credit for
+time served:  (1) in Cr. No. 01-1-2788, as to Count I, ten years’
+incarceration with a mandatory minimum of one year and eight
+months; as to Counts II and III, thirty days’ incarceration; (2)
+in Cr. No. 01-1-2789, as to Count I, life incarceration with the
+possibility of parole, with a mandatory minimum of six years and
+eight months; as to Counts IV and V, ten years’ incarceration
+with a mandatory minimum of one year and eight months; as to
+Counts II and III, twenty years’ incarceration with a mandatory
+minimum of three years and four months; (3) in Cr. Nos.
+02-1-0089, 02-1-0090, and 02-1-0125, life incarceration with the
+possibility of parole with a mandatory minimum of six years and
+eight months. 
+Flubacher did not appeal any of his convictions or
+sentences, and they became final on October 13, 2003.  
+In 2005, Flubacher filed an HRPP Rule 405 petition for
+5HRPP Rule 40(a) (Proceedings and Grounds) (2003) provides in
+relevant part:
+The post-conviction proceeding established by this
+rule shall encompass all common law and statutory
+procedures for the same purpose, including habeas
+corpus and coram nobis; provided that the foregoing
+shall not be construed to limit the availability of
+remedies in the trial court or on direct appeal. Said
+proceeding shall be applicable to judgments of
+conviction and to custody based on judgments of
+conviction, as follows:
+(continued...)
+6*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+post-conviction relief, alleging ineffective assistance of
+counsel, and arguing that his sentence was illegal because the
+court cited criteria not in the extended term statute, which the
+circuit court denied.  
+In 2014, Flubacher filed another petition for post-
+conviction relief (Petition), alleging that his sentence was
+illegal under Apprendi because the judge, not a jury, found that
+his extended term sentences were necessary for the protection of
+the public.  The State countered that Flubacher’s arguments were
+waived because he did not raise them on direct appeal, and that
+Apprendi and Cunningham may not be retroactively applied.  
+Flubacher amended his Petition, alleging three
+additional grounds for relief, including that the sentencing
+judge:  (1) considered “false facts,” i.e., that Flubacher had
+hit one of his victims in the face with a hammer; (2)
+demonstrated bias against Flubacher because of Flubacher’s prior
+(...continued)5
+(1) From Judgment. At any time but not prior to final
+judgment, any person may seek relief under the
+procedure set forth in this rule from the judgment of
+conviction, on the following grounds:
+(i) that the judgment was obtained or sentence
+imposed in violation of the constitution of the United
+States or of the State of Hawai #i;
+(ii) that the court which rendered the judgment
+was without jurisdiction over the person or the
+subject matter;
+(iii) that the sentence is illegal;
+(iv) that there is newly discovered evidence; or
+(v) any ground which is a basis for collateral
+attack on the judgment.
+7*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+history with the court; and (3) took judicial notice of his
+presentence report and other documents in determining his
+sentence.  
+The circuit court denied Flubacher’s Petition, stating
+in pertinent part in its Conclusions of Law: 
+1. HRPP Rule 40(a)(3) provides as follows:
+Inapplicability.  Rule 40
+proceedings shall not be available
+and relief thereunder shall not be
+granted where the issues sought to
+be raised have been previously ruled
+upon or were waived.  Except for a
+claim of illegal sentence, an issue
+is waived if the petitioner
+knowingly and understandingly failed
+to raise it and it could have been
+raised before the trial, at the
+trial, on appeal, in a habeas corpus
+proceeding or any other proceeding
+actually conducted, or in a prior
+proceeding actually initiated under
+this rule, and the petitioner is
+unable to prove the existence of
+extraordinary circumstances to
+justify the petitioner’s failure to
+raise the issue.  There is a
+rebuttable presumption that a
+failure to appeal a ruling or to
+raise an issue is a knowing and
+understanding failure.  
+2. Flubacher’s claim that his sentence was in
+violation of Apprendi v. New Jersey , 530
+U.S. 466 . . . (2000), is a claim of
+illegal sentence which, although arguably
+raised in his prior Rule 40 petition, was
+not ruled upon.
+3. With respect to the illegal sentence
+claim, the [ICA] has determined that a
+defendant sentenced to an extended term
+that became final after Apprendi but prior
+to the United States Supreme Court rulings
+in Blakely v. Washington , 542 U.S. 296 . .
+. (2004), and United States v. Booker, 543
+U.S. 220 . . . (2005), is not entitled to
+relief on collateral attack.  Loher v.
+8*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+State, 1[1]8 Haw[ai #i] 522, 538
+(Haw.[]App. 2008), cert. dismissed (August
+5, 2009).
+4. Flubacher’s sentence became final on
+October 13, 2003 -- that is, after
+Apprendi and prior to both Blakely and
+Booker.  T
+herefore, pursuant to Loher,
+Flubacher’s sen
+tence was not illegal under
+Apprendi and he is not entitled to
+retroactive application of the
+post-Apprendi line of cases.6
+5. Flubacher’s remaining claims were waived
+as he could have but did not raise them on
+direct appeal or in S.P.P. No. 05-1-0081
+and has failed to demonstrate the
+existence of extraordinary circumstances
+to justify his failure to raise them as
+required by HRPP Rule 40(a)(3).
+6. Assuming arguendo that the claims relating
+to the factors considered by the
+sentencing court in determining
+Flubacher’s sentence were not waived, they
+are wholly without merit, patently
+frivolous, and without a trace of support
+in the record.
+Flubacher appealed to the ICA, reiterating the claims
+in his Petition.  Flubacher additionally argued that Loher was
+not the controlling authority in his case because he was not
+requesting retroactive application of Blakely  or Booker, and that
+6With respect to this Conclusion of Law, the circuit court stated
+in a footnote:
+Loher is the controlling precedent for Hawai #i trial
+courts determining issues like the instant one.  While
+it appears that the Ninth Circuit’s decision in Kaua
+v. Frank, 436 F.3d 1057, 1061-62 (9th Cir. 2006),
+cert. denied, Frank v. Kaua, 549 U.S. 1245 . . .
+(2007), regardi
+ng a defendant whose sentence was final
+on or about June 1, 2001, holds that the sentencing
+court’s public protection finding was a violation of
+Apprendi, the rulings of the federal district and
+circuit courts are not controlling authority, but
+merely persuasive authority, even on a federal
+constitutional question.
+9*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+he was only requesting application of Apprendi , Cunningham, and
+Ring v. Arizona , 536 U.S. 584 (2002). 
+The State responded that Flubacher’s sentences were not
+illegal under Apprendi  and the post-Apprendi  line of cases
+because the “legal landscape” only became clear after Apprendi ,
+Blakely, and Booker, “taken together,” established that a
+“sentencing scheme in which the maximum possible sentence is set
+based on facts found by a judge is not consistent with the Sixth
+Amendment.”  The State additionally contended that Flubacher’s
+remaining claims were waived, and that he had failed to
+demonstrate the existence of extraordinary circumstances to
+justify his failure to raise them. 
+In a summary disposition order, the ICA determined that
+Flubacher’s case was similar to Loher, where the defendant’s
+conviction was also finalized in 2003, and thus, Blakely and
+Booker did not apply retroactively on collateral review, and it
+did not need to decide whether Cunningham applied.  With respect
+to Flubacher’s contention that the circuit court erroneously
+considered that he hit one of his victims with a hammer, the ICA
+determined that the argument was waived, and that even if the
+argument was not waived, there was evidence in the record that
+supported the circuit court’s conclusion.  
+Accordingly, the ICA affirmed the circuit court’s
+10*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+Findings of Fact, Conclusions of Law, and Order Denying
+Flubacher’s Petition.  The ICA filed its Judgment on Appeal on
+October 13, 2016.  
+II.  Standard of Review
+With respect to the denial of a HRPP Rule 40 petition
+without an evidentiary hearing, HRPP Rule 40(f) provides, in
+relevant part:
+(f) Hearings.  If a petition alleges facts that if
+proven would entitle the petitioner to relief, the
+court shall grant a hearing which may extend only to
+the issues raised in the petition or answer.  However,
+the court may deny a hearing if the petitioner’s claim
+is patently frivolous and is without trace of support
+either in the record or from other evidence submitted
+by the petitioner.  The court may also deny a hearing
+on a specific question of fact when a full and fair
+evidentiary hearing upon that question was held during
+the course of the proceedings which led to the
+judgment or custody which is the subject of the
+petition or at any later proceeding.
+As a general rule, a trial court should hold an
+evidentiary hearing on a HRPP Rule 40 petition for
+post-conviction relief if the petition states a colorable claim
+for relief.  Dan v. State, 76 Hawai #i 423, 427, 879 P.2d 528, 532
+(1994).  To establish a colorable claim, a petitioner must allege
+facts that, if taken as true, would change the verdict.  Id.  
+This court has stated that:
+Where examination of the record of the trial court
+proceedings indicates that the petitioner's
+allegations show no colorable claim, it is not error
+to deny the petition without a hearing.  The question
+on appeal of a denial of a Rule 40 petition without a
+hearing is whether the trial record indicates that
+Petitioner’s application for relief made such a
+11*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+showing of a colorable claim as to require a hearing
+before the lower court .
+Barnett v. State, 91 Hawai #i 20, 26, 979 P.2d 1046, 1052 (1999)
+(emphasis omitted, quoting State v. Allen , 7 Haw. App. 89, 92-93,
+744 P.2d 789, 792-93 (1987)).
+“[T]he appellate court’s determination of ‘whether the
+trial record indicates that Petitioner’s application for relief
+made such a showing of a colorable claim as to require a hearing
+before the lower court’ is a question of law, [and thus] the
+trial court’s decision is reviewed de novo.”  Id. (brackets and
+ellipsis omitted; emphasis in original) (citing Dan , 76 Hawai #i
+at 427, 879 P.2d at 532).
+III.  Discussion
+In his application for writ of certiorari, Flubacher
+presents the following issues:  
+A. Appellant[’]s extended sentences are illegal
+because they violate the United States Supreme
+Court cases “Apprendi v. New Jersey” and “Ring
+v. Arizona” and the Hawai #i ICA’s “Loher v.
+State” case decision is not controlling in
+Appellant[’s] case and does not foreclose
+Appellant[’]s claim[.]
+B. Appellant[’]s claim that the sentencing judge
+erroneously found that Appellant ‘Bashed’ a
+woman with a hammer and then relied on that
+erroneous finding in extending Appellant[’]s
+sentences was not waived under Haw. R. Penal P.
+40(2)(3)-1[.]
+In supplemental briefing requested by this court, the
+State changed its prior position regarding the first issue, and
+conceded that Flubacher’s sentence was illegal.  Specifically,
+12*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+the State now concedes that “any extended term sentence imposed
+after June 26, 2000, in which the court, not a jury, found the
+fact of ‘necessary for protection of the public’ is in violation
+of Apprendi.” 
+As set forth below, the State’s concession is well-
+founded, and accordingly, we remand for resentencing.7  See State
+v. Hoang, 93 Hawai# i 333, 336, 3 P.3d 499, 502 (2000).  
+At issue in Apprendi was a New Jersey “hate crime”
+statute, which provided for the imposition of an enhanced
+sentence based upon a finding, by the sentencing judge by a
+preponderance of the evidence, that the defendant had committed
+an offense “with a racially biased purpose.”  530 U.S. at 468-70. 
+Apprendi fired several shots into the home of an African-American
+family who had recently moved into a previously all-white
+neighborhood.  Id. at 469.  Apprendi subsequently entered into a
+plea agreement, under which he pleaded guilty to two counts of
+the second-degree offense of possessing a firearm with an
+unlawful purpose and one count of the third-degree offense of
+unlawfully possessing an antipersonnel bomb, but reserved the
+7The dissent contends that Flubacher’s second issue is waived.  See
+Dissent at 15-17.  Because we conclude that Flubacher’s sentence is illegal
+and remand for resentencing, we do not address Flubacher’s remaining issue
+raised on appeal and whether that remaining issue was waived.  Further, any
+analysis of waiver must be made in light of HRPP Rule 40(a)(3), which
+specifically exempts illegal sentence claims from being waived.  See also HRPP
+Rule 35 (“The court may correct an illegal sentence at any time . . .”).
+13*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+right to challenge any hate crime sentencing enhancement as
+violating the Constitution.  Id. at 469-70.  After the plea was
+accepted by the court, the prosecutor filed a motion for an
+extended term sentence.  Id. at 470.  The court conducted an
+evidentiary hearing on Apprendi’s purpose for the shooting, and
+held that the hate crime enhancement applied, finding by a
+preponderance of the evidence that “the crime was motivated by
+racial bias,” and Apprendi’s actions were taken “with a purpose
+to intimidate” as provided by the hate crime statute.  Id. at
+470-71.  Apprendi appealed, and a divided New Jersey Supreme
+Court ultimately upheld his sentence, rejecting his challenge to
+the constitutionality of the enhanced sentencing procedure.  Id.
+at 471-72.
+The United States Supreme Court granted certiorari, and
+reversed.  Id. at 474.  The Court stated that the constitutional
+protections at stake were of “surpassing importance,” including:
+the proscription of any deprivation of liberty without
+“due process of law,” Amdt. 14, and the guarantee that
+“[i]n all criminal prosecutions, the accused shall
+enjoy the right to a speedy and public trial, by an
+impartial jury,” Amdt. 6.  Taken together, these
+rights indisputably entitle a criminal defendant to “a
+jury determination that [he] is guilty of every
+element of the crime with which he is charged, beyond
+a reasonable doubt.”
+Id. at 476–77 (emphasis added).
+The Court discussed its past jurisprudence, noting that
+in McMillan v. Pennsylvania, 477 U.S. 79 (1986), it first coined
+14*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+the term “sentencing factor” to “refer to a fact that was not
+found by a jury but that could affect the sentence imposed by the
+judge.”  Id. at 485.  The Court in McMillan  held that a
+Pennsylvania sentencing scheme was valid because it operated
+“solely to limit the sentencing court’s discretion in selecting a
+penalty within the range already available to it without [a]
+special finding,” while also noting that “a state scheme that
+keeps from the jury facts that expose defendants to greater or
+additional punishment, may raise serious constitutional concern.” 
+Id. at 486 (internal quotations, citations, and brackets
+omitted). 
+The Apprendi Court stated that the relevant inquiry
+should not be one of form, but instead of effect:  “does the
+required finding expose the defendant to a greater punishment
+than that authorized by the jury’s guilty verdict?”  Id.  at 494. 
+Thus, the Court rejected the “constitutionally novel and elusive
+distinction between ‘elements’ and ‘sentencing factors’”8  Id.
+8The Court noted that it did not suggest that the term “sentencing
+factor” was devoid of meaning, stating:
+The term appropriately describes a circumstance, which
+may be either aggravating or mitigating in character,
+that supports a specific sentence within the range
+authorized by the jury’s finding that the defendant is
+guilty of a particular offense.  On the other hand,
+when the term “sentence enhancement” is used to
+describe an increase beyond the maximum authorized
+statutory sentence, it is the functional equivalent of
+an element of a greater offense than the one covered
+(continued...)
+15*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+(citation omitted).  The Court reasoned that the effect of New
+Jersey’s sentencing enhancement “unquestionably . . . turn[ed] a
+second-degree offense into a first degree offense,” and that the
+potential doubling of Apprendi’s sentence from ten years to
+twenty years was “unquestionably of constitutional significance”
+both in terms of years of absolute imprisonment and because of
+the “more severe stigma attached.”  Id. at 494-95.  Therefore,
+the Court held that “[o]ther than the fact of a prior conviction,
+any fact that increases the penalty for a crime beyond the
+prescribed statutory maximum must be submitted to a jury, and
+proved beyond a reasonable doubt.”  Id. at 490.  In so holding,
+the Court also endorsed the following rule:  “[I]t is
+unconstitutional for a legislature to remove from the jury the
+assessment of facts that increase the prescribed range of
+penalties to which a criminal defendant is exposed.  It is
+equally clear that such facts must be established by proof beyond
+a reasonable doubt.”  Id. (citations omitted).
+Following Apprendi, this court repeatedly considered
+whether Hawaii’s extended term sentencing scheme comported with
+Apprendi.  Until 2007, we concluded that it did so, on the ground
+(...continued)8
+by the jury’s guilty verdict.  Indeed, it fits
+squarely within the usual definition of an “element”
+of the offense.
+Apprendi, 530 U.S. at 494 n.19 (emphasis in original, citation omitted).
+16*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+that Hawaii’s scheme only required the judge to determine
+“extrinsic” facts, rather than facts that were “intrinsic” to the
+offense.  See Kaua, 102 Hawai# i 1, 72 P.3d 473; Rivera, 106
+Hawai#i 146, 102 P.3d 1044; Maugaotega I , 107 Hawai #i 399, 114
+P.3d 905; State v. White , 110 Hawai #i 79, 129 P.3d 1107 (2006). 
+It was not until Maugaotega II , that this court acknowledged that
+the United States Supreme Court, in Cunningham , rejected the
+validity of our intrinsic/extrinsic distinction, which formed the
+basis of these decisions.  115 Hawai #i at 442-47, 168 P.3d 572-
+77.
+In State v. Kaua, the defendant was indicted in
+connection with a 1999 hostage standoff, and while the jury
+acquitted him of attempted murder in the first degree, it found
+him guilty of several other offenses.  102 Hawai# i at 2-3, 72
+P.3d at 474-75.  The State moved for an extended term sentence
+pursuant to HRS § 706-662(4)(a).  Id. at 3-4, 72 P.3d at 475-76. 
+At the evidentiary hearing, the circuit court followed the two-
+step process required at that time, determining first that Kaua
+was a multiple offender subject to an extended term sentence,
+i.e., Kaua was being sentenced for two or more felonies at that
+time, and had already been under sentence of imprisonment for a
+felony; and second, that the extended term sentence was necessary
+for the protection of the public.  Id. at 4-7, 72 P.3d at 476-79. 
+17*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+In determining that the extended term sentence was
+necessary for the protection of the public, the circuit court
+cited Kaua’s history of substance abuse, his substance abuse
+shortly before the hostage incident, his history of assaultive
+behavior, his inability to control his behavior while under the
+influence or under stress, his access to firearms and lack of
+experience with the firearm used to perpetrate the standoff, and
+the strong possibility that he could have injured minors and
+innocent bystanders during the incident because of his
+inexperience.  Id. at 4-6, 72 P.3d at 476-478.  Accordingly, the
+circuit court granted the State’s motion, and sentenced Kaua to
+several extended term sentences.  Id.
+Kaua appealed, and this court affirmed Kaua’s judgment
+of conviction and sentence.9  Id.  Kaua subsequently filed a
+motion for correction of illegal sentence under HRPP Rule 35,10
+9Kaua appealed to this court on February 28, 2000, Apprendi was
+decided on
+ June 26, 2000, and this court issued its summary disposition order
+on May 1, 2001.  State v.
+ Kaua, 102 Hawai #i at 6, 72 P.3d at 478.  Although
+Apprendi had been decided prior to this court’s State v. Kaua decision, Kaua
+did not ra
+ise any Apprendi issues in his direct appeal.  Kaua v. Frank , 436
+F.3d at 1059.
+10HRPP Rule 35(a) (Correction or Reduction of Sentence) (2003)
+provides:
+The court may correct an illegal sentence at any time
+and may correct a sentence imposed in an illegal
+manner within the time provided herein for the
+reduction of sentence.  A motion made by a defendant
+(continued...)
+18*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+arguing that the two-step process for determining a defendant’s
+status as a multiple offender should be determined by the jury in
+a separate sentencing hearing, according to Apprendi.  Id.  at 6,
+72 P.3d at 478.  The circuit court denied Kaua’s motion, finding
+that his extended term sentence was proper, and that the “facts
+of conviction which exposed Kaua to an extended term of
+imprisonment were not in the nature of ‘elements’ of the offenses
+charged or of a separate legal offense.”  Id.  at 6-7, 72 P.3d at
+478-79.  
+This court upheld the process followed by the
+sentencing court, reasoning:
+Specifically, the facts at issue in rendering an
+extended term sentencing determination under HRS
+§§ 706–662(1),(3), and (4)[11] implicate 
+(...continued)10
+to correct an illegal sentence more than 90 days after
+the sentence is imposed shall be made pursuant to Rule
+40 of these rules.  A motion to correct a sentence
+that is made within the 90 day time period shall
+empower the court to act on such motion even though
+the time period has expired.
+11HRS § 706-662 (Supp. 2001) provided, in relevant part:
+A convicted defendant may be subject to an extended
+term of imprisonment under section 706–661, if the
+convicted defendant satisfies one or more of the
+following criteria:
+(1) The defendant is a persistent offender whose
+imprisonment for an extended term is necessary
+for protection of the public.  The court shall
+not make this finding unless the defendant has
+previously been convicted of two felonies
+committed at different times when the defendant
+was eighteen years of age or older.
+(continued...)
+19*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+(...continued)11
+(2) The defendant is a professional criminal
+whose imprisonment for an extended term is
+necessary for protection of the public.  The
+court shall not make this finding unless:
+(a) The circumstances of the crime show
+that the defendant has knowingly engaged
+in criminal activity as a major source of
+livelihood; or
+(b) The defendant has substantial income
+or resources not explained to be derived
+from a source other than criminal
+activity.
+(3) The defendant is a dangerous person whose
+imprisonment for an extended term is necessary
+for protection of the public.  The court shall
+not make this finding unless the defendant has
+been subjected to a psychiatric or psychological
+evaluation that documents a significant history
+of dangerousness to others resulting in
+criminally violent conduct, and this history
+makes the defendant a serious danger to others. 
+Nothing in this section precludes the
+introduction of victim-related data in order to
+establish dangerousness in accord with the
+Hawaii rules of evidence.
+(4) The defendant is a multiple offender whose
+criminal actions were so extensive that a
+sentence of imprisonment for an extended term is
+necessary for protection of the public.  The
+court shall not make this finding unless:
+(a) The defendant is being sentenced for
+two or more felonies or is already under
+sentence of imprisonment for felony; or
+(b) The maximum terms of imprisonment
+authorized for each of the defendant's
+crimes, if made to run consecutively would
+equal or exceed in length the maximum of
+the extended term imposed, or would equal
+or exceed forty years if the extended term
+imposed is for a class A felony.
+(5) The defendant is an offender against the
+elderly, handicapped, or a minor under the age
+of eight, whose imprisonment for an extended
+term is necessary for the protection of the
+public.  The court shall not make this finding
+unless:
+(a) The defendant attempts or commits any
+(continued...)
+20*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+considerations completely “extrinsic” to the elements
+of the offense with which the defendant was charged
+and of which he was convicted; accordingly, they
+should be found by the sentencing judge . . . .  The
+facts at issue for purposes of HRS §§ 706–662(5) and
+(6), however, are, by their very nature, “intrinsic”
+to the offense with which the defendant was charged
+and of which he has been convicted; accordingly, they
+must be found beyond a reasonable doubt by the trier
+of fact in order to afford the defendant his
+constitutional rights to procedural due process and a
+trial by jury.
+Id. at 12–13, 72 P.3d at 484–85 (citations omitted).12
+(...continued)11
+of the following crimes: murder,
+manslaughter, a sexual offense that
+constitutes a felony under chapter 707,
+robbery, felonious assault, burglary, or
+kidnapping; and
+(b) The defendant, in the course of
+committing or attempting to commit the
+crime, inflicts serious or substantial
+bodily injury upon a person who is:
+(i) Sixty years of age or older;
+(ii) Blind, a paraplegic, or a
+quadriplegic; or
+(iii) Eight years of age or younger;
+and 
+(c) Such disability is known or reasonably
+should be known to the defendant.
+(6) The defendant is a hate crime offender whose
+imprisonment for an extended term is necessary
+for the protection of the public.  The court
+shall not make this finding unless:
+(a) The defendant is convicted of a crime
+under chapter 707, 708, or 711; and
+(b) The defendant intentionally selected a
+victim or, in the case of a property
+crime, the property that was the object of
+a crime, because of hostility toward the
+actual or perceived race, religion,
+disability, ethnicity, national origin, or
+sexual orientation of any person.
+12In 2003, Kaua filed a habeas corpus petition in the United States
+District Court for the District of Hawai #i, requesting that the district court
+vacate his sentence.  Kaua v. Frank, 350 F. Supp. 2d at 849–50, 855-56.  In
+his petition, Kaua challenged this court’s conclusion that a judge, rather
+than a jury, was permitted to satisfy the second stage of HRS § 706-662(4)’s
+sentencing process, regarding the necessity of protecting of the public.  Id.
+(continued...)
+21*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+Respectfully, our analysis in Kaua erroneously
+concluded that despite the Court’s clear holding in Apprendi ,
+this court’s intrinsic/extrinsic factor analysis still remained
+valid.13  102 Hawai# i at 12-13, 72 P.3d at 484-85.  Specifically,
+(...continued)12
+at 850-53, 855-56.  The district court granted Kaua’s petition, holding that
+this court’s affirmance of his extended sentence was “contrary to, and
+involved an unreasonable application of Apprendi.”  Id.  at 861.  The Ninth
+Circuit affirmed, rejecting this court’s “intrinsic[/]extrinsic” analysis as a
+“variant of the ‘element-sentencing factor’ distinction that Apprendi
+explicitly rejected.”  Kaua v. Frank, 436 F.3d at 1062.
+Although the analysis of the federal courts in Kaua is consistent
+with our conclusions here, we are not bound by those decisions and accordingly
+analyze the issues independently.
+13The Dissent states, “I agree with several federal courts of appeal
+that the date should be placed after the Supreme Court decided Blakely  and
+Booker.”  Dissent at 18-19.  It is important to note that, when evaluating
+state court decisions, federal courts address this issue under a higher
+standard than state courts.  Federal courts are making a determination whether
+a state court’s decision is contrary to or an unreasonable application of
+established federal law, as determined by the U.S. Supreme Court. 
+[A] state court decision is contrary to clearly
+established Federal law, as determined by the Supreme
+Court, when the state court arrives at a conclusion
+opposite to that reached by the Supreme Court on a
+question of law, or when the state court confronts
+facts that are materially indistinguishable from a
+relevant Supreme Court precedent and arrives at a
+result opposite to the Supreme Court.
+A state court decision is an unreasonable application
+of clearly established Federal law, as determined by
+the Supreme Court of the United States when the state
+court identifies the correct governing legal rule from
+Supreme Court cases, but unreasonably applies it to
+the facts of the particular case, or when the state
+court either unreasonably extends a legal principle
+from Supreme Court precedent to a new context where it
+should not apply or unreasonably refuses to extend
+that principle to a new context where it should apply. 
+The unreasonable application clause requires the state
+court decision to be more than incorrect or erroneous.
+The state court’s application of clearly established
+law must be objectively unreasonable.
+(continued...)
+22*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+we characterized Apprendi as stating the following:
+[A] finding that the defendant committed the charged
+offense with a biased purpose, of necessity, required
+an assessment of the ‘elemental’ facts upon which the
+indictment was based.  That being the case, the
+Apprendi Court held that findings that implicated
+‘elemental’ facts requisite to imposing an enhanced
+sentence must be charged in the indictment, submitted
+to the jury, and proved by the prosecution beyond a
+reasonable doubt.
+Id. at 12, 72 P.3d at 484 (citations omitted).
+Accordingly, we asserted that the “facts at issue in
+rendering an extended term sentencing determination under HRS
+§ 706-662(1), (3), and (4) implicate considerations completely
+‘extrinsic’ to the elements of the offense with which the
+defendant was charged . . . . [and thus] fell outside the
+Apprendi rule.”  Id. at 12-13, 72 P.3d at 484-85.
+In reaching that conclusion about the importance of
+facts being “elemental” rather than “extrinsic,” this court
+appeared to rely on language in Apprendi that responded to the
+State of New Jersey’s argument that a finding of racial bias
+under the hate crime statute involved nothing more than the
+“traditional ‘sentencing factor’ of motive.”  Id.; see Apprendi,
+530 U.S. at 492-93.  Specifically, the Court in Apprendi
+(...continued)13
+Kaua, 350 F. Supp. 2d at 855–56 (brackets, ellipses, quotation marks and
+citations omitted).
+Even under this higher standard, the federal district court and
+the Ninth Circuit concluded that our decision in Kaua was contrary to
+Apprendi.  See supra  n.12.
+23*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+disagreed with the State’s suggestion that the hate crime statute
+required “simply an inquiry into ‘motive,’” noting that “[t]he
+defendant’s intent in committing a crime is perhaps as close as
+one might hope to come to a core criminal offense ‘element.’”  
+530 U.S. at 492-93. 
+However, the Court in Apprendi  immediately went on to
+explain that the characterization of the required finding did not
+matter, and to repeat the holding of the case:
+The foregoing notwithstanding, however, the New Jersey
+Supreme Court correctly recognized that it does not
+matter whether the required finding is characterized
+as one of intent or of motive, because “[l]abels do
+not afford an acceptable answer.”  That point applies
+as well to the constitutionally novel and elusive
+distinction between “elements” and “sentencing
+factors.”  Despite what appears to us the clear
+“elemental” nature of the factor here, the relevant
+inquiry is one not of form, but of effect-does the
+required finding expose the defendant to a greater
+punishment than that authorized by the jury’s guilty
+verdict?
+Apprendi , 530 U.S. at 494 (citations omitted) (emphasis added). 
+Therefore, we hold that the line of demarcation is
+Apprendi , not Booker or Cunningham, in determining whether
+extended term sentences imposed without jury findings are subject
+to collateral attack.  Accordingly, we correct the conclusion in
+Loher and subsequent opinions that the “legal landscape only
+became clear after Apprendi (2000), Blakely (2004), and Booker
+(2005), [were] taken together.”  Loher v. State, 118 Hawai #i 522,
+538, 193 P.3d 438, 454 (App. 2008).  To the extent that our prior
+24*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+opinions and the ICA’s prior opinions are contrary to our
+holding, they are now overruled.14  Here, a judge, and not a
+jury, made the required finding that Flubacher’s extended term
+sentence was necessary for the protection of the public.  That
+“required finding expose[d] the defendant to a greater punishment
+than that authorized by the jury's guilty verdict.”  Apprendi,
+530 U.S. at 494.  Therefore, Flubacher’s extended term sentences
+were imposed in an illegal manner because they violate Apprendi.
+The Dissent suggests that the rule in Apprendi “was not
+clear” because the Supreme Court subsequently granted certiorari
+in Blakely and Booker.  Dissent at 5-9.  Respectfully, the issues
+addressed in those cases were not needed to clarify the
+invalidity of this court’s extrinsic/intrinsic analysis.  Blakely
+involved the distinct question of whether Apprendi applied to an
+extended sentence which did not exceed the statutory maximum in a
+state court proceeding, while Booker addressed a similar issue in
+the context of the federal sentencing guidelines.  Accordingly,
+cases addressing whether those decisions announced “new” rules
+for purposes of retroactivity analysis are irrelevant to
+assessing the validity of Hawaii’s sentencing scheme.
+14These cases include Kaua, 102 Hawai #i 1, 72 P.3d 473; Rivera, 106
+Hawai#i 146
+, 102 P.3d 1044; Maugaotega I, 107 Hawai #i 399 , 114 P.3d 905; White,
+110 Hawai #i 79, 129 P.3d 1107; Loher , 118 Hawai #i 522, 193 P.3d 438; and, for
+example, Mara v. State, 139 Hawai #i 414 , 420 n.8, 391 P.3d 1236, 1242 n.8
+(App. 2017) (citing ICA opinions).
+25*** FOR PUBLICATION IN WEST’S HAWAI #I REPORTS AND PACIFIC REPORTER ***
+IV.  Conclusion
+For the foregoing reasons, we conclude that Flubacher’s
+extended term sentences were imposed in an illegal manner. 
+Therefore, we vacate the ICA’s October 13, 2016 Judgment on
+Appeal, the circuit court’s April 2, 2015 Order Denying Petition,
+the portion of the circuit court’s September 12, 2003 Judgments
+and Sentences in Cr. Nos. 01-1-2788, 01-1-2789, 02-1-0089,
+02-1-0090, and 02-1-0125 that imposed extended term sentences,
+and the circuit court’s Order Granting Motion for Extended Term
+of Imprisonment filed September 22, 2003.  We remand this case
+for further proceedings consistent with this opinion.15
+John M. Schum 
+for petitioner
+Stephen K. Tsushima 
+for respondent/s/ Mark E. Recktenwald
+/s/ Sabrina S. McKenna
+/s/ Richard W. Pollack
+/s/ Michael D. Wilson
+15Flubacher maintained that his sentence should be vacated, and that
+he should be resentenced without being subject to extended term sentencing. 
+However, based on the reasoning in Jess, we reject that argument.  See Jess ,
+117 H
+awai#i at 406-15, 184 P.3d at 158-67 (finding that upon remand, the State
+may move for an extended term sentence, and the circuit court may empanel a
+jury to make the necessary findings to determine petitioner’s sentence).
+26

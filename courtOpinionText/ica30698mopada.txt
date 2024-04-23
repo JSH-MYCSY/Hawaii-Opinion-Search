@@ -1,0 +1,527 @@
+NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER
+ 
+NO. 30698
+ 
+IN THE INTERMEDIATE COURT OF APPEALS
+ 
+OF THE STATE OF HAWAI' I 
+KAREN SUE MILLER, Plaintiff-Appellant,
+v.
+ 
+BANK OF NEW YORK MELLON fka BANK OF NEW YORK AS
+ 
+TRUSTEE FOR THE CERTIFICATE HOLDERS OF CWMBS, INC.,
+CHL MORTGAGE PASS-THROUGH TRUST 2006-8 MORTGAGE 
+PASS-THROUGH CERTIFICATES SERIES 2006-8, AND
+MORTGAGE ELECTRONIC REGISTRATION SYSTEMS, INC.,
+Defendants-Appellees
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT
+ 
+(CIVIL NO. 09-1-1604)
+ 
+MEMORANDUM OPINION
+ 
+(By: Nakamura, C.J., Fujise and Reifurth, JJ.)
+ 
+Plaintiff-Appellant Karen Sue Miller ("Miller") sought 
+injunctive and declaratory relief in a bid to halt the 
+nonjudicial foreclosure of her interest in her home in K
+âne'ohe, 
+Hawai'i. The Circuit Court of the First Circuit ("Circuit 
+1
+Court") , however, granted summary judgment on Miller's complaint
+and on July 30, 2010, issued judgment in favor of Defendants-
+Appellees Bank of New York Mellon, formerly known as Bank of New
+ York, as Trustee for the Certificateholders of CWMBS, Inc. CHL
+ Mortgage Pass-Through Trust 2006-8 Mortgage Pass-Through
+ Certificates Series 2006-8 ("BONY Mellon") and Mortgage
+ Electronic Registration Systems, Inc. ("MERS") (collectively,
+ "Defendants").
+ 
+Miller appeals from the "Findings of Fact and
+ 
+Conclusions of Law; Order Granting Defendants [BONY Mellon] and
+ [MERS's] Motion for Summary Judgment" and the "Judgment" entered
+ 
+1
+ The Honorable Rom A. Trader presided.
+ NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER 
+by the Circuit Court on July 30, 2010. We affirm.
+ 
+I. Background
+ 
+A. Complaint
+ Miller filed the Complaint on July 10, 2009, alleging
+ 
+as follows: 
+Miller resides at 45-002 Kuhonu Place in Kâne' ohe 
+("Property"). BONY Mellon functions as a trustee for CWMBS, Inc.
+ 
+("CWMBS"), which "issued securities . . . in the form of either
+ collateralized mortgage obligations (CMOs) or collateralized debt
+ obligations (CDOs) or other form of exotic investment vehicle
+ . . . ." 
+On or about March 1, 2006, Miller entered into a
+ 
+residential mortgage loan agreement with Countrywide Home Loans,
+ Inc. ("Countrywide"). On or about May 19, 2009, Miller received
+ a Notice of Mortgagee's Intention to Foreclose Under Power of
+ Sale ("MERS Notice"), which claimed that the Property was
+ scheduled to be sold at a public auction on July 17, 2009. The
+ MERS Notice claimed that MERS was the nominee of BONY Mellon and,
+ as mortgagee, was instituting the sale of the Property. 
+Miller claimed that her mortgage 
+was sold, in parsed fashion by the original lender
+(Countrywide), for the purpose of . . . serving as
+collateral for and being assigned to one or more tranches
+within a special or exotic investment vehicle (SIV) known as
+a collateralized mortgage obligation (CMO), collateralized
+debt obligation (CDO), or other form of mortgage-backed
+security (MBS) and/or for the purpose of being assigned to
+one or more credit default swaps (CDS). The securitized
+ loan trust into which [Miller's] loan was placed is, on
+information and belief, collateralized by, inter alia,
+hundreds if not thousands of other mortgage obligations
+which have been assigned to one or more tranches within the
+SIV in addition to other collateral. Further on information
+ and belief, the interest in [Miller's] mortgage loan is or
+may be owned by the unnamed certificateholders of the SIV.
+ 
+She further alleged:
+ 
+The securitized trust into which [Miller's] mortgage
+loan was placed is required, as a matter of Federal law, to
+be protected with various forms of credit enhancements or
+insurances which insure against the risk of borrower
+default, the premiums of which are paid at least in part by
+the borrower and with no recourse against the borrower even
+upon default. As such, there may not be any default which
+would give rise to a foreclosure action and sale, as
+[Miller's] loan obligation may have been liquidated in whole
+or in part through the payment of benefits through one or
+ 
+2
+  NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER
+ 
+more of the credit enhancements available to the securitized
+ 
+mortgage loan trust.
+ 
+Miller also alleged that Defendants failed to engage in good-
+faith loss-mitigation efforts with her prior to foreclosing,
+ thereby precluding foreclosure; the MERS Notice fails to comply
+ with Hawaii Revised Statutes ("HRS") § 667-5 because any sale
+ scheduled must be made by a party "with authority by the power to
+ act"; MERS's attempt to foreclose violated its contract with its
+ servicers; and, due to the severance of ownership and possession
+ of the Note and Mortgage, "Defendants are legally precluded from
+ foreclosing on the Property unless and until they can demonstrate
+ full legal standing to do so." 
+The Complaint asserted two claims, seeking (1)
+ 
+emergency temporary and permanent injunctive relief to halt the
+ foreclosure process and (2) a declaration that Defendants do not
+ have rights or standing to foreclose on the Property.
+2
+ 
+B. Motion for Summary Judgment
+ 
+Defendants filed a motion for summary judgment ("MSJ")
+ 
+on April 19, 2010. Defendants argued that there was no dispute
+ 
+that Miller "borrowed money to purchase the subject property and
+ has not made any payments in over a year." Defendants further
+ argued that "it is undisputable that [BONY Mellon] holds the
+ subject promissory note and mortgage and, therefore, has the
+ right to foreclose on the subject property." In support of the
+ MSJ, Defendants filed the Declaration of Kevin A. Durham,
+ executed in San Diego, California, in which the declarant
+ ("Durham") claimed to be a "duly authorized agent" for both BONY
+ Mellon and MERS. 
+In opposition, Miller first argued that Defendants
+ 
+3
+violated HRS § 667-5.7  because the Notice "required successful
+2
+ The parties later stipulated that the public sale scheduled for
+July 17, 2009, pursuant to the MERS Notice, would be postponed until the trial
+court disposed of Plaintiff's motion for temporary restraining order as to the
+July 17, 2009 sale on the merits. 
+3
+ When this case was pending before the trial court, HRS § 667-5.7
+stated:
+ 
+(continued...)
+ 
+3
+   
+  NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER 
+bidders to place as a downpayment their entire purchase price 'no
+ 
+later than the 21st day following sale [auction]' with closing in
+ thirty days . . . ." The MERS Notice states: "At the close of
+ the auction, Purchaser shall pay at least 10% of the highest
+ successful bid price ('Bid') in cash, or by cashier's or
+ certified check; provided, however, that Mortgagee may submit a
+ credit bid up to the amount of the secured indebtedness[.]" The
+ MERS Notice also states: "The property shall be conveyed by
+ Mortgagee by mortgagee's quitclaim conveyance, provided by
+ Mortgagee, within 30 days after the auction and upon performance
+ by Purchaser, no later than 21 days after the auction, of the
+ following obligations: (a) . . . purchaser shall to deliver to
+ Max Default Services Corporation, 43180 Business Park Drive,
+ Suite 100, Temecula, CA 92590 a cashier's check for the remaining
+ balance of the bid price, no later than the 21st day following
+ sale . . . ." 
+Second, Miller argued that Defendants violated HRS
+ 
+4
+§ 667-5  because MERS has no standing to foreclose.  The MERS
+ 
+Notice, dated May 18, 2009, states that MERS, as mortgagee, would
+ hold a public auction on July 17, 2009. 
+3(...continued)
+ 
+At any public sale pursuant to section 667-5, the
+successful bidder at the public sale, as the purchaser,
+shall not be required to make a downpayment to the
+foreclosing mortgagee of more than ten per cent of the
+highest successful bid price.
+ 
+H
+AW. REV. STAT. § 667-5.7 (Supp. 2011). HRS § 667-5.7 has since been repealed.
+See 2012 Haw. Sess. Laws Act 182, § 51 at 684.
+ 
+4
+ When this case was pending before the trial court, HRS § 667-5(a)
+stated, in pertinent part:
+ 
+When a power of sale is contained in a mortgage, and
+where the mortgagee, the mortgagee's successor in interest,
+or any person authorized by the power to act in the
+premises, desires to foreclose under power of sale upon
+breach of a condition of the mortgage, the mortgagee,
+successor, or person shall be represented by an attorney who
+is licensed to practice law in the State and is physically
+located in the State. . . .
+ 
+H
+AW. REV. STAT. § 667-5 (Supp. 2010) (repealed 2012). See 2012 Haw. Sess. Laws
+ 
+Act 182, § 50 at 684.
+ 
+4
+   NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER 
+Finally, Miller argued that Defendants violated HRS
+ 
+5
+§ 502-42;  and that the MERS Notice and two assignments of
+mortgage were not properly notarized because they were signed and
+ 
+executed by Durham, who claimed to be Assistant Secretary of MERS
+ but, she alleges, was actually employed exclusively by Max
+ Default Services Corp. 
+While Miller presents evidence that
+ 
+Durham signed the MERS Notice and the assignments as "Assistant
+ Secretary," she presents no other evidence about Durham.
+ 
+In reply, Defendants argued that (1) HRS § 667-5.7 only
+ 
+applies to the down payment; (2) BONY Mellon had subsequently
+ filed a Notice of Mortgagee's Intention to Foreclose Under Power
+ of Sale, filed by BONY Mellon as mortgagee ("BONY Mellon
+ 
+6
+Notice"),  and therefore, the issue concerning the MERS Notice
+was moot; and (3) Miller failed to present any evidence that
+ Durham lacked authority to act as Defendants' agent. 
+C.	 Findings of fact, conclusions of law, Order and
+Judgment
+ 
+On July 30, 2010, the Circuit Court filed the "Findings
+ 
+of Fact and Conclusions of Law; Order Granting Defendants [BONY
+ 
+Mellon] and [MERS's] Motion for Summary Judgment". 
+The Circuit
+ 
+Court issued the following findings of fact:
+ 
+1. [Miller] executed an Interest Only Fixed Rate
+Note, dated March 1, 2006, in the principal amount of
+$900,000.00 ("Note"). The Note was endorsed in blank by the
+original holder of the Note, [Countrywide], and is currently
+held by Defendant [BONY Mellon].
+ 
+2. The Note is secured by a mortgage executed by
+[Miller] and dated March 1, 2006, in favor of MERS, as
+ 
+5	 HRS § 502-42 states in pertinent part:
+ 
+The certificate of acknowledgment shall state in
+substance that the person who executed the instrument
+appeared before the officer granting the certificate and
+acknowledged or stated that the person executed the same,
+and that such person was personally known to the officer
+granting such certificate to be the person whose name is
+subscribed to the instrument as a party thereto, or was
+proved to be such by the oath or affirmation of a credible
+witness known to the officer whose name shall be inserted in
+ the certificate.
+ 
+H
+AW. REV. STAT. § 502-42 (2006).
+ 
+6
+ Durham also executed the BONY Mellon Notice. 
+5
+ NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER
+ 
+nominee for [Countrywide] ("Mortgage").
+ 
+3. Consequently, [Miller] is the Obligor under the
+Note, and the Mortgagor under the Mortgage.
+ 
+. . . .
+ 
+6. An Assignment of Mortgage, dated May 18, 2009,
+transferred the Mortgage from (i) Defendant MERS, as nominee
+for [Countrywide], to (ii) MERS, as nominee for [BONY
+Mellon] ("First Assignment"). . . .
+ 
+7. A second Assignment of Mortgage, dated July 16,
+2009, transferred the Mortgage from (i) MERS, as nominee for
+[BONY Mellon] to (ii) [BONY Mellon] ("Second
+Assignment"). . . .
+ 
+8. As a result of the endorsement of the Note and the
+ 
+assignments of the Mortgage described above, Defendant [BONY
+Mellon] is the current holder of the Note and Mortgage.
+ 
+9. Defendant MERS has had no interest in the Mortgage
+since July 17, 2009, and has never had any interest in the
+Note.
+ 
+10. [Miller] has not made any payments owed under the
+Note and Mortgage since January 30, 2009.
+ 
+. . . .
+ 
+13. Because of [Miller's] failure to pay the amounts
+owed under the Note and Mortgage, Defendants commenced a
+non-judicial foreclosure action against [Miller] on or about
+May 18, 2009.
+ 
+14. A revised Notice of Mortgagee's Intention to
+Foreclose Under Power of Sale [BONY Mellon Notice] was
+recorded in the Bureau of Conveyances, State of Hawaii, on
+February 24, 2010 . . . . The [BONY Mellon Notice] was
+served upon [Miller] by Defendant [BONY Mellon] on the same
+date.
+ 
+15. Through the [BONY Mellon Notice], Defendant [BONY
+Mellon] has given adequate notice to [Miller] of its
+intention to foreclose and has otherwise complied with the
+requirements of [HRS] §§ 667-5, 5.5, and 5.7.
+ 
+16. By reason of the facts hereinbefore set forth and
+alleged, Defendant [BONY Mellon] is entitled to the
+foreclosure of its Mortgage and the sale of the Property.
+ 
+The Circuit Court, therefore, granted summary judgment in favor
+ 
+of Defendants. 
+The Circuit Court entered judgment in favor of
+ 
+Defendants as to all claims on July 30, 2010. This appeal
+ followed. 
+II. Points of Error
+ 
+Miller contends that the Circuit Court erred when it
+ 
+granted summary judgement because:
+ 
+6
+ NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER 
+A. "Requiring the full purchase price as a down payment
+ 
+prior to actual closing violates [HRS § 667-5.7], [thereby]
+ 
+rendering [the] nonjudicial foreclosure null and void . . . ." 
+B. "Allowing MERS . . . to invoke a power of sale . . . and
+ 
+to conduct a nonjudicial foreclosure sale violates [HRS § 667­5(a)], [thereby] rendering [the] nonjudicial foreclosure null and
+ void . . . ." 
+C. Allowing notarization and recordation of certain
+ 
+documents that "contain[ed] false descriptions of mortgagees and
+ false statements of the capacities of signatories . . .
+ render[ed] [those] fraudulent recordations null and void . . . ." 
+III. Standards of Review
+ 
+Summary judgment
+ 
+"This court reviews a trial court's grant of summary
+ 
+judgment de novo." Kamaka v. Goodsill Anderson Quinn & Stifel,
+ 
+117 Hawai' i 92, 104, 176 P.3d 91, 103 (2008). 
+Summary judgment is appropriate if the pleadings,
+depositions, answers to interrogatories, and admissions on
+file, together with the affidavits, if any, show that there
+is no genuine issue as to any material fact and that the
+moving party is entitled to judgment as a matter of law. A
+fact is material if proof of that fact would have the effect
+of establishing or refuting one of the essential elements of
+a cause of action or defense asserted by the parties. The
+evidence must be viewed in the light most favorable to the
+non-moving party. In other words, [this court] must view
+all of the evidence and the inferences drawn therefrom in
+ the light most favorable to the party opposing the motion.
+ 
+Id. (citation omitted).
+ 
+Statutory interpretation
+ 
+"The interpretation of a statute is a question of law
+ 
+reviewable de novo." Garcia v. Kaiser Found. Hosps., 90 Hawai' i 
+425, 430, 978 P.2d 863, 868 (1999).
+ 
+IV.	 Discussion
+ 
+A.	 HRS § 667-5.7 does not concern the payment of a final
+purchase price7
+ 
+7
+ As noted above, see supra note 3, HRS § 667-5.7 was repealed in
+2012, after the filing of the Judgment. The repeal of HRS § 667-5.7, however,
+(continued...)
+ 
+7
+      NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER 
+Miller argues that requiring the successful bidder at a
+ 
+public sale to the pay the full purchase price prior to closing
+ 
+violates HRS § 667-5.7.  We disagree.
+ 
+HRS § 667-5.7 stated:
+ 
+At any public sale pursuant to section 667-5, the
+successful bidder at the public sale, as the purchaser,
+shall not be required to make a downpayment to the
+foreclosing mortgagee of more than ten per cent of the
+highest successful bid price.
+ 
+HAW. REV. STAT. § 667-5.7. The plain language of the statute 
+clearly limits its applicability to downpayments made at the time 
+the property is sold at the public sale. See Saiki v. LaSalle 
+Bank Nat'l Ass'n as Trustee for Structured Asset Inv. Loan Trust Series 2003-BC2, Civ. No. 10-00085 JMS/LEK, 2011 WL 601139, at *5–6 (D. Haw. Feb. 10, 2011) (HRS § 667-5.7 does not control in what manner a public-sale seller may demand full and final payment following a public sale.). As the plain language of the statute is clear, "we are not at liberty to look beyond that language for a different meaning." See Bhakta v. Cnty. of Maui, 
+109 Hawai' i 198, 208, 124 P.3d 943, 953 (2005). 
+Thus, contrary to Miller's argument, neither the MERS
+ 
+Notice nor the BONY Mellon Notice violates HRS § 667-5.7. The
+ notices require the winning bidder to pay at least ten percent of
+ the purchase price "[a]t the close of auction" and the full
+ purchase price "no later than the 21st day following the sale." 
+The notices do not require the payment of more than ten percent
+ of the purchase price at the time of the sale. Under the facts
+ of this case, the notices do not violate HRS § 667-5.7.
+ 
+B. Miller's argument concerning the MERS Notice is moot
+ 
+Miller argues that MERS lacked standing to invoke the
+ 
+7(...continued)
+ 
+does not affect our posture on appeal. Pursuant to HRS § 1-10, "[t]he repeal
+of any law shall not affect any act done, or any right accruing, accrued,
+acquired, or established, or any suit or proceedings had or commenced in any
+ civil case, before the time when the repeal takes effect." H
+AW. REV. STAT. § 1­
+10 (2009) (emphasis added); Graham Constr. Supply, Inc. v. Schrader Constr.,
+ Inc., 63 Haw. 540, 544 n.6, 632 P.2d 649, 651 n.6 (1981) (recognizing HRS § 1­
+10 as a "general saving statute"). Because Miller commenced her civil suit,
+and BONY Mellon filed the BONY Mellon Notice, before the repeal of HRS § 667­5.7, the repeal of the statute does not affect this appeal. 
+8
+  NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER 
+power of sale provided for in the mortgage. It is undisputed,
+ 
+though, that on July 16, 2009, MERS, as nominee for BONY Mellon,
+ assigned the mortgage to BONY Mellon and that BONY Mellon, in its
+ capacity as mortgagee, filed the BONY Mellon Notice with the
+ Bureau of Conveyances on February 24, 2010. Because MERS no
+ longer claims to be the mortgagee and is no longer seeking to
+ foreclose, Miller's argument is moot. See City Bank v. Saje
+ 
+Ventures II, 7 Haw. App. 130, 134, 748 P.2d 812, 815 (1988)
+ (ruling that an issue is moot "if the reviewing court can no
+ longer grant effective relief" (quoting United States v. Oregon,
+ 718 F.2d 299, 302 (9th Cir. 1983)).
+ 
+C.	 Miller fails to show that Durham's various filings
+contain false descriptions of the capacity of the
+signatory
+ 
+Miller claims that Durham "robo signed" various
+ 
+documents even though he had "no personal knowledge whatsoever as
+ 
+to what he was swearing to, . . . ." However, a party opposing a
+ motion for summary judgment "must set forth specific facts
+ showing that there is a genuine issue for trial." Haw. R. Civ.
+ P. 56(e). The nonmoving party cannot rely on "general allegations" to defeat summary judgment. Ralson v. Yim, 129 
+Hawai'i 46, 56–57, 292 P.3d 1276, 1286–87 (2013). 
+Miller presented no evidence below concerning Durham's 
+capacity to sign the assignments or the notices. Miller's bald allegation in her memorandum in opposition to the MSJ that Durham "works exclusively for Max Default Services Corp." does not impeach Durham's competency. See Leis Family Ltd. P'ship v. 
+Silversword Eng'g, 126 Hawai' i 532, 534 n.2, 273 P.3d 1218, 1220 
+n.2 (App. 2012) ("[A]rgument of counsel in a memorandum of law
+ . . . is not evidence (quoting Thomas v. Burlington Indus., Inc.
+ 769 F. Supp. 368, 369 (S.D. Fla. 1991)). Thus, Miller has not
+ shown error.
+8
+ 
+8
+ Miller argues for the first time on appeal that "there is no such
+securitization trust with the name 'CWMBS' even in it, or with the name
+Appellee 'Bank of New York As Trustee For the Certificate-Holders Of CWMBS,
+Inc., CHL Mortgage Pass-Through Trust 2006-8 Mortgage Pass-Through
+Certificates, Series 2006-8[.]" Miller invited BONY Mellon to "show its
+ 'birth certificate'" to this court in its answering brief, in an apparent
+(continued...)
+ 
+9
+ NOT FOR PUBLICATION IN WEST'S HAWAII REPORTS OR THE PACIFIC REPORTER 
+V. Conclusion
+ 
+Therefore, the July 30, 2010 "Findings of Fact and
+ 
+Conclusions of Law; Order Granting Defendants The Bank of New
+ 
+York Mellon f/k/a The Bank of New York as Trustee for the
+ Certificateholders of CWMBS, Inc., CHL Mortgage Pass-Through
+ Trust 2006-8 Mortgage Pass-Through Certificates, Series 2006-8,
+ and Mortgage Electronic Registration Systems, Inc.'s Motion for
+ Summary Judgment" and the July 30, 2010 "Judgment" are affirmed.
+ 
+DATED: Honolulu, Hawai' i, August 23, 2013. 
+On the briefs: 
+Gary Victor Dubin and
+Frederick J. Arensmeyerfor Plaintiff-Appellant. Chief Judge 
+David B. Rosen (Law Offices of David B. Rosen)for Defendant-Appellee Associate Judge 
+Associate Judge 
+8(...continued)
+ 
+attempt to have this court consider matters not raised in the trial court.
+If Miller has a valid complaint in this regard, she should properly raise the
+issue in the first instance before the trial court in the form of either a
+ HRCP Rule 60(b) motion or an independent action to set aside the Judgment for
+fraud upon the court. See Haw. R. Civ. P. 60(b), (b)(3), (b)(6).
+ 
+10
+ 

@@ -1,0 +1,630 @@
+FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+  Former Associate Judge Corinne K.A. Watanabe was a member of the1
+panel on this appeal, but has since retired from her judgeship effective
+December 31, 2009.
+  The Honorable Bert I. Ayabe presided. 2
+  This Opinion was originally filed on December 29, 2009 as a3
+Memorandum Opinion and is filed as a published Opinion pursuant to this
+court's February 8, 2010 "Order Granting Plaintiff-Appellee Cynthia Nakamura's
+Motion to Publish This Court's Memorandum Opinion filed on December 29, 2009."IN THE INTERMEDIATE COURT OF APPEALS
+OF THE STATE OF HAWAI #I
+---o0o---
+CYNTHIA NAKAMURA, individually and on behalf of all
+others similarly situated, Plaintiff-Appellee,
+v.
+COUNTRYWIDE HOME LOANS, INC., Defendant-Appellant,
+and
+DOE DEFENDANTS 1-50, Defendants-Appellees
+NO. 27993
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT
+(CIVIL NO. 04-1-1830)
+FEBRUARY 8, 2010
+NAKAMURA, C.J., AND FOLEY, J.1
+OPINION OF THE COURT BY FOLEY, J.
+This is an interlocutory appeal by Defendant-Appellant
+Countrywide Home Loans, Inc. (Countrywide) from the "Order
+Granting Plaintiff's Motion For (A) Class Certification and (B)
+to Approve Notice of Pendency of Class Action Filed on
+January 27, 2006" (Certification Order) filed on May 22, 2006 in
+the Circuit Court of the First Circuit (circuit court).2 
+On appeal,3 Countrywide contends the circuit court
+abused its discretion by
+(1)certifying the class of mortgagors who were
+charged a fee by Countrywide for paying off their mortgagesFOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+2(Class) without conducting the rigorous analysis required under
+Hawai#i Rules of Civil Procedure (HRCP) Rule 23 (Rule 23) to
+determine whether Plaintiff-Appellee Cynthia Nakamura (Nakamura),
+the Class representative seeking certification, carried her
+burden of proving compliance;
+(2)holding that common issues predominate over
+individual issues and that a class action is the superior method
+for the adjudication of this controversy;
+(3)holding that Nakamura met the typicality and
+adequacy requirements because she was subject to materially
+different statement fee practices than the majority of the absent
+Class members;
+(4)holding that Nakamura and Class counsel met the
+adequacy requirement despite a conflict of interest; and 
+(5)directing Countrywide to identify Class members to
+Nakamura.
+I.  BACKGROUND
+Countrywide is a mortgage loan servicing company. 
+Countrywide performs such tasks as maintaining escrow accounts,
+collecting and processing monthly loan payments, and performing
+administrative services incident to the handling of a mortgage
+loan payment.
+On or about July 13, 1993, Nakamura and her husband
+obtained a mortgage loan, which was assigned to Countrywide on
+that date.  The mortgage contained a release clause, which
+provided as follows:  "Upon payment of all sums secured by this
+Security Instrument, Lender shall release this Security
+Instrument without charge to Borrower, Borrower shall pay any
+recordation costs."  In August 2002, Nakamura sought to pay off
+the mortgage held by Countrywide and refinance the loan.  
+Nakamura's escrow officer requested a payoff statement from
+Countrywide that listed the total amount due from Nakamura to
+release her mortgage.  On August 12, 2002, Countrywide sent a
+payoff statement to Nakamura's escrow officer that included theFOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+3principal and interest due on the mortgage; the county recording
+fee; a subtotal consisting of the principal, interest, and
+recording fee; a "Statement Fee - Due From Closing Agent" of
+$60.00 (Statement Fee); and the "Total Due," which was comprised
+of the subtotal amount and the Statement Fee amount.  Based on
+the HUD-1 Uniform Settlement Statement ("HUD-1") prepared by her
+escrow officer for the transaction, Nakamura paid the "Total Due"
+amount, which covered her mortgage, recording fee, and the
+Statement Fee. 
+On October 7, 2004, Nakamura and Janet Haole, both
+individually and on behalf of all others similarly situated,
+filed a complaint against Countrywide.  Janet Haole was dismissed
+as a plaintiff by stipulation of the parties on October 3, 2005.
+On November 17, 2005, Nakamura, individually and on
+behalf of all others similarly situated, filed a First Amended
+Complaint.  In the class-action lawsuit, Nakamura stated that she
+"represents a class of mortgagors who have been damaged by
+[Countrywide's] unlawful and deceptive trade practices." 
+Specifically, Nakamura alleged that Countrywide had no right to
+charge Statement Fees, in addition to principal and interest,
+before releasing its mortgages.  She further alleged that
+Countrywide falsely implied to Nakamura and the Class that (1)
+the Statement Fee was secured by the mortgage, (2) the consumer
+had to pay the Statement Fee to have the mortgage released, and
+(3) Countrywide was authorized to charge the Statement Fee.
+On appeal, Nakamura contends that Countrywide knew the
+Statement Fee was a sham because Countrywide had a secret policy
+of waiving the Statement Fee upon request, and she argues that
+Countrywide's charging of the Statement Fee amounts to an unfair
+or deceptive trade practice, in violation of Hawaii Revised
+Statutes (HRS) § 480-2 (1993). 
+On January 27, 2006, Nakamura filed a Motion for (A)
+Class Certification and (B) to Approve Notice of Pendency of
+Class Action (Certification Motion).  On May 22, 2006, theFOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+4circuit court entered the Certification Order granting Nakamura's
+Motion.  In the Certification Order, the circuit court, inter
+alia, (1) granted Class certification, (2) appointed Nakamura as
+Class representative, and (3) ordered Countrywide to provide
+Nakamura with a list of Class members' names and addresses.
+On June 6, 2006, Countrywide filed an application to
+file an interlocutory appeal of the Certification Order.  The
+circuit court granted Countrywide's application on June 20, 2006,
+and Countrywide timely filed its notice of appeal.
+II.  STANDARD OF REVIEW
+"The trial court is vested with broad discretion in
+deciding whether to certify a class and discretionary authority
+is normally undisturbed on review."  Levi v. Univ. of Hawai
+#i, 67
+Haw. 90, 92, 679 P.2d 129, 131 (1984).  An abuse of discretion
+occurs if the trial court has "clearly exceeded the bounds of
+reason or disregarded rules or principles of law or practice to
+the substantial detriment of a party litigant."  Amfac, Inc. v.
+Waikiki Beachcomber Inv. Co., 74 Haw. 85, 114, 839 P.2d 10, 26
+(1992).
+In Life of the Land v. Land Use Commission of Hawai #i,
+63 Haw. 166, 623 P.2d 431 (1981), the Hawai# i Supreme Court
+stated that "[t]he party who seeks to utilize a class action must
+establish his right to do so."  Id. at 180, 623 P.2d at 443.  The
+court further stated that the party seeking class certification
+assumes a burden of establishing the four prerequisites for class
+certification delineated in Rule 23(a) and further demonstrating
+the presence of a suitable situation for the maintenance of a
+class action under the criteria set forth in at least one of the
+subdivisions of Rule 23(b).  Id.  A failure to satisfy the burden
+in any respect can result in a denial of the necessary
+certification.  Id. at 181, 623 P.2d at 443 (footnotes omitted;
+emphasis added).FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+5III.  DISCUSSION
+A.CLASS CERTIFICATION
+"A trial court is vested with broad discretion in
+deciding whether to certify a class, and discretionary authority
+is normally undisturbed on review," unless the record discloses a
+possible "misapprehension or misapplication of Rule 23's
+criteria."  Id. at 180, 623 P.2d at 443 (internal quotation marks
+and citation omitted).  The Hawai #i Supreme Court has emphasized: 
+The trial court must apply [Rule 23's] criteria
+to the facts of the case in determining whether the
+suit brought as a class action is to be so maintained,
+and if it fails to do this its determination is
+reviewable; but where it does apply the criteria to
+the facts of the case it has broad discretion as to
+whether the suit may be maintained as a class action,
+which the appellate court should normally respect. 
+3B Moore's Federal Practice ¶ 23.97, at 23-596 (1980).
+Id. at 180 n.16, 623 P.2d at 443 n.16. 
+However, the party seeking to utilize a class action
+must establish his or her right to do so.  Life of the Land, 63
+Haw. at 180, 623 P.2d at 443.  Thus, the party requesting class
+certification assumes the burden of establishing the four
+prerequisites for class certification under Rule 23(a) and
+"demonstrating the presence of a suitable situation for the
+maintenance of a class action under the criteria set forth in at
+least one of the subdivisions of Rule 23(b)."  Id. at 181, 623
+P.2d at 443.
+In the instant case, Nakamura had to show all of the
+following to meet her burden for class certification:  (1) the
+class is so numerous that joinder of all members is
+impracticable; (2) questions of law or fact common to the class
+exist; (3) the claims or defenses of the representative parties
+are typical of those of the class; (4) the representative parties
+fairly and adequately will protect the class's interest; and (5)
+questions of law or fact common to the class predominate over
+questions affecting individual members, and a class action isFOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+6superior over available methods for the fair and efficient
+adjudication of the controversy.  Rule 23(a) and (b)(3).
+1.Rule 23(a)(1):  Numerosity
+Rule 23(a)(1) provides that a class action is only
+maintainable where "the class is so numerous that joinder of all
+members is impracticable."  The key inquiry is "Who Are The
+Proposed Class, and the specific criteria are that its members be
+identifiable and their possible joinder impracticable."  Life of
+the Land, 63 Haw. at 181, 623 P.2d at 444 (internal quotation
+marks and citation omitted).  
+In this case, the Certification Order defined the Class
+as follows: 
+Hawaii Consumers who, during the period from October 7, 2000
+to the date on which this order is filed, paid a "Statement
+Fee" to [Countrywide] in connection with the payoff of their
+note and mortgage.  Excluded from the Class are
+[Countrywide] and its subsidiaries, parents, and affiliates,
+including all directors, officers and employees.
+The record denotes that there were over 19,000 Countrywide loans
+on which a Statement Fee was charged to Hawai #i consumers.  It is
+unclear from the record exactly how many Statement Fees were paid
+directly by the consumer and how many were paid by third parties. 
+However, it is clear from Countrywide's admissions in the record
+that there were numerous consumers who either paid the Statement
+Fee directly or indirectly through their closing escrow agent
+and, thus, would be members of the proposed Class.  Furthermore,
+Countrywide has not contended on appeal that the number of
+proposed Class members is insufficient.  Therefore, this court
+will not disturb the finding of requisite "numerosity" in the
+Certification Order. 
+2.Rule 23(a)(2):  Commonality 
+Rule 23(a)(2) requires that there are questions of law
+or fact common to the class.  The inquiry focuses on "What Are
+The Claims Or Defenses Of The Class, and the pertinent criterion
+is the presence of common claims or defenses extending throughoutFOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+7the class."  Life of the Land, 63 Haw. at 182, 623 P.2d at 444
+(internal quotation marks and citation omitted).  
+Nakamura's First Amended Complaint alleges several
+factual and legal issues of common concern to persons affected by
+Countrywide's conduct.  Specifically, Nakamura states:
+(a) Each Class member paid off a mortgage to
+[Countrywide]; 
+(b) Each payoff was for an amount dictated by
+[Countrywide]; 
+(c) Each Class member was charged a "Statement Fee";
+(d) If [Nakamura] proves that these fees were
+improperly charged or disclosed then each Class member was
+damaged in the identical manner[;]
+(e) A common question of fact and/or law is whether
+[Countrywide] committed an unfair or deceptive trade
+practice in charging the Class a "Statement Fee"[;] 
+(f) A common question of fact and/or law is whether
+[Countrywide] needed to disclose to the Class (and/or not to
+falsely imply otherwise) that [Countrywide] was obligated to
+release the mortgage without payment of a Statement Fee
+and/or that the Statement Fee would not be charged or
+reimbursed if requested[;] 
+(g) A common question of fact and/or law is whether
+[Countrywide] should be enjoined from engaging in the
+alleged wrongful acts listed above[;] 
+(h) A common question of fact and/or law is the total
+amount of money which [Countrywide] obtained from their
+wrongful act and how much total funds should [Countrywide]
+be required to disgorge. 
+Based on the allegations in the First Amended Complaint and the
+fact that Countrywide does not contend on appeal that the circuit
+court was incorrect in finding "commonality," there is no basis
+for overruling the circuit court's implicit finding on the
+existence of common issues and facts under Rule 23(a)(2). 
+3.Rule 23(a)(3):  Typicality 
+Under Rule 23(a)(3), a prerequisite to class
+certification is that "the claims or defenses of the
+representative parties [be] typical of the claims or defenses of
+the class."  The critical question is "What Is The Individual
+Claim (Or Defense) Of The Class Representative, and the primaryFOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+8requisite is that his [or her] claim or defense be essentially
+similar . . . throughout the class."  Life of the Land, 63 Haw.
+at 182, 623 P.2d at 444.  
+The Hawai# i Supreme Court has found that the
+"typicality" requirement of Rule 23(a)(3) has an affinity to the
+"adequacy" requirement of Rule 23(a)(4) and read together focus
+on whether there is a conflict of interest between class members. 
+Life of the Land, 63 Haw. at 182-83, 623 P.2d at 444-45.  The
+Hawai#i Supreme Court explained what it meant by a conflict of
+interest: 
+Where colorable [claims or] defenses may derive from
+particular circumstances, rather than from those common to
+the putative [plaintiff or] defendant class, a class
+certification is improper.  And where there is indication
+that the representative may be particularly interested in a
+claim or defense unique to him or a subclass, the court is
+justified in denying class action certification on the
+grounds of inadequate representation.  
+Id. at 184, 623 P.2d at 445 (internal quotation marks, citations,
+and brackets omitted).  
+Countrywide contends the circuit court abused its
+discretion by holding that Nakamura met the typicality
+requirement because she was subject to materially different
+Statement Fee practices than the majority of the absent Class
+members.  Countrywide argues that Nakamura's claims are not
+typical of Class members because the Statement Fee practices at
+the time of Nakamura's claims are different from the Statement
+Fee practices of post-November 25, 2002 Class members.
+Between October 7, 2000 and November 25, 2002,
+Countrywide charged a $60 Statement Fee to the closing escrow
+agent for its payoff statement service on conventional loans
+secured by property located in Hawai #i, but Countrywide provided a
+free alternative on the internet.  After November 25, 2002,
+Countrywide changed its statement fee practices.  Countrywide
+began charging a $30 Statement Fee directly to the consumer and
+offered free alternatives by internet and mail.  Citing to
+Courbat v. Dahana Ranch, Inc., 111 Hawai #i 254, 141 P.3d 427FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+9(2006), Countrywide argues that these factual differences are
+critical because the Hawai #i Supreme Court has held that the
+determination of whether there is an unfair or deceptive trade
+practice under HRS § 480-2 depends upon the totality of the
+circumstances.  Countrywide maintains that a judgment rendered in
+favor of Nakamura cannot be applied to the post-November 25, 2002
+Class members because their claims arise in a wholly different
+context and under different circumstances.
+Although there are incidental factual differences
+between Nakamura and the Class members, the nature of Nakamura's
+individual claim and the Class members' claims are essentially
+similar and there is no conflict of interest.  Nakamura and the
+Class alleged that Countrywide's practices relating to the
+collection of Statement Fees from borrowers constituted a
+deceptive trade practice under HRS § 480-2.  Specifically,
+Nakamura and the Class both argue on appeal that
+(1) Countrywide charged a Statement Fee; (2) the consumer
+was paying off a Countrywide mortgage; (3) Countrywide
+claimed that the fee was for a "service" and yet its
+internal documents stated that the fee is to "recoup some of
+the costs that we incur when paying off the loan"; (4)
+Countrywide had a hidden policy of waiving or refunding the
+fee; and (5) its notes and mortgages did not authorize
+Countrywide to charge the fee. 
+HRS § 480-2(a) provides that "[u]nfair methods of
+competition and unfair or deceptive acts or practices in the
+conduct of any trade or commerce are unlawful."  (Emphasis
+added).  The Hawai# i Supreme Court has found that the dispositive
+issue in HRS § 480-2 cases is whether the allegedly deceptive
+practice is "likely to mislead consumers acting reasonably under
+the circumstances."  Courbat, 111 Hawai# i at 262, 141 P.3d at 435. 
+Actual deception is not required -- the capacity to deceive is
+sufficient.  State of Hawai #i ex rel. Bronster v. U.S. Steel
+Corp., 82 Hawai #i 32, 51, 919 P.2d 294, 313 (1996).  "This is an
+objective test, and therefore actual reliance need not be
+established."  Yokoyama v. Midland Nat'l Life Ins. Co., No. 07-
+16825, 2009 WL 2634770, at *1 (9th Cir. Aug. 28, 2009). FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+10In the instant case, regardless of the minor factual
+differences in the Statement Fee policies before and after
+November 25, 2002, the dispositive issue in both Nakamura's
+individual claim and the Class action is whether Countrywide's
+alleged act of charging a Statement Fee constitutes a deceptive
+act under HRS § 480-2.  There is no need to look at the
+circumstances of each individual consumer because the allegations
+of the complaint are narrowly focused on the allegedly deceptive
+practices of Countrywide, and it is only necessary for the
+factfinder to determine whether those practices were capable of
+misleading a reasonable consumer.  Therefore, this court
+concludes the circuit court did not abuse its discretion in
+finding that Nakamura's claim was typical of the Class members
+under Rule 23(a)(3). 
+4.Rule 23(a)(4):  Adequacy 
+Rule 23(a)(4) provides that a class action can be
+certified if the class representative and class counsel will
+fairly and adequately protect the interests of the class.  The
+Hawai#i Supreme Court explained that "[w]here claims or defenses
+are coextensive, there is a probability of fair and adequate
+representation; where they are potentially conflicting, absentees
+are unlikely to be afforded representation consistent with
+notions of fairness and justice."  Life of the Land, 63 Haw. at
+183, 623 P.2d at 445.  
+Countrywide contends the circuit court abused its
+discretion in finding that Nakamura met her burden of
+establishing Rule 23(b)(4) because (1) Nakamura was subject to
+materially different statement fee practices than the majority of
+the absent Class members and (2) Nakamura and Class counsel have
+a conflict of interest because of their familial relationship.
+First, Countrywide argues that Nakamura is not an
+adequate representative because she was subject to materially
+different Statement Fee practices than the majority of Class
+members.  The circuit court did not abuse its discretion inFOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+  See Susman v. Lincoln Am. Corp., 561 F.2d 86, 91 (7th Cir. 1977);4
+Zlotnick v. TIE Commc'ns, Inc., 123 F.R.D. 189, 193-94 (E.D. Pa. 1988);
+Helfand v. Cenco, Inc., 80 F.R.D. 1, 6-7 (N.D. Ill. 1977); Stull v. Pool, 63
+F.R.D. 702, 704 (S.D.N.Y. 1974).
+11finding that Nakamura was an adequate representative.  Despite
+minor factual differences, Nakamura's individual claim and the
+Class members' claims are coextensive and without conflict.  Both
+claims are based on the same exact Countrywide conduct of
+charging an unauthorized Statement Fee.  Additionally, Nakamura
+and the Class have suffered the same alleged injury of being
+forced to pay that Statement Fee.  Furthermore, as analyzed
+above, the dispositive issue in both claims is whether
+Countrywide's conduct constitutes a deceptive act under HRS
+§ 480-2.  Because Nakamura and the Class possess the same
+interest and have suffered the same injury, Nakamura is likely to
+prosecute the Class members' case as she would litigate her own. 
+Second, Countrywide argues it was an abuse of
+discretion to find that Nakamura and Class counsel met the
+adequacy requirements of Rule 23(a)(4) despite an irreconcilable
+conflict of interest between them and the Class members. 
+Specifically, Countrywide argues that Nakamura and Class counsel
+are inadequate representatives because Nakamura's brother, John
+Shimizu, is a partner in one of the law firms acting as Class
+counsel and thus stands to gain financially from the prosecution
+of this case.
+Countrywide cites to several federal court decisions
+where courts have found a class representative inadequate because
+of a close familial relationship to class counsel.4  The primary
+concern of the courts in these cases has been the threat that the
+class representative may have an interest in the attorneys' fees
+the class counsel will seek.  See, e.g., Susman v. Lincoln Am.
+Corp., 561 F.2d 86, 91 (7th Cir. 1977).  In Susman, a
+consolidated appeal, the United States Court of Appeals for the
+Seventh Circuit affirmed a lower court decision that denied classFOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+  See Irvin E. Schermer Trust v. Sun Equities Corp., 116 F.R.D. 332,5
+338 (D. Minn. 1987); Lewis v. Goldsmith, 95 F.R.D. 15, 20 (D.N.J. 1982);
+Fischer v. Int'l Tel. & Tel. Corp., 72 F.R.D. 170, 173-74 (E.D.N.Y. 1976).
+12certification because Plaintiff Michael Susman (Michael), the
+named class representative in one of the consolidated cases, did
+not satisfy the adequacy requirements of Federal Rules of Civil
+Procedure (FRCP) Rule 23(a)(4).  Id. at 87-89 & 92.  Michael was
+found to be an inadequate class representative because he was the
+brother of class counsel, who was one of only two attorneys
+representing Michael and the class.  Id. at 89.  The Seventh
+Circuit noted that Michael's "possible recovery as plaintiff is
+dwarfed by attorney's fees which could be awarded to his brother
+as class counsel."  Id. at 95.  This being the case, the Seventh
+Circuit agreed with the district court's statement that "there
+exists the possibility that one so situated will become more
+interested in maximizing the 'return' to his counsel than in
+aggressively presenting the proposed class' [sic] action."  Id.  
+However, it should be noted that neither Susman nor any of the
+other cases cited to by Countrywide held that there is a per se
+rule of disqualification when class representative and class
+counsel are closely related.  
+On the other hand, Nakamura has cited to several
+federal court decisions where the federal courts granted class
+certification despite a close familial relationship between class
+representative and class counsel.5  See, e.g., Irvin E. Schermer
+Trust v. Sun Equities Corp., 116 F.R.D. 332, 338 (D. Minn. 1987).
+In Schermer, the United States District Court for the District of
+Minnesota found a class representative adequate under FRCP Rule
+23(a)(4) even though the class representative was the father of
+class counsel.  Id. at 338.  The district court adopted the
+reasoning of other federal courts that have granted class
+certification despite a familial relationship between class
+representative and class counsel because of the absence of anyFOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+13concrete evidence to support the existence of such collusion. 
+Id. at 337-38.  
+In the instant case, Nakamura and the Class are
+represented by two law firms:  Van Buren Campbell & Shimizu and
+Alston Hunt Floyd & Ing.  Nakamura is the sister of John Shimizu,
+a partner in Van Buren, Campbell & Shimizu.  Other than the fact
+that Nakamura and Shimizu are brother and sister, Countrywide has
+presented no evidence that the relationship will create a
+conflict of interest.  Furthermore, Nakamura states, and
+Countrywide does not dispute, that Shimizu has no personal
+involvement in the case whatsoever.
+Given that there is no per se rule of disqualification,
+Countrywide has not presented any evidence of a conflict of
+interest, and the circuit court has wide discretion in certifying
+a class, this court concludes the circuit court did not abuse its
+discretion in finding Nakamura and Class counsel met the adequacy
+requirements of Rule 23(a)(4).  
+5.Rule 23(b)(3):  Predominance and Superiority 
+To certify a class, a plaintiff must meet the
+prerequisites of Rule 23(a) and one of the subdivisions of Rule
+23(b).  In this case, Nakamura sought to certify the Class under
+Rule 23(b)(3), which provides: 
+(b)  Class Actions Maintainable.  An action may be
+maintained as a class action if the prerequisites of
+subdivision (a) are satisfied, and in addition:
+. . . .
+(3)  the court finds that the questions of law
+or fact common to the members of the class predominate
+over any questions affecting only individual members,
+and that a class action is superior to other available
+methods for the fair and efficient adjudication of the
+controversy.  The matters pertinent to the findings
+include:  (A) the interest of members of the class in
+individually controlling the prosecution or defense of
+separate actions; (B) the extent and nature of any
+litigation concerning the controversy already
+commenced by or against members of the class; (C) the
+desirability or undesirability of concentrating the
+litigation of the claims in the particular forum; (D)
+the difficulties likely to be encountered in the
+management of a class action.FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+14Countrywide argues that the circuit court abused its
+discretion by holding that common issues predominate over
+individual issues and that a class action is the superior method
+for the adjudication of this controversy.  Specifically,
+Countrywide argues that individualized proof (a) regarding each
+Class member's knowledge of and agreement to pay the Statement
+Fee bears directly upon Countrywide's defenses, (b) is necessary
+to establish the contractual violation element of Nakamura's
+class claims, and (c) is necessary to establish the injury
+element of Nakamura's class claims.  
+a.Predominance  
+The Rule 23(b)(3) predominance requirement "tests
+whether proposed classes are sufficiently cohesive to warrant
+adjudication by representation."  Amchem Prods., Inc. v. Windsor,
+521 U.S. 591, 623 (1997).  When common questions are a
+significant aspect of the case and they can be resolved for all
+members of the class in a single adjudication, there is clear
+justification for handling the dispute on a representative rather
+than an individual basis.  Hanlon v. Chrysler Corp., 150 F.3d
+1011, 1019-20 (9th Cir. 1998).  Thus, if proof of the essential
+elements of the cause of action requires individual treatment,
+then predominance is defeated and the class should not be
+certified.  In re: Hydrogen Peroxide Antitrust Litig., 552 F.3d
+305, 310-11 (3d Cir. 2008).  
+Nakamura's primary claim is that Countrywide's
+Statement Fee policies and practices constitute a deceptive
+practice under HRS § 480-2.  As stated above, the dispositive
+issue in HRS § 480-2 cases is whether the alleged deceptive
+practice "is likely to mislead consumers acting reasonably under
+the circumstances."  Courbat, 111 Hawai# i at 262, 141 P.3d at 435
+"A deceptive act or practice is (1) a representation, omission,
+or practice that (2) is likely to mislead consumers acting
+reasonably under the circumstances where (3) the representation,
+omission, or practice is material."  Id. (internal quotation. FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+15marks, citation, and brackets omitted).  The representation,
+omission, or practice is material if it is likely to affect a
+consumer's choice.  Id.  Whether information is likely to affect
+a consumer's choice is an objective inquiry, "turning on whether
+the act or omission is likely to mislead consumers as to
+information important to consumers in making a decision regarding
+the product or service."  Id. (internal quotation marks,
+citations, and footnote omitted).
+Despite Countrywide's argument that individual issues
+predominate over common questions, the key inquiry in both
+Nakamura's individual claim and the Class action is whether
+Countrywide's Statement Fee practices constitute deception under
+HRS § 480-2.  Specifically, the question is whether Countrywide's
+Statement Fee practices, as a natural and probable result, misled
+and caused Nakamura and the Class to pay the Statement Fee when
+they would not otherwise have done so.  The proof of the
+essential elements of HRS § 480-2 do not require individual
+treatment because the dispositive question revolves around
+Countrywide's alleged deceptive practices and not individual
+Class member transactions.  Thus, it is Countrywide's alleged act
+of withholding information about the Statement Fee waiver policy
+that will predominate and form the basis of Nakamura's individual
+claim and the Class action under HRS § 480-2.  Therefore, this
+court concludes the circuit court did not abuse its discretion in
+finding predominance.
+b.Superiority
+Under Rule 23(b)(3), class certification is appropriate
+if a class action is superior to other available methods for the
+fair and efficient adjudication of the controversy.  Having
+already found that common questions of fact and law predominate
+over individual issues, it follows that a class action is the
+superior method to adjudicate this case.  Nakamura's individual
+claim and the Class action hinge on whether Countrywide's conduct
+constitutes a deceptive practice under HRS § 480-2.  This beingFOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+16the case, the most fair and efficient adjudication of the
+controversy is through a class action.
+Moreover, Hawaii's consumer protection laws may be
+enforced through class actions.  See HRS § 480-13(c) (1993 &
+Supp. 2000) ("The remedies provided in subsections (a) and (b)
+shall be applied in class action and de facto class action
+lawsuits or proceedings.").  This court has also recognized that
+consumer protection laws are enforceable through class actions. 
+See Fuller v. Pac. Med. Collections, Inc., 78 Hawai #i 213, 218,
+891 P.2d 300, 305 (App. 1995).  Therefore, this court concludes
+that the circuit court did not abuse its discretion in finding
+superiority under Rule 23(b)(3).
+B.COUNTRYWIDE'S REMAINING ARGUMENTS
+1.Rigorous Analysis
+Countrywide contends the circuit court abused its
+discretion by failing to perform the required "rigorous analysis"
+of the Rule 23 requirements.  Countrywide cites to the United
+States Supreme Court case General Telephone Co. of Southwest v.
+Falcon, 457 U.S. 147, 161 (1982), which states that a class may
+only be certified after a "rigorous analysis" that the
+prerequisites of FRCP Rule 23 have been satisfied.  Countrywide
+argues that a "rigorous analysis" requires that "a trial court go
+beyond the pleadings to understand the claims, defenses, relevant
+facts, and applicable substantive law in order to make a
+meaningful determination of the certification issues."  (Emphasis
+in original.)  Therefore, Countrywide argues that the circuit
+court's Certification Order failed to comply with this "rigorous
+analysis" standard because the order was "inadequate, cursory and
+conclusory."
+Countrywide partially misstates the law of General
+Telephone.  In General Telephone, the Supreme Court stated:
+Sometimes the issues are plain enough from the pleadings to
+determine whether the interests of the absent parties are
+fairly encompassed within the named plaintiff's claim, and
+sometimes it may be necessary for the court to probe behindFOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+17the pleadings before coming to rest on the certification
+question. 
+Id. at 160.  Thus, a "rigorous analysis" does not require the
+court to go beyond the pleadings when the pleadings themselves
+indicate that the requirements of Rule 23 have been met.  
+In the instant case, the Certification Order provides: 
+The requirements of [HRCP] Rule 23(a) and (b)(3) are
+met as demonstrated in [Nakamura's] arguments, motion and
+supporting memoranda.  The Class is so numerous that joinder
+of all members is not practicable; there are questions of
+law or fact common to the Class; [Nakamura's] claims are
+typical of the claims of the Class; [Nakamura] and her
+counsel will fairly and adequately protect the interests of
+the Class; questions of law and fact common to the Class
+predominate over any questions affecting only individual
+members; and a class action is superior to other available
+methods of adjudicating this controversy. 
+By examining Nakamura's pleadings, the circuit court was able to
+determine that the interests of the absent parties were fairly
+encompassed by Nakamura's claims.  Thus, the circuit court
+conducted the requisite "rigorous analysis" and did not abuse its
+discretion.
+2.List of Class Members
+Countrywide contends the circuit court abused its
+discretion by directing Countrywide to identify Class members to
+Nakamura.  Specifically, the Certification Order directs
+Countrywide to "provide to [Nakamura] a list of Class members'
+names and addresses."
+The United States Supreme Court has held that FRCP
+"Rule 23(d) vests power in the district court to order one of the
+parties to perform the tasks necessary to send notice." 
+Oppenheimer Fund, Inc. v. Sanders, 437 U.S. 340, 354 (1978)
+(footnote omitted).  The general rule is that the representative
+plaintiff should bear the burden of performing tasks necessary to
+send class notice.  Id. at 357.  However, in some instances, the
+defendant may be able to perform the necessary task with less
+difficulty or expense than could the representative plaintiff. 
+Id. at 356.  Thus, FRCP Rule 23 authorizes a district court inFOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER
+18appropriate circumstances to require a defendant's cooperation in
+identifying the class members to whom notice must be sent.  Id.
+at 355.  
+ Countrywide is in the best position to identify
+Countrywide customers who were charged a Statement Fee and who
+subsequently paid that Statement Fee.  Therefore, the Circuit
+Court did not abuse its discretion in ordering Countrywide to
+provide a list to Nakamura of Class members' names and addresses.
+IV.  CONCLUSION
+The "Order Granting Plaintiff's Motion For (A) Class
+Certification and (B) to Approve Notice of Pendency of Class
+Action Filed on January 27, 2006" filed on May 22, 2006 in the
+Circuit Court of the First Circuit is affirmed.
+On the briefs:
+Patricia J. McHenry and
+W. Keoni Shultz
+(Cades Schutte LLP)
+Brooks R. Brown, pro hac vice
+(Goodwin Procter LLP)
+for Defendant-Appellant.
+Paul Alston,
+Bruce H. Wakuzawa, and
+Peter Knapman
+(Alston Hunt Floyd & Ing)
+George Van Buren and 
+Robert Campbell
+(Van Buren Campbell & Shimizu)
+for Plaintiff-Appellee.

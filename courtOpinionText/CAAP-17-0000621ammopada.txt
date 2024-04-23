@@ -1,0 +1,528 @@
+ NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+NO. CAAP-17-0000621 
+IN THE INTERMEDIATE COURT OF APPEALS 
+OF THE STATE OF HAWAI# I 
+THE BANK OF NEW YORK MELLON, AS INDENTURE TRUSTEE FOR
+CERTIFICATE-HOLDERS CWABS ASSET-BACKED NOTES TRUST 
+2006-SD4, Plaintiff-Appellee,
+v. 
+JOVEN D. BAUTISTA, COLLEEN BAUTISTA, 
+Defendants-Appellants,
+and 
+JOHN DOES 1-20, JANE DOES 1-20, DOE CORPORATIONS 1-20,
+D
+OE ENTITIES 1-20 AND DOE GOVERNMENTAL UNITS 1-20, 
+Defendants 
+APPEAL FROM THE CIRCUIT COURT OF THE FIFTH CIRCUIT 
+(CIVIL NO. 15-1-0110) 
+AMENDED  MEMORANDUM OPINION 
+(By:  Wadsworth, Presiding Judge, Nakasone and McCullen, JJ.) 1
+Defendants-Appellants Joven D. Bautista and Colleen 
+Bautista (Bautistas) appeal from the:  (1) June 22, 2017 Order 
+Denying without Prejudice Defendants' Motion to Compel (Motion to 
+Compel) Plaintiff-Appellant The Bank of New York Mellon, as 
+Indenture Trustee for Certificateholders CWABS Asset-Backed Notes 
+Trust 2006-SD4's (BONYM) Responses to Defendants' First Request 
+for Answers to Interrogatories, First Request for Production of 
+Documents and Things, and First Request for Admissions to 
+1 We amend our March 28, 2023 Memorandum Opinion pursuant to the
+Order granting partial reconsideration filed contemporaneously with this
+Amended Memorandum Opinion. NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Plaintiff Filed March 28, 2017 (Order Denying Motion to Compel); 
+(2) the August 2, 2017 Findings of Fact, Conclusions of Law and 
+Order Granting Plaintiff's Motion for Summary Judgment (MSJ) for 
+Foreclosure against All Defendants and for Interlocutory Decree 
+of Foreclosure (Foreclosure Decree); and (3) the August 2, 2017 
+Judgment (Foreclosure Judgment), filed and entered by the Circuit 
+Court of the Fifth Circuit (Circuit Court). 
+On appeal, the Bautistas contend that the Circuit 
+Court: (1) erred by granting the MSJ by "erroneously 
+conclud[ing] that there was no genuine question of material fact that [BONYM] was entitled to foreclos[ure]"; and (2) abused its discretion by "denying [the Bautistas'] motion to compel discovery because [the Bautistas] sought discovery of relevant evidence." 
+We hold that the Circuit Court: (1) erred in granting 
+summary judgment, where there were genuine issues of material fact as to whether BONYM established its (a) standing to commence a foreclosure action through its constructive possession of the promissory note via an agent at the time it filed the complaint, and (b) entitlement to foreclose where the notices of default were inadmissible; and (2) abused its discretion by denying the Bautistas' motion to compel discovery as to prior loan servicers.
+I. BACKGROUND 
+On July 28, 2015, BONYM filed a complaint for mortgage 
+foreclosure (Complaint) against the Bautistas. The Complaint 
+alleged, among other things, that on August 4, 2006, the 
+Bautistas executed a promissory note (Note) for $308,000.00 
+payable to Quick Loan Funding, payment of which was secured by a 
+mortgage (Mortgage) (collectively, the Loan) on real property 
+located at 3569 Makoa Street, Hanapçpç, Hawai# i
+  96716 (Property). 
+The Complaint further alleged that: on May 24, 2007, the 
+Mortgage was assigned to Bank of New York as Trustee for the Noteholders CWABS Inc. Asset-Backed Notes, Series 2006-SD4006-SD4 (BONY); on February 5, 2010, BONY assigned the Mortgage to BONYM; 
+the Bautistas defaulted under the payment terms of the Loan; 
+following written notice to the Bautistas and their failure to 
+2  
+ 
+  
+ NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+cure the default, BONYM exercised its option to accelerate the 
+Loan and declare the entire principal balance of the Mortgage and Note immediately due and payable; and BONYM was entitled to foreclose the Mortgage and sell the Property. 
+On May 25, 2016, BONYM moved for summary judgment. 
+BONYM's MSJ included a Declaration of Indebtedness and on Prior Business Records signed by Alvin Denmon (Denmon), "as an 
+authorized representative of New Penn Financial, LLC d/b/a 
+Shellpoint Mortgage Servicing" (Shellpoint), which became the 
+servicing agent for BONYM on November 16, 2012. In the 
+Declaration (Denmon Declaration), Denmon declared that: 
+2. [Shellpoint] maintains records for the loan
+in its capacity as [BONYM]'s servicer. As part of my
+job responsibilities for [Shellpoint], I am familiar 
+with the type of records maintained by [Shellpoint] in connection with the Loan. 
+. . . . 
+4. The information in this Declaration is taken from 
+[Shellpoint]'s business records. I have personal knowledge
+of [Shellpoint]'s procedures for creating these records
+.
+They are: (a) made at or near the time of the occurrence ofthe matters recorded by persons with personal knowledge ofthe information in the business record, or from informationtransmitted by persons with personal knowledge; (b) kept inthe course of [Shellpoint]'s regularly conducted businessactivities; and (c) created by [Shellpoint] as a regularpractice. 
+. . . . 
+13. [Shellpoint] became [BONYM]'s loan servicer for
+the Loan being foreclosed in this action on 11-16-12. 
+14. I have been in the mortgage loan servicing
+industry for 8 years. 
+Based upon my occupational
+experience, I know that loan servicers follow an industrywide standard on how to keep and maintain business recordson the loan services performed in their portfolio whichrecordkeeping is part of the regularly conducted activity ofloan servicers. . . . 
+. . . . 
+21. The prior loan servicer for this mortgage loan
+was Bank of America ("Prior Servicer") [( BOA)]
+. 
+22. Upon becoming [BONYM]'s loan servicer,
+[Shellpoint] took custody and control of loan documents andbusiness records of [BOA] and incorporated all such recordsinto the business records of [Shellpoint] . 
+3  
+ 
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+23. Before [BOA]'s records were incorporated into
+[Shellpoint]'s own business records, it conducted an
+independent check into [BOA]'s records and found them inkeeping with industry wide loan servicing standards and onlyintegrated them into [Shellpoint]'s own business recordsafter finding [BOA]'s records were made as part of aregularly conducted activity, met industry standards anddetermined to be trustworthy . 
+24. In performing its services to [BONYM],
+[Shellpoint] relies upon the accuracy of [BOA]'s records . .
+. . 
+25. [BOA]'s records are regularly used and relied
+upon by [Shellpoint] . . . . 
+. . . . 
+27.
+ [Shellpoint] did review and determine [BOA]'s
+business records were trustworthy otherwise it would nothave incorporated it into its own records[.] 
+(Emphases added). 
+On May 31, 2016, BONYM was served with the Bautistas' 
+First Request for Answers to Interrogatories; First Request for 
+Production of Documents and Things; and First Request for Admissions (Discovery Requests). 
+On September 6, 2016, the Bautistas filed an opposition 
+to the MSJ, disputing: (1) BONYM's entitlement to foreclose because BONYM failed to respond to discovery requests pertaining to the validity of a notice of default allegedly issued to the Bautistas by Countrywide Home Loans, Inc. (Countrywide), servicer 
+of the Loan, on December 4, 2006 (2006 Countrywide Default
+Notice), and (2) whether BONYM had physical possession of the 
+Note. 
+On September 9, 2016, BONYM filed a reply requesting a 
+continuance of the hearing to respond to, inter alia, the 
+Bautistas' Discovery Requests. The hearing was continued to 
+January 25, 2017. 
+On January 3, 2017, BONYM filed a Supplemental 
+Declaration in support of its MSJ. Tracy A. Sirmans (Sirmans), 
+an employee of Shellpoint, signed the Declaration (First Sirmans 
+Declaration), which stated: 
+4  NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+2. . . . I have personal knowledge of the facts and
+matters stated herein based on my review of the business
+records described below. . . . 
+. . . . 
+4. In the regular performance of my job functions, I
+have access to and am familiar with [BONYM]'s records and 
+documents relating to this case (the "Records"), including
+Shellpoint's business records relating to the servicing ofthe Loan . . . . 
+. . . . 
+5. The Shellpoint Records document transactions
+relating to the Loan and were made and are maintained in the
+regular course of Shellpoint's business consistent withShellpoint's regular practices, which require that recordsdocumenting transactions relating to serviced mortgage loansbe made at or near the time of the transactions documented by a person with knowledge of the transactions or frominformation transmitted by such a person. 
+6. Upon becoming [BONYM]'s loan servicer, Shellpoint
+took custody and control of loan documents and businessrecords of the prior servicer, [BOA], and incorporated allsuch records into the business records of Shellpoint . 
+(Emphases added).   Sirmans attached Notices of Intent to 
+Accelerate Indebtedness and Foreclose dated November 25, 2013, 
+purportedly issued by Resurgent Mortgage Servicing, a Division of Resurgent Capital Services, L.P. (Resurgent), advising the 
+Bautistas of their default under the terms of the Note and 
+Mortgage for failure to make payments as of August 1, 2007 (2013 
+Resurgent Default Notices).
+ 2
+On January 11, 2017, BONYM served responses to the 
+Bautistas's first discovery requests.  On January 17, 2017, the 
+Bautistas served their second discovery requests.  The parties 
+stipulated to continue the MSJ hearing to March 8, 2017. 
+On February 28, 2017, the Bautistas filed a 
+supplemental memorandum in opposition to the MSJ, requesting a 
+continuance pursuant to Hawai# i Rules of Civil Procedure (HRCP) 
+2 The 2013 Resurgent Default Notices consisted of separate,
+identical notices, one addressed to Joven D. Bautista, and the other addressed
+to Colleen Bautista. 
+5   NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Rule 56(f)  because BONYM had not responded to their second 
+discovery requests, the Bautistas were pursuing loan 
+modification, and the notices of default attached to the declarations were inadmissible. 3
+On March 1, 2017, BONYM served responses to the 
+Bautistas' second discovery requests. 
+On March 3, 2017, BONYM filed a supplemental memorandum 
+regarding standing in support of the MSJ, which included a "Declaration of Counsel Re: Standing" (Stone Standing
+Declaration), executed by BONYM's counsel Peter T. Stone (Stone) 
+of TMLF Hawaii, LLLC (TMLF Hawaii).  Stone declared that: 
+12. On April 24, 2015, our law firm received the
+original Note dated August 4, 2006 signed by Defendants
+[Bautistas], payable to Quick Loan Funding in the amount of$308,000.00 ("Note") from [BONYM]'s loan servicer,[Shellpoint]. Attached as Exhibit "8" is a true and correct copy of Bailee Letter [sic] acknowledging our receipt of theNote from Shellpoint on April 24, 2015. 
+13. On July 28, 2015, the Complaint, and attached
+Affirmation, was filed. A true and correct copy of theComplaint with attached Affirmation is attached hereto asExhibit "9". 
+14. As counsel for [BONYM], we had possession of the
+original Note more than three months before the Complaintwas filed. 
+15. We have had continuous possession of the Note
+since April 24, 2015 to the present and will have the Noteavailable for the Court's inspection at the hearing of theMotion.
+[] 4
+3 HRCP Rule 56(f) provides: 
+When affidavits are unavailable . Should it 
+appear from the affidavits of a party opposing themotion that the party cannot for reasons statedpresent by affidavit facts essential to justify theparty's opposition, the court may refuse theapplication for judgment or may order a continuance topermit affidavits to be obtained or depositions to betaken or discovery to be had or may make such otherorder as is just. 
+4 The transcript of the June 21, 2017 MSJ does not indicate that the
+Note was brought to the hearing and presented to the Circuit Court forinspection. 
+6   
+ NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+16. The copy of the Note attached as Exhibit "l" to
+[BONYM]'s Motion filed May 25, 2016 is a true and correct
+copy of the original Note in our possession. 
+(Emphases and footnote added). While the Stone Standing 
+Declaration referred to a "Bailee Letter acknowledging our 
+receipt of the Note from Shellpoint on April 24, 2015[,]" 
+(emphasis added), the attached Bailee Letter identified 
+"Resurgent Capital Services"5 (and not Shellpoint) as the entity 
+that possessed and delivered the Note. 
+The Bailee Letter states in pertinent part: 
+Dear Entity Requesting Documents: 
+You requested original loan documents in connection with
+services that you are providing to Resurgent CapitalServices. The original signed documents indicated above("Documents") have been delivered to you. 
+By signing this Bailee Letter Agreement ("Agreement"): (a)
+You confirm receipt of the Documents, and that your requestfor and possession of the documents is appropriate andnecessary in connection with the services that you areproviding to Resurgent Capital Services . . . . 
+Please sign this Agreement and return the original Agreement
+to Resurgent Capital Services. 
+You requested the Documents in correction with services that
+you provide to Resurgent Capital Services . . . . 
+(Emphases added).  The Mortgage Law Firm, PLC (TMLF CA) is 
+identified as the "Entity" requesting the Note in the Bailee 
+Letter. The Bailee Letter indicates that the Note is being provided "in connection with the services that [TMLF CA] is providing to Resurgent Capital Services[.]" 
+On March 14, 2017, the MSJ hearing was continued to 
+June 21, 2017. 
+On March 28, 2017, the Bautistas filed their Motion to 
+Compel, arguing that improper objections raised by BONYM had prevented the Bautistas from obtaining: (1) information to confirm whether BONYM had standing to enforce the Note; 
+5 The Bailee Letter identified the entity possessing the Note as
+"Resurgent Capital Services." Neither the Stone Standing Declaration nor the
+Bailee Letter indicates whether Resurgent Capital Services is the same entityas Resurgent. 
+7  
+ NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+(2) discovery as to prior servicers; and (3) responses regarding 
+the authenticity and validity of Note indorsements — all of whichwere purportedly necessary to defend against BONYM's MSJ. In  
+opposition, BONYM argued, inter alia, that the Bautistas were seeking discovery for purposes of delay and the information sought in the first and second discovery requests was not relevant to defending against the MSJ. 
+The Circuit Court heard the Bautistas' Motion to Compel 
+on May 2, 2017.  The Circuit Court denied the motion without 
+prejudice, concluding that the Bautistas sought to compel 
+discovery that was not relevant and was premature. 
+On May 24, 2017, BONYM filed a second supplemental 
+declaration in support of the MSJ. The declaration by Sirmans (Second Sirmans Declaration) stated: 
+2. . . . I have personal knowledge of the facts and
+matters stated herein based on my review of the business
+records described below. . . . 
+3. This Supplemental Declaration incorporates by
+reference the statements made and exhibits referred to in the [Indebtedness Declaration] and other declarations filedin support of [BONYM]'s Motion. 
+4. In the regular performance of my job functions, I 
+have access to and am familiar with [BONYM]'s records anddocuments relating to this case (the "Records"), includingShellpoint's business records relating to the servicing ofthe Loan (the "Shellpoint Records"). In making thisSupplemental Declaration, I relied upon the Records. 
+. . . . 
+17. On or about 11/16/2012, the servicer of the
+subject loan transferred from [BOA] to [Resurgent]. 
+18. Attached as Exhibit 16 is a true and correct copy
+of a letter to the [Bautistas] from Resurgent dated11/19/2012, from the Records. 
+19. On or about 10/01/2013, Shellpoint acquired
+Resurgent from Resurgent Capital Services
+ ("Resurgent
+Capital"). 
+20. Effective 3/1/2014, Resurgent became a
+subservicer of Shellpoint. 
+21. Attached as Exhibit 17 is a true and correct copy
+of a letter to the [Bautistas] from Resurgent and Shellpointdated 2/14/2014. 
+8  
+ NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+22. On or about 4/24/2015, under the direction of and
+with authority from Shellpoint, Resurgent Capital Services
+delivered the subject original promissory note to [TMLF CA],[BONYM]'s counsel. 
+(Emphases added). 
+On May 30, 2017, BONYM filed another supplemental 
+memorandum regarding standing in support of its MSJ, which 
+included a "Supplemental 'Toledo' Declaration of Custodian of Note" (Santellan Standing Declaration), executed by TMLF CA 
+employee and Note custodian, Gina Santellan (Santellan). 
+Santellan declared that she executed a Bailee Letter Agreement, 
+attaching the Bailee Letter
+6 as an exhibit, which purported to 
+confirm receipt of the original Note by TMLF CA on April 24, 2015, as follows: 
+12. On April 24, 2015, I [(Santellan)] personally
+executed the two page [Bailee Letter] acknowledging receipt
+of the Note executed by Joven Bautista, a true and correctcopy of which is attached as Exhibit "19" which daterepresents the date we took possession of the original Noteas custodian for [BONYM]. Under the direction of and withauthority from Shellpoint, Resurgent Capital Servicesdelivered the original Note to us. 
+(Emphasis added). 
+On June 7, 2017, the Bautistas filed a supplemental 
+memorandum in opposition, arguing that the copy of the notice of 
+default attached thereto was inadmissible as lacking sufficient foundation; the Bautistas were pursuing loan modification; and the Stone Standing Declaration contradicted the Santellan Standing Declaration. 
+At the June 21, 2017 MSJ hearing, the Circuit Court 
+granted the MSJ stating that there was no genuine issue as to any material facts and all factors for entitlement to foreclose were met pursuant to Bank of Honolulu, N.A. v. Anderson, 3 Haw. App. 545, 551, 654 P.2d 1370, 1375 (1982).
+7 
+6 The Bailee Letter attached to the Stone Standing Declaration and
+to the Santellan Standing Declaration were identical. 
+7 Under Anderson , to prove entitlement to the foreclosure remedy, a
+movant must prove: "(1) the existence of the Agreement, (2) the terms of the
+(continued...) 
+9 7(...continued)   NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+On June 22, 2017, the Circuit Court filed its Order 
+Denying Motion to Compel. 
+On August 2, 2017, the Circuit Court entered the 
+Foreclosure Decree and its accompanying Foreclosure Judgment. 
+The Foreclosure Decree further instructed that "no action shall be taken by BONYM to enforce this Order for a period of 30 days," for the Bautistas to clarify the status of their loan modification. 
+The Bautistas timely appealed.
+II. STANDARD OF REVIEW 
+A. Summary Judgment 
+"An award of summary judgment is reviewed de novo and 
+'is appropriate where there is no genuine issue as to the material fact and the moving party is entitled to judgment as a matter of law.'" U.S. Bank N.A. v. Mattos, 140 Hawai# i 26, 30, 
+398 P.3d 615, 619 (2017) (quoting French v. Haw. Pizza Hut, Inc., 105 Hawai# i 462, 466, 99 P.3d 1046, 1050 (2004)). It is 
+well-established that: 
+[S]ummary judgment is appropriate if the pleadings,
+depositions, answers to interrogatories, andadmissions on file, together with the affidavits, ifany, show that there is no genuine issue as to anymaterial fact and that the moving party is entitled tojudgment as a matter of law. A fact is material if proof of that fact would have the effect ofestablishing or refuting one of the essential elementsof a cause of action or defense asserted by theparties. The evidence must be viewed in the lightmost favorable to the non-moving party. In other words, we must view all of the evidence and inferencesdrawn therefrom in the light most favorable to theparty opposing the motion. 
+Ibbetson v. Kaiawe, 143 Hawai# i 1, 10–11, 422 P.3d 1, 10–11 
+(2018) (brackets in original) (quoting Kahale v. City & Cnty. of 
+Honolulu, 104 Hawai# i 341, 344, 90 P.3d 233, 236 (2004)). In 
+addition, 
+Agreement, (3) default by [Defendant] under the terms of the Agreement, and
+(4)
+ the giving of the cancellation notice and recordation of an affidavit to
+such effect." 3 Haw. App. at 551, 654 P.2d at 1375 (citations omitted). 
+10 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+[t]he burden is on the party moving for summary
+judgment (moving party) to show the absence of anygenuine issue as to all material facts, which, underapplicable principles of substantive law, entitles themoving party to judgment as a matter of law. This burden has two components. 
+First, the moving party has the burden of producing
+support for its claim that: (1) no genuine issue ofmaterial fact exists with respect to the essentialelements of the claim or defense which the motion seeks to establish or which the motion questions; and(2) based on the undisputed facts, it is entitled tosummary judgment as a matter of law. Only when themoving party satisfies its initial burden ofproduction does the burden shift to the non-movingparty to respond to the motion for summary judgmentand demonstrate specific facts, as opposed to generalallegations, that present a genuine issue worthy oftrial. 
+Second, the moving party bears the ultimate burden of
+persuasion. This burden always remains with themoving party and requires the moving party to convincethe court that no genuine issue of material factexists and that the moving party is entitled tosummary judgment as a matter of law. 
+Mattos, 140 Hawai# i at 30, 398 P.3d at 619 (quoting French, 105 
+Hawai#i at 470, 99 P.3d at 1054).
+B. Motion to Compel Discovery 
+The [HRCP] reflect a basic philosophy that a party to
+a civil action should be entitled to the disclosure of all relevant information in the possession of another personprior to trial, unless the information is privileged.However, the extent to which discovery is permitted underRule 26 is subject to considerable latitude and thediscretion of the trial court. Thus, the exercise of suchdiscretion will not be disturbed in the absence of a clear abuse of discretion that results in substantial prejudice toa party. Accordingly, the applicable standard of review ona trial court's ruling on a motion to compel discovery,brought pursuant to HRCP Rule 26, is abuse of discretion. 
+Anastasi v. Fid. Nat. Title Ins. Co., 137 Hawai# i 104, 111–12, 
+366 P.3d 160, 167–68 (2016) (quoting Hac v. Univ. of Hawai# i, 102 
+Hawai#i 92, 100–01, 73 P.3d 46, 54–55 (2003)).
+III. DISCUSSION
+ In their first point of error, the Bautistas contend 
+that the MSJ was erroneously granted because (1) the Circuit 
+Court erroneously concluded that BONYM had possession of the Note and thus had standing to commence the foreclosure action; (  2) the 
+Circuit Court erroneously admitted into evidence notices of 
+11  
+ NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+default based on testimony from unqualified witnesses; and (3) 
+the Circuit Court erroneously ruled on the MSJ and violated 
+Hawaii Revised Statutes (HRS) § 454M-5.5(k)8 because BONYM was 
+reviewing the Bautistas' pending loan modification at the time. We conclude that BONYM did not establish the absence of disputed material facts regarding its standing to foreclose and the admissibility of the default notices, and we do not reach the Bautistas' third argument.
+A. The Circuit Court erred in concluding that
+there were no genuine issues of material factthat BONYM had constructive possession of theNote and had established its standing tocommence a foreclosure action when BONYM filed the Complaint. 
+The Bautistas argue that the Bailee Letter "create[d] a 
+reasonable inference that TMLF CA possessed the Note solely on 
+behalf of Resurgent Capital Services when this case commenced[;]" and that the "summary judgment record lack[ed] any evidence that Resurgent Capital Services was BONYM's or Shellpoint's agent." The Bautistas claim that because the record did "not permit the inference that Resurgent Capital Services was itself an agent of either BONYM or Shellpoint, . . . a genuine question of material fact remain[ed] as to whether BONYM could have constructively possessed the Note through TMLF CA." 
+To establish standing, "a foreclosing plaintiff must 
+necessarily prove its entitlement to enforce the note as it is the default on the note that gives rise to the action." Bank of 
+Am., N.A. v. Reyes-Toledo, 139 Hawai# i 361, 368, 390 P.3d 1248, 
+8 HRS § 454M-5.5(k) (2015), entitled "Residential mortgage loan
+delinquencies and loss mitigation efforts" states: 
+(k) A mortgage servicer shall avoid taking steps to
+foreclose or to refer a borrower to foreclosure if the borrower has requested and is being considered for a lossmitigation option or if the borrower is in a trial orpermanent loan modification and is not more than thirty daysin default under the loan modification agreement. 
+12 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+1255 (2017) (citation omitted);9 see also Mattos, 140 Hawai# i at 
+33, 398 P.3d at 622 (defining "person entitled to enforce the 
+note"). This means "a foreclosing plaintiff must establish its standing to bring a lawsuit at the commencement of the proceeding, not merely at the summary judgment stage." Deutsche 
+Bank Nat'l Tr. Co. as Tr. for Morgan Stanley ABS Cap. I Inc. Tr. 2006-NC4 v. Yata
+, 152 Hawai# i 322, 335, 526 P.3d 299, 312 (2023) 
+(quoting U.S. Bank Tr., N.A. as Tr. for LSF9 Master Participation Tr. v. Verhagen, 149 Hawai# i 315, 327, 489 P.3d 419, 431 (2021)). 
+In the mortgage foreclosure context, "the requirement of standing overlaps with a plaintiff's burden of proving its entitlement to enforce the subject promissory note" under HRS § 490:3-301. Verhagen, 149 Hawai# i at 327, 489 P.3d at 431 (citation omitted). 
+Actual or constructive possession of a promissory note 
+may be established by testimony supported by admissible documentary evidence. See id. at 327-28, 489 P.3d at 431-32. 
+"[A] defendant may counter [an] inference of possession at the time of filing [the complaint] with evidence setting forth 'specific facts showing that there is a genuine issue' as to whether the plaintiff actually possessed the subject note at the time it filed suit." Id. at 328, 489 P.3d at 432 (citing HRCP 
+Rule 56(e)). 
+In 
+Verhagen, the supreme court concluded that the loan 
+servicer's testimony that the plaintiff had actual or constructive possession of the note was sufficient because it was supported by admissible documentary evidence, such as a bailee letter, showing that the plaintiff possessed a promissory note six weeks before the filing of the complaint and at the time of summary judgment. Id.In Yata, the supreme court concluded that 
+possession of the promissory note was not established where, 
+9 In Reyes-Toledo, the supreme court held that summary judgment was
+improperly granted where a material factual dispute remained as to whether the
+foreclosing bank "possessed the Note at the time of the filing of thecomplaint," which raised the issue of whether the bank "had standing toforeclose on the Property at the time it brought the foreclosure action."139 Hawai #i at 370, 390 P.3d at 1257. 
+13  NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+despite the plaintiff bank's counsel declaring that the plaintiff 
+was the holder of the promissory note, no admissible documentary evidence, such as a bailee letter, was submitted to support the declaration. 152 Hawai# i at 336, 526 P.3d at 313. 
+Here, BONYM relied on the Bailee Letter as the 
+admissible documentary evidence showing that it constructively possessed the Note through its agent, TMLF CA, when it filed suit against the Bautistas. Viewing the Bailee Letter in the light most favorable to the non-movant Bautistas, see Ibbetson, 143 Hawai# i at 11, 422 P.3d at 11, the Bailee letter does not 
+support BONYM's claim that it established its standing to file suit. 
+The Bailee Letter stated, multiple times, that the Note 
+was being provided to TMLF CA in connection "with the services that you [(TMLF CA)] are providing to Resurgent Capital Services[.]" In executing the Bailee Letter, TMLF CA "agree[d] to act as Bailee" for Resurgent Capital Services. Thus, the Bailee Letter identified Resurgent Capital Services, and not BONYM or its loan servicer Shellpoint, as the bailor on whose behalf TMLF CA possessed the Note as bailee. The Bailee Letter created a reasonable inference that TMLF CA possessed the Note solely on behalf of Resurgent Capital Services. 
+Relying on the Bailee Letter, the Stone Standing 
+Declaration acknowledged "receipt of the Note from Shellpoint." The Bailee Letter, however, documents receipt of the Note by TMLF CA from Resurgent Capital Services
+ — — not Shellpoint. There was 
+no language in the Stone Standing Declaration or the Bailee Letter connecting TMLF Hawaii to Resurgent Capital Services, or connecting Shellpoint to Resurgent Capital Services. Thus, the Bailee Letter does not support the assertion in the Stone Standing Declaration that TMLF Hawaii, as BONYM's agent, received the Note from Shellpoint on April 24, 2015 and was in continuous 
+possession of the original Note at the time it filed suit on July 28, 2015. See Verhagen, 149 Hawai# i at 328, 489 P.3d at 432. 
+Relying on the Bailee Letter, the Santellan Standing 
+Declaration stated: "[u]nder the direction of and with authority 
+14  
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+from Shellpoint, Resurgent Capital Services delivered the 
+original Note to us." The Bailee Letter, however, only referenced Resurgent Capital Services, and did not make any reference to Shellpoint or to Shellpoint's affiliation with Resurgent Capital Services.  There was no documentary evidence 
+attached to the Santellan Standing Declaration supporting 
+Santellan's assertion that Resurgent Capital Services acted "[u]nder the direction of and with authority from Shellpoint" when it delivered the Note to the bailee, TMLF CA. See id. 
+In their memoranda on appeal addressing the Bautistas' 
+motion for partial reconsideration, both the Bautistas and BONYM also addressed whether the Second Sirmans Declaration, which contains the same assertion in the Santellan Standing Declaration that Resurgent Capital Services delivered the Note to BONYM's counsel "under the direction of and with authority from Shellpoint[,]" constituted evidence supporting an agency 
+relationship between either BONYM or Shellpoint, with Resurgent 
+Capital Services. We conclude that it does not. The Second Sirmans Declaration asserted that "Shellpoint acquired Resurgent from Resurgent Capital Services" in 2013; Resurgent "became a subservicer of Shellpoint" in 2014; and Resurgent Capital Services "delivered" the original Note to BONYM's counsel "[o]n or about 4/25/2014, under the direction of and with authority from Shellpoint[.]" There was no documentary evidence attached supporting these assertions that the Note was delivered on April 24, 2015, and that Resurgent Capital Services, the entity that possessed and delivered the Note, did so "with authority from Shellpoint[.]" 
+We conclude, viewing the evidence in the light most 
+favorable to the non-movants Bautistas, that the only documentary evidence supplied, the Bailee Letter, created a reasonable inference that TMLF CA possessed the Note solely on behalf of Resurgent Capital Services when the case commenced. See 
+Ibbetson, 143 Hawaii at 11, 422 P.3d at 11. The record did not establish, as undisputed fact, an agency relationship between 
+15 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Resurgent Capital Services and BONYM, or with BONYM's loan 
+servicer, Shellpoint. Thus, a genuine issue of material fact remained as to whether BONYM constructively possessed the Note through its agent, TMLF CA, when it filed the Complaint; and the Circuit Court's grant of summary judgment on BONYM's standing to file suit was erroneous. See Mattos, 140 Hawai# i at 30, 398 P.3d 
+at 619. 
+B. The Circuit Court erred in concluding that
+there was no genuine issue of material factas to whether notice of default was given tothe Bautistas where the default notices were inadmissible. 
+The Bautistas contend that there were genuine issues of 
+material fact as to whether they were given a proper notice of 
+default before BONYM commenced this action. In particular, the Bautistas argue that BONYM's declarants did not lay the necessary foundation to properly admit the 2006 Countrywide Default Notice and the 2013 Resurgent Default Notices into evidence. As to the 2006 Countrywide Default Notice, the Bautistas argue that BONYM presented no testimony from a witness who was familiar enough with the record-keeping system of Countrywide to explain how the record was generated in the ordinary course of business or who indicated that Countrywide's records were received by Shellpoint and incorporated into its records. As to the 2013 Resurgent Default Notices, the Bautistas similarly argue that BONYM presented no testimony from a witness who was familiar with Resurgent's record-keeping system or who indicated that Resurgent's records were incorporated into Shellpoint's records. The Bautistas' contentions have merit. 
+Under Hawai# i law, a foreclosing party "'must 
+demonstrate that all conditions precedent to foreclosure under the note and mortgage are satisfied and that all steps required by statute have been strictly complied with'" to prove entitlement to foreclose. Wells Fargo Bank, N.A. v. Behrendt, 
+142 Hawai# i 37, 41, 414 P.3d 89, 93 (2018) (quoting Reyes-Toledo, 
+139 Hawai# i at 367, 390 P.3d at 1254). Typically, this requires 
+16  NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+that the plaintiff "prove the existence of an agreement, the 
+terms of the agreement, a default by the mortgagor under the terms of the agreement, and giving of the cancellation notice." Reyes-Toledo, 139 Hawai# i at 367, 390 P.3d at 1254; Anderson, 
+3 Haw. App. at 551, 654 P.2d at 1375 (citing 55 Am. Jur. 2d Mortgages § 554 (1971); 3 R. Powell, Real Property ¶ 463 (1981)). 
+Under HRCP Rule 56(e) and Rules of the Circuit Courts 
+of the State of Hawai# i Rule 7(g), "'a declaration in support of 
+a summary judgment motion must be based on personal knowledge, contain facts that would be admissible in evidence, and show that the declarant is competent to testify as to the matters contained within the declaration.'" Behrendt, 142 Hawai# i at 44, 414 P.3d 
+at 96 (quoting Mattos, 140 Hawai# i at 30, 398 P.3d at 619). 
+Inadmissible evidence "cannot serve as a basis for awarding or denying summary judgment." Id. (internal quotation marks and 
+citation omitted). 
+An incorporated record is admissible in the absence of 
+testimony regarding its creation if the following three conditions are satisfied: 
+Incorporated records are admissible under HRE Rule 803(b)(6)
+when a custodian or qualified witness testifies that [(1)]the documents were incorporated and kept in the normalcourse of business, [(2)] that the incorporating businesstypically relies upon the accuracy of the contents of thedocuments, and [(3)] the circumstances otherwise indicatethe trustworthiness of the document. 
+Id. at 45, 414 P.3d at 97 (citations omitted). Further, 
+"evidence that a business has incorporated and relied on a record created by another organization speaks directly to that record's reliability. When accompanied by testimony about other circumstances that also indicate the record's trustworthiness, such evidence is an acceptable substitute for testimony concerning a record's actual creation." Verhagen, 149 Hawai# i at 
+326, 489 P.3d at 430 (italics omitted). 
+Here, BONYM submitted the 2006 Countrywide Default 
+Notice and the 2013 Resurgent Default Notices to the Circuit Court as evidence that the Bautistas were given notice of 
+17   NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+default. It appears that BONYM sought to authenticate the 2006 
+Countrywide Default Notice as a record of a regularly conducted business activity under HRE Rule 803(b)(6) through the Denmon Declaration and the First Sirmans Declaration. It appears that BONYM sought to authenticate the 2013 Resurgent Default Notices as business records through the First Sirmans Declaration and the Second Sirmans Declaration. 
+1. 2006 Countrywide Default Notice: the 
+Denmon Declaration and the First Sirmans Declaration 
+The record reflects that the Countrywide Default Notice 
+was purportedly issued in 2006 by Countrywide. However, the 
+Denmon Declaration and the First Sirmans Declaration do not mention Countrywide. Rather, the Denmon Declaration identifies Denmon as "an authorized representative" of Shellpoint, familiar with the type of records maintained by Shellpoint in connection with the Loan. Similarly, the First Sirmans Declaration identifies Sirmans as a foreclosure litigation specialist of Shellpoint, familiar with Shellpoint's business records relating to the servicing of the Loan. Further, the Denmon Declaration and the First Sirmans Declaration state that upon becoming BONYM's loan servicer, Shellpoint incorporated the records of the prior servicer, BOA, into Shellpoint's records. Neither Declaration indicates that Shellpoint incorporated the records of Countrywide into Shellpoint's records, through BOA's records or otherwise; and neither Declaration addresses the remaining criteria in Behrendt for the admission of incorporated business records created by Countrywide. 
+As a result, BONYM presented no testimony from a 
+witness who had "enough familiarity with the record-keeping system of the business that created the [Countrywide Default Notice, i.e., Countrywide,] to explain how the record was generated in the ordinary course of business." Behrendt, 
+142 Hawai# i at 45, 414 P.3d at 97. In addition, BONYM presented 
+no evidence that records created by Countrywide, such as the 
+18 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Countrywide Default Notice, were incorporated into Shellpoint's 
+records. Accordingly, BONYM did not lay the necessary foundation under Behrendt to admit the Countrywide Default Notice. See id.; 
+see also Verhagen, 149 Hawai# i at 326, 489 P.3d at 430. 
+2. 2013 Resurgent Default Notices: the 
+First Sirmans Declaration and the Second Sirmans Declaration 
+The record reflects that the Resurgent Default Notices 
+were issued in 2013 by Resurgent. However, the First Sirmans 
+Declaration does not mention Resurgent, and, as relevant here, the Second Sirmans Declaration states only that in 2013, Shellpoint acquired Resurgent, and Resurgent became a subservicer of Shellpoint. 
+BONYM argues that the Second Sirmans Declaration 
+"contains both testimony by Sirmans and attached exhibits that establish Resurgent's records are a part of Shellpoint's business records." BONYM directs this court to Exhibit 17 of the Second Sirmans Declaration, which is a Notice of Transfer of Servicing from Resurgent to Shellpoint. 
+Exhibit 17, along with Paragraphs 19 and 20 of the 
+Second Sirmans Declaration indicate that, in 2013, Shellpoint acquired Resurgent, and Resurgent became a subservicer of Shellpoint. However, nothing in the Declaration indicates that Shellpoint actually incorporated the records of Resurgent, kept the documents in the normal course of business, and relied on the records. See Behrendt, 142 Hawai# i at 45, 414 P.3d at 97. 
+Similarly, nothing in the Declaration indicates the trustworthiness of Resurgent's records. See Verhagen, 
+149 Hawai# i at 326, 489 P.3d at 430 (stating that loan servicer's 
+testimony that it "reviewed hard copies of the [incorporated] documents, engaged in a 'due diligence' process, and reviewed payment history and accounting associated with the loan" was evidence indicating the trustworthiness of the documents); see also Behrendt, 142 Hawai# i at 45, 414 P.3d at 97. The record 
+19   NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+thus reflects that BONYM did not lay an adequate foundation under 
+Behrendt for the admission of the 2013 Resurgent Default Notices. 
+For the reasons set forth above, we conclude that the 
+Circuit Court erred by admitting the 2006 Countrywide Default Notice and the 2013 Resurgent Default Notices into evidence. Without admissible evidence that a notice of default was delivered to the Bautistas, there was a genuine issue of material fact as to BONYM's entitlement to foreclose. See Reyes-Toledo, 
+139 Hawai# i at 367, 390 P.3d at 1254; Anderson, 3 Haw. App. at 
+551, 654 P.2d at 1375. The Circuit Court erred in granting summary judgment. See Mattos, 140 Hawai# i at 30, 398 P.3d at 
+619. 
+C. The Circuit Court abused its discretion in 
+denying the Motion to Compel. 
+The Bautistas contend that the Circuit Court abused its 
+discretion in not permitting, and characterizing as "not 
+relevant" and "premature," (1) discovery aimed at ascertaining the Loan's prior servicers; and (2) discovery as to whether the Note indorsements were authentic and valid. The Bautistas argue that the Circuit Court's denial of their motion to compel "substantially prejudiced" their ability to defend the MSJ. The first contention has merit. 
+1. Discovery as to prior servicers was
+relevant. 
+"Parties may obtain discovery regarding any matter, not 
+privileged, which is relevant to the subject matter involved in the pending action. . . ." HRCP Rule 26(b)(1)(A). The Bautistas propounded discovery to investigate purported material discrepancies in the record concerning which entity serviced the Bautistas's Loan, citing Bank of New York Mellon v. Lemay, 137 Hawai# i 30, 34, 364 P.3d 928, 932 (App. 2015) for the 
+proposition that "documents establishing . . . the servicer of the loan" are "relevant to defending [defendant's] interest in the property under HRCP Rule 26(b)(1)(A)." Factually, Lemay is 
+distinguishable because the party requesting discovery was an 
+20 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+intervening third-party purchaser seeking to establish 
+plaintiff's standing to enforce the note, id. at 32, 364 P.3d at 930, not mortgagors like the Bautistas. However, in Lemay, this court recognized that the denial of the intervenor's motion to compel precluded it "from defending against the MSJ by denying discovery that may have led to the existence of genuine issues of material fact" and that under HRCP Rule 26(b)(1)(A), the intervenor was permitted to seek discovery of information relevant to defending its interest in the property. Id. at 35, 
+364 P.3d at 933. Here, in light of our determination supra regarding the inadmissibility of the default notices based on the records of prior loan servicers, the Bautistas are similarly entitled to seek discovery related to the prior loan servicers, which is relevant to the Bautistas' interests in defending against the MSJ. See id. The Circuit Court abused its 
+discretion by denying the Bautistas' Motion to Compel with regard to the prior loan servicers. See Anastasi, 137 Hawai# i at 
+111-12, 366 P.3d at 167-68. 
+2. The denial of discovery regarding the
+Note indorsements was not an abuse of discretion. 
+The Bautistas propounded discovery to ascertain, 
+pursuant to HRS § 490:3-308(a) (2008),
+10 the validity of Note 
+indorsements by and/or to Countrywide, Quick Loan Funding, and 
+10 HRS § 490:3-308(a) provides, in pertinent part: 
+Proof of signatures and status as holder in due
+course.  (a) In an action with respect to an
+instrument, the authenticity of, and authority tomake, each signature on the instrument is admittedunless specifically denied in the pleadings. If the validity of a signature is denied in the pleadings,the burden of establishing validity is on the personclaiming validity, but the signature is presumed to beauthentic and authorized[.] 
+21  NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+BONYM,11 and pertaining to any purported sale of the Loan amongst 
+these entities. The Circuit Court denied this discovery. 
+The Bautistas contend that the denial of this discovery 
+"prevented them from obtaining evidence to establish a recognized 
+defense," citing HRS § 490:3-308(a). Under this section, the Bautistas assert that they "were permitted to question the validity of both endorsements as a defense to [BONYM]'s enforcement of the Note." 
+HRS § 490:3-308(a) provides that: "[i]n an action with 
+respect to an instrument, the authenticity of, and authority to make, each signature on the instrument is admitted unless specifically denied in the pleadings." (Emphasis added). The statute contains a presumption that each signature is authentic and authorized unless a party specifically denies it in the pleadings and introduces evidence "which would support a finding that the signature is forged or unauthorized." In re Tyrell, 
+528 B.R. 790, 794 n.11 (Bankr. D. Haw. 2015) (quoting HRS § 490:3-308, cmt. 1). The Uniform Commercial Code Comment to the statute explains that: "In the absence of such specific denial the signature stands admitted, and is not in issue. Nothing in this section is intended, however, to prevent amendment of the pleadings in a proper case." HRS § 490:3-308 cmt. 
+Here, the Bautistas do not dispute that their pleading 
+omitted the specific denial required under HRS § 490:3-308(a) to put at issue any signature that the Bautistas claimed was not authentic or authorized. Id.They claim, however, that they 
+"could have moved to amend their Answer had [BONYM] given inculpatory responses" to the discovery requests. This claim is 
+unpersuasive because it relies on the possibility of an amended 
+answer, which in turn, relies on the possibility of receiving 
+11 In their Motion to Compel, the Bautistas sought discovery
+regarding BONYM's claims that Quick Loan Funding "subsequently endorsed the
+Note to [Countrywide], which in turn endorsed the Note in blank." The Bautistas disputed the authenticity and validity of two indorsement signatureson the Note: (1) a special indorsement by Quick Loan Funding to Countrywide;and (2) a subsequent indorsement-in-blank by Countrywide. 
+22   NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+"inculpatory responses" from BONYM. The Bautistas' argument is 
+similar to the speculative challenges rejected by the Tyrell court,
+12 as follows: 
+The debtors presented no evidence to contradict BOA's 
+proof. Instead, the debtor speculated that some of
+the endorsements on the note are not genuine. But speculation is not sufficient to create a genuinedispute of fact. Under the Uniform Commercial Code,the signatures on the note are presumed authentic
+unless a party denies it in the pleadings and 
+introduces evidence "which would support a finding
+that the signature is forged or unauthorized." The burden of proving the authenticity of the signaturesdoes not shift to the party seeking to enforce theinstrument unless and until the opposing party makesan adequate showing that the signatures are notauthentic. 
+528 B.R. at 794 (footnotes omitted). 
+"[T]he extent to which discovery is permitted under 
+Rule 26 is subject to considerable latitude and the discretion of 
+the trial court." Anastasi, 137 Hawai# i at 111-12, 366 P.3d at 
+167-68 (citation omitted). We conclude here that the statutory presumption in HRS § 490:3-308(a) applies, because the Bautistas' answer did not specifically deny the authenticity of, or authorization for, any indorsement, so as to put its authenticity or authorization at issue. Thus, the Circuit Court did not abuse its discretion in denying the Motion to Compel with respect to the indorsements. See id.
+IV.
+ CONCLUSION 
+For the foregoing reasons, we (1) vacate in part and 
+affirm in part the June 22, 2017 Order Denying without Prejudice Defendants' Motion to Compel Plaintiff-Appellant The Bank of New York Mellon, as Indenture Trustee for Certificateholders CWABS Asset-Backed Notes Trust 2006-SD4's Responses to Defendants' First Request for Answers to Interrogatories, First Request for Production of Documents and Things, and First Request for 
+12 In Tyrell, the bankruptcy court determined that the lender
+established it was entitled to enforce the subject note via a declaration
+stating that it was in possession of the original note and presenting whatappeared to be the original, wet-ink version at the hearing. 528 B.R. at 794. 
+23 NOT FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Admissions to Plaintiff Filed March 28, 2017; (2) vacate the 
+August 2, 2017 Findings of Fact, Conclusions of Law and Order Granting Plaintiff's Motion for Summary Judgment for Foreclosure against All Defendants and for Interlocutory Decree of Foreclosure; and (3) vacate the August 2, 2017 Judgment. We remand for further proceedings consistent with this Memorandum Opinion. 
+DATED: Honolulu, Hawai# i, July 14, 2023. 
+On the briefs: 
+/s/ Clyde J. Wadsworth
+Presiding Judge
+/s/ Karen T. Nakasone
+Associate Judge
+/s/ Sonja M.P. McCullen
+Associate Judge Van-Alan H. Shima, (Affinity Law Group),for Defendants-Appellants. 
+Charles R. Prather,
+(TMLF Hawaii LLLC), for Plaintiff-Appellee. 
+24 

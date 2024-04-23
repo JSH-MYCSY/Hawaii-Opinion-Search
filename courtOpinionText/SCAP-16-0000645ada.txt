@@ -1,0 +1,695 @@
+***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER***  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ʻI 
+ 
+---o0o--- 
+ 
+ 
+WELLS FARGO BANK, N.A. AS TRUSTEE FOR OPTION ONE MORTGAGE LOAN 
+TRUST 2006 -2 ASSET- BACKED CERTIFICATES, SERIES 2006- 2, 
+Petitioner/Plaintiff- Appellee,  
+ 
+vs. 
+ 
+JONATHAN BEHRENDT, 
+Respondent/Defendant- Appellant,  
+ 
+and 
+ 
+ASSOCIATION OF APARTMENT OWNERS OF WAIALAE GARDENS; SAND CANYON 
+CORPORATION; JOHN DOES 1- 10; JANE DOES 1- 10; DOE PARTNERSHIPS 1-  
+10; DOE PARTNERSHIPS 1- 10; DOE CORPORATIONS 1- 10; DOE ENTITIES 
+1-10 and DOE GOVERNMENTAL UNITS 1 -10, 
+Respondents/Defendants- Appellees.  
+ 
+ 
+SCAP-16-0000645 
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT 
+(CAAP-16-0000645; CIV. NO. 15- 1-0407) 
+ 
+MARCH 15, 2018 
+ 
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, POLLACK, AND WILSON, JJ. 
+ 
+OPINION OF THE COURT BY POLLACK, J. 
+  Th is case involves the question of whether a purchaser 
+of property that is subject to a mortgage to which the purchaser Electronically Filed
+Supreme Court
+SCAP-16-0000645
+15-MAR-2018
+07:52 AM***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER***  
+ 
+2 is not a party may challenge a foreclosing plaintiff’s 
+entitlement to enforce the n
+ote.  Because the requirement-- that 
+a party seeking to foreclose must be entitled to enforce the 
+note at the inception of the foreclosure action --is based on 
+principles of standing and statutory construction rather than 
+contractual rights, we hold that the purchaser may assert such a 
+challenge.  In this case, the evidence Wells Fargo presented 
+regarding its entitlement to foreclose at the time the complaint 
+was filed was not admissible on the grounds 
+asserted, and 
+therefore we vacate 
+the order granting summary judgment and 
+remand the case for further proceedings. 
+I. BACKGROUND 
+A. Factual History 
+ 
+ On January 30, 2006, Karen Zakarian executed a 
+promissory note (Note) in favor of the Funding Group, Inc. 
+(Funding Group) for $408,000.  Funding Group then endorsed the 
+note to Option One Mortgage Corp. (Option One) via an allonge,1 
+and Option One endorsed the N
+ote in blank via another allonge .2  
+                     
+ 1 “An ‘allonge’ is defined as ‘[a] slip of paper sometimes attached 
+to a negotiable instrument for the purpose of receiving further indorsements 
+when the original paper is filled with indorsements.’”  Mortgage Elec. 
+Registration Sys., Inc. v. Wise , 130 Hawai i 11, 14 n.6, 304 P.3d 1192, 1195 
+n.6 (2013) (quoting Allonge , Black’s Law Dictionary  (9th ed. 2009)).  
+ 2 If an instrument is endorsed in blank, it is payable to the 
+bearer.  Hawaii Revised Statutes §  490:3-205(b) (2008).  For example, a 
+holder of an instrument may write “pay to the order of” and not write the 
+ 
+(continued . . .)  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER***  
+ 
+3 The Note was secured by a mortgage executed by Zakarian in favor 
+of Funding Group (Mortgage) on property located at 1430- 4 
+Hunakai Street #106 in Honolulu (the “ Property”), which is in a 
+condominium project called Waialae Gardens.  The Mortgage was 
+subsequently assigned from Funding Group to Option One on July 
+5, 2006, and then from Option One to Wells Fargo on May 10, 
+2007. 
+  
+Following a bankruptcy proceeding, Zakarian entered 
+into a security retention agreement on March 14, 2011, with 
+American Home Mortgage Servicing, Inc. (AHMS), a loan servicer 
+acting on Wells Fargo ’s behalf, which required that she continue 
+to make payments and comply with the terms of the Note and the 
+Mortgage in order to remain in the Property .  Subsequently, a s a 
+result of a separate foreclosure action between the Association 
+of Apartment Owners of Waialae Gardens (AOAO) and Zakarian, a 
+court-appointed commissioner conveyed the Property via a 
+commissioner’
+s apartment deed to Jonathan Behrendt on November 
+23, 2011.  An exhibit to the deed noted the Mortgage as an 
+encumbrance.  AHMS notified Zakarian in a written notice dated 
+                                                                              
+(. . . continued) 
+ 
+name of the endorsee.  See Uniform Commercial Code  § 3-205 cmt. 2 (Am. Law. 
+Inst. & Unif. Law Comm’n 2002).  This is a blank endorsement.  Id. ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER***  
+ 
+4 November 29, 2011, tha t she was in default under the terms of 
+the Note and Mortgage.    
+B. Circuit Court Proceedings 
+  Wells Fargo filed a  complaint in the Circuit Court of 
+the First Circuit (circuit court) on March 9, 2015,  against 
+Behrendt and the AOAO, inter alia, seeking foreclosure of the 
+Mortgage and sale of the P roperty.  The complaint asserted that 
+Wells Fargo was the holder of the Note and entitled to enforce 
+it, that the Note was secured by the Mort gage, and that Wells 
+Fargo was the mortgagee of record.  Additionally, the complaint 
+alleged that Zakarian had defaulted in the performance of the 
+terms set forth in the Note and Mortgage.   Copies of , inter 
+alia, the Note, two allonges --one made out to Option One and one 
+endorsed in blank, the Mortgage , and assignments from Funding 
+Group to Option One and from Option One to Wells Fargo were 
+attached to the complaint as exhibits .  The complaint also 
+stated that the AOAO had previously foreclosed on the Property , 
+that the Property was conveyed to Behrendt by virtue of a 
+commissioner’s deed, and that the interest of Behrendt in the 
+Property was subject to the Mortgage.  Wells Fargo asserted that 
+it was entitled to foreclosur e of the M ortgage and the sale of 
+the Property.   
+  Following Behrendt ’s answer to the complaint, Wells 
+Fargo moved for summary judgment and for a decree of ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER***  
+ 
+5 foreclosure.  Wells Fargo attached as an exhibit to the summary 
+judgment motion, inter alia, a declaration of Vanessa Lewis 
+(Lewis Declaration).  Lewis averred that she was a contract 
+management coordinator for Ocwen Loan Servicing, LLC  (Ocwen), 
+the new servicer for Wells Fargo for the M ortgage, and in that 
+capacity had access to and was familiar with Wells Fargo’s 
+records pertaining to the case, including Ocwen’s records 
+related to servicing the loan.  Lewis indicated that she had 
+personal knowledge of the facts and matters stated,  based on her 
+review of the business records described in her declaration.  
+Lewis stated that  Ocwen’s records related to the loan were made 
+and are maintained in the regular course of Ocwen’s busine ss.  
+According to those records, Lewis represented, Wells Fargo is in 
+possession of the original  Note between Zakarian and Funding 
+Group, a copy of which was attached to the summary judgment 
+motion along with copies of the allonges and Mortgage.  
+Additionally, Lewis stated that written notice was sent to 
+Zakarian regarding her default on payments and Zakarian did not 
+timely cure the default.   
+  In opposition to the motion for summary judgment, 
+Behrendt responded that, although Lewis claimed to be an Ocwen 
+contract management coordinator and alleged that Ocwen was the 
+servicing agent for Wells Fargo, Wells Fargo did not provide the 
+court with any such authorization or agency agreement.  Behrendt ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER***  
+ 
+6 also asserted that neither Lewis nor Wells Fargo explained what 
+her role or relationship to Wells Fargo was besides claiming 
+that she had  access to Ocwen’s business records .  Lewis did not 
+claim to be the custodian of the records,  Behrendt argued, or 
+provide any foundation to establish her competency to 
+authenticate tho se records beyond merely being familiar with 
+them.  Thus, Lewis did not establish that she could authenticate 
+the documents, Behrendt concluded, and her statements were 
+inadmissible hearsay.  Behrendt therefore maintained  that Wells 
+Fargo did not meet its burden of production to succeed on the 
+summary judgment motion because there was a genuine issue of 
+material fact as to the authenticity of the N ote and as to 
+whether Wells Fargo was the holder of the N ote.   
+  In its reply, W ells Fargo asserted that the testimony 
+in the Lewis Declaration was admissible because it was subject 
+to the hearsay exception for records of regularly conducted 
+activity.  (Citing Hawaii  Rules of Evidence (HRE) Rule 
+803(b)(6).)    
+  On August 30, 2016, the  circuit court granted the 
+summary judgment motion and issu ed a foreclosure decree in its 
+“Findings of Fact, Conclusions of Law and Order Granting 
+Plaintiff’s Motion for Summary Judgment and Decree of 
+Foreclosure Against All Defendants on Complaint Filed March 9, 
+2015” (Order Granting Summary Judgment).  The court concluded ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER***  
+ 
+7 that Wells Fargo was entitled to have the M ortgage foreclosed, 
+to have the Property sold free and clear of Behrendt’s claim, 
+and to judgment in its favor as a matter of law on the 
+complaint.  The court filed the Judgment the same day.  Behrendt 
+timely appealed to the Intermediate Court of Appeals (ICA) from 
+the Order Granting Summary Judgment and the 
+Judgment.3  
+II. STANDARD S OF REVIEW  
+  A trial court’s findings of fact are reviewed under 
+the clearly erroneous standard of review.  Dan v. State , 76 
+Hawaiʻi 423, 428, 879 P.2d 528, 533 (1994).  Conclusions of law , 
+in contrast, are reviewed de novo under the right/wrong standard 
+of review.  Marvin v. Pflueger , 127 Hawai ʻi 490, 495, 280 P.3d 
+88, 93 (2012).  Specifically, t his court reviews “the circuit 
+court’s grant or denial of summary judgment de novo.”  Querubin  
+v. Thronas, 107 Hawai ʻi 48, 56, 109 P.3d 689, 697 (2005)  
+(citation omitted) .  Similarly,  “[o]n appeal, the issue of 
+standing is reviewed de novo under the right/wrong standard.”  
+Abaya v. Mantell, 112 Hawai ʻi 176, 180, 145 P.3d 719, 723 (2006)  
+(citation omitted) . 
+                     
+ 3 After the parties submitted briefs to the ICA, Wells Fargo ’s 
+application for transfer to this court was granted.  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER***  
+ 
+8 III.  DISCUSSION 
+A. Behrendt May Challenge T he Foreclosure  
+  Behrendt contends that Wells Fargo did not meet its 
+prima facie burden of demonstrating that it was the holder of 
+the Note at the time its complaint was filed and did not provide 
+any admissible evidence that it possessed the Note at the time 
+it filed its motion for summary judgment.  Behrendt argues that 
+the Lewis Declaration did not demonstrate personal knowledge of 
+any such facts, but that it instead offered vague, unfounded 
+testimony that amounted to inadmissible hearsay at best.  Thus, 
+Behrendt contends that genuine issues of material fact remain in 
+dispute with respect to Wells Fargo ’s standing to sue  and 
+whether Wells Fargo was the holder of the Note secured by the 
+Mortgage.   
+  Wells Fargo contends that because B ehrendt was not a 
+party to the Mortgage and because the re is no reasonable 
+interpretation of the M ortgage that confers contractual rights, 
+obligations, and standing on Behrendt or upon any subsequent 
+purchaser who does not assume the M ortgage,  Behrendt could not 
+“seek protection” under the Mortgage.  In other words, Wells 
+Fargo argues that Behrendt could not attack the  foreclosure 
+because he  was a stranger to the Note and Mortgage  transactions.  
+Further, even if Behrendt did have standing to challenge the 
+foreclosure, Wells Fargo asserts , the circuit cou rt’s Judgment ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER***  
+ 
+9 should still be affirmed because t he Lewis Declaration 
+authenticates4 the original N ote and states that Lewis had 
+“personal knowledge of the facts and matters stated” based on 
+her access to and familiarity with its records and the records 
+of Ocwen.  
+ 
+ Under our law, a foreclosing party “must demonstrate 
+that all conditions precedent to foreclosure under the note and 
+mortgage are satisfied and that all steps required by statute 
+have been strictly complied with” to prove entitlement to 
+foreclose.  Bank of Am., N.A. v. Reyes-Toledo
+, 139 Hawai ʻi 361, 
+367, 390 P.3d 1248, 1254 (2017).  Typically,  this requires that 
+the plaintiff “prove the existence of an agreement, the terms of 
+the agreement, a default by the mortgagor under the terms of the 
+agreement, and giving of the cancellation notice. ”  Id.  A 
+foreclosing plaintiff must also prove that the plaintiff is 
+entitled to foreclose the note and mortgage.  Id. (citing Hawaii 
+Revised Statutes (HRS ) §§ 490:3-301, 490:3-308). 
+  Th e “burden to prove entitlement to enforce the note 
+overlaps with the requirements of standing in foreclosure 
+actions.”  Id. (quoting Mottl v. Miyahira , 95 Hawai ʻi 381, 388, 
+23 P.3d 716, 723 (2001)).  Under the doctrine of standing, a 
+                     
+ 4 Wells Fargo uses the term “authenticate” to  describe the act of 
+confirming through a declaration that a document is a record of regularly 
+conducted business activities admissible under HRE Rule 803(b)(6).   ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER***  
+ 
+10 plaintiff typically must have suffered an injury-in -fact to 
+“justify exercise of the court’s remedial power s on his or her 
+behalf.”  Id. at 368, 390 P.3d at 1255 (citing 
+Mottl, 95 Hawai ʻi 
+at 389, 23 P.3d at 724).  For a foreclosing plaintiff, the 
+injury-in-fact is the mortgag
+or’s “failure to satisfy its 
+obligation to pay the debt obligation to the note holder.”  Id.  
+Thus, a person seeking to judicially foreclose on a mortgage 
+following a promissory note default must establish that it was 
+the “person entitled to enforce the note” as defined by HRS § 
+490:3-301 at the time the foreclosure complaint was filed to 
+satisfy standing and to be entitled to prevail on the merits
+.5  
+                     
+ 5 HRS § 490:3 -301 (2008) provides as follows:  
+“Person entitled to enforce” an instrument means (i) the 
+holder of the instrument, (ii) a nonholder in possession of 
+the instrument who has the rights of a holder, or (iii) a 
+person not in possession of the instrument who is entitled 
+to enforce the instrument pursuant to section 490:3 -309 or 
+490:3-418(d).  A person may be a person entitled to enforce 
+the instrument even though the person is not the owner of 
+the instrument or is in wrongful possession of the 
+instrument.  
+“Holder” as it appears in the statute is a term of art, defined in HRS § 
+490:1-201(b) (2008 ) as  
+(1) The person in possession of a negotiable instrument 
+that is payable either to bearer or to an identified person 
+that is the person in possession;  
+(2) The person in possession of a negotiable tangible 
+document of title if the goods are deliverable either to 
+bearer or to the order of the person in possession; or  
+(3) The person in control of a negotiable electronic 
+document of title.  
+ 
+(continued . . .)  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER***  
+ 
+11 Id. at 368-69, 390  P.3d at 1255-56; see also  U.S. Bank N.A. v.  
+Mattos, 140 Hawai i 26, 33, 398 P.3d 615, 622 (2017); In re 1250  
+Oceanside Partners , 260 F.  Supp. 3d 1300 , 1312-13 (D. Haw. 
+2017).   
+  Wells Fargo claims that Behrendt ’s defense is 
+contractually-based and thus barred by the fact that Behrendt 
+was a stranger to the Note and Mortgage .  This court’s reasoning 
+in 
+Reyes-Toledo, however, was based on standing and the 
+statutory foreclosure requirements and was not tied to the 
+contractual relationship between the parties.  See 139 Hawai i at 
+367–68, 390 P.3d at 1254 –55 (“[A] foreclosing plaintiff does not 
+have standing to foreclose on mortgaged property unless the 
+plaintiff was entitled to enforce the note that has been 
+defaulted on.” (citing Hanalei, BRC Inc. v. Porter , 7 Haw. App. 
+304, 310, 760 P.2d 676, 680 (1988))).  Thus, principles 
+governing standing and statutory construction--and not 
+contracts--apply here.6 
+                                                                              
+(. . . continued) 
+ 
+As Wells Fargo claims to be entitled to enforce the Note as the holder of the 
+Note and in turn argues that it is the holder of the Note by virtue of its 
+possession of the endorsed -in-blank Note, Wells Fargo appears to use the 
+terms “hold” and “possess” and their derivatives interchangeably.  
+ 6 Additionally, Behrendt’s argument --that Wells Fargo did not hold 
+the Note and was thus itself a stranger to the transaction--does not rely on 
+Behrendt’s contractual rights.  Although it is true that Behrendt cannot 
+assert an affirmative defense based on rights derived from a contract that he 
+is not a party to, no privity of contract is required for Behrendt to argue 
+ 
+(continued . . .)  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER***  
+ 
+12   As we observed in Reyes -Toledo, 
+requiring “that a 
+foreclosing plaintiff prove its entitlement to enforce the note 
+at the commencement of the proceedings ‘provides strong and 
+necessary incentives to help ensure that a note holder will not 
+proceed with a foreclosure action before confirming that it has 
+a right to do so.’”   Reyes-Toledo, 139 Hawai ʻi at 369, 390 P.3d 
+at 1256 (quoting Deutsche Bank Nat ’l Trust Co. v. Johnston , 369 
+P.3d 1046, 1052 (N.M. 2016)) . 
+This procedural safeguard is vital because the 
+securitization of mortgages has given rise to a pervasive 
+failure among mortgage holders to comply with the technical 
+requirements underlying the transfer of promissory notes 
+and, more generally the recording of interests in property.   
+Indeed, scholars have commented on the widespread 
+documentation problems that are associated with modern 
+mortgage securitization practices.   It appears that under 
+these circumstances, not even the plaintiffs may be sure if 
+they actually own the notes they seek to enforce . 
+Id. (brackets, quotations marks, footnotes, and citations 
+omitted). 
+  Thus, requiring a foreclosing plaintiff to prove an 
+entitlement to foreclose serve s “essential purpose[s ],” such as 
+“protect[ing] the maker of an instrument from multiple 
+enforcements of the same instrument .”  Id. (citing Porter , 7 
+                                                                              
+(. . . continued) 
+ 
+that Wells Fargo has not met the burden of proving its right to foreclose on 
+the Property.  Indeed, under Wells Fargo’s argued rule, a property owner 
+could not defend against an ejectment or replevin action by a  plaintiff 
+falsely claiming to have purchased the property from a prior owner because 
+the current property owner would not have been a party to the fabricated 
+transaction.  This approach is plainly flawed.  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER***  
+ 
+13 Haw. App. at 308, 760 P.2d at 679).  The requirement also serves 
+to ensure that a foreclosing party in an action brought against 
+a homeowner is actually entitled to bring the action, thus 
+protecting the homeowner from an improper foreclosure .  Id.  
+This prerequisite serves no less an essential purpose when  the 
+homeowner is a subsequent purchaser of the property as Behrendt 
+is here.   
+  Th e ICA has concluded that a party  who obtains  an 
+interest in property subsequent to a foreclosing party can 
+challenge the foreclosure.  In Bank of New York Mellon v. Lemay , 
+a defendant obtained its interest in the subject property at a 
+foreclosure sale, and  a party with a senior secured interest 
+later brought a foreclosure action.  137 Hawai ʻi 30, 34, 364 P.3d 
+928, 932 (App. 2015).  The defendant sought discovery regarding 
+an employee of the purported loan servicer who submitted a 
+declaration in support of the plaintiff’s summary judgment 
+motion.  See id. at 34-35, 364 P.3d at  932-33.  At a motion to 
+compel hearing, the defendant argued that the requested 
+information was relevant to determine if the foreclosing party 
+had standing and was entitled to foreclose.  Id. at 33, 364 P.3d 
+at 931.  The trial court indicated that it was not inclined to 
+grant the motion as the defendant was not a party to  the note 
+and mortgage.  Id. at 34, 364 P.3d at 932.  The trial court 
+later granted summary judgment in favor of the plaintiff, which ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER***  
+ 
+14 the ICA concluded was effectively a denial of the motion to 
+compel.  Id. 
+  On review, the ICA reasoned that the defendant was 
+“permitted to seek discovery of information relevant to 
+defending its interest in the property .”  Id. (citing Hawaiʻ i 
+Rules of Civil Procedure Rule 26(b)(1)(A)).  The ICA concluded 
+that the trial court’s “hesitation” to grant the motion to 
+compel because the defendant was not a party to the note or 
+mortgage was “unwarranted”  and that denying the motion was 
+error.  Id. at 34– 35, 364 P.3d at 932 –33.  The ICA accordingly 
+vacated the order granting summary judgment, ruling that the 
+effective denial of the defendant’s  motion to compel constituted 
+an abuse of discretion that substantially prejudiced the 
+defendant.  Id. at 35, 364 P.3d at 933.   
+  A lthough the d efendant was  not a party to the note or 
+mortgage in Lemay, the ICA recognized that information rebutting 
+the plaintiff’s claim that it was entitled to enforce the note 
+was relevant to the defense of the junior interest in the 
+property.  Id. at 34 –35, 364 P.3d at 932 –33.  Thus, the Lemay 
+decision allowed a subsequent purchaser to cha llenge whether the 
+lender was entitled to foreclose on the mortgage securing the 
+note.  
+  Under facts similar to this case, a court of appeals 
+in Florida also concluded that a subsequent purchaser has ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER***  
+ 
+15 standing to challenge the plaintiff’s authority to bring the 
+foreclosure proceeding.  3709 N. Flagler Drive Prodigy Land  
+Trust v. Bank of Am., N .A., 226 So.  3d 1040 , 1042-43 (Fla. Dist. 
+Ct. App. 2017) (per curiam) [here inafter Prodigy Land Trust ].  
+There, the original property owners transferred title of  the 
+subject property via quitclaim deed to a trust, after which the 
+foreclosing bank filed a foreclosure complaint naming the trust 
+as a party.  Id. at 1041.  At trial, the foreclosing bank argued 
+that, because the trust was not a party to the note or mortgage, 
+the trust “should not be allowed to contest anything other than 
+damages.”  Id. 
+  The court of appeals disagreed, reasoning that, 
+because “[a]n owner of property must be joined in a foreclosure 
+proceeding of that property in order to make a decree of 
+foreclosure valid,” there was “no question that [the trust] had 
+standing to contest the foreclosure proceeding.”  Id. (citations 
+omitted).  The court explained that a  “subsequent purchaser  has 
+an interest in assuring that the foreclosing plaintiff actually 
+has the authority to bring the suit and is entitled to raise 
+such a defense.”  Id. at 1042.  Holding otherwise, the court 
+concluded, “ would allow a stranger to the note and mortgage to 
+foreclose on the property, and a subsequent purchaser would ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER***  
+ 
+16 never have the ability to defend against the taking of a bona 
+fide interest in the property through a foreclosure sale. ”  Id.7 
+B. Wells Fargo Did No t Satisfy Its Burden 
+  Behrendt contends that Wells Fargo has  not met its 
+burden of proving that it was the holder of the N ote at the time 
+the complaint was filed because it has  not offered admissible 
+evidence on this point.  Wells Fargo responds that the Lewis 
+Declaration was sufficient to authenticate the copy of the Note 
+attached to its summary judgment motion and that its possession 
+of the Note at the time the action was initiated is in turn 
+proven by the identical copy of the Note attached to the 
+complaint.   
+  Under Hawaii Rules of Civil Procedure Rule 56(e) 
+(2000) and Rules of the Circuit Courts of the State of Hawai i 
+                     
+ 7 The cases Wells Fargo cites in support of its position are 
+inapposite, unpersuasive, or lack precedential value.  They largely involve 
+either challenges by individuals who did not possess an interest in the 
+property at the time of the foreclosure action, see, e.g., United States v. 
+Palmer, 578 F.2d 144, 145 -46 (5th Cir. 1978)  (per curiam); Thriving Invs., 
+LLC v. Chao , 184 So. 3d 552 (Fla. Dist. Ct. App. 2015), or subsequent 
+purchasers who challenged the substantive terms of the mortgage or the manner 
+in which the mortgage was administered, see, e.g. , Johnson v. Ocwen Loan 
+Servicing, 374 F. App’x 868 , 871 (11th Cir. 2010)  (per curiam); CCM 
+Pathfinder Palm Harbor Mgmt., LLC v. Unknown Heirs of Gendron , 198 So. 3d 3, 
+6 (Fla. Dist. Ct. App. 2015).  Wells Fargo also cites an unpublished 
+concurrence that is flatly contradicted by a published majority opinion of a 
+court of equal authority within the same jurisdiction, compare Pealer v. 
+Wilmington Tr. Nat’l Ass’n, 212 So. 3d 1137, 1137 (Fla. Dist. Ct. App. 2017) 
+(Sleet, J., concurring)  (per curiam), with Prodigy Land Trust, 226 So. 3d at 
+1040-41, and a case that addresses the separate issue of whether a subsequent 
+purchaser may affirmatively bring an action based on an allegedly wrongful 
+foreclosure after the foreclosure is complete--a matter on which we expressly  
+reserve judgment.  See  Garner v. Wells Fargo Home Mortg., Inc. , 505 F. App’x 
+837 (11th Cir. 2013) (per curiam).  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER***  
+ 
+17 Rule 7(g) (1997), “a declaration in support of a summary 
+judgment motion must be based on personal knowledge, contain 
+facts that would be admissible in evidence, and show that the 
+declarant is competent to testify as to the matters contained 
+within the declaration.”  U.S. Bank N.A. v. Mattos , 140 Hawai ʻi 
+26, 30, 398 P.3d 615, 619 (2017).  Inadmissible evidence “cannot 
+serve as a basis for awarding or denying summary judgment.”  
+Haw. Cmty. Fed. Credit Union v. Keka , 94 Hawai i 213, 221, 11 
+P.3d 1, 9 (2000) (quoting GE Capital Haw., Inc. v. Miguel , 92 
+Hawaii 236, 242, 990 P.2d 134, 140 (App. 1999)).   
+  Wells Fargo contended before the circuit court that 
+the loan documents attached to its summary judgment motion were 
+admissible under the hearsay exception for records of regularly 
+conducted business activities.8  (Citing HRE Rule 803(b)(6) 
+                     
+ 8 The circuit court’s conclusions of law did not specify the ground 
+on which it determined that the loan documents were admissible.  Because the 
+court granted the summary judgment motion after considering Wells Fargo’s 
+argument regarding HRE Rule 803(b)(6), which was the sole basis contended for 
+admissibility, we consider the court’s ruling as having been premised on HRE 
+Rule 803(b)(6). 
+  On appeal, Wells Fargo also does not cite an evidentiary rule as 
+a basis for the admissibility of the loan documents.  However, it identifies 
+State v. Fitzwater as controlling precedent on the issue of the documents’ 
+admissibility.  (Citing 122 Hawai i 354, 36 7-68, 227 P.3d 520, 53 3-34 (2010) 
+(outlining HRE Rule 803(b)(6)’s application to third -party business records 
+that have been incorporated into the receiving company’s business record s).)  
+Accordingly, this opinion addresses whether the proffered loan documents fall 
+within the requirements of the HRE Rule 803(b)(6) exception and does not 
+consider whether the instruments would be admissible under any other basis.  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER***  
+ 
+18 (2002).)  HRE Rule 803(b)(6) ( Supp. 2002 ) provides that the 
+following are not excluded by the rule against hearsay: 
+A memorandum, report, record, or data compilation, in any 
+form, of acts, events, conditions, opinions, or diagnoses, 
+made in the course of a regularly conducted activity, at or 
+near the time of the acts, events, conditions, opinions, or 
+diagnoses, as shown by the testimony of the custodian or 
+other qualified witness , or by certification that complies 
+with rule 902(11) or a statute permitting certification, 
+unless the sources of information or other circumstances 
+indicate lack of trustworthiness.  
+ 
+(Emphasis added.)  Wells Fargo argues that the Lewis Declaration 
+establishes that the Note met the requirements for admission 
+under HRE Rule 803(b)(6)
+.   
+ 
+ The Lewis Declaration reads  in pertinent part as 
+follows: 
+1.  I am a[] contract Management Coordinator of Ocwen Loan 
+Servicing, LLC (“Ocwen”), servicer for WELLS FARGO BANK, 
+N.A. AS TRUSTEE FOR OPTION ONE MORTGAGE LOAN TRUST 2006 -2 
+ASSET-BACKED CERTIFICATES, SERIES 2006 -2 (“[Wells Fargo]”) 
+of the mortgage loan at issue in this case (the “Loan”).  
+As such, I am  authorized to make this Declaration.  
+2.  I am over the age of 18 years, and I have personal 
+knowledge of the facts and matters stated herein based on 
+my review of the business records described below.  The 
+statements set forth in this Declaration are true  and 
+correct, to the best of my knowledge and belief.  
+3.  In the regular performance of my job functions, I have 
+access to and am familiar with [Wells Fargo]’s records and 
+documents relating to this case (the “Records”), including 
+Ocwen’s business records  relating to the servicing of the 
+Loan (the “Ocwen Records”).  In making this Declaration, I 
+relied upon the Records.  
+4.  The Ocwen Records document transactions relating to the 
+Loan and were made and are maintained in the regular course 
+of Ocwen’s business consistent with Ocwen’s regular 
+practices, which require that records documenting 
+transactions relating to serviced mortgage loans be made at 
+or near the time of the transactions documented by a person 
+with knowledge of the transactions or from information 
+transmitted by such a person.  ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER***  
+ 
+19 5.  According to the Ocwen Records, [Wells Fargo] is in 
+possession of an original promissory note dated January 30, 
+2006 in the principal amount of $408,000.00 executed by 
+KAREN LYNN ZAKARIAN in favor of THE FUNDING GROUP, INC. 
+(the “Note”).  A true and correct copy of the Note is 
+attached hereto as Exhibit 1.  
+6.  The Note is endorsed in blank.  
+7.  According to the Ocwen Records, the Note is secured by 
+a mortgage dated January 30, 2006 and recorded on February 
+7, 2006 in  the Bureau of Conveyances of the State of 
+Hawaii, as Document Number 2006 -023995 (the “Mortgage”).  A 
+true and correct copy of the Mortgage is attached hereto as 
+Exhibit 2.  
+8.  According to the Ocwen Records, the Mortgage was 
+assigned to OPTION ONE MORTGAGE CORPORATION by that 
+assignment dated February 3, 2006 and recorded on July 5, 
+2006 in the Bureau of Conveyances of the State of Hawaii, 
+as Document Number 2006 -123207.  The Mortgage was then 
+assigned to [Wells Fargo] by that assignment dated April 
+24, 2007 and recorded on May 10, 2007 in the Bureau of 
+Conveyances of the State of Hawaii, as Document Number 
+2007-084291 (the “Assignments”).  True and correct copies 
+of the Assignments are attached hereto as Exhibits 3 and 4.  
+  In Mattos , this court reviewed the sufficiency of a 
+nearly identical declaration attesting to a promissory note and 
+other documents relating to a foreclosure under the HRE Rule 
+803(b)(6) business records exception.  140 Hawaiʻ i at 31, 398 
+P.3d at 620.  The Lewis Declaration, apart from information 
+specific to this case, is virtually identical to the declaration 
+in Mattos, which was also prepared by an Ocwen employee.  
+Compare Lewis Declaration, supra, with Mattos, 140 Hawai ʻi at 30–
+31, 398 P.3d at 619 –20.  This court’s decision in Mattos is 
+therefore dispositive as to whether HRE Rule 803(b)(6) may serve 
+as a basis to admit into evidence the documents attached to the 
+Lewis Declaration. ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER***  
+ 
+20   Lewis did not aver that she was the custodian of 
+records for her employer , Ocwen, or for Wells Fargo.  Thus, the 
+documents attached to her declaration are admissible under HRE 
+Rule 803(b)(6) only if the declaration demonstrates that Lewis 
+is a “qualified witness” with respect to those documents.  See 
+Mattos, 140 Hawaiʻ i at 32, 398 P.3d at 621.   
+  The court in Mattos held that a witness may be 
+qualified to provide the testimony required by HRE Rule 
+803(b)(6) even if the witness is not employed by the business 
+that created the document or lacks direct, p ersonal knowledge of 
+how the document was created.  Id.  “There is no requirement 
+that the records have been prepared by the entity that has 
+custody of them, as long as they were created in the regular 
+course of some entity ’s business. ”  Id. (quoting State v.  
+Fitzwater , 122 Hawai ʻi 354, 366, 227 P.3d 520,  532 (2010)).  The 
+witness, however, must have enough familiarity with the record-
+keeping system of the business that created the record to 
+explain how the record was generated in the ordinary course of 
+business.  Id.   
+  Records received from another business and 
+incorporated into the receiving business ’ records may in some 
+circumstances be regarded as “created” by the receiving 
+business.  Id.  Incorporated records are admissible under HRE 
+Rule 803(b)(6) when a custodian or qualified witness testifies ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER***  
+ 
+21 that the documents were incorporated and kept in the normal 
+course of business, that the incorporating business typically 
+relies upon the accuracy of the contents of the documents , and 
+the circumstances otherwise indicate the trustworthiness of the 
+document.  See id. ; Fitzwater, 122 Hawai i at 367-68, 227 P.3d at 
+533-34. 
+  Here, as in Mattos, the Lewis Declaration does not 
+establish that the loan documents were received by Ocwen and 
+then incorporated into Ocwe n’s records.  In addition , although 
+Lewis averred that Ocwen’s records relating to the loan were 
+made and maintained in the regular course of Ocwen’s business, 
+Lewis asserted only that she had “access to and [was] familiar ” 
+with Wells Fargo’s records and documents  relating to this case.  
+(Emphasis added.)  The Lewis Declaration does not establish that 
+Lewis was familiar with Wells Fargo’s  record-keeping system .  It 
+also makes no assertions as to Lewis’s familiarity with the 
+record-keeping systems of Funding Group or Option One, which 
+first created the Note and allonges.  Thus, the Lewis 
+Declaration satisfies  the foundational requirements to make 
+Lewis a qualified witness only with respect to Ocwen’s original 
+records about the loan and not any records of Wells Fargo or the 
+loan documents themselves.  See Mattos , 140 Hawai ʻi at 32-33, 398 
+P.3d at 621-22. ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER***  
+ 
+22   The Lewis Declaration also refers  only to the Note and 
+not the allonges that Wells Fargo asserts were used to endorse 
+the Note in blank.  As noted, the Lewis Declaration does not 
+establish that Lewis 
+was a qualified witness,  and thus she could 
+not have satisfied the requirements of HRE Rule 803(b)(6) with 
+respect to the allonges.  But, as with the declaration in 
+Mattos, the Lewis Declaration did not attempt to a
+dmit the 
+allonges under the business records exception.  See id.   Thus, 
+even if the Note fell within the bounds of HRE Rule 803(b)(6), 
+the allonges endorsing it in blank did not because the 
+declaration did not provide the requisite foundation.   This is 
+to say that the documents  purporting to a llow Wells Fargo to 
+enforce the Note were  not admissible under the business record 
+exception.  Since the documents were not admissible as asserted,  
+Wells Fargo did not meet its burden of establishing facts 
+necessary for a grant of summary judgment.  See id.   
+  In sum, Lewis was not a qualified witness with respect 
+to the documents attached to her d eclaration, and thus she c ould 
+not provide the foundation to admit the m under HRE Rule 
+803(b)(6).  The circuit court therefore erred in  granting 
+summary judgment to the extent it relied on the documents’ 
+admissibility under the business record exception to the hearsay 
+rule. ***FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER***  
+ 
+23 IV. CONCLUSION 
+  
+There is no bar to Behrendt challenging Wells Fargo ’s 
+standing to foreclose on the Note, and Wells Fargo submitted no 
+properly admitted evidence demonstrating that it was entitled to 
+enforce the Note at the time the complaint was filed, 
+as 
+required by Reyes-Toledo
+.  See Bank of Am. , N.A. v. Reyes-
+Toledo, 139 Hawaiʻ i 361, 368, 390 P.3d 1248,  1255 (2017).  The 
+circuit court thus erred in its grant of summary judgment in 
+favor of Wells Fargo.  Accordingly, the circuit court’s  Order 
+Granting Summary Judgment and the August 30, 2016 Judgment are 
+vacated, and the case is remanded to the circuit court for 
+further proceedings.  
+J. Blaine Rogers  and 
+Lori King Stibb  
+for petitioner  
+ 
+Gary Victory Dubin and  
+Frederick J. Arensmeyer  
+for respondent  
+ /s/ Mark E. Recktenwald  
+/s/ Paula A. Nakayama  
+/s/ Sabrina S. McKenna 
+/s/ Richard W. Pollack  
+/s/ Michael D. Wilson  
+ 

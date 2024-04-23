@@ -1,0 +1,680 @@
+ 
+ 
+ 
+ 
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Electronically Filed 
+Supreme Court SCAP-22-0000552 29-FEB-2024 08:17 AM Dkt. 28 OP 
+IN THE SUPREME COURT OF THE STATE OF HAWAIʻ I 
+---o0o---
+STEPHEN P.H. WONG, Plaintiff-Appellant, 
+ 
+vs. 
+ 
+ASSOCIATION OF APARTMENT OWNERS OF HARBOR SQUARE, by and through 
+its Board of Directors, Defendant-Appellee, 
+ 
+and 
+ 
+ASSOCIATION OF APARTMENT OWNERS OF HARBOR SQUARE, by and through 
+its Board of Directors, Third-Party Plaintiff-Appellee, 
+ 
+vs. 
+ 
+PORTER McGUIRE KIAKONA, LLP (fka Porter Tom Quitiquit Chee & 
+Watts) and EKIMOTO & MORRIS, ALLLC, 
+Third-Party Defendants-Appellees. 
+SCAP-22-0000552 
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT 
+(CAAP-22-0000552; CASE NO. 1CCV-19-0002324) 
+ 
+FEBRUARY 29, 2024 
+ 
+RECKTENWALD, C.J., McKENNA, EDDINS, JJ., 
+CIRCUIT JUDGE SOMERVILLE AND CIRCUIT JUDGE WONG, 
+ASSIGNED BY REASON OF VACANCIES 
+ 
+OPINION OF THE COURT BY EDDINS, J.  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+I. 
+This case is about calculating damages when a condominium 
+association wrongfully forecloses on a unit owner. 
+Stephen Wong bought a condominium in the Harbor Square 
+complex. The Association of Apartment Owners (AOAO) of Harbor 
+Square governs the development. Wong financed his purchase with 
+a mortgage. Eventually the mortgage balance exceeded the 
+condo’s value. 
+Wong fell behind on his association assessments. Because 
+Wong owed fees, the AOAO non-judicially foreclosed under Hawaiʻ i 
+Revised Statutes (HRS) Chapter 667. Turns out, the foreclosure surpassed the AOAO’s statutory authority. 
+Wong sued for wrongful foreclosure. The AOAO said he had 
+no case, because he suffered no damages. The Circuit Court of the First Circuit agreed. It granted the AOAO’s motion for 
+summary judgment. 
+This case explains what a plaintiff who suffers a wrongful 
+foreclosure by an AOAO that had no authority to foreclose at all 
+must show to satisfy the damages element of the tort. We hold that damages are the plaintiff’s positive equity in the 
+property, if any, (property’s market value minus outstanding 
+mortgage debt), plus lost use arising from the wrongful 
+foreclosure, minus assessments owed to the AOAO. This places 
+2  
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+the plaintiff in their pre-tort position with a remedy tethered 
+to the wrong. 
+In many cases, the homeowner who suffers a wrongful AOAO 
+foreclosure will be “underwater” – owing more on their mortgage 
+than the home’s fair market value. This does not necessarily 
+mean they forego a remedy where an AOAO lacked authority to 
+foreclose. If an underwater plaintiff shows that the value of 
+their wrongly taken use exceeds what they owe the AOAO in assessments, they may pursue their claim. 
+Here, Wong made no such showing. He failed to establish 
+lost use value. Thus, we affirm the circuit court’s grant of 
+summary judgment to the AOAO. 
+II. 
+We lay out the factual background, the legal context for 
+non-judicial foreclosures by an AOAO, and the parties’ appellate arguments. 
+A. Factual Background The parties dispute several monetary amounts, including how 
+much Wong paid for the condo. Because the AOAO moved for summary judgment, we view the facts in the light most favorable 
+to Wong. See Stanford Carr Dev. Corp. v. Unity House, Inc.
+, 111 
+Hawaiʻi 286, 295, 141 P.3d 459, 468 (2006). Thus, we adopt 
+Wong’s presented numbers for purposes of this appeal. Our 
+3  
+  
+ 
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+analysis though would not change even if we used the AOAO’s 
+numbers. 
+Wong purchased a Honolulu condominium in 2005. He says he 
+paid roughly $500,000, financing the purchase in part with a 
+$420,750 mortgage. 
+In 2006, Wong refinanced, increasing his mortgage debt to 
+$450,000. 
+By August 2009, Wong stopped paying both his monthly 
+mortgage and his AOAO fees. In 2010, mortgagee Wells Fargo assigned Wong’s mortgage to HSBC Bank. 
+The AOAO initiated a non-judicial foreclosure on Wong’s 
+property in July 2011. The AOAO believed that HRS chapter 667 
+empowered it to conduct non-judicial foreclosures on properties 
+whose owners were delinquent on their assessments. Not so. 
+This court ruled that those non-judicial foreclosures were 
+unlawful unless the AOAO had a power of sale. Malabe v. Ass’n
+of Apartment Owners of Exec. Ctr.
+, 147 Hawaiʻi 330, 339, 465 P.3d 
+777, 786 (2020). 
+By the time the AOAO initiated foreclosure, Wong owed 
+$29,335 in unpaid association and maintenance fees. 
+His 
+mortgage debt totaled $481,298. 
+The AOAO conducted the non-judicial foreclosure in October 
+2011. It held a public auction. At $1, the AOAO was the 
+4  
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+highest bidder. It sold the condo to itself. Wong lost title. 
+Soon the AOAO rented out the unit. 
+Though Wong had long ago stopped paying his mortgage, 
+mortgagee HSBC Bank waited until May 2016 to start foreclosure 
+proceedings. The case took a while. The circuit court entered 
+final judgment for HSBC in February 2020. At that time, HSBC 
+discharged Wong’s mortgage debt, now $711,699. Then in October 
+2021, HSBC sold the condo for $576,000. 
+Hawaiʻi law instructs AOAOs to turn over excess rental 
+income collected following a final foreclosure judgment. HRS 
+§ 514B-146(n) (2018 & Supp. 2019). The AOAO certified that it 
+had no excess rents. It gave HSBC nothing. And the AOAO kept all the pre-foreclosure excess rents. 
+Though Wong had long lost his property, he did not sue the 
+AOAO until December 2019. 
+Wong alleged that the AOAO wrongfully foreclosed. He says 
+it conducted a non-judicial foreclosure under Part I of HRS 
+Chapter 667; yet those foreclosures are only available to 
+mortgage creditors holding a power of sale. See HRS § 667-5 (Supp. 2011), repealed by 2012 Haw. Sess. Laws Act 182, § 50 at 
+684. The AOAO had no power of sale. It acted unlawfully and 
+owes him, Wong insists. 
+In April 2021, the AOAO filed a third-party complaint 
+against its prior legal counsel. The AOAO alleged that its 
+5  
+ 
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+counsel orchestrated and directed the wrongful non-judicial 
+foreclosure. So, the AOAO says, the lawyers are liable for 
+Wong’s damages, if any. 
+The AOAO moved for summary judgment in January 2022. Wong 
+was underwater when the AOAO non-judicially foreclosed. Thus, 
+he suffered no compensatory damages, the AOAO argued. Although 
+Wong’s condo was worth $448,000 in 2011, $481,298 of mortgage 
+debt encumbered it. Citing Lima, the AOAO said a mortgagor receives a substantial benefit from discharged mortgage debt. 
+Lima v. Deutsche Bank Nat’l Tr. Co.
+, 149 Hawaiʻi 457, 467, 494 
+P.3d 1190, 1200 (2021). Therefore, per the AOAO, the forgiven 
+debt offsets Wong’s out-of-pocket loss. 
+The lawyers joined the AOAO’s MSJ. 
+Wong countered. 
+He says the AOAO lost nothing when his 
+mortgage debt was discharged. It shouldn’t get a windfall because someone else forgave his debt. 
+Wong maintains the AOAO owes him the property’s value. He 
+says Lima entitles him to recover his out-of-pocket losses. A 
+figure Wong calculates as his purchase price (roughly $500,000), offset only by the dollar the AOAO paid at the foreclosure sale. 
+Wong also argued that the collateral source rule applies. 
+The collateral source rule directs that benefits received post-
+tort from an independent source do not diminish a wrongdoer’s 
+6  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+liability. Bynum v. Magno , 106 Hawaiʻi 81, 86, 101 P.3d 1149, 
+1154 (2004). 
+The AOAO responded that the collateral source rule’s 
+purpose is to prevent a wrongdoer from receiving a windfall. 
+The AOAO explained that it receives no windfall from offsetting 
+the discharged mortgage debt. 
+True, its dollar purchased the 
+property, but only as encumbered by HSBC’s mortgage. 
+In contrast, the AOAO says, paying Wong un-offset out-of-
+pocket losses - $500,000 for a property whose mortgage he could not pay - gives him an undeserved windfall. 
+The AOAO’s former lawyers later chimed in. The collateral 
+source rule does not apply to discharged mortgage debt. The lawyers cited the Restatement (Second) of Torts § 920A cmt c 
+(1979). 
+The circuit court granted the AOAO’s MSJ in March 2022. It 
+dismissed the case with prejudice. 
+The court applied Lima. It included Wong’s discharged 
+mortgage debt in its compensatory damages calculations. Because 
+the discharged debt, totaling $711,699, exceeded Wong’s out-of-pocket loss, Wong had no compensatory damages. And no suit. 
+First Circuit Court Judge Jeffrey Crabtree understood that 
+unlike Lima, the foreclosing party here (the AOAO) was not the 
+party that discharged Wong’s mortgage debt. But the court did 
+not find the distinction meaningful. The mortgage debt is 
+7  
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+“completely intertwined” with the foreclosed-upon unit, 
+regardless of who discharged the debt, the court reasoned. 
+The circuit court considered special damages, like lost 
+rent. But Wong “offered no evidence of [those] damages.” Thus, 
+the court ruled that Wong’s damages do not include “lost rents 
+or other harms from being unable to rent out or live in” the 
+condo. At oral argument before us, appellate counsel conceded 
+that Wong had waived any damages claim related to lost rent and use, or the AOAO’s receipt of the property’s rental income. 
+Wong appealed to the Intermediate Court of Appeals. Then 
+he applied for transfer to this court. The AOAO and the lawyers 
+supported the request. We accepted transfer. 
+B. Legal Background 
+For backdrop, we discuss HRS chapter 667, titled 
+Foreclosures, and HRS chapter 514B, titled Condominiums. 
+In 2011, chapter 667 provided two ways to conduct non-
+judicial foreclosures, Part I and Part II. See HRS §§ 667-5 to 
+667-10 (Part I) repealed by 2012 Haw. Sess. Laws Act 182, § 50 at 684; HRS §§ 667-21 to 667-42 (Part II). 
+Part I permitted mortgagees with a power of sale to conduct 
+non-judicial foreclosures and property auctions. A power of 
+sale mortgage clause permits the mortgagee to sell foreclosed 
+properties to recover on a delinquent loan. Part I provided 
+8  
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+property owners few protections because it required a power of 
+sale. 
+Part II opens non-judicial foreclosures to parties not 
+holding a power of sale. Part II provides property owners 
+greater protections as compared to Part I because it has a lower 
+barrier to entry. These protections include heightened notice 
+and auction requirements. HRS §§ 667-25 to 667-29. 
+HRS chapter 514B makes chapter 667 non-judicial 
+foreclosures available to AOAOs. HRS § 514B-146(a). Unpaid common expenses “constitute a lien on the unit.” Id.That lien 
+“may be foreclosed by action or by nonjudicial or power of sale foreclosure” procedures described in chapter 667. Id.Chapter 
+514B did not specify whether associations could access Part I, Part II, or both. 
+Following chapter 514B’s enactment, some apartment 
+associations conducted Part I non-judicial foreclosures. 
+The 
+Hawaiʻi Legislature reacted.  In 2012, it repealed HRS § 667-5, 
+and HRS § 667-5.7 to § 667-8. This shut down Part I 
+foreclosures. 
+In 
+Malabe, we ruled that because the AOAO lacked a power of 
+sale, and therefore the authority to conduct Part I non-judicial foreclosures, the AOAO’s foreclosure was improper. Malabe
+, 147 
+Hawaiʻi at 340, 465 P.3d at 787.  
+9  
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Here, Wong alleges that the AOAO wrongfully foreclosed on 
+his property by conducting a Part I non-judicial foreclosure. 
+He says Part I non-judicial foreclosures were only available to 
+those holding a power of sale. And the AOAO lacked a power of 
+sale. 
+C. The Parties’ Arguments on Appeal 
+On appeal, Wong challenges the circuit court’s case-ending 
+conclusion that his extinguished mortgage debt offsets his 
+available damages. He argues that the circuit court erred by 
+ruling that he failed to show compensatory damages. Lima, he 
+thinks, is materially different. There the defendants were mortgage-holders. Because the mortgage debt was forgiven as 
+part of the foreclosure, that benefit offset those plaintiffs’ 
+recovery. Moreover, the Lima mortgage included a power of sale, 
+and therefore the foreclosure in that case, he says, was merely 
+procedurally defective. 
+In contrast, Wong maintains, the AOAO did not hold his 
+mortgage and therefore could not foreclose upon his unit under his mortgage’s power of sale. His mortgage debt was 
+extinguished nine years later, and not by the wrongful non-
+judicial foreclosure. Thus, the only change between Wong’s pre-
+and post-tort positions was the loss of his property. Post-
+tort, he still owed the mortgage debt. 
+10  
+ 
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+The AOAO counters that Lima applies. Wong benefitted when 
+HSBC forgave the mortgage loan. That perk offsets his recovery. 
+The AOAO says this court should assess Wong’s current position 
+against his pre-tort position. And in the present day, Wong 
+received substantial mortgage forgiveness. 
+III. 
+A wrongful foreclosure plaintiff must show that they 
+suffered compensatory damages. Compensatory damages return the 
+plaintiff to their pre-tort position. We detail how a plaintiff 
+establishes these damages when an AOAO wrongfully forecloses. 
+We also consider the collateral source rule. It does not 
+apply to mortgage debt. 
+A. Wong Must Show Compensatory Damages 
+To establish a wrongful foreclosure, a plaintiff must 
+establish: “(1) a legal duty owed to the mortgagor by the foreclosing party; (2) a breach of that duty; (3) a causal 
+connection between the breach of that duty and the injury sustained; and (4) damages.” Bank of America, N.A. v. Reyes-
+Toledo
+, 143 Hawaiʻi 249, 264 n.12, 428 P.3d 761, 776 n.12 (2018). 
+Wong alleges facts that satisfy the first three elements. 
+The question is whether Wong - and similarly situated underwater mortgagors who suffered a wrongful AOAO foreclosure – can show 
+damages. 
+11  
+ 
+ 
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Tort actions under Hawaiʻ i law have three categories of 
+damages: compensatory, nominal, and punitive. Lima, 149 Hawaiʻ i 
+at 465, 494 P.3d 1198. Nominal damages cannot prove a wrongful 
+foreclosure action’s damages element. Id.And generally, 
+punitive damages “must be supported by an award of nominal or compensatory damages.” Id.
+Thus, to survive summary judgment, Wong must present 
+evidence that establishes compensatory damages. 
+Plaintiffs in a wrongful foreclosure case must show that 
+the damages “will restore [them] to the position [they] would be in if the wrong had not been committed.” Id. at 467, 494 P.3d 
+at 1200 (cleaned up). Otherwise, a plaintiff cannot satisfy the damages element. B. Compensatory Damages Put the Plaintiff in their Pre-Tort 
+Position 
+A plaintiff’s pre-tort position controls. But how does a 
+court identify that position when it includes mortgage debt? 
+The answer begins with Lima. A plaintiff mortgagor “may 
+not establish the damages elements of their wrongful foreclosure 
+or [unfair or deceptive acts or practices (UDAP)] claims without 
+accounting for their remaining mortgage debts.” Lima, 149 
+Hawaiʻi at 467, 494 P.3d at 1200.  To prove compensatory damages, 
+the mortgagor must factor in the mortgage’s value. 
+Before the 
+non-judicial foreclosure, mortgages encumbered the Lima 
+12  
+ 
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+plaintiffs’ property. And they could not repay their debts. 
+“[T]he debts constitute a portion of their pre-tort positions.” 
+Id. 
+Lima repeats “the basic principle that the purpose and goal 
+of compensatory damages is to restore injured parties to their 
+position prior to the wrongful conduct.” In re Tirso, No. 11-
+01873 (RJF), 2022 WL 567704, at *2 (Bankr. D. Haw. Feb. 23, 2022), aff’d, 642 B.R. 833 (D. Haw. 2022). But, Lima “did not discuss every issue about the calculation of compensatory 
+damages because the district court’s certified question was 
+narrower than that.” Id.
+Lima answered a certified question. That question 
+structured this court’s answer. The certifying court asked: 
+Is the effect of the mortgage considered only as a matter 
+of setoff that a lender has the burden of proving after the 
+borrower establishes the amount of the borrower’ s damages, 
+or does a borrower with no preforeclosure rights in property except as encumbered by a mortgage bear the burden of accounting for the effect of the mortgage in 
+establishing the element of harm in the liability case? 
+Lima, 149 Hawaiʻi at 464, 494 P.3d at 1197. 
+Lima
+’s question was procedural. Does the outstanding 
+mortgage come into play as a setoff, or is it an element to the 
+claim? This court was clear. “Plaintiff Borrowers may not 
+establish the damages elements of their wrongful foreclosure or 
+UDAP claims without accounting for their remaining mortgage debts.” Id. at 467, 494 P.3d at 1200. 
+13  
+ 
+ 
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Our decision though had limited scope. Id. at 466, 494 
+P.3d at 1199 (“it would be inappropriate to resolve” plaintiff’s 
+questions on what damages are recoverable and how damages are 
+measured). 
+We now address the questions Lima left untouched: when an 
+AOAO wrongfully forecloses, what damages are recoverable and how 
+are damages calculated? 
+Before Lima, this court also addressed wrongful foreclosure 
+damages in Santiago v. Tanaka
+, 137 Hawaiʻi 137, 366 P.3d 612 
+(2016). The plaintiffs in that case were entitled to “their proven out-of-pocket losses from Tanaka’s wrongful foreclosure 
+of the Mortgage.” 
+Id.
+ at 158, 366 P.3d at 633. Out-of-pocket 
+losses “are the difference between the actual value of the 
+property received and the price paid for the property, along 
+with any special damages . . . including expenses incurred in 
+mitigating the damages.” Id. at 159, 366 P.3d at 634. 
+Santiago’s “out-of-pocket losses” language described how to 
+put the unusually-situated Santiagos in their pre-tort position. 
+See id. Santiago did not depart from the basic principle that 
+compensatory damages aim to return the plaintiff to their pre-
+tort position. 
+The Santiagos bought a tavern from Tanaka. Id. at 140, 366 
+P.3d at 615. The Santiagos financed the purchase with a large 
+down payment and a mortgage from Tanaka. Id.Tanaka 
+14  
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+misrepresented the cost of the tavern’s sewer service. Id. at 
+151, 366 P.3d at 626. The parties tried to mediate the sewer 
+fee issue. When mediation hit an impasse, Santiago withheld one 
+mortgage payment and deposited it in an escrow account. Id. at 
+144, 366 P.3d at 619. Tanaka sent the Santiagos a notice of default and intent to foreclose. The Santiagos cured their 
+default and resumed paying their mortgage. Id.
+Still, Tanaka non-judicially foreclosed. Id. at 145, 366 
+P.3d at 620. She bought the tavern at the ensuing foreclosure sale, and resold it to a third party. Id. at 145, 158, 366 P.3d 
+at 620, 633. This court held that Tanaka unlawfully foreclosed. Id. at 157, 366 P.3d at 632. The mortgage lacked a power of 
+sale and the Santiagos had cured their default on the mortgage. 
+Id. at 155, 157, 366 P.3d at 630, 632. 
+The Santiagos should not have lost the tavern. But it was 
+too late to get the property back. Tanaka had resold it to 
+someone else. Id. at 158, 366 P.3d at 633. 
+Still, the Santiagos had a remedy. This court awarded 
+damages that put the Santiagos in the position they would have been in had they not bought the tavern. Id.Because the value 
+the Santiagos received in the foreclosure was zero (they had made “virtually full payment” on the mortgage to Tanaka), the 
+measure of their position before they bought the tavern was 
+their “out-of-pocket losses.” Id.We awarded the Santiagos 
+15  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+“the price paid for the property”: their downpayment, mortgage 
+payments, closing costs, property taxes, and attorney fees. Id.
+at 158–59, 366 P.3d at 633–34. 
+There are two reasons the Santiagos’ proper pre-tort 
+position was their pre-purchase position. First, no lender could foreclose. The Santiagos were current on their mortgage. 
+Second, the Santiagos relied on Tanaka’s falsehoods when they 
+bought the tavern. So awarding the Santiagos what they spent in reliance on the misrepresentations was appropriate. Id. at 159, 
+366 P.3d at 634. 
+But not all plaintiffs are like the Santiagos. For damages 
+purposes, they do not automatically slot into a pre-tort world where they never bought the property. 
+The United States Bankruptcy Court for the District of 
+Hawaiʻi delivers a useful example. Consider a homeowner who 
+defaults on the mortgage, but the mortgagee’s foreclosure is procedurally defective. There, the mortgagee is entitled to 
+foreclose; the wrong is how the sale takes place. Tirso, 2022 
+WL 567704, at *3. Thus, the appropriate measure of damages is 
+“the difference between the price that the property would have 
+brought in a proper foreclosure sale and the price paid at the 
+defective foreclosure sale.” Id. at *4. 
+This measure of damages is “tethered to the wrong.” In re
+Simon, No. 11-02788, 2023 WL 1971587, at *5 (Bankr. D. Haw. Feb. 
+16  
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+11, 2023). It restores the plaintiff “to the position [they] 
+would be in if the wrong had not been committed.” Lima
+, 149 
+Hawaiʻi at 467, 494 P.3d at 1200. 
+Santiago
+’s “out-of-pocket losses” method does not make 
+defendants cough up every dollar a plaintiff spends acquiring and maintaining the property. None of this court’s cases 
+applying Santiago’s “out-of-pocket losses” language awarded the 
+plaintiffs every item of damages the Santiagos won. 
+ Lima built on Santiago’s foundation. Lima noted that 
+Santiago’s “out-of-pocket losses” calculation accounted for the 
+Santiago’s mortgage debt. 149 Hawaiʻi 468-69, 494 P.3d at 1201-
+02. Because there was no mortgage debt, there was nothing to 
+account for. Id.  
+Lima
+ recognized that although foreclosed mortgagors with 
+outstanding debt don’t “receive any actual property, they nevertheless received significant value in the form of forgiven 
+mortgage debts.” Id. at 469, 494 P.3d at 1202. Each dollar no 
+longer owed is a dollar gained. Thus, a plaintiff’s outstanding mortgage debt must be accounted for. That is, it offsets the 
+property’s market value at the time of the wrongful foreclosure. 
+Id. 
+Wong believes Lima aids his cause. Lima involved a 
+wrongful non-judicial foreclosure by a mortgagee bank. Wong distinguishes his case. It involves a non-judicial foreclosure 
+17  
+ 
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+by a non-mortgagee AOAO for unpaid association fees. Wong says 
+he received no benefit from the AOAO’s foreclosure because his 
+mortgagee did not concurrently discharge his debt. He was still 
+liable on the mortgage. Yet he lost title to the property. 
+Wong calculates his out-of-pocket losses as: the condo’s 
+roughly $500,000 purchase price, offset only by the dollar the 
+AOAO paid for it. But this calculation improperly restores Wong 
+to a Santiago-like pre-condo-purchase position. 
+Two differences separate Wong’s pre-purchase position and 
+his position had the AOAO not wrongfully foreclosed (his proper pre-tort position). 
+First, without the AOAO’s wrongful foreclosure, Wong still 
+owed a mortgage he was seemingly unable to repay. Therefore, 
+his pre-tort position still includes a looming foreclosure by 
+HSBC. 
+Second, Wong had no equity in his condo during the non-
+judicial foreclosure. If he tried to sell his property in 2011, he would not have pocketed the condo’s full market value because 
+of the debt encumbering the property. We therefore decline to 
+award him the property’s un-offset value (minus one dollar). 
+Further, we believe it’s unjust to make the AOAO pay Wong 
+the condo’s full value. Mortgage foreclosures are equitable 
+proceedings governed by equity rules. Santiago, 137 Hawaiʻ i at 
+157, 366 P.3d at 632. When the AOAO bought the unit for a 
+18  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+dollar at the foreclosure sale, it didn’t buy an unencumbered 
+interest. It purchased the property subject to the mortgage. 
+The AOAO owned the property for only the time it took HSBC to 
+foreclose. Unwinding the wrongful foreclosure – redressing the 
+wrong to Wong - should not cost the AOAO the full unencumbered 
+value of the condo. 
+Wong warns that offsetting debt when there is a non-debt-
+holder wrongful taking will lead to doomsday. He says this approach incentivizes predatory behavior and immunizes 
+wrongdoers who take advantage of underwater debtors. Debt-
+financed new cars, for example, may attract car thieves. Wong 
+forecasts that a car thief, if sued, would pay no damages if the 
+car’s loan exceeds its value. 
+Wong’s fears are misplaced. (Notwithstanding the rarity of 
+lawsuits against car thieves.) Our decision and Lima only apply 
+to wrongful foreclosures of real property. For Wong’s dire 
+scenarios, the remedy is conversion. Conversion applies only to chattels. See Restatement (Second) of Torts § 222A (1965) 
+(“Conversion is an intentional exercise of dominion or control over a chattel.”). A conversion plaintiff receives the item’s 
+full value. Id.Our decision and Lima leave conversion law 
+undisturbed. 
+19  
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+C. How a Plaintiff May Show Damages for Wrongful Foreclosure 
+by an AOAO 
+To establish the damages element of a claim for wrongful 
+foreclosure by an AOAO lacking foreclosure authority, plaintiffs 
+must account for their remaining mortgage debts. The mortgage offsets the property’s market value at the time of the wrongful 
+foreclosure. Lima, 149 Hawaiʻ i at 469, 494 P.3d at 1202. But 
+negative equity does not thwart every path to relief. 
+The 
+plaintiff’s pre-tort position includes use of the property until 
+the mortgagee’s foreclosure. Though behind on loan obligations, 
+the plaintiff still has title. Plaintiffs may seek compensation 
+for use even if they’re underwater on their mortgage. But this 
+lost use is offset by what the plaintiff owes the AOAO for 
+assessments until the mortgagee forecloses. 
+A plaintiff’s pre-tort position also includes their 
+equitable right to redeem the property before a final foreclosure judgment. See Fed. Home Loan Mortg. Corp. v.
+Transamerica Ins. Co.
+, 89 Hawaiʻi 157, 164, 969 P.2d 1275, 1282 
+(1998) (recognizing equitable redemption). If a plaintiff can clearly show that they would have redeemed their property absent the AOAO’s wrongful foreclosure, they may assert damages from 
+losing their equitable right. (Wong did not.) 
+In 
+Lima, the mortgage debt discharge was contemporaneous 
+with the non-judicial foreclosure. So Lima did not anticipate 
+20  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+time elapsing between the wrongful foreclosure and the mortgage 
+discharge. It doesn’t account for plaintiff’s lost use of the 
+property between the wrongful foreclosure and the mortgagee’s 
+valid foreclosure. Part of plaintiff’s pre-tort position in a 
+wrongful AOAO foreclosure is the continued use and enjoyment of 
+the property until the mortgagee’s ultimate foreclosure. 
+Once a mortgagee validly forecloses, that foreclosure cuts 
+off the plaintiff’s use right. Here, for example, had Wong established lost use damages, he would be owed them through 
+February 2020, when HSBC concluded foreclosure proceedings. 
+Nationstar Mortg., LLC v. Ass’n of Apartment Owners of Elima 
+Lani Condos.
+, 152 Hawaiʻi 406, 413, 526 P.3d 383, 390 (2023) 
+(“[T]he foreclosure judgment . . . cut off AOAO’s right to 
+possession.”). 
+So we add to 
+Lima. Lima’s holding still applies. The 
+property value must be offset by the mortgage debt. But Lima
+did not obstruct other methods of showing compensatory damages. 
+We lay out how a plaintiff who suffers a wrongful AOAO 
+foreclosure may establish damages. A plaintiff shows damages if the following exceeds $0: 
+21  
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Positive equity in the property when wrongfully 
+foreclosed, if any 
++ Lost rents or use from the time between the wrongful 
+foreclosure and a valid foreclosure 
+- Unpaid association fees and assessments up until the 
+valid foreclosure. 
+To recap: when an AOAO wrongfully forecloses without 
+foreclosure authority, mortgage debt offsets the property’s 
+market value, but does not count against the plaintiff’s lost 
+22  For this calculation, a valid foreclosure occurs when a 
+final foreclosure judgment is entered. See Nationstar, 152 
+Hawaiʻi at 413, 526 P.3d at 390 (final foreclosure judgment ends 
+AOAO’s right to possession). If a plaintiff sues an AOAO before 
+a valid foreclosure occurs, the plaintiff calculates lost use 
+and unpaid assessments when they file their complaint. 
+ Also, for this calculation, the AOAO may only recoup 
+assessments for common expenses and fees resulting from the 
+plaintiff’s failure to timely pay. Attorney fees and any other 
+costs for processing the wrongful foreclosure are excluded. 
+Those costs do not count against the plaintiff. Picking up the 
+tab for attorneys who wrongfully foreclose flips equity 
+principles.   A plaintiff’s equity is the property’s fair market value 
+when wrongfully foreclosed, less outstanding mortgage debt owed then.  
+  
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+use, net of assessments and fees owed to the AOAO. The debt 
+doesn’t foil every path to relief. 
+Yet under this framework, Wong still fails to establish 
+compensatory damages. When the AOAO conducted its non-judicial 
+foreclosure, Wong owed more on his now-discharged mortgage than 
+the property was worth. He offered no evidence that he lost 
+rents or use from the wrongful foreclosure. 
+We therefore conclude that Wong did not satisfy his burden 
+to show compensatory damages. The circuit court properly dismissed his claim. 
+D. The Collateral Source Rule Does Not Apply 
+Wong also argues that the collateral source rule saves him. 
+The collateral source rule states “that benefits or 
+payments received on behalf of a plaintiff, from an independent source, will not diminish recovery from the wrongdoer.” Bynum
+, 
+106 Hawaiʻi at 86, 101 P.3d at 1154. 
+Wong says the benefit of the discharged debt should go to 
+him, the wronged party, and not to the tortfeasor. 
+Wong cites 
+Bynum, which in turn quoted the Restatement (Second) of Torts § 920(A): “[B]enefits conferred on the injured party from other 
+sources are not credited against the tortfeasor’s liability.” 
+Id. Thus, Wong argues that when HSBC discharged his mortgage 
+balance, it independently conferred a benefit to him. The AOAO 
+23  
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+lost nothing from HSBC’s discharge, Wong says. So, the 
+discharged debt shouldn’t count against his recovery. 
+We hold that the collateral source rule does not apply to 
+mortgage debt. Sure, Bynum adopted the collateral source rule 
+from the Restatement (Second) of Torts. 106 Hawaiʻ i at 86, 101 
+P.3d at 1154. But the Restatement (Second) of Torts is plain: 
+the collateral source rule applies to insurance policies, 
+employment benefits, gratuities, and social legislation. 
+Restatement (Second) of Torts § 920A, cmt. c. Not mortgage 
+debt. Section 920A doesn’t mention mortgages. (Bynum applied 
+comment c to hold that Medicare and Medicaid payments fall under 
+the rule as social legislation benefits. 106 Hawaiʻ i at 89, 101 
+P.3d 1157.) 
+The collateral source rule does not apply to forgiven 
+mortgage debt. 
+IV. 
+ Wong has not demonstrated damages. We affirm the Circuit 
+Court of the First Circuit’s orders. 
+ 
+  Steven K.S. Chung /s/ Mark E. Recktenwald 
+(Anthony F.T. Suetsugu on the /s/ Sabrina S. McKennabriefs) 
+for appellant /s/ Todd W. Eddins 
+/s/ Paul B.K. WongMary Martin and Carlos D. 
+Perez-Mesa, Jr. /s/ Rowena A. Somerville
+for appellee Association of Apartment Owners of Harbor Square  
+24  
+ 
+ 
+ Duane R. Miyashiro 
+for appellee Porter McGuire 
+Kiakona, LLP 
+James Shin 
+(Jodie D. Roeca on the briefs) 
+for appellee Ekimoto & Morris, 
+ALLLC 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+25 

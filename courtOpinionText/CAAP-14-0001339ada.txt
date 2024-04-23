@@ -1,0 +1,490 @@
+FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+IN THE INTERMEDIATE COURT OF APPEALS
+ 
+OF THE STATE OF HAWAI 'I 
+---o0o--­
+THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK,
+
+AS TRUSTEE FOR THE CERTIFICATEHOLDERS OF THE CHL MORTGAGE
+ 
+PASS-THROUGH TRUST 2006-OA5, MORTGAGE PASS THROUGH
+CERTIFICATES, SERIES 2006-OA5, Plaintiff-Appellee,
+v.
+ 
+RICHARD ARTHUR LEMAY; BAY THI LEMAY; MORTGAGE ELECTRONIC
+REGISTRATION SYSTEMS, INC., SOLELY AS NOMINEE FOR
+COUNTRYWIDE HOME LOANS, INC.; ASSOCIATION OF APARTMENT
+OWNERS OF KAPIOLANI TERRACE, Defendants-Appellees,
+and
+ 
+DERMABELLE PRODUCTS, LLC, Intervenor-Defendant-Appellant,
+and
+ 
+JOHN DOES 1-20, JANE DOES 1-20, DOE CORPORATIONS 1-20, DOE
+ENTITIES 1-20, AND DOE GOVERNMENTAL UNITS 1-20, Defendants
+ 
+NO. CAAP-14-0001339
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT
+ 
+(CIVIL NO. 12-1-0244)
+ 
+DECEMBER 7, 2015
+ 
+FOLEY, PRESIDING J., LEONARD AND REIFURTH, JJ.
+ 
+OPINION OF THE COURT BY FOLEY, J.
+ 
+Intervenor-Defendant-Appellant Dermabelle Products, LLC
+ 
+(Dermabelle) appeals from:
+ 
+(1) the "Order Denying [Dermabelle's] Motion to Compel
+ 
+Responses to Discovery Requests and Motion for Attorney Fees"
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+(Order Denying Dermabelle's First Motion to Compel), entered
+ 
+September 5, 2014;
+ 
+(2) the denial of "[Dermabelle's] Second Motion to
+ 
+Compel Discovery Requests and Motion for Attorney's Fees" (
+Denial
+ 
+1
+of Dermabelle's Second Motion to Compel);  and
+(3) the "Findings of Fact [(FOFs)], Conclusions of Law
+ 
+and Order Granting Plaintiff's Motion for Summary Judgment for
+ 
+Foreclosure Against All Defendants and for Interlocutory Decree
+ of Foreclosure" (FOFs/COLs/Order), entered December 16, 2014 in
+ 
+2the Circuit Court of the First Circuit  (circuit court).
+ 3
+On appeal, Dermabelle contends the circuit court erred
+ 
+in: (1) denying it the opportunity to conduct discovery; (2) not
+ excluding the Declaration of Indebtedness (Declaration) as
+ 
+inadmissible hearsay; and (3) granting the motion for summary
+ 
+judgment in favor of Plaintiff-Appellee the Bank of New York
+ Mellon fka the Bank of New York, as Trustee for the
+ Certificateholders of the CHL Mortgage Pass-Through Trust 2006­OA5, Mortgage Pass Through Certificates, Series 2006-OA5 (BNYM).
+I. BACKGROUND
+4
+ 
+[FOFs]
+ 
+. . . .
+ 
+3. On or about 01/19/2006, for value received,
+Defendants[-Appellees] Richard Lemay and Bay Thi Lemay
+[(collectively, the Lemays)] made, executed and delivered to
+Countrywide Home Loans, Inc. a promissory note ("Note") in
+ 
+1
+ Dermabelle's notice of appeal noted that the Denial of
+Dermabelle's Second Motion to Compel was not filed as of the date the notice
+of appeal was filed. The record on appeal does not include a copy of the
+order, and it is unclear to this court whether the order was ever entered by
+the circuit court. As discussed below, we treat the grant of BNYM's Motion
+for Summary Judgment as a denial of Dermabelle's Second Motion to Compel.
+ 
+2
+ The Honorable Bert I. Ayabe presided. 
+3
+ Although Dermabelle does not designate the circuit court's
+Judgment entered on December 16, 2014, we do not dismiss appeals "forinformality of form or title of the notice of appeal." Hawai' i Rules of 
+Appellate Procedure (HRAP) Rule 3(c)(2); 
+see State v. Graybeard , 93 Hawai' i 
+513, 516, 6 P.3d 385, 388 (App. 2000) ("[A] mistake in designating thejudgment should not result in loss of the appeal as long as the intention toappeal from a specific judgment can be fairly inferred from the notice and theappellee is not misled by the mistake." (citation, internal quotation marks,and ellipsis omitted)). 
+4
+ This background is excerpted primarily from the undisputed circuit
+court's FOFs. The background is augmented from other sources where indicated.
+ 
+2
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+the principal amount of $280,000.00
+ 
+4. For the purposes of securing payment on the Note of
+the principal sum, interest thereon, and all other changes
+as provided for in the Note, [the Lemays] made, executed,
+and delivered to Mortgage Electronic Registration Systems,
+Inc., solely as nominee for Countrywide Home Loans, Inc.
+that certain Mortgage ("Mortgage"), which encumbers the
+property located at 1560 Kanunu St #918, Honolulu, HI 96814,
+TMK 1-2-3-017-013-0123 ("Property"), more fully described in
+Exhibit "A" of the Mortgage. The Mortgage was filed in the
+Office of the Assistant Registrar of the Land Court of the
+State of Hawaii ("Land Court") as Land Document No. 3382578.
+ 
+5. [BNYM] is the owner and holder of the Note and
+Mortgage by virtue of that certain Assignment of Mortgage
+dated 04/16/2011, filed in the Land Court on 05/10/2011, as
+Land Court Document No. 4071740 ("Assignment"). The Note,
+Mortgage, and Assignment are collectively referred to as the
+"Loan Documents."
+ 
+. . . .
+ 
+7. [The Lemays] stopped making monthly payments on
+03/01/2010.
+ 
+On January 27, 2012, BNYM filed their Complaint for
+ 
+Mortgage Foreclosure (Complaint) against the Lemays, alleging the
+ 
+Note and Mortgage had been assigned to BNYM on April 16, 2011.
+ 
+The Complaint named the Association of Apartment Owners of
+ Kapiolani Terrance (AOAO) as a defendant based on its interest
+ 
+"by virtue of unpaid maintenance fees" and a notice of lien filed
+ 
+in Land Court.
+ 
+Dermabelle moved to intervene as a defendant on July 2,
+ 
+2013 on the grounds that Dermabelle "claims an interest in the
+ Subject Property arising from the Quitclaim Deed from the [AOAO]
+ executed on May 7, 2012. Furthermore, this interest in the
+ Subject Property is subject to divestment should [BNYM] prevail
+ in their foreclosure action." The circuit court granted
+ Dermabelle's motion to intervene on November 8, 2013.
+ 
+BNYM filed a motion for summary judgment on December 4,
+ 
+2013 (MSJ). In support of its motion, BNYM relied primarily on
+ 
+the Declaration signed by Lyvonne Jones (Jones). The first
+ 
+paragraph of the declaration states, "I [Jones] am authorized to
+ 
+sign this Declaration on behalf of [BNYM], as an officer of
+ Resurgent Capital Services, LP . . . [(Resurgent Capital)], which
+ 
+is [BNYM's] servicing agent for the subject loan . . . ."
+ 
+Dermabelle filed its first set of discovery requests to
+ 
+BNYM on or about December 12, 2013. Dermabelle filed a motion to
+ 
+3
+  FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+compel responses to the first set of discovery requests on July
+ 
+15, 2014 (
+First Motion to Compel). On August 12, 2014, the
+ 
+circuit court held a hearing on Dermabelle's First Motion to
+ Compel. At the hearing, the circuit court denied the motion on
+ the grounds that the parties had failed to meet and confer in
+ good faith.
+ 
+Dermabelle filed its "Second Motion to Compel Responses
+ 
+to Discovery Requests and Motion for Attorney's Fees" (Second
+ 
+Motion to Compel) on August 29, 2014. The circuit court held a
+ 
+hearing on the Second Motion to Compel on September 16, 2014. At
+ 
+the hearing, the circuit court did not make an oral ruling, and
+ the record on appeal does not contain a written order on
+ Dermabelle's Second Motion to Compel.
+ 
+On October 1, 2014, the circuit court held a hearing on
+ 
+BNYM's December 4, 2013 MSJ. On December 16, 2014, the circuit
+ court entered its FOFs/COLs/Order granting summary judgment in
+ BNYM's favor.
+ 
+II. STANDARD OF REVIEW
+ 
+A.
+ Discovery
+ 
+[The Hawai' i Rules of Civil Procedure (HRCP)] reflect a
+basic philosophy that a party to a civil action should be
+entitled to the disclosure of all relevant information in the possession of another person prior to trial, unless theinformation is privileged. However, the extent to whichdiscovery is permitted under [HRCP] Rule 26 is subject toconsiderable latitude and the discretion of the trial court. Thus, the exercise of such discretion will not be disturbedin the absence of a clear abuse of discretion that results in substantial prejudice to a party. Accordingly, theapplicable standard of review on a trial court's ruling on amotion to compel discovery, brought pursuant to HRCP Rule26, is abuse of discretion. 
+Hac v. Univ. of Hawai 'i, 102 Hawai 'i 92, 100-01, 73 P.3d 46, 54-55 
+(2003) (citations, internal quotation marks, brackets, and
+ 
+ellipsis omitted).
+B.
+ Summary Judgment 
+[An appellate] court reviews a trial court's grant of
+summary judgment de novo. O'ahu Transit Servs., Inc. v.
+Northfield Ins. Co., 107 Hawai' i 231, 234, 112 P.3d 717, 720
+(2005). The standard for granting a motion for summary
+judgment is well settled:
+ 
+Summary judgment is appropriate if the pleadings,
+depositions, answers to interrogatories, and
+admissions on file, together with the affidavits, if
+any, show that there is no genuine issue as to any
+material fact and that the moving party is entitled to
+ 
+4
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+judgment as a matter of law. A fact is material if
+ 
+proof of that fact would have the effect of
+establishing or refuting one of the essential elements
+of a cause of action or defense asserted by the
+parties. The evidence must be viewed in the light
+most favorable to the non-moving party. In other
+ words, [the appellate court] must view all of the
+evidence and the inferences drawn therefrom in the
+ light most favorable to the party opposing the motion.
+ 
+Price v. AIG Hawai' i Ins. Co., 107 Hawai' i 106, 110, 111 P.3d
+1, 5 (2005) (original brackets and citation omitted). 
+Kamaka v. Goodsill Anderson Quinn & Stifel, 117 Hawai 'i 92, 104, 
+176 P.3d 91, 103 (2008). On a motion for summary judgment, "[a] 
+fact is material if proof of that fact would have the effect of establishing or refuting one of the essential elements of a cause of action or defense asserted by the parties." Crichfield v. 
+Grand Wailea Co., 93 Hawai
+'i 477, 482-83, 6 P.3d 349, 354-55 
+(2000) (quoting Hulsman v. Hemmeter Dev. Corp., 65 Haw. 58, 61, 647 P.2d 713, 716 (1982)). "[A] 'genuine issue as to any [material] fact' . . . under a conflict in the affidavits as to a particular matter must be of such a nature that it would affect the result." Richards v. Midkiff, 48 Haw. 32, 39, 396 P.2d 49, 
+54 (1964). 
+Affidavits in support of a summary judgment motion are
+scrutinized to determine whether the facts they aver are
+admissible at trial and are made on the personal knowledge
+of the affiant. Also, ultimate or conclusory facts or
+conclusions of law are not to be utilized in a summary
+judgment affidavit.
+ 
+Miller v. Manuel, 9 Haw. App. 56, 66, 828 P.2d 286, 292 (1991)
+ 
+(citations omitted).
+ 
+III. DISCUSSION
+ 
+Dermabelle argues that the circuit court abused its
+ 
+discretion in denying both of Dermabelle's motions to compel
+ because the information Dermabelle requested was relevant to
+ whether BNYM had satisfied the standing requirements to bring a
+ judicial foreclosure action. Although Dermabelle lists the Order
+ Denying Dermabelle's First Motion to Compel in its notice of
+ appeal, it does not challenge the circuit court's dismissal of
+ that motion in its substantive argument. Therefore, we do not
+ address whether the circuit court erred in entering the Order
+ Denying Dermabelle's First Motion to Compel. See HRAP Rule
+ 
+5
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+28(b)(7) ("Points not argued may be deemed waived.").
+ 
+Dermabelle also disputes the circuit court's denial of 
+its Second Motion to Compel. Dermabelle cites only to the 
+transcript of the hearing in which the circuit court did not rule on the motion. There is no written order denying the Second Motion to Compel in the record on appeal. However, the Second Motion to Compel was effectively denied by the circuit court's grant of BNYM's motion for summary judgment. As such, we will address the merits of Dermabelle's argument. See Morgan v. 
+Planning Dept., Cnty. of Kauai, 104 Hawai
+'i 173, 180-81, 86 P.3d 
+982, 989-90 (2004) ("This court . . . has consistently adhered to the policy of affording litigants the opportunity to have their cases heard on the merits, where possible." (citation and internal quotation mark omitted)). 
+Dermabelle argues on appeal:
+ 
+[It was] wholly relevant for [Dermabelle] to question
+whether Resurgent Capital is in fact authorized to service
+the loan on behalf of [BNYM]. . . . [Dermabelle] must be
+allowed to ask for the documents establishing Resurgent
+Capital as the servicer of the loan for [BNYM] in order to
+determine whether or not [BNYM] has satisfied their basic
+standing requirements to bring a judicial foreclosure
+action.
+ 
+At the hearing on Dermabelle's Second Motion to Compel, the
+ 
+circuit court suggested to counsel for Dermabelle, "I'm not
+ inclined, in your capacity, where you're coming in as a purchaser
+ of a foreclosure sale, [to allow Dermabelle] to come in and file
+ this motion for discovery on a case in which your client doesn't
+ have any obligation on the note and mortgage."
+ 
+In FOF 13, which neither party disputes on appeal, the
+ 
+circuit court found: 
+13. [AOAO] may claim an interest in the Property by
+virtue of unpaid maintenance fees and, if applicable, on
+that certain Notice of Lien filed in the Land Court on
+ 01/25/2006 as Document No. 3382579. Its interest in the
+ Property, if any, is junior to [BNYM's] lien.
+ 
+Dermabelle had acquired the AOAO's interest on April 27, 2012 as
+ 
+the result of a power of sale foreclosure, for which Dermabelle
+ received a quitclaim deed. Dermabelle's interest in defending
+ the suit, therefore, was to protect its junior interest in the
+ 
+6
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+5
+property. Under HRCP Rule 26(b)(1)(A),  Dermabelle is permitted
+to seek discovery of information relevant to defending its
+ 
+interest in the property.
+ 
+The circuit court's hesitation to grant Dermabelle's 
+Second Motion to Compel because it was not a party to the Note or Mortgage was unwarranted because the information Dermabelle sought was relevant to defending its junior interest in the property under HRCP Rule 26(b)(1)(A). The remaining question is whether the exclusion of Dermabelle's requested information would have affected the circuit court's grant of BNYM's motion for summary judgment such that Dermabelle was substantially prejudiced by the exclusion. See Hac, 102 Hawai
+'i at 100-01, 73 
+P.3d at 54-55 (noting that the trial court's denial of a motion to compel discovery "will not be disturbed in the absence of a clear abuse of discretion that results in substantial prejudice to a party."). 
+In Dermabelle's First Motion to Compel, arguments and
+ 
+analysis of which were adopted in its Second Motion to Compel,
+ Dermabelle argues that BNYM's allegedly inadequate responses to
+ Dermabelle's interrogatory requests suggest that Jones is "a
+ foreclosure specialist with New Penn Financial, LLC d/b/a
+ Shellpoint Mortgage Servicing . . . [and] who has neither job
+ 
+5
+ HRCP Rule 26 provides in relevant part:
+ 
+Rule 26. GENERAL PROVISIONS GOVERNING DISCOVERY.
+ 
+. . . .
+ (b) Discovery Scope and Limits. Unless otherwise
+ 
+limited by order of the court in accordance with these
+rules, the scope of discovery is as follows:
+ 
+(1) IN GENERAL.
+ 
+(A) Parties may obtain discovery regarding any matter,
+not privileged, which is relevant to the subject matter
+involved in the pending action, whether it relates to the
+claim or defense of the party seeking discovery or to the
+claim or defense of any other party, including the
+existence, description, nature, custody, condition and
+location of any books, documents, electronically stored
+information or tangible things and the identity and location
+of persons having knowledge of any discoverable matter. It
+ is not ground for objection that the information sought will
+be inadmissible at the trial if the discovery appears
+reasonably calculated to lead to the discovery of admissible
+evidence. 
+7
+  FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+responsibilities for [Resurgent Capital] nor familiarity with the
+ 
+records maintained by [Resurgent Capital], directly contradicting
+ the [Declaration]." The information requested by Dermabelle's
+ Second Motion to Compel may have led to evidence contradicting
+ the assertions of facts made in Jones' declaration.
+6 By denying
+ 
+Dermabelle's Second Motion to Compel, the circuit court precluded
+ Dermabelle from defending against the MSJ by denying discovery
+ that may have led to the existence of genuine issues of material
+ fact. See HRCP Rule 56(e) ("The court may permit affidavits to
+ 
+be supplemented or opposed by depositions, answers to
+ interrogatories, or further affidavits.")
+ 
+When moving for summary judgment in a foreclosure
+ 
+action, a plaintiff-movant has the initial burden of producing
+ the documentation necessary to establish that a borrower had
+ defaulted on her note and that the lender was entitled to
+ foreclose on the mortgage securing the note. See Ocwen Fed.
+ 
+Bank, FSB v. Russell, 99 Hawai
+'i 173, 184, 53 P.3d 312, 323 (App. 
+2002). A declaration of indebtedness is one document that helps
+ 
+6
+ This possibility is supported by Dermabelle's evaluation of BNYM's
+"doctored" responses to their discovery requests in its First Motion to
+Compel. For example, Dermabelle described its Interrogatory No. 8:
+ 
+Interrogatory No. 8 of Dermabelle's Discovery Requests
+specifically asks [BNYM] to:
+ 
+Please explain the capacity in which [Jones] is
+employed by [Resurgent Capital]. Include in
+ your answer the periods of employment for
+[Jones] and the title of the position held by
+[Jones].
+ 
+Instead of providing a response, [BNYM] doctored
+Interrogatory No. 8 to state:
+ 
+Please explain the capacity in which
+[Jones] is employed by New Penn Financial,
+LLC d/b/a/ Shellpoint Mortgage Servicing.
+Include in your answer the periods of
+employment for [Jones] and the title of
+the position held by [Jones], foreclosure
+ specialist.
+ 
+[BNYM] then refused to answer the Interrogatory they
+materially altered.
+ 
+(brackets omitted and emphasis in original). This response suggests that
+Jones was not, as she declared under penalty of perjury in her declaration,
+"authorized to sign this Declaration on behalf of [BNYM], as an officer of
+[Resurgent Capital], which is [BNYM's] servicing agent for the subject
+loan . . . ."
+ 
+8
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER 
+to prove that a borrower defaulted on her note and that the
+ 
+lender was entitled to foreclose on the mortgage. See id.
+ 
+In BNYM's MSJ, BNYM relied almost exclusively on the 
+Declaration. Without the Declaration, there was no basis for the circuit court to grant summary judgment because BNYM did not rely on any source of information other than the Declaration to prove that the Lemays had defaulted on their loan and that BNYM was entitled to foreclose. In addition to effectively denying Dermabelle's Second Motion to Compel, the circuit court granted BNYM's MSJ before Dermabelle could depose Jones about her declaration, which may have ameliorated the prejudice resulting from the circuit court's denial of Dermabelle's Second Motion to Compel. See HRCP Rule 56(f) ("Should it appear from the 
+affidavits of a party opposing the motion that the party cannot for reasons stated present by affidavit facts essential to justify the party's opposition, the court may refuse the application for judgment or may order a continuance to permit affidavits to be obtained or depositions to be taken or discovery to be had or may make such other order as is just."). Therefore, effectively denying Dermabelle's Second Motion to Compel was an abuse of discretion that substantially prejudiced Dermabelle. Hac, 102 Hawai
+'i at 100-01, 73 P.3d at 54-55. 
+Because we have concluded that the denial of
+ 
+Dermabelle's Second Motion to Compel was reversible error, we do
+ not need to address Dermabelle's other points of error on appeal.
+IV. CONCLUSION
+ 
+Therefore, the following entered in the Circuit Court
+ 
+of the First Circuit are vacated and this case is remanded for
+ further proceedings consistent with this Opinion:
+ 
+(1) the "Order Denying Defendant's Dermabelle Products
+ 
+LLC's Motion to Compel Responses to Discovery Requests and Motion
+ for Attorney Fees," entered September 5, 2014;
+ 
+(2) the denial of "Defendant Dermabelle Products, LLC's
+ 
+Second Motion to Compel Responses to Discovery Requests and
+ Motion for Attorney's Fees"; and
+ 
+(3) the "Findings of Fact, Conclusions of Law and Order
+ 
+Granting Plaintiff's Motion for Summary Judgment for Foreclosure
+ 
+9
+ FOR PUBLICATION IN WEST'S HAWAI 'I REPORTS AND PACIFIC REPORTER
+ 
+Against All Defendants and for Interlocutory Decree of
+ 
+Foreclosure," entered December 16, 2014.
+ 
+On the briefs:
+ 
+Colin B. Sakumoto
+ 
+for Intervenor-Defendant-
+Appellant.
+ 
+Peter T. Stone
+ 
+Daisy Lynn B. Hartsfield
+(TMLF Hawaii)
+for Plaintiff-Appellee.
+ 
+10
+ 

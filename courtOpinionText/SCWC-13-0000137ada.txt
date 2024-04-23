@@ -1,0 +1,1205 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+________________________________________________________________  
+ 
+_______________________________________________________________  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER ***  
+Electronically Filed 
+Supreme Court 
+SCWC-13-0000137 31-OCT-2014 
+09:35 AM 
+IN THE SUPREME COURT OF THE STATE OF HAWAI I  
+---oOo--
+-
+THOMAS NISHIMURA, COLETTE NISHIMURA, 
+ 
+ 
+Individually  and on Behalf of a Class of All Persons
+ 
+  
+Similarly Situated, Petitioners/Plaintiffs-Appellees,
+ 
+  
+ 
+vs.
+  
+ 
+ 
+GENTRY HOMES, LTD.,
+ 
+  
+a Hawai i Domestic Profit Corporation,
+ 
+  
+Respondent/Defendant-Appellant,
+ 
+  
+ 
+and
+ 
+  
+ 
+SIMPSON MANUFACTURING CO., INC., a Delaware Corporation;
+ 
+  
+SIMPSON STRONG-TIE COMPANY, INC., a California Corporation, 
+ 
+Defendants.
+ 
+  
+SCWC-13-0000137   
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS
+ 
+  
+(CAAP-13
+-0000137; CIV. NO. 11-1-1522-07)
+ 
+OCTOBER 31, 2014
+ 
+  
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, POLLACK, AND WILSON, JJ.
+  
+ 
+ 
+  
+ 
+ 
+  
+                     
+      
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+OPINION OF THE COURT BY McKENNA, J. 
+I. Introduction 
+This appeal raises an issue of first impression in Hawai i: 
+what standard applies in reviewing the enforceability of an 
+arbitrator-selection provision? We adopt the “fundamental 
+fairness” standard set forth by the United States Court of Appeals for the Sixth Circuit in McMullen v. Meijer, Inc., 355 
+F.3d 485 (6th Cir. 2004), and we hold that the arbitrator-
+selection provision at issue in this appeal was fundamenta
+lly 
+unfair, because it gave the defendant’s agent “sole discretion” to select an arbitration service to resolve a dispute between the plaintiffs and defendant. In the instant case, the Circuit 
+Court of the First Circuit (“circuit court”)
+1 properly severed 
+and struck the arbitrator-selection provision and ordered the parties to meet and confer to select an arbitration service. 
+The circuit court also properly reserved for itself the 
+authority to appoint an arbitration service if the parties could 
+not come to an agreement. Therefore, we vacate the ICA’s judgment on appeal, which vacated the circuit court’s “Order 
+Granting in Part and Denying in Part Defendant Gentry Homes, 
+Ltd.’s Motion to Compel Arbitration Filed August 29, 2012,” and 
+its “Order Denying Gentry Homes’ Motion for Reconsideration of 
+the Order Granting in Part and Denying in Part Gentry Homes, 
+1 The Honorable Rhonda A. Nishimura presided. 
+2
+  
+ 
+ 
+    
+    
+ 
+ 
+  
+    
+   
+  
+ 
+                     
+   
+ 
+ 
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+Ltd.’s Motion to Compel Arbitration [Filed August 29, 2012], 
+Filed on November 13, 2012.” The circuit court’s orders are 
+affirmed. 
+II. Background 
+A. Circuit Court Proceedings 
+1. The First Amended Class Action Complaint 
+On October 12, 2011, Petitioners/Plaintiffs-Appellees 
+Thomas Nishimura and Colette Nishimura, individually and on 
+behalf of a class of all persons similarly situated 
+(“Nishimuras”), filed their First Amended Class Action 
+Complaint. The Nishimuras alleged that Gentry Homes, Ltd. 
+(“Gentry”) constructed the Nishimuras’ home without adequate 
+high wind protection. 
+2. Motion to Compel Arbitration 
+On August 29, 2012, Gentry filed its Motion to Compel 
+Arbitration, pursuant to the following provision in the Home Builder’s Limited Warranty (“HBLW”) between Gentry and the Nishimuras (with emphasized portions relevant to this appeal): 
+VIII. Binding Arbitration Procedure  
+Any disputes between YOU and US, or parties acting on OUR 
+behalf, including PWC, [2]  related to or arising from this 
+LIMITED WARRANTY, the design or construction of the HOME or 
+the COMMON ELEMENTS or the sale of the HOME or transfer of 
+title to the COMMON ELEMENTS will be resolved by binding 
+arbitration. Binding arbitration shall be the sole remedy 
+for resolving any and all disputes between YOU and US, or OUR representatives.  
+ 
+ 
+. . . . 
+ 
+2 “PWC” stands for “Professional Warranty Service Corporation,” the 
+company administering the HBLW pursuant to a contract with Gentry. 
+3
+  
+ 
+ 
+  
+  
+ 
+   
+ 
+ 
+   
+ 
+ 
+ 
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+The arbitration shall be conducted by Construction 
+Arbitration Services, Inc., or such other reputable 
+arbitration service that PWC shall select, at its sole 
+discretion, at the time the request for arbitration is 
+submitted. The rules and procedures of the designated arbitration organization, that are in effect at the time the request for arbitration is submitted, will be followed.  
+A copy of the applicable rules and procedures will be 
+delivered to YOU upon request. 
+This arbitration agreement shall be governed by the United 
+States Arbitration Act (9 U.S.C. §§ 1 -16) to the exclusion 
+of any inconsistent state law, regulation or judicial decision. The award of the arbitrator shall be final and 
+binding and may be entered as a judgment in any court of 
+competent jurisdiction. . . . 
+The Nishimuras ’ Opposition to Gentry Homes’ Motion to 
+Compel Arbitration drew the circuit court’s attention to a 
+notice on Construction Arbitration Services, Inc.’s website, 
+announcing that it had “permanently  exit[ed] from the binding 
+construction arbitration dispute case administration business effective July 1, 20 09.” (Emphasis in original.) Thus, under 
+the HBLW’s arbitrator -selection provision, PWC was authorized to 
+“select, at its sole discretion” “such other reputable 
+arbitration service” to conduct the arbitration. “Reputable” 
+was not defined in the HBLW. The Nishimuras argued that the 
+instant arbitrator-selection provision contained no safeguards 
+against “potential bias,” and that PWC was empowered to choose 
+any arbitrator, including one with a pro-defense view.    
+The Nishimuras 
+feared that PWC would select an arbitration 
+service aligned with developers, because PWC marketed its “close 
+relationship” with Zurich, the parent of the insurance company 
+for Haseko Homes, Inc. and Haseko Construction, Inc., which at 
+4
+
+  
+ 
+ 
+     
+  
+     
+    
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+that time was also being sued for the same construction defect 
+as in the instant case. The Nishimuras alleged that PWC would 
+have a “strong financial incentive in helping secure an outcome 
+in favor of Gentry in the instant action. . . .” They noted 
+that another circuit court judge had severed and stricken the arbitrator-selection provision in the Haseko case “on the ground 
+of PWC’s conflict of interest. . . .” The Nishimuras argued, 
+“Allowing a party so closely aligned with the defendants in a 
+similar case involving similar 
+claims before this Court to 
+unilaterally select the arbitrator would deprive Plaintiffs of a 
+fair and effective forum in whi ch to vindicate their claims.” 
+In support of their argument, the Nishimuras cited, inter alia, 
+McMullen , 355 F.3d 485. 
+In its Reply, Gentry argued 
+that the Nishimuras set forth 
+“no evidence of bias with the ultimate arbitrator,” b ecause none 
+had been selected. Gentry pointed out that the arbitration-selection provision authorized PWC to choose an arbitration service, not the ultimate arbitrator.  Gentry also argued that a 
+party who does not consent to the other party’s choice of 
+arbitrator can petition the court to appoint an arbitrator. 
+Gentry also argued that a party must await the conclusion of 
+arbitration to raise a challen ge of “evident partiality” in the 
+arbitrator. 
+5
+  
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+                     
+   
+ 
+        
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+At a hearing on the Motion to Compel Arbitration, counsel 
+for the Nishimuras asked the circuit court to sever and strike 
+the arbitrator-selection provision, order the parties to agree 
+to a local arbitrator, or appoint one itself, as another circuit 
+court had done in the Haseko case. Counsel for Gentry countered 
+that he did not believe the circuit court had the authority to 
+order the parties to agree to an arbitrator. The circuit court, 
+on the other hand, s tated that “just on the face of” the HBLW 
+arbitrator-selection provision, “there is a potential conflict 
+. . . .” The circuit court stated to Gentry’s counsel, “[T]he 
+less you have to reserve in the future as possible appealable 
+issues, the better. . . . ” 
+The circuit court therefore granted in part and denied in 
+part Gentry’s Motion to Compel Arbitration. While it ordered 
+the Nishimuras to arbitrate their claims against Gentry, the circuit court found the following: 
+The Motion is DENIED to the extent that this Court finds 
+that there is a potential conflict of interest with 
+Professional Warranty Services, Inc. (“PWC”) selecting the 
+arbitration service as set forth under the Home Builder’s 
+Limited Warranty. Accordingly, the method by which the 
+arbitration service is to be selected under the Home Builders’ Limited Warranty is severed and stricken. 
+Pursuant to Hawaii Rules of the Circuit Courts Rule 12.2
+3, 
+3 Hawaii Rules of the Circuit Courts (“RCCH”) Rule 12.2(a) (2012) 
+provides the following, in relevant part: 
+Authority to order.  The court, sua sponte or upon motion by 
+a party, may, in exercise of its discretion, order the 
+parties to participate in a non -binding Alternative Dispute 
+Resolution process (ADR or ADR process) subject to terms 
+and conditions imposed by the cour
+t. ADR includes 
+mediation, summary jury trial, neutral evaluation, non - 
+(continued. . .) 
+6
+  
+ 
+ 
+  
+ 
+   
+  
+ 
+ 
+                                                                  
+ 
+ 
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+this Court orders that Plaintiffs and Gentry shall meet and 
+confer on the selection of a local arbitration service 
+within forty -five (45) days of entry of this Order.  If 
+Plaintiffs and Gentry are unable to agree, the Court shall select a local arbitration service for this matter. 
+3. Motion for Reconsideration 
+Gentry filed a Motion for Reconsideration of the circuit 
+court’s order asking the court to set aside the provision 
+severing and striking the arbitrator-selection provision.  In 
+addition to reiterating arguments that the time to challenge 
+arbitrator bias is post-award and that the Nishimuras had 
+presented no evidence of bias or potential bias, Gentry argued 
+that RCCH Rule 12.2 did not authorize the circuit court to 
+“modify the parties’ agreement for binding arbitration. . . .”  
+Gentry argued that RCCH Rule 12.2 authorizes court-mandated non-
+binding arbitration, not binding arbitration, which is what the 
+parties had agreed to in the HBLW. 
+In the Nishimuras’ Opposition to Gentry’s Motion for 
+Reconsideration, they argued that the circuit court had “broad 
+discretion to appoint an arbitration service (or here, order the 
+parties to meet and confer to appoint one) when the specified 
+arbitration service is no longer in business or the arbitrator 
+3  (. . .continued)  
+binding arbitration, presentation to a focus group, or 
+other such process the court determines may be helpful in 
+encouraging an economic and 
+fair resolution of all or any 
+part of the disputes presented in the matter. 
+7
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+   
+ 
+ 
+ 
+                     
+   
+ 
+   
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+is partial to one of the par ties.” The Nishimuras then cited to 
+9 U.S.C. § 5 (2009),4 which states the following: 
+If in the agreement provision be made for a method of 
+naming or appointing an arbitrator or arbitrators or an 
+umpire, such method shall be followed; but if no method be provided therein, or if a method be provided and any party 
+thereto shall fail to avail himself of such method, or if 
+for any other reason there shall be a lapse in the naming 
+of an arbitrator or arbitrators or umpire, or in filling a 
+vacancy, then upon the application of either party to the controversy the court shall designate and appoint an 
+arbitrator or arbitrators or umpire, as the case may 
+require, who shall act under the said agreement with the 
+same force and effect as if he or they had been 
+specifically named therein; and unless otherwise provided 
+in the agreement the arbitration shall be by a single 
+arbitrator. 
+The circuit court denied Gentry ’s Motion for 
+Reconsideration. Gentry then timely appealed the circuit 
+court’s order granting in part and denying in part its Motion to 
+Compel Arbitration, as well as the circuit court’s o rder denying 
+its Motion for Reconsideration. 
+B. ICA Appeal 
+1. Opening Brief 
+In its Opening Brief, Gentry raised the following Points of 
+Error: 
+1. Whether the trial court erred in denying, in part, 
+Gentry’s Motion to Compel Arbitration and ordering Gentry 
+and Plaintiffs to meet and confer on the selection of the 
+arbitration service in contravention of the express terms 
+of the parties’ arbitration agreement as set forth in the 
+[HBLW] that Plaintiffs rely upon in bringing their claims 
+against Gentry. 
+2. Whether the trial court erred in denying Gentry’s 
+Motion for Reconsideration. 
+4 9 U.S.C. § 5 is a provision in the Federal Arbitration Act, 9 
+U.S.C. §§ 1- 16 (2009) (“FAA”). The parties do not dispute that the FAA 
+governs their arbitration agreement. 
+8
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                     
+   
+ 
+ 
+  
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+3. Whether the trial court erred in finding that PWC had a 
+potential conflict of interest in selecting the arbitration 
+service pursuant to the terms of the parties’ arbitrati on 
+agreement as set forth in the [HBLW]. 4. Whether the trial court erred in finding that PWC’s 
+potential conflict in selecting the arbitration service was 
+a sufficient basis to strike that portion of the parties’ 
+arbitration agreement requiring PWC to select the 
+arbitration service in order to avoid a future appealable 
+issue. 
+5. Whether the trial court erred in relying upon Hawai ʻi 
+Rules of the Circuit Court s Rule 12.2 as the basis to order 
+the parties to meet and confer on the selection of a local 
+arbitration service in contravention of the express terms 
+of the parties’ arbitration agreement as set forth in the [HBLW] requiring PWC to select the arbitration service. 
+Gentry first argued that RCCH Rule 12.2 governs non-binding 
+arbitration and did not authorize the circuit court to order the 
+parties into binding arbitration. 
+Gentry next argued that the circuit court “lacked 
+jurisdiction under the FAA to entertain the Nishimuras[’] pre -
+arbitration challenge to the partiality of the not yet selected 
+arbitrator.” Gentry cited to 9 U.S.C. § 10  (2009) 5 as authority 
+for its position that the time to challenge the arbitrator’s 
+partiality is after the issuance of the arbitration award, when 
+the court is authorized to vacate an arbitration award “where 
+there was evident partiality or corruption in the arbitrators, or either of them.” 
+Gentry argued that, even if the circuit court had 
+jurisdiction to entertain the Nishimura’s pre -arbitration 
+5 9 U.S.C. § 10(a)(2) (2009) provides the following, in relevant 
+part: “[T]he United States court in and for the district wherein the award 
+was made may make an order vacating the award upon the application of any 
+party to the arbitration -- . . . where there was evident partiality or 
+corruption in the arbitrators, or either of them.” 
+9
+  
+ 
+ 
+    
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+“challenge to the partiality of the not -yet-selected 
+arbitrator,” the Nishimuras did not establish that any 
+arbitration service selected by PWC pursuant to the HBLW would 
+be biased toward Gentry. Gentry cited Phillips v. Assocs.  Home 
+Equity Servs., Inc. , 179 F.Supp.2d 840, 845 (N.D. Ill. 2001)  ,  
+for the following proposition : “In the absence of credible 
+evidence of actual bias   in favor of the lenders, we ‘decline to 
+indulge the presumption that the parties and arbitral body conducting a proceeding will be unable or unwilling to retain 
+competent, conscientious and impartial arbitrators.’”   (Emphasis 
+added.) Gentry also cited Doctor’s Assocs., Inc. v. Stuart , 85 
+F.3d 975, 981 (2d Cir. 1996), for its rejection of the 
+defendants’ argument that an arbitration agreement was 
+unconscionable, because the defendants “failed to present  any 
+credible evidence indicating bias on the part of the 
+[arbitration service or its arbitrators,] particularly because 
+[d]efendants’ claims have not yet gone to arbitration.”  
+2. Answering Brief 
+In their Answering Brief, the Nishimuras disagreed wit
+h 
+Gentry’s argument that a challenge to the arbitrator -selection 
+process must be raised after the arbitrator has issued an arbitration award. 
+The Nishimuras cited McMullen , 355 F.3d 485, 
+and Walker v. Ryan’s Family Steak Houses, Inc. , 400 F.3d 370, 
+385 (6th  Cir. 2005), for the proposition that “the general rule 
+10  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+prohibiting pre-arbitration challenges to an allegedly biased 
+arbitration panel does not extend to an allegation that the 
+arbitrator-selection process itself is fundamentally unfair. In 
+such a case, ‘the arbitral forum is not an effective substitute 
+for a judicial forum,’ and, therefore, the party need not 
+arbitrate first and then allege bias through post arbitration 
+judicial review.” The Nishimuras argued that once a court 
+determines that the arbitrator-selection process is 
+fundamentally unfair, then 9 U.S.C. § 5 authorizes the court to 
+“choose an alternative method for selecting the arbitrator.” 
+Next, the Nishimuras argued that there was sufficient 
+evidence to support the circuit court’s findin g that PWC had a 
+conflict of interest rendering the arbitration-selection 
+provision fundamentally unfair, based upon PWC’s relationship 
+with insurance companies and builders, as well as the language 
+of the HBLW. The Nishimuras pointed out that “the arbitr ator 
+selection process contains no safeguards against potential 
+bias,” and that PWC, acting on Gentry’s behalf, “can literally 
+choose any arbitration service it unilaterally deems to be 
+‘reputable. . . .’” 
+As to Gentry’s argument that RCCH Rule 12.2 did not 
+authorize the circuit court to order the parties to meet and 
+confer to select a local arbitration service, the Nishimuras 
+counter-argued that the circuit court relied on that rule only 
+11
+  
+ 
+ 
+  
+   
+ 
+  
+   
+  
+ 
+  
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+for the limited purpose of ordering the parties to attempt to 
+agree on an arbitration service; it did not order the parties 
+into binding arbitration under the rule. 
+3. The ICA’s Published Opinion 
+The ICA issued a published opinion. Nishimura v. Gentry 
+Homes, Ltd., 133 Hawai i 222, 325 P.3d 634 (App. 2014). The ICA 
+asserted that the HBLW provision stating that PWC “act[s] on 
+[Gentry’s] behalf” merely served to “put a distance between 
+Gentry’s interest and the arbitrator,” but did not authorize PWC 
+to potentially “select an arbitration service that would res olve 
+arbitration in favor of Gentry.” 133 Hawai i at 228, 325 P.3d at 
+640. As such, the ICA concluded that the HBLW’s language “does 
+not establish PWC’s improper motives or evident partiality.” 
+Id. 
+The ICA then distinguished Walker, 400 F.3d 370, and 
+McMullen , 355 F.3d 485, from the instant case. 133 Hawai i at 
+228, 325 P.3d at 640. The ICA distinguished Walker
+, stating 
+that the plaintiff employees in Walker entered into an 
+arbitration agreement with the very entity that would arbitrate 
+their disputes with their employer, unlike the instant case, 
+where PWC “would not itself serve as an arbitrator and was 
+required to select a reputable arbitration service.” Id. The 
+ICA distinguished McMullen , stating that the arbitration clause 
+12
+
+  
+ 
+ 
+  
+  
+  
+   
+     
+ 
+  
+ 
+ 
+   
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+at issue in that case gave the defendant employer unilateral 
+control over the pool of potential arbitrators, unlike the 
+instant case, where PWC, not Gentry, selects an arbitration 
+service. Id. The ICA then “decline[d] to conclude that PWC’s 
+potential conflict of interest constitutes bias rendering the arbitrator-selection process under the [HBLW] so ‘fundamentally 
+unfair’ as to be unenforceable.” Id. The ICA then concluded 
+that the circuit court’s actions in invalidating the arbitrator -
+selection provision before PWC selected the arbitration service were premature and improper. Id. According to the ICA, 
+“Nishimura Plaintiffs are not precluded from challenging the 
+arbitration service designated by PWC or the neutral arbitrator 
+selected by that service for bias upon appropri
+ate proof before 
+the start of the arbitration proceedings.” Id. 
+Although its discussion up to this point in the opinion 
+focused on the fundamental fairness of the arbitrator
+-selection 
+process, the ICA’s opinion then shifted to a discussion on unconscionability. 
+Id. Specifically, the ICA held, “In order 
+to avoid enforcement of an allegedly unconscionable arbitration clause, Nishimura Plaintiffs were required to present evidence 
+of actual partiality or bias of the arbitration service 
+designated by PWC or the neutral arbitrator selected.” Id.  
+(citing Doctor’s Assocs. Inc. , 85 F.3d at 981) (emphasis added). 
+The ICA then cited Gilmer v. Interstate/Johnson Lane Corp. , 500 
+13
+
+  
+ 
+ 
+  
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+U.S. 20, 30 (1991), to conclude that the Nishimuras’ 
+contentions, “based on circumstances of PWC’s business 
+relationships,” constituted merely a “‘generalized attack’ on 
+PWC’s impartiality,” resting on a suspicion of arbitration out 
+of step with the United States Supreme Court’s endorsement of 
+this method of dispute resolution. 133 Hawai i at 229, 325 P.3d 
+at 641. Without proof of “actual partiality or bias,” the ICA 
+held, “the circuit court should have confined judicial review to 
+the fairness of the completed arbitration award, at which time 9 
+U.S.C. § 10 could provide for vacating the award upon a finding 
+that the arbitrators acted with evident partiality.” Id.  
+The ICA then concluded that the circuit court should have 
+enforced the HBLW’s arbitrator -selection provision. Id. The 
+ICA vacated the order granting in part and denying in part 
+Gentry’s motion to compel arbitration, as well as the order 
+denying Gentry’s motion for reconsideration. Id.
+ The ICA then 
+remanded the case to the circuit court for further proceedings. Id.    
+III. Standard of Review 
+An appellate court reviews a trial court’s order granting 
+or denying a motion to compel arbitration de novo, using the 
+“same standard employed by the trial court and based upon the same evidentiary materials ‘as were before [ it] in determination 
+14
+
+  
+ 
+ 
+  
+ 
+   
+   
+ 
+ 
+ 
+  	
+	
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+of the motion.” Koolau Radiology, Inc. v. Queens Med. Ctr., 73 
+Haw. 433, 440, 834 P.2d 1294, 1298 (1992) (citations omitted). 
+IV. 	Discussion 
+A. 	The “Fundamental Fairness” Standard in Challenges 
+to the Arbitrator-Selection Process 
+Preliminarily, we note that the parties agree that the HBLW 
+is governed by the FAA. 9 U.S.C. § 2 (2009) provides the  
+following: 
+A written provision in any maritime transaction or a 
+contract evidencing a transaction involving commerce to 
+settle by arbitration a controversy thereafter arising out of such contract or transaction, or the refusal to perform 
+the whole or any part thereof, or an agreement in writing 
+to submit to arbitration an existing controversy arising 
+out of such a contract, transaction, or refusal, shall be 
+valid, irrevocable, and enforceable, 
+save upon such grounds 
+as exist at law or in equity for the revocation of any 
+contract.  
+(Emphasis added). Thus, under the FAA, invalidation of an 
+arbitration provision is authorized.  In determining whether an 
+arbitrator-selection provision is enforceable, we adopt the 
+“fundamental fairness” standard set forth by the Sixth Cir cuit 
+in McMullen , 355 F.3d 485.  
+In McMullen, on the eve of arbitration, after an arbitrator 
+had been selected, a plaintiff employee (“McMullen”) brought an 
+action challenging the fairness of the arbitrator
+-selection 
+process. 355 F.3d at 488. The arbitration agreement granted her employer “exclusive control over the pool of potential 
+arbitrators from which the arbitrator is selected.” 355 F.3d at 
+487. From that pool of potential arbitrators, the employer and 
+15
+  
+ 
+ 
+  
+ 
+  
+  
+   
+ 
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+employee each struck an arbitrator until only one remained.  355 
+F.3d at 488. 
+McMullen’s employer counter -argued that the bias McMullen 
+“fears will manifest itself during her arbitration hearing is, 
+at this point, merely potential  bias.” 355 F.3d at 494 
+(emphasis in original). Quoting 
+Gilmer, the Sixth Circuit 
+acknowledged that the United States Supreme Court, “when 
+presented with an allegation of hypothetical bias, ‘decline[d] 
+to indulge the presumption that the parties and arbitral body 
+conducting a proceeding will be unable or unwi
+lling to retain 
+competent, conscientious and impartial arbitrators.’” Id. 
+(citing 
+Gilmer
+, 500 U.S. at 30). The Sixth Circuit recognized, 
+however, that McMullen’s claim went “beyond an allegation of a 
+potentially biased arbitrator because McMullen cites a lack of 
+fairness inherent in the arbitrator-selection process.” Id. 
+The Sixth Circuit explained that the employer’s arbitration agreement “grants one party to the arbitration unilateral control over the pool of potential arbitrators. This procedure 
+prevents [the employer’s arbitration program] from being an 
+effective substitute for a judicial forum because it inherently 
+lacks neutrality.” 
+Id. (footnote omitted). 
+Like Gentry, McMullen’s employer also argued that “ Gilmer 
+clearly establishes that the pr
+eferred method of challenging 
+allegations of bias is to pursue the underlying claims through 
+16
+  
+ 
+ 
+   
+ 
+  
+  
+ 
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+the arbitration process and then seek review only ‘[w]here there 
+was evident partiality or corruption in the arbitrators [under 9 
+U.S.C. § 10].’” 355 F.3d at 494 n.7. The Sixth Circuit 
+disagreed. The court stated, “While this is true for allegations of potential or hypothetical bias among the 
+arbitrators, it does not apply to an allegation, as is present 
+here, that the arbitrator-selection process is fundamentally 
+unfair. . . . [P]rocedural unfairness inherent in an 
+arbitration agreement may be challenged before the arbitration.” 
+Id. As such, the Sixth Circuit recognized, “When the process 
+used to select the arbitrator is fundamentally unfair, as in this case, the arbitral forum is not an effective substitute for 
+a judicial forum, and there is no need to present separate 
+evidence of bias or corruption in the particular arbitrator 
+selected.” Id.   
+Several cases since McMullen have also explored fundamental 
+fairness in arbitrator-selection clauses.  In Walker, 400 F.3d 
+370, plaintiff employees filed a complaint for FLSA violations 
+against the defendant employer, Ryan’s Family Steak Houses, Inc. 
+(“Ryan’s”). 400 F.3d at 373. Ryan’s moved to compel 
+arbitration and to dismiss the complaint. Id. The district 
+court denied the motion, concluding, inter alia, that the 
+arbitration forum outlined in the arbitration agreements between employer and employees did not provide for effective vindication 
+17
+  
+ 
+ 
+   
+ 
+  
+  
+ 
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+of statutory claims and was an inappropriate substitute for the 
+judicial forum. Id. The Sixth Circuit affirmed. 400 F.3d at 
+372. 
+In the Walker case, the employees signed arbitration 
+agreements with Employment Dispute Services Inc., (“EDSI”), not 
+their employer, Ryan’s. 400 F.3d at 374.  Ryan’s had entered 
+into a contract with EDSI to have EDSI administer an employment 
+dispute resolution program. Id. By entering into the 
+arbitration agreements with EDSI, the employees agreed to submit 
+all employment disputes with Ryan’s t o binding arbitration with 
+EDSI. 400 F.3d at 375. The arbitration rules provided that EDSI would select a panel of three potential arbitrators from 
+the following separate pools: 
+“(1) supervisors or managers of 
+an employer signatory to an agreement with 
+EDSI; (2) employees 
+who are non-exempt from the wage and hour protections of the Fair Labor Standards Act; and (3) attorneys, retired judges, or 
+other competent legal professional persons not associated with either party.” 
+Id. From the pool of potential arbitrators 
+selected by EDSI, the employee and employer would alternately strike names until only one name remained. 400 F.3d at 376. 
+In 
+Walker, the Sixth Circuit again acknowledged the general 
+rule, set forth in Gilmer, that a party cannot avoid the 
+arbitration process simply by alleging the arbitration panel will be biased, because 9 U.S.C. § 10 allows for the vacation of 
+18
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+   
+ 
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+an arbitration award, post-arbitration, for evident partiality 
+in the arbitrator. 400 F.3d at 385. The Walker  Court also 
+recognized the exception set forth in McMullen
+ for pre-
+arbitration challenges to the fundamental fairness of the 
+arbitrator-selection process. Id.  The Walker court then held 
+that EDSI’s arbitral forum was not neutral and, therefore, the arbitration agreements wer
+e unenforceable.  400 F.3d at 385-86. 
+The specific evidence the Walker
+ court considered was that 
+EDSI was a for-profit business, and Ryan’s annual fee accounted for over 42% of EDSI’s gross income in the year the employees 
+filed their complaint. 400 F.3d at 386. Thus, “[g]iven the 
+symbiotic relationship between Ryan’s and EDSI, Ryan’s effectively determines the three pools of arbitrators, thereby 
+rendering the arbitral forum fundamentally unfair to claimants 
+who are applicants or employees.” 
+Id. The Sixth Circuit 
+ultimately concluded that “EDSI’s and Ryan’s arbitration scheme does not allow for the effective vindication of Plaintiffs’ FLSA claims.” 400 F.3d at 388. The Sixth Circuit thus declined to 
+enforce the arbitration agreements. Id. 
+In Geiger 
+v. Ryan’s Family Steak Houses, Inc. , 134 
+F.Supp.2d 985 (S.D. Ind. 2001), the United States District Court 
+for the Southern District of Indiana also had occasion to 
+consider the arbitration agreement between EDSI and employees of 
+Ryan’s. 
+In that case, plaintiff employees sued Ryan’s under 
+19
+  
+ 
+ 
+   
+ 
+ 
+ 
+ 
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+Title VII of the Civil Rights Act of 1964. 134 F.Supp.2d at 
+988. As with Walker , the plaintiff employees’ arbitration 
+agreement with EDSI allowed EDSI to select the three pools of 
+arbitrators, and the employer and employee would alternately 
+strike names from the pools of arbitrators until only one name 
+remained. 134 F.Supp.2d at 990-91.  The district court held, 
+“[T]here is a strong potential for bias in the selection of the 
+arbitration panel.” 134 F.Supp.2d at 995. This was because 
+EDSI received payment from its agreements with Ryan’s and “thus 
+clearly has an incentive to maintain its contractual 
+relationship with Ryan’s . . . while applicants or employees . . . have no leverage. . . .” 
+Id. Further, the court noted, 
+“EDSI also retains full authority to select both the Rules for 
+arbitration as well as the pools of potential arbitrators. 
+Such 
+power in the face of the potential for bias on the part of EDSI in favor of employers such as Ryan’s renders it unlikely that 
+applicants/employees will participate in an unbiased forum.” Id.
+ (footnote omitted). 
+McMullen
+, Walker , and Geiger all hold that courts may 
+entertain pre-arbitration challenges to the arbitrator-selection 
+process, because such claims are the exception to the general 
+rule that challenges to arbitrator bias must await the 
+completion of arbitration under 9 U.S.C. § 10. Further, 
+20
+  
+ 
+ 
+  
+ 
+  
+  
+   
+                     
+   
+  
+  
+ 
+ 
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+McMullen and Walker hold that the standard by which a court 
+analyzes arbitrator-selection clauses is fundamental fairness.6 
+B. The ICA’s “Actual Bias” Holdings 
+The ICA initially properly analyzed the Nishimuras’ case 
+for fundamental fairness under McMullen  and Walker.  133 Hawai i 
+at 228, 325 P.3d at 640. The ICA then distinguished those two 
+cases and held that the Nishimuras did no
+t present facts showing 
+that the arbitrator-selection clause in the HBLW was 
+fundamentally unfair. Id. The ICA then proceeded, however, to 
+hold, “In order to avoid enforcement of an allegedly unconscionable arbitration clause, Nishimura Plaintiffs were 
+required to present evidence of actual partiality or bias  of the 
+arbitration service designated by PWC or the neutral arbitrator 
+selected.” Id. (emphasis added). Later in the opinion, the ICA 
+also held, “Because Nishimura Plaintiffs failed to prove that 
+the arbitration selection process would necessarily result in 
+actual partiality or bias , the circuit court should have 
+6 We note that “fundamental fairness” in arbitration is a concept 
+our appellate courts have already recognized. In In re Arbitration between 
+United Pub. Workers, AFSCME, Local 646, AFL- CIO & City & Cnty. of Honolulu , 
+119 Hawai i 201, 210, 194 P.3d 1163, 1172 (App. 2008), the ICA quoted the 
+Prefatory Note to the revised Uniform Arbitration Act (2000), the basis of 
+HRS Chapter 658A, for the proposition that “arbitration is a consensual 
+process in which autonomy of the parties who enter into arbitration 
+agreements should be given primary consideration, so long as their agreements 
+conform to notions of fundamental fairness . . . .” (Emphasis added). See  
+also Kay v. Kaiser Found. 
+Health Plan, Inc.
+, 119 Hawai i 219, 229, 194 P.3d
+ 
+1181, 1191 (App. 2008) (“Arbitrators wield great power over the scope and 
+nature of the arbitration proceedings and all determinations of fact and law, 
+with virtually no appellate review of their decisions.  The fundamental 
+‘fairness
+’ of these expansive powers must be grounded in the assurance that 
+neutral arbitrators are indeed neutral. . . .”) (Emphasis added). 
+21
+  
+ 
+ 
+   
+  
+  
+ 
+ 
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+confined judicial review to the fairness of the completed 
+arbitration award, at which time 9 U.S.C. § 10 could provide for 
+vacating the award upon a finding that the arbitrators acted 
+with evident partiality.” 133 Hawai i at 229, 325 P.3d at 641 
+(emphasis added). 
+In support of this “actual bias” standard, the ICA cited to 
+Doctor’s Assocs., Inc. , 85 F.3d 975.  Doctor’s Assocs., Inc. , 
+however, did not involve a pre-arbitration challenge to the 
+fundamental fairness of an arbitrator-selection provision.  
+Rather, in that case, the defendants alleged that the 
+arbitration service named in the arbitration agreement (American 
+Arbitration Associati on or “AAA”) “relies on [the plaintiffs] to 
+provide it with repeat business and thus has a bias in favor of 
+[that party].” 85 F.3d at 980. The Second Circuit in that case 
+rejected the argument, stating, “Defendants have failed to 
+present any credible evidence indicating bias on the part of the 
+AAA –- or its arbitrators –- in favor of [the plaintiffs] in 
+this case, particularly because Defendants’ claims have not yet gone to arbitration.” 85 F.3d at 981 (citing 9 U.S.C. § 10(a)). Importantly, nowhere in the Doctor’s Assocs., Inc. opinion does 
+the “actual bias” standard appear. 
+Although not cited in the ICA’s published opinion, it 
+appears that the “actual bias” language comes from Phillips , 179 
+F.Supp.2d 840, which Gent
+ry cited in its Opening Brief.  
+22
+  
+ 
+ 
+  
+ 
+  
+  
+ 
+ 
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+Phillips is also a case in which the fundamental fairness of an 
+arbitrator-selection provision was not at issue. In that case, 
+the arbitration agreement called for AAA to arbitrate the 
+dispute. 179 F.Supp.2d at 843. The plaintiff in Phillips 
+argued that “arbitration is inappropriate because the American Arbitration Association is biased in favor of the defendants,” 
+and analogized her case to the series of cases involving EDSI. 
+179 F.Supp.2d at 845. The United States District Court for the 
+Northern District of Illinois rejected the argument, holding, 
+“[The EDSI] cases are clearly distinguishable; in those cases, 
+the defendants had ongoing service contracts with ESDI [sic] and 
+paid ESDI [sic] to maintain an employment dispute resolution 
+forum. Here, [the plaintiff] provides no evidence that the AAA, 
+one of the country’s leading non -for-profit dispute resolution 
+organizations, is on defendants’ payroll or any other evidence 
+of actual bias on the part of the AAA.” Id. (emphasis added). 
+In Phillips, only the bias of AAA was alleged, not the 
+process by which AAA was selected as the arbitrator; nevertheless, the plaintiff and the district court analyzed the 
+bias claim using the EDSI line of cases. While the financial 
+interest linking EDSI to Ryan’s in Walker and Geiger arguably 
+demonstrates “actual bias,” Phillips overstates the holding in 
+those cases to conclude that only “actual bias” rendered the 
+arbitrator-selection provisions fundamentally unfair. 
+23
+  
+ 
+ 
+  
+ 
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+“Actual bias” need not be proven in a pre -arbitration 
+challenge to an arbitrator-selection provision, where, as in 
+McMullen, the mere fact of one party’s “exclusive control over 
+the pool of potential arbitrators from which the arbitrator is 
+selected” renders the arbitrator -selection process fundamentally 
+unfair. 355 F.3d at 487, 494. In other words, an arbitrator-selection provision “grant[ing] one party to the arbitration 
+unilateral control over the pool of potential arbitrators” 
+prevents arbitration “from being an effective substitute for a 
+judicial forum because it inherently lacks neutrality.” 355 
+F.3d at 494. 
+Further, contrary to Gentry’s argument and the ICA’s 
+holding, the Nishimuras did not need to await PWC’s selection of 
+the arbitration service and arbitrator before challenging the 
+enforceability of the HBLW’s arbitrator -selection provision. We 
+note that in McMullen
+, the Sixth Circuit focused on the process 
+of arbitrator selection, not any actual arbitrator or his or her alleged bias, even though an arbitrator had been selected in 
+that case. 
+See 355 F.3d at 488. Accordingly, the Sixth Circuit 
+did not conclude that “actual bias” must be shown to render an 
+arbitrator-selection process unfair; rather, the Sixth Circuit 
+held, “When the process used to select the arbitrator is 
+fundamentally unfai
+r, . . . there is no need to present separate 
+24
+  
+ 
+ 
+  
+ 
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 	 
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+evidence of bias or corruption in the particular arbitrator 
+selected.” 355 F.3d at 494 n.7.  
+In short, we adopt the “fundamental fairness” standard 
+under McMullen to review pre-arbitration challenges to the 
+arbitrator-selection process. There is no requirement for a 
+party challenging the arbitration-selection process to show 
+“separate evidence of bias,” and, therefore, no requirement to 
+show “actual bias” on the part of any particular arbitrator. 
+Hence, the ICA erred in its holding that the Nishimuras needed 
+to demonstrate “actual bias” in order to invalidate the HBLW’s 
+arbitrator-selection provision. 133 Hawai i at 228-29, 325 P.3d 
+at 640-41. 
+C.	 Application of the “Fundamental Fairness” Standard to 
+the Instant Case 
+The HBLW arbitration provision states, in relevant part, 
+the following: 
+VIII. Binding Arbitration Procedure 
+Any disputes between YOU and US, or parties acting on OUR 
+behalf, including PWC, related to or arising from this 
+LIMITED WARRANTY, the design or construction of the HOME or 
+the COMMON ELEMENTS or the sale of the HOME or transfer of 
+title to the COMMON ELEMENTS will be resolved by binding 
+arbitration. Binding arbitration shall be the sole remedy for resolving any and all disputes between YOU and US, or 
+OUR representatives. . . .  
+The arbitration shall be conducted by Construction 
+Arbitration Services, Inc., or such other reputable arbitration service that PWC shall select, at its sole 
+discretion, at the time the request for arbitration 
+is 
+submitted. 
+Ordinarily, an arbitration agreement is valid unless there is 
+some basis to refuse to enforce it. 9 U.S.C. § 2.  In this 
+25
+  
+ 
+ 
+  
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+case, PWC’s identification with Gentry provides a basis for 
+finding the arbitrator-selection provision unenforceable as 
+fundamentally unfair. The plain language of the arbitration 
+agreement shows that PWC acts on Gentry’s behalf in 
+administering the HBLW, which would include selecting an 
+arbitration service, at PWC’s “sole discretion,” now that 
+Construction Arbitration Services, Inc. is no longer available.  
+As PWC acts on Gentry’s behalf under the HBLW, the Nishimuras’ 
+concern that PWC’s exercise of its sole discretion is akin to 
+Gentry’s exercise of such discretion is legitimate. As such, under McMullen, the HBLW’s ar bitrator-selection provision, which 
+“grants one party to the arbitration unilateral control over the pool of potential arbitrators . . . prevents [arbitration under 
+the parties’ agreement] from being an effective substitute for a judicial forum because it inherently lacks neutrality”; 
+therefore, the arbitrator
+-selection process is fundamentally 
+unfair. 355 F.3d at 494, 494 n.7. Accordingly, the circuit court properly severed and struck the arbitrator-selection 
+provision. Although the circuit court severed and struck the 
+arbitrator-selection provision due to “potential conflict of 
+interest,” and not expressly due to “fundamental unfairness,” we 
+may “affirm a judgment of the lower court on any ground in the 
+record that supports affirmance.” 
+Canalez  v. Bob’s Appliance 
+26
+
+  
+ 
+ 
+  
+ 
+   
+   
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 	
+ 
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+Serv. Ctr., Inc., 89 Hawai i 292, 301, 972 P.2d 295, 304 (1999) 
+(citations omitted). 
+D. 	Fashioning Relief for an Unenforceable Arbitrator-
+Selection Provision 
+We next address whether the circuit court had the authority 
+under RCCH Rule 12.2 to order the parties to meet and confer to 
+select a local arbitration service. As Gentry points out, RCCH 
+Rule 12.2(a) authorizes the circuit court to order non-binding 
+arbitration, and the parties have agreed to binding arbitration under the HBLW: 
+Authority to order. The court, sua sponte  or upon motion by 
+a party, may, in exercise of its discretion, order the 
+parties to participate in a non -binding Alternative Dispute 
+Resolution process (ADR or ADR process) subject to terms 
+and conditions i
+mposed by the court. ADR includes 
+mediation, summary jury trial, neutral evaluation, non -
+binding arbitration, presentation to a focus group, or 
+other such process the court determines may be helpful in 
+encouraging an economic and fair resolution of all or any 
+part of the disputes presented in the matter .  . . .   
+(Emphasis added). On the other hand, as the Nishimuras 
+point out, the circuit court did not order the parties into 
+binding arbitration under RCCH Rule 12.2 to settle the construction defect dispute.  Rather, the circuit court 
+ordered the parties to meet and confer to select a local 
+arbitration service, which constitutes such other “process 
+the court determines may be helpful in encouraging an 
+economic and fair resolution of all or any part of the 
+disputes presented in the matter.” Thus, pursuant to RCCH 
+Rule 12.2, the circuit court’s action was appropriate. 
+27
+  
+ 
+ 
+  Further, the circuit court’s order provided, “If 
+Plaintiffs and Gentry are unable to agree, the Court shall 
+select a local arbitra tion service for this matter.” This 
+part of the order followed the Nishimuras’ counsel’s request to the circuit court: “If we cannot come to an 
+agreement [about who we want to arbitrate this case], you 
+select somebody.” Whether or not RCCH Rule 12.2 appl ied, 9 
+U.S.C. § 5 provided authority for the circuit court to 
+select an arbitrator in such a situation:  
+ 
+ 
+  The ICA erred in requiring a party challenging an 
+arbitrator-selection provision to show evidence of “actual 
+bias.” In resolving a challenge to an arbitrator -selection 
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+If in the agreement provision be made for a method of 
+naming or appointing an arbitrator or arbitrators or an 
+umpire, such method shall be followed; but if no method be 
+provided therein, or if a method be provided and any party 
+thereto shall fail to avail himself of such method, or if 
+for any other reason there shall be a lapse in the naming 
+of an arbitrator or arbitrators or umpire, or in filling a 
+vacancy, then upon the application of either party to the 
+controversy the court shall designate and appoint an 
+arbitrator or arbitrators or umpire, as the case may 
+require, who shall act under the said agreement with the 
+same force and effect as if he or they h ad been 
+specifically named therein; and unless otherwise provided in the agreement the arbitration shall be by a single 
+arbitrator.  
+ 
+Therefore, we affirm in toto the circuit court’s order granting 
+in part and denying in part Gentry’s motion to compel arbitration, as well as its order denying Gentry’s motion for 
+reconsideration of that order. 
+V. Conclusion 
+28
+  
+ 
+ 
+    
+    
+Ryan H. Engle 
+for respondent  
+    
+   
+       
+        
+ 
+ 
+ 
+ 
+ 
+
+ *** FOR PUBLICATION IN WEST’S HAWAI I REPORTS AND PACIFIC REPORTER *** 
+provision, we apply the “fundamental fairness” standard 
+articulated by the United States Court of Appeals for the Sixth 
+Circuit. In the instant case, we conclude that the arbitrator-
+selection provision is fundamentally unfair because it 
+authorized one party’s agent to exercise its sole discretion in 
+selecting an arbitration service to hear  a dispute between that 
+party and the plaintiffs. We therefore vacate the ICA’s 
+Judgment on Appeal, and affirm the circuit court’s “Order 
+Granting in Part and Denying in Part Defendant Gentry Homes, 
+Ltd.’s Motion to Compel Arbitration Filed on August 29, 2012” 
+and its “Order Denying Gentry Homes’ Motion for Reconsideration 
+of the Order Granting in Part and Denying in Part Gentry Homes, 
+Ltd.’s Motion to Compel Arbitration [Filed August 29, 2012], 
+Filed November 13, 2012.”  
+Melvin Y. Agena 
+for petitioners /s/ Mark E. Recktenwald 
+/s/ Paula A. Nakayama 
+/s/ Sabrina S. McKenna /s/ Richard W. Pollack 
+/s/ Michael D. Wilson 
+29
+ 

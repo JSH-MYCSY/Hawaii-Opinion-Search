@@ -1,0 +1,684 @@
+***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ‘I
+ 
+ 
+---o0o--- 
+________________________________________________________________
+ 
+ 
+KIEU MEYER, STEPHEN MEYER, KIEU MEYER ON BEHALF OF A MINOR, 
+Respondents/Petitioners- Appellees , 
+ 
+vs. 
+ 
+JAMES BASCO; MARY BASCO, Petitioners/Respondents-Appellants.   
+________________________________________________________________ 
+ 
+SCWC-21-0000027 
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS 
+(CAAP-21-0000027; C ase No. 2DSS-20 -0000144) 
+ 
+MARCH 7, 2023 
+ 
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, WILSON, AND EDDINS, JJ.
+ 
+OPINION OF THE COURT BY McKENNA , J.  
+ 
+I. Introduction  
+ 
+ This opinion addresses whether a district court has subject 
+matter jurisdiction to rule on a Hawai ʻi Revised Statutes (“HRS”) 
+§ 604-10.5 petition to enjoin harassment (“injunction petition”) 
+after ninety days elapses from issuance of an ex parte temporary 
+restraining order (“TRO”).  We hold the Intermediate Court of Electronically Filed
+Supreme Court
+SCWC-21-0000027
+07-MAR-2023
+09:11 AM
+Dkt. 18 OPA***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 2  Appeals (“ICA”) correctly held the district court has such 
+jurisdiction.   
+ 
+Due to public safety implications, however, we also address 
+an issue the ICA did not: whether an HRS § 604- 10.5 TRO expires 
+after ninety days despite district court orders continuing the 
+TRO beyond ninety days pending completion of a hearing and 
+decision on the injunction petition.  
+ For the reasons explained below, w
+e hold that  if a district 
+court has commenced hearing the merits of an HRS § 604- 10.5 
+injunction petition  but, despite reasonable efforts, is unable 
+to conclude the hearing within ninety days of issuance of the ex 
+parte TRO, it has jurisdiction and discretion to continue the 
+TRO pending its final decision on the injunction petition as 
+long as standards for issuance of temporary injunctive relief 
+are met.1   
+ We therefore affirm the ICA’s Novem ber 1, 2022 judgment on 
+appeal, subject to the clarifications in this opinion.  
+II. Background
+ 
+ 
+A. District court proceedings   
+ 
+ 1. The petition 
+ On June 1, 2020, Kieu Meyer, Stephen Meyer, and Kieu Meyer 
+on behalf of a minor child (collectively “ the Meyers”), filed a 
+                                                 
+1  Under the circumstances of this case, we need not address whether the 
+Meyers’ TRO was properly continued past ninety days.  ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 3 petition against their neighbors James Basco, aka “Tony Basco ,” 
+and Mary Basco (collectively “ the Bascos”)  in the District C ourt 
+of the Second Circuit (“district court”).  The petition 
+requested a ninety
+-day TRO to be followed by a three-year 
+injunction against harassment pursuant to HRS § 604-10.5 (2016 & 
+Supp. 2019).2  The Meyers alleged disturbing incidents by the 
+                                                 
+2  HRS § 604- 10.5 (2016 & Supp. 2019) provided in relevant part : 
+ 
+§604-10.5  Power to enjoin and temporarily restrain 
+harassment.   (a)  For the purposes of this section:  
+"Course of conduct"  means a pattern of conduct composed of 
+a series of acts over any period of time evidencing a 
+continuity of purpose.  
+"Harassment" means:  
+      (1)  Physical harm, bodily injury, assault, or the threat 
+of imminent physical harm, bodily injury, or assault; o r 
+      (2)  An intentional or knowing course of conduct directed 
+at an individual that seriously alarms or disturbs 
+consistently or continually bothers the individual and 
+serves no legitimate purpose; provided that such course of 
+conduct would cause a reasonable person to suffer emotional 
+distress.  
+(b)  The district courts shall have the power to enjoin, 
+prohibit, or temporarily restrain harassment.  
+(c)  Any person who has been subjected to harassment may 
+petition the district court of the district in which the 
+petitioner resides for a temporary restraining order and an 
+injunction from further harassment.  
+     . . . . 
+(f)
+  Upon petition to a district court under this section, 
+the court may temporarily restrain the person or persons 
+named in the petition fro
+m harassing the petitioner upon a 
+determination that there is probable cause to believe that 
+a past act or acts of harassment have occurred or that a 
+threat or threats of harassment may be imminent.   The court 
+may issue an ex parte temporary restraining order either in 
+writing or orally; provided that oral orders shall be 
+reduced to writing by the close of the next court day 
+following oral issuance.  
+(g)  A temporary restraining order that is granted under 
+this section shall remain in effect at the discretio
+n of 
+the court for a period not to exceed ninety days from the 
+date the order is granted.   A hearing on the petition to 
+enjoin harassment shall be held within fifteen days after 
+the temporary restraining order is granted.  
+ If service of 
+the temporary restraining order has not been effected 
+before the date of the hearing on the petition to enjoin, ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 4 Bascos against them occurring from 2012 to 2020.  The 
+allegations included physical violence, cursing, racially 
+discriminatory an
+d physically threatening language, and refusal 
+to leave the Meyers’ premises.  
+ On June 1, 2020, the district court3 granted an ex parte TRO 
+for fifteen days “unless extended or terminated by the Court.”   
+ The district court schedules harassment petition hearings 
+during a three-hour block every Monday morning.  The hearings 
+for this case spanned six separate dates because of the district 
+court’s scheduling constraints and the case’s contested nature.4  
+                                                 
+the court may set a new date for the hearing; provided that 
+the new date shall not exceed ninety days from the date the 
+temporary restraining order was granted.  
+     The parties named in the petition may file or give 
+oral responses explaining, excusing, justifying, or denying 
+the alleged act or acts of harassment.   The court shall 
+receive all evidence that is relevant at the hearing and 
+may make independent inquiry.  
+     If the court finds by clear and convincing evidence 
+that harassment as defined in paragraph (1) of that 
+definition exists, it may enjoin for no more than three 
+years further harassment of the petitioner, or that 
+harassment as defined in paragraph (2)  of that definition 
+exists, it shall enjoin for no more than three years 
+further harassment of the petitioner; provided that this 
+paragraph shall not prohibit the court from issuing other 
+injunctions against the named parties even if the time to 
+which the injunction applies exceeds a total of three 
+years. 
+ . . . . 
+(h)  The court may grant the prevailing party in an action 
+brought under this section costs and fees, including 
+attorney's fees.  
+ 
+3  The Honorable Blaine J. Kobayashi presided.  
+ 
+4  When Kieu Meyer testified during the first hearing, the Bascos 
+conducted voir dire of various pictures and exhibits.  During the second 
+hearing, the parties completed the examinations of Kieu Meyer and a second 
+witness.  Throughout the next three hearings, six more witnesses testified. 
+At the December 7, 2020 hearing, the court proposed having the next hearing ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 5 Hearings were held on 
+June 15, July 6, August 17, September 28, 
+and December 7, 2020, and on January 11, 2021.  Until the last 
+hearing, the district court ordered that the TRO remain in 
+effect until the next hearing.   
+ 2. Motion to dismiss for lack of jurisdiction  
+ 
+ The Bascos did not object to the district court’s orders 
+continuing the TRO.  On December 27, 2020, however, they filed a 
+motion to dismiss the Meyers’ injunction petition, alleging a 
+lack of subject matter jurisdiction.  The Bascos asserted that 
+under HRS § 604-10.5(g), a TRO can remain in effec t only for “a 
+period not to exceed ninety days from the date the order is 
+granted,” and that, therefore, the TRO and the court’s 
+jurisdiction over the matter  expired on August 29, 2020.   
+The district court scheduled a hearing on the Bascos’ 
+motion for January 11, 2021, the next scheduled hearing on the 
+Meyers’ injunction petition.  Before the hearing, the
+ Meyers 
+filed a memorandum in opposition.  They noted the Bascos had not 
+objected to any of the orders continuing the TRO.  They also 
+argued HRS § 604-10.5 should be construed to ensure petitioners 
+have the benefit of an order prohibiting harassment pending 
+completion of the hearing.5   
+                                                 
+in two weeks.  The Meyers asked to continue it until January to “enjoy our 
+holidays” and the Bascos agreed.  
+ 
+5  The Meyers also argued that Chief Justice Mark E. Recktenwald 
+authorized each presiding judge to postpone matters to ensure health and ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 6  3.  Orders g ranting i njunction a gainst harassment  
+ and awarding attorney fees and costs  
+ 
+At the January 11, 2021 hearing, the district court denied 
+the Bascos’ motion to dismiss for lack of jurisdiction.  The 
+district court concluded it was not divested of jurisdiction 
+just because more than ninety days had elapsed since the initial 
+granting of the TRO.  The court pointed out that, if that was 
+the case, a respondent could drag out an injunction hearing for 
+more than ninety 
+days.  The court also determined it had 
+inherent authority to continue the TRO in place and protect 
+petitioners pending a final decision.  It opined that this 
+comported with the purpose and intent of HRS § 604- 10.5 to 
+restrain acts of harassment until the injunction hearing was 
+concluded.   
+The district court then found that the Meyers proved the 
+allegations of the petition by clear and convincing evidence and 
+granted a three-year injunction order.  On February 8, 2021, the 
+court approved the Meyers’ HRS § 604-10.5(h) motion for attorney 
+fees and costs in full, and ordered the Bascos to pay attorney 
+fees of $21,252.00 and costs of $1,108.44.   
+ 
+ 
+                                                 
+safety during the COVID -19 pandemic.  This was not a basis for the ICA’s 
+ruling and is not raised on certiorari.  Hence, arguments and rulings 
+regarding COVID- 19 orders  will not be further discusse d. ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 7 B.  ICA proceedings  
+ The Bascos appealed, repeating arguments they made to the 
+district court.  In summary, they argued that because the TRO 
+was granted on June 1, 2020, it was only valid until August 29, 
+2020 pursuant to HRS § 604- 10.5(g) and that the district court 
+therefore lacked subject matter jurisdiction to enter the 
+injunction and attorney fees orders.  They also cited to Ling v. 
+Yokoyama, 91 Hawai ʻi 131, 980 P.2d 1005 (App. 1999), which is 
+discussed below. 
+In a September 20, 2022 memorandum opinion, the ICA 
+affirmed the district court.  Meyer v. Basco, CAAP-21-0000027 
+(App. Sept. 20, 2022) (mem. op.).  The ICA pointed out that the 
+purpose of the TRO is to protect against imminent harm by 
+providing a period of separation while the district court hears 
+from the parties and decides whether to grant a petition to 
+enjoin harassment.  Id.  at 6 (citing Hamilton  ex rel. Lethem v. 
+Lethem, 126 Hawai ʻi 294, 305, 270 P.3d 1024, 1035 (2012)).   The 
+ICA concluded the district court’s jurisdiction over a petition 
+to enjoin harassment does not hinge on the status of the TRO and 
+that the district court therefore had jurisdiction over the 
+injunction petition and motion for attorney fees and costs.   
+Meyer, mem. op. at 7.  
+ The ICA did not decide whether the TRO had actually 
+expired on August 29, 2020, as alleged by the Bascos.  ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 8 Meyer, mem. op. at 2 n.2.  The ICA stated in footnote 2 
+that because the Bascos had not challenged the TRO 
+extensions except to the extent it affected the district 
+court’s jurisdiction , it need not address whether the TRO  
+expired after ninety days .  Id. 
+ On November 1, 2022, the ICA approved in full the 
+Meyers’ request for appellate attorney fees of $16,187.14. 
+On November 1, 2022, the ICA filed its judgment on appeal.   
+C. Certiorari proceedings 
+ 
+  
+In essence, the Bascos ’ January 3, 2023 certiorari 
+application argues the ICA erred by disregarding the plain and 
+unambiguous language of HRS 
+§ 604-10.5(g) that a TRO “shall 
+remain in effect at the discretion of the court for a period not 
+to exceed ninety days from the date the order is granted [.]”  
+III. Standards of Review 
+ 
+A. Subject matter j urisdiction  
+ 
+  “The existence of jurisdiction is a question of law that 
+we review de novo under the right/wrong standard.”  Lingle v. 
+Hawaiʻi Gov't Emps. Ass' n, AFSCME, Local 152, AFL- CIO, 107 
+Hawaiʻi 178, 182, 111 P.3d 587, 591 (2005).    
+B. Statutory int erpretation 
+ 
+ “Questions of statutory interpretation are questions of law 
+to be reviewed de novo  under the right/wrong standard.”   Lingle, 
+107 Hawaiʻ i at 183, 111 P.3d at 592. ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 9 IV. Discussion
+ 
+ 
+A. The ICA did not err by ruling the district court was not 
+divested of jurisdiction to rule on the injunction petition 
+just because more than ninety days had elapsed from the 
+original TRO issuance  
+ 
+The Bascos continue to assert the district court was 
+without subject matter jurisdiction to address the injunction 
+petition on the ninety- first day after the issuance of the TRO 
+because of the language of HRS § 604- 10.5(g), which says “[a] 
+temporary restraining order that is granted under this section 
+shall remain in effect at the discretion of the court for a 
+period not to exceed ninety days from the date the order is 
+granted
+[.]”     
+ The ICA did not err by holding otherwise.  The statute 
+contains no language saying a district court must decide an 
+injunction petition within ninety days of issuance of an ex 
+parte TRO against harassment.  And as the ICA noted, the statute 
+also does not say a district court loses jurisdiction over an 
+injunction petition when ninety- days elapses from ex parte TRO 
+issuance.  Further, HR S § 604-7(e) (2016) provides the district 
+courts with “power to . . .  make . . . orders . . . and do such 
+other acts and take such other steps as may be necessary to 
+carry into full effect the powers which are . . . given them by 
+law or for the promotion of justice in matters pending before 
+them.”  The district courts have been empowered to rule on ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 10 injunction petitions under HRS § 604- 10.5, and they must have 
+reasonable discretion in the scheduling of hearings.  It would 
+be absurd to construe HRS § 604-10.5(g) as meaning a district 
+court loses jurisdiction if the injunction petition is not 
+decided within ninety days of the ex parte TRO issuance.  As the 
+district court reasoned, a respondent could then intentionally 
+drag out an injunction hearing until ninet
+y days had elapsed.   
+ Moreover, as explained in Section IV.B below, district 
+courts in any event have jurisdiction and discretion to continue 
+TROs past ninety days.   
+ For all of these reasons, the ICA did not err by holding 
+that the district court was not divested of jurisdiction to rule 
+on the injunction petition just because more than ninety days 
+had elapsed from the original TRO issuance.  
+B. If a district court has commenced hearing the merits of an 
+HRS § 604 -10.5 injunction petition but, despite reasonable 
+efforts, is unable to conclude the hearing within ninety 
+days of issuance of the ex parte TRO, it has jurisdiction 
+and discretion to continue the TRO pending its final 
+decision on the injunction petition as long as standards 
+for issuance of temporary injunctive relief are met 
+   
+ In this case, an ex parte TRO was issued on June 1, 2020.  
+Ninety days elapsed on August 29, 2020.  Because of the hotly 
+contested nature of the petition and the district court’s 
+scheduling constraints, hearings on the injunction petition took 
+place on six separate dates over a seven- month period.  Three of 
+those hearings were after August 29, 2020.  Each time the ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 11     hearings were continued, the district court ordered that the TRO 
+remain in place.   
+ The ICA explicitly indicated it was not deciding whether 
+the TRO had expired after ninety days because it was not 
+required to do so.  In other words, whether or not the TRO had 
+expired, the district court still had jurisdiction to decide the 
+injunction petition.  The Bascos’ jurisdi ction argument is, 
+however, premised on an assumption that an HRS § 604-10.5(g) TRO 
+can never continue past ninety days.  Therefore, if the 
+assumption fails, the Bascos’ entire argument fails.   
+ In addition, although the issue of whether this TRO 
+remained valid beyond ninety- days is moot, the question of 
+whether an HRS § 604- 10.5 TRO can be extended past ninety days 
+has significant public safety and public interest implications.  
+If the question remains unanswered, respondents might believe 
+they can resume contact and engage in actions that could 
+constitute harassment.  Also, uncertainty regarding the issue 
+affects not only the parties, but also the actions of the 
+judiciary and law enforcement.6  Therefore, we address the 
+                                                 
+6  Without a definitive answer, district court judges could rule 
+differently on the issue.  Law enforcement would not know whether contact 
+after ninety days constitutes a criminal offense . ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 12  question of whether an HRS § 604- 10.5 TRO can be extended past 
+ninety days.7   
+ Our interpretation 
+of HRS § 604- 10.5 is shaped by the 
+following rules: 
+First, the fundamental starting point for statutory 
+interpretation is the language of the statute itself.  
+Second, where the statutory language is plain and 
+unambiguous, our sole duty is to give effect to its plain 
+and obvious meaning.  Third, implicit in the task of 
+statutory construction is our foremost obligation to 
+ascertain and give effect to the intention of the 
+legislature, which i s to be obtained primarily from the 
+language contained in the statute itself.  Fourth, when 
+there is doubt, doubleness of meaning, or indistinctiveness 
+or uncertainty of an expression used in a statute, an 
+ambiguity exists.  
+ 
+When there is ambiguity in a st atute, “the meaning of the 
+ambiguous words may be sought by examining the context, 
+with which the ambiguous words, phrases, and sentences may 
+be compared, in order to ascertain their true meaning.”  
+Moreover, the courts may resort to extrinsic aids in 
+determining legislative intent, such as legislative 
+history, or the reason and spirit of the law.  
+ 
+State v. Wheeler, 121 Hawai‘i 383, 390, 219 P.3d 1170, 1177 
+(2009) (cleaned up).  
+ Thus, the fundamental starting point is the language of HRS 
+§ 604-10.5(g) itself, which provides:  
+(g)  A temporary restraining order that is granted under 
+this section shall remain in effect at the discretion of 
+the court for a period not to exceed ninety days from the 
+date the order is granted . . . . A hearing on the petition 
+to enjoin harassment shall be held within fifteen days 
+after the temporary restraining order is granted.   If 
+service of the temporary restraining order has not been 
+                                                 
+7  The public interest exception to the mootness doctrine applies when the 
+question involved affects the public interest, and it is likely that similar 
+questions arising in the future would likewise become moot before a needed 
+authoritative determination by a n appellate court can be made .  Cmty. Ass’ns 
+of Hualalai, Inc. v. Leeward Plan. Comm'n, 150 Hawai‘ i 241, 253  n.18, 500 P.3d 
+426, 438 n.18 (2021). ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 13 effected before the date of the hearing on the petition to 
+enjoin, the court may set a new date for the hearing; 
+provided that the new date shall not exceed ninety days 
+from the date the temporary restraining order was granted.  
+ . . . . 
+     If the court finds by clear and convincing evidence 
+that harassment as defined in paragraph (1) of that 
+definition exists, it may enjoin for no more than three 
+years further harassment of the petitioner, or that 
+harassment as defined in paragraph (2) of that definition 
+exists, it shall enjoin for no more than three years 
+further harassment of the petitioner  . . .; provided that 
+this subsection  shall not prohibit the court from issuing 
+other injunctions against the named parties even if the 
+time to which the injunction applies exceeds a total of 
+three years . 
+ 
+(Emphases added.)  
+ The Bascos argue that because of the first sentence of HRS 
+§ 604-10.5(g), underlined above, the TRO could not continue past 
+ninety days (and that the district court was therefore also 
+divested of jurisdiction to rule on the injunction petition).  
+The plain language of HRS § 604 -10.5(g) in dicates otherwise.  
+ First, the “temporary restraining order that is granted 
+under this section” refers to the ex parte8 TRO issued pursuant 
+to HRS § 604-10.5(f).9  A temporary restraining order is designed 
+to preserve the status quo until there is an oppor tunity to hold 
+a hearing on the application for a preliminary injunction .  
+Wahba, LLC v. USRP (Don), LLC , 106 Hawai ʻi 466, 472, 106 P.3d 
+1109, 1115 (2005).  “P reliminary injunction ” refers to an 
+interlocutory injunction issued after notice and a hearing, 
+                                                 
+8  Black’s Law Dictionary  (11th ed. 2019)  defines “ex parte” as “[d]one or 
+made at the instance and for the benefit of one part only, and without notice 
+to, or argument by, anyone having an adverse interest.”  
+ 
+9  See supra note 2 for the text of HRS § 604 -10.5(f). ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 14 which restrains a party pending trial on the merits .  County of 
+Johnston v. City of Wilson , 136 N.C. App. 775, 780 (2000).  
+  Thus, once a hearing on the merits of an injunction 
+petition has begun, a continued TRO is no longer one that has 
+been issued ex parte , and is not equivalent to the “temporary 
+restraining ordered that [has been] granted” under HRS § 604 -
+10.5(f).  Rather, when a district court begins hearing the 
+merits of an injunction petition but continues a TRO, it is 
+actually issuing temporary in junctive relief in the nature of a 
+preliminary injunction.  See Office of Hawaiian Affairs v. 
+Housing and Comm. Dev. Corp. of Hawai ‘i, 117 Hawai ʻi 174, 211, 
+177 P.3d 884, 921 (2008) (rev’d & remanded on other grounds by 
+Hawaiʻi v. Office of Hawaiian Affair s, 556 U.S. 163 (2009))(“ OHA 
+v. HCDCH”).  
+ HRS § 604 -10.5(g) then expressly provides that despite its 
+language limiting a permanent injunction to a maximum of three 
+years, district courts are not prohibited “ from issuing other 
+injunctions against the named parties even if the time to which 
+the injunction applies exceeds a total of three years.”10   
+ Hence, the plain language of HRS § 604- 10.5 permits 
+district courts to enter ex  parte TROs pursuant to subsection 
+                                                 
+10  This language has existed in HRS § 604 -10.5 since its passage in 1986.  
+The legislative history does not indicate what the legislature meant by this 
+language, but its plain language permits a district court to issue injunctive 
+relief exceeding three years.  ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 15 (f), but subsection (g) then provides district courts with 
+discretion to issue additional injunctions exceeding the three-
+year maximum allowed for permanent injunctions.  
+ This plain language interpretation is supported by the 1999 
+amendment to HRS § 604- 10.5 as well as an ICA opinion.  
+ In 1999, HRS § 604 -10.5 was amended to allow TROs to extend 
+to ninety days from the original language limiting duration to 
+fifteen days.  The Senate Judiciary Committee in Standing 
+Committee Report 1492 on HB 177 then state d in relevant part:  
+The purpose of this bill, as received by your Committee, is 
+to: 
+. . . . 
+(2) Extend the maximum duration for a temporary restraining 
+order to ninety -days; 
+. . . . 
+Your Committee finds that these proposed changes to section 
+604-10.5, Hawa iʻi Revised Statutes, are designed to conform  
+temporary restraining orders in District Court harassment 
+cases with Family Court harassment injunction procedures 
+and standards.  
+ 
+Your Committee recognizes that the fifteen day duration of 
+a temporary restraining order may be inadequate when 
+serving a  respondent who does not wish to be found, and 
+that the petitioner must return to court to obtain a 
+continuance every time the  temporary restraining order 
+expires.  However, your Committee is concerned that  an ex 
+parte allegation of harassment should not remain 
+outstanding for a lengthy period without affording the 
+respondent an opportunity to be heard.  Therefore, it is 
+your Committee’s intent that the District Court schedule 
+hearing dates that would enable  the respondent to be heard 
+within fifteen days of the date of service of the temporary 
+restraining order.  
+ 
+(Emphasis added.) 
+ This shows the 1999 amendment was intended to not allow an  
+ex parte TRO  to continue past fifteen days of service without a 
+hearing.  Thus, the legislature recognized the difference ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 16 between ex parte TROs and “injunctions” other than the three -
+year injunction.    
+ The plain language interpretation and the intent of the 
+legislature’s 1999 amendment is supported by the ICA opinion i n 
+Ling, 91 Hawaiʻ i 131, 980 P.2d 1005.11  In Ling, the district 
+court granted respondent’s request to continue the injunction 
+petition hearing without addressing its merits, but also 
+continued the TRO until the next hearing date.  91 Hawaiʻi at 
+132, 980 P.2d at 1006.  After hearing the merits, the district 
+court dismissed the petition finding insufficient basis for 
+issuance of an injunction.  Id.  
+ The ICA held the term “shall” in the second sentence of HRS 
+§ 604-10.5(g) mandates that a hearing on the injunction petition 
+be held within fifteen days of the ex parte  TRO.12  91 Hawaiʻi at 
+                                                 
+11  The ICA filed its opinion  on June 28, 1999.  Under the version of HRS § 
+604-10.5 it addressed, a TRO was only valid for fifteen days.  HRS § 604 -
+10.5(e) (1993).  However, an amendment allowing the initial TRO to extend to 
+ninety days took effect on July 1, 1999.  1999 Haw. Sess. Laws Act 143, § 1 
+at 460-61; S. Stand. Comm. Rep. No. 1492, in 1999 Senate Journal, at 1599 -
+1600; H. Stand. Comm. Rep. No. 733, in 1999 House Journal, at 1306 -07; Conf. 
+Comm. Rep. No. 86, in 1999 House Journal, at 948,  Senate Journal, at 878.   
+ 
+ 
+12  At the time of the case, HRS § 604 -10.5(f) (Supp.  1998) read:  
+ 
+(f) A hearing on the petition to enjoin harassment shall be 
+held within fifteen days after it is filed.  The parties 
+named in the petition  may file responses explaining, 
+excusing, justifying, or denying the alleged act or acts of 
+harassment.   The court shall receive such evidence as is 
+relevant at the hearing, and may make independent inquiry.  
+ 
+If the court finds by clear and convincing evidence  that 
+harassment as defined in paragraph (1) of that definition 
+exists, it may enjoin for no more than three years further ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 17  133-34, 980 P.2d at 1007-08.  The ICA determined that the term 
+“held” required the parties “at the least, convene or meet in a 
+hearing on the merits within the allotted time.”  91 Hawai ʻi at 
+134, 980 P.2d at 1008.  The ICA held the district court erred in 
+granting the continuance beyond fifteen days only because no 
+hearing on the merits of the petition was held  within fifteen 
+days; the initial hearing dealt with only continuing the 
+hearing, not the merits of the parties’ arguments.  Id. 
+ The ICA also noted, however, that “[t]here may be 
+exceptional circumstances under which a court may be compelled 
+to order a continuance, but as we point out  infra, any 
+conceivable prejudice would ordinarily be cured by extending the 
+initial temporary restraining order.”   91 Hawai ʻi at 135 n.4, 980 
+P.2d at 1009 n.4.  The ICA ultimately held the district court’s 
+error had no bearing on the court’s dismissal of the petition:   
+[W]hatever prejudice might have been incurred by Petitioner 
+as a result of the continuance was dissipated by the 
+extension of the T
+RO to the completion of the hearing[.]  
+The effect of the  extension was to maintain the court’s 
+initial order against harassment until the case was 
+decided.  Although the continuance was in technical 
+violation of the mandate in HRS § 604 -10.5(f), the 
+protection intended to be afforded a petition until a 
+resolution of th e petition remained intact.  
+ 
+                                                 
+harassment of the petitioner, or that harassment as defined 
+in paragraph (2) of that definition exists, it shall enjoin 
+for no more t han three years further harassment of the 
+petitioner; provided that this paragraph shall not prohibit 
+the court from issuing other injunctions against the named 
+parties even if the time to which the injunction applies 
+exceeds a total of three years.  ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 18 91 Hawaiʻ i at 135, 980 P.2d at 1009.   
+ Thus, in Ling, the ICA held that a hearing on the merits of 
+an injunction petition must commence within fifteen days of 
+service of the ex parte TRO on the respondent,13 but that when  
+hearings on the merits begin, a TRO can be extended beyond the 
+statutory maximum for an ex  parte TRO.  91 Hawai ʻi at 13
+4-35, 980 
+P.2d at 1008-09.   Once the merit hearing begins, the TRO is 
+actually no longer ex  parte. 
+ Synthesizing the above, we hold that if a district court 
+has commenced hearing the merits of an HRS § 604 -10.5 injunction 
+petition but, despite reasonable efforts, it is unable to 
+conclude the hearing within ninety days of issuance of the ex 
+parte TRO, it has jurisdiction and discretion to continue the 
+TRO pending its final decision on the injunction petition, if 
+standards for issuance of temporary injunctive relief are met .  
+In other words, the continued TRO is no longer ex parte.  
+ With respect to the standards for temporary injunctive 
+relief, we have held: 
+ The test for granting or denying temporary injunctive 
+relief is three -fold: (1) whether the plaintiff is likely 
+to prevail on t he merits; (2) whether the balance of 
+irreparable damage favors the issuance of a temporary 
+injunction; and (3) whether the public interest supports 
+granting an injunction.   However,  . . . the more the 
+                                                 
+13  HRS § 604- 10.5(g) requires that a hearing on the merits of an 
+injunction petition be “held” within 15 days of the issuance of the ex parte 
+TRO.  In Ling, however, the ICA recognized the validity of the TRO extension 
+despite the lack of a merits hearing within 15 days.  91 Hawaiʻ i at 135, 980 
+P.2d at 1009.   District courts should, however, begin hearing the merits of 
+an injunction petition within 15 days of service of the 
+ex parte TRO.   ***  FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  ***  
+ 
+ 19   
+ 
+ 
+ 
+  /s/ Todd W. Eddins     
+    
+   
+  
+ 
+   /s/ Mark E. Recktenwald  
+    
+    
+      /s/ Paula A. Nakayama  
+   
+  /s/  Sabrina S. McKenna  
+    
+  /s/ Michael D. Wilson 
+balance of irreparable damage favors issuance of the 
+injunction, the less the party seeking the injunction has 
+to show the likelihood of his success on the 
+merits. . . .[T] he standard for a preliminary injunction is 
+essentially the same as for a permanent injunction with the 
+exception that the plaintiff must show a likelihood of 
+success on the merits rather than actual success.  
+ 
+OHA v. HCDCH, 117 Hawai ʻi at 211- 12, 177 P.3d at 921- 22 (cleaned 
+up).  Hence, district courts should apply these standards in 
+deciding whether to continue an HRS § 604- 10.5 TRO past ninety 
+days.   
+C. Attorney fees and costs 
+ 
+ Finally, on certiorari, the Bascos also challenge the 
+district court and ICA awards of attorney fees and costs, but 
+solely on jurisdictional grounds.  No challenge is made as to 
+the reasonableness of the awards. 
+ As the district court had 
+jurisdiction and the ICA had appellate jurisdiction, we affirm 
+those awards.  
+V. Conclusion 
+ 
+ For these reasons, we affirm the ICA’s November 1, 2022 
+judgment on appeal, subject to the clarifications in this 
+opinion.  
+Hayden Aluli 
+for petitioners 
+ 
+Joy Yanagida  
+for respondents

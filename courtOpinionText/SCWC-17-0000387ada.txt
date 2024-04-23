@@ -1,0 +1,1059 @@
+***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+ 
+ 
+ 
+   
+ 
+  
+ 
+   
+IN THE SUPREME COURT OF THE STATE OF HAWAI‘ I 
+---o0o--- 
+ 
+ 
+RAY A. DELAPINIA and ROBYN M. DELAPINIA,  
+Petitioners/Plaintiffs-Appellants, 
+ 
+ vs.  
+ 
+NATIONSTAR MORTGAGE LLC; FEDERAL NATIONAL MORTGAGE  
+ASSOCIATION; TERRY LOUISE COLE; MORTGAGE ELECTRONIC  
+REGISTRATION SYSTEMS, INC.; AMERICAN SAVINGS BANK, F.S.B., 
+Respondents/Defendants-Appellees.  
+ 
+ 
+SCWC-17-0000387 
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS 
+(CAAP-17-0000387; CIV. NO. 2CC161000432) 
+ 
+OCTOBER 25, 2021 
+ 
+RECKTENWALD, C.J., NAKAYAMA, McKENNA, WILSON, JJ.,  
+AND CIRCUIT JUDGE WONG, IN PLACE OF POLLACK, J., RECUSED 
+ 
+OPINION OF THE COURT BY RECKTENWALD, C.J. 
+I.  INTRODUCTION 
+  In 2010, the plaintiffs’ Kihei property was foreclosed 
+by nonjudicial foreclosure under Hawai‘ i Revised Statutes (HRS) Electronically Filed
+Supreme Court
+SCWC-17-0000387
+25-OCT-2021
+08:41 AM
+Dkt. 48 OP***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+2 
+ Part I (since repealed).  Several years later, the plaintiffs 
+sued for wrongful foreclosure and quiet title against various 
+defendants: their mortgagees, the subsequent purchaser of the 
+property, and the subsequent purchaser’s mortgagees.  The 
+defendants moved for, and the circuit court granted, dismissal 
+of all claims.  The Intermediate Court of Appeals (ICA), in a 
+published opinion, vacated in part but affirmed as to one 
+defendant: the subsequent purchaser’s mortgagee.  Delapinia v. 
+Nationstar Mortgage LLC, 146 Hawai‘ i 218, 458 P.3d 929 (Haw. Ct. 
+App. 2020). 
+  We accepted the plaintiffs’ application for writ of certiorari to consider two aspects of the ICA’s decision: First, the ICA adopted the “tender rule,” a requirement under which a 
+plaintiff seeking to quiet title must plead that it can tender 
+the amount of indebtedness.  We decline to opine whether the 
+tender rule applies in Hawai‘ i wrongful foreclosure cases 
+generally.  But we hold that it is inapplicable on these facts, 
+where the defendant asserting the rule against a quiet title 
+claim is the subsequent purchaser’s mortgagee, to whom the 
+plaintiff is not in debt.  As the defendant who sought to assert 
+the tender rule was not the plaintiffs’ mortgagee, the 
+plaintiffs do not need to plead tender in order to establish 
+superior title as to that defendant. ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+3 
+   Second, this case requires us to consider whether 
+foreclosures that violate the power of sale are voidable or 
+void.  Silva v. Lopez, 5 Haw. 262 (1884), suggests that such 
+wrongful foreclosures are void.  However, we have considered this question in other wrongful foreclosure contexts more 
+recently, and those cases favor protecting the reliance 
+interests of a bona fide purchaser.  Accordingly, we hold that 
+wrongful foreclosures in violation of the power of sale are voidable, and to the extent Silva is to the contrary, it is 
+overruled. 
+II. BACKGROUND 
+A. Circuit Court Proceedings 
+ 
+1. The Complaint 
+ 
+  This case arises from several motions brought before 
+the Circuit Court of the Second Circuit1 (circuit court) in the 
+Delapinias’ wrongful foreclosure suit: Nationstar Mortgage LLC (Nationstar) and Federal National Mortgage Association’s (Fannie Mae) (collectively, “Nationstar defendants”) motion for judgment 
+on the pleadings; defendant Terry Louise Cole’s motion to 
+dismiss, in which defendant American Savings Bank F.S.B (ASB) 
+joined (collectively, “Cole defendants”); and defendant Mortgage 
+Electronic Registration Systems, Inc.’s (MERS) motion to 
+                     
+1  The Honorable Rhonda I.L. Loo presided. 
+ ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+4 
+ dismiss.  The circuit court granted all of the above motions 
+(although only the motions to dismiss are at issue on 
+certiorari), and accordingly, all facts alleged in the 
+plaintiffs’ First Amended Complaint (FAC) will be taken as true. 
+Goran Pleho, LLC v. Lacy, 144 Hawaiʻ i 224, 236, 439 P.3d 176, 188 
+(2019).    
+  The Delapinias alleged the following in the FAC.  The 
+Delapinias owned property in Kihei, which was secured by 
+mortgage executed in 2007.  “In 2010, Nationstar claimed to be 
+the assignee of the Mortgage . . . [and] claimed to be a 
+mortgagee or successor to a mortgagee entitled under HRS Chapter 
+667 Part I (2008) to exercise the power of sale in the Mortgage.”  In fact, “Nationstar was acting at the direction and 
+behest of Fannie Mae” and “did not satisfy the conditions 
+precedent to the valid exercise of that power.”   
+  Nationstar, “purporting to act under the power of sale 
+in the Mortgage, executed a deed conveying the Property to 
+Fannie Mae,” but “[t]hat deed was void because Nationstar and 
+Fannie Mae, as the foreclosing mortgagee, did not comply with the power of sale in the mortgage or the statute then governing 
+their exercise of the power of sale, HRS Chapter 667 Part I.”  
+The Delapinias identified the following violations of the power 
+of sale clause and of the statutes: 
+a) Plaintiffs were not served with a notice of acceleration ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+5 
+ that complied with Paragraph 22 of the Mortgage; 
+b) The notice of intention of foreclosure published by 
+Nationstar and Fannie Mae did not contain a description 
+of the Property as required by HRS Section 667- 7(a)(1), 
+but merely published the address and Tax Map Key Number of the Property, which did not constitute the 
+“description” contemplated by the statute; 
+c) The Notice did not offer buyers of the P roperty a 
+warranty that the putative mortgagee had the right to 
+sell or that the sale was conducted lawfully in 
+compliance with the applicable statute and the power of sale; 
+d) No Defendant first advertised the notice of sale more than 28 days before the proposed auction date as 
+required by HRS Section 667- 7 (2008); 
+e) No Defendant used a Hawaii attorney to perform all of 
+the acts required by the power of sale, including but not limited [to] having an attorney sign and give the 
+notice of sale to Plaintiffs and having an attorney who 
+conducted the sale executive the Affidavit of 
+Foreclosure; 
+f) No Defendant ever published any date on which the 
+Property was actually sold, in violation of Paragraph 22 
+of the Mortgage which stated that the mortgagee “shall 
+sell” at the time specified in the published notice; 
+g) No Defendant ever held an auction on a published date, 
+in violation of Paragraph 22 of the Mortgage which 
+stated that the mortgagee “shall sell” at the time 
+specified in the published notice; 
+h) No Defendant ever issued a written notice to the public 
+of any postponed auction date, despite the requirement of Paragraph 15 of the Mortgage that “all notices” in 
+connection with the Mortgage be “in writing” and state law requiring a “public announcement” of any 
+postponement; 
+i) The date when the Property was purportedly sold to 
+Nationstar or Fannie Mae (depending on whether one 
+believes the Affidavit of Foreclosure or the quitclaim 
+deed from Nationstar) was never published in a newspaper 
+or otherwise in writing to the public; and 
+j) No Defendant ever recorded a lawful Affidavit of 
+Foreclosure signed by the attorney conducting the 
+putative sale. 
+ 
+(Emphases in original).   
+  Fannie Mae purchased the property, and subsequently 
+sold it to Cole by limited warranty deed.2  But the Delapinias 
+                     
+2  The Delapinias also contest whether Cole was a bona fide 
+purchaser, as they argue subsequent purchasers should have been charged with 
+constructive notice of the defects that were inferable from the Foreclosure 
+ ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+6 
+ contended that both conveyances are “void and not merely 
+voidable” under Silva v. Lopez, 5 Haw. 262, 271 (1884), and Lee 
+v. HSBC Bank USA, 121 Hawaiʻ i 287, 218 P.3d 775 (2009), because 
+of the statutory and contractual violations that rendered the 
+foreclosure wrongful.  The plaintiffs therefore sought “the 
+‘classic remedy’ for a challenged nonjudicial foreclosure,” 
+return of title and possession, citing Santiago v. Tanaka, 137 
+Hawaiʻi 137, 154 n.33, 366 P.3d 612, 629 n.33 (2016).   
+  The Delapinias brought two claims against the 
+defendants based on these allegations.  In Count I (quiet 
+title), the Delapinias asked the court to quiet title in the 
+property in favor of the plaintiffs – except for the 2007 
+Mortgage, “which should remain on the Property when it is 
+returned to Plaintiffs” – ejectment of the third-party purchaser, possession, and damages from the lost rental value.  
+In Count II (wrongful foreclosure), the Delapinias further 
+alleged that the Nationstar defendants failed to act “in 
+accordance with their duties as mortgagee”– since “no lawful 
+published auction ever occurred,” those duties continued.  The 
+plaintiffs asked for compensatory and punitive damages on the 
+wrongful foreclosure count.  
+ 
+                     
+Affidavit.  Whether Cole is in fact a bona fide purchaser is not at issue in 
+this appeal.  ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+7 
+  
+2. Motions to Dismiss and for Judgment on the Pleadings 
+ 
+  The Cole defendants moved to dismiss  the FAC under 
+Hawaiʻi Rules of 
+Civil Procedure (HRCP) Rule 8(a)  and Rule 
+12(b)(6)  on the basis that they were protected by their status 
+as bona fide purchasers.   The Cole defendants pointed to this 
+court’s decisions in Santiago and Mount v. Apao, 139 Hawaiʻ i 167, 
+384 P.3d 1268 (2016),  which they claim establish that “an 
+unlawful nonjudicial foreclosure is at most ‘voidable,’ unless 
+the property has been sold to innocent purchasers for value, in 
+which case the appropriate remedy is an award of damages.”  As 
+pleaded, it was “apparent from the face of the pleading” that 
+the foreclosure was at most voidable, not void.  Under Santiago 
+and Mount, the appropriate remedy when the property has been 
+conveyed to “innocent purchasers for value” is damages.  It was also “apparent from the face of the FAC” that Cole was a bona 
+fide purchaser.   76543
+  The Delapinias argued in response that this court has described “the classic remedy for such a cause of action [as] 
+                     
+3  The Nationstar defendants supported and joined in the arguments 
+set forth in this motion.   
+ 
+4  HRCP Rule 8(a) provides:  
+ 
+A pleading which sets forth a claim for relief . . . shall 
+contain (1) a short and plain statement of the claim showing that 
+the pleader is entitled to relief, and (2) a demand for judgment for the relief the pleader seeks. Relief in the alternative or of 
+several different types may be demanded. 
+ 
+ ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+8 
+ return of title and possession.”  (Emphasis omitted).  Moreover, 
+the Delapinias contend Mount did not address the remedy when the 
+sale violated the power of sale clause, rather than the statute.   
+  On the other hand, Silva “is on point and is 
+ultimately controlling here.”  Per the plaintiffs, that case stands for the principle that “if the power of sale was violated 
+by improper publication of notice of the sale, the sale is ‘void 
+and not merely voidable,’” quoting Silva, 5 Haw. at 271. They 
+maintained that Silva remains good law – cited approvingly by 
+Kondaur Cap. Corp. v. Matsuyoshi, 136 Hawai‘ i 227, 240 n.26, 361 
+P.3d 454, 467 n.26 (2015), and Mount – and as a result, “[the] 
+foreclosure was void and conveyed nothing,” negating the Cole 
+                     
+5  HRCP Rule 12(b)(6) allows for the dismissal of complaints for 
+“failure to state a claim upon which relief can be granted.” 
+ 
+6  They also contended that the Delapinias’ claims were time- barred.  
+Likewise, the Nationstar defendants filed an answer to the FAC, largely 
+denying the allegations and asserting as a defense, among other things, the 
+statute of limitations.  They subsequently moved for judgment on the 
+pleadings, or in the alternative for summary judgment, per HRCP Rule 12(c).  
+In that motion, they too argued that the Delpainias’ claims were time barred, either by a two- or six-year statute of limitations.  The motion also 
+reiterated the arguments that “an improperly completed non- judicial 
+foreclosure is voidable” not void.  (Emphasis omitted).  I n the alternative, 
+they argued that laches barred recovery.   
+ 
+  The Delapinias contended that the relevant statute of limitations 
+was twenty years.    
+  The court circuit concluded that the two- year statute of 
+limitations applied and barred the claim.   
+ 
+7  Mount was decided after the FAC but before the relevant motions 
+from the defendants. 
+ ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+9 
+ defendants’ bona fide purchaser defense.  (Original emphasis 
+altered).
+   
+  MERS also moved to dismiss the FAC.  It raised 
+substantially similar arguments regarding Cole’s bona fide 
+purchaser status, contending that the foreclosure sale cannot be 
+voided pursuant to Santiago and Mount.  MERS asserted that 
+“citation to the [1884] Silva decision ignores the rulings in 
+both Mount and Santiago.”  And, like the Cole defendants, MERS 
+argued that Cole was a bona fide purchaser because only notice 
+of pending litigation – not the record notice alleged in the 
+complaint – would have undermined the protection afforded to 
+third-party purchasers for value.   
+  Further, MERS argued that “[w]hile this case should be 
+dismissed in its entirety against MERS based on Cole’s bona fide 
+purchaser defense, Plaintiffs’ underlying claims are equally 
+meritless” because the Delapinias failed to “allege that they 
+have paid or are able to tender the amount of indebtedness that would be due under the Mortgage,” citing cases from the United 
+States District Court for the District of Hawaiʻ i
+ that appear to 
+adopt the “tender rule.”  “Here, Plaintiffs[’] Count I should be 
+dismissed because they do not allege that they have paid or are 
+able to tender the amount of indebtedness.  In fact, Plaintiffs 
+argue that if they prevail that ‘the Property remains encumbered 
+by the [Mortgage].’”  
+ ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+10 
+   In opposition to MERS, the Delapinias reiterated many 
+of the same arguments as they presented in their response to the 
+Cole defendants’ motion.  They emphasized that Silva directly 
+controls this case and renders the deed void, not voidable.  The Delapinias also addressed MERS’s contention that the “tender 
+rule” barred their complaint.  They acknowledged this rule has 
+been “adopted in some mainland jurisdictions,” but asserted it 
+is inapplicable here.  (Capitalization altered).  MERS cited cases in which the quiet title claim was against the mortgagee; 
+here, “[t]he FAC plainly alleges that the original mortgage that 
+Plaintiffs gave to Nationstar’s and Fannie Mae’s assignor 
+remains on the property, and Plaintiffs only seek to quiet the 
+title to the Property[.]”  (Emphasis in original).  They “will 
+accept the Property back with the mortgage still on it,” at which point the Nationstar defendants are free to “attempt a 
+lawful foreclosure” should the default remain.  In any event, 
+Santiago “does not hold that the mortgagor must first pay off or 
+offer to pay off the mortgage before being entitled to” relief 
+in the form of possession.   
+  The circuit court granted the Cole defendants’ motion, orally ruling as follows:  
+Even when accepting Plaintiffs’ factual allegations 
+as true, dismissal of the claims against Terry Cole, 
+American Savings Bank and Nationstar is appropriate. 
+. . . 
+As to the sale being void or voidable, any reading of 
+the law in Hawaii is improperly completed nonjudicial ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+11 
+ foreclosure sales are voidable -- my reading of the law, 
+excuse me, is that nonjudicial foreclosure sales are 
+voidable if the claim is timely and the current owners are 
+not bona fide purchasers. 
+There’s no allegation that Defendants did not pay 
+value for the property, and there is no allegation that the current owners had actual notice of Plaintiffs’ claims. 
+There is no allegation that Plaintiffs or anyone else 
+recorded any kind of documentation reasonably indicating 
+Plaintiffs had any interest in the subject [property]. 
+Therefore, the argument for the non- bona fide purchaser 
+status under constructive or inquiry notice fails as well. So I’m going to go ahead and grant both motions. 
+ 
+  The circuit court subsequently granted MERS’s motion 
+as well, issuing the following in its written order: 
+1. Under Hawaiʻ i law, a properly completed non-
+judicial foreclosure sale is voidable if the claim is 
+timely and the current owners are bona fide purchasers.  
+There is no allegation that Cole did not acquire the 
+property for value and there is no allegation that Cole had 
+notice of Plaintiffs’ outstanding claims if any, so Cole is a bona fide purchaser.  The court notes that it has already 
+dismissed claims against Cole because of her innocent bona 
+fide purchaser status.  As Cole’s mortgagee, Defendant MERS 
+receives the same protection as Cole. 
+2. Plaintiffs fail to state a Quiet Title Claim as 
+they do not allege that they have paid or are able to tender the amount of indebtedness due under their mortgage. 
+3. The notice of sale complied with the mortgage.  
+The notice of sale properly described the property under 
+HRS 667- 7(a)(1). 
+4.  The publishing of the notice of sale complied 
+with HRS 667-7. 
+5. A Hawaii attorney is not required to sign the 
+notice of sale or affidavit of foreclosure. 
+6. Lastly, written publication of postponement of an 
+auction is not necessary. 
+ 
+B.  ICA Proceedings 
+ 
+  The Delapinias appealed.  The ICA affirmed in part and 
+vacated in part8 the circuit court’s judgment in a published 
+                     
+8  The ICA vacated the circuit court’s order granting judgment on 
+the pleadings to Nationstar and Fannie Mae and the order dismissing the Cole 
+defendants, which was based in part on the conclusion that the Delapinias’ 
+claim was time- barred by the two- year statute of limitations.  As before the 
+ ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+12 
+ opinion.  Regarding the dismissal of MERS, the ICA reasoned that 
+the tender rule barred the Delapinia’s claim:   
+The tender rule is based on the principle that a plaintiff 
+seeking to quiet title “must at least prove that he has a 
+substantial interest in the property and that his title is superior to that of the defendants.”  Maui Land & Pineapple 
+Co.[ v. Infiesto] , 76 Haw[ ai‘i] [402,]  408, 879 P.2d [507,] 
+513 [(1994)].  The tender rule requires as [sic] borrower, 
+in bringing a quiet title action, to allege that he has paid, or is able to tender, the amounts owed.  Klohs v. 
+Wells Fargo Bank, N.A., 901 F. Supp. 2d 1253, 1262- 63 (D. 
+Haw. 2012). 
+ 
+Delapinia, 146 Hawaiʻ i at 228, 458 P.3d at 939. 
+  In this case, “the Delapinias did not allege either 
+that ‘they have paid off [Nationstar Mortgage] or are prepared 
+to tender all amounts owing’ to Nationstar such as is necessary 
+to establish superior title and maintain a quiet title action.”  Id. (brackets in original) (quoting Klohs, 901 F. Supp. 2d at 
+1262).  
+  The ICA also concluded that no exception to the tender 
+rule applied.  The ICA reasoned that tender requirement does not 
+apply “where the borrower brings a quiet title claim against a 
+party who, according to the allegations in the Complaint (which 
+the court accepts as true), is not a mortgagee and who otherwise 
+                     
+circuit court, see supra note 6, the parties argued in their ICA briefs over 
+whether the relevant statute of limitations was 2-, 6- , or 20- years.   
+ 
+  The ICA concluded that the stat ute of limitations was six years, 
+and that the Delapinias timely filed their complaint.  Delapinia, 146 Hawaiʻ i 
+at 224–26, 458 P.3d at 935– 37.  As no defendant sought certiorari review, 
+this memo will not address the statute of limitations issue any further. ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+13 
+ has no interest in the property whatsoever.”  Id. (quoting 
+Klohs, 901 F. Supp. 2d at 1263 n.6).  However,  
+based on the Delapinias’ allegations in the FAC, MERS has 
+an interest in the Property.  In the portion of the FAC 
+describing the parties to the action, the Delapinias described MERS as “a foreign corporation which is and at 
+all relevant times was doing business in Hawaii, and which 
+claims to hold a mortgage on the Property as nominee.” In 
+their quiet title count, the Delapinias alleged that 
+“Defendant Cole has purported to grant a first mortgage on the Property to Defendant MERS as nominee of ‘Pinnacle 
+Capital Mortgage Corporation[.]’”  Thus, where MERS has an 
+interest in the Property according to the allegations in 
+the FAC, the tender rule applies. 
+ 
+Id. (brackets in original). 
+  As to the Cole defendants, “[t]o the extent that the 
+Delapinias alleged that a wrongful foreclosure voided the sale 
+and all subsequent transfers, we reject this contention as a 
+matter of law.”  Id. at 229, 458 P.3d at 940.  “While it is true 
+that the supreme court has not expressly overruled Silva, the 
+supreme court has more recently held that improper foreclosure sales are voidable.”  Id.  The ICA pointed to Kondaur and 
+Santiago for this principle, noting that in both cases, we 
+determined the foreclosure sale to be “voidable.”  Id. (citing 
+Kondaur, 136 Hawaiʻi at 240, 361 P.3d at 467; Santiago, 137 
+Hawaiʻi at 158, 366 P.3d at 633).  And while this court in Mount 
+cited Silva approvingly and acknowledged that in Lee, we held a 
+foreclosure sale to be void, Mount also factually distinguished 
+Lee on the grounds that the sale in Lee was not yet completed.  
+Id. (citing Mount, 139 Hawaiʻi at 180, 384 P.3d at 1281).  Thus, ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+14 
+ the ICA “conclude[d] that improper foreclosure sales are 
+voidable, rather than void, and that the supreme court has 
+either distinguished or impliedly overruled its earlier 
+decisions holding to the contrary.”  Id.  
+  Nonetheless, the ICA vacated the order dismissing the Cole defendants because “[t]he Delapinias were not required to 
+make any allegations pertaining to possible affirmative defenses 
+in the FAC,” and the circuit court’s conclusion that Cole was a bona fide purchaser as a matter of law was improper.  Id. 
+C.  Supreme Court Proceedings 
+ 
+  On certiorari, the Delapinias challenge the ICA’s 
+holding adopting the tender rule and the ICA’s treatment of 
+Silva.  First, they argue that the ICA gravely erred by 
+“requiring a wrongful foreclosure victim to also plead and prove the ability to tender the full amount of the wrongfully 
+foreclosed mortgage as a condition to receiving the ‘classic 
+remedy’ [of return of title and possession].”  (Emphasis 
+omitted).  Even if the tender rule were 
+Hawaiʻi law, the 
+Delapinias argue that the ICA did not correctly analyze the 
+rule’s exceptions.  Second, the Delapinias argue that the ICA 
+“gravely erred in exceeding its constitutional authority and 
+declaring that Silva v. Lopez, . . . a decision of this court 
+that has stood for over 135 years, has been ‘impliedly overruled[.]’”  Per the Delapinias, “[t]his court has never ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+15 
+ distinguished Silva” on its holding that improper foreclosure 
+sales are void as opposed to voidable.  “[T]he ICA does not have 
+the power to limit decisions of this court,” and Silva directly 
+controls.   
+  The Nationstar defendants and the Cole defendants 
+argued in response that the ICA correctly declined to apply 
+Silva.  MERS additionally defended the ICA’s application of the 
+tender rule: per MERS, the Delapinias are conflating their 
+wrongful foreclosure claim against the Nationstar defendants 
+with the quiet title claim against MERS.  Quiet title requires 
+that the Delapinias establish the superiority of their title, 
+which MERS claims requires the Delapanias to “prov[e] that 
+[they] can cure the default[.]”  The rule is rooted in equity: 
+“[e]quity will not interpose its remedial power in the 
+accomplishment of what seemingly would be nothing but an idly 
+and expensively futile act[.]”  (Quoting Arnolds Mgmt. Corp. v. 
+Eischen, 158 Cal. App. 3d 575, 578-79 (1984)).   
+III. STANDARD OF REVIEW 
+ A trial court’s ruling on a motion to dismiss is 
+reviewed de novo.  The court must accept plaintiff’s 
+allegations as true and view them in the light most 
+favorable to the plaintiff; dismissal is proper only if it 
+appears beyond doubt that the plaintiff can prove no set of 
+facts in support of his or her claim that would entitle him 
+or her to relief.   
+ 
+Goran Pleho, 144 Hawaiʻ i at 236, 439 P.3d at 188 (quoting Wong v. 
+Cayetano, 111 Hawaiʻi 462, 476, 143 P.3d 1, 15 (2006)) (emphasis ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+16 
+ omitted). 
+IV. 
+DISCUSSION 
+A. MERS May Not Assert the Tender Rule to Bar the Quiet Title 
+Action in this Case 
+ 
+  The tender rule has been described as follows: 
+As a general rule, a debtor cannot set aside the 
+foreclosure based on irregularities in the sale without also alleging tender of the amount of the secured debt. 
+. . . “The rationale behind the rule is that if [the 
+borrower] could not have redeemed the property had the sale procedures been proper, any irregularities in the sale did 
+not result in damages to the [borrower].” 
+ 
+Ram v. OneWest Bank, FSB, 183 Cal. Rptr. 3d 638, 649-50 (Cal. 
+Ct. App. 2015) (citations omitted) (brackets in original). 
+  Although we have not determined whether the tender 
+rule is Hawaiʻ i law, in other jurisdictions, the rule is rooted 
+in the principle that “a defaulted borrower who seeks to set 
+aside a [foreclosure] sale is required to do equity before the 
+court will exercise its equitable powers.”  Lona v. Citibank 
+N.A., 202 Cal. App. 4th 89, 112 (2011).  Said differently, 
+plaintiffs must “come into equity with clean hands” by paying 
+their outstanding debts.  Shimpones v. Stickney, 28 P.2d 673, 
+678 (Cal. 1934).  Allowing plaintiffs to claim property without 
+paying what they owe “would give them an inequitable windfall, 
+allowing them to evade their lawful debt.”  Stebley v. Litton 
+Loan Servicing, LLP, 134 Cal. Rptr. 3d 604, 607 (Cal. Ct. App. 
+2011); see also Dimock v. Emerald Properties LLC, 97 Cal. Rptr. 
+2d 255, 262 (Cal. Ct. App. 2000) (“Th[e tender] requirement is ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+17 
+ based on the theory that one who is relying upon equity in 
+overcoming a voidable sale must show that he is able to perform 
+his obligations under the contract so that equity will not have 
+been employed for an idle purpose.”). 
+ 
+ In jurisdictions in which the tender rule applies, 
+“there is no exclusive list of circumstances where a tender is not essential.”
+9  5 Miller & Starr, Cal. Real Estate § 13:256 
+cmt. (4th ed. 2019).  The question of tender turns on the 
+“equities of the situation,” the “degree of prejudice” or 
+“misconduct,” and the “nature” of the default.  Id.  In 
+California, for instance, the requirement of tender is an element of a wrongful foreclosure claim, but California courts 
+recognize several exceptions: 
+                     
+9  The ICA seemed to conclude that the only exception to the tender 
+rule lies “where the borrower brings a quiet title claim against a party who, 
+according to the allegations in the Complaint (which the court accepts as 
+true), is not a mortgagee and who otherwise has no interest in the property 
+whatsoever.”  Delapinia, 146 Hawaiʻi at 228, 458 P.3d at 939 (emphasis 
+omitted) (quoting Klohs, 901 F. Supp. 2d at 1263 n.6).  Because the FAC 
+alleged that MERS claimed an interest in the property, the ICA reasoned that 
+the tender rule could not be excused. 
+  But the language “who otherwise has no interest in the property 
+whatsoever” comes from the United States District Court for the District of 
+Hawaiʻi
+ case Klohs v. Wells Fargo Bank, N.A., 907 Supp. 2d 1253, 1263 n.6 (D. 
+Haw. 2012), which in turn was quoting Amina v. Bank of New York Mellon, No. 
+CIV. 11- 00714 JMS, 2012 WL 3283513, at *4 (D. Haw. Aug. 9, 2012).  I n 
+context, that language merely reflected the facts of Amina, in which the 
+plaintiffs alleged the defendant bank was threatening to foreclose when it lacked any connection at all to the mortgage.   Id. at *1.  As explained 
+herein, there are a number of exceptions to the tender rule.  Indeed, as the Delapinias point out, every quiet title action will, by its nature, require 
+the plaintiffs to allege that the defendants have claimed an interest in the 
+property, so it cannot be the case that mere allegations that the defendant 
+has claimed an interest will per se require the plaintiff to plead tender.  
+ 
+ ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+18 
+ First, if the borrower’ s action attacks the validity 
+of the underlying debt, a tender is not required since it 
+would constitute an affirmation of the debt. . . . 
+Second, a tender will not be required when the person 
+who seeks to set aside the trustee’ s sale[10] has a 
+counterclaim or setoff against the beneficiary.  In such 
+cases, it is deemed that the tender and the counterclaim 
+offset one another, and if the offset is equal to or 
+greater than the amount due, a tender is not 
+required. . . . 
+Third, a tender may not be required where it would be 
+inequitable to impose such a condition on the party challenging the sale.  (Humboldt Savings Bank v. McCleverty 
+(1911) 161 Cal. 285, 291, 119 P. 82 (H umboldt).)  In 
+Humboldt, the defendant’s deceased husband borrowed $55,300 
+from the plaintiff bank secured by two pieces of property. 
+The defendant had a $5,000 homestead on one of the 
+properties. (Id. at p. 287, 119 P. 82.) When the 
+defendant’s husband defaulted on the debt, the bank 
+foreclosed on both properties. In response to the bank’ s 
+argument that the defendant had to tender the entire debt 
+as a condition precedent to having the sale set aside, the 
+court held that it would be inequitable to require the 
+defendant to “pay, or offer to pay, a debt of $57,000, for 
+which she is in no way liable” to attack the sale of her 
+$5,000 homestead.  ( Id. at p. 291, 119 P. 82.) 
+Fourth, no tender will be required when the trustor 
+is not required to rely on equity to attack the deed because the trustee’ s deed is void on its face.  
+ 
+Lona, 202 Cal. App. 4th at 112-13 (citations and footnotes 
+omitted). 
+  We need not and do not decide whether the tender rule 
+applies in wrongful foreclosure claims.  We hold, however, that 
+the rule does not bar the quiet title action against MERS under 
+the circumstances of this case, where the party asserting the 
+rule in a motion to dismiss is not the plaintiff’s mortgagee.  
+The Delapinias are not indebted to MERS, who asserts the tender 
+rule here and who is involved in this case through the 
+                     
+10  In California, a trustee’s sale is a nonjudicial foreclosure 
+procedure; the trustee holds the power of sale.  See 5 Miller & Starr, Cal. 
+Real Estate § 13:1. ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+19 
+ subsequent purchaser – MERS, in other words, was never the 
+Delapinias’ mortgagee.  Cf. Trusty v. Ray, 249 P.2d 814, 817 
+(Idaho 1952) (“A mortgagor cannot without paying his debt quiet title as against the mortgagee[.]” (emphasis added));  Rockridge 
+Tr. v. Wells Fargo, N.A., 985 F. Supp. 2d 1110, 1158 (N.D. Cal. 
+2013) (“[A] borrower may not assert a quiet title action against 
+a mortgagee without first paying the outstanding debt on the 
+property.” (emphasis added));  Marzan v. Bank of Am., 779 F. 
+Supp. 2d 1140, 1156 (D. Haw. 2011), abrogated on other grounds 
+by Compton v. Countrywide Fin. Corp., 761 F.3d 1046 (9th Cir. 
+2014) (“[I]n order to assert a claim for ‘quiet title’ against a 
+mortgagee, a borrower must allege they have paid, or are able to 
+tender, the amount of indebtedness.” (emphasis added)). 
+   Bank of America, N.A. v. Reyes-Toledo, 143 Hawaiʻi 249, 
+428 P.3d 761 (2018), supports this conclusion.  In that case, the ICA concluded that the tender rule barred a homeowner’s 
+quiet title counterclaim as against a bank seeking foreclosure 
+on her property, which she alleged was not her mortgagee.  Id. 
+at 254, 428 P.3d at 766.  We vacated the decision of the ICA, 
+reasoning that under our notice-pleading standard, the 
+homeowner, by asserting that the bank was not her mortgagee, 
+stated a quiet title claim sufficient to survive a motion to 
+dismiss.  Id. at 265-66, 428 P.3d at 777-78.  Reyes-Toledo thus 
+suggests that the tender rule, if it is Hawai‘ i law, does not bar ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+20 
+ a suit from proceeding against a party who is not the 
+plaintiff’s mortgagee, as the homeowner’s quiet title claim 
+survived in that case by virtue of the fact that they pleaded 
+that the bank was not the mortgagee.   We did not require the 
+homeowner to satisfy their debt against the true mortgagee in order to “come into equity with clean hands,” Shimpones, 28 P.2d 
+at 678, because the debt was allegedly not the defendant’s to 
+enforce.   11
+  This conclusion makes sense given the equitable 
+reasons underpinning the rule.  In a quiet title action, 
+“[w]hile it is not necessary for the plaintiff to have perfect 
+title to establish a prima facie case, he must at least prove 
+that he has a substantial interest in the property and that his 
+title is superior to that of the defendants.”  Ibbetson v. 
+Kaiawe, 143 Hawaiʻ i 1, 17, 422 P.3d 1, 17 (2018) (quoting Maui 
+Land & Pineapple Co. v. Infiesto, 76 Hawai‘ i 402, 407-08, 879 
+                     
+11  One federal district court has taken Reyes- Toledo as  
+implicit endorsement of the [tender] rule; after all, the 
+survival of Reyes- Toledo’s quiet title claim, devoid as it 
+was of allegations of tender, appears to have been 
+predicated on the Hawaiʻi Supreme Court’s acceptance at face 
+value, under the notice pleading standard, of her 
+allegations that Bank of America was not the mortgagee.
+ 
+ 
+Gamblin v. Nationstar Mortgage LLC, 2018 WL 5831207 at *13 (D. Haw. 
+November 7, 2018) (emphasis in original). 
+ 
+  While we have not implicitly or explicitly endorsed the tender 
+rule, we agree that Reyes- Toledo supports the conclusion that a non- mortgagee 
+defendant to a quiet title claim, like MERS in this case, may not invoke it. 
+ 
+ ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+21 
+ P.2d 507, 512-13 (1994)).  The Delapinias do not need to plead 
+tender to establish superior title to MERS, even assuming they 
+would in a wrongful foreclosure action against the Nationstar 
+defendants, because the Delapinias claim MERS acquired its 
+interest via a non-innocent third-party purchaser, who knowingly 
+purchased the property from a wrongful foreclosure.   Cf. 
+Carpenter v. PNC Bank, N.A., 386 F. Supp. 3d 1339, 1347 (D. Haw. 2019) (holding that quiet title plaintiffs had adequately pleaded their “superior title” to defendants when plaintiffs 
+alleged that the defendants purchased the subject property 
+following a wrongful foreclosure and were not bona fide).  The 
+wrongful foreclosure count was not dismissed.  Allowing those in 
+MERS’s position – non-mortgagees who are allegedly non-bona fide 
+purchasers – to evade the quiet title action altogether by 
+asserting the tender rule against the Delapinias in a motion to 
+dismiss would not serve the rule’s equitable purpose of 
+preventing the Delapinias from “evad[ing] their lawful debt,” Stebley, 134 Cal. Rptr. 3d at 607, because it is not MERS’s debt 
+to enforce in this case.   12
+                     
+12  “A non-bona fide purchaser is one who does not pay adequate 
+consideration, ‘takes with knowledge that his transferor acquired title by 
+fraud, or buys registered land with full notice of the fact that it is in 
+litigation between the transferor and a third party.’”  Kondaur, 136 Hawai‘ i 
+at 240 n.27, 361 P.3d at 467 n.27 (brackets and ellipsis omitted) (quoting 
+Akagi v. Oshita, 33 Haw. 343, 347 (Haw. Terr. 1935)).   
+ 
+ ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+22 
+  
+ On the other hand, if the third-party purchasers were 
+indeed innocent purchasers for value,13 their interests are 
+adequately safeguarded by virtue of our conclusion below that 
+the sale is at most voidable.  If the purchasers were bona fide, 
+damages would be the appropriate remedy.  See infra Part IV.B.  
+Accordingly, if the purchasers were innocent purchasers for value, the Delapinias have failed to establish “that [their] 
+title is superior to that of [MERS],” Ibbetson, 143 
+Hawaiʻi at 
+17, 422 P.3d at 17 (2018), as required for a quiet title claim 
+to succeed; innocent purchasers for value would enjoy superior 
+title to the Delapinias if the sale is not void ab initio.  92A 
+C.J.S. Vendor and Purchaser § 528 (2021) (“A bona fide purchaser, meaning one who acquires an interest in a property 
+for valuable consideration, in good faith, and without notice of 
+another party’s adverse interests in the property, takes such 
+title free of any interests of third persons except those of 
+which the bona fide purchaser has notice.”).  For this reason, 
+MERS’s argument that the tender rule is needed to protect bona 
+fide purchasers is unavailing – that the sale is voidable means 
+                     
+13  Whether Cole was in fact a bona fide purchaser is a contested 
+issue upon which we do not comment in this opinion.  
+ 
+ ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+23 
+ their purported bona fide purchaser status is a defense to the 
+quiet title action.14   
+  Therefore, under the facts of this case, we hold that the tender rule does not bar the action against MERS, and MERS 
+should not have been dismissed on that basis.  We emphasize that 
+the scope of this holding is limited: the application of the 
+tender rule to wrongful foreclosures generally, or to factual 
+and procedural circumstances unlike those presented by this case, is not before us.  We hold only that the tender rule is 
+not an absolute bar to a quiet title action against a party to 
+whom the plaintiff is not indebted under the facts of this case, 
+and the Delapinias have alleged sufficient facts for their quiet 
+title action against MERS to survive dismissal at this stage.   
+B. A Wrongful Foreclosure in Violation of the Power of Sale Is 
+Voidable, Not Void, and Silva Is Overruled to the Extent it 
+Held to the Contrary 
+ 
+  We next turn to whether, if true, the facts alleged in the Delapinias’ complaint render the foreclosure sale void or voidable.  If void, the sale is “invalid” and “unenforceable,” 
+and a subsequent purchaser “is entitled only to return of 
+[their] down[ ]payment plus accrued interest.”  Lee v. HSBC Bank 
+USA, 121 Hawai‘ i 287, 292, 218 P.3d 775, 780 (2009).  If 
+                     
+14  If the sale were void, the tender rule would not apply in any 
+event.  E.g., Barrionuevo v. Chase Bank, N.A., 885 F. Supp. 2d 964, 970 (N.D. 
+Cal. 2012) (“[W]here a sale is void, rather than simply voidable, tender is 
+not required.” (citation omitted)). 
+ ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+24 
+ voidable, the sale can be invalidated at the timely election of 
+the mortgagor, but “where the property has passed into the hands 
+of an innocent purchaser for value, rendering the voiding of a 
+foreclosure sale impracticable, an action at law for damages is 
+generally the appropriate remedy.”  Mount v. Apao, 139 Hawai‘ i 
+167, 180, 384 P.3d 1268, 1281 (2016).  Answering this question 
+requires us to revisit the rule set forth in Silva v. Lopez.  
+The ICA correctly observed that Silva’s holding is in tension 
+with our recent wrongful foreclosure precedent.  We therefore 
+take this opportunity to overrule Silva to that extent that case 
+would render foreclosures in violation of the power of sale void.  Foreclosures in violation of the power of sale are voidable.  
+  In Silva, the defendant mortgagee failed to comply 
+with “all the directions of the power of sale”: he did not 
+“ent[er] upon or demand for the possession of the mortgaged 
+premises and chattels” and, as particularly important here, he 
+did not provide “three weeks to intervene between the first 
+publication and the time of sale mentioned.”  5 Haw. at 263, 271.  The mortgagee held the sale on June 24, 1884; had he done 
+so on June 25, 1884, “the advertisement would have been 
+sufficient in time,” but as it was, the mortgagee failed to 
+comply with the power of sale, which required three weeks’ 
+notice.  Id. at 268.  Justice Austin held in the decision ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+25 
+ appealed from that “if the notice is insufficient, the sale 
+under it is void and not merely voidable,” and the supreme court 
+adopted this analysis.  Id. at 271; see also id. at 265 
+(referring to the opinion of Justice Austin “[f]or the full discussion and citation of authorities” on the issue of notice).  
+Justice Austin acknowledged that “[t]here are several purchasers 
+upon whom this decree will operate as a hardship.”  Id. at 273.  
+Nonetheless, “the sale must be set aside, and the conveyances 
+made thereunder must be cancelled.”  Id.  
+  The Delapinias argue that here, as in Silva, they have 
+alleged that the mortgagees failed to comply that the 
+advertising provisions of the power of sale, allegations that we 
+take as true; accordingly, they contend the ICA was bound to 
+follow Silva, and the sale is void.  We agree that to the extent 
+the ICA concluded that Silva has been impliedly overruled, it 
+erred.  As recently as in Mount, we noted: “As far back as 1884, 
+this court voided a mortgage sale of real estate and livestock 
+because the mortgagee had not complied with the conditions of 
+the power of sale by scheduling the foreclosure sale one day too 
+early.”  139 Hawaiʻi at 180, 384 P.3d at 1281 (citing Silva, 5 
+Haw. at 263).  We also explained that Lee and the United States 
+Court of Appeals for the Ninth Circuit opinion In re Kekauoha-
+Alisa, 674 F.3d 1083 (9th Cir. 2012), which applied Hawai‘ i law, ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+26 
+ likewise held wrongful foreclosures to be void rather than 
+voidable.  Id.  But we distinguished those cases on their facts.   
+In Lee, the high bidder at the nonjudicial foreclosure sale 
+had not completed the sale. 121 Hawaiʻi at 289, 218 P.3d at 
+777. Under those facts, we held that the sale was void and 
+that the high bidder was entitled only to return of his 
+down payment plus accrued interest. Id. In 
+Kekauoha– Alisa, 
+the lender itself had purchased the property through a 
+credit bid, so no third party was involved. 674 F.3d at 1086. 
+ 
+Mount, 139 Hawaiʻ i at 180, 384 P.3d at 1281. 
+ 
+  That said, Silva is inconsonant with the direction of 
+our recent precedent, and we clarify today that a wrongful 
+foreclosure that violates the power of sale is voidable, not 
+void.  This conclusion flows from our cases that make clear that 
+if a foreclosure violates a statute governing the nonjudicial 
+foreclosure scheme, or other law extrinsic to the mortgage 
+itself, the sale is “voidable at the election of the mortgagor,” 
+and in turn, “where the property has passed into the hands of an 
+innocent purchaser for value, . . . an action at law for damages 
+ is generally the appropriate remedy.”  Mount, 139 Hawaiʻi at 180, 
+384 P.3d at 1281.  In Mount, for instance, the mortgagee had 
+“fail[ed] to provide reinstatement or cure information to [the mortgagor], as required by HRS § 667–5(c)(1),” and accordingly, 
+“the nonjudicial foreclosure sale was conducted in violation of 
+HRS § 667–5.”  Id. at 179–80, 384 P.3d 1268, 1280–81.  
+Nonetheless, we noted that the third-party purchasers had 
+“completed the sale, took possession of the Property, and have ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+now had the Property for some time . . . rendering the voiding 
+of a foreclosure sale impracticable[.]”  Id. at 180, 384 P.3d at 
+1281; see also Kondaur, 136 Hawaiʻ i at 242 n.29, 361 P.3d at 469 
+n.29 (“[I]f the Ulrich[ v. Sec. Inv. Co., 35 Haw. 158, 168 
+(1939)]  requirements were not satisfied, a quitclaim deed would 
+convey only a voidable interest in the property.”).   
+27 
+   Santiago is particularly instructive.  That case arose 
+from an ejectment action after a foreclosure pursuant to HRS § 667-5; the mortgagors raised wrongful foreclosure as a defense 
+to the action, arguing that either the power of sale clause in 
+the mortgage was deficient to permit nonjudicial foreclosure, or 
+they had a right to cure the defect, which they properly 
+exercised.  Santiago, 137 
+Hawaiʻi at 154, 366 P.3d at 629.  The 
+circuit court concluded neither argument had merit; we reversed 
+on both issues.  But as to the mortgagor’s remedy, we explained:  
+ Where it is determined that the nonjudicial 
+foreclosure of a property is wrongful, the sale of the 
+property is invalid and voidable at the election of the 
+mortgagor, who shall then regain title to and possession of 
+the property.  See Ulrich v. Sec. Inv. Co., 35 Haw. 158, 
+168 (1939) (holding that where a self- dealing mortgagee 
+fails to exercise its right to non- judicial foreclosure in 
+a manner that is fair, reasonably diligent, and in good 
+faith and to demonstrate that an adequate price was 
+procured for the property, the resulting sale is void); Lee 
+v. HSBC Bank USA, 121 Hawaiʻi 287, 292, 218 P.3d 775, 780 
+(2009) (concluding “that an agreement created at a 
+foreclosure sale conducted pursuant to HRS section 667– 5 is 
+void and unenforceable where the foreclosure sale is invalid under the statute”).  Voiding the foreclosure sale 
+at this time, however, has been rendered impracticable because the [property] has already been resold by [the 
+defendant] to a third party. See 123 Am. Jur. Proof of 
+Facts 3d § 31 (2011) (“It has long been held that if the property has passed into the hands of an innocent purchaser ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+28 
+ for value, an action at law for damages is generally the 
+appropriate remedy.”).  
+ 
+Santiago, 137 Hawaiʻ i at 158, 366 P.3d at 633. 
+ 
+  Even though we held that the mortgagee altogether 
+lacked a power of sale, we nonetheless determined that the sale 
+was at most voidable, and where the property had passed to a bona fide purchaser, the appropriate remedy was damages.  Id.  
+We see no reason why a foreclosure in violation of a power of sale ought to be treated differently.  It stands to reason that 
+if damages were proper absent any authorizing power of sale, the 
+same must be true when the defect is failure to comply with an 
+otherwise-valid power of sale.   
+  The Delapinias attempt to distinguish Santiago and 
+related cases.  They argue that rather than supply a blanket 
+rule, we “used such non-exclusive terms as ‘impracticable’ and ‘generally,’” pointing out “the purchaser was not before the 
+court” in Santiago.  But these distinctions are unavailing.  The 
+impracticability of voiding the sale does not stem from the absence of the bona fide purchaser to the suit but from the 
+reliance interests they have accrued.  In Santiago, we relied on 
+Jenkins v. Wise, 58 Haw. 592, 574 P.2d 1337 (1978), to justify 
+the award of damages.  Jenkins explains: “Equity, however, 
+abhors forfeitures and where no injustice would thereby result 
+to the injured party, equity will generally favor compensation 
+rather than forfeiture against the offending party.”  Id. at ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+29 
+ 597, 574 P.2d at 1341.  In a wrongful foreclosure in violation 
+of a power of sale where the purchasers have “completed the 
+sale, took possession of the Property, and have now had the 
+Property for some time,” Mount, 139 
+Hawai‘i at 180, 384 P.3d at 
+1281, the principle from Jenkins disfavoring forfeiture applies 
+with equal force. 
+  The Delapinias argue that failure to adopt their position would leave Hawaiʻ i
+ “out of step” with other states, but 
+we are not persuaded by the cases they cite from other 
+jurisdictions.  The Massachusetts Supreme Judicial Court 
+decision Pinti v. Emigrant Mortgage Co., 33 N.E.3d 1213 (Mass. 
+2015) is a particularly useful counterpoint insofar as it 
+illustrates the differences between Hawai‘ i law and that of other 
+states.  In that case, the Massachusetts Supreme Judicial Court 
+concluded that a mortgagee must strictly comply with the terms 
+of the power of sale.  33 N.E.3d at 1218.  The mortgagee failed 
+to strictly comply because it alerted the mortgagors of their 
+“right to assert in any lawsuit for foreclosure and sale the 
+nonexistence of a default or any other defense,” whereas the 
+power of sale required notice of “the right to bring a court 
+action.”  Id. at 1222 (emphasis in original).  The court 
+reasoned that in a nonjudicial foreclosure state like 
+Massachusetts, the former language might wrongly give the 
+impression that the mortgagor need not initiate an action but ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+30 
+ may simply raise the defense in due course of judicial 
+foreclosure proceedings.  Id. 
+  A majority of the Pinti court concluded that this 
+defect rendered the foreclosure void and any subsequent 
+conveyances to third parties a nullity.  “[A] bona fide 
+purchaser’s ‘title is not to be affected by mere irregularities 
+in executing a power of sale contained in a mortgage, of which 
+irregularities he has no knowledge, actual or constructive.’”  Id. at 1225 (citing Chace v. Morse, 76 N.E. 142, 143-44 (Mass. 
+1905); Rogers v. Barnes, 47 N.E. 602, 604 (Mass. 1897)).  The 
+deficient notice amounted to more than a “mere irregularity” 
+because of the “disastrous consequences” it could have:  
+if the mortgagor has a valid defense to the foreclosure 
+sale going forward, but is not made aware that he or she 
+must initiate an action in court against the mortgagee to 
+raise that defense, the sale may well proceed and result in title passing to a bona fide purchaser without knowledge of 
+the issue— at which point, and depending on the nature of 
+the defense, the mortgagor’ s right to redeem his or her 
+home may well be lost. 
+ 
+Id. at 1225-26. 
+ 
+  Three justices dissented on this issue.  They would 
+have held that the sale was voidable, but only because in their 
+view, the notice provision was not a substantive requirement of the power of sale.  Id. at 1228 (Cordy, J., dissenting).  
+Indeed, even the dissenters agreed with the “familiar rule that one who sells under a power [of sale] must follow strictly its 
+terms.  If he fails to do so, there is no valid execution of the ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+31 
+ power, and the sale is wholly void.”  Id. at 1228-29 (brackets 
+in original) (quoting U.S. Bank Nat’l Ass’n v. Ibanez, 941 
+N.E.2d 40 (Mass. 2011)) (quotation marks omitted).  The 
+dissenters explained that failure to adhere to the integral 
+terms of a power of sale (e.g., “the existence of a default”; 
+“assignment of the note or authority to act on behalf of the 
+note holder at the time of foreclosure”; or, saliently here, 
+“proper advertisement of the foreclosure sale”) renders a deed void ab initio.  Id. at 1229.  By contrast, where “there are 
+equitable reasons why the sale should be set aside,” the deed is voidable in equity - in which case, “[t]he principle which is 
+applied in courts of equity is that they will not throw the loss 
+upon a person who has innocently acquired title to property for 
+value.”  Id. at 1228-29 (citations omitted). 
+  It would seem, then, that the Pinti court would 
+unanimously agree that if, as the plaintiffs allege, the 
+Nationstar defendants failed to strictly comply with the advertisement requirements of the power of sale, the deed would 
+be void ab initio in Massachusetts.  See McGreevey v. 
+Charlestown Five Cents Sav. Bank, 2 N.E.2d 543, 544 (Mass. 1936) 
+(holding that a sale advertised in the wrong county did not 
+“strictly compl[y]” with power of sale, and “the sale is wholly 
+void”).   ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+32 
+  
+ Other states likewise do not apply a blanket rule as 
+to when a sale is void versus voidable, and instead evaluate the 
+magnitude of the error – “mere irregularities” (as put in 
+Massachusetts) will not void a sale, but substantial defects 
+will.15  See, e.g., Ram, 234 Cal. App. 4th at 11 (“A sale is not 
+rendered void merely because of minor or technical defects. . . .  A sale is rendered void, though, when the 
+defects are substantial, such as when there has been a failure to give notice of sale to the trustor or to specify the correct 
+default in the notice of default.”); Williams v. Kimes, 996 
+S.W.2d 43, 45 (Mo. 1999) (“In circumstances where the defect is so great that it goes to the very right or power to foreclose, 
+then the non-judicial foreclosure is void and no title is 
+conveyed through the sale.”). 
+  But Pinti provides a useful touchpoint here because 
+Massachusetts and other jurisdictions that apply this framework 
+to determine whether a sale is void or voidable would also have likely concluded that the sale in Santiago, in which the 
+mortgagee altogether lacked a power of sale, was void, whereas 
+                     
+15  The Delapinias would claim that failure to adhere to the terms of 
+the power of sale qualifies was more than a “mere irregularity,” but some of 
+these jurisdictions may well conclude that deviation from the advertisement 
+requirements in the power of sale was merely procedural and the sale voidable.  Cf. Ram, 234 Cal. App. 4th 1, 17 (2015) (notice of default 
+executed by individual who was not trustee at that time (and would only become trustee weeks thereafter) was not void, but at most voidable, because 
+notice defect was nonprejudicial).   ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+33 our court concluded the sale to be voidable.  Compare 137 Hawai ʻi 
+at 158, 366 P.3d at 633 (“Where it is determined that the 
+nonjudicial foreclosure of a property is wrongful, the sale of 
+the property is invalid and voidable at the election of the 
+mortgagor[.]”) with Rogers v. Barnes, 47 N.E. 602, 604 (Mass. 
+1897) (“The argument certainly is strong that a bona fide 
+purchaser for value ought to be protected in his title by what 
+appears on the record in the registry of deeds, in the absence 
+of knowledge to the contrary; but the argument is, we think, 
+stronger that a mortgagor should not be deprived, without his 
+knowledge, of his equity of redemption, by a sale under a power 
+contained in a mortgage, which authorizes a sale only in case of 
+a default, when there has been no default.”).  And while the 
+Delapinias argue that failure to adopt their position would 
+leave Hawaiʻi “out of step” with other states, some other 
+jurisdictions nonetheless appear to come out the other way.  16
+The Supreme Court of Michigan, for instance, explained: 
+It was true that failure to advertise according to the 
+terms of the power of sale invalidates the sale.  Eubanks 
+v. Becton, 158 N.C. 230, 73 S.E. 1009 [(1912)].  But it is
+said that such sale is not absolutely void, but will passthe legal title.  Eubanks v. Becton[ ]; Brett v. Davenport,
+16And by the same token, some of the out- of-state cases cited by 
+the Delapinias would hold that sales conducted in violation of statute
+ are 
+void.  See, e.g., Jensen v. Andrews, 163 N.W. 571, 571 (S.D. 1917) (failure 
+to state the specific hour at which the sale is to take place in the advertisement, in violation of the state code, “will be void and of no effect 
+to convey title”).  But Mount held that such a sale is voidable.  139 
+Hawaiʻi 
+at 180, 384 P.3d at 1281. ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+34 
+ 151 N.C. [56], 65 S.E. 611 [(1909)].  While such sale would 
+be set aside as to the purchaser, a subsequent or remote 
+grantee without notice and in good faith takes a good title 
+against such defects or irregularities in the sale of which 
+he had no notice.   
+ 
+Fox v. Jacobs, 286 N.W. 854, 856 (Mich. 1939) (quoting Hinton v. 
+Hall, 82 S.E. 847, 848 (N.C. 1914)).17 
+  There is therefore precedent from other jurisdictions 
+that supports both positions – void or voidable.  But Hawaiʻ i law 
+has moved unmistakably towards the conclusion that sales 
+pursuant to a wrongful foreclosure are voidable, regardless of 
+whether the violation was statutory or contractual, substantial 
+or a mere irregularity.  This policy protects the interests accrued by innocent purchasers and avoids forfeiture if 
+possible, while deterring the conduct of the party that 
+wrongfully foreclosed through a damages remedy.  Applied to 
+these facts, we hold that wrongful foreclosures in violation of 
+a power of sale are voidable.  Thus, “where the property has 
+passed into the hands of an innocent purchaser for value, 
+rendering the voiding of a foreclosure sale impracticable, an action at law for damages is generally the appropriate remedy.”   
+                     
+17  Fox arose from a statutory violation, but as is clear from the 
+quoted passage, it did not distinguish between a statutory versus contractual 
+violation.  See Kim v. JPMorgan Chase Bank, N.A., 825 N.W.2d 329, 336- 37 
+(Mich. 2012) (describing a lower court’s holding that a foreclosure 
+undertaken before the mortgagee acquired his interest in the property was 
+void ab initio to be “contrary to the established precedent of this Court,” 
+which has “long held that defective mortgage foreclosures are voidable”). ***  FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+ 
+35 
+ Mount, 139 
+Hawaiʻi at 180, 384 P.3d at 1281 (citing Santiago, 137 
+Hawaiʻi at 158, 366 P.3d at 633). 
+V. CONCLUSION 
+ 
+ For the foregoing reasons, the ICA’s March 13, 2020 
+judgment on appeal is vacated in part, as to defendant MERS, and 
+affirmed as to all other defendants.  The circuit court’s 
+April 18, 2017 Final Judgment is vacated, and this case is remanded to the circuit court for further proceedings consistent 
+with this opinion.  James J. Bickerton    
+(Bridget G. Morgan-Bickerton,Stanley H. Roehrig,   
+John F. Perkin and  
+Van-Alan H. Shima    with him on the briefs)  for petitioners    
+ /s/ Mark E. Recktenwald 
+/s/ Paula A. Nakayama 
+/s/ Sabrina S. McKenna 
+/s/ Michael D. Wilson 
+/s/ Paul B.K. Wong   
+ 
+ 
+  
+  
+ 
+Jade Lynne Ching (David A.  Nakashima and Kanoelani S. 
+Kane with her on the brief) 
+for respondents Nationstar Mortgage LLC and Federal  National Mortgage Association   
+ Michael C. Bird (Jonathan W.Y. Lai, Thomas J. Berger and Summer H. Kaiawe with him 
+on the brief) for respondents 
+Terry Louise Cole and  American Savings Bank, F.S.B. 
+ 
+Patricia J. McHenry  and Janjeera S. Hail for respondent Mortgage 
+Electronic Registration 
+Systems, Inc.  
+ 

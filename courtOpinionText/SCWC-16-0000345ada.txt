@@ -1,0 +1,1829 @@
+***    FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER    ***  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ʻI 
+ 
+---o0o--- 
+________________________________________________________________  
+ 
+STATE OF HAWAI ʻI,  
+Respondent/Plaintiff- Appellee, 
+ 
+vs. 
+ 
+MAXWELL F. JONES,  
+Petitioner/Defendant- Appellant. 
+ 
+ 
+SCWC-16-0000345 
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS 
+(CAAP-16-0000345 ; CASE NO. 1DTA -15-03477) 
+ 
+JUNE 30, 2020 
+ 
+McKENNA, POLLACK, AND WILSON, JJ., WITH RECKTENWALD, C.J., 
+CONCURRING IN PART AND DISSENTING IN PART,  
+WITH WHOM NAKAYAMA, J., JOINS 
+ 
+OPINION OF THE COURT BY McKENNA, J. 
+ 
+I.  Introduction 
+ This appeal arises from Maxwell Jones ’s (“Jones”) 
+conviction by the District Court of the First Circuit ( “district Electronically Filed
+Supreme Court
+SCWC-16-0000345
+30-JUN-2020
+10:26 AM***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+2 
+ court
+”)1 for the offense of operating a vehicle u nder the 
+influence of an i ntoxicant ( “OVUII”) in violation of  
+Hawaiʻi Revised Statutes ( “HRS”) § 291E -61(a)(1) (Supp. 2014).2  
+Jones’s certiorari application raises four questions: 
+ 1. Did the ICA gravely err as a matter of law in 
+finding that “it was not error for the [d]istrict [c]ourt 
+to allow Officer Wong to express an expert opinion that 
+Jones ‘failed
+’ the HGN [horizontal gaze nystagmus] test, 
+the walk -and-turn test, and the one -leg stand test[]” ?  
+ 
+ 2. Did the ICA gravely err as a m atter of law in 
+finding that “even if the [d]istrict [c]ourt erroneously 
+allowed Officer Wong to opine that Jones failed th
+e HGN 
+test and other SFSTs, the error was harmless because there 
+was other substantial evidence supporting Jones ’s OVUII 
+conviction[]” ? 
+ 
+ 3. Did the ICA gravely err as a matter of law in 
+finding that “Officer Wong was properly allowed to express 
+an expert opinion that Jones was intoxicated ”? 
+ 
+ 4. Did the ICA gravely err as a matter of law in 
+determining that “Officer Wong ’s observations of Jones ’s 
+operation of his car, the strong odor of alcohol coming 
+from Jones ’s breath, Jones ’s red and bloodshot eyes, 
+Jones’s fumbling with his driver ’s license, and Jones ’s 
+dropping his license in his lap, was sufficient to support 
+Jones’[s] conviction[]” ? 
+ 
+                     
+1  The Honorable James S. Kawashima presided.  
+ 
+2  The August 7, 2015 written complaint, which also included an alleged 
+violation of HRS § 291E -61(a)(4) regarding blood alcohol  content, was orally 
+amended before trial commenced on January 8, 2016, to charge Jones solely 
+with violating HRS § 291E -61(a)(1), which provides:  
+ 
+§291E-61  Operating a vehicle under the influence of an 
+intoxicant .  (a)  A person commits the offense of operating 
+a vehicle under the influence of an intoxicant if the 
+person operates or assumes actual physical control of a 
+vehicle:  
+ 
+     (1)  While under the influence of alcohol in an amount 
+     sufficient to impair the person ’s normal mental  
+     faculties or ability to care for the person and     
+     guard against casualty[.]  ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+3 
+  We answer the first 
+two questions “yes.”  The third 
+question has three components.  On certiorari, Jones reasserts 
+questions he raised to the Intermediate C ourt of A ppeals (“ICA”)  
+regarding (a) whether Officer Joshua Wong’s (“Officer Wong ”) 
+expert opinion testimony regarding Jones ’s performance on the 
+standardized field sobriety tests (“ SFSTs” or “FSTs”) was 
+admissible as substantive evidence of intoxication and not just 
+as to probable cause for arrest; (b) whether Officer Wong ’s 
+expertise permitted  him to draw a correlation between the test 
+results and sobriety to render an expert opinion that Jones was 
+intoxicated; and (c) whether Officer Wong’ s expertise permitted 
+him to testify that Jones had a blood alcohol level of 0.08 or 
+above.  We answer question 3 (a) “yes.”  
+ 
+Based on State v. Toyomura, 80 Hawai ʻi 8,
+ 26, 904 P.2d 893, 
+911 (1995) (setting out evidentiary foundation required for 
+admission of a police officer ’s expert opinion testimony about 
+whether a defendant was intoxicated based on performance on 
+SFSTs), we answer question 3(b) “yes.”   
+ Based on State v. Vliet , 91 Hawai ʻi 288, 296 –97, 983 P.2d 
+189, 197–98 (1999) (ruling in OVUII case that any error in the 
+officer’s legal conclusion testimony that defendant ’s state of 
+sobriety “would have been over the legal limit ” was harmless 
+beyond a reasonable doubt), we answer question 3(c ) “no.”  ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+4 
+  
+Based on  the reaso ns discussed herein, however, w e also 
+prospectively hold that f or trials occurring after the date of 
+this opinion, police officers may no longer testify, whether in 
+a lay or expert capacity, that a driver  appeared “ intoxicated .” 
+ Finally, because there was substantial evidence supporting 
+Jones’s OVUII conviction, we answer the fourth question “no.”   
+ Accordingly, we vacate the ICA ’s July 15, 2019 judgment on 
+appeal and the district court ’s March 22, 2016 judgment of 
+conviction, and we remand this matter to the district court for 
+further proceedings consistent with this opinion.  
+II.  Background 
+A.  District court proceedings 
+ Jones was arrested on July 25, 2015, on suspicion of OVUII.  
+He was charged by complaint on August 7, 2015.3  Jones pleaded 
+not guilty, and the case proceeded to a bench trial, which began 
+on January 8, 2016, and ended on March 22, 2016.  
+ 1.  Officer Wong ’s testimony  
+ The State presented only one witness: Officer Wong of the 
+Honolulu Police Department ( “HPD”), the arresting officer.  
+Jones did not testify nor did he present any other witnesses.    
+ Officer Wong testified that he attended the police academy 
+as a police recruit in 2010.   As of his January 8, 2016 
+testimony, Officer Wong had been an HPD officer for five years.   
+                     
+3  See supra note 2. ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+5 
+  On July 25, 2015, at around 3:15 a. m., Officer Wong was 
+waiting at a red light on Ke ʻeaumo
+ku Street heading inland at the 
+intersection of Makaloa Street.  After his light turned green, 
+Officer Wong heard a loud sound, as from a roaring engine, to 
+his left and saw headlights heading eastbound on Makaloa Street; 
+the car, a four-door Toyota sedan, went through the intersection, 
+running the red light.  Officer Wong followed and pulled over 
+the car.   
+ 
+When he approached the driver ’s side window, Officer Wong 
+could “sme ll the strong odor of alcohol from [the driver ’s] 
+breath.”  Officer Wong informed the driver , whom he identified 
+as Jones, why he had been  pulled over, to which Jones  responded, 
+“[O]h, I didn’ t make the light? ”  Jones spoke with “[s]trong 
+slurred speech. ”  When Officer Wong viewed  Jones and the 
+interior of the cabin with his flashlight, he  also noticed that 
+Jones had red, bloodshot eyes.  When Officer Wong asked Jones 
+for his license
+, car registration, and insurance, Jones fumbled 
+with his wallet and driver ’s license, and the license fell in 
+his lap.   
+ Officer Wong then asked Jones if he would participate in 
+SFSTs.  Jones stated he had not been drinking as he was the 
+designated driver for his friends, and that they had just come 
+from a nightclub, but that he would participate in the SFSTs.   ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+6 
+  
+As of July 25, 2015, Officer Wong had administered SFSTs 
+approximately 800 times.   He first received  training in SFST 
+administration in May 2011.4  Officer Wong ’s initial training had 
+consisted of more than twenty-four hours of training on three 
+days and two nights of SFST testing on live subjects, some of 
+whom had been drinking and some of whom had not.  As part of his 
+training, 
+which included both classroom and practical components, 
+he was taught how to evaluate a subject ’s performance on the 
+SFSTs.  Officer Wong had passed written and practical 
+examinations on administering SFSTs; the practical exam included 
+going over studies that described the findings and success rate 
+of each SFST.  As a result of his t
+raining, he had been 
+qualified to administer and evaluate the S FSTs.   
+ In 2012, Officer Wong attended the “ARIDE” program,  which 
+he described as a refresher course on SFSTs and an introductory 
+course in the drug recognition expert program.5  Upon completion 
+of the ARIDE program in 2012, he was recognized as a drug 
+                     
+4  According to Officer Wong, the SFST training was mandatory training 
+given to all police recruits at the police academy.  His later testimony  
+suggested that this training may have occurred in 2010.  
+ 
+5  California Highway Patrol describes the “ARIDE” program as an Advanced 
+Roadside Impaired Driving Enforcement course developed by the National 
+Highway Traffic Safety Administration and the International Association of 
+Chiefs of Police Technical Advisory Panel and the Virginia Association of 
+Chiefs of Police to “bridge the gap” in training between standard field 
+sobriety testing and drug evaluation and classification programs for states 
+that also have such drug programs.  See California Highway Patrol, Advanced 
+Roadside Impaired Driving Enforcement (ARIDE) Course, available at 
+https://www.chp.ca.gov/programs -services/for -law-enforcement/drug -
+recognition- evaluator -program/schedule -of-classes/aride  
+[https://perma.cc/QRW9 -9M3K]. ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+7 
+ recognition expert, and 
+he also took a refresher course in drug 
+recognition in 2013.   
+ In 2015, Officer Wong became a SFST instructor for the HPD.  
+To become an instructor, he was again trained by senior 
+instructors, gave classes, and passed  exams.  When asked whether 
+he was required to receive any certifications to become an 
+instructor, Officer Wong responded that the senior instructors 
+were qualified by the National Highway and Traffic Safety 
+Administration ( “NHTSA”) and the International Association of 
+the Chiefs of Police ( “IACP”).  The senior instructors then 
+trained the officers who trained him.  He described this as the 
+certification process.
+  Jones’s nonresponsive objection to this 
+testimony was overruled.  Officer Wong’s later testimony 
+regarding his instructors ’ certifications by NHTSA was also 
+received over Jones ’s lack of foundation and hearsay objections.   
+ According to Officer Wong, the NHTSA manual sets forth 
+standards for 
+the administration of SFSTs, which consist of the 
+horizontal gaze nystagmus6 test (“HGN”), the walk- and-turn test, 
+and the one-leg stand test.  Officer Wong testified that a 
+subject’s performance on SFSTs “is indicative of whether or not 
+they can operate a vehicle in a safe and prudent manner. ”   
+                     
+6  Nystagmus has been defined as “[a] rapid, involuntary jerking or 
+twitching of the eyes, sometimes caused by ingesting drugs or alcohol.”  
+Nystagmus, Black’s Law Dictionary  (11th ed. 2019).  ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+8 
+  Officer Wong was 
+asked what correlation, if any, exis ted 
+between a subject ’s ability to perform the SFSTs and the 
+subject’s ability to operate a motor vehicle.  Jones objected to 
+this question based on a lack of foundation for Officer Wong to 
+testify as an expert on a correlation, the lack of scientific 
+evidence of a correlation, and the lack of evidence that Officer 
+Wong had received training on making such a correlation.  The 
+deputy prosecuting attorney ( “DPA”) responded that Officer Wong 
+had testified that he had been certified, that he was a trainer 
+on SFSTs, and that he was trained multiple times on the SFSTs.  
+The following exchange occurred: 
+THE COURT:  Okay.  Well, the -- the testimony was rather 
+summary in nature, but as far as I ’m concerned, it did 
+[hit] the prime points initially set forth [] in State 
+versus Mitchell [7] not in the order listed and not 
+necessarily broken up in bullet point form.  But I ’m 
+satisfied that the officer ’s testimony does meet with the 
+primary requirements set forth, the foundational 
+requirement s. 
+ If the officer has been certified and retrained which 
+is, by the way, something that ’s often missing from this 
+testimony, and in this case has himself been qualified to 
+become a certified instructor, and has specifically 
+testified that this is all in accordance with NHTSA, I ’m 
+satisfied the Mi tchell standard has been met in this case.  
+[DEFENSE COUNSEL]: Except that there was no testimony yet 
+that he was so certified.  He did say he -- he was 
+initially trained in May of 2011 to do the field sobriety 
+test and then he testified about drug recognition until 
+2013 he became --  he said he became a field sobriety test 
+instructor.  But nothing about certification.  
+THE COURT:  Well, to be allowed to be -- I grant you the 
+exact language hasn ’t been adduced.   But to become an 
+instructor and then to be allowed to perform these tests 
+                     
+7  In State v. Mitchell, 94 Hawai ʻi 388, 15 P.3d 314 (App. 2000), the ICA 
+held that bef ore HGN test results can be admitted into evidence, “it must be 
+shown that (1) the officer administering the test was duly qualified to 
+conduct the test and grade the test results; and (2) the test was performed 
+properly in the instant case. ”  94 Hawai ʻi at 397, 15 P.3d at 323.   ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+9 
+ over the past few years, I find, for foundational purposes, 
+it does meet the standard.  At  least he couldn ’t have done 
+that if he wasn ’t certified.  
+ So I
+’m granting you that specific testimony has not 
+been adduced.  That said, I ’m satisfied that, at least via 
+inference if not exact language, the standard has been met.  
+So objection ’s overruled.  
+ 
+ Officer Wong then testified as to the SFSTs performed by 
+Jones.  Jones responded in the negative to the medical rule-out 
+questions regarding whether he had any impediments that could 
+affect his performance on the SFSTs.  Officer Wong also 
+testified that the sidewalk area of Makaloa Street, where Jones 
+performed the SFSTs, was well- lit and level, that the weather 
+was clear, and that he did not notice any physical injuries to 
+Jones or any other circumstance that would interfere with 
+Jones’s ability to perform the SFSTs.  
+ Officer Wong 
+was then asked about the HGN test.  Jones 
+immediately objected on the grounds that there is no scientific 
+evidence to establish a foundation that performance on the HGN 
+test is admissible to prove intoxication beyond a reasonable 
+doubt, and that State v. Ito, 90 Hawaiʻi 225, 978 P.2d 191 (App. 
+1999)8 had discussed the HGN test  being admissible as to probable 
+cause only and had not reached the issue of whether the HGN test 
+is sufficiently scientifically reliable to prove guilt beyond a 
+                     
+8  In Ito, the ICA held that HGN test results have been sufficiently 
+established to be reliable, and that as long as a HGN test was properly 
+administered, its results are relevant and admissible as evidence  in an OVUII 
+(previously referred to as DUI) case  that police officers  had probable cause 
+to believe that a defendant was OVUII, but expressly not deciding whether HGN 
+test results are admissible as evidenc e of a defendant’s intox ication because 
+the issue had not been presented.  90 Hawai ʻi at 240- 41, 978 P.2d at 206 -07.  ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+10 
+ reasonable doubt.   The district court overruled the objection 
+without prejudice.9   
+  Officer Wong then testified on how he had been trained to 
+administer the HGN test in accordance with the NHTSA manual, 
+which was to have a subject place their feet together with heels 
+and toes touching, hands to the sides, and to inform them he 
+would be holding a stimulus, a pen, twelve to fifteen inches 
+from the subject ’s face, slightly  above eye level, and that the 
+subject was to follow the tip of his pen with their eyes without 
+head movement.  He testified he was trained to look for the lack 
+of smooth pursuit, distinct and sustained nystagmus at maximum 
+deviation, and the onset of n
+ystagmus before forty- five degrees, 
+and that if a subject exhibited any of those three things, it 
+would be a “clue ” of nystagmus that was considered a “fail.”   
+ When asked by the DPA what that meant regarding a subject ’s 
+sobriety, Jones again objected based a lack of foundation 
+regarding correlation.  The DPA again responded that Officer 
+Wong had testified he had been trained and certified according 
+to NHTSA standards to administer SFSTs, including attending a 
+recent refresher course, which should allow him to give an 
+opinion regarding nystagmus and a subject ’s sobriety.  Jones 
+                     
+9  The district court stated, “There’s a wealth of material, not just Ito, 
+Ferrer, K[eh dy], all those cases get into whether or not HGN is admissible 
+for the purpose of determining intoxication.”  See supra note 8 and infra  
+notes 12 and 13. ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+11 
+ responded that the issue was not whether Officer Wong had 
+properly administered the test, but the lack of foundation
+ 
+regarding Officer Wong ’s expertise regarding whether the HGN 
+test is correlated to evidence of intoxication beyond a 
+reasonable doubt. The district court then stated: 
+ Here’s the issue.  
+Ito,[10][ Mitchell ,[11] Ferrer,[12] 
+even K[ehdy],[13] none of them say what would constitute 
+admissibility  of HGN results for substantive intoxication. 
+All they say  is what wasn ’t done in those cases.  
+ I am finding, lacking any guiding authority otherwise, 
+that the standard they say hasn ’t been met in  those cases 
+has been met in this case.  And without anything saying I 
+can’t, I will, over objection, admit the  testimony for the 
+purpose of determining substantive  evidence of intoxication 
+beyond simple probable cause which  isn’t even relevant at 
+this point.   So objection is  overruled.  Your objection is 
+preserved for the record, [defense counsel] . 
+ 
+ Officer Wong then testified over another overruled 
+objection that if there was no medical problem or medication 
+issue, the existence of nystagmus is indicative that alcohol is 
+                     
+10  See supra note 8. 
+ 
+11  See supra note 7.  
+ 
+12  In State v. Ferrer, 95 Hawaiʻ i 409, 23 P.3d 744 (App. 2001), the ICA 
+held that the State had failed to lay a proper Toyomura  foundation, for the 
+admission of an officer’s expert opinion on whether the defendant had “passed” 
+or “failed” the psychomotor FSTs.  95 Hawai ʻi at 430, 23 P.3d at 765.  Ferrer  
+also separately held that the foundation laid had been insufficient to 
+establish that the officer was duly qualified to conduct the HGN test and 
+grade the test results.  95 Hawai ʻi at 424, 23 P.3d at 759.  
+   
+13  In State v. Kehdy, No. 29146, 2009 WL 1805908 (App. June 25, 2009)  
+(SDO), the ICA ruled that  the State failed to provide sufficient foundation 
+to admit an officer ’s testimony regarding a driver’s performance on the HGN 
+test, where the officer stated he was provided with materials from the NHTSA 
+during his training and that his instructors went through the standard s and 
+guidelines from the NHTSA, but did not state the training he received met 
+NHTSA standards as required by Ito, and merely stated he received materials 
+from NHTSA regarding standards and guidelines, and that, like in Ito, there 
+was no evidence the officer was supervised by  certified  instructors during 
+his training.  2009 WL 1805908, at *4.  ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+12 
+ impairing a subject ’s ability to perform the SFSTs and to 
+operate a motor vehicle.  Officer Wong then testified that on 
+July 25, 2015,  he instructed Jones on the HGN test consistent 
+with the standard instructions indicated above, and that Jones 
+stated he understood them.   This concluded the testimony for 
+January 8, 2016, and Officer Wong ’s testimony was continued 
+until March 22, 2016.  
+ Upon  resumption of Officer Wong ’s testimony on March 22, 
+2016, Jones renewed his objection to the relevance of SFSTs to 
+prove intoxication beyond a reasonable doubt.  The district 
+court overruled the object ion, indicating that although it 
+believed Jones ’s previous objections had been sufficient, Jones 
+would be granted a standing objection to the relevance of the 
+SFSTs to prov e intoxicat ion beyond a reasonable doubt.  The 
+district court also overruled Jones ’s renewed objection to the 
+admission of the HGN test testimony in its entirety as evidence 
+of intoxication and granted a continuing objection to the 
+admission of the HGN test testimony.   The following exchange 
+occurred: 
+[DEFENSE COUNSEL]: I would just for the record like to  
+renew my objection to the relevance of the field sobriety  
+test to prove intoxication beyond a reasonable doubt, and  
+ask for a continuing objection in that regard.  
+THE COURT: So noted.  But I think your --  well, objection’ s 
+noted but overruled.  And I think it ’s -- it’s lodged 
+sufficiently.  If you’re just talking about the  field 
+sobriety test, case law makes it fairly clear what  that 
+consists of.  So just saying that you object to the  field 
+sobriety test I think lays out sufficient parameters  to 
+cover what they are.    ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+13 
+  So running objection is noted.  
+ I don’t think it’s 
+necessary, but your initial objection is sufficient to  make 
+a record.  
+[DEFENSE COUNSEL]: And I would also like to renew and 
+ask 
+for a continuing objection to  the horizontal gaze 
+nystagmus 
+test as evidence of intoxication.   Under State 
+versus Ito ,[] it clearly states that it ’s admissible for
+ 
+probable cause but does not reach the issue of whether it ’s 
+admissible for intoxication.  14
+THE COURT: So noted.   And again  overruled for  the same 
+reasons as before.   Ito,[]
+ Mitchell,[ ] Ferrer[ ] and 
+K[ehdy][] make the requirements fairly stringent.  
+ But I 
+do find or  have found and, therefore, will stand on my 
+finding that  this is one of the rare cases because of the 
+situation with  Officer Wong ’s having been --  let’s see, was 
+this the one?  Oh, yeah, okay, yeah, not just originally 
+certified by  recently recertified.   
+ 1817 16 15
+ To the extent that K[ehdy] makes that  requirement, 
+periodic retraining amongst and including any  other 
+requirements, it ’s satisfied in this case.  So foundation 
+has been laid.  Objection is noted, though, and  lodged for 
+the record.  
+[DEFENSE COUNSEL]: Well, I wasn ’t -- I wasn’t clear that he 
+actually testified that he was recertified for the  purposes 
+of HGN.  I think he -- I thought he testified that he was 
+recertified for -- as a -- as a drug recognition expert.  
+THE COURT: Right, which includes HGN precisely because it 
+is not, as I recall, an indicator of -- of intoxication due 
+to THC.[19]  But that would necessarily mean covering as 
+well for alternative intoxication including without -- 
+including and especially alcohol.  So, I mean, for the 
+reasons stated before, your objection is noted and lodged.  
+I believe it’ s safe.  And if it ’s not, I ’m sure that you’ ve 
+made it clear enough for appeal purposes.   
+[DEFENSE COUNSEL] : Yes.  And so just to confirm, I  have a 
+continuing objection,  I don’t have to raise it every time 
+that it’s discussed? 
+THE COURT:  Well, once you ’ve -- yeah, you don’ t.  
+ 
+ Officer Wong then testified that he administered and 
+evaluated the results of each SFST administered to Jones in 
+                     
+14  See supra note 8. 
+ 
+15  See supra note 8. 
+ 
+16  See supra note 7. 
+  
+17  See supra note 12. 
+ 
+18  See supra note 13. 
+ 
+19  No such evidence was received in this case.  It appears the district 
+court may have been relying on its knowledge of the contents of NHTSA manuals.   ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+14 
+ accordance with his training and the NHSTA manual.   With respect 
+to the HGN test, Officer Wong checked for and found no resting 
+nystagmus,  he observed that Jones ’s pupils were of equal size,  
+and he confirmed that Jones could track the stimulus equally -  
+based on these observations, Officer Wong continued on with the 
+test.  Officer Wong testified that during Jones ’s performance of 
+the HGN test, he  observed six out of six clues of intoxication, 
+which were lack of smooth pursuit, distinct and sustained 
+nystagmus at maximum deviation, and onset of nystagmus prior to 
+forty-five degrees, in both eyes.   
+ According to Officer Wong, this meant that Jones h ad 
+“failed” the HGN test.  Officer Jones also testified the  “fail” 
+meant Jones had a blood alcohol content of 0.08 or above.   The 
+DPA then asked Officer Wong if there were any studies about the 
+HGN test that would point toward that conclusion.  Officer Wong 
+began testifying about a San Diego field test study, indicating 
+that it was the most recent study, in which police officers 
+conducted the test in the field and in the laboratory.  At this 
+point, Jones objected on hearsay grounds, that Officer Wong was 
+testifying about a study he had not seen.  The DPA responded 
+that the testimony was being offered for foundation.  The 
+district court sustained the objection on the grounds that  
+“there are certain hoops that still have to be jumped through 
+for even an expert to testify about external treatises, articles, ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+15 
+ that sort of thing that have not been met yet as far as I ’m 
+concerned.”20  Thus, Officer Wong did not testify as to studies 
+apparently supporting his testimony that 
+Jones’s “failure” on 
+the HGN test mean he had a blood alcohol content of 0.08 or 
+above.
+   
+ Next, Officer Wong testified regarding his 
+administ ration 
+of the walk-and-turn test.  Once more, he gave Jones 
+instructions on how to perform the test, including verbal 
+instructions and a 
+demonstration of the correct position.   Jones 
+confirmed he understood the test and had no questions.  Officer 
+Wong looked for two clues during the instructional phase, in 
+which he asked Jones to stay in position and not begin until 
+cued: whether Jones could keep his balance while standing still 
+and whether he started too soon or without being told to start.  
+He then looked for six clues during the walking portion of the 
+test: whether Jones turned around improperly, stopped, failed to 
+                     
+20  It appears the district court was referring to Hawai ʻi Rules of Evidence 
+(“HRE”) Rule 803(b)(18) (2002), which provides a hearsay exception for 
+“learned treatises”:  
+ 
+(18) Learned treatises.  To the extent called to the 
+attention of an expert witness upon cross -examination or 
+relied upon by the witness in direct examination, 
+statements contained in published treatises, periodicals, 
+or pamphlets on a subject  of history, medicine, or other 
+science or art, established as a reliable authority by the 
+testimony or admission of the witness or by other expert 
+testimony or by judicial notice.   If admitted, the 
+statements may be read into  evidence but may not be 
+received as exhibits. ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+16 
+ step heel- toe, stepped off -line, raised his hands, or took an 
+improper number of steps.   
+ According to Officer Wong, a subject “fails” the test if he 
+exhibits two clues.   Officer Wong testified Jones exhibited 
+seven clues: he was unable to keep his balance during the 
+instructional phase,  stopped walking while on the turn,  turned 
+improperly,  did not step heel- to-toe five times (missing by 
+about a half- inch), stepped off- line three times,  raised his 
+arms six to eight inches,  and took ten steps instead of  nine.  
+Officer Wong also testified that at the end of the first nine 
+steps, Jones stopped and asked him if he should take nine steps 
+or ten; Officer Wong responded that he should “take the test as 
+how he had remembered ” from the instructions.  Jones ended up 
+taking ten steps.   
+ Officer Wong then testified that Jones “failed” the walk-
+and-turn test and that his blood alcohol content was at or above 
+0.08.   
+ Officer Wong then testified that he instructed Jones and 
+demonstrated how to complete the one- leg stand test, after which 
+Jones affirmed that he understood.   During the test, Officer 
+Wong looked for four clues while Jones stood on one leg and 
+counted for thirty seconds: whether Jones swayed to keep balance, 
+raised his arms six inches or more, hopped  on one leg, and put 
+his foot down at any point.   Officer Wong testified he observed ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+17 
+ Jones three times sway from side-to-side about two inches and 
+twice raise his arms about eight inches; according to Officer 
+Wong, these motions were of a sufficiently significant degree to 
+constitute clues for purposes of the test.   
+ Officer Wong then testified that Jones also “failed” the 
+one-leg stand test.   He also testified this meant Jones was “not 
+able to drive a car safely. ”  
+   Officer Wong then testified regarding Jones ’s performance 
+on the SFSTs as a whole, stating,  “My evaluation is that based 
+on all three of the standardized field sobriety tests that the 
+defendant was not sober and that he was not able to operate a 
+vehicle safely and that he did not pass[.] ”  Over objection, he 
+testified that Jones was intoxicated.  After completion of the 
+SFSTs, Officer Wong arrested Jones  for OVUII.   
+ On cross-examination, with respect to the alleged heel-toe 
+“miss” on the walk- and-turn test, Officer Wong testified t hat he 
+“didn’t have a measuring stick ” and that he just “look[ed] and 
+determine[d] if it ’s a half an inch. ”  Officer Wong conceded he 
+was “approximating ” the distance.   With respect to the HGN test, 
+Officer Wong stated that the last time he had measured exactly, 
+rather than merely estimated, forty- five degrees of eye 
+displacement  had probably been in 2010 at the police academy.   
+ Officer Wong also testified, over the State ’s objection, 
+that SFSTs provide the probable cause basis for an OVUII arrest ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+18 
+ and that he was trained to “take the arrestee to the police 
+station for further testing to determine intoxication[ .]”  In 
+response to a cross- examination question as to whether “the 
+conclusion of intoxication is not based on the field sobriety 
+test, the conclusion of intoxication is based upon what further 
+testing is done at the police station, blood or breath or 
+whatever,” however, Officer Wong responded,  “No, because if the 
+person refuses to take a test, then how would we come to the 
+conclusion that they ’re intoxicated? ”    
+ 2.  The district court ’s ruling  
+ The district court adjudicated Jones guilty of OVUII .  
+Although the district court acknowledged Jones ’s argument that 
+the individual clues were insufficient and that Jones ’s slurred 
+speech may have been attributable to his natural speaking 
+pattern, the district court nevertheless found “the accumulation 
+sufficient” and described the evidence supporting conviction as 
+“ample.”  The district court then sentenced Jones to 240 ho urs 
+of community service, a two- year license suspension, and a $700 
+fine.  
+B. ICA proceedings 
+ In his opening brief, Jones argued that the district court 
+erred in admitting, without proper foundation, Officer Wong ’s 
+testimony that Jones failed each SFST an d failed the SFSTs  as a 
+whole.  Jones maintained Officer Wong lacked the qualifications ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+19 
+ to testify as an expert because he “never testified that he was 
+certified to administer the test, only that he had received 
+training from an individual who himself was also not certified. ”  
+According to Jones, the district court committed “clear and 
+obvious error”  when it determined that Officer Wong ’s 
+qualifications “met the standard ” for being “certified. ”  Jones 
+argued that, thus, Officer Wong ’s testimony regarding  the 
+results of the SFSTs was erroneously considered by the district 
+court on the substantive issue of guilt beyond a reasonable 
+doubt.   
+ In addition, Jones  claimed that the district court erred by 
+admitting the S FSTs as evidence of intoxication rather than as 
+merely evidence of probable cause .  Jones contended that this 
+court’s decision in Toyomura , while permitting an officer to 
+provide a lay opinion that  a defendant was intoxicated based on 
+a lack of coordination, forbids reliance on the results of the 
+SFSTs as the basis of that opinion.  Jones maintained that “the 
+trial court failed to apply and enforce this prohibition ” when 
+Officer Wong offered an opinion on Jones ’s intoxication based 
+solely on the S FSTs.   
+ Jones also analogized his case to State v. Bebb , 99 Hawai ʻi 
+213, 53 P.3d 1198 (App. 2001), overruled on other grounds by 
+State v. Maldonado, 108 Hawai ʻi 436, 121 P.3d 901 (2005), in 
+which the officer based his lay opinion about an arrestee ’s ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+20 
+ intoxication on his assessment of the S FSTs, but the State 
+failed to lay sufficient foundation as required by Toyomura .  99 
+Hawaiʻi at 217 –218, 53 P.3d at 1202 –03.  Jones claimed the same 
+error occurred here.   
+ Jones also asserted that “there was not substantial 
+evidence to support a finding of guilt beyond a reasonable 
+doubt.”  According to Jones, besides the results of the SFSTs 
+that should not have been considered, the evidence supporting 
+the conviction was scant: that he had run a red light, that 
+Officer Wong smelled alcohol, and that his eyes were red and 
+bloodshot.  Jones argued that he “contested ” whether the light 
+had been red when he passed through the intersection, that “[i]t 
+is common knowledge that can be judicially noted that . . . 
+every police officer reports ” red, bloodshot eyes after an OVUII 
+arrest, and that the smell of alcohol could have been coming 
+from the passengers in the car, who had been drinking.  
+ The State responded that Officer Wong was properly 
+qualified as an expert.  The State argued that  Officer Wong ’s 
+testimony was relevant and reliable under H
+awaiʻi Rules of 
+Evidence (“HRE”)  Rule 702 (1992), and that it had laid 
+sufficient foundation for him to opine as an expert on the SFSTs  
+and Jones’s performance.  Likewise, it argued that “any 
+testimony by Officer Wong opining as to Jones being under the ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+21 
+ influence of alcohol was admissible pursuant to HRE Rule 704,” 
+which permits an expert to opine even on an ultimate issue.   
+ The State also argued that sufficient evidence existed to 
+convict Jones.  The State, emphasizing that an appellate court 
+must review the evidence “in the strongest light for the 
+prosecution,”  cited the “strong odor of alcohol coming from 
+[Jones’s] breath, ” that Jones fumbled with his documents,  that 
+Jones exhibited clues on each S FST, and that his eyes were red 
+and bloodshot.  
+ In his reply, Jones argued that Officer Wong lacked 
+certification to perform the S FSTs and that even Officer Wong ’s 
+own instructor was not certified.   Jones also contended that no 
+evidence was presented tending to establish O fficer Wong’s 
+expertise to permit him to draw a correlation between the SFST 
+results and sobriety.  Jones argued Officer Wong ’s expert 
+testimony was therefore improper.  He also rei terated that a 
+police officer testifying as a lay witness cannot base an 
+opinion about a defendant ’s sobriety on the results of the S FSTs.   
+ In its J une 19, 2019 summary disposition order (“SDO”) 
+affirming Jones ’s conviction , the ICA reasoned that “Officer 
+Wong was certified by NHTSA and IACP to instruct HPD officers to 
+perform and evaluate the SFST[s,] ” that he was qualified to 
+“conduct and grade ” each component test, and that it was not 
+error for the district court “to allow Officer Wong to express ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+22 
+ an expert opinion that Jones ‘failed’ the HGN test, the walk-
+and-turn te st, and the one- leg stand test. ”  State v. Jones, No. 
+CAAP-16-0000345, at 5, 2019 WL 2521149 (App. June 19, 2019) 
+(SDO) (footnote omitted).  
+ The ICA also ruled that even if admission of this expert 
+opinion testimony was erroneous, “the error was harmless because 
+there was other substantial evidence supporting Jones ’s OVUII 
+conviction.”   Jones, SDO at 4- 5 n.5. 
+ The ICA also held it was not error for the district court 
+to rely on Officer Wong ’s expert opinions on Jones ’s SFST 
+performance as substantive evidence of intoxication.  Jones, SDO 
+at 6.  The ICA cited to  Toyomura for the proposition that 
+“foundational evidence of a police officer ’s knowledge of HPD ’s 
+SFST procedure was necessary before the officer could be allowed 
+to express an expert opinion about whether a defendant was 
+intoxicated based upon an SFST. ”  Id.  The ICA concluded the 
+State’s foundation was sufficient for “Officer Wong, an NHTSA-  
+and IACP- certified SFST instructor for HPD, to opine that Jones 
+was intoxicated based upon the results of Jones ’s SFST.”  Id.  
+The ICA distinguished this case from Bebb, stating,  “[B]ecause 
+we hold that Officer Wong was properly allowed to express an 
+expert opinion that Jones was intoxicated , Bebb does not apply. ”  
+Id. ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+23 
+  Finally, the ICA rejected the contention that Jones ’s 
+conviction was not supported by substantial evidence.  Jones, 
+SDO at 8- 9.  Even without  the contested expert opinion testimony, 
+the ICA concluded Officer Wong ’s lay observations supported the 
+conviction.  Id.  Again citing Toyomura, the ICA ruled that an 
+officer may describe the results of the S FSTs and offer a lay 
+opinion about the defendant ’s sobriety from those results.  
+Jones, SDO at 9 (citing Toyomura, 80 Hawaiʻ i at 26, 904 P.2d at 
+911).  Thus, even if Officer Wong should not have been qualified 
+as an expert, the ICA ruled his testimony regarding how Jones 
+performed the tasks on the SFSTs  were admissible:   
+Officer Wong ’s testimony about his observations of 
+Jones’s performance on the walk -and-turn and one -leg 
+stand tests, along with Officer Wong ’s observations 
+of Jones ’s operation of his car, the strong odor of 
+alcohol coming from Jones ’s breath, Jones ’s red and 
+bloodshot eyes, Jones ’s fumbling with his driver ’s 
+license, and Jones’ s dropping his license in his lap, 
+was sufficient to support Jones ’s conviction.  
+ 
+Id.21 
+C.  Certiorari application  
+ On certiorari, Jones presents the four questions presented 
+in Section I.  In Section IV below, we address each question on 
+certiorari in turn.  
+ 
+                     
+21  But see discussion in Section IV.D.  infra, explaining a police 
+officer’s lay opinion testimony regarding a driver’s state of sobriety , if 
+the testimony is based on the results of the driver’s performance on the 
+SFSTs, is inadmissible under  existing law . ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+24 
+ III.  Standards of Review
+ 
+A.  Admission of expert testimony 
+ “Generally, the decision whether to admit expert testimony 
+rests in the discretion of the trial court.  To the extent that 
+the trial court ’s decision is dependent upon interpretation of 
+court rules, such interpretation is a question of law, which 
+[the appellate] court reviews de novo. ”  State v. Metcalfe, 129 
+Hawaiʻi 206, 222, 297 P.3d 1062, 1078 (2013) (alteration  in 
+original).  
+B. Whether error is harmless beyond a reasonable doubt  
+ In a criminal case, if there is a reasonable possibility 
+that error might have contributed to a conviction, then the 
+error is not harmless beyond a reasonable doubt, and the 
+judgment of conviction on which the error may have been based 
+must be set aside.  
+State v. Cabrera, 90 Hawai ʻi 359, 365, 978 
+P.2d 797, 803 (1999). 
+C.  Sufficiency of the evidence 
+ We review the sufficiency of evidence in a criminal case 
+“in the strongest light for the prosecution. ”  State v. Kalaola, 
+124 Hawai ʻi 43, 4
+9, 237 P.3d 1109, 1115 (2010).  “The test on 
+appeal is not whether guilt is established beyond a reasonable 
+doubt, but whether there was substantial evidence to support the 
+conclusion of the trier of fact. ”  Id.  Substantial evidence 
+means “credible evidence which is of sufficient quality and ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+25 
+ probative value to enable a person of reasonable caution to 
+support a conclusion. ”  Id.  
+IV.  Discussion  
+ 
+A. The district court erred by permitting Officer Wong to 
+express an expert opinion that Jones “failed” the SFSTs  
+  
+ 1. Requisite evidentiary foundation 
+ 
+ In his first question on certiorari, Jones asks this court 
+to hold that the district court erred by permitting Officer Wong 
+to “express an expert opinion that Jones ‘failed’” the elements 
+of the SFSTs .  Jones maint ains the district court erred in 
+admitting, without proper foundation, Officer Wong ’s testimony 
+that Jones “failed ” the HGN test, the walk- and-turn test, and 
+the one-leg stand test.   
+  The ICA reasoned that because “Officer Wong was certified 
+by NHTSA and IACP to instruct HPD officers to perform and 
+evaluate the SFST[s,] ” he was qualified to “conduct and grade ” 
+each component test, and it was not error for the district court 
+“to allow Officer Wong to express an expert opinion that Jones 
+‘failed’ the HGN test, the walk- and-turn test, and the one- leg 
+stand test.”  Jones, SDO at 5 (footnote omitted).   
+ HRE  Rule 702 governs the admission of expert testimony and 
+provides: 
+If scientific, technical, or other specialized knowledge 
+will assist the trier of fact to understand the evidence or 
+to determine a fact in issue, a witness qualified as an 
+expert by knowledge, skill, experience, training, or 
+education may testify thereto in the form of an opinion or ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+26 
+ otherwise. In determining the issue of as
+sistance to the 
+trier of fact, the court may consider the trustworthiness 
+and validity of the scientific technique or mode of 
+analysis employed by the proffered expert.   
+ 
+ 
+Qualifying a witness as an expert requires that the 
+proponent lay foundation establishing that “(1) the witness [is] 
+qualified by knowledge, skill, training, or education; (2) the 
+testimony [has] the capacity to assist the trier of fact to 
+understand the evidence or to determine a fact in issue; and (3) 
+the expert’s analysis [meets] a threshold level of reliability 
+and trustworthiness. ”  Metcalfe, 129 Hawai ʻi at 227
+, 297 P.3d at 
+1083.  “[ T]he determination of whether or not a witness is 
+qualified as an expert in a particular field is largely within 
+the discretion of the trial judge, and, as such, will not be 
+upset absent a clear abuse of discretion. ”  State v. Torres , 60 
+Haw. 271, 277, 589 P.2d 83, 87 (1978).  HRE Rule 702 thus  allows 
+those qualified by “knowledge, skill, training, or education ” to 
+express expert opinions if the testimony has the capacity to 
+assist the trier of fact to understand the evidence or to 
+determine a fact in issue and the expert ’s analysis meets a 
+threshold level of reliability and trustworthiness.  Metcalfe, 
+129 Hawaiʻ i at 227, 297 P.3d at 1083.   
+ However, an expert ’s opinion testimony is not limitless. 
+The HRE contemplates that “experts will have a specific field of 
+expertise, and limit their opinion testimony to matters within 
+that field.”  129 Hawai ʻi at 244, 
+297 P.3d at 1100.  Furthermore, ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+27 HRE Rule 704 (1980) provides that “[t]estimony in the form of an
+opinion or inference otherwise admissible is not objectionable 
+because it embraces an ultimate issue to be decided by the trier
+of fact.” 
+ “However, it is well settled that ‘questions which 
+would merely allow the witness to tell the [fact-finder] what 
+result to reach are not permitted.  Nor is the rule intended to 
+allow a witness to give legal conclusions. ’”  Vliet, 91 Hawai ʻi 
+at 296–
+97, 983 P.2d at 197–98 (alteration in original) (ruling 
+in OVUII case that any error in the officer’ s legal conclusion 
+testimony that defendant ’s state of sobriety “would have been  
+over the legal limit ” was harmless beyond a reasonable doubt).  
+ 
+It appears no published Hawaiʻi appellate cases have 
+actually upheld a ruli ng admitting expert opinion testimony that 
+a driver “failed” a SFST.  State v. Nishi, 9 Haw. App.  516, 852  
+P.2d 476 (1993) addressed an officer ’s opinion testimony that
+the defendant had failed the “heel-to- toe, “leg raised,”  and 
+“arch back” tests.  9 Haw.  App. at 523, 852 P.2d at 480.  The 
+ICA ruled this testimony inadmissible as HRE Rule 70122 lay
+opinion testimony.  Id.   The ICA indicated lay opinion testimony 
+22HRE Rule 701 (1984) provides:  
+If the witness is not testifying as an expert, the witness ’ 
+testimony in the form of opinions or inferences is limited 
+to those opinions or inferences which are (1) rationally 
+based on the perception of the witness, and (2) helpful to 
+a clear understanding of the witness ’ testimony or the 
+determination of a fact in issue.  ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+28 
+ rationally based on an officer ’s perception regarding a driver ’s 
+lack of coordination while performing SFSTs is admissible.  Id.   
+The ICA noted, however, that a normal person would not be able 
+to form opinions that a driver had “failed” the tests without 
+knowledge of the HPD’s field sobriety testing procedures, and 
+that the record disclosed no such foundational evidence.  Id.  
+Noting that the officer had not been qualified as an expert 
+witness, the ICA ruled the district court abused its discretion 
+in admitting the officer ’s testimony.  9 Haw. App. at 521 n.6, 
+523-24, 852 P.2d at 479 n.6,  480.   
+ In Toyomura, we cited Nishi in holding that “foundational 
+evidence as to the arresting officer ’s knowledge of HPD ’s field 
+sobriety testing procedures[,] ” which the record in that case 
+did not disclose, was “necessary ” for the admission of an 
+“arresting officer ’s opinion testimony ” that a driver had 
+“failed to pass the FSTs[.] ”  80 Hawai ʻi at 25-26, 904 P.2d at  
+910—11 (brackets omitted).  As noted in Bebb, the case heavily 
+relied on by Jones, Toyomura  actually stated: 
+Toyomura  is also correct in observing that insufficient 
+foundation was laid to permit Officer Fujihara,  based on 
+Toyomura ’s performance of the FSTs , to render a lay opinion 
+as to whether he was intoxicated, inasmuch as the 
+prosecution elicited no testimony establishing that (1) the 
+horizontal gaze nystagmus, “one-leg stand, ” and “walk-and-
+turn” procedures were elements of the HPD ’s official FST 
+protocol, (2) there was any authoritatively established 
+relationship between the manner of performance of these 
+procedures  and a person ’s degree of intoxication, and (3) 
+Officer Fujihara had received any specific training in the 
+administration of the procedures and the “grading”  of their 
+results.   Therefore, Toyomura is correct that Officer ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+29 
+ Fujihara was improperly permitted to render an opinion that 
+he (i.e. Toyomura) was intoxicated based in part on Officer 
+Fujihara ’s assessment of the results of the FSTs. . . .  
+ Toyomura is simply wrong, however, in concluding that 
+the “rule in Nishi was violated in this case ” in such a 
+manner as to require that his DUI conviction be vacated.  
+As the trial court correctly noted, “any . . . lay person,”  
+including a police officer, “can have an opinion regarding 
+sobriety. ”  As set forth above, Officer Fujihara expressly 
+testified  that, over the course of his approximately 
+nineteen years as a police officer, he “had an opportunity 
+to observe people who had been drinking and at different 
+levels[.] ”  And, as noted, the record reflects that the 
+trial court both assured Toyomura that he was considering 
+Officer Fujihara ’s testimony “only from a lay point of view ” 
+and that the trial court  applied its independent assessment 
+of the evidence in finding Toyomura guilty of DUI.  . . .  
+ 
+ . . . . 
+ 
+ Examined in the light of the entire proceedings  and 
+given the effect the whole record shows it to be entitled, 
+we are convinced that there is no reasonable possibility 
+that any improper lay opinion testimony on the part of 
+Officer Fujihara contributed to Toyomura ’s DUI conviction. 
+Accordingly, we hold that any error in the admission of 
+that testimony was harmless.  
+ 
+99 Hawai ʻi at 216- 17, 53 P.3d at 1201- 02 (alterations and 
+ellipses in original) (citations omitted) (second emphasis 
+added) (quoting Toyomura, 80 Hawaiʻi at 26-27, 904 P.2d at 911 -
+12). 
+ As indicated by Chief Judge Burns in Bebb, the inclusion of 
+the word “lay”  before “opinion” in the third line of the excerpt 
+above was erroneous:  as stated in Bebb , “[i]n context, it 
+appears that this word should have been ‘expert’ rather than 
+‘lay’ because ‘testimony establishing ’ the three facts that 
+follow would qualify Officer Fujiha ra as an expert. ”  99 Hawaiʻi 
+at 216 n.4, 53 P.3d at 1201 n.4.  Thus, Toyomura
+ indicated that ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+30 
+ if the three foundational requirements stated therein were met, 
+an officer could testify that a driver had “failed” an SFST.  
+ After Toyomura,  the ICA held in Ferrer that the State had 
+failed to lay a proper Toyomura foundation for the admission of 
+an officer ’s expert opinion on whether the defendant had “passed” 
+or “failed” the psychomotor field sobriety tests.23  95 Hawaiʻi at 
+430, 23 P.3d at 765.  Ferrer also separately held that the 
+foundation laid had been insufficient to establish that the 
+officer was duly qualified to conduct the HGN test and grade the 
+test results.  95 Hawai ʻi at 424, 23 P.3d at 759.   
+ Thus, a lthough our appellate cases set out a n evidentiary 
+foundation framework for admission of expert opinion testimony 
+that a driver “failed” a SFST, there are no reported cases 
+upholding the admission of such expert opinion testimony .24 
+ 2. Lack of “certification ” 
+ Jones contends insufficient foundation exists to qualify 
+Officer Wong as an expert because Officer Wong never testified 
+                     
+23  The psychomotor FSTs are the walk -and-turn test and the one -leg stand 
+test.  Ferrer held that psychomotor FSTs are nonscientific in nature and that, 
+therefore, an arresting officer may be permitted to testify as to a driver’s 
+performance on such tests and to give a lay opinion based on observations 
+whether the driver was intoxicated when arrested.  95 Hawai ʻi at 427, 23 P.3d 
+at 762.  Ferrer also held, however, that absent foundation testimony 
+establishing conformity to NHTSA training standards, it was an abuse of 
+discretion to allow an officer to testify about a driver’s performance on the 
+HGN test.  95 Hawai ʻi at 425, 23 P.3d at 760.   
+ 
+24  Vliet reaffirmed Nishi ’s holding that “a lay witness may express an 
+opinion regarding another person’s sobriety, provided the witness has had an 
+opportunity observe the other person.  91 Hawai ʻi at 298, 983 P.2d at 199.  ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+31 
+ that he was certified to administer the SFST
+s, only that he had 
+received training from someone who himself was not certified.  
+Jones therefore argues that it was error for the 
+district court 
+to qualify Officer Wong as an expert; he argued that just 
+because an officer was “allowed” to perform the SFST, it  did not 
+mean “that he was therefore certified and qualified to do so. ”   
+ This objection appears to arise from the ICA’s opinion in 
+Ito, in which the ICA stated: 
+ In this case, no evidence was adduced that [the 
+officer]  was duly qualified to conduct the HGN test and 
+grade the test results.  Over Defendant’ s objection, the 
+district court “assum[ed] that the standard training from 
+HPD is, I ’ve always assumed it to be sufficient so I ’ll 
+assume he has in fact been qualified to give the test. ”  
+However, it is not clear what HPD ’s “standard training ” 
+consists of and whether HPD ’s standard training program 
+meets the requirements of the NHTSA.   Therefore, we have no 
+way of knowing the extent and nature of [the officer ’s] HGN 
+training, whether [the office r’s] training was supervised 
+by certified instructors, whether [the officer]  was 
+certified to administer the test . . . .  
+ 
+90 Hawai ʻi at 244, 978 P.2d at 210 .25  
+ 
+ With respect to Jones ’s contention regarding 
+“certifications, ” the Hawai ʻi appellate cases setting forth 
+foundational requirements for admission of expert opinion 
+testimony regarding a driver ’s performance on SFSTs, see Section 
+IV.A.1. above, do not contain any “certification ” requirement.  
+Officer Wong repeatedly testified he had been qualified to 
+administer and evaluate SFSTs pursuant to NHTSA standards and 
+the NHTSA manual.  When asked whether he  had been required to 
+                     
+25  See also supra note 8. ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+32 (continued. . .)  
+ receive any certifications to become an SFST instructor for HPD, 
+Officer Wong actually
+ described the “certification ” process as 
+NHTSA and IACP qualifying senior instructors, who trained 
+officers who then trained him.  The district court permitted 
+Officer Wong to express various opinions regarding Jones ’s 
+performance on the SFSTs constituting  expert opinion testimony, 
+describing Officer Wong at various times as “certified ” and 
+“qualified.”  For example, the district court stated, “ [I]n this 
+case[, the officer] has himself been qualified to become a 
+certified instructor, and has specifically testified that this 
+is all in accordance wi
+th the NHTSA, I ’m satisfied[.] ”   
+ According to NHTSA manuals, although NHTSA provides 
+certificates of completion of SFST training, neither NHTSA nor 
+IACP are certifying agencies for impaired driving courses, i.e., 
+SFST and ARIDE, “includ[ing] both practiti oners and instructors. ”  
+See NHTSA, DWI Detection and Standardized Field Sobriety Testing 
+(SFST) Instructor Guide,  40, 44, available at 
+https://www.nhtsa.gov/sites/nhtsa.dot.gov/files/documents/sfst_i
+g_full_manual.pdf [https://perma.cc/53W5- MSNV] (“NHTSA 2015  
+Instructor Guide ”).26   
+                     
+26  “[O]ur appellate  courts have ‘not hesitated in the past to take 
+judicial notice [on appeal] of the validity of underlying scientific 
+principles and the reliability  of scientific techniques.’”  Vliet, 95 Hawai ʻi 
+at 112, 19 P.3d at 60 (second alteration in original).  The trial and 
+appellate record are replete with references to NHTSA and  its manuals.  The 
+district court referred to information from NHTSA manuals not received in ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+33 
+  
+It therefore appears  that although “certificates of 
+completion” are provided, NHTSA does not actually “certify” SFST 
+instructors or officers.27  In any event, existence or non-
+existence of “ certification ” is not dispositive, because 
+pursuant to HRE Rule 702, a witness can render expert opinion 
+testimony based on “knowledge, skill, experience, training, or 
+education.”  The ICA  expressed concer n in Ito that “it [was] not 
+clear what HPD ’s ‘standard training ’ consists of and whether 
+HPD’s standard training program meets the requirements of the 
+NHTSA.”  90 Hawaiʻi at 244, 978 P.2d at 210.  In Jones’s case, 
+Officer Wong testified regarding the training and testing he had 
+undergone pursuant to NHTSA standards to administer and evaluate 
+SFSTs.  In general, s
+ufficient foundation was laid under 
+Toyomura to qualify Officer Wong to render expert opinion 
+                                                                 
+(continued. . .)  
+evidence, when it stated that Officer Wong ’s recertification as a drug 
+recognition expert included retraining that the presence of HGN “is not . . . 
+an indicator of [] intoxication due to THC. ”  The district court in Ferrer  
+had taken judicial notice of various NHTSA manuals, and the ICA opinion 
+contains various excerpts from them.  95 Hawaiʻi at 420, 424, 23 P.3d at 755, 
+759.  Ito also contains various excerpts from NHTSA manuals.  90 Hawai ʻi 225, 
+978 P.2d 191, passim.  See also Webster v. State, 26 S.W.3d 717, 721 n.4 (Ct. 
+App. Tex. 2000) ( “Although the parties have not provided a copy  of the 
+1992 NHTSA Manual, we take judicial  notice of its contents .”).  We therefore 
+take judicial notice of the NHTSA 2015 Instructor Guide and the NHTSA 2015 
+Participant Manual.   
+ 
+27  Our appellate cases, however, contain references to NHTSA 
+“certifications.”  See, e.g., State v. Wilson, 144 Hawai ʻi 454, 458, 445 P.3d 
+35, 39 (2019) (“NHTSA Certified Instructor”); Mitchell, 94 Hawaiʻ i at 398, 15 
+P.3d at 324 (“certified DUI instructor”); Ito, 90 Hawai ʻi at 244, 978 P.2d at 
+210 (discussing lack of evidence of whether the officer was certified to 
+administer HGN test and whether his training had been supervised by certified 
+instructors).  Based on the NHTSA manuals, it is unclear whether such 
+“certifications” exist for Hawai ʻi officers.  ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+34 
+ testimony regarding Jones ’s performance on the SFSTs and clues 
+of intoxication based on NHTSA standards . 
+ 3. Expert opinion testimony that Jones “failed” the SFSTs  
+ Jones more specifically asserts in his first question  on 
+certiorari, however, that the district court erred in allowing 
+Officer Wong to express an expert opinion that Jones “failed” 
+the HGN test, the walk- and-turn test, and the one- leg stand test.  
+Jones argues the district erred in admitting Officer Wong ’s 
+testimony that he had failed each test and failed the SFSTs as a 
+whole.  
+ As noted, Officer Wong ’s qualifications to testify as an 
+expert as to his administration and evaluation of SFSTs were 
+based entirely on NHTSA standards.  A s he testified, SFSTs are 
+conducted pursuant to NHTSA standards contained in the NHTSA 
+manual.   
+ NHTSA itself dictates, however, that the SFSTs are not 
+scored “pass” or “fail,” and are merely tools to assist an 
+officer in seeing visible signs of impairment.  In other words, 
+NHTSA itself does not recognize “pass” or “fail” scores on 
+SFSTS: 
+Remember, you should not testify that the defendant passed 
+or failed the SFSTs.   The tests are not scored “pass” or 
+“fail.”  You should testify if the defendant completed the 
+tests as instructed.   These tests simply identify 
+impairment.  
+ ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+35 
+ NHTSA, DWI Detection and Standardized Field Sobriety Testing 
+(SFST) Participant Manual, 349, available at 
+https://www.nhtsa.gov/sites/nhtsa.dot.gov/files/documents/sfst_p
+m_full_manual.pdf [https://perma.cc/X22R- 3XXT] (“NHTSA 2015 
+Participant Manual ”); NHTSA 2015 Instructor Manual,  at 409; see  
+also NHTSA 2015 Participant Manual, at 257 ( “Remember that the 
+SFSTs are a tool to assist you in seeing visible signs of 
+impairment and are not a pass/fail test. ”).  
+ Thus, the very standards upon which Officer Wong based his 
+expertise explicitly state that SFSTs are not “pass” or “fail” 
+tests.28  Hence, although our appellate cases set out an 
+evidentiary foundation framework for admission of expert opinion 
+testimony that a driver “failed” a SFST, no reported cases had 
+previously upheld the admission of such expert opinion testimony.  
+NHTSA standards do not allow such testimony.  Therefore, the 
+district court erred in allowing Officer Wong to render such 
+expert opinion testimony. 
+B. The erroneous admission of expert opinion testimony that 
+ Jones “failed” the SFSTs was not harmless beyond a 
+ reasonable doubt 
+ 
+ Jones next challenges the ICA ’s holding that even if it was 
+error to permit Officer Wong to opine that Jones failed the SFST, 
+                     
+28 Based on our holding that it was error to allow Officer Wong to testify 
+that Jones “failed”  the SFSTs, we do not go through the thorough analysis 
+conducted by the ICA in Ferrer regarding whether the officer met specific 
+NHTSA requirements as to each test.  See 95 Hawaiʻ i at 422-27, 23 P.3d at 757 -
+62. ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+36 “the error was harmless because there was substantial other 
+evidence supporting Jones ’s OVUII conviction. ”  
+“Erroneously admitted evidence is evaluated under 
+the harmless beyond a reasonable doubt standard. ”  State v. 
+Matsumoto, 145 Hawai ʻi 313, 327, 4
+52 P.3d 310, 324 (2019) ( citing 
+State v. McCrory, 104 Hawaiʻi 203, 210, 87 P.3d 275, 282 (2004)). 
+“Under this standard, ‘[t]he relevant question . . . is whether 
+there is a reasonable possibility that error might 
+have contributed to [the] conviction. ’”  Id. (alteration and 
+ellipsis in original) (emphasis omitted) (quoting State v. Han, 
+130 Hawaiʻi 83, 93, 306 P.3d 128, 138 (2013) (citing State v. Kim ,
+140 Hawai ʻi 421, 434 n.15, 402 P.3d 497, 510 n.15 (2017)).  
+“In applying the harmless beyond a reasonable doubt 
+standard, the court is required to examine the record and 
+determine whether there is a reasonable possibility that the 
+error complained of might have contributed to the 
+conviction.”  State v. Souza , 142 Hawai ʻi 390, 402,
+ 420 P.3d 321, 
+333 (2018)  (brackets omitted) (quoting State v. Mundon, 121 
+Hawaiʻi 339, 368,
+ 219 P.3d 1126, 1155 (2009) ). 
+Thus, the ICA applied an erroneous standard in ruling that 
+“the error was harmless because there was other substantial  
+evidence supporting Jones ’s OVUII conviction. ”  The existence of 
+“other substantial evidence ” supporting a conviction is not 
+determinative of whether error is harmless beyond a reasonable ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+37 
+ doubt.  Rather, as our cases have repeatedly held, the issue is 
+whether there is a reasonable possibility that the error 
+contributed to a conviction.  Cabrera, 90 Hawai ʻi at
+ 365, 978 
+P.2d at 803.  If so, the error is not harmless beyond a 
+reasonable doubt. 
+ Granted, in a bench trial, “[i]t is well established that a 
+judge is presumed not to be influenced b y incompetent evidence. ”  
+Vliet, 91 Hawai ʻi at 298, 983 P.2d at 199
+ (alteration in 
+original).  In Vliet, this court found harmless an officer ’s 
+improper opinion testimony regarding the defendant ’s sobriety 
+and whether the officer believed the defendant was able to 
+operate his vehicle safely that night.  91 
+Hawaiʻi at 290, 983 
+P.2d at 191.   
+ 
+In Jones ’s trial, however, the district court repeatedly 
+overruled Jones ’s objections and admitted Officer Wong ’s expert 
+testimony that Jones had “failed” each SFST  individually , and 
+then that Jones “failed” the SFSTs as a whole.  I n adjudicating 
+Jones guilty of OVUII at the conclusion of trial, the district 
+court stated that although the individual clues regarding 
+Jones’s performance on the SFSTs were insufficient, and that 
+Jones’
+s slurred speech may have been attributable to his natural 
+speaking pattern
+, the “accumulation ” of evidence was “sufficient ” 
+and the evidence supporting conviction was “ample.”  On this 
+record, there is a reasonable possibility that the erroneous ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+38 
+ admission of expert opinion testimony that Jones had failed the 
+SFSTs individually and as a whole contributed to Jones ’s 
+conviction.  Therefore, the error was not harmless beyond a 
+reasonable doubt. 
+ 
+C.  The district court (a) did not err by admitting expert 
+ opinion testimony regarding Jones ’s performance on the 
+ SFSTs as substantive evidence of intoxication and not just 
+ as to probable cause for arrest,  and (b) based on Toyomura, 
+ did not err in permitting expert opinion testimony that 
+ Jones was intoxicated , but (c) based on Vliet , did err in 
+ permitting expert opinion testimony that Jones had a blood 
+ alcohol content of 0.08 or above   
+ 
+ We have already concluded that Jones ’s conviction must be 
+vacated.  We address the third question on certiorari, however, 
+to provide guidance on remand.   
+ As noted, the third  question has three parts.  On 
+certiorari, Jones reasserts the questions he raised to the ICA,  
+which are: (a ) whether the district court erred in admitting 
+Officer Wong’s expert opinion testimony regarding Jones ’s 
+performance on the SFSTs as substantive evidence of intoxication 
+and not just as to probable cause for arrest;  (b) whether 
+evidence was presented to establish Officer Wong ’s expertise to 
+permit him to draw a correlation between the test results and 
+sobriety to render an expert opinion that Jones was intoxicated; 
+and (c) whether Officer Wong’ s expertise permitted him to 
+testify that Jones had a blood alcohol level of 0.08 or above
+.  
+The ICA found no error.  ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+39 (continued. . .)  
+  1. Expert opinion testimony regarding Jones ’s    
+  performance on the SFSTs as substantive evidence   
+  of intoxication and not just as to probable cause  
+  for arrest 
+ 
+ We first address Jones ’s assertion that the ICA erred in 
+holding the HGN test and S FSTs were admissible for the purpose 
+of establishing substantive evidence of intoxication beyond 
+probable cause.   
+ In Ito, the ICA stated: 
+[W]e conclude that HGN test results have been sufficiently 
+established to be reliable and are therefore admissible as 
+evidence that police had  probable cause to believe that a 
+defendant was [OVUII].   Since the issue was not presented, 
+we do not decide whether HGN test results are admissible at 
+trial as evidence of a defendant ’s intoxication.  
+ 
+90 Hawaiʻ i at 241, 978 P.2d at 207.  
+ As contended by Jones, NHTSA states that the SFSTs are to 
+determine whether probable cause exists to arrest a driver for 
+OVUII: “The third phase in the DWI detection process.[29]  In 
+                     
+29  According to the NHTSA 2015 Participant Manual, the phases are as 
+follows: 
+ 
+In Phase One: Your first task is to observe the vehicle in 
+operation.  Based on this observation, you must decide 
+whether there is sufficient cause to command the driver to 
+stop.  Your second task is to observe the stopping sequence.  
+You may want to take a picture of the vehicle or scene, 
+especially if the vehicle was involved in a crash.  
+ 
+In Phase Two: Your first task is to  observe and interview 
+the driver face to face.  Based on this observation, you 
+must decide whether there is sufficient cause to instruct 
+the driver to step from the vehicle for further 
+investigation.  Your second task is to observe the driver ’s 
+exit and walk  from the vehicle.  You may want to take a 
+photo of the defendant.  
+ 
+In Phase Three: Your first task is to administer structured, 
+formal psychophysical tests .  Based on these tests, you ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+40 
+ this phase the officer administers field sobriety tests to 
+determine whether there is probable cause to arrest the driver 
+for DWI.”  NHTSA 2015 Participant Manual,  at 23.  NHTSA further 
+defines “probable cause ” as “more than mere suspicion; facts and 
+circumstances within the officer ’s knowledge, and of which [they 
+have] reasonably trustworthy information, are sufficient to 
+warrant a person of reasonable caution to believe that an 
+offense has been or is being committed. ”  Id. 
+ NHTSA does not, however, limit a driver ’s performance on 
+the SFSTs to an establishment of probable cause.  NHTSA 
+instructs on the importance of officers taking field notes of a 
+driver’s performance on the SFSTs to “determine whether there is 
+probable cause to arrest[,] ” but points out that “to secure a 
+conviction, more descriptive evidence is needed.  The officer 
+must be able to describe how the subject performed on the tests, 
+and what the subject did. ”  Id. at 268.  Thus, NHTSA recognizes 
+that an officer ’s observation and description of the manner in 
+which a driver performs a field sobriety test is admissible at 
+trial on the issue of impairment.   
+                                                                 
+(continued. . .)  
+must decide whether there is sufficient probable cause to 
+arrest the driver for DWI.   Your second task is then to 
+arrange for (or administer) a Preliminary Breath Test . 
+ 
+Id. at 95.  ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+41 
+  Hawaiʻi appellate
+ cases have also allowed for consideration 
+of the manner in which a driver performs  SFSTs as substantive 
+evidence of intoxication,  regardless of whether the officer was 
+qualified as an expert.  See, e.g., Toyomura, 80 Hawaiʻ i at 26, 
+904 P.2d at 911 (specifying foundation necessary for expert 
+opinion testimony regarding SFST performance); Nishi, 9 Haw. App. 
+at 524, 852 P.2d at 480 (allowing police officer to give lay 
+witness testimony regarding observations of a driver ’s 
+coordination problems while performing SFSTs) .  
+ Therefore, evidence of a drive r’s conduct and physical 
+actions while perform ing a SFST is not only relevant to probable 
+cause for an arrest, but is also admissible as indicia of 
+whether a driver was OVUII beyond a reasonable doubt. 
+  2. Expert opinion testimony that Jones was    
+  intoxicated 
+  
+ With respect to the second part of this question on 
+certiorari, the ICA stated that pursuant to Toyomura , 
+“foundational evidence of a police officer ’s knowledge of HPD ’s 
+SFST procedure was necessary before the officer could be allowed 
+to express an expert opinion about whether a defendant was 
+intoxicated based upon an SFST. ”  The ICA concluded the State ’s 
+foundation was sufficient for “Officer Wong, an NHTSA-  and IACP-
+certified SFST instructor for HPD, to opine that Jones was 
+intoxicated based upon the results of Jones ’s SFST.”  ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+42 
+  In Toyomura, we cited Nishi and stated that “foundational 
+evidence as to the arresting officer’s knowledge of HPD’s field 
+sobriety testing procedures[,]” which the record in that case 
+did not disclose, was “necessary” for the admission of an 
+“arresting officer’s opinion testimony” that a driver had 
+“failed to pass the FSTs[.]”  80 Hawai ʻi at 25-26, 904 P.2d at 
+910—11 (brackets omitted).  The issue Jones directly presents in 
+this case, whether such opinion testimony should be excluded 
+even when the requisite foundation has been laid, was not 
+presented in Toyomura.  In addition, Vliet, discussed in more 
+detail below, was decided  after Toyomura  and pertains to whether 
+such testimony would be admissible.  And as further discussed 
+below, there are significant issues with allowing such testimony.  
+We recognize, however, that Toyomura indicated that an officer 
+could express an expert opinion that a driver was intoxicated as 
+long as sufficient foundation was laid.   
+ Here, Officer Wong testified he had been trained and re-
+trained and had passed written and practical examinations 
+regarding the administration and evaluation of SFSTs in 
+accordance with NHTSA standards, and he had performed hundreds 
+of SFSTs.  Therefore, an adequate foundation was laid, and the 
+district court did not err in allowing Officer Wong to testify 
+as an expert in the administration and evaluation of SFSTs and 
+to express his opinions regarding the NHTSA -recognized “clues of ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+43 
+ intoxication” in Jones ’s performance of the SFST s.  Thus, under 
+Toyomura, in this case, Officer Wong was properly allowed to 
+render expert opinion testimony regarding his evaluation of 
+Jones’s performance on the SFSTs and to render expert opinion 
+testimony that Jones was “intoxicated.”  
+ 3. Expert opinion testimony that Jones had a blood   
+  alcohol level of 0.08 or above 
+ 
+ Officer Wong ’s expert opinion testimony, however, exceeded 
+the scope of allowable testimony as an expert under existing law.  
+Officer Wong not only testified as to the clues of intoxication 
+he observed during Jones’ s performance of the SFSTs, he also 
+opined that Jones had a blood alcohol content of 0.08 based on 
+his performance on the SFSTs.  First, a s Jones argues, Officer 
+Wong’s testimony did not provide adequate foundation to allow 
+him to draw such a correlation based on Jones ’s performance on 
+each of the SFSTs.  Officer Wong did testify that the NHTSA 
+practical exam included going over studies that described the 
+findings and “ success rate ” of each S FST.  He never testified, 
+however, as to what “success rate ” meant.  Then, when O fficer 
+Wong testified that a “ fail” meant Jones had a blood alcohol 
+content of 0.08 or above and the DPA asked Officer Wong whether 
+there were any studies about the HGN test that wou
+ld point 
+toward that conclusion, the district court sustained Jones ’s 
+objection.  Therefore, no foundation was laid that clues of ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+44 intoxication correlated to a bloo
+d alcohol level of 0.08 or  
+above.  
+In addition, it is well-settled that opinion testimony  
+should not merely tell the fact- finder what result to reach, and 
+witnesses are not permitted to give legal conclusions.  See 
+State v. Batangan, 71 Haw. 552, 559, 799 P.2d 48, 52 (1990) 
+(stating that HRE Rule 704 does not permit opinion testimony  
+that merely tells the jury what result to reach); Vliet , 91 
+Hawaiʻi at 296
+-97, 983 P.2d at 197-98 (noting that HRE Rule 704 
+does not allow a witness to give legal conclusions).  Although 
+Toyomura indicated t hat if sufficient foundation existed of a  
+police officer ’s knowledge of SFST procedures  the officer could 
+be allowed to express an expert opinion about whether a  
+defendant was intoxicated based upon SFST performance, our 
+ruling in Vliet, which came after Toyomura, directly addressed 
+the issue.  In Vliet , an OVUII case, we noted that although HRE 
+Rule 704 provides that “[t]estimony in the form of an opinion or 
+inference otherwise admissible is not objectionable because it 
+embraces 
+an ultimate issue to be decided by the trier of fact[,] ” 
+“questions which would merely allow the witness to tell the  
+[fact-finder] what result to reach are not permitted. ”  91 
+Hawai’i at 296, 983 P.2d at 197.  We further noted that  
+HRE Rule 704 is not “intended to allow a witness to give legal 
+conclusions.”   91 Hawaiʻi at 296–97, 983 P.2d at 197–98.  ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+45 
+  Vliet specifically addressed an officer ’s testimony that a 
+defendant’s state of sobriety “ would have been over the legal 
+limit.”  91 Hawai ʻi at 296–
+97, 983 P.2d at 197 –98.30  This court 
+held that the officer’s testimony amounted to a legal conclusion 
+and was therefore impermissible.  91 Hawaiʻi at 298, 983 P.2d at 
+199 (“Clearly, Officer Uehara was attempting to offer a legal 
+conclusion as to whether [the defendant] was DUI.”).  Although 
+in Vliet we ruled
+ the admission of this testimony harmless 
+beyond a reasonable doubt, we identified  its problematic nature.  
+ The officer’s  testimony in Vliet  is comparable to Officer 
+Wong’s testimony that Jones had a blood alcohol level of 0.08 or 
+above.  Jones was charged with 
+OVUII in violation of  
+HRS § 291E-61(a)(1).  This subsection proscribes operating a 
+vehicle “
+while under the influence of alcohol in an amount 
+sufficient to impair the person ’s normal mental faculties or 
+ability to care for the person and guard against casualty. ”  
+Officer Wong’s  testimony  that Jones had a blood alcohol level of 
+0.08 or above based on his performance on the SFSTs wa s 
+tantamount to te lling the fact- finder what result to reach and 
+constituted legal conclusion testimony in violation of Vliet.   
+Therefore, on this basis also, the district court erred by 
+                     
+30  As recognized by the concurrence and dissent, Vliet  also found 
+impermissible the officer’s testimony that the defendant “did poorly, he 
+would be driving poorly too[.]”   91 Hawai ʻi at 298, 983 P.2d at 199.  Vliet  
+indicated that the officer’s testimony that he believed the defendant was not 
+able to operate his vehicle safely that night was improper.  Id.  ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+46 
+ permitting Officer Wong to testify as an 
+expert that Jones had a 
+blood alcohol level above 0 .08.   
+D. Prospe ctively, police officers may no longer testify,  
+ whether in a lay or expert capacity, that a driver  
+ appeared “intoxicated”  
+ 
+ In this case, Officer Wong testified as an expert witness, 
+and the issues raise
+d by Jones on certiorari relate to Officer 
+Wong’s expert testimony.  The ICA ruled, however, that Officer 
+Wong’s testimony was in any event admissible as lay opinion 
+testimony as an officer may describe the results of the SFSTs 
+and offer a lay opinion about the defendant’s sobriety from 
+those results.  
+Jones, SDO at 9 (citing Toyomura, 80 Hawai ʻi at 
+26, 904 P.2d at 911).   
+ To the extent the ICA stated that an officer’ s lay opinion 
+testimony can be based on SFST results , this conclusion was 
+erroneous under existing law.  As Chief Judge Burns stated in 
+Bebb,  
+In Toyomura , the Hawaiʻ i Supreme Court concluded that a 
+police officer, based on [their] “lay” observations, can 
+have a “lay” opinion that an arrestee is not sober. It also 
+says, however, that a police officer cannot base [their] 
+“lay” opinion that an arrestee is not sober on [their] 
+“assessment of the results of the FSTs. ”  
+ 
+99 Hawai ʻi at 217
+, 53 P.3d at 1202 (citing Toyomura, 80 Hawai ʻi 
+at 26, 904 P.2d at 911).    
+ Under HRE Rule 701, a lay opinion must be “rationally based 
+on the perception of the witness[ .]”  As recognized in Nishi, 
+which we adopted in Toyomura , an officer’s opinion that a driver ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+47 (continued. . .)  
+ was intoxicated based upon SFST performance would necessarily 
+rely on that officer’s knowledge of SFSTs and would not be based 
+solely on the officer’s perception.  See 9 Haw. App. at 523, 852 
+P.2d at 480 (“A normal pers on may not necessarily form such an 
+opinion if [they] had not been taught to grade the performance 
+of the three field sobriety tests[, and thus] this was a 
+situation where foundational evidence as to [the arresting 
+officer’s] knowledge of HPD's field sobri ety testing procedures 
+was necessary.”).  Thus, as recognized in  Bebb, Toyomura , which 
+adopted Nishi, ruled that although an officer performing a SFST 
+may be able to testify as to what would constitute lay 
+observations, such as the general physical condition or 
+coordination of a driver, an officer’s opinion regarding a 
+driver’s level of intoxication cannot be based on the driver’s 
+SFST results.   
+ Thus, under existing law, a police officer cannot provide a 
+lay opinion that a driver was “intoxicated”  or with  respect to 
+the driver’s state of sobriety if the testimony is based on the 
+results of the 
+driver’s SFST performance.31  Our existing law 
+                     
+31  Thus, the dissent misstates that law when it states that:   
+ 
+ Toyomura also recognized that a lay witness, 
+including an officer testifying as such, can form an 
+opinion as to whether someone they observed is intoxicated  
+based on information besides the SFSTs, and Hawaiʻi courts 
+have long followed this rule.  Toyomura, 80  Hawaiʻi at 25-27, 
+904 P.2d at 910- 12 (“[A]ny lay person, incl uding a police 
+officer, can have an opinion regarding sobriety.” (ellipsis,  ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+48 states that an officer can, however, offer expert opinion 
+testimony that a driver was “intoxicated”  assuming sufficient 
+foundation, and an officer can offer lay opinion testimony that 
+a driver was “intoxicated”  if that testimony is based on general 
+observations regarding a dri ver’s coordination.   Toyomura , 80 
+Hawaiʻi at 25-26, 904 P.2d at 910 —11.  
+We now prospectively hold that police officers may no 
+longer testify, whether in a lay or expert capacity, that a 
+driver appeared “ intoxicated .”32
+(continued. . .)  
+citation, and inter nal quotation marks omitted)); see also  
+State v. Bebb, 99 Hawai ʻi 213, 217 , 53 P.3d 1198, 1202 (App. 
+2001) (recognizing that “ a police officer, based on his or 
+her ‘lay’ observations, can have a ‘lay’ opinion that an 
+arrestee is not sober ” (citation omitted)).  
+(Alteration in original.) (Footnote omitted.)  
+32As we explain, our prospective holding is based on HRE Rule 704.  
+Although not necessary to our holding, we also note that lay opinion 
+testimony from an officer conducting a SFST from whom expert testimony is 
+sought raises additional concerns recognized in State v. Torres, 122 Hawaiʻi 2, 
+222 P.3d 409 (App. 2009):  
+When enacted in 1980, HRE Rules 701 and 702 were 
+modeled upon and were virtually identical to the 
+corresponding Federal Rules of Evidnce (FRE) Rules 701 and 
+702. See Commentary to HRE Rule 701 and HRE Rule 702.  In 
+2000, FRE Rule 701 was amended to specifically provide that , 
+lay opinions coul d “not [be] base d on scientific, technical 
+or other specialized knowledge within
+ the scope of
+[FRE] Rule 702.”  The Advisory Committee Notes to the 2000
+amendment to FRE Rule 701 explain that the purpose of the 
+amendment was to “eliminate the  risk that the reliability 
+requirements set forth in Rule 702 will be evaded through
+the simple expedient of proffering  an expert in lay witness
+clothing.”   FRE Rule 701 advisory committee’ s note.  The
+2000 amendment to FRE Rule 701 also ensures that a party
+will not evade rules requiring pre -trial disclosure of
+expert witnesses by “simply calling an expert witness in
+the guise of a layperson.”   Id.  The 2000 amendment to
+(continued. . .)  ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+49 (continued. . .)  (continued. . .)  
+FRE 701 incorporates the distinction set forth in  State v. 
+Brown, 836 S.W.2d 530, 549 (Tenn.  1992), that “lay 
+testimony ‘results f rom a process of reasoning familiar in 
+everyday life,’ while expert testimony ‘results from a 
+process of reasoning which can be mastered only by 
+specialists in the field.’”  FRE Rule 701 advisory 
+committee’ s note. 
+Although Hawaiʻ i has not amended HRE Rule  701 to 
+incorporate the 2000 amendment to FRE Rule 701, the Hawai ʻi 
+Supreme Court has implicitly recognized the limitation on 
+lay opinion testimony set forth in the 2000 amendment to 
+FRE Rule 701.  
+ In cases upholding the admission of opinion 
+testimony as lay opinion, the supreme court justified its 
+decisions by noting that the challenged testimony  did not 
+require “scientific, technical, or other specialized 
+knowledge” within the scope of HRE Rule 702.   Jenkins,  93 
+Hawaiʻi at 105, 997 P.2d at 31 (“Jenkins do es not suggest, 
+nor does the record reflect, that testimony regarding 
+whether the pouches qualified as rigidly constructed 
+containers or commercial gun cases required ‘scientific, 
+technical, or other specialized knowledge,’ such that 
+expert testimony would  have been required pursuant to  
+HRE Rule 702 (1993).”);  Yoneda v. Tom,  110 Hawai ʻi 367, 385, 
+133 P.3d 796, 814 (2006) (“Yoneda’ s testimony as to the 
+events leading up to the accident and his observations 
+regarding the location of the restroom building and  the 
+route of the cart path did not require ‘scientific, 
+technical, or other specialized knowledge’ such that expert 
+testimony would have been required pursuant to  
+HRE Rule 702[.]”).  
+122 Hawaiʻ i at 29–30, 222 P.3d at 436 –37, aff’d and corrected  on other grounds  
+by State v. Torres , 125 Hawaiʻ i 382, 2 62 P.3d 1006  (2011) (alterations in 
+original).   Thus, pursuant to Torres, for opinion testimony from officers 
+regarding their evaluation of a driver’ s performance on SFSTs to be 
+admissible, they must be properly identified as expert witnesses.  Federal 
+courts also recognize an additional concern with “proffering an expert in lay 
+witness clothing.”  As stated by the Tenth Circuit Court of Appeals:  
+We recognize that witnesses who testify in both a lay 
+capacity and an expert capacity may present special risks 
+at trial.  The “aura of special reliability and 
+trustworthiness surrounding expert testimony,” may give the 
+witness “unmerited credibility” and “ create[] a risk of 
+prejudice ‘because the jury may infer that the agent’s 
+opinion about the criminal nature of the defendant’s  
+activity is based on knowledge of the defendant  beyond the 
+evidence at trial.’ ”  United States v. Dukagjini
+, 326 F.3d 
+45, 53–54 (2d Cir. 2003) (citations omitted).   In light of 
+this concern, some circuits have encouraged district courts 
+to take precautionary measures, including warning the jury 
+about the witness’s dual roles or bifurcating the 
+questioning to clearly demarcate lay and expert testimony ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+50 As discussed in Section IV.C
+. above, an officer cannot  
+express an opinion, whether in a 
+lay or expert capacity, that  
+simply tells a factfinder what result to reach or that provides  
+a legal conclusion.  As discussed, Vliet held that although  
+HRE Rule 704 provides that “[t]estimony in the form of an 
+opinion or inference otherwise admissible is not objectionable 
+because it embraces an ultimate issue to be decided by the trier 
+of fact[,]” “questions which would merely allow the witness to 
+tell the [fact- finder] what result to reach are not permitted. ” 
+91 Hawai’ i at 296 , 983 P.2d at 197.
+  Vliet also held that 
+[HRE Rule 704] is not intended “to allow a witness to give legal 
+conclusions.
+”  91 Hawaiʻ i at 296 –97, 983 P.2d at 197 –98; see also 
+State v. Pinero, 70 Haw. 509, 520 -21, 778 P.2d 704, 712 (1980) 
+(holding conclusory questions with answers that told jury what 
+result to reach improper under HRE Rule 704).  
+On these bases, Vliet thus found impermissible an officer's 
+testimony that a defendant’s state of sobriety “ would have been 
+(continued. . .)  
+offered by the same witness, to protect against these 
+dangers.  See, e.g., United States v. Rios, 830 F.3d 403, 
+414–15 (6th Cir. 2016), cert. petition filed, No. 16- 7314 
+(Dec. 27, 2016); United States v. Moralez, 808 F.3d 362, 
+365–67 (8th Cir. 2015); United States v. Haines, 803 F.3d 
+713, 730 –32 (5th Cir. 2015); United States v. Vera, 770 
+F.3d 1232 , 1242–43 (9th Cir. 2014); United States v. Garcia ,
+752 F.3d 382, 392 (4th Cir. 2014); United States v. Tucker,
+714 F.3d 1006, 1016 (7th Cir. 2013); United States v.
+Flores-De-Jesus, 569 F.3d 8, 21 (1st Cir. 2009); Dukagjini,
+326 F.3d at 53 –56.
+United States v. Sandoval , 680 F. App’x 713, 718 –19 (10th Cir. 2017).  As 
+noted, however, our prospective holding is based on HRE Rule 704.  ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+51 over the legal limit.”  91 Hawai ʻi at 296–
+97, 983 P.2d at 197 –98. 
+Vliet also found impermissible the officer’s testimony that the 
+defendant “did poorly, he would be driving poorly too”  and that 
+he believed the defendant was not able to operate his vehicle 
+safely that night.  91 Hawaiʻ i at 298, 983 P.2d at 199.  The 
+dissent concedes that, pursuant to Vl iet, testimony that the 
+driver “would be driving poorly” and was “over the legal limit”  
+reflect improper legal conclusions.  The dissent disagrees, 
+however, that an officer’ s testimony that a driver was 
+“intoxicated,”  whether given in a lay or expert capacity, tells 
+the factfinder what result to reach, and invades the province of 
+the factfinder.  
+There is no real qualitative distinction between the 
+testimony found i mproper in Vliet  and our other caselaw, however, 
+with testimony that a driver was “ intoxicated. ”  As recently 
+reaffirmed in State v. Ikimaka, No. SCWC -16-0000003, 2020 WL 
+3056494 (Haw. June 9, 2020):  
+Officer Hsu’s testimony on Ikimaka’s intent and knowledge 
+was [] impermissible because it expressed a legal 
+conclusion as to Ikimaka’s state of mind.   See State v.  
+Vliet, 91 Hawai ʻi 288, 296 -97, 983 P.2d 189, 197 -98 (1999). 
+While HRE Rule 704 (1980) permits testimony “embrac[ing] an 
+ultimate issue to be decided by the trier of fact,” it “does not allow ‘the admission of opinions which would 
+merely tell the jury what result to reach[.]’ ”  State v. 
+Batangan
+, 71 Haw. 552, 559,  799 P.2d 48, 52 (1990) (quoting 
+HRE Rule 704 cmt.);  see also  State v. Ryan
+, 112 Hawai ʻi 136, 
+141, 144 P.3d 584, 589 (App. 2006) (holding an officer’s 
+opinion testimony that the complaining witness was truthful  
+impermissibly invaded the province of the jury  to determine  
+the facts).   “Nor is [HRE Rule 704] intended to allow a ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+52 (continued. . .)  witness to give legal conclusions.”   Vliet, 91 Hawaiʻ i at
+296-97, 983 P.2d at 197 -98. 
+No. SCWC-16-0000003, at 33 (alterations in original). 
+Allowing an officer to testify that a driver was 
+“intoxicated” likewise expresses a legal conclusion and invades 
+the province of the factfinder.  Webster’s Third International 
+Dictionary defines “intoxicated” as “being under the marked 
+influence of an intoxicant: DRUNK, INEBRIATED.”  An office r’s 
+testimony that a driver was “intoxicated,”  whether given in a 
+lay or expert capacity, invades the province of the factfinder 
+to determine whether a person drove “[w]hile under the influence 
+of alcohol in an amount sufficient to impair the person’s normal 
+mental faculties or ability to care for the person and guard 
+against casualty[,] ” HRS § 293E-61(a)(1), and is tantamount to a 
+legal conclusion that they did.  Accordingly, testimony  that a 
+driver was “intoxicated ” violates HRE Rule 704.33
+33We also observe that the definition of the term “intoxicated” appears 
+to be evolving, and that the term can mean different things to different 
+people.  As noted, the 1966 Webster’s Third International Dictionary defines 
+“intoxicated” as “being under the marked inf luence of an intoxicant: DRUNK, 
+INEBRIATED.”  The 1988 Webster’s Ninth Collegiate Dictionary defines the term 
+as “affected by [] alcohol[.]”  The 2019 Black’s Law Dictionary defines the 
+term as “[h]aving the brain affected by the presence in the body of a drug or 
+alcohol.  — Also termed inebriated.”  Intoxicated, Black’s Law Dictionary  
+(11th ed. 2019).  In addition, we have cited other legal definitions of 
+“intoxication” above.  
+Jones was charged with driving “[w] hile under the influence of alcohol 
+in an amount sufficient to impair [his] normal mental faculties or ability to 
+care for [himself]  and guard against casualty” under HRS § 291E -61(a)(1).  He 
+was not charged with driving under the influence of other intoxicants.  Yet, 
+a person can appear “intoxicated” even if under the influence of other 
+substances.  Thus, admission of testimony from a police officer, whether in a 
+lay or expert capacity, that a person was “intoxicated,” raises significant 
+HRE Rule 403 concerns based on “unfair prejudice, confusion o f the issues, or ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+53 
+  We therefore prospectively hold that for trials occurring 
+after the date of this opinion, police officers may no longer 
+testify, whether in a lay or expert capacity, that a driver 
+appeared “intoxicated.”34   
+E. Jones ’s conviction was supported by substantial evidence 
+ Finally, Jones alleges there was not substantial evidence 
+to support his conviction.  Citing Bebb, Jones asserts the 
+evidence was insufficient to support his conviction because 
+besides the results of the S FSTs - which he challenges -  the 
+other evidence supporting guilt was “subjective. ”  Moreover, he 
+claims that “[n]o evidence was proffered as to the correlation 
+between red, watery eyes and intoxication, or whether such 
+indicia rise to the level of substantial evidence of alcohol 
+consumption in an amount sufficient to impair a person ’s normal 
+mental faculties[.] ”  
+ We review the sufficiency of the evidence supporting a 
+criminal conviction in the light most favorable to the State.  
+                                                                 
+(continued. . .)  
+misleading the jury [or factfinder judge]” as to what “intoxicated” means.  
+See HRE Rule 403 (“Although relevant, evidence may be excluded if its 
+probative value is substantially outweighed by the danger of unfair prejudice, 
+confusion of the issues, or misleading the jury, or by considerations of 
+undue delay, waste of time, or needless presentation of cumulative 
+evidence.”).  In addition, such opinion testimony, whether offered in a lay 
+or expert capacity, also may be needless and cumulative when, for example, 
+the officer is able to testify as to the driver’s physical actions, conduct, 
+and appearance or when a video  of the SFSTs  exists. 
+ 
+34  This is a “new rule” that changes standards upon which courts and law 
+enforcement have relied.  Therefore, we give it purely prospective effect.  
+See Lewi v. State, 145 Hawaiʻ i 333, 349 n.21, 452 P.3d 330, 346 n.21 (2019).  ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+54 
+  Kalaola, 124 
+Hawaiʻi at 49, 237 P.3d at 1115.  “‘Substantial 
+evidence’ as to every material element of the offense charged is 
+credible evidence which is of sufficient quality and probative 
+value to enable a person of reasonable caution to support a 
+conclusion.
+”  Id.    
+ Jones argues that substantial evidence was lacking that he 
+was “under the influence of alcohol in an amount sufficient to 
+impair [his] normal mental faculties. ”  HRS § 291E-61(a)(1).  
+ As indicated by the ICA, Jones ’s conviction was supported 
+by “Officer Wong ’s observations of Jones ’s operation of his car, 
+the strong odor of alcohol coming from Jones ’s breath, Jones ’s 
+red and bloodshot eyes, Jones ’s fumbling with his driver ’s 
+license, and Jones ’s dropping his license in his lap[.] ”  In 
+addition, we have held that Officer Wong ’s expert opinion 
+testimony as to clues of intoxication based on Jones ’s 
+performance on the SFST s was properly admitted.  Thus, 
+substantial evidence supported Jones ’s conviction.  
+V.  Conclusion 
+ Based on these reasons, we vacate the ICA ’s July 15, 2019 
+judgment on appeal and the district court ’s March 22, 2016  
+judgment of conviction, and we remand this matter to the  
+ ***   FOR PUBLICATION IN W EST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER   *** 
+ 
+55 
+ district court for further proceedings consistent with this 
+opinion. 
+Michael S. Zola,
+for petitioner
+   
+  /s/ Sabrina S. McKenna 
+ 
+ /s/ R
+  
+ /s/ M 
+ 
+  
+ ichard W. Pollack 
+   
+ichael D. Wilson 
+  
+  
+Sonja P. McCullen,
+for respondent  
+ 

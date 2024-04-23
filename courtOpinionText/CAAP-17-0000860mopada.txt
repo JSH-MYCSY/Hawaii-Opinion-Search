@@ -1,0 +1,595 @@
+ NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+NO. CAAP-17-0000860 
+IN THE INTERMEDIATE COURT OF APPEALS 
+OF THE STATE OF HAWAI# I 
+ARTHUR GORDON SMITH, CHARLOTTE SMITH JENKINS,
+AND ALEXANDER GRAVES SMITH,
+P
+laintiffs-Appellees/Cross-Appellants
+v. 
+PETER J. LENHART AND GAIL TAKEUCHI,
+Defendants-Appellants/Cross-Appellees 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT 
+(CIVIL NO. 15-1-0179) 
+MEMORANDUM OPINION 
+(By: Ginoza, Chief Judge, Leonard and McCullen, JJ.) 
+This case arises from an action to collect a debt owed 
+under a promissory note. Defendants-Appellants/Cross-Appellees 
+Peter J. Lenhart (
+Lenhart) and Gail Takeuchi (collectively,
+Defendants) appeal from the "Amended Final Judgment" entered on 
+November 6, 2017, by the Circuit Court of the First Circuit 
+(Circuit Court).1 Defendants also challenge the following orders 
+by the Circuit Court: (1) "Order Granting Plaintiffs' Motion for Partial Summary Judgment on Defendants' Affirmative Defense Under HRS Chapter 478" entered on March 28, 2017; (2) "Order Denying Defendant's Oral Motion for Judgment as a Matter of Law" entered on June 6, 2017; (3) "Order Denying Defendants' Second Oral Motion for Judgment as a Matter of Law" entered on June 6, 2017; and (4) "Order Granting in Part Defendants' Renewed Motion for Judgment as a Matter of Law, to Vacate the Judgment and for New Trial" entered on July 25, 2017. 
+1 The Honorable Gary W.B. Chang presided.  NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+To facilitate the purchase of a residence on Round Top 
+Drive, Defendants agreed to a promissory note in the amount of 
+$1,075,000 in favor of the seller, with a simple interest rate of 7.5% per annum, and also executed a related second mortgage. Defendants were unable to repay the note by the maturity date and the parties executed a loan modification agreement extending the maturity date and also changing the interest calculation from a simple rate to compound interest, i.e., interest on interest. 
+Defendants subsequently asserted the compound interest under the loan modification agreement was usurious, refused to recalculate interest back to the simple rate of 7.5%, and refused to pay any further interest on the note. Defendants proposed satisfying the remaining balance due under the note in the amount of $398,472. After Defendants paid $398,472 to Plaintiffs-Appellees/Cross-Appellants Arthur Gordon Smith (Arthur Smith), Charlotte Smith 
+Jenkins, and Alexander Graves Smith (collectively, Plaintiffs), 
+the parties disputed whether Defendants owed additional monies. 
+Plaintiffs brought this action for breach of contract. 
+On appeal, Defendants contend the Circuit Court erred 
+in: (1) concluding that Plaintiffs held a promissory note secured by a "purchase-money junior mortgage lien" and that the note fell within the exemptions from usury set forth in Hawaii Revised Statutes (HRS) § 478-8; (2) evidentiary rulings during cross-
+examination of Arthur Smith; and (3) denying Defendants' oral 
+motions for judgment as a matter of law during the jury trial and denying Defendants' post-trial motion for judgment as a matter of law and for new trial. 
+Plaintiffs also cross-appeal from the Amended Final 
+Judgment, and challenge the "Minute Order" dated June 29, 2017, and the "Order Granting in Part and Denying in Part Plaintiffs' Motion for Attorneys' Fees and Taxation of Costs" entered by the Circuit Court on July 25, 2017. On cross-appeal, Plaintiffs contend the Circuit Court erred by: (1) denying Plaintiffs' request to add prejudgment interest; (2) declining to make a determination that Defendants' affirmative defenses were frivolous pursuant to HRS § 607-14.5 and limiting Plaintiffs' 
+2  NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+attorneys' fees to 25% of the judgment, and alternatively, 
+striking the jury's award of attorneys' fees from the Special Verdict Form; and (3) excluding expert fees from Plaintiffs' taxation of costs. 
+We resolve Defendants' appeal and Plaintiffs' cross-
+appeal as follows and affirm.
+I. Background
+A.  Relevant Factual Background 
+On September 14, 2007, the sale of property located at 
+4001 Round Top Drive (Round Top) closed between Defendants, as 
+buyers, and Plaintiffs as Co-Trustees of the Revocable Trust 
+Agreement of Mary Alexander Smith (the Trust), as sellers. The 
+purchase price for Round Top was $1,875,000. In connection with 
+the purchase, Defendants executed a note and first mortgage on Round Top in favor of Pacific Rim Bank for $785,000. Defendants used a portion of their cash deposit in escrow and the loan proceeds of $785,000 from Pacific Rim Bank to pay the Trust $800,000 at closing. Defendants also executed a promissory note (the Subject Note) in favor of the Trust for the remaining 
+portion of the purchase price ($1,075,000) and executed a 
+purchase money mortgage on Round Top, also dated September 14, 2007, in favor of the Trust. The purchase money mortgage to the Trust was second in lien priority to the first mortgage to Pacific Rim Bank. 
+The Subject Note provided for "interest on the unpaid 
+principal balance from the date of this Note, until paid, at the rate of seven and one-half percent (7.5%) per annum." The Subject Note was secured by two mortgages. The first mortgage covered two properties, the purchase money mortgage on Round Top in favor of the Trust and a mortgage lien on Defendants' Kailua property located at 1005-J Kailua Road (Kailua Property). The 
+second mortgage was an accommodation mortgage on 1100 Alakea 
+Street, Suite #200 (Alakea Mortgage), commercial property 
+Defendants owned through their limited liability company, Alakea 
+Properties, LLC. 
+3  
+ NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+The Subject Note matured on September 13, 2008, and 
+provided for a six month extension to March 13, 2009, if 
+Defendants made a timely extension. By the terms of the Subject Note, Defendants would apply the proceeds from any sale of the Kailua Property and/or the Alakea property against the balance due on the Subject Note. Defendants were unable to sell their properties and timely exercised the six month extension for payment of the Subject Note. 
+On February 20, 2009, the Trust assigned the Subject 
+Note and Alakea Mortgage to the individual Plaintiffs. The parties also entered into negotiations and on June 30, 2009, agreed to a "Release, Loan Modification and Extension Agreement" (Loan Modification Agreement), which contained, inter alia, a 
+further extension of the maturity date from March 13, 2009, to 
+September 13, 2010. The Loan Modification Agreement also appeared to modify the interest calculation from the simple interest rate of 7.5% under the Subject Note to provide for compound interest. The Loan Modification Agreement provided, in relevant part: 
+(2) Interest shall accrue monthly at the existing rate. 
+(3) Borrowers shall pay Lender $1,500 monthly, beginning
+July 1, 2009, toward accrued interest. The balance ofinterest shall accrue and be added to the principal amount
+owing under the Note. 
+(Emphasis added.) After the parties executed the Loan 
+Modification Agreement, Arthur Smith sent Defendants a spread-
+sheet every month showing the calculation of the monthly compound interest. Defendants were unable to make full payment by the September 13, 2010 extension date. 
+On July 15, 2011, Defendants sold their Kailua Property 
+and all surplus proceeds in the amount of $676,529.04 were paid out of escrow to Plaintiffs towards the principal balance of the Subject Note. The Kailua Property was released from one of the mortgages securing the Subject Note through a "Partial Release of Mortgage" dated July 7, 2011. 
+Once Lenhart discovered the Loan Modification Agreement 
+called for compounding interest he believed was unlawful, Lenhart 
+4 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+asserted that Defendants would not agree to pay any of the 
+accruing or accrued compound interest and denied Plaintiffs' attempts to recalculate interest based on the Subject Note's simple interest rate of 7.5%. Subsequent to July 15, 2011, Lenhart proposed that Defendants would agree to pay $398,471 as full satisfaction of the Subject Note.
+2 
+In approximately October 2011, Defendants applied for a 
+loan refinance with Bank of Hawai# i with respect to Round Top, 
+which was encumbered by the mortgage in favor of Pacific Rim Bank and the mortgage in favor of the Trust. 
+As part of the loan 
+refinancing for Round Top, the parties agreed to release the mortgage in favor of the Trust via a "Release of Mortgage" (Round 
+Top Release) executed on May 18, 2012, in exchange for 
+Defendants' payment to Plaintiffs of $398,471. 
+After the Round Top Release and Defendants' payment to 
+Plaintiffs of $398,471, Defendants made no further payments to 
+Plaintiffs and the parties disputed whether Defendants owed additional monies to Plaintiffs under the terms of the Subject Note and Loan Modification Agreement, including what interest was due and owing. 
+B. Relevant Procedural Background 
+On February 3, 2015, Plaintiffs filed the Complaint in 
+this case against Defendants alleging, inter alia
+, that 
+Defendants owed $223,156.74 for the remaining principal due under the Subject Note and $42,273.70, in accrued interest from May 23, 2012, through December 1, 2014, under the Subject Note's simple interest rate. 
+On January 20, 2017, Plaintiffs filed a "Motion for 
+Partial Summary Judgment on Defendants' Affirmative Defense Under HRS Chapter 478" (Plaintiffs' Motion for Partial Summary
+Judgment). On February 2, 2017, Defendants filed their 
+2 After the parties executed the Loan Modification Agreement,
+Defendants made monthly payments of $1,500 to Plaintiffs from about July 2009
+through April 2012 towards the accruing interest. Because Defendants refused to pay any accruing or accrued compound interest under the terms of the LoanModification Agreement and denied recalculation of the interest based on theSubject Note's simple interest rate, Defendants asserted $398,471 was theremaining principal balance due under the Subject Note. 
+5  NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+opposition. After two hearings on Plaintiffs' Motion for Partial 
+Summary Judgment, the Circuit Court entered its "Order Granting [Plaintiffs' Motion for Partial Summary Judgment]" on March 28, 2017, concluding, 
+Defendants' defenses and claims, if any, for usury interest
+and/or compound interest based upon [HRS] Chapter 478 . . .are not applicable to this case because the interest in thiscase accrued on indebtedness that was secured by a purchase-money junior mortgage on real property that was agreed toand incurred after June 18, 1982. 
+The case proceeded to jury trial. During trial, the 
+Circuit Court denied Defendants' oral motion for judgment as a 
+matter of law made at the close of Plaintiffs' case in chief, and Defendants' renewed oral motion for judgment as a matter of law made at the end of Defendants' case. On March 31, 2017, the jury returned a Special Verdict in favor of Plaintiffs. The jury found, inter alia, that by signing the Round Top Release, Plaintiffs did not give up their rights to claim additional monies and Defendants owed Plaintiffs "$234,317.73 + Atty fees fr. 5/23/12 to 3/31/17." 
+On May 11, 2017, Defendants filed their "Renewed Motion 
+for Judgment as a Matter of Law, To Vacate the Judgment and for New Trial" (5/11/17 JMOL).  On July 25, 2017, the Circuit Court 
+entered an "Order Granting in Part Defendants' [5/11/17 JMOL]" 
+which granted Defendants' request to strike the jury's award of attorneys' fees. 
+II. Standards of Review 
+A. Summary Judgment 
+The appellate courts review a circuit court's grant or 
+denial of summary judgment de novo. Anastasi v. Fid. Nat'l Title 
+Ins. Co., 137 Hawai# i 104, 112, 366 P.3d 160, 168 (2016). It is 
+well settled that: 
+Summary judgment is appropriate if the pleadings,
+depositions, answers to interrogatories, and admissions onfile, together, with the affidavits, if any, show that thereis no genuine issue as to any material fact and that themoving party is entitled to judgment as a matter of law. Afact is material if proof of that fact would have the effectof establishing or refuting one of the essential elements ofa cause of action or defense asserted by the parties. Theevidence must be viewed in the light most favorable to thenon-moving party. In other words, we must view all of the 
+6  NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+evidence and the inferences drawn therefrom, in the light
+most favorable to the party opposing the motion. 
+Id. (brackets and citations omitted).
+B. Statutory Interpretation 
+Questions of statutory interpretation are questions of 
+law to be reviewed de novo under the right/wrong standard. 
+Nakamoto v. Kawauchi, 142 Hawai# i 259, 268, 418 P.3d 600, 609 
+(2018). 
+Our statutory construction is guided by the following well
+established principles: 
+our foremost obligation is to ascertain and giveeffect to the intention of the legislature, which isto be obtained primarily from the language containedin the statute itself. And we must read statutorylanguage in the context of the entire statute andconstrue it in a manner consistent with its purpose. 
+When there is doubt, doubleness of meaning, or
+indistinctiveness or uncertainty of an expression usedin a statute, an ambiguity exists. 
+In construing an ambiguous statute, the meaning of the
+ambiguous words may be sought by examining thecontext, with which the ambiguous words, phrases, andsentences may be compared, in order to ascertain theirtrue meaning. Moreover, the courts may resort toextrinsic aids in determining legislative intent. Oneavenue is the use of legislative history as aninterpretive tool. 
+The appellate court may also consider the reason and
+spirit of the law, and the cause which induced thelegislature to enact it to discover its true meaning. 
+Id. (quoting Lingle v. Hawai# i Gov't Employees Ass'n, AFSCME, 
+Local 152, 107 Hawai# i 178, 183, 111 P.3d 587, 592 (2005)).
+C. Evidentiary Rulings 
+[D]ifferent standards of review must be applied to trialcourt decisions regarding the admissibility of evidence,depending on the requirements of the particular rule ofevidence at issue. When application of a particularevidentiary rule can yield only one correct result, theproper standard for appellate review is the right/wrongstandard. However, the traditional abuse of discretionstandard should be applied in the case of those rules ofevidence that require a "judgment call" on the part of thetrial court. 
+Kealoha v. Cty. of Hawai# i, 74 Haw. 308, 319-20, 844 P.2d 670, 
+676 (1993). 
+7 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+D. Judgment as a Matter of Law 
+A trial court's ruling on a motion for judgment as a matter
+of law is reviewed de novo. A motion for judgment as a
+matter of law may be granted only when after disregarding
+conflicting evidence, giving to the non-moving party'sevidence all the value to which it is legally entitled, andindulging every legitimate inference which may be drawn fromthe evidence in the non-moving party's favor, it can be saidthat there is no evidence to support a jury verdict in hisor her favor. 
+Calipjo v. Purdy, 144 Hawai# i 266, 276, 439 P.3d 218, 228 (2019) 
+(internal quotation marks, brackets and citation omitted).
+III. Discussion 
+A.  Defendants' Appeal
+1. The Circuit Court Did Not Err in Concluding theSubject Note Fell Within an Exemption from Usury 
+On appeal, Defendants contend that the Circuit Court 
+erred in concluding that the Subject Note fell within an 
+exemption from usury pursuant to HRS § 478-8(b)(3), and therefore the Circuit Court erred in granting Plaintiffs' Motion for Partial Summary Judgment. 
+The Circuit Court did not determine whether the Loan 
+Modification Agreement in fact contained a usurious and/or compound interest provision.
+3 Instead, although the parties 
+disputed the merits of Defendants' potential defenses and claims based on HRS Chapter 478, the Circuit Court determined that regardless of the merits of the potential defenses and claims, the exemption under HRS § 478(b)(3) applied. 
+HRS § 478-8 (2008) provides, in relevant part,
+§478-8 Exemptions from usury.
+. . . . 
+(b)
+ The provisions of this chapter (except for this section
+and section 478-3) shall not apply to any: 
+3 The Hawai #i Supreme Court has explained that a transaction is tainted
+by usury when five elements are present: 
+(1) money or its equivalent as the subject matter; (2) a
+loan or forbearance, either express or implied; (3) anunderstanding that the principal is absolutely repayable;(4) the exaction of interest in excess of that allowed bylaw; and (5) an intent to engage in a transaction thatcarries a rate of interest disallowed by law. 
+Silver v. George, 64 Haw. 503, 513-14, 644 P.2d 955, 958 (1982). 
+8 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+. . . 
+(3)
+ Indebtedness that is secured by a purchase-money junior
+mortgage lien on real property that is agreed to and
+incurred after June 18, 1982; provided that purchase-moneyjunior mortgage lien means a mortgage that is subordinate inlien priority to an existing mortgage on the same realproperty that is given to the seller as part of the buyer'sconsideration for the purchase of real property anddelivered at the same time that the real property istransferred as a simultaneous part of the transaction[.] 
+Defendants contend the Circuit Court erred because: (1) 
+the Subject Note was not secured by a purchase-money junior 
+mortgage (PMJM) as defined by HRS § 478-8(b)(3); (2) even if the 
+Subject Note falls under the exemption, the Loan Modification 
+Agreement does not fall under the exemption; and (3) the Trust, not Plaintiffs were the original holders of the Subject Note and as "strangers to the transaction, [Plaintiffs] cannot claim the [HRS §] 478-8(b)(3) exemption." We disagree. 
+First, Defendants argue that under HRS § 478-8(b)(3), 
+the first mortgage must also be given to the seller as part of the buyer's consideration for the purchase of the property in order for the second mortgage to be considered a PMJM. Thus, because the first mortgage on the property was given to a third-party, in this case Pacific Rim Bank, Defendants contend the situation here does not meet the definition of a PMJM under HRS § 478-8(b)(3). However, Defendants misinterpret the statute and do not provide any authority to support their argument. 
+HRS § 478-8(b)(3) provides that the provisions of HRS 
+Chapter 478 "shall not apply to any . . . [i]ndebtedness that is secured by a purchase-money junior mortgage lien on real property that is agreed to and incurred after June 18, 1982[.]" The rest of the subsection provides the definition of a PMJM which means, "a mortgage that is subordinate in lien priority to an existing mortgage on the same real property that is given to the seller as part of the buyer's consideration for the purchase of real property and delivered at the same time that the real property is transferred as a simultaneous part of the transaction[.]" (emphases added). The language of HRS § 478-8(b)(3) plainly and unambiguously defines a PMJM as a single secondary mortgage given 
+9 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+to the seller. In other words, nothing in the plain language of 
+the statute supports Defendants argument that both the first and second mortgage must be given to the seller as part of the buyer's consideration to purchase the seller's property. 
+Additionally, we agree with Plaintiffs that the plain 
+meaning of the statutory language is silent as to the holder of the first mortgage.  Essentially, Defendants' reading of the 
+statute would create an ambiguity where none exists. In this case, there is no dispute that there was an existing mortgage in favor of Pacific Rim Bank and the subject second mortgage was subordinate in lien priority on the same real property. There is also no dispute that the second mortgage was given to the Trust as part of Defendants' consideration for the purchase of real property, and was delivered at the same time the real property was transferred. 
+Therefore, the subject second mortgage on Round 
+Top falls within the definition of a PMJM under HRS § 478-8(b)(3), and the Subject Note falls under the exemption. 4
+4 Plaintiffs cite the report of the Consumer Protection and Commerce
+Committee on the provision, which states in pertinent part: 
+Your Committee has also amended the bill to exempt two other
+classes of real estate transactions from the general usuryrestriction: (1) interest rates in situations where sellerstake purchase money junior mortgages. . . . Your Committeefeels that these exemptions will provide both sellers andpurchasers of real property more flexibility in financingarrangements. 
+H. Stand. Comm. Rep. No. 779-82, in 1982 House Journal, at 1256. 
+In support of their argument, Plaintiffs also note the Circuit Court's
+explanation of the policy consideration behind the exemption as follows: 
+Sometimes, buyers reach a point in a real estate transaction
+where they qualify for financing some, but not all, of theoutstanding balance of the purchase price. Then, it becomesincumbent upon the buyers to secure alternate sources offinancing, without which the sale would be lost. Chapter 478creates an optional opportunity for the buyers to obtainsupplemental financing directly from the seller in the formof a P-MJM. 
+Section 478-(B)(3) [sic] provides incentive to the noncommercial
+seller, such as Plaintiffs herein, to provide supplementalfinancing options in the form of a P-MJM. The incentive to thesellers is the option to assess higher interest rates or compoundinterest to the buyers, that would otherwise be illegal underChapter 478. 
+10 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Defendants do not provide any other argument that the 
+second mortgage is not a PMJM or that the Subject Note does not 
+fall under the exemption pursuant to HRS § 478-8(b)(3). Rather, Defendants contend that even if the Subject Note falls under the exemption from usury, the Loan Modification Agreement should be considered the crucial document. In this regard, Defendants assert that "[u]nder no circumstances could the original indebtedness, as modified by the Loan Modification agreement, be considered secured by a [PMJM] 'delivered at the same time that the real property is transferred as a simultaneous part of the transaction.'" Defendants also argue that HRS § 478-8(b)(3) requires the indebtedness be secured at the same time the transaction closes and that an after-the-fact modification or transfer of the indebtedness means that the debt no longer falls under the exemption.
+5 
+This argument is without merit. Under the plain and 
+unambiguous language of the statute, while the second mortgage must be given to the seller as part of the buyer's consideration for the purchase of property and delivered at the same time that the real property is transferred to be a PMJM, there is nothing in the statute limiting the modification or transfer of the debt that the PMJM secures. 
+Moreover, contrary to Defendants' interpretation of the 
+statute, HRS § 478-8(b)(3) applies the exemption from usury to any indebtedness secured by a PMJM as long as the PMJM falls under the definition provided in the statute. See HRS § 478-
+8(b)(3) (HRS Chapter 478 "shall not apply to any . . . [i]ndebtedness that is secured by a purchase-money junior mortgage lien on real property" (emphasis added)). Therefore, even if the Loan Modification Agreement is the pertinent document, the parties do not dispute that the second mortgage on 
+5 Defendants acknowledge that "the act of transferring and assigning
+indebtedness from the original seller to a third-party would not in-and-of-
+itself void a [HRS] §478-8(b)(3) exemption[.]" However, Defendantsnevertheless assert that there is nothing in HRS § 478-8 which would allow asubsequent holder of a note secured by a PMJM to amend the note for usuriousor compound interest and argue that HRS § 478-8 should not apply to Plaintiffsbecause they were not the original sellers of the property. 
+11 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Round Top in favor of the Trust secured both the Subject Note and 
+the Loan Modification Agreement. This is because the parties executed the Loan Modification Agreement before the Round Top Release and thus the Loan Modification Agreement remained an indebtedness secured by a PMJM. 
+Defendants also argue that HRS § 478-8(b)(3) does not 
+apply to Plaintiffs because when the Trust assigned the Subject Note, the Trust failed to assign the mortgage securing the Subject Note, i.e., the PMJM, and the third mortgage lien on Defendants' Kailua Property.
+6 In other words, Defendants argue 
+the Trust assigned the Subject Note and specifically assigned the Alakea Mortgage to Plaintiffs but failed to assign the PMJM and thus Plaintiffs were never holders of the PMJM for HRS § 478-8 to apply. 
+Plaintiffs cite, inter alia, S.N. Castle Estate v. 
+Haneberg, 20 Haw. 123 (Haw. Terr. 1910), to support their argument that the assignment of the Subject Note operated as the assignment of both mortgages. See id. at 130 (explaining that 
+"[t]he assignment of the notes . . . operated as a matter of law as an assignment of the mortgage and of the mortgagee's powers under it.") We agree with Plaintiffs that assignment of the Subject Note automatically assigned both mortgages securing the debt. 
+"Under Hawaii law, the security automatically follows 
+the obligation. The party entitled to enforce a promissory note secured by a mortgage may enforce the mortgage regardless of whether the mortgage was separately assigned to that party." In 
+re Tyrell, 528 B.R. 790, 794-95 (Bankr. D. Haw. 2015) (citation omitted); see Bank of Am., N.A. v. Reyes-Toledo, 139 Hawai# i 361, 
+371 n.17, 390 P.3d 1248, 1258 n.17 (2017) (stating "the security follows the debt" (citing HRS § 490:9-203(g) & cmt. 9 (2008) 
+6 On February 20, 2009, the Trust assigned the Subject Note and
+specifically assigned the Alakea Mortgage from the Trust to the individual
+Plaintiffs via the "Assignment of Note and Mortgage" recorded in the LandCourt on March 12, 2009. The Assignment of Note and Mortgage did not mentionthe first mortgage securing the Subject Note which covered the Kailua Propertyand the PMJM on Round Top. 
+12 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+(codifying the common law rule that a transfer of an obligation 
+secured by a security interest or other lien on personal or real property also transfers the security interest or lien))); see also Carpenter v. Longan, 83 U.S. 271, 275 (1872) ("The transfer of the note carries with it the security, without any formal assignment or delivery, or even mention of the latter."); Restatement (Third) of Property (Mortgages) § 5.4 cmt. (1997) ("A transfer in full of the obligation automatically transfers the mortgage as well unless the parties agree that the transferor is to retain the mortgage."). 
+The parties do not dispute that the Trust assigned its 
+interest in the Subject Note to the Plaintiffs. Therefore, the transfer of the Subject Note automatically transferred the PMJM unless the parties to the assignment, i.e., the Trust and the individual Plaintiffs, agreed to transfer the Subject Note and the Alakea Mortgage but not the other mortgages securing the Subject Note. 
+Thus, the Circuit Court did not err in granting 
+Plaintiffs' Motion for Partial Summary Judgment and in concluding that an exemption to usury under HRS § 478-8(b)(3) applied in this case. 
+2. Defendants' challenges to the Circuit Court's
+evidentiary rulings were not asserted below andare thus waived 
+Defendants contend the Circuit Court erred in its 
+evidentiary rulings during Arthur Smith's cross-examination. 
+Specifically, Defendants argue that Arthur Smith's understanding of whether the Round Top Release preserved Plaintiffs' claims was not subject to attorney-client privilege.
+7 In their opening 
+7 The Round Top Release states in pertinent part: 
+THAT ARTHUR GORDON SMITH, CHARLOTTE SMITH JENKINS and
+ALEXANDER GRAVES SMITH, Co-Trustees under that certainunrecorded Revocable Trust Agreement of Mary Alexander Smithdated April 28, 1980, as amended, a Memorandum of which wasrecorded in the Bureau of Conveyances of the state of Hawaiias Document No. 98-092554 (the "Lender"), the owners andholders of the Mortgage hereinafter described, do herebyacknowledge payment of indebtedness secured by said Mortgage
+(continued...) 
+13 7(...continued) 
+ NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+brief, Defendants specifically refer to two exchanges during 
+Arthur Smith's cross-examination by Defendants' counsel on March 23, 2017, where the Circuit Court sustained Plaintiffs' objections based on attorney-client privilege.
+8 
+On appeal, Defendants assert that Arthur Smith's 
+knowledge is not privileged communication because Defendants' counsel sought information about what Arthur Smith "understood" the effect of the Round Top Release to be and did not seek disclosure of what his attorney had told him about the effect of the release. Defendants also contend that Plaintiffs implicitly waived attorney-client privilege regarding the effect of the Round Top Release by suing Defendants thus placing the information at issue. 
+Plaintiffs argue, inter alia, that Defendants relied on 
+other grounds for admissibility at trial and thus failed to 
+and, in consideration thereof, do hereby release and
+discharge from the lien of said Mortgage all of the propertysecured thereunder. 
+8 Defendants cite to the following portions of Defendants' cross-
+examination of Arthur Smith, 
+Q What was your understanding of the purpose of the sideagreement? 
+A My understanding is that it would preserve all further
+rights of both parties. 
+. . . . 
+Q 
+Is your understanding of the release alone at the time it
+didn't preserve all your rights, correct 
+MS. HOLLAND: Objection, attorney-client privilege and legal
+conclusion. 
+THE COURT: Sustained. You can rephrase it if you can. 
+. . . . 
+Q (BY MR. WILSON) Back in 2012 when you received the side
+agreement, did you have an understanding that there would beother ways to preserve your claims after signing the –
+-
+after executing the release of mortgage on Round Top? 
+MS. HOLLAND: Objection, attorney-client privilege. THE COURT: Sustained. 
+14 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+properly preserve their claim of error. We agree with 
+Plaintiffs. 
+"As a general rule, if a party does not raise an 
+argument at trial, that argument will be deemed to have been waived on appeal; this rule applies in both criminal and civil cases." State v. Moses, 102 Hawai# i 449, 456, 77 P.3d 940, 947 
+(2003). "The general rule prohibiting new arguments on appeal prevents appellants from presenting new legal theories as to why they should have prevailed at trial." Id. 
+The record reflects that Defendants presented different 
+grounds of admissibility to the Circuit Court than Defendants now raise on appeal. 
+Specifically, Defendants argued that 
+Plaintiffs' counsel was "essentially an agent, conveying information and getting information back" and thus the communication is not subject to attorney-client privilege. Defendants also argued that Plaintiffs could not assert attorney-client privilege while also relying on "advice of counsel" as a defense to the Circuit Court. 
+Given that Defendants raise new arguments on appeal, 
+this point is deemed waived, and we decline to address it.
+3. The Circuit Court Did Not Err in Denying
+Defendants' Motions for Judgment as a Matter ofLaw 
+Finally, Defendants argue the Circuit Court erred in 
+denying: (1) Defendants' oral motion for judgment as a matter of 
+law on March 24, 2017, after Plaintiffs rested their case; (2) Defendants' renewed oral motion for judgment as a matter of law on March 30, 2017, after Defendants rested their case; and (3) Defendants' 5/11/17 JMOL.
+9 Defendants contend the Circuit Court 
+9 With regard to the Circuit Court's denial of Defendants' 5/11/17
+JMOL, our review of the record shows that the Circuit Court held a hearing on
+June 16, 2017, regarding Defendants' motion. Defendants fail to provide atranscript from the June 16, 2017 hearing. We note that "[t]he burden is uponappellant in an appeal to show error by reference to matters in the record,and he [or she] has the responsibility of providing an adequate transcript."Bettencourt v. Bettencourt, 80 Hawai #i 225, 230, 909 P.2d 553, 558 (1995)
+(citation omitted). We are thus hampered in our review related to the 5/11/17JMOL. However, to the extent that Defendants argue the Circuit Court erred forthe same reasons it erred in denying Defendants' previous motions for judgment
+(continued...) 
+15 9(...continued)NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+erred in denying their motions for judgment as a matter of law 
+because there is no conflicting evidence to refute that the Round Top Release acknowledged payment of the indebtedness. Defendants contend that, because the Round Top Release acknowledged payment of the indebtedness as consideration for the release of mortgage, Plaintiffs waived the right to seek any additional payments. We disagree. 
+On March 24, 2017, after Plaintiffs rested their case, 
+Defendants orally moved the Circuit Court for judgment as a matter of law under Hawai# i Rules of Civil Procedure (HRCP) Rule 
+50.
+10 Here, entry of judgment as a matter of law would have been 
+proper if there was no evidence to support the jury's verdict that Defendants owed Plaintiffs a remaining balance on the Subject Note after Plaintiffs executed the Round Top Release acknowledging payment of indebtedness. Based on our review of the record, there was sufficient evidence to support a verdict that the Round Top Release did not release the full amount owed under the Subject Note. 
+Jeffrey Grad (Grad), a licensed real estate broker and 
+conveyancing attorney testified that he had been a conveyancing 
+as a matter of law, we address Defendants' argument below. 
+10 HRCP Rule 50 provides, in part, 
+(a) Judgment as a Matter of Law. 
+(1) If during a trial by jury a party has been fully
+heard on an issue and there is no legally sufficientevidentiary basis for a reasonable jury to find forthat party on that issue, the court may determine theissue against that party and may grant a motion forjudgment as a matter of law against that party withrespect to a claim or defense that cannot under thecontrolling law be maintained or defeated without afavorable finding on that issue. 
+(2) Motions for judgment as a matter of law may be
+made at any time before submission of the case to thejury. Such a motion shall specify the judgment soughtand the law and the facts on which the moving party isentitled to the judgment. 
+16 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+attorney for over forty years.11 Grad testified that he would 
+consider himself knowledgeable and competent with respect to the 
+custom and practice of drafting releases of mortgages in the State of Hawai# i and that as a conveyancing attorney, he 
+occasionally drafts releases of mortgages. 
+Grad testified generally regarding a release of 
+mortgage and its effect on an underlying promissory note as follows: 
+Q What is a release of mortgage? 
+A Well, it's when the lender is willing to give his rights
+up under a mortgage so he releases it. It's a writtendocument. It's a very short document, maybe two or threeparagraphs, that explains what the -- what the mortgage isthat -- that the lender is going to give a release upon. Andthat release and mortgage after it gets signed by the lenderis then recorded at the Bureau of Conveyances. 
+Q And that release basically erases the mortgage at that
+point. Upon the recordation of the release, the mortgage hasbeen erased? 
+A Yes, it's no longer on the title to the property. That's
+right. 
+Q Now, generally, and I'm not asking about any of the
+documents in this case, but generally, does a release ofmortgage also mean that the underlying promissory note hasbeen paid in full? 
+A Not -- not necessarily. Q And why is that? A Well, a release of mortgage is just as its title
+suggests. It's to release the mortgage, it's not to -- it'snot to release the underlying promissory note or thatindebtedness. 
+(Emphasis added.) 
+Grad testified that if the release of mortgage is also 
+intended to release the underlying promissory note, the language 
+in the release of mortgage "would say either that the payment that had been received was in satisfaction of the note, it was a complete repayment of the note, the whole note was repaid, some 
+11 Grad testified that, "[a] conveyancing attorney is an attorney that
+drafts documents that are involved in the sale or transfer of real estate." 
+Grad also testified that he did not prepare the Round Top Release but Gradprepared the mortgage that covered the Kailua and Round Top properties, theAlakea Mortgage, and the Subject Note in this case. 
+17 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+variation of this idea that -- that the underlying indebtedness 
+had been satisfied in full." Moreover, Grad testified that in the custom and practice in Hawai# i, there would be standard 
+language in a release of mortgage to indicate that an underlying note has been satisfied, he provided examples of the standard language, and testified that the standard language for the satisfaction of the underlying note is not in the Round Top Release as follows: 
+Q (BY MR. BYRNS) Mr. Grad, you testified that in the custom
+and practice in Hawai #i that there would be standard 
+language re -- noted in a release of mortgage to note thatan underlying note has been satisfied. Correct? 
+A Yes. Q What would examples of that standard language be? A Well, it would be that -- that the payments that were
+received by the lender either were the entire indebtednessor they were sufficient to pay off the entire indebtednessor they were the whole indebtedness. Some idea that -- ofthe debt that was outstanding that is being paid off inconnection with this release of mortgage. 
+. . . . 
+Q (BY MR. BYRNS) The examples that you've given, Mr. Grad,of language that would be included to note that anunderlying note had been satisfied by release of mortgage,are any of those examples in [the Round Top Release]? 
+A No. 
+On re-direct examination, Grad testified that a release 
+of mortgage is not a complicated document and that, 
+You're just trying to accomplish two things. One is
+release the mortgage, so you want to make sure that the
+books and pages, the document number, the mortgage iscorrect. But you could say that any way that you can dreamof. 
+And, second, if -- you know, release of mortgage, you
+also want it to be a satisfaction of the un -- underlyingindebtedness. It's pretty simple to say that, well, it'sintended to be, you know, a satisfaction of the entire, thewhole, or all of the indebtedness. It's not -- it's notrocket science. 
+Q So it would be pretty simple to draft a document that was
+-- that clearly stated payment of all indebtedness. 
+A I think even I could do it, yes. 
+Finally, Grad testified that generally, the payee or 
+the lender holds the promissory note during the term of a loan 
+18 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+and once the note is paid off, the note is usually marked "paid 
+in full" and sent back to the borrower. This is so the borrower has assurance that the lender has confirmed that it is paid in full. During trial, Arthur Smith testified that he kept the original copy of the Subject Note, has had it in his possession since 2007, and never stamped the Subject Note paid in full. Arthur Smith also testified that the Subject Note has not been paid in full and he did not return the original copy of the Subject Note to Defendants. 
+Furthermore, Arthur Smith testified that the Subject 
+Note was secured by two mortgages, one mortgage with two properties, Defendants' Kailua Property and Round Top, and another mortgage, the Alakea Mortgage. Arthur Smith testified that one mortgage securing the Subject Note was partially released in 2011, with respect to the Kailua Property, and then the mortgage was released with respect to Round Top in 2012. Arthur Smith testified that there was never a release of the Alakea Mortgage securing the Subject Note. 
+Finally, Arthur Smith testified that when he signed the 
+Round Top Release, he did not agree to release further payments due on the Subject Note and expected to be paid the remaining balance of approximately $227,000. Although Lenhart proposed that Defendants would pay $398,471 as full satisfaction of the Subject Note and refused to pay any accruing or accrued compound interest, Arthur Smith testified that he did not authorize his then attorney, Tina Colman (Colman) to accept $398,471 as full 
+satisfaction of the remaining balance, nor did he agree or sign 
+any document that acceptance of $398,471 was full satisfaction of the Subject Note. 
+From the testimony by Grad and Arthur Smith, there is 
+sufficient evidence from which the jury could have concluded that the Round Top Release did not also indicate the underlying Subject Note had been satisfied. Accordingly, the Circuit Court did not err in denying Defendants' oral motion for judgment as a matter of law. 
+19 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Similarly, there is sufficient evidence from which the 
+jury could have concluded that the Round Top Release did not 
+indicate satisfaction of the Subject Note when Defendants renewed their oral motion for judgment as a matter of law at the close of the Defendants' case on March 30, 2017, and when Defendants filed the 5/11/17 JMOL, after the jury reached a verdict. For example, Lenhart testified during Defendants' case that as a transactional lawyer, he is very familiar with preparing releases including releases of mortgages. Lenhart also testified that when he prepared the Round Top Release, he deleted the specific language regarding "full release" or "fully paid" from the standard release of mortgage form used in his office. 
+Moreover, evidence was introduced during trial that on 
+May 16, 2012, Lenhart emailed Colman stating in part that "[t]he release of the mortgage on Round Top does not state that it is in full satisfaction of the debt obligation. In fact, it is silent on this issue." Lenhart further testified at trial that "in fact the release of mortgage I drafted does not state that it's -- in 
+legal words or on its face that it states full satisfaction or full payment." (emphasis added). 
+Additionally, contrary to Defendants' assertion that 
+"it is undisputed that the proposed side agreement was the vehicle by which Plaintiffs-Appellees could, had they chosen to do so, preserve their claims for additional monies[,]" our review of the record shows that the parties offered conflicting testimony regarding the necessity of the side agreement to preserve Plaintiffs' rights.
+12 Disregarding Defendants' 
+conflicting evidence and giving Plaintiffs' evidence all the value to which it is legally entitled, there is substantial evidence to support the jury's verdict. See Calipjo, 144 Hawai# i 
+at 276, 439 P.3d at 228. Accordingly, the Circuit Court did not 
+12 Arthur Smith testified that the language for a side agreement was
+"important to us in a sense, but it was balanced by the fact that we were not
+releasing the accommodation mortgage on Alakea. So it to our mind was not acomplete release of all monies due." On the other hand, Lenhart testifiedthat without the side agreement, all of Plaintiffs' claims were released bythe language in the Round Top Release. 
+20 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+err in denying Defendants' renewed motions for judgment as a 
+matter of law. 
+B. Plaintiffs' Cross-Appeal 
+The remaining issues are those raised by Plaintiffs' 
+cross-appeal. On cross-appeal, Plaintiffs contend the Circuit Court erred by: (1) concluding that a party who presents a claim for prejudgment interest to a jury cannot subsequently apply to the court for prejudgment interest and denying Plaintiffs' Motion to Amend the Judgment to Add Prejudgment Interest; (2) determining that Defendants' affirmative defenses were not frivolous pursuant to HRS § 607-14.5; (3) granting in part Defendants' 5/11/17 JMOL striking the language in the Special Verdict form that awarded Plaintiffs attorneys' fees from May 2012 to March 2017; (4) not awarding Plaintiffs the full measure of their requested attorneys' fees; and (5) not awarding Plaintiffs the costs for their expert witness.
+1. The Circuit Court Did Not Err in Denying
+Plaintiffs' Request for Prejudgment Interest 
+Plaintiffs contend the Circuit Court erred in denying 
+their Motion to Amend the Judgment to Add Prejudgment Interest 
+filed on May 11, 2017. In denying Plaintiffs' motion, the Circuit Court determined that awarding prejudgment interest was improper in this case because the issue of prejudgment interest had been submitted to the jury as part of Plaintiffs' request for damages under the Subject Note and the jury apparently rejected Plaintiffs' claim.
+13 Plaintiffs argue that although prejudgment 
+13 The jury's special verdict states, in relevant part: 
+Question No. 4 : What sum of money do defendants owe
+plaintiffs after the payment of $398,471? 
+Answer: $234,317.73 + Atty fees fr. 5/23/12 to 3/31/17. 
+During closing arguments, Plaintiffs directed the jury to Plaintiffs'
+Exhibit 205 to answer Question No. 4. Plaintiffs' Exhibit 205 provided the
+amounts requested as damages owed by Defendants under the terms of the SubjectNote. Specifically, Plaintiffs requested $223,159.74 for the remainingprincipal, $80,604.30 for accrued, unpaid interest under the simple interestrate of 7.5% under the Subject Note from May 23, 2012 through until March 21,2017, and $11,157.99 in late fees for a total of $314,922.03. 
+(continued...) 
+21 13(...continued)NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+interest had been presented to the jury as part of their request 
+for special damages, the Circuit Court could nevertheless award prejudgment interest. We disagree. 
+Prejudgment interest, where appropriate, is awardable under
+HRS § 636-16 in the discretion of the court. Generally, toconstitute an abuse of discretion it must appear that thecourt clearly exceeded the bounds of reason or disregardedrules or principles of law or practice to the substantialdetriment of a party litigant. 
+Schmidt v. Bd. of Dirs. of the Ass'n of Apt. Owners of the Marco 
+Polo Apts., 73 Haw. 526, 533, 836 P.2d 479, 483 (1992) (citations omitted). 
+First, the cases Plaintiffs cite in support of their 
+argument are inapposite. See Lucas v. Liggett & Myers Tobacco Co., 51 Haw. 346, 351 & n.5, 461 P.2d 140, 144 & n.5 (1969) (noting that although the jury's award may include an unknown amount of prejudgment interest, plaintiffs were entitled to interest for the period between the trial court's initial judgment and the trial court's subsequent judgment after plaintiffs' successful appeal);
+14 Cuerva & Assocs. v. Wong, 1 
+Haw. App. 194, 196, 616 P.2d 1017, 1020 (1980) (holding that the lower court erred in awarding interest at the statutory rate rather than at the promissory note's rate because the lower court erroneously concluded that the jury verdict was rendered on the basis of quantum meruit and not the promissory note). 
+Here, although Plaintiffs argue that they are entitled 
+to prejudgment interest recoverable as a "contractual right" under the terms of the Subject Note, the parties disputed whether Plaintiffs were entitled to recover any interest. Defendants argued that the Loan Modification Agreement changed the 
+Plaintiffs do not challenge the Circuit Court's determination that "the
+jury rejected Plaintiffs' claim for prejudgment interest and did not award
+Plaintiffs any sums of money in their special verdict for prejudgmentinterest." 
+As Defendants note in their answering brief, "[s]ince the verdict
+was $80,604.30 less than what Plaintiffs demanded and they sought $80,604.30in interest, it appears that the jury rejected their interest claim." 
+14 In other words, the plaintiffs' request for interest to the court in
+Lucas is for a different period than what interest might have been included bythe jury in its award. Here, the jury appears to have rejected Plaintiffs'request for interest and Plaintiffs make the same request for interest for thesame period of time to the Circuit Court. 
+22  NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+calculation of interest from a simple interest rate of 7.5% under 
+the Subject Note to an unlawful compound interest. Specifically, the Loan Modification Agreement provided: 
+(2) Interest shall accrue monthly at the existing rate. 
+(3) Borrowers shall pay Lender $1,500 monthly, beginning
+July 1, 2009, toward accrued interest. The balance ofinterest shall accrue and be added to the principal amount
+owing under the Note. 
+(Emphasis added.) 
+After the parties executed the Loan Modification 
+Agreement, Arthur Smith sent Defendants a spread-sheet every 
+month showing the calculation of the monthly compounding interest. Upon discovering the compound interest provision under the Loan Modification Agreement, Lenhart refused to pay any accruing or accrued interest based on the Loan Modification Agreement and denied Plaintiffs' attempts to recalculate interest based on the Subject Note's simple interest rate. 
+Therefore, whether Plaintiffs were entitled to interest 
+under the Subject Note was a question of fact for the jury and determining the amount of interest due to Plaintiffs was within the exclusive province of the jury. See Kato v. Funari, 118 Hawai#i 375, 381, 191 P.3d 1052, 1058 (2008) (it is "the 
+well-settled principle in this jurisdiction that 'the proper amount of damages to be awarded is within the exclusive province of the jury, since jurors are the sole judges of all disputed questions of fact.'" (brackets and ellipsis omitted) (quoting Knodle v. Waikiki Gateway Hotel, Inc., 69 Haw. 376, 385, 742 P.2d 377, 383 (1987))). 
+Plaintiffs also argue that even if they are not 
+entitled to interest under the Subject Note, they should be awarded prejudgment interest under, inter alia, HRS § 636-16 (2016)
+15 because Defendants caused purposeful delay.16 Plaintiffs 
+15 HRS § 636-16 (2016) provides: 
+In awarding interest in civil cases, the judge is authorized
+to designate the commencement date to conform with thecircumstances of each case, provided that the earliest
+(continued...) 
+23 15(...continued)
+ NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+do not provide any authority to support allowing a request for 
+prejudgment interest under HRS § 636-16 after submitting the question to the jury on other grounds. 
+Accordingly, given the jury's verdict, the Circuit 
+Court did not err in denying Plaintiffs' request for interest based on the Subject Note and HRS § 636-16.
+2. The Circuit Court Did Not Err in its Award of 
+Attorneys' Fees 
+First, Plaintiffs argue the Circuit Court erred in 
+limiting the award of attorneys' fees to 25% of the judgment 
+because Defendants' defenses were frivolous under HRS § 607-14.5 (2016) and thus Plaintiffs are entitled to recover all of their 
+attorneys' fees. 
+17
+Under HRS § 607-14.5, the circuit court may assess
+reasonable attorneys' fees and costs against a party in acivil action "upon a specific finding that all or a portionof the party's claim or defense was frivolous[.]" HRS §607-14.5(a). A trial court's conclusion that a party's claimor defense was made in good faith and was, therefore, not"frivolous" within the meaning of HRS § 607-14.5 presentsmixed questions of fact and law, and is subject to reviewfor clear error. See Coll v. McCarthy, 72 Haw. 20, 28, 804P.2d 881, 886 (1991). "A finding is clearly erroneous where 
+commencement date in cases arising in tort, may be the datewhen the injury first occurred and in cases arising bybreach of contract, it may be the date when the breach firstoccurred. 
+16 Plaintiffs also argue they should be awarded prejudgment interest
+pursuant to HRS § 478-3 (2008), which provides, "Interest at the rate of tenper cent a year, and no more, shall be allowed on any judgment recoveredbefore any court in the State, in any civil suit." Plaintiffs' reliance on HRS§ 478-3 for prejudgment interest is misplaced because HRS § 478-3 permitspost-judgment interest. See DW Aina Le #a Dev., LLC v. State Land use Comm'n,
+148 Hawai #i 396, 401, 447 P.3d 836, 841 (2020) (noting "HRS § 478-3 (1986),
+which permits post-judgment interest, [does] not apply to judgments againstthe State." (citing Chun v. Board of Trs. of Emps.' Ret. Sys., 106 Hawai #i 
+416, 433, 106 P.3d 339, 356 (2005))). 
+17 HRS § 607-14.5 provides, in pertinent part: 
+(a) In any civil action in this State where a party seeksmoney damages or injunctive relief, or both, against anotherparty, and the case is subsequently decided, the court may,as it deems just, assess against either party, whether ornot the party was a prevailing party, and enter as part ofits order, for which execution may issue, a reasonable sumfor attorneys' fees and costs, in an amount to be determinedby the court upon a specific finding that all or a portionof the party's claim or defense was frivolous as provided insubsection (b). 
+24  NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+the court is left with a firm and definite conviction that a 
+mistake has been committed." Id. at 28, 804 P.2d at 887. 
+Public Access Trails Hawai# i v. Haleakala Ranch Co., 153 Hawai# i  
+1, 21-22, 526 P.3d 526, 546-47 (2023). Here, the Circuit Court 
+did not make any findings of fact whether Defendants' defenses were frivolous. In the "Order Granting in Part and Denying in Part Plaintiffs' Motion for Attorneys' Fees and Taxation of Costs" entered on July 25, 2017, the Circuit Court limited Plaintiff' attorneys fees to 25% of the judgment and, inter alia, 
+denied all other relief, which includes Plaintiffs' request to find all of Defendants' defenses frivolous under HRS § 607-14.5. 
+The Hawai# i Supreme Court has explained that a 
+frivolous claim is a "claim so manifestly and palpably without merit, so as to indicate bad faith on the pleader's part such that argument to the court was not required." Tagupa v. VIPDesk, 135 Hawai# i 468, 479, 353 P.3d 1010, 1021 (2015) (brackets and 
+citation omitted). Moreover, 
+[a] finding of frivolousness is a high bar; it is not enough
+that a claim be without merit, there must be a showing ofbad faith. See Canalez v. Bob's Appliance Serv. Ctr., Inc.,89 Hawai #i 292, 300, 972 P.2d 295, 303 (1999) (in a personal
+injury action, even assuming that the plaintiff's counselmade untrue or inaccurate statements regarding theplaintiff's injuries, the claim was not deemed frivolousbecause there was no showing of bad faith); Lee v. HawaiiPac. Health, 121 Hawai #i 235, 246–47, 216 P.3d 1258, 1269–70
+(App. 2009) (although the plaintiff's arguments were withoutmerit, the commencement of the action was not frivolousbecause the plaintiff did not act in bad faith). 
+Id. at 479-80, 353 P.3d at 1021-22 (emphasis added). 
+Plaintiffs argue that Defendants' voluntary withdrawal 
+of thirteen of sixteen affirmative defenses after the close of 
+evidence at trial, and the Circuit Court's entry of summary judgment as to the remaining three affirmative defenses show that the defenses were frivolous. Although this may indicate Defendants' affirmative defenses were weak or without merit, it is insufficient to show that the defenses were frivolous such that Defendants acted in bad faith. In Public Access Trails Hawai#i, petitioners' evidence of bad faith was providing HRS 
+§ 607-14.5(c) notice to respondents that there was no law or evidence supporting respondent's claim that it owned Haleakalâ 
+25  
+  NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Trail, and the circuit court later entered a judgment 
+"consistent" with this notice. 153 Hawai# i at 29, 526 P.3d at 
+554. The Hawai# i Supreme Court held that "[e]ven taking 
+everything Petitioners claim as true, all this shows is that [respondent]'s ownership claim was 'weak' or 'without merit.' A meritless claim, without more, is not sufficient to show that the claim is frivolous or that the party acted in bad faith." Id. 
+(brackets and citation omitted). 
+With regard to Defendants' affirmative defenses based 
+on usury and compound interest, the Circuit Court held two hearings on Plaintiffs' Motion for Partial Summary Judgment related to Defendants' defenses based on usury. At the end of the first hearing, the Circuit Court indicated it had more questions regarding the language of HRS § 478-8(b)(3) and that a further hearing on the motion would be held. There is no evidence in the record that Defendants' claims based on usury and compound interest were frivolous or "so manifestly and palpably without merit, so as to indicate bad faith on the pleader's part such that argument to the court was not required." Tagupa, 135 
+Hawai#i at 479, 353 P.3d at 1021 (brackets and citation omitted). 
+Accordingly, the Circuit Court did not clearly err by not finding Defendants' affirmative defenses were frivolous or made in bad faith. 
+As such, the Circuit Court did not err in denying 
+Plaintiffs' attorneys' fees under HRS § 607-14.5 and limiting their attorneys' fees award to 25% of the judgment. 
+Plaintiffs also contend the Circuit Court erred in 
+granting in part Defendants' 5/11/17 JMOL to strike out "+ Attys fees fr. 5/23/12 to 3/31/17" in Question No. 4 of the Special Verdict. Defendants argued they were entitled to a new trial 
+because the judgment contains surplusage inconsistent with the 
+Special Verdict form which cannot be reconciled with the jury's verdict. 
+Specifically, Defendants argued, inter alia, that the 
+Special Verdict was defective because Plaintiffs did not request attorneys' fees, there were no instructions on the matter of awarding any attorneys fees, and the phrase "+ Attys fees fr. 5/23/12 to 3/31/17" is not a "sum" of money. Plaintiffs filed 
+26 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+their opposition to Defendants' 5/11/17 JMOL on June 8, 2017, and 
+the Circuit Court held a hearing on June 16, 2017. On July 25, 2017, the Circuit Court entered the "Order Granting in Part Defendants' [5/11/17 JMOL]" which states in pertinent part: "The Court strikes the phrase "+ Atty fees fr. 5/23/12 to 3/31/17" from the answer given in response to Question No. 4 of the Special Verdict filed March 31, 2017." 
+Both the grant and the denial of a motion for new trial
+[are] within the trial court's discretion, and we will notreverse that decision absent a clear abuse of discretion. An abuse of discretion occurs "where the trial court has clearly exceeded the bounds of reason or disregarded rulesor principles of law or practice to the substantialdetriment of a party litigant." 
+Costales v. Rosete, 133 Hawai# i 453, 465, 331 P.3d 431, 443 
+(2014) (citation omitted). 
+A conflict in the jury's answers to questions in a specialverdict will warrant a new trial only if those answers areirreconcilably inconsistent, and the verdict will not bedisturbed if the answers can be reconciled under any theory.
+The theory, however, must be supported by the trial court's
+instructions to the jury. 
+Carr v. Strode, 79 Hawai# i 475, 489, 904 P.2d 489, 503 (1995) 
+(citations omitted). 
+Here, the transcript of the June 16, 2017 hearing has 
+not been provided to this Court and the Circuit Court did not 
+provide its reasons for granting in part Defendants' 5/11/17 JMOL and striking out the language in Special Verdict Question No.4. It is well established that "[t]he burden is upon appellant in an appeal to show error by reference to matters in the record, and he [or she] has the responsibility of providing an adequate transcript." Bettencourt, 80 Hawai# i at 230, 909 P.2d at 558 
+(citation omitted).  Further, given the record on appeal, we cannot say the Circuit Court erred where Plaintiffs' request for damages in exhibit 205 did not include a request for attorneys' fees. 
+3. The Circuit Court Did Not Err in Denying Expert
+Witness Fees 
+On May 15, 2017, Plaintiffs filed a "Motion for 
+Attorneys' Fees and Taxation of Costs" (Plaintiffs' Motion for 
+27 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Fees and Costs) pursuant to, inter alia, HRCP Rule 54(d) and HRS 
+§ 607-9.18 Plaintiffs requested a total of $22,713.40 in costs, 
+including "expert fees" in the amount of $12,387.43.19 On June 
+29, 2017, the Circuit Court entered its Minute Order granting in 
+part Plaintiffs' costs except for the expert fees of $12,387.43 and entered the corresponding written order on July 25, 2017. Plaintiffs contend that the Circuit Court abused its discretion in denying Plaintiffs' request for expert fees without explainingits reasons for not awarding the expert fees as part of the costs.  
+The award of a taxable cost is within the discretion of the 
+circuit court and will not be disturbed absent a clear abuse of discretion. An abuse of discretion occurs when the circuit court has clearly exceeded the bounds of reason ordisregarded rules or principles of law or practice to thesubstantial detriment of a party litigant. 
+Pulawa v. GTE Hawaiian Tel, 112 Hawai# i 3, 10-11, 143 P.3d 1205, 
+1212-13 (2006) (internal quotation marks, citations, and brackets 
+omitted). The Hawai# i Supreme Court has explained that HRCP 
+"Rule 54(d) creates a strong presumption that the prevailing 
+18 HRCP Rule 54(d) provides, in pertinent part, "Except when express
+provision therefor is made either in a statute or in these rules, costs shall
+be allowed as of course to the prevailing party unless the court otherwisedirects[.]" 
+HRS § 607-9 (2016) provides: 
+§607-9 Cost charges exclusive; disbursements. [(a)] No
+other costs of court shall be charged in any court in
+addition to those prescribed in this chapter in any suit,action, or other proceeding, except as otherwise provided bylaw. 
+[(b)] All actual disbursements, including but not limited
+to, intrastate travel expenses for witnesses and counsel,expenses for deposition transcript originals and copies, andother incidental expenses, including copying costs,intrastate long distance telephone charges, and postage,sworn to by an attorney or a party, and deemed reasonable bythe court, may be allowed in taxation of costs. Indetermining whether and what costs should be taxed, thecourt may consider the equities of the situation. 
+19 The itemization of costs and the related invoices attached to 
+Plaintiffs' Motion for Fees and Costs stated that expert fees were incurredfor services provided by the Grad Law Firm in the amount of $11,036.65 andPark & Park in the amount of $1,350.78. Defendants filed an opposition toPlaintiffs' Motion for Fees and Costs on May 25, 2017, challenging portions ofthe motion, including the request for expert fees. 
+28 NOT FOR PUBLICATION  IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+party will recover costs. The court may not deny costs to the 
+prevailing party without explanation, unless the circumstances justifying denial of costs are plain from the record." Ranger Ins. Co. v. Hinshaw, 103 Hawai# i 26, 32, 79 P.3d 119, 125 (2003) 
+(ellipsis, brackets and citation omitted). 
+Here, although the Circuit Court did not provide an 
+explanation for denying expert fees, we hold that the reasons for denying expert fees is plain from the record because expert witness fees are generally not taxable as costs. See Buscher v. 
+Boning, 114 Hawai# i 202, 223 & n.15, 159 P.3d 814, 835 & n.15 
+(2007) (noting that expert witness fees are generally not taxable as costs and explaining that under HRCP Rule 54(d), expert witness fees are not allowed). 
+Other than HRCP Rule 54(d) and 
+HRS § 607-9, Plaintiffs do not cite to any other statute or rule which would allow them to recover expert witness fees. See Mist 
+v. Westin Hotels, Inc.
+, 69 Haw. 192, 202, 738 P.2d 85, 92 (1987) 
+("expert witness fees are not taxable as costs, absent a statute specifically allowing such an expense."). 
+Therefore, the Circuit Court did not abuse its 
+discretion in denying Plaintiffs' request for expert fees.
+IV. Conclusion 
+Based on the foregoing, the Circuit Court's "Amended 
+Final Judgment" entered on November 6, 2017 is affirmed. 
+DATED: 
+Honolulu, Hawai# i, May 26, 2023. 
+On the briefs: /s/ Lisa M. Ginoza
+Chief Judge
+/s/ Katherine G. Leonard
+Associate Judge
+/s/ Sonja M.P. McCullen
+Associate Judge
+29 Kristin L. Holland,William C. Byrns, Wendy F. Hanakahi, for Plaintiffs-Appellees/Cross-Appellants 
+Richard E. Wilson,
+for Defendants-Appellants/Cross-Appellees 
