@@ -39,6 +39,8 @@ st.text("This is a coding project by Joshua Casey for a grade in Coding for Lawy
 
 st.text("Please choosea search method from the sidebar.")
 
+st.text("This search directory should be updated every Tuesday and Thursday at 10:00 a.m. UTC.")
+
 # st.title("Test Opinion Name Search")
 # user_text = st.text_input("What name do you want to search for?")
 # if st.button("Name Search"):
