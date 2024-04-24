@@ -1,6 +1,8 @@
 import csv, requests, io, bs4, time, random
 from pypdf import PdfReader
 
+# This should be automatically updated from main.yml
+
 variableTest = []
 with open("CourtOpinion_Hawaii_New.csv","r",encoding='utf-8') as csvObj:
     reader = csv.reader(csvObj)
