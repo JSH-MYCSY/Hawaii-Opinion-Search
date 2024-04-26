@@ -1,5 +1,6 @@
 import csv, requests, io, bs4, time, random
 from pypdf import PdfReader
+from datetime import datetime
 
 # This should be automatically updated from main.yml
 
@@ -27,7 +28,7 @@ with open("CourtOpinion_Hawaii_New.csv","a",newline='', encoding='utf-8') as csv
                 opinionUrlText = opinionUrl.find('a', {'title': 'ADA'})['href']
             else:
                 opinionUrlText = ""
-            tempList.append([case_name,opinionUrlText, opinionDate.text, courtType.text, courtAppealed.text])
+            tempList.append([case_name,opinionUrlText, datetime.strptime(opinionDate.text, "%B %d, %Y"), courtType.text, courtAppealed.text])
             caseName = caseName.find_next('td', {'class': 'column-4'})
             opinionUrl = opinionUrl.find_next('td', {'class': 'column-3'})
             opinionDate = opinionDate.find_next('td', {'class': 'column-1'})
