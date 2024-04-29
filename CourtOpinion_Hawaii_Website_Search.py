@@ -1,7 +1,6 @@
 import streamlit as st
 import csv, os
 from openai import OpenAI
-
 client = OpenAI(api_key = st.secrets['OPENAI_API_KEY'])
 
 st.set_page_config(
@@ -103,6 +102,8 @@ def main():
         AIExistence = 1
     else:
         api_key_form()
+    if(AIExistence == 1):
+        AIon = st.toggle("OpenAI Refined Search")
 
 if(__name__ == "__main__"):
     main()

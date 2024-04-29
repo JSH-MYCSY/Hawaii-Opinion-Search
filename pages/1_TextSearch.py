@@ -6,8 +6,6 @@ from CourtOpinion_Hawaii_Website_Search import AIExistence
 
 def main():
     st.title("Test Opinion Text Search")
-    if(AIExistence == 1):
-        AIon = st.toggle("OpenAI Refined Search")
     user_text2 = st.text_input("What text do you want to search for?")
     if st.button("Text Search"):
         print(user_text2)
