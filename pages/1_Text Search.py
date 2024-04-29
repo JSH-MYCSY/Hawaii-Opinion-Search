@@ -5,6 +5,7 @@ import pandas as pd
 from CourtOpinion_Hawaii_Website_Search import AIExistence
 from CourtOpinion_Hawaii_Website_Search import ChatGPTSubjectSearch
 
+AIon = False
 
 def textSearch(userInput):
     SearchList = os.listdir("courtOpinionText/")
