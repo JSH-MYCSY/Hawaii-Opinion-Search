@@ -1,12 +1,12 @@
 import os, csv
 import streamlit as st
 import pandas as pd
-from CourtOpinion_Hawaii_Website_Search import AIExistence
+from CourtOpinion_Hawaii_Website_Search import apiBoolean
 from CourtOpinion_Hawaii_Website_Search import ChatGPTSubjectSearch
 
 def setupAIon():
     global AIon
-    if(AIExistence == 1):
+    if(apiBoolean):
         AIon = st.toggle("OpenAI Refined Search")
     else:
         AIon = False

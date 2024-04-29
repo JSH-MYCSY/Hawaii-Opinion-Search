@@ -34,6 +34,13 @@ def nameSearch(userInput):
             if userInput.lower() in str(row[0]).lower():
                 name_list.append(row)
     return(name_list)
+
+def apiBoolean():
+    global AIExistence
+    if(AIExistence == 1):
+        return True
+    else:
+        return False
     
 # def textSearch(userInput):
 #     AIon = False
