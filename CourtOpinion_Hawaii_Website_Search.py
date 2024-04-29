@@ -6,8 +6,6 @@ client = OpenAI(api_key = st.secrets['OPENAI_API_KEY'])
 st.set_page_config(
     page_title="Home",
 )
-global AIExistence
-AIExistence = 0
 
 def APIVerification():
     completion = client.chat.completions.create(
@@ -93,8 +91,10 @@ def api_key_form():
                         AIExistence = 1
                 except:
                     st.error("Your API Key was invalid.")
+                    AIExistence = 0
             else:
                 st.error("You have not entered an OpenAI API Key, proceeding will not give you access to the gpt refined search.")
+                AIExistence = 0
             
 
 def main():
