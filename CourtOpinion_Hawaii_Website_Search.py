@@ -79,8 +79,10 @@ def appBody():
     st.text("This search directory should be updated every Tuesday and Friday around 00:00 HST")
 
 def api_key_form():
-    with st.form("openai_key_form"):
+    apiform = st.empty()
+    with apiform.form("openai_key_form"):
         openai_api_key = st.text_input("Please enter your OpenAI API Key")
+        st.write("If you do not want to use one, or do not have one, then leave the form blank and hit submit.")
         submitted = st.form_submit_button("Submit")
         if submitted:
             if openai_api_key:
@@ -89,12 +91,15 @@ def api_key_form():
                     testBoolean = APIVerification()
                     if(testBoolean):
                         st.session_state.AIExistence = 1
+                        apiform.empty()
+                        appBody()
                 except:
                     st.error("Your API Key was invalid.")
                     st.session_state.AIExistence = 0
             else:
-                st.error("You have not entered an OpenAI API Key, proceeding will not give you access to the gpt refined search.")
                 st.session_state.AIExistence = 0
+                apiform.empty()
+                appBody()
             
 
 def main():
