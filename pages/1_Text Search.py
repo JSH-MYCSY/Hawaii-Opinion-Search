@@ -11,7 +11,7 @@ def setupAIon():
         else:
             AIon = False
     except:
-        if(os.environ('OPENAI_API_KEY')):
+        if(os.getenv('OPENAI_API_KEY')):
             AIon = st.toggle("OpenAI Refined Search")
         else:
             AIon = False
