@@ -87,7 +87,7 @@ def api_key_form():
         if submitted:
             if openai_api_key:
                 try:
-                    os.environ['OPENAI_API_KEY'] == str(openai_api_key)
+                    os.environ['OPENAI_API_KEY'] = str(openai_api_key)
                     testBoolean = APIVerification()
                     if(testBoolean):
                         st.session_state.AIExistence = 1
