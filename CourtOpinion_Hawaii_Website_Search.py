@@ -6,7 +6,7 @@ client = OpenAI(api_key = st.secrets['OPENAI_API_KEY'])
 st.set_page_config(
     page_title="Home",
 )
-st.session_state.AIExistence = 0
+
 def APIVerification():
     completion = client.chat.completions.create(
         model="gpt-3.5-turbo",

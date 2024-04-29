@@ -5,8 +5,16 @@ from CourtOpinion_Hawaii_Website_Search import ChatGPTSubjectSearch
 
 def setupAIon():
     global AIon
-    if(st.session_state.AIExistence == 1):
-        AIon = st.toggle("OpenAI Refined Search")
+    try:
+        if(st.session_state.AIExistence == 1):
+            AIon = st.toggle("OpenAI Refined Search")
+        else:
+            AIon = False
+    except:
+        if(os.environ('OPENAI_API_KEY')):
+            AIon = st.toggle("OpenAI Refined Search")
+        else:
+            AIon = False
     else:
         AIon = False
 
