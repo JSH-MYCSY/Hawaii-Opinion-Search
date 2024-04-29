@@ -6,7 +6,7 @@ client = OpenAI(api_key = st.secrets['OPENAI_API_KEY'])
 st.set_page_config(
     page_title="Home",
 )
-
+st.session_state.AIExistence = 0
 def APIVerification():
     completion = client.chat.completions.create(
         model="gpt-3.5-turbo",
@@ -35,13 +35,6 @@ def nameSearch(userInput):
                 name_list.append(row)
     return(name_list)
 
-def apiBoolean():
-    global AIExistence
-    if(AIExistence == 1):
-        return True
-    else:
-        return False
-    
 # def textSearch(userInput):
 #     AIon = False
 #     SearchList = os.listdir("courtOpinionText/")
@@ -94,21 +87,19 @@ def api_key_form():
                 try:
                     testBoolean = APIVerification()
                     if(testBoolean):
-                        global AIExistence
-                        AIExistence = 1
+                        st.session_state.AIExistence = 1
                 except:
                     st.error("Your API Key was invalid.")
-                    AIExistence = 0
+                    st.session_state.AIExistence = 0
             else:
                 st.error("You have not entered an OpenAI API Key, proceeding will not give you access to the gpt refined search.")
-                AIExistence = 0
+                st.session_state.AIExistence = 0
             
 
 def main():
     if(os.getenv('OPENAI_API_KEY')):
         appBody()
-        global AIExistence
-        AIExistence = 1
+        st.session_state.AIExistence = 1
     else:
         api_key_form()
 if(__name__ == "__main__"):
