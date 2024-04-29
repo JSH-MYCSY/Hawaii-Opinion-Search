@@ -4,7 +4,9 @@ import pandas as pd
 from CourtOpinion_Hawaii_Website_Search import AIExistence
 from CourtOpinion_Hawaii_Website_Search import ChatGPTSubjectSearch
 
-AIon = True
+def setupAIon():
+    global AIon
+    AIon = st.toggle("OpenAI Refined Search")
 
 def textSearch(userInput):
     SearchList = os.listdir("courtOpinionText/")
@@ -42,7 +44,7 @@ def textSearch(userInput):
 
 def main():
     st.title("Test Opinion Text Search")
-    AIon = st.toggle("OpenAI Refined Search")
+    setupAIon()
     user_text2 = st.text_input("What text do you want to search for?")
     if st.button("Text Search"):
         print(user_text2)
