@@ -6,7 +6,10 @@ from CourtOpinion_Hawaii_Website_Search import ChatGPTSubjectSearch
 
 def setupAIon():
     global AIon
-    AIon = st.toggle("OpenAI Refined Search")
+    if(AIExistence == 1):
+        AIon = st.toggle("OpenAI Refined Search")
+    else:
+        AIon = False
 
 def textSearch(userInput):
     SearchList = os.listdir("courtOpinionText/")

@@ -6,6 +6,8 @@ client = OpenAI(api_key = st.secrets['OPENAI_API_KEY'])
 st.set_page_config(
     page_title="Home",
 )
+global AIExistence
+AIExistence = 0
 
 def APIVerification():
     completion = client.chat.completions.create(
@@ -25,8 +27,6 @@ def ChatGPTSubjectSearch(userInput, opinionExcerpt):
         ]
     )
     return(completion.choices[0].message.content)
-
-AIExistence = 0
 
 def nameSearch(userInput):
     name_list = []
@@ -89,6 +89,7 @@ def api_key_form():
                 try:
                     testBoolean = APIVerification()
                     if(testBoolean):
+                        global AIExistence
                         AIExistence = 1
                 except:
                     st.error("Your API Key was invalid.")
@@ -99,9 +100,9 @@ def api_key_form():
 def main():
     if(os.getenv('OPENAI_API_KEY')):
         appBody()
+        global AIExistence
         AIExistence = 1
     else:
         api_key_form()
-
 if(__name__ == "__main__"):
     main()
