@@ -7,7 +7,7 @@ st.set_page_config(
 )
 
 def APIVerification():
-    client = OpenAI(api_key = st.secrets['OPENAI_API_KEY'])
+    client = OpenAI(api_key = os.getenv['OPENAI_API_KEY'])
     completion = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
@@ -17,7 +17,7 @@ def APIVerification():
     return(completion.choices[0].message.content)
 
 def ChatGPTSubjectSearch(userInput, opinionExcerpt):
-    client = OpenAI(api_key = st.secrets['OPENAI_API_KEY'])
+    client = OpenAI(api_key = os.getenv['OPENAI_API_KEY'])
     completion = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
