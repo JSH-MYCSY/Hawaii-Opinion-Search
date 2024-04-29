@@ -37,40 +37,40 @@ def nameSearch(userInput):
                 name_list.append(row)
     return(name_list)
     
-def textSearch(userInput):
-    AIon = False
-    SearchList = os.listdir("courtOpinionText/")
-    returnList = []
-    searchedList = []
-    for searchItem in SearchList:
-        with open("courtOpinionText/" + searchItem, "r", encoding="utf") as txtObj:
-            txtRead = txtObj.read()
-            if(userInput.lower() in txtRead.lower()):
-                inputLength = len(userInput)
-                if(AIon == True):
-                    startingLine = 0
-                    endchecker = inputLength
-                    while(endchecker < len(txtRead)):
-                        if(userInput.lower() == txtRead[startingLine:endchecker].lower()):
-                            if(ChatGPTSubjectSearch(userInput, txtRead[startingLine-50:endchecker+50]) == "True"):
-                                name = str(searchItem).split(".")[0]
-                                returnList.append(name)
-                                break
-                            startingLine+=1
-                            endchecker+=1
-                        else:
-                            startingLine+=1
-                            endchecker+=1
-                else:
-                    name = str(searchItem).split(".")[0]
-                    returnList.append(name)
-    with open("CourtOpinion_Hawaii_New.csv", "r", encoding="utf-8") as csvObj:
-        reader = csv.reader(csvObj)
-        for row in reader:
-            for name in returnList:
-                if(name in row[1]):
-                    searchedList.append(row)
-    return(searchedList)
+# def textSearch(userInput):
+#     AIon = False
+#     SearchList = os.listdir("courtOpinionText/")
+#     returnList = []
+#     searchedList = []
+#     for searchItem in SearchList:
+#         with open("courtOpinionText/" + searchItem, "r", encoding="utf") as txtObj:
+#             txtRead = txtObj.read()
+#             if(userInput.lower() in txtRead.lower()):
+#                 inputLength = len(userInput)
+#                 if(AIon == True):
+#                     startingLine = 0
+#                     endchecker = inputLength
+#                     while(endchecker < len(txtRead)):
+#                         if(userInput.lower() == txtRead[startingLine:endchecker].lower()):
+#                             if(ChatGPTSubjectSearch(userInput, txtRead[startingLine-50:endchecker+50]) == "True"):
+#                                 name = str(searchItem).split(".")[0]
+#                                 returnList.append(name)
+#                                 break
+#                             startingLine+=1
+#                             endchecker+=1
+#                         else:
+#                             startingLine+=1
+#                             endchecker+=1
+#                 else:
+#                     name = str(searchItem).split(".")[0]
+#                     returnList.append(name)
+#     with open("CourtOpinion_Hawaii_New.csv", "r", encoding="utf-8") as csvObj:
+#         reader = csv.reader(csvObj)
+#         for row in reader:
+#             for name in returnList:
+#                 if(name in row[1]):
+#                     searchedList.append(row)
+#     return(searchedList)
 
 def appBody():
     st.sidebar.success("Choose a Search Option.")
@@ -102,8 +102,6 @@ def main():
         AIExistence = 1
     else:
         api_key_form()
-    if(AIExistence == 1):
-        AIon = st.toggle("OpenAI Refined Search")
 
 if(__name__ == "__main__"):
     main()
