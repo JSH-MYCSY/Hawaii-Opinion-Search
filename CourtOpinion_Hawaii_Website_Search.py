@@ -5,9 +5,14 @@ from openai import OpenAI
 st.set_page_config(
     page_title="Home",
 )
+def getClient():
+    global client
+    if(st.secrets['OPENAI_API_KEY']):
+        client = OpenAI(api_key = st.secrets['OPENAI_API_KEY'])
+    else:
+        client = OpenAI(api_key= st.session_state.OPENAIKEY)
 
 def APIVerification():
-    client = OpenAI(api_key = os.environ['OPENAI_API_KEY'])
     completion = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
@@ -17,7 +22,6 @@ def APIVerification():
     return(completion.choices[0].message.content)
 
 def ChatGPTSubjectSearch(userInput, opinionExcerpt):
-    client = OpenAI(api_key = os.environ['OPENAI_API_KEY'])
     completion = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
@@ -91,6 +95,7 @@ def api_key_form():
                     testBoolean = APIVerification()
                     if(testBoolean):
                         st.session_state.AIExistence = 1
+                        st.session_state.OPENAIKEY = str(openai_api_key)
                         apiform.empty()
                 except:
                     st.error("Your API Key was invalid.")
@@ -107,5 +112,6 @@ def main():
         st.session_state.AIExistence = 1
     else:
         api_key_form()
+    getClient()
 if(__name__ == "__main__"):
     main()
