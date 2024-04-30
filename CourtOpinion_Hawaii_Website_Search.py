@@ -79,7 +79,7 @@ def appBody():
     st.text("This search directory should be updated every Tuesday and Friday around 00:00 HST")   
 
 def main():
-    if(os.getenv('OPENAI_API_KEY')):
+    if(st.secrets('OPENAI_API_KEY')):
         appBody()
         st.session_state.AIExistence = 1
     else:
