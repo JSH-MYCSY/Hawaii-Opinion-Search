@@ -5,13 +5,8 @@ from openai import OpenAI
 st.set_page_config(
     page_title="Home",
 )
-def getClient():
-    global client
-    if(st.secrets['OPENAI_API_KEY']):
-        client = OpenAI(api_key = st.secrets['OPENAI_API_KEY'])
-    else:
-        st.session_state.OPENAIKEY = os.getenv['OPENAI_API_KEY']
-        client = OpenAI(api_key = st.session_state.OPENAIKEY)
+
+client = OpenAI(api_key = st.secrets['OPENAI_API_KEY'])
 
 def APIVerification():
     completion = client.chat.completions.create(
@@ -97,7 +92,6 @@ def api_key_form():
                     if(testBoolean):
                         st.session_state.AIExistence = 1
                         st.session_state.OPENAIKEY = str(openai_api_key)
-                        getClient()
                         apiform.empty()
                 except:
                     st.error("Your API Key was invalid.")
@@ -112,7 +106,6 @@ def main():
     if(os.getenv('OPENAI_API_KEY')):
         appBody()
         st.session_state.AIExistence = 1
-        getClient()
     else:
         api_key_form()
 if(__name__ == "__main__"):
