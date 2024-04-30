@@ -92,14 +92,13 @@ def api_key_form():
                     if(testBoolean):
                         st.session_state.AIExistence = 1
                         apiform.empty()
-                        appBody()
                 except:
                     st.error("Your API Key was invalid.")
                     st.session_state.AIExistence = 0
             else:
                 st.session_state.AIExistence = 0
                 apiform.empty()
-                appBody()
+    appBody()
             
 
 def main():
