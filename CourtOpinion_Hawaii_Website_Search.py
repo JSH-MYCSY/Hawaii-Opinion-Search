@@ -76,37 +76,14 @@ def appBody():
     st.title("Post-2010 Hawaii Appellate Court Opinion Search")
     st.text("This is a coding project by Joshua Casey for a grade in Coding for Lawyers.")
     st.text("Please choosea search method from the sidebar.")
-    st.text("This search directory should be updated every Tuesday and Friday around 00:00 HST")
-
-def api_key_form():
-    apiform = st.empty()
-    with apiform.form("openai_key_form"):
-        openai_api_key = st.text_input("Please enter your OpenAI API Key")
-        st.write("If you do not want to use one, or do not have one, then leave the form blank and hit submit.")
-        submitted = st.form_submit_button("Submit")
-        if submitted:
-            if openai_api_key:
-                try:
-                    os.environ['OPENAI_API_KEY'] = str(openai_api_key)
-                    testBoolean = APIVerification()
-                    if(testBoolean):
-                        st.session_state.AIExistence = 1
-                        st.session_state.OPENAIKEY = str(openai_api_key)
-                        apiform.empty()
-                except:
-                    st.error("Your API Key was invalid.")
-                    st.session_state.AIExistence = 0
-            else:
-                st.session_state.AIExistence = 0
-                apiform.empty()
-    appBody()
-            
+    st.text("This search directory should be updated every Tuesday and Friday around 00:00 HST")   
 
 def main():
     if(os.getenv('OPENAI_API_KEY')):
         appBody()
         st.session_state.AIExistence = 1
     else:
-        api_key_form()
+        appBody()
+        st.session_state.AIExistence = 0
 if(__name__ == "__main__"):
     main()
