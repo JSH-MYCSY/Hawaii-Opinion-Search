@@ -10,7 +10,8 @@ def getClient():
     if(st.secrets['OPENAI_API_KEY']):
         client = OpenAI(api_key = st.secrets['OPENAI_API_KEY'])
     else:
-        client = OpenAI(api_key= st.session_state.OPENAIKEY)
+        st.session_state.OPENAIKEY = os.getenv['OPENAI_API_KEY']
+        client = OpenAI(api_key = st.session_state.OPENAIKEY)
 
 def APIVerification():
     completion = client.chat.completions.create(
