@@ -6,7 +6,7 @@ st.set_page_config(
     page_title="Home",
 )
 
-client = OpenAI(api_key = st.secrets['secrets']['OpenAI_key'])
+client = OpenAI(api_key = st.secrets['OPENAI_API_KEY'])
 
 def APIVerification():
     completion = client.chat.completions.create(
