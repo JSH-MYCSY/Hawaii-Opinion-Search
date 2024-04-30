@@ -96,6 +96,7 @@ def api_key_form():
                     if(testBoolean):
                         st.session_state.AIExistence = 1
                         st.session_state.OPENAIKEY = str(openai_api_key)
+                        getClient()
                         apiform.empty()
                 except:
                     st.error("Your API Key was invalid.")
@@ -110,8 +111,8 @@ def main():
     if(os.getenv('OPENAI_API_KEY')):
         appBody()
         st.session_state.AIExistence = 1
+        getClient()
     else:
         api_key_form()
-    getClient()
 if(__name__ == "__main__"):
     main()
