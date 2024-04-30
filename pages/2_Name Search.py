@@ -7,7 +7,7 @@ st.set_page_config(
     page_icon="🏛️",
     layout="centered",
     menu_items={
-        'Report a bug': "mailto:caseyjos@hawaii.edu?subject=Reporting a Bug for: CourtOpinionSearch&body=Hello Joshua,<br><br>I have found a bug on your website's name search page. The bug is: <br>Please fix this bug as your website is awesome and I really want to continue using it.<br><br>Sincerely,<br>"  # This menu option will allow someone to report a bug to me using their email client.
+        'Report a bug': "mailto:caseyjos@hawaii.edu?subject=Reporting a Bug for: CourtOpinionSearch&body=I have found a bug on your website's name search page. The bug is: . Please fix this bug as your website is awesome and I really want to continue using it."  # This menu option will allow someone to report a bug to me using their email client.
     }
 )
 
