@@ -1,2 +1,2 @@
 [theme]
-base="dark"
+base="dark"  # this is the only way to get the dark theme for streamlit. The white screen burns my eyes.

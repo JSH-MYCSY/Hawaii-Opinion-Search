@@ -1,17 +1,18 @@
-import os, csv
 import streamlit as st
 import pandas as pd
 from openai import OpenAI
 
+# sets the page configurations, visually the same as the home page, but with a different page title.
 st.set_page_config(
     page_title="Text Search",
-    page_icon=":Classical_Building:",
+    page_icon="🏛️",
     layout="centered",
     menu_items={
-        'Report a bug': 'mailto:caseyjos@hawaii.edu'
+        'Report a bug': 'mailto:caseyjos@hawaii.edu?subject=Reporting a Bug for: CourtOpinionSearch'
     }
 )
 
+# This function is used later to provide users with a more focused and refined search results using ChatGPT.
 def ChatGPTSubjectSearch(userInput, opinionExcerpt):
     client = OpenAI(api_key = st.secrets['OPENAI_API_KEY'])
     completion = client.chat.completions.create(
@@ -23,39 +24,26 @@ def ChatGPTSubjectSearch(userInput, opinionExcerpt):
     )
     return(completion.choices[0].message.content)
 
-
+# This functions sets up a toggle that is saved to a global boolean in order to function as an on/off switch for the ChatGPT search function.
 def setupAIon():
     global AIon
     AIon = st.toggle("OpenAI Refined Search")
 
-# def loadData():
-#     loadList = os.listdir("CourtOpinionText/")
-#     global cachedOpinionText
-#     cachedOpinionText = []
-#     global cachedNameList
-#     cachedNameList = []
-#     for item in loadList:
-#         with open("courtOpinionText/" + item, "r", encoding="utf-8") as txtObj:
-#             cachedOpinionText.append([str(item).split(".")[0], txtObj.read().lower()])
-#     with open("CourtOpinion_Hawaii_New.csv", "r", encoding="utf-8") as csvObj:
-#         reader = csv.reader(csvObj)
-#         for row in reader:
-#             cachedNameList.append(row)
-
-@st.cache_data(ttl="1d", max_entries=10)
-def textSearch(userInput, AISearch):
+# This is the search function for the program.
+@st.cache_data(ttl="1d", max_entries=10)  # This function is meant to cache the last 10 search results for 1 day so that they can be pulled up faster.
+def textSearch(userInput, AISearch):  # This has two inputs in order to tell the cache to treat a ChatGPT search differently from a normal search.
     returnList = []
     searchedList = []
     for searchItem in st.session_state['OpinionText']:
         txtRead = searchItem[1]
-        if(userInput.lower() in txtRead):
+        if(userInput.lower() in txtRead):  # txtRead was already made lower when initially loaded.
                 inputLength = len(userInput)
-                if(AISearch == True):
+                if(AISearch == True):  # This is the toggle for the AI search feature.
                     startingLine = 0
                     endchecker = inputLength
                     while(endchecker < len(txtRead)):
                         if(userInput.lower() == txtRead[startingLine:endchecker].lower()):
-                            if(ChatGPTSubjectSearch(userInput, txtRead[startingLine-50:endchecker+50]) == "True"):
+                            if(ChatGPTSubjectSearch(userInput, txtRead[startingLine-50:endchecker+50]) == "True"):  # provides ChatGPT with a snippet of the text 100 characters long to determine if the inputted word or phrase is the subject of the sentence it is used in.
                                 name = searchItem[0]
                                 returnList.append(name)
                                 break
@@ -73,6 +61,31 @@ def textSearch(userInput, AISearch):
                 searchedList.append(row)
     return(searchedList)
 
+# This is the main function for this page.
+def main():
+    st.title("Test Opinion Text Search")
+    setupAIon()
+    user_text2 = st.text_input("What text do you want to search for?")
+    if st.button("Text Search"):
+        print(user_text2)
+        try:  # the try/except pattern is to catch the error when the searchList returns nothing.
+            new_list = textSearch(user_text2, AIon)
+            df1 = pd.DataFrame({  # using this data frame to pull out some of the case information to display in a table.
+                "Case Name": [sublist[0] for sublist in new_list],
+                "Case Date": [sublist[2][0:10] for sublist in new_list],
+                "Case Url": [sublist[1] for sublist in new_list]
+            })
+            st.data_editor(df1, column_config={"Case Url": st.column_config.LinkColumn(label="Case Url", display_text="Case Link")}, hide_index=True)  # used streamlit's table because I liked the way it displayed the results, and also allows a user to download the table for themselves. The column config is just to display the case text information as a hyperlink.
+        except:
+            st.write("I'm sorry, we could not find any opinions with the provided search term.")
+
+# loads the main function.
+if(__name__ == "__main__"):
+    main()
+
+# The code below this was the initial search function that individually opened up each txt file to search through it.
+
+# import os, csv
 # def textSearch(userInput):
 #     SearchList = os.listdir("courtOpinionText/")
 #     returnList = []
@@ -106,24 +119,3 @@ def textSearch(userInput, AISearch):
 #                 if(name in row[1]):
 #                     searchedList.append(row)
 #     return(searchedList)
-
-def main():
-    st.title("Test Opinion Text Search")
-    setupAIon()
-    #loadData()
-    user_text2 = st.text_input("What text do you want to search for?")
-    if st.button("Text Search"):
-        print(user_text2)
-        try:
-            new_list = textSearch(user_text2, AIon)
-            df1 = pd.DataFrame({
-                "Case Name": [sublist[0] for sublist in new_list],
-                "Case Date": [sublist[2][0:10] for sublist in new_list],
-                "Case Url": [sublist[1] for sublist in new_list]
-            })
-            st.data_editor(df1, column_config={"Case Url": st.column_config.LinkColumn(label="Case Url", display_text="Case Link")}, hide_index=True)
-        except:
-            st.write("I'm sorry, we could not find any opinions with the provided search term.")
-
-if(__name__ == "__main__"):
-    main()

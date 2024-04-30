@@ -1,39 +1,39 @@
-name: run Update.py
-# Updates 
+name: run Update.py  # runs the updates file in working directory.
+
 on:
   schedule:
-    - cron: '0 10 * * 2,5' # Every Tuesday & Friday @ 10:00 UTC
+    - cron: '0 10 * * 2,5' # Every Tuesday & Friday @ 10:00 UTC, which translates to 0:00 HST.
   workflow_dispatch:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # chose this one because it was the one used in the tutorial and is the lowest priced option, although 2k minutes/month are free.
     steps:
 
       - name: checkout repo content
-        uses: actions/checkout@v4 # checkout the repository content to github runner
+        uses: actions/checkout@v4 # checkout the repository content to github runner.
 
       - name: setup python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v5  #sets up python.
         with:
-          python-version: '3.12' # install the python version needed
+          python-version: '3.12' # install the python version needed.
           
-      - name: install python packages
+      - name: install python packages  # This will install all the libraries listed in the requirements.txt folder. Not all of them are needed to run Update.py, some are needed to run the streamlit site.
         run: |
           pip install -r requirements.txt
 
-      - name: execute py script # run Update.py
+      - name: execute py script # run Update.py.
         run: python Update.py
           
-      - name: commit files
+      - name: commit files  # commits the changes made, because it needs to continuously update the search directory.
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
           git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
           
-      - name: push changes
+      - name: push changes  # pushes the changes.
         uses: ad-m/github-push-action@v0.6.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # github created secret for this session.
           branch: main 

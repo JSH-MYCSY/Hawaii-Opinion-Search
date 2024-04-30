@@ -2,15 +2,17 @@ import os, csv
 import streamlit as st
 import streamlit.components.v1 as components
 
+# These are the page configs to setup some visual elements.
 st.set_page_config(
     page_title="Court Opinion Search",
-    page_icon=":Classical_Building:",
+    page_icon="🏛️",
     layout="centered",
     menu_items={
-        'Report a bug': 'mailto:caseyjos@hawaii.edu'
+        'Report a bug': 'mailto:caseyjos@hawaii.edu?subject=Reporting a Bug for: CourtOpinionSearch'  # This menu option will allow someone to report a bug to me using their email client.
     }
 )
 
+# This function loads the search database from the csv and txt files, then saves them as a session state for faster access when searching.
 def loadData():
     if('OpinionText' not in st.session_state or 'NameList' not in st.session_state):
         loadList = os.listdir("courtOpinionText/")
@@ -26,6 +28,7 @@ def loadData():
         st.session_state['OpinionText'] = OpinionText
         st.session_state['NameList'] = NameList
 
+# This specifies the body of the application for the homepage.
 def appBody():
     st.sidebar.success("Choose a Search Option.")
     st.title("Post-2010 Hawaii Appellate Court Opinion Search")
@@ -37,11 +40,13 @@ def appBody():
                 
     If you would prefer, please view the original source of all the opinions below.
     ''')
-    components.iframe(src="https://www.courts.state.hi.us/opinions_and_orders/opinions", scrolling=True, height=500)
+    components.iframe(src="https://www.courts.state.hi.us/opinions_and_orders/opinions", scrolling=True, height=500)  # The iframe is just to allow people to go directly to the site if they want.
 
+# main function to load everything.
 def main():
     loadData()
     appBody()
 
+# calls the main function.
 if(__name__ == "__main__"):
     main()
