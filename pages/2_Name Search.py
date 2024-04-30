@@ -20,7 +20,7 @@ def nameSearch(userInput):
             name_list.append(row)
     return(name_list)
 
-def Page2main():
+def main():
     st.title("Test Opinion Name Search")
     user_text = st.text_input("What name do you want to search for?")
     if st.button("Name Search"):
@@ -37,4 +37,4 @@ def Page2main():
             st.write("I'm sorry, we could not find any opinions with the provided search term.")
 
 if(__name__ == "__main__"):
-    Page2main()
+    main()

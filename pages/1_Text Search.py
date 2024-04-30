@@ -107,15 +107,13 @@ def textSearch(userInput):
 #                     searchedList.append(row)
 #     return(searchedList)
 
-def Page1main():
+def main():
     st.title("Test Opinion Text Search")
     setupAIon()
     #loadData()
     user_text2 = st.text_input("What text do you want to search for?")
     if st.button("Text Search"):
         print(user_text2)
-        print(len(st.session_state['OpinionText']))
-        print(len(st.session_state['NameList']))
         try:
             new_list = textSearch(user_text2)
             df1 = pd.DataFrame({
@@ -128,4 +126,4 @@ def Page1main():
             st.write("I'm sorry, we could not find any opinions with the provided search term.")
 
 if(__name__ == "__main__"):
-    Page1main()
+    main()
