@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 def loadData():
-    loadList = os.listdir("CourtOpinionText/")
+    loadList = os.listdir("courtOpinionText/")
     OpinionText = []
     NameList = []
     for item in loadList:
