@@ -1,9 +1,10 @@
 import streamlit as st
 import csv, os
 from openai import OpenAI
+import streamlit.components.v1 as components
 
 st.set_page_config(
-    page_title="Home",
+    page_title="Court Opinion Search",
     page_icon=":Classical_Building:",
     layout="centered",
     menu_items={
@@ -74,7 +75,10 @@ def appBody():
     Please choose a search method from the sidebar to begin searching.
 
     The search directory should be updated every Tuesday and Friday around 00:00 HST.
+                
+    If you would prefer, please view the original source of all the opinions below.
     ''')
+    components.iframe(src="https://www.courts.state.hi.us/opinions_and_orders/opinions", scrolling=True, height=500)
 
 def main():
     appBody()

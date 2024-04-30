@@ -3,7 +3,7 @@ from CourtOpinion_Hawaii_Website_Search import nameSearch
 import pandas as pd
 
 st.set_page_config(
-    page_title="Home",
+    page_title="Name Search",
     page_icon=":Classical_Building:",
     layout="centered",
     menu_items={
