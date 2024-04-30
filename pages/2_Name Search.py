@@ -2,6 +2,16 @@ import streamlit as st
 from CourtOpinion_Hawaii_Website_Search import nameSearch
 import pandas as pd
 
+st.set_page_config(
+    page_title="Home",
+    page_icon=":Classical_Building:",
+    layout="centered",
+    base="dark",
+    menu_items={
+        'Report a bug': 'mailto:caseyjos@hawaii.edu'
+    }
+)
+
 def main():
     st.title("Test Opinion Name Search")
     user_text = st.text_input("What name do you want to search for?")

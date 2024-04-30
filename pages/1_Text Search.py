@@ -3,6 +3,16 @@ import streamlit as st
 import pandas as pd
 from CourtOpinion_Hawaii_Website_Search import ChatGPTSubjectSearch
 
+st.set_page_config(
+    page_title="Home",
+    page_icon=":Classical_Building:",
+    layout="centered",
+    base="dark",
+    menu_items={
+        'Report a bug': 'mailto:caseyjos@hawaii.edu'
+    }
+)
+
 def setupAIon():
     global AIon
     try:

@@ -4,6 +4,12 @@ from openai import OpenAI
 
 st.set_page_config(
     page_title="Home",
+    page_icon=":Classical_Building:",
+    layout="centered",
+    base="dark",
+    menu_items={
+        'Report a bug': 'mailto:caseyjos@hawaii.edu'
+    }
 )
 
 def ChatGPTSubjectSearch(userInput, opinionExcerpt):
@@ -64,9 +70,12 @@ def nameSearch(userInput):
 def appBody():
     st.sidebar.success("Choose a Search Option.")
     st.title("Post-2010 Hawaii Appellate Court Opinion Search")
-    st.text("This is a coding project by Joshua Casey for a grade in Coding for Lawyers.")
-    st.text("Please choosea search method from the sidebar.")
-    st.text("This search directory should be updated every Tuesday and Friday around 00:00 HST")   
+    st.markdown('''
+    This is a coding project by Joshua Casey for a grade in **Coding for Lawyers**.
+    Please choose a search method from the sidebar to begin searching.
+
+    The search directory should be updated every Tuesday and Friday around 00:00 HST.
+    ''')
 
 def main():
     appBody()
