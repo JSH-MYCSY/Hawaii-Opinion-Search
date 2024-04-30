@@ -8,7 +8,16 @@ st.set_page_config(
     page_icon="🏛️",
     layout="centered",
     menu_items={
-        'Report a bug': 'mailto:caseyjos@hawaii.edu?subject=Reporting a Bug for: CourtOpinionSearch'
+        'Report a bug': '''mailto:caseyjos@hawaii.edu?
+        subject=Reporting a Bug for: CourtOpinionSearch
+        &body=
+        Hello Joshua,
+        
+        I have found a bug on your website's text search page. The bug is: 
+        Please fix this bug as your website is awesome and I really want to continue using it.
+        
+        Sincerely,
+        '''
     }
 )
 
