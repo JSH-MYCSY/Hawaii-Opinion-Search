@@ -7,7 +7,6 @@ st.set_page_config(
     page_title="Home",
     page_icon=":Classical_Building:",
     layout="centered",
-    base="dark",
     menu_items={
         'Report a bug': 'mailto:caseyjos@hawaii.edu'
     }
