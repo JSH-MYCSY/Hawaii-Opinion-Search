@@ -1,5 +1,5 @@
+import csv
 import streamlit as st
-from CourtOpinion_Hawaii_Website_Search import nameSearch
 import pandas as pd
 
 st.set_page_config(
@@ -10,6 +10,15 @@ st.set_page_config(
         'Report a bug': 'mailto:caseyjos@hawaii.edu'
     }
 )
+
+
+@st.cache_data(ttl="1d", max_entries=10)
+def nameSearch(userInput):
+    name_list = []
+    for row in st.session_state['NameList']:
+        if userInput.lower() in str(row[0]).lower():
+            name_list.append(row)
+    return(name_list)
 
 def main():
     st.title("Test Opinion Name Search")
