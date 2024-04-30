@@ -6,18 +6,8 @@ st.set_page_config(
     page_title="Home",
 )
 
-client = OpenAI(api_key = st.secrets['OPENAI_API_KEY'])
-
-def APIVerification():
-    completion = client.chat.completions.create(
-        model="gpt-3.5-turbo",
-        messages=[
-            {"role": "system", "content": "This is a test. Return True."}
-        ]
-    )
-    return(completion.choices[0].message.content)
-
 def ChatGPTSubjectSearch(userInput, opinionExcerpt):
+    client = OpenAI(api_key = st.secrets['OPENAI_API_KEY'])
     completion = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
