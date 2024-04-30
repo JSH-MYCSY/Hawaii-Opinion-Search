@@ -43,14 +43,14 @@ def setupAIon():
 #             cachedNameList.append(row)
 
 @st.cache_data(ttl="1d", max_entries=10)
-def textSearch(userInput):
+def textSearch(userInput, AISearch):
     returnList = []
     searchedList = []
     for searchItem in st.session_state['OpinionText']:
         txtRead = searchItem[1]
         if(userInput.lower() in txtRead):
                 inputLength = len(userInput)
-                if(AIon == True):
+                if(AISearch == True):
                     startingLine = 0
                     endchecker = inputLength
                     while(endchecker < len(txtRead)):
@@ -115,7 +115,7 @@ def main():
     if st.button("Text Search"):
         print(user_text2)
         try:
-            new_list = textSearch(user_text2)
+            new_list = textSearch(user_text2, AIon)
             df1 = pd.DataFrame({
                 "Case Name": [sublist[0] for sublist in new_list],
                 "Case Date": [sublist[2][0:10] for sublist in new_list],

@@ -12,18 +12,19 @@ st.set_page_config(
 )
 
 def loadData():
-    loadList = os.listdir("courtOpinionText/")
-    OpinionText = []
-    NameList = []
-    for item in loadList:
-        with open("courtOpinionText/" + item, "r", encoding="utf-8") as txtObj:
-            OpinionText.append([str(item).split(".")[0], txtObj.read().lower()])
-    with open("CourtOpinion_Hawaii_New.csv", "r", encoding="utf-8") as csvObj:
-        reader = csv.reader(csvObj)
-        for row in reader:
-            NameList.append(row)
-    st.session_state['OpinionText'] = OpinionText
-    st.session_state['NameList'] = NameList
+    if('OpinionText' not in st.session_state or 'NameList' not in st.session_state):
+        loadList = os.listdir("courtOpinionText/")
+        OpinionText = []
+        NameList = []
+        for item in loadList:
+            with open("courtOpinionText/" + item, "r", encoding="utf-8") as txtObj:
+                OpinionText.append([str(item).split(".")[0], txtObj.read().lower()])
+        with open("CourtOpinion_Hawaii_New.csv", "r", encoding="utf-8") as csvObj:
+            reader = csv.reader(csvObj)
+            for row in reader:
+                NameList.append(row)
+        st.session_state['OpinionText'] = OpinionText
+        st.session_state['NameList'] = NameList
 
 def appBody():
     st.sidebar.success("Choose a Search Option.")
