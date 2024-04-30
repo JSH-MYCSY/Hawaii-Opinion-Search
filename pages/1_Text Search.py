@@ -107,7 +107,7 @@ def textSearch(userInput):
 #                     searchedList.append(row)
 #     return(searchedList)
 
-def main():
+def Page1main():
     st.title("Test Opinion Text Search")
     setupAIon()
     #loadData()
@@ -128,4 +128,4 @@ def main():
             st.write("I'm sorry, we could not find any opinions with the provided search term.")
 
 if(__name__ == "__main__"):
-    main()
+    Page1main()
