@@ -1,0 +1,25 @@
+name: run SendEmail.py
+
+on:
+  schedule:
+    - cron: '0 10 * * 5' # At 00:00 Friday.
+  workflow_dispatch:
+
+env:
+  EMAIL_PASSCODE: ${{ secrets.EMAIL_PASSCODE }}  # GitHub Actions secret that is my app password for Google.
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v4 # checkout the repository content to github runner.
+
+      - name: setup python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12' # install the python version needed.
+          
+      - name: execute py script # run main.py.
+        run: python SendEmail.py
