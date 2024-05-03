@@ -3,7 +3,7 @@ from email.mime.text import MIMEText
 from datetime import datetime, timezone, timedelta
 
 # setting up some variables to use in the email function below.
-subject = "Humane Society Update"
+subject = "Court Case Update"
 body = ""
 sender = "joshua.automated.emails@gmail.com"
 recipients = [sender, "caseyjos@hawaii.edu"]
