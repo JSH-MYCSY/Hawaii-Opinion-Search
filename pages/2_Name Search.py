@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+from CourtOpinion_Hawaii_Website_Search import loadData
 
 # sets the page configurations, visually the same as the homepage but with a different page title.
 st.set_page_config(
@@ -23,6 +24,7 @@ def nameSearch(userInput):
 # this is the main function for this page.
 def main():
     st.title("Test Opinion Name Search")
+    loadData()
     user_text = st.text_input("What name do you want to search for?")
     if st.button("Name Search"):
         print(user_text)

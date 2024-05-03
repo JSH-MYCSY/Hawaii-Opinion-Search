@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 from openai import OpenAI
+from CourtOpinion_Hawaii_Website_Search import loadData
 
 # sets the page configurations, visually the same as the home page, but with a different page title.
 st.set_page_config(
@@ -65,6 +66,7 @@ def textSearch(userInput, AISearch):  # This has two inputs in order to tell the
 def main():
     st.title("Test Opinion Text Search")
     setupAIon()
+    loadData()
     user_text2 = st.text_input("What text do you want to search for?")
     if st.button("Text Search"):
         print(user_text2)
