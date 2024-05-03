@@ -1,0 +1,941 @@
+ 
+      NOT  FOR PUBLICATION IN WEST'S  HAWAIʻI  RE PORTS  AND PACIFIC REPORTER  
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ Electronically Filed 
+Intermediate Court of Appeals CAAP-18-0000057 30-APR-2024 07:56 AM Dkt. 150 MO 
+NO. CAAP-18-0000057 
+ 
+ 
+IN THE INTERMEDIATE COURT OF APPEALS 
+ 
+OF THE STATE OF HAWAI‘ I 
+KE KAUHULU O MĀNĀ, AN UNINCORPORATED ASSOCIATION,  
+HAWAI
+‘I ALLIANCE FOR PROGRESSIVE ACTION, A NON-PROFIT 
+CORPORATION, SURFRIDER FOUNDATION, A NON-PROFIT CORPORATION, 
+KOHOLĀ LEO, A NON-PROFIT CORPORATION, PUNOHU KEKAUALUA III,  
+Plaintiffs-Appellants/Cross-Appellees,  
+v. 
+BOARD OF LAND AND NATURAL RESOURCES, OF THE STATE OF HAWAI‘ I,  
+Defendant-Appellee/Cross-Appellee,  
+and 
+SYNGENTA SEEDS, LLC, A LIMITED LIABILITY COMPANY,  
+SYNGENTA HAWAII, LLC, A LIMITED LIABILITY COMPANY,  
+Defendants-Appellees/Cross-Appellants,  
+and 
+DOES 1-27, Defendants 
+APPEAL FROM THE CIRCUIT COURT OF THE FIFTH CIRCUIT 
+(CIVIL NO. 17-1—0094) 
+  
+MEMORANDUM OPINION 
+(By: 
+Hiraoka, Presiding Judge, Nakasone and McCullen, JJ.)  
+  Plaintiffs-Appellants/Cross- Appellees Ke Kauhulu O 
+Mānā, Hawai‘ i Alliance for Progressive Action, Surfrider 
+Foundation, Koholā  Leo, and Punohu Kekaualua III (collectively,           
+ 
+ 
+   These appeals arise out of BLNR's cancellation of 
+Syngenta Seed
+s'  revocable permit (RP) and issuance of a new RP  
+to Syngenta Hawaii in 2017 pursuant to Hawaii Revised Statutes 
+(HRS) § 171-55  for use of state land located in Kekaha, Kaua‘ i 
+(Property); and whether BLNR properly exempted Syngenta Hawaii 
+from having to prepare an environmental assessment (EA) under 
+HRS Chapter 343, the Hawai‘ i Environmental Policy Act (HEPA). 
+While both Appellants and Syngenta raise a number of points of 2
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+Appellants) appeal from the (1) December 20, 2017 "Order 
+Granting [Defendants-Appellees/Cross-Appellants] Syngenta Seeds, LLC [(Syngenta Seeds)] and Syngenta Hawaii, LLC's [(Syngenta Hawaii)] [(collectively, Syngenta)] Motion to Dismiss Complaint or, in the Alternative, for Summary Judgment Filed on August 3,  
+2017; Order Denying [Appellants]'  Motion for Summary Judgment 
+Filed August 9, 2017" (Order Granting Syngenta's MSJ); and (2) January 10, 2018 Final Judgment entered in favor of Syngenta and Defendant-Appellee/Cross-Appellees  Board of Land and Natural 
+Resources, State of Hawai‘ i (BLNR), both filed and entered by the 
+Environmental Court of the Fifth Circuit (Environmental Court  ).
+  
+Syngenta cross-appealed the Order Granting Syngenta's MSJ.  1
+1 The Honorable Randal G.B. Valenciano presided. 
+2 HRS § 171-55 authorizes BLNR to issue annual renewable permits 
+for the temporary occupancy of state lands. HRS § 171-55 (2011), entitled 
+"Permits," states in pertinent part: 
+Notwithstanding any other law to the contrary, the 
+board of land and natural resources may issue permits 
+for the temporary occupancy of state lands or an 
+interest therein on a month- to-month basis by direct 
+negotiation without public auction, under conditions 
+and rent which will serve the best interests of the 
+State, subject, however, to those restrictions as may 
+from time to time be expressly imposed by the board. A 
+permit on a month- to-month basis may continue for a 
+period not to exceed one year from the date of its 
+issuance; provided that the board may allow the permit 
+to continue on a month- to-month basis for additional 
+one year periods. 
+2           
+ 
+ 
+  
+   
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+            
+            
+         
+               
+          
+          
+              
+ NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+error (POEs),  the dispositive issues are whether the 
+Environmental Court correctly concluded that (1) the 
+cancellation of Syngenta Seeds' RP and issuance of Syngenta Hawaii's RP was an "action" triggering HEPA review, (2) the RP was not a "proposed" use subject to HEPA review, and (3) an 
+exemption from HEPA review applied.   3 
+We hold that summary judgment  on all claims in 
+Appellants' Complaint was erroneously granted, where Syngenta 
+Hawaii was a new applicant proposing an "action" subject to HEPA review involving the use of state lands under a new RP, and because there were genuine issues of material fact on whether Syngenta Hawaii's proposed activity was exempt from the 4
+3 Appellants contend the Environmental Court erred by: (1) ruling 
+that the RP was for "existing uses" and not "'proposed' uses" triggering HEPA 
+review; (2) affirming BLNR's approval of an exemption from HEPA for its 
+reissuance of Syngenta's RP; (3) "failing to address whether the [Department 
+of Land and Natural Resources (DLNR)]'s recommended subdivision of land constituted an 'action' under HRS Chapter 343" triggering HEPA review; (4) 
+"failing to address whether the 1982 conservation district use permit 
+[(CDUP)]" was valid for the proposed uses permitted in 2017; and (5) "failing 
+to address" whether BLNR's "failure to assess the environmental impacts" of 
+Syngenta's land use "violated the public trust provisions" of the Hawai‘ i 
+Constitution. 
+ 
+On cross- appeal, Syngenta  contends  that the Environmental  Court 
+erred by: (1) "finding that HEPA applies to decisions  under HRS §171- 55[,]" 
+and (2) "expanding the definition of 'action' under HEPA to include a 
+decision that did not initiate any program or project but merely maintained 
+the status quo."   Syngenta's POE 1 lacks merit because the supreme court held 
+in Carmichael  v. Bd. of Land &  Nat. Res., that " HRS §  171-55's 
+'notwithstanding'  clause does not nullify HEPA's EA requirement[,]" and that 
+HEPA may apply to decisions under HRS §  171-55. 150 Hawai‘ i 547, 567- 68, 506 
+P.3d 211, 231
+-32 (2022).  
+In light of our disposition of Appellants' POEs 1, 2, and 
+Syngenta's POE 2, vacating and remanding for further proceeding
+s, we need not 
+address the remaining POEs. 
+4 "[A] motion seeking dismissal of a complaint is transformed into 
+a Hawai‘i Rules of Civil Procedure [(HRCP)] Rule 56 motion for summary 
+judgment when the circuit court considers matters outside the 
+pleadings." Goran Pleho,
+ LLC v. Lacy
+, 144 Hawai‘i 224, 236, 439 p.3d 176, 188 
+(2019) (citation omitted). Because the Environmental Court "reviewed and 
+considered" the declarations and exhibits submitted with the motions, we 
+apply the summary judgment standard of review under HRCP Rule 56. See 
+id. 
+3           
+ 
+  
+ 
+  
+  
+  
+  
+ 
+ 
+   
+ 
+   
+ 
+  
+ 
+ 
+   
+  
+    
+  
+   
+ NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+preparation of an EA under HRS § 343-6(a)(2)5 and related 
+administrative rules. 
+I. BACKGROUND 
+On June 13, 2017, Appellants filed a Complaint that 
+set forth claims for declaratory and injunctive relief: Count 
+1, Violation of HRS Chapter 343; Count 2, Exemption from HRS 
+Chapter 343 was Invalid; Count 3, Failure to Enforce Conservation District Laws; Count 4, Violation of the Public Trust; and Count 5, Injunction. 
+Syngenta's Motion for Summary Judgment On August 3, 2017, Syngenta filed a "Motion to Dismiss 
+Complaint or, in the Alternative, for Summary Judgment" (Syngenta's MSJ), joined in part by BLNR.
+6 Syngenta's MSJ 
+argued, inter alia, that "HEPA is not implicated" because Syngenta Hawaii's RP "is not an 'action' or the type of 
+'proposed use' subject to HEPA review[,]" as it maintains the 
+"existing use" of the Property. Alternatively, Syngenta argued 
+that even if HEPA was implicated, Syngenta Hawaii's RP was 
+exempt from HEPA because the RP would maintain the existing use and "fits squarely within [an] exemption class . . . and its issuance w[ould] have no significant environmental effect, either individually or cumulatively." Syngenta's MSJ attached 
+the following exhibits:
+7 (1) a February 24, 2017 DLNR staff 
+5 HRS § 343- 6(a)(2) is quoted infra. 
+6 
+therein." BLNR joined Syngenta's MSJ only "as to the result sought 
+7 We deny Syngenta's requests filed June 13, 2018 and September 17, 
+2018, for this court to take judicial notice of the following exhibits: an 
+April 2014 report by the Government Accountability Office; and December 2014 
+and December 2015 BLNR Staff Submittals for annual renewal of RPs on various 
+islands. These documents were not presented below or considered by the 
+Environmental Court, and they do not establish "adjudicative facts." See 
+Hawai‘i Rules of Evidence Rule 201; State v. Kwong, 149 Hawai‘ i 106, 117, 
+482 P.3d 1067, 1078 (2021) (appellate courts "rarely take judicial notice of 
+4           
+ 
+    
+ 
+  
+ 
+ 
+ 
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+submittal recommending the approval of the cancellation of 
+Syngenta Seeds' RP and issuance of a new RP to Syngenta Hawaii 
+(2017 RP Staff Submittal), which included an April 8, 1982 staff submittal recommending the approval of a Conservation District Use Application (1982 CDUA Staff Submittal) and a May 11, 1982 
+letter by BLNR approving the 1982 CDUA (1982 CDUA Approval 
+Letter); and (2) the February 24, 2017 BLNR meeting minutes reflecting approval of the 2017 RP Staff Submittal's recommendation (2017 RP Minutes). 
+Appellants' October 31, 2017 Memorandum in Opposition 
+to Syngenta's MSJ (Opposition) argued, inter alia, that the "BLNR's approval of the RP constituted an 'action' subject to [HEPA]"; "[p]roposals for uses are not required for [HEPA] environmental review"; and the RP was not exempt from HEPA because BLNR did not take a "hard look" at the environmental consequences of the RP, did not consider the "cumulative impacts" of the RP, and relied on "facial compliance of the 
+described land use . . . ." 
+Appellants' Motion for Summary Judgment 
+On August 9, 2017, six days after Syngenta's MSJ was 
+filed, Appellants also filed a Motion for Summary Judgment (Appellants' MSJ). Appellants' MSJ argued that "BLNR violated 
+[HEPA] by failing to prepare an EA for Syngenta's proposed use of public trust lands"; BLNR's grant of a HEPA "exemption for its issuance of the new RP to Syngenta was invalid and in violation of [HEPA]" because it did not follow the proper exemption procedures, did not take a "hard look" at the environmental impacts of the RP, and relied on an "outdated CDUP"; and BLNR thus "violated its duties as a trustee of public 
+facts presented for the first time on appeal" (cleaned up)); Weinberg v. 
+Dickson- Weinberg, 123 Hawai‘ i 68, 79 n.8, 229 P.3d 1133, 1144 n.8 (2010) 
+("Every appeal shall be taken on the record, and no new evidenc
+e shall be 
+introduced in the appellate court." (cleaned up)). 
+5           
+ 
+ 
+   
+ 
+ 
+ 
+   
+   
+  
+  
+     
+ 
+ 
+ 
+ 
+ 
+   
+ NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+trust resources." Appellants' MSJ attached the following 
+pertinent exhibits: a 1981 CDUA for the 1982 CDUP;8 the 
+transcript of a December 3, 1981 public hearing on the 1981 
+CDUA; a January 8, 1982 published "Negative Declaration" (1982 Negative Declaration) regarding the 1981 CDUA; two separate RPs 
+issued pursuant to the 1982 CDUP; a December 20, 1985 request to 
+amend the 1982 CDUP to permit the subdivision of the Property to facilitate the sale of a lease to one of the permittees; and the transcript of a November 6, 1986 public hearing on the requested amendment. 
+On November 1, 2017, Syngenta's Opposition and BLNR's 
+Opposition were filed. Syngenta argued, inter alia, that "HEPA 
+does not apply to BLNR's authorization of a month-to-month [RP]" because the RP "maintained the status quo" and the "exemption complied with HEPA." BLNR did not argue that the RP was not a 
+HEPA "action" or a "proposed use," but argued that the RP was exempt from the preparation of an EA; the 1982 CDUP concerned 
+the "proposed use of land," which was not at issue; the 1982 
+CDUP was not "outdated"; and the RP simply granted "possession 
+of [the] [P]roperty." BLNR's Opposition attached, inter alia, a 
+November 7, 1986 DLNR Staff Submittal recommending the 1982 CDUP 
+be amended, and a December 11, 1986 letter by BLNR approving the 
+1986 CDUA. 
+1982 Conservation District Use Permit 
+The exhibits attached to the cross-MSJs reflect the 
+following pertinent history. 
+In 1981, Kekaha Sugar Company, 
+Ltd. (Kekaha) submitted a CDUA to use 62 acres of state 
+conservation land located in Kekaha, Kaua‘ i for "[f]arming 
+operation[s] necessary to raise sugar cane."
+   
+8 It appears the parties rely on the 1982 CDUA Approval Letter as 
+constituting the 1982 CDUP. 
+6           
+ 
+  
+  
+  
+ 
+ 
+ 
+  
+ 
+ 
+   
+  
+ 
+ 
+  
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+On December 3, 1981, a public hearing was held on 
+Kekaha's 1981 CDUA. At the hearing, Kekaha testified that 
+Kekaha proposed to use the Property to "raise cane" and for 
+"sugar cane cultivation . . . ." Kekaha additionally requested 
+that Pride Company, Inc. (Pride) join Kekaha in the use of a 
+portion of the Property for a "seed operation for research 
+purposes" (seed research operation). BLNR's chairperson stated 
+that the additional request regarding Pride would be "a major amendment" to the CDUA and questioned "whether it would be proper to modify" the CDUA to include more than one applicant. The case was left "open for another 15 days for written testimony," and the chairperson requested that Kekaha submit "something . . . in writing" "indicating that there [was] this possibility of a joint use" and that Pride submit "[s]omething indicating that they [were] interested in using part of" the Property.
+9 
+The 1982 Negative Declaration was published in the 
+January 8, 1982 Environmental Quality Commission Bulletin. As indicated below, the Bulletin explained what a Negative Declaration was, how the public could submit comments, and contained a deadline for challenging the Negative Declaration. The 1982 Negative Declaration for Kekaha's 1981 CDUA appeared as follows: 
+NEGATIVE DECLARATIONS 
+The following are Negative Declarations or determinations 
+made by proposing or approving agencies that certain 
+proposed actions will not have significant effects on the environment
+10 and therefore do not require [Environmental 
+9 The record does not reflect whether there were any submissions by 
+Kekaha or Pride regarding the new request for joint use of the Property with 
+Pride. 
+10 The 1982 Negative Declaration contained a finding of no 
+significant impact (FONSI). "If the agency determines that there will be no 
+significant environmental impact, it issues a finding of no significant 
+impact (FONSI), allowing the project to proceed without further study, although a FONSI determination may be challenged." Sierra Club v. Dep't of 
+Transp.
+, 115 Hawaiʻi 299, 308, 167 P.3d 292, 301 (2007); 
+see Kilakila ‘O 
+7           
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+Impact Statement (EIS)]'s (EIS Reg. 1:4p). Publication in 
+the Bulletin of a Negative Declaration initiates a 60- day 
+period during which litigation measures may be instituted. 
+Copies are available upon request to the Commission.  
+Written comments should be submitted to the agency 
+responsible for the determination (indicated in project 
+title). The Commission would appreciate a copy of your 
+comments. 
+KAUAI 
+CONSERVATION DISTRICT USE APPLICATION FOR COMMERCIAL 
+AGRICULTURAL USE
+, KEKAHA, KAUAI,  
+Kekaha Sugar Company, Ltd./Dept. of Land and Natural 
+Resources  
+The applicant proposes to clear brush from the land and 
+improve the sandy soil for the purpose of raising sugar 
+cane. This would be done by incorporating mud press, settling basin mud and cane trash. The area, when planted 
+with cane, will be irrigated by either an overhead or a 
+drip irrigation system and will be incorporated into the 
+adjacent cane field system. The entire parcel consists of 
+132.5 acres, of which 62 acres are proposed for use. The parcel is located between a racing drag strip and cane and 
+corn farming operations, TMK:4-1- 02:40.  
+(Bolding and footnote added, underscoring and italics in 
+original.)   The 1982 Negative Declaration did not include Pride 
+or mention Pride's proposed use for a seed research operation, and only mentioned Kekaha's proposed "commercial agricultural use" of "raising sugar cane."  
+The April 8, 1982 CDUA Staff Submittal recommended 
+that BLNR approve the 1981 CDUA, and expressly noted Kekaha's request from the December 3, 1981 public hearing for Pride to be included as a co-applicant. The 1982 CDUA Staff Submittal 
+stated that Pride proposed to use 43.6 acres of the Property for "growing of research seed stock fields, primarily corn, sunflowers, and soybeans"; and that Kekaha proposed to use 17.6  
+Haleakala v. Univ.  of Haw. &  David Lassner, 138  Hawai‘i 364, 371, 382 P.3d 
+176, 183 (2016) (explaining that if an "agency determines that the proposed 
+action will not result in a significant environmental impact, then the agency 
+must issue and publish a finding of no significant impact  [(FONSI)] (i.e., a 
+negative declaration) . . . prior to implementing or approving the action." (citations omitted)).  
+8           
+ 
+ 
+    
+  
+ 
+ 
+ 
+ 
+  NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+acres of the Property for "growing seed cane for use in more 
+productive sugar cane growing areas." 
+On May 11, 1982, BLNR sent the 1982 CDUA Approval 
+Letter to Kekaha, noting that Pride was copied as a "co-applicant." The 1982 CDUA Approval Letter addressed to Kekaha 
+stated that the CDUA for "commercial agriculture use" was approved and subject to conditions, including the requirement to "obtain appropriate authorization" from DLNR "for the occupancy of State lands[.]" 
+1983 Revocable Permits In 1983, pursuant to HRS § 171-55, two RPs were issued 
+to Kekaha and Pride. Pride received an RP to "[o]ccupy and use" 43.6 acres of the Property "for the following specified purposes only: AGRICULTURAL (corn seed cultivation)."   Pride later 
+assigned its RP to a company that later became known as Syngenta Seeds.  
+Kekaha  received an RP for 17.6 acres of the Property 
+for "[a]gricultural purposes (cane seed cultivation)."   In 2001, 
+Kekaha surrendered its RP.   Thereafter, the Agribusiness 
+Development Corporation (ADC), which mistakenly thought it had control over the 17.6 acres of the Property (the portion of Kekaha's RP), entered into a license with Syngenta Seeds for the 17.6 acres of the Property "for agricultural purposes" from 2007 to 2017.    
+Syngenta Hawaii's 2017 Revocable Permit On February 24, 2017, DLNR submitted its 2017 RP Staff 
+Submittal, recommending that BLNR "[a]uthorize the cancellation of Revocable Permit No. S-5983 to Syngenta Seeds, LLC and the issuance of a new revocable permit to Syngenta Hawaii, LLC," covering the "entire 61.2 acres because [Syngenta Seeds] has 
+been using the entire area since December 2007 and the CDUP 
+allowed for cultivation of the larger area." The 2017 RP Staff 
+Submittal explained that Syngenta Seeds had formed Syngenta 
+9           
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+Hawaii as a "wholly-owned subsidiary" of Syngenta Seeds to 
+"consolidate[e] its Hawaii operations and assets in a Hawaii 
+limited liability company[,]" allowing Syngenta Hawaii and Syngenta Seeds "to facilitate various management, tax and other business objectives." The 2017 RP Staff Submittal noted that 
+"[t]here will be no change in operations, use, or personnel following the cancellation and reissuance" of the RP, and that "[u]nder the [BLNR]'s current practice, revocable permits are 
+not assignable by the permittee." 
+The 2017 RP Staff Submittal's HRS Chapter 343 HEPA 
+analysis stated as follows: 
+CHAPTER 343 – ENVIRONMENTAL ASSESSMENT: 
+In accordance with Hawaii Administrative Rule [(HAR)] 
+Section 11- 200-8 and the Exemption List for the 
+[DLNR] concurred with by the Environmental Council 
+and dated June 5, 2015, the subject request is exempt 
+from the preparation of an [EA] pursuant to Exemption 
+Class No. 1. See Exemption Declaration [(Exemption Notification)] attached as Exhibit B. 
+Additionally, [CDUA] No. KA-11/9/81- 1380 to Kekaha 
+Sugar Company, Ltd. a nd Pride Company, Inc. was 
+approved by [BLNR] at its meeting on April 8, 1982, 
+Item H-4. 
+(Emphases added.) The 2017 RP Staff Submittal's HEPA 
+recommendation for an EA exemption stated: 
+RECOMMENDATION: That the [BLNR]: 
+1. Declare that, after considering the potential effects of 
+the proposed disposition as provided by Chapter 343, 
+HRS, and Chapter 11- 200, HAR, this project will probably 
+have minimal or no significant effect on the environment and is therefore exempt from the preparation of an [EA]. 
+The Exemption Notification attached to the 2017 RP 
+Staff Submittal pertinently stated the following "[r]egarding 
+the preparation of an [EA] pursuant to Chapter 343, HRS and Chapter 11-200, HAR": 
+10           
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           
+ . . . . 
+ 
+ 
+ 
+ 
+  
+ 
+   
+ 
+  NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+Exemption Class No.: In accordance with [HAR] Section 11-
+200-8 and the Exemption List for 
+[DLNR] concurred with by the 
+Environmental Council and dated June 
+5, 2015, the subject request is 
+exempt from the preparation of an 
+[EA] pursuant to Exemption Class No. 
+1, Item 51, which states the "Permits, licenses, registrations, 
+and rights- of-entry issued by the 
+[DLNR] that are routine in nature, 
+involving negligible impacts beyond 
+that previously existing". [sic] 
+The subject lands have been in 
+agricultural use for many decades, 
+which has resulted in no known 
+significant impacts to the natural 
+and environmental resources in the area. As such staff believes that 
+the proposed issuance of a [RP] for 
+the same use to a new entity would 
+involve negligible or no expansion 
+or change in use of the subject area beyond that previously existing. 
+Recommendation: It is recommended that [BLNR] find that this disposition will probably 
+have minimal or no significant 
+effect on the environment and is 
+presumed to be exempt from the 
+preparation of an [EA]. 
+(Emphases added.) 
+The 2017 RP Minutes reflect BLNR approved the issuance 
+of the new RP to Syngenta  Hawaii, but the new RP itself is not 
+part of the record.  
+Environmental Court's MSJ Ruling 
+On November 9, 2017, a hearing was held on the 
+parties' MSJs.
+   The Environmental Court heard argument regarding 
+the three conditions described in Umberger v. Dep't of Land & 
+Nat. Res. that necessitate preparation of an EA.  As to 
+Condition No. 1, the Environmental Court held that Syngenta 11
+11 In Umberger, the Hawai‘ i Supreme Court held that: 
+An [EA] under HEPA is required if three conditions are 
+satisfied: (1) the proposed activity is an " action" under 
+11           
+ 
+  
+  
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+Hawaii's RP "is an action under the [Umberger] analysis."  As to 
+Condition Nos. 2 and 3, the Environmental Court ruled as 
+follows:  
+THE COURT: . . . . So when you look at 343- 5(a)(1), 
+all of  the actions, all of the nine actions, do start off  
+with "proposed." So when they talk about proposed,  the 
+Court believes they are talking about future action, action 
+that is going to occur, not existing action.  
+ In this situation, we had a permit that  involved  
+existing action and there's been no evidence  that the 
+action has changed before the issuance of  the permit or 
+after the issuance of the permit, so  the second factor the 
+[Appellants] cannot satisfy.  
+ The third factor   -- when you look at   the exemption   
+section, whether it's 11
+-200-8 –  if  you look at the first 
+one and even the exemption   cited by Syngenta, it refers to 
+existing use, and so those are exempt activities, existing 
+use. So  because of that, what the Court is doing is the 
+Court  is granting the motion to dismiss, [Syngenta' s]  
+motion  to dismiss, and denying [Appellants]' [MSJ].  
+(Emphases added.) 
+  On December 20, 2017, the Environmental Court filed 
+its Order Granting Syngenta's MSJ, followed by the January 10, 2018 Final Judgment in favor of BLNR and Syngenta on all claims  
+in Appellants' Complaint. These appeals followed.  
+II. STANDARD OF REVIEW 
+Motion for Summary Judgment 
+A grant or denial of summary judgment is reviewed de 
+novo on appeal. Carmichael, 150 Hawai‘i at 560, 506 P.3d at 224. 
+"Summary judgment is appropriate if the pleadings, depositions, answers to interrogatories, and admissions on file, together 
+HRS § 343- 2 (2010) [(Condition No. 1)]; (2) the action 
+proposes one or more of the nine categories of land uses or 
+administrative acts enumerated in HRS § 343- 5(a) (2010) 
+[(Condition No. 2)]; and (3) the action is not declared 
+exempt pursuant to HRS § 343- 6(a)(2) (2010) [(Condition No. 
+3)]. 
+140 Hawai‘i 500, 512, 403 P.3d 277, 289 (2017) (citation omitted). 
+12           
+ 
+ 
+  
+   
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+with the affidavits, if any, show that there is no genuine issue 
+as to any material fact and that the moving party is entitled to judgment as a matter of law."  Id. (citation omitted). "This 
+court must review the evidence and inferences in the light most favorable to the non-moving party[,]" and "[t]he moving party 
+bears the burden  of demonstrating that there is no genuine issue 
+as to any material fact with respect to the essential elements 
+of the claim or defense and must prove that the moving party is  
+entitled to judgment as a matter of law." Kilakila ‘ O Haleakala, 
+138 Hawai‘ i at 375, 382 P.3d at 187 (citations omitted).  
+"In cases of public importance,
+12 a circuit court 
+should grant a motion for summary judgment 'sparingly, and never on limited and indefinite factual foundations.'" Id. (footnote 
+added) (quoting Molokai Homesteaders Coop. Ass'n v. Cobb, 63 Haw. 453, 458, 629 P.2d 1134, 1139 (1981)). 
+"When both sides move for summary judgment and the 
+trial court grants one motion and denies the other, the 
+reviewing court should review both sides' summary judgment 
+evidence and determine all questions presented." FM Props. 
+Operating Co. v. City of Austin, 22 S.W.3d 868, 872 (Tex. 2000) 
+(citation omitted); see Unite Here! Local 5 v. City & Cnty. of
+12   This case is one of "public importance" because  Appellants allege 
+a violation of HEPA and the public trust doctrine involving  BLNR's approval 
+of the use of s tate land.   See  Kia‘i  Wai  v. Dep't of Water, 151 Hawai‘i 442, 
+447, 454, 517 P.3d 725, 730, 737 (2022) (applying "public importance" summary 
+judgment standard to challenge of EA  for  proposed 18- inch-diameter water-
+transmission relief line); Kilakila  ‘O Haleakala, 138 Hawai‘ i at 367- 68, 375, 
+382 P.3d at  179-80,  187 (applying "public importance"  summary judgment 
+standard to challenge of BLNR's determination that EIS not required for 
+construction of telescope at Haleakala observatory site); Molokai 
+Homesteaders Co- op.  Ass'n v.  Cobb, 63 Haw. 453, 455, 458, 629 P.2d 1134, 
+1137, 1139  (1981) (applying "public importance" summary judgment standard to 
+challenge of agreement between BLNR and corporation for use of Molokai 
+Irrigation System transmission facilities to transport water to resort 
+complex); Ho‘ opakele v. Dep't of Acct.  & Gen. Servs. , No. CAAP- 14-0001328, 
+2016 WL 197012, at *1- 3 (Haw. App. Jan. 12, 2016) (m em.  op.) (applying 
+"public importance" summary judgment standard to challenge of EA  for Mauna 
+Kea correctional facility).  
+13           
+ 
+  
+ NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+Honolulu, 123 Hawai‘ i 150, 161-66, 178-81, 231 P.3d 423, 434-39, 
+451-54 (2010) (looking to the evidence attached to both 
+defendants' and plaintiffs' cross-
+motions for summary judgment 
+in determining whether the defendants' summary judgment was appropriately granted). 
+III. DISCUSSION 
+The Environmental Court's summary judgment ruling  
+turned on its analysis of the three conditions triggering HEPA 
+review set forth in Umberger, 140 Hawai‘ i at 512, 403 P.3d at 
+289. We conclude that the Environmental Court erred in its 
+analysis of 
+Umberger  Condition Nos. 2 and 3 and in granting 
+Syngenta's MSJ.  
+A. Umberger Condition No. 1: Syngenta Hawaii's 
+proposed activity under the new RP was an "action" under HRS § 343-2 subject to HEPA 
+review. 
+As to Condition No. 1, an EA is required if "the 
+proposed activity is an 'action' under HRS § 343
+-2 (2010)[.]" 
+Umberger
+, 140 Hawai‘i at 512, 403 P.3d at 289 (citation omitted). 
+The Environmental Court concluded in its oral ruling that 
+Syngenta's new RP was an "action" under Umberger. We initially note that the parties and the Environmental Court did not differentiate between BLNR's issuance of an HRS § 171-55 revocable permit, and the permittee's proposed activity under a  
+permit. Here, BLNR's issuance of a revocable permit  was not an 
+"action" for purposes of HEPA. It was the permittee's activity  
+under the permit that potentially constitutes an "action." 
+Carmichael, 150 
+Hawai‘i at 569, 506 P.3d at 233 (explaining that 
+the revocable permits themselves were not HEPA "actions," but 
+rather it was the applicant's permitted activity that 
+constituted HEPA "actions"); Umberger, 140 Hawai‘ i at 504, 514-
+15, 403 P.3d at 281, 291-92. 
+14           
+ 
+   
+ 
+ 
+ 
+  
+  
+ NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+Syngenta argues that the issuance of the RP was not an 
+"action" because it was not a "project" or "program," as it 
+"merely maintained the status quo" or "existing conditions on a temporary basis with no new actions/plans contemplated or authorized."
+13 Appellants argue that "[p]rograms or projects 
+subject to [HEPA] may be ongoing" and that BLNR made "no specific finding" that Syngenta's RP would "maintain the status quo." 
+"Action" is defined as "any program or project to be 
+initiated by any agency or applicant." HRS § 343-2 (2010). In Umberger, the supreme court defined "project" as "a specific plan or design" or "a planned undertaking[,]" and a "program" as "a plan or system under which action may be taken toward a 
+goal." 140 
+Hawai‘i at 513, 403 P.3d at 290. In both Umberger  
+and Carmichael, the supreme court held that the continuation of 
+permitted activity may constitute an "action" for HEPA purposes.  
+See Carmichael, 150 Hawai‘ i at 553, 569, 506 P.3d at 217, 233 
+(holding that the continuation of water permits "during the past 
+decade to divert more than 100 million gallons of water per day  
+from east Maui streams required an [EA]" pursuant to HEPA); 
+Umberger, 140 Hawai‘ i at 504, 514-15, 403 P.3d at 281, 291-92 
+(holding that the continuation of one-year aquarium collection 
+permits, which "authorize[d] the collection of fish or other 
+aquatic life for aquarium purposes" "per year" was a "program" 
+or "project" and a HEPA "action"). The Carmichael  court 
+explained that while neither the "continuation decision nor the  
+[RPs] themselves are HEPA 'actions,' . . . it is applicant's permitted activity -- i.e., the activity for which the 
+[applicants] initially sought permit approval -- that 
+13 BLNR "assumes, without conceding, that the cancellation and re-
+issuance of [the RP] was an 'action' under HRS § 343-2 . . . ." 
+15           
+ 
+ 
+  
+ 
+  Here, BLNR's cancellation of Syngenta Seeds' RP and 
+issuance of the new RP to Syngenta Hawaii were not HEPA 
+"actions." The commercial agricultural activity proposed by Syngenta Hawaii under the new RP, however, constituted an "action" within the meaning of HEPA. See id. The new RP 
+permitted a new entity, Syngenta Hawaii, to occupy the Property to engage in a "project" or "program" of commercial agriculture  
+in order to earn profit. See HRS § 343-2. Syngenta Hawaii's 
+permitted activity is a "project" because it "facilitated a deliberate and coordinated effort" to use the property for 
+commercial agricultural purposes. See Carmichael, 150 
+Hawaiʻi at 
+569, 506 P.3d at 233; Umberger, 140 Hawai‘ i at 514, 403 P.3d at 
+291. The permitted activity is also a "program" because it 
+involves a "'plan or system'" to use the Property for commercial agricultural purposes with a "'goal'" to earn profit. See 
+Carmichael, 150 Hawai‘ i at 569, 506 P.3d at 233 (citation 
+omitted); Umberger, 140 Hawai‘ i at 514, 403 P.3d at 291. The 
+Environmental Court correctly concluded that Syngenta  Hawaii's  
+proposed activity under the new  RP was an "action"  subject to 
+HEPA review, and that Condition No. 1 was met. See id. at 560, 
+506 P.3d at 224; Kilakila ʻ O Haleakala, 138 Hawaiʻ i at 375, 382 
+P.3d at 187.  NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+constitutes 'action' within the meaning of HEPA." Id. at 569, 
+506 P.3d at 233 (citation omitted). The Carmichael permittees' 
+activity constituted a "project" because "the permits facilitated a deliberate and coordinated effort by the . . . Defendants to use their water system to deliver water and manage 
+water use for the permitted areas." Id. (citation omitted). 
+The permitted activity was also a "program" because it involved 
+a "'plan or system'" with the purpose of "meet[ing] . . . Defendants' (and their customers') water needs." Id. (citation 
+omitted). 
+16           
+ 
+  
+  
+  
+ 
+ 
+ 
+  
+ 
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+B. Umberger Condition No. 2: Syngenta Hawaii 
+was a new applicant proposing an "action" under a new RP for the use of state lands 
+under HRS § 343-5(a)(1). 
+As to Condition No. 2, an EA is required if "the 
+action proposes one or more of the nine categories of land uses  
+or administrative acts enumerated in HRS § 343-5(a) (2010)."   
+Umberger, 140 Hawai‘ i at 512, 403 P.3d at 289 (citation omitted). 
+HRS § 343-5(a)(1) provides that an EA is required for actions 
+that "[p]ropose the use of state . . . lands . . . ." While Syngenta Hawaii's proposed activity under the new RP involved the use of state lands, the Environmental Court concluded that HRS § 343-5(a)(1) applies to actions that are "proposed," which the court construed to mean "future action" and excluding "existing action[,]" and thus, the second condition triggering HEPA review was not met on this basis.  14 
+Relying on 
+Umberger and Carmichael, Appellants argue 
+that the Environmental Court erroneously ruled that BLNR's issuance of the RP to Syngenta Hawaii was for "existing uses" and not "'proposed' uses" subject to HEPA review.  BLNR 
+"assumes, without conceding, that the cancellation and re-issuance of [the RP] . . . met one of the 'triggers' under HRS § 343-5(a)." Syngenta argues, inter alia, that unlike the RP in 
+Carmichael, its RP did not grant Syngenta Hawaii the "permission 
+14   HRS § 343- 5(a)  (2010), entitled "Applicability and requirements," 
+mandates an EA for various categories of land use set forth in subsections 
+(1) through (9), of which subsection (1) pertaining to use of state land, is 
+relevant here. This subsection states:  
+(a)
+ Except as otherwise provided, an [EA] shall be required 
+for actions that: 
+(1) Propose the use of state or county lands . . .; 
+provided that the agency shall consider environmental factors and available alternatives in its feasibility 
+or planning studies; . . . . 
+(Emphases added.) 
+17           
+ 
+   
+  Here, the record reflects that Syngenta Hawaii was a 
+new applicant for a new 
+RP. Syngenta Seeds and  Syngenta Hawaii 
+are separate legal entities. The 2017 Exemption Notification 
+noted the RP would be issued "to a new entity . . . ."  BLNR 
+adopted the 2017 RP Staff Submittal's recommendation to cancel 
+Syngenta Seeds' RP and to issue "a new [RP] to Syngenta Hawaii  
+. . . ."   Thus, Syngenta Hawaii was  a new applicant proposing an 
+"action" under a new RP for the use of state lands under HRS § 343-5(a)(1), and the Environmental Court erred by concluding 
+that Condition No. 2 was not met. See Carmichael, 150 
+Hawai‘i at 
+569, 506  P.3d at 233; Kilakila ‘ O Haleakala, 138 Hawai‘ i at 375, 
+382 P.3d at 187.  
+ 
+ 
+     
+ 
+ 
+  
+ 
+ 
+ . . . . 
+ 
+ 
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+to use any resources," but rather sought a "corporate name 
+change to an existing [RP]." 
+C. Umberger Condition No. 3: There were 
+genuine issues of material fact about whether Syngenta Hawaii's proposed activity 
+was exempt from HEPA review. 
+As to Condition No. 3, an EA is required if "the 
+action is not declared exempt pursuant to HRS § 343-6(a)(2)  
+(2010)."   Umberger, 140 Hawai‘ i at 512, 403 P.3d at 289 
+(citation omitted). Pursuant to HRS § 343-6(a)(2), HAR § 11-15
+15 HRS § 343-6(a)(2) (2010), entitled "Rules," provides for agencies 
+to adopt rules and establish procedures to exempt actions from environmental 
+review. This subsection states:  
+(a) After consultation with the affected agencies, the council shall adopt, amend, or repeal necessary 
+rules for the purposes of this chapter in accordance 
+with chapter 91 including, but not limited to, rules 
+that shall: 
+(2) Establish procedures whereby specific types of 
+actions, because they will probably have minimal or no significant effects on the environment, are declared exempt from the preparation of an [EA][.] 
+(Emphasis added.) 
+18           
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+200-8(a) (repealed 2019), established "Exempt Classes of Action" 
+as follows: 
+(a) Chapter 343, HRS, states that a list of classes of 
+actions shall be drawn up which, because they will probably 
+have minimal or no significant effect on the environment, 
+may be declared exempt by the proposing agency or approving 
+agency from the preparation of an [EA] provided that 
+agencies declaring an action exempt under this section shall obtain the advice of other outside agencies or 
+individuals having jurisdiction or expertise as to the 
+propriety of the exemption. Actions declared exempt from 
+the preparation of an [EA] under this section are not 
+exempt from complying with any other applicable statute or 
+rule. . . . 
+(Emphasis added.) DLNR's exemption list under HAR § 11-200-8(a) 
+included Exemption Class No. 1, Item 51, which exempted: 
+"Permits, licenses, registrations, and rights-of-entry issued by the [DLNR] that are routine in nature, involving negligible 
+impacts beyond that previously existing." (Emphasis added.) The Environmental Court concluded that because the exemption at issue here "refers to existing use," it applied to Syngenta Hawaii. 
+Appellants argue, inter alia, that BLNR improperly 
+relied on the 1982 CDUP for HEPA compliance because "Syngenta's proposed uses of the [Property] were not covered under its terms[,]" and that the 1982 CDUP was "issued to a different applicant and for different uses . . . ." Appellants argue that 
+the 1982 Negative Declaration was for Kekaha's "soil improvements, clearing brush, [and] 'raising sugar cane,'" and that the "CDUP processes did not entail examination of Syngenta's agribusiness practices, which include restricted use 
+pesticide use and GMO cultivation." Appellants argue that 
+because of the "[l]acking . . . environmental disclosure 
+documents, [BLNR] was not informed of the amount and types of pesticides that would be used" in conjunction with the seed research operation. 
+19           
+ 
+  
+  
+   
+ 
+  
+  
+ 
+ 
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+BLNR argues, inter alia, that Syngenta's RP would 
+"change the name on the permit and amend the acreage of land it 
+covered, while not changing anything that Syngenta was already permitted to do on the [Property]." BLNR argues that the 1982 
+CDUP authorized the use of the Property for "commercial 
+agricultural use"; Syngenta's RP would "only authorize the 
+occupancy of the [state] land on a temporary basis"; and the RP does "not authorize any specific type of land use . . . ." Additionally, BLNR "noted that there were no known environmental consequences from the past agricultural use of the [Property] by 
+Syngenta . . . ." Syngenta argues, inter alia, that the new RP 
+"did not change Syngenta's existing seed farm operations, facilities and personnel in any manner." 
+In determining whether an "action" is exempt from 
+HEPA, "the agency must conduct a four-step analysis:" 
+an action is exempt from HEPA if (1) it is within an exempt 
+class  promulgated by the Environmental Council in HAR § 11-
+200-8(a)  or within an exemption category created by the 
+agency itself pursuant to its authority under HAR § 11- 200-
+8(d); (2) the relevant exemption category can be applied because the activity does not have a significant cumulative impact and it does not have a significant impact on a 
+particularly sensitive environment, see  HAR § 11- 200-8(b); 
+(3) the agency obtained the advice of other agencies or individuals having jurisdiction or expertise as to the 
+propriety of the exemption, HAR § 11- 200-8(a); and (4) the 
+action will probably have minimal or no significant effects 
+on the environment, HRS §  343-6(a)(2); see  also  HAR § 11-
+200-8(d); Sierra Club, 115 Hawai‘ i at 315- 16, 167 P.3d at 
+308-09.  
+Umberger, 140 Hawai‘ i at 524, 403 P.3d at 301 (emphasis added). 
+"If the action fails to satisfy any of the four requirements 
+discussed, it is not exempt from HEPA." Id. (citation omitted). 
+Here, the Environmental Court's analysis was 
+incomplete because it stopped at step (1) of the above analysis  
+(i.e. the exemption class determination), and it did not 
+consider steps (2), (3), and (4). See id. We conclude that 
+20           
+ 
+ 
+  
+   
+ 
+  
+  
+   
+ 
+  
+  
+  
+  
+   
+ 
+ 
+  
+ 
+  NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+there was a material factual dispute as to step (1), whether the 
+exemption was properly applied as a matter of law, given HAR § 11-200-8(a)'s requirement that the action be one that "will probably have minimal or no significant effect on the environment" for inclusion in the exemption class. 
+The 2017 Exemption Notification explained that the 
+Property had "been in agricultural use for many decades, which has resulted in no known significant impacts to the natural and environmental resources in the area." To support this finding, 
+the 2017 RP Staff Submittal relied on the 1982 CDUP, and attached the 1982 CDUA Staff Submittal and 1982 CDUA Approval Letter. The record reflects, however, that the 1981 CDUA was 
+initiated by Kekaha for raising sugar cane; Pride was later added as a co-applicant for its seed research operation; the FONSI in the 1982 Negative Declaration only applied to Kekaha and not Pride; and the FONSI determined that Kekaha's proposed activity of "raising sugar cane" would "not have significant 
+effects on the environment" and did "not require [an] EIS 
+. . . ." The record of the 1982 CDUP presented here does not 
+reflect that the environmental impact of Pride's proposed seed research operation activity was considered or reviewed with Kekaha's 1981 CDUA. 
+In addition, the record is insufficient to support the 
+2017 Exemption Notification's determination that there was "no expansion or change in use of the subject area beyond that previously existing." The record does not contain a detailed 
+description of Syngenta Hawaii's activity under the new RP vis-
+à-vis the previously existing permitted activity to support the conclusion of "no expansion or change in use . . . ." Nor does 
+the record establish whether Syngenta Seeds' permitted activity 
+was similar to the "raising sugar cane" activity included in the 
+1982 FONSI, or similar to the seed research operation activity 
+21           
+ 
+  
+ 
+ 
+  NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+that was not included in the 1982 FONSI. Appellants presented 
+evidence of what they claimed were environmental impacts from Syngenta's seed research operation, which included, inter alia, harm to marine life, insects and native plants, soil, and an increase in certain types of illnesses from Syngenta's use of 
+pesticides. That evidence created genuine issues of material 
+fact which should have precluded summary judgment. 
+On this record, we conclude there are genuine issues 
+of material fact as to whether BLNR could properly rely on the 
+1982 CDUP in determining that there were "no known significant impacts"  on the environment  from Syngenta Hawaii's proposed 
+activity, and whether Syngenta Hawaii's proposed activity under the new RP "will probably have minimal or no significant effect on the environment" for an HAR § 11-200-8(a) exemption. Thus, as to Condition No. 3, the Environmental Court erred in concluding as a matter of law that Syngenta Hawaii's proposed activity was exempt from HEPA review because it qualified for 
+inclusion in "Exemption Class No. 1, Item 51[.]" See HRCP Rule 
+56; Carmichael, 150 
+Hawai‘i at 560, 506 P.3d at 224; Kilakila ‘ O  
+Haleakala, 138 Hawai‘ i at 375, 382 P.3d at 187.  
+IV.
+ CONCLUSION 
+For the foregoing reasons, we vacate the (1) December 
+20, 2017 "Order Granting Syngenta Seeds, LLC and Syngenta 
+Hawaii, LLC's Motion to Dismiss Complaint or, in the Alternative, for Summary Judgment Filed on August 3, 2017; Order Denying Plaintiffs' Motion for Summary Judgment Filed August 9, 2017"; and (2) January 10, 2018 Final Judgment, both filed and entered by the Environmental Court of the Fifth Circuit.  We 
+22           
+ 
+ 
+   
+ 
+ 
+  
+ NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+remand for further proceedings in accordance with this 
+Memorandum Opinion.  
+DATED: Honolulu, Hawai‘ i, April 30, 2024.  
+On the briefs:   
+ /s/ Keith K. Hiraoka  Lance D. Collins  Presiding Judge  for Plaintiffs-Appellants/   Cross-Appellees.  /s/ Karen T. Nakasone   Associate Judge  Timothy H. Irons   for Defendants-Appellees/  /s/ Sonja M.P. McCullen  Cross-Appellants.  Associate Judge    Ewan C. Rayner  
+Deputy Solicitor General  
+for Defendant-Appellee/  
+Cross-Appellee.  
+23
+ 
