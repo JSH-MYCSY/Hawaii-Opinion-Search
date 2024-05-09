@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from openai import OpenAI
-from CourtOpinion_Hawaii_Website_Search import loadData
+import os, csv
 
 # sets the page configurations, visually the same as the home page, but with a different page title.
 st.set_page_config(
@@ -29,6 +29,22 @@ def ChatGPTSubjectSearch(userInput, opinionExcerpt):
 def setupAIon():
     global AIon
     AIon = st.toggle("OpenAI Refined Search")
+
+# Copy of function from Home Page because streamlit does not like it when you import from other pages.
+def loadData():
+    if('OpinionText' not in st.session_state or 'NameList' not in st.session_state):
+        loadList = os.listdir("courtOpinionText/")
+        OpinionText = []
+        NameList = []
+        for item in loadList:
+            with open("courtOpinionText/" + item, "r", encoding="utf-8") as txtObj:
+                OpinionText.append([str(item).split(".")[0], txtObj.read().lower()])
+        with open("CourtOpinion_Hawaii_New.csv", "r", encoding="utf-8") as csvObj:
+            reader = csv.reader(csvObj)
+            for row in reader:
+                NameList.append(row)
+        st.session_state['OpinionText'] = OpinionText
+        st.session_state['NameList'] = NameList
 
 # This is the search function for the program.
 @st.cache_data(ttl="1d", max_entries=10)  # This function is meant to cache the last 10 search results for 1 day so that they can be pulled up faster.

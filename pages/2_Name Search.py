@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from CourtOpinion_Hawaii_Website_Search import loadData
+import os, csv
 
 # sets the page configurations, visually the same as the homepage but with a different page title.
 st.set_page_config(
@@ -11,6 +11,22 @@ st.set_page_config(
         'Report a bug': "mailto:caseyjos@hawaii.edu?subject=Reporting a Bug for: CourtOpinionSearch&body=I have found a bug on your website's name search page. The bug is: . Please fix this bug as your website is awesome and I really want to continue using it."  # This menu option will allow someone to report a bug to me using their email client.
     }
 )
+
+# Copy of function from Home Page because streamlit does not like you importing from other pages.
+def loadData():
+    if('OpinionText' not in st.session_state or 'NameList' not in st.session_state):
+        loadList = os.listdir("courtOpinionText/")
+        OpinionText = []
+        NameList = []
+        for item in loadList:
+            with open("courtOpinionText/" + item, "r", encoding="utf-8") as txtObj:
+                OpinionText.append([str(item).split(".")[0], txtObj.read().lower()])
+        with open("CourtOpinion_Hawaii_New.csv", "r", encoding="utf-8") as csvObj:
+            reader = csv.reader(csvObj)
+            for row in reader:
+                NameList.append(row)
+        st.session_state['OpinionText'] = OpinionText
+        st.session_state['NameList'] = NameList
 
 # name search function
 @st.cache_data(ttl="1d", max_entries=10) # caches the last ten search results for one day in order to provide faster results upon searching again.
