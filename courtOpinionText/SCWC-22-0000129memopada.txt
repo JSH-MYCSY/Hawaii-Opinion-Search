@@ -1,0 +1,1190 @@
+ 
+ 
+ 
+ 
+   
+ 
+  
+ 
+  
+ 
+ 
+ 
+   
+ 
+  ________________________________________________________________  
+________________________________________________________________  *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER  *** 
+Electronically Filed 
+Supreme Court SCWC-22-0000129 20-MAY-2024 04:11 PM Dkt. 15 MO 
+SCWC-22-0000129 
+ 
+IN THE SUPREME COURT OF THE STATE OF HAWAI
+‘I 
+STATE OF HAWAI ‘I, 
+Respondent/Plaintiff-Appellee, 
+ 
+vs. 
+ 
+PATRICK H. OKI, 
+Petitioner/Defendant-Appellant. 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS 
+(CAAP-22-0000129 and CAAP-21-0000278 (consolidated); 
+CR. NO. 1PC151000488) 
+ 
+MEMORANDUM OPINION 
+(By: Recktenwald, C.J., Circuit Judge Castagnetti, in place of 
+Ginoza, J., recused, and Circuit Judge Chang, in place of 
+Devens, J., recused, with McKenna, J. dissenting, with whom 
+Eddins, J., joins) 
+I. INTRODUCTION 
+This appeal arises from Patrick H. Oki’s conviction 
+and sentence for fraudulently obtaining money from a local 
+accounting firm. Oki was convicted of three counts of first-
+degree theft, one count of second-degree theft, three counts of 
+money laundering, two counts of use of a computer in the  
+ 
+  
+ 
+ *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+commission of the thefts in the first degree charged in counts 2 
+and 3 (sometimes “use of a computer” or “counts 8 and 9”), and 
+four counts of second-degree forgery. He was sentenced to 
+twenty years of incarceration for the use of a computer counts -
+the longest of his sentences, all of which were to be served 
+concurrently. Oki was also ordered to pay restitution of 
+$440,158.54, pursuant to statute during his incarceration, and 
+at a rate of at least $30 per month after his release. 
+In his application for writ of certiorari, Oki raises 
+three issues. 
+First, Oki challenges his convictions for use of a 
+computer in the commission of a separate theft in counts 8 and 9 as illegal because after he was charged with the offenses, but 
+before his trial and sentencing, the statutory subsection under 
+which he was convicted was repealed. The act repealing the 
+subsection, Act 231, contained a savings clause, which provided 
+in relevant part, “[t]his Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that 
+were begun before its effective date.” 2016 Haw. Sess. Laws Act 
+231, § 70 at 775. 
+Second, Oki challenges the payment schedule in his 
+restitution order. The Intermediate Court of Appeals (ICA) held 
+that Oki waived any challenge to the time and manner of 
+restitution payment. Oki disagrees and requests this court 
+2  
+ 
+  
+  *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+clarify the difference between waiver, which forecloses plain 
+error review, and forfeiture, under which plain error review 
+still applies. Oki further contends that the circuit court’s 
+restitution payment schedule was plainly erroneous because it 
+failed to consider Oki’s ability to pay in setting the manner 
+and time of payment pursuant to Hawai‘ i Revised Statutes (HRS) 
+§ 706-646(3) (Supp. 2017). 
+Third, Oki argues the ICA erroneously held that its 
+remand mandate in a prior appeal by Oki “precluded” the circuit 
+court from revisiting the amount of restitution on remand. The 
+circuit court had initially ordered Oki to pay restitution to 
+the firm, including, but not limited to, four of his former partners in their capacity as partners; the ICA vacated as to 
+that order only and remanded to the circuit court with 
+directions to order restitution directly to the firm itself. On 
+remand, Oki filed a motion for a restitution hearing and study, 
+arguing that the circuit court needed to recalculate restitution 
+entirely because the record lacked evidence of the victim’s 
+“reasonable and verified losses” pursuant to HRS § 706-646(2) (2014). The circuit court denied the motion. 
+We resolve Oki’s issues as follows. With respect to 
+the first issue, this case requires a straightforward 
+application of our precedent in State v. Reis
+, 115 Hawai‘i 79, 
+165 P.3d 980 (2007). There, we interpreted a savings clause 
+3  
+ 
+  
+ *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+that contained the same language as Act 231, which is at issue 
+here. We concluded that the defendant in Reis did not get the 
+benefit of the ameliorative amendments contained in the 
+applicable statute, because (1) her prosecution had begun before 
+the effective date of the statute, and (2) she had committed the 
+crime — and thus “incurred” the penalty — before that date. 
+Those are exactly the same circumstances as Oki. Therefore, we 
+affirm Oki’s convictions for use of a computer in the commission of a separate theft because the “proceedings” of his case began 
+before Act 231’s effective date, and he also committed the 
+crimes before those crimes were statutorily repealed. 
+Second, the ICA correctly concluded that Oki waived 
+his claim as to the restitution payment schedule, and the 
+circuit court’s restitution payment schedule was not plainly 
+erroneous. Contrary to Oki’s contention, the circuit court 
+expressly considered Oki’s ability to pay in setting the manner 
+and time of payment pursuant to HRS § 706-646(3). 
+Finally, the ICA did not hold that its remand mandate 
+“precluded” the circuit court from reconsidering the restitution amount on remand; rather, the ICA correctly held that the 
+circuit court did not err in denying Oki’s motion for a 
+restitution hearing and study. The restitution amount had 
+already been determined based on the “reasonable and verified 
+losses” of the accounting firm and the circuit court’s decision 
+4  
+ 
+   
+ 
+ 
+   
+  
+   
+ 
+    *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+“closely adhere[d]” to the true intent and meaning of the ICA’s 
+remand mandate. See HRS § 706-646(2); In re Haw. Elec. Light 
+Co. (In re HELCO), 149 Hawai‘ i 239, 241, 487 P.3d 708, 710 
+(2021). 
+We therefore affirm the ICA. 
+II. BACKGROUND 
+A. Factual Background 
+Oki’s charges are based on his alleged conduct 
+carrying out four fraudulent schemes between 2011 and 2014 as managing principal partner of local accounting firm Spire 
+Hawai‘i, LLP (Spire), formerly PKF Pacific Hawai‘ i
+ , LLP (PKF). 
+State v. Oki (
+Oki I), No. CAAP-18-0000501, 2020 WL 3027401, at 
+*1 (Haw. App. June 5, 2020) (mem. op.). Oki’s former partners 
+at Spire, Lawrence Chew, Deneen Nakashima, Dwayne Takeno, and Trisha Nomura (collectively, “former partners”) began to suspect 
+Oki of stealing money from PKF and reported him to the police in 
+2014. Id.
+B. Initial Circuit Court Trial Proceedings
+1 
+On April 1, 2015, Oki was indicted for thirteen 
+charges: three counts of Theft in the First Degree, in violation 
+of Hawai‘i Revised Statutes (HRS) §§ 708-830.5(1)(a) and -830(2); 
+one count of Theft in the Second Degree, in violation of HRS §§ 
+1 The Honorable Rom A. Trader presided. 
+5  
+ 
+  
+   *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+708-831(1)(b) and -830(2); three counts of Money Laundering, in 
+violation of HRS § 708A-3(1)(a)(ii)(A); two counts of Use of a 
+Computer in the Commission of a Separate Crime, in violation of 
+HRS § 708-893(1)(a) (Counts 8 and 9); and four counts of Forgery 
+in the Second Degree, in violation of HRS § 708-852. 
+With respect to counts 8 and 9 of the indictment, the 
+two use of a computer charges attendant to the thefts in the 
+first degree charges in counts 2 and 3, HRS § 708-893(1)(a) provided in relevant part, “(1) A person commits the offense of 
+use of a computer in the commission of a separate crime if the 
+person: (a) Intentionally uses a computer to obtain control 
+over the property of the victim to commit theft in the first or 
+second degree.” Subsection (2) of HRS § 708-893 then provided 
+and still provides that the “[u]se of a computer in the 
+commission of a separate crime is an offense one class or 
+grade . . . greater than the offense facilitated. 
+Notwithstanding any other law to the contrary, a conviction under this section shall not merge with a conviction for the 
+separate crime.” 
+6    Before trial, Oki filed a motion to dismiss the use of 
+a computer in the commission of a separate theft charges, counts 
+8 and 9; he then filed an amended motion. He argued that the 
+use of a computer charges were defective because they 
+(1) involved penalties amounting to cruel “and/or” unusual  
+ 
+    
+ 
+   
+ 
+    
+ 
+  *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+punishment;  (2) violated his rights to due process and equal 
+protection; (3) were not rationally related to a legitimate 
+public purpose; (4) were overbroad as a matter of law; and 
+(5) did not apply to this case pursuant to rules of statutory 
+construction.  2
+As support for his cruel and unusual punishment 
+argument, Oki cited House Bill 2561 of 2016, which at that time, 
+had been approved by the legislature but had not yet become law. Oki noted that the bill, which later became Act 231 of 2016, 
+would completely repeal the subsection of HRS § 708-893 upon 
+which Oki’s use of a computer charges were based, which was HRS 
+§ 708-893(1)(a). Act 231 became law on July 11, 2016, with an 
+effective date of July 1, 2016, after Oki was charged but before 
+he was tried and sentenced. 
+2016 Haw. Sess. Laws Act 231, § 72 
+at 776. 
+The circuit court denied Oki’s motion to dismiss. 
+With respect to Act 231, the circuit court relied on the act’s 
+savings clause, which provides in part, “SECTION 70. This Act 
+does not affect rights and duties that matured, penalties that 
+2 The Hawaiʻi Constitution’s language differs from that of the 
+United States Constitution. The Eighth Amendment of the latter bans “cruel 
+and unusual punishment,” but our 
+article I, s ection 12 prohibits the 
+infliction of “cruel or unusual punishment.” 
+7  
+ 
+    
+     
+ 
+   
+ 
+ 
+  
+  *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+were incurred, and proceedings that were begun before its 
+effective date.”3 2016 Haw. Sess. Laws Act 231, § 70 at 775. 
+On November 30, 2016, the circuit court entered its 
+Findings of Fact, Conclusions of Law, and Order Denying 
+Defendant’s Motion to Dismiss Counts 8 and 9 of the Indictment 
+(FOFs/COLs/Order denying motion to dismiss). The circuit court 
+concluded Act 231 did not affect Oki’s case because Oki’s 
+“proceedings,” which it interpreted as his prosecution, began before Act 231 was enacted. 
+Following a bench trial, Oki was convicted of all 
+charges except that one count of first-degree theft in violation 
+of HRS §§ 708-830.5(1)(a) and -830(2) was reduced to the lesser-
+included charge of second-degree theft in violation of HRS 
+§ 708-831(1)(b) (Supp. 2012) and -830(2) (Supp. 2005). 
+The circuit court then sentenced Oki to concurrent 
+sentences of ten years each for counts 1 through 3, five years 
+for count 4, ten years each for counts 5 through 7, twenty years each for counts 8 and 9, and five years each for counts 10 
+through 13, with credit for time served. The circuit court 
+entered an initial judgment of conviction and sentence on 
+October 17, 2017; after determining restitution, it entered an 
+amended judgment of conviction and sentence on May 24, 2018. 
+3  The savings clause goes on to exempt three sections of the act 
+involving dru
+g-related offenses (specifically, methamphetamine).  2016 Haw. 
+Sess. Laws Act 231, § 70(2) at 775- 76.  
+8  
+ 
+  
+ 
+ 
+ *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+ As to the time and manner of payment, the circuit 
+court stated: The State filed a motion for restitution asserting the 
+former partners were direct victims to whom Oki owed restitution 
+under HRS § 706-646. Oki opposed the motion and requested no 
+restitution or, in the alternative, that restitution be ordered 
+to be paid to Spire. 
+Spire also submitted letters to the 
+circuit court requesting restitution as the victim of Oki’s theft crimes. 
+The circuit court granted the State’s motion for restitution and ordered Oki to pay $440,178.54 in restitution. 
+Restitution is to be paid as provided by law while 
+Mr. Oki is incarcerated and thereafter at a rate –  at the 
+bare minimum it would need to be $30 a month. I certainly
+full well recognize based upon Mr. Oki’s income earning 
+ability, as reflected in this case but also in the   
+presentence report, and while I certainly appreciate that it has been adversely impacted by his conviction in this 
+case, at this point I don’t have, I believe, sufficient information to know what would be reasonable beyond that 
+$30 a month.   
+But if either side wishes to revisit that, and most 
+likely it would be the State, to seek an increase in the 
+amount ordered –  but that would depend upon Mr. Oki’s 
+ability to earn, his income earning capacity 
+–  then the 
+Court’s more than willing to consider that at a future 
+date.  
+9  The circuit court also entered a free-standing 
+restitution order ordering Oki to pay $440,158.54 in restitution 
+to PKF, “including but not limited to Lawrence Chew, Deneen 
+Nakashima, Dwayne Takeno[, and] Trisha Nomura in their capacities as [former] partners of PKF.” Restitution was to be  
+ 
+  
+ 
+ 
+ 
+     
+ 
+ 
+  
+ 
+ *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+paid as provided by HRS § 353-22.6 (Supp. 2016)4 during Oki’s 
+incarceration and “thereafter at a rate of at least $30.00 per 
+month.” 
+C. Oki I 
+During the first appeal, Oki asserted: 
+(1) the circuit court erred in denying Oki’s Motion to 
+Suppress Evidence from Warrantless Search; (2) the circuit 
+court erred in denying Oki’s Motion to Suppress Evidence 
+from Unlawful Warrant; (3) the circuit court erred in denying Oki’s [Motion to Dismiss] Counts 8 & 9; (4) there 
+was insufficient evidence that Oki intended to permanently 
+deprive the partnership of any property; and (5) the 
+circuit court erred in granting the State’s Motion for 
+Restitution. 
+Oki I, 2020 WL 3027401, at *10. The State cross-appealed and 
+contended “the circuit court erred in refusing to order Oki to 
+pay restitution directly to Chew, Nakashima, Takeno, and Nomura, 
+in their capacities as the sole partners of PKF at the time of 
+Oki’s offenses.” Id.
+ In its memorandum opinion, the ICA affirmed, except as 
+to restitution. Oki I, 2020 WL 3027401, at *25. The ICA remanded to the circuit court to order restitution “directly to 
+4 HRS § 353-22.6 provided, 
+The director of public safety shall enforce victim 
+restitution orders against all moneys earned by the inmate 
+or deposited or credited to the inmate’ s individual account 
+while incarcerated. Notwithstanding any law or order to 
+the contrary, the amount deducted shall be twenty- five per 
+cent of the total of all moneys earned, new deposits, and credits to the inmate’ s individual account. The moneys 
+intended for victim restitution shall be deducted monthly 
+and paid to the victim once the amount reaches $25, or 
+annually, whichever is sooner. This section shall not 
+apply to moneys earned on work furlough pursuant to section 
+353–17. 
+10  
+ 
+  
+ *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+Spire” rather than to PKF, including but not limited to the 
+former partners in their capacity as partners. Id.
+ The ICA’s memorandum opinion also included a footnote 
+addressing Act 231: 
+Oki also contends that the legislature’s decision to 
+remove theft from the purview of HRS § 708- 893 in 2016 
+supports his argument that the statute imposed cruel and 
+unusual punishment. See  2016 Haw. Sess. Laws Act 231, § 42 
+at 758-59.  Oki specifically points to House Bill 2561, 
+which led to the removal of theft in the first or second 
+degree as underlying offenses that would subject a person 
+to the separate offense of Use of a Computer and enhanced penalties. See  H.B. 2561, 28th Leg., Reg. Sess. (2016). 
+House Bill 2561 recommended amending HRS § 708- 893 by 
+“[r]epealing a provision that subjects a person to a 
+separate charge and enhanced penalty for using a computer 
+to commit an underlying theft crime because it seems unduly 
+harsh, given the prevalence of ‘smart phones’ and other 
+computing devices.” Id.  (emphasis added). Oki argues that 
+the legislature’s description of the provision as “unduly harsh” lends support to his argument that the statute 
+unconstitutionally imposes cruel and unusual punishment.  
+We do not agree that the legislature’s 
+characterization of the provision as “unduly harsh” 
+indicates an acknowledgment that the statute violated the 
+protection against cruel and unusual punishment. 
+The Act 
+contained a savings clause, providing that the repeal of 
+the provision held only proactive effect and did not have 
+any retroactive effect: “This Act does not affect rights 
+and duties that matured, penalties that were incurred, and 
+proceedings that were begun before its effective date[.]” 2016 Haw. Sess. Laws Act 231, § 70 at 775. If the 
+legislature intended to, it could have made the law have 
+retroactive effect, but it did not.  
+Oki I, 2020 WL 3027401, at *18 n.22. 
+11   Oki applied for certiorari review, raising four 
+questions. Relevant here, the third was whether the ICA erred 
+in affirming the denial of the motion to dismiss the computer 
+crimes charges that had been repealed as “unduly harsh” and 
+constituting cruel and unusual punishment in violation of the 
+federal and state constitutions. This court denied certiorari  
+ 
+  
+ 
+    
+ 
+  
+ 
+ 
+ 
+ 
+    *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+over Justice Wilson’s dissent. State v. Oki, No. SCWC-18-
+0000501, 2020 WL 6115119 (Haw. Oct. 16, 2020) (order rejecting 
+app. for cert.). D. Remand
+5 
+On remand, Oki filed a motion for restitution hearing 
+and study, which the State opposed. The circuit court denied the motion. At the hearing on the motion, the circuit court 
+indicated it was constrained to closely follow the ICA’s 
+directive on remand: 
+The court notes that the discussion that was . . . 
+reflected in the ICA’s opinion did indicate that there was 
+no challenge to the total amount of restitution, but the 
+challenge was to the manner in which restitution should be 
+collected or distributed. 
+Also it noted that all parties agreed that PKF now 
+exists . . . as Spire . . . . 
+ It concluded therefore after determining that the 
+partners[,]  although identified as victims[,] that that 
+only exists because of their relationship with PKF, but 
+that the actual victim and the sole victim was PKF, and 
+therefore they determined that although there might be some 
+civil proceeding, that this court should change it or 
+–  it 
+would come back to this court for the purpose of ordering 
+restitution directly to Spire, the entity formerly known as 
+PKF.  
+ I understand the argument that the defendants are 
+making saying that well now everything is changed. 
+However, I believe that [the State] is correct, there is a very specific order by the ICA that says, and that’s why I 
+started with this quote, this matter is remanded to the 
+circuit court to order restitution directly to Spire, the 
+entity formerly known as PKF. It doesn’t tell me that I 
+need to make other hearings to determine if restitution should be different based on the finding that the four 
+partners were not the direct victim. 
+The court is 
+constrained to do any differently.    
+5 The Honorable Catherine H. Remigio presided on remand. 
+12  
+ 
+   *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+It entered a second amended judgment, filed February 
+10, 2021 (judgment) and an amended restitution order, filed 
+February 11, 2021 (restitution order). The circuit court 
+ordered Oki to pay restitution directly to Spire, in the same 
+amount and time and manner as in the initial restitution order. 
+The circuit court entered its Order Denying Defendant’s Motion 
+for Restitution Hearing and Study on March 22, 2021. 
+In March 2021, Oki filed a motion to correct illegal 
+sentence. Oki asserted the circuit court had the power to 
+correct Oki’s illegal sentence in counts 8 and 9 pursuant to 
+Hawaiʻi Rules of Penal Procedure (HRPP) Rule 35(a) (eff. 2003), 
+which provides in part that “[t]he court may correct an illegal 
+sentence at any time and may correct a sentence imposed in an 
+illegal manner” upon a motion filed within 90 days of the 
+sentence’s imposition. 
+Oki asserted his sentence for counts 8 and 9 was 
+illegal because the offense of the use of a computer in the commission of a separate theft, HRS § 708-893(1)(a), was 
+repealed before his trial and sentencing. The State opposed 
+Oki’s motion to correct illegal sentence. 
+The circuit court held a hearing on the motion to 
+correct illegal sentence on April 27, 2021, and took the matter 
+under advisement. On March 8, 2022, the circuit court entered 
+13  
+ 
+  
+ 
+ 
+   
+ 
+  
+ 
+ *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+its findings of fact, conclusions of law, and order denying 
+defendant’s motion to correct illegal sentence. 
+The circuit court indicated it had already ruled Act 
+231 did not bar Oki’s prosecution, conviction, and sentence for 
+counts 8 and 9 in the FOFs/COLs/Order denying motion to dismiss, 
+and the ICA had also already acknowledged Act 231 did not have 
+retroactive effect and affirmed the circuit court in that 
+respect. Citing Wong v. City & Cnty. of Honolulu, 66 Haw. 389, 665 P.2d 157 (1983), the circuit court concluded those rulings 
+were the “law of the case” and that it could find no “cogent 
+reason” to vacate the convictions that were upheld on appeal. 
+The circuit court further concluded Oki’s illegal 
+sentence argument was barred by the doctrine of collateral 
+estoppel and res judicata.
+6 The circuit court also stated that 
+because Oki had already conceded Act 231 could not serve as a basis for dismissal of counts 8 and 9, he was now barred from 
+arguing the opposite. 
+The circuit court concluded Oki had waived any 
+argument based on State v. Avilla, 69 Haw. 509, 750 P.2d 78 (1988), but also found it to be without merit. The circuit 
+6 This conclusion is wrong, as res judicata and collateral estoppel 
+principles only apply after “final judgment” has entered and under Hawaiʻi 
+law, there is no final judgment until all appeals have been exhausted. See 
+Saplan v. U.S. Bank Nat’l Ass’n
+, No. SCWC- 17-0000847, at *20- 21 n.8 (Haw. May 
+20, 2024) (citing E. Sav. Bank, FSB v. Esteban
+, 129 Hawai‘i 154, 160, 296 P.3d 
+1062, 1068 (2013)) .  
+14  
+ 
+    
+   
+ 
+   *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+court determined the legislature did not intend to give 
+retroactive effect to the statutory amendment deleting use of a 
+computer because it only provided exceptions to the savings 
+clause for the drug-related offenses. It agreed with the State 
+that because Act 231 was “comprehensive legislation,” Oki’s case 
+was more similar to Reis than Avilla. 
+E. Appellate Proceedings 
+The ICA affirmed the circuit court’s judgment and 
+restitution order and affirmed in part the order denying Oki’s motion to correct illegal sentence. 
+The ICA held the circuit court did not err in ordering 
+restitution to Spire without another restitution hearing and a 
+restitution study. The ICA pointed out the Oki I memorandum 
+opinion expressly noted that neither party had challenged the 
+total amount of restitution, but merely the manner in which the 
+restitution should be distributed; the ICA had directed the 
+circuit court on remand “to order restitution directly to Spire” but affirmed the judgment “in all other respects.” The ICA 
+concluded that on remand, the circuit court closely adhered to 
+“the true intent and meaning” of its Oki I mandate. (Quoting In
+re HELCO, 149 Hawai
+ʻi at 241, 487 P.3d at 710.) 
+As to the time and manner of restitution payment, the 
+ICA held Oki had waived the issue because he did not raise it in 
+15  
+ 
+    
+   *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+his first appeal nor cite to where in the record he raised it on 
+remand. 
+As to the merits of the illegal sentence issue, the 
+ICA majority indicated it turned on the meaning of the term 
+“proceedings” in the Act 231 savings clause. The majority 
+opined that Reis is “directly on point.” The majority referred 
+to the principle that it must presume the legislature knew the 
+law, including Reis’s interpretation of “proceedings,” when enacting Act 231. It agreed with the State that construing 
+“proceedings” to mean trial and sentencing would render 
+superfluous the provisions of the Act 231 savings clause that 
+provide exceptions for certain drug-related offenses. 
+The majority also deemed Oki’s illegal sentence 
+argument unavailing because Reis interpreted an identical 
+savings clause to mean that a defendant incurs liability for a 
+criminal penalty at the time they commit the offense. (Citing 
+Reis
+, 115 Hawaiʻi at 93, 165 P.3d at 994.) The majority 
+concluded that, despite the legislature’s remedial purpose in 
+repealing HRS § 708-893(1)(a), it must apply the plain meaning 
+of “proceedings.” The majority also rejected Oki’s reliance on 
+In re Estrada
+, 408 P.2d 948 (Cal. 1965) and State v. Tapp, 490 
+P.2d 334 (Utah 1971) and concluded the circuit court did not err in denying Oki’s motion to correct illegal sentence. 
+16  
+ 
+    
+ 
+   
+ 
+  *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+Judge Wadsworth dissented as to the illegal sentence 
+issue. He disagreed with the majority’s conclusion that Reis is 
+directly on point and Avilla is distinguishable. Judge 
+Wadsworth emphasized that Reis only held that “‘proceedings,’ 
+absent ambiguity arising from [the] subject matter peculiar to 
+the legislation, means criminal prosecutions.” 115 Hawai‘ i at 
+97-98, 165 P.3d at 998-99. 
+Judge Wadsworth opined that the repealing legislation 
+shared relevant similarities with that in Avilla, not Reis. 
+First, although Act 231 is broad, section 42 pertains solely to 
+the repeal of HRS § 708-893(1)(a). Second, the express 
+legislative purpose was to eliminate an “unduly harsh” separate charge and enhanced penalty for use of a computer. That 
+purpose, according to Judge Wadsworth, injected ambiguity into 
+the term “proceedings” as used in the savings clause “and 
+applied to section 42.” Thus, “[i]n this unique context, 
+‘proceedings’ can mean trial and sentencing proceedings begun 
+after the Act’s effective date for pre-effective date 
+violations.” F. Certiorari Proceedings 
+Oki argues that the ICA erred by (1) holding Reis, 
+rather than Avilla, controls and affirming his conviction as to 
+the use of a computer charges; (2) concluding Oki “‘waived’ his 
+claim that the circuit court failed to consider his ability to 
+17  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+pay when ruling on how and when restitution would be paid;” and 
+(3) holding “the circuit court could not revisit the amount of 
+restitution on remand.” 
+III. STANDARDS OF REVIEW 
+A. Motion to Correct Illegal Sentence 
+  “A circuit court’s denial based on a conclusion of law, 
+of a defendant’s HRPP Rule 35 motion to correct illegal sentence 
+is reviewed de novo, under the right/wrong standard of review.”  
+State v. Canosa, 152 Hawai‘ i  145,  155, 523 P.3d 1059, 1069 (2023) 
+(citing State v. Kido, 109 Hawai ‘i 458, 461, 128 P.3d 340, 343  
+(2006)). 
+B. Statutory Interpretation 
+ “The interpretation of a statute is a question of 
+law. Review is de  novo, and the standard of review is 
+right/wrong.”   Kimura v. Kamalo, 106 Hawai‘i  501, 507, 107 
+P.3d 430, 436 (2005)  (citation omitted). Our statutory 
+interpretation is guided by the following principles:  
+First, the fundamental starting point for statutory 
+interpretation is the language of the statute itself. 
+Second, where the statutory language is plain and 
+unambiguous, our sole duty is to give effect to its plain and obvious meaning. 
+Third, implicit in the 
+task of statutory construction is our foremost obligation to ascertain and give effect to the 
+intention of the legislature, which is to be obtained 
+primarily from the language contained in the statute itself. Fourth, when there is doubt, doubleness of 
+meaning, or indistinctiveness or uncertainty of an 
+expression used in a statute, an ambiguity exists. 
+And fifth, in construing an ambiguous statute, the 
+meaning of the ambiguous words may be sought by examining the context, with which the ambiguous 
+words, phrases, and sentences may be compared, in 
+order to ascertain their true meaning. 
+Ito v. Invs. Equity Life Holding Co.
+, 135 Hawai‘i 49, 61, 
+346 P.3d 118, 130 (2015) (citation omitted). 
+18  
+ 
+   
+ 
+ 
+  
+  *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+State v. Borge, 152 Hawai‘ i 458, 464, 526 P.3d 435, 441 (2023).   
+C. Sentencing 
+“The authority of a trial court to select and 
+determine the severity of a penalty is normally undisturbed on 
+review in the absence of an apparent abuse of discretion or 
+unless applicable statutory or constitutional commands have not 
+been observed.” Reis, 115 Hawai‘ i at 83, 165 P.3d at 984 
+(quoting State v. Aplaca, 96 Hawai‘ i 17, 22, 25 P.3d 792, 797 
+(2001)). 
+IV. DISCUSSION 
+A. Illegal Sentence 
+On appeal, Oki challenges his convictions for use of a 
+computer to facilitate first-degree theft as illegal because 
+after he was charged with the offenses, but before his trial and 
+sentencing, the statutory subsection under which he was convicted was repealed. We conclude that Reis controls and 
+therefore affirm Oki’s convictions on counts 8 and 9. 
+Act 231, which repealed the use of a computer offense 
+of which Oki was convicted in counts 8 and 9, arose from an 
+omnibus bill and amended multiple statutes in the Hawai‘i Penal 
+Code. 2016 Haw. Sess. Laws Act 231, § 70 at 733-76. Section 42 
+of Act 231 repealed HRS § 708-893(1)(a), the use of a computer 
+19  
+ 
+   
+ 
+ 
+ 
+ 
+  
+  
+  
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+    
+  *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+in the commission of theft offense. 2016 Haw. Sess. Laws Act 
+231, § 42 at 758. 
+The act included a savings clause, section 70, which 
+states: 
+This Act does not affect rights and duties that 
+matured, penalties that were incurred, and proceedings that 
+were begun before its effective date; provided that sections 54, 55, and 56[
+7] shall apply to offenses committed 
+before the effective date of this Act: 
+(1) But not yet charged as of its effective date; 
+(2) Originally charged as a violation of section 
+712-1240.7 or 712- 1240.8, Hawaiʻ i Revised 
+Statutes, where the defendant: 
+(a) Has not yet been placed in jeopardy or 
+convicted on a plea or verdict; and 
+(b) Waives any claim of denial of speedy trial rights for the period elapsing between the 
+date of filing of the original charge and 
+the date of filing of the new charge under 
+this Act; 
+(3) Originally charged as a violation of section 
+712-1240.7 or 712- 1240.8, Hawaiʻ i Revised 
+Statutes, for which the defendant has been 
+convicted on a plea or verdict, but not yet 
+sentenced, in which case the defendant shall be 
+sentenced pursuant to this Act; and 
+(4) Originally charged as a violation of section 
+712-1240.7 or 712- 1240.8, Hawaiʻ i Revised 
+Statutes, for which the defendant has been 
+convicted on a plea or verdict and sentenced 
+but for which no final judgment on appeal has 
+been entered, in which case the appellate court 
+shall either: 
+(a) Remand the case for sentencing pursuant to 
+this Act if the judgment is affirmed on 
+appeal or if the sentence is vacated; or 
+(b) Remand the case for further proceedings 
+pursuant to this Act if the judgment is 
+7 Those sections gave trial courts greater discretion in sentencing 
+methamphetamine offenses. See 2016 Haw. Sess. Laws Act 231, §§ 54-56 at 764-
+65; State v. Bovee
+, 139 Hawai‘i 530, 543, 394 P.3d 760, 773 (2017). 
+20  
+ 
+   
+  
+  *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+reversed and remanded for further  
+proceedings.  
+2016 Haw. Sess. Laws Act 231, § 70 at 775-76.  
+  This court has previously interpreted the “penalties 
+that were incurred” and “proceedings that were begun” savings 
+clause language in two cases: Avilla and Reis. 
+In 
+Avilla, this court considered a savings clause 
+substantially similar to the one at issue here. 1987 Haw. Sess. Laws Act 139, § 10 at 316 (“This Act does not affect rights and 
+duties that matured, penalties that were incurred, and 
+proceedings that were begun, before its effective date.”). 
+Avilla argued that Act 139’s ameliorative bail provisions should 
+apply to his case. Id. § 8 at 314-15. Act 139 provided 
+defendants convicted of a felony the opportunity to seek bail pending appeal in limited circumstances. Avilla was indicted before Act 139’s effective date, but his appellate proceedings 
+began after the effective date. Avilla, 69 Haw. at 511-12, 750 
+P.2d at 79-80. He was convicted of two felonies and then filed a motion to continue bail pending appeal. Id. at 511, 750 P.2d 
+at 79. The circuit court denied his motion, finding that “proceedings” applied to the beginning of the prosecution, and 
+therefore he was not eligible for the Act’s ameliorative 
+provisions. Id.
+On appeal, this court rejected the circuit court’s 
+interpretation and held that “proceedings” in the context of Act 
+21  
+ 
+  
+ 
+ *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+139 applied to bail proceedings, rather than the beginning of a 
+prosecution. Id. at 512, 750 P.2d at 80. We held the term 
+“proceedings” was ambiguous because it could mean prosecutions, “but within the context of the statutes regulating the release 
+of defendants on bail, it also [could] mean bail proceedings.” 
+Id. 
+In Reis, a defendant pled guilty to all charged counts 
+of drug use, drug promotion, and prostitution. Prior to her sentencing, the legislature passed Act 44, which provided that 
+“a person convicted for the first time for any 
+offense . . . involving [drug] possession . . . . is eligible to 
+be sentenced to probation.” 2004 Haw. Sess. Laws Act 44, § 11 
+at 214. Act 44 contained a specific savings clause which read 
+“[t]his Act does not affect rights and duties that matured, 
+penalties that were incurred, and proceedings that were begun, 
+before its effective date.” Id. § 29 at 227. Reis argued that 
+because her sentencing proceedings had not begun until after Act 
+44’s passage, she should be entitled to the act’s ameliorative 
+sentencing provisions. 
+This court rejected her argument, concluding that 
+“‘proceedings,’ absent ambiguity arising from subject matter 
+peculiar to the legislation, means criminal prosecutions of 
+which sentencing hearings are an inseparable component” and 
+therefore, Reis was subject to the sentencing provisions in 
+22  
+ 
+   
+ 
+    
+     
+ 
+ *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+place at the time the criminal prosecution against her began. 
+Reis, 115 Hawai ʻi at 97–98, 165 P.3d at 998–99. We held that 
+“proceedings” in the context of Act 44 “unambiguously means the 
+initiation of a criminal prosecution against a defendant through a charging instrument and subsumes within its scope hearings and 
+other procedural events that arise as a direct result of the 
+initial charging instrument.” 
+Id. at 98, 165 P.3d at 999. In 
+doing so, we noted the initiation of criminal proceedings through a formal felony prosecution, preliminary hearing, 
+indictment, information, or arraignment “is the starting point 
+of our whole system of adversary criminal justice.” Id.
+(quoting State v. Luton, 83 Hawai‘ i 443, 449, 927 P.2d 844, 850 
+(1996)). 
+We then distinguished Avilla: 
+Avilla, therefore, does not stand, as Reis contends, for 
+the proposition that this court construes the language of 
+the standard savings clause “in a manner that best 
+effectuates the underlying legislative intent and purpose 
+of that particular statute.” We resort to legislative 
+history only when there is an ambiguity in the plain 
+language of the statute. [ State v. ]Valdivia
+, 95 Hawai‘i 
+[465,] 472, 24 P.3d [661,] 668 [(2001)]. Rather, Avilla 
+stands for the unremarkable proposition that, if a 
+statutory amendment on a single subject addresses proceedings other than criminal prosecutions
+—and the 
+numerous hearings subsumed within criminal prosecutions, including hearings on evidentiary matters, motions for 
+reconsideration, and sentencing— so as to give rise to an 
+ambiguity, the defendant may benefit from the amendment if 
+doing so would comport with the intent of the legislature 
+as reflected in the amendment's underlying legislative 
+history. 
+Id. at 90, 165 P.3d at 991. 
+23  
+ 
+   In Reis, we also interpreted the meaning of the 
+savings clause “penalties that were incurred” language. Id. at 
+91-93, 165 P.3d at 992-94. We held that a defendant “incurs” a 
+penalty at the time of the commission of the offense. Id.
+ 
+ *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+Here, Oki asks for relief from his sentence for the 
+use of a computer in the commission of a separate crime under 
+HRS § 708-893(1)(a) (2014) when that sentence was imposed after 
+Act 231 became law. Section 70 of Act 231 reads the same as the savings clauses in 
+Reis, but notably, also provides exceptions 
+for certain drug-related offenses. Because there is no ambiguity to the term “proceedings,” and because Oki’s crime was 
+not excluded from section 70’s savings language, Reis must 
+control. 
+In both Reis and here, “proceedings” is not ambiguous 
+because the relevant acts address criminal proceedings 
+generally, rather than only one stage of the criminal 
+proceedings, as in Avilla. In Reis, this court held that “proceedings” applied to the initiation of a criminal 
+prosecution because there, Act 44 “[was] comprehensive 
+legislation enacted to address the epidemic of crystal 
+methamphetamine use in the state” that introduced new charges 
+and adjusted sentencing provisions, amongst other changes. 115 
+Hawai
+ʻi at 89, 165 P.3d at 990. Here, Act 231, which repealed 
+the use of a computer offense of which Oki was convicted in 
+24  
+ 
+  
+   *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+counts 8 and 9, arose from an omnibus bill and amended multiple 
+statutes in the Hawai ʻi Penal Code. 
+We explained in Reis that Avilla was distinguishable 
+because Avilla focused on “a statutory amendment on a single 
+subject address[ing] proceedings other than criminal 
+prosecutions” generally. Id. at 90, 165 P.3d at 991. But here, 
+Act 231 was the product of an omnibus review of the penal code that resulted in a variety of changes that applied to various 
+stages of criminal proceedings – from the repeal of the 
+computer-crime charges, to changes in sentencing for meth-
+related crimes, amongst many others. The act in Avilla solely addressed bail proceedings, thereby infusing the word 
+“proceedings” with ambiguity because it might refer to the 
+beginning of a prosecution or the beginning of appellate bail 
+proceedings. See Avilla, 69 Haw. at 512–13, 750 P.2d at 80. 
+Conversely, here, Act 231 does not focus on one stage in the criminal prosecution, and thus “proceedings” is not ambiguous. 
+There being no ambiguity, we defer to the “standard 
+interpretation of ‘proceedings’ as the initiation of a criminal 
+prosecution.” Reis
+, 115 Hawaiʻi at 90, 165 P.3d at 991. 
+In other words, it was clear in 
+Reis that the 
+“proceedings” language of the relevant bill referred to the 
+beginning of the prosecution, while in Avilla, it was ambiguous as to whether “proceedings” referred to the initial charges or 
+25  
+ 
+  
+  *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+to appellate proceedings. But here, like in Reis, there is no 
+ambiguity because Act 231 encompasses changes to criminal 
+proceedings generally, rather than applying to only one stage of 
+those proceedings. 
+This conclusion is also supported by the plain 
+language of Act 231’s savings clause, section 70. “[T]his court 
+must presume that the legislature meant what it said and is 
+further barred from rejecting otherwise unambiguous statutory 
+language.” State v. Demello, 136 Hawai‘ i 193, 195, 361 P.3d 420, 
+422 (2015) (quoting Morgan v. Plan. Dep't, Cnty. of Kaua‘ i, 104 
+Hawai‘i 173, 185, 86 P.3d 982, 994 (2004)). “[T]he legislature 
+is presumed to know the law when enacting statutes,” including 
+this court’s decisions. Agustin v. Dan Ostrow Const. Co., 64 
+Haw. 80, 83, 636 P.2d 1348, 1351 (1981) (“[W]e must presume that the legislature knew of the definition we assigned to the word 
+‘accrued’” in another case). 
+Here, we presume the legislature was aware of our 
+holding in Reis, where we clearly defined “proceedings,” as discussed above. This court stated in Reis that “[t]he 
+inclusion of a specific savings clause within the body of the 
+amending statute demonstrates a clear legislative intent that 
+the contents of the act do not apply retroactively.” Reis
+, 115 
+Hawai‘i at 90, 165 P.3d at 991; 
+see also id. at 90 n.19, 165 P.3d 
+at 991 n.19. 
+26  
+ 
+   The legislature clearly intended for Act 231 to apply 
+retroactively to certain specific provisions, which did not 
+include section 42. 
+Specifically, it outlined that “sections 
+54, 55, and 56 [of Act 231] shall apply to offenses committed before the effective date of this Act.” 2016 Haw. Sess. Laws 
+Act 231, § 70 at 775. It then specified which law, either the 
+previous statute or Act 231, should apply to which defendants. 
+The legislature thus knew how to apply Act 231 retroactively to certain defendants at different stages of criminal proceedings. 
+But it deliberately chose not to address defendants affected by 
+section 42. This targeted approach to creating exceptions in 
+the otherwise broad sweep of the savings clause is indicative of 
+the legislature’s intent. See State v. Choy Foo, 142 
+Hawai‘i 65, 
+74, 414 P.3d 117, 126 (2018) (“[T]he canon of construction 
+expressio unius est exclusio alterius holds that to express or 
+include one thing implies the exclusion of the other, or of the 
+alternative.”) (italics and quotation omitted); Goran Pleho, LLC 
+v. Lacy, 144 Hawai‘ i 224, 251, 439 P.3d 176, 203 (2019) (“This 
+court may not take it upon itself to add an additional exception 
+that the legislature has declined to adopt.”). 
+  *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+Oki argues that the legislature repealed the use of a 
+computer charge offenses “to prevent unduly harsh separate charges” and therefore upholding his convictions would undermine the legislature’s intent. Similarly, the dissent states, “[i]t 
+27  
+ 
+   
+  *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+is difficult to understand why we would say the legislature did 
+not intend to give a defendant the benefit of the more humane 
+sentence.” But the legislature knew how to give Oki that 
+benefit, and it specifically chose not to do so. See State v.
+Cotton, 55 Haw. 148, 151, 516 P.2d 715, 718 (1973) (“[E]nactment of laws is the prerogative of the legislature and it is not for 
+the judiciary to secondguess the legislature or substitute its 
+judgment for that of the legislature.”); see also Shibuya v.Architects Hawaii Ltd., 65 Haw. 26, 41, 647 P.2d 276, 286 
+(1982) (“[A] court should not substitute its view of wise or 
+fair legislative policy for that of the duly elected 
+representatives of the people.”) (quotation omitted). 
+The dissent attempts to distinguish Reis on the basis 
+that “it addressed a statute that reduced penalties, not one 
+that repealed a crime.” (Emphases omitted.) But the dissent 
+does not explain why that distinction should matter. To the 
+contrary, our reasoning in Reis still applies: “an unambiguous term can[not] be rendered ambiguous merely because the statutory 
+provision urged as applicable by the defendant is ameliorative.” 
+115 Hawai‘ i at 88, 165 P.3d at 989.   
+Moreover, Reis’s policy rationale applies with equal 
+force here. See State v. Stocker
+, 90 Hawai‘i 85, 95, 976 P.2d 
+399, 409 (1999) (“[A] court should not overrule its earlier 
+decisions unless the most cogent reasons and inescapable logic 
+28  
+ 
+   
+   
+ 
+ *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+require it.”) We explained in Reis that our interpretation of 
+“proceedings” and “incurred” accorded with a consistent 
+application of the terms across a variety of statutes, and 
+preserved the constitutionality of the statute as a whole: 
+To interpret “proceedings” to mean any discrete hearing 
+pertaining to sentencing, motions for reconsideration, or 
+appellate review would, in practice, mean that the savings clause would not operate to exclude a defendant's case 
+unless all stages of a prosecution and all appeals were 
+entirely concluded prior to the effective date of an 
+amendment. Such a construction would vitiate the very 
+reason for enacting a savings clause, to wit, (1) to delineate clearly which defendants fall under the new 
+statute, in order to avoid producing inconsistent and 
+unjust outcomes among defendants arising from the vagaries 
+of the scheduling process, and (2) to avoid rendering 
+portions of an act— Act 44 in the present matter -
+potentially unconstitutional as ex post facto measures. To 
+construe penalties as having been “incurred” only at the moment of the imposition of sentence would similarly 
+generate risks of inconsistency and constitutional 
+infirmity. 
+Reis, 115 Hawai‘ i at 93, 165 P.3d at 994. 
+29  
+ The dissent contends that the rule of lenity applies 
+because “proceedings” is ambiguous. Respectfully, the Reis
+majority considered similar arguments at length and rejected the 
+position the dissent advances again today. Reis’s analysis 
+remains valid, and has informed the subsequent actions of the 
+legislature, including the legislature that adopted Act 231. It should not be set aside, even in a limited instance, without 
+compelling justification, which does not exist here. See State
+v. Garcia, 96 
+Hawai‘i 200, 206, 29 P.3d 919, 925 (2001) (noting 
+that a court should “not depart from the doctrine of stare 
+decisis without some compelling justification,” and further  
+ 
+   
+ 
+ 
+  
+ *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+observing that “considerations of stare decisis have special 
+force in the area of statutory interpretation.”) (citations, 
+brackets, and emphasis omitted). 
+Reis therefore controls in this case. While the 
+outcome is harsh for Oki, following the settled precedent of 
+this court ensures stability and reliability in our legal 
+system. Id. (“Adherence to the principle of stare decisis has 
+added force when the legislature, in the public sphere, and 
+citizens, in the private realm, have acted in reliance on a 
+previous decision, for in this instance overruling the decision 
+would dislodge settled rights and expectations or require an 
+extensive legislative response.”) (brackets and quotation 
+omitted). 
+B. Waiver Versus Forfeiture and Plain Error Review of the 
+Time and Manner of Restitution Payment 
+Second, we turn to Oki’s request that this court 
+clarify the difference between waiver and forfeiture. 
+Regarding 
+Oki’s contention that the circuit court erroneously failed to 
+consider his financial ability to make restitution for the 
+purpose of establishing the time and manner of payment as 
+required by HRS § 706-646(3), the ICA concluded, “Oki failed to raise this issue in his first appeal, and he does not state 
+where in the record he raised it on remand; the issue is 
+therefore waived.” (Citing 
+Hawai‘i Rules of Appellate Procedure 
+30  
+ 
+   *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+(HRAP) Rule 28(b)(4); State v. Moses, 102 Hawai‘ i 449, 456, 77 
+P.3d 940, 947 (2003); State v. Hoglund, 71 Haw. 147, 150, 785 
+P.2d 1311, 1313.) 
+Although the terms waiver and forfeiture are often 
+used interchangeably, they are distinct concepts. See generally
+Noah J. Gordon & Kristina E. Music Biro, Nat’l Legal Rsch. Grp., 
+28 Am. Jur. 2d Estoppel and Waiver § 184 (2024). Forfeiture is 
+a “failure to make a timely assertion of a right,” whereas 
+waiver is “the intentional relinquishment or abandonment of a 
+known right.” Id. (footnote omitted); see also, e.g., United
+States v. Pembrook, 79 F.4th 720, 724 n.1 (6th Cir. 2023). This court has not addressed the distinction between waiver and forfeiture, although several cases have acknowledged it. See
+State v. Timoteo, 87 Hawai‘ i 108, 119, 952 P.2d 865, 876 (1997) 
+(Ramil, J., dissenting) (“Strictly speaking, ‘waiver’ is the 
+intentional relinquishment or abandonment of a known right. 
+However, waiver is different from forfeiture. 
+‘Forfeiture’ 
+should be defined as the automatic and unintentional loss of a right, such as that resulting from the failure to make the 
+timely assertion of a right.” (quotations, citations, and 
+brackets omitted)); State v. Lui
+, No. SCWC-11-0000081, 2013 WL 
+693008, at *6 n.1 (order denying certiorari) (Pollack, J., dissenting) (“‘Forfeiture’ is distinct from the concept of 
+‘waiver[.]’”); State v. Nichols, 111 Hawai‘ i 436, 443, 142 P.3d 
+31  
+ 
+   
+ *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+300, 307 (App. 2005), vacated on other grounds, 111 Hawai‘ i 327, 
+141 P.3d 974 (2006) (“Waiver is different from forfeiture. 
+Whereas forfeiture is the failure to make the timely assertion of a right, waiver is the ‘intentional relinquishment or 
+abandonment of a known right.’ . . . Mere forfeiture, as opposed 
+to waiver, does not extinguish an ‘error’ under Rule 
+52(b).”) (quoting Johnson v. Zerbst, 304 U.S. 458, 464 (1938)). 
+Hawai‘i
+ court rul
+es, as well as some of our opinions, 
+appear to use the terms interchangeably. HRAP Rule 28(b)(7) 
+(eff. 2022), for example, provides that “points not argued may 
+be deemed waived.” But the plain language of HRPP Rule 52(b) 
+permits the appellate court to notice plain error, even if a 
+point is not argued. See
+ HRPP Rule 52(b) (“Plain errors or 
+defects affecting substantial rights may be noticed although 
+they were not brought to the attention of the court.”). 
+Oki asserts the circuit court plainly erred in setting the time 
+and manner of restitution because it failed to consider his 
+financial ability to make restitution pursuant to HRS § 706-
+646(3). HRS § 706-646(3) provided and provides in relevant 
+part, 
+In ordering restitution, the court shall not consider 
+the defendant’s financial ability to make restitution in 
+determining the amount of restitution to order. The court,
+however, shall consider the defendant’s financial ability 
+to make restitution for the purpose of establishing the 
+time and manner of payment. The court shall specify the 
+time and manner in which restitution is to be paid. While 
+the defendant is in the custody of the department of 
+32  
+ 
+  
+ 
+ 
+ 
+ *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+corrections and rehabilitation, restitution shall be 
+collected pursuant to chapter 353 and any court- ordered 
+payment schedule shall be suspended. 
+(Emphasis added.) 
+The circuit court did, however, consider Oki’s 
+financial ability to make restitution. The circuit court 
+explained it had considered Oki’s “income earning ability, as 
+reflected in this case but also in the presentence report,” as 
+well as the adverse impact of Oki’s conviction on such ability. The circuit court ordered Oki to pay restitution “as provided by 
+law while Mr. Oki is incarcerated and thereafter at a rate – at 
+the bare minimum it would need to be $30 a month.” The circuit 
+court continued, “at this point I don’t have, I believe, 
+sufficient information to know what would be reasonable beyond 
+that $30 a month.” It left open the possibility of revisiting 
+the time and manner of payment in the future, depending on Oki’s future ability to earn. 
+Because the circuit court expressly considered Oki’s 
+income earning ability, it complied with the requirements of HRS 
+§ 706-646(3). The circuit court thus did not err in setting the 
+time and manner of restitution payments. 
+C. Revisiting the Restitution Amount on Remand 
+Finally, Oki argues the ICA erred in holding that its 
+“remand mandate from Oki’s first appeal precluded the circuit 
+33  
+ 
+  
+ 
+   
+ 
+  
+ *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+court from conducting a new restitution study on remand or 
+otherwise revisiting the amount of restitution.” 
+Here, the ICA pointed out that its Oki I memorandum 
+opinion expressly noted that neither party had challenged the 
+total amount of restitution, but merely the manner in which the 
+restitution should be distributed; the ICA had directed the 
+circuit court on remand “to order restitution directly to Spire” 
+but affirmed the judgment “in all other respects.” The ICA concluded that on remand, the circuit court closely adhered to 
+“the true intent and meaning” of its Oki I mandate. (Quoting In
+re HELCO, 149 Hawai‘ i at 241, 487 P.3d at 710.) 
+Oki misapprehends the ICA’s holding. The ICA did not 
+hold its remand mandate “precluded” the circuit court from 
+revisiting restitution; rather, it held the circuit court “did 
+not err in ordering restitution to Spire without another 
+restitution hearing and a restitution study.” The ICA was 
+correct. 
+At a hearing on the State’s motion for restitution in 
+Oki’s first appeal, the circuit court concluded that the amount of restitution should be the $440,178.54 in proven losses; it 
+then discussed in depth to whom that restitution should be 
+ordered (the former partners in their capacity as partners or 
+the firm). During Oki’s first appeal, the ICA remanded with a 
+directive to the circuit court “to order restitution directly to 
+34  
+ 
+    
+ 
+  *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+Spire.” Oki, 2020 WL 6115119, at *25. The ICA’s memorandum 
+opinion also had noted that “neither party expressly challenges 
+the $440,158.54 total amount of restitution ordered by the 
+circuit court. The parties instead dispute the manner in which 
+the restitution should be collected/distributed.” Id. at *22. 
+Then, on remand, the circuit court declined to order a new restitution hearing or study and entered a judgment and 
+restitution order with restitution to be paid to Spire. HRS § 706-646(2) allows for restitution of a victim’s losses 
+that are (1) reasonable; (2) verified; (3) suffered as a result 
+of the defendant’s conduct; and (4) requested by the victim. 
+Demello, 136 Hawai‘ i at 196, 361 P.3d at 423; see also Borge, 152 
+Hawai‘i at 467, 526 P.3d at 444.   
+“On remand, a trial court must closely adhere to the 
+true intent and meaning of the appellate court’s mandate.” In
+re HELCO
+, 149 Hawai‘i at 241, 487 P.3d at 710 (citing 
+State v. 
+Lincoln, 72 Haw. 480, 485, 825 P.2d 64, 68 (1992)). 
+Here, the circuit court closely adhered to the true 
+intent and meaning of the ICA’s memorandum opinion when it 
+entered an amended order changing the recipient of the 
+restitution but nothing else. The circuit court had already 
+held restitution hearings and taken evidence on Spire’s 
+“reasonable and verified losses.” See HRS § 706-646(2). We 
+therefore agree with the ICA that the circuit court did not err 
+35  
+ 
+   
+  *** NOT FOR PUBLICATION IN WEST’S HAWAIʻ I REPORTS AND PACIFIC REPORTER *** 
+in denying Oki’s motion for restitution hearing and study when 
+it entered the amended restitution order. 
+III. CONCLUSION 
+Based on the reasoning above, we affirm the ICA’s 
+October 24, 2023 judgment on appeal. 
+DATED: 
+Honolulu, Hawai ‘i, May 20, 2024. 
+James S. Tabe,   /s/ Mark E. Recktenwald 
+Taryn R. Tomasa, 
+for petitioner/   /s/ Jeannette H. Castagnetti
+defendant-appellant 
+      /s/ Gary W.B. Chang 
+Steven S. Alm, 
+Brian R. Vincent, 
+for respondent/ plaintiff-appellee  
+36 
