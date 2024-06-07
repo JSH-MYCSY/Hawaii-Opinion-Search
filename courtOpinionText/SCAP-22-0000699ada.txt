@@ -1,0 +1,1023 @@
+   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          
+           ________________________________________________________________ 
+________________________________________________________________ *** FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND THE PACIFIC REPORTER  *** 
+Electronically Filed 
+Supreme Court SCAP-22-0000699 04-JUN-2024 07:56 AM Dkt. 26 OP SCAP-22-0000699 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ʻI
+  
+HELG Administrative Services, LLC, as Conservator for Curtis 
+Pomaikai Panoke, a.k.a. Curtis P. 
+Panoke, a.k.a. Curtis Panoke, 
+an Incapacitated Person, and Katarine Hokulani Panoke Gec, 
+Plaintiffs-Appellees,  
+ 
+vs.  
+ 
+Department of Health, State of Hawaiʻi; Mark A. Fridovich, Ph.D; 
+William P. Sheehan, M.D.; Chiyome L. Fukino, M.D.;  
+Linda Rosen, M.D.; Virginia Pressler, M.D.;  
+Defendants-Appellees,  
+ 
+and  
+ 
+GEO Care, Inc., GEO Care, LLC, Correct Care, LLC, Correct Care 
+Solutions, LLC dba The Columbia Regional Care Center,  
+Defendants-Appellants.  
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST  CIRCUIT  
+(CAAP-22-0000699; CIV. NOS. 1CC181000825; 1CC191000332)  
+ 
+JUNE 4, 2024  
+ 
+RECKTENWALD, C.J., McKENNA,  EDDINS, GINOZA, and DEVENS, JJ.  
+ 
+OPINION OF THE COURT BY McKENNA, J.  
+I. Introduction 
+This personal injury case presents an issue of first 
+impression : whether an adult child’s claim of loss of parental 
+1    
+ 
+ 
+            
+           
+          
+          
+          
+            
+           
+         
+           
+         
+           
+          
+          
+          
+          
+         
+       
+             
+            
+           
+          
+         
+         
+          *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER *** 
+consortium is cognizable when the parent has not died but has 
+entered a persistent vegetative state and will not recover. 
+The defendants (GEO Care, Inc.; GEO Care, LLC; Correct 
+Care, LLC; and Correct Care Solutions, LLC, dba The Columbia 
+Regional Care Center; collectively “GEO Care”) point out that in 
+Halberg v. Young, 41 Haw. 634, 642 (Haw. Terr. 1957), this court 
+held “no action exists in favor of a child for injuries 
+sustained by the parent not resulting in the parent’s 
+death.” Consistent with U.S. common law doctrine at that time, 
+Halberg held that three minor children’s claims for damages 
+arising out of their mother’s injury for “loss of acts of 
+kindness, care, attention and other incidents of the parent and 
+child relationship” failed to state a claim upon which relief 
+could be granted. 41 Haw. at 634, 635, 642. 
+The plaintiffs (including Hoku Gec, the adult child of 
+Curtis Panoke, the individual now in a persistent vegetative 
+state, collectively “plaintiffs” ), however, point out that 
+in Masaki v. General Motors Co., 71 Haw. 1, 22, 780 P.2d 566, 
+578 (1989), we held that “a parent may recover damages for the 
+loss of filial consortium of an injured adult child.” In 
+Masaki, an adult was rendered a quadriplegic, and this court 
+affirmed his parents’ damage award for loss of filial 
+consortium, noting that “severe injury may have just as 
+deleterious an impact on filial consortium as death.” Masaki, 
+2    
+ 
+ 
+            
+         
+           
+        
+          
+           
+          
+           
+         
+      
+ 
+           *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER *** 
+71  Haw.  at  4,  19-20,  566  P.2d  at  569,  577.   Masaki  also  
+contained  the  following  footnote,  which  left  open  the  issues  we  
+address  today:  
+In Halberg v. Young, 41 Haw. 634 (1957), we followed the 
+traditional common-law rule and held that no cause of 
+action exists in favor of a child for injuries sustained by 
+his parents. Appellants claim that our decision 
+in Halberg is dispositive of the instant case because a 
+parent’s claim for the lost consortium of a child is merely 
+the reciprocal of a child’s claim for the lost consortium 
+of his parents. While we recognize that the two actions 
+are analogous in many respects, the issue of parental 
+consortium is not before us today. 
+Masaki, 71 Haw. at 19 n.8, 566 P.2d at 576 n.8. 
+3  The  plaintiffs  also  note  that  the  United  States  District  
+Court  for  the  District  of  Hawaiʻi  (“federal  district  court”)  
+interpreted  Masaki  to  have  implicitly  overruled  Halberg.   The  
+federal  district  court  anticipated  that  this  court  would  
+recognize  an  adult  child’s  claim  for  loss  of  parental  consortium  
+in  a  case  of  parental  injury.   Marquardt  v.  United  Airlines,  781  
+F.  Supp.  1487,  1492  (D.  Haw.  1992)  (“It  is  this  court’s  
+considered  judgment  that  if  presented  with  the  facts  present  
+here  the  Supreme  Court  of  Hawaii  would  expressly  overrule  
+Halberg.   This  court  thus  finds  that  a  cause  of  action  for  loss  
+of  parental  consortium  now  exists  under  Hawaii  Law  and  that  [the  
+adult  child]  may  maintain  an  action  for  the  loss  of  consortium  
+of  her  [injured]  mother.”);  see  also  Mettias  v.  United  States,  
+Civ.  No.  12-00527  ACK-KSC,  2015  WL  1931082,  at  *35  (D.  Haw.  Apr.  
+21,  2015)  (following  Marquardt).     
+ 
+ 
+            
+          
+              
+ 
+ 
+ 
+  
+  
+  
+ 
+  
+ 
+ 
+   
+  
+  
+  
+   
+   
+ 
+  
+ 
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER *** 
+Based on the reasons discussed below, we now recognize a 
+child’s loss of parental consortium claim when a parent is 
+severely injured, whether the child is a minor or an adult. 
+II. Background 
+On February 28, 2019, HELG Administrative Services, LLC (as 
+conservator for Curtis Panoke) and Kat ja Gec (as limited 
+conservator for Panoke’s minor daughter, K.H.P.G.1) filed a post -
+Medical Inquiry and Conciliation Panel (“MICP”) complaint2 
+against GEO Care and the State of Hawaiʻi Department of Health; 
+Mark A. Fridovich, Ph .D; William P. Sheehan, M.D.; Chiyome L. 
+Fukino, M.D.; Linda Rosen, M.D.; and Virginia Pressler, M.D.3 
+The complaint alleged as follows: The Columbia Regional Care 
+Center is “a 374 -bed private detention healthcare facility for 
+individuals not competent to stand trial and found not guilty by 
+reason of insanity.” The State of Hawaiʻi Department of Health 
+1 During the pendency of the circuit court proceedings, Panoke’s minor 
+daughter K.H.P.G. (Katarina Hokulani Panoke Gec, or “Hoku”) reached the age 
+of majority and was substituted in as a plaintiff in lieu of Kat ja Gec. 
+2 The plaintiffs explained that the y submitted an inquiry to the MICP on 
+May 21, 2018 regarding the medical torts alleged in the complaint. They then 
+filed what they call their “pre -MICP complaint” in case number 1CC181000825 
+on May 24, 2018. The MICP held a proceeding regarding the inquiry on 
+November 29, 2018. On January 8, 2019, the MICP issued a written notice of 
+termination of the inquiry. Therefore, the plaintiffs filed what they refer 
+to as their “post-MICP complaint ” on February 28, 2019 in case number 
+1CC191000332. 
+The circuit court consolidated the pre -MICP proceedings (1CC18100825) 
+and post -MICP proceedings (1CC191000332). 
+3 The parties later stipulated to dismiss Fridovich, Sheehan, Fukino, 
+Rosen, and Pressler. 
+4    
+ 
+ 
+   
+ 
+ 
+  
+  
+   
+ 
+  
+  
+  
+ 
+  
+  
+      
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER *** 
+(“DOH”) contracted4 with GEO Care to provide care to Panoke 
+because Panoke “posed a significant danger to HSH [Hawaiʻi State 
+Hospital] patients and HSH staff.” 
+Panoke had been charged in 2005 with assault in the second 
+degree after attacking an individual at an Aiea homeless 
+shelter. Upon his arrest, Panoke was committed to the Kekela 
+unit at Queen’s Medical Center for seven weeks, but when his 
+level of violence, aggression, and assaultive behavior became 
+unmanageable, he was committed to HSH. At a stipulated facts 
+trial, the circuit court judge acquitted Panoke of assault in 
+the second degree on the ground of physical or mental disease, 
+disorder , or defect excluding responsibility. Panoke was 
+committed to DOH to be placed in an appropriate institution. 
+In 2007, while in DOH custody at HSH, Panoke attacked a 
+nurse, fracturing her facial bones. The nurse required 26 
+stitches around her left eye. Panoke was then charged with 
+assault in the second degree. This time, the circuit court 
+found him fit for trial, Panoke pled no contest to the charge, 
+The DOH and GEO Care entered into a contract on May 1, 2010 to purchase 
+health and human services for Panoke. Under sub -section 7.4 of the “General 
+Conditions for Health & Human Services Contracts,” the “rights and duties of 
+the parties to this Contract[] shall be governed by the laws of the State of 
+Hawaiʻi.” For this reason, we apply Hawaiʻi law to this case. 
+We also note that, even absent this provision, under this court’s 
+modern choice -of-law jurisprudence, we would “look[] to the state with the 
+most significant relationship to the parties and subject matter” to decide 
+whether Hawaiʻi law would apply. Mikelson v. United Servs. Auto. Ass’n , 107 
+Hawaiʻi 192, 198, 111 P.3d 601, 607 (2005). Due to the choice of law 
+provision in the contract, we need not address this determination. 
+5 4    
+ 
+ 
+    
+   
+ 
+ 
+  
+  
+  
+  
+ 
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER *** 
+and the circuit court sentenced him to five years of 
+incarceration. In 2010, GEO Care accepted Panoke for mental 
+health treatment. DOH extended its contract with GEO Care 
+multiple times through 2016. 
+In March 2016, Panoke expressed a desire to return to 
+Hawaiʻi, but the DOH had not planned for him to return. During 
+the ensuing months, Panoke and his roommates were involved in 
+violent altercations. Panoke’s request to be placed in a single 
+room was ignored. On June 8 or 9, 2016, Panoke was attacked by 
+his roommates while he slept. The attack left him in a 
+persistent vegetative state. 
+Count One of the complaint alleged negligence or gross 
+negligence as to GEO Care and DOH; Count Two alleged negligent 
+infliction of emotional distress ; Count Three alleged negligent 
+or grossly negligent hiring, training, supervision, selection, 
+and/or retention of defendants’ employees; Count Four alleged 
+breach of fiduciary duty. For each count, plaintiffs alleged 
+that, as a direct and proximate cause of defendants’ wrongful 
+conduct, they “suffered and will continue to suffer pain and 
+suffering, mental a nguish, emotional distress, loss of quality 
+of life, loss of enjoyment of life, temporary and/or partial 
+impairment and/or disability, emotional disfigurement and/or 
+scarring, loss of income, economic loss, medical expenses, and 
+6    
+ 
+ 
+   
+  
+  
+  
+ 
+ 
+ 
+   
+  
+ 
+   *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER *** 
+other expenses. . . .”5 The complaint prayed for general, 
+special, and /or punitive damages. 
+GEO Care filed its answer on July 17, 2019 and its first 
+amended answer on August 1, 2019. Among the affirmative 
+defenses set forth in its answer and first amended answer, G EO 
+Care included “lack of standing” and that the complaint “fails 
+to state a claim against Defendants upon which relief can be 
+granted.” 
+ On April 13, 2022, GEO Care filed a  motion for summary 
+judgment (“MSJ”) as to all of Hoku’s claims for relief.   GEO 
+Care first noted that it did not concede that Panoke was, in 
+fact, Hoku’s father, and  therefore, alleged Hoku had no standing 
+to bring claims relating to Panoke’s  injury.   Moreover, GEO Care 
+argued,  “Hawaiʻi does not recognize a cause of action by a child 
+for damages arising from a non-fatal personal injury to a parent,” citing Halberg, 41 Haw. 634.   GEO Care quotes Halberg  
+as stating that “no action exists in favor of a child for injuries sustained by the parent not resulting in the parent’s 
+death.” Halberg, 41 Haw. at 642.  
+As such, the loss of parental consortium claims are derivative claims 
+stemming from the negligence causes of action asserted by Panoke’s 
+conservator against G EO Care and the DOH . The loss of consortium claims are 
+not independent causes of action in and of themselves. See, e.g., Mist v. 
+Westin Hotels, Inc. , 69 Haw. 192, 199, 738 P.2d 85 , 91 (1987) (“In view of 
+the basis upon which the loss of consortium claim arises and the significant 
+number of jurisdictions that continue to treat it as derivative, we . . . 
+refuse to recognize the loss of consortium claim as a separate and 
+independent cause of action and continue to treat it as derivative.”). 
+7 5    
+ 
+ 
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+ 
+  
+ 
+   
+  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER *** 
+Plaintiffs filed their memorandum in opposition to G EO 
+Care’s MSJ on June 29, 2022. Preliminar ily, they submitted two 
+exhibits demonstrating that Hoku was Panoke’s biological child. 
+They went on to argue that Halberg does not take into account 
+the current case’s circumstances, in which a child plaintiff has 
+lost all manner of consortium with her father, who has been in a 
+persistent vegetative state for six years and will not recover. 
+Plaintiffs cited Masaki’s observation that “no meaningful 
+distinction can be drawn between death and severe injury where 
+the effect on [filial] consortium is concerned.” 71 Haw. at 20, 
+780 P.2d at 577. To further support their position, plaintiffs 
+pointed to Marquardt , 781 F. Supp. at 1492, in which the federal 
+district court interpreted Masaki as having implicitly overruled 
+Halberg and predicting that th is court would recognize a child’s 
+claim for loss of parental consortium where the parent has been 
+injured but not killed. 
+In GEO Care’s reply, it counter -argued that Masaki ruled 
+narrowly on the parents’ claim for loss of filial consortium and 
+did not “directly state, or even suggest” that its ruling 
+applied to a child’s claim for loss of parental consortium. GEO 
+Care pointed to footnote 8 in Masaki, stating that “the issue of 
+parental consortium is not before us today.” 71 Haw. at 19 n.8, 
+780 P.2d at 576 n.8. 
+8    
+ 
+ 
+  
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER *** 
+On July 7, 2022, the circuit court held a hearing on G EO 
+Care’s MSJ. The court indicated it was “going to go out on a 
+limb” in denying G EO Care’s MSJ by declining the follow the 
+Halberg case. The court’s reasoning was as follows: 
+[T]he Court finds persuasive the Hawaii Supreme 
+Court’s ruling in Masaki v. General Motors . 
+Now, prior to Masaki, similar to this situation, 
+neither the legislature nor the Hawaii courts recognized a 
+cause of action for loss of filial consortium resulting 
+from injury short of death caused by the wrongful conduct 
+of another. Masaki recognized, however, that severe injury 
+may have just as deleterious an impact on filial consortium 
+as death. 
+The Supreme Court further held that the cause of 
+action was in part based upon intangible elements of love, 
+comfort, companionship, and society between child and 
+parent rather than the outdated concepts of a child being a 
+servant and economic asset to the parent. And that’s 
+important because there was a lot of language in Halberg 
+regarding this type of child being a servant, economic 
+asset, etc. And the Hawaii Supreme Court viewed loss of 
+consortium more in these what they call intangible elements 
+of love, comfort, companionship, and society. 
+Conversely, the reasoning of Masaki, this Court would 
+hold, would apply to the loss of parental consortium 
+presented in this case. There’s a genuine issue of 
+material fact as to Ms. Panoke Gec’s loss of love, comfort, 
+companionship, and society as a result of Curtis Panoke’s 
+injury and inc apacity. 
+While not controlling authority, this recognition of 
+a cause of action for parental consortium based upon Masaki 
+was the holding of the court in Marquardt v. United 
+Airlines . Again, the Court is considering that federal 
+court decision as, while not controlling, persuasive 
+authority. 
+Finally, the Court finds that the Halberg case is 
+distinguishable factually from the instant case. While 
+Halberg was not explicit about the type of injury suffered 
+by the mother in the auto accident, the instant case is a 
+case involving catastrophic injury where Mr. Panoke is in a 
+vegetative state. Halberg was partly predicated on the 
+premise that where a parent has been injured by the 
+negligent act of another, the parent will recover from the 
+other full damage which he has sustained, including 
+inability , if any, to properly care for his children. 
+Here Mr. Panoke’s condition and the legalities of the 
+conservatorship does not enable him to fully recover 
+damages for loss of consortium with regard to the daughter. 
+So his cause of action here does not cover what Ms. Panoke 
+--Panoke Gec is claiming. 
+9    
+ 
+ 
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER *** 
+So therefore, the Court will deny the motion for 
+summary judgment. 
+The circuit court denied G EO Care’s MSJ in an order dated 
+September 9, 2022. The circuit court granted G EO Care’s 
+application for an interlocutory appeal, G EO Care appealed to 
+the ICA, and this appeal was transferred from the ICA to this 
+court. 
+III. Standard of Review: Summary Judgment 
+ On appeal, the grant or denial of  summary judgment is 
+reviewed  de novo.   Summary judgment is appropriate if there is 
+no genuine issue as to any material fact and the moving party is 
+entitled to judgment as a matter of law.   See  Villaver  v.  Sylva,  
+145  Hawaiʻi  29,  3 4,  445  P.3d  701,  706  (2019).   
+IV. Discussion 
+A. The parties’ arguments on appeal 
+1. GEO Care’s opening brief 
+10  GEO Care’s sole point of error on appeal is that the 
+circuit court erred in denying its MSJ.   In its opening brief on 
+appeal, GEO Care argues that the circuit court disregarded 
+established controlling precedent (Halberg), having not been 
+overturned since 1957, and unjustifiably departed from the 
+doctrine of stare decisis.   GEO Care argues that any change to 
+Hawaiʻi’s laws on consortium ought to be made by the legislature, 
+and the legislature has made no changes to Hawaiʻi Revised    
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+   
+  
+  
+ 
+  
+  
+  
+ 
+ 
+   6 *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER *** 
+Statutes (“HRS”)  § 663-1 (2016) since Halberg.   GEO Care also 
+asserts the federal district court misinterpreted Masaki  in 
+Marquardt  to predict that this court  would recognize loss of 
+parental consortium claims where a parent is injured but still 
+alive, because Masaki’s holding should have been limited to 
+filial consortium claims.  6 
+ Lastly, GEO Care states that a “significant number of 
+states refuse to provide children with a cause of action for the loss of parental consortium or parental care resulting from non-
+GEO Care cites to HRS § 663 -1, titled “Torts, who may sue and for 
+what.” That statute provides the following: 
+Except as otherwise provided, all persons residing or being 
+in the State shall be personally responsible in damages, 
+for trespass or injury, whether direct or consequential, to 
+the person or property of others, or to their spouses or 
+reciprocal beneficiaries, children under majority, or 
+wards, by such offending party, o r the offending party’s 
+child under majority, or by the offending party’s command, 
+or by the offending party’s animals, domestic or wild; and 
+the party aggrieved may prosecute therefore in the proper 
+courts. 
+HRS § 663 -1 is not the basis of Hoku’s loss of parental consortium claim 
+against GEO Care; Hoku brings a common law claim , although HRS § 663 -1 does 
+specifically provide for “consequential” damages . See HRS § 1-1 
+(2009)(“ Common law of the State; exceptions. The common law of England, as 
+ascertained by English and American decisions, is declared to be the common 
+law of the State of Hawaii in all cases, except as otherwise expressly 
+provided by the Constitution or laws of the United States, or by the laws of 
+the State, or fixed by Hawaiian judicial precedent, or esta blished by 
+Hawaiian usage [.]”) 
+In this case, an adult child’s loss of parental consortium claim arises 
+out of “Hawaiian judicial precedent,” similar to our court’s common law 
+recognition of a filial consortium cause of action in Masaki, extrapolating 
+from HRS § 663 -3 (2016), titled “Death by wrongful act .” See Masaki, 71 Haw. 
+at 19, 780 P.2d at 576 (“Loss of filial consortium is a recognized cause of 
+action in Hawaii under our wrongful death statute. . . .”). Likewise, loss 
+of parental consortium or care is a recognized cause of action under HRS § 
+663-3(b)(5)(“Loss of parental care, training, guidance, or education”). 
+Thus, contrary to GEO Care’s contention, the expansion of law in this 
+area can happen through this court’s development of common law, not primarily 
+through legislative action. 
+11    
+ 
+ 
+  
+  
+ 
+  
+ 
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER *** 
+fatal injury caused by the alleged wrongful conduct of another,” 
+citing 18 cases from other jurisdictions.   GEO Care relies 
+heavily upon one such case,  Kershner  v. Beloit Corp., 611 F. 
+Supp. 943, 947  (D. Me. 1985), for the following policy reasons 
+courts in other jurisdictions have refused to recognize a 
+child’s claim of loss of parental consortium where the parent is 
+injured but alive:  
+(1) the lack of precedent for such a cause of action; (2) 
+the uncertainty and remoteness of the damages which would 
+flow from such a cause of action; (3) the danger of 
+duplication of recovery between the child and parents; (4) 
+the unsettling effect that th e creation of such a cause of 
+action would have upon a parent’ s settlement negotiations 
+with tortfeasors; (5) the increased risk of falsification 
+in order to recover under such a cause of action; (6) the 
+potential for increased insurance costs; (7) the pot ential 
+harm to the integrity and sanctity of the family unit; (8) 
+the lack of statutory authority for the creation of such a 
+cause of action; and (9) the legal basis of a child’s claim 
+to the services of the parent under the substantive law of 
+the state in question. 
+GEO Care asks this court to vacate or reverse the circuit 
+court’s order denying its motion for summary judgment.  
+2. Hoku’s answering brief 
+In her answering brief, Hoku argues that G EO Care’s 
+reliance on Halberg is misplaced because (1) cases since Halberg 
+have left open the possibility of recognizing a loss of parental 
+consortium claim when a parent is injured but not killed, citing 
+Masaki, 71 Haw. 1, 780 P.2d 566, and Marquardt , 781 F. Supp. 
+1487; and (2) this court interprets HRS § 663 -3 liberally to 
+grant broad remedial relief, citing Lealaimatafao v. Woodward -
+Clyde Consultants , 75 Haw. 544, 867 P.2d 220 (1994), and Castro 
+12    
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER *** 
+v. Melchor, 142 Hawaiʻi 1, 414 P.3d 53 (2018)  (plurality).   
+Further, Hoku argues that GEO Care’s use of out-of-state cases 
+is “irrelevant” to determining the nature and scope of a  loss of 
+consortium claim arising under Hawai ʻi  law.   Nevertheless, she 
+cites Ueland v. Reynolds Metals Co., 103 Wash. 2d 131, 140, 691 
+P.2d 190, 195  (Wash. 1984),  for the proposition that “a child 
+has an independent cause of action for loss of the love, care, 
+companionship and guidance of a parent tortiously injured by a 
+third party.” In Ueland, while acknowledging that some other 
+jurisdictions do not recognize such a claim, the Washington 
+Supreme Court stated, “We find more persuasive the reasoning 
+found in these decisions recognizing the cause of action. . . . 
+When justice requires, this court does not hesitate to expand 
+the common law and recognize a cause of action.”  Ueland, 103 
+Wash. at 135-36, 691 P.2d at 193.  
+3. GEO Care’s reply brief 
+In its reply brief, G EO Care notes that Hoku does not 
+address its argument that the legislature should be the one to 
+create a loss of parental consortium claim where a parent is 
+injured but still alive. G EO Care also states that Ueland, a 
+Washington state case Hoku relies on, is unpersuasive because it 
+relies on Washington law regarding consortium. 
+13    
+ 
+ 
+  
+   
+  
+ 
+ 
+ 
+ 
+  
+  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER *** 
+B. Our precedent 
+1. Halberg 
+Halberg held that “no action exists in favor of a child for 
+injuries sustained by the parent not resulting in the parent’s 
+death.” 41 Haw. at 642. In Halberg, a mother was injured in a 
+car accident and suit was brought by her husband and minor 
+children, for the loss of the mother’s “kindness, care, 
+attention and other incidents of the parent and child 
+relationship. . . .” 41 Haw. at 634 -35. Although the extent of 
+her injuries was unclear, she survived the accident and, unlike 
+Panoke, would apparently recover. 41 Haw. at 635, 6 39-40. The 
+Supreme Court of the Territory of Hawai‘i held that her children 
+could not maintain an action against those who negligently 
+injured her because “[t]here is no decision of a Hawaiian court, 
+supreme or nisi prius, that holds a minor child has a cause of 
+action for injury to his parent and the overwhelming weight of 
+authority is against such action.” 41 Haw. at 638 -39. 
+The Halberg court acknowledged that the United States Court 
+of Appeals for the Ninth Circuit had, in fact, recognized such a 
+claim in Scruggs v. Meredith , 134 F. Supp. 868, 869 -70 (D. Haw . 
+1955) (holding that a child whose mother was negligently 
+injured, but not killed, had a claim against the wrongdoer for 
+loss of consortium because reciprocal rights and duties attached 
+14    
+ 
+ 
+  
+   
+ 
+  
+ 
+ 
+ 
+   
+ 
+ 
+  
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER *** 
+to the relations of parent and minor child) (citing Gabriel v. 
+Margah, 37 Haw. 571, 577 (Haw. Terr. 1947) ). 
+In insisting that a child’s loss of parental consortium 
+claim would only lie where the parent was killed (not just 
+injured), however, the Halberg court stated the following: 
+[W]here a parent has been injured by the negligent act of 
+another the parent will recover from the other full damage 
+which he has sustained, including such inability, if any, 
+to properly care for his children, and thus the parent’s 
+ability to carry out his duty to support and maintain the 
+child has not, in a legal sense, been destroyed or impaired 
+by the inj ury to him. On the other hand, if the parent 
+were killed, the parent’s ability to support and educate 
+the child ceases and the child has been deprived of this 
+right and the child would be permitted to recover for such 
+loss. 
+41 Haw. at 640. In addition to the injured parent’s ability to 
+recover “full damage[s]” from the tortfeasor, t he fact of 
+eventual physical recovery was also critical to Halberg’s 
+holding. The Halberg court rejected the argument “that it is 
+merely a difference in degree whether the action is for the 
+death of the parent, which deprives the child permanently of 
+parental care and support, or whether it is an injury which 
+would deprive the child temporarily of such care and support. . 
+. .” 41 Haw. at 639 -40 (emphase s added). In other words, the 
+Halberg court assumed injury short of death would not 
+permanently deprive a child of parental care and support, which 
+is not true in all circumstances. The Halberg court concluded 
+that if the claim were to be recognized, it should be done by 
+the legislature. 41 Haw. at 646. 
+15    
+ 
+ 
+    
+ 
+  
+    
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER *** 
+2. Masaki 
+Thirty years later, this court held that “a parent may 
+recover damages for the loss of filial consortium of an injured 
+adult child.” Masaki, 71 Haw. at 22, 780 P.2d at 578.7 In 
+Masaki, 28-year-old Steven Masaki was rendered a quadriplegic 
+after the van he was jump -starting shifted into gear and ran him 
+over. 71 Haw. at 4, 780 P.2d at 569. His parents sued in 
+negligence and included claims for loss of filial consortium. 
+Id. A jury returned a verdict in their favor. Id. On appeal, 
+the defendants challenged, among other things, the loss of 
+filial consortium award where Steven had been injured but not 
+killed. 71 Haw. at 19, 780 P.2d at 576. 
+The court in Masaki acknowledged that neither the 
+legislature nor this court had previously recognized such a 
+claim; however, the court held there was little distinction 
+between death and severe injury, so the purposes of HRS § 663 -3 
+would be served by recognizing the cause of action. 71 Haw. at 
+19-20, 780 P.2d at 576 -77. The Masaki court stated that “severe 
+injury may have just as deleterious an impact on filial 
+consortium as death.” 71 Haw. at 19 -20, 780 P.2d at 577. 
+We note that the question on certiorari was framed as “whether there is 
+a cause of action available to parents for the loss of consortium of an adult 
+child who had been severely and permanently injured due to the defendant’s 
+negligence.” Masaki, 71 Haw. at 19, 780 P.2d at 576 (emphases added) . We 
+think it is clear from the discussion on loss of filial consortium in Masaki 
+that the holding covers “severe” injury. See Masaki, 71 Haw. at 19 -21, 780 
+P.2d at 576-78 (using the adjective “severe” to modify “injury” seven times). 
+16 7      
+ 
+ 
+  
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER *** 
+Quoting a sister jurisdiction recognizing the claim, this court 
+stated, “Often death is separated from severe injury by mere 
+fortuity.” 71 Haw. at 20, 780 P.2d at 577 (quoting Frank v. 
+Sup. Court, 150 Ariz. 228, 230, 722 P.2d 955, 957-78 (1986)). 
+The Frank  court went on to explain  
+Perhaps the loss of companionship and society experienced 
+by the parents of a child permanently and severely injured 
+. . . is in some ways even greater than that suffered by 
+parents of a deceased child. Not only has the normal 
+family relationship been destr oyed, as when a child dies, 
+but the parent also is confronted with his loss each time 
+he is with his child and experiences again the child’s 
+diminished capacity to give comfort, society, and 
+companionship. 
+Masaki, 71 Haw. at 20, 780 P.2d at 577 (quoting Frank, 150 Ariz. at 231, 722 P.2d at 958).  
+ This court went even further in Masaki  to hold that loss of 
+filial consortium should not be limited to parents of severely 
+injured minor  children. 71 Haw. at 21, 780 P.2d at 577. The  
+limitation  was historically  
+premised on the rationale that upon emancipation, parents 
+are no longer entitled to the services and earnings of 
+their children. We find such reasoning outmoded and 
+illogical. At common law, the child, like the wife, was 
+relegated to the role of a servan t and considered an 
+economic asset to the family. In the modern family, 
+however, children have become less of an economic asset and 
+more of a financial burden to their parents. Today 
+children are valued for their society and companionship. 
+Thus, service s have become only one element of the 
+consortium action while the intangible elements of love, 
+comfort, companionship, and society have emerged as the 
+predominant focus of consortium actions. 
+Id.  (citations omitted). Thus, the claim for loss of filial 
+consortium is cognizable even where the severely injured person 
+is an adult  child. Id.   The Masaki  court recognized the 
+17    
+ 
+ 
+   
+  
+  
+  
+ 
+  
+    
+  
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER *** 
+changing nature of consortium between parents and children as 
+one “arising from the very bonds of the family relationship.” 
+Id. (citation omitted). 
+GEO Care clings to footnote 8 in Masaki to argue that the 
+law on parental consortium has not change d. Masaki, 71 Haw. at 
+19 n.8, 780 P.2d at 576 n.8 ( “[T]he issue of parental consortium 
+is not before us today.” ). This language , however, neither 
+expressly overrules nor affirms Halberg. Id. Rather, it leaves 
+the door open for future courts , such as this one, to revisit 
+parental consortium claims in non -fatal injury cases. That day 
+has come. 
+We now expressly overrule Halberg to the extent it held 
+that a child cannot claim loss of parental consortium where a 
+parent is severely injured but not killed. This court does not 
+lightly overrule precedent. Th e doctrine of stare decisis is a 
+“principle of self -restraint on courts with respect to the 
+overruling of prior decisions.” Robinson v. Ariyoshi , 65 Haw. 
+641, 653 n.10, 658 P.2d 287, 297 n.10 (1982) (citation omitted). 
+We apply this doctrine with a view toward 
+the desirability that the law furnish a clear guide for the 
+conduct of individuals, to enable them to plan their 
+affairs with assurance against untoward surprise; the 
+importance of furthering fair and expeditious adjudication 
+by elminating the need to relitigate every relevant 
+proposition in every case; and the n ecessity of maintaining 
+public faith in the judiciary as a source of impersonal and 
+reasoned judgments. 
+18    
+ 
+ 
+   
+  
+ 
+ 
+ 
+   
+     
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+   
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER *** 
+Id. A court should “not depart from the doctrine of stare 
+decisis without some compelling justification.” Ahn v. Liberty 
+Mut. Fire Ins. Co. , 126 Hawaiʻi 1, 10, 265 P.3d 470, 479 (2011). 
+Stated differently, a court “should not overrule its earlier 
+decisions unless the most cogent reasons and inescapable logic 
+require it.” Id. (citation omitted). 
+C. The modern trend 
+In this case, the law on parental consortium nationwide has 
+undergone dramatic change since Halberg was decided almost sixty 
+years ago. S ignificantly more states now recognize the claim 
+that Halberg stated did not exist . The Restatement (Third) of 
+Torts: Concluding Provisions (AM L. INST., Tentative Draft No. 1, 
+20228) contains a new claim, albeit limited to minor children, in 
+section 48C titled “Loss of Parental Consortium”: 
+A minor child of a parent who suffers physical or emotional 
+harm, factually caused by the tortious conduct of an actor 
+and within the actor’s scope of liability, may recover for 
+the loss of society resulting from the parent’s injury. 
+Loss of society inclu des loss of affection, comfort, 
+companionship, love, and support, and the loss of services. 
+The precursor to this section, the Restatement (Second) of 
+Torts § 707A, completely denied recovery for loss of parental 
+consortium when it was approved in 1977. Restatement (Third) of 
+Torts: Concluding Provisions § 48C cmt. a. The Restatement 
+According to the American Law Institute’s website, this draft 
+“represent[s] the Institute’s position until the official text is published.” 
+Torts: Miscellaneous Provisions | American Law Institute (ali.org) . 
+[https://perma.cc/SQG2 -8B8J] 
+19 8    
+ 
+ 
+      
+          
+ 
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER *** 
+(Third) of Torts commentators explained, however, that since 
+1977, “there has been a clear and substantial trend toward 
+recognizing parental consortium.” Id.   According to the 
+commentators, “Today, at least 19 states have case law and two have statutes permitting parental consortium claims. With three 
+states that have not decided the issue, a bare majority of 
+states does not recognize parental consortium claims.” 
+Restatement (Third) of Torts: Concluding Provisions § 48C cmt. 
+b.   The commentators noted that 
+Hawaiʻi was not counted among 
+those states permitting parental consortium claims, although it 
+acknowledged the federal district court’s Marquardt  decision. 
+Restatement (Third) of Torts: Concluding Provisions  § 48C cmt. 
+b, Reporters’ Note.  
+We now expressly add our state to those permitting parental 
+consortium claims and hold that loss of parental consortium is 
+cognizable for a child, whether a minor or an adult, when a 
+parent is severely injured. 
+Masaki characterized as “outmoded and illogical” the idea 
+that children’s (particularly minor children’s) value lay solely 
+in their role as servants to their parents: 
+We realize that a number of courts which recognize the 
+parents’ cause of action for loss of consortium of their 
+injured children restrict the action to minor children. 
+This rule is generally premised on the rationale that upon 
+emancipation, parents are no longer entitled to the 
+services and earnings of their children. We find such 
+reasoning outmoded and illogical. At common law, the 
+child, like the wife, was relegated to the role of a 
+servant and considered an economic asset to the family. In 
+20    
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER *** 
+the modern family, however, children have become less of an 
+economic asset and more of a financial burden to their 
+parents. Today children are valued for their society and 
+companionship. Thus, services have become only one element 
+of the consortium actio n while the intangible elements of 
+love, comfort, companionship, and society have emerged as 
+the predominant focus of consortium actions. 
+71 Haw. at 21, 780 P.2d at 577.   Stare decisis does not require 
+courts to cling stubbornly to the past. See  Ahn, 126 Hawaiʻi at 
+10, 265 P.3d at 469 (“There is no necessity or sound legal 
+reason to perpetuate an error under the doctrine of stare 
+decisis.”) (cleaned up). Masaki’s footnote 8, reserving for 
+another day the “reciprocal” issue of loss of parental 
+consortium, must be read in concert with this passage, signaling 
+that Halberg’s days were numbered.  
+The passage above from Masaki also signaled this court’s 
+view that children in general, whether minor or adult, are 
+valued by their parents --for their love, comfort, 
+companionship, and society --and the reciprocal could be true 
+as well. Thus, we now hold that a child, whether a minor or an 
+adult, may bring a loss of parental consortium claim for severe 
+injury to a parent. The Restatement (Third) of Torts : 
+Concluding Provisions § 48C recognizes a “split on whether an 
+adult child [versus a minor child] can pursue a parental 
+consortium claim.” Restatement (Third) of Torts : Concluding 
+Provisions § 48C cmt. g. We find it persuasive, however, that 
+multiple states recognize an adult child’s claim for loss of 
+21    
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER *** 
+parental consortium where a parent is tortiously injured by a 
+third party. See  N.  Pac. Ins. Co. v. Stucky, 338 P.3d 56, 57-58  
+(2014) (“Montana law recognizes a claim for loss of consortium 
+by the adult child of an injured parent” where the plaintiff 
+shows that “a third party tortiously caused the parent to suffer 
+a serious, permanent and disabling mental or physical injury 
+compensable under Montana law” and “the impairment is so 
+overwhelming and severe that it has caused the parent-child 
+relationship to be  destroyed or nearly destroyed”); Rolf v. Tri-
+State Motor Trans. Co., 745 N.E.2d 424, 428  (Ohio 2001) (holding 
+that “adult emancipated children may recover for loss of 
+parental consortium” where father “suffered a traumatic brain 
+injury, is physically and mentally impaired, and will require 
+custodial care for the remainder of his life”); Sebastien v. 
+McKay, 649 So.2d 711 (La. Ct. App. 1994) (allowing loss of 
+parental consortium claims made by adult children when their 
+father required constant care due to his temporarily but significantly weakened condition due to father’s doctor’s 
+negligence in  failing to remove a broken tube in father’s back 
+post-surgery); Reagan v. Vaughan, 804 S.W.2d 463, 466, 467  (Tex. 
+1990) (“We hold that children may recover for loss of consortium 
+when a third party causes serious, permanent, and disabling 
+injuries to their parent,” and “decline to limit the right of 
+recovery under this cause of action to minor children”); 
+22    
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER *** 
+Audubon-Exira Ready Mix, Inc. v. Ill.  Cent. Gulf R.R.  Co., 335 
+N.W.2d 148 (Iowa 1983) (holding that adult and married children 
+may raise loss of parental consortium claims when a parent is 
+injured); see  also  Nelson v. Four Seasons Nursing Ctr., 934 P.2d 
+1104, 1105  (Okla. Civ.  App. 1996) (holding, in a case in which 
+plaintiff’s father disappeared while under defendant nursing 
+home’s care, “In cases where the parent-child relationship is 
+destroyed or nearly destroyed by the tort of the defendant, the 
+affected  children, both minors and adults alike, should be 
+allowed to maintain a cause of action for loss of parental consortium.”). We now join those jurisdictions in recognizing a 
+child’s claim for loss of parental consortium where a third 
+party has severely injured a parent, whether the child is a 
+minor or an adult.  
+V. Conclusion 
+Hence, we recognize Hoku’s claim for loss of parental 
+consortium. Therefore, the circuit court’s order denying GEO 
+Care’s motion for summary judgment is affirmed. This case is 
+23    
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER *** 
+remanded to the circuit court for further proceedings consistent 
+with this opinion. 
+Frederick Matson Kelley    /s/ Mark E. Recktenwald  
+(Alex Wilkins and  
+Jon S. Jacobs with him    /s/ Sabrina S. McKenna  
+on the briefs)  
+for plaintiffs-appellees    /s/ Todd W. Eddins  
+ 
+Jeffrey S. Portnoy     /s/ Lisa M. Ginoza  
+(Trisha L. Nishimoto  
+and Troy C. Young     /s/ Vladimir P. Devens  
+with him on the briefs)  
+for defendants-appellants  
+ 
+24 
