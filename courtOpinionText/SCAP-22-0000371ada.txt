@@ -1,0 +1,1628 @@
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER  *** 
+Electronically Filed 
+Supreme Court SCAP-22-0000371 24-SEP-2024 11:47 AM Dkt. 44 OP 
+IN THE SUPREME COURT OF THE STATE OF HAWAI‘ I 
+---o0o---
+LINDA K. ROSEHILL, Trustee of the Linda K. Rosehill Revocable 
+Trust dated August 29, 1989, as amended; MARK B. CHESEBRO and 
+CAROLINE MITCHEL, Trustees of the First Amendment and 
+Restatement of the 1999 Mark Brendan Chesebro and Caroline 
+Mitchel Revocable Trust U/D/T dated January 6, 1999; SOMTIDA S. SALIM, Trustee of the Somtida Salim Living Trust dated February 
+15, 2007; TODD M. MOSES; PSALMS 133 LLC; JOHN T. FENTON, Trustee 
+of the John T. Fenton Revocable Trust dated February 27, 2014; 
+FRANCES T. FENTON, Trustee of the Frances T. Fenton Revocable 
+Trust dated February 27, 2014; DIRK AND LAURA BELLAMY HAIN, 
+Trustees of the Bellamy-Hain Family Trust dated September 13, 
+2017; ROBERT STOPPEK; LAURA B. STOPPEK; NEIL ALMSTEAD; DOYLE LAND PARTNERSHIP; CHARLES E. and NANCY E. ROSEBROOK; MICHAEL 
+CORY and EUGENIA MASTON; PAUL T. and DELAYNE M. JENNINGS, 
+Trustees of the Jennings Family Revocable Trust dated January 5, 
+2010; MAGGHOLM PROPERTIES LLC; NETTLETON S. and DIANE E. PAYNE, 
+III, Appellants-Appellees, 
+ 
+vs. 
+ 
+STATE OF HAWAI‘ I, LAND USE COMMISSION, 
+Appellee-Appellant, 
+ 
+and 
+ 
+COUNTY OF 
+HAWAI‘I,  
+Appellee-Appellee.  
+ 
+ 
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+SCAP-22-0000371 
+ 
+APPEAL FROM THE CIRCUIT COURT OF THE THIRD CIRCUIT 
+(CAAP-22-0000371; CIV. NO. 3CCV-21-0000178) 
+ 
+September 24, 2024 
+ 
+RECKTENWALD, C.J., McKENNA, EDDINS, AND GINOZA, JJ., AND 
+CIRCUIT JUDGE CASTAGNETTI, ASSIGNED BY REASON OF VACANCY 
+ 
+OPINION OF THE COURT BY RECKTENWALD, C.J. 
+I. INTRODUCTION 
+Hawai‘i land use 
+is broadly guided by state law. The 
+counties play an important role, however. They propose land use 
+maps to the State, implement the land use scheme through zoning ordinances, and carve out permissible exceptions to the State’s 
+broad scheme. In 2019, the County of Hawai‘ i passed an ordinance 
+banning short-term vacation rentals in the agricultural district 
+on lots built after 1976. The Rosehill Petitioners challenge the County’s ordinance, seeking permission to use farm dwellings 
+as short-term vacation rentals. We hold that farm dwellings in 
+the agricultural district may not be used as short-term vacation 
+rentals because such relief would undermine the purpose of the 
+agricultural district. 
+In brief summary, 
+Hawai‘i Revised Statutes (HRS) 
+§ 205-4.5 (2017) details all permissible uses of land in the 
+agricultural district. HRS § 205-4.5(a)(4) (2017) defines a 
+“farm dwelling,” a permissible use, as “a single-family dwelling 
+2  
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+located on and used in connection with a farm . . . or where 
+agricultural activity provides income to the family occupying 
+the dwelling.” In 2019, the County of Hawai‘i amended its zoning 
+code to regulate the use of short-term vacation rentals by 
+requiring owners to register and obtain nonconforming use 
+certificates from the County Planning Department. Under the 
+ordinance, the County may only issue a nonconforming use 
+certificate for land in the agricultural district where the lot 
+existed before June 4, 1976. Anyone operating a short-term 
+vacation rental without first obtaining a nonconforming use certificate is subject to criminal prosecution and 
+administrative penalties. 
+After the ordinance was enacted, the Rosehill 
+Petitioners, who all own lots created after June 4, 1976, sought 
+nonconforming use certificates. 
+The County denied the 
+certificates, and the Rosehill Petitioners appealed to the County Board of Appeals. The County and the Rosehill 
+Petitioners agreed to stay the appeal and each file a petition 
+with the Land Use Commission (LUC), seeking to establish whether the County’s denial was proper under state law. The LUC ruled 
+on the County’s petition and found that farm dwelling use and 
+short-term vacation rental use are not compatible uses — i.e., 
+that farm dwellings cannot be used as short-term vacation 
+3  
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+rentals. The LUC also concluded that the Rosehill Petition was 
+speculative and hypothetical. 
+The Rosehill Petitioners appealed to the circuit 
+court, which reversed the LUC. The circuit court held that farm 
+dwelling use and short-term vacation rental use are “not 
+incompatible.” It compared the County ordinance to HRS 
+§ 205-4.5(a) and held that a dwelling can simultaneously meet 
+the definition of a farm dwelling and a short-term vacation rental. 
+The LUC appealed to the Intermediate Court of Appeals 
+(ICA), where the case was extensively briefed. While the case 
+was pending before the ICA, this court issued In re Kanahele
+, 
+which held that declaratory orders entered by the LUC have the “same status” for judicial review as orders in contested cases. 
+152 
+Hawai‘i 501, 512, 526 P.3d 478, 489 (2023). Here, that would 
+mean that the Rosehill Petitioners should have appealed directly 
+to this court from the LUC order (rather than, as they did to 
+the circuit court). The Rosehill Petitioners then applied for 
+transfer, which we granted. 
+This case raises several questions. 
+Preliminarily, 
+there are two procedural issues raised by Kanahele: (1) Can this case be transferred from the ICA to this court, nunc pro tunc to 
+June 18, 2021, the date this appeal was initially filed in the 
+circuit court; and (2) if the case can be transferred nunc pro
+4  
+ 
+ 
+   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+tunc, what record may the Court consider, and which party should 
+have the burden of showing error? There are also two 
+substantive issues: (3) Could the LUC grant the declaratory 
+order to the County while denying the Rosehill Petition, and 
+(4) can a farm dwelling in the state agricultural district be 
+used as a short-term vacation rental? 
+We hold as follows: (1) yes, we may transfer the case 
+nunc pro tunc
+ because it is within the statutory and inherent 
+power of this court to do so and would accord with our 
+longstanding policy to hear cases on the merits; (2) this court 
+can use the entirety of the record (though the circuit court’s 
+findings of fact and conclusions of law have no weight), and the 
+Rosehill Petitioners have the burden of showing that the LUC 
+order was arbitrary and capricious; (3) yes, the LUC properly 
+granted the declaratory order for the County while denying the Rosehill Petition because the two parties were not similarly 
+situated; and (4) no, a farm dwelling in the agricultural 
+district may not be used as a short-term vacation rental because 
+that use does not accord with the agricultural district’s 
+purpose. 
+We therefore vacate the circuit court’s judgment and 
+affirm the LUC’s declaratory order. 
+5  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+II. BACKGROUND 
+A. Statutory Background 
+HRS § 205-4.5, originally enacted as Act 199 in 1976, 
+governs the LUC and agricultural lands: 
+205-4.5  Permissible uses within the agricultural 
+districts. 
+(a) Within the agricultural district, all lands with soil 
+classified by the land study bureau’ s detailed land 
+classification as overall (master) productivity rating 
+class A or B and for solar energy facilities, class B or C, 
+shall be restricted to the following permitted uses: 
+     . . . . 
+(4) Farm dwellings, employee housing, farm buildings, 
+or activities or uses related to farming and animal 
+husbandry. “Farm dwelling
+”, as used in this 
+paragraph, means a single- family dwelling located on 
+and used in connection with a farm, including 
+clusters of single- family farm dwellings permitted 
+within agricultural parks developed by the State, or where agricultural activity provides income to the 
+family occupying the dwelling[.] 
+(b) Uses not expressly permitted in subsection (a) shall be 
+prohibited, except the uses permitted as provided in 
+sections 205- 6 and 205- 8, and construction of single- family 
+dwellings on lots existing before June 4, 1976. Any other law to the contrary notwithstanding, no subdivision of land within the agricultural district with soil classified by 
+the land study bureau’ s detailed land classification as 
+overall (master) productivity rating class A or B shall be approved by a county unless those A and B lands within the 
+subdivision are made subject to the restriction on uses as prescribed in this section and to the condition that the 
+uses shall be primarily in pursuit of an agricultural 
+activity. 
+6  Any deed, lease, agreement of sale, mortgage, or 
+other instrument of conveyance covering any land within the 
+agricultural subdivision shall expressly contain the 
+restriction on uses and the condition, as prescribed in 
+this section that these restrictions and conditions shall 
+be encumbrances running with the land until such time that the land is reclassified to a land use district other than 
+agricultural district.    
+ 
+ 
+   HRS § 205-6 (2017) allows counties to “permit certain 
+unusual and reasonable uses within agricultural and rural 
+districts other than those for which the district is 
+classified.” 
+ 
+  
+ 
+   
+   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+B. Zoning Code Background and County Planning Procedure 
+The County of Hawaiʻi zoning code regulates land 
+development and use within the County. See
+ Hawai‘i County Code 
+(HCC or the Code) § 25-1-2(b). In April 2019, the County 
+amended its zoning code to regulate the use of short-term 
+vacation rentals by requiring the owner to register and obtain a 
+nonconforming use certificate from the Planning Department. HCC 
+§§ 25-4-16, 25-4-16.1, Hawaiʻ i County Ordinance, No. 18-114 
+(2018). Anyone that operates a short-term vacation rental 
+without obtaining a nonconforming use certificate may be subject 
+to criminal prosecution and administrative penalties. HCC 
+§§ 25-4-16(b)(7), 25-2-31, 25-2-35 (2019). The Code provides, “[i]n the State land use agricultural district, a short-term 
+vacation rental nonconforming use certificate may only be issued 
+for single-family dwellings on lots existing before June 4, 
+1976.” 
+See
+ HCC § 25-4-16.1(e) (2019).1 
+1 June 4, 1976 was the effective date for Act 199, H.B. No. 3262-
+76, the act in which the legislature designated the permissible uses within 
+the agricultural districts now codified at HRS § 205-4.5. 
+7  
+ 
+ 
+   
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+The County defines a short-term vacation rental as “a 
+dwelling unit of which the owner or operator does not reside on 
+the building site, that has no more than five bedrooms for rent 
+on the building site, and is rented for a period of thirty 
+consecutive days or less.” HCC § 25-1-5(b) (2019). Short-term 
+vacation rentals are permitted in several areas of the County, 
+including its resort-hotel district, the general commercial 
+district, village commercial district, multiple-family residential district, and General Plan Resort and Resort Node 
+areas. HCC §§ 25-4-16(a)(1), 25-5-90 (2019). 
+The Rosehill Petitioners applied for a non-conforming 
+use certificate for their short-term vacation rental operated on 
+a lot created after June 4, 1976 in an agricultural district, 
+which the County denied. 
+Subsequently, the Rosehill Petitioners appealed the 
+denials of their application for nonconforming use certificates to the County’s Board of Appeals. See HCC § 25-4-16.1(f). The 
+County and the Rosehill Petitioners jointly stipulated to stay the proceedings at the Board of Appeals pending the disposition 
+of LUC petitions. 
+C. The LUC Proceedings 
+In May 2020, the County and the Rosehill Petitioners 
+separately filed petitions for declaratory orders before the 
+8  
+ 
+ 
+   
+  
+  
+  
+ 
+  
+  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+LUC, which were subsequently consolidated. The County presented 
+the following factual situation: petitioners (a subset of whom 
+are now the Rosehill Petitioners) who sought and were denied 
+nonconforming use certificates for short-term vacation rentals 
+have appealed the denials. The County requested “a Declaratory 
+Order that ‘farm dwellings’ may not be used as short-term 
+vacation rentals pursuant to [HRS] §§ 205-2 and 205-4.5, and 
+Hawaiʻi Administrative Rules (HAR) § 15-15-25.”  (Emphasis 
+added.) 
+The Rosehill Petitioners requested a declaratory ruling 
+“to clarify and affirm that the rental of farm dwellings for 
+periods of 30 days or less was not prohibited
+ in the State 
+Agricultural District as of June 4, 1976.” The Rosehill Petition described the Petitioners as owners of various parcels 
+of land in the agricultural district, but did not specifically 
+describe how the Petitioners were using the land. 
+On May 20, 2021, the LUC entered a consolidated order 
+denying the Rosehill Petition and granting the County’s 
+petition. 
+The LUC concluded: 
+62. The farm dwelling use and a [short- term vacation 
+rental] use are not compatible uses. A farm dwelling 
+defined under HRS § 205-4.5(a)(4) as a single- family 
+dwelling that either must be located on and used in 
+connections with a farm, or where agricultural activity 
+provides income to the family occupying the dwelling. 
+9  
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+ 
+   
+ 
+ 
+ 
+  
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+63. In the present proceedings, no facts were submitted 
+which would contradict the conclusion that a [short- term 
+vacation rental] use is basically a transient accommodation effectively for vacation or tourist use, which has no 
+connection to a farm and is not accessory to an agricultural use, and does not meet either of the requirements of the farm dwelling definition. A [short-
+term vacation rental] use would therefore improperly displace the required agricultural use of a farm dwelling. 
+64. A [short- term vacation rental] is not a permitted use 
+of a farm dwelling in the Agricultural District under HRS 
+chapter 205. HRS §§ 205-2(d) and 205- 4.5(a) expressly lists 
+the permitted uses in the Agricultural District as a matter 
+of law. If a use is not listed, it is prohibited. [Short-
+term vacation rentals] are not listed permitted uses of a 
+farm dwelling under HRS chapter 205, and therefore, are 
+prohibited. 
+65. Residential use of a farm dwelling without any connection to an agricultural use has never been allowed in 
+the Agricultural District. The law has always required that 
+a farm dwelling be used in connection with a farm or 
+accessory to an agricultural use. 
+    . . . . 
+69.
+ A [short- term vacation rental] is not a permitted use 
+as a farm dwelling under HRS chapter 205. 
+The order cited Save Sunset Beach Coal. v. City & 
+Cnty. of Honolulu, 102 Hawaiʻi 465, 482, 78 P.3d 1, 18 (2003), in 
+which we held, “[t]o the extent that the Hawaiʻ i County Council  
+has exercised its legislative judgment to regulate [short term  
+vacation rentals] to protect and preserve agricultural land in a 
+manner more restrictive than that provided by the LUC, the  
+County Ordinance controls and must be followed.”   
+10  
+ 
+ 
+   
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+     *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+The LUC Order further held that the petition filed by 
+the Rosehill Petitioners was speculative under HAR § 15-15-
+98(a): 
+79. Without a “specific factual situation” presented to the 
+Commission, the ROSEHILL PETITIONERS are putting forth a 
+speculative or purely hypothetical scenario “which does not 
+involve an existing situation or one which may reasonably be expected to occur in the near future.” Therefore, the 
+ROSEHILL PETITIONERS’ request for relief should be denied, 
+leaving only the County’s question of whether a farm dwelling may be used as a [short- term vacation rental] for 
+the Commission’s consideration.
+ D. Court Proceedings 
+In June 2021, the Rosehill Petitioners appealed the 
+LUC Order to the Circuit Court of the Third Circuit.2 In May 
+2022, the circuit court entered “Findings of Fact, Conclusions 
+of Law, Decision and Order Reversing the State of Hawai‘i Land 
+Use Commission’s Consolidated Declaratory Order.” It held that 
+the County’s petition should be denied and the Rosehill petition 
+granted for two reasons. First, it concluded that the “LUC 
+abused its discretion when it denied the Rosehill Petition on 
+the grounds that it was ‘speculative or purely hypothetical.’” 
+It found that the questions were substantially similar and based 
+on the same factual situation, so the LUC’s denial was an abuse 
+of discretion. Second, it concluded that “language of HRS §§ 205-2 and 205-4.5 is plain and unambiguous,” and that “[a] 
+comparison of [the County ordinance] with HRS Chapter 205 as of 
+2 The Honorable Wendy M. DeWeese presided. 
+11  
+ 
+ 
+    
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+June 4, 1976 reveals that a dwelling may simultaneously meet the 
+definition of a ‘farm dwelling’ pursuant to HRS Chapter 205 and 
+the County's definition of ‘short-term vacation rental.’” 
+The LUC appealed the circuit court’s order and 
+judgment to the ICA. First, the LUC argued that the circuit 
+court failed to recognize the distinctions between the two 
+petitions, which were critical to the LUC’s decision. Namely, 
+the LUC never found that the Rosehill Petitioners actually had farm dwellings, so it concluded that their petition was 
+hypothetical. The County, on the other hand, needed to know if 
+it could enforce its ordinance. Because of this, the LUC 
+argued, the parties were not similarly situated — so granting 
+the County petition while denying the Rosehill petition was 
+permissible. 
+Second, the LUC argued that short-term vacation 
+rentals are not a permissible use of farm dwellings in the agricultural district. The LUC argued (1) short-term vacation 
+rental was not a permitted use under HRS § 205-4.5, which 
+specifically states that “uses not expressly permitted . . . 
+shall be prohibited”; (2) short-term vacation rentals would not 
+align with the purpose of the agricultural district, which is to 
+protect agricultural land for agricultural use; and (3) the 
+LUC’s interpretation of its own ambiguous statute should be 
+12  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+accorded deference. Under the relevant LUC administrative 
+rules: 
+“Dwelling” means a building designed or used exclusively 
+for single family residential occupancy, but not including 
+house trailer, multi- family unit, mobile  home, hotel, or 
+motel.  
+    . . . . 
+“Farm dwelling” means a single
+-family dwelling located on 
+and used in connection with a farm or where agricultural 
+activity provides income to the family occupying the 
+dwelling. 
+“Single- family dwelling” means a dwelling occupied 
+exclusively by one family. 
+HAR § 15-15-03 (emphasis added). 
+As an “accessory building or use,” a farm dwelling 
+must also be “a subordinate building or use which is incidental 
+to and customary with a permitted use of the land.” 
+HAR § 15-
+15-03. The LUC argued that transient uses cannot coexist with agricultural activity, and that it used its expertise in land 
+use when making that determination. And because its interpretation is consistent with the underlying legislative 
+purpose of HRS chapter 205 (“to prevent ‘the development of 
+urban type residential communities in the guise of agricultural 
+subdivisions’”), the LUC argued it did not err. 
+The County filed an answering brief, agreeing with the 
+LUC’s arguments. The Rosehill Petitioners also answered, 
+13  . . . .  
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+defending the circuit court’s decision. First, they argued that 
+they and the County presented the same fundamental question to 
+the LUC, so the LUC could not deny the Rosehill petition as 
+speculative or hypothetical while granting the County petition. 
+Second, they argued that the plain language of HRS § 205-
+4.5(a)(4), which defines a farm dwelling as a permissible use of 
+agricultural land, does not set out a minimum rental period. On 
+the other hand, the County’s definition of a short-term vacation rental relies solely on how long the premises are rented and not 
+by the actual usage — so a farm dwelling can also be a short-
+term vacation rental. 
+Extensive briefing followed, in which the parties 
+reiterated their arguments for and against the use of farm 
+dwellings as short-term vacations rentals. The Honolulu 
+Department of Planning filed an amicus brief in support of the County’s actions. The brief reiterated the County’s and LUC’s 
+arguments, but also raised the jurisdictional issue following 
+this court’s holding in Kanahele, which had recently been 
+published. It argued: 
+there appears to be a question of whether the Third Circuit 
+Court possessed jurisdiction to hear an appeal from the 
+LUC’s consolidated order. HRS § 205- 19(a) states “[a]ny 
+other law to the contrary notwithstanding, including 
+chapter 91, any contested case under this chapter shall be 
+appealed from a final decision and order or a preliminary 
+ruling that is of the nature defined by section 91- 14(a) 
+upon the record directly to the supreme court for final decision.” HRS § 205- 19(a) (2017 and Supp. 2019). In 
+addition, on March 15, 2023, the 
+Hawai‘i Supreme Court 
+14  
+ 
+ 
+   
+  
+ 
+ 
+ 
+ 
+ 
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+issued an opinion in In re Kanahele, [152] Haw[ ai‘i] [501, 
+526 P.3d 478] (2023); No. SCOT- 19-0000830, 2023 Haw. LEXIS 
+75 (2023), in which it accepted jurisdiction over a direct 
+appeal from an LUC order. See, Kanahele, 2023 LEXIS 75 at 
+pp. 21-27. DPP respectfully declines to take a position on 
+the proper disposition of this case in light of HRS § 205-
+19(a) and Kanahele because jurisdictional matters are 
+outside of its area of expertise and interest. However, DPP 
+notes the issue raised by HRS [] and Kanahele based on 
+counsel’s duty to make this court aware of relevant law. 
+The Rosehill Petitioners responded. They claimed that 
+the circuit court had appellate jurisdiction under Lingle v. 
+Haw. Gov’t Emps. Ass’n, 107 Hawai‘ i 178, 111 P.3d 587 (2005), and 
+no party disputed that jurisdiction. 
+Alternatively, they 
+requested the ICA transfer the case to this court nunc pro tunc
+. 
+The LUC opposed the Rosehill Petitioners’ request to transfer. 
+Instead, the LUC asserted that the “correct, non-prejudicial way 
+to dispose of the instant appeal, in light of Kanahele, is to 
+vacate the circuit court order, strike any associated 
+proceedings,” and then proceed. (Emphasis in original.) 
+The Rosehill Petitioners followed their last brief 
+with a motion to transfer the case to this court. They argued that when the LUC issued its declaratory order in 2020, all 
+parties understood that the proper procedure to appeal was to 
+the circuit court under Lingle. Then Kanahele changed that. 
+Nunc pro tunc transfer, then, was necessary to preserve their 
+right to appeal. The LUC and County both opposed the motion. 
+They argued that in light of Kanahele, the only action that the 
+15  
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+   
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+ICA could take was to vacate the circuit court’s decision for 
+lack of jurisdiction. 
+The Rosehill Petitioners also filed an application to 
+transfer with this court. We accepted transfer in June 2023.3 
+III. STANDARDS OF REVIEW 
+A. Statutory Interpretation 
+“The interpretation of a statute is a question of law 
+which this court reviews de novo.” Kanahele, 152 
+Hawai‘i at 509, 
+526 P.3d at 486 (quoting Keep the N. Shore Country v. Bd. Of 
+Land & Nat. Res., 150 Hawai
+‘i 486, 506, 506 P.3d 150 (2022)). 
+In reviewing questions of statutory interpretation, we are 
+guided by the following principles: 
+First, the fundamental starting point for statutory interpretation is the language of the statute itself. 
+Second, where the statutory language is plain and 
+unambiguous, our sole duty is to give effect to its 
+plain and obvious meaning. Third, implicit in the 
+task of statutory construction is our foremost obligation to ascertain and give effect to the 
+intention of the legislature, which is to be obtained 
+primarily from the language contained in the statute itself. Fourth, when there is doubt, doubleness of 
+meaning, or indistinctiveness or uncertainty of an 
+expression used in a statute, an ambiguity exists. 
+State v. Castillon, 144 Hawai‘ i 406, 411, 443 P.3d 98, 103 (2019) 
+(quoting Panado v. Bd. Of Trs., Emps.’ Ret. Sys., 134 
+Hawai‘i 1, 
+10, 332 P.3d 144, 153 (2014)).   
+3 The County and LUC objected to transfer on jurisdictional 
+grounds. But a jurisdictional defect in the case does not deprive this court 
+of its ability to review the jurisdictional question. See Lingle
+, 107 Hawai‘i 
+at 182-83, 111 P.3d at 591- 92 (“When reviewing a case where the circuit court 
+lacked subject matter jurisdiction, the appellate court retains 
+jurisdiction . . . for the purpose of correcting the error in 
+jurisdiction.”). 
+16  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+B. Agency Appeals 
+A court’s review of administrative agency decisions is 
+governed by HRS § 91-14(g) (Supp. 2016), which provides: 
+Upon review of the record, the court may affirm the 
+decision of the agency or remand the case with instructions 
+for further proceedings; or it may reverse or modify the 
+decision and order if the substantial rights of the petitioners may have been prejudiced because the 
+administrative findings, conclusions, decisions, or orders 
+are: 
+(1) In violation of constitutional or statutory provisions; 
+(2) In excess of the statutory authority or 
+jurisdiction of the agency; 
+(3) Made upon unlawful procedure; 
+(4) Affected by other error of law; 
+(5) Clearly erroneous in view of the reliable, 
+probative, and substantial evidence on the whole 
+record; or 
+(6) Arbitrary, or capricious, or characterized by 
+abuse of discretion or clearly unwarranted exercise of discretion. 
+“Under HRS § 91-14(g), conclusions of law are 
+reviewable under subsections (1), (2), and (4); questions 
+regarding procedural defects under subsection (3); findings of 
+fact under subsection (5); and an agency’s exercise of 
+discretion under subsection (6).” Kanahele
+, 152 Hawai‘i at 509
+-
+10, 526 P.3d at 486-87 (brackets omitted) (quoting Paul’s Elec. Serv., Inc. v. Befitel
+, 104 Hawai‘i 412, 416, 91 P.3d 494, 498 
+(2004)). 
+17  
+ 
+ 
+  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+IV. DISCUSSION 
+As discussed below, we hold as follows: (1) the case 
+can be transferred nunc pro tunc because under Honoipu Hideaway,
+LLC v. Land Use Comm’n, 154 Hawai͑i 372, 550 P.3d 1230 (2024), 
+it is within the inherent power of this court and is in pursuit 
+of our longstanding policy to hear cases on the merits; (2) we 
+may use the record from the lower courts in the interest of 
+judicial efficiency, though we owe the circuit court’s holding no deference and the Rosehill Petitioners have the burden of 
+showing that the LUC order was arbitrary and capricious; 
+(3) 
+the LUC could grant the County petition while denying the 
+Rosehill petition because the two parties were not similarly situated; and (4) a farm dwelling in the agricultural district 
+cannot be used as a short-term vacation rental because that use 
+fails to accord with the purpose of the agricultural district. 
+Accordingly, we vacate the circuit court’s order and 
+judgment, and affirm the LUC’s declaratory order. 
+A. The Case Can be Transferred Nunc Pro Tunc
+ to Accord with 
+Hawai‘i Courts’ Longstanding Policy to Reach the Merits of a 
+Case 
+This court recently issued Honoipu, in which a party 
+appealed a declaratory order from the LUC. Its reasoning applies with equal force here. There, the circuit court 
+reserved a question for this court: “Whether [the circuit court] 
+18  
+ 
+ 
+   
+  
+ 
+  
+ 
+        
+    
+   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+has the inherent and statutory authority to transfer nunc pro
+tunc an appeal, which was timely filed with [the circuit court], 
+to the Supreme Court of Hawai‘ i as the court with appellate 
+jurisdiction.”4 Honoipu, 154 Hawai͑i at 373, 550 P.3d at 1231 
+(brackets in original). The question was briefed by both 
+Honoipu (who was represented by the same lawyers as the Rosehill 
+Petitioners) and the LUC (who is party to this case). 
+We 
+answered yes to the reserved question because “[a]llowing such a transfer in these limited circumstances accords with our 
+longstanding policy to hear cases on the merits, and there is both inherent and statutory power for the courts to do so.” Id.
+at 374, 550 P.3d at 1232. The reasoning in Honoipu
+ applies 
+here, as the circumstances are nearly the same. Honoipu 
+appealed a LUC declaratory order and that appeal was pending 
+before a circuit court when Kanahele was published. This case, 
+also an appeal of a LUC declaratory order, was pending before 
+the ICA when Kanahele was published. 
+In Honoipu, we held that: 
+There is both statutory and inherent power to transfer 
+[the] case. . . . this court has the authority “to make and 
+issue any order or writ necessary or appropriate in aid of its jurisdiction.” HRS § 602-5(a)(5)(2016).  This court 
+may also 
+4 “Nunc pro tunc translates to ‘now for then.’ Nunc pro tunc 
+actions allow courts to remedy clerical issues, clear errors, and prevent manifest injustice.” Honoipu at 374 n.2, 550 P.3d at 1232 n.2 (citing Nunc 
+Pro Tunc, Black’s Law Dictionary (11th ed. 2019)). 
+19  
+ 
+ 
+  
+ 
+   
+ 
+  
+ 
+  
+  
+ 
+ 
+  
+ 
+    
+ 
+ 
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+make and award such judgments, decrees, orders 
+and mandates, issue such executions and other 
+processes, and do such other acts and take such 
+other steps as may be necessary to carry into 
+full effect the powers which are or shall be 
+given to it by law or for the promotion of justice in matters pending before it. 
+HRS § 602- 5(a)(6) (emphasis added). 
+Article VI, section 1 of the Hawai‘ i Constitution entrusts 
+courts with the “judicial power of the State.” This court has interpreted the judicial power as inherently including 
+“the power to administer justice.” Farmer[ v. Admin Dir. 
+of Ct., State of Haw
+.], 94 
+Hawai‘i [232,] 241, 11 P.3d 
+[457,] 466 [(2000)] 
+(quoting State v. Moriwake, 65 H aw. 47, 
+55, 647 P.2 d 705, 712 (1982)).  
+Hawai‘i courts “have 
+inherent equity, supervisory, and administrative powers as well as inherent power to control the litigation process 
+before them. Inherent powers of the court are derived from the state Constitution and are not confined by or dependent 
+on statute.” State v. Harrison, 95 
+Hawai‘i 28, 32, 18 P.3d 
+890, 894 (2001) (quoting Kawamata Farms, Inc. v. United 
+Agric. 
+Prods., 86 Hawai
+‘i 214, 242, 948 P.2d 1055, 1083 
+(1997)). These powers include, but are not limited to, the 
+power to “create a remedy for a wrong even in the absence 
+of specific statutory remedies[,] . . . to prevent unfair 
+results[,] . 
+. . and to curb abuses and promote a fair 
+process.” 
+    ... . 
+[T]he power to “do such other acts and take such other steps as may be necessary to carry into full effect the 
+power which are or shall be given to them by law or for the 
+promotion of justice” gives the circuit court the power to correct a jurisdictional mistake that was no party’s or 
+court’s fault. 
+HRS § 603- 21.9(6). 
+Honoipu, 154 Hawai͑i at 375-76, 550 P.3d at 1233-34. 
+This court further held that nunc pro tunc transfer 
+was appropriate to accord with “our longstanding policy to hear 
+cases on the merits.” Id. at 374, 550 P.3d at 1232. If nunc
+pro tunc transfer was not deemed appropriate in Honoipu, the 
+appellant likely would have lost their right to appeal and their 
+day in court. Id. at 376-77, 550 P.3d at 1284-85. Similarly, 
+20  
+ 
+ 
+  
+     
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+here, unless the transfer is made nunc pro tunc to when the 
+Rosehill Petitioners filed their initial appeal, they will lose 
+their right to an appeal. The case is ripe for review now. 
+Thus, for the same reasons expressed in Honoipu, we 
+hold that this case can be transferred using this court’s 
+inherent and statutory powers and that the transfer is effective 
+nunc pro tunc to June 18, 2021, the date the Rosehill 
+Petitioners filed their initial appeal of the LUC declaratory order. 
+B. This Court May Review the Entire Record on Appeal, 
+Including the Circuit Court and ICA Proceedings, but the 
+Circuit Court’s Ruling Holds No Weight 
+The LUC and County argue that we should only review 
+the agency record and disregard the circuit court and ICA 
+records entirely. They contend that if the Rosehill Petitioners 
+had properly brought the case under Kanahele’s ruling, “[t]he record accompanying a direct appeal would have included only the 
+LUC’s record and Consolidated Order, not the record developed by 
+the circuit court or the ICA briefing.” Further, they contend 
+that because the circuit court lacked jurisdiction, that record 
+and references to that court’s decision will “taint the 
+arguments” on appeal. The LUC specifically argued that our 
+holding in Kanahele stated “that the proper record is the record 
+21  
+ 
+ 
+   
+  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+from the LUC’s proceedings that resulted in the LUC’s 
+declaratory order — nothing less, and, importantly, nothing 
+more.” See Kanahele
+, 152 Hawai‘i at 511–12, 526 P.3d at 488–89 
+(citing HRS § 205-19) (“any contested case under this chapter 
+shall be appealed from a final decision and order or a 
+preliminary ruling that is of the nature defined by section 
+91-14(a) upon the record directly to the supreme court for final 
+decision.”). 
+For the sake of judicial efficiency, we may review the 
+briefing from both the ICA and the circuit court. 
+If the 
+Rosehill Petitioners had properly brought their appeal to this 
+court under Kanahele’s holding, then we would have reviewed the 
+case in the same posture as the circuit court did here. The 
+circuit court acted as an appellate body in precisely the same 
+manner as this court does now. 
+The LUC and County do not contend that additional 
+evidence was introduced at the circuit court level that would 
+have affected that court’s review of the agency’s record below. 
+They want us to ignore the entire record from the lower courts and dismiss the case. We decline to do so. 
+This court held in Kanahele that it may directly 
+review agency decisions on petitions for declaratory relief. 
+152 Hawai‘ i at 511, 526 P.3d at 488.  Prior to that holding, 
+22  
+ 
+ 
+       
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+there was confusion among litigants as to the proper procedural 
+avenue. Some petitioners, like Kanahele, appealed directly to 
+this court. Others, such as the Rosehill Petitioners, appealed 
+their agency decision to the circuit court. Kanahele’s 
+jurisdictional rule aimed to align appeals of agency decisions with the legislature’s intent in passing HRS § 205-19(a) (as 
+amended by Act 48) to provide for this court’s direct review of 
+contested cases and declaratory orders because they have the “same status” under HRS §§ 91-8, 91-14 and 205-19. Id. at 512, 
+526 P.3d at 489. 
+While we may review the record from the lower court, 
+the circuit court’s findings of fact, conclusions of law, and judgment hold no weight. We primarily consider the briefing by 
+the parties because those briefs set forth the parties' 
+positions on direct appeal from the LUC. We review the LUC order de novo. See Kanahele
+, 152 Hawai͑i at 509-10, 526 P.3d at 
+486-87 (brackets omitted) (quoting 
+Paul’s Elec. Serv., Inc. v. 
+Befitel
+, 104 Hawai͑i 412, 416, 91 P.3d 494, 498 (2004)). 
+Because the Rosehill Petitioners had the initial burden on appeal to show that the LUC acted arbitrarily and capriciously, 
+they still have that burden now. 
+23  
+ 
+ 
+  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+C. The LUC Did Not Act Arbitrarily or Capriciously in Granting 
+the County’s Declaratory Order While Denying the Rosehill 
+Petition because the Two Parties Were Not Similarly 
+Situated 
+The Rosehill Petitioners argue that the LUC acted 
+outside of its authority by denying their petition. They claim 
+that because both petitions were premised on the same facts, the 
+LUC acted arbitrarily and capriciously in denying one petition 
+and ruling on the other. We disagree. While the two petitions 
+were consolidated by the LUC for factfinding, the two parties 
+are not similarly situated. The County is required to construe 
+and enforce HRS chapter 205 through its own ordinances. By 
+presenting the LUC with a question of whether it had the authority to enforce that code against landowners, the County 
+showed it was not dealing with a hypothetical or speculative 
+situation. The County needed to know if it could enforce HCC § 
+25-4-16 against landowners in violation of the ordinance. There 
+is nothing hypothetical or speculative about that situation. 
+The Rosehill Petitioners, on the other hand, did not 
+provide evidence in the record for the LUC to hold that they had 
+farm dwellings connected to agricultural use of the land. Their 
+counsel stated the following on the record: “As a matter of candor, I have no idea how these particular properties are used. 
+I don’t know, because that doesn’t matter;” and “we talked about 
+this, the [County] Corp Counsel and I, we specifically discussed 
+24  
+ 
+ 
+  
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+what facts should be presented to the Commission, whether it was 
+necessary to present issues related to any particular property 
+or any particular use, and we both agreed that it was not . . . 
+and that there was no need for any particular information about 
+any particular property because that’s not why we’re here.” 
+Determining whether the Rosehill Petitioners actually 
+had farm dwellings was the LUC’s obligation. The LUC found that 
+the Rosehill Petitioners “have not submitted a sufficient record demonstrating that their use or intended use of their subject 
+properties are ‘farm dwellings’ or related to agriculture.” It 
+found that the Rosehill Petitioners showed only that they had 
+lots in the agricultural district created after June 4, 1976 and 
+that they had rented those lots for periods of less than thirty-
+one days. The Rosehill Petitioners argue that the County 
+“admitted” that the Petitioners had farm dwellings, and that admission should carry the day. The Rosehill Petitioners are 
+wrong. 
+In the hearing that the Rosehill Petitioners refer to for 
+County’s “admission,” a deputy planning director for the County said, “[the Rosehill lots] are all on ag property and parcels 
+that were created after June 4th, 1976, therefore, we consider 
+all of their dwelling units on their property to be farm 
+dwellings.” But that is not all it takes to be a farm dwelling. 
+A farm dwelling must also be “used in connection with a farm.” 
+For the LUC to find that the Rosehill lots were farm dwellings, 
+25  
+ 
+ 
+  
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+the Rosehill Petitioners would have had to also show that their 
+dwellings were “used in connection with a farm.” It found that 
+they did not provide such evidence. If a representative from 
+the county used the wrong definition for a farm dwelling, there 
+is no reason for the LUC to credit her “admission” that the 
+Rosehill lots were farm dwellings. 
+The Rosehill Petitioners asked the highly-specific 
+question to the LUC: whether “the rental of farm dwellings for periods of 30 days or less was not prohibited in the State 
+Agricultural District as of June 4, 1976.” This attempt to 
+narrow the question while not showing “any particular 
+information about any particular property” fails to “involve an 
+existing situation or one which may reasonably be expected to 
+occur in the near future” required by HAR § 15-15-
+100(a)(1)(A) (2013). Therefore, the LUC’s conclusion that the Rosehill Petition was hypothetical was reasonable. 
+D. The LUC Did Not Act Arbitrarily or Capriciously in Holding 
+that Farm Dwellings in the Agricultural District Cannot Be 
+Used as Short-Term Vacation Rentals 
+The central merits issue of this appeal is whether 
+farm dwellings in the agricultural district can be used as 
+short-term vacation rentals under HRS chapter 205. We hold that 
+they cannot. 
+26  
+ 
+ 
+  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+1. HRS § 205-4.5 is ambiguous as to short-term vacation 
+rentals 
+The Rosehill Petitioners contend that the text of 
+HRS chapter 205 controls and is unambiguous. They argue that 
+because HRS § 205-4.5(a)(4) does not mention how long farm dwellings need to be rented for, and because the County 
+Ordinance defines short-term vacation rentals in part as being 
+rented for thirty days or fewer, farm dwellings may be used as 
+short-term vacation rentals. That narrow view of the statute, 
+which would allow for the subversion of the purpose of 
+HRS chapter 205, cannot stand. 
+In interpreting statutes, we start with the statute’s 
+language. If there is ambiguity, we look to the intent of the 
+legislature. See Citizens Against Reckless Dev.
+, 114 Hawai‘i 
+184, 194, 159 P.3d 143, 153 (2007) (quoting 
+Peterson v. Haw. 
+Elec. Light Co.
+, 85 Hawai‘i 322, 327-28, 944 P.2d 1265, 1270- 71 
+(1997)). 
+27  
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+  
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+HRS § 205-4.55 states: 
+205-4.5  Permissible uses within the agricultural 
+districts. (a) Within the agricultural district, all 
+lands with soil classified by the land study bureau's 
+detailed land classification as overall (master) productivity rating class A or B and for solar energy 
+facilities, class B or C, shall be restricted to the 
+following permitted uses: 
+ . . . 
+(4) Farm dwellings, employee housing, farm buildings, or 
+activities or uses related to farming and animal husbandry. 
+“Farm dwelling” , as used in this paragraph, means a single-
+family dwelling located on and used in connection with a 
+farm, including clusters of single- family farm dwellings 
+permitted within agricultural parks developed by the State, 
+or where agricultural activity provides income to the 
+family occupying the dwelling. 
+  By the statute’s text, there appear to be two types of 
+single-family dwellings that qualify as farm dwellings: the 
+first is a single-family dwelling located on and used in 
+connection with a farm. The second is one in which agricultural 
+activity provides income to a resident or family occupying the 
+dwelling. 
+There is ambiguity in the first type of farm dwelling 
+as to what “in connection with” a farm means. In the past, this 
+5 In 2021, the legislature amended “used in connection with” to 
+“accessory to” following a State Office of Planning “Study of Subdivision and 
+[Condominium Property Regime] on Agricultural Lands on Oahu” in 2021. 2021 
+Haw. Sess. Laws Act 77, §§ 1- 2  at 247- 48.  The Office of Planning 
+recommended the change after it found that there was a “proliferation of 
+dwellings in the agricultural district without any significant farm 
+component.” Off. of Planning, State of Haw., Act 278 Study of Subdivision and 
+CPR on Agricultural Lands on Oahu, at 17 (Dec. 29, 2020) 
+https://files.hawaii.gov/dbedt/op/lud/20201221%20Act%20278%20SLH%202019%20Pro ject/Act278FinalReporttoLeg20201230.pdf [https://perma.cc/59QG- 5L7P]. The 
+shift from “used in connection with” to “accessory to” supports our 
+analysis. If anything, it confirms that farm dwellings are not, and were 
+never intended to be, properly used as short- term vacation rentals. 
+28  
+ 
+ 
+    
+   
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+court has interpreted “in connection with” to mean “related to,” 
+“linked to,” or “associated with.” See Laeroc Waikiki Parkside,
+LLC v. K.S.K. (Oahu) Ltd. P’ship
+, 115 Hawai‘i 201, 225, 166 P.3d 
+961, 985 (2007). But that definition does not shed more light 
+on what the relationship between the single-family dwelling and 
+the farm must be. It might mean that a farmer tenant has a 
+long-term lease to grow a particular crop, and that tenant lives 
+in the single-family dwelling. The dwelling is “linked to” the 
+farm in that it houses the person that farms there. Or it might 
+also mean that a visitor to the County of Hawai‘ i stays at a 
+single-family dwelling on a farm that operates as a short-term 
+vacation rental. “Reasonably well-informed persons” can 
+understand the statute “in two or more different senses.” 
+Sutherland Statutory Construction § 45:2 (7th ed.). Thus, the statute has some ambiguity. 
+The fact that HRS chapter 205 does not require a 
+minimum rental period for farm dwellings does not mean that they 
+can be short-term vacation rentals. 
+Rather, the text prohibits 
+“uses not expressly permitted.” HRS § 205-4.5(b). And “it is ‘generally presumed that the legislature acts intentionally and 
+purposely in the disparate inclusion or exclusion’ of terms in 
+its statutes.” Matter of Gas Co., LLC
+, 147 Hawai‘i 186, 200, 465 
+29  
+ 
+ 
+  
+   
+   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+P.3d 633, 647 (2020) (quoting State v. Savitz , 97 Hawai‘i 440, 
+447, 39 P.3d 567, 574 (2002) (holding that the legislature could 
+have drafted a statute to include a limitation on the court’s discretion and noting that “[t]he fact that it did not do so 
+manifests its intent that it chose not to do so”). 
+Expressio
+unius est exclusio alterius
+ principles apply here.6 The 1976 
+legislature could have accounted for some type of transient 
+vacation accommodation in its extensive list of permitted uses. 
+But it did not. 
+Of the twenty-four expressly permitted uses under 
+HRS § 205-4.5, of which farm dwellings are but one, none of them resemble anything close to the type of transient accommodation 
+that a short-term vacation rental is. A somewhat comparable use 
+is “agricultural tourism,” which was not added until later and 
+is only permissible in Maui County. 2012 Haw. Sess. Laws Act 
+329, § 2 at 1113. Overnight camps, another somewhat close use, 
+are explicitly prohibited. HRS § 205-4.5(a)(6); 
+see Ho‘omoana 
+Found. v. Land Use Comm’n
+, 152 Hawai‘i 337, 526 P.3d 314 (2023) 
+(holding that prohibited uses in the agricultural district 
+cannot be permitted via special use permits). 
+6 Expressio unius est exclusio alterius means “the expression of 
+one thing is the exclusion of the other.” Expressio unius is “a canon of 
+construction holding that to express or include one thing implies the 
+exclusion of the other.” Expressio unius est exclusio alterius, Black’s Law 
+Dictionary (12th ed. 2024). 
+30  
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER ***
+ The LUC argued that “if farm dwellings could be used 
+for transient accommodations the Legislature would not have 
+needed to add a provision expressly permitting agricultural 
+tourism in HRS Chapter 205.” While “the views of a subsequent 
+[legislature] form a hazardous basis for inferring the intent of 
+an earlier one,” the more recent statutory language can provide 
+some context for the scope of HRS chapter 205 from 1976. United
+States v. Price, 361 U.S. 304, 313 (1960). It can tell us what the subsequent legislature thought was permissible and what was 
+not. See Keliipuleole v. Wilson, 85 Hawai‘ i 217, 225, 941 P.2d 
+300, 308 (1997) (“a court may look to ‘subsequent legislative 
+history or amendments to confirm its interpretation of an 
+earlier statutory provision.’”) (quoting Franks v. City & Cnty. 
+of Honolulu, 74 Haw. 328, 340 n.6, 843 P.2d 668, 674 n.6 
+(1993)); see also Cnty. of Hawai‘ i v. Ala Loop Homeowners
+, 123 
+Hawai‘i 391, 415, 235 P.3d 1103, 1127 (2010) (holding that a 
+report from a subsequent legislature “is not dispositive in our 
+analysis since it cannot change the meaning of article XI, 
+section 9 as approved by the voters in 1978, and since it sets 
+forth the views only of the joint committee, rather than the 
+legislature as a whole. Nevertheless, it is 
+relevant to the 
+extent that it provides an explanation for the non-action of the legislature, which is the body that would be charged with 
+31  
+ 
+ 
+  
+ 
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+enacting legislation to implement the provision if it was not 
+self-executing.”) (emphasis added). 
+Both parties cite to Curtis. There, this court wrote 
+that because land use statutes are in derogation of the common 
+law, their provisions must be strictly construed. But because 
+the court determined that the term “utility lines” in HRS § 205-
+4.5(a)(7) was ambiguous, it looked to the purpose of the 
+statute. We therefore do the same. 
+2. The purpose of HRS § 205-4.5 is to restrict the use of 
+specific land to agricultural purposes, and short-term 
+vacation rentals undermine that purpose 
+Because the meaning of “farm dwelling” is ambiguous, 
+we undertake our “obligation to ascertain and give effect to the 
+intention of the legislature.” Castillon
+, 144 Hawai‘i at 411, 
+443 P.3d at 103 (quoting 
+Panado
+, 134 Hawai‘i at 10, 332 P.3d at 
+153). While we primarily look at the statute’s text, in some 
+situations “an examination of the debates, proceedings and 
+committee reports is useful.” Nelson v. Hawaiian Homes Comm’n
+, 
+127 Hawai‘i 185, 198, 277 P.3d 279, 292 (2012). As discussed 
+supra
+, the text of HRS § 205-4.5 and HRS chapter 205 more 
+broadly cut against the use of transient short-term vacation rentals in agricultural districts. The text specifically 
+32  
+ 
+ 
+   
+ 
+   
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+excludes any unenumerated use,7 and the requirement that the farm 
+dwelling be “used in connection with a farm” also cuts against 
+transient rental uses. See HRS § 205-4.5(a)(4). 
+When creating the LUC in 1961, the legislature wrote 
+that, 
+[i]nadequate controls have caused many of Hawai͑i’s limited 
+and valuable lands to be used for purposes that may have a 
+short-term gain to a few but  result in a long- term  loss to 
+the income and growth potential of our economy.  .  .  .   
+Scattered subdivisions  with expensive, yet reduced, public 
+services; the shifting of prime agricultural lands  into 
+nonrevenue producing residential uses when other lands are available that  could serve adequately the urban 
+needs  .  .  .  these are evidences  of the need for public  
+concern and action.  
+1961 Haw. Sess. Laws Act 187, § 1 at 299. 
+A standing committee report described the purpose of 
+the bill proposing the LUC to be, in part, “to protect and 
+conserve through zoning the urban, agricultural, and 
+conservation lands within all the counties. A coordinated, 
+balance[d] approach . . . is essential in order to . . . 
+[c]onserve forests, water resources and land, particularly to 
+preserve the prime agricultural lands from unnecessary 
+urbanization.” H. Stand. Comm. Rep. No. 395, in 1961 House 
+Journal at 855 (emphasis added). 
+7 HRS § 205- 4.5(b) reads, in part: “Uses not expressly permitted in 
+subsection (a) shall be prohibited, except the uses permitted as provided in 
+sections 205- 6 and 205- 8, and construction of single- family dwellings on lots 
+existing before June 4, 1976.” 
+33  
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+   
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Fifteen years later, seeking to protect agricultural 
+lands from increasing urbanization, the legislature found that, 
+[a]fter careful consideration, your Committee finds there 
+is a danger that agricultural subdivisions may be approved 
+by the counties, and thus, put agricultural lands to uses other than for an agricultural pursuit. Inasmuch as the 
+purpose of the agricultural district classification is to restrict the uses of the land to agricultural purposes, the 
+purpose could be frustrated in the development of urban 
+type residential communities in the guise of agricultural subdivisions. 
+To avoid possible abuse within the agricultural 
+district, this bill more clearly defines the uses permissible within the agricultural district. Except for 
+those uses permitted under special use permits in Section 
+205-6 and those non- conforming uses permitted in Section 
+205-8, uses not specifically permitted by this bill shall 
+be prohibited. This bill further provides that the 
+restrictions on uses and the condition that the uses shall 
+be primarily in pursuit of an agricultural activity shall 
+be expressly contained in the instruments of conveyance and 
+shall be encumbrances running with the land. 
+    .
+. . . 
+[T
+]his bill is not intended to change the existing 
+permitted uses on lands within the agricultural district 
+. . . . Rather, the intent of this bill is to give 
+additional protection to those lands within the 
+agricultural district . . . . 
+Conf. Comm. Rep. No. 6, in 1976 House Journal, at 1095 (first 
+emphasis added, second emphasis in original). 
+  The definition of “farm dwelling” was codified by 
+House Bill 3262-76. Remarks from the chair of the House 
+Committee on Water, Land Use Development, and Hawaiian Homes add 
+more color to the findings and purpose of the bill: 
+We, in Hawai‘i, have always been proud of our Land Use 
+Law and its effectiveness in regulating land use activities 
+in the State. The economic importance of agriculture, the 
+imminent pressures of land development, and the prospect of 
+urban sprawl were factors behind the establishment of land 
+use laws. In fact, when the Legislature enacted Chapter 
+205, it declared that ‘ inadequate controls have caused many 
+34  
+ 
+ 
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+of Hawai‘i’s limited and valuable lands to be used for 
+purposes that may have a short- term gain for a few, but 
+would result in long
+-term losses to the income and growth 
+potential of our economy.’ 
+As part of our land use regulation scheme, we 
+established land use classifications, among which is the 
+agricultural district. Within an agricultural district, we 
+define certain permitted uses. These uses include growing 
+of crops, raising livestock, grazing, farm buildings, 
+public buildings necessary for agricultural practices, 
+utility lines, some open
+-type recreation, and other uses 
+necessary for conducting agricultural activities. 
+The administration of permitted uses within 
+agricultural districts was left to the counties which, by ordinance, could set more restrictive regulations if they so desired. 
+Mr. Speaker, we have laws, we have regulations and we 
+have county ordinances which govern the uses of agricultural lands. But, today, we have agricultural 
+subdivisions within agricultura l districts which can only 
+be viewed as a subterfuge of the spirit and intent of our land use laws. 
+What has been happening, Mr. Speaker, is that 
+landowners have found it difficult to get land reclassified 
+from agriculture to urban. Therefore, they have taken 
+advantage of county zoning provisions and, under the 
+pretext of agricultural subdivision s, have been subdividing 
+prime agricultural lands into two- acre sites for 
+residential purposes. 
+In practice, these agricultural subdivisions are not 
+only circumventing county zoning provisions but are being 
+offered at prices very few can afford and becoming, in fact, agricultural estates. 
+ . . . . 
+House Bill 3262
+-76, House Draft 2, amends the land 
+use law by listing permissible uses of Class A and B lands 
+within agricultural districts. Further, the bill 
+specifically states that no subdivision of Class A or B 
+lands within an agricultural district shall be approved by 
+a county unless the land within the subdivision is subject to the use restrictions in the law and only on the 
+condition that the use shall be primarily in pursuit of 
+agricultural activity. The bill provides for county 
+regulation of uses for Class C, D and E lands. 
+The bill further requires that any deed, lease, 
+agreement of sale, mortgage or any instrument of conveyance 
+on land located within an agricultural subdivision shall 
+expressly contain a restriction on use, and that such 
+35  
+ 
+ 
+  
+ 
+  
+  
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+restriction shall provide that the use will be primarily 
+agricultural in nature. This condition on any instrument 
+of conveyance shall remain with the land until it is 
+reclassified for another use. 
+1976 House Journal at 532-33 (Statement of Representative 
+Richard Kawakami, Chairman, H. Comm. on Water, Land Use Dev. & 
+Hawaiian Homes) (emphases added). 
+While only some of the issues motivating the passage 
+of House Bill 3262-76 are relevant here, it is clear that the general intent of the legislature was to protect land in the 
+agriculture district from being used for non-agricultural 
+purposes. 
+There is no indication either in the statute’s text or 
+its legislative history that the legislature intended to allow 
+for farm dwellings to be used as short-term vacation rentals 
+untethered from agricultural purposes. Rather, transient 
+accommodations are antithetical to the legislature’s intent. In 
+Curtis
+, this court held that there was ambiguity in whether 
+cellphone towers were “utility lines” or “communications 
+equipment buildings” under HRS § 205-4.5(a)(7). 90 Hawai‘i at 
+395-96, 978 P.2d at 833-34. We therefore looked “to the ‘reason 
+and spirit’ of state land use law to determine whether a 
+cellular phone tower falls within what the legislature 
+36  
+ 
+ 
+    
+ 
+ 
+  
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+contemplated as utility lines.” Id. at 396, 978 P.2d at 834 
+(quoting HRS § 1-15(2)). This court wrote: 
+In sum, the overarching purpose of the state land use law 
+is to “protect and conserve” natural resources and foster 
+“intelligent,” “effective,” and “orderly” land allocation and development. See 1961 Haw. Sess. L. Act 187, § 1 at 
+299 (“[I]n order to preserve, protect and encourage the development of the lands in the State for those uses to 
+which they are best suited for the public welfare ..., the 
+power to zone should be exercised by the State.”). See 
+also Pearl Ridge Estates Community Ass’ n v. Lear Siegler, 
+Inc., 65 Haw. 133, 144 n. 9, 648 P.2d 702, 709 n. 9 (Nakamura, J., concurring) (“Thus, conservation lands must 
+be reserved if practicable, agricultural lands should be 
+protected, and urban lands should be developed in orderly fashion.”). 
+Id. 
+This court therefore held that “wholesale inclusion of 
+cellular telephone towers in agricultural districts as ‘utility 
+lines’ under HRS § 205-4.5(a)(7) unreasonably expands the 
+intended scope of this term and frustrates the state land use 
+law’s basic objectives of protection and rational development.” 
+Id. (emphasis added). Including short-term vacation rentals in 
+the definition of “farm dwellings” would similarly unreasonably 
+expand the intended scope of the term and frustrate the state 
+land use law’s basic objectives of protection and rational 
+development. 
+A farm dwelling must be a “single-family dwelling 
+located on and used in connection with a farm,” or “where agricultural activity provides income to the family occupying 
+the dwelling.” HRS § 205-4.5(a)(4). In other words, it must be 
+37  
+ 
+ 
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+used in connection with agricultural activities. The use of a 
+dwelling as a short-term vacation rental is not connected to 
+agricultural activities. 
+3. This court defers to the LUC’s interpretation of an 
+ambiguous statute unless it is plainly erroneous or inconsistent with the underlying legislative purpose 
+When there is ambiguous statutory language, “the 
+applicable standard of review regarding an agency’s 
+interpretation of its own governing statute requires this court to defer to the agency’s expertise and to follow the agency’s 
+construction of the statute unless that construction is palpably 
+erroneous.” Pofolk Aviation Haw., Inc. v. Dep’t of Transp.
+, 136 
+Hawai‘i 1, 5-6, 354 P.3d 436, 440-41 (2015) (quoting 
+Gillan v. 
+Gov’t Emps. Ins. Co.
+, 119 Hawai‘i 109, 114, 194 P.3d 1071, 1076 
+(2008)). Of course, the “court must still independently analyze the ambiguous statute to determine whether the agency's 
+interpretation is palpably erroneous.” 
+Id.
+ at 7, 354 P.3d at 
+442 (citing Chun v. Emps. Retirement Sys., 61 Haw. 596, 600-02, 607 P.2d 415, 419 (1980). Palpable error can occur when the 
+agency’s interpretation is “inconsistent with the underlying 
+legislative purpose.” Dist. Council 50, of Int’l Union of
+Painters & Allied Trades v. Lopez
+, 129 Hawai‘i 281, 287, 298 P.3d 
+1045, 1051 (2013) (quoting 
+Haw. Teamsters & Allied Workers v. 
+38  
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Dep’t of Labor & Indus. Rels., 110 Hawai‘ i 259, 265, 132 P.3d 
+368, 374). This deference to the agency “‘reflects a 
+sensitivity to the proper roles of the political and judicial branches,’ insofar as ‘the resolution of ambiguity in a 
+statutory text is often more a question of policy than law.’” 
+Gillan
+, 119 Hawai‘ i at 118, 194 P.3d at 1080 (quoting In re Water 
+Use Permit Applications, 94 
+Hawai‘i 97, 145, 9 P.3d 409, 457 
+(2000)). 
+As discussed supra, the text of HRS § 205-4.5 is 
+ambiguous as to whether a farm dwelling can be used as a short-
+term vacation rental. Here, the LUC’s interpretation of 
+HRS § 205-4.5 was not palpably erroneous and was consistent with 
+the underlying legislative purpose of the statute. The LUC 
+correctly concluded that the State and the County have 
+concurrent jurisdiction over land in the agricultural district, 
+and, quoting this court’s decision in Save Sunset Beach
+, 102 
+Hawai‘i at 482, 78 P.3d at 18, “only a more restricted use as 
+between [the county zoning and State Land Use law] is 
+authorized.” The LUC ruled that unless a dwelling is in fact 
+used in connection with a farm, it is not a farm dwelling; that a short-term vacation rental is a use antithetical to farm 
+dwelling usage; and that therefore a farm dwelling may not be 
+39  
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+used as a short-term vacation rental. Therefore, it determined 
+that the County ordinance was enforceable. 
+The LUC Order conforms with HRS § 205-4.5, resolving 
+the ambiguity in a manner that is consistent with the underlying 
+legislative purpose. The underlying purpose, discussed supra
+Section IV(D)(2), is to protect land in the agriculture district 
+from being used for non-agricultural purposes. The LUC Order 
+concluded that farm dwellings cannot be used as short-term vacation rentals, protecting land in the agriculture district 
+from what it found to be non-agricultural use. This decision 
+accords with the legislative purpose of the statute discussed 
+above, and we therefore affirm. 
+We note that Hawai‘i's approach to administrative 
+deference now differs sharply from federal precedent. These 
+days, the United States Supreme Court seems determined to ensure 
+that “settled law easily unsettles.” City & Cnty. of Honolulu
+v. Sunoco LP, 153 Hawai‘ i 326, 361, 537 P.3d 1173, 1208 (2023) 
+(Eddins, J., concurring). Recently, the court toppled forty 
+years of precedent that shaped the ”warp and woof of modern 
+government.” Loper Bright Enters. v. Raimondo, 144 S. Ct. 2244, 
+2294 (2024) (Kagan, J., dissenting). The court overruled Chevron U.S.A. Inc. v. Nat. Res. Def. Council, Inc., 467 U.S. 
+837 (1984), which molded administrative law doctrine. Under 
+Chevron, the reviewing court would, upon close inspection, ask  
+40  
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+if Congress had “directly spoken to the precise question at 
+issue.” Id. at 842. If it had, “that is the end of the matter; 
+for the court, as well as the agency, must give effect to the unambiguously expressed intent of Congress.” Id. at 842-43. If 
+the statute was silent or ambiguous as to the question at hand, 
+the court would defer to the administrative agency’s reasonable 
+interpretation of the statute. Id. at 844. 
+Chevron’s well-reasoned analysis allowed agencies to 
+function in a modern nation using older statutes — statutes that, at the time they were written, could not possibly account 
+for the many nuanced situations that arise in a rapidly changing 
+world. Justice Kagan’s dissent in Loper Bright cites to 
+paradigmatic examples of agency deference. See Loper Bright, 
+144 S. Ct. at 2296-97. Chevron made for good, balanced 
+governance, whereby Congress made laws while agencies, subject to accountability from a duly-elected President, implemented 
+those laws and reasonably filled in the gaps. As is often the 
+case, policy implementation requires substantial know-how. 
+Under Chevron, agencies had the ability to allow experts to, 
+within reason, make the rules. 
+Now, the U.S. Supreme Court considers itself and other 
+federal courts the experts on exceedingly complicated areas of 
+41  
+ 
+ 
+   
+ 
+ 
+ 
+     
+ 
+   
+ 
+ 
+  
+ 
+ 
+   
+ 
+    
+ 
+   
+ 
+      
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+American life, including worker safety,8 air quality,9 food and 
+drug safety,10 airplane safety,11 telecommunications,12 and the 
+integrity of our financial markets.13 We do not believe the 
+expertise of courts outstrips that of the agencies charged with 
+implementing complex regulatory schemes on a day-to-day basis.14 
+In Hawai‘ i, we defer to those agencies with the na‘ auao 
+(knowledge/wisdom) on particular subject matters to get complex 
+issues right. “
+Ku‘ia ka hele a ka
+ na‘au ha‘aha‘a (hesitant walks 
+the humble hearted).” Sunoco, 153 Hawai‘ i at 363, 537 P.3d at 
+1210 (2023) (Eddins, J., concurring). A court’s domain is the 
+law, and judges should recognize the limits of their expertise. 
+4. The County ordinance is a valid legislative act 
+accorded deference 
+When the County passed Ordinance 18-114, amending 
+Chapter 25 of the HCC, it required that existing short-term 
+8 See, e.g., Pauley v. BethEnergy Mines, Inc., 501 U.S. 680 (1991). 
+9 See, e.g., EPA v. EME Homer City Generation, L.P., 572 U.S. 489 
+(2014). 
+10 See, e.g., Teva Pharmaceuticals USA, Inc. v. FDA, 514 F. Supp. 
+3d 66 (D.D.C. 2020) 
+11 See, e.g., Newton v. F.A.A., 457 F.3d 1133 (10th Cir. 2006). 
+12 See, e.g., City of Arlington v. F.C.C., 569 U.S. 290 (2013). 
+13 See, e.g., U.S. v. O’Hagan, 521 U.S. 642 (1997). 
+14 E.g., Ohio v. EPA, 144 S. Ct. 2040, 2049 (2024) (In Court’s 
+initial opinion, pausing EPA’s plan to bring several states into compliance 
+with ozone pollution- control requirements, confusing “nitrogen oxides,” a 
+group of gases that the EPA is targeting to stem air pollution, with “nitrous oxide,” commonly known as laughing gas). 
+42  
+ 
+ 
+   
+ 
+  
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+vacation rentals obtain nonconforming use certificates. 
+HCC §§ 25-1-5; HCC § 25-4-16.1(a), (e). The scheme generally 
+prohibited the issuance of nonconforming use certificates in the 
+agricultural district — only single-family dwellings on lots 
+existing before June 4, 1976 could obtain a certificate. HCC 
+§ 25-4-16.1(e).15 This court held in Save Sunset Beach that a 
+zoning ordinance passed by the County of Honolulu was a legislative act and is subject to the deference given 
+legislative acts. 102 Hawai‘ i at 474, 78 P.3d at 10. 
+We also held in Save Sunset Beach that “only a more 
+restricted use as between [the County zoning and the State Land 
+Use law] is authorized.” 102 Hawai‘ i at 482, 78 P.3d at 18.  The 
+State adopted a dual land use designation approach, 
+“envision[ing] that the counties would enact zoning ordinances that were somewhat different from, but not inconsistent with, 
+the statutes.” Id.Here, the ordinance is more restrictive 
+than HRS § 205-4.5 in that it defines short-term vacation rentals and the County will not issue nonconforming use 
+certificates unless lots were existing before June 4, 1976. 
+When read in conjunction with HRS § 205-4.5(b)’s mandate that 
+15 The County defines a short- term vacation rental as “ a dwelling 
+unit of which the owner or operator does not reside on the building site, 
+that has no more than five bedrooms for rent on the building site, and is 
+rented for a period of thirty consecutive days or less.” HCC § 25-1- 5. 
+43  
+ 
+ 
+  
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+uses are prohibited unless expressly authorized, the County 
+ordinance is “different from, but not inconsistent with” the 
+state statute. 
+The Rosehill Petitioners argue that because HRS § 205-
+4.5(a)(4) does not mention a minimum rental period, it allows 
+for their less-than-30-day rentals. But that conclusion ignores 
+the Sunset Beach holding that allows counties to make more 
+restrictive zoning rules than the state, so long as those rules are consistent with the purpose of state zoning. Here, the 
+County’s ordinance is consistent with state zoning. 
+V. CONCLUSION 
+For the reasons stated above, we hold that (1) this 
+case’s transfer is nunc pro tunc to June 18, 2021; (2) the Rosehill Petitioners have failed to show that the LUC acted 
+arbitrarily or capriciously in granting the County’s petition while denying the Rosehill Petition; and (3) farm dwellings may 
+not be used as short-term vacation rentals under HRS chapter 
+205. 
+Because it lacked jurisdiction, we (1) vacate the 
+circuit court’s May 2, 2022 “Findings of Fact, Conclusions of 
+Law, Decision and Order Reversing the State of Hawai‘ i Land Use 
+Commission’s Consolidated Declaratory Order”; and (2) vacate the 
+44  
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+circuit court’s May 2, 2022 Judgment. On the merits, we affirm 
+the LUC’s May 20, 2021 declaratory order. 
+Calvert G. Chipchase   /s/ Mark E. Recktenwald 
+Christopher T. Goodin 
+(Roy A. Vitousek III and  /s/ Sabrina S. McKenna 
+Katherine E. Bruce, 
+on the briefs)    /s/ Todd W. Eddins  
+for appellants-appellees   
+       /s/ Lisa M. Ginoza 
+Douglas S. Chin    
+Christine N. Ohira    /s/ Jeannette H. Castagnetti
+Eric S. Robinson Cori J. Terayama (Julie H. China, 
+on the briefs) 
+for appellee-appellant  Mark D. Disher 
+(Jean Campbell and 
+Lerisa L. Heroldt, on the briefs) 
+for appellee-appellee 
+ Brad T. Saito, on the briefs 
+for amicus curiae 
+ 
+45 
