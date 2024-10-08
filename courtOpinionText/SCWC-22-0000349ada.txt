@@ -1,0 +1,1958 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ ________________________________________________________________ 
+_____________________________________________________________ ___ ** FOR PUBLICATION IN WEST’S HAWAIʻI  REPORTS AND PACIFIC REPORTER  ** 
+Electronically Filed 
+Supreme Court SCWC-22-0000349 07-OCT-2024 10:07 AM Dkt. 25 OP 
+IN THE SUPREME COURT  
+ OF THE STATE OF HAWAIʻI  
+---o0o---
+IN THE MATTER OF THE TAX APPEAL OF HAWAIIAN AIRLINES, INC., 
+Petitioner/Plaintiff-Appellant,  
+vs.  
+DEPARTMENT OF TAXATION,  
+Respondent/Defendant-Appellee.  
+SCWC-22-0000349  
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS  
+(CAAP-22-0000349; CIV. NO. 1CTX-21-0000493)  
+ 
+OCTOBER 7, 2024  
+RECKTENWALD, C.J., McKENNA, EDDINS, GINOZA, AND DEVENS, JJ.  
+OPINION OF THE COURT BY McKENNA, J.  
+I. Introduction and summary 
+This is an appeal from a complaint filed in the Tax Appeal 
+Court for the State of Hawaiʻi (“tax court”) . The case stems 
+from a contract between Hawaiian Airlines (“Hawaiian”) and   
+    
+ 
+  
+ 
+  
+    
+  
+  
+ 
+  
+  
+ 
+    
+ 
+ 
+   
+  
+  ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+Boeing. Hawaiian agreed to indemnify Boeing for any taxes 
+Boeing might incur for maintenance supply parts it sold to 
+Hawaiian . Boeing apparently did not remit Hawaiʻi general excise 
+taxes (“GET”) on its sales of maintenance parts to Hawaiian and 
+others. The State of Hawaiʻi Department of Taxation (“ the 
+Department ”) conducted an audit of Boeing for tax years 2013 -
+2018. Boeing claimed that the GET Aircraft Mainten ance 
+Exemption (“exemption”) of Hawaiʻi Revised Statutes (“HRS”) § 
+237-24.9 (2017) applied to its sales of maintenance parts. 
+A January 2020 inter-office memorandum from the 
+Department’s auditor recommend ed against application of the 
+exemption. Boeing then shared with the D epartment a letter it 
+received from Hawaiian explaining why it thought the exemption 
+applied and asked for the auditor’s thoughts on the matter. In 
+a September 24, 2020 email, the auditor indicated disagree ment 
+but welcomed further question s. 
+On May 21, 2021, the D epartment sent Boeing a letter 
+indicating the audit had been closed. The letter said, “notices 
+of proposed and final assessment will be mailed under separate 
+cover” and that if Boeing disagreed with the proposed 
+assessment, to refer to the “Taxpayer Bill of Rights ,” 
+(sometimes “TBOR”), which would also be enclosed. The notice of 
+proposed assessment (sometimes “NOPA”) and TBOR were also mailed 
+that day. 
+2   
+  
+   
+    
+ 
+  
+  
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+   ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+On June 9, 2021, Hawaiian remitted payment of 
+$1,624,482.75, representing  its portion of Boeing’s GET 
+liability, to be credited on June 17, 2021, along  with  a letter 
+of protest under HRS §  40-35  (2009).   1
+1 HRS § 40 -35 provides as follows: 
+§ 40-35 Payment to State under protest. 
+(a) Any disputed portion of moneys representing a 
+claim in favor of the State may be paid under protest to 
+a . . . department . . . with which the claimant has the 
+dispute. The protest shall be in writing, signed by the 
+person making the payment, or by the person ’s agent, and 
+shall set forth the grounds of protest. If any payment, or 
+any portion of any payment, is made under protest, the 
+public accountant to whom the payment is made shall hold 
+that portion of the moneys paid under protest in a trust 
+account in the state treasury for a period of thirty days 
+from the date of payment. 
+(b) Action to recover moneys paid under protest or 
+proceedings to adjust the claim may be commenced by the 
+payer or claimant against the public accountant to whom the 
+payment was made, in a court of competent jurisdiction, 
+within thirty days from the date of payment. If no suit or 
+proceeding is brought within the thirty -day period, the 
+money paid under protest shall be deposited into the 
+appropriate account in the treasury of the State by the 
+accountant and the amount deposited shall thereupon become 
+a government realization. Any action to recover payment of 
+taxes under protest shall be commenced in the tax appeal 
+court. 
+(c) If action to recover the money paid under protest 
+or a proceeding to adjust the claim is commenced within the 
+thirty-day period, the amount paid under protest shall, 
+pending final decision of the cause, be deposited by the 
+public accountant into the state treasury, in a fund to be 
+known as the “litigated claims fund ”, together with 
+subsequent payments or portions thereof, made to the 
+accountant under the same protest. If judgment is rendered 
+in favor of the claimant, the claimant shall be paid the 
+amount of the judgment out of the litigated claims . . . . 
+[I]f the claim is for the recovery of taxes paid under 
+protest by the claimant, the rate of interest and the 
+overpayment of taxes shall be refunded in the manner 
+provided in section 231 -23(c) and (d). . . . If judgment 
+is rendered against the claimant, the amount of money paid 
+by the claimant under protest which is in the litigated 
+claims fund shall be deposited into the appropriate account 
+in the treasury of the State and the amount shall become a 
+government realization. 
+(continued . . .) 
+3   
+   
+  
+   
+  
+  
+   
+  
+ 
+ 
+ 
+   
+  
+ 
+   
+ 
+ 
+   
+ 
+   
+ 
+  ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+Hawaiian then filed the underlying lawsuit in the tax court 
+on June 10, 2021, alleging jurisdiction under HRS § 40-35, 
+seeking a declaration that GET was not owed based on the 
+exemption , and requesting a refund of its payment. 
+The Department issued its final assessment on July 26, 
+2021. 
+The Department then filed a motion to dismiss the lawsuit, 
+which the tax court granted.2 The tax court ruled the inter -
+office memorandum, the September email between the auditor and 
+Boeing, and the May 2021 letter did not constitute “adverse 
+rulings” or a “final agency decision” creating an “actual 
+dispute” as required for a payment under protest, and that the 
+tax court therefore did not have jurisdiction. The tax court 
+did not address the NOPA, which was referenced in the complaint 
+and included in the record and arguments. 
+The tax court based its dismissal on this court’s opinion 
+in Grace Business Development Corp. v. Kamikawa , 92 Hawaiʻi 608, 
+994 P.2d 540 (2000) (“Grace II ”).3 In Grace II , the company had 
+made a payment under protest after receiving notice from the 
+(. . .continued) 
+(Emphasis added.)  
+2 The Honorable Gary W.B. Chang presided. 
+3 Grace II adopted then I ntermediate Court of Appeals Associate Judge 
+Simeon Acoba’s dissenting opinion in Grace Business Development Corp. v. 
+Kamikawa , 92 Hawaiʻi 659, 994 P.2d 591 (App. 1999) (“Grace I”). 
+4   
+   
+ 
+ 
+ 
+  ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+Department that it was commencing an audit. 92 Hawai ʻi at 610, 
+994 P.2d at 542. We held “that, in the absence of a formal  
+administrative decision by the Director, Grace’s payment under 
+protest did not represent an actual dispute within the meaning 
+of HRS §  
+40-35.” Grace, 92 Hawaiʻi at  614, 994 P.2d at  546. We 
+stated:  
+The requirement of a formal administrative decision, suc h 
+as a notice of assessment, denial of refund, or an adverse 
+ruling, prior to filing suit under HRS § 40 –35 is 
+consistent with HRS § 632 –1 (1993), which requires an 
+“actual controversy” in order to confer jurisdiction and 
+provides that “declaratory relief may not be obtained ... 
+in any controversy with respect to taxes .” In contrast, 
+permitting Grace to demand that the Director resolve the 
+question whether Grace is entitled to the refund requested 
+by paying under protest before an audit is completed or any 
+formal decision is made, in effect, grants Grace 
+declaratory relief in contravention of HRS § 632 –1. 
+92 Hawaiʻi at 613, 994 P.2d at 545  (cleaned up).  
+The  Intermediate Court of Appeals (“ICA”) affirmed  the tax 
+court’s  dismissal.  
+On certiorari, Hawaiian  argues  that: (1)  the final 
+assessment cannot be the only  evidence of a “final agency 
+decision” supporting tax court jurisdiction;  (2) Grace II  
+allowed lower courts to determine whether an official agency 
+communication is an “adverse ruling”; (3)  the administrative 
+exhaustion requirement cannot be a hard jurisdictional rule 
+because this court’s precedent tolerates some error; and  (4)  
+where the Department ’s own guidance on  payments under protest 
+fails to advise taxpayers of the administrative exhaustion 
+5   
+  
+ 
+  
+ 
+ 
+  
+  
+ 
+   
+  
+ 
+ 
+  
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+requirement, the Department should not be allowed to argue that 
+lack of exhaustion mandates lower court dismissal. 
+With respect to Hawaiian’s first question on certiorari , 
+whether a final assessment is the only evidence of a “final 
+agency decision” supporting tax court jurisdiction , we answer 
+no. Although t he inter-office memorandum, the September email 
+between the auditor and Boeing, and the May 2021 letter may not 
+have qualified as final administrative decisions , the NOPA 
+clearly did. In our analysis of the first question, w e also 
+address Hawaiian’s fourth question on certiorari regarding the 
+Department’s confusing guidance . 
+With respect to Hawaiian’s second question on certiorari , 
+Grace II does allow courts to determine whether there was an 
+“actual dispute.” By holding that a NOPA constitute s a “formal 
+administrative decision” sufficient to create an “actual 
+dispute” for HRS § 40-35 jurisdiction purposes, we do not 
+preclude courts from recognizing other “formal administrative 
+decisions.” 
+Finally, w ith respect to Hawaiian’s third question on 
+certiorari, that the administrative exhaustion set forth in the 
+language of HRS § 40-35 and in Grace II should be seen as 
+“nonjurisdictional procedural requirements to promote the 
+orderly progress of litigation,” Grace II clearly held 
+otherwise . Under t he doctrine of stare decisis, we see no 
+6   
+    
+ 
+ 
+  
+ 
+ 
+  
+   
+ 
+  
+  
+ 
+   
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+compelling justification to depart from its holding. See Chung 
+Mi Ahn v. Liberty Mut. Fire Ins. Co. , 126 Hawaiʻi 1, 10, 265 P.3d 
+470, 479 (2011 ) (explaining that a court should “not depart from 
+the doctrine of stare decisis without some compelling 
+justification”) . 
+In summary, w e vacate the tax court’s May 16, 2022 orders 
+regarding the summary judgment motions and its final judgment , 
+as well as the ICA’s April 18, 2024 judgment on appeal , and we 
+remand to the tax court for further proceedings consistent with 
+this opinion. 
+II. Background 
+A. Factual background 
+1. Contract between Hawaiian and Boeing 
+On or about January 30, 2001, Hawaiian and Boeing entered 
+into a “Customer Services General Terms Agreement Relating to 
+Boeing Aircraft” (“the Contract”) . Boeing agreed to supply 
+parts for Hawaiian’s fleet of Boeing aircraft and any additional 
+units as required by the Contract . The Contract also provided 
+that Hawaiian would pay Boeing “the amount of any sales, use, 
+value-added, gross receipts, stamp, excise, transfer, and 
+similar ta xes imposed by any domestic or foreign taxing 
+authority arising out of or in connection with the Contract [.]” 
+The tax indemnity provision states: 
+7   
+  
+ 
+  
+ 
+   
+  
+   
+ 
+  ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+“Taxes” are defined as all taxes, fees, charges or duties 
+and any interest, penalties, fines, or other additions to 
+tax, including, but not limited to, sales, use, value -
+added, gross receipts, stamp, excise, transfer and similar 
+taxes imposed by any domestic or foreign taxing authority 
+arising out of or in connection with this CSGTA [the 
+Contract] or an Order. Except for U.S. federal and U.S. 
+state income taxes and Washington State business and 
+occupation tax imposed on Boeing, Customer will be 
+responsible for and pay all Taxes. 
+2. Boeing audit 
+Boeing filed its annual GET returns for tax years 2013 -
+2018, claiming an exemption for its sale of maintenance parts 
+under HRS § 237 -24.9, which provides in part: 
+(a) This chapter shall not apply to amounts received from 
+the servicing and maintenance of aircraft or from the construction of an aircraft service and maintenance 
+facility in the State.  
+(b) As used in this section:  
+ . . . . 
+“Aircraft service and maintenance” means all scheduled and 
+unscheduled tasks performed within an aircraft service and 
+maintenance facility for the inspection, modification, 
+maintenance, and repair of aircraft and related components 
+including engines, hydraulic and electrical systems, and 
+all other components which are an integral part of an aircraft.  
+“Maintenance” means the upkeep of aircraft engines, 
+hydraulic and electrical systems, and all other components 
+which are an integral part of an aircraft, but does not include refueling, janitorial services or cleaning, 
+restocking of aircraft and passenger supplies, or loading 
+or unloading of cargo and passenger baggage. 
+   . . .. 
+HRS § 23 7-24.9. 
+On February 19, 2019, an auditor from the Department  
+informed Boeing that she had been assigned to audit Boeing for 
+all years in which the statute of limitations had not expired.   
+The letter also stated that Boeing would not be allowed to claim 
+the GET exemption for non-qualifying retailing.    
+8   
+   
+ 
+     
+    
+  
+ 
+    
+ 
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+  
+    
+ 
+  
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+After Boeing told the Department it was challenging denial 
+of the GET exemption for sale of maintenance parts , it asked 
+Hawaiian to substantiate that its aircraft maintenance facility 
+satisfied HRS § 237-24.9. Hawaiian submitted a letter to Boeing 
+explaining why it thought the exemption applie d.4 In a January 
+6, 2020 email, Boeing asked the auditor to review Hawaiian’s 
+letter, outlining its understanding of facts relevant to the 
+exemption , and asking her to let Boeing know her thoughts and 
+next steps .5 
+On September 24, 2020, Hawaiian sent Boeing a letter 
+further insisting that the exemption applied. On September 25, 
+2020, Boeing provided the auditor with a copy of Hawaiian’s 
+letter and asked for her thoughts. On October 29, 2020, the 
+auditor replied to Boeing’s email as follows: 
+We disagree with your customer’s interpretation of the 
+Exemption in their Letter.  
+Our position remains the same. Please note the following: 
+4 Hawaiian services its aircraft in its maintenance facility at the 
+Daniel K. Inouye Honolulu International Airport ( “the airport”). Hawaiian 
+has two maintenance hangars at the airport. During the audit pe riod of 2013 
+to 2018, Hawaiian provided services using Boeing 717 and 767 aircraft. When 
+servicing its Boeing aircraft, Hawaiian occasionally replaces existing , worn, 
+or damaged aircraft parts with new or refurbished parts purchased from Boeing 
+because, if not, Hawaiian m ight be unable to return the aircraft to service 
+without violating federal law. 
+5 According to the auditor’s supplemental declaration, she received 
+Hawaiian’s letter from Boeing and did not directly communicate with Hawaiian 
+regarding Boeing’s tax liability during the Boeing audit. She stated she 
+believed Hawaiian to be Boeing’s customer, and nothing in the record 
+indicates that the auditor or the D epartment were aware that Hawaiian was 
+indemnifying Boeing for a part of Boeing’s tax liability (regarding a letter 
+from Hawaiian that Boeing shared with her, she stated “[t]hank you for your 
+email and a letter . . . from your customer”) . 
+9   
+  
+ 
+ 
+ 
+  
+    
+  
+ 
+  
+ 
+       
+ 
+  
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+- Boeing sale of parts alone to your customer does not 
+qualify for the Exemption; the sale is subject to GET 
+at 4% tax rate .  
+- Boeing sale of parts alone to your customer for use 
+on other airlines ’  aircraft may be subject to ½% 
+instead of 4% GET.  The sale is not an exempt sale, 
+as it may have been misinterpreted.  
+- A use tax exempt is available if your customer 
+imports the aircraft spare parts for its own use.  
+It is the legislature [’s]  intent to exclude sales of 
+material, parts, or tools in the Exemption; per 
+Legislature committee reports in 1997 and 1998 when 
+the Exemption was enacted.  
+- The Exemption is for services provided to a customer 
+not on sales of parts alone to its customers.  
+During the audit, Boeing asked the auditor for an estimate 
+of the amount of retail sales per audit that resulted from the 
+sale of aircraft parts by Boeing to Hawaiian. Boeing also 
+requested that a sales schedule be produced only for Hawaiian. 
+In a May 2 1, 2021 letter from the Director of Taxation , the 
+Department informed Boeing that the audit was closed, summarized 
+what the Department was proposing (including the proposed 
+disallowance of the claims under the exemption), and stated that 
+“the notices of proposed and final assessments will be maile d 
+under separate cover[ .]” The letter also said if Boeing 
+disagreed with the proposed assessment, it should refer to the 
+TBOR, which would also be enclosed , for further information . 
+On May 21, 2021, t he auditor emailed Boeing a copy of this 
+letter and the NOPA, along with the summary of sales schedule 
+that Boeing requested. 
+The NOPA stated: 
+10   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+   
+  
+ 
+ 
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+NOTICE OF PROPOSED ASSESSMENT OF GENERAL EXCISE AND/OR 
+USE TAX 
+Important  Note: RESPONSE REQUIRED WITHIN 30 DAYS  
+An audit examination has been completed in accordance with 
+the provisions of Hawaii Revised Statutes (HRS). Please review this Notice of Proposed Assessment carefully as it 
+provides detailed information  about the assessment and 
+payment due.  
+ . . . . 
+What do you need to do? 
+You must take action within 30 days from the Proposed 
+Assessment Mail Date : 
+▪If you agree with this Notice of Proposed Assessment, 
+please mail your payment with the Payment Voucher 
+(bottom of page 3 of this letter) to the address 
+printed on the voucher or use Hawaii Tax Online 
+(hitax.hawaii.gov, “Make Payment” under Quick Links). 
+▪If you disagree with this assessment, send a written 
+response or contact the Preparer indicated below. 
+You may instead appeal in accordance with the Hawaii 
+Taxpayer Bill of Rights (page 2 of this letter). 
+Please reference the Letter ID above when contacting 
+us. 
+What happens if you do not take action? 
+If you do not take action within 30 days from the Proposed 
+Assessment Mail Date, a Final Assessment will be mailed to 
+you. 
+(Emphasis in the original) . Paragraph VI of the TBOR (dated 
+October, 2019 ), enclosed with the NOPA, read as follows: 
+VI. Audits and Assessment . Taxpayers have a right to a 
+Proposed Notice of Assessment. . . . A Proposed Notice of 
+Assessment . . . (1) explains the basis for the assessment 
+of taxes, penalties, and interest; (2) informs taxpayers of 
+their right to request clarification or to object to the 
+tax assessment within 30 days from the date the Proposed 
+Notice of Assessment was mailed; and ( 3) informs taxpayers 
+that the proposed tax assessment will become final after 
+the expiration of 30 days from the mailing of t he Proposed 
+Notice of Assessment. Taxpayers have a right to a Final 
+Notice of Assessment, issued after the expiration of 30 
+days from the mailing of the Proposed Notice of Assessment, 
+that provides the basis for the tax assessment, and informs 
+the taxpayer of the procedure for appealing the assessment. 
+Taxpayers have a right to request a meeting with the 
+auditor or collector, their supervisor, or senior 
+11   
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+   
+   
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+management to discuss a Proposed or Final Notice of 
+Assessment if they do not agree with the tax assessment. 
+Taxpayers have a right to request that the Department 
+consider a closing agreement to reduce a Proposed or Final 
+Assessment. Closing agreement s are final. 
+Paragraph VII of the T BOR then discusses “Tax 
+Appeals/Payment Under Protest.” After discussing “ Tax Appeals ,” 
+there is a section entitled “ Payment Under Protest .” The latter 
+says: 
+Payment Under Protest: In lieu of filing an appeal, or if 
+an appeal is not filed  with the board of review, with the 
+tax appeal court, or with the Adm inistrative Appeals Office 
+within 30 days from the date the Final Notice of Assessment 
+was mailed, the taxpayer may pay the disputed tax 
+assessment under writte n  protest and seek to recover the 
+taxes by filing an action in ta x  appeal court within 30 
+days from the date of payment.  
+(Emphasis added) . 
+Also included with the NOPA and TBOR was an “Assessment 
+Summary” detailing additional GET amounts owed by Boeing for tax 
+years from 2013 to 2018 , totaling $ 1,965,290.57 , as well as 
+breakdowns of amounts owed for each tax year. Enclosed with the 
+Department’s letter was also an official tax “PAYMENT VOUCHER” 
+that indicated the specific “Amount Due” and directions on how 
+to make the payment by check or online. 
+Neither Boeing nor Hawaiian appealed the NOPA or contacted 
+the Department to disagree with it. The auditor was under the 
+impression that Boeing would be paying the taxes set forth in 
+the NOPA. 
+12   
+  Instead, in a June 8, 2021 letter, Boeing informed Hawaiian 
+that it had received the  May 21, 2021 NOPA.   This  letter 
+attached the calculation of Hawaiian’s share  of the GET, 
+totaling  $1,624,482.75.   Boeing told Hawaiian:  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+  
+   
+  
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+Per the provisions of our contract, we are asking Hawaiian 
+Airlines either to pay this amount [$ 1,624,482.75 ] to us or 
+remit it to the State of Hawaii directly on our behalf. If 
+Hawaiian Airlines decides upon the latter, please provide 
+us satisfactory evidence to show that the amount has been 
+remitted to the credit of our General Excise Tax account. 
+ Therefore, on June 9, 2021, Hawaiian submitted payment in 
+Boeing’s account on Hawaiʻi Tax Online,  scheduling a payment of 
+$1,624,482.75 to be credited  on June 17, 2021.   In a letter 
+dated June 9, 2021 submitted on Hawaiian’s Hawai ʻi Tax Online 
+account, Hawaiian stated:  6
+Hawaiian Airlines, Inc. (Taxpayer) is remitting the sum of 
+1,624,48 2.75 due for Primary Taxpayer’s General Excise Tax 
+[Boeing], being part of the tax assessed in the Notice of 
+Proposed Assessment dated May 21, 2021 and identified as 
+Letter L2098932992. 
+Taxpayer is under a contract with Primary Taxpayer that 
+requires Taxpayer to pay General Excise Tax due on payments 
+under the contract.  This contractual obligation allows 
+Taxpayer to succeed to Primary Taxpayer’s appeal rights under HRS section 232 -1.   This payment was remitted to the 
+Department via Hawaii Tax Online on June 9, 2021, with 
+confirmation number 1 -255-440-128.  
+This amount is being paid UNDER PROTEST pursuant to HRS 
+Sec. 40-35 because: 
+• Taxpayer’s payment to Primary Taxpayer, on which 
+the tax being remitted is based, is exempt from 
+General Excise Tax under HRS Sec. 237 -24.9.  
+Hawaiʻi Tax Online is an online portal where taxpayers may make 
+payments, respond to letters received by the D epartment , and file returns, 
+among other additional services. See Hawaiʻi Tax Online , 
+https://hitax.hawaii.gov/_/ [https://perma.cc/5JAK -CAEU]. 
+13 6   
+  
+   
+  
+ 
+  
+ 
+   
+ 
+   
+  
+ 
+  
+ 
+   
+ 
+ 
+  
+  ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+In a June 22, 2021 email , Boeing informed the Department 
+that two payments should have been posted on its account on June 
+17, 2021, one by Hawaiian and one by Boeing, and asked that the 
+auditor let them know when the payments were applied so that 
+Boeing could close out its audit file . The portion Boeing paid 
+represented GET taxes owed for Boeing’s sale of retail parts to 
+other customers . Boeing’s portion was not paid under protest. 
+B. Tax court proceedings 
+On June 10, 2021, Hawaiian filed the subject complaint in 
+tax court. Hawaiian claimed the Department wrongly disallowed 
+the exemption . Hawaiian indicated it succeeded to Bo eing’s 
+appeal rights as the party contractually required to pay a 
+portion of Boeing’s assessed taxes pursuant to HRS § 232 -1 
+(2017).7 
+On June 25, 2021, a “Notice of Corrected Proposed 
+Assessment of General Excise and/or Use Tax for the Relevant Tax 
+Years” was mailed to Boeing to correct Boeing’s last known 
+address.   On July 26, 2021, forty-six  days after Hawaiian filed 
+7HRS § 232 -1 provides: 
+Whenever any person is under a contractual obligation to 
+pay a tax assessed against another, the person shall have 
+the same rights of appeal to the taxation board of review, 
+the tax appeal court, and the intermediate appellate court, 
+subject to chapter 602, in the person ’s own name, as if the 
+tax were assessed against the person. The person against 
+whom the tax is assessed shall also have a right to appear 
+and be heard on any such application or appeal. 
+14   
+  
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+       
+    
+      ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+its complaint and thirty-nine days after Hawaiian’s payment, the 
+“Notice of Final Assessment of General Excise and/or Use Tax for 
+the Relevant Tax Years” was mailed to Boeing. 
+1. The Department ’s motion to dismiss or cross motion for 
+summary judgment 
+a. The Department ’s motion 
+On December 10, 2021, the Department  filed a motion to 
+dismiss, or in the alternative, cross motion for summary 
+judgment (“motion to dismiss”).    
+The Department  first cited  the ICA’s decision in Grace I, 
+92 Hawaiʻi 659, 994 P.2d 591, and this court ’s reversal of that 
+opinion in Grace II, 92 Hawaiʻ i 608,  994 P.2d 540. The 
+Department cited  Judge Acoba’s dissent in Grace I  discussing  HRS 
+§ 40-35 and its 1967 amendment “to ensure that only funds 
+relating ‘to the issues a ctually in dispute’ may be paid under 
+protest.” 92 Hawai ʻi at 672-73, 994 P.2d at 604-05 (Acoba,  J., 
+dissenting) (quoting S. Stand. Com. Rep. No. 542, in 1967 Senate 
+Journal, at 1096).      
+The Department highlighted Grace II’s holding that in the 
+absence of a formal administrative decision by the D epartment , a 
+payment under protest did not represent an actual dispute within 
+the meaning of HRS § 40-35. 92 Hawaiʻi at 613, 994 P.2d at 545 . 
+The Department argued the NOPA here was not the actual 
+assessment of taxes. It cited HRS § 237 -36 (2017), which 
+15   
+   
+ 
+   
+  
+ 
+ 
+    
+ 
+ 
+   
+  
+   
+ 
+  
+  
+   ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+provides that “[a]fter the expiration of thirty days from the 
+notification [of the proposed assessment] the department shall 
+assess the gross income or gross proceeds of sales of the 
+taxpayer[.]” The Department asserted that only the final 
+assessment “represents the culmination of an administrative 
+procedure in which a taxpayer is first informed of a proposed 
+assessment and given an opportunity to file an administrative 
+protest before the assessment is finalized [.]” Priceline.com , 
+Inc. v. Dir. of Taxation , 144 Hawaiʻi 72, 76 n.8, 436 P.3d 1155, 
+1159 n.8 (2019) . 
+The Department argued that there was no actual dispute 
+because Boeing did not dispute the taxes asserted against it, 
+and because no final assessment was issued at the time Hawaiian 
+made payment or filed its complaint, the case should be 
+dismissed for lack of subject matter jurisdiction. 
+b. Hawaiian’s opposition 
+Hawaiian filed its opposition to the motion to dismiss on 
+January 27, 2022. Hawaiian pointed out the absence of a dispute 
+between Boeing and the Department was to be expected, as Boeing 
+had a contractual indemnity from Hawaiian. Hawaiian also argued 
+the lack of a final assessment at the time the suit was filed 
+did not defeat the ta x court’s jurisdiction because the 
+Department had ruled on the issue. 
+16   
+    
+ 
+   
+ 
+ 
+    
+ 
+  
+ 
+  
+ 
+ 
+   
+ 
+  
+  
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+Hawaiian highlight ed our ruling in Grace II that the tax 
+court has jurisdiction to hear taxpayer appeals from 
+assessments, challenges to taxes paid under protest, and adverse 
+rulings by the Director . 92 Hawaiʻi at 612, 992 P.2d at 544 
+(emphasis added). Hawaiian argue d the Department ruled on the 
+exemption via its October 29, 2020 email to Boeing reject ing 
+Hawaiian’s position and the May 21, 2021 closing letter stating 
+the exemption would not be applied . Hawaiian pointed out these 
+“rulings” were incorporated into the proposed and final 
+assessments ; thus, at the time the suit was filed, there was an 
+active controversy between Hawaiian and the D epartment . 
+Hawaiian also indicated that, as Boeing’s indemnitor, it 
+did not know of the proposed or final assessments, but it was 
+given a copy of the auditor ’s October 19, 2020 letter. Hawaiian 
+accordingly “accepted this ruling as the Department’s word on 
+the subject.” 
+Furthermore, Hawaiian argue d that although the funds were 
+not actually transferred until a few days after its complaint, 
+the tax court’s jurisdiction was not defeated. HRS § 40-35 only 
+requires that suit be pending within the 30-day period after the 
+payment. Here, the D epartment had notice of the suit and knew 
+the amount deposited was in dispute and needed to go into the 
+litigated claims fund . Hawaiian argued that t he case here is 
+unlike that in Captain Andy’s Sailing, Inc . v. Department of 
+17   
+  
+ 
+  
+ 
+    
+ 
+  
+ 
+ 
+   
+   
+   
+  
+ 
+     
+  
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+Land and Nat ural Resources, 113 Hawaiʻi 184, 150 P.3d 833 (2006), 
+in which we held that a suit was subject to dismissal when 
+commenced more than 30 -days after the disputed payment was made. 
+Here, payment was made contemporaneou sly with its letter in 
+protest of payment and suit was filed with in the 30 -day period . 
+Hawaiian argued d ismissal of this case would cause the 
+disputed taxes of over $1.6 million dollars to become a lawful 
+government realization, akin to a severe sanction. Because “the 
+governing statutes do not rob the tax appeal court of the power 
+to hear aggrieved taxpayer petitions from adverse rulings by the 
+Tax Director,” Hawaiian contended the tax court had 
+jurisdiction. In re Aloha Motors, Inc. , 69 Hawaiʻi 515, 520, 750 
+P.2d 81, 84 (1988) . 
+c. The Department’s reply 
+On February 2, 2022, the D epartment filed its reply brief. 
+It reiterate d arguments set forth in its motion. The Department 
+argued the October 29, 2020 email to Boeing, the May 21, 2021 
+closing letter, and its proposed assessment were not formal 
+administrative decisions because they were part of the 
+administrative procedures necessary to finalize the audit of 
+Boeing. The Department argued the final assessment against 
+Boeing was the formal administrative decision. 
+In response to Hawaiian’s argument that , as indemnitor, it 
+was unaware of the proposed and final assessments, the 
+18   
+   
+   
+   
+    
+  
+ 
+ 
+   
+     
+ 
+   
+ 
+  
+   ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+Department argued Hawaiian had knowledge of the Boeing audit and 
+the proposed assessment, and actively participated in the 
+process. The Department contended there was nothing in the 
+record demonstrating that Hawaiian could not request a copy of 
+the assessments from Boeing or the Department . 
+2. Supplemental briefing on the motion to dismiss 
+At the first hearing , on February 7, 2022, t he tax court 
+invited further briefing on the following issues relating to the 
+Department ’s motion to dismiss: (1) whether the D irector was 
+likely to issue the final assessment after payment was made; and 
+(2) whether there was an “actual dispute” between the D irector 
+and Hawaiian at the time of payment of taxes assessed against 
+Boeing. 
+a. The Department ’s supplemental memorandum 
+On April 21, 2022, the D epartment filed its supplemental 
+memorandum. It reiterate d most of its previous arguments. The 
+Department asserted a final assessment must be issued even if 
+taxes are paid. Final assessments are issued to post t he 
+assessed tax liability on the taxpayer’s account . If one is not 
+issued, there would be no record of the taxpayer ’s tax liability 
+to which the payment of taxes can be applied. The Hawaiʻi TBOR 
+provides that taxpayers have a right to a final notice of 
+assessment, issued thirty days after the mailing of the proposed 
+assessment, providing the basis for the tax assessment an d 
+19   
+    
+     
+   
+    
+  
+  
+ 
+     
+ 
+   
+ 
+   
+ 
+   
+  
+ 
+ 
+  ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+informing the taxpayer of the procedures for appealing the 
+assessment. The Department received no inquiry from Hawaiian 
+regarding the issuance of the final assessment. 
+Regarding the October 29, 2020 email, the D epartment added 
+it was unaware of Hawaiian’s contractual obligation to Boeing, 
+as the communication s were between the D epartment and Boeing. 
+The email expressly asked Boeing to let the auditor know if it 
+had any questions on the matter, and , according to the 
+Department, the auditor would have considered further response s 
+or information had Boeing followed up. The Department thus 
+asserts, at best, the email was an expression of a “difference[] 
+of opinion” rather than a “formal administrative decision.” 
+b. Hawaiian ’s supplemental opposition 
+On April 29, 2022, Hawaiian filed its supplemental 
+opposition. Hawaiian also reiterate d most of its previous 
+arguments. 
+Hawaiian assert ed the Department rendered at least three 
+“rulings” to satisfy the actual controversy requirement of HRS § 
+40-35. Hawaiian posit ed that a “ruling” is a construction of 
+tax laws and that no particular form is required. Hawaiian also 
+asserted there is no requirement that a ruling be printed on 
+Department letterhead or come from a particular person in the 
+Department and that a “ruling” is not final as the D epartment 
+reserves the discretion to reconsider final assessments pursuant 
+20   
+      
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+to HAR § §18-231-3-1.18 and -1.29 (eff. 2016). Additionally, 
+Hawaiian argued that a “ruling” need not be “final ,” as the tax 
+8 HAR §18-231-3-1.1 governs a request for reconsideration of assessment 
+and provides for the process by which a taxpayer can request the D epartment 
+to grant reconsideration of such a request. A request for reconsideration of 
+assessment is purely administrative and the D epartment has the sole 
+discretion in granting or denying any request. HAR § 18 -231-3-101(b), (c). 
+Any request must be submitted as follows: 
+(d) A request for reconsideration of assessment shall be 
+made by the taxpayer in writing to the auditor or tax 
+return examiner listed on the Notice of Final Assessment or 
+Denial Letter. The request for reconsideration of 
+assessment shall be signed by the taxpayer and shall 
+include: 
+(1) A detailed summary of facts and circumstances 
+that the taxpayer believes would, if taken into 
+consideration, result in a different assessment; 
+(2) A list of documentation, evidence, or other 
+information not previously considered by the 
+department that supports the taxpayer’s position 
+under paragraph (1); provided that if the department 
+grants a request for reconsideration of assessment 
+under subsection (g), the taxpayer shall provide all 
+such listed documentation, evidence, or other 
+information within thirty days unless otherwise 
+specified by the department; and 
+(3) An explanation of why the taxpayer did not 
+provide the facts, documentation, evidence, or 
+information under paragraphs (1) and (2) during the 
+audit or before the department issued the Notice of 
+Final Assessment or Denial Letter. 
+HAR § 18- 231-3-1.1(d). HAR § 18 -231-3-1.1(g) provides that the 
+Department  must notify a taxpayer about the grant or denial of a 
+request in writing. If granting such request, the Department  must also 
+notify the taxpayer that “reconsideration of assessment does not affect 
+the taxpayer’s appeal rights and the taxpayer should take steps to 
+ensure it perfects any appeal rights related to the existing Notice of Final Assessment or Denial Letter.” HAR § 18 -231-3-1.1(g)(2).  
+9 HAR § 18 -231-3-1.2 (eff. 2016) provides: 
+(a) For purposes of this section, “reconsideration 
+of assessment” means the process by which the department 
+reevaluates the results of: 
+(1) A prior audit where tax was assessed and remains 
+unpaid; or 
+(2) A prior denial of a taxpayer’s claim of a refund 
+or tax credit. 
+(b) Upon granting a request for reconsideration of 
+assessment under section 18 -231-3-1.1, the 
+(continued . . .) 
+21   
+  
+ 
+  
+  
+ 
+   
+ 
+ 
+  
+ 
+  
+  
+ 
+   
+ 
+ 
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+laws provide the D epartment may revoke or modify its opinion s 
+(citing HAR §§ 18 -231-19.5-03, 18-231-3-1.1, -1.2). 
+Hawaiian argued that there were three “rulings” evidencing 
+an “actual dispute” under HRS § 40 -35: (1) the October 29, 2020 
+email from the auditor to Boeing stating that the exemption did 
+not apply to the sale of parts from Boeing to plaintiff; (2) the 
+January 20, 2020 interoffice memorandum recommending 
+nonapplication of the exemption, signed off by the person within 
+the Department in charge of issuing rulings; and (3) the May 21, 
+2021 closing letter from the auditor to Boeing, closing the 
+audit and stating that the exemption would not be applied. 
+Hawaiian posited these three “rulings” demonstrate d there was 
+“no realistic prospect of further factual development on which 
+the Department ’s opinion could turn,” and thus was the final 
+position of the D epartment . 
+Hawaiian also argued that the procedural requirements set 
+forth in Grace II are non-jurisdictional rules to “promote the 
+orderly progress of litigation ” and are subject to equitable 
+defenses. Hawaiian cited Boechler, P.C. v. Commissioner of 
+(. . .continued) 
+department may:  
+(1) Request additional substantiation, worksheets, 
+spreadsheets, explanations and other documentation; 
+and 
+(2) Amend or rescind existing assessments, issue new 
+assessments, or let existing assessments stand in its 
+sole discretion. 
+22   
+   
+ 
+  
+ 
+ 
+ 
+  
+  
+ 
+    
+ 
+    
+  
+ 
+  
+ 
+ 
+  
+  
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+Internal Revenue , 596 U.S. 199 (2022), in which the United 
+States Supreme Court held that the deadline to petition the tax 
+court for review of a collection due process determination was 
+not jurisdictional and subject to equitable tolling. Hawaiian 
+asserted that the Department “views all procedural requirements 
+as jurisdictional ,” but contends that view is incompatible with 
+Aloha Motors because nonjurisdictional proced ural requirements 
+must exist in Hawaiʻi even though Aloha Motors did not say so 
+explicitly . Hawaiian then asserted that the administrative 
+exhaustion requirement in Grace II “must be one such non -
+jurisdictional procedural requirement” because it is not 
+reflected in HRS § 40-35. 
+Hawaiian asserted the Department should not be able to 
+argue administrative exhaustion under equitable estoppel 
+principles because its own guidance on payment under protest 
+failed to advise taxpayers a ccordingly. Neither the T BOR nor 
+Tax Information Release (“ TIR”) 2002-1,10 documents the 
+Department provides as guidance for taxpayers, contain 
+administrative exhaustion requirements that must be satisfied 
+before making a payment under protest. Hawaiian also insisted 
+that under the balance of equities principles, where a party 
+State of Hawaii Department of Taxation, Tax Information Release No. 
+2002-1, https://files.hawaii.gov/tax/legal/tir/1990_09/tir02 -01.pdf 
+[https://perma.cc/XG2L -D2UA]. 
+23 10    
+   
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+   
+   
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+indemnifies another for tax, the indemnitor would be unaware of 
+a notice of final assessment and should not be required to wait 
+for one where there is no prejudice to the D epartment . Under 
+the doctrine of equitable tolling,11 Hawaiian asserts the 
+equities balance in its favor because there was no reason to 
+believe that Boeing would share the final assessment notice with 
+Hawaiian and the D epartment would not be prejudiced by allowing 
+this action to reach the merits, while Hawaiian would suffer a 
+$1.6 million loss for the taxes it paid. 
+c. The Department ’s supplemental reply 
+On May 4, 2022, the D epartment filed its supplemental 
+reply. It repeated previous arguments. The Department also 
+asserted that under HRS § 237 -36, it is required to follow a 
+specified process for an assessment, like providing a notice of 
+a proposed assessment and giving taxpayers an opportunity to 
+confer with the D epartment for at least thirty days before the 
+final assessment. HRS § 231 -17 (2017) provides that notices 
+issued by the D epartment are deemed to have been given on the 
+date the notice was mailed, properly addressed to the addressee 
+at the addressee’s last known address. The Department argued 
+Under the doctrine of equitable tolling, we have noted federal law 
+provides that to toll a statute of limitations for a complaint filed after 
+its expiration, a plaintiff must demonstrate: “(1) that [they] have been 
+pursuing their rights diligently, and (2) that some extraordinary 
+circumstance stood in [their] way.” Office of Hawaiian Affairs v. State , 110 
+Hawaiʻi 338, 360, 133 P.3d 767, 789 (2006) (citations omitted). 
+24 11   
+  
+ 
+  
+ 
+  
+ 
+             
+  
+ 
+ 
+  
+ 
+    ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+that any formal administrative decision must comport with these 
+requirements. 
+The Department countered that the three documents Hawaiian 
+relied upon were not “rulings” because they were not the actual 
+assessment. The October 29, 2020 email was a part of ongoing 
+communications with Boeing; the January 28, 2021 interoffice 
+memorandum did not specifically identify Boeing or Hawaiian and 
+was used for consultation; and the May 2 1, 2021 closing letter 
+was to inform Boeing that the audit was closed and summarize d 
+what was being proposed. The Department also responded to 
+Hawaiian ’s argumen t that the proposed assessment is the guiding 
+assessment because the final assessment is “automatic” based on 
+the default in the computer system ; it said an auditor may 
+actually override the automatic issuance of a final assessment, 
+which may be different from a proposed assessment. 
+The Department also argued that the “actual dispute” 
+requirement in HRS § 40 -35 is jurisdictional. Citing the 
+dissent in Grace I, the Department highlighted former Judge 
+Acoba’s analysis of HRS § 40 -35 and its legislative history , and 
+the conclusion that until the Department actually assesses the 
+taxpayer, the dispute is “not real as of now” as contemplated by 
+HRS § 40 -35 and “ [i]n the absence of such a dispute, there would 
+be no tax appeal court jurisdiction.” 92 Hawaiʻi at 674, 994 
+P.2d at 606 (Acoba , J., dissenting). The Department argued that 
+25   
+   
+       
+  
+   
+ 
+ 
+  
+   
+    
+ 
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+in Grace II , we dismissed the case for lack of subject matter 
+jurisdiction in accordance with Judge Acoba’s dissent because 
+there was no actual dispute. The Department ar gued that this 
+court has already concluded the legislature intended the actual 
+dispute requirement to be jurisdictional. 
+The Department responded to Hawaiian’s argument that 
+equitable exceptions apply. The Department posited that while 
+it tries to do its best to provide resources that may be 
+helpful, like the TBOR and TIR 2002 -1, it cannot be expected to 
+explain all possible legal issues that could arise. It further 
+argued that equitable tolling does not apply because Hawaiian 
+had not met its burden under the equitable tolling standard. 
+3. Tax court’s May 9, 2022 hearing 
+ On May 9, 2022, the tax court held a hearing on Hawaiian’s 
+motion for summary judgment and the D epartment’s  motion to 
+dismiss.   After argument from both parties, the tax court ruled 
+as follows:   
+The issue framed by the motions in this case 
+essentially focus upon the subject matter jurisdiction, and 
+that the manner in which this court will address the 
+question. And the issue is raised because the action was 
+filed with some lack of clarity regarding whether the 
+requirements of the statute that []all or a dispute portion 
+of monies representing a claim in favor of the State were 
+paid under protest. That requires a dispute to exist at 
+the time of the payment being made, and whether or not a 
+dispute do es or does not exist depends upon the conduct or 
+behavior of the department and the taxpayer. 
+And I must say, as an aside, the circumstances of the 
+taxpayer and how it was treated by Boeing is certainly less 
+than optimal. At least in this record it suggests that the 
+plaintiff in this case was kept in the dark for some 
+reason, I don’t know why, and Boeing was not as forthcoming 
+26   
+    
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+with information as I would hope entities in a complex and 
+very expensive business venture would afford to each other, 
+especially when one is contractually obligated to pay the 
+general excise tax of the other on such a large scale. But 
+be that as it may, and for whatever reason, the parties 
+conducted themselves as they did in this case. And the parties I’m referring to are Boeing and Hawaiian Air. That 
+still does not excuse this court of its obligation to 
+examine whether it does or does not have subject matter 
+jurisdiction over this instant action.  
+So the principles involved are not complicated. It 
+is applying those principles to the facts that become 
+complicated. The principles upon which this decision exist 
+is that there must be a genuine dispute, an actual dispute 
+between the plaintiff and the Department of Taxation at the 
+time the payment was made. And whether or not there is 
+this actual dispute depends upon whether the plaintiff was 
+acting upon “a formal administrative decision ” of the 
+department, and that ’s where it becomes complicated. 
+Because as the court indicated --indicated, the record 
+appears to suggest that from beginning to end the 
+department was of the mind that the exemption did not 
+apply. And they may have entertained other considerations 
+but essentially they ’ve stayed true to that position all 
+throughout. 
+The taxpayer suggest s that, yes, a formal 
+administrative decision within the meaning of the Grace 
+Brothers Development case is clearly existing and it was 
+embodied in three different writings. Number one was the 
+January 28, 2020 interoffice memorandum that discussed the 
+exemption in question; number two, the October 29, 2020 
+email that disagreed with the taxpayer ’s analysis of the 
+exemption issue; and, number three, the May 20, 2021 audit 
+closing letter that brought an end to the audit. 
+But viewing each one of these documents as carefully 
+as the court could and considering the context in which 
+they arise, this court is not able to find or conclude that 
+any of those three documents constituted a formal 
+administrative decision such that there was an actual 
+dispute at the time the payment in this case was made under 
+protest. 
+And not to --to suggest that these comments are 
+comprehensive but, number one, the January 28, 2020 
+interoffice memorandum is an internal document that was not 
+served upon the taxpayer and it cannot be that a formal 
+administrative decision of the tax department that that is 
+not served upon the taxpayer. To --to constitute a formal 
+administrative decision on a tax matter the taxpayer must 
+be apprised of that decision. And so that fundamental 
+lacking of the interoffice memorandum not being served upon 
+the taxpayer cannot constitute a, that interoffice 
+memorandum, as a formal administrative decision. 
+Number two, the October 29, 2020 email, it certainly 
+disagreed with the analysis of the exemption by the 
+taxpayer but it certainly did not speak in terms of a 
+formal administrative decision. It invited further 
+comment. It did not indicate any amounts due and owing. 
+27   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+And it --the form of that writing is an email. And as the 
+court did indicate throughout the hearing, it is the most 
+common form of business communication these days to 
+communicate in a transaction by email. And it simply 
+undermines the credibility of the phrase “formal 
+administrative decision ” to suggest that an email in the 
+normal course of business communications would constitute a 
+formal administrative decision that would trigger tax 
+appeal or tax payment, rights, or obligations. It’s simply 
+too flui d a method of communication to constitute a formal 
+administrative decision. 
+And, number three, the May 20, 2021 audit closing 
+letter certainly does not appear to inform the taxpayer of 
+an administrative decision.  It has no amounts of taxes in 
+it that are due and owing, and it does not suggest the end but appears to be a step in the middle of the process of 
+tax assessment because that letter specifically says that a 
+proposed and final assessment will follow.  So it appears 
+to be yet another step in the continuum of the assessment process.  
+The court also considered the argument that the 
+statute requires certain formality in concluding the assessment procedure and that is by means of a final 
+assessment under 237 -36. The court is not suggesting that 
+a final assessment is the only way that a formal administrative decision can be communicated to the taxpayer.   However, it is one of the ways.  Chief Justice 
+Moon identified three methods of communicating a formal administrative decision, by way of example, and those would 
+be a notice of assessment, a denial of refund, and an 
+adverse ruling.  And none of the three documents that were 
+urged upon the court by the taxpayer, or the plaintiff, as 
+a formal administrative decision constitutes or meets the 
+requirements of due process and the purpose of 40 -35.  
+There must be some order in terms of the business of 
+tax assessment.  And while a final assessment as the court 
+indicated is not the only method of triggering tax appeal 
+rights and 40 -35 rights, it certainly is one of them and 
+none of the other three that are suggested in this case do constitute that formal administrative decision.  
+So for these and any other good cause shown in the 
+record the court will respectfully grant the tax department's motion to dismiss or for summary judgment on 
+the basis of this court lacking subject matter 
+jurisdiction.  The court is unable to find that there was 
+an actual dispute between the plaintiff and the tax 
+department at the time the subject payment under protest 
+was made.  There simply -- the court was not able to find a 
+“formal administrative decision ”  by the tax department that 
+would trigger the 40 -35 rights to make a payment under 
+protest.  And therefore the court will also respectfully 
+deny the taxpayer ’s motion for summary judgment.  
+The tax court filed its orders on the motions for summary 
+judgment and the final judgment on May 16, 2022. 
+28   
+   
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+C. ICA proceedings 
+On May 20, 2022,  Hawaiian filed its notice of appeal, and 
+on March 15, 2024, the ICA issued its summary disposition order, 
+Hawaiian Airlines, Inc. v. Dept. of Taxation, No. CAAP-22-00349, 
+2024 WL 1129759 (Haw. App. Mar. 15, 2024)  (“SDO”).   The ICA held 
+the tax court correctly granted the D epartment’s  motion because 
+of our decision in Grace II, and that there must be an “actual 
+dispute” before a taxpayer can make a payment under protest and 
+bring an action under HRS § 40-35.   Hawaiian Airlines, 2024 WL 
+1129759, at *2. The ICA also  cited this court’s statement  in 
+Grace II  that  “where an administrative decision has not been 
+formalized, simply arguing that there is a ‘dispute’  or 
+‘difference of opinion ’  with [Tax] Department policy and paying 
+taxes under protest does not present an actual dispute under HRS § 40-35.”   Hawaiian Airlines, 2024 WL 1129759, at *2 (quoting 92 
+Hawaiʻi at 613, 994 P.2d at 545). The  ICA  ruled that because 
+there  was no formal decision until the July 26, 2021 notice of 
+final assessment, after Hawaiian had  already submitted a payment 
+under protest and filed this action, Hawaiian could not  rely on 
+HRS § 40-35 to invoke the tax court’s jurisdiction ; it  affirmed 
+the tax court’s ruling.   Hawaiian Airlines, 2024 WL 1129759, at 
+*2. On April 1, 2024, the ICA issued an order denying 
+Hawaiian’s motion for reconsideration.   Hawaiian Airlines, Inc. 
+29   
+    
+  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+v. Dept. of Taxation , No. CAAP -22-00349, 2024 WL 1359702 (Haw. 
+App. Apr. 1, 2024). 
+D. Certiorari proceedings 
+On May 13, 2024, Hawaiian filed its application for writ of 
+certiorari. Hawaiian presents the following issues: 
+1. In a payment under protest suit brought under HRS § 40 -
+35 by an indemnitor of a taxpayer under audit, whether the 
+Notice of Final Assessment issued to the taxpayer is the 
+only evidence of a final agency decision sufficient to 
+confer jurisdiction on the court below even if the 
+indemnitor is not given notice of said Final Assessment. 
+2. In a payment under protest suit brought under HRS § 40 -
+35 where it is contended that an “adverse ruling” is 
+evidence of final agency decision, whether any factual 
+analysis may be engaged in to determine whether a document 
+from an official Department of Taxation . . . 
+representative purporting to apply the tax laws to the 
+indemnitor’s and the taxpayer’s factual situation and give 
+the agency’s answer thereto was a “ruling.” 
+3. In a payment under protest suit brought under HRS § 40 -
+35, whether failure to meet the requirement of final agency 
+action is jurisdictional, or is rather a “claim -processing 
+rule,” open to exceptions to ensure fundamental fairness 
+and justice, as is suggested by In re Aloha Motors, Inc. , 
+69 Haw. 515, 750 P.2d 81 (1988). 
+4. When the Department in published guidance has notified 
+taxpayers of the requirements of payment under protest 
+review except for the requirement of final agency decision, 
+whether the Department may, contrary to that guidance, 
+argue that the suit must be dismissed (and the payment made 
+thereby forfeited to the Department) because no final 
+agency decision has been made. 
+(Emphasis in the original) . 
+III. Standard of Review 
+A trial court ’s grant or denial of a motion to dismiss for 
+“lack of subject matter jurisdiction is a question of law, 
+reviewable de novo. ”   Norris v. Hawaiian Airlines, Inc., 74 Haw. 
+235, 239, 842 P.2d 634, 637 (1992)  (cleaned up). In Norris, we  
+30   
+  
+ 
+  
+   
+  
+   
+ 
+  
+   
+  
+ 
+    ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+adopted the view of the Ninth Circuit Court of Appeals in Love 
+v. United States, 871 F.2d 1488, 1491 (9th Cir. 1989), opinion 
+amended on other grounds and superseded by Love v. United 
+States, 915 F.2d 1242 (9th Cir. 1989), that:  
+review of a motion to dismiss for lack of subject 
+matter jurisdiction is based on the contents of the 
+complaint, the allegations of which we accept as true 
+and construe in the light most favorable to the 
+plaintiff. Dismissal is improper unless it appears 
+beyond doubt that the plaintiff can prove no set of 
+facts in support of his claim which would entitle him 
+to relief. 
+Norris, 74 Haw. at 240, 842 P.2d at 637 (cleaned up).   “However, 
+when considering a motion to dismiss pursuant to [ Hawaiʻi Rules 
+of Civil Procedure] Rule 12(b)(1)  [(2000)]  the trial court is 
+not restricted to the face of the pleadings, but may review any evidence, such as affidavits and testimony, to resolve factual 
+disputes concerning the existence of jurisdiction. ”   Id. 
+(cleaned up).  
+IV. Discussion 
+A. A notice of proposed assessmen t also qualifies as the 
+“formal agency decision” required by Grace II to create an 
+“actual dispute” for HRS § 40-35 jurisdiction purposes 
+In its first question on certiorari , Hawaiian as ks whether 
+a final assessment is the only evidence of a “final agency 
+decision” supporting tax court jurisdiction under HRS § 40-35. 
+We answer no and hold that a notice of proposed assessment also 
+suffices to constitute the “formal agency decision” required by 
+Grace II . This holding is consistent with Grace II as well as 
+31   
+  
+   
+ 
+  
+  
+  
+     
+    
+  
+ 
+ 
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+“the common law origins of HRS §  40-35 in equity,” as discussed 
+by the majority opinion in Grace I.12  
+Grace I  and Grace II  involved  Grace, a business 
+incorporated under HRS chapter 420, claiming tax exemptions as a 
+business development corporation (“BDC”). Grace II, 92 Hawaiʻi 
+at 609, 994 P.2d at 541.   In 1997, the Director issued TIR 97-5, 
+reflecting a change in the Department ’s policy regarding BDC tax 
+exemptions aimed at disallowing exemptions for businesses not intended to benefit from chapter 420. Grace II, 92 Hawai ʻi at 
+610, 994 P.2d at 542.  
+Grace then received two letters, one providing notice 
+regarding TIR 97-5 and the effect  on Grace’s status as a BDC, 
+12   Associate Judge John Lim’s majority opinion in Grace I  contains an 
+excellent historical analysis of the evolution of Hawaiʻi law regarding tax 
+disputes. 92 Hawaiʻi at 664-70, 994 P.2d at 596 -602. Although in Grace II  we 
+agreed with then ICA Judge Simeon Acoba’s dissenting opinion that the 
+requisite “actual dispute” did not exist under the facts of that case, we 
+emphasize the equitable origins of HRS §  40-35, as expounded on by Judge Lim .  
+In this regard, we take judicial notice of Hawaiian ’s separate appeal 
+of its HRS chapter 237 refund request case in 1CTX-22-0000983. We express no 
+opinion on the procedural or substantive merits of that case. We note that 
+after the tax appeal court granted the Department’s motion to dismiss this 
+case and entered final judgment on May 16, 2022, Hawaiian sent a letter to 
+the Department on May 19, 2022, requesting a refund of its payment. When no 
+response was received , Hawaiian filed an appeal to the tax court on December 
+8, 2022. On March 5, 2024, the tax court ruled that Hawaiian’s claim was not 
+precluded by the statute of limitations and that it has jurisdiction over 
+that appeal. On July 15, 2024, the tax court entered summary and final 
+judgment in favor of the Department, ruling the aircraft maintenance 
+exemption inapplicable . On July 25, 2024, Hawaiian appealed the ruling 
+regarding inapplicability of the exemption, in CAAP-24-0000496. On August 14, 
+2024, the Department cross -appealed the t ax court’s statute of limitations 
+ruling. Hence, the Department seeks to retain Hawaiian ’s payment not only on 
+substantive grounds but also on procedural grounds, taking the position that 
+Hawaiian’s payment was made too soon to invoke HRS § 40-35 jurisdiction yet 
+too late to invoke HRS chapter 237 jurisdiction. 
+32   
+   
+  
+ 
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+and the other notifying Grace that the Department  was commencing 
+an audit of its operations. Id.   The Department  drafted a 
+proposed assessment, but no notice of the assessment was sent to 
+Grace. Grace II, 92 Hawaiʻi at 611, 994 P.2d at 543.  In 1998, 
+although the audit had yet to take place, Grace paid the 
+applicable taxes under protest, asserting that because Grace was 
+a BDC, it was not subject to Hawai ʻi  GET or transient 
+accommodations taxes, nor obligated to report its gross income on such returns. Grace II, 92 Hawai ʻi at 610, 994 P.2d at 542. 
+A few days later, Grace filed a complaint in the tax appeal 
+court. Id.    
+The tax appeal court dismissed the appeal, ruling it lacked 
+HRS § 40-35 jurisdiction; the ICA reversed. Grace I, 92 Hawaiʻi 
+at 660, 994 P.2d at 592. Then ICA Associate Judge Simeon Acoba 
+stated in dissent: 
+[A]s a general matter, subject matter jurisdiction rests in 
+the tax appeal court to hear taxpayer “appeals” from 
+assessments; challenges to taxes paid under protest; and 
+adverse rulings by the tax director.   There being neither 
+an outstanding assessment nor an adverse ruling by [the Tax 
+Director]  in the instant case, the question is whether the 
+protest payment by [Grace]  satisfies the requirements of 
+HRS § 40– 35 so as to invoke subject matter jurisdiction of 
+the tax appeal  court.   I am  of  the opinion  that  it  does  not,  
+and therefore would hold that jurisdiction does not lie in 
+the tax appeal court.  I consider the legislative history 
+of HRS § 40 –35 as supportive of this conclusion.  
+Grace  I, 92 Hawaiʻi at  672, 994 P.2d at  604  (Acoba, J., 
+dissenting)  (cleaned up).  This  dissent discussed the 
+legislative history of HRS §  40-35, which was eventually amended  
+33   
+     
+  
+  
+ 
+   
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+to prohibit funds not “actually in dispute” fr om being paid 
+under protest because such funds would be removed from 
+governmental use pending judicial resolution of a controversy. 
+Grace I, 92 Hawaiʻi at 673-74, 994 P.2d at 605-06 (Acoba, J., 
+dissenting) . 
+  On certiorari, this court ruled  that  “in the  absence of a 
+tax assessment, denial of a refund, or other adverse ruling[,] 
+[i]n accord with Associate Judge Acoba’s dissenting opinion, we 
+hold that there was no actual dispute within the meaning of HRS 
+§ 40-35.” See  Grace II, 92 Hawaiʻi at 609, 994 P.2d at 541.   We 
+ruled that absent a “formal administrative decision ”  by the 
+Director, Grace’s payment under protest did not represent an 
+actual dispute under HRS § 40-35 and affirmed the tax appeal 
+court’s dismissal for lack of subject matter jurisdiction.  
+We stated that the 
+requirement of a formal administrative decision, such as a 
+notice of assessment, denial of refund, or an adverse 
+ruling, prior to filing suit under HRS § 40 –35 is 
+consistent with HRS § 632 –1 (1993), which requires an 
+“actual controvers y” in order to confer jurisdiction and 
+provides that “declaratory relief may not be obtained ... 
+in any controversy with respect to taxes[.] ” 
+92 Hawaiʻi at 613, 994 P.2d at 545.  We concluded that “[t]he 
+need to avoid premature adjudication supports a definition of 
+‘dispute’  that requires more than a ‘difference of opinion ’  as 
+to policy.” 92 Hawai ʻi at 612, 994 P.2d at 544. In order for a 
+34   
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+claimant to properly make a payment under protest and bring an 
+action under HRS § 40 -35, 
+there must be an actual dispute  .  . . where an 
+administrative decision has not been formalized, simply 
+arguing that there is a “dispute”  or “difference of 
+opinion”  with Department policy and paying taxes under 
+protest does not present an actual dispute .  
+Grace II , 92 Hawaiʻi at 613, 994 P.2d at 545 (emphasis added) . 
+In the tax court, Hawaiian specifically argued that HRS § 
+40-35 jurisdiction existed based on the inter-office memorandum, 
+the September email between the auditor and Boeing, and the May 
+2021 letter, and the tax court ruled that none of these 
+constituted the requisite formal administrative decision. The 
+tax court did not , however, address the May 21, 2021 NOPA, 
+although it was referenced in the complaint and included in the 
+record. But the issue of subject matter jurisdiction is one of 
+law and the court m ay consider not just the pleadings, but also 
+the record. 
+In Grace II , we said that “permitting Grace to demand that 
+the Director resolve the question whether Grace is entitled to 
+the refund requested by paying under protest before an audit is 
+completed or any formal decision is made, in effect grants Grace 
+declaratory relief in contravention of HRS § 632 -1.” 92 Hawaiʻi 
+at 613, 994 P.2d at 545. Despite the obvious differences with 
+the facts of this case, t he Department takes the position that 
+Grace II means Hawaiian ’s payment could not be made until after 
+35   
+   
+ 
+ 
+ 
+ 
+   
+  
+ 
+  
+  
+ 
+ 
+       ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+issuance of the final notice of assessment to qualify as a HRS § 
+40-35 payment under protest. It argues Hawaiian ’s payment was 
+therefore premature and deprived the tax appeal court of HRS § 
+40-35 subject matter jurisdiction . It also asserts that 
+Hawaiian had the option of filing an appeal after the final 
+assessmen t, but missed th at deadline .13 Therefore, the 
+Department takes the position that Hawaiian has no procedural 
+remedy.14 
+We disagree with the Department.  Here, we need not decide 
+whether the May 21, 2021 letter could also have constituted the 
+required formal administrative decision because the May 21, 2021 
+NOPA did, even if  it  was to be followed by a final assessment.  
+Contrary to the Department’s position, Grace II  supports this 
+holding.  The payment under protest there was made after the 
+Department only gave notice it would be conducting an audit. 
+Here, the audit had been completed. Also, Judge Acoba’s dissent 
+in Grace I  indicated  there was no “actual dispute” because there 
+had been “no demand” and “no determination of tax liability.”   
+Grace I, 92 Hawaiʻi at 674, 994 P.2d at 606.   Here, the NOPA 
+13 It was also pointed out a t oral argument , however, that while the State 
+could owe interest of four percent on taxes refunded to taxpayers, taxpayers 
+could owe eight percent interest on amounts due, assessable from the date of 
+the original return. By making its payment under protest when it did, it 
+appears Hawaiian halted the accrual of the eight percent interest earlier 
+than if it had waited for the final assessment, in the event its appeal was 
+eventually denied. 
+14 See also supra note 13. 
+36   
+    
+ 
+   
+ 
+  
+ 
+ 
+ 
+  
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+contained a “demand” and a “determination of tax liability .” It 
+even contained a payment voucher specifying the amount to pay, 
+instructions on the method in which payment could be made, and 
+to whom the check was to be made payable . 
+The NOPA was a “formal administrative decision.” In this 
+regard, addressing Hawaiian’s fourth question on certiorari, we 
+agree that the Department’s communications were confusing. The 
+TBOR serves to inform all taxpayers of their most important 
+rights as taxpayers . The rights therein are “based on laws and 
+. . . [the D epartment ’s] commitment to administer [Hawai ʻi’s] tax 
+law in a fair and equitable manner.” Section VI of the TBOR, 
+quoted above, indicates the NOPA “explains the basis for the 
+assessment of taxes.” Although it also refers to a “right to 
+request clarification or to object to the tax assessment with in 
+30 days,” it also says that “the proposed tax assessment will 
+become final after the expiration of 30 days from the mailing of 
+the Proposed Notice of Assessment.” Moreover, Section VII of 
+the TBOR, quoted above, clearly says that, “in lieu of filing an 
+appeal,” a taxpayer can make a payment under protest “within 30 
+days from the date the Final Notice of Assessment was mailed.” 
+That is the deadline , suggesting that the payment under protest 
+must be filed before that deadline. 
+In addition, TIR 2002 -1 “summarizes statutory rights, 
+obligations, and procedures, relating to the audit of net 
+37   
+   
+  
+ 
+ 
+ 
+    
+  
+ 
+   
+ 
+  
+    
+ 
+   
+  
+ 
+  ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+income, general excise, and use tax returns by the [Department]  
+which may result in the assessment of additional taxes; appeals 
+from the assessment of taxes; claims for refund or credit; and 
+payment to the State under protest .”  TIR 2002-1 also provides 
+that the TIR is issued solely as a guide and is not intended to be complete.   Like the TBOR, TIR 2002-1 states:  
+In lieu of filing an appeal or if an appeal is not filed 
+with the board of review or tax appeal court within thirty 
+days of the date when the notice of assessment was mailed, 
+section 40 -35, HRS, allows the taxpayer to pay under 
+protest disputed portions of the assessment. A taxpayer 
+may recover those taxes paid under protest if an action for 
+recovery is commenced in the tax appeal court within thirty 
+days from the date of the payment and the taxpayer prevails 
+in that action. If no suit or proceeding is br ought within 
+thirty days of the payment, the taxes paid under protest 
+become a government realization. 
+Hence, the NOPA constitutes a “tax assessment,” even though 
+a taxpayer need not make payment until after the final 
+assessment . A NOPA qualifie s as a “final administrative 
+decision” required by Grace II to invoke HRS § 40-35 
+jurisdiction. 
+B. Grace II allows lower courts to determine whether an 
+official agency communication is an “adverse ruling” 
+constituting a “formal administrative decision” for 
+HRS § 40-35 jurisdiction purposes 
+In its second issue on certiorari, Hawaiian argues Grace II 
+allowed lower courts to determine whether an official agency 
+communication is an “adverse ruling.” This appears to be in 
+reference to the ICA’s statement in its SDO that this court in 
+Grace II said, “where an administrative decision has not been 
+38   
+  
+ 
+ 
+ 
+    
+  
+ 
+   
+    
+ 
+ 
+ 
+  
+   
+ 
+ 
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+formalized, simply arguing that there is a ‘dispute’ or 
+‘difference of opinion ’ with [Tax] Department policy and paying 
+taxes under protest does not present an actual dispute under HRS 
+§ 40-35.” 92 Hawaiʻi at 612, 994 P.2d at 54 4. Grace II does, 
+however, allow courts to determine whether there was an “actual 
+dispute.” By ruling that a NOPA constitute s a “formal 
+administrative decision ” for HRS § 40-35 purposes, we do not 
+intend to preclude other decisio ns that could also qualify. 
+C. Pursuant to Grace II , the “actual dispute requirement ” of 
+HRS § 40-35 is jurisdictional 
+In its third question on certiorari, H awaiian argues that 
+the administrative exhaustion set forth in the language of HRS 
+§ 40-35 and in Grace II should be seen as “nonjurisdictional 
+procedural requirements to promote the orderly progress of 
+litigation.” We have explained that the distinction between 
+time limit rules that are “claim -processing” and 
+“jurisdictional” are as follows: 
+The [U.S.] Supreme Court emphasized that only Congress may 
+determine a lower federal court ’s subject- matter jurisdiction  . . 
+.  [W]hen appeals are not “prosecuted in the manner directed, 
+within the time limited by the acts of Congress, it must be 
+dismissed for want of jurisdiction.”  As such, the Court stated 
+that the rules regarding time constraints that are derived from statutes specifically limiting a court ’s jurisdiction are 
+considered “jurisdictional.”  “Claim-processing” rules related to 
+time restrictions, on the other hand, are “court -promulgated” and 
+adopted by the Court for the orderly transaction of business.  
+Such rules are not derived from statutory time constraints 
+specifically limiting jurisdiction, and can be relaxed at the 
+Court’s discretion.  
+The time constraints in FRAP Rule 4(a)(6) were declared 
+“jurisdictional” because they are set forth by statute in 28 
+39   
+  
+ 
+ 
+ 
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+U.S.C. § 2107(c), which limits the amount of time federal 
+district courts can extend the notice of appeal period . 
+Cabral v. State, 127 Hawaiʻi 175, 182, 277 P.3d 269, 276 (2012)  
+(emphasis added).   Hawaiian primarily cites two cases for its 
+position,  Boechler  and Aloha Motors.  
+In Boechler, the U.S. Supreme Court held that the deadline 
+to petition the tax court for a review of collection due process 
+determination was not jurisdictional because the underlying 
+statute did not explicitly so provide, and  the Court  remanded to 
+determine whether the plaintiff was entitled to equitable relief. 596 U.S. at 206, 211. The Court stated:  
+Jurisdictional requirements mark the bounds of a “court’s 
+adjudicatory authority.”  Kontrick v. Ryan, 540 U.S. 443, 
+455 (2004).  Yet not all procedural requirements fit that 
+bill.  Many simply instruct “parties [to] take certain 
+procedural steps at certain specified times” without 
+conditioning a court’s authority to hear the case on 
+compliance with those steps.  Henderson v. Shinseki, 562 
+U.S. 428, 435 (2011). . . . To that end, we treat a procedural requirement as jurisdictional only if Congress 
+“clearly states” that it is.   Arbaugh v. Y & H Corp., 546 
+U.S. 500, 515 (2006).  Congress need not “incant magic 
+words,” Auburn  [Sebelius v. Auburn Regional Medical 
+Center], 568 U.S.  [145], at 153, but the “traditional tools 
+of statutory construction must plainly show that Congress imbued a procedural bar with jurisdictional consequences,” 
+United States v. Kwai Fun Wong, 575 U.S. 402, 410 (2015).  
+596 U.S. at 203 (cleaned up) . The Court also rejected the 
+commissioner’s argument related to that case that there was “a 
+long line of Supreme Court decisions left undisturbed by 
+Congress ” that represented a “ clear indication that a 
+requirement is jurisdictional .” Boechler , 596 U.S. at 208 
+(cleaned up)(citations omitted). 
+40   
+  
+ 
+  
+    ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+In Aloha Motors, the taxpayer, Aloha Motors, a franchised 
+motor vehicle dealer, sought a refund of wholesale use taxes it 
+mistakenly paid over several years. 69 Haw. at 516, 750 P.2d at 
+82. Upon realizing the error, Aloha Motors asked for a refund 
+for tax payments occurring from 1968 to 1981. Id.   The tax 
+director agreed to return the payments occurring in 1978 to 1981, but refused to refund more,  arguing that Aloha Motors 
+neglected to seek repayment within three years after the payment 
+of the tax as established by HRS §  237-40(d), so those claims 
+were barred. 69 Haw.  at 517, 750 P.2d at 83.   We concluded  that 
+although Aloha Motors was at fault for failing to follow the 
+required steps, the tax appeal court was not divested of 
+jurisdiction to entertain an action contesting the tax 
+director’s decision. 69 Haw.  at 520, 750 P.2d at 84. 
+Accordingly, because no statutory language supported  the 
+Department’s position on the tax appeal court ’s alleged lack of 
+jurisdiction, we held  that the tax appeal court possessed the 
+authority to review the merits of that  use tax matter.   Id.  at 
+520, 750 P.2d at 85. But we also held that there was no 
+discovery tolling for tax statutes and ruled that the statute of 
+limitations in HRS §  237-40(d) barred Aloha Motors’ claim .   Id.   
+Aloha Motors does not support Hawaiian’s argument that the 
+requirements in HRS § 40-35 are nonjurisdictional, as we 
+ultimately held there was jurisdiction in that case. It further 
+41   
+  
+   
+ 
+  
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+  ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+involved a statute of limitation that failed to make explicitly 
+clear any jurisdictional requirements .15 
+Granted, on its face, HRS §  40-35 does not clearly state 
+that it contains a jurisdictional requirement. HRS §  40-35 says  
+that “disputed  portions of money” may be paid under protest but  
+does not provide that without such a “dispute” that the tax 
+appeal court would not have jurisdiction, nor does the statute 
+describe when a “dispute” occurs  to effectuate the tax appeal 
+court’s jurisdiction . Grace I  and Grace II, however, discussed 
+the legislative intent behind HRS § 40-35, and Grace II  has 
+already decided this issue.  
+As indicated in Grace I, the “any dispute d portion of” 
+language in HRS § 40-35 was added in 1967, evidencing 
+the gravamen of a protest payment is not merely a 
+“difference[] of opinion ” between the taxpayer and the 
+government, as was said when the statute was first enacted 
+15HRS § 237-40(d) provides: 
+(d) Refunds. No credit or refund shall be allowed for any 
+tax imposed by this chapter, unless a claim for such credit 
+or refund shall be filed as follows: 
+(1) If an annual return is timely filed, or is filed 
+within three years after the date prescribed for 
+filing the annual return, then the credit or refund 
+shall be claimed within three years after the date 
+the annual return was filed or the date prescribed 
+for filing the annual return, whichever is later. 
+(2) If an annual return is not filed, or is filed 
+more than three years after the date prescribed for 
+filing the annual return, a claim for credit or 
+refund shall be filed within: 
+(A) Three years after the payment of the tax; 
+or 
+(B) Three years after the date prescribed for 
+the filing of the annual return, whichever is 
+later. 
+42   
+  
+ 
+   
+ 
+ 
+   
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+[in 1907], but some actual dispute which justifies payments 
+to be segregated, and thus removed from governmental use 
+pending judicial resolution of the controversy. 
+92 Hawaiʻi at 674, 994 P.2d at 606 (Acoba , J., dissenting). 
+Grace II then sought to effectuate HRS § 632 -1’s prohibition on 
+declaratory relief actions “in any controversy with respect to 
+taxes.” 92 Hawai ʻi at 613, 994 P.2d at 545.  We said that 
+“permitting Grace to demand that the Director resolve the 
+question whether Grace is entitled to the refund requested by 
+paying under protest before an audit is completed or any formal 
+decision is made, in effect grants Grace declaratory relief in 
+contravention of HRS § 632 -1.” Id. 
+Accordingly, although HRS §  40-35 does not explicitly 
+provide that without a dispute, the tax appeal court is deprived 
+of jurisdiction, Grace II  held that the “dispute” requirement 
+set forth in HRS § 40-35 is indeed jurisdictional. Under the 
+doctrine of stare decisis, we see no compelling justification to 
+depart from precedent. See Ahn, 126 Hawaiʻi at 10, 265 P.3d at 
+479.   Therefore, Hawaiian’s third question on certiorari lacks 
+merit.  
+V.  Conclusion  
+For the foregoing reasons, we vacate the tax court’s May 
+16, 2022 (1) Order Granting Defendant Department of Taxation, 
+State of Hawaii’s Motion To Dismiss Or, In The Alternative, 
+Cross Motion for Summary Judgment Filed On December 10, 2021; 
+43   
+  
+ 
+ 
+ 
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER ** 
+(2) Order Dismissing Plaintiff Hawaiian Airlines, Inc.’s Motion 
+For Summary Judgment Filed on August 10, 2021; and (3) “Final 
+Judgment Re: Order Granting Defendant Department of Taxation, 
+State of Hawaii’s Motion To Dismiss Or, In The Alternative, 
+Cross Motion for Summary Judgment Filed On December 10, 2021,” 
+as well as the ICA’s April 18, 2024 Judgment on Appeal. We 
+remand this matter to the tax court for further proceedings 
+consistent with this opinion.    
+Thomas Yamachika,    /s/ Mark E.  Recktenwald
+for petitioner      
+/s/ Sabrina S. McKenna  
+Mary Bahng Yokota  
+(Nathan S.C. Chee,    /s/ Todd W. Eddins  
+with  her on the briefs),  
+for respondent     /s/ Lisa M. Ginoza  
+ 
+      /s/ Vladimir P. Devens   
+44 

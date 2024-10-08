@@ -1,0 +1,1542 @@
+ 
+ 
+ 
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+Electronically Filed 
+Supreme Court SCCQ-23-0000515 07-OCT-2024 08:56 AM Dkt. 159 OP 
+IN THE SUPREME COURT OF THE STATE OF HAWAIʻI 
+---o0o---
+ALOHA PETROLEUM, LTD., 
+Plaintiff-Appellant, 
+ 
+vs. 
+ 
+NATIONAL UNION FIRE INSURANCE COMPANY OF PITTSBURGH, PA, 
+and AMERICAN HOME ASSURANCE COMPANY, 
+Defendants-Appellees. 
+SCCQ-23-0000515 
+ 
+CERTIFIED QUESTIONS FROM THE UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF HAWAIʻ I 
+(CASE NO. 22-00372 JAO-WRP) 
+ 
+OCTOBER 7, 2024 
+  
+RECKTENWALD, C.J., McKENNA, EDDINS, AND DEVENS, JJ.; 
+WITH GINOZA, J., CONCURRING SEPARATELY 
+ 
+OPINION OF THE COURT BY EDDINS, J. 
+I. INTRODUCTION 
+The City and County of Honolulu and the County of Maui sued 
+several fossil fuel companies, including Aloha Petroleum, Ltd., 
+for climate change-related harms. 
+Aloha demands a defense in  
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+these suits from two insurance companies, National Union Fire 
+Insurance Company of Pittsburgh, PA and American Home Assurance 
+Company, both subsidiaries of American Insurance Group (AIG). 
+We refer to the defendants collectively as AIG. 
+The AIG subsidiaries issued several standard commercial 
+general liability (CGL) insurance policies to Aloha’s parent 
+company. This case is about whether those policies obligate AIG 
+to defend Aloha in the counties’ lawsuits. 
+We answer two certified questions from the United States 
+District Court for the District of Hawaiʻi. The first asks 
+whether an “accident” includes an insured’s reckless conduct. The second asks whether greenhouse gases (GHGs) are “pollutants” as defined in the policies’ pollution exclusions. 
+We answer the first question Yes, in Aloha’s favor. 
+An 
+“accident” includes reckless conduct. 
+AIG’s policies cover an “occurrence.” The policies define 
+an “occurrence” as an “accident.” “Accident” is undefined. The 
+counties’ lawsuits allege Aloha acted recklessly – it knew of 
+climate risk, but emitted – and misled the public about the dangers of emitting - greenhouse gases anyway. We hold an 
+“accident” includes reckless conduct for three reasons. 
+First, this outcome fits our precedents. This court’s 
+decision in Tri-S held that recklessness may be an “occurrence.” 
+Tri-S Corp. v. Western World Ins. Co.
+, 110 Hawaiʻi 473, 494, 135 
+2  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+P.3d 82, 103 (2006). In contrast, this court held in Caraang
+that an “occurrence” requires an injury that is not “the 
+expected or reasonably foreseeable result of the insured’s own 
+intentional acts or omissions.” AIG Haw. Ins. Co., Inc. v. Est.
+of Caraang, 74 Haw. 620, 636, 851 P.2d 321, 329 (1993). When an insured acts recklessly, it knows the risk of a foreseeable 
+injury. A reckless insured acts “accidentally” under Tri-S, but 
+not under Caraang, it may seem. 
+We clarify what Caraang meant by “reasonably foreseeable.” 
+In that case’s context, Caraang referred to the reasonably foreseeable results of an insured’s intentionally harmful 
+conduct. Caraang used “reasonably foreseeable” as another way 
+of invoking the intentional conduct exception to coverage. 
+Read this way, our cases are not in conflict. We follow 
+Tri-S’ definition of intentional harm and expected injury. We hold that when an insured perceives a risk of harm, its conduct 
+is an “accident” unless it intended to cause harm or expected 
+harm with practical certainty. See Tri-S
+, 110 Hawaiʻi at 494 
+n.8, 135 P.3d at 103 n.8. 
+Second, the plain meaning of “accident” supports the idea 
+that an “accident” includes reckless conduct. 
+Third, interpreting an “accident” to include reckless 
+conduct honors the principle of fortuity. 
+Thus, we answer the first question Yes. 
+3  
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+We answer the second question Yes, in AIG’s favor. GHGs 
+are “pollutants” under the insurance policies’ pollution 
+exclusion clause. The exclusion bars coverage for emitting (or 
+misleading the public about emitting) GHGs. 
+Five reasons support our Yes answer. First, climate-
+heating gases are an example of the “traditional environmental 
+pollution” that the pollution exclusion was designed to exclude. 
+Second, following the plain-language reading adopted by some courts, GHGs fit the exclusion’s definition of “pollutant.” 
+Third, this court’s “legal uncertainty” rule does not prompt a 
+duty to defend here, because uncertainty about the exclusion 
+does not affect our outcome – GHGs are “pollutants” under any 
+reasonable interpretation. Fourth, because there are not two 
+plausible interpretations here, the exclusion is not ambiguous. 
+Last, Aloha’s reasonable expectation of coverage does not 
+stretch to encompass traditional pollution claims. 
+II. BACKGROUND 
+We summarize the underlying deceptive marketing suits, the 
+specific language of the insurance policies, and the parties’ 
+arguments. 
+A. The Underlying Lawsuits 
+Aloha demands a defense in two lawsuits: City and County of 
+Honolulu v. Sunoco LP, and County of Maui v. Sunoco LP. Besides 
+4  
+  
+  
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Aloha, the suits name many major oil companies as defendants, 
+including Exxon, Shell, Chevron, BP, and ConocoPhillips. 
+The suits allege that the fossil fuel industry knew 
+beginning in the 1960s that its products would cause 
+catastrophic climate change. Rather than mitigate their 
+emissions, defendants concealed their knowledge of climate 
+change, promoted climate science denial, and increased their 
+production of fossil fuels. Defendants’ actions, the complaint alleged, increased carbon emissions, which have caused and will 
+cause significant damage to the counties. 
+What did the industry know? In 1965, President Johnson’s 
+Science Advisory Committee released a report documenting the 
+basic science of climate change. In a message to Congress, 
+President Johnson warned that “[t]his generation has altered the 
+composition of the atmosphere on a global scale through . . . a 
+steady increase in carbon dioxide from the burning of fossil 
+fuels.” In the following years, the American Petroleum Institute (API), an oil industry group, commissioned additional 
+studies confirming the science of climate change. API 
+distributed these studies to its member companies. The studies 
+predicted that climate change would noticeably increase 
+temperatures around 2000 and cause catastrophic effects by the 
+mid-21st century. 
+5  
+  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Privately, some defendants acted on these reports by 
+climate-adapting their operations, like raising offshore oil 
+platforms. But publicly, fossil fuel companies and their 
+associations promoted denial campaigns to cast doubt on climate 
+science. 
+What did Aloha know? The complaints do not allege that 
+Aloha had specific knowledge about climate change. Rather, they 
+allege that Aloha’s former parent, Phillips 66, and current parent, Sunoco, received or should have received information 
+from API, other industry groups, and publicly available 
+scientific data. Thus, Aloha was allegedly on notice that its 
+products cause catastrophic climate change. 
+The complaints allege that “[d]efendants had actual 
+knowledge that their products were defective and dangerous,” and 
+“acted with conscious disregard for the probable dangerous 
+consequences of their conduct’s and products’ foreseeable impact 
+upon the rights of others.”  Therefore, the District Court concluded in its order to this court that the counties allege 
+reckless conduct. 
+Both lawsuits assert five causes of action. They allege 
+trespass (primarily entry of ocean water onto county property) 
+and public and private nuisance (unreasonable sale of fossil 
+fuels interfering with counties’ and community’s property 
+rights). They also allege negligent and strict liability 
+6  
+   
+ 
+ 
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+failure to warn. Defendants had a duty to warn the public about 
+the dangers of their products, breached that duty by 
+affirmatively promoting fossil fuels and misrepresenting climate 
+change, and thus damaged the counties. 
+The complaints catalogue the counties’ injuries: increased 
+planning costs, erosion and beach loss, flooding, decreased 
+fresh water, damage to water infrastructure, harm to endemic 
+species, increased risk of extreme heat and storms, and damage to Native Hawaiian cultural resources. The counties requested 
+an unspecified amount of compensatory and punitive damages, 
+equitable relief, disgorgement of profits, attorney fees, and 
+costs. 
+B. The Insurance Policies 
+Aloha alleges that AIG’s subsidiaries issued Aloha’s parent 
+company a series of annual liability insurance policies from 1978-1981, 1984-1989, and 2004-2010. AIG can’t find copies of 
+the 1978-1981 policies, so they are outside the scope of this case. 
+The language in these policies evolved over the years as 
+the insurance industry’s standard form changed. The 1984-1987 
+policies defined an “occurrence” as “an accident, including 
+continuous or repeated exposure to conditions, which results in 
+bodily injury or property damage neither expected nor intended 
+from the standpoint of the insured.” From 1988 on, the policies 
+7  
+  The policies’ pollution exclusions are more varied.   In 
+their federal court briefing, the parties agreed these 
+variations are immaterial to this case.   For our purposes, we 
+quote the “total” pollution exclusion from the 2004-2010 policies: 
+       
+   
+         
+           
+      
+          
+    
+           
+         
+         
+        
+           
+  
+           
+        
+       
+          
+    
+        
+       
+         
+       
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+define an “occurrence” as “an accident, including continuous or repeated exposure to substantially the same general harmful 
+conditions.”  
+This insurance does not apply to: 
+f. Pollution 
+(1) “Bodily injury” or “property damage” which would 
+not have occurred in whole or part but for the actual, 
+alleged, or threatened discharge, dispersal, seepage, 
+migration, release or escape of “pollutants” at any time. 
+. . . . 
+(2) Any loss, cost or expense arising out of any: 
+(a) Request, demand, order or statutory or regulatory 
+requirement that any insured or others test for, monitor, 
+clean up, remove, contain, treat, detoxify or neutralize, 
+or in any way respond to, or assess the effects of “pollutants”; or 
+(b) Claim or suit by or on behalf of a governmental 
+authority for damages because of testing for, monitoring, 
+cleaning up, removing, containing, treating, detoxifying or 
+neutralizing, or in any way responding to, or assessing the 
+effects of, “pollutants.” 
+    . . . . 
+“Pollutants” [mean
+] “any solid, liquid, gaseous or 
+thermal irritant or contaminant, including smoke, vapor, soot, fumes, acids, alkalis, chemicals and waste. Waste includes materials to be recycled, reconditioned or 
+reclaimed.” 
+C. U.S. District Court Proceedings 
+Aloha sued the AIG entities for breaching their duties to 
+defend, indemnify, and act in good faith. Aloha seeks a 
+declaratory judgment that AIG must defend and indemnify. 
+8  
+   
+ 
+ 
+         
+         
+ 
+ 
+        
+      
+     
+      
+     
+ 
+   
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+AIG denied Aloha’s allegations. AIG argued that Aloha’s 
+conduct was intentional, therefore the counties’ lawsuits do not 
+raise an “occurrence” under the policies. Aloha understood 
+climate science, so climate-caused damage was expected, not 
+fortuitous, AIG said. Plus, the policies’ pollution exclusions 
+bar coverage for the lawsuits’ claims. 
+The parties cross-moved for partial summary judgment on the 
+duty to defend. 
+The District Court certified two questions to this court: 
+(1) For an insurance policy defining a covered “occurrence” 
+in part as an “accident,” can an “accident” include 
+recklessness? 
+(2) For an “occurrence” insurance policy excluding coverage 
+of “pollution” damages, are greenhouse gases 
+“pollutants,” i.e., “gaseous” “irritant[s] or 
+contaminant[s], including smoke, vapor, soot, fumes, acids, alkalis, chemicals and waste”? 
+We accepted both questions and ordered briefing. 
+D. Supreme Court Arguments 
+1. Aloha’s Arguments 
+9  To Aloha, Tri-S defines an “occurrence.” That case did 
+three things, in Aloha’s view. By reaching the “expected or 
+intended” exclusion, Tri-S necessarily interpreted the 
+definition of an “occurrence.” 110 Hawaiʻ i at 494, 135 P.3d at 
+103. It held that an “accident” includes recklessness. Id.
+And it supplanted the earlier Caraang line of cases focused on  
+   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+the objectively foreseeable results of an insured’s intentional 
+conduct. 
+Aloha adds that Tri-S’ interpretation of the “expected or 
+intended” exclusion informs the meaning of an “occurrence.” 
+Aloha turns to the drafting history of the standard CGL policy. 
+From the 1960s until 1986, the standard “occurrence” definition 
+said it was not “expected nor intended from the standpoint of 
+the insured.” In 1986, the “expected or intended” language moved from the definition of “occurrence” to a stand-alone 
+exclusion. Thus, Aloha says, the meaning of the provisions are 
+linked. Aloha argues Tri-S’ interpretation of the “expected or 
+intended” language should inform an “occurrence” in both pre-
+and post-1986 versions of the policies. 
+Next, Aloha contends that Tri-S, not the Caraang line of 
+cases, controls the meaning of an “occurrence.” Aloha gives two 
+reasons. 
+First, Hawaiian Ins. & Guar. Co., Ltd. v. Brooks, 67 Haw. 
+285, 686 P.2d 23 (1984), Hawaiian Ins. & Guar. Co., Ltd. v. Blanco, 72 Haw. 9, 804 P.2d 876 (1990), and Caraang addressed a 
+policyholder who commits or abets an obviously harmful violent 
+tort. Those cases dealt with sexual assaults and shootings. 
+Aloha says that makes them different than the counties’ products 
+liability case. Aloha writes, “the Caraang definition reflects 
+the fact that the resulting harms from the policyholders’ 
+10  
+   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+actions in those cases were so obvious – the act and certainty 
+of injury were inseparable – that intent to injure a third party 
+could be inferred.” 
+Second, Aloha says that Caraang’s holding works for 
+intentional conduct, but doesn’t make sense when the underlying 
+suit alleges negligence. Caraang says an occurrence is not an 
+“expected or reasonably foreseeable result of the insured’s own intentional acts”. Caraang, 74 Haw. at 636, 851 P.2d at 329 
+(emphasis added). But to have a viable negligence claim, the 
+plaintiff’s injury has to be foreseeable. No way can Caraang’s 
+definition apply to negligence, Aloha grumbles, because it would 
+exclude every negligence claim. 
+Rather, Aloha explains that Tri-S supplies the negligence 
+answer. That case defined an “expected” injury as one 
+“practically certain” to occur. Tri-S
+, 110 Hawaiʻi at 494 n.8, 
+135 P.3d at 103 n.8. This definition harmonizes the law. In 
+Aloha’s view, 
+Caraang applies when we infer an intent to cause 
+injury from the obviously harmful nature of the tort, and Tri-S applies otherwise. Aloha suggests that this court can reaffirm Tri-S without overruling Caraang. 
+Aloha adds that Tri-S’ definition of “occurrence” fits the 
+fortuity principle. It points to a recent Wisconsin Supreme 
+Court decision, Dostal v. Strand, 984 N.W.2d 382 (Wis. 2023). 
+That case held that conduct amounting to second degree reckless 
+11  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+homicide (recklessly causing death) may constitute an 
+“occurrence.” Id. at 393. The Wisconsin court reasoned that a 
+person “may engage in behavior that involves a calculated risk 
+without expecting — no less reasonably — that an accident will 
+occur . . . . Such behavior, which may be reckless for criminal 
+responsibility purposes, does not necessarily mean that the 
+actor reasonably expected the accident to result.” Id. at 392 
+(cleaned up). 
+Next, Aloha turns to the pollution exclusion. Aloha first 
+points to the 1986 and 1987 National Union policies, which don’t have a relevant pollution exclusion. No matter what the 
+exclusion in other policies means, Aloha believes AIG owes it a 
+defense under these policies. 
+The U.S. District Court understood Aloha’s argument but 
+certified the pollution question anyway. 
+It said the counties’ 
+lawsuits “sparsely allege damages occurring before 2000” making coverage under the 1986 and 1987 policies “apparently not possible.” Aloha disagrees with the District Court, noting that 
+the duty to defend encompasses the mere possibility of coverage. 
+It also points to allegations of damage during the 1980s, 
+primarily sea level rise and erosion. 
+In case we do reach the exclusion, Aloha makes four further 
+arguments. First, it argues textually that the greenhouse gases 
+at issue are not “pollutants.”  Aloha focuses on the words 
+12  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+“irritant” and “contaminant.”  “Irritant” means a substance 
+causes irritation to humans, Aloha contends. Thus, “irritant” 
+applies in personal injury claims, but not when the claim only 
+alleges property damage. 
+Nor are greenhouse gases “contaminants.”  The relevant 
+“contaminant” here is carbon dioxide, not ocean water or rain, 
+Aloha says. Those liquids may contaminate and damage the 
+counties’ property, but carbon dioxide doesn’t directly contaminate it. 
+Second, Aloha argues that the word “contaminant” must be 
+read in the exclusion’s context, not literally. Any substance, 
+even water, can become a “contaminant” if it causes bodily 
+injury or property damage. Taken to a literal extreme, Aloha 
+explains, ordinary chlorine in a pool is a “liquid” 
+“contaminant” “dispersed” in the pool, and thus a “pollutant” 
+under the policies. 
+Aloha contends the policy should be read in the appropriate 
+context: traditional environmental pollution by hazardous wastes. Aloha turns to the drafting history of the pollution 
+exclusion in standard commercial liability policies. It argues 
+the exclusion was meant to cover environmental clean-up costs 
+resulting from the insured’s operations, not liability from its 
+finished products. Aloha also relies on federal cases holding 
+that the verbs in the exclusion - “discharge, dispersal, 
+13  
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+seepage, migration, release, or escape” - are environmental law 
+terms of art referring to traditional environmental pollution. 
+Here, there’s a difference between the counties’ suits and 
+an environmental suit to remediate carbon dioxide, Aloha 
+believes. An environmental remediation suit would be excluded, 
+but the counties’ suits are not. 
+Third, Aloha says the exclusion is ambiguous and so should 
+be interpreted in its favor. SeeSt. Paul Fire & Marine Ins. 
+Co. v. Bodell Constr. Co.
+, 153 Hawaiʻi 381, 383, 538 P.3d 1049, 
+1051 (2023) (this court reads insurance policy ambiguities in 
+the insured’s favor). 
+Fourth, a narrow view of the exclusion aligns with Aloha’s 
+objectively reasonable expectation of coverage. 
+The policies 
+grant Aloha products liability coverage. If the pollution 
+exclusion barred coverage for product liability claims related 
+to selling gasoline - Aloha’s primary business – the coverage 
+would be worthless, Aloha insists. Thus, Aloha reasonably 
+expected coverage for damage arising out of the ordinary use of 
+its products. 
+2. AIG’s Arguments 
+AIG maintains that Caraang sets the standard for an 
+“occurrence.” Caraang holds that an “occurrence” policy does 
+not cover “the expected or reasonably foreseeable result of the 
+14  
+   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+insured’s own intentional acts or omissions.” 74 Haw. at 636, 
+851 P.2d at 329. 
+Here, AIG argues that climate change is the foreseeable 
+result of Aloha’s intentional emission of GHGs. AIG quotes this 
+court’s characterization of Honolulu’s suit in City & Cnty. of 
+Honolulu v. Sunoco LP
+, 153 Hawaiʻi 326, 337, 537 P.3d 1173, 1184 
+(2023). We described Honolulu’s theory of liability: 
+“Defendants knew about the dangers of using their fossil fuel 
+products, failed to warn consumers about those known dangers, 
+and engaged in a sophisticated disinformation campaign to 
+increase fossil fuel consumption.” Id.
+AIG also turns to this court’s decisions in 
+Brooks, Blanco, 
+and Caraang, three cases dealing with insurance coverage for intentional torts. Brooks examined coverage for an insured 
+truck driver. As he drove, a passenger raped a woman – this was no “accident” because the insured saw the rape happening and did 
+nothing to stop it. Brooks, 67 Haw. at 291, 686 P.2d at 28. 
+Similarly, Blanco held that an insured firing a rifle in Blanco’s direction was not an “accident,” because a reasonable person would expect injury to result. Blanco, 72 Haw. at 18, 
+804 P.2d at 881. From these cases, AIG concludes that an “accident” depends on if a reasonable person would anticipate 
+injury. A policyholder’s subjective intent to injure is 
+irrelevant. 
+15  
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Caraang itself also involved violence, AIG says. A car 
+passenger shot Caraang, killing him. Caraang, 74 Haw. at 624-
+25, 851 P.2d. at 324. This court held that Caraang’s death was 
+accidental from the driver’s perspective, but intentional from 
+the shooter’s perspective. Id. at 637, 643, 851 P.2d at 329, 
+332. Thus, the car’s insurer had a duty to defend the driver, 
+but not the shooter. Id.
+A year later, AIG continues, this court applied 
+Caraang’s 
+“expected or reasonably foreseeable result of the insured’s own intentional acts” standard in Hawaiian Holiday Macadamia Nut 
+Co., Inc. v. Indus. Indem. Co.
+, 76 Hawaiʻi 166, 170, 872 P.2d 
+230, 234 (1994). That case involved a breach of contract action 
+between business partners. Id.This court held that the 
+problematic underlying conduct – planting macadamia seedlings incorrectly and in breach of contract – was intentional and thus 
+not an accident and not an “occurrence.” Id.
+ at 170-71, 872 
+P.2d at 234-35. 
+AIG frames this case’s legal issue as whether Tri-S 
+supplanted Caraang’s foreseeable result standard.  AIG gives 
+several reasons why Tri-S did not replace Brooks, Blanco, 
+Caraang, and Hawaiian Holiday. 
+First, Tri-S did not intend to supplant Caraang, AIG says, 
+because it never mentions Caraang, Brooks, Blanco, or Hawaiian 
+Holiday. AIG notes that three former justices of this court 
+16  
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+joined Tri-S, but either wrote or joined combinations of 
+Caraang, Brooks, Blanco, and Hawaiian Holiday. The former 
+justices can’t have intended to silently overrule their own 
+prior decisions. 
+Second, AIG contends that Tri-S only interpreted the 
+“expected or intended” exclusion, not the definition of 
+“accident.” This view of Tri-S must be correct, AIG insists, 
+because Tri-S’ putative conclusion that accidents include recklessness clashes with the bedrock principle that insurance 
+only covers fortuitous accidents. The plain meaning of 
+“accident” – something unforeseen that occurs by chance – is 
+inconsistent with recklessness. 
+AIG also points to the drafting history of the standard 
+policy. Before 1986, when the “occurrence” definition included 
+the “expected or intended” language, courts were split on the 
+meaning of “occurrence.” Some courts held that the word 
+“accident” and the expected or intended language meant the same thing: an occurrence must be an accident neither expected nor 
+intended from the insured’s standpoint. 3 New Appleman
+Insurance Law Practice Guide § 30.07[4]. Other courts 
+disagreed, holding that “accident” means accidental in nature, 
+and the expected or intended language confirms that those 
+injuries are not accidental. Id.
+17  
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+The 1986 revision moving “expected or intended” to a 
+separate exclusion was meant to clarify the issue, AIG says. 
+Splitting the language made “accident” stand alone. Thus, AIG 
+argues, “accident” should be interpreted independently, without 
+considering the insured’s subjective expectation or intent to 
+injure. 
+AIG says Caraang establishes a two-step test. First, we 
+see if the insured acted with the intent to perform the act – like firing a gun. If the complaint alleges unintentional 
+conduct – like a rifle’s inadvertent discharge, then there has 
+been an occurrence. Tri-S is an unintentional conduct case, AIG 
+says. 
+If the conduct was intentional, AIG argues we proceed to 
+step two. We examine if the resulting injuries were reasonably foreseeable. If so, then no occurrence, and no need to address 
+any exclusions. Thus, AIG disagrees that the meaning of 
+“occurrence” and the meaning of the expected or intended exclusion follow the same analysis. Rather, they are separate 
+analyses that happen at difference stages. 
+On the pollution exclusion, AIG disputes Aloha’s contention 
+that the exclusion is irrelevant because two 1980s policies lack 
+it. AIG’s policies only cover damage “which occurs during the 
+policy period.” The District Court concluded that coverage 
+under the 1980s policies was “apparently not possible,” 
+18  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+signaling that it will dismiss Aloha’s claims under those 
+policies. AIG notes that Aloha presented this argument to the 
+District Court, which certified the question anyway. AIG 
+contends the pollution exclusion issue is needed to determine 
+AIG’s duty to defend under later policies, particularly the late 
+2000s policies. 
+Substantively, AIG argues that a layperson, Hawaiʻ i law, and 
+the federal Clean Air Act all consider carbon dioxide a 
+pollutant. AIG parses the plain meaning of the words in the 
+pollution exclusion, arguing that greenhouse gases are 
+“gaseous,” “thermal” “irritants” and “contaminants.”  The GHGs 
+that result from burning gasoline are “smoke,” “vapor,” and “chemicals” under the exclusion. Carbon dioxide is an 
+“irritant” and “contaminant” because it is causing planet-
+altering climate change. 
+Hawaiʻi’s Air Pollution Control law, Hawaiʻ i Revised 
+Statutes (HRS) §§ 342B-71 (2022), 342B-72 (2022), 342B-73 
+(2022), and Hawaiʻ i Administrative Rule (HAR) § 11-60.1-1 (2014) 
+treat GHGs as pollutants. Twenty years ago, the District of Hawaiʻi relied on Hawaiʻ i pollution statutes to hold that 
+concrete dust is a pollutant under an identical pollution 
+exclusion. See Allen v. Scottsdale Ins. Co., 307 F. Supp. 2d 
+1170, 1178 (D. Haw. 2004). 
+19  
+   
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Similarly, AIG says, federal law (42 United States Code 
+§ 7602(g)) and federal caselaw (Massachusetts v. E.P.A., 549 
+U.S. 497 (2007)), define GHGs as pollutants. International law, 
+including the 1992 United Nations Framework Convention on 
+Climate Change, also considers GHGs pollutants. And, AIG says, 
+it was widely understood long before AIG issued its policies 
+that carbon dioxide causes global warming. 
+AIG disputes Aloha’s distinction between climate change and 
+“traditional environmental pollution.” 
+It claims that there’s 
+no basis for that distinction in the policy language. Climate 
+change has similar effects to traditional environmental 
+pollution, making Aloha’s distinction meaningless. Plus, Aloha 
+cannot deny that GHGs are pollutants, because in Sunoco it 
+claimed that the Clean Air Act regulates GHGs and thus preempts 
+Honolulu’s suit. See Sunoco
+, 153 Hawaiʻi at 339, 537 P.3d at 
+1186. 
+Last, AIG responds to Aloha’s argument that the exclusion 
+does not bar coverage for products liability. 
+AIG argues that 
+Aloha’s misrepresentations, not its sale of gasoline, are on 
+trial. 
+III. DISCUSSION 
+We answer the first question Yes.  An “occurrence” includes 
+recklessness. 
+20  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+The District Court’s certified question asks us to 
+reconcile Tri-S and Caraang. We clarify Caraang’s description 
+of a “reasonably foreseeable” harm. Caraang’s “reasonably 
+foreseeable” language referred to an insured’s intent, not expectation. Thus, there is no conflict between our cases. 
+Tri-S’ definition of “expected” controls. The standard 
+insurance policy’s drafting history, the plain meaning of 
+“accident,” and the principle of fortuity each support this outcome. 
+We answer the second question Yes. Aloha’s greenhouse gas 
+emissions fit within the pollution exclusion. 
+Courts interpret the pollution exclusion differently. 
+There are two common divisions: (1) whether the exclusion’s 
+language should be read literally or only applied to 
+“traditional” environmental pollution and (2) whether the 
+exclusion is ambiguous. These divisions do not render the 
+exclusion ambiguous in this case. Ambiguity requires two plausible readings, but we conclude that here GHGs are 
+pollutants under any plausible reading. 
+Emitting GHGs is traditional environmental pollution. And, 
+GHGs meet the exclusion’s literal definition of a pollutant; 
+they are “gaseous” “contaminants” that are “released” causing 
+“property damage.” Thus, there is no relevant legal uncertainty 
+21  
+  
+  
+  
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+here. And, Aloha could not reasonably expect coverage for the 
+counties’ lawsuits, because GHGs are so clearly pollutants. 
+A. Coverage for “Accidents” Includes Reckless Conduct 
+The District Court asks whether recklessness can be an 
+“accident” and thus a covered “occurrence.” The court 
+identifies a conflict between our cases: “if Tri-S says 
+recklessness can be an ‘accident,’ and if Caraang’s definition 
+of ‘accident’ excludes risks of harms reasonably foreseeable 
+from the perspective of the insured - i.e., recklessness - then 
+there is a conflict.” 
+Thus, the District Court wonders, if an insured is aware of 
+the risk of harm and acts anyway, is that an “accident”? 
+Yes. Awareness of risk differs from awareness of certain 
+harm. Insurance covers risks. Per Tri-S, we hold that covered “accidents” differ from non-covered expected or intended 
+injuries when the harm was intended or practically certain. 
+First, we briefly recap the duty to defend in Hawaiʻi law. 
+1. The Duty to Defend in Hawai
+ʻi Law 
+An insurance company owes two duties under its policy: the 
+duty to defend its insured from lawsuits and the duty to 
+indemnify its insured from liability. The duty to defend is 
+broader than the duty to indemnify. St. Paul
+, 153 Hawaiʻi at 
+384, 538 P.3d at 1052. If there’s a possibility that an 
+incident is covered under a policy – even a remote possibility – 
+22  
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+the insurer owes a defense. Id.  at 383, 538 P.3d at 1051. This 
+is Hawaiʻi’s “stout” duty to defend.  
+Id.
+The duty to defend includes “mixed” actions where some 
+claims are covered and others are not. Id. at 384, 538 P.3d at 
+1052. If one allegation in the complaint is potentially 
+covered, the insurer must defend the whole lawsuit. Id.
+This court interprets two documents to decide the scope of 
+the duty to defend: the insurance policy and the underlying 
+complaint. See Hawaiian Holiday
+, 76 Hawaiʻi at 169, 872 P.2d at 
+233. 
+Insurance policies are contracts and are interpreted using 
+the general rules of contract construction. St. Paul
+, 153 
+Hawaiʻi at 383, 538 P.3d at 1051.  The possibility of coverage 
+depends on the policy’s words. Id.
+But insurance policies are particularly one-sided 
+contracts. 
+Power dynamics shape this court’s interpretation. 
+Insurance policies are considered contracts of adhesion. Dairy
+Rd. Partners v. Island Ins. Co., Ltd.
+, 92 Hawaiʻi 398, 411-12, 
+992 P.2d 93, 106-07 (2000). They often (like here) use 
+insurance industry standard forms. Id.Thus, we construe any 
+ambiguity in the policy for the policyholder and against the 
+insurer. St. Paul
+, 153 Hawaiʻi at 383, 538 P.3d at 1051. We 
+read the contract to the policyholder’s advantage. Id.
+23  
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+The possibility of coverage also depends on the underlying 
+complaint. Hawaiian Holiday
+, 76 Hawaiʻi at 169, 872 P.2d at 233.  
+We look at both the facts and the causes of action alleged in 
+the complaint. See id.
+ at 170–71, 872 P.2d at 234–35 (examining 
+both); Allstate Ins. Co. v. Pruett
+, 118 Hawaiʻi 174, 188, 186 
+P.3d 609, 623 (2008) (same). But, legal allegations alone cannot create a possibility of coverage when the alleged facts 
+exclude coverage. 
+Dairy Rd. Partners
+, 92 Hawaiʻi at 417, 992 
+P.2d at 112. We apply the complaint’s allegations to the 
+contract’s language to decide if there is a possibility of 
+coverage. 
+2. Tri-S
+, not Caraang, Controls our Approach to an 
+“Expected” Injury 
+The District Court frames the issue as whether reckless 
+conduct can be an “accident” and thus a covered “occurrence.” Caraang holds that if injuries are the “expected or reasonably 
+foreseeable result of the insured’s own intentional acts or 
+omissions,” they are not accidental. 74 Haw. at 636, 851 P.2d 
+at 329. A reckless insured knows that its conduct carries a risk of injury but acts anyway. Recklessness, Black’s Law 
+Dictionary (11th ed. 2019). So under Caraang, a reckless insured acts foreseeably and is not covered, the District Court 
+reasons. 
+24  
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+By contrast, Tri-S plainly states that recklessness “does 
+not involve intent or expectation of injury and is thus a 
+covered occurrence under the policy.” Tri-S
+, 110 Hawaiʻi at 494, 
+135 P.3d at 103. An accident can include “harm that the insured 
+should have anticipated.” Id.
+ at 494 n.8, 135 P.3d at 103 n.8 
+(cleaned up). Hence, the District Court sees a conflict. 
+We see less conflict than the District Court. Caraang’s 
+“reasonably foreseeable” language referred to intent, not expectation. Caraang and Tri-S both ruled that an “expected” 
+injury is not an “accident.” Caraang didn’t define an 
+“expected” result, but Tri-S did. So, Tri-S’ definition 
+controls. 
+Tri-S defined an “expected” injury as one “practically 
+certain” to occur. Id. When an insured does not act with 
+harmful intent, an “accident” hinges on the certainty of the 
+risk. A policyholder’s awareness of a possible or probable risk 
+can be an “accident.” When the risk crosses the line into 
+“practical certainty,” it is no longer an “accident.” 
+We clarify Caraang. When Caraang said that the injury 
+cannot be “reasonably foreseeable,” it referred to cases where the insured acted with an intent to harm others. Our law infers 
+from malicious intent or from especially dangerous activity the 
+intent to cause the harm that actually happened. Tri-S
+, 110 
+Hawaiʻi at 494 n.8, 135 P.3d at 103 n.8; 3 
+New Appleman on 
+25  
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Insurance Law Library Edition, §§ 18.01[6][c] (2023), 
+18.03[2][f] (2016). Thus, from an insured’s perspective, the 
+resulting harm was “reasonably foreseeable.” Caraang
+essentially ruled that an “accident” is not an expected result or the result of an insured’s intentionally harmful conduct. 
+Tri-S defines when a result is intended or expected. Tri-S
+, 110 
+Hawaiʻi at 494 n.8, 135 P.3d at 103 n.8.   
+A review of insurance policy history, our cases, the plain 
+meaning of “accident,” and the principle of fortuity each support this position. 
+a. Insurance History 
+The meaning of an “occurrence” in standard insurance 
+policies is historically tied to the “expected or intended” 
+exclusion that 
+Tri-S interpreted. Before 1986, the standard 
+policy defined “occurrence” as “an accident, including continuous or repeated exposure to conditions, which results in 
+bodily injury or property damage neither expected nor intended 
+from the standpoint of the insured.”  3 New Appleman on 
+Insurance Law Library Edition § 18.03[2][b] (2023) (emphasis added). In that era, some courts treated the expected or 
+intended language like an exclusion. Christopher C. French, 
+Revisiting Construction Defects As “Occurrences” Under CGL 
+Insurance Policies, 19 U. Pa. J. Bus. L. 101, 106 (2016). In 
+1986, the Insurance Services Office moved the “expected or 
+26  
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+intended” language from the definition of “occurrence” to a 
+standalone exclusion, in line with that interpretation. Id. 
+The “expected or intended” language, now bumped to its own 
+exclusion, continues to inform our approach to an “accident.” 
+We construe insurance policies according to their entire terms. 
+Dairy Rd. Partners
+, 92 Hawaiʻi at 411, 992 P.2d at 106. 
+Functionally, “accident” and the “expected or intended” language 
+continue to define the scope of coverage. Although the analysis 
+now occurs in separate steps – first, determine an “accident,” 
+then consider the exclusion – the standard policy continues to 
+cover “accidents” that are not “expected or intended.” Thus, we 
+believe that 
+Tri-S’ interpretation of “expected” and “intended” 
+is key to our analysis of an “accident.” 
+b. Our Precedents 
+The District Court believes this court’s precedents clash. 
+We do not believe that either precedent controls over the other or that such a decision must be made. We decline to hold that 
+Tri-S silently overruled earlier cases that it did not mention. 
+We also reject the idea that Brooks, Blanco, Caraang, and Hawaiian Holiday control over Tri-S’ clear-cut holding. Rather, 
+there is no conflict or inconsistency between Tri-S and Caraang, 
+because Caraang’s “reasonably foreseeable” language refers to an 
+insured’s intent, not an insured’s expectation. 
+27  
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+First, we examine Tri-S. A Tri-S employee drilled too 
+close to power lines. He was electrocuted. Tri-S, 110 Hawaiʻ i 
+at 493, 135 P.3d at 102. His estate alleged that Tri-S 
+“wilfully and wantonly” - recklessly - failed to follow 
+workplace safety standards, causing the employee’s wrongful 
+death. Id. at 478, 135 P.3d at 87. Tri-S asserted that its 
+insurer owed it a defense. Id. at 477, 135 P.3d at 86. 
+This court concluded that the estate might prevail on a 
+“‘wilful and wanton’ misconduct claim based upon evidence only of non-intentional misconduct.” Id. at 494, 135 P.3d at 103. 
+This court examined an Indiana Court of Appeals case, PSI Energy, Inc. v. Home Ins. Co., 801 N.E.2d 705 (Ind. Ct. App. 2004). Relying on that decision, this court fleshed out 
+definitions for both “expected” and “intended” as used in the 
+policy. 
+“Intentional” conduct encompasses the intent to cause 
+injury, though “not necessarily the precise injury or severity 
+of damage that in fact occurs.” Tri-S
+, 110 Hawaiʻi at 494 n.8, 
+135 P.3d at 103 n.8. Intentional conduct “is met either by 
+showing an actual intent to injure, or by showing the nature and 
+character of the act to be such that an intent to cause harm to 
+the other party must be inferred as a matter of law.” Id.In 
+this way, 
+Tri-S accounts for the violence and fraud of Brooks, 
+Blanco, Caraang, and Hawaiian Holiday type cases. 
+28  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Tri-S held that “expected” injury is “practically certain” 
+to occur from the insured’s subjective view. Id.Reckless 
+conduct – awareness of risk of harm - falls short of practical 
+certainty. Id.As applied to Tri-S, the employee’s death may 
+have been possible or probable, but the complaint did not allege it was practically certain. Id.So Tri-S received coverage. 
+Tri-S provides the tools to evaluate an “accident.” It 
+creates a framework to assess the insured’s culpability. It draws a line between fault and mistake. If the insured intended 
+to cause the harm that happened, a different harm, or acted so 
+dangerously that the law must infer intent to harm, then the 
+insured alone bears responsibility for its conduct. Likewise, 
+if the insured acted with “practical certainty” of harm it is 
+solely responsible. 
+But insurance coverage does not require that the insured be 
+blameless. Accidents that were preventable with better 
+foresight still deserve coverage. Preventability is inherent in ordinary negligence. Defendants are not liable if the harm was 
+unforeseeable. Pulawa v. GTE Hawaiian Tel
+, 112 Hawaiʻi 3, 12, 
+143 P.3d 1205, 1214 (2006). 
+Both 
+Tri-S and Caraang hold there is no insurance coverage 
+for “expected” injuries. Tri-S defines “expected.” It draws a 
+line based on the likelihood of the harm. “Expected” means 
+29  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+practically certain, not somewhat likely. Tri-S , 110 Hawaiʻi at 
+494 n.8, 135 P.3d at 103 n.8. On this, the cases do not differ. 
+Caraang
+ also holds that a “reasonably foreseeable” injury 
+is not an “accident.” 74 Haw. at 636, 851 P.2d at 329. Here, 
+we clarify Caraang. 
+That case involved one person, Ilmar Godinez, driving a car 
+while a second person fired a gun out the window, killing the 
+shooter’s ex-girlfriend’s new boyfriend. Caraang, 74 Haw. at 
+624-25, 851 P.2d at 324. This court held that from the driver’s 
+perspective, the shooting was an “accident” because “(1) from 
+Godinez’s perspective, the death was not the expected or 
+anticipated result of any intentional act or omission on his part; (2) Godinez, being unaware the shooting was taking place, 
+obviously made no decision to refrain from preventing Nelson’s 
+death or otherwise mitigating the harm; and (3) Godinez did 
+nothing to facilitate the shooting.” Id. at 636-37, 851 P.2d at 
+329. Point (1) addressed Godinez’s expectation. Points (2) and 
+(3) showed that Godinez had no harmful intent. Because Godinez 
+neither expected nor intended the shooting, it was an “accident” as to him. Id. But because the shooter fired intentionally, 
+his actions were not an “accident.” Id. at 643, 851 P.2d at 
+332. 
+Brooks and Blanco performed similar analyses. In Blanco, 
+where the insured fired a rifle toward a neighbor intending to 
+30  
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+frighten him, the insured’s intent precluded insurance coverage. 
+Blanco, 72 Haw. at 18, 804 P.2d at 881. In Brooks, a truck 
+driver did nothing while a passenger raped a woman in the back 
+of the truck. Brooks, 67 Haw. at 291, 686 P.2d at 27-28. 
+Though the driver claimed he didn’t intend to facilitate the rape, this court ruled that both the driver and the passenger 
+acted with harmful intent and an expectation that injury would 
+result. Id.
+In both cases, this court relied on the idea that an 
+insured’s intent to cause one harm precludes coverage if a different harm results. Thus, Caraang, describing those cases, 
+declared, “[t]he teaching of Blanco and Brooks, however, is 
+that, in order for the insurer to owe a duty to defend or 
+indemnify, the injury cannot be the expected or reasonably 
+foreseeable result of the insured’s own intentional acts or 
+omissions.” Caraang, 74 Haw. at 636, 851 P.2d at 329. Although 
+perhaps worded inartfully, Caraang was referencing the 
+reasonably foreseeable results of an insured’s harmful intent. 
+This court did not aspire to define an “expected” injury as 
+“reasonably foreseeable.” 
+Thus, there is no conflict between Tri-S and Caraang. 
+Caraang’s “reasonably foreseeable” language applies to the 
+intent prong, not the expectation prong of this court’s 
+31  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+analysis. Tri-S’ definition of an “expected” injury as 
+“practically certain” is not in tension with Caraang. 
+This approach best fits the logic of insurance coverage. 
+If we apply a “reasonably foreseeable” test to expected 
+injuries, we undermine a policyholder’s reasonable expectation 
+that an insurance policy covering “accidents” covers negligence. 
+See Guajardo v. AIG Hawaiʻi Ins. Co., Inc.
+, 118 Hawaiʻi 196, 206, 
+187 P.3d 580, 590 (2008) (protecting lay policyholder’s 
+reasonable expectations). Overreading “reasonably foreseeable” 
+risks creating a paradox where negligence is not insured. AES
+Corp. v. Steadfast Ins. Co.
+, 725 S.E.2d 532, 538 (Va. 2012) 
+(Mims, J., concurring). Negligence requires foreseeability. A plaintiff has a viable negligence claim only if they allege the 
+harm was foreseeable. Pulawa
+, 112 Hawaiʻi at 12, 143 P.3d at 
+1214. But if “accident” means an event where the harm was 
+unforeseeable, then negligence and an “accident” become mutually 
+exclusive. AES Corp.
+, 725 S.E.2d at 538 (Mims, J., concurring). 
+Applying this reading, an event can be foreseeable and therefore negligent, or unforeseeable and therefore an “accident.” But 
+negligence can never be an “accident.” Id.So negligence is 
+uninsured. 
+If “reasonably foreseeable” just means foreseeable, Tri-S 
+must come out differently. That case’s plaintiff alleged a 
+failure to follow workplace safety standards resulting in 
+32  
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+wrongful death. Tri-S , 110 Hawaiʻi at 478–79, 135 P.3d at 87–88. 
+If we apply 
+Caraang’s “reasonably foreseeable” language broadly 
+to expected injuries, all kinds of commonplace misfortunes – 
+including workplace accidents – would not be “accidents,” thus 
+negating coverage. 
+Also, if we ruled that recklessness is not an “accident,” 
+we risk inviting duty-to-defend litigation due to the possibly 
+fine-grained distinction between a policyholder’s recklessness 
+and negligence. 
+Thus, Tri-S provides a logical and reasoned approach. 
+“Accidents” are not intended or practically certain from the 
+insured’s standpoint. This rule aligns with the risks that liability insurance is designed to cover. It also comports with 
+the plain meaning of “accident,” the reasonable expectations of 
+policyholders, and the principle of fortuity. 
+3. The Plain Meaning of “Accident” 
+AIG’s policies cover an “occurrence.” The policies define 
+an “occurrence” as “an accident, including continuous or repeated exposure to substantially the same general harmful conditions.” The policies don’t define an “accident.” 
+“Accident” is the relevant term for our plain meaning 
+analysis. An “occurrence” means an “accident.”  3 New Appleman 
+Insurance Law Practice Guide § 30.07[2] (2024 ed.) (“under this 
+definition, ‘occurrence’ and ‘accident’ are synonymous”); see 
+33  
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+also Taylor Morrison Servs., Inc. v. HDI-Gerling Am. Ins. Co., 
+746 S.E.2d 587, 594 (Ga. 2013) (interpreting “occurrence” by 
+looking to the “usual and common meaning of ‘accident’”); AES 
+Corp., 725 S.E.2d at 536 (treating “occurrence” and “accident” 
+as synonymous). 
+This court interprets insurance policies using general 
+rules of contract construction. Dairy Rd. Partners, 92 Hawaiʻ i 
+at 411-12, 992 P.2d at 106–07. We interpret an undefined contractual term “according to its plain, ordinary, and accepted 
+sense in common speech consistent with the reasonable 
+expectations of a layperson.” Hart v. Ticor Title Ins. Co.
+, 126 
+Hawaiʻi 448, 457, 272 P.3d 1215, 1224 (2012). 
+“Accident,” as ordinarily used, encompasses several shades 
+of meaning. 
+As the following dictionary definitions show, 
+“accident” can mean unforeseen, unintended, by chance, with negative consequences, or a combination of those concepts. 
+An “accident” can mean “an unforeseen and unplanned event 
+or circumstance.” Accident, Merriam-Webster Dictionary 
+https://www.merriam-webster.com/dictionary/accident [https://perma.cc/A5C7-XDTJ]. Or, “lack of intention or 
+necessity: CHANCE,” as in “They met by accident rather than by 
+design.” Id.Or, “an unfortunate event resulting especially 
+from carelessness or ignorance.” Id.This last definition 
+encompasses the results of recklessness. 
+34  
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Black’s Law Dictionary has similar definitions. An 
+“accident” is an “unintended and unforeseen injurious 
+occurrence; something that does not occur in the usual course of 
+events or that could not be reasonably anticipated; any unwanted 
+or harmful event occurring suddenly, as a collision, spill, 
+fall, or the like, irrespective of cause or blame.” Accident, 
+Black’s Law Dictionary (11th ed. 2019) (emphasis added). This definition also includes unfortunate results of risky behaviors. 
+A reasonable lay insured using ordinary language may read 
+coverage for an “accident” to include unlikely, freak chance events, sudden mishaps, unexpected disasters, and unforeseen 
+harms resulting from carelessness. This list of misfortunes 
+includes the results of reckless behavior. “[U]nder a common 
+understanding of ‘accident,’ it would seem that even if one 
+engages in reckless conduct, a resulting injury can still be, in 
+the common parlance of the word, ‘accidental.’” Dostal v.
+Strand, 984 N.W.2d 382, 393 (Wis. 2023). There’s a difference 
+between awareness of the risk of harm and awareness of certain 
+harm. That difference defines an “accident.” 
+This understanding is really just common sense. Imagine an 
+on-duty taxi driver runs a red light while texting and hits a 
+pedestrian. The driver is reckless. See Recklessness, Black’s 
+Law Dictionary (11th ed. 2019) (recklessness is when “the actor 
+35  
+  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+does not desire harmful consequence but nonetheless foresees the 
+possibility and consciously takes the risk”). 
+Is this an “accident” under the driver’s standard 
+commercial liability policy? In ordinary language, the 
+collision would be a “traffic accident.” So, it should be an 
+“accident” under the driver’s policy. 
+4. The Principle of Fortuity 
+AIG invokes the principle of fortuity, the idea that 
+insurance protects against risks, not certainties. This 
+principle matters for the functioning of insurance in several 
+ways. Fortuity allows insurers to spread the risk of unplanned 
+incidents over a pool of customers at calculated rates. It also 
+prevents policyholders from committing intentional torts but 
+being immune to consequences because they purchased insurance. 
+AIG argues that the counties’ complaints allege intentional 
+conduct that is not fortuitous and thus not insurable. It 
+contends that allowing an “accident” to include recklessness is inconsistent with fortuity. 
+To the contrary, including recklessness in an “accident” 
+honors fortuity. The reckless insured, by definition, takes 
+risk. A reckless insured perceives the possibility of harm. 
+For the purposes of insurance, recklessness is more like 
+negligence than intent. To quote the amicus brief that the 
+Complex Insurance Claims Litigation Association filed in this 
+36  
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+case, “in a garden variety negligence case, the plaintiff’s 
+complaint alleges that the defendant unreasonably disregarded 
+the risk that his conduct would cause the complained-of injury.” 
+Replace the word “unreasonably” with “consciously” and amici 
+have described recklessness. 
+The principle of fortuity is more about the concept of 
+chance than the insured’s culpability. After all, a negligent 
+insured is also culpable. Insurance exists to cover incidents the insured didn’t see coming or otherwise think were 
+practically certain to occur. Excluding recklessness unduly 
+pinches fortuity. The appropriate dividing line is the 
+certainty of the harm. Tri-S preserves insurance coverage for 
+risks and draws the appropriate line. 
+5.Because We Follow Tri-S, We Do Not Follow AES Corp.
+Our opinion departs from the only other state supreme court 
+case deciding if a climate damage lawsuit presents an 
+“occurrence,” AES Corp. v. Steadfast Ins. Co.
+, 725 S.E.2d 532 
+(Va. 2012). Our decision differs because Virginia law and 
+Hawaiʻi law differ.   
+In 
+AES Corp., the Virginia Supreme Court held that an 
+insurer had no duty to defend against a lawsuit very similar to 
+the one here. AES’ actions were not an “accident,” the court 
+37  
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+concluded, because climate change was the “natural or probable 
+consequence” of AES’ emissions. Id. at 537-38. 
+In AES Corp., the Native Village and City of Kivalina, a 
+community in Alaska, sued AES Corporation, an energy company. 
+Id. at 533. Kivalina accused AES of “damaging the village by 
+causing global warming through emission of greenhouse gases.” 
+Id. Like the counties’ lawsuits, Kivalina’s suit alleged that 
+AES “knew or should have known of the impacts of [its] emissions” yet “continued [its] substantial contributions to 
+global warming.” Id.
+AES’ commercial liability insurer, Steadfast Insurance, 
+defended AES against the lawsuit under a reservation of rights. 
+Id. at 533. Steadfast then filed a declaratory judgment action 
+against AES. Steadfast said it owed no defense because there 
+was no “property damage” caused by an “occurrence.” Id.Like 
+AIG, Steadfast’s policies defined an “occurrence” as “an accident, including continuous or repeated exposure to substantially the same general harmful condition.” Id. at 534. 
+Also like AIG, Steadfast argued that (1) the alleged damage arose outside the policy periods, and (2) the pollution 
+exclusion barred the claims. Id. at 533. 
+The Virginia court found no “accident,” and thus no duty to 
+defend. Id. at 538. Under Virginia law, an “accident” is 
+“unexpected from the viewpoint of the insured.” Id. at 536. If 
+38  
+  
+   
+         
+           
+      
+        
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+an injury was the “natural or probable consequence” of the 
+insured’s voluntary act, it was not an “accident.” Id.
+Objectively foreseeable natural or probable consequences do not constitute an “accident,” even if the insured acted negligently. 
+Id. at 538. 
+Because Virginia law and Hawaiʻi law differ, we decline to 
+follow 
+AES Corp. AES Corp.’s “natural or probable consequences” 
+standard is inconsistent with Tri-S’ practically certain test. AES Corp.’s rule means that if the damage was foreseeable, there 
+is no “accident.” This is so even if the insured was reckless – 
+meaning they only perceived a risk of damage. 
+For the reasons discussed above, we follow Tri-S’ 
+“practically certain” standard instead. This standard covers the results of negligent or reckless conduct and excludes 
+intentional or practically certain harm. Thus, AES Corp., 
+although factually similar, is legally inapposite to our case. 
+B. The Pollution Exclusion Encompasses GHGs 
+The pollution exclusion’s exact language varies between 
+AIG’s policies, but the differences are immaterial for our 
+analysis. Here is the “total pollution exclusion” from AIG’s 
+2004-2010 policies, which bars insurance coverage for: 
+f. Pollution 
+(1) “Bodily injury” or “property damage” which would not 
+have occurred in whole or part but for the actual, alleged, 
+or threatened discharge, dispersal, seepage, migration, 
+release or escape of “pollutants” at any time. 
+39  
+   
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+“Pollutants” are defined as “any solid, liquid, gaseous or 
+thermal irritant or contaminant, including smoke, vapor, soot, 
+fumes, acids, alkalis, chemicals and waste.” 
+As a threshold matter, we address Aloha’s argument that we 
+should not interpret the pollution exclusion. The 1986 and 1987 
+AIG policies lack a relevant pollution exclusion. So, Aloha 
+says, if the counties’ lawsuits allege an “occurrence” under 
+those policies, AIG must defend. The exclusion is immaterial. 
+We address the exclusion and answer Question 2. Whether 
+Aloha is ultimately entitled to a defense under the 1986 and 1987 policies is a question for the District Court. To award 
+coverage under those policies, the District Court must find that 
+the counties’ complaint alleges property damage during the 
+policies’ coverage period. In certifying the question to us, 
+the District Court wrote, “the underlying lawsuits sparsely 
+allege damages occurring before 2000.”  Thus, “coverage under 
+those two policies is apparently not possible, making their lack of a pollution exclusion immaterial.” We leave it to the 
+District Court to find whether these “sparse” damage allegations 
+create a possibility of coverage, something it so far said is 
+“apparently” not possible. 
+Nationally, interpretation of the pollution exclusion is 
+disputed – some courts read the exclusion’s language literally, 
+others confine the exclusion to only “traditional environmental 
+40  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+pollution.” Apana v. TIG Ins. Co., 574 F.3d 679, 682-83 (9th 
+Cir. 2009) (collecting cases). 
+We believe the “traditional environmental pollution” 
+reading is the superior approach. We hold that what makes a 
+substance a “contaminant” – and thus a “pollutant” - is whether 
+it causes damage due to its presence in the environment. 
+Aloha contends that national uncertainty about the 
+exclusion’s meaning entitles it to coverage under this court’s legal uncertainty rule. See Sentinel Ins. Co., Ltd. v. First
+Ins. Co. of Hawaiʻi, Ltd.
+, 76 Hawaiʻi 277, 290, 875 P.2d 894, 907 
+(1994). True, the pollution exclusion is nationally disputed and this court has yet to weigh in. 
+Apana
+, 574 F.3d at 682-83. 
+But the dispute is not coverage determinative. Under a 
+traditional pollution or plain language reading, emitting the 
+greenhouse gases that cause climate change is pollution. By 
+plain language, GHGs are “gaseous,” “contaminants” that are 
+“released” causing “property damage.” Thus, the exclusion is 
+not ambiguous in this case. 
+Aloha also argues its reasonable expectation of coverage. 
+Aloha reasonably expects products liability coverage. But the pollution exclusion limits that expectation. Aloha reasonably 
+expects coverage for product hazards that are not pollution. 
+Aloha’s professed expectation of coverage cannot reasonably 
+encompass the allegations in the counties’ lawsuits. 
+41  
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+1. Greenhouse Gases are “Traditional” Environmental 
+Pollution 
+We are convinced that the pollution exclusion is properly 
+read to encompass only “traditional environmental pollution.” 
+Four reasons convince us. 
+First, the exclusion’s drafting history reveals its 
+purpose: to eliminate insurer liability for classic 
+environmental contamination. After the 1970 Clean Air Act 
+amendments and many notorious environmental disasters, the 
+insurance industry worried about pollution-related claims. Am. 
+States Ins. Co. v. Koloms, 687 N.E.2d 72, 80 (Ill. 1997). In 1970, the first pollution exclusion entered the standard CGL 
+policy. Id.
+That first exclusion, the “qualified” exclusion, prompted 
+significant litigation, with courts across the country reaching 
+contradictory results. Id. at 80-81. From an insurer’s view, 
+too many courts were finding coverage. MacKinnon v. Truck Ins.
+Exch., 73 P.3d 1205, 1210 (Cal. 2003). Meanwhile, in 1980, Congress enacted the Comprehensive Environmental Response, 
+Compensation, and Liability Act, expanding liability for 
+hazardous substances. Id. at 1211. As a result, in 1985, the 
+insurance industry revised the language, producing the “absolute” pollution exclusion. Id. at 1210. Later, insurers 
+developed the “total” exclusion, the one included in the 2004-
+42  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+2010 AIG policies. 9 Jordan R. Plitt et al., Couch on Insurance
+§ 127:13 (3d ed. June 2024). The revised exclusions deleted 
+language in the “qualified” exclusion that courts had used to 
+convey coverage. Koloms, 687 N.E.2d at 81. 
+Based on this history, the “predominate motivation in 
+drafting an exclusion for pollution-related injuries was the 
+avoidance of the enormous expense and exposure resulting from 
+the explosion of environmental litigation.” Id. (cleaned up). 
+The exclusion serves to avoid “the yawning extent of potential 
+liability arising from the gradual or repeated discharge of 
+hazardous substances into the environment.” Id. (cleaned up). 
+We find that purpose pertinent to the exclusion’s interpretation. 
+Second, we agree with those courts who reason that the 
+exclusion cannot be read literally, or else it sweeps too 
+broadly. In a widely cited analysis, the Seventh Circuit 
+stressed the importance of reading the pollution exclusion’s words in context. The court observed that the “terms ‘irritant’ 
+and ‘contaminant,’ when viewed in isolation, are virtually 
+boundless, for there is virtually no substance or chemical in 
+existence that would not irritate or damage some person or 
+property.” Pipefitters Welfare Educ. Fund v. Westchester Fire
+Ins. Co., 976 F.2d 1037, 1043 (7th Cir. 1992) (cleaned up). The exclusion requires some limiting principle to avoid absurdity. 
+43  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Id. It cannot be read literally. Am. States Ins. Co. v. Kiger, 
+662 N.E.2d 945, 948 (Ind. 1996). 
+The Seventh Circuit distinguished between substances that 
+can irritate or contaminate, but cause harm in some other way, 
+and substances that cause harm due to their irritating or 
+contaminating nature. For instance, “reading the [exclusion] 
+broadly would bar coverage for bodily injuries suffered by one 
+who slips and falls on the spilled contents of a bottle of Drano,” even though the spill is not commonly understood as 
+pollution. Pipefitters, 976 F.2d at 1043. Reading the 
+exclusion literally cuts an “arbitrary swath” through insurance coverage. MacKinnon, 73 P.3d at 1217. 
+To avoid these problems, courts take a “common sense 
+approach.” Pipefitters, 976 F.2d at 1043. A plain language 
+analysis doesn’t mean extreme literalism. Our inquiry depends “on the nature of the injury alleged in the underlying 
+complaints, not exclusively on the nature of the substance released.” 14 Jordan R. Plitt et al., Couch on Insurance
+§ 201:42 (3d ed. Nov. 2023). We believe the “nature of the 
+injury” covered by the pollution exclusion is classic 
+environmental pollution. 
+Third, we focus on the exclusion’s two crucial nouns, 
+“irritant” and “contaminant.” Irritant means “A source of 
+irritation: [for example] tobacco smoke, a common eye irritant.” 
+44  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Irritant, American Heritage Dictionary 
+https://www.ahdictionary.com/word/search.html?q=irritant 
+[https://perma.cc/F3CW-N3ES]. We agree with Aloha that 
+“irritant” is relevant to a bodily injury case, but is not 
+relevant to the counties’ property damage claim. We focus on 
+“contaminant.” 
+For our purpose, the pollution exclusion’s textual hinge is 
+the word “contaminant.” A contaminant is a substance that contaminates(!) Contaminant, Merriam-Webster Dictionary 
+https://www.merriam-webster.com/dictionary/contaminant [https://perma.cc/Z7B9-5GK4]. Contaminate means “to make 
+inferior or impure by admixture,” or “to make unfit for use by 
+the introduction of unwholesome or undesirable elements.” 
+Contaminate, Merriam-Webster Dictionary https://www.merriam-
+webster.com/dictionary/contaminate [https://perma.cc/CW4N-57AA]. 
+In literal terms, a substance may contaminate on a very 
+small scale. An unpleasant smell may contaminate a room. But that is not how “contaminant” is ordinarily used. Typically, a 
+substance “contaminates” when its presence damages something – 
+like soil, water, or air – making it impure or unclean. A 
+substance is a “contaminant,” and therefore a “pollutant,” when 
+it contaminates the environment. 
+A policyholder’s reasonable expectations also come into 
+play. Hawaiʻi law protects a policyholder’s objectively 
+45  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+reasonable expectations. Del Monte Fresh Produce (Hawaii), Inc.
+v. Fireman’s Fund Ins. Co., 117 Hawaiʻ i 357, 368, 183 P.3d 734, 
+745 (2007). 
+A policyholder expects an exclusion titled “f. 
+Pollution” to apply to pollution, as that word is ordinarily 
+understood. Further, the total exclusion’s section (1) covers 
+injury and damage caused by pollutants, while section (2) 
+discusses costs to comply with environmental laws.   Section (2) 
+largely refers to classic hazardous substance clean-up scenarios.  An objectively reasonable policyholder expects the 
+exclusion to cover classic environmental pollution. Gainsco
+Ins. Co. v. Amoco Prod. Co., 53 P.3d 1051, 1066 (Wyo. 2002). 
+This court has long held that insurance policies “must be 
+construed liberally in favor of the insured and any ambiguities 
+must be resolved against the insurer.” St. Paul
+, 153 Hawaiʻi at 
+383, 538 P.3d at 1051. As part of this principle, basic 
+insuring clauses should be “interpreted broadly so as to afford 
+the greatest possible protection to the insured, whereas 
+exclusionary clauses are interpreted narrowly against the 
+insurer.” MacKinnon
+, 73 P.3d at 1213 (cleaned up). This rule 
+protects a policyholder’s expectations; it insists that exceptions to coverage be spelled out clearly. Id.Here, a 
+traditional-pollution-only reading better protects a policyholder’s expectation. 
+46  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+For these reasons, we join those courts limiting the 
+pollution exclusion to traditional environmental pollution. See
+Nav-Its, Inc. v. Selective Ins. Co. of Am., 869 A.2d 929, 938 
+(N.J. 2005) (collecting cases). Traditional environmental 
+pollution has three main features: (1) the release of a damaging 
+substance, (2) into the environment, (3) that causes harm 
+because of its presence in the environment. These attributes 
+align with what insurance industry drafters intended, what “contaminant” means, and what a policyholder expects. Also, 
+these features match the plain meaning of pollution. See
+Pollution, Black’s Law Dictionary (11th ed. 2019) (“The harmful 
+addition of a substance or thing into an environment.”). 
+Greenhouse gases, including carbon dioxide, produce 
+“traditional” environmental pollution.  Aloha’s gasoline 
+produces GHGs. These gases accumulate in the atmosphere and 
+trap heat. Because they are released into the atmosphere and 
+cause harm due to their presence in the atmosphere, GHGs are pollutants. 
+Hawaiʻi
+’s regulat
+ion of GHG emissions confirms that GHGs are 
+pollutants. Hawaiʻi’s Air Pollution Control law and 
+administrative regulations consider GHGs “air pollutants.”  HRS 
+§ 342B-1 (2022); HAR § 11-60.1-1. Hawaiʻi’s Public Utility 
+Commission must consider GHG emissions and reducing fossil fuel 
+use in its decisions. HRS § 269-6(b) (Supp. 2021). 
+47  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+This court respects climate science. We have held that the 
+Hawaiʻi Constitution’s right to a clean and healthful environment 
+includes the right to a stable climate system. Matter of Maui
+Elec. Co., Ltd., 150 Hawaiʻ i 528, 538 n.15, 506 P.3d 192, 202 
+n.15 (2022). We warned that “[w]ith each year, the impacts of 
+climate change amplify and the chances to mitigate dwindle.” 
+Matter of Hawaiʻ i Elec. Light Co., Inc., 152 Hawaiʻ i 352, 359, 
+526 P.3d 329, 336 (2023). 
+This court understands that GHGs 
+cause environmental damage because of their presence in the 
+atmosphere. 
+Hawaiʻi’s Legisla
+ture has expressed the urgent need to 
+reduce GHG emissions. Hawaiʻi aims to achieve net-zero GHG 
+emissions by 2045. HRS § 225P-5 (Supp. 2022). In 2021, Hawaiʻ i 
+declared a climate emergency. S.C.R. 44, S.D. 1, H.D. 1, 31st Leg., Reg. Sess. (2021). The Legislature declared that GHG 
+emissions pose an existential threat to humanity and the natural 
+world. 
+Id.
+Despite this, Aloha’s argues its gasoline does not produce 
+“traditional” pollution, because the gasoline is combusted in engines in a legal, ordinary, and intended way. 
+Aloha relies on 
+one sentence from the Maryland Supreme Court, summarizing the holding of other cases: “Some courts have held that products, 
+despite their toxic nature, are not ‘pollutants’ or 
+‘contaminants’ when used intentionally and legally.”  Sullins v.
+48  
+   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Allstate Ins. Co., 667 A.2d 617, 621 (Md. 1995). In Aloha’s 
+view, “traditional” environmental pollution essentially means 
+only hazardous wastes. 
+This argument misunderstands what makes a substance a 
+pollutant. The legality, ordinariness, and intent of a 
+product’s use is irrelevant. Because a “contaminant” makes the 
+atmosphere impure, the operative question is whether a substance 
+causes pollution to the environment. See Cont’l Cas. Co. v.
+Rapid-Am. Corp., 609 N.E.2d 506, 513 (N.Y. 1993). 
+Many products produce airborne pollution when used in their 
+intended way. Consider coal. Like gasoline, the ordinary, 
+legal, and intended purpose of coal is to burn it for energy. 
+Burning coal produces sulfur dioxide. U.S. E.P.A., What is Acid 
+Rain?, https://www.epa.gov/acidrain/what-acid-rain (May 7, 2024) 
+[https://perma.cc/W26K-ASD3]. Sulfur dioxide accumulates in the 
+atmosphere, reacts with other gases to form sulfuric acid, and 
+precipitates with water as acid rain. Id. To stop the problem of acid rain, federal law regulates sulfur emissions from coal. 
+U.S. E.P.A., Acid Rain Program, 
+https://www.epa.gov/acidrain/acid-rain-program (Jan. 24, 2024) 
+[https://perma.cc/7NPB-BQMF]. No one questions that sulfur 
+dioxide from coal is a pollutant. 
+Pollution doesn’t just refer to unintended spills of toxic 
+substances. Many products – pesticides, aerosols, non-reef-safe 
+49  
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+sunscreen, and fossil fuels – are inherently polluting when used 
+in their intended way. What makes a product a pollutant is that 
+it causes damage due to its presence in the environment. 
+The distinction between widespread pollution and limited-
+scale personal injury doesn’t help Aloha here. This is not a 
+personal injury case. Rather, reducing GHG emissions is the 
+most consequential environmental pollution issue our species has 
+faced. 
+The traditional pollution reading restricts “the 
+exclusion’s otherwise potentially limitless application to only those hazards traditionally associated with environmental 
+pollution.” Koloms, 687 N.E.2d at 79. Because greenhouse gases 
+contaminate the atmosphere, they are clearly one of those hazards. And, the alleged deceptive marketing about GHG that 
+forms the basis of the lawsuits falls within the scope of that 
+exclusion. 
+2. The Legal Uncertainty Rule Does Not Decide This Case 
+This court recognizes a “legal uncertainty” rule when 
+determining insurance coverage. Sentinel
+, 76 Hawaiʻi at 290, 875 
+P.2d at 907. When Hawaiʻ i courts have not answered a nationally-
+disputed legal question, there is, per se, a possibility of coverage, and therefore a duty to defend. 
+Id. 
+Sentinel
+’s logic implicitly requires one more step before 
+an insured triumphs by the legal uncertainty rule. The legal 
+50  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+uncertainty must be relevant to determining coverage. National 
+disagreements about unrelated matters cannot form a possibility 
+of coverage. For Sentinel’s rule to apply, the legal issue must 
+be nationally disputed and coverage-determinative. 
+Nationally, there are two schools of thought on how to 
+interpret the pollution exclusion. Apana, 574 F.3d at 682. The 
+first school reads the words literally. So, for instance, there is no coverage when a painter inhales paint fumes in a poorly-ventilated, indoor space. The fumes are “gaseous,” “irritants,” 
+that are “released,” causing “bodily injury,” so they trigger 
+the exclusion. See id. (collecting cases); see also, e.g., 
+Toledo v. Van Waters & Rogers, Inc., 92 F. Supp. 2d 44, 51 (D.R.I. 2000) (personal injury from fumes fell within pollution 
+exclusion, interpreted literally). 
+The second school views a literal reading as too broad. It 
+says the exclusion only applies to “traditional” environmental 
+pollution. The hypothetical injured painter’s lawsuit involves a personal injury that is not “traditional” pollution.  See
+Apana, 574 F.3d at 682-83 (collecting cases); see also, e.g., 
+Nautilus Ins. Co. v. Jabar, 188 F.3d 27, 30 (1st Cir. 1999) 
+(personal injury from fumes outside pollution exclusion). 
+Apana
+ establishes that the meaning of the pollution 
+exclusion is legally uncertain in Hawaiʻi. In 
+Apana, the Ninth 
+Circuit certified a question to this court on the exclusion’s 
+51  
+          
+       
+         
+           
+          
+          
+       
+   
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+meaning. 574 F.3d at 684. The Ninth Circuit described what it 
+called a “national debate” about the exclusion. Id. at 682. It 
+reviewed this court’s precedents and was uncertain how this court would rule. Id. at 683-84. The certified question asked 
+us: 
+Does a total pollution exclusion provision in a standard 
+commercial general liability insurance policy apply to 
+localized uses of toxic substances in the ordinary course 
+of business (such as when a plumber uses chemicals to open 
+a clogged drain and an employee working nearby inhales the 
+fumes and suffers injuries), or is it limited to situations 
+that a reasonable layperson would consider traditional 
+environmental pollution? 
+Id. at 684. 
+But this court never answered, because the case settled. 
+Apana v. TIG Ins. Co., No. 29942, 2010 WL 1434763, at *1 (Haw. 
+Apr. 7, 2010). 
+Since Apana, none of our cases have ruled on the pollution 
+exclusion. Until today, the exclusion’s meaning was legally uncertain. 
+Here, though, this uncertainty is not coverage-
+determinative. It is irrelevant to coverage. By both 
+traditional pollution and plain language readings, GHGs are 
+“pollutants.” 
+To demonstrate, we perform a plain language analysis. This 
+court interprets contract language according to its “plain, ordinary, and accepted sense in common speech unless it appears 
+52  
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+from the policy that a different meaning is intended.” Dairy
+Rd. Partners, 92 Hawaiʻi at 411, 992 P.2d at 106.  
+The pollution exclusion in AIG’s policies has three 
+elements. 
+It precludes coverage when (1) “the actual, alleged, 
+or threatened discharge, dispersal, seepage, migration, release 
+or escape” of (2) “pollutants” (3) causes “property damage,” as 
+that term is defined.  “Pollutants” means “any solid, liquid, 
+gaseous or thermal irritant or contaminant, including smoke, 
+vapor, soot, fumes, acids, alkalis, chemicals and waste.” 
+The counties’ complaints allege that Aloha “released” 
+“gaseous” GHGs and caused “property damage.” The focus is 
+whether GHGs are a “contaminant.” 
+Contaminate means “to make inferior or impure by 
+admixture,” or “to make unfit for use by the introduction of unwholesome or undesirable elements.” Contaminate, Merriam-
+Webster Dictionary https://www.merriam-webster.com/dictionary/contaminate [https://perma.cc/CW4N-57AA]. 
+Here, GHGs are contaminants. They enter the atmosphere. They 
+increase the atmosphere’s heat-trapping properties. They spoil our planet’s climate system, destabilizing it for present and 
+future generations. By plain language and common sense, 
+greenhouse gases are “contaminants.” 
+53  
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Under any plausible interpretation, greenhouse gases are 
+“pollutants.”  Sentinel’s legal uncertainty rule does not decide 
+this case. 
+3. The Exclusion is Not Ambiguous 
+This court interprets ambiguities in the insured’s favor. 
+Hart, 126 Hawaiʻ i at 456, 272 P.3d at 1223. But this court may 
+not “create ambiguity where none exists.” Id.
+Ambiguity only arises when there are two plausible 
+interpretations. Sturla, Inc. v. Fireman’s Fund Ins. Co., 67 
+Haw. 203, 209-10, 684 P.2d 960, 964 (1984). What is ambiguous in one context may not be ambiguous in another. See Cont’l Cas.
+Co., 609 N.E.2d at 512. Because we interpret contract language, we only consider if it is ambiguous here, not if it is ambiguous 
+in the abstract. MacKinnon, 73 P.3d at 1213. 
+Aloha makes two arguments that the exclusion is ambiguous: 
+(1) other courts have held that it is ambiguous in their cases and (2) other courts have held that carbon dioxide or gasoline 
+are not pollutants, making the exclusion ambiguous as applied 
+here. Neither of these arguments are persuasive. GHGs are 
+pollutants under any reasonable interpretation. 
+Nationally, courts have found the pollution exclusion both 
+ambiguous and unambiguous. Compare Scottsdale Ins. Co. v.
+Morrow Land Valley Co., LLC, 411 S.W.3d 184, 193 (Ark. 2012) (finding pollution exclusion ambiguous) with Whittier Props.,
+54  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Inc. v. Alaska Nat’l Ins. Co., 185 P.3d 84, 90-91 (Alaska 2008) 
+(finding exclusion unambiguous). But, because the exclusion is 
+contract language between individual parties, we do not consider 
+it ambiguous or unambiguous as an abstract principle of law. 
+Many courts recognize that the exclusion’s ambiguity 
+depends on the context. Cont’l Cas. Co., 609 N.E.2d at 512; 
+Crown Energy Co. v. Mid-Continent Cas. Co., 511 P.3d 1064, 1073 (Okla. 2022) (“The fact that pollution exclusions have been held to be unambiguous in other settings does not mean that the 
+Pollution Exclusion here is unambiguous as applied.”). 
+The question here is whether the exclusion can reasonably 
+be interpreted two ways as applied to the counties’ lawsuits. 
+We believe the suits allege pollution under any plausible 
+reading. 
+The exclusion is also not ambiguous just because cases from 
+other jurisdictions hold that carbon dioxide or gasoline are not 
+pollutants. These cases do not create ambiguity here. For example, the Wisconsin Supreme Court held that carbon dioxide 
+from exhaled breath that accumulated in a poorly-ventilated 
+office building was not a “pollutant” under the exclusion. 
+Donaldson v. Urban Land Interests, Inc., 564 N.W.2d 728, 732 
+(Wis. 1997). The court concluded that the exclusion was 
+ambiguous and an insured would reasonably expect coverage in 
+that case’s context.  Id. at 732-33. But our case is different. 
+55  
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+We don’t construe the exclusion on a molecule-by-molecule basis. 
+Carbon dioxide may not be a pollutant in a single office 
+building, but it is when billions of tons are added to the 
+atmosphere every year. SeeRecord carbon dioxide emissions 
+impeding progress on meeting climate goals, National Oceanic and Atmospheric Administration (Dec. 5, 2023), 
+https://research.noaa.gov/2023/12/05/record-fossil-carbon-
+dioxide-emissions-impeding-progress-on-meeting-climate-goals-report/ (estimating 36.8 billion metric tons of GHGs emitted in 
+2023) [https://perma.cc/VDF8-5AT8]. 
+The Alabama and Alaska Supreme Courts have held that 
+gasoline is not a pollutant when used for ordinary purposes, but 
+is a pollutant when it spills. Whittier Props., 185 P.3d at 87; 
+Federated Mut. Ins. Co. v. Abston Petroleum, Inc., 967 So.2d 705, 713 (Ala. 2007). Aloha misinterprets these cases. It 
+contends the difference between spilled and unspilled gasoline 
+is that unspilled gasoline is being used for its ordinary purpose. This is the wrong distinction. The proper reasoning 
+is that unspilled gasoline doesn’t damage the environment, but 
+spilled gasoline does. SeeAbston Petroleum, 967 So.2d at 713. 
+That’s what makes one pollution and not the other. 
+The exclusion is not ambiguous as applied to GHGs. 
+56  
+  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+4. Aloha Could Not Reasonably Expect Products Liability 
+Coverage for Pollution 
+This court construes an insurance policy to protect a 
+policyholder’s objectively reasonable expectations. Del Monte
+, 
+117 Hawaiʻi at 368, 183 P.3d at 745.  Aloha argues that it 
+reasonably expected coverage for the counties’ lawsuits, because 
+AIG’s insurance policies cover products liability. Gasoline is 
+Aloha’s product. So, Aloha contends, denying AIG’s duty to 
+defend a products liability suit regarding Aloha’s gasoline 
+would undercut its expectation of coverage. 
+The problem with this argument is that it renders the 
+pollution exclusion meaningless. 
+Imagine Aloha negligently sold 
+a customer defective gasoline and it destroyed the customer’s 
+engine. No question, products liability insurance would cover 
+that. But gasoline may create damage in other ways. It may 
+cause environmental contamination, because it spills and needs 
+to be cleaned up or because it is burned and contaminates the 
+atmosphere. In these contexts, a reasonable insured would 
+understand the spilled or burned gasoline as pollution. 
+Aloha reasonably expects coverage for product hazards that 
+are not pollution. If a business sells a product that is 
+inherently polluting, that fact must be part of its reasonable 
+expectation. To hold otherwise would write the pollution 
+exclusion out of the policy. 
+57  
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+IV. CONCLUSION 
+We answer the first question Yes. An “accident” includes 
+recklessness. 
+We answer the second question Yes. Greenhouse gases are 
+“pollutants.” 
+John M. Sylvester  /s/ Mark E. Recktenwald  
+(C. Michael Heihre, Michi /s/ Sabrina S. McKenna Momose on the briefs) 
+for appellant /s/ Todd W. Eddins 
+ /s/ Vladimir P. Devens Christopher St. Jeanos (Terence J. O’Toole, Kari K. 
+Noborikawa, Joseph T. Baio, Amy J. Collins Cassidy, Elizabeth J. Bower on the briefs) 
+for appellee 
+ Wayne R. Wagner, Edmund K. Saffery, Deborah A. 
+DiCristofaro, Laura A. Foggan 
+for amici curiae Complex Insurance Claims 
+Litigation Association and 
+American Property Casualty Insurance Association  
+Tred R. Eyerly, John N. Ellison, 
+Luke E. Debevec, Rukesh A. Korde, Judy Baho 
+for amicus curiae 
+United Policyholders  
+58 
