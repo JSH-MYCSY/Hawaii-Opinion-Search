@@ -1,0 +1,972 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ ________________________________________________________________ 
+_____________________________________________________________ ** FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND THE PACIFIC REPORTER  ** 
+Electronically Filed 
+Supreme Court SCWC-23-0000185 17-OCT-2024 08:04 AM Dkt. 21 OP 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ‘I
+ ---o0o---  
+STATE OF 
+HAWAI‘I,   
+Respondent/Plaintiff-Appellant,  
+ 
+ vs.  
+ 
+RANDALL HOFFMAN,  
+Petitioner/Defendant-Appellee. 
+SCWC-23-0000185  
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS  
+(CAAP-23-0000185; CASE NO.  5CPC-21-0000264)  
+ 
+OCTOBER 17, 2024  
+ 
+RECKTENWALD, C.J., McKENNA, EDDINS, GINOZA, and DEVENS, JJ.  
+ 
+OPINION OF THE COURT BY McKENNA, J.  
+I. Introduction 
+This case presents the issue of whe ther a defendant’s un -
+Mirandized statements made in response to a police officer’s 
+words “normally attendant to arrest and custody” are admissible 
+even when the officer’s statements “were reasonably likely to 
+lead to an incriminating response ,” thus constituting  
+  
+   
+ 
+  
+  
+ 
+  
+ 
+ 
+    
+ 
+  
+ 
+ 
+  
+ 
+   
+   
+ 
+ 
+  
+  ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+“interrogation” under Article I, Section 10 of the Hawaiʻi State 
+Constitution. The answer is no. 
+Officer Warren Tavares (“Officer Tavares”) of the Hawaiʻi 
+State Department of Land and Natural Resources Division of 
+Conservation and Resources Enforcement (“ DLNR DOCARE”) observed 
+Randall Hoffman (“Hoffman”) dumping green waste out of a large 
+trailer stopped on a Kauaʻi roadside . After some verbal 
+exchanges and a scuffle, Hoffman was arrested and charged. 
+Before trial, the state filed a motion to determine the 
+voluntariness of statements made by Hoffman to Officer Tavares 
+during their encounter.1 At the hearing on the motion, Officer 
+Tavares testified that he had probable cause to arrest Hoffman 
+from the moment he arrived at the scene , that Hoffman was not 
+free to leave, but that he did not Mirandize Hoffman at any 
+1Hawaiʻi Revised Statutes § 621-26 (2016) provides: 
+Confessions, when admissible. No confession shall be 
+received in evidence unless it is first made to appear to 
+the judge before whom the case is being tried that the 
+confession was in fact voluntarily made. 
+As we explained in State v. Naititi : 
+Although orders suppressing evidence typically result 
+from motions to suppress filed by defendants, trial courts 
+are authorized to enter such orders when the admissibility 
+of a confession is at issue under HRS § 621 -26. Pursuant 
+to HRS § 621 -26, the tr ial court must make a determination 
+of the voluntariness of a defendant ’s statements, and the 
+failure to do so constitutes reversible error. 
+104 Hawaiʻi 224, 233, 87 P.3d 893, 902 (2004) (cleaned up). 
+2  
+  
+  
+  
+  
+ 
+ 
+ 
+   
+ 
+  
+ 
+  
+  
+ 
+ 
+    
+ 
+    
+  
+ 
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+point. The circuit court suppressed Hoffman’s statements in 
+their entirety .2 
+The State appealed . The State argued Hoffman’s statement s 
+were made in response to Officer Tavares ’s statements or actions 
+“normally attendant to arrest and custody” under Hawaiʻi Revised 
+Statutes (“HRS”) § 803 -6 (2014)3 and therefore not 
+“interrogation.” The Intermediate Court of Appeals (“ICA”) 
+issued a summary disposition order (“SDO”) affirming in part and 
+vacating in part the circuit court’s order. The ICA ruled that 
+certain of Hoffman’s statements made to Officer Tavares’s 
+statements were in response to statements “normally attendant to 
+arrest and custody” that therefore did not constitute 
+“interrogation.” 
+On certiorari , Hoffman presents a single question : “Did the 
+[ICA] gravely err when it ruled that an officer’s conduct and 
+statements ‘normally attendant to arrest and custody’ could not 
+arise to an interrogation triggering Miranda warnings?” 
+2 The circuit court also excluded Hoffman’s apology to Tavares for a 
+separate reason: it had not been provided to the defense by the discovery 
+deadline. Neither party disputed the inadmissibility of Hoffman’s apology , 
+so it will not be further discussed. 
+3 HRS § 803-6 provides in relevant part: 
+Arrest, how made. (a) At or before the time of making an 
+arrest, the person shall declare that the person is an 
+officer of justice, if such is the case. If . . . the 
+person makes the arrest without warrant in any of the cases 
+in which it is authorized by law, the person should give 
+the party arrested clearly to understand for what cause the 
+person undertakes to make the arrest . . . . 
+3  
+  
+ 
+     
+  
+ 
+  
+ 
+  
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+Under Article I, Section 10 of the Hawaiʻi Constitution, a 
+statement made by a defendant under “custodial interrogation ” 
+without a Miranda warning must be suppressed as 
+unconstitutionally elicited. State v. Hewitt, 153 Hawaiʻi 33, 
+43, 526 P.3d 558, 568 (2023) . “Custody” is not at issue as the 
+State concedes Hoffman was in custody during the entire 
+encounter and was not free to leave . At issue is w hether 
+Hoffman’s statements were made in response to “interrogation .” 
+We hold  that  for Article I, Section 10 purposes, the 
+ultimate inquiry is whether a law enforcement  officer knew or 
+should have known that their  words or conduct were reasonably 
+likely to elicit an incriminating response from the defendant, 
+even though the words and conduct might also be “normally 
+attendant to arrest and custody.”   See, e.g., State v. Skapinok,
+151 Hawaiʻi 170, 173, 510 P.3d 599, 602  (2022) (“There is no per
+se exception under the Hawai ʻi Constitution for questions 
+‘necessarily “attendant to” [a] legitimate police procedure.’”)   
+ 
+As explained below, we hold that some, but not all, of 
+Hoffman’s responses were made in response to words or conduct by 
+Officer Tavares that were reasonably likely to lead to an 
+incriminating response. Hence, we affirm in part and vacate in 
+part the ICA’s judgment on appeal , as well as the circuit 
+court’s order suppressi ng all of Hoffman’s statements. 
+4  
+   
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  
+ 
+   
+   
+ 
+ 
+     
+ 
+   ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+II. Background 
+A. Circuit court proceedings 
+1. Indictment 
+ On December 27, 2021, the State charged Hoffman with one 
+count of assault against a law enforcement officer in the first 
+degree, in violation of HRS §  707-712.5(1)(a) ; one count of 
+resisting arrest, in violation of HRS §  710-1026(1)(a) ; and one 
+count of criminal littering, in violation of HRS §  708-829.   654
+2. State’s motion to determine voluntariness of the 
+defendant’s statements to police and circuit court’s 
+ruling 
+On March 13, 2023, the State filed a motion to determine 
+the voluntariness of Hoffman’s s tatements to Officer Tavares 
+4 HRS § 707-712.5 (2014) is titled “Assault against a law enforcement 
+officer in the first degree,” and sub -section (1)(a) states, “A person 
+commits the offense of assault against a law enforcement officer in the first 
+degree if the person . . . [i]ntentionally or knowingly causes bodily injury 
+to a law enforcement officer who is engaged in the performance of duty. . . 
+.” Assault against a law enforcement officer in the first degree is a class 
+C felony. HRS § 707-712.5(2). A person convicted of this offense shall be 
+sentenced to (a) an indeterminate term of imprisonment of five years, or (b) 
+five years ’ probation (with conditions to include a term of imprisonment of 
+not less than 30 days). HRS § 707-712.5(2)(a)&(b). 
+5 HRS § 710-1026 (2014) is titled “Resisting arrest,” and sub -section 
+(1)(a) states, “A person commits the offense of resisting arrest if the 
+person intentionally prevents a law enforcement officer acting under color of 
+the law enforcement officer’s official authority from effect ing an arrest by 
+. . . [u]sing or threatening to use physical force against the law 
+enforcement officer or another. . . .” This crime is a misdemeanor. HRS § 
+710-1026(2). 
+6 HRS § 708-829 (2014) is titled “Criminal littering” makes it a petty 
+misdemeanor for a person to knowingly place, throw, or drop litter on any 
+public or private property or waters that is not (a) designated by the 
+department of health or the county for disposal of garbage, (b ) a litter 
+receptable, or (c) a littler bag that is later disposed of in a designated 
+disposal site or litter receptacle. 
+5  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+   ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+(“motion”).   Officer Tavares testified at the hearing.   On April 
+11, 2023, the circuit court filed its findings of fact  (“FOF”), 
+conclusions of law  (“COL”), and order denying the State’s 
+motion.   Only certain conclusions of law are at issue on appeal. 
+No  findings of fact were contested  by the parties, so we accept 
+them as true. Davis  v.  Bissen, 154 Hawaiʻ i  68, 75, 545 P.3d 557, 
+564 (2024).   The following findings relate to the statements by 
+Hoffman at issue:   7
+11. . . . . Officer Tavares pointed to the sign that 
+prohibited dumping in that area and told Mr. Hoffman that 
+these lands were DLNR [] lands and told Mr. Hoffman to stop 
+throwing green waste from the trailer because it was 
+illegal. 
+12. As a result of Officer Tavares’ statements, Mr. Hoffman 
+said “Fuck you, I don’t give a shit.” 
+13. Officer Tavares informed Mr. Hoffman that it was 
+illegal and they could get cited and arrested for criminal 
+littering. Officer Tavares said that the State and 
+multiple agencies worked together recently and spent over 
+$100,000 cleaning up that area. That it was a high crime 
+area, there was a lot of abandoned cars, there was drug 
+activity going on and the State and multiple agencies 
+worked together and cleaned up that whole area. 
+14. Officer Tavares testified that he made those statements 
+to Mr. Hoffman to let him know how much work was done to 
+clean up the area and to show Mr. Hoffman that it was 
+clean. Officer Tavares testified the purpose of his 
+statements was to get Mr. Hoffman to stop dumping his green 
+waste and to get Mr. Hoffman to pick up the green waste 
+that Mr. Hoffman had already dumped on the ground. 
+15. Mr. Hoffman responded to Officer Tavares by saying 
+“fuck you.” 
+16. Mr. Hoffman told Officer Tavares that he was turned 
+away from the Hanapepe Refuse Station. Officer Tavares 
+continued to explain to Mr. Hoffman that he was dumping 
+green waste on the side of the road and that what ever 
+problems he had with the county he needed to take up with 
+The Honorable Kathleen N.A. Watanabe presided. 
+6 7  
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+the county to see why his trailer was too big. Officer 
+Tavares told Mr. Hoffman that was not his jurisdiction 
+ . . . . 
+18. Mr. Hoffman responded to Officer Tavares by saying 
+“fuck you.” 
+19. Officer Tavares then went into the trailer to handcuff 
+Mr. Hoffman and escorted Mr. Hoffman off of the trailer. 
+Mr. Hoffman was able to move his hands that were handcuffed 
+in the back of him to the front by placing his legs through 
+the opening between the handcuffs and his body. 
+20. When Officer Tavares went to his vehicle to get a 
+citation book, Mr. Hoffman went back onto the trailer and 
+continued to throw green waste from the trailer onto the 
+ground. 
+21. Officer Tavares went back into the trailer and Officer 
+Tavares took Mr. Hoffman to the ground to arrest him. When 
+on the ground Mr. Hoffman fell and Officer Tavares was on 
+top of Mr. Hoffman. Mr. Hoffman wrapped his legs around 
+Officer Tavares and squeezed causing Officer Tavares pain. 
+As a result, Officer Tavares punched Mr. Hoffman in the 
+facial area. Mr. Hoffman did not respond to Officer 
+Tavares. 
+22. Officer Tavares punched Mr. Hoffman a second time in 
+his facial area and Mr. Hoffman said, “okay, I’m done.” 
+Conclusions of law 13, 14, 15, and 18 were contested by the 
+State on appeal : 
+13. In this case, Officer Tavares engaged in dialogue with 
+the Defendant that he should have known would have been 
+likely to elicit an incriminating response. Officer 
+Tavares testified that the purpose of Officer Tavares’ 
+statements to Mr. Hoffman was to get Mr. Hoffman to do 
+something, pick up his green waste from the ground. 
+Officer Tavares’ statements he made to Mr. Hoffman with 
+that purpose went beyond “permissible general on -the-scene 
+questioning.” 
+14. Based on the totality of circumstances, Mr. Hoffman was 
+under custodial interrogation for purposes of Miranda. 
+15. Because Mr. Hoffman was subjected to custodial 
+interrogation and Officer Tavares did not properly advise 
+Mr. Hoffman of his Miranda rights, the prosecution may not 
+use the above statements in trial. 
+7  . . . .  
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 8 ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+18. The State has not met its burden that the evidence 
+and/or statements obtained subsequent to Mr. Hoffman’s 
+initial un -Mirandized custodial interrogation were not 
+obtained or induced as a result of the exploitation of a 
+previous illegal act of the police . Therefore, those 
+statements may not be used in trial. 
+B. ICA proceedings 
+The State ’s opening brief raised the following points of 
+error:8 
+1. The circuit court erred by concluding that Officer 
+Tavares subjected [Hoffman] to “interrogation” when Tavares 
+told him: (1) to stop engaging in the illegal act of 
+criminal littering on DLNR lands (as Tavares pointed to a 
+nearby, official sign prohibiting the dumping of green 
+waste there); and (2) that the State had recently expende d 
+substantial resources to clean up the area. 
+ . . . . 
+2. The circuit court erred by suppressing from evidence the 
+initial statements that [Hoffman] uttered to Officer 
+Tavares. 
+ On March 1, 2024, the ICA filed a SDO affirming in part, 
+and vacating in part, the circuit court’s order.   State v. 
+Hoffman, No. CAAP-23-0000185, 2024 WL 889206 (Haw. App. Mar. 1, 
+2024) (SDO).   
+The ICA agreed with the circuit court that Officer 
+Tavares’s statements in FOF 1 3 that the State had spent $100,000 
+The State filed its notice of appeal pursuant to HRS § 641-13(7) 
+(2016), which provides: 
+By State in criminal cases. An appeal may be taken by and 
+on behalf of the State from the district or circuit courts 
+to the intermediate appellate court, subject to chapter 
+602, in all criminal matters, in the following instances: 
+(7) From a pretrial order granting a motion for the 
+suppression of evidence, including a confession or 
+admission . . . in which case the appellate court 
+shall give priority to the appeal and the order shall 
+be stayed pending the outcome of the appeal [.] 
+8   . . . .  
+      
+  
+ 
+     
+ 
+  
+ 
+  
+  
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+to clean up the Lolokai Street area, a high crime area with many 
+abandoned cars and drug activity, were reasonably likely to 
+elicit an incriminating response from Hoffman . 2024 WL 889206, 
+at *2. The ICA thus affirmed the circuit court’s order 
+excluding Hoffman’s response in FOF 16 that he had been turned 
+away from a county refuse station because his trailer was too 
+big. Id. 
+The ICA ruled, however, that the remaining statements made 
+by Hoffman to Officer Tavares were not interrogation and were, 
+instead, voluntary utterances made in response to actio ns or 
+statements normally attendant to arrest and custody. Id. 
+First, the ICA indicated that Officer Tavares had to inform 
+Hoffman why he could be arrested, pursuant to HRS § 803 -6(a), 
+which states that an arresting officer, among other things, 
+“should give the party arrested clearly to understand for what 
+cause the person undertakes to make the arrest .” 2024 WL 
+889206, at *1. The ICA characterized Officer Tavares’s actions 
+and statements in FOF 11, pointing at the sign prohibiting 
+dumping, telling Hoffman that the lands were DLNR lands, and 
+telling Hoffman to stop throwing green waste, were normally 
+attendant to arrest and custody. Id. The ICA concluded that 
+Hoffman’s response of “Fuck you, I don’t give a shit,” in FOF 
+12, to be “voluntary utterances, not in response to 
+interrogation.” Id. 
+9  
+  
+ 
+  
+    
+   
+    
+ 
+ 
+  
+    
+    
+    
+  
+  
+   
+  
+  
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+Second, the ICA also characterized Officer Tavares’s 
+statement in FOF 13 that Hoffman would be arrested if he 
+continued to dump green wast e as a statement normally attend ant 
+to arrest and custody. Id. The ICA then ruled Hoffman’s 
+response of “Fuck you ,” in FOF 15 , was a voluntary utterance. 
+Id. 
+Third, the ICA characterized Officer Tavares’s statements 
+during the scuffle (“Stop resisting”) as “normally attend ant to 
+arrest and custody under the facts of this case.” 2024 WL 
+889206, at *2. It ruled Hoffman’s response (“Okay, I’m done”) 
+was “not a response to interrogation.” Id. The ICA held the 
+circuit court also erred in denying the State’s motion as to 
+that statement from Hoffman. Id. 
+On April 1, 2024, the ICA issued its judgment on appeal. 
+C. Certiorari proceedings 
+Hoffman’s certiorari application presents a single 
+question: “Did the [ICA] gravely err when it ruled that an 
+officer’s conduct and statements ‘normally attendant to arrest 
+and custody’ could not arise to an interrogation triggering 
+Miranda warnings ?” 
+III. Standards of Review 
+A. Motion to suppress 
+“An appellate court reviews a ruling on a motion to 
+suppress de novo to determine whether the ruling was ‘right’ or 
+10  
+  
+ 
+  
+ 
+  
+   ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+‘wrong.’” Hewitt, 153 Hawai‘i at 40, 526 P.3d at 565 (citation s 
+omitted). 
+B. Constitutional issues 
+“Questions of constitutional law are reviewed under the 
+right/wrong standard. ” State v. Borge , 152 Hawaiʻi 458, 464, 526 
+P.3d 435, 441 (2023) (citation omitted). 
+IV. Discussion 
+A. Summary of applicable law 
+The Fifth Amendment to the U.S. Constitution and Article I, 
+Section 10 of the Hawaiʻi Constitution guarantee the right 
+against self-incrimination. Hewitt, 153 Hawaiʻ i at  43, 526 P.3d 
+at  568. The Fifth Amendment states, “No person . . . shall be 
+compelled in any criminal case to be a witness against himself. 
+. . .” Article I, section 10 of the Hawai ʻi Constitution states, 
+“No person shall . . . be compelled in any criminal case to be a 
+witness against oneself.”   “Miranda  warnings help safeguard this 
+right.” Hewitt, 153 Hawai ʻi at 43, 526 P.3d at 568.   As a matter 
+of state constitutionalism, this court “provide[s] criminal 
+defendants with greater protection under Hawai ʻi’s version of the 
+privilege against self-incrimination . . . than is otherwise 
+ensured by the federal courts under Miranda  and its progeny.” 
+Hewitt, 153 Hawai ʻi at 44, 526 P.3d at 569  (citation omitted).  
+11  
+  
+ 
+ 
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+Under the Hawaiʻi Constitution, “[a]bsent Miranda warnings 
+and a valid waiver of them, statements obtained from a person 
+subjected to uncounseled custodial interrogation are 
+inadmissible in a subsequent criminal proceeding brought against 
+that person.” State v. Ah Loo, 94 Hawaiʻi 207, 210, 10 P.3d 728, 
+731 (2000). A “custodial interrogation” consists of 
+questioning initiated by law enforcement officers after a 
+person has been taken into custody or otherwise deprived of 
+their freedom of action in any significant way. In other 
+words, the defendant, objecting to the admissibility of 
+their statement and, thus, seeking to suppress it, must 
+establish that their statement was the result of (1) “interrogation” that occurred while they were (2) “in 
+custody.”  
+Hewitt, 153 Hawaiʻi at 43, 526 P.3d at 568 (cleaned up).  
+In this case, no party disputes that Hoffman was in custody 
+when Officer Tavares approached him and started talking to him. 
+What is at issue is whether Tavares’s words or conduct directed 
+at Hoffman constituted interrogation.  
+In State v. Paahana, for purposes of the Hawaiʻi 
+Constitution, this court adopted the interrogation test in Rhode 
+Island v. Innis, 446 U.S. 291 (1980): “In determining whether an 
+officer’s questions constitute interrogation, the test is 
+whether the officer should have known that his words and actions 
+were reasonably likely to elicit an incriminating response from 
+the defendant.” 66  Haw. 499, 503, 666 P.2d 592, 595-96 (1983).  
+In State v. Ketchum , 97 Hawaiʻi 107, 119-20, 34 P.3d 1006 , 
+1018-19 (2001), this court declined , as a matter of state 
+12  
+  
+ 
+ 
+  
+   
+ 
+ 
+ 
+   
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+constitutional law, to recognize a federal “carve out” to the 
+Innis interrogation inquiry: the “routine booking question 
+exception .” “Routine booking questions” “elicit[] general 
+biographical data necessary for purposes of booking and pretrial 
+services.” Id. This court noted that, “in the vast majority of 
+cases,” routine booking questions are not “reasonably likely to 
+elicit incriminating responses.” Id. 
+In Ketchum, however, the police asked a suspect (Ketchum) a 
+would-be “routine booking question” about his residence address. 
+97 Hawaiʻi at 112, 34 P.3d at 101 1. We held that the “routine 
+booking question” was nevertheless reasonably likely to elicit 
+an incriminating response under the circumstances ; therefore, 
+Ketchum was interrogated for Miranda purposes . 97 Hawaiʻi at 
+127, 34 P.3d at 1026. This was because the police raided a home 
+pursuant to a search warrant and located Ketchum, drugs , and the 
+known occupant of the home in the bedroom. 97 Hawai ʻi at 112, 34 
+P.3d at 1011. Although the first police officer asking Ketchum 
+for his residence address testified that “obtaining such 
+personal information was ‘normal procedure,’” the police officer 
+also acknowledged that “establishing Ketchum’s address as the 
+same as that where drug contraband was found would assist in 
+prosecuting him for constructi ve possession of any drug 
+contraband subsequently discovered in the residence.” Id. We 
+also held the residence address question posed by other police 
+13  
+  
+ 
+   
+  
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+officers constituted interrogation . 97 Hawai ʻi at 128 -29, 34 
+P.3d at 1027 -28. 
+In declining on state constitutional grounds to recognize 
+the “routine booking question” exception to Innis’s 
+interrogation test, we stated: 
+Thus, to the extent that, under article I, section 10, the 
+ultimate question regarding “interrogation” is whether the questioning officer knew or reasonably should have known 
+that his or her question was likely to elicit an 
+incriminating response, the fact  that a question is in the 
+nature of a “routine booking question” is merely one consideration among many relevant to an assessment of the totality of the circumstances. In other words, the 
+“routine booking question exception” does no more than 
+recognize t hat not every “express question” constitutes 
+“interrogation.”  
+Ketchum, 97 Hawaiʻi at 120, 34 P.3d at 1019 (citations and 
+footnote omitted).  
+State v. Kazanas, 138 Hawaiʻi 23, 35, 375 P.3d 1261, 1273 
+(2016) later clarified that “determining whether ‘interrogation’ 
+has taken place is not measured by the ‘totality of the 
+circumstances,’ as Ketchum  held; rather, ‘interrogation’ occurs 
+when police know or should know that their words or actions are reasonably likely to elicit an incriminating response from the 
+suspect, as Innis  held.” Nevertheless, Kazanas  reaffirmed that 
+the “touchstone  in analyzing whether ‘interrogation’ has taken 
+place is whether the police officer ‘should have known that [their] words and actions were reasonably likely to elicit an 
+incriminating response from the defendant.’” 138 Hawai ʻi at 38, 
+14  
+  
+ 
+ 
+   
+ 
+     
+ 
+    ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+375 P.3d at 1276 (citing Paahana, 66 Haw. at 503, 666 P.2d at 
+595-96 (citing Innis, 446 U.S. at 301)) (emphasis added). 
+The use of the Paahana/Innis “interrogation” test continued 
+through this court’s decision in State v. Trinque, where we 
+stated, “‘ interrogation ’ under [our state ] Miranda [rule] refers 
+to (1) any words, actions, or practice on the part of the 
+police, not only express questioning, (2) o ther than those 
+normally attendant to arrest and custody , and (3) that the 
+police should know is reasonably likely to invoke an 
+incriminating response .” 140 Hawaiʻi 269, 277, 400 P.3d 470, 478 
+(2017). In Trinque, police officers received information that 
+marijuana was growing in a 25 -acre pasture. 140 Hawaiʻi at 272, 
+400 P.3d at 473. Police conducted nighttime su rveillance of the 
+pasture and encounter ed Trinque and a nother individual. Id. 
+One of the police officers identified himself as Lieutenant 
+Rosa and informed Trinque that he knew of Trinque because he had 
+assisted Trinque’s daughter with her case when she  was worried 
+about people who might have intended to assault Trinque. 140 
+Hawaiʻi  at 273, 273 n.2, 400 P.3d at 474, 474 n.2.  Lieutenant 
+Rosa told Trinque “he would not lie to him,”  “he would not ‘jerk 
+his chain,’” and that “he would be completely honest with him.” 
+140 Hawaiʻ i  at 273, 400 P.3d at 474. Lieutenant Rosa then 
+advised  Trinque not to make any statements until they got back 
+to Lihue and Trinque could be advised of his rights. Id.   
+15  
+  
+  
+   
+ 
+  
+ 
+ 
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+Trinque had not been advised of his Miranda rights at this time. 
+Id. Trinque then stated, “What for? You caught us red handed, 
+there’s nothing left to say, times are hard and we needed the 
+money.” Id. The circuit court suppressed this statement, 
+among others, and the State appealed. 140 Hawaiʻi at 275, 400 
+P.3d at 476. This court affirmed the circuit court, holding 
+that Lieutenant Rosa’s statements elicited the statement from 
+Trinque that w as “the product of pre -Miranda custodial 
+interrogation” and therefore inadmissible. 140 Hawaiʻi at 284, 
+400 P.3d at 485. 
+As to Lieutenant Rosa’s statements, the Trinque  court held, 
+“While Lt. Rosa’s introduction of himself to Trinque as a police 
+officer may have been normal procedure that typically attends 
+arrests, all of the other words and actions that Lt. Rosa 
+directed to Trinque cannot be characterized as anything other 
+than an attempt to erode Trinque’s guard so that Trinque would 
+freely talk in a manner that would incriminate himself.” 140 
+Hawaiʻi  at 278, 400 P.3d at 479  (emphases added).   Thus, contrary 
+to the State’s  argument, even if a police officer’s statement  is 
+“normally attendant to arrest and custody ,”  Article I, Section 
+10 still requires a court to analyze whether the statement  was 
+reasonably likely to elicit an incriminating response to  
+determine  whether a defendant was interrogated for Miranda  
+purposes. There is no “carve out” or “exception” to the 
+16  
+  
+ 
+  
+ 
+ 
+ 
+  
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+interrogation inquiry for statements “normally attend ant to 
+arrest and custody.” 
+Finally, Skapinok  puts to rest any argument that police 
+statements “normally attendant to arrest and custody” are an 
+actual exception to the “interrogation” test. In that case, we  
+held  that “medical rule -out questions” that police ask during 
+traffic stops on suspicion of operating a vehicle under the 
+influence of an intoxicant (“O VUII”) are not exempted from the 
+Miranda  interrogation inquiry. 151 Hawaiʻi at 172, 510 P.3d at 
+601. More to the point, this court held,  
+There is no per se exception under the Hawai ʻi Constitution 
+for questions “necessarily ‘ attendant to ’  [a] legitimate 
+police procedure. ”   To avoid suppression for want of 
+Miranda  warnings, such questions must pass muster under our 
+well-established interrogation test: “whether the officer 
+should have known that his words and actions were 
+reasonably likely to elicit an incriminating response from 
+the defendant. ”   
+151 Hawaiʻi at 173, 510 P.3d at 602 (citing Paahana, 66 Haw. at 
+503, 666 P.2d at 595 -96). 
+In Skapinok, a police officer pulled over a suspect 
+(Skapinok) on suspicion of reckless driving, then developed a 
+reasonable suspicion that Skapinok was committing OVUII as well. 
+151 Hawaiʻi at 173, 510 P.3d at 602. A police corporal arrived 
+and asked Skapinok the “medical rule -out questions” prior to 
+administering standard field sobriety tests:  
+i. Do you have any physical defects or speech impediments? 
+ii. Are you taking any medications? 
+iii. Are you under the care of a doctor or dentist for 
+anything? 
+17  
+  
+ 
+ 
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+iv. Are you under the care of an eye doctor? 
+v. Do you have an artificial or glass eye ? 
+vi. Are you epileptic or diabetic? 
+vii. Are you blind in either eye?  
+151 Hawaiʻi at 173-74, 177, 510 P.3d at 602-03, 605. Neither 
+police officer advised Skapinok of her Miranda  rights at  the 
+scene. 151 Hawai ʻi at 174, 510 P.3d at 603. The district court 
+suppressed all of Skapinok’s answers to these questions as 
+violative of her Hawaiʻi constitutional right against self-
+incrimination, and the State appealed. 151 Hawaiʻ i at 177-78, 
+510 P.3d at 606-07.   
+18  The ICA held that  the medical rule-out questions were 
+reasonably likely to elicit an incriminating response and, 
+therefore, constituted interrogation. 151 Hawaiʻi at 178, 510 
+P.3d at 607.   This court affirmed that conclusion. 151 Hawai ʻi 
+at 179, 510 P.3d at 608.   Rather than alter the test set forth 
+in Trinque  (as the State contends),  this court cited  it: 
+“‘[I]nterrogation under Miranda  refers to (1) any words, 
+actions, or practice on the part of the police, not only express 
+questioning, (2) other than those normally attendant to arrest 
+and custody, and (3) that the police should know is reasonably 
+likely to invoke an incriminating response.”   151 Hawai ʻi at 180, 
+510 P.3d at 609 (citing Trinque, 140 Hawai ʻi at 277, 400 P.3d at 
+478).   
+  Skapinok  clarified that there is no absolute carve-out for 
+police procedures normally attendant to arrest and custody. 
+Rather, Skapinok  articulated that the second Trinque  factor is 
+still subject to an analysis under the third Trinque  factor. 
+Specifically, this court noted, “While we have explicitly 
+recognized the ‘attendant to arrest and custody’ carve -out to 
+the definition of ‘interrogation,’ Hawaiʻi law points against 
+eliminating the ‘incriminating response’ inquiry even when the 
+police ask questions ‘attendant to’ a routine, legitimate 
+procedure.” Skapinok, 151 Hawaiʻ i at 182, 510 P.3d at 611 
+(citing Trinque, 140 Hawai ʻi at 277, 400 P.3d at 478).  This 
+court elaborated, “[W]e see no reason to treat questions 
+‘attendant to’ police procedures differently than ‘booking 
+questions’ under the Hawai ʻi Constitution –  the inquiry in both 
+circumstances is whether the question is reasonably likely to 
+elicit an incriminating response.”  151 Hawaiʻ i at 183, 510 P.3d 
+at 612. “In other words, being attendant to a police pro cedure, 
+standing alone, does not obviate the need to examine whether the 
+officer knew or should have known that the questions were 
+reasonably likely to elicit an incriminating response.” Id.    
+ 
+  ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+The State finds significance in the difference in 
+Skapinok ’s phraseology between questions “‘attendant to’ police 
+procedures” and questions “normally attendant to arrest and 
+custody” to argue that Skapinok did not, in fact, hold that 
+19  
+  
+  
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+questions “normally attendant to arrest and custody” are 
+nevertheless subject to an analysis into whether the police 
+officer knew or should have known that their words or conduct 
+would be reasonable likely to elicit an incriminating response.   
+In looking at the root of the phrase “attendant to police procedures” that Skapinok  drew from  Pennsylvania v. Muniz, 496 
+U.S. 582 (1990), it is clear that the United States Supreme 
+Court was interpreting Innis’s “normally attendant to arrest and 
+custody” concept. The  Muniz  court used the phrase “attendant 
+to” a “legitimate  police procedure” for this concept and cited 
+to South Dakota v. Neville, 459 U.S. 553, 564 n.15 (1983). 496 
+U.S. at 605. Footnote 15 in Neville, in turn, cited  directly to 
+Innis  for the “normally attendant to arrest and custody” prong 
+of the interrogation test. 459 U.S. at 564 n.15. Therefore, as 
+Hoffman argues, an unbroken chain of 
+Hawaiʻi appellate precedent 
+holds that, under the Hawai ʻi Constitution,  police questions 
+“normally attendant to arrest and custody” are still subject to 
+the touchstone  inquiry into whether those questions were 
+reasonably likely to elicit an incriminating response.   
+B. Application of law to each of Hoffman’s remaining 
+statements at issue 
+20  The State did not file an application for certiorari, so  
+the ICA’s affirmance of the circuit court’s  suppression of 
+Hoffman’s response in FOF 16 that he had been turned away from a  
+  
+  
+    
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+county refuse station because his trailer was too big is not at 
+issue. We now apply the principles of law above to each of the 
+remaining statements at issue. 
+1. FOFs 11 & 12: first “Fuck you, I don’t give a shit ” 
+Officer Tavares testified that when he initially engaged 
+Hoffman by pointing to the littering sign and stat ed that what 
+Hoffman was doing was illegal, Hoffman responded, “Fuck you, I 
+don’t give a shit.” The ICA rul ed that Officer Tavares’s 
+statement was normally attendant to arrest and custody and that 
+Hoffman’s initial statement was a voluntary utterance. The ICA 
+erred in two ways: (1) factually, because Officer Tavares’s own 
+uncontroverted testimony was that he was not in the process of 
+arresting Hoffman; and (2) legally, because it applied the wrong 
+standard . As noted, Officer Tavares’s words and conduct must be 
+analyzed for whether they were reasonably likely to elicit an 
+incriminating response. 
+Despite the ICA’s error, Officer Tavares pointing to the 
+sign and informing Hoffman that what he was doing was illegal 
+did not constitute words or conduct reasonably likely to elicit 
+an incriminating response. “Criminal littering” under HRS § 
+708-829 requires the State to prove that a defendant acted 
+“knowingly.” It is not reasonably likely that a person being 
+informed that he was dumping items in a prohibited area would 
+admit to such a state of mind by making an incriminating 
+21  
+    
+ 
+ 
+ 
+ 
+  
+  
+   ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+statement like “Fuck you, I don’t give a shit.”  Thus, although 
+the ICA applied the incorrect legal standard, we hold that 
+Hoffman’s first statement was not in response to words or 
+conduct of Officer Tavares that was likely to elicit an 
+incriminating response.  
+2. FOFs 13-15, second “fuck you”9 
+The ICA affirmed the circuit court’s ruling that Officer 
+Tavares’s statements in FOF 13 were reasonably likely to elicit 
+an incriminating response from Hoffman and that, therefore, 
+Hoffman’s response in FOF 16, that he had been turned away from 
+a county ref use station , was properly suppressed. Yet, because 
+Officer Tavares had said what Hoffman was doing was illegal and 
+that he could get cited and arrested for criminal littering at 
+the beginning of this statement in FOF 13, the ICA determined 
+that Hoffmans’ second “fuck you,” which preceded his statement 
+in FOF 16 that the ICA ruled was properly suppressed , was in 
+response to a statement normally attendant to arrest and also a 
+voluntary utterance. 
+First, Officer Taveres’s statement that what Hoffman was 
+doing was illegal and that he could get cited and arrested was not  a statement normally attendant to arrest  as  Officer Tavares 
+was not placing Hoffman under arrest  and had no intention of 
+The ICA refers to this as the third “fuck you.” The ICA SDO says it 
+was supplementing the circuit court’s FOFs with Officer Tavares’s testimony. 
+Hoffman, 2024 WL 889206, at *1. But the unchallenged FOFs control. 
+22 9  
+  
+ 
+  
+  
+ 
+ 
+ 
+  
+ 
+     ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+arresting Hoffman at that point in time . In any event, the ICA 
+again applied the wrong standard; the proper standard is whether 
+the officer’s words were reasonably likely to lead to an 
+incriminating response. J ust as Hoffman’s response that 
+followed in FOF 16 was in response to statement s from Officer 
+Tavares in FOF 13 likely to elicit an incriminating response, so 
+was his “fuck you” in FOF 15 that began the explanation the ICA 
+determined was properly suppressed in FOF 16 , especially after 
+he had already incriminated himself with the first “Fuck you, I 
+don’t give a shit.” 
+3. FOFs 16 & 18, third “fuck you”10 
+The ICA does not specifically refer to this third “fuck 
+you.” Its ruling does not vacate the circuit court’s ruling 
+regarding FOF 16 and 18. In any event, Officer Tavares’s 
+statements in FOF 16 were also reasonably likely to lead to an 
+incriminating response such that Hoffman’s statement in FOF 18 
+should be suppressed. 
+4. FOFs 21-22, “okay I’m done” 
+The ICA determined Officer Tavares’s actions in 
+effectuating the arrest and statement “stop resisting” during 
+the scuffle were normally attendant to arrest and custody and 
+that Hoffman’s response, “okay, I’m done” was not in response to 
+10See supra note 9. 
+23   
+     
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+interrogation.  As explained above, HRS § 803-6 does not alter 
+the “interrogation” test ,  and to avoid suppression for want of 
+Miranda  warnings, statements and actions are analyzed for 
+whether the officer should have known that his words and actions 
+were reasonably likely to elicit an incriminating response from 
+the defendant.  
+Officer’s Tavares’s words were a command to Hoffman to 
+“stop resisting” and to stop exerting physical force against the 
+officer, and were not words reasonably likely to elicit an 
+incriminating response. Thus, the ICA did not err by overruling 
+the circuit court’s suppression of this statement. 
+V. Conclusion 
+For these reasons, we vacate the ICA April 1, 2024 judgment 
+on appeal as well as the circuit court’s April 11, 20 23 
+“Findings of Fact, Conclusions of Law, and Order Denying State 
+of Hawaii ’s Motion to Determine Voluntariness of Defendant's 
+Statements to Police, ” and remand this case to the circuit court 
+for further proceedings consistent with this opinion. 
+Benjamin E. Lowenthal   /s/ Mark E. Recktenwald
+for  petitioner   
+      /s/ Sabrina S. McKenna  
+David M. Seaver  
+(Tracy Murakami,    /s/ Todd W. Eddins  
+with him on the briefs),  
+for respondent     /s/ Lisa M. Ginoza  
+ 
+      /s/ Vladimir P. Devens   
+24 
