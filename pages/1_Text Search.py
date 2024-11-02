@@ -28,7 +28,8 @@ def ChatGPTSubjectSearch(userInput, opinionExcerpt):
 # This functions sets up a toggle that is saved to a global boolean in order to function as an on/off switch for the ChatGPT search function.
 def setupAIon():
     global AIon
-    AIon = st.toggle("OpenAI Refined Search")
+    #AIon = st.toggle("OpenAI Refined Search")
+    AIon = False
 
 # Copy of function from Home Page because streamlit does not like it when you import from other pages.
 def loadData():

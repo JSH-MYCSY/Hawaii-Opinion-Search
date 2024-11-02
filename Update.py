@@ -22,7 +22,7 @@ with open("CourtOpinion_Hawaii_New.csv","a",newline='', encoding='utf-8') as csv
     while_loop_boolean = 0
     tempList = []
     while(while_loop_boolean == 0): # while loop to loop through all the opinions.
-        if(variableTest not in caseName.text):  # this checks to see if the last opinion saved in the csv file has the same name as the opinion that is going to be saved, and if it does, it stops the while loop.
+        if(variableTest.lower() not in caseName.text.lower()):  # this checks to see if the last opinion saved in the csv file has the same name as the opinion that is going to be saved, and if it does, it stops the while loop.
             case_name = caseName.text
             if('ADA' in str(opinionUrl)):  # gets specifically the ADA pdf of the opinion because that has the readable text for screen readers.
                 opinionUrlText = opinionUrl.find('a', {'title': 'ADA'})['href']
