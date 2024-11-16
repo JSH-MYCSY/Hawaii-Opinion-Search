@@ -13,20 +13,21 @@ st.set_page_config(
 )
 
 # This function loads the search database from the csv and txt files, then saves them as a session state for faster access when searching.
-def loadData():
-    if('OpinionText' not in st.session_state or 'NameList' not in st.session_state):
-        loadList = os.listdir("courtOpinionText/")
-        OpinionText = []
-        NameList = []
-        for item in loadList:
-            with open("courtOpinionText/" + item, "r", encoding="utf-8") as txtObj:
-                OpinionText.append([str(item).split(".")[0], txtObj.read().lower()])
-        with open("CourtOpinion_Hawaii_New.csv", "r", encoding="utf-8") as csvObj:
-            reader = csv.reader(csvObj)
-            for row in reader:
-                NameList.append(row)
-        st.session_state['OpinionText'] = OpinionText
-        st.session_state['NameList'] = NameList
+# @st.cache
+# def loadData():
+#     if('OpinionText' not in st.session_state or 'NameList' not in st.session_state):
+#         loadList = os.listdir("courtOpinionText/")
+#         OpinionText = []
+#         NameList = []
+#         for item in loadList:
+#             with open("courtOpinionText/" + item, "r", encoding="utf-8") as txtObj:
+#                 OpinionText.append([str(item).split(".")[0], txtObj.read().lower()])
+#         with open("CourtOpinion_Hawaii_New.csv", "r", encoding="utf-8") as csvObj:
+#             reader = csv.reader(csvObj)
+#             for row in reader:
+#                 NameList.append(row)
+#         st.session_state['OpinionText'] = OpinionText
+#         st.session_state['NameList'] = NameList
 
 # This specifies the body of the application for the homepage.
 def appBody():
@@ -44,7 +45,7 @@ def appBody():
 
 # main function to load everything.
 def main():
-    loadData()
+    #loadData()
     appBody()
 
 # calls the main function.

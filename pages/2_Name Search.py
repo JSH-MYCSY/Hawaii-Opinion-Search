@@ -13,34 +13,37 @@ st.set_page_config(
 )
 
 # Copy of function from Home Page because streamlit does not like you importing from other pages.
-def loadData():
-    if('OpinionText' not in st.session_state or 'NameList' not in st.session_state):
-        loadList = os.listdir("courtOpinionText/")
-        OpinionText = []
-        NameList = []
-        for item in loadList:
-            with open("courtOpinionText/" + item, "r", encoding="utf-8") as txtObj:
-                OpinionText.append([str(item).split(".")[0], txtObj.read().lower()])
-        with open("CourtOpinion_Hawaii_New.csv", "r", encoding="utf-8") as csvObj:
-            reader = csv.reader(csvObj)
-            for row in reader:
-                NameList.append(row)
-        st.session_state['OpinionText'] = OpinionText
-        st.session_state['NameList'] = NameList
+# @st.cache
+# def loadData():
+#     if('OpinionText' not in st.session_state or 'NameList' not in st.session_state):
+#         loadList = os.listdir("courtOpinionText/")
+#         OpinionText = []
+#         NameList = []
+#         for item in loadList:
+#             with open("courtOpinionText/" + item, "r", encoding="utf-8") as txtObj:
+#                 OpinionText.append([str(item).split(".")[0], txtObj.read().lower()])
+#         with open("CourtOpinion_Hawaii_New.csv", "r", encoding="utf-8") as csvObj:
+#             reader = csv.reader(csvObj)
+#             for row in reader:
+#                 NameList.append(row)
+#         st.session_state['OpinionText'] = OpinionText
+#         st.session_state['NameList'] = NameList
 
 # name search function
 @st.cache_data(ttl="1d", max_entries=10) # caches the last ten search results for one day in order to provide faster results upon searching again.
 def nameSearch(userInput):
     name_list = []
-    for row in st.session_state['NameList']:
-        if userInput.lower() in str(row[0]).lower():
-            name_list.append(row)
+    with open("CourtOpinion_Hawaii_New.csv","r",encoding="utf-8") as csvObj:
+        reader = csv.reader(csvObj)
+        for row in reader:
+            if userInput.lower() in str(row[0]).lower():
+                name_list.append(row)
     return(name_list)
 
 # this is the main function for this page.
 def main():
     st.title("Test Opinion Name Search")
-    loadData()
+    #loadData()
     user_text = st.text_input("What name do you want to search for?")
     if st.button("Name Search"):
         print(user_text)

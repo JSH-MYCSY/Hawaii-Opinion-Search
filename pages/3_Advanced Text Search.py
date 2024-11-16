@@ -13,28 +13,31 @@ st.set_page_config(
 )
 
 # Copy of function from Home Page because streamlit does not like it when you import from other pages.
-def loadData():
-    if('OpinionText' not in st.session_state or 'NameList' not in st.session_state):
-        loadList = os.listdir("courtOpinionText/")
-        OpinionText = []
-        NameList = []
-        for item in loadList:
-            with open("courtOpinionText/" + item, "r", encoding="utf-8") as txtObj:
-                OpinionText.append([str(item).split(".")[0], txtObj.read().lower()])
-        with open("CourtOpinion_Hawaii_New.csv", "r", encoding="utf-8") as csvObj:
-            reader = csv.reader(csvObj)
-            for row in reader:
-                NameList.append(row)
-        st.session_state['OpinionText'] = OpinionText
-        st.session_state['NameList'] = NameList
+# @st.cache
+# def loadData():
+#     if('OpinionText' not in st.session_state or 'NameList' not in st.session_state):
+#         loadList = os.listdir("courtOpinionText/")
+#         OpinionText = []
+#         NameList = []
+#         for item in loadList:
+#             with open("courtOpinionText/" + item, "r", encoding="utf-8") as txtObj:
+#                 OpinionText.append([str(item).split(".")[0], txtObj.read().lower()])
+#         with open("CourtOpinion_Hawaii_New.csv", "r", encoding="utf-8") as csvObj:
+#             reader = csv.reader(csvObj)
+#             for row in reader:
+#                 NameList.append(row)
+#         st.session_state['OpinionText'] = OpinionText
+#         st.session_state['NameList'] = NameList
 
 # This is the search function for the program.
 @st.cache_data(ttl="1d", max_entries=10)  # This function is meant to cache the last 10 search results for 1 day so that they can be pulled up faster.
 def advancedTextSearch(mustUserArray,mayUserArray):  # This has two inputs in order to tell the cache to treat a ChatGPT search differently from a normal search.
     returnList = []
     searchedList = []
-    for searchItem in st.session_state['OpinionText']:
-        searchedList.append([searchItem[0],searchItem[1],0,0])
+    loadList = os.listdir("courtOpinionText/")
+    for searchItem in loadList:
+        with open("courtOpinionText/" + searchItem,"r",encoding="utf-8") as txtObj:
+            searchedList.append([str(searchItem).split(".")[0],txtObj.read().lower(),0,0])
     t = 0
     
     for row1 in searchedList:
@@ -47,21 +50,22 @@ def advancedTextSearch(mustUserArray,mayUserArray):  # This has two inputs in or
                 row1[3]+=1
                 t+=1
     
-    
-    for row in st.session_state['NameList']:
-        for row1 in searchedList:
-            if(t > 0):
-                if(row1[2] == len(mustUserArray) and row1[0] in row[1] and row1[3] > 0):
-                    returnList.append(row)
-            else:
-                if(row1[2] == len(mustUserArray) and row1[0] in row[1]):
-                    returnList.append(row)
+    with open("CourtOpinion_Hawaii_New.csv","r",encoding="utf-8") as csvObj:
+        reader = csv.reader(csvObj)
+        for row in reader:
+            for row1 in searchedList:
+                if(t > 0):
+                    if(row1[2] == len(mustUserArray) and row1[0] in row[1] and row1[3] > 0):
+                        returnList.append(row)
+                else:
+                    if(row1[2] == len(mustUserArray) and row1[0] in row[1]):
+                        returnList.append(row)
     return(returnList)
 
 # This is the main function for this page.
 def main():
     st.title("Test Opinion Text Search")
-    loadData()
+    #loadData()
     st.text("separate each search term with a comma (ex. 'Honolulu, OVUII' for Honolulu and OVUII)")
     user_text2 = st.text_input("Text must include:")
     user_text3 = st.text_input("Text may include:")

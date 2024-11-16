@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from openai import OpenAI
+#from openai import OpenAI
 import os, csv
 
 # sets the page configurations, visually the same as the home page, but with a different page title.
@@ -14,81 +14,86 @@ st.set_page_config(
 )
 
 # This function is used later to provide users with a more focused and refined search results using ChatGPT.
-def ChatGPTSubjectSearch(userInput, opinionExcerpt):
-    client = OpenAI(api_key = st.secrets['OPENAI_API_KEY'])
-    completion = client.chat.completions.create(
-        model="gpt-3.5-turbo",
-        messages=[
-            {"role": "system", "content": "You are being passed a keyword and an excerpt from a court opinion. Determine if the keyword is the subject of the sentence it is used in. If the keyword is the subject, return only True. Otherwise, return only False."},
-            {"role": "user", "content": "keyword:" + "\n" + userInput + "\n" + "excerpt:" + "\n" + opinionExcerpt}
-        ]
-    )
-    return(completion.choices[0].message.content)
+# def ChatGPTSubjectSearch(userInput, opinionExcerpt):
+#     client = OpenAI(api_key = st.secrets['OPENAI_API_KEY'])
+#     completion = client.chat.completions.create(
+#         model="gpt-3.5-turbo",
+#         messages=[
+#             {"role": "system", "content": "You are being passed a keyword and an excerpt from a court opinion. Determine if the keyword is the subject of the sentence it is used in. If the keyword is the subject, return only True. Otherwise, return only False."},
+#             {"role": "user", "content": "keyword:" + "\n" + userInput + "\n" + "excerpt:" + "\n" + opinionExcerpt}
+#         ]
+#     )
+#     return(completion.choices[0].message.content)
 
 # This functions sets up a toggle that is saved to a global boolean in order to function as an on/off switch for the ChatGPT search function.
-def setupAIon():
-    global AIon
-    #AIon = st.toggle("OpenAI Refined Search")
-    AIon = False
+# def setupAIon():
+#     global AIon
+#     #AIon = st.toggle("OpenAI Refined Search")
+#     AIon = False
 
 # Copy of function from Home Page because streamlit does not like it when you import from other pages.
-def loadData():
-    if('OpinionText' not in st.session_state or 'NameList' not in st.session_state):
-        loadList = os.listdir("courtOpinionText/")
-        OpinionText = []
-        NameList = []
-        for item in loadList:
-            with open("courtOpinionText/" + item, "r", encoding="utf-8") as txtObj:
-                OpinionText.append([str(item).split(".")[0], txtObj.read().lower()])
-        with open("CourtOpinion_Hawaii_New.csv", "r", encoding="utf-8") as csvObj:
-            reader = csv.reader(csvObj)
-            for row in reader:
-                NameList.append(row)
-        st.session_state['OpinionText'] = OpinionText
-        st.session_state['NameList'] = NameList
+# @st.cache
+# def loadData():
+#     if('OpinionText' not in st.session_state or 'NameList' not in st.session_state):
+#         loadList = os.listdir("courtOpinionText/")
+#         OpinionText = []
+#         NameList = []
+#         for item in loadList:
+#             with open("courtOpinionText/" + item, "r", encoding="utf-8") as txtObj:
+#                 OpinionText.append([str(item).split(".")[0], txtObj.read().lower()])
+#         with open("CourtOpinion_Hawaii_New.csv", "r", encoding="utf-8") as csvObj:
+#             reader = csv.reader(csvObj)
+#             for row in reader:
+#                 NameList.append(row)
+#         st.session_state['OpinionText'] = OpinionText
+#         st.session_state['NameList'] = NameList
 
 # This is the search function for the program.
 @st.cache_data(ttl="1d", max_entries=10)  # This function is meant to cache the last 10 search results for 1 day so that they can be pulled up faster.
-def textSearch(userInput, AISearch):  # This has two inputs in order to tell the cache to treat a ChatGPT search differently from a normal search.
+def textSearch(userInput, AISearch=False):  # This has two inputs in order to tell the cache to treat a ChatGPT search differently from a normal search.
     returnList = []
     searchedList = []
-    for searchItem in st.session_state['OpinionText']:
-        txtRead = searchItem[1]
-        if(userInput.lower() in txtRead):  # txtRead was already made lower when initially loaded.
-                inputLength = len(userInput)
-                if(AISearch == True):  # This is the toggle for the AI search feature.
-                    startingLine = 0
-                    endchecker = inputLength
-                    while(endchecker < len(txtRead)):
-                        if(userInput.lower() == txtRead[startingLine:endchecker].lower()):
-                            if(ChatGPTSubjectSearch(userInput, txtRead[startingLine-50:endchecker+50]) == "True"):  # provides ChatGPT with a snippet of the text 100 characters long to determine if the inputted word or phrase is the subject of the sentence it is used in.
-                                name = searchItem[0]
-                                returnList.append(name)
-                                break
-                            startingLine+=50
-                            endchecker+=50
-                        else:
-                            startingLine+=1
-                            endchecker+=1
-                else:
-                    name = searchItem[0]
-                    returnList.append(name)
-    for row in st.session_state['NameList']:
-        for name in returnList:
-            if(name in row[1]):
-                searchedList.append(row)
+    loadList = os.listdir("courtOpinionText/")
+    for searchItem in loadList:
+        with open("courtOpinionText/" + searchItem, "r", encoding="utf-8") as txtObj:
+            txtRead = txtObj.read().lower()
+            if(userInput.lower() in txtRead):  # txtRead was already made lower when initially loaded.
+                    # inputLength = len(userInput)
+                    # if(AISearch == True):  # This is the toggle for the AI search feature.
+                    #     startingLine = 0
+                    #     endchecker = inputLength
+                    #     while(endchecker < len(txtRead)):
+                    #         if(userInput.lower() == txtRead[startingLine:endchecker].lower()):
+                    #             if(ChatGPTSubjectSearch(userInput, txtRead[startingLine-50:endchecker+50]) == "True"):  # provides ChatGPT with a snippet of the text 100 characters long to determine if the inputted word or phrase is the subject of the sentence it is used in.
+                    #                 name = searchItem[0]
+                    #                 returnList.append(name)
+                    #                 break
+                    #             startingLine+=50
+                    #             endchecker+=50
+                    #         else:
+                    #             startingLine+=1
+                    #             endchecker+=1
+                    #else:
+                name = str(searchItem).split(".")[0]
+                returnList.append(name)
+    with open("CourtOpinion_Hawaii_New.csv","r",encoding="utf-8") as csvObj:
+        reader = csv.reader(csvObj)
+        for row in reader:
+            for name in returnList:
+                if(name in row[1]):
+                    searchedList.append(row)
     return(searchedList)
 
 # This is the main function for this page.
 def main():
     st.title("Test Opinion Text Search")
-    setupAIon()
-    loadData()
+    #setupAIon()
+    #loadData()
     user_text2 = st.text_input("What text do you want to search for?")
     if st.button("Text Search"):
         print(user_text2)
         try:  # the try/except pattern is to catch the error when the searchList returns nothing.
-            new_list = textSearch(user_text2, AIon)
+            new_list = textSearch(user_text2)
             df1 = pd.DataFrame({  # using this data frame to pull out some of the case information to display in a table.
                 "Case Name": [sublist[0] for sublist in new_list],
                 "Case Date": [sublist[2][0:10] for sublist in new_list],
