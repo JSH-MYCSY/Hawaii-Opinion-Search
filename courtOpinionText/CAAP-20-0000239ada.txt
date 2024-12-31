@@ -1,0 +1,2848 @@
+   
+    
+         
+          FOR  PUBLICATION  IN  WEST'S  HAWAI I  REPORTS  AND   PACIFIC  REPORTER 
+Electronically Filed 
+Intermediate Court of Appeals CAAP-20-0000239 31-DEC-2024 08:24 AM Dkt. 113 OP 
+IN  THE  INTERMEDIATE  COURT  OF  APPEALS 
+OF  THE  STATE  OF  HAWAI I  
+---o0o---
+KELLY  WAIAU,  Individually  and  as  Guardian  Prochein  Ami 
+of  MINOR  BOY  1,  RAQUEL  BALGA;  ROMAINE  DEBBIE  CASTRO, 
+as  Personal  Representative  of  the  Estate  of  AMOS  KEN  AGLIAM, 
+Plaintiffs-Appellants,  v. 
+HAWAII  EMPLOYERS'  MUTUAL  INSURANCE  COMPANY,  INC.; 
+FIRST  INSURANCE  COMPANY  OF  HAWAII,  LTD.;  GENERAL  STAR 
+INDEMNITY  COMPANY;  NORTH  AMERICAN  CAPACITY  INSURANCE  COMPANY, 
+Defendants-Appellees,  and 
+JOHN  DOES  1-10;  JANE  DOES  1-10;  DOE  PARTNERSHIPS  1-10; 
+DOE  CORPORATIONS  1-10;  ROE  "NON-PROFIT"  CORPORATIONS  1-10; 
+and  ROE  GOVERNMENTAL  ENTITIES  1-10,  Defendants 
+NO.  CAAP-20-0000239 
+APPEAL  FROM  THE  CIRCUIT  COURT  OF  THE  THIRD  CIRCUIT 
+(CIVIL  NO.  18-1-0123K) 
+DECEMBER  31,  2024 
+LEONARD,  ACTING  CHIEF  JUDGE,  WADSWORTH  AND  NAKASONE,  JJ. 
+OPINION  OF  THE  COURT  BY  LEONARD,  ACTING  CHIEF  JUDGE 
+The appellants
+ in this case challenge two summary 
+judgment orders entered against them and in favor of three 
+insurance companies. With these orders and a judgment, all of         
+        
+         
+          
+        
+         
+          
+         
+       
+    
+        
+        
+       
+        
+        
+        
+         
+     
+            
+          
+        
+       
+          
+       
+          
+          FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+the appellants' claims against these insurers were dismissed with 
+prejudice. The appellants' claims arose, in the first instance, 
+from the work-related death of a trucking company employee. When 
+the employer and the deceased employee's co-workers were sued, 
+the insurance companies denied any duty to defend or provide 
+coverage for liability. That litigation ended with a judgment in 
+favor of the appellants herein and an assignment of the 
+defendants' claims against multiple insurers. That assignment 
+underlies this lawsuit and appeal. 
+The
+ appellants argue that the court below erred in 
+granting summary judgment based on the employee and fellow 
+employee exclusions contained in, or incorporated into, the 
+insurers' policies. The appellants argue that these exclusions 
+are invalid and unenforceable on various grounds, including based 
+on a severability-of-interests clause and the requirements of the 
+Hawai i Motor  Vehicle Insurance Law. We hold that the 
+severability-of-interests provision does not entitle appellants 
+to relief in this case. We further hold, in brief summary, that 
+the insurers were not entitled to a dismissal of all claims 
+against them with prejudice because, inter alia, enforcement of 
+the subject policy exclusions would conflict with statutory 
+mandates, and under the terms of the policies, the statute takes 
+precedence over conflicting policy provisions. However, the 
+court below did not err in concluding that the excess coverage 
+insurers had no duty to defend the claims in the underlying 
+lawsuit. 
+2         
+     
+     FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+Plaintiffs-Appellants  Kelly  Waiau,  individually  and  as 
+Guardian  Prochein  Ami  of  Minor  Boy  1,  Raquel  Balga,  and  Romaine 
+Debbie  Castro,  as  Personal  Representative  of  the  Estate  of  Amos 
+Ken  Agliam  (Waiau  Parties ),  appeal  from  the  March  24,  2020  Rule 
+54(b)  Final  Judgment  entered  by  the  Circuit  Court  of  the  Third 
+Circuit  (Circuit  Court), which  was  amended  by  the  September  3, 
+2020  Amended  Rule  54(b)  Final  Judgment  (Amended  Rule  54(b) 
+Judgment )  entered  by  the  Circuit  Court.   The  Waiau  Parties  also 
+challenge  two  summary  judgment  orders  that  were  entered  against 
+them,  and  in  favor  of  the  three  insurance  companies,  and  then 
+reduced  to  an  appealable  judgment  in  the  Amended  54(b)  Judgment:   
+(1)  the  September  5,  2019  Order  Granting  [Defendant-Appellee] 
+General  Star  Indemnity  Company's  [(General  Star's)]  Motion  for 
+Summary  Judgment  (Filed  5/30/19)  and  Defendant[-Appellee]  First 
+Insurance  Company  of  Hawaii,  Ltd's  [(First  Insurance's )] 
+Substantive   Joinder   (Filed  5/31/2019)   (the  General   Star  SJ 
+Order);  and  (2)  the  September  5,  2019  Order  Granting  Defendant-
+[Appellee]  North  American  Capacity  Insurance   Company's 
+[(NACIC's )]  Motion  for  Summary   Judgment   and  [First  Insurance's] 
+Joinder   (the  NACIC  SJ  Order).   With  these  orders  and  judgments, 
+all  of  the  Waiau  Parties'   claims  against   First  Insurance,   General 
+Star,  and  NACIC  were  dismissed   with  prejudice.    The  Waiau 
+Parties'   claims  against   Defendant-Appellee   Hawaii  Employers' 
+Mutual  Insurance   Company   (HEMIC),  as  well  as  First  Insurance's 
+cross-claims   against   HEMIC,  General   Star,  and  NACIC,  HEMIC's 2 1 
+1 The Honorable Melvin H. Fujino presided. 
+2 The Honorable Wendy M. DeWeese presided. 
+3         
+      
+       
+ 
+  
+        
+         
+         
+         
+             
+           
+         
+      
+          
+       
+        
+        
+      
+        
+           
+        
+   
+      
+          
+          
+          
+             
+    FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+cross-claim against First Insurance, and General Star's 
+counterclaim for declaratory relief remain pending before the 
+Circuit Court. 
+I. BACKGROUND 
+A. The Underlying Suit 
+On November 15, 2013, Amos K. Agliam (Agliam), an 
+employee of C&F Trucking, was operating a C&F Trucking tractor 
+and fuel-hauling trailer filled with diesel fuel; when its brakes 
+failed, the tractor-trailer careened off the road, and Agliam was 
+ejected and died. C&F Trucking is not an entity, but a "dba" and 
+a trade name registered by Frank M. Lawrence (Frank). A claim 
+was made on behalf of Agliam for workers' compensation benefits 
+and benefits were received by Agliam's estate. 
+In a separate suit filed on October 31, 2014, the Waiau 
+Parties sued Frank, Claudia Lawrence (Claudia ), Kevin Lawrence 
+(Kevin), Keith Lawrence (Keith), and C&F Trucking (together, the 
+Assignors ) alleging, inter alia, that each of the individual 
+Assignors were managing and/or supervisory employees and/or 
+officers and/or directors of C&F Trucking, and that Agliam's 
+death was caused by the wilful and wanton misconduct of each of 
+the Assignors, within the meaning of Hawaii Revised Statutes 
+(HRS) § 386-8 (2015). 
+The Assignors notified HEMIC, First Insurance, NACIC, 
+but perhaps not General Star, of the underlying lawsuit.3 Each 
+of the insurers declined to provide any defense and/or liability/ 
+3 General Star maintains that it did not receive notice of the 
+lawsuit until January 31, 2018, but that issue was not the basis for General 
+Star's motion for summary judgment. 
+4         
+         
+         
+           
+       
+         
+         
+          
+           
+         
+         
+          
+         
+         
+         
+         
+           
+ 
+         
+         
+       
+           
+         
+        
+         
+        FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+indemnity coverage to any of the Assignors regarding the Agliam 
+incident or the underlying lawsuit. The Assignors hired defense 
+counsel at their own expense for a period of time, but after 
+certain discovery was completed, the Assignors eventually entered 
+into an agreement with the Waiau Parties to stipulate to 
+liability as to a single count (Negligent, Wilful, and/or Wanton 
+Misconduct), and to go to binding arbitration on the sole issue 
+of the damages to the Waiau Parties arising from Agliam's death. 
+The parties further agreed that the Assignors would, inter alia, 
+assign their rights and claims against the Assignors' insurers to 
+the Waiau Parties and that the Waiau Parties would give the 
+insurers notice of the binding arbitration and an opportunity to 
+appear and dispute the damages. None of the insurers 
+participated in the arbitration. A total of $2,607,528.60 of 
+special and general damages were awarded to the Waiau Parties, 
+and a Final Judgment reflecting that amount was entered on May 9, 
+2018. 
+B. The Insurance 
+At the time of Agliam's death, Frank dba C&F Trucking 
+had in effect with HEMIC an insurance policy that included 
+Employer's Liability Insurance, with bodily injury limits of 
+$1,000,000 per accident. HEMIC admits that it did not defend or 
+indemnify the Assignors in the underlying lawsuit and denies that 
+there was any applicable coverage under the HEMIC policy, 
+specifically raising as a defense, inter alia, the terms and 
+conditions under Part Two Employers Liability Insurance of the 
+5         
+             
+        
+          
+         
+           
+           
+        
+          
+       
+  
+  
+        
+       
+      
+       
+       
+         
+        
+       
+        
+        
+       
+      
+  
+     
+      
+ 
+      
+      
+       
+       
+   
+           
+          
+          FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+policy. The HEMIC policy does not appear to be in the record on 
+appeal. 
+At the time of Agliam's death, "C&F Trucking Frank 
+Lawrence DBA" had in effect with First Insurance a Business Auto 
+Policy with liability limits of $300,000 per person and $600,000 
+per accident. First Insurance sent a denial letter to Frank dba 
+C&F Trucking, as well as a denial letter to the other Assignors, 
+pursuant to a commercial general liability policy and the 
+Business Auto Policy at issue here. Of particular relevance to 
+this dispute, First Insurance's Business Auto Policy, Part 
+IV–LIABILITY INSURANCE, includes:4 
+A. WE WILL PAY. 
+1. We will pay all sums the insured legally must 
+pay as damages because of bodily injury or 
+property damage to which this insurance applies, 
+caused by an accident and resulting from the 
+ownership, maintenance or use of a covered auto. 
+2. We have the right and duty to defend any suit 
+asking for these damages. However, we have no 
+duty to defend suits for bodily injury or 
+property damage not covered by this policy. We 
+may investigate and settle any claim or suit as 
+we consider appropriate. Our payment of the 
+LIABILITY INSURANCE limit ends our duty to 
+defend or settle. 
+   . . . . 
+C.
+ WE WILL NOT COVER — EXCLUSIONS. 
+This insurance does not apply to: 
+   . . . . 
+3.
+ Any obligation of the insured to indemnify 
+another for damages resulting from bodily injury 
+to the insured's employee. [This exclusion does 
+not apply to liability assumed by the insured 
+under an insured contract.] 
+4 Subparts C.3. & C.5. of the Business Auto Policy were changed with 
+an Endorsement. For completeness, we have included the original policy 
+language, with the language added with the Endorsement in brackets and 
+italicized . 
+6         
+       
+         
+  
+       
+          
+      
+       
+     
+     
+       
+       
+ 
+         
+      
+       
+    
+       FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+4. Bodily injury to any fellow employee of the 
+insured arising out of and in the course of his 
+or her employment. 
+5. Bodily injury to any employee of the insured 
+arising out of and in the course of his or her 
+employment by the insured. However, this 
+exclusion does not apply to bodily injury to 
+domestic employees not entitled to workers' 
+compensation benefits [or to liability assumed 
+by  the  insured  under  an  insured  contract] . 
+The
+ First Insurance Business Auto Policy also includes 
+what is known as a severability-of-interests provision, which 
+states: 
+"Insured"  means  any  person  or  organization  qualifying  as  an 
+insured  in  the  WHO  IS  INSURED  section  of  the  applicable 
+insurance.   Except  with  respect  to  our  limit  of  liability, 
+the  insurance  afforded  applies  separately  to  each  insured 
+who  is  seeking  coverage  or  against  whom  a  claim  is  made  or 
+suit  is  brought.  
+At  the  time  of  Agliam's  death,  Frank  dba  C&F  Trucking 
+had  in  effect  with  General  Star  an  Excess  Automobile  Liability 
+Policy.   The  Declarations  for  this  policy  state  that  the  policy 
+limit  is  "100%  of  the  difference  between  $1,000,000  Combined 
+Single  Limits  and  the  limits  stated  in  the  SCHEDULE  OF  UNDERLYING 
+INSURANCE."   The  General  Star  policy  states  that  except  for  its 
+own  express  provisions,  "the  policy  will  follow  the  terms, 
+conditions,  agreements,  definitions,  exclusions  and  limitations 
+of  the  controlling  underlying  policy,"  i.e.,  First  Insurance's 
+Business  Auto  Policy.   The  General  Star  policy  expressly  states 
+that  General  Star  "will  not  be  obligated  to  investigate,  defend 
+or  settle  any  claim  or  suit  against  the  insured."   The  General 
+Star  policy  further  states: 
+7. LOSS PAYABLE 
+If the amount of the ultimate net loss becomes certain 
+either through trial court judgment or agreed 
+settlement among the insured, the claimant, or the 
+claimant's legal representative, the underlying 
+insurer and us, then, the insured or underlying 
+7         
+         
+        
+         
+         
+        
+        
+        
+         
+        
+       
+        
+    
+         
+         
+          
+         
+          
+         
+     
+       
+         
+         
+           
+          
+         
+          
+          
+      
+ 
+         
+       
+        
+          
+           
+   FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+insurer will pay the amount of ultimate net loss to 
+the claimant to effect settlement. Upon submission of 
+due proof thereof, we will pay on behalf of the 
+insured that part of ultimate net loss which is in 
+excess of the underlying insurance , or we will, upon 
+request of the insured, make such payment to the 
+claimant on behalf of the insured after the underlying 
+insurers have paid or have been held legally liable to 
+pay the full amount of their respective limits of 
+liability as stated in the SCHEDULE OF UNDERLYING 
+INSURANCE, subject to our Limit of Insurance shown in 
+Item 4. of the Declarations. 
+At the time of Agliam's death, Frank dba C&F Trucking 
+had in effect with NACIC a Commercial Following Form Excess 
+Liability Policy, with an ultimate net loss limit in excess of 
+the First Insurance and General Star insurance of $4,000,000. 
+Similar to the General Star policy, the NACIC policy states that 
+except to the extent inconsistent with its own limits and 
+provisions, the terms, conditions, agreements, definitions, 
+exclusions, and limitations of the controlling underlying policy 
+are incorporated by reference. The NACIC policy expressly states 
+that NACIC "shall not be obligated to investigate, defend or 
+settle any claim or suit against the insured." The Limits of 
+Liability provision in the NACIC policy includes: "The limits of 
+the Company's liability under this Policy apply only after the 
+underlying insurers have paid or have been held legally liable to 
+pay the full amount of their respective limits of liability as 
+stated in Item 2 of the Declarations[.]"5 
+C. Proceedings Below 
+On June 19, 2018, the Waiau Parties filed the complaint 
+herein (Complaint ) against HEMIC, First Insurance, General Star, 
+5 This language is modified by provisos concerning aggregate limits 
+and accompanied by terms concerning the nature of the excess liability 
+(Contributing Excess Basis versus Excess of Loss Basis) that have not been 
+addressed by the parties. 
+8         
+        
+        
+         
+      
+          
+         
+         
+       
+          
+         
+           
+          
+        
+        
+        
+           
+         
+        
+           
+           
+       
+         
+         
+          
+          
+          
+        FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+and NACIC, seeking (among other things) declaratory relief, and 
+special, general, and punitive damages. The Complaint includes 
+counts for: Declaratory Relief (Count I); Breach of Contract 
+and/or Contractual Warranties (Count II); Negligence and/or 
+Breach of the Covenant of Good Faith and Fair Dealing (Count 
+III); and Punitive Damages (Count IV). The Complaint alleges, 
+variously, that the insurers should have provided a defense to 
+the Assignors and tendered their full policy limits. 
+Germane to this appeal, on May 15, 2019, NACIC filed a 
+motion for summary judgment on all counts (NACIC MSJ), arguing 
+that NACIC had no duty to defend or indemnify the Assignors based 
+on the fact that its policy provided excess coverage over the 
+underlying policies issued by First Insurance and General Star, 
+and the primary insurer First Insurance's policy expressly and 
+unambiguously excludes coverage for bodily injury to an employee 
+or fellow employee of the insured. NACIC argued that it breached 
+no duty to its insureds because the NACIC policy expressly 
+provides that NACIC "shall not be obligated to investigate, 
+defend, or settle any claim or suit against the insured." NACIC 
+further argued that because it did not violate any tort duty, it 
+could not be held liable for punitive damages. 
+On May 30, 2019, General Star filed a motion for 
+summary judgment on all counts (General Star MSJ), arguing that 
+General Star had no duty to defend or indemnify the Assignors 
+based on the fact that its policy provided excess coverage only 
+upon the exhaustion of the limits of the underlying policy issued 
+by First Insurance, and the primary insurer First Insurance's 
+9         
+       
+           
+            
+        
+         
+         
+            
+       
+       
+         
+        
+         
+       
+           
+          
+          
+          
+           
+ 
+         
+         
+        
+        
+        
+           
+          
+        
+              
+           
+            
+        FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+policy expressly and unambiguously excludes coverage for bodily 
+injury to an employee or fellow employee of the insured. General 
+Star argued it had no duty to defend because its policy is an 
+excess policy, First Insurance's declination of coverage did not 
+trigger any obligation by General Star, and General Star's policy 
+expressly states that it "will not be obligated to investigate, 
+defend or settle any claim or suit . . ." Regarding punitive 
+damages, General Star pointed to the NACIC MSJ. 
+On May 31, 2019, First Insurance filed [First 
+Insurance's] Substantive Joinder to: (1) [NACIC MSJ]; and (2) 
+[General Star MSJ] (Substantive Joinder ). In the Substantive 
+Joinder, First Insurance joined both motions to the extent that 
+the First Insurance policy expressly and unambiguously excludes 
+coverage to an employee or fellow employee of the insured. Based 
+on the policy exclusions, First Insurance argued that it did not 
+breach any duty to its insured, and therefore, the Waiau Parties 
+have no claim against it for breach of contract, negligence or 
+bad faith, and there is no basis for an award of punitive 
+damages. 
+The Waiau Parties filed memoranda in opposition to the 
+insurers' motions and the Substantive Joinder.6 With respect to 
+the applicability and enforcement of the First Insurance policy 
+exclusions used to preclude coverage, the Waiau Parties agreed 
+6 In response to First Insurance's Substantive Joinder, in addition 
+to opposing First Insurance's request for relief, the Waiau Parties included a 
+cross-motion for summary judgment against First Insurance. The Waiau Parties 
+similarly included cross-motions for summary judgment with their oppositions 
+to the General Star MSJ and the NACIC MSJ. However, none of the defendants 
+responded to the cross-motions and, while the record is silent, it appears 
+that they may have been procedurally infirm and they were simply abandoned. 
+The Circuit Court entered no ruling on the cross-motions. 
+10         
+           
+        
+         
+       
+        
+          
+          
+        
+     
+       
+       
+        
+          
+           
+        
+         
+         
+         
+         
+     
+        
+          
+        
+           
+         
+        
+            FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+that there were no material facts in dispute. They argued that 
+their claims against the Assignors, as co-employees of Agliam, 
+for wilful and wanton conduct, are covered under the First 
+Insurance policy, the policy exclusions are invalid and/or 
+unenforceable, and First Insurance breached its duty to defend 
+and indemnify. With respect to First Insurance's breach of the 
+duty of good faith and fair dealing and punitive damages, the 
+Waiau Parties argued that discovery was incomplete and a 
+continuance should be granted. 
+As
+ discussed further below, the Waiau Parties pointed 
+to the severability-of-interests clause in the First Insurance 
+policy, and the Hawai i Supreme  Court's interpretation of such 
+provisions in Tri-S Corp. v. Western World Ins. Co.,
+ 110 Hawai i 
+473,
+ 135 P.3d 82 (2006), and cases outside Hawai i. The  Waiau 
+Parties also argued that Exclusion 4 contravenes Hawai i public  
+policy and that enforcing it would allow First Insurance to 
+provide auto coverage that does not comply with Hawaii's Motor 
+Vehicle Insurance statute, HRS § 431:10C-301 (2019). The Waiau 
+Parties argued that the court should find the employee and/or 
+fellow employee exclusions void and/or unenforceable. 
+The
+ Waiau Parties relied on, inter alia, Hawai i case 
+law regarding an insurer's broad duty to defend when even a 
+remote possibility of coverage exists to argue that summary 
+judgment should be denied to First Insurance on the bad faith and 
+punitive damages issues, and that discovery should be allowed. 
+The Waiau Parties' arguments in opposition to the NACIC 
+MSJ and the General Star MSJ raised many of the arguments raised 
+11         
+         
+        
+         
+           
+          
+         
+          
+        
+       
+       
+            
+        
+           
+          
+         
+         
+          
+       
+        
+           
+        
+  
+  
+         
+          FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+against the primary insurer. In particular, the Waiau Parties 
+argued that the employee and fellow employee exclusions are 
+invalid and unenforceable. In addition, the Waiau Parties argued 
+that the excess carriers had a duty to defend the Assignors once 
+it became clear that the primary's limits would be exhausted, and 
+the excess carriers further breached their duties of good faith 
+and fair dealing by failing to engage in good faith settlement 
+evaluations, or further discovery was necessary to uncover their 
+conduct and communications with respect to the underlying 
+lawsuit. 
+Reply
+ memoranda were filed by the excess coverage 
+insurers and a hearing was held on June 18, 2019. At the 
+conclusion of the parties' arguments, the matters were taken 
+under advisement. On September 5, 2019, both the General Star SJ 
+Order and the NACIC SJ Order were entered. Thereafter, General 
+Star filed a motion requesting Hawai i Rules  of Civil Procedure 
+(HRCP) Rule 54(b) certification of the summary judgment orders as 
+final, on the basis that they finally resolved all claims with 
+respect to the commercial automobile insurance policies, and 
+fully resolved the Waiau Parties claims against First Insurance, 
+General Star, and NACIC. The other parties took no position, the 
+motion for HRCP Rule 54(b) certification was granted, and 
+judgment was entered. 
+II. POINTS OF ERROR 
+The Waiau Parties raise four points of error on appeal, 
+contending that the Circuit Court erred in entering: (1) the 
+12         
+          
+        
+   
+         
+         
+     
+        
+           
+          
+  
+  
+         
+           
+            
+        
+           
+          
+    
+       
+       
+  FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+NACIC SJ Order; (2) the General Star SJ Order; (3) the 
+Substantive Joinder; and (4) the Amended Rule 54(b) Judgment. 
+III. APPLICABLE STANDARDS OF REVIEW 
+On appeal, the grant or denial of summary judgment is 
+reviewed de novo. Summary judgment is appropriate if the 
+pleadings, depositions, answers to interrogatories, and 
+admissions on file, together with the affidavits, if any, 
+show that there is no genuine issue as to any material fact 
+and that the moving party is entitled to judgment as a 
+matter of law. 
+Carmichael  v.  Bd.  of  Land  and  Nat.  Resources,  150  Hawai i  547, 
+560,  506
+  P.3d  211,  224  (2022)  (citation  omitted). 
+"This  court  reviews  the  interpretation  of  a  contract  de 
+novo."   Title  Guar.  Escrow  Serv.,  Inc.  v.  Wailea  Resort  Co.,  146 
+Hawai i  34,  46,  456  P.3d   107,  119  (2019).   
+Moreover,  because  an  insurance   policy  is  a  contract, 
+insurance  policies  are  subject  to  the  general  rules  of 
+contract  construction;  the  terms  of  the  policy  should  be 
+interpreted  according  to  their  plain,  ordinary,  and  accepted 
+sense  in  common  speech  unless  it  appears  from  the  policy 
+that  a  different  meaning  is  intended.   Moreover,  every 
+insurance  contract  shall  be  construed  according  to  the 
+entirety  of  its  terms  and  conditions  as  set  forth  in  the 
+policy.   
+Tri-S Corp., 110  Hawai i at 489,  135 P.3d at 98 (quoting Dairy 
+Rd. Partners v. Island Ins. Co., 92 Hawai i  398, 411,  992 P.2d 
+93, 106 (2000)). "On the other hand, however, we have long held 
+that any ambiguities in an insurance contract regarding coverage 
+are resolved in favor of the insured as against the insurer." 
+Nautilus Ins. Co. v. Lexington Ins. Co., 132 Hawai i  283, 293,  
+321 P.3d 634, 644 (2014). 
+IV. DISCUSSION 
+The
+ Hawai i Supreme  Court has stated the general 
+principles of law concerning the interpretation of insurance 
+policies as follows: 
+13         
+    
+   
+         
+      
+      
+      
+    
+       
+         
+  
+       
+          
+      
+       
+     
+  
+ FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+Insurers  have  the  same  rights  as  individuals  to  limit 
+their  liability  and  to  impose  whatever  conditions  they 
+please  on  their  obligation,  provided  they  are  not  in 
+contravention  of  statutory  inhibitions  or  public  policy.   As 
+such,  insurance  policies  are  subject  to  the  general  rules  of 
+contract  construction;  the  terms  of  the  policy  should  be 
+interpreted  according  to  their  plain,  ordinary,  and  accepted 
+sense  in  common  speech  unless  it  appears  from  the  policy 
+that  a  different  meaning  is  intended.   Moreover,  every 
+insurance  contract  shall  be  construed  according  to  the 
+entirety  of  its  terms  and  conditions  as  set  forth  in  the 
+policy.   Nevertheless,  adherence  to  the  plain  language  and 
+literal  meaning  of  insurance  contract  provisions  is  not 
+without  limitation.   We  have  acknowledged  that  because 
+insurance  policies  are  contracts  of  adhesion  and  are 
+premised  on  standard  forms  prepared  by  the  insurer's 
+attorneys,  we  have  long  subscribed  to  the  principle  that 
+they  must  be  construed  liberally  in  favor  of  the  insured  and 
+any  ambiguities  must  be  resolved  against  the  insurer.   Put 
+another  way,  the  rule  is  that  policies  are  to  be  construed 
+in  accord  with  the  reasonable  expectations  of  a  layperson. 
+Dairy  Rd.  Partners,   92  Hawai i  at  411-12,   992  P.2d  at  106-07 
+(cleaned  up). 
+These principles guide
+ our analysis of the insurance 
+policies at issue, and the parties' arguments in this case. 
+A. The First Insurance Business Auto Policy Exclusions 
+The  Waiau  Parties  argue  that  the  Circuit  Court  erred  in 
+granting  summary  judgment  based  on  the  First  Insurance  Business 
+Auto  Policy  exclusions,  which  state,  in  relevant  part,  that  the 
+insurance  does  not  apply  to:  
+3. Any obligation of the insured to indemnify 
+another for damages resulting from bodily injury 
+to the insured's employee. 
+4. Bodily injury to any fellow employee of the 
+insured arising out of and in the course of his 
+or her employment. 
+5. Bodily injury to any employee of the insured 
+arising out of and in the course of his or her 
+employment by the insured. However, this 
+exclusion does not apply to bodily injury to 
+domestic employees not entitled to worker's 
+compensation benefits. 
+Collectively,  these  three  exclusions  are  considered 
+employee  and  fellow  employee  exclusions.   The  "named  insured" 
+14
+         
+          
+         
+       
+        
+          
+         
+    
+       
+        
+        
+           
+          
+         
+            
+     
+           
+         
+         
+           
+        
+       
+         
+   
+       
+         
+         
+        
+        
+       
+        
+          
+        
+       
+         FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+under the First Insurance Business Auto Policy is Frank dba C&F 
+Trucking, Agliam's employer. The insurers argue that pursuant to 
+these exclusions, the First Insurance policy expressly and 
+unambiguously excludes coverage for the bodily injury to Agliam 
+as either an employee of Frank dba C&F Trucking or fellow 
+employee of Frank or, assuming arguendo they are insured under 
+the policy, the other Assignors. 
+Plainly, the base rationale supporting such exclusions 
+is that, under the exclusivity provision in Hawaii's workers' 
+compensation statute, HRS § 386-5 (2015),7 with few exceptions, 
+an injured employee gives up his or her right to recover damages 
+from an employer "in exchange for the certainty of a statutory 
+award for all work-connected injuries." Evanson v. Univ. of 
+Haw., 52 Haw. 595, 598, 483 P.2d 187, 190 (1971). By eliminating 
+coverage that unnecessarily duplicates workers' compensation 
+insurance, an employer can try to lower its insurance expenses. 
+HRS § 386-8 (2015), which addresses the liability of a 
+third person for a compensable work injury, provides, in relevant 
+part: 
+§ 386-8 Liability of third person. (a) When a work 
+injury for which compensation is payable under this chapter 
+has been sustained under circumstances creating in some 
+person other than the employer or another employee of the 
+7 HRS § 386-5 provides: 
+§ 386-5 Exclusiveness of right to compensation; 
+exception . The rights and remedies herein granted to an 
+employee or the employee's dependents on account of a work 
+injury suffered by the employee shall exclude all other 
+liability of the employer to the employee, the employee's 
+legal representative, spouse, dependents, next of kin, or 
+anyone else entitled to recover damages from the employer, 
+at common law or otherwise, on account of the injury, except 
+for sexual harassment or sexual assault and infliction of 
+emotional distress or invasion of privacy related thereto, 
+in which case a civil action may also be brought. 
+15         
+ 
+ 
+     
+        
+        
+        
+       
+         
+       
+  
+          
+         
+       
+        
+         
+         
+        
+            . . . . FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+employer  acting  in  the  course  of  his  employment  a  legal 
+liability  to  pay  damages  on  account  thereof,  the  injured 
+employee  or  his  dependents  .  .  .  may  claim  compensation 
+under  this  chapter  and  recover  damages  from  such  third 
+person. 
+(k)  Another  employee  of  the  same  employer  shall  not  be  
+relieved  of  his  liability  as  a  third  party,  if  the  personal 
+injury  is  caused  by  his  wilful  and  wanton  misconduct. 
+(Emphasis added.)8 
+While  HRS  §  386-8  extends  immunity   from  suit  for  simple 
+negligence  to  an  injured  worker's  co-employee,  that  immunity  does 
+not  extend  to  the  wilful  and  wanton  misconduct  of  a  co-employee.   
+See  Iddings  v.  Mee-Lee,  82  Hawai i  1,  9,  919  P.2d  263,  271  (1996) 
+(allowing  suits  between  co-employees  based  upon  reckless 
+conduct). 
+Thus,
+ although Frank's liability as Agliam's employer 
+was prohibited by the workers' compensation statute, the Waiau 
+Parties' fellow employee claims against the Assignors were not 
+otherwise barred by the statute. Accordingly, the First 
+Insurance Business Auto Policy exclusions, if enforced, deny 
+coverage for bodily injury claims that are not subject to 
+liability protections under the workers' compensation statute. 
+1. The Severability-of-Interests Clause 
+Here, the Waiau Parties point to Frank as being a co-
+employee of Agliam and argue that, pursuant to the severability-
+of-interests clause contained in the First Insurance policy, 
+exclusion 3 and exclusion 5 are unenforceable. 
+In the Circuit Court and on appeal, the Waiau Parties 
+argue that they sued Frank as a "supervisory and/or managing 
+8 In 2016, technical, non-substantive amendments were made to HRS 
+§ 386-8. See Act 55 of 2016, § 11. 
+16         
+         
+        
+           
+         
+         
+    
+       
+        
+       
+        
+    
+         
+          
+         
+           
+           FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+employee and/or officer and/or director of C&F Trucking." In 
+response, NACIC points to the trade name registration application 
+that was submitted with the NACIC MSJ as evidence that Frank was 
+not a managing employee, officer, or director of C&F Trucking, 
+and that the authorities cited by the Waiau Parties concerning 
+severability-of-interests provisions are distinguishable. 
+General Star argues that the severability-of-interests clause is 
+not inconsistent with the application of the employer and 
+employee exclusions because, applying each separately to each 
+insured, as the severability clause requires, the policy still 
+does not provide coverage. 
+The Waiau Parties argue that this case is like Tri-S 
+Corp., 110 Hawai i 473, 135  P.3d 82 (2006), and applying the 
+principles from Tri-S, Frank should be treated like a fellow 
+employee of Agliam, and not just an employer. The insurers argue 
+that Tri-S does not support the Waiau Parties' argument here. 
+As  in  this  case,  the  underlying  dispute  in  Tri-S  arose 
+out  of  the  employment-related  death  of  a  worker,  Charles  L. 
+Rapoza,  Jr.  (Rapoza),  employed  by  Tri-S  Corporation  (Tri-S).   110 
+Hawai i  at  477,  13  P.3d  at  86.   The  appeal  and  cross-appeal  in 
+Tri-S  were  brought  by  two  insurance  companies,  Western  World 
+Insurance  Co.  (WWI)  and  Travelers  Insurance  Co.  (Travelers ).   Id.  
+Rapoza's  estate  had  sued  Karl  Milton  Taft  (Taft),  the 
+president/chief  executive  officer,  sole  shareholder,  general 
+manager,  and  employee  of  Tri-S,  alleging  that  he  was  liable  in 
+tort  as  a  co-employee  under  the  workers'  compensation  exclusivity 
+exception  found  in  HRS  §  386-8.   Id.  at  478,  482,  135  P.3d  at  87, 
+17
+         
+           
+         
+        
+             
+       
+        
+        
+         
+               
+        
+        
+           
+            
+               
+      
+           
+       
+             
+          
+         
+          
+        
+       
+      
+        
+         
+        FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+91. In a separate suit, a trial court initially rejected the 
+claims against Taft on the grounds that he was effectively 
+Rapoza's employer, but the supreme court vacated the summary 
+judgment order in favor of Taft. Id. at 479, 135 P.3d at 88. 
+Taft tendered his defense to WWI and requested 
+indemnification; WWI refused to provide coverage on the grounds 
+that its commercial general liability (CGL) policy did not 
+provide coverage based on the facts alleged in the underlying 
+suit. Id. at 480, 135 P.3d at 89. Taft and Tri-S sued WWI, and 
+the trial court granted summary judgment in their favor, 
+concluding, inter alia, that based on the undisputed evidence, 
+Taft was an executive officer of the named insured, he was sued 
+in that capacity, and thus he was an insured under the terms of 
+the policy. Id. at 481, 483, 135 P.3d at 90, 92. WWI filed a 
+third-party complaint against Travelers, alleging that Travelers, 
+not WWI, owed Taft a duty to defend and indemnify under Tri-S's 
+Worker's Compensation and Employment Liability policy issued by 
+Travelers. Id. at 484, 135 P.3d at 93. Taft and Tri-S were 
+granted leave to amend to bring claims against Travelers, too. 
+Id. Ultimately, the trial court granted summary judgment in 
+favor of Tri-S, Taft, and WWI and against Travelers on the 
+grounds that Tri-S had a reasonable expectation of comprehensive 
+coverage, for both workers' compensation benefits under the 
+workers' compensation part, and non-workers' compensation claims 
+under the employers liability part, including for defense and 
+indemnity for the liability of the corporation to Taft for 
+indemnity for the Rapoza estate's wrongful death claims against 
+18         
+            
+           
+           
+        
+      
+            
+           
+            
+           
+         
+        
+             
+            
+         
+        
+         
+           
+            
+       
+          
+             
+     
+     
+      
+       
+   
+     FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+Taft. Id. at 486, 135 P.3d at 95. After various stipulations 
+and orders, judgment was entered in favor of Tri-S and Taft and 
+against WWI, and in favor of Tri-S, Taft, and WWI, and against 
+Travelers. Id. at 486, 135 P.3d at 95. 
+WWI and Travelers both appealed, raising numerous 
+issues. Of relevance here, WWI argued both that Taft was not an 
+insured under the CGL policy and that, even if he was, policy 
+exclusions applied. Id. at 490, 135 P.3d at 99. Unlike the 
+First Insurance policy in the case now before us, the WWI CGL 
+policy in Tri-S provided that the executive officers of Tri-S 
+were insureds, with respect to their duties as executive 
+officers. Id. at 491, 135 P.3d at 100. However, the WWI policy 
+also stated that no employee is an insured for a bodily injury to 
+a co-employee. Id. Interpreting the WWI insurance contract 
+before it, the supreme court concluded that the co-employee 
+exclusion did not apply to executive officers with respect to 
+their executive duties. Id. WWI further argued that even if 
+Taft was an insured under the policy, he was not covered due to 
+the workers' compensation exclusion and the employer's liability 
+for bodily injury arising out of the employment exclusion. Id. 
+at 492, 135 P.3d at 101.9 Tri-S and Taft argued that Tri-S, not 
+9 These exclusions state, in relevant part: 
+This insurance does not apply to: 
+   . . . . 
+d.
+ Workers Compensation and Similar Laws 
+Any obligation of the insured under a workers 
+compensation, disability benefits or 
+unemployment compensation law or any similar 
+law. 
+(continued...) 
+19         
+        
+          
+   
+        
+       
+       
+           
+          
+            
+        
+         
+       
+           
+             
+           
+          
+          
+       
+         
+                    
+   
+  
+          
+       
+        FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+Taft, was the employer, and therefore neither exclusion applied 
+to Taft. Id. This is where the severability-of-interests clause 
+analysis comes into play. 
+The supreme court adopted the view of courts holding 
+that, by operation of the severability-of-interests clause, when 
+analyzing the applicability of these exclusions, "'the insured' 
+must be read to mean the party seeking coverage rather than the 
+named insured" or any other insured who could claim coverage. 
+Id. Accordingly, Taft was the insured claiming coverage. Id. 
+Taft was not Rapoza's employer, so the workers' compensation 
+exclusion did not apply. Similarly, because Taft was not 
+Rapoza's employer, the employer's liability for bodily injury 
+arising out of employment exclusion did not apply. Id. at 492-
+93, 135 P.3d at 101-02. In sum, as an executive officer of Tri-
+S, Taft was separately insured under the express terms of the WWI 
+CGL policy and, as Taft was not Rapoza's employer, these employer 
+exclusions did not apply. Put another way, as a non-employer 
+additional insured, Taft's interests were so separate and 
+different from those of the named insured, Tri-S, his interest 
+was severable – to be treated as if he had been issued coverage 
+independently from the corporate employer who was the named 
+insured. 
+9(...continued) 
+e. Employer's Liability 
+"Bodily Injury" to: 
+(1) An employee of the insured arising out of and in 
+the course of: 
+(a) Employment by the insured[.] 
+Tri-S,
+ 110 Hawai i at 480, 135 P.3d at 89. 
+20         
+       
+      
+              
+          
+          
+         
+            
+           
+             
+          
+              
+          
+        
+           
+         
+         
+          
+           
+         
+         
+          
+          
+         
+           
+          
+        
+        
+       
+         
+       
+         
+ 
+         FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+Here, the Waiau Parties nevertheless point to the 
+supreme court's reference to the "multiple, non-mutually 
+exclusive hats" worn by Taft. See id. at 495, 135 P.3d at 104. 
+The Waiau Parties argue that Frank, like Taft in Tri-S, wears 
+many hats and that Frank was sued wearing his co-employee hat, 
+not his employer hat, and therefore the First Insurance Business 
+Auto Policy exclusions 3 and 5 should not apply to Frank. The 
+many hats analysis is contextual. In Tri-S, WWI argued that it 
+was clear that Taft was sued for breach of his duty as a co-
+employee – which was plainly subject to exclusion under the WWI 
+policy – not as breach of his duty of an executive officer. Id. 
+The supreme court observed that the material facts were not in 
+dispute; rather the legal significance of those facts was 
+contested. Id. The supreme court focused on the seminal Dairy 
+Road Partners holding that only the possibility of coverage must 
+be established for an insured to prevail on summary judgment 
+against an insurer – framing the question as "Was it possible 
+that Taft's alleged breach of duty occurred in his capacity as an 
+executive officer?" Id. (quotation marks omitted).10 WWI did 
+10 The Dairy Road Partners case addressed a number of insurance-
+related issues, but of particular pertinence here is the supreme court's 
+discussion on the insurer's duty to defend, which is excerpted here: 
+It is well settled that the duty to provide coverage, 
+i.e., the duty to indemnify, and the duty to defend on the 
+part of an insurer are separate and distinct. Moreover, the 
+parties' respective burdens of proof with respect to the 
+duties to indemnify and to defend are also distinct. 
+With respect to [the insurer's] prayer for a 
+declaration that it has no duty to defend [the insured] 
+pursuant to the policies, [the insurer's] already heavy 
+burden of proof as a movant for summary judgment was 
+significantly augmented. 
+The obligation to defend is broader than the duty to 
+(continued...) 
+21         
+          
+           
+            
+         
+           
+             
+        
+            
+          
+          
+       
+           
+       
+          
+          
+          
+       
+         
+   
+     
+         
+          
+        
+          
+          
+        
+        
+     
+            FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+not show it was impossible for Rapoza's estate to prevail against 
+Taft on the basis that Taft breached his duty as an executive 
+officer – for which he was insured under WWI CGL policy – and 
+therefore, the supreme court concluded that the trial court did 
+not err in granting summary judgment in favor of Tri-S and Taft 
+as to WWI's duty to defend. Id. at 496, 135 P.3d at 105. 
+The context of a many hats analysis is somewhat 
+different in this case. There is at least some evidence in the 
+record that Frank wears more than one hat: undisputed evidence 
+that Frank dba C&F Trucking was Agliam's employer; and the Waiau 
+Parties' allegations in the underlying suit and evidence 
+including, inter alia, an April 9, 2015 letter sent on behalf of 
+First Insurance acknowledging that Agliam was Frank's "fellow 
+employee" (and invoking exclusion 4, as well as exclusion 5). 
+The allegations in Count I of the underlying wrongful death suit 
+include that Frank's wilful and wanton conduct as, inter alia, a 
+supervisory and/or managing employee of C&F Trucking caused 
+Agliam's death. While the insurer defendants in this case 
+10(...continued) 
+pay claims  and arises wherever  there is the mere potential
+for  coverage.   In  other  words,  the  duty  to  defend  rests 
+primarily  on  the  possibility  that  coverage  exists.   This 
+possibility  may  be  remote  but  if  it  exists,  the  insurer  owes 
+the  insured  a  defense.   All  doubts  as  to  whether  a  duty  to 
+defend  exists  are  resolved  against  the  insurer  and  in  favor 
+of  the  insured.           
+Accord
+ingly, in connection with the issue of its duty 
+to defend, [the insurer] bore the burden of proving that 
+there was no genuine issue of material fact with respect to 
+whether a possibility existed that [the insured] would incur 
+liability for a claim covered by the policies. In other 
+words, [the insurer] was required to prove that it would be 
+impossible for the [plaintiffs in the underlying suit] to 
+prevail against [the insured] in the underlying lawsuits on 
+a claim covered by the policies. 
+Dairy Rd. Partners ,
+ 92 Hawai i at 412-13, 992 P.2d at 107-08 (cleaned up). 
+22         
+       
+           
+         
+        
+            
+           
+      
+         
+          
+            
+        
+   
+        
+         
+           
+           
+         
+          
+     
+    
+       
+        
+       
+      
+      
+        
+       
+     
+              
+      
+          FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+undoubtedly dispute the legal significance of the judgment 
+entered in favor of the Waiau Parties and against Frank and the 
+other Assignors, applying the Dairy Road Partners analysis, it is 
+certainly possible that Frank's adjudicated breach of his duties 
+to Agliam could be found to have occurred in a capacity as a 
+fellow employee and possible that the claim could be found to be 
+covered under the subject policies.11 
+However, context is not one dimensional. In Tri-S, in 
+his capacity as an executive officer, Taft was an insured under 
+the "WHO IS AN INSURED" terms of the WWI CGL policy issued to 
+Tri-S, with an interest that was separate, independent, and 
+severable from Tri-S's interest. 
+Here, the First Insurance Business Auto Policy does not 
+insure "officers and directors" of C&F Trucking. Frank does 
+business as C&F Trucking, which is not a separate legal entity. 
+Frank is in fact the employer and only insured person. The 
+policy defines "You" and "Your" as the person or organization 
+shown as the named insured in the declaration (Frank dba C&F 
+Trucking), and states in relevant part:12 
+D. WHO IS INSURED. 
+1. You are an insured for any covered auto. 
+2. Anyone else is an insured while using with your 
+permission a covered auto you own, hire or 
+borrow with a reasonable belief that such 
+insured is entitled to do so except: 
+a. The owner of a covered auto you hire or 
+borrow from one of your employees or a 
+member of his or her household. 
+11 This is not to say that all three insurers had a duty to defend in 
+this case, as discussed later further below. 
+12 The lead-in part of D.2. includes policy changes made in an 
+endorsement. 
+23         
+       
+       
+    
+    
+      
+      
+       
+      
+          
+            
+         
+        
+         
+           
+          
+        
+          
+       
+    FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+b. Someone using a covered auto while he or 
+she is working in a business of selling, 
+servicing, repairing, or parking autos 
+unless that business is yours. 
+c. Anyone other than your employees, a lessee 
+or borrower or any of their employees, 
+while moving property to or from a covered 
+auto. 
+3. An yone  liable  for  conduct  of  an  insured 
+described  above  is  an  insured  but  only  to  the 
+extent  of  that  liability.  .  .  . 
+Thus, while the severability-of-interests clause in the 
+First Insurance policy might apply if the issue was whether one 
+of the other persons described in D.2. or D.3. was the insured in 
+question, there is no separate, severable coverage for Frank, who 
+was Agliam's employer. In other words, the severability-of-
+interests clause works only when there is a separate, nonemployer 
+insured. But here, there is no such separate coverage at issue 
+because there is only a single insured, Frank dba C&F Trucking. 
+For these reasons, we conclude that the Waiau Parties' 
+arguments that exclusions 3 and 5 of the First Insurance Business 
+Auto Policy are unenforceable based on the severability-of-
+interests clause is without merit. 
+The  Waiau  Parties  also  argue  that  "bodily  injury  to  any 
+fellow  employee"  exclusion,  exclusion  4  in  the  First  Insurance 
+policy,  is  rendered  inapplicable  by  the  severability-of-interests 
+clause.   Their  severability-of-interests  argument  rests  primarily 
+on  a  Wyoming  case,  Barnette  v.  Hartford  Ins.  Grp.,  653  P.2d  1375 
+(Wyo.  1982),  that  was  cited  favorably  by  the  supreme  court  in 
+Tri-S.   See,  e.g.,  Tri-S,  110  Hawai i  at  492,  135  P.3d  at  101.  
+This  argument  is  to  no  avail,  however,  as  the  severability-of-
+interests  analysis  in  Barnette  is  wholly  resonant  with  our 
+24
+         
+  FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+discussion  above.   In  Barnette,  Gibson  A.  Barnette  (Barnette ) 
+sought  indemnity  from,  inter  alia,  The  Hartford   Insurance   Group 
+(Hartford )  for  injuries   suffered   by  a  fellow  employee   of  Barnette 
+Enterprises,  Inc.  (Barnette  Inc.).   653  P.2d  at  1375-76.  
+Barnette  was  the  president  of  Barnette  Inc.   Id.  at  1376.   Under 
+the  Hartford  policy,  "executive  officers"  of  the  named  insured, 
+Barnette  Inc.,  were  also  persons  insured,  and  the  policy 
+contained  a  severability-of-interests  clause.   Id.   Barnette  does 
+a  deep  dive  into  various  jurisdictions  interpreting  cross-
+employee  exclusionary  clauses  (not  all  of  which  are  in  accord), 
+but  ends  with  the  following  recap: 
+By  this  addition  [of  the  severability-of-interests 
+clause]  the  policy  clearly  intends  that  the  "insured",  with 
+whom  we  are  at  any  given  time  concerned  when  applying  the 
+cross-employee  exclusionary  rule,  must  be  held  to  be  the 
+insured  seeking  protection  under  the  policy.   If  that 
+insured  is  an  employer  whose  employees  are  making  a  claim 
+against  him  or  her,  the  cross-employee  exclusionary  rule 
+serves  to  preclude  coverage.   Why?   Because  such  an  employer 
+has  paid  for  the  protection  of  those  workers  through 
+worker's  compensation  contribution  and  there  is  therefore  no 
+good  purpose  to  be  served  by  causing  him  or  her  to  pay  for 
+double  coverage  especially  where  it  furnishes  no  additional 
+protection  given  the  fact  that  the  injured  employee  is 
+foreclosed  from  bringing  suit  against  the  contributing 
+employer  because  of  the  exclusive  remedy  provisions  of  the 
+worker's  compensation  law. 
+If,  on  the  other  hand,  the  insured  in  question  is  not 
+an  employer  who  seeks  policy  protection  from  the  claims  of 
+employees,  then  the  cross-employee  exclusionary  rule  cannot 
+interfere  with  the  coverage  of  that  insured—and  why  should 
+it?   Such  an  insured  has  no  employer-employee  relationship 
+with  which  to  be  concerned.   He  is  not  one  who  is  obligated 
+to  protect  employees  through  either  compensation 
+contribution  or  private  insurance.   He  is  just  an  additional 
+insured  as  is,  for  example,  an  omnibus  additional  insured 
+for  whom  the  named  insured  has  contracted  with  its  insurance 
+company  to  furnish  protection.   Coverage  should  not  be 
+denied  to  an  insured  by  the  cross-employee  exclusionary 
+clause  of  the  contract  when  that  clause  has  no  applicability 
+to  the  insured  person  seeking  protection.   Barnette  falls 
+within  this  classification.   He  is  not  an  employer  seeking 
+protection  from  claims  arising  out  of  an  injury  to  his 
+employee  and  is  therefore  not  precluded  by  the 
+cross-employee  exclusionary  clause  from  coverage  by  the 
+Hartford  policy. 
+Id. at 1383. 
+25         
+       
+           
+      
+           
+         
+          
+          
+        
+     
+    
+        
+      
+          
+        
+     
+      
+          
+        
+        
+             
+       
+       
+         
+         
+        
+ FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+Here, Frank is an employer seeking protection from 
+claims arising out of an injury to his employee. As discussed 
+above, there is no potentially-severable, additional coverage 
+here for Frank in some other capacity. Under the analysis stated 
+in Barnette , coverage was only found to exist because Barnette 
+fell within a category of additional insureds. In sum, we 
+conclude that the Waiau Parties' argument that exclusion 4 of the 
+First Insurance Business Auto Policy is unenforceable based on 
+the severability-of-interests clause is without merit. 
+2. Hawaii Motor Vehicle Insurance Law 
+The Waiau Parties further argue that exclusion 4 (the 
+fellow employee exclusion) contravenes Hawai i public policy  
+because it would allow First Insurance to provide an auto policy 
+not in compliance with Hawaii's statutory insurance requirements. 
+This issue is unsettled in Hawai i. 
+We reiterate
+ the principle that "liability insurers 
+have the same rights as individuals to limit their liability, and 
+to impose whatever conditions they please on their obligation, 
+provided they are not in contravention of statutory inhibitions 
+or public policy." First Ins. Co. of Haw. v. State, 66 Haw. 413, 
+423, 665 P.2d 648, 655 (1983) (citation omitted). 
+The Waiau Parties argue that enforcing exclusion 4 
+would allow First Insurance to provide a motor vehicle insurance 
+policy not in compliance with the Hawaii Motor Vehicle Insurance 
+Act, citing HRS § 431:10C-301 (2019), which provides, in 
+pertinent part: 
+§  431:10C-301   Required  motor  vehicle  policy  coverage .  
+(a)   An  insurance  policy  covering  a  motor  vehicle  shall 
+provide: 
+26         
+    
+    
+          
+       
+       
+       
+        
+        
+      
+        
+      
+      
+   
+        
+       
+       
+      
+        
+     
+      
+ 
+ 
+    FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+(1) Coverage specified in section 431:10C-304 
+[personal injury protection benefits]; and 
+(2) Insurance to pay on behalf of the owner or any 
+operator of the insured motor vehicle using the 
+motor vehicle with a reasonable belief that the 
+person is entitled to operate the motor vehicle, 
+sums which the owner or operator may legally be 
+obligated to pay for injury, death, or damage to 
+property of others, except property owned by, 
+being transported by, or in the charge of the 
+insured, which arise out of the ownership, 
+operation, maintenance, or use of the motor 
+vehicle ; . . . 
+(b) A motor vehicle insurance policy shall include: 
+(1) Liability coverage of not less than $20,000 per 
+person, with an aggregate limit of $40,000 per 
+accident, for all damages arising out of 
+accidental harm sustained as a result of any one 
+accident and arising out of ownership, 
+maintenance, use, loading, or unloading of a 
+motor vehicle[.] 
+(Emphasis added). 
+HRS § 431:10C-120(a) (2019) states: 
+§  431:10C-120   Prohibitions,  penalty.   (a)  No  insurer 
+shall  issue  or  offer  to  issue  any  policy  which  the  insurer 
+represents  is  a  motor  vehicle  insurance  policy  unless  such 
+insurer  meets  the  requirements  of  this  article. 
+Accordingly,  under  HRS  §§  431:10C-120(a)  and  431:10C-
+301(a)  &  (b),  all  insurance  policies  covering  motor  vehicles  in 
+this  state  must  provide  insurance,  to  pay  on  behalf  of  the  owner 
+of  an  insured  vehicle,  sums  which  the  owner  may  be  obligated  to 
+pay  for  injury  or  death  arising  out  of  the  ownership,  operation, 
+maintenance  or  use  of  the  motor  vehicle,  including  liability 
+coverage  of  not  less  than  the  statutory  minimums. 
+None  of  the  insurers  in  this  case  deny  that  the  First 
+Insurance  Business  Auto  Policy  is  a  motor  vehicle  insurance 
+policy.   None  of  the  insurers  contend  that  the  First  Insurance 
+Business  Auto  Policy  provides  the  coverage  set  forth  in  HRS 
+§  431:10C-301(a)(2)  and  (b)(1).   None  of  the  insurers  dispute 
+that  the  Waiau  Parties,  as  assignees  of  vehicle  owner  Frank  dba 
+27
+         
+         
+           
+        
+      
+       
+          
+           
+         
+         
+       
+        
+        
+          
+       
+          
+          
+          
+        
+          
+          
+ 
+       
+           
+          
+        
+            
+            
+            
+           
+            FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+C&F Trucking, are claiming that First Insurance must pay sums 
+which Frank may be legally obligated to pay for the death of 
+Agliam, which arise out of the ownership, operation, maintenance, 
+or use of the motor vehicle. 
+Rather, in the first instance, First Insurance ignores 
+the Waiau Parties' reference to HRS § 431:10C-301 and argues that 
+the Waiau Parties failed to cite to a specific Hawai i law or  
+statute that was violated, i.e., that no statutory inhibition or 
+public policy was violated. First Insurance then argues that 
+public policy supports the employee and fellow employee 
+exclusions in the First Insurance Business Auto policy because 
+those were meant to exclude claims covered by workers' 
+compensation coverage. The fly in this ointment is, of course, 
+that workers' compensation insurance appears only to have 
+provided coverage to Frank in his capacity as employer, but not 
+to defend against plaintiffs who claimed he was also a fellow 
+employee, and appears not to have provided any coverage for the 
+fellow employee claims against the other Assignors.13 Thus, 
+Frank and the other Assignors were left with no defense, let 
+alone an indemnity, when the Waiau Parties sued them in the 
+underlying lawsuit. 
+First Insurance further argues on appeal that the 
+exclusions at issue here serve a valid purpose, which is to lower 
+the costs of insurance, and that the Waiau Parties are improperly 
+13 We say "appears" because the HEMIC workers' compensation and 
+employer's liability policy is not in the record on appeal and the Waiau 
+Parties' claims against HEMIC remain pending. However, it is clear from the 
+record before us – specifically including HEMIC's Answer to the Complaint – 
+that HEMIC denied that there was any applicable coverage under the HEMIC 
+policy and declined to defend Frank and the other Assignors in the underlying 
+lawsuit. 
+28         
+         
+          
+           
+       
+         
+      
+          
+          
+ 
+       
+         
+       
+        
+         
+        
+         
+           
+       
+        
+         
+        
+        
+       
+       
+          
+        
+           FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+seeking a "dual recovery." Lowering the costs of insurance 
+premiums is a worthy purpose, but that consideration alone is not 
+determinative here. There is no support in the record for First 
+Insurance's argument concerning a dual recovery; indeed, First 
+Insurance's only argument in its Substantive Joinder was that its 
+Business Auto Policy expressly and unambiguously excludes 
+coverage for bodily injury to an employee or fellow employee of 
+the insured, and therefore it was entitled to summary judgment on 
+all counts. 
+General Star argues that the fellow employee exclusion, 
+as incorporated into its policy, is not inconsistent with HRS 
+§ 431:10C-301 because Hawaii's compulsory motor vehicle insurance 
+statute does not require unlimited coverage, and since General 
+Star's policy does not attach until exhaustion of the underlying 
+limits that satisfy the required amount of compulsory motor 
+vehicle insurance coverage, it is impossible for an exclusion in 
+the General Star policy to be inconsistent with the statute. In 
+briefing, General Star admits that public policy requires 
+coverage, just not under their excess motor vehicle insurance 
+policy – arguing, "because the General Star policy attaches well 
+in excess of the $20,000/$40,000 coverage mandated by Hawaii's 
+statute, exclusions in the General Star policy cannot possibly 
+violate Hawaii's public policy that requires such coverage." 
+General Star's construction of the issue is not 
+persuasive. The question of whether or not the exclusions in 
+First Insurance's policy are inconsistent with § 431:10C-301 is 
+not, in the first instance, dictated by whether or not the excess 
+29         
+        
+          
+          
+            
+         
+       
+         
+          
+           
+          
+          
+         
+          
+            
+        
+        
+       
+            
+        
+         
+          
+        
+        
+           
+         
+            
+            
+            
+              FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+coverage is triggered. Notably, HRS § 431:10C-301(b)(1) provides 
+a floor for coverage ("not less than"), and not a specific 
+mandated amount of coverage. General Star argues that the remedy 
+for any failure to comply with the statute is to read the minimum 
+coverage amounts into First Insurance's policy, and points to a 
+Maryland case as supporting its argument. 
+In Nationwide Mut. Ins. Co. v. Wilson, 893 A.2d 1177, 
+1188 (Md. Ct. Spec. App. 2006), aff'd sub nom., Wilson v. 
+Nationwide Mut. Ins. Co., 910 A.2d 1122 (Md. Ct. App. 2006), the 
+appellate court did in fact uphold the validity of the fellow 
+employee exclusion in the subject auto insurance policy. It did 
+so, however, because the exclusion was expressly modified by: 
+"this exclusion does not apply for coverage up to the minimum 
+limit specified by the Maryland Vehicle Law." Id. at 1180. The 
+Maryland court explained that it previously had declared invalid 
+and void certain exclusions in automobile insurance policies that 
+effectively excluded all liability coverage as against public 
+policy. Id. at 1183. However, the court concluded that a fellow 
+employee exclusion in a commercial auto policy that expressly 
+provided for only the statutory minimum coverage was not invalid 
+because it complied with the Maryland Vehicle Law, but allowed an 
+employer to minimize the costs associated with providing for 
+coverage under that statute as well as workers' compensation 
+benefits. Id. at 1188-89.14 In the instant case, the First 
+14 The Maryland special appeals court did discuss another case in 
+which the court concluded that a household exclusion was void as to public 
+policy only to the extent that it denied mandatory minimum coverage. See 
+Nationwide Mut. Ins. Co., 893 A.2d at 1188 (discussing State Farm Mut. Auto 
+Ins. Co. v. Nationwide Mut. Ins. Co., 516 A.2d 586 (Md. App. 1986)). However, 
+(continued...) 
+30         
+        
+     
+      
+        
+        
+          
+          
+          
+        
+        
+        
+        
+           
+           
+           
+         
+        
+     
+        
+          FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+Insurance Business Auto Policy exclusions have no provision for 
+coverage up to the statutory minimum. 
+NACIC argues that several jurisdictions have found 
+similar exclusions in commercial auto insurance policies to be 
+consistent with state motor vehicle insurance laws and workers' 
+compensation statutes. We have examined these cases. Canal Ins. 
+Co. v. Nix, 7 P.3d 1038, 1040-42 (Colo. App. 1999), involved 
+claims of an injured employee against his employer, not a fellow 
+employee, and the court's decision rested on the specific 
+language of Colorado's Workers' Compensation Act, which provided 
+immunity to employers who obtained the required insurance, and 
+the Colorado Motor Vehicle ("No-Fault") Insurance law in effect 
+at that time, which has since been repealed. See Colo. Rev. 
+Stat. §§ 10-4-701 to 10-4-726, repealed eff. July 1, 2003. In 
+Helms v. Southern Farm Bureau Cas. Ins. Co., 664 S.W.2d 870, 871-
+72 (Ark. 1984), the Arkansas Supreme Court declined to invalidate 
+an employee exclusion on the grounds that Arkansas's Workers' 
+Compensation Commission had exclusive jurisdiction, mainly 
+because of the exclusivity of workers' compensation benefits and 
+Arkansas precedent holding that it is in the public interest to 
+14(...continued) 
+the  court  also  recognized  that  in  Larimore  v.  American  Ins.  Co.,  552  A.2d  889, 
+892-93  (Md.  App.  1989),  the  Maryland  Court  of  Appeals  rejected  the  notion  that 
+a  collateral  source  of  payments  through  workers'  compensation  justified 
+upholding  a  fellow  employee  exclusion  in  an  automobile  insurance  policy  and 
+held  the  exclusion  to  be  invalid.   The  Court  of  Appeals  noted,  inter  alia, 
+that  the  injured  fellow  employee  may  not  receive  workers'  compensation 
+benefits  equal  to  his  actual  tort  damages  and  that  upholding  a  fellow  employee 
+exclusion  could  end  up  excluding  a  large  class  of  claimants,  significantly 
+frustrating  the  purpose  of  the  compulsory  automobile  liability  insurance  law.  
+Id.  at  892.   The  court  recognized  other  cases  that  had  upheld  fellow  employee 
+exclusions,  but  noted  distinctions  including  a  lack  of  compulsory  liability 
+law,  an  express  statutory  authorization  for  the  exclusion,  or  a  workers' 
+compensation  law  that  prohibits  fellow  employee  tort  actions.   Id.  at  892-93 
+(citations  omitted). 
+31         
+        
+           
+           
+        
+         
+           
+       
+        
+           
+           
+      
+         
+        
+       
+         
+        
+       
+        
+       
+        
+          
+        
+          
+         
+          
+           
+          FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+give the Workers' Compensation Act priority over other statutes 
+as providing an exclusive remedy. In Boecker v. Great West Cas. 
+Co., 361 N.W.2d 160, 162-63 (Minn. Ct. App. 1985), the Court of 
+Appeals of Minnesota upheld the validity of employee exclusions 
+in a no-fault policy, but those exclusions had previously been 
+written into a Minnesota law that was replaced by a no-fault law 
+that specifically allowed, inter alia, exclusions. It 
+nevertheless appears from that case that Minnesota tends to 
+uphold employee exclusions for various reasons. Id. In Zink v. 
+Allis, 650 S.W.2d 320 (Mo. Ct. App. 1983), in response to a 
+somewhat convoluted claim seeking uninsured motorist coverage, 
+the Missouri Court of Appeals affirmed that the fellow employee 
+exclusion is recognized in Missouri as a rational exclusion 
+because it "distinguish[es] the employer's liability to his 
+employees from that of his liability to the general public, 
+thereby relieving the employer of the onerous requirement of 
+insuring his employees under his public liability insurance 
+policy, such employees being already protected by the workmen's 
+compensation statutes." Id. at 323-24 (citation omitted). 
+None of these cases are dispositive because the issue 
+raised here is whether the denial of coverage pursuant to fellow 
+employee exclusion is consistent with Hawai i public policy, as 
+expressed in HRS §§ 431:10C-120 and 431:10C-301(a) & (b) of the 
+Hawai i Motor Vehicle  Insurance statute. Indeed, none of these 
+cases discuss a statutory scheme with the clear mandate of HRS 
+§ 431:10C-120 to insurers: "No insurer shall issue or offer to 
+issue any policy which the insurer represents is a motor vehicle 
+32         
+        
+        
+       
+      
+           
+        
+        
+          
+   
+ 
+       
+        
+        
+        
+    
+          
+           
+           
+          
+          
+        FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+insurance policy unless such insurer meets the requirements of 
+this article." Moreover, Hawai i law authorizes an injured 
+employee
+ to receive workers' compensation benefits and pursue 
+claims against third-parties, including fellow employees, based 
+on wilful and wanton misconduct. See HRS § 386-8; Iddings , 82 
+Hawai i at 6-9, 919 P.2d at  268-71.15 
+That said, prior to attempting to resolve the Hawai i 
+public policy issues,
+ we return to the provisions of the First 
+Insurance Business Auto Policy. 
+3. The   Conflict  of  Provisions  Term16 
+The  First  Insurance  Business  Auto  Policy  includes  a 
+Conflict  of  Provisions  term  that  states: 
+CONFLICT  OF   PROVISIONS 
+In  the  event  that  there  is  a  conflict  between  the  provisions 
+of  this  policy  or  endorsements  attached  and  the  Hawaii  Motor 
+Vehicle  Insurance  Law,  such  law  shall  take  precedence  over 
+the  provisions  of  the  policy  or  endorsements. 
+If  the  employee  and  fellow  employee  exclusions  relied 
+on  by  the  insurers  are  enforced,  the  First  Insurance  Business 
+Auto  Policy  at  issue  in  this  case  does  not  provide  the  coverage 
+set  forth  in  HRS  §  431:10C-301(a)(2)  &  (b)(1).   The  threshold 
+question  is  whether  this  is  a  conflict. 
+NACIC
+ argues that there is no conflict because the 
+exclusion for bodily injury to an insured's employee is 
+15 HRS § 386-8(d) further provides for the subrogation and 
+reimbursement of workers' compensation benefits when an injured employee 
+recovers damages from a third-party. 
+16 The issues arising from the Conflicts of Provisions term were not 
+addressed in the initial briefing. Therefore, pursuant to Hawaii Rules of 
+Appellate Procedure Rule 28(b)(4), this court entered an Order on October 4, 
+2024, allowing the parties to file supplemental briefs. Supplemental briefs 
+addressing the Conflicts of Provision term were submitted by the Waiau 
+Parties, First Insurance, and NACIC, but not General Star. 
+33         
+        
+        
+        
+        
+         
+        
+         
+         
+        
+         
+         
+  FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+consistent with the public policy purposes behind both the 
+Hawai i Motor Vehicle  Insurance statute and the Hawai i  Workers' 
+Compensation
+ Law. NACIC submits that the two compensation 
+schemes are designed to complement, rather than duplicate, each 
+other. First Insurance also argues that the Conflict of 
+Provisions term is inapplicable because the policy exclusions do 
+not conflict with HRS § 431:10C-301. First Insurance emphasizes 
+that if First Insurance's fellow employee exclusion is held to 
+conflict with the Motor Vehicle Insurance statute, then every 
+insurance policy exclusion will similarly be in conflict with the 
+law, which will have the unintended consequence of driving up 
+costs. 
+First  Insurance  points  to  Budget  Rent-A-Car  Sys.,  Inc. 
+v.  Coffin,  82  Hawai i  351,  922  P.2d  964  (1996),  to  support  the 
+proposition  that  HRS  §  431:10C-301(a)(2)  &  (b)(1)  does  not 
+mandate  that  all  motor  vehicles  must  be  covered  by  insurance  at 
+all  times  arising  out  of  the  ownership,  maintenance,  or  use  of 
+the  motor  vehicle.   However,  that  is  not  exactly  the  holding  in 
+Coffin.   The  issue  in  Coffin  was  not  whether  an  insurance  policy 
+provision  was  void  as  against  public  policy;  rather,  the  issue 
+was  whether  a  use  limitation  provision  in  Budget's  rental 
+agreement  (a  prohibition  against  driving  the  rental  vehicle  on  a 
+particular  public  road)  was  void  as  against  public  policy  because 
+it  impermissibly  cut  into  the  requirements  of  the  Hawai i  Motor 
+Vehicle  Law.   Id.  at  353-54,  922  P.2d  at  966-67.   Budget 
+successfully  argued  to  the  supreme  court  that  the  use  limitation 
+provision  was  a  proper  exercise  of  its  right  to  limit  the 
+34
+         
+          
+            
+        
+            
+          
+         
+          
+             
+         
+        
+          
+              
+         
+           
+          
+     
+      
+                  
+          
+        
+         
+        
+        
+          
+       FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+permission granted to Coffin with respect to Coffin's use of the 
+vehicle. Id. at 354, 922 P.2d at 967. The supreme court 
+interpreted HRS § 431:10C-104 and 431:10C-105 – the provisions 
+relied on by Coffin – and held that HRS § 431:10C-104 contains a 
+mandate to all owners of motor vehicles to maintain a no-fault 
+policy, not a mandate to insurance companies to provide coverage 
+for every accident that occurs on a public street, road, or 
+highway. Id. at 355, 922 P.2d at 968. The supreme court further 
+held that the use limitation provision did not implicate issues 
+of minimum insurance requirements because it was a proper 
+exercise of Budget's authority to restrict the use of its rental 
+vehicles. Id. at 356, 922 P.2d at 969. To ensure clarity as to 
+the intended limits of its holding, the supreme court stated, 
+"[i]t is important to stress that our holding in the present case 
+is limited exclusively to the permissive use context." Id. at 
+357, 922 P.2d at 970. 
+Notwithstanding the arguments pressed by the insurers, 
+we conclude that if the employee and fellow employee exclusions 
+in the First Insurance Business Auto Policy are enforced, the 
+policy does not provide the coverage mandated in HRS § 431:10C-
+301(a)(2) & (b)(1), which constitutes a conflict between the 
+policy exclusions and the statute. Accordingly, pursuant to the 
+Conflict of Provisions term, HRS § 431:10C-301(a)(2) & (b)(1) 
+"shall take precedence over" the employee and fellow employee 
+exclusions. 
+It is unclear what it means for the statute to "take 
+precedence" over the conflicting exclusions, i.e., what the 
+35         
+          
+           
+           
+          
+          
+           
+          
+        
+        
+         
+           
+  
+          
+          
+         FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+remedy is if they conflict. Without waiving their arguments that 
+there is no conflict, the insurers argue that the remedy would be 
+to read into the policy the "statutory minimum" set forth in HRS 
+§ 431:10C-301(b)(1). In support, NACIC cites Canal Ins. Co. v. 
+Merritt , 683 F. Supp. 1296 (W.D. Mo. 1988), Merchants Mut. Cas. 
+Co. v. Tuttle, 101 A.2d 262, 266 (N.H. 1953), and Wilson, 910 
+A.2d 1122; First Insurance cites Tuttle, as well. The Waiau 
+Parties point to Hawaii's "long standing history" of voiding 
+provisions that are in conflict with Hawaii's motor vehicle 
+insurance statutes, referencing Dawes v. First Ins. Co. of Haw., 
+Ltd., 77 Hawai i 117, 883 P.2d 38 (1994),  and the other Hawai i 
+cases cited therein. 
+Of  more  than  passing  interest  here,  the  starting   point 
+of  the  analysis  in  Merritt  is  that  because  of  the  mandate  of  the 
+Kansas  Automobile  Injury  Reparations  Act  in  effect  at  the  time, 
+the  federal  court  had  previously  invalidated  the  subject  employee 
+exclusion  provisions,  which  accorded  the  plaintiff  some  amount  of 
+coverage  pursuant  to  the  public  policy  expressed  in  the  Act.   683 
+F.  Supp.  at  1296-97.   Based  on  a  Kansas  Supreme  Court  case, 
+DeWitt  v.  Young,  625  P.2d  478  (Kan.  1981),  the  Merritt  court  held 
+that  the  invalidated  employee  exclusions  were  void  only  as  to  the 
+minimum  coverage  under  the  Act,  because  that  was  the  amount 
+necessary  to  effect  the  public  policy  reflected  in  the  Act, 
+notwithstanding  the  policy  limits  in  the  insurance  contract.   683 
+F.  Supp.  at  1296-97.  17
+17 In DeWitt, the Kansas Supreme Court held that a garage shop 
+exclusion was void and unenforceable because it was contrary to Kansas 
+insurance law requiring coverage for all permissive drivers, but concluded 
+(continued...) 
+36         
+         
+        
+         
+        
+        
+          
+           
+        
+       
+        
+         
+           
+     
+ 
+       
+         
+       
+          
+        
+           
+ 
+        
+          
+           
+           
+         
+            
+            
+          
+        
+           FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+In Tuttle, the New Hampshire Supreme Court held that a 
+fellow employee exclusion was "ineffective to defeat or avoid 
+coverage" as to the minimum limits of liability required under 
+New Hampshire law because, inter alia, the subject insurance 
+policy included an endorsement that stated "all policy provisions 
+required by [the law] are hereby incorporated by reference." 101 
+A.2d at 265. The court concluded that the policy otherwise set 
+out permissible exclusions and limits. Id. at 266.18 
+As discussed above, in Wilson, the fellow employee 
+exclusion was expressly limited to excluding coverage above the 
+minimum required under the applicable motor vehicle law. 893 
+A.2d at 1180. Thus, the insurance policy itself made clear that 
+statutorily-mandated coverage would be provided, notwithstanding 
+the exclusion. 
+In Dawes, the Hawai i Supreme Court reiterated  "the 
+longstanding propositions . . . that liability insurers may not 
+limit their liability in contravention of statutory inhibitions 
+or public policy, and that when the terms of an insurance 
+contract are in conflict with statutory language, the statute 
+must take precedence over the terms of the contract." 77 Hawai i 
+17(...continued) 
+that  the  exclusion  was  valid  as  to  amounts  exceeding  the  statutorily-required 
+coverage.   625  P.2d  at  482-83.   The  court  "caution[ed]  that  the  limited 
+application  of  such  exclusions  should  be  clearly  and  specifically  set  forth  in 
+the  policy."   Id.  at  483. 
+18 Years later, in 1978, New Hampshire amended that state's workers' 
+compensation law to bar negligence claims against fellow employees; in 1983, 
+New Hampshire again amended the statute to only allow claims for intentional 
+torts against fellow employees; but in 1985, the New Hampshire Supreme Court 
+held those provisions to be unconstitutional under the New Hampshire 
+Constitution. See Estabrook v. American Hoist & Derrick, Inc., 498 A.2d 741 
+(N.H. 1985). The New Hampshire Supreme Court subsequently had a change of 
+heart and overruled Estabrook , holding that the statute "now controls and 
+expressly provides employees immunity from non-intentional tort claims brought 
+by co-employees." Thompson v. Forest, 614 A.2d 1064, 1067 (N.H. 1992). 
+37         
+            
+         
+        
+       
+          
+        
+          
+            
+       
+         
+             
+         
+       
+        
+           
+           
+      
+        
+         
+         
+        
+       
+        
+            
+         
+         
+         FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+at 128, 883 P.2d at 49 (cleaned up). The supreme court noted 
+that the uninsured motorist (UM) coverage in the First Insurance 
+policy at issue contained five provisions that had been 
+previously voided "as being in contravention of statutory 
+inhibitions or public policy." Id. The court commented "[s]uch, 
+apparently, is the deference that [First Insurance] accords the 
+law of this state when it comes to issuing auto policies 
+consonant therewith." Id. at 129, 883 P.2d at 50. The supreme 
+court ultimately reaffirmed, inter alia, that insurance policies 
+with UM provisions that attempt to restrict the applicability of 
+UM statutes are void. Id. at 131, 883 P.2d at 52. 
+In a later case, the supreme court held that in 
+underinsured motorist (UIM) policies, clauses that require an 
+insured to exhaust the tortfeasor's insurance prior to seeking 
+UIM benefits are void as against public policy. Taylor v. Gov't 
+Emps. Ins. Co., 90 Hawai i 302, 312, 978  P.2d 740, 750 (1999). 
+Hawai i courts have  repeatedly voided policy provisions 
+that conflict with statutory requirements and the public policy 
+reflected in the various enactments of Hawaii's no fault and 
+motor vehicle insurance law. The cases do not, however, 
+specifically address the proper remedy where the policy itself 
+states that the statute takes precedence. 
+We conclude that the Conflict of Provisions term is 
+ambiguous with respect to how it is to be applied when a conflict 
+arises, because it is reasonably susceptible to more than one 
+interpretation. See Found. Int'l, Inc. v. E.T. Ige Constr., 
+Inc.,
+ 102 Hawai i 487, 496-97, 78 P.3d 23, 32-33 (2003) 
+38         
+          
+         
+          
+         
+        
+         
+          
+          
+           
+          
+     
+         
+        
+        
+            
+          
+        
+         
+        
+         
+      
+           
+         
+         
+         
+        FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+(determination of ambiguity of a contract term is a question of 
+law, whether based on the document itself, there is uncertainty 
+or doubt as to meaning). As stated above, "because insurance 
+policies are contracts of adhesion and are premised on standard 
+forms prepared by the insurer's attorneys, we have long 
+subscribed to the principle that they must be construed liberally 
+in favor of the insured and any ambiguities must be resolved 
+against the insurer." Dairy Rd. Partners ,
+ 92 Hawai i at 411-12, 
+992 P.2d at 106-07 (cleaned up). "[P]olicies are to be construed 
+in accord with the reasonable expectations of a layperson." Id. 
+at 412, 992 P.2d at 107. 
+HRS § 431:10C-301(b) sets a floor, not a ceiling, for 
+coverage, requiring all insurers who issue a motor vehicle 
+insurance policy to include "[l]iability coverage of not less 
+than $20,000 per person . . . for all damages arising out of 
+accidental harm sustained as a result of any one accident and 
+arising out of ownership, maintenance, use, loading, or unloading 
+of a motor vehicle[.]" (Emphasis added). Resolving all 
+ambiguities against the insurer, it is reasonable for the 
+layperson insured to expect that if the policy exclusions are 
+unenforceable with respect to this statutorily-mandated coverage, 
+the liability coverage would be in the amount stated in the motor 
+vehicle insurance policy. That is the amount of liability 
+coverage that was offered by the insurer, purchased by the 
+insured, and reflected in the policy documents, not the statutory 
+minimum, which is referenced nowhere in the First Insurance 
+39         
+          
+          
+     
+      
+      
+         
+           
+          
+         
+         
+ 
+       
+ 
+  
+  
+        
+       
+      
+       
+       
+         
+        
+       
+        
+        
+       
+      
+  FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+Business Auto Policy. In this light, we consider the Circuit 
+Court's grant of summary judgment in favor of all three insurers. 
+B. Disposition of the Summary Judgment Orders 
+1. Summary Judgment in Favor of First Insurance 
+First Insurance, Frank's primary motor vehicle insurer, 
+filed the Substantive Joinder, arguing that based on the employee 
+and fellow employee exclusions, it did not breach any duty to its 
+insured, and thus it was entitled to summary judgment against the 
+Waiau Parties on all counts alleged against First Insurance in 
+the Complaint. The Circuit Court granted summary judgment to 
+First Insurance. 
+As stated above, the First Insurance Business Auto 
+Policy includes: 
+PART IV–LIABILITY INSURANCE 
+A. WE WILL PAY. 
+1. We will pay all sums the insured legally must 
+pay as damages because of bodily injury or 
+property damage to which this insurance applies, 
+caused by an accident and resulting from the 
+ownership, maintenance or use of a covered auto. 
+2. We have the right and duty to defend any suit 
+asking for these damages. However, we have no 
+duty to defend suits for bodily injury or 
+property damage not covered by this policy. We 
+may investigate and settle any claim or suit as 
+we consider appropriate. Our payment of the 
+LIABILITY INSURANCE limit ends our duty to 
+defend or settle. 
+Thus,  under  the  First  Insurance  Business  Auto  Policy, 
+First  Insurance  had  a  duty  to  defend  Frank,  as  well  as  provide 
+liability  coverage,  absent  the  exclusions,  which  are 
+unenforceable  due  to  the  conflict  with  the  Hawai i  Motor  Vehicle 
+Insurance  statute.   Accordingly,  the  Circuit  Court  erred  in 
+granting  summary  judgment  in  favor  of  First  Insurance   on  Count  I 
+(Declaratory   Relief)   and  Count  II  (Breach   of  Contract). 
+40         
+        
+          
+          
+          
+        
+           
+           
+         
+           
+        
+         
+         
+         
+    
+      
+        
+           
+            
+          
+           
+       
+         
+           
+          
+          
+          
+       FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+The Waiau Parties further argue that the Circuit Court 
+erred in granting summary judgment in favor of First Insurance on 
+Count III (Negligence and/or Breach of the Covenant of Good Faith 
+and Fair Dealing) and Count IV (Punitive Damages). In the 
+Substantive Joinder, First Insurance simply argued that based on 
+the policy exclusions, it did not breach any duty to its insured, 
+and thus the Waiau Parties have no claim for negligence or bad 
+faith, and accordingly no claims upon which punitive damages may 
+be awarded. In light of our conclusion that the employee and 
+fellow employee exclusions are unenforceable, and there being no 
+other grounds presented upon which the Circuit Court could grant 
+summary judgment, we conclude that the Circuit Court erred in 
+granting summary judgment in favor of First Insurance on Counts 
+III and IV. 
+2. Summary Judgment in Favor of General Star 
+In the General Star MSJ, General Star argued, inter 
+alia, that under the express terms of the General Star policy, it 
+had no duty to defend the Assignors in the underlying suit. In 
+opposition to the General Star MSJ, the Waiau Parties made no 
+argument and offered no evidence to the contrary. Section II of 
+General Star's Excess Automobile Liability Policy states, inter 
+alia, that "[General Star] will not be obligated to investigate, 
+defend or settle any claim or suit against the insured[.]" We 
+conclude that the Circuit Court did not err in granting summary 
+judgment in favor of General Star on Count I (Declaratory Relief) 
+and Count II (Breach of Contract) with respect to any obligation 
+to defend the Assignors in the underlying suit. 
+41         
+        
+           
+         
+        
+        
+         
+          
+           
+            
+       
+           
+        
+         
+        
+         
+         
+          
+          
+       
+         
+           
+        
+          
+            
+           
+         
+          FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+General Star further argued to the Circuit Court that 
+it had no duty to indemnify the Assignors because its policy only 
+affords coverage upon the exhaustion of the limits of liability 
+under the First Insurance Business Auto Policy, and the 
+incorporation of the First Insurance employee and fellow employee 
+exclusions into the General Star policy bars coverage for the 
+Waiau Parties' claims. Section I of the General Star policy 
+states, inter alia, that General Star "will pay on behalf of the 
+insured ultimate net loss in excess of the total of the limits of 
+the underlying insurance ," i.e., the First Insurance Business 
+Auto Policy. In opposition to the General Star MSJ, the Waiau 
+Parties argued that the employee and fellow employee exclusions 
+were invalid and unenforceable, but they made no argument and 
+offered no evidence contesting that General Star's duty of 
+indemnification did not arise until the limits of the First 
+Insurance policy were exhausted. We conclude that the Circuit 
+Court did not err in granting summary judgment in favor of 
+General Star on Count I (Declaratory Relief) and Count II (Breach 
+of Contract) with respect to a then-existing contractual 
+obligation to indemnify Frank in the underlying suit. However, 
+in light of our ruling with respect to the Waiau Parties' claims 
+against First Insurance, a declaratory or prospective ruling that 
+General Star has no duty whatsoever arising out of Agliam's death 
+to pay on behalf of Frank is premature. Thus, we vacate the 
+entry of summary judgment in favor of General Star on Count I 
+(Declaratory Relief) and Count II (Breach of Contract) to the 
+extent that it barred any duties that might arise under the 
+42         
+         
+          
+    
+       
+        
+        
+         
+        
+          
+       
+         
+       
+    
+        
+        
+        
+        
+   
+ 
+         
+           
+        
+        
+          
+          
+         
+          
+          
+          
+         
+           
+      FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+General Star Excess Automobile Liability Policy in light of our 
+ruling that First Insurance had a duty to defend and indemnify 
+Frank in the underlying suit. 
+We further conclude that the General Star Excess 
+Automobile Liability Policy is ambiguous with respect to the 
+incorporation of the First Insurance employee and fellow employee 
+exclusions. This ambiguity is pertinent in light of our 
+conclusion that the exclusions are unenforceable with respect to 
+the underlying policy. With respect to the application of the 
+underlying policy terms, the General Star policy states: 
+Except for the express provision of this policy and its 
+attached endorsements, this policy will follow the terms, 
+conditions, agreements, definitions, exclusions and 
+limitations of the [First Insurance] policy. Should there 
+be a conflict between the provisions of this policy, 
+including any of its attached endorsements, and the [First 
+Insurance] policy, then the provisions of this policy and 
+its endorsements will govern. 
+(Emphasis omitted). 
+On the one hand, the proviso that "this policy will 
+follow the . . . exclusions" could be read to incorporate the 
+exclusions into the General Star policy regardless of the 
+enforceability of the exclusions with respect to the First 
+Insurance policy. On the other hand, this language could be 
+interpreted to apply the exclusions as they apply with respect to 
+the First Insurance policy. As discussed above, this language 
+must be construed liberally in favor of the insured and any 
+ambiguities must be resolved against the insurer. See Dairy Rd. 
+Partners ,
+ 92 Hawai i at 411-12, 992 P.2d at 106-07. Accordingly, 
+we conclude that the employee and fellow employee exclusions in 
+the First Insurance policy do not operate as a bar to excess 
+liability coverage under the General Star policy. 
+43         
+          
+          
+          
+        
+         
+        
+         
+          
+         
+         
+          
+       
+            
+     
+      
+                   
+         
+          
+                      
+              
+          
+            
+          
+           
+             FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+With respect to Counts III and IV, in the General Star 
+MSJ, General Star argued that under the express terms of its 
+policy, General Star had no obligation to defend or settle the 
+underlying suit, and therefore it was entitled to summary 
+judgment on the Waiau Parties' remaining claims. In opposition, 
+the Waiau Parties argued that both excess carriers acknowledged 
+that punitive damages are available when it can be established 
+that a "defendant has acted wantonly or oppressively or with such 
+malice as implies a spirit of mischief or criminal indifference 
+to civil obligations, or where there has been some wilful 
+misconduct or that entire want of care which would raise the 
+presumption of a conscious indifference to consequences," citing 
+Best Place, Inc. v. Penn Am. Ins. Co., 82 Hawai i 120, 134,  920 
+P.2d 334, 348 (1996). 
+Thus, General Star's argument on summary judgment 
+regarding bad faith was entirely premised on the language of the 
+insurance policies and did not otherwise address its conduct in 
+its dealings with the Assignors with respect to claims brought 
+against them in the underlying suit. General Star did address 
+the fact that the implied covenant of good faith and fair dealing 
+can be breached even if the insurer alleges that it adhered to 
+the express terms of its policy. See id. at 132, 920 P.2d at 346 
+("The breach of the express covenant to pay claims, however, is 
+not the sine qua non for an action for breach of the implied 
+covenant of good faith and fair dealing."). The insurer's duty 
+to act in good faith in dealing with its insured includes the 
+duty to handle and pay claims in good faith, and a breach of the 
+44         
+            
+            
+         
+        
+           
+           
+            
+        
+         
+            
+          
+       
+        
+          
+    
+        
+          
+    
+   
+        
+         
+        
+       
+         
+         
+           
+     FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+duty to act in good faith gives rise to an independent tort cause 
+of action. See Hough v. Pacific Ins. Co., 83 Hawai i  457, 468 -
+69, 927 P.2d 858, 869-70 (1996) (citations omitted). Clearly, 
+"conduct based on an interpretation of the insurance contract 
+that is reasonable does not constitute bad faith." Id. at 469, 
+927 P.2d at 870 (citing, inter alia, Best Place, 82 Hawai i  at 
+133,
+ 920 P.2d at 347). As General Star presented no evidence, or 
+even argument, concerning the reasonableness of its conduct, we 
+cannot conclude that it demonstrated that the Waiau Parties will 
+be unable to carry their burden at trial. See, e.g., Jardine v. 
+State, 155 Hawai i 60, 75,  556 P.3d 406, 421 (2024) (citation 
+omitted) (summary judgment movant may satisfy burden by 
+presenting evidence negating an element of the opposing party's 
+claim or demonstrating that the claimant will be unable to carry 
+its burden at trial). 
+The Waiau Parties further argued that the Circuit Court 
+abused its discretion when it denied a request for a continuance 
+pursuant to HRCP Rule 56(f). 
+HRCP Rule 56(f) provides: 
+(f) When Affidavits are Unavailable. Should it 
+appear from the affidavits of a party opposing the motion 
+that the party cannot for reasons stated present by 
+affidavit facts essential to justify the party's opposition, 
+the court may refuse the application for judgment or may 
+order a continuance to permit affidavits to be obtained or 
+depositions to be taken or discovery to be had or may make 
+such other order as is just. 
+Here,  the  Waiau  Parties  further  argue  that  they 
+requested  a  continuance  to  permit  depositions  and  further 
+discovery  with  respect  to  their  bad  faith  claims  because  they 
+anticipated  they  would  be  able  to  demonstrate  that  General  Star 
+acquiesced  to  First  Insurance's  bad  faith  denial  of  coverage  or 
+45
+         
+         
+         
+         
+        
+         
+         
+           
+          
+           
+          
+           
+           
+             
+            
+        
+            
+ 
+         
+       
+         
+       
+        
+          
+  
+           
+          
+       
+       
+          
+         FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+even ratified the bad faith interpretation of the First Insurance 
+policy. The Waiau Parties failed to provide an affidavit 
+supporting this request. Nevertheless, in Ralston v. Yim, the 
+supreme court rejected the proposition that summary judgment may 
+be appropriate before a discovery deadline if the nonmovant had 
+"adequate time to conduct discovery and to identify experts." 
+129 Hawai i 46, 62-63, 292  P.3d 1276, 1292-93 (2013). The court 
+stated that such an approach would be inconsistent with French v. 
+Hawai i Pizza Hut,  Inc., 105 Hawai i 462, 99 P.3d  1046 (2004), as 
+"the clear import of French is that summary judgment should not 
+be granted when there is still time for the non-movant to develop 
+evidence for use at trial, unless there is a basis for concluding 
+. . . that such an effort would be futile." Ralston , 129 Hawai i 
+at 63, 292
+ P.3d at 1293. The supreme court further stated that 
+HRCP Rule 56(f) provides non-movants with protection against a 
+premature grant of a motion for summary judgment. Id. The court 
+emphasized that: 
+The purpose of subdivision (f) is to provide an additional 
+safeguard against an improvident or premature grant of 
+summary judgment and the rule generally has been applied to 
+achieve that objective. Consistent with this purpose, 
+courts have stated that technical rulings have no place 
+under the subdivision and that it should be applied with a 
+spirit of liberality. 
+Id. (citing 10B Charles Alan Wright, Arthur R. Miller, & Mary Kay 
+Kane, Federal Practice and Procedure Civil 3d § 2740, at 402 
+(1998)). 
+Thus, even if General Star's argument could be 
+construed as addressing the reasonableness of its conduct, 
+applying HRCP Rule 56(f) with a spirit of liberality here, we 
+conclude that the Waiau Parties should have been granted a 
+46         
+        
+      
+           
+        
+          
+        
+        
+     
+     
+         
+         
+           
+          
+        
+          
+         
+          
+          
+         
+          
+           
+         
+        
+         
+ 
+        
+        FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+continuance to complete discovery related to its bad faith 
+claims, including whether General Star unreasonably interpreted 
+its policy or otherwise acted in bad faith with respect to, inter 
+alia, its refusal to participate in settlement discussions in 
+light of the claims in excess of First Insurance's policy limits. 
+For these reasons, except as otherwise stated above, we 
+conclude that the Circuit Court erred in granting summary 
+judgment in favor of General Star. 
+3. Summary Judgment in Favor of NACIC 
+In the NACIC MSJ, NACIC argued, inter alia, that under 
+the express terms of the NACIC Commercial Following Form Excess 
+Liability Policy, it had no duty to defend the Assignors in the 
+underlying suit. In opposition, the Waiau Parties pointed to no 
+contractual obligation in the NACIC policy requiring a defense, 
+but posited that a duty to defend might nevertheless arise once 
+the excess carrier understood that the underlying policy would be 
+exhausted. Like Section II of General Star's policy, Section III 
+of NACIC's policy states, inter alia, that [NACIC] shall not be 
+obligated to investigate, defend or settle any claim or suit 
+against the insured[.]" Based on the unambiguous language of the 
+NACIC policy, we conclude that the Circuit Court did not err in 
+granting summary judgment in favor of NACIC on Count I 
+(Declaratory Relief) and Count II (Breach of Contract) with 
+respect to any obligation to defend the Assignors in the 
+underlying suit. 
+NACIC further argued that as a following form excess 
+policy, the NACIC policy incorporated the employee and fellow 
+47         
+          
+          
+          
+         
+         
+         
+         
+        
+         
+        
+          
+       
+      
+     
+       
+       
+      
+      
+         
+        
+         
+       
+          
+         
+           
+          
+         
+          FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+employee exclusions, and thus NACIC has no duty to indemnify the 
+insureds for any liability to the Waiau Parties. Consistent with 
+our analysis of General Star's similar argument, in light of our 
+ruling with respect to the Waiau Parties' claims against First 
+Insurance, we conclude that the NACIC policy is ambiguous with 
+respect to the incorporation of the First Insurance employee and 
+fellow employee exclusions. This ambiguity is pertinent in light 
+of our conclusion that the exclusions are unenforceable with 
+respect to the underlying policy. With respect to the 
+application of the underlying policy terms, the NACIC policy 
+states: 
+Except for the limits of liability and any provisions in the 
+underlying insurance policy which are inconsistent with this 
+Policy, including any endorsements attached hereto, the 
+terms, conditions, agreements, definitions, exclusions and 
+limitations of the [First Insurance] policy are incorporated 
+by reference as a part of this Policy. 
+Although the NACIC policy states that it 
+"incorporate[s]" the exclusions by reference, which differs 
+slightly from the "will follow" language in the General Star 
+policy, the NACIC policy is equally ambiguous concerning whether 
+an exclusion that is unenforceable in the First Insurance policy 
+becomes enforceable when incorporated into the excess policy 
+written by NACIC. Thus, we construe this language liberally in 
+favor of the insured and resolve the ambiguities against the 
+insurer. See Dairy Rd. Partners ,
+ 92 Hawai i at 411-12, 992 P.2d 
+at 106-07. Accordingly, we conclude that the employee and fellow 
+employee exclusions in the First Insurance policy do not operate 
+as a bar to excess liability coverage under the NACIC policy. 
+48         
+         
+        
+         
+         
+         
+          
+       
+          
+           
+         
+           
+        
+        
+       
+         
+          
+        
+            
+   
+         
+          
+       
+        
+         
+         
+        
+          FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+With respect to Counts III and IV, NACIC argued that 
+the Waiau Parties' claims are predicated on allegations that 
+NACIC failed to timely defend and/or settle the claims against 
+the insured, and based on the incorporated exclusions, NACIC is 
+entitled to summary judgment. NACIC further argued that punitive 
+damages against it are not recoverable because it could not have 
+acted wantonly, oppressively, maliciously, or even recklessly in 
+refusing to do something that neither its contract nor the law 
+requires. In opposition to the NACIC MSJ, on this point, the 
+Waiau Parties argued that the three insurers left the Assignors 
+with no defense and no choice but to stipulate to liability and 
+submit to the arbitration on damages only. 
+Like General Star, NACIC presented no evidence, or even 
+argument, concerning the reasonableness of its conduct, relying 
+instead on its interpretation of the language of the insurance 
+contract to support its request for summary judgment. Thus, we 
+cannot conclude that NACIC demonstrated that the Waiau Parties 
+will be unable to carry their burden at trial with respect to the 
+tort of bad faith. 
+In addition, as with its opposition to the General Star 
+MSJ, the Waiau Parties sought an HRCP Rule 56(f) continuance to 
+conduct discovery regarding NACIC's evaluation of the Waiau 
+Parties' claims in the underlying suit and NACIC's communications 
+with First Insurance and/or General Star in order to demonstrate 
+that NACIC acquiesced to First Insurance's bad faith denial of 
+coverage, and ratified the bad faith interpretation of First 
+Insurance's policy. Again applying HRCP Rule 56(f) with a spirit 
+49         
+         
+         
+       
+        
+      
+        
+    
+     FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+of liberality here, we conclude that the Waiau Parties should 
+have been granted a continuance to complete discovery related to 
+its bad faith claims, including whether NACIC unreasonably 
+interpreted its policy or otherwise acted in bad faith. 
+Accordingly, except as otherwise stated above, we 
+conclude that the Circuit Court erred in granting summary 
+judgment in favor of NACIC. 
+V. CONCLUSION 
+For  the   reasons  stated  above,  the  Circuit  Court's 
+September  3,  2020  Amended  Rule  54(b)  Judgment  is  vacated.   The 
+September  5,  2019  General  Star  SJ  Order  and  the  September  5,  2019 
+NACIC  SJ  Order  are  affirmed  in  part  and  vacated  in  part.   This 
+case  is  remanded  to  the  Circuit  Court  for  further  proceedings 
+consistent  with  this  Opinion. 
+DATED: Honolulu,
+ Hawai i, December 31,  2024. 
+On  the  briefs: /s/  Katherine  G.  Leonard 
+Acting  Chief  Judge 
+Laurent  J.  Remillard,  Jr., 
+Don  V.  Huynh, /s/  Clyde  J.  Wadsworth 
+Rechelle  A.M.  Barbour Associate  Judge 
+(Remillard  &  Huynh), 
+Robert  P.  Marx,  and /s/  Karen  T.  Nakasone 
+Ronald  G.  Self, Associate  Judge 
+for  Plaintiffs-Appellants. 
+Stephen  K.  Roy  and 
+Lance  S.  Au 
+(Roy  &  Au), 
+for  Defendant-Appellee 
+FIRST  INSURANCE  COMPANY  OF  HAWAII,  LTD. 
+Richard  B.  Miller  and 
+David  R.  Harada-Stone 
+(Tom  Petrus  &  Miller  LLLC) 
+for  Defendant-Appellee 
+NORTH  AMERICAN  CAPACITY  INSURANCE  COMPANY. 
+50
+         
+  
+ 
+     
+     
+  
+ 
+   FOR PUBLICATION IN WEST'S HAWAI I REPORTS AND PACIFIC REPORTER 
+Gary G. Grimmer 
+Ann Correa 
+(Gary G. Grimmer & Associates), and 
+Sean M. Hanifin (pro hac vice) 
+(Dykema Gossett, PLLC) 
+for Defendant-Appellee 
+GENERAL STAR INDEMNITY COMPANY. 
+51 
