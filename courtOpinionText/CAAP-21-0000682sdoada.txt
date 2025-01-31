@@ -1,0 +1,421 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  NOT FOR PUBLICATION IN WEST'S HAWAI‘I   REPORTS AND PACIFIC REPORTER  
+Electronically Filed 
+Intermediate Court of Appeals CAAP-21-0000682 30-JAN-2025 07:59 AM Dkt. 94 SO 
+NO. CAAP-21-0000682  
+ 
+ 
+IN THE INTERMEDIATE COURT OF APPEALS  
+ 
+OF THE STATE OF HAWAI‘I  
+DEUTSCHE BANK NATIONAL TRUST COMPANY as   
+Trustee  for  RESIDENTIAL ASSET SECURITIZATION  
+TRUST Series  2004-A9 MORTGAGE PASS-THROUGH  
+CERTIFICATES Series  2004-I, Plaintiff-Appellee,  
+v.  
+DIANA G. BROWN; D. MICHAEL DUNNE, successor trustee of THE 
+REVOCABLE LIVING TRUST OF HAROLD G. STRAND and MARGARET M. 
+STRAND; JERRY IVY; OMNI FINANCIAL, INC.; CITIBANK (SOUTH 
+DAKOTA), N.A., Defendants-Appellees,  
+and  
+THE ASSOCIATION OF OWNERS OF THE KUMULANI AT THE UPLANDS AT 
+MAUNA KEA, an unincorporated association, Defendant-Appellant,  
+and  
+JOHN DOES 1-50;  DOE ENTITIES 1-50, Defendants  
+APPEAL FROM THE CIRCUIT COURT OF THE THIRD CIRCUIT  
+(CASE NO. 3CC11100410K)  
+SUMMARY DISPOSITION  ORDER  
+(By: Hiraoka, Presiding Judge, Nakasone and Guidry, JJ.)  
+Defendant -Appellant The Association of Owners of the 
+Kumulani at the Uplands at Mauna Kea (the AOAO) appeals from the 
+"Order Granting in Part and Denying in Part Defendant[ -Appellee] 
+Diana G. Brown 's [(Brown)] Motion to Dismiss Plaintiff 's   
+ 
+ 
+   
+ 
+  
+  
+  
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ NOT FOR PUBLICATION IN WEST'S HAWAI‘I REPORTS AND PACIFIC REPORTER 
+Complaint Filed on September 23, 2011 Pursuant to [ Hawaiʻi Rules 
+of Civil Procedure ( HRCP)] Rule 41(a)(2) " (Order), filed on 
+November 5, 2021 by the Circuit Court of the Third Circuit 
+(Circuit Court ). 1 
+I. BACKGROUND 
+This appeal arises out of a foreclosure complaint (the 
+Complaint ) brought by OneWest Bank, F .S.B. (OneWest Bank), on 
+September 23, 2011, against the AOAO and Brown , among others . 
+The Complaint alleged that Brown had defaulted on a $548,000 
+note and mortgage assigned to OneWest Bank that covered Brown's 
+interest in the Property . 
+The AOAO filed its Answer to the Complaint on 
+October 21, 2011, in which it asserted, as its Third Affirmative 
+Defense, 
+5. Hawaii Revised Statutes § 514B -146(a) gives to 
+[the AOAO] a lien for all sums assessed b ut unpaid for the 
+share of common expenses chargeable to the subject 
+[P]roperty. This lien is superior and has priority over 
+all other liens except for liens for taxes and assessments 
+lawfully imposed by governmental authority against the 
+subject [P]roperty and all sums unpaid on any mortgage of 
+record that was recorded prior to the recordation of a 
+Notice of Lien by [the AOAO]. [The AOAO's] Notice of Lien 
+was recorded on January 28, 2008. 
+The AOAO did not serve Brown with its Answer, nor did it file 
+its own foreclosure complaint . 
+1 The Honorable Wendy M. DeWeese presided. 
+2   
+ 
+ 
+  
+  
+ 
+  
+ 
+   
+  
+    
+  
+ 
+ 
+  
+ NOT FOR PUBLICATION IN WEST'S HAWAI‘I REPORTS AND PACIFIC REPORTER 
+In July 2013, OneWest Bank moved, inter alia, for  
+summary judgment against the AOAO, and for an order for an 
+interlocutory decree of foreclosure.   The Circuit Court granted 
+the motion, and entered judgment  and Findings of Fact ( FOF) and 
+Conclusions of Law (COL)  in favor of OneWest Bank.   The Circuit 
+Court foreclosed on the mortgage,  appointed a commissioner to 
+take possession of the Property and to sell it, and reserved 
+jurisdiction to determine the party or parties to whom any 
+surplus shall be awarded.    
+Two public auctions were held. At the first auction, 
+in August 2014, the Property was sold to a third -party buyer for 
+$50,000 subject to confirmation by the Circuit Court. The 
+Circuit Court granted OneWest Bank's motion to re -open bidding, 
+and a second auction was held. The Property this time was sold 
+to OneWest Bank, as the highest bidder, for $ 815,098.42 , and 
+that sale was confirmed by the Circuit Court. The Circuit Court 
+ordered OneWest Bank to close on the sale within 35 days from 
+the filing of the con firmation order – i.e., by April 10, 2015.2 
+OneWest Bank failed to comply with the Circuit Court's 
+deadline for closing the sale , and the AOAO filed a motion 
+2 The Circuit Court ordered that, upon closing, the proceeds of the 
+Property would be paid in the following order: (1) $2,062,24 to the 
+Commissioner for services and expenses of the sale; (2) $ 581,972.26  to the 
+Plaintiff in satisfaction of Plaintiff's debt; (3) $ 116,011. 95 to the AOAO 
+for outstanding maintenance fees, master dues, and associated legal fees;(4) 
+the remainder of the proceeds of sale and rental to the escrow for closing of 
+the sale; and (5) any amount remaining in escrow after closing of the sale to 
+Brown. 
+3   
+ 
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAI‘I REPORTS AND PACIFIC REPORTER 
+requesting that OneWest  Bank  be ordered to pay damages to the 
+AOAO.   OneWest  Bank  in turn moved  the Circuit Court, inter alia, 
+to vacate the  order confirming the sale of the Property to 
+OneWest  Bank, and to instruct  the commissioner to conduct a new 
+auction.   The AOAO and Brown opposed OneWest  Bank's motion. The 
+Circuit Court entered orders denying  OneWest  Bank's motion and 
+awarded  damages to the AOAO.    
+OneWest  Bank  appealed. On appeal, this court vacated 
+the Circuit Court's award of damages to the AOAO, concluding 
+that the issue of OneWest Bank's liability for damages was not 
+properly before the Circuit Court.   On certiorari, the Hawaiʻi 
+Supreme Court (Supreme Court)  held that, while  "[t]he [C]ircuit 
+[C]ourt was acting within its discretion when it held OneWest  
+[Bank]  liable for its failure to close the foreclosure sale by 
+the court-ordered deadline," the Circuit Court  abused its 
+discretion in awarding damages to the AOAO. OneWest Bank, 
+F.S.B. v. Ass'n of Owners of Kumulani at Uplands at Mauna Kea, 
+146 Hawaiʻ i 105, 112, 456 P.3d 178, 185 (2020). The Supreme 
+Court explained that "it would not be appropriate to award . . . 
+damages to [the AOAO] based on Brown's underlying obligations to 
+[the AOAO] to which OneWest  [Bank]  was not a party, particularly 
+when OneWest  [Bank]  is the senior lienholder."   Id.  at 114, 456 
+P.3d at 187.   The Supreme Court remanded to the Circuit Court 
+for further proceedings  consistent with its opinion, i.e., "for 
+4   
+ 
+ 
+  
+ 
+    
+ 
+ 
+  
+     
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAI‘I REPORTS AND PACIFIC REPORTER 
+proper disposition of the [forfeited] down payment amount ," 
+which was to be accomplished "by applying the amount to reduce 
+Brown's debt as a penalty for [OneWest Bank's] failure to close 
+the sale [.]" Id. 
+On remand, Deutsche Bank National Trust Company as 
+Trustee for Residential Asset Securitization Trust Series 2004 -
+A9 Mortgage Pass -Through Certificates Series 2004 -I (Deutsche 
+Bank) was substituted as a party for OneWest Bank. The AOAO 
+moved the Circuit Court for relief, seeking, inter alia , for the 
+Circuit Court to reopen bidding, and to authorize the sale of 
+the Property to a named third-party bidder. Brown, joined by 
+Deutsche Bank, moved pursuant to HRCP Rule 41(a)(2) for 
+dismissal of the Complaint, on the basis that Brown paid the 
+mortgage in full . 
+The Circuit Court granted in part and denied in part 
+the AOAO's motion for relief. The Circuit Court ruled, inter 
+alia, that, 
+(3) [The AOAO's] request that the Mortgaged 
+Property be sold to James and Mitzi MacCallum for an amount 
+of $638,628.88 is denied. 
+(4) [The AOAO's] request that sales proceeds be 
+distributed as proposed in its Motion is denied without 
+prejudice insofar as the sales price for the Mortgaged 
+Property is not yet known and the Court has questions 
+regarding amounts owed to various parties. 
+(5) [Deutsche Bank' s] lien of $ 581,972.26  shall be 
+[reduced by] $81,509.84  for a total lien amount of 
+$500,462.42  in accordance with the Hawaii Supreme Court 
+Opinion filed on January 9, 2020 in this matter. 
+5   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  NOT FOR PUBLICATION IN WEST'S HAWAI‘I REPORTS AND PACIFIC REPORTER 
+(6) [The AOAO's] request that its lien be set at 
+$218,085.27  as of April 1, 2020 is denied without prejudice 
+as the Court has questions regarding the amounts owed to 
+various parties and further litigation is necessary. 
+(7) [The AOAO's] request that [ Deutsche Bank ] be 
+ordered to pay $ 98,687.29  to [the AOAO] pursuant to the 
+order filed on January 13, 2015, which ordered [ Deutsche 
+Bank] to pay the [AOAO's] fees and dues commencing 
+September 1, 2014 to the date of closing, is denied without 
+prejudice as further litigation is necessary. 
+ . . . . 
+(9) The Mortgaged Property shall be sold at public 
+auction according to Paragraphs 4 through 14 on pages 7 
+through 11 of the [FOF and COL], . . . filed June 3, 2014. 
+(Emphasis added.) 
+The Circuit Court subsequently granted in part and 
+denied in part Brown's motion to dismiss the Complaint, and 
+provided in relevant part,  
+(a) [Deutsche Bank's] Complaint filed herein on 
+September 23, 2011 is dismissed without prejudice as to any 
+legal recourse the [AOAO] may have against [Deutsche Bank] 
+and/or [Brown] in connection with the [AOAO's] lien or any 
+unpaid assessments, which may be asserted in a separate 
+independent action.  
+The Circuit Court's Minute Order, which the Circuit 
+Court attached to and incorporated into its order dismissing the 
+Complaint, explained, among other things, that "[a]llowing Brown 
+to pay off her mortgage with [Deutsche] Bank and retain her 
+[P]roperty and requiring [the AOAO] to pursue its cause of 
+action independently of this case is the just and equitable 
+result under the facts and circumstances of this case. 
+Moreover, [the AOAO] cannot force [Deutsche] Bank to foreclose." 
+This appeal followed. 
+6   
+ 
+ 
+   
+ NOT FOR PUBLICATION IN WEST'S HAWAI‘I REPORTS AND PACIFIC REPORTER 
+II. POINTS OF ERROR 
+The AOAO  raises  three  points of error on appeal, 
+contending that  the Circuit Court erred in its conclusion that: 
+(1) the AOAO did not assert a cross-claim;  (2)  the AOAO did not 
+assert a counterclaim; and (3) it had jurisdiction and authority 
+to dismiss the case in violation of its prior orders.    
+Upon careful review of the record and relevant legal 
+authorities, and having given due consideration to the arguments advanced and the issues raised by the parties, we resolve  the 
+AOAO's  contentions  as follows:  
+(1) We address the AOAO's points of error out of order 
+to first resolve the question of whether the Circuit Court had "jurisdiction and authority to dismiss the case." See  Norris v. 
+Six Flags Theme Parks, Inc., 102 
+Hawaiʻi 203, 206, 74 P.3d 26, 29 
+(2003) (noting "[t]he United States Supreme Court has said that 
+jurisdiction generally must precede merits in dispositional 
+order.") (cleaned up). "The existence of jurisdiction is a 
+question of law [reviewed] de novo  under the right/wrong 
+standard." Amantiad v. Odum, 90 Hawai ʻi 152, 158, 977 P.2d 160, 
+166 (1999) (citation omitted).  
+The record reflects that , following confirmation of 
+the sale of the Property to OneWest Bank at public auction, 
+OneWest Bank failed to close the sale . Further litigation 
+ensued. The Circuit Court , finding that OneWest Bank had 
+7   
+ 
+ 
+   
+     
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  NOT FOR PUBLICATION IN WEST'S HAWAI‘I REPORTS AND PACIFIC REPORTER 
+defaulted on closing the sale , awarded damages to the AOAO. On 
+appeal, the Supreme Court held that, while it was within the 
+Circuit Court's discretion to order OneWest Bank to pay damages, 
+the damages should go towards a reduction of its lien against 
+Brown. The Supreme Court remanded the matter, instructing the 
+Circuit Court to "apply[] the [damages] amount to reduce Brown's 
+debt as a penalty for [OneWest Bank's] failure to close the 
+sale[.]" OneWest, 146 Hawaiʻi at 114, 456 P.3d at 187. 
+We conclude that, on remand, jurisdiction reverted to 
+the Circuit Court , which sat as a court of equity over this 
+foreclosure proceeding: 
+Foreclosure is an equitable action. Courts of equity 
+have the power to mold their decrees to conserve the 
+equities of the parties under the circumstances of the 
+case. A court sitting in equity in a foreclosure case has 
+the plenary power to fashion a decree to conform to the 
+equitable requirements of the situation. Whether and to 
+what extent relief should be granted rests within the sound 
+discretion of the court and will not be disturbed absent an 
+abuse of such discretion. 
+Peak Cap . Grp., LLC v. Perez , 141 Hawaiʻi 160, 172, 407 P.3d 116, 
+128 (2017) (cleaned up). 
+The Circuit Court had equitable authority to order 
+another public auction for the sale of the Property . It also 
+had authority to subsequently dismiss the Complaint upon Brown's 
+satisfaction of her mortgage obligations in full. At the time 
+it dismissed the Complaint, a third public auction was still 
+pending, and Brown could therefore exercise her "common -law 
+8   
+ 
+ 
+       
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAI‘I REPORTS AND PACIFIC REPORTER 
+right to cure [the] default." Santiago v. Tanaka , 137 Hawaiʻi 
+137, 156-57, 366 P.3d 612, 63 1-32 (2016) ("Because equity abhors 
+forfeitures, and regards and treats as done what ought to be 
+done, it is typical in foreclosure cases that a right to cure a 
+default and stop the foreclosure continues up to the day of the 
+confirmation of the sale." (cleaned up). 
+Therefore, t he AOAO's jurisdictional argument lacks 
+merit. 
+(2) The AOAO contends, as its second and third points 
+of error,  that the Circuit Court erred in granting the motion to 
+dismiss because the AOAO had a pending cross-claim  and 
+counterclaim.   A trial court's ruling on a motion to dismiss is 
+reviewed de novo, under the right/wrong standard. Wright v. 
+Home Depot U.S.A., Inc., 111 Hawaiʻi 401, 406, 142 P.3d 265, 270 
+(2006).   
+Irrespective of whether the AOAO had a cognizable 
+cross-claim and/or counterclaim, a point that is disputed by the 
+parties, the record reflects that there were no surplus proceeds 
+against which the AOAO could assert a cross -claim or 
+counterclaim f ollowing Brown's full satisfaction of her mortgage 
+obligations. 
+The decree of foreclosure in a mortgage foreclosure 
+action extinguishes the liens of junior lienors who are 
+parties. Defenses to the foreclosure complaint are 
+required to be pleaded by such junior lienor defendants and 
+are adjudicated by the decree of for eclosure. The claims of 
+such junior lienors to any surplus remaining after 
+9   
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAI‘I REPORTS AND PACIFIC REPORTER 
+satisfaction of the senior mortgage, on the other hand, are 
+to be pleaded as pure cross claims pursuant to HRCP Rule 
+13(g). Unless there is a surplus after satisfying the 
+mortgage debt, these cross claims have only academic 
+significance. 
+Powers v. Ellis , 56 Haw. 587, 588, 545 P.2d 1173, 1174 (1976) 
+(cleaned up) (emphasis added). 
+The Circuit Court was therefore not wrong in 
+concluding that the AOAO "claimed a right to 'any surplus of the 
+proceeds. ' . . . So, even if a valid claim had been asserted by 
+[the AOAO] sufficient to argue against dismissal, . . . there 
+are no surplus proceeds against which such a hypothetical claim 
+could be asserted in this matter." 
+Therefore, w e conclude that the Circuit Court did not 
+err in granting Brown's motion to dismiss. 
+III. CONCLUSION 
+For the foregoing reasons, we affirm the Circuit 
+Court's Order. 
+DATED: Honolulu, Hawaiʻi, January 30 , 2025. 
+On the briefs:  /s/ Keith K. Hiraoka  
+ Presiding Judge  
+Kristi L. Arakaki,   
+for Defendant-Appellant.  /s/ Karen T. Nakasone  
+ Associate Judge  
+Charles R. Prather,   
+for Plaintiff-Appellee.  /s/ Kimberly T. Guidry  
+ Associate Judge  
+Keith M. Kiuchi,   
+for Defendant-Appellee.  
+10 
