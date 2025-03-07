@@ -1,0 +1,1112 @@
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RECKTENWALD, C.J., McKENNA, EDDINS, GINOZA, AND  DEVENS, JJ.  
+ 
+OPINION OF THE COURT BY McKENNA, J.  
+  
+ 
+   
+ ________________________________________________________________ 
+________________________________________________________________ ** FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND THE PACIFIC REPORTER **  
+Electronically Filed 
+Supreme Court SCWC-23-0000415 04-MAR-2025 10:03 AM Dkt. 25 OP 
+IN THE SUPREME COURT OF THE STATE OF HAWAIʻI  
+---oOo---
+ELIZABETH DAILEY AND MICHAEL DAILEY,  
+Petitioners/Appellants-Appellants,  
+  
+vs.  
+ 
+DEPARTMENT OF LAND AND NATURAL RESOURCES;  
+BOARD OF LAND AND NATURAL RESOURCES,   
+Respondents/Appellees-Appellees.  
+SCWC-23-0000415  
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS  
+(CAAP-23-0000415; CIVIL NO. 1CCV-22-0000828)  
+MARCH 4, 2025  
+I. Introduction 
+This case concerns whether an appeal improperly filed in 
+the Environmental Court of the First Circuit (“environmental 
+court”) can and should be transferred to this court . 
+On July 15, 2022, Michael Dailey a nd Elizabeth Dailey 
+(together, “the Dail eys”), son and mother, filed an appeal with 
+1  
+   
+  
+   
+  
+ 
+ 
+  
+ 
+ 
+ 
+   
+    
+ 
+ 
+  ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+the environmental court . The appeal was from a 2022 Board of 
+Land and Natural Resources (“BLNR”) contested case decision 
+regarding a seawall allegedly constructed makai1 of the shoreline 
+and within the conservation district. After the Dail eys filed 
+their opening brief, the BLNR raised appellate jurisdiction 
+issues in its answering brief. The BLNR pointed out that Act 48 
+of 2016 (“Act 48”) had amended the law to require the Daileys’ 
+appeal to be filed directly with this cou rt. 
+Specifically, s ection 2 of Act 48 added a new statute, 
+Hawaiʻi Revised Statutes (“HRS”) § 183C -9 (Supp. 2016) . 
+Subsection (a) provides that “a ny contested case under this 
+chapter shall be appealed from a final decision and order . . . 
+upon the record directly to the supreme court for final 
+decision, except for those appeals heard pursuant to this 
+chapter arising in whole or in part from part III of chapter 
+205A . . . .”2 HRS Chapter 183C concerns the conservation 
+district. Part III of HRS Chapter 205A concerns shoreline 
+setbacks . 
+1 “Makai” means “on the seaside, toward the sea, in the direction of the 
+sea.” Kai, Mary Kawena Pukui & Samuel H. Elbert, Hawaiian Dictionary (6th 
+ed. 1987). 
+2   Act 48 was effective from August 1, 2016 to June 30, 2019. 2016 Haw. 
+Sess. Laws Act 48, at 82.   Act 213 of 2019 made HRS §  183C-9 a permanent 
+statute.   2019 Haw. Sess. Laws Act 213, at 637.  
+2  
+    
+ 
+  
+  
+   
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+  
+  
+ 
+   
+ 
+    
+   
+ 
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+BLNR then filed a motion to dismiss alleging lack of 
+appellate jurisdiction. The Daileys argued the environmental 
+court had jurisdiction, but they also asked the environmental 
+court to transfer the appeal to this court if it de termined it 
+lacked appellate jurisdiction . The environmental court 
+dismissed the appeal based on a lack of appellate jurisdictio n 
+and ruled it lacked power to transfer the appeal to this court . 3 
+The Intermediate Court of Appeals (“ICA”) affirme d. 4 
+On certiorari, the Daileys raise two issues: 
+1. Whether the I CA gravely erred in affirming the 
+environmental court’s dismissal of the Daileys’ contested 
+case appeal by incorrectly finding that the HRS Chapter 
+205A shoreline setback exception in HRS § 183C -9 did not 
+apply. Answering this question in the affirmativ e 
+would obviate the need to address the second question. 
+2. If the I CA did not err in affirming the finding 
+above, the question becomes whether the ICA gravely erred 
+in affirming the environmental court’s Conclusion of Law 
+denying a direct transfer request to the Hawaiʻi Supreme 
+Court for lack [of] authority for such a transfer. 
+On the first issue, as further explained below, we hold 
+that the Daileys’ appeal does not involve the HRS Chapter 205A 
+shoreline setback exception in HRS § 183C -9; therefore, this 
+court has exclusive appellate jurisdiction . 
+3 The Honorable Jeffrey P. Crabtree presided. 
+4 During the pendency of the ICA appeal, Elizabeth Dailey passed away. 
+Michael Dailey asked that the appeal proceed in his name as the remaining 
+appellant. 
+3  
+  
+ 
+    
+ 
+ 
+  
+ 
+  
+  
+ 
+   
+   ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+On the second issue, we need not decide whether the ICA 
+erred by affirming the environmental court’s dismissal. The 
+power of our courts to transfer appeals was not clear when the 
+environmental court and the ICA issued their rulings. Even 
+absent error, this court has discretion under HRS § 602 -59(a) 
+(2016) to accept certiorari. See State v. Hussein , 122 Hawaiʻi 
+495, 514, 229 P.3d 313, 332 (2010). Here, we accepted 
+certiorari to consider whether the Daileys’ appeal should be 
+transferred to this court based on our holdings in Honoipu 
+Hideaway , LLC v. Land Use Commission , 154 Hawaiʻi 372, 550 P.3d 
+1230 (2024), and Rosehill v. Land Use Commission , 155 Hawaiʻi 41, 
+556 P.3d 387 (2024). These opinions post -dated the ICA’s May 
+16, 2024 summary disposition order (“SDO”). 
+Honoipu and Rosehill addressed appeals filed in circuit 
+courts from Land Use Commission (“LUC”) declaratory orders ; the 
+appeals were filed before our opinion in In re Kanahele , 152 
+Hawaiʻi 501, 526 P.3d 47 8 (2023). In Kanahele , we held that LUC 
+declaratory orders have the same status for judicial review as 
+contested case orders. 152 Hawaiʻi at 512, 526 P.3d at 489. As 
+a result, based on amendments to appellate jurisdiction in Act 
+48, appeal s from LUC declaratory order s were also required to be 
+filed directly with this court. 152 Hawaiʻi at 511-12, 526 P.3d 
+488-89. 
+4  
+      
+   
+  
+ 
+  
+ 
+ 
+     
+ 
+    
+  
+ 
+ 
+   
+  
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+After Kanahele , in Honoipu, a reserved question case, we 
+held that a circuit court has inherent and statutory authority 
+to transfer a timely-filed appeal nunc pro tunc to this court. 
+154 Hawaiʻi at 374, 550 P.3 at 1232.  Then, in Rosehill , after 
+accepting transfer of an appeal to the ICA, we deemed the 
+transfer accepted nunc pro tunc to the date the appeal was 
+originally filed in the circuit court. 155 Hawaiʻi at 45, 556 
+P.3d at 391. 
+Both Honoipu and Rosehill limited their holdings regarding 
+appellate jurisdiction to the “limited circumstances” of those 
+cases, where appeals of LUC declar atory orders were pending in 
+lower courts when Kanahele was published. Honoipu, 154 Hawaiʻi 
+at 374, 550 P.3d at 1232; Rosehill , 155 Hawaiʻi at 50, 556 P.3d 
+at 396. But, as noted in Honoipu, our appellate courts have 
+long adhered to the policy of permitting litigants, where 
+possible, to appeal and to have their cases heard on the merits. 
+Honoipu, 154 Hawaiʻi at 376, 550 P.3d at 1234 (citation omitted). 
+And, as further noted in Honoipu, various other jurisdictions 
+have held that courts have inherent authority to transfer 
+appeals when they have been filed in the wrong court . See 
+Honoipu, 154 Hawaiʻi at 376, 376 n.3, 550 P.3d at 1234 , 1234 n.3. 
+The inherent and statutory power of our lower and appellate 
+courts to order transfer s of appeals to the court with appellate 
+jurisdiction, as well as our policy of permitting litigants , 
+5  
+  
+   
+   
+    
+ 
+  
+ 
+ 
+    
+  
+  
+  
+    
+    
+    
+ 
+ 
+ 
+   
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+where possible, to appeal and to have their cases heard on the 
+merits, also applies here. Not allowing a transfer would 
+preclude a decision on the merits of the Da ileys’ appeal. 
+Hence, w e hold that , based on the inherent and statutory 
+bases provid ing courts with the power to order transfer s of 
+appeals to the court with appellate jurisdiction , the 
+environmental court had the power to transfer the Daileys’ 
+appeal to this court . Under the circumstances of this case, w e 
+order the environmental court to transfer the appeal to this 
+court nunc pro tunc to the date of its July 15, 2022 filing as 
+soon as this court’s judgment on appeal has entered . The appeal 
+on the merits is then to proceed in this court pursuant to the 
+Hawaiʻi Rules of Appellate Procedure (“HRAP”), with deadlines to 
+correspond with the date the appeal is actually transferred to 
+this court. 
+II. Background 
+A. Factual background 
+The Dailey family has owned an ocean -front residential 
+property in Mokuleia , on the North Shore of Oʻahu, for decades. 
+The late Fred Dailey , husband of Elizabeth and father of 
+Michael, was also a previous owner. In December of 1969, Hawai ʻi 
+was hit with a swell that brought waves that caused destruction 
+to homes along the North Shore, including the Daile y property . 
+In what was likely early 1970, Fred Dailey constructed a large, 
+6  
+   
+ 
+  
+   
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+ 
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+loose rock revetment on the makai side of the property to 
+protect the land and home from high surf damage and beach 
+erosion. 
+The structure lasted for decades, but in the early 2000s, 
+members of the public began complaining to the Department of 
+Land and Natural Resources (“DLNR”) that the deteriorating 
+revetment was sending boulders rolling down onto the beach. It 
+appears that by th en the beach had eroded and the rock pile 
+revetment was below the highest wash of the waves and within the 
+conservation district . 5 The DLNR found that rocks from the 
+revetment were being worn down by surf and were rolling onto the 
+beach. DLNR’s Office of Conservation and Coastal Lands (“OCCL”) 
+issued a notice indicating it had no record of ever approving 
+the structure and recommend ed its removal. 
+Instead of removing the revetment , around 2006 to 2007, 
+without obtaining a permit, the Daileys built a new seawall with 
+a cement cap on top of the 1970 rock pile. The OCCL then 
+recommended that BLNR fine the Daileys and order them to remove 
+the structure. BLNR agreed with the recommendation, and the 
+Daileys sought a contested case hearing. 
+The “conservation district” is defined as “those lands within the 
+various counties of the State bounded by the conservation district line. . . 
+.” HRS § 183C-2 (2023). In this case, it means the lands makai of the 
+shoreline. 
+7 5   
+    
+  
+   
+  
+ 
+   
+    
+  
+  
+ 
+   
+  
+  
+ 
+    ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+B. Procedural background before this appeal 
+This is the third judicial appeal regarding th is matter. 
+1. First appeal and remand 
+On June 13, 2014, BLNR issued a decision and order finding 
+the seawall violated permissible uses within the conservation 
+district and fined the Daileys. The Daileys appealed this 
+decision to the circuit court . On March 20, 2015, the circuit 
+court remanded the matter to the BLNR for the BLNR to prove the 
+original rock pile revetment was built within the conservation 
+district. This remand order was not further appealed. 
+On remand, on June 23, 2017, the BLNR determined that the 
+OCCL had not met its burden, but also determined that 
+construction of the new seawall constituted a violation. 
+2. Second appeal and remand 
+On July 21, 2017, the Daileys filed their second appeal, 
+this time with the environmental court. 6 Although this appeal 
+was filed after the August 1, 2016 effective date of Act 48, the 
+BLNR did not contest the environmental court’s appellate 
+jurisdiction. In this second appeal, t he environmental court 
+concluded there were procedural infirmities, vacated the BLNR 
+HRS Chapter 60 4A (2016), which created our environmental courts, came 
+into effect on July 1, 2015. 2016 Haw. Sess. Laws. Act 218, at 737 -39. 
+Pursuant to HRS § 604A-2(a)(1) (2016 & Supp. 2018 ), from that date, the 
+environmental court had exclusive jurisdiction of administrative appeals 
+arising out of HRS title 12, which includes HRS Chapter 183. 
+8 6   
+  
+  
+ 
+  
+ 
+   
+  
+ 
+  
+ 
+ 
+ 
+   
+   
+  
+ 
+ 
+    
+   ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+decision, and remanded for a contested case hearing that is the 
+subject of this third appeal. This decision was also not 
+further appealed. 
+3. BLNR decision 
+After the subject contested case hearing, the BLNR issued 
+its findings of fact, conclusions of law, and decision and order 
+on June 16, 2022 (“BLNR FOF/COL” ). The BLNR noted issues 
+regarding pinning down the location of the shoreline for 
+purposes of this case. BLNR had not established the location 
+and boundaries of the shoreline when Fred Dailey built the 
+original rock pile revetment; therefore, BLNR was n ot able to 
+establish that the original rock pile revetment was built makai 
+of the shoreline and in the conservation district. As such, 
+BLNR consider ed the original rock pile revetment to be a 
+“nonconforming” (once legal) structure. 
+By the early 2000s, however, due to beach erosion, the 
+highest wash of the waves was clearly above the deteriorating 
+revetment. BLNR noted that the Daileys ’ first attempt to 
+certify their shoreline in 2007 was rejected because they tried 
+to certify the shoreline against the face of the ir new seawall. 
+Based on the Daileys’ second request, however, on September 15, 
+2011, DLNR certified the shoreline mauka7 of the seawall , which 
+“Mauka” means “inland.” Mauka, Mary Kawena Pukui & Samuel H. Elbert, 
+Hawaiian Dictionary (6th ed. 1987). 
+9 7  
+   
+ 
+    
+  
+  
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+meant the seawall was within the conservation district. 
+Although the Daileys later complained about the location of the 
+certified shoreline, they neither appealed the certification n or 
+sought a new certification. 
+The BLNR then concluded  that the Daileys “willfully 
+violated H.R.S. § 183C-4(b), and H.A.R. §§ 13-5-30(b)(1994), 13-
+5-22(P-9)(C-1)(1994), 13-5-23(L-5)(D-1)(1994), and 13-5-
+37(e)(1994) by demolishing a nonconforming rock pile and 
+reconstructing it into an unauthorized and unpermitted seawall 
+in the Conservation District on or about December of 2006 
+through February of 2007.”   The BLNR determined  that the seawall 
+and remnants of the rock pile have persisted as a continuing violation since that time.   BLNR also concluded that the seawall 
+construction exceeded what could lawfully be done on a nonconforming structure without permits.   BLNR fined the Daileys 
+$8000 and ordered them  to remove the unauthorized seawall, all 
+rocks makai of and underlying the seawall, and any remaining sections of the old rock pile.   
+BLNR determined that r egardless of where the shoreline had 
+originally been , the Daileys had gone well beyond what would 
+constitute legal repairs to the nonconforming rock pile 
+revetment by cementing it over and buil ding a seawall on top of 
+it. The BLNR concluded that the seawall violated HRS chapter 
+183C and its relevant administrative rules because it could not 
+10  
+   C. Appeal to the environmental court  
+  1. Appeal 
+ 
+On July 15, 2022, the Daileys filed a notice of appeal of 
+the BLNR’s FOF/COL with  the circuit court.   They cited HRS §§ 
+91-14 and 183C-8 as the statutory bases for their appeal.   They 
+quoted a 1994 version of HRS § 183C-8 as stating, “Any final 
+order of the department based upon this chapter may be appealed 
+to the circuit court of the circuit in which the land in 
+question is found. The appeal shall be in accord with chapter 
+91 and the Hawaii rules of civil procedure.”   The circuit court 
+later appropriately redesignated the matter as being in the 
+environmental court.     8
+ In its  answer to the Daileys’  statement of the case, the 
+BLNR raised as a defense the environmental  court’s lack of 
+subject matter jurisdiction over the Daileys’ appeal.   The DLNR 
+filed a joinder.  
+ 
+ 
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+have been built in the conservation district without a permit 
+and would not have been considered a legal repair of a 
+nonconforming structure even if it remained in the shoreline 
+setback area.   
+11 8   See  supra  note  6.   
+  
+   2. Briefing before the environmental court 
+ 
+    a. Daileys’ opening brief 
+ 
+The Daileys’ October 17, 2022 opening brief addressed the 
+merits of the BLNR’s FOF/COL  in addition to appellate 
+jurisdiction.   Because this certiorari proceeding deals only 
+with appellate jurisdiction, we do not discuss the briefing  
+except as relevant to appellate jurisdiction  issues that 
+continue to be raised on certiorari.  
+ Regarding appellate jurisdiction, the Daileys pointed out a 
+“jurisdictional split” between the City and County of Honolulu 
+(“the City”) and the DLNR along the shoreline.   They explained 
+that land mauka of the shoreline is within City  jurisdiction 
+under HRS chapter 205A  while land makai of the shoreline is 
+under DLNR jurisdiction under HRS Chapter 183.     
+    b. BLNR’s answering brief 
+ In its answering brief, which DLNR joined,  BLNR raised  the 
+threshold question of whether the  environmental court had  
+jurisdiction to hear the Daileys’ appeal.   BLNR pointed out that 
+the Daileys cited an outdated statute  for their appeal;  HRS § 
+183C-8  had provided  that conservation district contested case 
+proceeding appeals would be heard by the circuit court.   BLNR 
+noted, however,  that Act 48 had vested appellate jurisdiction ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+12  
+      c. Daileys’ reply brief  ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+over HRS chapter 183C  contested case appeals directly with this 
+court.    
+BLNR acknowledged  that the  environmental  court still 
+retained  jurisdiction over appeals concerning  HRS Chapter 205A 
+Part III.   BLNR asserted, however,  that the Daileys’ case did 
+not involve such issues  and concerned only a seawall constructed 
+makai of the shoreline, wholly within the conservation district.   
+BLNR noted that the Daileys themselves, in their notice of 
+appeal, did not cite to HRS Chapter  205A Part III.    
+BLNR acknowledged that  there had been counts  related to HRS 
+Chapter 205A Part III brought against the Daileys in a prior 
+contested case hearing, but noted that those counts had been 
+dismissed and no such claims had since been included.   BLNR 
+notified the environmental court that it would be preparing a separate motion to dismiss the Daileys’ appeal.    
+In their reply brief, the Daileys pointed out that even 
+after the enactment of Act 48, their 2017 (second) appeal  had 
+been to the environmental court. The Daileys noted  that the 
+BLNR did not contest  appellate jurisdiction, which the 
+environmental court purported to exercise.   The Daileys also 
+argued that their  appeal noted the jurisdictional split between 
+the  City  and the BLNR  and asserted that their appeal involved 
+HRS chapter 205A Part III.  
+13 ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  **  
+14 The Daileys alternatively asked the environmental court to 
+transfer their appeal to this court in the even t it ruled it 
+lacked appellate jurisdiction.     
+3.   BLNR’s motion to dismiss 
+  
+ a. BLNR’s motion  
+ 
+ BLNR then filed a motion to dismiss on November 22, 2022,  
+which DLNR joined.   BLNR elaborated  on its position  that there 
+were no shoreline setback issues under HRS Chapter 205A Part III 
+at issue in the instant appeal.   BLNR explained that DLNR staff 
+had initially alleged HRS §§ 205A -43.6 and -44(b) violation s; 
+BLNR dismissed that claim, however,  because the City was the 
+entity with jurisdiction over enforcement of HRS Chapter 205A 
+shoreline setback statutes.   According to BLNR, no further 
+allegations regarding the shoreline setback area were made.     
+BLNR also pointed out that the shoreline determination for 
+the subject property was made in 2011, when the shoreline was 
+certified as mauka of the Daileys’ rock revetment .  The Daileys 
+had not appeal ed this determination.   BLNR emphasized that , in 
+any event,  the current appeal concerned an interpretation of 
+nonconforming uses in the conservation district  and did not 
+involve shoreline setback  issues.    
+ b. Dailey’s memorandum in opposition    
+ In opposition, t he Daileys argued that their appeal 
+triggers the HRS Chapter 205A Part III ex ception of HRS § 183C -** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER  **  
+15 9(a) because, over the course of fifteen years , the parties ha d 
+argued over the location of the shoreline in reference to the 
+revetment.   They asserted that the movement of the shoreline in 
+the mauka direction gave rise to the enforcement action against 
+them.   
+c. BLNR’s reply  
+In its reply, which the DLNR joined, the BLNR additionally 
+argued that subject matter jurisdiction c an be raised at any 
+time and it did not matter that the 2017 appeal was mistakenly 
+entertained by the environmental court.    
+d.   Supplemental briefing  
+ 
+The environmental court invited supplemental briefing as to 
+whether the BLNR’s FOF/COL implicated HRS Chapter 205A Part III.  
+BLNR filed a supplemental brief  quoting the following portion of 
+its FOF/COL to argue that the Daileys’ violation notice did not 
+arise out of HRS chapter 205A Part III  and instead arose only 
+out of HRS chapter 183C : 
+The BLNR . . . finds and holds under the evidentiary record 
+of this contested case that Petitioners Elizabeth Dailey 
+and Michael Dailey willfully violated H.R.S. § 183C -4(b), 
+and H.A.R. §§ 13 -5-30(b)(1994), 13 -5-22(P-9)(C-1)(1994), 
+13-5-23(L-5)(D-1)(1994),  and 13-5-37(e)(1994) by 
+demolishing a nonconforming rock pile and reconstructing it 
+into an unauthorized and unpermitted seawall in the 
+Conservation District on or about December of 2006 through 
+February of 2007.  
+ 
+DLNR joined BLNR’s supplemental brief  and also explained 
+that, in 2013, it had filed a bill of particulars concerning the 
+Daileys’ seawall violation.   The bill of particulars alleged  
+   
+     
+  
+  
+  
+ 
+  
+  
+   
+        
+  
+  
+ 
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+that the “ Daileys’ reconstruction and repair of the seawall or 
+revetment located or situated within the Conservation District 
+along the shoreline on the makai side of their property violated 
+[HRS] § 183C -4(b), [HRS] § 205A -43.5(a),(b), [HRS] § 205A -44(b) 
+and [HAR] §§ 13-5-6[,] 13-5-7, 13-5-30(b) and 13 -5-35(d).” DLNR 
+further explained that a 2014 BLNR decision and order then 
+concluded that DLNR lacked jurisdiction to enforce HRS chapter 
+205A; therefore, the HRS chapter 205A allegations against the 
+Daileys were dismissed by BLNR in 2014. 
+e. Environmental court’s ruling 
+On May 5, 2023 , the environmental court granted BLNR’s 
+motion to dismiss in its findings of fact, conclusions of law, 
+and order (“environmental court’s FOF/COL”). It agreed with 
+BLNR that th is appeal arose out of HRS Chapter 183C and not HRS 
+Chapter 205A Part III; therefore, it lacked jurisdiction over 
+the appeal. The environmental court also declined the Daileys’ 
+request to transfer the case to th is court , indicating it was 
+not aware of any rule or case law allowing transfer and 
+concluding it did not possess the inherent power to do so. The 
+environmental court’s final judgment was filed on June 6, 2023. 
+D. ICA proceedings 
+In the Daileys’ appeal to the ICA, the parties essentially 
+repeated their arguments in the environmental court. In its May 
+16, 2024 SDO, with respect to the appellate jurisdiction issues 
+16  
+  
+    
+  
+ 
+  
+    
+ 
+     
+ 
+    
+     
+  
+  
+   
+ 
+ 
+      ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+relevant on certiorari, the ICA affirmed the environmental 
+court’s dismissal of the Daileys’ appeal. Dailey v. Dep’t of 
+Land & Nat. Res. , No. CAAP -23-0000415, 2024 WL 2209726, at *7 
+(Haw. App. May 16, 2024) (SDO). The ICA pointed out that the 
+Daileys never disputed that their contested case arose under HRS 
+Chapter 183 C, as evidenced by th e jurisdictional statements in 
+the notice of appeal and statement of the case they filed with 
+the environmental court. Dailey, 2024 WL 2209726, at *5. The 
+ICA also noted that the record reflect ed that the Daileys’ 
+seawall was makai of the shoreline, within the conservation 
+district. Id. 
+The ICA also agreed with the environmental court that the 
+latter did not possess inherent authority to transfer the 
+Daileys’ appeal to this court. Dailey, 2024 WL 2209726, at *6. 
+The ICA filed its judgment on appeal on July 9, 2024. 
+E. Certiorari proceedings 
+On certiorari, Daile y9 first asserts the HRS Chapter 205A 
+Part III exception to HRS § 183C -9 applies to his appeal because 
+the location of the shoreline was a critical issue in this 
+contested case proceeding . 
+Secondly, Dailey raises a new argument that could not have 
+been raised before the ICA’s SDO : that this court’s Honoipu 
+See supra note 4. 
+17 9  
+     
+ 
+   
+  
+ 
+  
+  
+ 
+   
+  
+  
+ 
+   
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+opinion indicates the environmental court had the power to 
+transfer Dailey’s appeal to this court. Dailey acknowledge s 
+that Honoipu said its holding was “not a license to transfer any 
+case from the circuit court to our court.” Dailey nevertheless 
+maintains that his appeal warrants the remedy set forth in 
+Honoipu due to the environmental court’s mistaken exercise of 
+jurisdiction over his 2017 contested case appeal, which created 
+confusion over the appropriate appellate procedure and an 
+inconsistent exercise of appellate jurisdiction. 
+In response, B LNR distinguishes Honoipu. BLNR first argues 
+that Honoipu’s remedy of allowing a court to transfer an agency 
+appeal to this court should apply only in the narrow 
+circumstances present ed in that case, where jurisdiction was 
+apparently proper when the appeal was originally filed, but the 
+parties’ understanding of jurisdiction shifted following a 
+decision from an appellate court . 
+III. Standards of Review 
+A. Appellate jurisdiction 
+The existence of jurisdiction is a question of law, 
+reviewed de novo. Dupree v. Hiraga , 121 Hawaiʻi 297, 312, 219 
+P.3d 1084, 1099 (2009). 
+B. Statutory interpretation 
+Statutory interpretation is guided by established rules: 
+18  
+  
+ 
+ 
+  
+  
+ 
+ 
+ 
+    
+ 
+  
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+First, the fundamental starting point for statutory 
+interpretation is the language of the statute itself. 
+Second, where the statutory language is plain and 
+unambiguous, our sole duty is to give effect to its plain 
+and obvious meaning. Third, implicit in the task of 
+statutory construction is our foremost obligation to 
+ascertain and give effect to the intention of the 
+legislature, which is to be obtained primarily from the 
+language contained in the statute itself. Fourth, when 
+there is doubt, doubleness of meaning, or indistinctiveness 
+or uncertainty of an expression used in a statute, an 
+ambiguity exists. 
+Rees v. Carlisle , 113 Hawaiʻi 446, 452, 153 P.3d 1131, 1137 
+(2007) (c leaned up ). 
+IV. Discussion 
+A. The HRS Chapter 205A Part III exception to HRS § 183C -9(a) 
+is inapplicable ; therefore, only this court has appellate 
+jurisdiction 
+Dailey’s first question on certiorari asks this court to 
+determine whether the HRS Chapter 205A Part III exception to HRS 
+§ 183C-9(a)’s requirement that appeals be filed with this court 
+applies to their appeal; if so, the environmental court would 
+have had appellate jurisdiction. 
+The plain language of HRS § 183 -9(a) requires appeals 
+arising out of HRS chapter 183C to come directly to th is court 
+The statute, however, contains an exception for “appeals . . . 
+arising in whole or in part from part III of chapter 205A.” 
+Despite Dailey’s argument , this enforcement action was 
+undertaken entirely under HRS chapter 183C and its related 
+Hawaiʻi Administrative Rules (“ HAR”). 
+19  
+    
+  
+   
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+      
+ 
+      
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+HRS Chapter 205A Part III contains statutes providing the 
+City with exclusive or delegated jurisdiction over shoreline 
+setback issues.10 In 2014, however, BLNR abandoned any attempt 
+to enforce HRS chapter 205A against the Daileys, acknowledging 
+that it lacked jurisdiction to enforce shoreline setback 
+violations. Therefore, since that time, BLNR’s enforcement 
+action against the Daileys has been undertaken solely under HRS 
+chapter 183C governing the conservation district. 
+The BLNR’s problem pinning down the location of the 
+shoreline for purposes of this case does not affect this 
+analysis . Even under HRS Chapter 205A Part III, it is the BLNR 
+that determines shorelines.11 And the shoreline certification 
+finalized in 2011 at the Daileys’ request established that the 
+new seawall constructed in 2006 -07 had clearly been constructed 
+in the conservation district. The Daileys never appealed this 
+certification . Hence, after Act 48, pursuant to HRS § 183C -9, 
+the environmental court lacked jurisdiction over both the 2017 
+second appeal as well as this appeal. 
+10 See HRS Chapter 205A Part III, HRS §§ 205A-41 to 205A -49 (2017). 
+11 See HRS § 205A-42 (2017). 
+20  
+  
+  
+ 
+  
+ 
+ 
+  
+ 
+    
+  
+      
+  
+   
+ 
+ 
+   ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+B. The constitutional and statutory bases providing the 
+judiciary with inherent power to transfer appeals outlined 
+in Honoipu and Rosehill provided the environmental court as 
+well as this court with the power to order transfer of the 
+Dailey’s appeal 
+In their second question on certiorari, the Daileys 
+alternatively assert that even if their appeal had been required 
+to be filed directly with this court after Act 4 8, the ICA erred 
+by affirming the environmental court’s determination that it 
+lacked authority to transfer the appeal to this court. 
+We need not decide whether th e ICA or the environmental 
+court erred, as error is not a prerequisite to t his court ’s 
+acceptance of certiorari. See Hussein, 122 Hawaiʻi at 514, 229 
+P.3d at 332. At the time the environmental court dismissed the 
+case for lack of jurisdiction, and the ICA affirmed, this 
+court’s Honoipu and Rosehill opinions had yet to be published . 
+Honoipu involved a petition for a declaratory order for the 
+LUC to change the boundary location between conservation and 
+agricultural districts on a district boundary map. 154 Hawaiʻi 
+at 373, 550 P.3d at 1231. The LUC denied the petition, and 
+Honoipu Hideaway appealed the decision to the circuit court. 
+Id. 
+Since 2016 , Act 48 also expressly required that appeals 
+from LUC contested case decisions be filed with this court, but 
+it was silent on appeals of declaratory orders. Id. In Lingle 
+v. Haw. Gov’t Emps. Ass’n, AFSCME, Loc. 152, AFL -CIO, however, 
+21  
+   
+ 
+    
+  
+  
+  
+  
+  
+   
+ 
+    
+ 
+  
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+we held that although declaratory orders are not contested 
+cases, they have the same status for the purpose of appeal 
+rights under HRS § 91 -14. 107 Hawai ʻi 178, 186, 111 P.3d 587, 
+595 (2005). Hence, in Kanahele , we interpreted Act 48 to 
+require agency appeals from both contested cases and declaratory 
+orders to come to this court. Honoipu, 154 Hawai ʻi at 374, 550 
+P.3d at 1232 (citation omitted). 
+After Kanahele was filed , Honoipu Hideaway moved to 
+transfer its pending appeal in the circuit court to this court. 
+Id. In response, t he LUC moved to dismiss the appeal for lack 
+of subject matter jurisdiction. Id. The circuit court then 
+submitted a reserved question to this court: “Whether [the 
+circuit court] has inherent and statutory authority to transfer 
+nunc pro tunc an appeal, which was timely filed with [the 
+circuit court], to the Supreme Court of Hawai ʻi as the court with 
+appellate jurisdiction.” 154 Hawai ʻi at 373, 550 P.3d at 1231. 
+This court answered in the affirmative. Id. We held that 
+“in order to correct jurisdiction following this court’s 
+decision in Kanahele , the circuit court may transfer the case 
+here nunc pro tunc, or backdated to the appropriate time. 
+Allowing such a transfer in these limited circumstances accords 
+with our longstanding policy to hear cases on the merits, and 
+there is both inherent and statutory power for the courts to do 
+so.” 154 Hawaiʻi at 374, 550 P.3d at 1232. 
+22  
+   
+ 
+  
+  
+   
+ 
+  
+    
+   ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+As to statutory authority for such a transfer of the 
+appeal, this court cited the circuit court’s authority under HRS 
+§ 603-21.9(1) “[t]o make and issue all orders and writs 
+necessary or appropriate in aid of their original or appellate 
+jurisdiction.” 154 Hawaiʻi at 375, 550 P.3d at 123 3. We also 
+cited HRS § 602 -5(a)(5) for this court’s authority “[t]o make 
+and issue any order or writ necessary or appropriate in aid of 
+[this court’s] jurisdiction.” Id. In addition to statut ory 
+authority, however, we also cited Hawaiʻi Constitution’s Article 
+VI, Section 1 ’s “judicial power ,” which include s the inherent 
+“power to administer justice,” such as the power to “prevent 
+unfair results and to curb abuses and promote a fair process.” 
+154 Hawaiʻi at 376, 550 P.3d at 1234. (cleaned up). 
+In Honoipu, we said that “the power to ‘do such other acts 
+and take such other steps as may be necessary to carry into full 
+effect the powers which are or shall be given to them by law or 
+for the promotion of justice’ gives the circuit court the power 
+to correct a jurisdictio nal mistake that was no party’s or 
+court’s fault.” Id. We also considered the judiciary’s policy 
+of hearing cases on the merits whenever possible. Id. We noted 
+that “the judicially efficient remedy is to transfer the case to 
+this court nunc pro tunc [to the date the notice of appeal was 
+filed with the circuit court] so that we may address the merits 
+23  
+   
+   
+  
+  
+   
+   
+ 
+   
+  
+  
+ 
+     
+  
+    
+ 
+  ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+questions more expeditiously.” 154 Hawaiʻi at 377, 550 P.3d at 
+1235. 
+After Honoipu, in Rosehill , landowners had also appealed an 
+adverse LUC declaratory ruling to the circuit court. 155 Hawaiʻi 
+at 45, 556 P.3d at 391. The circuit court reversed the LUC. 
+Id. The LUC then appealed to the ICA. Id. While the appeal 
+was pending before the ICA, we issued Kanahele . Id. In 
+Rosehill , we accepted a transfer of the appeal from the ICA and 
+then deemed the transfer accepted nunc pro tunc to the date the 
+appeal was originally incorrectly filed in the circuit court. 
+Id. We also held that , in reaching the merits of the appeal, we 
+could use the entirety of the record although the circuit 
+court's findings of fact and conclusions of law had no weight 
+because the court had lacked a ppellate jurisdiction. Id. 
+We recognize that this case differs from Honoipu and 
+Rosehill . Both Honoipu and Rosehill limited their holdings 
+regarding appellate jurisdiction to the “limited circumstances” 
+of those cases, where appeals of LUC declaratory orders were 
+pending in our lower courts when Kahahele was published. 
+Honoipu, 154 Hawaiʻi at 374, 550 P.3d at 1232; Rosehill , 155 
+Hawaiʻi at 50, 556 P.3d at 396. In Honoipu, we expressly stated 
+that our opinion was “not a license to transfer any case from 
+the circuit court to our court. Rather, in this limited 
+circumstance, in which jurisdiction was proper when the appe al 
+24  
+  
+   
+  
+ 
+    
+  
+    
+ 
+  
+  
+    
+    ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+was originally filed, but the parties’ understanding of 
+jurisdiction shifted following a decision from an appellate 
+court, transfer to perfect jurisdiction is appropriate.” 
+Honoipu, 154 Hawaiʻi at 377, 550 P.3d at 123 5. 
+Here, the Daileys mistakenly filed their appeal from a 
+contested case decision to the environmental court in July 2022. 
+The Daileys mistakenly believed the environmental court had 
+jurisdiction, but the BLNR asserted a lack of jurisdiction in 
+that court . Jurisdiction was not proper in the environmental 
+court when the appeal was filed. The environmental court 
+granted BLNR’s motion to dismiss for lack of jurisdiction and 
+declined to transfer the case to this court , stating it was not 
+aware of any rule or case law allowing such transfer and that it 
+did not believe it had the inherent power to transfer the 
+appeal. 
+But, as noted in Honoipu, our appellate courts have long 
+adhered to the policy of permitting litigants, where possible, 
+to appeal and to have their cases heard on the merits. Honoipu, 
+154 Hawaiʻi at 376, 550 P.3d at 1234 (citation omitted). And, as 
+further noted in Honoipu, various other jurisdictions have held 
+that courts have inherent authority to transfer appeals for lack 
+of jurisdiction when timely appeals have been filed in the wrong 
+court. See Honoipu, 154 Hawaiʻi at 376, 376 n.3, 550 P.3d at 
+1234, 1234 n.3. 
+25  
+       
+            
+ 
+  
+  
+           
+      
+    
+            
+           
+ 
+ 
+ 
+            
+ 
+  
+      
+         ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+For example, we cited to Pearce v. Dir., Off. of Workers’ 
+Comp. Programs, U.S. Dep’t of Lab., 603 F.2d 763, 771 (9th Cir. 
+1979), which collected cases and not ed that the Ninth Circuit 
+has held it has “power to transfer a pending case to another 
+circuit even when the latter circuit has exclusive jurisdiction 
+and venue to review the order in question .” We also cited to 
+People v. Nickerson , 128 Cal.App.4 th 33, 26 Cal. Rptr. 3d 563, 
+567 (2005), which points out that inherent authority, among 
+other things, “empowers [the California appellate court] to 
+order transfer [of an appeal]”) . We also pointed to Pridgen v. 
+Head, 282 Ala. 193, 210 So.2d 426, 429 (1968), in which the 
+Alabama Supreme Court held in denying a motion to dismiss appeal 
+that “[t]he fact that the appeal was taken to the Court of 
+Appeals rather than to [the supreme court] does not justify a 
+dismissal of the appeal. The cause has been transferred to this 
+court in keeping with a practice of long standing where the 
+appeal is taken to the wrong court. ” We also favorably cited 
+Dunn v. U.S. Dep’t of Agric., 654 F.2d 64, 68 (Ct. Cl. 1981), 
+which noted the Court of Claims’ inherent power to transfer a 
+case to a an appellate court with exclusive jurisdiction. 
+Finally, we referred to Commonwealth v. Carter, 36 Pa. Cmwlth. 
+569, 389 A.2d 241, 242 (1978), which held that “[w]here the 
+defect is the erroneous filing of the proceeding in the wrong 
+26  
+  
+  
+    
+   
+  
+ 
+ 
+ 
+  
+    
+  
+ 
+    
+ 
+ 
+  
+ 
+   
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+court, this error may be corrected by certifying the case to the 
+proper tribunal.” 
+These cases do not limit transfers of appeals to situations 
+where parties’ understanding of jurisdiction shifted following a 
+decision from an appellate court. Rather, they recognize the 
+much broader inherent power of courts. And, as we pointed out 
+in Honoipu, inherent powers of courts grounded in the 
+constitutional judicial power also provide courts with inherent 
+power to transfer appeals to the proper court.12 Hence, we hold 
+that the environmental court had the power to transfer the 
+Daileys’ timely appeal to this court. 
+The existence of th e power to transfer appeals does not 
+mean it must always be exercise d. For example, we w ould not 
+countenance an attorney repeatedly filing appeals in any court 
+on the assumption t he appeals would be transferred to the court 
+with appellate jur isdiction. But where a timely appeal is 
+inadvertently filed in the wrong court, it should be 
+transferred.13 In turn, the court to which an appeal is 
+12 We also note that HRAP Rule 3(a) (eff. 2019) allows an appeal 
+erroneously filed with the clerk of the court or agency appealed from to 
+effectively be transferred to the appellate court. This rule would not apply 
+here, but this rule does provide authority for some erroneously filed appeals 
+to be tra nsferred. 
+13 Although not applicable here, we note that c ourts also have the 
+inherent discretionary power to address any prejudice to other parties 
+through other means, such as an award of reasonable attorney fees and costs 
+unnecessarily incurred due to the filing of appeals in the wrong court. 
+27  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+transferred will likewise have statutory , constitutional and 
+inherent authority to determine whether the transfer was 
+properly made . 14 
+Therefore, we conclude the power to transfer appeals can 
+and should be exercised under the facts and circumstances of 
+this case. This is especially because neither the BLNR nor the 
+environmental court noticed the lack of appellate jurisdiction 
+in the Daileys’ second appeal. And not requiring a transfer 
+here would preclude a decision on the merits of the Daileys’ 
+appeal, 15 contravening our long-standing policy of permitting 
+litigants, where possible, to appeal and to have their cases 
+heard on the merits. 
+Hence, u nder the circumstances of this case, we order the 
+environmental court to transfer the appeal to this court nunc 
+pro tunc to the date of its July 15, 2022 filing as soon as this 
+court’s judgment on appeal has entered. The appeal on the 
+merits i s then to proceed in this court pursuant to the HRAP, 
+with deadlines to correspond with the date the appeal is 
+actually transferred to this court. 
+14 For example, the transferee court might determine that the appeal was 
+untimely filed or that it should have been made to another court. 
+15 If dismissal of the appeal is affirmed, the deadline for filing an 
+appeal to this court would have long expired. 
+28  
+   
+ 
+ 
+   
+   
+ 
+   
+  
+ 
+   
+       
+ 
+  ** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND THE PACIFIC REPORTER ** 
+V. Conclusion 
+Based on the reasons above, we vacate the ICA’s July 9, 
+2024 judgment on appeal , the environmental court’s May 5, 2023 
+“Findings of Fact, Conclusions of Law, and Order Granting 
+Appellee Board of Land and Natural Resources ’ Motion to Dismiss 
+Appeal,” as well as its June 6, 2023 “Final Judgment .” We order 
+the environmental court to transfer the appeal to this court 
+nunc pro tunc to the date of its July 15, 2022 filing as soon as 
+this court’s judgment on appeal has entered. The appeal on the 
+merits is then to proceed in this court pursuant to the HRAP, 
+with deadlines to correspond with the date the appeal is 
+actually transferred to this court. 
+Gregory W. Kugle and  
+David H. Abitbol  
+for petitioners   /s/ Mark E. Recktenwald 
+/s/ Sabrina S. McKenna  
+/s/ Todd W. Eddins  
+/s/ Lisa M. Ginoza  
+/s/ Vladimir P. Devens  Thomas J. Hughes  
+for respondents  
+Lance D. Collins and  
+Bianca Isaki      
+for amicus curiae  
+Nā Papaʻi Wawae ʻ Ulaʻula,  
+Ka Malu o Kahālāwai, and  
+West Maui Preservation Association  
+29 
