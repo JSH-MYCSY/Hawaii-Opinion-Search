@@ -1,0 +1,2581 @@
+ 
+ 
+  
+  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+Electronically Filed 
+Supreme Court SCRQ-24-0000602 17-MAR-2025 08:08 AM Dkt. 196 OP 
+IN THE SUPREME COURT OF THE STATE OF HAWAI‘I 
+---o0o---
+IN THE MATTER OF THE PETITION 
+FOR THE COORDINATION OF MAUI FIRE CASES 
+SCRQ-24-0000602 
+ 
+RESERVED QUESTIONS FROM THE CIRCUIT COURT 
+OF THE SECOND CIRCUIT, STATE OF HAWAI͑I 
+(CASE NO. 2CSP-23-0000057) 
+ 
+MARCH 17, 2025 
+RECKTENWALD, C.J., McKENNA, EDDINS, AND GINOZA, JJ., 
+AND CIRCUIT JUDGE MORIKONE IN PLACE OF DEVENS, J., RECUSED 
+ 
+OPINION OF THE COURT BY RECKTENWALD, C.J. 
+I. INTRODUCTION 
+In this case, individual and class plaintiffs and 
+defendants agreed to the terms of a global settlement agreement 
+that would resolve all claims arising from damages caused by the 
+August 2023 Maui fires. 
+As relevant here, the terms of the 
+settlement require, as a condition precedent, either a release by insurance carriers of all subrogation claims against the 
+defendants, or a final, unappealable order and judgment that the  
+ 
+  
+ 
+    
+ 
+ 
+ 
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+insurers’ exclusive remedy for all subrogation claims arising 
+from the fires would be a lien against the settlement under 
+Hawai‘i Revised Statutes (HRS) § 663-10 (2016).  The Circuit 
+Court of the Second Circuit reserved three questions to our 
+court. 
+On Monday, February 10, 2025, we issued an order 
+answering the reserved questions as follows: 
+Question 1: 
+Does the holding of Yukumoto v. Tawarahara, 140 
+Haw[aiʻi] 285 [], 400 P.3d 486[] (2017)[,] that 
+limited the subrogation remedies available to 
+health insurers to reimbursement from their 
+insureds under HRS § 663-10 and barred 
+independent actions against tortfeasors who 
+settled with the insureds extend to property 
+and casualty insurance carriers? 
+Question 1 is answered in the affirmative. Our 
+opinion in Yukumoto v. Tawarahara, 140 Hawai‘ i 285, 400 P.3d 
+486 (2017), extends to property and casualty insurers such 
+that, under 
+Hawai‘i Revised Statutes (HRS) § 431:13-
+103(a)(10)(A)  [(2019)], the lien provided for under HRS § 
+663-10(a) is the exclusive remedy for a property and 
+casualty insurer to recover claims paid for damages caused 
+by a third- party tortfeasor in the context of a tort 
+settlement between an insured and the tortfeasor.  
+Question 2: 
+Is a property and casualty insurer
+’s 
+subrogation right of reimbursement prejudiced 
+by its insured’s release of any tortfeasor when 
+the settlement documents and release preserve 
+those same rights under HRS § 663- 10? 
+Because the statutory lien under HRS § 663- 10 is the 
+exclusive remedy for a property and casualty insurer in the context of a tort settlement, Question 2 is answered in the 
+negative.  
+Question 3
+: 
+Under the circumstances of the Maui Fire Cases and the terms of the “Global Settlement,” does 
+the law of the State of 
+Hawaiʻi require that 
+2  
+ 
+  
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+insureds be made whole for all claimed injuries 
+or damages before their insurers can pursue a 
+subrogation right of recovery or reimbursement 
+against a third- party tortfeasor? 
+Question 3 is answered in the negative.  Under the 
+circumstances of this mass tort case, we decline to apply the made whole doctrine to the statutory lien- claim process 
+established by HRS §§ 431:13- 103(a)(10) and 663- 10. 
+These answers are consistent with our precedent, and 
+with the plain language and legislative history of the relevant 
+statutes. Specifically, our answers effectuate the 
+legislature’s intent, following the enactment of HRS § 431:13-
+103(a)(10) in 2000, to appropriately balance an insurer’s right 
+to reimbursement with an insured plaintiff’s right to be fairly 
+compensated for their injury. Further, our answers serve the 
+long-recognized policy of promoting settlement. 
+In our order, we retained jurisdiction to issue this 
+opinion. 
+II. BACKGROUND 
+A. Procedural History 
+The facts underlying this case are well known. On the 
+morning of August 8, 2023, under conditions of strong, dry winds 
+from Hurricane Dora, a brush fire ignited outside of Lahaina, 
+Maui. Residents had little warning or ability to evacuate. 
+Some sheltered in the ocean off Front Street, as they watched 
+large swathes of Lahaina burn. The conflagration destroyed over 3,000 structures, including homes, businesses, and historical 
+3  
+ 
+  
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+landmarks. At least 102 people lost their lives as a result of 
+the fire. 
+Subsequently, numerous individual actions were brought 
+by plaintiffs (Individual Action Plaintiffs) in the Circuit 
+Court of the Second Circuit (circuit court) against various defendants, including Hawaiian Electric Industries, Inc., 
+Kamehameha Schools, State of Hawai‘ i, County of Maui, and others 
+(Defendants). The circuit court then created a special 
+proceeding under Rule 12 of the Rules of the Circuit Courts of 
+the State of 
+Hawaiʻi to coordinate the issuance of complex case 
+management orders applicable to all individual proceedings in 
+the numerous cases arising from the Maui wildfires.1 To 
+facilitate the special proceeding, the circuit court ordered liaison counsel to coordinate the Individual Action Plaintiffs. 
+The circuit court then appointed a special settlement master and 
+co-administrators to facilitate settlement. 
+Separately, three class action lawsuits were filed in 
+the First and Second Circuits in the name of injured parties that had not yet filed individual actions (Consolidated Class 
+Plaintiffs). These three class actions were removed to the 
+United States District Court for the District of Hawai‘ i, where 
+1 The Honorable Judge Peter T. Cahill presiding over the special 
+proceeding. 
+4  
+ 
+  
+ 
+ 
+  
+  
+ 
+   
+  
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+they were consolidated into a single action and later re-filed 
+in the Second Circuit.2 
+At the same time, subrogation actions were brought by 
+numerous insurance carriers (Subrogating Insurers) in the 
+Circuit Court of the First Circuit against the same Defendants, seeking to recover benefits paid to their insureds for damages 
+caused by the fires.
+3 
+Counsel for the Individual Action Plaintiffs, 
+Consolidated Class Plaintiffs, Defendants, and Subrogating 
+Insurers all participated in mediation to resolve the various 
+pending actions.4 In early August 2024, this mediation resulted 
+in a settlement term sheet signed by all parties save for the 
+Subrogating Insurers. The term sheet contemplated a global 
+settlement that resolved all claims against the Defendants. The 
+term sheet also required an agreement or judgment resolving the 
+Subrogating Insurers’ claims against the Defendants as a 
+2 In October 2024, the United States District Court for the 
+District of Hawai͑i approved the Consolidated Class Plaintiffs and 
+Defendants’ joint stipulation to dismiss the class action complaints .  On 
+October 30, 2024, the Consolidated Class re- filed a complaint in the circuit 
+court.  On November 27, 2024, the circuit court approved the Consolidated 
+Class Plaintiffs and Defendants’ joint stipulation to stay all proceedings 
+“to focus resources on further effectuating the settlement.” 
+3 On October 23, 2024, the Circuit Court of the First Circuit 
+transferred venue of the Subrogating Insurers’ claims to the circuit court. 
+4 The mediation process was initiated by the circuit court in case 
+2CSP-23-0000057.  Thus, the Consolidated Class Plaintiffs and Subrogating 
+Insurers participated in the mediation as non- parties to the underlying 
+proceeding. 
+5  
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+condition precedent to the proposed settlement. The relevant 
+provision stated: 
+4. Agreement or Judgment Resolving Subrogation Claims. 
+The Settlement Agreement shall provide that as a 
+condition precedent to any obligations of the Paying 
+Parties under the Settlement Agreement, in addition 
+to all other requirements and conditions in the 
+Settlement Agreement, one of the following two conditions (under sub- point (a) or sub- point (b)) 
+must be met within 90 days from mutual execution and delivery of the Term Sheet: 
+(a) each and every [Subrogating Insurer] enters into 
+a written agreement that provides for releases of all Maui Fires Claims against the Paying Parties and 
+other related parties, and that agreement, including 
+a list of all insurers who are parties to it, is 
+provided to the Paying Parties, in which case no 
+further conditions under paragraph 4(b) must be satisfied; or 
+(b) a trial court enters a judgment, order, or 
+opinion determining that if the Settlement Agreement 
+between the [Individual Action Plaintiffs] and the 
+Paying Parties becomes effective, 
+(i) the [Subrogating Insurers’] exclusive 
+remedy for any Maui Fires Claims would be 
+asserting liens, if any, against their 
+policyholders for their respective shares of 
+the Aggregate Settlement Amount, and 
+(ii) the [Subrogating Insurers] would be barred 
+from bringing or maintaining any Maui Fires 
+Claims against the Paying Parties, 
+Provided that within nine months from the date of 
+each judgment, order, or opinion under (b), either 
+(x) each and every [Subrogating Insurer] enters 
+into a written agreement that provides for releases of all Maui Fires Claims against the 
+Paying Parties and other related parties, and 
+that agreement, including a list of all insurers who are parties to it, is provided to 
+the Paying Parties; or 
+(y) each such judgment, order or opinion under 
+(b) is rendered final and unappealable. 
+6  
+ 
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+On August 19, 2024, pursuant to the proposed global 
+settlement, the circuit court issued an order declaring itself 
+to have “exclusive jurisdiction, authority, and legal duty to 
+review and resolve any and all subrogation claims or liens 
+arising out of claims for payments under HRS § 663-10 in the event the global settlement of the Maui Fires claims between 
+Plaintiffs and Defendants becomes effective.” Then, on 
+September 12, 2024, the circuit court sua sponte reserved three 
+questions to the Hawaiʻ i Supreme Court.  We accepted the reserved 
+questions on September 25, 2024. 
+B. Legal Background 
+1. Subrogation defined Subrogation permits an insurer to step into the shoes 
+of an injured insured and sue a third-party tortfeasor to 
+recover damages for which the tortfeasor is liable to the 
+insured but for which the insurer has already paid the insured. 
+State Farm Fire & Cas. Co. v. Pac. Rent-All, Inc.
+, 90 Hawaiʻi 
+315, 329, 978 P.2d 753, 767 (1999). Stated differently, 
+subrogation “protects an insurer from paying a debt that should be discharged by another.” 
+St. Paul Fire & Marine Ins. Co. v.
+Liberty Mut. Ins. Co.
+, 135 Hawaiʻi 449, 455, 353 P.3d 991, 997 
+(2015). Subrogation rights may arise from statute, in contract, or in equity. 
+7  
+ 
+  
+   
+  
+  
+ 
+  
+ 
+ 
+    *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Generally, subrogation is theorized to prevent a 
+windfall to either the injured insured or the tortfeasor.  See 
+Yukumoto v. Tawarahara, 140 5
+Hawaiʻi 285, 291, 400 P.3d 486, 492 
+(2017). 
+Subrogation prevents a double recovery by limiting the 
+insured from collecting damages for the same injury from both 
+the insurer and the tortfeasor.  Additionally, subrogation 
+ensures that the ultimate liability attaches to the tortfeasor, 
+and not the insurer, once the insurer has paid out to the 
+insured. Brendan S. Maher & Rahda A. Pathak, Understanding and
+Problematizing Contractual Tort Subrogation, 40 Loy.U.Chi.L.J. 
+49, 63 (2008). Thus, subrogation has also been seen as serving 
+a third policy objective: deterring future loss-causing conduct. 
+Id. 6
+Some scholars and courts, however, have characterized 
+subrogation as a windfall for insurance companies. E.g., 
+Maxwell v. Allstate Ins. Cos.
+, 728 P.2d 812, 815 (Nev. 1986) 
+(“Allowing subrogation deprives the insured of the coverage for 
+5 Hawaiʻi courts have expressed distaste for “unjust enrichment” by 
+both the tortfeasor and the insured. See 
+State Farm
+, 90 Hawaiʻi at 332, 978 
+P.2d at 770 (distinguishing 
+Pac. Ins. Co. Ltd. v. Esperanza, 73 Haw. 403, 8 33 
+P.2d 890 (1992) from P eters v. Weatherw ax, 69 Haw. 21, 731 P.2d 157 (1987)). 
+6 This concern runs counter to the spirit of the collateral source 
+rule under which “a tortfeasor is not entitled to have its liability reduced 
+by benefits received by the plaintiff from a source wholly independent of and 
+collateral to the tortfeasor” as it robs the injured insured of the benefit 
+of their prudent forethought. Bynum v. Magno
+, 106 Hawaiʻi 81, 86, 101 P.3d 
+1149, 1154 (2004) (internal quotations and brackets omitted). As the 
+Bynum 
+court explains, any benefit from collateral sources “should redound to the 
+injured party.” Id. (citing Restatement (Second) of Torts § 920A cmt. b). 
+8  
+ 
+     
+ 
+  
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+which he had paid and results in a windfall recovery for the 
+insurer.”); Roger M. Baron, Subrogation: A Pandora’s Box 
+Awaiting Closure, 41 S.D.L.Rev. 237, 241-247 (1996) (discussing 
+“the flawed rationale of subrogation”). Under this theory, 
+subrogation does not appreciably decrease insurance premiums because subrogation recovery is too speculative to be relied 
+upon and, as such, premiums already cover the distributed risk 
+of the insurance pool. Baron, supra, at 244. Any recovery from 
+subrogation, therefore, is a pure windfall for the insurer at the insured’s expense, both because the insured paid a premium 
+and because the insured is denied recovery from the tortfeasor. 
+Id. at 243-45. As the Maxwell court explained, 
+“[s]ubrogation is a windfall to the insurer.  It plays no 
+part in the rate schedules (or only a minor one), and no 
+reduction is made in insuring interests . . . where the 
+subrogation right will obviously be worth something.” Patterson, Essentials of Insurance Law 151–152 (2d ed. 
+1957). See also 2 Richards, Law of Insurance, § 183 (5th 
+Ed. 1952) and DeCespedes v. Prudence Mut. Cas. Co. of Chicago, Ill., 193 So.2d 224, 227– 28 (3d D.C.A.Fla. 1966), 
+aff’d 202 So.2d 561 (Fla. 1967). 
+728 P.2d at 815 (quoting Allstate Ins. Co. v. Druke, 576 P.2d 
+489, 492 (Ariz. 1978)). 
+Notwithstanding these countervailing concerns, this 
+court has recognized broad subrogation rights for insurers. 
+See, e.g., Peters v. Weatherwax, 69 Haw. 21, 27, 731 P.2d 157, 
+161 (1987) (quoting Kapena v. Kaleleonalani, 6 Haw. 579, 583 (Haw. Kingdom 1885)) (“[Equitable subrogation] is broad enough 
+to include every instance in which one party pays a debt for 
+9  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+which another is primarily answerable, and which, in equity and 
+good conscience, should have been discharged by the latter[.]”) 
+(second brackets in original} (quoted in St. Paul Fire, 135 
+Hawaiʻi at 452, 353 P.3d at 994). 
+2. Relevant caselaw 
+Having established the general contours of 
+subrogation, we turn to a survey of our controlling caselaw. 
+Much of our caselaw discussing subrogation involves workers’ 
+compensation claims and motor vehicle insurance, both of which 
+are expressly exempted from HRS § 431:13-103(a)(10). See, e.g., 
+Park v. City & Cnty. of Honolulu
+, 154 Hawaiʻi 1, 543 P.3d 433 
+(2024) (holding that an insurer’s subrogation claim remained 
+after summary judgment had been granted against insured); 
+AIG 
+Haw. Ins. Co. v. Rutledge
+, 87 Hawaiʻi 337, 955 P.2d 1069 (App. 
+1998) (permitting an insurer to seek reimbursement from injured 
+insureds where the insureds were compensated for damages caused 
+by an uninsured motorist). 
+Our attention therefore turns to two cases: the first, 
+a pre-2000 case where we held that, in the context of fire and casualty insurance, an insured may not knowingly prejudice an 
+insurer’s subrogation rights; the second, a case decided in 2017 
+where we held that a health insurer had no subrogation rights 
+and that the health insurer’s exclusive remedy was a lien on the 
+10  
+ 
+  
+ 
+ 
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+insured’s settlement with the tortfeasor under HRS §§ 663-10 and 
+431:13-103(a)(10). 
+a. State Farm Fire and Casualty Co. 
+In State Farm Fire & Casualty Co. v. Pacific Rent-All, 
+Inc., decided in 1999, we held that, in the context of fire and casualty insurance: 
+[I]f the insurer proves (1) that the tortfeasor had actual 
+or constructive knowledge of the insurer’ s subrogation 
+right of reimbursement or that the tortfeasor and insured colluded to destroy the insurer’s subrogation right and (2) 
+that the insurer’s subrogation right of reimbursement is 
+actually prejudiced by the insured’s release of the 
+tortfeasor, then the release, settlement, and/or 
+indemnification agreement executed by the insured and the 
+tortfeasor will not bar a subrogation action by the insurer against the tortfeasor. 
+90 Hawaiʻ i at 332, 978 P.2d at 770. 
+There, the insured rented an air compressor from the 
+alleged tortfeasor.7 Id. at 319, 978 P.2d at 757. The 
+compressor subsequently exploded causing personal injury to the 
+insured as well as substantial property damage to the insured and others. Id.The insured and others submitted claims to the 
+property insurer, State Farm, that the property insurer paid. Id. 
+The insured filed a complaint against the tortfeasor, 
+alleging negligence and strict products liability. Id.The 
+insured and the tortfeasor settled, releasing all of the 
+7 Given the procedural posture of this case, the torts alleged 
+against defendant Pacific Rent- All, Inc., were not proven. 
+11  
+ 
+  
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+insured’s claims against the tortfeasor for personal injury and 
+property damage caused by the explosion. Id. at 319-20, 978 
+P.2d at 757-58. The insured thereafter voluntarily dismissed the complaint. Id. at 320, 978 P.2d at 758. 
+State Farm, together with the other injured parties, 
+including the insured, filed a complaint against the tortfeasor, asserting, among other things, a subrogation right of 
+reimbursement for the amount of claims paid. Id.The 
+tortfeasor moved for summary judgment, arguing that the insured had dismissed with prejudice all claims arising from the 
+explosion. Id. at 320-21, 978 P.2d at 758-59. State Farm 
+opposed, arguing that it had “acquired rights of subrogation 
+against defendants by virtue of benefits paid” to the injured 
+parties and that the other injured parties were not party to the 
+insured’s settlement agreement. Id. at 321, 978 P.2d at 759. 
+The insured argued “he did not intend to settle his property claims with defendants, implying that he was unaware of the 
+contents of the Agreement.” Id.
+The circuit court granted in part the motion for 
+summary judgment.
+8 Id. State Farm appealed. Id. at 322, 978 
+P.2d at 760. 
+8 The circuit court preserved a count arising from an insurance 
+claim for damage to another injured party’s automobile, which was 
+subsequently voluntarily dismissed. State Farm
+, 90 Hawaiʻi at 321-22, 978 
+P.2d at 759- 60. 
+12  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Two issues were presented before this court: 1) did 
+the insured have authority to settle the other injured parties’ 
+claims against the tortfeasor; and 2) did the insured’s 
+settlement destroy State Farm’s subrogation claims against the 
+tortfeasor? Id. at 323, 978 P.2d at 761. 
+i. Insured’s actions may affect subrogation rights 
+We explained that because subrogation rights may arise 
+from contract or from equity, an insurer who has paid for 
+damages caused by a third party’s tortious conduct is entitled 
+to be subrogated to the insured’s rights against the third party 
+“irrespective of the nature of the contract . . . even though 
+the policy contains no stipulations to that effect.” Id. at 
+328-29, 978 P.2d at 766-67 (emphasis in original) (quoting 8B John A. Appleman, Insurance Law and Practice § 4941, at 31-38 
+(1981)). The insurer steps into the shoes of the insured and may only assert those rights that the insured had against the 
+tortfeasor. Id. at 329, 978 P.2d at 767. Likewise, the 
+tortfeasor may raise any defense against the insurer that the tortfeasor had against the insured. Id.Thus, because the 
+viability of a subrogation claim is determined by, and limited by, the viability of the insured’s own claim against the 
+tortfeasor, an insured may affect an insurer’s right to subrogation, such as through waiver or release. Id.
+13  
+ 
+   
+ 
+  
+ 
+ 
+ 
+   
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Discussing the impact of settlements that purport to 
+release the tortfeasor from liability, this court quoted 
+extensively from The Law of Liability Insurance: 
+[I]f an insured settles with and releases the tortfeasor 
+from liability before the insurer pays the loss under the 
+terms of the policy, the insurer cannot enforce its right 
+to subrogation against the tortfeasor when it does pay the 
+claim, unless it can prove that the tortfeasor knew of the 
+insurer’ s right of reimbursement or can prove collusion 
+between the insured and the tortfeasor in an attempt to defeat the insurer’ s right. The insurer will, however, 
+have the right to deny the insured’ s claim on the basis 
+that it violated the contract of insurance since it did prejudice the insurer’ s subrogation right.  If the insured 
+settles with and releases the tortfeasor after payment is made by the insurer, the insurer is entitled to seek 
+reimbursement from the insured. 
+The general rule applies when the tortfeasor does not know 
+of the existence of the subrogation claim. If the 
+tortfeasor or its liability insurer knows of the subrogation claim and settles with the insured, without 
+protecting the insurer’ s subrogation claim, the release 
+given by the insured does not bar the subrogation claim. The subrogated insurer can still recover from the 
+tortfeasor. 
+    .
+. . . 
+The basis of the right the subrogated insurer has to reimbursement if the insured settles and destroys its 
+subrogation right appears to be that the insurer is 
+prejudiced when it had no knowledge of the settlement. Surprisingly, there is relatively little law concerning 
+whether the insurer must prove that it was prejudiced, that 
+is, that it could have recovered on the claim, had the 
+insured not settled with the tortfeasor. If the insurer 
+could not have recovered, it is not prejudiced and has no claim or defense against its insured. 
+Id. at 329-30, 978 P.2d at 767-68 (quoting 4 R. Long, The Law of
+Liability Insurance § 23.04[1], at 23-41 to 23-42 (1998)) 
+(emphasis and ellipsis in original).  9
+9 The State Farm court then collected cases from other 
+jurisdictions that have adopted a similar approach to resolving subrogation 
+(continued . . .) 
+14  
+ 
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Based on the foregoing, we held that 
+[I]n the context of fire and casualty insurance, if the 
+insurer proves (1) that the tortfeasor had actual or 
+constructive knowledge of the insurer’ s subrogation right 
+of reimbursement or that the tortfeasor and insured colluded to destroy the insurer’ s subrogation right and (2) 
+that the insurer’ s subrogation right of reimbursement is 
+actually prejudiced by the insured’ s release of the 
+tortfeasor, then the insurer may maintain a subrogation 
+action against the tortfeasor. In other words, the 
+insured’ s release of the tortfeasor will not affect the 
+insurer’ s subrogation right of reimbursement when the 
+tortfeasor acts inequitably and causes actual prejudice to the insurer.  
+Id. at 330, 978 P.2d at 768. 
+Additionally, we concluded that such an approach was 
+consistent with our caselaw in Peters, 69 Haw. at 27, 29, 731 
+P.2d at 161-62, Grain Dealers Mutual Insurance Co. v. Pacific 
+Insurance Co., Ltd, 70 Haw. 211, 217, 768 P.2d 226, 229-30 
+(1989), Pacific Insurance Company, Ltd. v. Esperanza, 73 Haw. 
+403, 833 P.2d 890 (1992), and Shimabuku v. Montgomery Elevator 
+Co., 79 Hawaiʻ i 352, 903 P.2d 48 (1995).  State Farm, 90 Hawaiʻ i 
+at 330-32, 978 P.2d at 768-70. 
+Peters involved a statutory provision that provided 
+for a right of subrogation but did not define subrogation. State Farm
+, 90 Hawaiʻi at 331, 978 P.2d at 769. There, the State 
+intervened in the case to assert a lien against any judgment or 
+settlement for medical expenses it had paid on behalf of a 
+(. . . continued) 
+rights where the insured settles with, and releases the liability of, the 
+tortfeasor. 90 Hawai
+ʻi  at 330, 978 P.2d at 768.  
+15  
+ 
+   
+  
+ 
+  
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+qualified beneficiary for injuries arising from a motor vehicle 
+accident caused by a third-party tortfeasor. Peters, 69 Haw. at 
+22-24, 731 P.2d at 159-60. After discussing subrogation 
+generally, the Peters court explained that: 
+When “the legislature enacts into statute law [sic] a 
+common law concept, . . . that is a clue that the courts 
+are to interpret [and apply] the statute with the freedom 
+with which they would construe and apply a common law 
+principle[.]” Posner, Statutory Interpretation— in the 
+Classroom and in the Courtroom, 50 U.Chi.L.Rev. 800, 818 
+(1983). Under the concept borrowed from the common law 
+here, a court “may give restitution . . . and prevent the 
+unjust enrichment of the defendant, where the plaintiff’ s 
+property has been used in discharging an obligation owed by 
+the defendant[.]” Restatement of Restitution § 162 comment 
+a (1937). Unjust enrichment in this instance could only be 
+prevented if the State is allowed to assert its claim for 
+special damages. Otherwise, the defendants may have 
+discharged their tort liability for less than what was just 
+in the circumstances at the expense of the State; and it would then be unjust for them to retain the benefit of the 
+State’s assumption of the obligation to pay the accident 
+victim’s medical bills. 
+State Farm, 90 Hawaiʻi at 331, 978 P.2d at 769 (quoting Peters, 
+69 Haw. at 29, 731 P.2d at 162) (modifications in original, 
+internal footnote omitted). 
+Construing Peters, we explained in State Farm that 
+“[a]pplying principles of common law and equity, the Peters 
+court weighed the State’s statutory subrogation rights against 
+the tortfeasor’s contractual release rights and held that a 
+recipient of state medical assistance lacked the capacity to 
+waive the State’s subrogation rights through a settlement or release agreement with the tortfeasor.” Id. (footnote omitted). 
+16  
+ 
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+At bottom, we concluded in State Farm that equity 
+demanded protecting the insurer’s rights to subrogation, where 
+the insurer performed its contractual obligations in good faith: 
+Equity simply does not support the conclusion that the 
+insurer, which has performed its contractual obligations 
+under the policy in good faith, should be forced to 
+unjustly enrich a tortfeasor who attempted to settle a 
+claim with knowledge of the insurer’ s subrogation claim.  
+Where the insurer’ s subrogation right clashes with the 
+tortfeasor’ s contractual release right, the insurer’ s 
+subrogation right will prevail if the tortfeasor acted inequitably. 
+Id. at 333, 978 P.2d at 771 (emphasis in original). 
+ii. Insurer’s actions may affect subrogation rights 
+Like an insured, an insurer’s actions may also affect 
+its own subrogation rights. 
+As we explained, 
+[a]n insurer may relinquish its subrogation rights, either 
+knowingly or unknowingly. It may do this expressly by 
+waiving its right to subrogation or by engaging in conduct 
+inconsistent with its exercise of its subrogation right. Thus, an insurer’ s failure to assert its subrogation right 
+may be construed as a waiver.  
+Id. at 333, 978 P.2d at 771 (quoting The Law of Liability
+Insurance § 23.04[2], supra, at 23-45 to 23-46). 
+We further relied on our decision in Grain Dealers, 
+where we explained that “[t]his right of subrogation . . . is 
+not absolute. . . . Equitable principles dictate that the 
+subrogee exercise reasonable diligence to protect its subrogation interest.” Id. (quoting Grain Dealers, 70 Haw. at 
+217, 768 P.2d at 230) (emphasis omitted)(ellipses in original). In State Farm, we held that “a genuine issue of material fact 
+remain[ed] as to whether State Farm Fire exercised due diligence 
+17  
+ 
+  
+ 
+    
+  
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+in asserting its subrogation rights.” Id. at 333-34, 978 P.2d 
+at 771-72. 
+We also explained that this interpretation was 
+consistent with HRS § 663-10,10 which “provides further support 
+for an equitable requirement of diligence, insofar as it 
+provides protection for an insurer that exercises due diligence 
+by filing a timely notice of its claim.” Id. at 333, 978 P.2d 
+at 771. 
+iii. State Farm and the made whole doctrine 
+As a final matter, the State Farm court discussed the 
+made whole doctrine in two explanatory footnotes. Id. at 328 
+nn.8-9, 978 P.2d at 766 nn.8-9. Early in our discussion, we 
+clarified that there are two types of subrogation: “‘Equitable 
+subrogation’ (sometimes called, curiously enough, ‘legal 
+subrogation’) is a principle of equity; it is effected by 
+10 HRS § 663-10 (1993) as it was then effective provided: 
+Collateral sources; protection for liens and rights of 
+subrogation. In any civil action in tort, the court, 
+before any judgment or stipulation to dismiss the action is 
+approved, shall determine the validity of any claim of a lien against the amount of the judgment or settlement by 
+any person who files timely notice of the claim to the 
+court or to the parties in the action. The judgment entered, or the order subsequent to settlement, shall 
+include a statement of the amounts, if any, due and owing 
+to any person determined by the court to be a holder of a 
+valid lien and to be paid to the lienholder out of the 
+amount of the corresponding special damages recovered by the judgment or settlement[.] 
+State Farm
+, 90 Hawaiʻi at 333 n.16, 978 P.2d at 771 n. 16. 
+18  
+ 
+  
+ 
+    
+ 
+ 
+  
+    *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+operation of law and arises out of a relationship that need not 
+be contractually based. ‘Conventional subrogation’ arises out 
+of the contractual relationship of the parties. . . .” Id. at 
+328, 978 P.2d at 766 (footnotes omitted). 
+There, following the first quoted sentence, we 
+explained, in footnote 8, the equitable basis of subrogation: 
+Regarding legal or equitable subrogation, The Law of 
+Liability Insurance, supra, § 23.02[2], at 23.8– 13 states 
+that 
+[a]n insurer’ s right to legal or equitable 
+subrogation arises only when certain requirements are 
+met. First, the insurer must have paid the loss. 
+The right extends to the extent of the amount 
+actually paid and the amount paid must have been paid to the insured. 
+In addition, the amount paid by the insurer must 
+result in the insured’ s being made “whole.”  The 
+general rule is that the subrogated insurer is entitled to no subrogation, or to reduced subrogation, if the result of full subrogation would 
+be to cause the insured to be less than fully 
+compensated for the loss, although some cases hold to 
+the contrary. . . . 
+Courts have taken three approaches to the issue of 
+whether or not subrogation will be allowed when the 
+insured has not been fully compensated. One approach 
+is to find that the insurer is entitled to the full 
+amount of its subrogation, whether or not its insured 
+is made whole. Another is to find that the insurer is entitled to no subrogation until the insured 
+recovers his entire loss, between the insurance 
+payment and the recovery from the tortfeasor. The 
+third approach is to hold that the court should make 
+an equitable distribution of any recovery from the tortfeasor, in light of all of the circumstances. 
+    . . . . 
+The second requirement for the existence of the right 
+to legal subrogation is that the insurer must not 
+have merely volunteered to pay the loss, but must have been required to pay based upon[, for example, 
+operation of law or a] . . . contract of 
+insurance. . 
+. . 
+19  
+ 
+  
+ 
+ 
+ 
+    
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Finally, since legal subrogation is equitable in 
+nature, the right will not be enforced unless the 
+rights of the party seeking it are greater than the 
+rights of others. 
+(Footnotes omitted.) (Brackets added.) 
+State Farm, 90 Hawaiʻ i at 328 n.8, 978 P.2d at 766 n.8 
+(alterations in original). 
+Then, following the second quoted sentence, we 
+contrasted, in footnote 9, equitable from contractual 
+subrogation rights: 
+Regarding conventional or contractual subrogation, The Law 
+of Liability Insurance, supra, § 23.03[1][a], at 23.18.1– 
+18.2, and § 23.03[4], at 23– 37 also states: 
+The right to conventional subrogation, as opposed to 
+legal subrogation, does not depend upon principles of equity. When subrogation claimed by an insurer is 
+based on contract, the subrogation provisions of the 
+policy constitute the sole measure of its rights. In 
+such a case, the insurer’ s rights would be subject to 
+any limitations contained in the contract of 
+insurance. 
+    ..
+. . 
+The statute of limitations for the insurer as 
+subrogee is the same as the statute of limitations 
+applicable to the subrogor. For example, if the subrogation claim is based on tort, the tort statute 
+of limitations will apply. . . 
+. 
+(Footnotes omitted.) Therefore, principles of equity may apply to a payment made pursuant to a contract. Any 
+subrogation terms written into that contract, however, will govern. 
+State Farm, 90 Hawaiʻ i at 328 n.9, 978 P.2d at 766 n.9 
+(alterations in original). 
+Despite providing the most comprehensive examination 
+of the made whole doctrine in our caselaw, the State Farm court 
+20  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+did not expressly adopt or otherwise address the status of the 
+made whole doctrine in Hawaiʻ i. 
+b. Yukumoto v. Tawarahara 
+In Yukumoto v. Tawarahara, decided in 2017, we held 
+that 
+State Farm  does  not apply to situations involving an 
+insurer’s right to subrogation in the context of personal 
+insurance such as the instant case, and thus, here, [the health insurer] does not have equitable subrogation rights. 
+We also conclude that the legislature intended to limit a 
+health insurer’ s right of subrogation under HRS §§ 663- 10 
+and 431:13- 103.  Thus, we conclude that any contractual 
+provision that conflicts with HRS § 663- 10 is invalid, and 
+that [the health insurer]  is not entitled to contractual 
+subrogation rights.  
+140 Hawaiʻi at 291, 400 P.3d at 492. 
+There, the insured was driving a moped when he was 
+struck by a third-party tortfeasor, causing serious bodily 
+injury, including brain damage. Id.
+ at 287, 400 P.3d at 488. 
+The injured party filed a complaint in circuit court against the third-party tortfeasor. Id.The insured’s health insurer, 
+Hawaii Medical Service Association (HMSA), subsequently filed a “Notice of Claim of Lien” in the amount of approximately 
+$325,000 for payment of medical expenses arising from the 
+collision, which was later revised to more than $339,000. Id.
+at 287-89, 400 P.3d at 488-90. 
+The insured petitioned the circuit court for a 
+determination of the validity of the lien, arguing that because 
+the settlement contained a general—damages only release that 
+21  
+ 
+  
+  
+ 
+ 
+  
+   
+   
+  
+  
+  
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+left the insured undercompensated,11 HMSA had no lien or 
+subrogation rights under HRS § 663-10. Id. at 287-88, 400 P.3d 
+at 488-89. 
+HMSA opposed, arguing that HRS § 663-10 did not 
+abrogate its contractual lien or subrogation rights, but rather 
+provided for a separate statutory right to assert a lien against 
+the insured’s settlement. Id. at 288, 400 P.3d at 489. 
+Ultimately the circuit court ruled in favor of the 
+insured, concluding that HMSA “is not entitled to a payment of 
+the amount of its claimed lien.”12 Id. at 290, 400 P.3d at 491. 
+HMSA appealed the circuit court’s final judgment and 
+the appeal was transferred to this court. Id.We affirmed the 
+circuit court. Id. at 299, 400 P.3d at 500. 
+11 The insured alleged approximately $4,000,000 in lost wages and 
+general damages. Yukumoto
+, 140 Hawaiʻi at 287, 400 P.3d at 488. The 
+settlement included a policy maximum from the third- party tortfeasor’s 
+insurer of $1,100,000 and an additional $50,000 in underinsured motorist 
+coverage. Id. Thus, the insured alleged they were underinsured by 
+approximately $2,850,000. Id. 
+12 Like many subrogation cases, Yukumoto presented a complex 
+procedural history. For example, the health insurer sought judgment against the third- party tortfeasor for its payment of medical expenses on behalf of 
+the insured in a complaint in intervention. Yukumoto, 140 Hawaiʻ i at 
+288- 89, 
+400 P.3d at 489- 90. The health insurer also filed a separate complaint 
+seeking to enforce its subrogation rights against the tortfeasor. Id. Both 
+the complaint in intervention and the separate complaint were dismissed because the circuit court found that HRS § 663-10 was the exclusive remedy 
+for the health insurer to seek reimbursement for its payments. Id. at 288
+-
+290, 400 P.3d at 489-90. 
+22  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+i. No equitable right to subrogation for health 
+insurers 
+First, we held a health insurer does not have 
+equitable subrogation rights against a third-party tortfeasor. 
+Id. at 294, 400 P.3d at 495. We began by recognizing that 
+“[s]ubrogation is a ‘creature of equity,’ and is premised on the notion that an insured should not be able to ‘unduly benefit 
+from a loss and thereby enjoy a “double recovery” from both the 
+insurer and the tortfeasor.’” Id. at 291, 400 P.3d at 492 
+(quoting St. Paul Fire
+, 135 Hawaiʻi at 452, 353 P.3d at 994, and 
+Roger Baron, 
+Subrogation: A Pandora’s Box Awaiting Closure, 41 
+S.D.L.Rev. 237, 241 (1996)). We then explained that 
+“[s]ubrogation exists to provide insurers with a mechanism ‘to 
+recover the costs of reimbursing injured insured parties.’” Id.
+at 292, 400 P.3d at 493 (quoting Johnny C. Parker, The Made Whole Doctrine: Unraveling the Enigma Wrapped in the Mystery of 
+Insurance Subrogation, 70 Mo.L.Rev. 723, 723 (2005)). 
+Relying extensively on precedent from the New Jersey 
+Supreme Court, we distinguished “[s]ubrogation rights in the ‘personal insurance’ context . . . from subrogation rights in 
+the property or casualty insurance context” on the basis that 
+“the two types of insurance cover different losses.” Id.
+(citing Perreira v. Rediger, 778 A.2d 429, 437-38 (2001)) (footnote omitted). We explained that “Courts have applied the 
+23  
+ 
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+principle of equitable subrogation to property and casualty 
+insurance policies because ‘the insured’s actual loss is 
+generally liquidated in the context of property insurance,’ and 
+‘any excess compensation from the combination of insurance 
+proceeds and tort recovery can be determined with certainty.’” Id. (quoting Parker, supra, at 729) (footnote omitted). We then 
+quoted extensively from Perreira’s discussion of subrogation 
+rights. 
+Subrogation rights are common under policies of property or 
+casualty insurance, wherein the insured sustains a fixed 
+financial loss, and the purpose is to place that loss ultimately on the wrongdoer. To permit the insured in such 
+instances to recover from both the insurer and the 
+wrongdoer would permit him to profit unduly thereby. 
+In personal insurance contracts, however, the exact loss is 
+never capable of ascertainment. Life and death, health, 
+physical well being, and such matters are incapable of 
+exact financial estimation. There are, accordingly, not the same reasons militating against a double recovery. The 
+general rule is, therefore, that the insurer is not 
+subrogated to the insured’ s rights or to the beneficiary’ s 
+rights under contracts of personal insurance, at least in the absence of a policy provision so providing. Nor would a settlement by the insured with the wrongdoer bar his 
+cause of action against the insurer. However, if a 
+subrogation provision were expressly contained in such 
+contracts, it probably would be enforced quite uniformly. 
+Such a provision cannot be read into a policy by calling it an indemnity contract, however. 
+Id. at 292-93, 400 P.3d at 493-94 (quoting Perreira, 778 A.2d at 
+438). 
+We then explained that “ Hawaiʻi courts have also 
+recognized the differences between subrogation rights for 
+property/casualty insurance and subrogation rights for personal 
+insurance.” Id. at 293, 400 P.3d at 494. We contrasted our 
+24  
+ 
+  
+  
+ 
+ 
+ 
+    
+  
+   
+  
+ 
+ 
+ 
+   *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+decision in State Farm, where we followed the majority rule in 
+the context of property insurance, with the ICA’s decision in 
+Rutledge, where the ICA limited an insurer’s right to 
+subrogation. Id. In State Farm, “[t]his court held that ‘in 
+the context of fire and casualty insurance . . . the insurer may maintain a subrogation action against the tortfeasor’ regardless 
+of outside settlement.” Id. (quoting 90 Hawaiʻ i at 330, 978 P.2d 
+at 768) (alterations in original). In contrast, in Rutledge, 
+The ICA ruled that an insurance carrier providing 
+[uninsured motorist (UM)] coverage is “entitled to 
+reimbursement for payments it makes to an accident victim to the extent the victim’ s total recovery from all sources 
+exceeds his or her damages [but] the carrier is entitled to no reduction of UM coverage . . . where the victim is not 
+fully compensated.” [Rutledge, 87 Hawaiʻ i at 346, 955 P.2d 
+at 1078] (quoting Bradley v. H.A. Manosh Corp.
+, 157 Vt. 
+477, 601 A.2d 978, 983
+-84 (1991)). Therefore, the ICA 
+concluded that “in the allocation of tort recovery proceeds 
+and UM benefits, we agree with the principle of full but 
+not duplicative recovery of damages by the injured insured.” Id. 
+Yukumoto, 140 Hawai͑i at 293, 400 P.3d at 494. 
+The Yukumoto court also discussed our decision in Sol
+v. AIG Hawaiʻ i Insurance Co., where we explained that “because 
+the legislature ‘intended to prevent no-fault insurers from 
+subrogating against the optional additional coverages, uninsured 
+motorist coverage is exempt from no-fault reimbursement.’” 
+Id.
+at 294, 400 P.3d at 495 (quoting Sol, 76 Hawaiʻ i 304, 308, 875 
+P.2d 921, 925 (1994)). 
+25  
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Ultimately, we concluded that the equitable 
+considerations that support subrogation do not exist in the 
+context of personal insurance. Id. We reasoned: 
+Situations involving tort recovery in personal insurance 
+contexts, like the instant case, often include payment by 
+the tortfeasor for intangible losses such as life, death, 
+health, pain and suffering, and physical well being, where 
+it is difficult to ascertain exact measurements of loss. In this way, recovery for medical insurance benefits and 
+tort damages do not involve the principles which support 
+our recognition of equitable subrogation in the 
+property/casualty context, and recovery does not 
+necessarily produce a windfall or duplicative recovery to the insured. 
+Id. 
+ii. Reimbursement limited to lien under 
+HRS §§ 663-10 and 431:13-103 
+Next, the Yukumoto court turned to an analysis of HRS 
+§§ 663-10 and 431:13-103(a)(10), holding that the plain language 
+of HRS § 663-10 (Supp. 2002) limited the subrogation rights of 
+health insurers.  Id. In particular, we noted that the statute 
+“applie[d] broadly to ‘any claim of a lien[,]’” including those arising from collateral sources, such as “health insurance or 
+benefits.” Id. at 295, 400 P.3d at 496 (quoting HRS 13
+13 Before reaching the plain language of the statute, the Yukumoto 
+court looked to the statute’s title, reasoning: 
+As reflected in its title, “Collateral sources; protection 
+for liens and rights of subrogation”, the statute provides 
+a comprehensive structure for addressing liens and 
+subrogation rights in this context. 
+140 Hawaiʻi at 294-95, 400 P.3d at 495- 96 (emphasis in original). 
+26  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+§ 663-10(a)). Thus, we concluded that HRS § 663-10 applies to 
+health insurers. Id. Next, we noted that because recovery from 
+a lien is limited to the “special damages recovered by the 
+judgment or settlement” and does not include recovery from 
+general damages, health insurers’ subrogation rights were limited. Id. (emphasis in original). 
+We then turned to the legislative history of HRS §§ 
+663-10 and 431:13-103(a)(10), which we found to be consistent 
+with the interpretation that “a health insurer’s sole rights to 
+reimbursement and subrogation are provided for in those 
+statutes[.]” Id. at 295-96, 400 P.3d 496-97. In particular, we 
+looked at the legislative history for the 2000 and 2002 amendments to HRS chapters 663 and 431. Id. at 296-98, 400 P.3d 
+497-99. After reviewing the committee reports for S.B. No. 2563 
+(2000) and S.B. No. 940 (2001-02), we concluded: 
+HRS § 663-10’s legislative history supports the conclusion 
+that [a health insurer’ s] sole rights to reimbursement and 
+subrogation are provided for in HRS §§ 663-10 and 431-
+13:103(a)(1) [sic].  First, the drafters indicated that 
+“all of the rights and obligations of health benefit 
+providers and consumers” are provided for in HRS § 663-10 
+for third- party liability situations, thus creating a 
+“uniform and comprehensive procedure” for health insurers’ subrogation and reimbursement rights. H. Stand. Comm. Rep. 
+No. 1330- 00, in 2000 House Journal, at 1515.  The drafters 
+also stated that “health insurers have always been subject to [the] limitations” under HRS § 663-10, and “continue to 
+be entitled to reimbursement of their subrogation liens” 
+under HRS § 663-10.  Conf. Comm. Rep. No. 67- 02, in 2002 
+House Journal, at 1783. Therefore, the legislature intended for HRS § 663- 10 to serve as the authority which 
+controls all of a health insurer’ s obligations and rights 
+regarding reimbursement and subrogation benefits from third-party sources of recovery, which negates any argument 
+27  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+that HRS § 663-10 applies only to reimbursement of an 
+insurer by an insured. See H. Stand. Comm. No. 1330- 00, in 
+2000 House Journal, at 1515. 
+Id. at 298, 400 P.3d at 499. 
+iii. No contractual subrogation rights 
+Finally, we rejected HMSA’s argument that their 
+subrogation rights were preserved where their contract expressly 
+provided for those rights. Id.Relying on our opinion in Sol, 
+we explained that “[w]hen the terms of an insurance contract are in conflict with statutory language, the statute must take 
+precedence over the terms of the contract.” Id. (quoting Sol, 
+76 Hawaiʻ i at 307, 875 P.2d at 924) (brackets in original).  
+Thus, because HRS § 663-10 limits an insurer’s subrogation 
+rights to a statutory lien against a settlement, HMSA was not 
+entitled to contractual subrogation. Id.
+III. STANDARDS OF REVIEW 
+A. Reserved Questions 
+A reserved question that presents a question of law is 
+“reviewable de novo under the right/wrong standard of 
+review.” State v. Jess, 117 Hawaiʻ i  381, 391, 184 P.3d 133, 
+143 (2008) (quoting Roes v. FHP, Inc., 91 Hawaiʻ i 470, 473, 
+985 P.2d 661, 664 (1999)). 
+“On a reserved question we are 
+required to answer a question of law based on facts 
+reported to this court by the circuit judge. We may not 
+express an opinion on a question of law by assuming certain 
+facts as to which the circuit judge has made no finding.” 
+Cabrinha v. Am. Factors, Ltd., 42 Haw. 96, 100 (Haw. Terr. 
+1957). 
+Flores-Case ʻ Ohana v. Univ. of Haw., 153 Hawaiʻ i 76, 81, 526 P.3d 
+601, 606 (2023). 
+28  
+ 
+  
+ 
+ 
+ 
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+B. Statutory Interpretation 
+Statutory interpretation is “a question of law reviewable 
+de novo.” This court’ s construction of statutes is guided 
+by established rules: 
+First, the fundamental starting point for 
+statutory interpretation is the language of the 
+statute itself. Second, where the statutory language is plain and unambiguous, our sole 
+duty is to give effect to its plain and obvious 
+meaning. Third, implicit in the task of 
+statutory construction is our foremost 
+obligation to ascertain and give effect to the intention of the legislature, which is to be 
+obtained primarily from the language contained 
+in the statute itself. Fourth, when there is 
+doubt, doubleness of meaning, or 
+indistinctiveness or uncertainty of an expression used in a statute, an ambiguity 
+exists. 
+When there is ambiguity in a statute, “the meaning of the ambiguous words may be sought by examining the 
+context, with which the ambiguous words, phrases, and sentences may be compared, in order to ascertain 
+their true meaning.” Moreover, the courts may resort 
+to extrinsic aids in determining legislative intent, 
+such as legislative history, or the reason and spirit 
+of the law. 
+Citizens Against Reckless Dev. v. Zoning Bd. of Appeals of 
+the City & Cnty. of Honolulu, 114 Hawaiʻ i 184, 193
+ –94, 159 
+P.3d 143, 152– 53 (2007) (citations omitted). 
+State v. Wheeler , 121 Hawaiʻi 383, 390, 219 P.3d 1170, 1177 
+(2009). 
+IV. DISCUSSION 
+As indicated in our February 10, 2025 order, we hold 
+that in the context of a tort settlement, HRS § 663-10 is the 
+exclusive remedy for a property and casualty insurer to recover 
+claims paid for damages caused by a third-party tortfeasor. 
+We 
+also hold that, because the statutory lien is the exclusive 
+remedy for a property and casualty insurer to recover claims 
+29  
+ 
+  
+ 
+   
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+paid to its insured in the context of a tort settlement, an 
+insurer’s rights are not prejudiced by its insured’s release of 
+a tortfeasor where the settlement documents and release preserve 
+the insurer’s reimbursement rights under HRS § 663-10. Finally, 
+given our answers to Reserved Questions 1 and 2, and the record before this court, we decline to apply the made whole doctrine 
+to the statutory lien-claim process defined by HRS §§ 431:13-
+103(a)(10) and 663-10 under the circumstances of this mass tort 
+case. A.  Reserved Question 1 
+Question 1: 
+Does the holding of Yukumoto v. Tawarahara, 140 Haw[ aiʻi] 
+285 [], 400 P.3d 486[] (2017)[,] that limited the 
+subrogation remedies available to health insurers to 
+reimbursement from their insureds under HRS § 663-10 and 
+barred independent actions against tortfeasors who settled with the insureds extend to property and casualty insurance carriers? 
+Because we conclude that, under HRS 
+§ 431:13-103(a)(10)(A), the lien-claim process established by 
+HRS § 663-10 provides the exclusive remedy for an insurer to 
+recover for claims paid to an insured for damages caused by a 
+third-party tortfeasor where the insured has settled with the tortfeasor, we answer question 1 in the affirmative. 
+We reject the Subrogating Insurers’ argument that HRS 
+§ 431:13-103(a)(10)(A) only applies to circumstances where the 
+insurer has withheld payment, recognizing instead the 
+30  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+legislature’s manifest intent that an insurer’s recovery be 
+limited to the HRS § 663-10 lien-claim process in all cases 
+where its insured recovers damages by judgment or settlement of 
+a third-party tort claim. 
+We also clarify that HRS § 663-10 does not apply in 
+the absence of a settlement or judgment. Thus, where there is no competition between the insured and the insurer for recovery, 
+a property and casualty insurance carrier’s equitable 
+subrogation rights are preserved. In this regard, our decision 
+in this case reflects the distinct types of losses covered by 
+personal insurance compared to property and casualty insurance 
+and, as recognized by our court in Yukumoto
+, the differences 
+between equitable subrogation rights. 140 Hawaiʻi at 292, 400 
+P.3d at 493. 
+1. Property and casualty insurers’ rights to subrogation 
+and reimbursement under HRS §§ 663-10 and 431:13-103 
+In 
+Yukumoto, we held that, in the context of a tort 
+settlement between an insured plaintiff and a third-party 
+tortfeasor, a health insurer is barred from bringing an 
+independent subrogation action against the tortfeasor. 140 
+Hawai‘i at 298, 400 P.3d at 499.  This is because the statutory 
+procedure established by HRS §§ 663-10 and 431:13-103(a)(10)(A) 
+“comprehensively addresses and limits a health insurers’ rights 
+to reimbursement and subrogation.” Id.We are now asked 
+31  
+ 
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+whether that same statutory procedure extends to limit the subrogation rights of a property and casualty insurer in the 
+context of a tort settlement. We hold that it does. 
+Our analysis here, as in Yukumoto, turns on our 
+interpretation of the two statutes, HRS §§ 431:13-103 and 663-10. When construing the application and scope of a 
+statutory provision, “our foremost obligation is to ‘give effect 
+to the intention of the legislature, which is to be obtained 
+primarily from the language contained in the statute itself.’” 
+Hawaiian Dredging Constr. Co. v. Fujikawa Assocs., Inc., 142 
+Hawai‘i 429, 435, 420 P.3d 360, 366 (2018) (quoting 
+Morgan v. 
+Plan. Dep’t, Cnty. of Kaua‘i
+, 104 Hawai‘i 173, 179, 86 P.3d 982, 
+988 (2004)). Further, “we must read statutory language in the 
+context of the entire statute and construe it in a manner 
+consistent with its purpose.” Id.
+ (quoting Morgan
+, 104 Hawai‘i 
+at 179, 86 P.3d at 988). 
+Here, the plain language, legislative history, and 
+purpose of the relevant statutes lead us to conclude that, where 
+an insured pursues a settlement or judgment from a third-party 
+tortfeasor, the legislature intended to limit a property and 
+casualty insurer’s right of reimbursement to the lien-claim 
+process prescribed by HRS § 663-10. 
+32  
+ 
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+a. The plain language of HRS §§ 431:13-103(a)(10) 
+and 663-10 
+We held in Yukumoto that “the plain language of HRS 
+§ 663-10 supports the conclusion that [a health insurer’s] 
+subrogation rights are limited.” 140 Hawai‘ i at 295, 400 P.3d at 
+496. 
+Read on its face, that same language operates to limit the 
+subrogation rights of any collateral source, including a 
+property and casualty insurer, within the context of “any civil action in tort.” HRS § 663-10(a). HRS § 663-10(a) provides: 
+§ 663-10  Collateral sources; protection for liens 
+and rights of subrogation. (a)   In any civil action in 
+tort, the court, before any judgment or stipulation to 
+dismiss the action is approved, shall determine the 
+validity of any claim of a lien against the amount of the 
+judgment or settlement by any person who files timely 
+notice of the claim to the court or to the parties in the 
+action. The judgment entered, or the order subsequent to settlement, shall include a statement of the amounts, if 
+any, due and owing to any person determined by the court to 
+be a holder of a valid lien and to be paid to the 
+lienholder out of the amount of the corresponding special 
+damages recovered by the judgment or settlement. In determining the payment due the lienholder, the court shall 
+deduct from the payment a reasonable sum for the costs and 
+fees incurred by the party who brought the civil action in 
+tort. As used in this section, lien means a lien arising 
+out of a claim for payments made or indemnified from collateral sources, including health insurance or benefits, 
+for costs and expenses arising out of the injury which is 
+the subject of the civil action in tort. If there is a 
+settlement before suit is filed or there is no civil action 
+pending, then any party may  petition a court of competent 
+jurisdiction for a determination of the validity and amount 
+of any claim of a lien.  
+As we have previously recognized, the title of the 
+statute, “Collateral sources; protection for liens and rights of 
+subrogation,” indicates that HRS § 663-10 is plainly intended to 
+provide “a comprehensive structure for addressing liens and 
+33  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+subrogation rights” whenever an insured party pursues a judgment 
+or settlement from a third-party tortfeasor. Yukumoto, 140 
+Hawai‘i at 294-95, 400 P.3d at 495-96; see also Tauese v. Dep’t
+of Lab. & Indus. Rels., 113 Hawai‘ i 1, 37, 147 P.3d 785, 821 
+(2006) (citing Honolulu Star Bull., Ltd. v. Burns, 50 Haw. 603, 606, 446 P.2d 171, 173 (1968)) (reiterating that a statute’s 
+title may be referred to as an aid in construing its 
+application). This is further reflected in the plain language 
+of the statute, which evinces a broad application to “any claim 
+of a lien . . . arising out of a claim for payments made or 
+indemnified from collateral sources . . . for costs and expenses arising out of the injury which is the subject of the civil 
+action in tort.” HRS § 663-10(a); see Yukumoto, 140 Hawai‘ i at 
+295, 400 P.3d at 496. 
+When an injured party pursues a settlement or civil 
+action in tort, HRS § 663-10 places an affirmative duty on the 
+court to protect the reimbursement rights of insurers and other 
+collateral sources. HRS § 663-10(a); Yukumoto
+, 140 Hawai‘i at 
+295, 400 P.3d at 496. Prior to the entry of judgment or the 
+approval of any settlement, the court “
+shall determine the 
+validity of any claim of a lien against the amount of the judgment or settlement by any person who files timely notice of 
+the claim.” HRS § 663-10(a) (emphasis added). Once a judgment 
+34  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+or settlement is reached, “[t]he judgment entered, or the order 
+subsequent to settlement, shall include a statement of the 
+amounts, if any, due and owing to any person determined by the 
+court to be a holder of a valid lien.” Id. (emphasis added); 
+Yukumoto, 140 Hawai‘ i at 295, 400 P.3d at 496. 
+While HRS § 663-10 protects an insurer’s rights of 
+reimbursement, it also limits what any insurer or other 
+collateral source may recover to “the amount of the 
+corresponding special damages recovered by the judgment or 
+settlement.” HRS § 663-10(a) (emphasis added); Yukumoto
+, 140 
+Hawai‘i at 295, 400 P.3d at 496.  As discussed below, this 
+limitation reflects the legislature’s intent to balance the 
+insurer’s right to reimbursement with the insured plaintiff’s 
+right to be fairly compensated for their injury. The statute 
+further limits the amount of an insurer’s recovery by directing 
+the court to “deduct from the payment” to the lienholder “a 
+reasonable sum for the costs and fees incurred by the party who 
+brought the civil action in tort.” HRS § 663-10(a). Moreover, the lien-claim process is the exclusive means of recovery for a 
+collateral source under HRS § 663-10, as the statute does not 
+provide for subrogation or any direct action by the collateral 
+source lienholder against the defendant in tort. 
+See id.
+The language of HRS § 663-10 does not by itself 
+preclude an insurance entity from pursuing its own subrogation 
+35  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+claim against a third-party tortfeasor. That directive is 
+instead found in article 13 of the Insurance Code, HRS chapter 
+431. The purpose of article 13 is “to regulate trade practice 
+in the business of insurance . . . by defining, or providing for 
+the determination of, all acts, methods, and practices which constitute unfair methods of competition or unfair or deceptive 
+acts or practices.” HRS § 431:13-101. Specific “[u]nfair 
+methods of competition and unfair or deceptive acts or 
+practices” are defined under HRS § 431:13-103. 
+One unfair practice defined includes “limiting 
+coverage available to an individual because the individual may 
+have a third-party claim for recovery of damages; provided that: . . . [w]here damages are recovered by judgment or settlement of 
+a third-party claim, reimbursement of past benefits paid shall 
+be allowed pursuant to section 663-10.” HRS § 431:13-
+103(a)(10)(A) (emphasis added). 
+Where the plain language of HRS 
+§ 663-10 is at all ambiguous as to that statute’s application in 
+the insurance context, “the fact that [HRS] § 431:13-103 
+explicitly incorporates [HRS] § 663-10, leaves no doubt that the 
+Hawai‘i Statutes must be read together.” Rudel v. Haw. Mgmt.
+All. Ass’n
+, 937 F.3d 1262, 1273 (9th Cir. 2019). And together, 
+“[HRS] §§ 431:13-103(a) and 663-10 are specifically directed toward entities engaged in insurance.” Id. at 1274 (internal 
+quotations omitted). Thus, in the context of a third-party tort 
+36  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+judgment or settlement, HRS § 431:13-103(a)(10)(A) limits an 
+insurer’s means of reimbursement to the lien-claim procedure 
+defined by HRS § 663-10. Id. at 1273-74. Together, the two 
+statutes construct a framework that “comprehensively addresses and limits” an insurer’s rights to reimbursement and 
+subrogation. See Yukumoto, 140 Hawai‘ i at 298, 400 P.3d at 499; 
+Rudel, 937 F.3d at 1274. 
+Moreover, there is nothing in the plain language of 
+either HRS §§ 663-10 or 431:13-103(a)(10) to indicate that the 
+procedure prescribed by those statutes should apply solely to 
+health insurers and not extend to property and casualty 
+insurers. HRS chapter 431, article 13 broadly regulates “trade 
+practice in the business of insurance,” an umbrella under which 
+property and casualty insurers are indisputably covered. See
+HRS § 431:13-101; Rudel, 937 F.3d at 1273 (“[HRS] § 431:13-103 unquestionably regulates insurance.”). Further, the relevant provision, HRS § 431:13-103(a)(10), expressly provides specific 
+exemptions for workers compensation and motor vehicle insurance 
+carriers. HRS § 431:13-103(a)(10)(B) (“This paragraph shall not 
+apply to entities licensed under chapter 386 or 431:10C.”). 
+Notably, rights of subrogation and reimbursement for those 
+entities are defined by their own, separate statutory 
+procedures. See HRS § 386-8; § 431:10C-307. By contrast, 
+property and casualty insurers are not specifically exempted 
+37  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+from HRS § 431:13-103(a)(10). And “it is generally presumed 
+that the legislature acts intentionally and purposely in the 
+disparate inclusion or exclusion of terms in its statutes.” 
+Rosehill v. Land Use Comm’n, 155 Hawai‘ i 41, 54, 556 P.3d 387, 
+400 (2024) (internal quotations omitted) (quoting In re Application of Gas Co., 147 Hawai‘ i 186, 200, 465 P.3d 633, 647 
+(2020)). 
+Property and casualty insurers are thus subject to the 
+terms of HRS § 431:13-103(a)(10) and, by extension, the 
+reimbursement procedure defined by HRS § 663-10. 
+As noted above, HRS § 663-10 applies to “any claim
+ of 
+a lien against the amount of the judgment or settlement by any person.” (Emphasis added). A lien is defined as “a lien 
+arising out of a claim for payments made or indemnified from 
+collateral sources, including health insurance or benefits, for 
+costs and expenses arising out of the injury which is the 
+subject of the civil action in tort.” HRS § 663-10(a). Here, 
+the phrase “including health insurance or benefits” does not 
+exclude other collateral sources, such as property and casualty insurers, from the scope of the statute. See In re Waikoloa
+Sanitary Sewer Co.
+, 109 Hawai‘i 263, 274, 125 P.3d 484, 495 
+(2005) (brackets in original) (quoting 
+Fed. Land Bank of St. 
+Paul v. Bismarck Lumber Co., 314 U.S. 95, 99-100 (1941)) (“[T]he term ‘including’ is not one of all-embracing definition, but 
+connotes simply an illustrative application of the general 
+38  
+ 
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+principle.”); State v. Tsujimura , 140 Hawai‘i 299, 307, 400 P.3d 
+500, 508 (2017) (citing 
+Lealaimatafao v. Woodward-Clyde 
+Consultants, 75 Haw. 544, 556, 867 P.2d 220, 226 (1994)) (“[T]he list that follows ‘including’ is regarded as non-exhaustive 
+examples of the general definitional clause.”) (emphasis in 
+original). Rather, as discussed below, that language is merely 
+intended to clarify that the provision indeed applies to health 
+insurers. See Tsujimura
+, 140 Hawai‘i at 307, 400 P.3d at 508 
+(quoting 
+State v. Guyton
+, 135 Hawai‘i 372, 379 n.14, 351 P.3d 
+1138, 1145 n.14 (2015)) (“‘[I]ncluding’ means either ‘an 
+enlargement and has the meaning of 
+and or in addition to, or 
+merely specifies a particular thing already included within the general words theretofore used.’”). 
+In sum, a plain reading of HRS §§ 663-10 and 
+431:13-103(a)(10) indicates that the legislature intended to limit an insurer’s subrogation and reimbursement rights when 
+their insured pursues damages by judgment or settlement of a 
+third-party tort claim. Further, nothing in the plain language 
+of those statutes suggests that property and casualty insurers 
+should be exempt from the comprehensive procedure they define. 
+This reading is consistent with the purpose of those provisions 
+as illustrated by the legislative history laid out below. 
+39  
+ 
+  
+ 
+   
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+b. The legislative history of HRS 
+§§ 431:13-103(a)(10) and 663-10 
+In 1986, responding to a “crisis in liability 
+insurance,” the legislature passed S.B. S1-86, which comprised 
+“a comprehensive combination of reforms to both the tort system 
+and the insurance regulatory system.” 1986 Special Sess. Haw. Sess. Laws Act 2, § 1 at 3. The bill added a number of new 
+statutes across various HRS chapters and was considered by the 
+legislature as “a complex, coherent bill, which embodies the 
+demands and concessions of many different segments of our 
+community.” H. Stand. Comm. Rep. No. 4-86, in 1986 House 
+Journal, at 40. 
+Included as part of this “complex, coherent bill” was 
+the statutory section that would later be codified as HRS § 663-10 (1993),  which addressed rights of subrogation and 
+reimbursement for collateral sources who have made payments for 
+14
+14 HRS § 663- 10 (1993) as originally enacted provided in full: 
+Collateral sources; protection for liens and rights 
+of subrogation.   In any civil action in tort, the court, 
+before any judgment or stipulation to dismiss the action is 
+approved, shall determine the validity of any claim of a 
+lien against the amount of the judgment or settlement by 
+any person who files timely notice of the claim to the 
+court or to the parties in the action. The judgment entered or the order subsequent to settlement, shall 
+include a statement of the amounts, if any, due and owing 
+to any person determined by the court to be a holder of a 
+valid lien and to be paid to the lienholder out of the 
+amount of the corresponding special damages recovered by the judgment or settlement. In determining the payment due 
+the lienholder, the court shall deduct from the payment a 
+reasonable sum for the costs and fees incurred by the party 
+(continued . . .) 
+40  
+ 
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+“costs and expenses arising out of the injury.” 1986 Special 
+Sess. Haw. Sess. Laws Act 2, § 16 at 10; Yukumoto, 140 Hawai‘ i at 
+296, 400 P.3d at 497. The purpose of this particular 
+legislation was “to ensure that claimants who recover damages in 
+tort actions do not receive double payments for costs and 
+expenses arising out of the tort action.” S. Special Comm. Rep. 
+No. S5-86, in 1986 Senate Journal, at 28. At the same time, the legislature was mindful to protect a claimant’s recovery for 
+uninsured damages by imposing limitations on a collateral source 
+lienholder’s right to reimbursement. The House Committee on 
+Judiciary and Health provided the following in its report: 
+There is provided in this section a mechanism which 
+would serve to avoid, upon the giving of timely notice, 
+double payment in tort actions from collateral source 
+lienholders who may have paid for costs or expenses arising out of the injury which is the subject of the tort action. 
+A post-judgment or post- settlement proceedings [sic] before 
+the court would establish first, the validity of liens of collateral source payors and second, that payment on those 
+liens or so much thereof is deducted from the proceeds of the special damages awarded to the plaintiff. Finally, 
+this section provides that where a collateral source 
+lienholder is entitled to be paid out of the judgment or 
+settlement, the court will first deduct from such payment a 
+reasonable sum for the costs and fees incurred by the party who brought the underlying tort action and thus made it 
+possible for the lienholder to be paid.  
+(. . . continued) 
+who brought the civil action in tort. As used in this section, lien means a lien arising out of a claim for 
+payments made or indemnified from collateral sources for costs and expenses arising out of the injury which is the 
+subject of the civil action in tort.  
+1986 Special Sess. Haw. Sess. Laws Act 2, § 16 at 10. 
+41  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+The intent of this provision is to prevent double 
+payments from collateral source[s]  for costs or expenses 
+arising out of the injury for which the plaintiff has 
+brought the tort action and is awarded a judgment therefor. The collateral source lienholders have been limited only to 
+that portion of the settlement or judgment which is 
+designated as special damages  so as not to deprive the 
+plaintiff of any award for noneconomic damages which is not covered by collateral source payment for costs and expenses already made.  
+H. Stand. Comm. Rep. No. 4-86, in 1986 House Journal, at 42-43 
+(emphasis added). 
+In the insurance context, limiting an insurer’s 
+recovery to special damages provides a logical means to balance 
+the insurer’s right to reimbursement with the insured plaintiff’s right to be compensated for their injury. Unlike 
+general damages, which are difficult to determine exactly, 
+special damages typically correspond with economic loss and are 
+thus easier to quantify. See Yukumoto, 140 Hawai‘ i at 295, 400 
+P.3d at 496; Lima v. Deutsche Bank Nat’l Tr. Co., 149 Hawai‘ i 
+457, 466, 494 P.3d 1190, 1199 (2021) (quoting Dunbar v. 
+Thompson, 79 Hawai‘ i 306, 315, 901 P.2d 1285, 1294 (App. 1995)) 
+(“[Special damages] are ‘often considered to be synonymous with 
+pecuniary loss and include such items as medical and hospital 
+expenses, loss of earnings, and diminished capacity.’”); In re 
+Haw. Fed. Asbestos Cases, 734 F. Supp. 1563, 1567 (D. Haw. 1990) 
+(“Special damages compensate claimants for specific out-of-
+pocket financial expenses and losses.”). Accordingly, the 
+portion of the settlement or judgment that is designated as 
+42  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+special damages is likely to correspond with those costs or 
+expenses covered by collateral source payment. Thus, by 
+limiting collateral source reimbursement to the corresponding 
+amount of special damages, the legislature acted to prevent 
+double payment without unduly limiting a plaintiff’s ability to recover from the tortfeasor. See H. Stand. Comm. Rep. No. 4-86, 
+in 1986 House Journal, at 43. 
+In 2000, the legislature again spoke to an insurer’s 
+rights to reimbursement when it enacted Act 29, which amended article 13 of the Insurance Code by creating a new subsection, 
+HRS § 431:13-103(a)(10).  2000 Haw. Sess. Laws Act 29, § 1 at 
+55. This new legislation made it an unfair practice for an 
+insurer to refuse or limit “coverage available to an individual 
+because the individual may have a third-party claim for recovery 
+of damages.” 
+HRS § 431:13-103(a)(10) (Supp. 2000). The intent 
+of the measure was “to clarify an insurer’s rights and duties 15
+15 HRS § 431:13- 103(a)(10) (Supp. 2000) provided that an insurer 
+would have committed an unfair insurance practice by: 
+Refusing to provide or limiting coverage available to an 
+individual because the individual may have a third- party 
+claim for recovery of damages; provided that: 
+(A) Where damages are recovered by judgment or settlement 
+of a third- party claim, reimbursement of past 
+benefits paid shall be allowed pursuant to section 663-10; and 
+(B) This paragraph shall not apply to entities licensed 
+under chapter 386, 431:10C, 432, or 432D[.] 
+2000 Haw. Sess. Laws Act 29, § 1 at 55. 
+43  
+ 
+  
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+and protect consumers’ rights to coverage in cases involving 
+third party claims.” S. Stand. Comm. Rep. No. 2743, in 2000 
+Senate Journal, at 1127. This was accomplished in part by 
+resolving any ambiguity that those rights were indeed covered 
+under HRS § 663-10. HRS § 431:13-103(a)(10)(A) (Supp. 2000); see H. Stand. Comm. Rep. No. 1330-00, in 2000 House Journal, at 
+1515 (“[T]his measure is intended to prohibit provisions which 
+purport to provide no coverage or limit coverage before or after 
+settlement or judgment, while providing reimbursement rights 
+pursuant to Section 663-10 to avoid a duplicate windfall 
+recovery to the claimant.”). 
+Act 29 also amended HRS § 663-10 to expressly include 
+“health insurance or benefits” within its provisions. 2000 Haw. 
+Sess. Laws Act 29, § 2 at 57; Yukumoto, 140 Hawai‘ i at 296, 400 
+P.3d at 497. 
+At the same time, the legislature in Act 29 
+exempted health coverage and benefits from the newly created 
+§ 431:13-103(a)(10) (Supp. 2000).16 2000 Haw. Sess. Laws Act 29, 
+16 Workers’ compensation and motor vehicle insurance benefits were 
+also exempted from HRS § 431:13- 103(a)(10) (Supp. 2000) “because those 
+coverages already ha[d] reimbursement rights defined by statute.” H. Stand. 
+Comm. Rep. No. 1330- 00, in 2000 House Journal, at 1515.  The testimony of 
+Consumer Lawyers of Hawai͑i provides a helpful impression of the state of 
+subrogation and reimbursement law prior to Act 29: 
+Current law provides procedures for reimbursement of automobile and workers’ compensation insurance benefits 
+where the insured may have a third- party claim for recovery 
+of damages against a wrongdoer. Other types of insurance 
+such as travel, fire, and non
+-automobile property damage 
+coverage do not have explicit legal standards. This 
+(continued . . .) 
+44  
+ 
+  
+ 
+ 
+  
+ 
+  
+   
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+§ 1 at 55; see H. Stand. Comm. Rep. No. 1330-00, in 2000 House 
+Journal, at 1515 (“Health coverage and benefits are exempted 
+from Section 431:13-103 and the same rights and obligations are 
+placed in Section 663-10[.]”). These specific amendments were 
+made by the Senate Committee on Commerce and Consumer Protection in response to testimony from HMSA and Consumer Lawyers of 
+Hawai͑i. See S. Stand. Comm. Rep. No. 2743, in 2000 Senate 
+Journal, at 1127. Responding to specific concerns that HRS § 431:13-103(a)(10) as originally drafted
+17 would obligate health 
+insurers to pay “future claims” to cover a claimant’s “future medical needs,” the legislature opted to place “all of the 
+rights and obligations of health benefit providers and consumers in Section 663-10 for third-party liability situations to create 
+a uniform and comprehensive procedure.”
+18 H. Stand. Comm. Rep. 
+(. . . continued) 
+measure would provide that those coverages should pay 
+benefits, but may be allowed reimbursement where damages are recovered.  
+Testimony of Consumer Lawyers of Hawai͑i, to S. Comm. on Com. and Consumer 
+Prot., 20th Leg., Reg. Sess. (Feb. 24, 2000). 
+17 An earlier version of the bill did not provide any exemptions to 
+the proposed HRS § 431:13- 103(a)(10).  Compare S.B. 2563, 20th Leg., Reg. 
+Sess. (2000), with S.B. 2563, S.D. 1, 20th Leg., Reg. Sess. (2000). 
+18 As amended by Act 29, HRS § 663- 10 (Supp. 2000) provided in full: 
+Collateral sources; protection for liens and rights 
+of subrogation. In any civil action in tort, the court, 
+before any judgment or stipulation to dismiss the action is approved, shall determine the validity of any claim of a 
+lien against the amount of the judgment or settlement by 
+any person who files timely notice of the claim to the 
+(continued . . .) 
+45  
+ 
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+No. 1330-00, in 2000 House Journal, at 1515; see Testimony of 
+HMSA, to Senate Committee on Commerce and Consumer Protection, 
+20th Leg., Reg. Sess. (Feb. 24, 2000). 
+Finally, Act 29 further amended HRS § 663-10 to 
+clarify an insurer’s subrogation and lien rights where an insured has recovered damages from a third party, including in 
+instances where “there is a settlement before suit is filed or 
+there is no civil action pending.” 2000 Haw. Sess. Laws Act 29, 
+§ 2 at 57. By amending both HRS §§ 431:13-103(a) and 663-10, 
+the legislature intended to create “a fair, uniform and 
+comprehensive procedure governing the rights and obligations of 
+insurance companies and consumers for the reimbursement of insurance benefits from third-party sources of recovery.” H. 
+(. . . continued) 
+court or to the parties in the action. The judgment 
+entered, or the order subsequent to settlement, shall include a statement of the amounts, if any, due and owing 
+to any person determined by the court to be a holder of a 
+valid lien and to be paid to the lienholder out of the 
+amount of the corresponding special damages recovered by 
+the judgment or settlement. 
+In determining the payment due 
+the lienholder, the court shall deduct from the payment a 
+reasonable sum for the costs and fees incurred by the party 
+who brought the civil action in tort. As used in this 
+section, lien means a lien arising out of a claim for 
+payments made or indemnified from collateral sources, 
+including health insurance or benefits,  for costs and 
+expenses arising out of the injury which is the subject of 
+the civil action in tort. If there is a settlement before
+suit is filed or there is no civil action pending, then any 
+party may petition a court of competent jurisdiction for a determination of validity and amount of any claim of a 
+lien.  
+2000 Haw. Sess. Laws Act 29, § 2 at 57 (added language underlined). 
+46  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Stand. Comm. Rep. No. 1330-00, in 2000 House Journal, at 1515. 
+As we previously recognized in Yukumoto
+, the effect of Act 29 
+was to “limit[] reimbursement and subrogation for all insurance companies” to the comprehensive procedure prescribed by HRS 
+§§ 431:13-103(a)(10) and 663-10. 140 
+Hawai‘i at 296, 400 P.3d at 
+497. 
+Just one year later, in 2001, the legislature again 
+considered amendments to HRS §§ 431:13-103(a)(10) and 663-10. 
+A 
+new bill, S.B. 940, was introduced to bring health insurers back 
+within the scope of HRS § 431:13-103(a)(10). S.B. 940, 21st 
+Leg., Reg. Sess. (2001). The intent of this measure was not to 
+create any new obligation specific to health benefit providers, 
+but rather to clarify that those entities were subject to the 
+same rights and obligations as other insurance providers under 
+article 13 of the Insurance Code and HRS § 663-10. 
+This new legislation was in response to testimony 
+that, in the wake of Act 29, health insurers had been interfering with third-party settlements and actively making 
+things worse for their insureds. The Senate Committee on 
+Commerce, Consumer Protection and Housing noted the following in 
+its report: 
+The purpose of this measure is to make mutual benefit 
+societies (societies) and health maintenance organizations 
+(HMOs) subject to the unfair methods of competition and 
+unfair and deceptive acts and practices of the business of 
+insurance, for refusing to provide or limiting coverage to an individual having a third- party claim for damages. 
+47  
+ 
+     . . . . 
+ Testimony of the State Insurance Commissioner[ ] 
+indicated that this measure corrects an oversight in Act 
+29, Session Laws of Hawai͑i (SLH) 2000, which should not 
+have exempted societies and HMOs from insurance unfair 
+practices for refusing to provide or limiting coverage to 
+the insured who has a third- party claim.  Act 29, SLH 2000, 
+established lien rights for health insurance benefits paid, which is a complement to revisions in the same measure to the insurance code relating to unfair insurance practices.  19
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+.  .  .  The intent of your C ommittee is that societies 
+and HMOs promptly pay the benefits owing under their 
+policies, and recoup their payments from a third- party 
+claim by lien as provided under section 663- 10, HRS.  
+Testimony indicated that under current law, societies and HMOs may be interfering with a third- party settlement by 
+claiming that they are exempt from insurance unfair trade practice as a result of Act 29, SLH 2000. This was clearly 
+not the intent of the legislature. This measure clears up that confusion.  
+S. Stand. Comm. Rep. No. 107, in 2001 Senate Journal. 
+The bill was carried over into the 2002 legislative 
+session and eventually passed as Act 228. 2002 Haw. Sess. Laws 
+Act 228, at 909-15. The Conference Committee report reiterated: 
+The purpose of this measure is to clarify the rights 
+and obligations of health insurers, mutual benefit 
+societies, and health maintenance organizations with regard 
+to health coverage rights of persons with third- party 
+claims for damages.  
+Refusing to provide or limiting health coverage to 
+persons who have third- party claims for damages is not 
+permitted, except for reimbursement under section 663- 10, 
+[HRS].  This measure makes such acts  unfair insurance 
+practices under article 13 of the insurance code to 
+19 State Insurance Commissioner Wayne Metcalf testified on behalf of 
+the Department of Commerce and Consumer Affairs that “[a]lthough the legal effect of Act 29 is that [health insurers] are subject to the same rights and 
+obligations of other insurers, the separation of those duties into two 
+separate sections has resulted in some confusion.” 
+Testimony of State 
+Insurance Commissioner Wayne Metcalf, to Senate Committee on Commerce, 
+Consumer Protection and Housing, 21st Leg., Reg. Sess. (Feb. 8, 2001) 
+(emphasis added).  
+48  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+eliminate any doubt that health insurers have always been 
+subject to these limitations under section 663- 10, HRS. 
+Conf. Comm. Rep. No. 67, in 2002 House Journal, at 1783. 
+The legislative history makes clear that the intent of 
+Act 228 was merely to bring health insurers into the fold of the 
+existing statutory framework established by Act 29. The logical 
+implication of that action is that all insurance entities not 
+specifically exempted by statute were already, and continue to 
+be, subject to that same framework as defined by HRS §§ 431:13-103(a)(10) and 663-10. Given that property and casualty 
+insurers are not specifically exempted, and that neither of the 
+relevant provisions have been subsequently amended, it follows 
+that our holding in Yukumoto, that the framework defined by “HRS 
+§§ 663-10 and 431-13:103(a)(10) comprehensively addresses and 
+limits a health insurers’ [sic] rights to reimbursement and 
+subrogation,” also extends to property and casualty insurers. 
+See 140 Hawaiʻ i at 298, 400 P.3d at 499. 
+As we explained in Yukumoto
+, “[w]hen the terms of an 
+insurance contract are in conflict with statutory language, the 
+statute must take precedence over the terms of the contract.” 
+140 Hawaiʻi at 298, 400 P.3d at 499 (quoting 
+Sol
+, 76 Hawaiʻi at 
+307, 875 P.2d at 924) (brackets in original). Similarly, as we 
+explained in 
+Moranz v. Harbor Mall, LLC, where a statute “is 
+plain and unambiguous, . . . it would be inappropriate to use 
+49  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+equitable principles in its interpretation.” 150 Hawaiʻ i 387, 
+396, 502 P.3d 488, 497 (2022); see Ditto v. McCurdy, 90 Hawai‘ i 
+345, 356, 978 P.2d 783, 794 (1999) (quoting Guidry v. Sheet 
+Metal Workers Nat. Pension Fund, 493 U.S. 365, 376 (1990)) (“As 
+a general matter, courts should be loath to announce equitable 
+exceptions to legislative requirements or prohibitions that are 
+unqualified by the statutory text.”); see also In re Powerine
+Oil Co., 59 F.3d 969, 973 (9th Cir. 1995) (“Equity may not be 
+invoked to defeat clear statutory language[.]”); United States 
+v. Oil Res., Inc., 817 F.2d 1429, 1432 (9th Cir. 1987) (“Common 
+law rules must yield when they conflict with a statute’s logic and intention.”). 
+Because an insurer’s recovery in the context of a tort 
+settlement or judgment is limited to a statutory lien, the 
+insurer’s contractual and equitable rights must yield to 
+statute. Any other attempt to recover a paid claim resulting 
+from a third party’s tortious conduct, whether from the third-
+party tortfeasor through a subrogation action, whether contractual or equitable, or the insurer’s own insured, through 
+a reimbursement action outside of the lien process contemplated 
+by HRS § 663-10, would violate HRS § 431:13-103(a)(10) as an 
+“unfair method[] of competition and unfair or deceptive act[] or 
+practice[.]” Therefore, where, as here, an insured has reached 
+a settlement with a third-party tortfeasor, a property and 
+50  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+casualty insurer’s exclusive remedy to recover claims paid to an 
+insured for damages caused by the third-party is limited to the 
+lien-claim process prescribed by HRS § 663-10. 
+2. Equitable subrogation survives in the absence of a 
+judgment or settlement 
+While we conclude that HRS §§ 431:13-103(a)(10)(A) and 
+663-10 together limit a property and casualty insurer’s rights 
+to subrogation in the context of an insured’s recovery by 
+judgment or settlement of a third-party tort claim, there is 
+nothing in those statutes that purports to limit the subrogation 
+right where no such judgment or settlement has been finalized. 
+Put differently, where an injured insured does not pursue a 
+civil action against the tortfeasor, an insurer remains free to pursue their own subrogation claim. In this way, the 
+distinction we recognized in Yukumoto between personal 
+insurance, and property and casualty insurance, remains a 
+meaningful one. See
+ 140 Hawaiʻi at 294, 400 P.3d at 495.  
+Further, and importantly, equitable subrogation still functions 
+in this context to give restitution to the insurer and prevent 
+the unjust enrichment of the defendant-tortfeasor. See id.
+ at 
+292, 400 P.3d at 493. 
+As discussed above, the Yukumoto court adopted the 
+majority rule “that an insurer does not have equitable subrogation rights in personal insurance contexts.” Id. at 294, 
+51  
+ 
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+400 P.3d at 495. This decision, which was consistent with other 
+jurisdictions and our own caselaw, was supported by the 
+rationale that “it is difficult to ascertain exact measurements 
+of loss” in personal insurance cases. Id.; see Rutledge, 87 
+Hawaiʻi at 341, 955 P.2d at 1073; Sol, 76 Hawaiʻ i at 307-08, 875 
+P.2d at 924-25; Perreira, 778 A.2d at 438. At the same time, we 
+acknowledged that “Hawaiʻ i courts have also recognized the 
+differences between subrogation rights for property/casualty 
+insurance and subrogation rights for personal insurance,” and 
+have allowed for subrogation “in the context of fire and 
+casualty insurance.” Yukumoto, 140 Hawaiʻ i at 293, 400 P.3d at 
+494; see State Farm, 90 Hawaiʻ i at 330, 978 P.2d at 768. Quoting 
+Perreira, we stated the following as to the equitable 
+subrogation right in the context of property insurance: 
+Subrogation rights are common under policies of property or 
+casualty insurance, wherein the insured sustains a fixed 
+financial loss, and the purpose is to place that loss 
+ultimately on the wrongdoer. To permit the insured in such 
+instances to recover from both the insurer and the 
+wrongdoer would permit him to profit unduly thereby. 
+Yukumoto , 140 Hawaiʻi at 292, 400 P.3d at 493 (quoting Perreira, 
+778 A.2d at 438). 
+We have no reason to, and we do not, extend Yukumoto 
+so far as to eliminate property and casualty insurers’ equitable 
+subrogation rights entirely. See 73 Am. Jur. 2d Statutes § 174 
+(2025) (“[I]t is not presumed that the legislature intended to abrogate or modify a rule of the common law on the subject any 
+52  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+further than that which is expressly declared or clearly 
+indicated[.]”) (footnote omitted). Where the insured recovers 
+by settlement or judgment against the tortfeasor, HRS §§ 431:13-
+103(a)(10)(A) and 663-10 apply and equitable subrogation has no 
+place. In those cases, the defendant-tortfeasor is made to pay directly to the injured party and the statutory lien-claim 
+process preserves the insurer’s right to reimbursement and 
+protects against double-recovery by the plaintiff-insured. 
+However, where there is no judgment or settlement, the insurer’s 
+right to equitable subrogation is not displaced. In that 
+context, there is no judgment or settlement against which the 
+insurer may assert a lien. Their only means to recover is through a direct subrogation action against the defendant-
+tortfeasor. In such cases, the only way to prevent the unjust 
+enrichment of the defendant-tortfeasor and to ensure they do not 
+escape liability is to allow the insurer to assert its own 
+subrogation claim. State Farm
+, 90 Hawaiʻi at 331, 978 P.2d at 
+769 (quoting 
+Peters, 69 Haw. at 29, 731 P.2d at 162). Further, 
+because there is no judgment or settlement between the defendant 
+and the insured, there is no competition for funds between the 
+insured and the insurer and thus no risk of prejudicing the 
+insured’s right to fairly recover for their loss. In this 
+context, “[s]ubrogation aids indemnity.” Park
+, 154 Hawaiʻi at 5, 
+543 P.3d at 437 (citing 
+State Farm
+, 90 Hawaiʻi at 328, 978 P.2d 
+53  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+at 766). Thus, where the injured party has not recovered 
+damages by judgment or settlement of a third-party claim, see 
+HRS § 431:13-103(a)(10)(A), it is appropriate, indeed it is 
+favorable, that the insurer be able to exercise its right to 
+equitable subrogation and bring a claim directly against the tortfeasor for benefits paid. 
+3. The Subrogating Insurers’ countervailing arguments are 
+without merit 
+The Subrogating Insurers argue that HRS § 663-10 is 
+merely a “procedural statute” that simply does not apply to them 
+here because they have not asserted “any liens against the 
+proposed settlement or any claims categorizable as ‘special 
+damages’ under Hawai‘ i law.” They cite to Rudel for the 
+proposition that “[b]y its own permissive terms, the statute 
+permits, but does not obligate a claimant to ask a court to 
+determine the validity of a lien.” 937 F.3d at 1272 (emphasis 
+in original). In a narrow sense they are correct. Read alone, HRS § 663-10 does not by itself impose a legal obligation on a 
+property and casualty insurer, or any collateral source, to 
+assert a lien against a judgment or settlement awarded to its 
+insured. An insurer, under any circumstance, may simply choose 
+not to pursue reimbursement at all. The Subrogating Insurers’ 
+argument, however, ignores both the context in which Reserved 
+Question 1 has been presented and the legislature’s clear intent 
+54  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+that HRS § 663-10 be read together with § 431:13-103. Rudel, 
+937 F.3d at 1273. As discussed above, where an injured insured 
+recovers from a third-party tortfeasor by judgment or 
+settlement, HRS §§ 431:13-103 and 663-10 comprehensively address 
+and limit an insurer’s rights to reimbursement and subrogation. 
+Id. at 1273-74, Yukumoto, 140 Hawai‘ i at 298, 400 P.3d at 499. 
+Faced with this comprehensive statutory procedure, the 
+Subrogating Insurers argue that any limitation on their rights 
+under HRS § 431:13-103 has not been triggered here. HRS 
+§ 431:13-103(a)(10) makes it an unfair insurance practice to 
+“[r]efus[e] to provide or limit[] coverage available to an 
+individual because the individual may have a third-party claim 
+for recovery of damages.” The Subrogating Insurers read this 
+language narrowly to mean that “an insurer is prohibited from 
+refusing to pay its insured, and instead telling them to pursue 
+recovery against a tortfeasor defendant.” The insurers argue that “[b]y definition, a property and casualty insurer that has 
+paid out its full policy limits has not refused to provide, or 
+limited the scope of, its coverage.” (Emphasis omitted). 
+Because there is no argument here that the Subrogating Insurers 
+have withheld or otherwise refused to pay out claims to their 
+insured, it follows by their logic that their means of 
+reimbursement should not be routed exclusively through the HRS § 663-10 lien-claim process. 
+55  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+This is incorrect. As an initial matter, we have 
+already addressed this argument in Yukumoto. There, HMSA paid 
+over $325,000 to its insured for medical expenses arising from 
+damages caused by the defendant-tortfeasor. Yukumoto, 140 
+Hawai‘i at 287, 400 P.3d at 488.  Nevertheless, we held that, 
+“HMSA’s sole rights to reimbursement and subrogation are 
+provided for in HRS §§ 663-10 and 431:13-103(a)[(10)(A)].” Id.
+at 298, 400 P.3d at 499. The fact that HMSA had not withheld 
+payment from its insured did not give HMSA rights to seek 
+recovery outside of the statutory lien-claim process and assert 
+an independent subrogation action against the tortfeasor. It 
+would be inconsistent for us to now hold that a property and 
+casualty insurer may skirt the statutory mandate of HRS 
+§§ 431:13-103(a)(10)(A) and 663-10 under the same circumstances. 
+Further, the Subrogating Insurers’ narrow reading of 
+what does or does not constitute a limitation of coverage is inconsistent with the legislative history of HRS §§ 431:13-103 
+and 663-10 discussed above. The legislature clearly indicated 
+that one of the intended functions of HRS § 431:13-103(a)(10) 
+was to prevent insurers from “interfering with a third-party 
+settlement.” S. Stand. Comm. Rep. No. 107, in 2001 Senate 
+Journal at 987. This intent is aligned with the long-recognized 
+public policy that “favors the finality of negotiated settlements that avoid the costs and uncertainties of protracted 
+56  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+litigation.” Gossinger v. Ass’n of Apt. Owners of Regency of
+Ala Wai, 73 Haw. 412, 424, 835 P.2d 627, 633 (1992); Exotics
+Hawaii-Kona, Inc. v. E.I. Du Pont De Nemours & Co., 116 Hawai‘ i 
+277, 288, 172 P.3d 1021, 1032 (2007) (citations omitted) (“We 
+acknowledge the well-settled rule that the law favors the 
+resolution of controversies through compromise or settlement 
+rather than by litigation.”). 
+Here, allowing the Subrogating 
+Insurers to pursue reimbursement through direct subrogation 
+actions against the Defendants, rather than the HRS § 663-10 
+lien-claim process, would interfere with the ability of the 
+injured Plaintiffs and the Defendants to settle their dispute. 
+Both the legislative history and the plain language of 
+the statutes themselves specifically contemplate HRS § 663-10 as 
+an insurer’s exclusive remedy for reimbursement where the 
+insured recovers tort damages by judgment or settlement. Thus, 
+the reference to HRS § 663-10 within § 431:13-103(a)(10)(A) is not an “exclusion to the law,” as the insurers argue, but a 
+legislative mandate with which the insurers are bound to comply. 
+Still, the Subrogating Insurers push back, arguing that 
+“[r]ecovery of insurance monies from the tortfeasor can never 
+alter the benefits that have already been paid to the insured.” 
+In other words, the benefit received by an insured is 
+undiminished by the insurer bringing a subrogation action against the same defendant. 
+In support of this argument, the 
+57  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Subrogating Insurers cite to our recent opinion in Park for its 
+holding “that an insurer’s ‘pursuit of its claims does not harm’ 
+the insured because an ‘insurer is entitled to only what will 
+make it come out even.’” (quoting Park, 154 Hawai‘i at 5, 543 
+P.3d at 437). 
+The Subrogating Insurers’ reliance on Park is 
+misplaced. 
+First, Park involved a workers’ compensation claim. 
+Id. at 2-3, 543 P.3d at 434-35. Thus, the relevant statute at 
+issue was HRS § 386-8,  and the insurer in that case was 20
+20 HRS § 386- 8, Hawai‘ i’s workers’ compensation subrogation law, is 
+applicable “[w]hen a work injury for which compensation is payable under 
+[chapter 386] has been sustained under circumstances creating in some person 
+other than the employer or another employee of the employer acting in the 
+course of employment a legal liability to pay damages on account thereof[.]” 
+HRS § 386- 8(a).  The statute provides a comprehensive set of procedures that 
+govern subrogation rights in the workers’ compensation context and 
+contemplates specific methods of allocating the amount of the judgment or 
+settlement depending on whether the employee, the employer, or both jointly 
+prosecute the action against the third
+-party tortfeasor.  See HRS § 386- 8 
+(e)
+-(g).  HRS § 386- 8(e) provides, for example: 
+If the action is prosecuted by the employer alone, 
+the employer shall be entitled to be paid from the proceeds 
+received as a result of any judgment for damages, or 
+settlement in case the action is compromised before 
+judgment, the reasonable litigation expenses incurred in 
+preparation and prosecution of the action, together with a reasonable attorney’s fee, which shall be based solely upon 
+the services rendered by the employer’s attorney in 
+effecting recovery both for the benefit of the employer and 
+the employee. After the payment of the expenses and 
+attorney’s fee, the employer shall apply out of the amount of the judgment or settlement proceeds an amount sufficient 
+to reimburse the employer for the amount of the employer’s 
+expenditure for compensation and shall pay any excess to 
+the injured employee or other person entitled thereto. 
+We factored this comprehensive distribution procedure into our 
+analysis in Park. 154 Hawai‘ i at 5, 543 P.3d at 437 (“No matter how the 
+[defendant’s] liability gets litigated, the distribution follows HRS 
+(continued . . .) 
+58  
+ 
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+specifically exempt from the application of § 431:13-103(a)(10). 
+See HRS 431:13-103(a)(10)(B) (“This paragraph shall not apply to 
+entities licensed under chapter 386 or 431:10C[.]). Second, the 
+insurer’s pursuit of its subrogation claim could not harm the 
+insured plaintiff because the plaintiff’s own claim against the 
+tortfeasor had been dismissed. See Park, 154 Hawai‘ i at 3, 543 
+P.3d at 435. Because the plaintiff stood to recover nothing on 
+her own, there was no risk of her recovery being diminished by 
+the insurer’s subrogation action. Notably, this also meant 
+there was no recovery by judgment or settlement of a third-party 
+claim against which the insurer would have been able to assert a 
+lien under HRS § 663-10. This is not the case here, where the 
+Plaintiffs have reached the terms of a settlement agreement with 
+the Defendants, and where allowing the Subrogating Insurers to 
+pursue their own, separate subrogation actions risks diminishing 
+or destroying entirely the Plaintiffs’ recovery under the proposed settlement. 
+The Subrogating Insurers further argue that HRS 
+§ 663-10 “applies only to health insurance policies.” This 
+court’s reasoning in Yukumoto
+, the Insurers contend, “center[ed] 
+on fundamental, conceptual distinctions between Hawai‘i’s 
+(. . . continued) 
+§ 386-8’s formula.  Park receives any excess. It doesn’t matter if she wins, 
+[the workers’ compensation insurer] wins, or they both win together.”).  
+59  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+treatment of personal insurance (such as health and medical 
+insurance) and its treatment of property and casualty 
+insurance.” While it is true that we recognize distinctions 
+between personal insurance, and property and casualty insurance, 
+those distinctions do not justify an exemption from HRS §§ 431:13-103(a)(10) and 663-10 for property and casualty 
+insurers where no such exemption is contemplated by either the 
+plain language or the legislative history of those statutes. 
+The Subrogating Insurers imply that our specific focus 
+in Yukumoto indicates that HRS §§ 431:13-103(a)(10) and 663-10 
+somehow apply uniquely to health insurers. That is not the 
+case. There, our specific focus on the subrogation rights of health insurers was a response to the issue presented to us on 
+appeal. See In re Att’y’s Fees of Mohr, 97 Hawai‘ i 1, 9, 32 P.3d 
+647, 655 (2001) (“[T]he use of judicial power to resolve public 
+disputes . . . should be limited to those questions capable of judicial resolution and presented in an adversary context.”) 
+(ellipses in original). 
+Further, our holding there is 
+consistent with an affirmative answer to Reserved Question 1 here. We recognized in Yukumoto
+ that in 2000 the legislature 
+“limited reimbursement and subrogation for all insurance companies, excluding health insurers, in HRS § 431:13-
+103(a)(10).” 140 Hawai‘ i at 296, 400 P.3d at 497 (emphasis 
+added). 
+Then, in 2002, the legislature amended HRS 
+60  
+ 
+  
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+§§ 431:13-103(a)(10) and 663-10 “to eliminate any doubt that 
+health insurers have always been subject to” the same 
+limitations as other insurance entities. Id. at 298, 400 P.3d 
+at 499 (quoting Conf. Comm. Rep. No. 67, in 2002 House Journal, at 1783). We need not read the statutes or the legislative history any differently to reach the conclusion here that, under 
+HRS § 431:13-103(a)(10)(A), a property and casualty insurer’s 
+rights to reimbursement and subrogation are limited to the HRS § 
+663-10 lien-claim process where their insured has recovered by 
+judgment or settlement of a third-party tort claim. 
+Moreover, our answer in the present case upholds the 
+“conceptual distinctions” between personal insurance, and property and casualty insurance, that we recognized in Yukumoto. 
+As discussed above, we do not extend Yukumoto to eliminate a 
+property and casualty insurer’s right to equitable subrogation 
+entirely. Under our ruling here, the property insurer’s 
+equitable right to subrogation survives. And where that right 
+is displaced by HRS §§ 431:13-103 and 663-10, the insurer’s 
+right to reimbursement is preserved through the lien-claim 
+process. Thus, contrary to what the Subrogation Insurers argue, 
+an affirmative answer to Reserved Question 1 does not compel the insurers to “release their own claims without compensation.” 
+61  
+ 
+  
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+B.  Reserved Question 2 
+Question 2: 
+Is a property and casualty insurer’ s subrogation right of 
+reimbursement prejudiced by its insured’s release of any 
+tortfeasor when the settlement documents and release 
+preserve those same rights under HRS § 663- 10? 
+Our answer in the affirmative to Question 1 is 
+dispositive of Question 2. Because we hold in Question 1 that 
+HRS § 663-10 is the exclusive remedy for an insurer to recover 
+paid claims in the context of a settlement between an insured 
+and a third-party tortfeasor under HRS § 431:13-103(a)(10)(A), 
+we answer Question 2 in the negative. A property and casualty 
+insurer is not prejudiced when its rights are limited by 
+settlement to the exclusive remedy for recovery provided for by law. Therefore, a property and casualty insurer’s subrogation 
+right of reimbursement is not prejudiced by its insured’s 
+release of a tortfeasor when the settlement documents and 
+release preserve those same rights under HRS § 663-10. To the 
+extent that State Farm could be construed as inconsistent with 
+our answers in this opinion, we clarify the application of State 
+Farm after the adoption of Act 29 in 2000. 
+1. Insurers are not prejudiced when their recovery is 
+limited by the terms of a settlement to the insurer’s exclusive form of recovery as provided for by law 
+The Subrogating Insurers assert that “State Farm 
+directly controls the disposition of this reserved question.” 
+State Farm holds in relevant part that 
+62  
+ 
+  
+  
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+if the insurer proves (1) that the tortfeasor had actual or 
+constructive knowledge of the insurer’ s subrogation right 
+of reimbursement or that the tortfeasor and insured colluded to destroy the insurer’ s subrogation right and  
+(2) that the insurer’ s subrogation right of reimbursement 
+is actually prejudiced  by the insured’ s release of the 
+tortfeasor, then the release, settlement, and/or 
+indemnification agreement executed by the insured and the 
+tortfeasor will not bar a subrogation action by the insurer against the tortfeasor.  
+90 Hawaiʻi at 332, 978 P.3d at 770 (emphasis added). 
+Because it is undisputed that the Plaintiffs and the 
+Defendants had actual knowledge of Subrogating Insurers’ 
+subrogation rights, the arguments here are limited to the actual 
+prejudice prong of the 
+State Farm test. 
+The Subrogating Insurers argue that their interests 
+are actually prejudiced because the right of subrogation is legally and conceptually distinct from the right of 
+reimbursement that is preserved through the lien-claim process 
+under HRS § 663-10. The Subrogating Insurers contend that the 
+settlement’s limitation of their recovery to one cause of action 
+over another constitutes actual prejudice for two reasons. 
+Firstly, the Subrogating Insurers argue: 
+[I]t is legally impermissible for the trial court to 
+effectively re- draft the [Subrogating Insurers’] complaint 
+so that they are asserting liens against their own insureds. Such an action would operate as an involuntary 
+substitution of one cause of action for another; running afoul of the principle that a party may determine its own causes of action and legal theories while depriving the 
+[Subrogating Insurers] of their rights without due process. 
+Further, the Subrogating Insurers argue that the 
+Settlement Term Sheet does not preserve their subrogation 
+63  
+ 
+    
+ 
+  
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+rights, instead preserving only the “lesser legal right” of 
+reimbursement, which they argue is “more vulnerable to equitable 
+defenses than subrogation claims.” In their view, the 
+channeling of subrogation rights into reimbursement rights is 
+intended to manufacture direct competition between the Subrogating Insurers and the Plaintiffs for the Defendants’ 
+limited funds. 
+The Plaintiffs counter that there is no actual 
+prejudice because “as long as the right of reimbursement under 
+HRS § 663-10 is available to the insurer after the policyholder 
+settles the claim, then the insurer’s ‘right of reimbursement’ 
+is not ‘actually prejudiced.’”
+21 
+“Actual prejudice” within the meaning of State Farm is 
+not clearly defined. The Subrogating Insurers contend that a property and casualty insurer is actually prejudiced whenever 
+the insurer loses the right that it previously had to subrogate 
+their insured’s claim against the tortfeasor. This 
+interpretation is incorrect. While it is true that the 
+possibility of recovery is a necessary prerequisite to establish 
+actual prejudice, it is a mere threshold question. Instead, 
+once the possibility of recovery is established, State Farm then 
+21 The Plaintiffs misstate the standard of actual prejudice to an 
+insurer’s subrogation right of reimbursement by eliding “subrogation” from 
+the standard. Nevertheless, even when properly stated the analysis below 
+applies and the outcome is the same. 
+64  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+requires courts to evaluate whether the tortfeasor acted 
+inequitably in obtaining a release of claims by the injured 
+insured. 90 Hawaiʻ i at 333, 978 P.2d at 771 (“Where the 
+insurer’s subrogation right clashes with the tortfeasor’s 
+contractual release right, the insurer’s subrogation right will 
+prevail if the tortfeasor acted inequitably.”) (emphasis added). 
+Further, accepting the Subrogating Insurers’ 
+definition of actual prejudice would lead to absurd results. While the right to equitable subrogation is preserved in the 
+absence of a settlement or judgment, that right is limited to 
+reimbursement via lien once a settlement or judgment in a tort 
+action is entered. HRS § 663-10; HRS § 431:13-103(a)(10)(A). 
+If the extinguishment of an insurer’s subrogation right 
+constituted actual prejudice under State Farm, HRS §§ 663-10 and 
+431:13-103 would by their mere operation result in actual 
+prejudice. The only way for an insured to preserve an insurer’s subrogation right would be to not pursue its own action against 
+the tortfeasor because doing so would result in judgment or 
+settlement, either of which would foreclose the insurer’s 
+ability to assert their subrogation rights. This would be 
+contrary to the compensatory purpose of tort law. See, e.g., 
+Kailieha v. Hayes, 56 Haw. 306, 320, 536 P.2d 568, 576 (1975) (Richardson, C.J., dissenting) (“It is . . . well established that one of the major purposes of tort law . . . is to 
+65  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+compensate injured parties for the wrongs of others[.]”). Such 
+a position is also counter to the public policy in favor of 
+promoting the resolution of controversies by settlement, as 
+expressed in State Farm. 90 Hawaiʻ i at 323, 978 P.2d at 761 (“We 
+acknowledge the well-settled rule that the law favors the 
+resolution of controversies through compromise or settlement 
+rather than by litigation.”). 
+It would also be counter to the 
+express intent of the legislature in enacting HRS § 431:13-103 
+in 2000, and in amending HRS §§ 663-10 and 431:13-103 in 2002. 
+E.g., S. Stand. Comm. Rep. No. 107, in 2001 Senate Journal, at 
+987 (“Testimony indicated that under current law, societies and 
+HMOs may be interfering with a third-party settlement by 
+claiming that they are exempt from insurance unfair trade 
+practice as a result of Act 29, SLH 2000. 
+This was clearly not 
+the intent of the legislature. This measure clears up that confusion.”). We therefore decline to adopt the Subrogating Insurers’ formulation for determining actual prejudice under 
+State Farm. 
+In summary, HRS § 431:13-103(a)(10)(A) makes the 
+lien-claim process pursuant to HRS § 663-10(a) the exclusive 
+means of recovery for a property and casualty insurer in the 
+context of a settlement between an insured and a third-party 
+tortfeasor. Because HRS §§ 663-10 and 431:13-103(a)(10)(A) together operate to preclude subrogation in this context, the 
+66  
+ 
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Subrogating Insurers’ argument must fail at the threshold: a 
+release of claims by a settlement does not prejudice an insurer 
+because the insurer has no right to subrogation to be 
+extinguished by the terms of the settlement. Where an insured 
+and a tortfeasor have settled, the insurer only ever had, and would continue to have, the right to seek reimbursement via the 
+statutory lien process envisioned by HRS § 663-10(a). A right 
+that does not exist cannot be prejudiced. 
+2. An insurer’s right to reimbursement is prejudiced when 
+a settlement is structured to nullify the insurer’s 
+valid lien interests under HRS § 663-10 
+In answering Question 2 in the negative, we do hold 
+that a property and casualty insurer’s right to reimbursement 
+via lien under HRS § 663-10 cannot be prejudiced by the terms of 
+a settlement. As discussed above, HRS § 663-10, which was 
+adopted as part of “a complex, coherent bill, which embodies the 
+demands and concessions of many different segments of our community,” balances an insurer’s right to reimbursement with an 
+insured’s right to be fairly compensated for their injury. H. 
+Stand. Comm. Rep. No. 4-86, in 1986 House Journal, at 40. This 
+express purpose for adopting HRS § 663-10 is reflected in House 
+Committee on Judiciary and Health report: 
+The intent of this provision is to prevent double payments 
+from collateral source[s] for costs or expenses arising out 
+of the injury for which the plaintiff has brought the tort action and is awarded a judgment therefor. The collateral 
+source lienholders have been limited only to that portion 
+of the settlement or judgment which is designated as 
+67  
+ 
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+special damages so as not to deprive the plaintiff of any 
+award for noneconomic damages which is not covered by 
+collateral source payment for costs and expenses already 
+made. 
+Id. at 43 (emphasis added). 
+Because the Legislature acted to preserve 
+reimbursement from the limited portion of a judgment or 
+settlement allocated as special damages, we presume that the 
+legislature did not intend to permit settling parties to nullify 
+the statute by structuring their settlements in such a manner as 
+to reduce the insurer’s reimbursement to nothing. To permit 
+otherwise could incentivize settlements being structured to 
+effectively defeat the attachment of a lien. We therefore read 
+into HRS § 663-10 an implicit good-faith requirement for 
+settlements between insured and tortfeasors. 
+Thus, the settling parties may not, in bad faith, 
+structure their settlement in such a way as to nullify the protections afforded to insurers under HRS § 663-10. For 
+example, a settlement between a tortfeasor and an injured 
+insured that purports to waive a property and casualty insurer’s 
+right to assert an otherwise valid lien under HRS § 663-10 would 
+be prejudicial to the insurer’s rights and violative of State Farm. Similarly, a settlement improperly structured as for 
+general damages only, when the circumstances do not warrant such 
+a settlement, would prejudice an insurer’s rights under HRS 
+68  
+ 
+  
+ 
+ 
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+§ 663-10. Such settlements cannot be countenanced as in good 
+faith. 
+This does not mean that there are no circumstances 
+under which parties could, in good faith, settle their claims 
+under a general-damages only settlement.  Instead, the trial 
+court must determine whether, under the totality of the 
+circumstances as they are known at the time of the settlement, 
+the settlement was entered into in good faith. In this regard, 
+there are some similarities between the inquiry required under 
+HRS § 663-10 and the inquiry under HRS § 663-15.5, which was 
+enacted in 2002 and imposes a good faith requirement in 
+settlements that release a joint tortfeasor’s liability. 
+In 
+determining whether a settlement is in good faith for purposes 
+of HRS § 663-15.5, we adopted a totality of the circumstances 
+framework in Troyer v. Adams. 102 Hawaiʻi 399, 77 P.3d 83 
+(2003). Relevant factors under the Troyer test include: 22
+(1) the type of case and difficulty of proof at trial, 
+e.g., rearend motor vehicle collision, medical malpractice, product liability, etc.; (2) the realistic approximation of 
+total damages that the plaintiff seeks; (3) the strength of 
+the plaintiff’ s claim and the realistic likelihood of his 
+or her success at trial; (4) the predicted expense of litigation; (5) the relative degree of fault of the settling tortfeasors; (6) the amount of consideration paid 
+to settle the claims; (7) the insurance policy limits and 
+solvency of the joint tortfeasors; (8) the relationship 
+among the parties and whether it is conducive to collusion 
+or wrongful conduct; and (9) any other evidence that the settlement is aimed at injuring the interests of a non-
+22 The same considerations would also apply to a settlement that 
+limited special damages to a nominal value. 
+69  
+ 
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+settling tortfeasor or motivated by other wrongful purpose. 
+The foregoing list is not exclusive, and the court may 
+consider any other factor that is relevant to whether a 
+settlement has been given in good faith. 
+Id. at 427, 77 P.3d at 111. 
+Here, we do not adopt the Troyer test for evaluating 
+whether a settlement is in good faith for the purposes of HRS 
+§ 663-10. Instead, Troyer is instructive for the type of 
+inquiry a trial court may conduct in making the relevant good 
+faith determination. 
+Where a settlement’s allocation of damages 
+disproportionately favors general damages at the expense of 
+special damages to the prejudice of an insurer in an amount 
+significantly below the amount of a valid lien as determined by 
+the trial court, a trial court may presume the settlement is in bad faith. This presumption may be overcome by a showing that 
+the allocation of damages was reasonable under the totality of 
+the circumstances as known to the settling parties at the time 
+of the settlement. On appeal, the trial court’s determination 
+will be reviewed for abuse of discretion. 
+3. State Farm is clarified to the extent that it could be 
+construed as inconsistent with this opinion 
+When State Farm was decided in 1999, the legislature 
+had already enacted HRS § 663-10 to govern an insurer’s recovery 
+from an insured’s tort settlement. However, HRS § 431:13-
+103(a)(10)(A), which makes liens under HRS § 663-10 the 
+70  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+exclusive remedy for recovery where the insured has settled with 
+the tortfeasor, had not yet been enacted. Thus, at the time 
+State Farm was decided, a lien under HRS § 663-10 was not the 
+exclusive remedy but merely one remedy among others for an 
+insurer to recover its paid claims. In that context, the existence of a settlement would not, by itself, require an 
+insurer to pursue a lien under HRS § 663-10. Permitting an 
+insurer to assert an equitable subrogation right that was 
+purportedly waived by a settlement did not violate any statutory 
+prescriptions. Instead, State Farm acknowledged the equitable 
+basis for all subrogation rights and so, balancing the equities, 
+reinstating an insurer’s equitable subrogation rights where the tortfeasor and the insured inequitably colluded was permissible. 
+However, with the enactment of HRS § 431:13-103 via 
+Act 29 in 2000, HRS § 663-10 became the exclusive remedy for an 
+insurer to seek recovery when the insured and the tortfeasor 
+settled. Because subrogation rights do not arise in the context 
+of a settlement by operation of HRS § 431:13-103(a)(10)(A), an 
+insurer is limited to the exclusive statutory remedy of a lien 
+against the settlement. Therefore, we clarify the applicability 
+of State Farm post Act 29 to the extent that it could be construed as inconsistent with our answers to Questions 1 and 2 
+in this opinion. 
+71  
+ 
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+C.  Reserved Question 3 
+Question 3: 
+Under the circumstances of the Maui Fire Cases and the 
+terms of the “Global Settlement,” does the law of the State 
+of Hawaiʻi require that insureds be made whole for all 
+claimed injuries or damages before their insurers can 
+pursue a subrogation right of recovery or reimbursement 
+against a thirty- party tortfeasor? 
+We answer Question 3 in the negative. This court has 
+never adopted the made whole doctrine in the context of property 
+and casualty insurance and we decline to apply it here under the 
+circumstances of this mass tort case. Question 3 is directed at “the circumstances of the Maui Fire Cases and the terms of the 
+‘Global Settlement.’” See Flores-Case ʻ Ohana, 153 Hawaiʻi at 81, 
+526 P.3d at 606 (quoting Cabrinha, 42 Haw. at 100) (“On a 
+reserved question we are required to answer a question of law based on facts reported to this court by the circuit judge. We 
+may not express an opinion on a question of law by assuming 
+certain facts as to which the circuit judge has made no 
+finding.”). We decline to reformulate Reserved Question 3 to 
+reach the application of made whole doctrine beyond the 
+circumstances of this case. See id. at 78, 526 P.3d at 603 
+(citing Pac. Radiation Oncology, LLC v. Queen’s Med. Ctr., 138 
+Hawai͑i 14, 16, 375 P.3d 1252, 1254 (2016)) (explaining that 
+this court may reformulate reserved questions “as it perceives 
+them to be, in light of the contentions of the parties”). 
+Therefore, we do not address the application of made whole 
+72  
+ 
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+doctrine in the context of property and casualty insurance more 
+broadly. 
+1.  We decline to apply the made whole doctrine under the 
+circumstances of this mass tort case 
+The made whole doctrine, also known as the 
+antisubrogation doctrine, is an equitable doctrine that prevents 
+an insurer from asserting its right to equitable subrogation 
+unless and until the injured insured has been made whole. This 
+court described the made whole doctrine in footnote 8 of State 
+Farm, when discussing the requirements for equitable 
+subrogation: 
+First, the insurer must have paid the loss. The right 
+extends to the extent of the amount actually paid and the 
+amount paid must have been paid to the insured. 
+In addition, the amount paid by the insurer must 
+result in the insured’ s being made “whole.”  The general 
+rule is that the subrogated insurer is entitled to no 
+subrogation, or to reduced subrogation, if the result of 
+full subrogation would be to cause the insured to be less 
+than fully compensated for the loss, although some cases 
+hold to the contrary. . . . 
+Courts have taken three approaches to the issue of 
+whether or not subrogation will be allowed when the insured has not been fully compensated. One approach is to find 
+that the insurer is entitled to the full amount of its 
+subrogation, whether or not its insured is made whole. Another is to find that the insurer is entitled to no 
+subrogation until the insured recovers his entire loss, 
+between the insurance payment and the recovery from the 
+tortfeasor. The third approach is to hold that the court 
+should make an equitable distribution of any recovery from the tortfeasor, in light of all of the circumstances. 
+State Farm, 90 Hawaiʻi at 328 n.8, 978 P.2d at 766 n.8 
+(modifications in original). 
+73  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+The Plaintiffs argue that, in State Farm, this court 
+adopted “the made-whole rule as a requirement that must be met 
+before legal/equitable subrogation arises.” The Plaintiffs 
+further argue that “the insurer has the burden of establishing 
+the policyholder has been made whole to show entitlement to subrogation” under State Farm. The Plaintiffs contend that such 
+a showing by the Subrogating Insurers will be impossible because 
+“the total losses of all the plaintiffs exceed $12 billion” and 
+the settlement is for only a little over $4 billion. 
+The Subrogating Insurers urge us not to adopt the made 
+whole doctrine. Relying on State Farm
+, the Subrogating Insurers 
+assert that “[b]ecause equitable property subrogation has not 
+previously been limited by this Court, Hawaiʻi currently follows 
+the first approach [outlined in 
+State Farm footnote 8], holding 
+that the insurer is entitled to full equitable subrogation 
+against the tortfeasor irrespective of the insured’s other damages.” Stated differently, the made whole doctrine does not 
+apply to equitable property and casualty subrogation. Instead, 
+following the Subrogating Insurers’ interpretation of our 
+caselaw, “[w]hen faced with a conflict between limiting the 
+liability of tortfeasors and allowing the subrogation rights of 
+insurers, this Court has consistently determined that equitable 
+doctrines favor the insurer.” However, if we were to adopt the made whole doctrine “for the first time,” the Subrogating 
+74  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Insurers urge us not to apply it at this time because the record 
+before the trial court is not sufficiently developed to evaluate 
+the equities in this case. 
+While this court has discussed the made whole doctrine 
+in the context of property and casualty insurance, e.g., State
+Farm, 90 Hawaiʻ i at 328 n.8, 978 P.2d at 766 n.8 (discussing the 
+equitable bases for subrogation); see also id. at 328 n.9, 978 
+P.2d at 766 n.9 (contrasting equitable subrogation with 
+contractual subrogation), the made whole doctrine has never been 
+adopted in any Hawai‘ i case involving property and casualty 
+insurance. 
+Indeed, this court has never adopted the made whole 
+doctrine in any context. 
+We agree with authority cited by the Subrogating 
+Insurers that the equitable analysis required under the made 
+whole doctrine necessitates a fact intensive and individualized 
+determination. See, e.g., 
+Vandenbrink v. State Farm Mut. Auto.
+Ins. Co., No. 8:12-cv-897-T-30TBM, 2012 WL 3156596, at *3 (M.D. Fla. Aug. 3, 2012) (“If this case were to proceed, the most important issues to settle will be individual in nature. The 
+issues will include the damages incurred by an individual 
+plaintiff, the amount of the settlement, and the portion of the 
+settlement that actually was for medical payments.”). We 
+disagree, however, that such a determination is inherently 
+incompatible within the context of mass tort cases generally. 
+75  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+The authority cited by the Subrogating Insurers relied on class 
+certification requirements pursuant to Rule 23 of the Federal 
+Rules of Civil Procedure (FRCP). Id.In particular, the 
+predominance test for federal class action certification under FRCP Rule 23(b)(3) was dispositive. Vandenbrink, 2012 WL 
+3156596, at *3. Because this court is not bound to follow the 
+federal court’s interpretation of the FRCP when construing the 
+Hawaiʻi Rules of Civil Procedure (HRCP), we are not bound to the 
+same outcome under our analogous class certification rule, HRCP Rule 23(b)(3). See Chen v. Mah, 146 Hawaiʻ i 157, 176, 457 P.3d 
+796, 815 (2020) (citing Kawamata Farms, Inc. v. United Agri Products, 86 Hawaiʻ i 214, 256, 948 P.2d 1055, 1097 (1997)) 
+(“[N]otwithstanding their persuasiveness, interpretations of the 
+FRCP by federal courts are by no means conclusive with respect 
+to our interpretation of any rule within the HRCP”). 
+However, we need not resolve that issue here. A 
+reserved question, with an undeveloped record, is not an 
+appropriate vehicle to determine how, if at all, the made whole 
+doctrine applies. We therefore decline to apply the made whole 
+doctrine under the circumstances of this mass tort case. 
+V. CONCLUSION 
+For the foregoing reasons, we answer Question 1 in the 
+affirmative, and we answer Questions 2 and 3 in the negative. These answers provide the framework for the circuit court to 
+76  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+evaluate the proposed settlement, consistent with the principles 
+established by our legislature in HRS §§ 663-10 and 431:13-103. Jesse M. Creed    /s/ Mark E. Recktenwald 
+Cynthia K. Wong    
+(Jan K. Apo     /s/ Sabrina S. McKenna 
+Jacob K. Lowenthal and 
+Aimee M. Lum,     /s/ Todd W. Eddins 
+on the briefs) 
+for plaintiffs    /s/ Lisa M. Ginoza 
+ 
+Ginger D. Anders*    /s/ Kevin T. Morikone 
+Nicholas D. Fram* 
+(Elaine J. Goldenberg* 
+Brad D. Brian* Joachim P. Cox and 
+Randall C. Whatoff, 
+on the briefs) for defendants Hawaiian Electric 
+Industries, Inc., 
+Hawaiian Electric Company, Inc., Hawaii Electric Light 
+Company, Inc., and 
+Maui Electric Company, Limited *pro hac vice  
+Alan Van Etten 
+(on the briefs) for defendants 
+Spectrum Oceanic, LLC and 
+Charter Communications, Inc.  Wesley H.H. Ching 
+Sheree Kon-Herrera 
+Dara S. Nakagawa (on the briefs) for defendants 
+Peter Klint Martin, individually 
+and as trustee of the Peter Klint Martin Revocable Trust; 
+Hope Builders LLC nka 
+Hope Builders Inc.; Kauaula Land Company LLC; Kipa Centennial, LLC; Wainee Land & Homes, LLC; 
+West Maui Land Company, Inc.; 
+77  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Makila Ranches, Inc.; 
+Makila Land Co., LLC; JV Enterprises, LLC; 
+Launiupoko Irrigation Company, Inc.; 
+Launiupoko Water Company, Inc.; Launiupoko Water Development LLC; Olowalu Elua Associates; and 
+Donna Poseley, individually and 
+as personal representative of the Estate of Douglas Poseley 
+ 
+Eric H. Tsugawa Alan K. Lau Tedson H. Koha 
+(on the briefs) 
+for defendants Hawaiian Telcom, Inc. and 
+Cincinnati Bell Inc. 
+ Michael L. Lam Steven E. Tom 
+Kaonohiokala J. Aukai IV 
+Kenneth V. Go Amanda J. Weston 
+(on the briefs) 
+for defendant State of Hawai‘ i 
+ 
+Derek R. Kobayashi 
+Brittney M. Wu 
+Kiana K.T. Nakanelua 
+(on the briefs) for defendants 
+Trustees of the Estate of 
+Bernice Pauahi Bishop dba Kamehameha Schools  
+Adam M. Romney* 
+Normand R. Lezy* (Vincent G. Raboteau 
+Mark Grotefeld,* 
+on the briefs) for appellees Subrogating Insurers 
+*pro hac vice 
+78  
+ 
+  *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Jared A. Washkowitz 
+(on the briefs) for appellee 
+The Dentist Insurance Company 
+ Nathan H. Yoshimoto Wesley D. Shimazu 
+Allan S. Ching 
+(on the briefs) for appellee 
+Hyundai Marine & Fire 
+Insurance Company, Ltd.  Terrance M. Revere 
+Patrick Kyle Smith 
+(Paul V.K. Smith Richard E. Wilson 
+Kenneth S. Kasdan 
+Christopher K. Hikida Graham B. Lippsmith Marybeth Lippsmith 
+Jaclyn L. Anderson 
+Celene Chan Andrews, on the briefs) 
+for amicus curiae 
+Consolidated Class Plaintiffs  Jon S. Jacobs 
+Marc T. Nakamura 
+(on the briefs) for amicus curiae 
+Hawai‘i Association for Justice 
+ 
+Alexander T. Maclaren (on the briefs) 
+for amici curiae 
+American Property Casualty Insurance Association, 
+National Association of 
+Mutual Insurance Companies, and Reinsurance Association of America  
+Gary Robert 
+(on the briefs) for amicus curiae 
+Lahainatown Action Committee 
+79  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘ I REPORTS AND PACIFIC REPORTER *** 
+Michele-Lynn E. Luke 
+Saori Takahashi (on the briefs) 
+for amicus curiae 
+Hawaii Insurers Council  Douglas R. Wright 
+(on the briefs) 
+for amicus curiae United Policyholders 
+80 
