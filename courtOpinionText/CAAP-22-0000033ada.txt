@@ -1,0 +1,514 @@
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER  
+Electronically Filed 
+Intermediate Court of Appeals CAAP-22-0000033 24-APR-2025 07:47 AM Dkt. 75 OP 
+IN THE INTERMEDIATE COURT OF APPEALS 
+ 
+OF THE STATE OF HAWAI ‘I 
+---o0o---
+PJ VISIONARY PTE. LTD., Plaintiff-Appellant/Cross-Appellee,
+v. 
+FIVE SENSES LLC, FIVE SENSES RESTAURANT LLC, FIVE SENSES
+CAFÉ LLC, Defendants-Appellees/Cross-Appellees,
+and 
+JN GROUP, INC., Defendant-Appellee/Cross-Appellant,
+and 
+JOHN DOES 1-50, JANE DOES 1-50, DOE PARTNERSHIPS 1-50,
+DOE CORPORATIONS 1-50, DOE ENTITIES 1-50, and DOE GOVERNMENTAL
+UNITS 1-50, Defendants 
+ 
+ 
+NO. CAAP-22-0000033 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT 
+(CIVIL NO. 1CCV-20-0001616) 
+  
+APRIL 24, 2025 
+ 
+ 
+LEONARD, ACTING CHIEF JUDGE, NAKASONE AND MCCULLEN, JJ.  
+ 
+ 
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+   
+ FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+OPINION OF THE COURT BY NAKASONE, J. 
+This appeal concerns the application of Hawai ‘i law 
+regarding the identification of the debtor in UCC-1 financing 
+statements. 
+Plaintiff-Appellant/Cross-Appellee PJ Visionary PTE. 
+Ltd. (PJ Visionary ) appeals from the January 19, 2022 "Final 
+Judgment" entered in favor of Defendant-Appellee/Cross-Appellant JN Group, Inc. ( JN Group ); June 2, 2021 "Inclination"; June 10, 
+2021 "Order Denying [PJ Visionary]'s Motion for Summary Judgment" ( Order Denying MSJ ); and June 10, 2021 "Order Granting 
+[JN Group]'s Motion for Partial Summary Judgment" ( Order 
+Granting MPSJ ), all filed and entered by the Circuit Court of 
+the First Circuit ( Circuit Court ).
+1 
+On appeal, PJ Visionary contends the Circuit Court 
+"erred in concluding as a matter of law that [JN Group]'s financing statement had priority over [PJ Visionary]'s [f]inancing [s]tatement." 
+JN Group cross-appeals from the Circuit Court's July 
+6, 2021 "Order Denying [JN Group]'s Request for an Award of Attorneys' Fees" ( Order Denying Attorneys' Fees ), and contends 
+the Circuit Court abused its discretion by denying its 
+attorneys' fees. 
+We hold that PJ Visionary's financing statement 
+identifying the parent company, Five Senses LLC, as debtor, 
+perfected its security in collateral belonging to Five Senses LLC; and PJ Visionary's financing statement did not perfect a security interest in the collateral of Five Senses LLC's 
+subsidiaries, Five Senses Restaurant LLC ( Restaurant LLC ) and 
+1 The Honorable Jeffrey P. Crabtree presided. 
+2  
+ 
+ 
+  
+  
+   
+  
+  
+  
+   
+ 
+ 
+ FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+Five Senses Café LLC ( Café LLC ). We affirm both the grant of 
+summary judgment and the denial of JN Group's attorneys' fees. 
+I. BACKGROUND 
+The following background is from the record of the 
+parties' cross-motions for summary judgment. 
+JN Group's 2016 lease with Restaurant LLC and Café LLC 
+On March 31, 2016, JN Group executed separate leases 
+with Restaurant LLC and Café LLC for the use of commercial space in the building located at 888 Kapiolani Boulevard in Honolulu 
+(Leases). The Leases provided JN Group with a security interest 
+in "all goods, inventory, equipment, fixtures, furniture, 
+improvements, and other personal property [( FFE)] of [Café and 
+Restaurant] presently situated, or which may in the future be situated . . . and all proceeds from such property" (collectively, collateral ). 
+JN Group did not file a UCC-1 financing statement 
+contemporaneously or near the March 31, 2016 date of the Leases. 
+PJ Visionary's 2018 loan to Five Senses LLC On January 30, 2018, PJ Visionary and Five Senses LLC 
+executed an $800,000 loan agreement, with Five Senses LLC as the borrower. 
+PJ Visionary's 1/29/18 financing statement 
+PJ Visionary recorded a January 29, 2018 UCC-1 
+financing statement the day before the loan execution, 
+reflecting itself as the secured party and "Five Senses LLC" as the debtor. This financing statement identified the collateral as the FFE "of the Borrower now and hereafter placed upon the premises located at 888 Kapiolani Boulevard, Space No. 101 and 
+102, Honolulu, Hawaii." 
+3  
+ 
+ 
+   
+  
+  
+   
+  
+ 
+    
+  
+  
+ 
+ 
+  
+ 
+ 
+   FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+JN Group's 7/23/18 financing statement On July 23, 2018, JN Group recorded a UCC-1 financing 
+statement that listed Restaurant LLC and Café LLC as the 
+debtors, and itself as the secured party. JN Group's financing 
+statement identified the collateral as the FFE "of Tenant (Café LLC and Restaurant LLC) presently situated, or which may in the future be situated, on the Premises (Space Nos. 201
+[2] and 102 
+within the Commercial Unit located at 888 Kapiolani Boulevard, Honolulu, Hawaii 96813)[.]" (Footnote added.) 
+2019 default on PJ Visionary's loan According to PJ Visionary's complaint in this case, on 
+February 1, 2019, the amounts became due, and Five Senses LLC failed to make payment. 
+2020 default on JN Group's lease On May 1, 2020, Restaurant LLC and Café LLC defaulted 
+on the Leases with JN Group. 
+Current proceeding On December 7, 2020, PJ Visionary filed a Complaint 
+against Five Senses LLC and JN Group, alleging that: Five Senses LLC breached the loan agreement (Count 1); foreclosure of PJ Visionary's security interest in the collateral (Count 2); PJ Visionary's right to priority over JN Group in the collateral 
+(Count 3); and conversion of the collateral by JN Group (Count 
+4). 
+On April 23, 2021, JN Group filed its MPSJ on Counts 
+2, 3, and 4, contending that:  PJ Visionary "does not hold a perfected security interest in the collateral" owned by Restaurant LLC or Café LLC; PJ Visionary's financing statement 
+"does not establish a security interest against the assets of 
+2 The record reflects that Restaurant's lease was amended to 
+designate "the Premises" as "Space No. 201" even though "[t]he location of
+the Premises ha[d] not changed[.]" 
+4  
+ 
+ 
+   
+  
+  
+ 
+  FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+Five Senses LLC's subsidiaries"; and PJ Visionary's financing 
+statement "is seriously misleading and thus, not perfected, if its intent was to provide [PJ Visionary] with a security 
+interest against the assets of Five Senses LLC's subsidiaries." 
+On May 26, 2021, PJ Visionary filed an opposition, 
+arguing that it "holds a perfected security interest" in the FFE 
+"placed and used at 888 Kapiolani Blvd. Suites 101 and 201 (formerly 102)." PJ Visionary further contended that its financing statement was not seriously misleading because: JN 
+Group "had knowledge that Five Senses LLC was the parent company 
+of [Restaurant LLC] and [Café LLC]"; if JN Group "searched the financing statement filings at the Bureau of Conveyances, it would have found that Five Senses LLC had granted a security interest in the [FFE] situated at 888 Kapiolani Blvd"; and "[a]ssuming arguendo that [PJ Visionary]'s filing was deficient in that the words 'restaurant' and 'café' were not included with 
+the words 'Five Senses' in the name of the debtor, the missing 
+words were not fatal to [PJ Visionary]'s priority position." 
+On April 26, 2021, PJ Visionary filed its MSJ, arguing 
+that its "UCC-1 financing statement has priority," to which JN Group filed a May 26, 2021 opposition, and PJ Visionary filed a May 28, 2021 reply. PJ Visionary's MSJ argued that "Five Senses 
+LLC is the holding company for [Restaurant LLC] and [Café LLC]"; 
+and pointed to similarities between the three LLCs -- that they were formed on the same date, shared the same officers and directors, and Five Senses LLC provided funding for Restaurant LLC and Café LLC. 
+At the June 3, 2021 hearing on the cross-motions, the 
+Circuit Court orally granted JN Group's MPSJ and denied PJ Visionary's MSJ, stating: "naming the parent in a financing 
+5  
+ 
+ 
+   
+ 
+  
+  
+  
+  
+ 
+  
+ 
+ 
+ 
+   
+  FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+statement as a matter of law does not include all the assets of 
+any subsidiaries." 
+Following the hearing, the parties submitted arguments 
+regarding attorneys' fees. PJ Visionary contended, inter alia, that there were no contracts between PJ Visionary and JN Group; and that attorneys' fees could not be awarded for declaratory relief and conversion. 
+JN Group responded, inter alia, that the "essential 
+character of the underlying action" was in the nature of 
+assumpsit; and "all of the claims are irrefutably linked to and 
+derived from the breach" of the loan and lease agreements. 
+On June 10, 2021, the Circuit Court filed its Order 
+Denying (PJ Visionary's) MSJ and Order Granting (JN Group's) MPSJ. 
+On July 6, 2021, the Circuit Court filed its Order 
+Denying Attorneys' Fees, based on its June 30, 2021 ruling, 
+inter alia, that: "there [was] no clear authority to award 
+attorneys' fees under the atypical circumstances of this case"; "there is no contractual relationship between PJ [Visionary] and JN [Group]"; and that JN Group relied on Hawaii Revised Statutes (HRS) § 490:9-503(a)(1), "which created a statutory security interest" that is not "in the nature of assumpsit." 
+On January 19, 2022, the Circuit Court entered "Final 
+Judgment," awarding PJ Visionary $971,729.04 for Five Senses LLC's breach of the Loan Agreement in Count 1; and entered judgment in favor of JN Group and against PJ Visionary on the remaining claims. 
+PJ Visionary timely appealed, and JN Group timely 
+cross-appealed. 
+6  
+ 
+ 
+  
+   
+ FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+II. STANDARDS OF REVIEW 
+  Summary Judgment:  "On appeal, the grant or denial of 
+summary judgment is reviewed de novo." Kanahele v. State, 154 
+Hawai‘i 190, 201, 549 P.3d 275, 286 (2024) (citation omitted). 
+[S]ummary judgment is appropriate if the pleadings,
+depositions, answers to interrogatories and admissions onfile, together with the affidavits, if any, show that there
+is no genuine issue as to any material fact and that the
+moving party is entitled to judgment as a matter of law. A fact is material if proof of that fact would have theeffect of establishing or refuting one of the essentialelements of a cause of action or defense asserted by the
+parties. The evidence must be viewed in the light most
+favorable to the non-moving party. In other words, we mustview all of the evidence and inferences drawn therefrom in the light most favorable to the party opposing the motion. 
+Id. (citation omitted). 
+  Statutory Construction:  "Statutory interpretation is 
+a question of law reviewable de novo." Barker v. Young, 153 
+Hawai‘i 144, 148, 528 P.3d 217, 221 (2023) (citation omitted).   
+Interpretation of a statute is governed by the following 
+principles:  
+First, the fundamental starting point for statutory
+interpretation is the language of the statute itself.Second, where the statutory language is plain andunambiguous, our sole duty is to give effect to its plain
+and obvious meaning. Third, implicit in the task of
+statutory construction is our foremost obligation toascertain and give effect to the intention of thelegislature, which is to be obtained primarily from thelanguage contained in the statute itself. Fourth, when
+there is doubt, doubleness of meaning, or indistinctiveness
+or uncertainty of an expression used in a statute, anambiguity exists. 
+Id. (citation omitted). 
+7   Attorneys' Fees:  "The trial court's grant or denial 
+of attorneys' fees and costs is reviewed under the abuse of 
+discretion standard." Cnty. of Hawaii v. C & J Coupe Fam. Ltd. 
+P'ship, 124 Hawai ‘i 281, 306, 242 P.3d 1136, 1161 (2010) 
+(citation omitted).  
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+III. DISCUSSION 
+A. The Circuit Court did not err in granting JN
+Group's MPSJ and denying PJ Visionary's MSJ. 
+1. PJ Visionary's contention that the Circuit
+Court erroneously concluded JN Group's
+financing statement had priority, is not
+supported. 
+PJ Visionary's point of error challenges the Circuit 
+Court's determination of the priority of security interests at 
+issue, but no such determination appears in the record. PJ Visionary claims the error occurred in the Circuit Court's June 
+2, 2021 Inclination, the Order Denying (PJ Visionary's) MSJ, and 
+the Order Granting (JN Group's) MPSJ. The Inclination, however, states it "is only an inclination, not a ruling, and has no legal effect." (Emphasis added.) In any event, the Inclination did not contain a priority determination. The MSJ orders also did not contain any priority determination. Nor does the 
+transcript of the summary judgment hearing reflect any 
+determination or ruling that JN Group's financing statement had "priority" over PJ Visionary's financing statement. 
+While PJ Visionary's point of error is not supported, 
+we address its arguments that the Circuit Court erred in not considering HRS § 490:9-506,
+3 and in failing to consider PJ 
+Visionary's "documentary evidence." 
+3   HRS § 490:9-506 (2008), entitled "Effect of errors or omissions," 
+provides: 
+(a)  A financing statement substantially satisfying the
+requirements of this part is effective, even if ithas minor errors or omissions, unless the errors or
+omissions make the financing statement seriously
+misleading. 
+(b)  Except as otherwise provided in subsection (c), afinancing statement that fails sufficiently to
+provide the name of the debtor in accordance with
+section 490:9-503(a) is seriously misleading. 
+8  
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+2. The Circuit Court did not err in not applying
+HRS § 490:9-506. 
+HRS § 490:9-506 distinguishes "minor errors or 
+omissions" in financing statements from those that are 
+"seriously misleading[,]" and explains that a failure to sufficiently "provide the name of the debtor in accordance with section 490:9-503(a)" is "seriously misleading." HRS § 490:9-503(a)(1)  explains that sufficient provision of the debtor's 
+4
+(c) If a search of the records of the filing office under
+the debtor's correct name, using the filing office's
+standard search logic, if any, would disclose a
+financing statement that fails sufficiently toprovide the name of the debtor in accordance withsection 490:9-503(a), the name provided does not makethe financing statement seriously misleading. 
+. . . . 
+(Emphases added.) The "Uniform Commercial Code Comment" ( UCC Comment ) to HRS
+§ 490:9-506 describes "Errors and Omissions" in a UCC-1 financing statement
+as follows: 
+Subsections (b) and (c), which are new, concern the
+effectiveness of financing statements in which the debtor'sname is incorrect. Subsection (b) contains the general
+rule: a financing statement that fails sufficiently to
+provide the debtor's name in accordance with Section9-503(a) is seriously misleading as a matter of law.Subsection (c) provides an exception: If the financingstatement nevertheless would be discovered in a search 
+under the debtor's correct name, using the filing office's
+standard search logic, if any, then as a matter of law theincorrect name does not make the financing statementseriously misleading. A financing statement that isseriously misleading under this section is ineffective even
+if it is disclosed by (i) using a search logic other than
+that of the filing office to search the official records,or (ii) using the filing officer's standard search logic tosearch a data base other than that of the filing office.For purposes of subsection (c), any name that satisfies
+Section 9-503(a) at the time of the search is a "correct
+name." 
+(Emphasis added.) 
+4 HRS § 490:9-503 (2008 & 2013 Supp.), entitled "Name of debtor and
+secured party," provides in pertinent part that: 
+9  
+ 
+ 
+   
+ 
+ 
+ 
+   
+   
+ 
+  FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+name means the "registered organization's name" on public 
+record. 
+PJ Visionary's argument based on HRS § 490:9-506 is 
+not clear. PJ Visionary's Opening Brief block quotes HRS § 490:9-506 and the UCC Comment accompanying it, but does not explain which financing statement, its own or JN Group's, was or was not "seriously misleading" under that statute. PJ Visionary points to its own counsel's ( Counsel) declaration  describing how 
+Counsel's Bureau of Conveyances search using "Five Senses" in 
+the search box located the two financing statements at issue; 
+and that Counsel's search result submitted as an exhibit below constitutes "factual evidence" that a "UCC search" "using the parameters set by [the Bureau of Conveyances] would in fact disclose PJ Visionary's [f]inancing [s]tatement."   
+It appears 
+that PJ Visionary claims that its own financing statement was 5
+(a) A financing statement sufficiently provides the name of the
+debtor: 
+(1) Except as otherwise provided in paragraph (3), if the
+debtor is a registered organization or the collateral is
+held in a trust that is a registered organization, only if
+the financing statement provides the name that is stated tobe the registered organization's name on the public organicrecord most recently filed with or issued or enacted by theregistered organization's jurisdiction of organization
+which purports to state, amend, or restate the registered
+organization's name; 
+. . . . 
+The UCC Comment to HRS § 490:9-503 provides that "[a]s a general matter, ifthe debtor is a 'registered organization' (defined in Section 9-102 so as toordinarily include corporations, limited partnerships, limited liabilitycompanies, and statutory trusts), then the debtor's name is the name shown onthe 'public organic record' of the debtor's 'jurisdiction of organization.'" 
+5 The admissibility of Counsel's testimony of his own search is
+questionable. See Pioneer Mill Co. v. Dow, 90 Hawai ‘i 289, 297, 978 P.2d 727,
+735 (1999) (holding that "unless counsel wishes to relinquish his or her role
+as advocate and become a witness in the case, an affidavit of counsel
+swearing to the truth and accuracy of exhibits does not authenticate exhibitsnot sworn to or uncertified by the preparer or custodian of those exhibits"). 
+10  
+ 
+ 
+  
+  
+ 
+   
+ FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+"effective" under HRS § 490:9-506(a), despite its "minor" 
+omission of Restaurant LLC and Café LLC as its subsidiaries. PJ Visionary contends that Counsel's search using the Bureau of 
+Conveyances "standard search logic" under HRS § 490:9-506(c) 
+revealed the two financing statements at issue and thus its own financing statement was not "seriously misleading." PJ Visionary's argument is incorrect and unpersuasive. 
+Here, the plain language of HRS § 490:9-506(c) only 
+applies when a search is done "under the debtor's correct name," 
+which is Five Senses LLC. "For purposes of subsection (c), any 
+name that satisfies section 9-503(a) at the time of the search is a 'correct name.'" UCC Comment to HRS § 490:9-506. Under HRS § 490:9-503(a), sufficient provision of the debtor's name means the registered organization's name. The debtor reflected on PJ Visionary's financing statement was Five Senses LLC, which was the entity's "correct name" under HRS § 490:9-506(c), and 
+the entity's registered organization's name on public record 
+under HRS § 490:9-503(a).
+6 PJ Visionary's Counsel did not search 
+"Five Senses LLC" but instead typed in "Five Senses," which is not the correct name or the publicly registered name, Five Senses LLC. Because PJ Visionary's Counsel did not search the correct registered name of the debtor, HRS § 490:9-506(c) did 
+not apply. The Circuit Court did not err in not applying HRS 
+§ 490:9-506. 
+6 The State of Hawai ‘i Department of Commerce and Consumer Affairs
+(DCCA) filings in evidence reflect that Five Senses LLC, Restaurant LLC, and
+Café LLC were separate entities. 
+11  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+   
+ 
+ FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+3. The Circuit Court did not erroneously fail to
+consider PJ Visionary's documentary evidence. 
+PJ Visionary argues the Circuit Court erred by not 
+considering its documentary evidence7 that showed "Five Senses 
+LLC was the parent of [Restaurant LLC], and as the parent, had 
+rights in the collateral"; and JN Group "was fully aware of the 
+relationship of these entities." JN Group responds that its 
+"purported awareness" of the relationships "does not cure the deficiencies in [PJ Visionary]'s financing statement, which fails . . . to provide rights to the assets of Five Senses LLC's subsidiaries." 
+PJ Visionary's argument rests on its incorrect premise 
+that Five Senses LLC's status as a parent company gives PJ Visionary a security interest against its subsidiaries through the documentary evidence, despite the language of PJ Visionary's financing statement solely identifying "Five Senses LLC" as the debtor. 
+Here, PJ Visionary's financing statement on its face, 
+failed to give PJ Visionary a perfected security interest in the collateral of Five Senses LLC's subsidiaries. The record reflects that Five Senses LLC, Restaurant LLC, and Café LLC held themselves out as separate entities. The financing statement provided a security interest only against Five Senses LLC as the debtor, and the collateral owned by Five Senses LLC, as the "Borrower." PJ Visionary's financing statement did not include 
+7 PJ Visionary's "documentary evidence" includes: the declaration 
+of PJ Visionary's Chief Executive Officer, Seiki Takahashi, which "attested
+that Seiki Takahashi told [JN Group] that Five Senses LLC would be providing
+funding for the [FFE] and Five Senses LLC would be forming separateentities"; the declaration of Counsel, which includes "a copy of a letter to[JN Group] which [PJ Visionary claims] is evidence that [JN Group] was awareFive Senses LLC was the parent of [Restaurant LLC] and [Café LLC]"; Five 
+Senses LLC's "2018 and 2019 United States Return of Partnership Income"; and 
+"corporate filings of Five Senses LLC, [Restaurant LLC], and [Café LLC] atthe [DCCA] showing all the same officers and registered agent[s]." 
+12  
+ 
+ 
+   
+ 
+  
+  
+  
+  
+  FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+any reference to Restaurant LLC or Café LLC, or include these 
+entities as debtors. See HRS § 490:9-503(a)(1). If PJ Visionary's financing statement was intended to provide notice 
+to creditors of a secured interest against the collateral of 
+Restaurant LLC and Café LLC, it did not sufficiently do so. See
+id. 
+We conclude the Circuit Court was correct in ruling 
+that "naming the parent [company] in a financing statement as a matter of law does not include all the assets of any 
+subsidiaries." See United States v. Bennett, 621 F.3d 1131, 
+1136 (9th Cir. 2010) ("Today, it almost goes without saying that 
+a parent corporation does not own the assets of its wholly-owned subsidiary by virtue of that relationship alone."). Further, assuming arguendo that Five Senses LLC "had rights in the collateral" of its subsidiaries, PJ Visionary's financing statement failed to give PJ Visionary a perfected security 
+interest against that collateral, where Restaurant LLC and Café 
+LLC were not included in the financing statement. See In re
+Env't Aspecs, Inc., 235 B.R. 378, 392 (E.D.N.C. 1999) (holding that "the fact that the financing statement named the parent corporation, EAI, was not sufficient to create an interest against the assets of the subsidiary, EAI of NC"). The Circuit 
+Court was correct in not considering PJ Visionary's documentary 
+evidence. 
+For these reasons, the Circuit Court did not err in 
+granting JN Group's MPSJ and denying PJ Visionary's MSJ. See
+Kanahele
+, 154 Hawai ‘i at 201, 549 P.3d at 286. 
+B.
+ The Circuit Court did not abuse its discretion in 
+denying JN Group's request for attorneys' fees. 
+On cross-appeal, JN Group argues that the Circuit 
+Court abused its discretion in ruling the action was not in the 
+nature of assumpsit, where this case "arose out of" PJ 
+13  
+ 
+ 
+   
+  
+      
+  
+ 
+   
+ 
+ FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+Visionary's Loan Agreement with Five Senses LLC," and because 
+the Complaint "sought to interfere with JN[] [Group's] security interest as provided in JN[] [Group's] Leases with . . . 
+Restaurant LLC and . . . Caf[é] LLC[.]" 
+HRS § 607-14 (2016) authorizes attorneys' fees "in all 
+actions in the nature of assumpsit." "Assumpsit is a common law 
+form of action which allows for the recovery of damages for non-performance of a contract, either express or implied, written or verbal, as well as quasi contractual obligations." Blair v.
+Ing, 96 Hawai ‘i 327, 332, 31 P.3d 184, 189 (2001) (cleaned up). 
+Generally, "privity of contract between the plaintiff and the defendant is necessary to the maintenance of an action of assumpsit[.]" Am. Jur. 2d Actions § 17 (2025).
+8 
+Here, while this appeal centers on JN Group's lease 
+agreement with Five Senses LLC's subsidiaries, and PJ 
+Visionary's Loan Agreement with Five Senses LLC, PJ Visionary 
+and JN Group are not in privity for any of these contracts. The Circuit Court's conclusion denying attorneys' fees for lack of a contractual relationship between PJ Visionary and JN Group to support an award of attorneys' fees to JN Group under HRS § 607-
+8 Here, we conclude that none of the following exceptions to the
+general rule requiring privity of contract between a plaintiff and defendant
+for an action in the nature of assumpsit apply: 
+Although generally privity of contract between theplaintiff and the defendant is necessary to the maintenance
+of an action of assumpsit, the rule has many exceptions, as
+where the plaintiff is the beneficiary of the contract, orwhere, under a contract between two persons, assets havecome to the promisor's hands or under his or her controlwhich in equity belong to a third person, in which case the
+third person may sue in his or her own name. 
+Am. Jur. 2d Actions § 17 (2025) (footnotes omitted); see Second Nat. Bank v.
+Grand Lodge, of Mo. of Free & Accepted Ancient Masons, 98 U.S. 123, 124
+(1878) (declining to specify "how far privity of contract between a plaintiff
+and defendant is necessary to the maintenance of an action of assumpsit[,]"
+but affirming "[n]o doubt the general rule is that such a privity mustexist"). 
+14  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ FOR PUBLICATION IN WEST'S HAWAI ‘I REPORTS AND PACIFIC REPORTER 
+14 was correct. See Lambert v. Waha, 137 Hawai ‘i 423, 431, 375 
+P.3d 202, 210 (2016) ("Conclusions of law are reviewed de novo, 
+under the right/wrong standard of review." (citations omitted)). 
+Thus, the Circuit Court acted within its discretion in denying JN Group's request for attorneys' fees. See C & J Coupe Fam., 
+124 Hawai ‘i at 306, 242 P.3d at 1161. 
+IV. CONCLUSION 
+For these reasons, we affirm the Circuit Court's 
+January 19, 2022 Final Judgment; June 10, 2021 Order Denying 
+MSJ; and June 10, 2021 Order Granting MPSJ; and July 6, 2021 Order Denying Attorneys' Fees. 
+On the briefs:  
+ /s/ Katherine G. LeonardThomas J. Wong, Acting Chief Judgefor Plaintiff-Appellant/Cross- Appellee, PJ Visionary PTE. /s/ Karen T. NakasoneLtd. Associate Judge   Joachim P. Cox, /s/ Sonja M.P. McCullenfor Defendant-Appellee/ Associate JudgeCross-Appellant, JN Group, Inc. 
+15 
