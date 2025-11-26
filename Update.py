@@ -24,8 +24,8 @@ with open("CourtOpinion_Hawaii_New.csv","a",newline='', encoding='utf-8') as csv
     while(while_loop_boolean == 0): # while loop to loop through all the opinions.
         if(variableTest.lower() not in caseName.text.lower()):  # this checks to see if the last opinion saved in the csv file has the same name as the opinion that is going to be saved, and if it does, it stops the while loop.
             case_name = caseName.text
-            if('ADA' in str(opinionUrl)):  # gets specifically the ADA pdf of the opinion because that has the readable text for screen readers.
-                opinionUrlText = opinionUrl.find('a', {'title': 'ADA'})['href']
+            if('https://www.courts.state.hi.us' in str(opinionUrl)):  # gets specifically the ADA pdf of the opinion because that has the readable text for screen readers.
+                opinionUrlText = opinionUrl.find('a')['href']
             else:
                 opinionUrlText = ""
             tempList.append([case_name,opinionUrlText, datetime.strptime(opinionDate.text, "%B %d, %Y"), courtType.text, courtAppealed.text])  # appends the opinion information into a temporary list to be saved later. Uses the datetime library to save the date string as a sortable datetime variable.
