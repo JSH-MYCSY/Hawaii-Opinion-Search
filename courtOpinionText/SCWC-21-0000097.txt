@@ -1,0 +1,1633 @@
+           
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+   
+ 
+  
+ 
+ ---o0o---
+ 
+ 
+ 
+ 
+ 
+ 
+       
+    
+ 
+   
+ 
+        
+         
+ 
+       Electronically Filed 
+Supreme Court SCWC-21-0000097 20-MAR-2026 08:12 AM Dkt. 11 OP 
+IN  THE  SUPREME  COURT  OF  THE  STATE  OF  HAWAI‘I  
+NAHO  YAMAGUCHI,  
+Respondent/Plaintiff-Appellant,  
+ 
+vs.  
+ 
+TITLE  GUARANTY  ESCROW  SERVICES,  INC.,  a  Hawaiʻi  corporation,  
+Petitioner/Defendant/Cross-Claimant/  
+Third-Party  Plaintiff-Appellee,  
+ 
+and  
+ 
+ MARTELL  CAPITAL  GROUP,  LLC,  doing  business  as  IRONGATE;  
+THE  BLACKSTONE  GROUP,  L.P.,  a  Delaware  Limited   Partnership,   
+Respondents/Defendants/Cross-Claim  Defendants-Appellees,  
+ 
+and  
+ 
+PACREP  LLC,  a  Delaware   limited   liability   company,   
+Respondent/Third-Party   Defendant.    
+SCWC-21-0000097
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS 
+(CAAP-21-0000097; CASE NO. 1CC181000539) 
+MARCH 20, 2026 
+McKENNA, ACTING, C.J., EDDINS, GINOZA, AND DEVENS, JJ., 
+AND CIRCUIT JUDGE JOHNSON, ASSIGNED BY REASON OF VACANCY 
+OPINION OF THE COURT BY DEVENS, J.            
+ 
+ 
+ 
+ 2  
+         
+       
+          
+        
+         
+        
+           
+            
+         
+          
+ 
+         
+            
+        
+       
+         
+        
+        
+         *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+I.  INTRODUCTION  
+This case involves a 2013 condominium sales contract (Sales 
+Contract) between purchaser Naho Yamaguchi (Yamaguchi) and 
+seller PACREP LLC (PACREP). That Sales Contract incorporated a 
+separate escrow agreement (Escrow Agreement) executed by PACREP 
+and Title Guaranty Escrow Services, Inc. (Title Guaranty), the 
+escrow company facilitating the condominium sale. Title 
+Guaranty was not a party to the Sales Contract, and Yamaguchi 
+was not a party to the Escrow Agreement. This appeal arises 
+from Yamaguchi’s claims against Title Guaranty for breach of 
+contract and breach of fiduciary duty relating to the Escrow 
+Agreement. 
+In February 2016, Yamaguchi defaulted on the Sales Contract 
+after failing to make the closing payment on the purchase of a 
+condominium unit in the Ritz-Carlton Residences, Waikiki Beach 
+condominium development (Ritz-Carlton Waikiki). The Escrow 
+Agreement between PACREP and Title Guaranty, which did not 
+incorporate the Sales Contract, provided, in pertinent part, 
+that in the event of a purchaser’s default, 
+[e]scrow  shall  thereafter  treat  all  funds  of  the  purchaser  
+paid  on  account  of  such  purchaser’s  sales  contract  as  funds  
+of  Seller  and  not  as  funds  of  the  purchaser.   Thereafter,  
+such  funds  shall  be  free  of  the  escrow  established  by  this  
+Agreement  and  shall  be  held  by  Escrow  for  the  account  of  
+Seller.   Upon  written  request  by  Seller,  Escrow  shall  pay  
+such  funds  to  Seller,  less  any  escrow  cancellation  fee.  
+(Emphases added.) Separately, Section D.38 of the Sales            *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+ 
+  
+        
+          
+        
+           
+          
+          
+       Contract provided that upon default, if Yamaguchi had already 
+paid more than fifteen percent of the purchase price into 
+escrow, PACREP was entitled to liquidated damages equaling 
+fifteen percent of the sales price or the amount of damages 
+PACREP incurred as a result of Yamaguchi’s breach, whichever was 
+greater. At the time of default, Yamaguchi’s escrow payments 
+exceeded fifty percent of the purchase price. 
+Upon  Yamaguchi’s  default,  PACREP  sent  Yamaguchi  notice  of  
+her  breach.   PACREP  then  sent  Yamaguchi  two  contract  termination   
+letters  after  Yamaguchi  failed  to  cure  her  default.   The  first  
+termination  letter,  copied  to  Title  Guaranty,  informed  Yamaguchi   
+that  PACREP  had  “elected  to  exercise  its  right,  pursuant  to  
+Section  D.38  of  the  Sales  Contract,  to  terminate  the  Sales  
+Contract  and  retain  fifteen  percent  (15%)  of  the  Total  Purchase  
+Price  as  liquidated  damages.”   (Emphases  added  and  omitted.)   
+The  second  termination  letter,  also  copied  to  Title  Guaranty,  
+notified  Yamaguchi  that  PACREP  had  “elected  to  exercise  its  
+right,  pursuant  to  Section  D.38  of  the  Sales  Contract,  to  
+terminate  the  Sales  Contract  and  retain  all  deposits  pursuant  to  
+the  Sales  Contract.”   (Emphases  added  and  omitted.)   Both  
+termination  letters  stated  that  PACREP  was  “hereby  notifying  
+Title  Guaranty  Escrow  Services,  Inc.  to  cancel  escrow  and  to  
+release  said  funds  and  accrued  interest  to  Seller.”   In  April  
+3
+            
+ 
+ 
+ 
+ 4         
+   
+         
+       
+         
+          
+        
+   
+ 
+            
+           
+  
+ 
+        
+  
+              
+     
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+2016, Title Guaranty disbursed the balance of Yamaguchi’s 
+deposit to PACREP. 
+Pursuant to the remedy provisions of the Sales Contract, 
+Yamaguchi subsequently filed for arbitration against PACREP, 
+contesting the amount PACREP refunded her from the escrow 
+deposits. Yamaguchi was awarded damages on a conversion claim, 
+less PACREP’s entitlement to liquidated damages. PACREP 
+satisfied the judgment. 
+Separately,  Yamaguchi   filed  a  complaint  in  the  present  
+action  in  the  Circuit  Court  of  the  First  Circuit  (circuit  court)  
+against  Title  Guaranty,  asserting  breach  of  contract  and  breach  
+of  fiduciary  duty  claims.1  
+Title  Guaranty  moved  for  summary   judgment   on  Yamaguchi’s  
+claims  and  Yamaguchi   cross-moved   for  partial   summary   judgment.    
+The  circuit   court  granted   Title  Guaranty’s   motion,   denied  
+Yamaguchi’s   cross-motion,   and  awarded   attorney   fees  to  Title  
+Guaranty.2   Yamaguchi   appealed   to  the  Intermediate  Court  of  
+Appeals  (ICA),  which  affirmed   the  circuit  court’s   order  denying   
+Yamaguchi’s   motion  for  partial   summary   judgment.3   However,   the  
+1 Yamaguchi also alleged claims of conversion and unfair or deceptive 
+acts or practices (UDAP) in violation of Hawaiʻi Revised Statutes (HRS) 
+Chapter 480. 
+2 The Honorable James H. Ashford presided. 
+3 The ICA also affirmed summary judgment in favor of Title Guaranty on 
+Yamaguchi’s conversion and UDAP claims.            *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+ 
+ 5          
+         
+            
+          
+          
+         
+            
+          
+          
+           
+      
+ With  respect  to  Yamaguchi’s  breach  of  contract  claim,  Title  
+Guaranty  had  a  legal  obligation  to  follow  the  terms  of  the  
+Escrow  Agreement,  to  which  Yamaguchi  assented  in  the  Sales  
+Contract,  and  which  Title  Guaranty  fulfilled.   Upon  a  
+purchaser’s  default,  Title  Guaranty  was  required,  pursuant  to  
+the  Escrow  Agreement,  to  “treat  all  funds  of  the  purchaser  paid  
+on  account  of  such  purchaser’s  sales  contract  as  funds  of  
+Seller,”  and  to  “pay  such  funds  to  Seller”  upon  the  seller’s  
+“written  request.”   (Emphases  added.)  ICA vacated summary judgment as to Yamaguchi’s breach of 
+contract and breach of fiduciary duty claims, after concluding 
+there was a genuine issue of material fact as to whether Title 
+Guaranty breached the Escrow Agreement and its fiduciary duty to 
+Yamaguchi when it disbursed the entirety of her escrow deposit 
+to PACREP. Citing  Hawaiʻi Revised  Statutes (HRS)  § 449-16 
+(2013),  the   ICA  concluded  that  “Title  Guaranty  had  ‘the  
+responsibility  of  a  trustee  for  all  moneys’  it  received  from  
+Yamaguchi.”   (Emphasis  added.)  
+We hold
+ that Yamaguchi failed to raise a genuine issue of 
+material fact as to whether Title Guaranty breached the Escrow 
+Agreement. Accordingly, we also hold that Yamaguchi failed to 
+raise a genuine issue as to whether Title Guaranty breached its 
+fiduciary duty under HRS § 449-16.            
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+ 6         
+           
+         
+            
+         
+           Yamaguchi defaulted. PACREP sent the required written 
+notices to Yamaguchi. With the terms of the Escrow Agreement 
+met, Title Guaranty released the entire escrow deposit to 
+PACREP. Thus, there is no genuine issue of material fact as 
+Title Guaranty complied with the plain and unambiguous language 
+of the Escrow Agreement. Therefore, as to Yamaguchi’s breach of 
+contract  claim,  we  vacate  the  ICA’s  decision  and  judgment  and  
+affirm  the  circuit  court’s  order  granting  summary  judgment  for  
+Title  Guaranty.  
+As  to  Yamaguchi’s  claim  that  Title  Guaranty  breached  its  
+fiduciary  duty,  we  also  vacate  the  ICA’s  decision  and  judgment  
+and  affirm  the  circuit  court’s  order  granting  summary  judgment   
+for  Title  Guaranty.   As  an  escrow  depository,  Title  Guaranty  
+owed  a  fiduciary  duty  to  Yamaguchi  for  the  deposits  made.   
+However,  Title  Guaranty’s  fiduciary  duty  was  to  “‘comply  
+strictly  with  the  provisions’  of  the  parties’  escrow  agreement  
+or  instructions.”   Hancock  v.  Kulana  Partners,  LLC,  145  Hawai‘i  
+374,  383,  452  P.3d  371,  380  (2019)  (quoting  DeMello  v.  Home  
+Escrow,  Inc.,  4  Haw.  App.  41,  47,  659  P.2d  759,  763  (App.  
+1983)).   See  also  HRS  §  449-1  (2013)  (stating  that  acts  by  an  
+escrow  depository  are  to  be  performed  “in  accordance  with  the  
+terms  of  the  agreement  between  the  parties  to  the  transaction”);  
+and  HRS  §  449-16  (explaining  that  an  escrow  depository  “shall             
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+  
+         
+      have the responsibility of a trustee for all moneys, other 
+consideration, or instruments received by it”). 
+Title  Guaranty  strictly  complied  with  the  terms  of  the  
+Escrow  Agreement  and,  therefore,  Title  Guaranty  did  not  breach  
+its  fiduciary  duty  to  Yamaguchi.   In  reference  to  PACREP’s  first  
+letter  to  Yamaguchi  indicating  its  election  to  retain  fifteen  
+percent  of  Yamaguchi’s  deposit  as  damages,  and  PACREP’s  second  
+letter  indicating  its  election  to  retain  all  of  Yamaguchi’s  
+deposit,  the  ICA  concluded  that  Title  Guaranty  breached  its  
+fiduciary  duty  after  receiving  “conflicting  instructions  from  
+[PACREP]  before  it  disbursed  Yamaguchi’s  funds.”   Even  if  the  
+two  letters  were  interpreted  to  be  in  conflict,  read  in  the  
+light  most  favorable  to  Yamaguchi,  the  Escrow  Agreement  clearly  
+and  unambiguously  stated  that  in  the  event  of  a  purchaser’s  
+default,  Title  Guaranty  was  required  to  treat  “all  funds”  in  
+escrow  as  property  of  the  seller,  and  that  “such  funds  shall  be  
+free  of  the  escrow  established  by  this  Agreement.”   Thus,  
+PACREP’s  two  termination  letters  did  not  conflict  with  the  
+relevant,  controlling  provision  of  the  Escrow  Agreement  with  
+which  Title  Guaranty  complied.  
+Yamaguchi  also  appealed  the  circuit  court’s  award  of  
+attorney  fees  and  costs  to  Title  Guaranty,  which  the  ICA  did  not  
+reach  after  concluding  that  Title  Guaranty  was  no  longer  the  
+7
+            
+ 
+ 
+ 
+ 8         
+          
+           
+          
+           
+           
+    
+ 
+Pursuant  to  the  Escrow  Agreement,  Title  Guaranty  was  to  
+“receive,  deposit  and  hold  in  escrow  and  disburse  .  .  .  all  
+payments  received  by  Escrow  under  sales  contracts  made  by  
+Seller[.]”  *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+prevailing  party.   Title  Guaranty  does  not  raise  attorney  fees  
+on  certiorari.   Because  the  issue  of  attorney  fees  is  not  
+properly  before  this  court,  we  remand  the  case  to  the  ICA  to  
+determine  whether  the  circuit  court  abused  its  discretion  in  
+awarding  attorney  fees  and  costs  to  Title  Guaranty.  
+II.  BACKGROUND  
+A.  Escrow  Agreement   
+The  Escrow  Agreement  was  executed  by  PACREP  and  Title  
+Guaranty  in  February  2013.  
+Section C of
+ the Escrow Agreement’s “Recitals” provided: 
+Seller intends to enter into sales contracts for the sale 
+of units in the Project under the Public Report, the terms 
+of which sales contracts will provide for payment of the 
+purchase price and closing costs to be made to Escrow, to 
+be held and disbursed by Escrow pursuant to the terms and 
+provisions of this Agreement. 
+In  the  event  of  a  purchaser’s  default,  Section  12  of  the  
+Escrow  Agreement  stated  in  relevant  part:  
+If  Seller  subsequently  certifies  in  writing  to  Escrow  that  
+Seller  has  terminated  the  sales  contract  in  accordance  with  
+the  terms  thereof  and  provides  to  Escrow  copies  of  all  such  
+notices  of  termination  and  proof  of  receipt  sent  to  the  
+purchaser,  Escrow  shall  thereafter  treat  all  funds  of  the  
+purchaser  paid  on  account  of  such  purchaser’s  sales  
+contract  as  funds  of  Seller  and  not  as  funds  of  the  
+purchaser.   Thereafter,  such  funds  shall  be  free  of  the  
+escrow  established  by  this  Agreement  and  shall  be  held  by  
+Escrow  for  the  account  of  Seller.   Upon  written  request  by             
+ 
+ 
+ 
+ 9   
+     
+ 
+ 
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+Seller,  Es crow  shall  pay  such  funds  to  Seller,  less  any  
+escrow  cancellation  fee.   Escrow  shall  thereupon  be  
+released  from  any  further  duties  or  liability  hereunder  
+with  respect  to  such  funds  and  such  purchaser.  
+(Emphases added.)  
+The Escrow Agreement further provided: 
+14.  Protection  of  Escrow.   In  consideration  of  Escrow  
+acting  as  escrow  holder  hereunder,  it  is  agreed  that  Escrow  
+is  relieved  from  all  liability  for  acting  in  accordance  
+with  the  terms  hereof,  notwithstanding  a  notice  to  the  
+contrary  by  Seller  or  any  purchaser  or  third  person[.]  
+ . . . .  
+15.  Binding  Effect.   This  Agreement  shall  be  binding  
+upon,  shall  apply  to  and  shall  inure  to  the  benefit  of  the  
+parties  hereto  and  their  respective  heirs,  devisees,  
+personal  representatives,  successors  in  trust,  and  assigns,  
+and  shall  upon  its  acceptance  by  a  given  purchaser  (which  
+shall  automatically  occur  upon  Seller’s  execution  of  a  
+sales  contract),  also  be  binding  upon  and  inure  to  the  
+benefit  of  such  purchaser,  his  or  her  heirs,  personal  
+representatives,  devisees,  successors  and  permitted  
+assigns.  
+(Emphases added.) 
+B.  Sales  Contract   to  Purchase   Ritz-Carlton   Waikiki   Condominium   
+Unit  
+In  September   2013,  Yamaguchi   entered   into  the  Sales  
+Contract   with  PACREP  to  purchase   Unit  1215  (Unit)  in  the  Ritz-
+Carlton  Waikiki  for  a  sale  price  of  $1,182,800.00,  to  be  paid  in  
+installments.  
+Section  13  of  the  Sales  Contract  provided  that  the  Escrow  
+Agreement  between  Title  Guaranty  and  PACREP  would  be  
+incorporated  into  the  Sales  Contract,  stating,  in  relevant  part,  
+Seller  has  entered  into  the  Escrow  Agreement  with  Escrow,  
+which  by  this  reference  is  incorporated  herein  and  made  a   
+part  hereof,  covering  the  deposit  with  Escrow  of  all  funds  
+paid  by  Purchaser  under  this  Sales  Contract  and  the             
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+            
+         
+          
+        
+        
+         
+         
+ 
+ 
+ 10     . . . . 
+ 
+    
+             
+        
+         
+           
+         
+         
+           
+           
+        
+           
+          
+           
+           
+         
+         
+         
+        
+        
+           
+         
+           
+           disbur
+sement of such funds by Escrow. All payments to be 
+made hereunder, other than the Initial Deposit made through 
+the Project Broker, shall be paid by Purchaser to Escrow 
+pursuant to the Escrow Agreement. Purchaser hereby 
+acknowledges that Purchaser has examined and approves the 
+terms of the Escrow Agreement, and hereby assumes the 
+benefits and obligations set forth therein. . . . 
+.  .  .  SELLER  AND  PURCHASER  HEREBY  IRREVOCABLY  INSTRUCT  
+ESCROW  TO  MAKE  DISBURSEMENTS  FROM  PURCHASER’S  DEPOSITS  AS  
+MAY  BE  PERMITTED  BY  THE  ESCROW  AGREEMENT.   SELLER  AND  
+PURCHASER  HEREBY  AGREE  THAT  ESCROW  IS  RELIEVED  FROM  ALL  
+LIABILITY  FOR  ACTING  IN  ACCORDANCE  WITH  THE  TERMS  OF  THIS  
+SECTION,  NOTWITHSTANDING  A  NOTICE  TO  THE  CONTRARY  BY  
+SELLER,  PURCHASER,  OR  ANY  OTHER  PARTY  OR  THIRD  PERSON;  
+PROVIDED,  HOWEVER,  THAT  ESCROW  SHALL  NOT  BE  RELIEVED  FROM  
+ANY  LIABILTY  ARISING  OUT  OF  OR  IN  CONNECTION  WITH  ITS  OWN  
+INTENTIONAL,  GROSS  NEGLIGENCE,  OR  RECKLESS  ACTS  OR  
+OMISSIONS.  
+ 
+(Emphases added and omitted.) 
+Section  D.38  of  the  Sales  Contract  provided  that  in  the  
+event  of  a  purchaser’s  default,  the  seller’s  remedies  were,  in  
+relevant  part,  as  follows:  
+In the event purchaser . . . shall fail to comply with or 
+perform any of the covenants, agreements or other 
+obligations to be performed by purchaser under the terms 
+and provisions of this sales contract, . . . seller shall 
+provide purchaser with written notice of such default or 
+breach and the opportunity for purchaser to remedy such 
+default or breach within twenty (20) days after the date of 
+receipt of such notice. If purchaser has not remedied such 
+default or breach within such twenty (20)-day period, 
+seller shall be entitled to any remedy available in law or 
+in equity including . . . termination of this sales 
+contract upon written notice to purchaser . . . . [I]f 
+purchaser loses its rights and interest in the unit as a 
+result of purchaser’s breach or default under this sales 
+contract after fifteen percent (15%) of the purchase price 
+has been paid by purchaser, (exclusive of any interest 
+accrued thereon), seller shall refund to purchaser any 
+amount that remains after subtracting (A) fifteen percent 
+(15%) of the purchase price of the unit (exclusive of any 
+interest earned thereon), or the amount of damages incurred 
+by seller as a result of such breach, whichever is greater, 
+from (B) the amount paid by purchaser with respect to the            
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+          
+ 
+  
+ 11 C.  Yamaguchi’s  Default  
+  
+        
+         
+  
+          
+           
+             
+          
+        
+ 
+  
+           
+          
+    
+ 
+  
+        
+         
+        
+ 
+    
+         purchase
+ price of the unit, excluding any interest earned 
+thereon. 
+(Capitalization altered.) 
+In  2016,  Yamaguchi  defaulted  under  the  Sales  Contract.   
+Prior  to  defaulting,  Yamaguchi  had  deposited  approximately  
+$592,400.00   into  escrow,   which  was  substantially  greater  than  
+fifteen  percent  of  the  purchase
+  price  of  the  Unit.  
+On February
+ 2, 2016, PACREP sent Yamaguchi a letter, with 
+Title Guaranty copied, notifying Yamaguchi of her default and 
+warning that 
+[p]ursuant to Section D.38 of the Sales Contract, you have 
+twenty (20) days from the receipt of this notice of default 
+to remedy the default. If you fail to close by said date, 
+Seller may exercise any of its available remedies as set 
+forth in Section D.38 of the Sales Contract. 
+(Emphases omitted.) 
+In a letter dated March 7, 2016 (March 7 Letter), PACREP 
+sent a “Notice of Termination” to Yamaguchi, copied to Title 
+Guaranty, stating in part: 
+Because  you  failed  to  timely  remedy  the  default,  you  
+are  hereby  notified  that  Seller  has  elected  to  exercise  its  
+right,  pursuant  to  Section  D.38  of  the  Sales  Contract,  to  
+terminate  the  Sales  Contract  and  retain  fifteen  percent  
+(15%)  of  the  Total  Purchase  Price  as  liquidated  damages.  
+By copy of this letter, we are hereby notifying Title 
+Guaranty Escrow Services, Inc. to cancel escrow and to 
+release said funds and accrued interest to Seller. 
+(Emphases added and omitted.) 
+Included with PACREP’s March 7 Letter was an unsigned            
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+“Termination  Agreement  and  Mutual  Release”  noted  as  being  by  and  
+between  PACREP  and  Yamaguchi,  communicating  in  part:  
+ 
+ 12  
+  
+           
+         
+      
+ 
+          
+         
+        
+ 
+    
+          
+         Buyer  and  Seller  agree  that  as  soon  as  reasonably  possible  
+after  the  Termination  Date,  Escrow  shall  release  to  Buyer  
+the  amount  that  remains  after  subtracting  (A)  ONE  HUNDRED  
+SEVENTY  SEVEN  FOUR  THOUSAND  FOUR  HUNDRED  TWENTY  AND  NO/100  
+DOLLARS  ($177,420.00)  (“Seller’s  Payment”)  from  (B)  the  
+Deposits,  which  totals  FOUR  HUNDRED  FOURTEEN  THOUSAND  NINE  
+HUNDRED  EIGHTY  AND  NO/100  DOLLARS  ($414,980.00)  (“Buyer’s  
+Payment”).  
+(Emphases omitted.) 
+In a letter dated March 25, 2016 (March 25 Letter), PACREP 
+sent a second “Notice of Termination” to Yamaguchi, again 
+copying Title Guaranty, declaring in part: 
+Because  you  failed  to  timely  remedy  the  default,  you  
+are  hereby  notified  that  Seller  has  elected  to  exercise  its  
+right,  pursuant  to  Section  D.38  of  the  Sales  Contract,  to  
+terminate  the  Sales  Contract  and  retain  all  deposits  
+pursuant  to  the  Sales  Contract.  
+By
+ copy of this letter, we are hereby notifying Title 
+Guaranty Escrow Services, Inc. to cancel escrow and to 
+release said funds and accrued interest to Seller. 
+(Emphases added and omitted.) 
+Twelve  days  after  the  March  25  Letter,   Title  Guaranty   
+disbursed   $250,014.39   to  PACREP  on  April  6,  2016.   This  
+disbursement   represented   the  balance   of  Yamaguchi’s  escrow  
+deposit,  with  the  difference  of  approximately  $592,400.00  of  her  
+total  deposit  having  been  previously  disbursed  to  PACREP  for  
+permitted  construction  costs.  
+On
+ March 31, 2016, Title Guaranty issued a letter to 
+Yamaguchi, informing her that “[f]unds have been released to            
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+ 13         
+           
+         
+          
+ 
+ 
+        
+ seller as liquidated damages.” Shortly thereafter, Yamaguchi’s 
+counsel informed PACREP that she objected to the release of the 
+funds. Yamaguchi’s counsel also sent a subsequent communication 
+to Title Guaranty, inquiring as to the status of Yamaguchi’s 
+deposit. 
+D.  Yamaguchi  and  PACREP’s  Arbitration  Proceedings  
+Pursuant  to  the  arbitration  provision  in  the  Sales  
+Contract,  Yamaguchi  submitted  her  dispute  with  PACREP  to  
+arbitration  claiming:  (1)  recission  of  the  Sales  Contract  under  
+HRS  Chapter  514B;  (2)  breach  of  contract;  (3)  conversion;  (4)  
+liquidated  damages;  and  (5)  unfair  and  deceptive  acts  or  
+practices  (UDAP)  under  HRS  Chapter  480.   Yamaguchi  prevailed  on  
+her  conversion  and  UDAP  claims.   The  arbitrator  awarded  
+Yamaguchi:  $412,750.90  in  conversion  damages;  $1,000.00  in  
+statutory  damages  and  $5,000.00  in  attorney  fees  related  to  her  
+UDAP  claim.   The  arbitrator  also  awarded  PACREP  liquidated  
+damages  in  the  sum  of  $177,420.00,  which  was  reflected  in  the  
+net  amount  awarded  to  Yamaguchi.   The  circuit  court  entered  a  
+final  judgment  confirming  the  arbitration  award  on  September  25,  
+2018,  and  PACREP  fully  satisfied  the  judgment  on  October  12,  
+2018.4  
+The Honorable James H. Ashford presided. 4            
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 14     
+   
+       
+          
+           
+        
+         
+          
+    
+       
+         
+          
+           
+           
+       
+ 
+           
+          
+           
+          
+          
+ E. Circuit Court Proceedings 
+1. Yamaguchi’s Complaint 
+While  Yamaguchi’s   arbitration   claims  against   PACREP  were  
+pending,   Yamaguchi   filed  a  lawsuit   in  the  circuit   court  against   
+Title  Guaranty.5   Relevantly,   Yamaguchi   alleged   conversion   (Count  
+I);  breach  of  fiduciary   duty  (Count  II);  breach  of  contract  
+(Count  III);  and  a  UDAP  claim  (Count  IV).  
+2.
+ Title Guaranty’s Motion for Summary Judgment 
+On December 18, 2020, Title Guaranty filed a motion for 
+summary judgment asserting that its sole duty was to comply with 
+the Escrow Agreement, which it fulfilled by disbursing 
+Yamaguchi’s full escrow deposit to PACREP after PACREP provided 
+Title Guaranty with the notice of termination of the Sales 
+Contract following Yamaguchi’s default. 
+Yamaguchi countered that the Escrow Agreement was 
+unenforceable because she never signed it which violated the 
+statute of frauds. Further, Yamaguchi asserted there was a 
+genuine issue of material fact as to whether she received the 
+Escrow Agreement. Yamaguchi also argued that Section 13 of the 
+Sales Contract (incorporation section) was unintelligible, and 
+Yamaguchi amended her circuit court complaint twice. Yamaguchi’s 
+initial complaint also named Irongate, LLC (Irongate) and The Blackstone 
+Group, L.P. (Blackstone Group). Title Guaranty answered and filed a cross-
+claim against Irongate and Blackstone Group and a third-party complaint 
+against PACREP. These claims were later dismissed by stipulation. 5            
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+ 15          
+          
+       
+ Yamaguchi  cross-moved  for  partial  summary  judgment  on  her  
+conversion,  breach  of  contract,  breach  of  fiduciary  duty,  and  
+UDAP  claims.  
+    
+    
+       
+         
+       
+ 
+       
+    
+ 
+       
+        
+ 
+ 
+ 
+ 
+The  circuit  court  also  found  that  Yamaguchi’s  claim  that  
+she  never  received  the  Escrow  Agreement  did  not  “nullify  or  Section 12 of the Escrow Agreement (escrow funds release 
+section) was unconscionable and void as a matter of law. 
+3. Yamaguchi’s Motion for Partial Summary Judgment 
+4. Circuit Court’s Decision 
+Following  a   hearing,  the  circuit  court  granted  Title  
+Guaranty’s  motion  for  summary  judgment  on  all  counts  and  denied  
+Yamaguchi’s  motion  for  partial  summary  judgment.  
+The circuit
+ court reasoned: 
+[N]umber one, plaintiff’s sales contract with [PACREP] 
+incorporates by reference and includes the terms of the 
+escrow agreement between Title Guaranty and [PACREP]. 
+Number two, plaintiff defaulted on her obligations 
+under that sales contract. 
+Number three, despite plaintiff receiving notice of 
+her default, plaintiff did not cure the default. 
+Number  fou r,  pursuant  to  section  D.38  of  the  sales  
+contract,  [PACREP]  elected  to  terminate  the  sales  contract  
+and  retain  all  of  the  money  plaintiff  had  deposited  with  
+escrow.  
+Number  five,  pursuant  to  paragraph  12  of  the  escrow  
+agreement,  [PACREP]  instructed  Title  Guaranty  to  release  
+all  of  plaintiff’s  deposited  funds  to  [PACREP].  
+And,  number  six,  because  all  of  the  contractual  
+preconditions  to  doing  so  were  fulfilled,  Title  Guaranty  
+had  know  [sic]  choice  but  to  follow  the  escrow  instructions  
+that  plaintiff  herself  had  agreed  to  and  were  incorporated  
+and  made  a  part  of  her  sales  contract.             *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+ 
+ 16          
+          
+           
+        
+           
+       
+          
+              
+   
+          
+        
+           
+         
+           
+ 
+        
+            
+          
+           
+          
+        
+ 
+         
+         
+       
+         
+         diminish her agreement to incorporate and make the escrow 
+agreement a part of her sales contract[,]” and her assertion 
+that it was not attached to the Sales Contract was “immaterial.” 
+The court concluded that the Escrow Agreement was 
+“incorporated into and made a part of the sales contract between 
+[PACREP] and [Yamaguchi,]” finding that Yamaguchi “unambiguously 
+incorporated the escrow agreement into her sales contract. She 
+[did] not need to sign the escrow agreement to make it a part of 
+her own contract.” 
+The court further found Section 12 of the Escrow Agreement, 
+which provided instructions regarding a purchaser’s default, to 
+be “applicable to the facts of this transaction in this case.” 
+The circuit court concluded that “Title Guaranty did not 
+breach any duty whether in contract or in tort to plaintiff[,]” 
+noting: 
+Title Guaranty has presented evidence negating the elements 
+of breach of duty, both in tort and in contract, and has 
+demonstrated that plaintiff will not be able to carry her 
+burden of proof at trial. In response, plaintiff has done 
+nothing to show any genuine issue of material fact with 
+respect to either of Counts 2 or 3. 
+The court also granted Title Guaranty’s motion for summary 
+judgment as to Yamaguchi’s conversion and UDAP claims, finding 
+that Yamaguchi did not satisfy her burden. 
+The circuit court entered judgment for Title Guaranty and 
+granted Title Guaranty’s motion for attorney fees and costs            
+ 
+ 
+ 
+ 17       
+   
+   
+        
+           
+         
+          
+         
+           
+        
+          
+            
+         
+         
+        
+     
+          
+         
+        
+      
+ 
+ 
+             
+            
+        
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+pursuant to HRS § 607-14 (2016).6 
+F. ICA Proceedings 
+1. Opening Brief 
+Yamaguchi appealed the circuit court’s grant of summary 
+judgment for Title Guaranty and its denial of her motion for 
+partial summary judgment. Yamaguchi raised eleven points of 
+error. Relevant here, Yamaguchi argued that the circuit court 
+erred in granting Title Guaranty’s motion for summary judgment 
+on her breach of contract and breach of fiduciary duty claims. 
+First, Yamaguchi asserted that the circuit court erred 
+because Title Guaranty’s fiduciary duty extended to her, even if 
+she was not a signatory to the Escrow Agreement. She argued 
+that Title Guaranty’s duty “extended beyond the alleged escrow 
+agreement that binds Yamaguchi” and required Title Guaranty to 
+avoid self-dealing, conflicts of interest, and gross negligence 
+or reckless acts or omissions. 
+Second, Yamaguchi asserted that she was “not a party to 
+this Escrow Agreement” and “did not negotiate this Escrow 
+Agreement”; and thus, the Escrow Agreement was illegal, 
+unconscionable, unfair and deceptive, and, therefore, 
+unenforceable. 
+6 The ICA temporarily remanded the case for entry of an appealable 
+judgment, and the circuit court entered an amended final judgment. Yamaguchi 
+subsequently filed a First Amended Statement of Jurisdiction.            *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+Yamaguchi  also  contended  that  the  circuit  court  abused  its  
+discretion  in  awarding  Title  Guaranty  attorney  fees  and  costs.  
+2.  Answering  Brief  
+Title  Guaranty  contended  that  the  circuit  court  did  not  err  
+because,  as  an  escrow,  its  only  duty  was  to  “comply  strictly  
+with  the  provisions  of  the  [Escrow  Agreement]  or  instructions.”   
+DeMello,  4  Haw.  App.  at  47,  659  P.2d  at  763.   Title  Guaranty  
+argued  that  Yamaguchi  agreed  to  the  Escrow  Agreement’s  terms  
+when  she  executed  the  Sales  Contract,  which  expressly  
+incorporated  the  Escrow  Agreement.  
+ 
+         
+          
+         
+         
+       
+       
+         
+         
+         
+            
+          
+          
+       Title
+ Guaranty also maintained that the Escrow Agreement 
+was neither illegal nor unenforceable. Pursuant to Section 12 
+of that agreement, it argued, “once [Title Guaranty] received 
+[PACREP]’s certification in writing that the Sales Contract was 
+terminated due to Yamaguchi’s default, Yamaguchi’s deposited 
+funds automatically by irrevocable agreement became [PACREP]’s 
+free of the escrow[.]” Accordingly, when Title Guaranty 
+received the letter from PACREP, it continued, which “instructed 
+[Title Guaranty] to release the deposited funds to [PACREP], 
+[Title Guaranty] was required to do so under Section 12 of the 
+Escrow Agreement.” Title Guaranty contended there was no breach 
+of its fiduciary or contractual duty because it complied with 
+PACREP’s instructions; further, the Escrow Agreement released 
+18            
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+ 19           
+   
+        
+          
+        
+   
+       
+          
+         
+         
+          
+           
+        
+           
+     
+        
+        
+         
+     
+        
+         
+         
+          Title Guaranty from liability with respect to the escrow funds 
+and “such purchaser.” 
+Title Guaranty also argued that Yamaguchi’s claims for 
+conversion, UDAP, and punitive damages must fail and that the 
+circuit court properly awarded Title Guaranty attorney fees. 
+3. Reply Brief 
+Yamaguchi replied that Title Guaranty breached its 
+fiduciary duty because it was “fully aware of the conflict 
+between the Sales Agreement and the Escrow Agreement.” 
+Yamaguchi contended that Title Guaranty was acting as a 
+fiduciary for all the parties to the transaction. Therefore, 
+Title Guaranty breached this duty when it released the funds to 
+PACREP; failed to disclose to Yamaguchi material information 
+related to the disbursement of the funds; and failed to maintain 
+neutrality as the escrow agent. 
+Yamaguchi also reasserted her breach of contract claim, 
+arguing that Title Guaranty breached the Escrow Agreement 
+because the agreement favored the seller over the purchaser. 
+4. ICA Summary Disposition Order 
+The ICA affirmed the circuit court’s order denying 
+Yamaguchi’s motion for partial summary judgment and the order 
+granting summary judgment for Title Guaranty as to Yamaguchi’s 
+conversion and UDAP claims. However, the ICA vacated summary            
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+ 20          
+        
+         judgment for Title Guaranty with respect to Yamaguchi’s breach 
+of contract and breach of fiduciary duty claims. 
+The  ICA  concluded  there  was  a  genuine  issue  of  material  
+fact  as  to  whether  Title  Guaranty  breached  its  fiduciary  duty  
+under  HRS  §  449-16  when  it  disbursed  the  entirety  of  the  escrow  
+funds  to  PACREP  after  PACREP  sent  “conflicting  instructions”  to  
+Title  Guaranty  in  the  March  7  Letter  and  the  March  25  Letter.   
+The  first  letter,  the  ICA  noted,  instructed  Title  Guaranty  to  
+disburse  fifteen  percent  of  the  purchase  price,  pursuant  to  
+Yamaguchi’s  default,  while  the  subsequent  letter  instructed  
+Title  Guaranty  to  disburse  all  the  escrow  funds.   Under  Section  
+D.38  of  the  Sales  Contract,  the  ICA  continued,  if  the  purchaser  
+deposited  more  than  fifteen  percent  of  the  Unit’s  purchase  
+price,  upon  the  purchaser’s  default,  PACREP  was  entitled  to  keep  
+fifteen  percent  of  the  price.   The  ICA  pointed  out  that  after  
+PACREP  notified  the  parties  of  Yamaguchi’s  default,  Title  
+Guaranty  disbursed  all  of  Yamaguchi’s  funds  even  though  she  
+deposited  more  than  fifty  percent  of  the  purchase  price  into  
+escrow.   “Under  these  circumstances,”  the  ICA  concluded,  “there  
+was  a  genuine  issue  of  material  fact  about  whether  Title  
+Guaranty  breached  its  duty  as  a  trustee  of  Yamaguchi’s  funds  
+when  it  released  all  of  her  deposits  to  [PACREP].”  
+As
+ to Yamaguchi’s breach of contract claim, the ICA            
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 21        
+         
+          
+           
+           
+         
+           
+   
+         
+          
+       
+             
+            
+         
+   
+          
+          
+     
+        
+    
+        
+            
+            determined that Yamaguchi was an intended third-party 
+beneficiary of the Escrow Agreement, consistent with Section 15 
+of the agreement stating that the agreement shall be “binding 
+upon and inure to the benefit of such purchaser” of a Ritz-
+Carlton Waikiki unit. Thus, the ICA concluded: “[t]here is a 
+genuine issue of material fact about whether Title Guaranty 
+breached its contractual duty to Yamaguchi by paying all of her 
+deposits to [PACREP].” 
+The ICA rejected Yamaguchi’s remaining claims. The ICA 
+determined that: (1) “Yamaguchi wasn’t a party to the Escrow 
+Agreement[,]” meaning her argument regarding the “enforceability 
+of section 12 has no bearing on the merits of her claims against 
+Title Guaranty”; and (2) “Title Guaranty was not a party to the 
+Sales Contract or otherwise in privity with [PACREP,]” rendering 
+res judicata inapplicable. 
+The ICA vacated the circuit court’s award of attorney fees 
+and costs to Title Guaranty, concluding that Title Guaranty was 
+“no longer the prevailing party.” 
+The ICA denied Title Guaranty’s motion for reconsideration. 
+G. Supreme Court Proceedings 
+On certiorari, Title Guaranty raises two questions: (1) 
+“[d]id the ICA err in holding that [Yamaguchi] was not a party 
+to the [] Escrow Agreement”; and (2) “[d]id the ICA err in            
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+ 22            
+        
+ holding that there were questions of fact as to whether Title 
+Guaranty breached its contractual and fiduciary duties to 
+Yamaguchi[.]” 
+         
+            
+           
+           
+          
+       
+           
+ 
+         
+          
+          
+         
+       
+         
+        
+     
+       
+           
+           As to
+ the first question, Title Guaranty contends that 
+Yamaguchi never argued that she was not a party to the Escrow 
+Agreement. Title Guaranty also asserts that the ICA erred in 
+sua sponte raising an issue not first considered by the circuit 
+court. Moreover, Title Guaranty argues that because the Sales 
+Contract incorporated the Escrow Agreement, Yamaguchi “assumed 
+its benefits and obligations” and was therefore a party to the 
+agreement. 
+With respect to the second question, Title Guaranty asserts 
+two positions: (1) that Title Guaranty’s only fiduciary duty was 
+to “remain neutral” and “comply strictly” with the provisions of 
+the Escrow Agreement and PACREP’s instructions; and (2) Title 
+Guaranty correctly complied with PACREP’s second instruction 
+(March 25 Letter) to disburse the entire deposit, which 
+“superseded” PACREP’s first instruction to disburse only fifteen 
+percent of the purchase price. 
+Title Guaranty further posits that Yamaguchi’s contention 
+that she did not receive or understand the Escrow Agreement does 
+not allow her to “escape [its] binding effect,” and the circuit            
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+ 23           
+         
+         
+         
+          
+           
+       
+          
+           
+           
+          
+          
+         
+           
+   
+    
+   
+          
+ 
+       
+       
+          court correctly found that she was bound by the agreement. 
+Title Guaranty also argues that escrow companies are not 
+required to interpret contracts or advocate for escrow parties; 
+they must remain “neutral” and comply strictly with the 
+provisions of an agreement. Title Guaranty thus maintains that 
+the ICA erred in concluding that the escrow company breached its 
+duty to Yamaguchi after receiving “conflicting instructions” 
+from PACREP regarding disbursal of the escrow funds. Because 
+Section 12 of the Escrow Agreement provided that, in the event 
+of default, escrow funds were to “be treated as the Seller’s 
+free of the escrow,” and because it complied with PACREP’s 
+instructions, Title Guaranty asserts that it did not breach the 
+Escrow Agreement or violate its fiduciary duty to Yamaguchi. 
+Based on the facts and circumstances of this case, we agree 
+with Title Guaranty. 
+III. STANDARDS OF REVIEW 
+A. Summary Judgment 
+We  review   the  circuit  court’s  grant  or  denial  of  summary  
+judgment  de  novo.   Jou  v.  Dai-Tokyo  Royal  State  Ins.  Co.,  116  
+Hawai‘i   159,  164,  172  P.3d  471,  476  (2007).  
+The standard
+ for granting a motion for summary judgment is 
+well-settled: 
+Summary judgment is appropriate if the pleadings, 
+depositions, answers to interrogatories, and admissions on 
+file, together with the affidavits, if any, show that there            
+ 
+ 
+ 
+ 24             
+             
+           
+         
+           
+           
+           
+          
+          
+ 
+ 
+   
+ “‘As  a  general  rule,  the  construction  and  legal  effect  to  
+be  given  a  contract  is  a  question  of  law  freely  reviewable  by  an  
+appellate  court.’”   Frederick  A.  Nitta,  M.D.,  Inc.  v.  Hawaii  
+Med.  Serv.  Ass’n,  156  Hawaiʻi  457,  470,  575  P.3d  547,  560  (2025)  
+(citing  Casumpang  v.  ILWU  Local  142,  108  Hawaiʻi  411,  420,  121  
+P.3d  391,  400  (2005)).  
+This  court  has  determined  that  it  is  fundamental  that  terms  
+of  contract  should  be  interpreted  according  to  their  plain,  
+ordinary  and  accepted  use  in  common  speech,  unless  the  *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+is no genuine issue as to any material fact and that the 
+moving party is entitled to judgment as a matter of law. A 
+fact is material if proof of that fact would have the 
+effect of establishing or refuting one of the essential 
+elements of a cause of action or defense asserted by the 
+parties. The evidence must be viewed in the light most 
+favorable to the non-moving party. In other words, we must 
+view all of the evidence and the inferences drawn therefrom 
+in the light most favorable to the party opposing the 
+motion. 
+Id.  (cleaned  up).   In  reviewing  the  evidence,  “[t]he  court  is  
+permitted  to  draw  only  those  inferences  of  which  the  evidence  is  
+reasonably  susceptible[.]”   Ka‘upulehu  Land  LLC  v.  Heirs  and   
+Assigns  of  Pahukula,  136  Hawai‘i   1 23,  132,  358  P.3d  692,  701  
+(2015)  (citing  Winfrey  v.  GGP  Ala  Moana  LLC,  130  Hawai‘i  262,  
+270–71,  308  P.3d  891,  899–900  (2013)).  
+“This  court  may  affirm  a  grant  of  summary  judgment  on  any  
+ground  appearing  in  the  record,  even  if  the  circuit  court  did  
+not  rely  on  it.”   Reyes  v.  Kuboyama,  76  Hawai‘i   137,  140,   870  
+P.2d  1281,  1284  (1994)  (citations  omitted).  
+B. Contract
+ Interpretation            
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+ 25         
+         
+         
+           
+       
+         
+ 
+Harrison  v.  Casa  De  Emdeko,  Inc.,  142  Hawaiʻi  218,  225,  418  P.3d  
+559,  566  (2018)  (citation  omitted).  
+          
+              
+          
+           
+           
+ contra
+ct indicates a different meaning. Further, in 
+construing a contract, a court’s principal objective is to 
+ascertain and effectuate the intention of the parties as 
+manifested by the contract in its entirety. If there is 
+any doubt, the interpretation which most reasonably 
+reflects the intent of the parties must be chosen. 
+IV.  DISCUSSION  
+A.  Breach   of  Contract  
+1.  Yamaguchi  was  a  third-party  beneficiary  of  the  Escrow  
+Agreement.  
+ 
+Yamaguchi  was  not  a  signatory  to  the  Escrow  Agreement,  but  
+she  was  clearly  a  third-party  beneficiary  of  that  agreement.   
+The  ICA  correctly  concluded  that  Yamaguchi  was  entitled  to  
+pursue  her  breach  of  contract  claim  as  a  third-party  beneficiary   
+of  the  Escrow  Agreement  because  the  agreement  was  made  expressly   
+for  her  benefit  as  a  purchaser  of  a  Ritz-Carlton  Waikiki  unit.  
+A third party beneficiary is one for whose benefit a 
+promise is made in a contract but who is not a party to the 
+contract. The rights of the third party beneficiary must 
+be limited to the terms of the promise, and this promise 
+may be express or it may be implied from the circumstances. 
+Ass’n  of  Apartment  Owners  of  Newtown  Meadows   ex  rel.  its  Bd.  of  
+Directors  v.  Venture  15,  Inc.,  115  Hawaiʻi  232,  269,  167  P.3d  
+225,  262  (2007)  (cleaned  up).  
+“Ordinarily,  third-party  beneficiary  status  is  a  question  
+of  fact  as  to  whether  the  terms  of  the  contract  reflect  an  
+intent  to  benefit  the  party.”   Jou,  116  Hawai‘i  at  168,  172  P.3d             
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+ 26     
+       
+        
+         
+ 
+ 
+ 
+ 
+ 
+ at 480 (cleaned up). 
+In resolving the foregoing factual inquiry, this 
+jurisdiction follows the framework set forth by the 
+RESTATEMENT (SECOND) of CONTRACTS § 302 (A.L.I. 1981), as 
+follows: 
+(1)  Unless  otherwise  agreed  between  promisor  and  
+promisee,  a  beneficiary  of  a  promise  is  an  intended  
+beneficiary  if  recognition  of  a  right  to  performance  
+in  the  beneficiary  is  appropriate  to  effectuate  the  
+intention  of  the  parties  and  either  
+(a)  the  performance  of  the  promise  will  satisfy  
+an  obligation  of  the  promisee  to  pay  money  to  
+the  beneficiary;  or  
+(b)  the  circumstances  indicate  that  the  
+promisee  intends  to  give  the  beneficiary  the  
+benefit  of  the  promised  performance.  
+(2)  An  incidental  beneficiary  is  a  beneficiary  who  is  
+not  an  intended  beneficiary.  
+Id.  at  168–69,  172  P.3d  at  480–81  (quoting  RESTATEMENT  (SECOND)  OF  
+CONTRACTS   §  302  (A.L.I.  1981))  (cleaned  up  and  emphases  added).  
+As  this  court  noted  in  Title  Guaranty  Escrow  Servs.,  Inc.  
+v.  Wailea  Resort  Co.,  Ltd.,  146  Hawai‘i  34,  46,  456  P.3d  107,  119  
+(2019),  “‘contract  terms  should  be  interpreted  according  to  
+their  plain,  ordinary,  and  accepted  sense  in  common  speech.’”   
+146  Hawai‘i  at  46,  456  P.3d  at  119  (citation  omitted).   In  this  
+case,  pursuant  to  the  Escrow  Agreement,  Title  Guaranty  was  to  
+“receive,  deposit  and  hold  in  escrow  and  disburse  .  .  .  all  
+payments  received  by  Escrow  under  sales  contracts  made  by  
+Seller[.]”   Section  15  of  the  agreement  clearly  provided  that  
+its  terms  would  be  “binding  upon  and  inure  to  the  benefit  of             
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+    
+   
+         
+        
+         
+         
+           
+          
+          
+          
+           
+         
+    
+ 
+As  an  intended  third-party  beneficiary  of  the  Escrow  
+Agreement,  Yamaguchi  had  a  right  to  pursue  a  breach  of  contract  
+claim  against  Title  Guaranty.   “Generally,  third  parties  do  not  
+have  enforceable  contract  rights.   The  exception  to  the  general  
+rule  involves  intended  third-party  beneficiaries.”   Ass’n  of  such purchaser” of the condominium units. 
+Based on a plain reading of the Escrow Agreement’s 
+unambiguous language, the agreement was clearly intended to 
+benefit the purchasers of PACREP’s Ritz-Carlton Waikiki units. 
+Yamaguchi was an intended beneficiary of the Escrow Agreement, 
+as were all purchasers of the Ritz-Carlton Waikiki units. This 
+is further evidenced by Title Guaranty’s role as an “escrow 
+depository,” as established by HRS § 449-1, which defines an 
+“escrow depository” as “the corporation which, in an escrow, and 
+for  compensation,  receives,  holds,  and  delivers  the  money,  other  
+consideration,  or  instrument  affecting  title  to  real  property.”   
+HRS  §  449-1.  
+Given  the  terms  and  provisions  of  the  Escrow  Agreement,  
+which  expressly  benefited  purchasers  of  the  units,  the  ICA  did  
+not  err  in  concluding  that  Yamaguchi  was  an  intended  third-party   
+beneficiary.  
+2.
+ The ICA erred in concluding that there was a genuine 
+issue of material fact as to whether Title Guaranty 
+breached the Escrow Agreement. 
+27            
+ 
+ 
+ 
+            
+            
+           
+            
+         
+          
+            
+           
+           
+  
+        
+         
+           *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+Apartment Owners of Newtown Meadows , 115 Hawai‘i at 269, 167 P.3d 
+at 262 (cleaned up). However, “the rights of the third party 
+beneficiary must be limited to the terms of the promise, and 
+this promise may be express or it may be implied from the 
+circumstances.”   Id.  (cleaned  up).   Thus,  Yamaguchi’s  right  was  
+limited  to  the  terms  of  the  Escrow  Agreement,  with  which  Title  
+Guaranty  complied.  
+The  interpretation  of  a  contract  is  reviewed  de  novo  and  
+“absent  an  ambiguity,  the  contract  terms  should  be  interpreted  
+according  to  their  plain,  ordinary,  and  accepted  sense  in  common  
+speech.”   Wailea  Resort  Co.,  Ltd.,  146  Hawai‘i  at  45,  456  P.3d  at  
+118  (cleaned  up).   “As  a  general  rule,  the  court  will  look  no  
+further  than  the  four  corners  of  the  contract  to  determine  
+whether  an  ambiguity  exists.”   Hawaiian  Ass’n  of  Seventh-Day  
+Adventists  v.  Wong,  130  Hawai‘i  36,  45,  305  P.3d  452,  461  (2013)  
+(citation  omitted).  
+We
+ note that although the Sales Contract incorporated the 
+Escrow Agreement, the converse is not true; in other words, 
+Section D.38 of the Sales Contract is not part of the Escrow 
+Agreement. Then, as further noted, Section 12 of the Escrow 
+Agreement provides in pertinent part that in the event of a 
+purchaser’s default, 
+[i]f Seller subsequently certifies in writing to Escrow 
+that Seller has terminated the sales contract in accordance 
+with the terms thereof and provides to Escrow copies of all 
+28            
+ 
+ 
+ 
+ 29           
+         
+         
+           
+          
+          
+           
+          
+        
+        
+        
+ 
+           
+        
+         
+           
+           
+          
+          
+  
+            
+          
+          
+          
+       
+ 
+        
+          
+          
+          *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+such notices of termination and proof of receipt sent to 
+the purchaser, Escrow shall thereafter treat all funds of 
+the purchaser paid on account of such purchaser’s sales 
+contract as funds of Seller and not as funds of the 
+purchaser. Thereafter, such funds shall be free of the 
+escrow established by this Agreement and shall be held by 
+Escrow for the account of Seller. Upon written request by 
+Seller, Escrow shall pay such funds to Seller, less any 
+escrow cancellation fee. Escrow shall thereupon be 
+released from any further duties or liability hereunder 
+with respect to such funds and such purchaser. 
+Based on the plain and unambiguous language of Section 12, the 
+agreement authorizes Title Guaranty to disburse a purchaser’s 
+escrow deposit to PACREP, provided: (1) the purchaser defaults 
+on the Sales Contract; (2) PACREP certifies in writing to Title 
+Guaranty that it terminated the Sales Contract as a result of 
+the default; and (3) PACREP provides Title Guaranty with copies 
+of its termination notices and proof that the purchaser received 
+the same. 
+There is no issue of material fact as to whether PACREP 
+complied with Section 12 of the Escrow Agreement. Yamaguchi 
+defaulted, and PACREP subsequently sent her a notice of default 
+and two termination notices, all copied to Title Guaranty. 
+Yamaguchi confirmed receiving PACREP’s default and termination 
+notices. 
+After Title Guaranty received the notices of termination 
+from PACREP, Yamaguchi’s escrow deposit was “free of the escrow 
+established by [the Escrow Agreement]” and “held by Escrow for 
+the account of Seller[,]” pursuant to Section 12 of the            
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+ 30          
+           
+        
+           
+           
+           
+        
+          
+           
+           
+          
+       
+            
+           
+           
+        
+       
+          
+          
+          
+         
+          
+          agreement. Further, “[u]pon written request by Seller, Escrow 
+[was obligated to] pay such funds to Seller, less any escrow 
+cancellation fee.” Title Guaranty received PACREP’s written 
+requests to return the funds by the March 7 Letter (requesting 
+the return of fifteen percent of the deposit) and later the 
+March 25 Letter (requesting the return of the entire deposit). 
+Thus, after Yamaguchi defaulted, the governing and controlling 
+provisions of the Escrow Agreement set the entirety of the 
+deposit “free of the escrow,” and dictated that the funds should 
+be treated by Title Guaranty as PACREP’s property. Acting in 
+compliance with the clear and definite language of the Escrow 
+Agreement, Title Guaranty disbursed Yamaguchi’s deposit to 
+PACREP. Yamaguchi had the option of enforcing the terms of the 
+Sales Contract with respect to any portion of the proceeds she 
+believed PACREP owed her from the escrow deposits. This is 
+precisely what Yamaguchi did when she initiated arbitration 
+proceedings against PACREP for those claimed amounts. 
+We hold that Yamaguchi did not meet her burden of 
+establishing a genuine issue of material fact as to Title 
+Guaranty’s compliance with Section 12 of the Escrow Agreement. 
+Title Guaranty complied with the Escrow Agreement by disbursing 
+Yamaguchi’s funds. Accordingly, the circuit court did not err 
+in granting summary judgment in favor of Title Guaranty on            *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+ 
+ 31      
+ 
+ 
+ Title  Guaranty  asserts  that  the  ICA  erred  in  determining  
+Yamaguchi  was  not  a  party  to  the  Escrow  Agreement.   However,  
+with  regard  to  the  ICA’s  analysis  of  Yamaguchi’s  breach  of  
+contract  claim  now  under  review,  Yamaguchi’s  status  as  a  non-
+signatory  to  the  Escrow  Agreement  is  immaterial.  
+     
+          
+        
+            Yamaguchi’s breach of contract claim. 
+3.  The  ICA’s  conclusion  that  “Yamaguchi  wasn’t  a  party  to 
+the  Escrow  Agreement”  is  of  no  consequence  to  the  
+ICA’s  analysis  of  Yamaguchi’s  breach  of  contract  
+claim.  
+As  stated,  the  ICA  correctly  concluded  that  Yamaguchi  
+brought  her  contract  claim  as  an  intended  third-party  
+beneficiary  of  the  Escrow  Agreement.   See  supra  Section  IV.A.2.   
+As  a  third-party  beneficiary,  Yamaguchi’s  breach  of  contract  
+claim  was  “‘limited  to  the  terms  of  the  promise[.]’”   Ass’n  of  
+Apartment  Owners  of  Newtown  Meadows,  115  Hawai‘i  at  269,  167  P.3d  
+at  262.   As  discussed  above,  Title  Guaranty  complied  with  the  
+Escrow  Agreement.   Therefore,  Title  Guaranty’s  contention  that  
+the  ICA  erred  in  concluding  Yamaguchi  was  not  a  party  to  the  
+Escrow  Agreement  is  of  no  consequence  to  our  review  of  
+Yamaguchi’s  breach  of  contract  appeal  before  us.  
+B.
+ Breach of Fiduciary Duty 
+The ICA concluded that there was a genuine issue of 
+material fact regarding Yamaguchi’s breach of fiduciary duty 
+claim based on PACREP’s March 7 Letter and March 25 Letter that            
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+ 32         
+   
+ issued purported “conflicting instructions” to Title Guaranty. 
+We respectfully disagree. 
+Proving  a   breach  of  fiduciary  duty  requires  plaintiff  to  
+show  that:  (1)  a  fiduciary  relationship  existed;  (2)  defendant  
+breached  their  fiduciary  duty  to  plaintiff;  and  (3)  the  breach  
+was  the  proximate  cause  of  plaintiff’s  injury.   See  Awakuni  v.  
+Awana,  115  Hawaiʻi   126,  142  n.20,  165  P.3d  1027,  1043  n.20  
+(2007);  Domingo  v.  James  B.  Nutter  &  Co.,  153  Hawaiʻi  584,  615,  
+543  P.3d  1,  32  (App.  2023);  37  C.J.S.  Fraud  §  15  (2023).  
+Here,  Title  Guaranty  had  a  fiduciary  duty  to  both  PACREP  
+and  Yamaguchi,  who  were  parties  to  the  Sales  Contract.   Title  
+Guaranty  is  an  escrow  depository  as  defined  in  HRS  Chapter  449.   
+See  HRS  §  449-1.   “Escrow”  refers  to   
+any  transaction  affecting  the  title  to  real  property,  
+including  leaseholds,  proprietary  leaseholds,  and  
+condominiums,  in  which  a  person  not  a  party  to  the  
+transaction  and  neither  having  nor  acquiring  any  interest  
+in  the  title  receives  from  one  party  to  the  transaction,  
+holds  until  the  happening  of  an  event  or  performance  of  a  
+condition  and  then  delivers  to  another  party  to  the  
+transaction,  any  money  or  other  consideration  or  any  
+instrument  affecting  the  title  to  that  real  property,  all  
+            
+ 
+ 
+ 
+ 33            
+           
+        
+          
+         
+         
+             *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+in  accordance  with  the  terms  of  the  agreement  between  the  
+parties  to  the  transaction.  
+ 
+Id.  (emphasis  added).   “Escrow  depository”  refers  to  “the  
+corporation  which,  in  an  escrow,  and  for  compensation,  receives,   
+holds,  and  delivers  the  money,  other  consideration,  or  
+instrument  affecting  title  to  real  property.”   Id.  
+HRS  §  449-16(a)  provides  that  an  escrow  depository  “shall  
+have  the  responsibility  of  a  trustee  for  all  moneys,  other  
+consideration,  or  instruments  received  by  it.”   HRS  §  449-16(a)  
+(2013)  (emphasis  added).  
+In  DeMello,  the  ICA  concluded  that  a  fiduciary  duty  is  
+clearly  imposed  by  statute  under  HRS  §  449-16,  and  “such  duty  is  
+owed  only  to  the  parties  to  the  escrow  transaction.”   4  Haw.  
+App.  at  47,  659  P.2d  at  763.   There,  the  ICA  noted,  “[t]he  
+statutory  definition  of  ‘escrow’  specifically  limits  the  
+depository’s  function  to  acts  performed  ‘in  accordance  with  the  
+terms  of  the  agreement  between  the  parties  to  the  transaction.’”   
+Id.
+ (quoting HRS § 449-1). This court cited approvingly to 
+DeMello in Hancock, stating that “[t]he general rule is that an 
+escrow depository occupies a fiduciary relationship with the 
+parties to the escrow agreement or instructions[,]” and that the 
+escrow company must “‘comply strictly with the provisions’ of 
+the parties’ escrow agreement or instructions.” Hancock, 145 
+Hawai‘i at 383, 452 P.3d at 380 (citing DeMello, 4 Haw. App. at            
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+ 34      
+ In  the  case  at  bar,  PACREP  and  Yamaguchi  were  the  parties  
+involved  in  the  escrow  transaction,  and  Yamaguchi  was  a  third-
+party  beneficiary  of  the  Escrow  Agreement.   Title  Guaranty  
+therefore  owed  a  fiduciary  duty  to  Yamaguchi.   DeMello,  4  Haw.  
+App.  at  47,  659  P.2d  at  763.   Title  Guaranty’s  fiduciary  duty  
+was  to  “‘comply  strictly  with  the  provisions’  of  the  parties’  
+escrow  agreement  or  instructions.”   Hancock,  145  Hawai‘i  at  383,  
+452  P.3d  at  380.  
+          
+         
+           
+          
+            
+           
+            47, 659 P.2d at 763). 
+Once PACREP satisfied the requirements of Section 12 of the 
+Escrow Agreement, the terms of the agreement further provided 
+that the deposit “shall be free of the escrow established” by 
+the Escrow Agreement. Title Guaranty’s only duty thereafter was 
+to adhere to the terms of the Escrow Agreement and “treat all 
+funds of the purchaser paid on account of such purchaser’s sales 
+contract as funds of Seller” and “pay such funds to Seller” upon 
+“written  request  by  Seller[.]”  
+There  is  no  genuine  question  of  material  fact  as  to  whether  
+Title  Guaranty  complied  with  Section  12  of  the  Escrow  Agreement.   
+As  discussed,  the  March  7  Letter  notified  Yamaguchi  and  Title  
+Guaranty  that  PACREP  had  “elected  to  exercise  its  right,  
+pursuant  to  Section  D.38  of  the  Sales  Contract,  to  terminate  the  
+Sales  Contract  and  retain  fifteen  percent  (15%)  of  the  Total             
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+ 35          
+          
+          
+           
+          
+          
+          
+         
+     
+          
+           
+         
+          
+         
+           
+          
+         
+           Purchase Price as liquidated damages.” (Emphasis omitted.) 
+Eighteen days later, PACREP sent the March 25 Letter informing 
+Yamaguchi and Title Guaranty that PACREP had elected to “retain 
+all deposits pursuant to the Sales Contract.” (Emphasis added.) 
+Both letters also stated that PACREP was “hereby notifying Title 
+Guaranty Escrow Services, Inc. to cancel escrow and to release 
+said funds and accrued interest to Seller.” Title Guaranty 
+complied and disbursed the balance of Yamaguchi’s deposit to 
+PACREP on April 6, 2016. 
+The ICA concluded that the instructions in PACREP’s two 
+letters were in conflict. The ICA explained that under one 
+interpretation of Section D.38 of the Sales Contract, if 
+Yamaguchi had paid more than fifteen percent of the purchase 
+price into escrow--which she had--PACREP was only entitled to 
+fifteen percent of the Unit’s sale price as a result of 
+Yamaguchi’s default, with the balance to be refunded to the 
+buyer. The ICA determined that under these circumstances, 
+“there was a genuine issue of material fact about whether Title 
+Guaranty  breached  its  duty  as  a  trustee  of  Yamaguchi’s  funds  
+when  it  released  all  of  her  deposits  to  PACREP.”  
+ While  the  ICA  correctly  noted  that  “[u]nder  one  
+interpretation”  of  Section  D.38,  PACREP’s  entitlement  to  the  
+deposit  could  be  limited  to  only  fifteen  percent  of  the  escrow             
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+ 36  
+        
+         
+           
+        
+       
+        
+          
+          
+   deposit, this interpretation of the Sales Contract has no 
+bearing on Title Guaranty’s fiduciary duty to Yamaguchi under 
+the Escrow Agreement. But, as earlier noted, although the Sales 
+Contract incorporated the Escrow Agreement, the Escrow Agreement 
+did  not   incorporate  the  Sales  Contract.   Therefore,  Section  D.38  
+of  the  Sales  Contract  is  not  part  of  the  Escrow  Agreement.   
+Hence,  even  if  PACREP’s  two  letters  to  Title  Guaranty  could  be  
+construed as
+ containing “conflicting instructions,” as opposed 
+to superseding instructions, Title Guaranty’s fiduciary duty was 
+to “‘comply strictly with the provisions’ of the parties’ escrow 
+agreement or instructions.” Hancock, 145 Hawai‘i a t 383, 452 
+P.3d at 380. 
+As  noted,  under  Section  12  of  the  Escrow  Agreement,  Title  
+Guaranty  was  obligated  to  “treat  all  funds  of  the  purchaser  paid  
+on  account  of  such  purchaser’s  sales  contract  as  funds  of  Seller  
+and  not  as  funds  of  the  purchaser.  .  .  .  Upon  written  request  by  
+Seller,  Escrow  shall  pay  such  funds  to  Seller[.]”   (Emphases  
+added.)   Based  on  its  plain  and  obvious  meaning,  “such  funds”  
+refers  to  “all  funds  of  the  purchaser  paid  on  account  of  such  
+purchaser[].”   As  there  is  no  genuine  issue  of  material  fact  as  
+to  Title  Guaranty’s  compliance  with  Section  12  of  the  Escrow  
+Agreement,  we  affirm  the  circuit  court’s  order  granting  Title  
+Guaranty  summary  judgment.             
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+ 37   
+ 
+         
+             
+          
+          
+         
+        
+      
+ V. CONCLUSION 
+For these reasons, we vacate the ICA’s December 19, 2024 
+judgment on appeal and remand the case to the ICA to address the 
+award of attorney fees and costs. The circuit court’s 
+January 25, 2022 Amended Final Judgment, January 13, 2021 order 
+granting Title Guaranty summary judgment on all claims, and 
+January 13, 2021 order denying Yamaguchi’s partial summary 
+judgment on all claims are affirmed. 
+Charles  A.  Price   
+for  petitioner  
+ 
+Junsuke  Aaron  Otsuka  
+for  respondent  /s/  Sabrina  S.  McKenna  
+/s/  Todd  W.  Eddins  
+/s/  Lisa  M.  Ginoza  
+/s/  Vladimir  P.  Devens  
+/s/  Ronald  G.  Johnson  
