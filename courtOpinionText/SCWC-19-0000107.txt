@@ -1,0 +1,824 @@
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+     
+ 
+ 
+ 
+   *** FOR PUBLICATION IN WEST’S HAWAIʻI  REPORT AND PACIFIC REPORTER ** *  
+Electronically Filed 
+Supreme Court SCWC-19-0000107 23-JUN-2026 07:48 AM Dkt. 60 OP 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ‘I  
+ ---o0o---
+MĀLAMA KAKANILUA, an unincorporated association,  
+CLARE H. APANA and KANILOA LANI KAMAUNU,  
+Petitioners/Plaintiffs-Appellants,  
+vs.  
+ 
+DIRECTOR OF THE DEPARTMENT OF PUBLIC WORKS, COUNTY OF MAUI;   
+and MAUI LANI PARTNERS, a domestic partnership, 
+Respondents/Defendants-Appellees.  
+SCWC-19-0000107  
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS  
+(CAAP-19-0000107; CIVIL NO. 2CC181000122)  
+JUNE 23, 2026  
+DEVENS,  C.J., McKENNA, EDDINS, AND GINOZA, JJ., AND     
+CIRCUIT JUDGE MORIKAWA, ASSIGNED BY REASON OF VACANCY  
+OPINION OF THE COURT BY GINOZA, J.  
+I. Introduction 
+This is the second appeal to our court by Petitioners 
+Mālama Kakanilua, Clare H. Apana, and Kaniloa Lani Kamaunu 
+(Mālama) in this case. In the first appeal, a majority of this 
+court held the Intermediate Court of Appeals ( ICA) erred by 
+holding Mālama’s appeal was untimely from a judgment of  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORT AND PACIFIC REPORTER ** * 
+ 
+ 
+ 
+    
+    
+   
+ 
+      
+ 
+    
+     
+  
+  
+ 
+ 
+ 
+  
+   
+ 
+ 
+   
+  
+    
+  
+     
+ dismissal entered by the Circuit Court of the Second Circuit 
+(Circuit Court ).1 Instead, this court held that Mālama’s appeal 
+was timely because Mālama had filed a motion in Circuit Court 
+under Hawaiʻi Rules of Civil Procedure (HRCP) Rule 60(b) (eff. 
+2006), which tolled the time for appeal. Mālama Kakanilua v. 
+Dir. of Dep’t of Pub. Works , 157 Hawaiʻi 280, 29 3-94, 576 P.3d 
+793, 806-07 (2025) (Mālama I).2 The case was remanded to the ICA 
+to address the merits of the Circuit Court’s dismissal of 
+Mālama’s complaint . Id. at 294-95, 576 P.3d at 807 -08. 
+Mālama’s complaint challenge s the Director of the Maui 
+County Department of Public Works’ ( DPW) extension of a grading 
+permit approved for Maui Lani Properties ( MLP). As pertinent to 
+the issues now before us, Mālama alleges the permit extension 
+was an ultra vires act and sought quo warranto and declaratory 
+relief against DPW. Both MLP and DPW filed motions to dismiss 
+Mālama’s Complaint under HRCP Rule 12(b)(6) (eff. 2000) for 
+failure to state a claim. The Circuit Court granted the motions 
+to dismiss (Order Dismissing Complaint ). 
+On remand after Mālama I, the ICA addressed the merits 
+of the Circuit Court’s Order Dismissing Complaint and affirmed 
+1 The Honorable Joseph E. Cardoza presiding. 
+2 In Mālama I, this court also affirmed the ICA’s ruling that the 
+Circuit Court did not abuse its discretion in denying Mālama’s HRCP Rule 
+60(b) motion. 157 Hawaiʻi at 294, 576 P.3d at 807. That issue was thus 
+resolved and is not part of this second appeal. 
+2  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORT AND PACIFIC REPORTER ** * 
+ 
+ 
+ 
+   
+  
+ 
+ 
+    
+ 
+ 
+  
+  
+  
+  
+     
+  
+  
+  the Circuit Court.   Mālama Kakanilua v. Dir. of Dep’t of Pub. 
+Works, No. CAAP-19-0000107, 2025 WL 3242533 (Haw. App. Nov. 20, 
+2025) (mem. op.) ( Mālama II).  
+Mālama now seeks certiorari review of the ICA’s remand 
+decision. We accepted certiorari limited to one question, which 
+we summarize as whether the ICA erred by holding that Mālama’s 
+complaint had to allege a factual basis for the lack of “good 
+cause” underlying the DPW’s decision extend ing the grading 
+permit. 
+Mālama’s Complaint alleged that DPW’s asserted good 
+cause consist ed of “the applicant’s need to complete grading 
+operations ,” and that the lack of good cause warranted quo 
+warranto and declaratory relief. The determination of “good 
+cause” is potentially a legal and factual issue. Under Maui 
+County Code ( MCC) § 20.08.110 (eff. 1998) , a grading permit 
+expires after one year, but “the director may grant a time 
+extension in cases of hardship or for good cause.” There is no 
+definition of good cause in MCC § 20.08.020 (eff. 2011) , which 
+governs grading and grubbing permits. 
+The allegations in Mālama’s Complaint put DPW and MLP 
+on notice that Mālama alleged that DPW’s asserted reason did not 
+establish good cause to extend the grading permit . We thus hold 
+that Mālama’s claim for declaratory relief in Count III of its 
+3  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORT AND PACIFIC REPORTER ** * 
+ 
+ 
+ 
+      
+ 
+      
+  
+   
+      
+ 
+  
+      
+ 
+ 
+ 
+ 
+ 
+ Complaint, as to the issue of “good cause ,” should not have been 
+dismissed . 
+We further hold, however, that Mālama’s claim for quo 
+warranto relief in Count II was properly dismissed. Even when 
+viewed in the light most favorable to Mālama, the asserted lack 
+of good cause to extend a grading permit does not set forth 
+facts that would warrant quo warranto relief. 
+Thus, we affirm in part and vacate in part the ICA’s 
+Judgment on Appeal, entered January 2, 2026, and remand this 
+case to the Circuit Court for further proceedings consistent 
+with this opinion. 
+II. Standard of Review 
+      “A circuit court’s ruling on a motion to dismiss is 
+reviewed de novo.” Bank of America, N.A. v. Reyes-Toledo, 143 
+Hawaiʻi 249, 256,  428 P.3d 761, 768   (2018), overruled in part by  
+Wilmington Sav. Fund Soc’y, FSB v. Domingo, 155 Hawaiʻ i 1, 556 
+P.3d 347 (2024)  (citation omitted) (Reyes-Toledo II).  
+It is further well established that: 
+a complaint should not be dismissed for failure to state a 
+claim unless it appears beyond doubt that the plaintiff can 
+prove no set of facts in support of [their] claim that 
+would entitle [them] to relief. The appellate court must 
+therefore view a plaintiff’s complaint in a light most 
+favorable to [them] in order to determine whether the 
+allegations contained therein could warrant relief under 
+any alternative theory. For this reason, in reviewing a 
+circuit court’s order dismissing a complaint . . . the 
+appellate cou rt’s consideration is strictly limited to the 
+allegations of the complaint, and the appellate court must 
+deem those allegations to be true. 
+4  
+ *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORT AND PACIFIC REPORTER ** * 
+ 
+ 
+   
+  
+  
+      
+ 
+  
+ 
+ 
+     
+ 
+   
+ 
+       
+ 
+ Id. at 257, 428 P.3d at 769 (citation omitted). 
+III. Background 
+A. Mālama’s Complaint 
+On March 14, 2018, Mālama filed a Complaint against 
+DPW and MLP. Viewing the allegations in the Complaint in the 
+light most favorable to Mālama, we set forth the allegations 
+therein as follows. Mālama described itself as an 
+unincorporated association formed to protect ʻiwi, burials, and 
+other historic and archaeological ly significant sites on Maui. 
+Apana is a resident of the sandhills of Kalua in Wailuku, and a 
+native Hawaiian cultural practitioner. Kamaunu is a member of 
+Mālama, a resident of Wai luku, and a lineal de scendant of Owa 
+ʻili. 
+The Complaint alleged that MLP was excavating large 
+quantities of sand from sensitive archaeological sites in 
+central Maui as part of its Phase IX residential development 
+project. The Complaint also alleged the sandhills of Kalua are 
+part of the project site , and the battle of Kakanilua took place 
+there around 1776. Mālama thus alleged that numerous human 
+remains and burials are within the sandhills. 
+Mālama also allege d that a 2013 Final Archeological 
+Monitoring Plan (2013 AMP ) was prepared for the project . The 
+2013 AMP stated that archaeological monitoring was “highly 
+warranted due to the numerous primary burial features and 
+5  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORT AND PACIFIC REPORTER ** * 
+ 
+ 
+  
+      
+  
+ 
+  
+ 
+ 
+ 
+      secondarily deposited human skeletal remains within the Maui 
+Lani landholdings.” DPW submitted the 2013 AMP to the State 
+Historic Preservation Division ( SHPD), which accepted the plan. 
+In 2014, MLP applied for a grading permit, which DPW approved. 
+Three years later, on July 27, 2017, Mālama filed a 
+Complaint against MLP in Civil No. 17 -1-0311(3) (2017 Lawsuit ) 
+alleging violations of Hawaiʻi Revised Statutes ( HRS) Chapter 6E , 
+governing historic preservation . Mālama filed a motion for a 
+preliminary injunction in that case on the same day. In 
+November 2017, the Circuit Court entered a preliminary 
+injunction in the 2017 Lawsuit . The injunction recognized the 
+grave threat of irreparable harm posed by mining human remains 
+from the site and processing those remains into cement. The 
+injunction enjoined further ground -disturbing activity unless 
+MLP provided notice to Mālama and accommodated a supervisor from 
+Mālama during ground -disturbing activity. 
+Four days later, DPW administrator Cathy Hasfurther 
+granted a one -year extension for MLP’s grading permit. Two 
+months later, Mālama wrote to DPW Director David Goode 
+requesting rescission of the extension. The following month, 
+Goode wrote back denying the request based on “(1) good cause, 
+consisting in the applicant’s need to complete grading 
+operations ; and (2) the lack of response from SHPD regarding a 
+ 6  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORT AND PACIFIC REPORTER ** * 
+ 
+ 
+ 
+   
+         
+    
+ 
+       
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+ 
+  letter sent by DPW in July 2017 concerning non -compliance with 
+the AMP.” (Emphasis added.) 
+Mālama’s Complaint in this action contains three 
+counts. Count I is a claim for injunctive relief, requiring DPW 
+to consult with SHPD prior to granting a grading permit 
+extension . That count is not at issue here. 
+Count II is a claim for quo warranto relief alleging 
+that the DPW Director was “without power to grant an extension” 
+absent hardship or good cause; therefore, the permit extension 
+usurped the power of the Maui County Council. Mālama’s specific 
+allegations were as follows: 
+50. A grading permit application requires review by SHPD 
+before DPW or the Director can approve the same. 
+51. A grading permit expires and becomes null and void one 
+year after the date of issuance. 
+52. The Director has the power to grant a time extension 
+of a grading permit in cases of hardship or for good cause. 
+53. Where hardship or good cause are lacking, the Director 
+is without power to grant an extension. 
+54. Only the County Council has the power to permit 
+grading, stockpiling or grubbing outside of the present 
+framework, which it is empowered to do only by passing an 
+ordinance. 
+55. The Director’ s granting of a permit extension in the 
+absence of hardship or good cause is ultra vires and usurps 
+the power of the County Council. 
+Count III is a claim for declaratory relief, asserting 
+the DPW Director’s permit extension was unauthorized by law and 
+therefore should be invalidated. Count III’s allegations in 
+7  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORT AND PACIFIC REPORTER ** * 
+ 
+ 
+ 
+  
+  
+      
+  
+  
+ 
+  
+ 
+      
+   
+ 
+ paragraphs 63 to 68 are identical to Count II’s allegations in 
+paragraphs 50 to 55. 
+B. Motions to Dismiss Complaint 
+Both DPW and MLP filed motions to dismiss M ālama’s 
+Complaint for failure to state a claim under HRCP Rule 12(b) (6). 
+As to Counts II and III, both DPW and MLP pointed out that MCC 
+§ 20.08.110 states the following: “Every grubbing or grading 
+permit shall expire and become null and void one year after the 
+date of issuance. However, the director may grant a time 
+extension in cases of hardship or for good cause.” As such, 
+both argued, the MCC authorized the Director’s extension, so his 
+decision was not ultra vires , and Count III of Mālama’s 
+Complaint should be dismissed . Both parties also argued that 
+the Count II quo warranto claim should be dismissed because 
+Mālama challenged the Director’s e xtension, not the authority by 
+which the Director claimed his office. 
+The Circuit Court held a hearing on DPW’s and MLP’s 
+motions to dismiss. There the Circuit Court stated that, “for 
+purposes of the . . . motions to dismiss, [it] will not be 
+considering facts outside of the complaint.” The Circuit Court 
+issued an order granting, without prejudice, both of the motions 
+to dismiss. With respect to Counts II and III, t he Circuit 
+Court’s reasoning was as follows: 
+8  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORT AND PACIFIC REPORTER ** * 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+   
+     
+  
+  
+ 
+ Count II alleged the Director exceeded his authority 
+when he granted the grading permit time extension at issue. 
+Given the facts as described in the Complaint, the Court 
+finds the Director was exercising his expr ess discretionary 
+authority, as provided under the law, and did not excee d 
+that authority. As above, the Court takes all well -pleaded 
+allegations of fact as true, but is not required to accept 
+conclusory allegations on the legal effect of the events 
+alleged. As such, Count II does not present a v iable quo 
+warranto cause of action and is dismissed. 
+Count III is similarly dismissed, as the conclusory 
+allegations in Counts I and II do not entitle plaintiffs to 
+declaratory r elief requested. 
+The Circuit Court explained that it was not dismissing Mālama’s 
+Complaint with prejudice “due to the potential impact on the on-
+going litigation in Civil No. 17-1-0311(3) which is also before 
+this Court, and which contains overlapping factual allegations 
+as presented herein. . . .” It stated that its dismissal 
+without prejudice was intended “not to impact any claims with 
+that on-going action.” The Circuit Court filed its Judgment and 
+Notice of Entry of Judgment on October 2, 2018.  
+C. ICA’s Decision on the Merits Regarding Dismissal 
+On remand after Mālama I, the ICA addressed whether 
+the Circuit Court erred in dismissing the Complaint. Mālama II, 
+2025 WL 3242533. For purposes of our certiorari review, we 
+focus on the ICA’s ruling regarding Counts II and III. Id. at 
+*5-6. The ICA stated “ the Complaint did not allege that the 
+Director lacked good cause to grant the extension. Rather, the 
+Complaint alleges that when Appellants requested that the 
+Director rescind the permit extension, the Director refused on the basis of ‘good cause, consisting of applicant ’s need to 
+complete grading operations. ’” Id. at *5. The ICA further 
+stated that Mālama’s “Complaint made no factual allegations to 
+dispute that grading was incomplete when [DPW] granted the 
+extension,” which was the basis for the good cause 
+determination. Id. at *6. Rather, Mālama alleged that DPW’s 
+“granting of a permit extension in the absence of hardship or 
+good cause is ultra vires and usurps the power of the County 
+Council.” Id. The ICA quoted Civil Beat for the proposition 
+that a court “ ‘is not required to accept conclusory allegations 
+on the legal effect of the events alleged ’” in ruling on an HRCP 
+Rule 12(b)(6) motion to dismiss. Id. (quoting Civ. Beat Law 
+Ctr. for Pub. Int. , Inc. v. City & Cnty. of Honolulu , 144 Hawaiʻi 
+466, 474, 445 P.3d 47 , 55 (2019)). 
+9  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORT AND PACIFIC REPORTER ** * 
+ 
+ 
+ 
+    
+   
+     
+  
+    
+      
+    
+ 
+ Further, the ICA quoted M CC § 20.08.110, which states 
+that the DPW Director “ ‘may grant a time extension in cases of 
+hardship or for good cause, ’” and which places no time limit on 
+the extension. Id. The ICA noted that “ ‘[a] petition for a 
+writ of quo warranto seeks a court order directing a person who 
+claims or usurps a state office to show by what authority he or 
+she claims the office. ’” Id. (quoting Application of Ferguson , 
+74 Haw. 394, 399, 846 P.2d 894, 897 (1993)). The ICA also 
+pointed out that Mālama’s Complaint had allege d that the Maui 
+County Code gave the DPW director discretion to extend a permit 
+10  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORT AND PACIFIC REPORTER ** * 
+ 
+ 
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ on good cause and did not allege a factual basis as to how the 
+director acted outside his authority.   Id.   Therefore, the ICA 
+concluded that the Circuit Court did not err in dismissing Counts II and III of the Complaint.   Id.  at *7.  The ICA 
+affirmed the Circuit Court’s order dismissing Mālama’s Complaint.   Id.    
+IV.  Discussion  
+Mālama  argues that its Complaint  alleges  that  the  need 
+to finish grading, as relied on by the DPW,  does not  constitute 
+“good cause”  to extend the grading permit. Under MCC  
+§  20.08.110, “the director may grant a time extension in cases 
+of hardship or for good cause.” In the general factual 
+background section of its Complaint, Mālama asserted it wrote to 
+DPW to request rescission of the grading permit extension, and 
+that DPW denied Mālama’s request in part because there was “good 
+cause, consisting in the applicant’s need to complete grading 
+operations[.]”  
+A. Count III: Declaratory Relief 
+We address Mālama’s claim for declaratory relief 
+(Count III) first. In Count II I of its Complaint , Mālama 
+alleged the following : 
+63. A grading permit application requires review by SHPD 
+before DPW or the Director can approve the same. 
+64. A grading permit expires and becomes null and void one 
+year after the date of issuance. 
+11  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORT AND PACIFIC REPORTER ** * 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+   
+  
+  
+  
+ 
+      
+   
+ 
+ 
+ 65. The [D]irector has the power to grant a time extension 
+of a grading permit in cases of hardship or for good cause. 
+66. Where hardship or good cause are lacking, the 
+[D]irector is without power to grant an extension. 
+67. Only the County Council has the power to permit 
+grading, stockpiling or grubbing outside of the present 
+framework, which it is empowered to do only by passing an 
+ordinance. 
+68. The Director’ s granting of a permit extension in the 
+absence of hardship or good cause is ultra vires and usurps 
+the power of the County Council. 
+(Emphases added .) We agree with Mālama that these allegations 
+put MLP and DPW on notice that it was challenging the DPW 
+Director’s good cause determination. We disagree with Mālama’s 
+argument , however, that in affirming the dismissal of Count III, 
+the ICA relied on “ plausibility ” pleading standards , which this 
+court rejected in Reyes-Toledo II , 143 Hawaiʻi at 262, 428 P.3d 
+at 774. 
+In Reyes-Toledo II , this court rejected the federal 
+“plausibility” standard set forth in Bell Atlantic Corp. v. 
+Twombly, 550 U.S. 544 (2007), and Ashcroft v. Iqbal, 556 U.S. 
+662 (2009). Reyes-Toledo II, 143 Hawaiʻi at 252, 428 P.3d at 
+764. The federal plausibility standard is as follows:  
+While a complaint attacked by a Rule 12(b)(6) motion to 
+dismiss does not need detailed factual allegations, a 
+plaintiff’s obligation to provide the “grounds” of [their] 
+“entitlement to relief” requires more than labels and 
+conclusions, and a formulaic recitation of the elements of 
+a cause of action will not do. Factual allegations mu st be 
+enough to raise a right to relief above the speculative 
+level on the assumption that all the allegations in the 
+complaint are true (even if doubtful in fact). 
+12  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORT AND PACIFIC REPORTER ** * 
+ 
+ 
+ 
+   
+ 
+  Twombly, 550 U.S. at 555 (citations , brackets, and footnote 
+omitted) . 
+Instead, in Reyes-Toledo II , this court stated, “ [f]or 
+approximately seventy years, we have upheld our liberal notice 
+pleading standard.” 143 Hawaiʻi at 262, 428 P.3d at 774  
+(citations omitted).   In Reyes-Toledo II, we cited many cases 
+expressing the “notice pleading” standard under HRCP  Rule 8  
+(eff. 2000). Id.  (citing Kawakami v. Kahala Hotel Invs., LLC, 
+142 Hawaiʻ i 507, 518, 421 P.3d 1277, 1288  (2018); Laeroc Waikiki 
+Parkside, LLC v. K.S.K. (Oahu) Ltd.  P’ship, 115 Hawaiʻ i 201, 166 
+P.3d 961 (2007); In re Genesys Data Techs., Inc., 95 Hawai ʻi 33, 
+41, 18 P.3d 895, 903  (2001); Au  v. Au, 63 Haw. 210,  220-21,  626 
+P.2d 173, 181  (1981); Hall v. Kim, 53 Haw. 215, 221, 491 P.2d 
+541, 545  (1971); Midkiff v. Castle & Cooke, Inc., 45 Haw. 409, 
+413-16, 368 P.2d 887, 890-92  (1962); and Yap v. Wah Yen Ki Tuk 
+Tsen Nin Hue of Honolulu, 43 Haw. 37, 39  (Haw. Terr. 1958)). We 
+noted that “[HRCP] Rule 8(a)(1)  does not require the pleading of 
+facts; it requires a complaint to set forth ‘a short and plain 
+statement of the claim showing that the pleader is entitled to 
+relief.’”   Id.  at 258, 428 P.3d at 770 (quoting  Hall, 53 Haw. at 
+220, 491 P.2d at 545).   We further noted that “‘[t]his 
+requirement under our pleading system provides defendant with 
+fair notice of what the plaintiff’s claim is and the grounds 
+13  
+ 
+ 
+ 
+  
+ 
+  
+  
+ 
+ 
+  
+  
+ *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORT AND PACIFIC REPORTER ** * 
+upon which the claim rests.’”   Id.  at 259, 428 P.3d at 771 
+(quoting Au, 63 Haw. at  221, 626 P.2d at  181).   We  continued:  
+Not once have we questioned, or found ambiguous, our 
+standards for HRCP Rule 8(a) and a motion to dismiss. If a 
+complaint meets the requirements of HRCP Rule 8(a), 
+dismissal pursuant to HRCP Rule 12(b)(6) is appropriate 
+where “the allegations of the compl aint itself clearly 
+demonstrate that plaintiff does not have a claim ,” and in 
+weighing the allegations of the complaint as against a 
+motion to dismiss, the court “will not accept conclusory 
+allegations concerning the legal effect of the events the 
+plaintif f has alleged .” 
+Id. at 262, 428 P.3d at 774 (citations and brackets omitted). 
+The ICA correctly expressed the applicable notice 
+pleading standard, stating: 
+[T]o defeat an  HRCP Rule 12(b)(6)  motion to dismiss, a 
+complaint need only contain a short and plain statement of 
+the claim showing that the pleader is entitled to relief 
+and giving the defendant fair notice of the claim and the ground upon which it rests.   Civ. Beat Law Ctr. For Pub. 
+Int., 144 
+Hawaiʻi at 474, 445 P.2d at 55.   “However, ‘the 
+court is not required to accept conclusory allegations on the legal effect of the events alleged.’”   Id.  (citation 
+omitted).  
+Mālama II, 2025 WL 3242533 , at *6. 
+Similarly, t he Circuit Court did not express it was 
+applying  the plausibility  standard when it granted DPW’s and 
+MLP’s motions to dismiss. The Circuit Court stated the 
+following regarding Counts II and III:  
+[T]he Court takes all well -pleaded allegations of 
+fact as true, but is not required to accept conclusory 
+allegations on the legal effect of the events alleged. As 
+such, Count II does not present a viable quo w arranto cause 
+of action and is dismissed.  
+ Count III is similarly dismissed, as the conclusory 
+allegations  in Counts I and II do not entitle plaintiffs to 
+declaratory r elief requested.  
+14  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORT AND PACIFIC REPORTER ** * 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+    
+  
+  
+ 
+  
+ 
+    
+    
+ 
+  
+   The Circuit Court’s language is consistent with the standard for 
+addressing a motion to dismiss and in part comes from our 
+liberal notice pleading standard. 
+Although the ICA and the Circuit Court articulated 
+various parts of the notice pleading standard , we conclude both 
+courts did not correctly apply dismissal standards for Count III 
+related to whether the DPW had good cause to extend the grading 
+permit. When reviewing whether to dismiss a complaint, a court 
+must view the complaint in the light most favorable to the 
+plaintiff and it must appear beyond doubt that the plaintiff can 
+prove no set of facts in support of their claim that would 
+entitle them to rel ief. Reyes-Toledo II , 143 Hawaiʻi at 257, 428 
+P.3d at 769. Rather than viewing the allegations in the 
+Complaint in the light most favorable to plaintiff Mālama 
+regarding Count III , the ICA read Mālama’s Complaint narrowly as 
+“not alleg[ing ] that the [DPW] lacked good cause to grant the 
+extension.” Mālama II, 2025 WL 3242533, at *5. Similarly, it 
+appears the Circuit Court narrowly read the Complaint as 
+asserting conclusory allegations. 
+Instead, we conclude the allegations in Count III gave 
+MLP and DPW fair notice that Mālama claimed that DPW’s asserted 
+reason for good cause to extend the grading permit did not, in 
+fact, constitute good cause. That is, viewing the Complaint in 
+the light most favorable to Mālama, the Complaint asserted that 
+15  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORT AND PACIFIC REPORTER ** * 
+ 
+ 
+ 
+   
+   
+    
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ DPW’s letter — stating there was “good ca use, consisting in the 
+applicant’s need to complete grading operations ” — was wrong 
+because the asserted reason did not constitute good cause. MCC 
+§ 20.08.020 do es not define “good cause.” The issue of g ood 
+cause in this case is potentially a legal and factual issue. 
+See Chen v. Mah , 146 Hawai ʻi 157, 178 -80, 457 P.3d 796, 817 -19 
+(2020) (collecting cases holding that good cause depends on the 
+rule at issue and the circumstances of each case) ; see also 
+Gutschmidt v. Maui Plan . Comm’n, No. SCOT -23-0000516, 2026 WL 
+1458880, at *8 -10 (Haw. May 22, 2026) (same) . 
+B. Count II: Quo Warranto 
+We next address Mālama’s claim for quo warranto relief 
+in Count II. The allegations in Count II are identical to the 
+allegations in Count III: 
+50. A grading permit application requires review by SHPD 
+before DPW or the Director can approve the same. 
+51. A grading permit expires and becomes null and void one 
+year after the date of issuance. 
+52. The Director has the power to grant a time extension 
+of a grading permit in cases of hardship or for good cause. 
+53. Where hardship or good cause are lacking, the Director 
+is without power to grant an extension. 
+54. Only the County Council has the power to permit 
+grading, stockpiling or grubbing outside of the present 
+framework, which it is empowered to do only by passing an 
+ordinance. 
+55. The Director’ s granting of a permit extension in the 
+absence of hardship or good cause is ultra vires and usurps 
+the power of the County Council. 
+16  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORT AND PACIFIC REPORTER ** * 
+ 
+ 
+ 
+  
+ 
+      
+ 
+     
+ 
+  
+ In short, Mālama alleged that the Director usurped the office of 
+the Maui County Council by granting a grading permit extension 
+absent hardship or good cause. The Circuit Court dismissed 
+Count II as having not alleged a viable quo warranto claim, and 
+we agree. 
+“Quo warranto is ‘a common -law writ used to inquire 
+into the authority by which a public office is held or a 
+franchise is claimed.’” Dejetley v. Kahoʻohalahala , 122 Hawaiʻi 
+251, 265, 226 P.3d 421, 435 (2010) ( citation omitted ). Relevant 
+to this case, HRS § 659 -1 (2016) defines “quo warranto” as “an 
+order issuing in the name of the State by a circuit court and 
+directed to a person who claims or usurps an office of the State 
+or of any subdivision thereof . . . inquiring by what authority 
+the person cl aims the office [.]” 
+Quo warranto proceedings are appropriate in 
+challenging the authority by which a person holds an office. 
+See, e.g., Dejetley , 122 Hawaiʻi at 253-54, 271, 226 P.3d at 423-
+24, 441 (allowing plaintiffs leave to amend their complaint to 
+assert a quo warranto claim against a county council 
+representative on the basis that he could not represent the 
+geographic area within which he did not reside); Off. of Haw. 
+Affs. v. Cayetano , 94 Hawaiʻi 1, 8-9, 6 P.3d 799, 806 -07 (2000) 
+(holding that the “State should se ek relief through a quo 
+warranto petition” to challenge whether the Office of Hawaiian 
+17  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORT AND PACIFIC REPORTER ** * 
+ 
+ 
+ 
+  
+   
+     
+ 
+ 
+      
+ 
+  
+  
+  
+ 
+ 
+    
+  Affairs trustees could remain in their positions after the 
+United States Supreme Court held OHA elections to be 
+unconstitutional in Rice v. Cayetano , 528 U.S. 495 
+(2000)(footnote omitted) ); Territory v. Morita , 41 Haw. *1, *2 
+(Haw. Terr. 1955) (affirming judgment in favor of Attorney 
+General, who brought quo warranto proceedings challenging 
+holdover city and county attorney, holdover superintendent of 
+buildings, and holdover city and county physician). 
+In this case, Mālama’s Complaint alleges, at bottom, 
+that the Director granted a grading permit extension without 
+good cause, which alleges an abuse of authority expressly 
+conferred upon the Director by MCC § 20.08.110. This allegation 
+does not state any set of facts that could prove a usurpation of 
+the office of the Maui County Council. Therefore, Mālama’s 
+Count II quo warranto claim was properly dismissed because it 
+stated no claim upon which relief could be granted. 
+In summary w e hold that, to the extent the Complaint 
+alleges Count III is based on DPW not having good cause to 
+extend the grading permit, Count III should not have been 
+dismissed for failure to state a claim.3 Count II , on the other 
+hand, was properly dismissed because M ālama’s Complaint does not 
+allege a viable quo warranto claim. 
+3 We do not reach or address the applicable good cause standard or 
+other grounds for dismissal. 
+18  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORT AND PACIFIC REPORTER ** * 
+ 
+ 
+ 
+   
+    
+ 
+ 
+  
+     
+ 
+ 
+ 
+ 
+ V. Conclusion 
+For the foregoing reasons, the ICA’s judgment is 
+vacated in part to the extent that it affirmed the Circuit 
+Court’s dismissal of Count III related to the issue of good 
+cause. In all other respects, the ICA’s judgment is affirmed. 
+This case is remanded to the Circuit Court for further 
+proceedings consistent with this opinion. 
+Lance D. Collins    
+and Bianca K. Isaki  
+for petitioners    
+ 
+Victoria J. Takayesu,   
+Kristin K. Tarnstrom,   
+and Kenton S. Werk    
+for respondent  
+County of Maui     
+Department of Public Works  
+ Gregory W. Kugle  
+and David H. Abitbol  
+for respondent  
+Maui Lani Partners  /s/ Vladimir P. Devens  
+/s/ Sabrina S. McKenna  
+/s/ Todd W. Eddins  
+/s/ Lisa M. Ginoza  
+/s/ Trish K. Morikawa  
+19 

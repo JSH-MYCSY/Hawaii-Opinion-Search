@@ -10,7 +10,7 @@ with open("CourtOpinion_Hawaii_New.csv","r",encoding='utf-8') as csvObj:
     for row in reader:
         variableTest = row[0]  # This iterates over the csv file and just saves over the variableTest variable until it reaches the end of the list.
 with open("CourtOpinion_Hawaii_New.csv","a",newline='', encoding='utf-8') as csvObj:
-    res = requests.get('https://www.courts.state.hi.us/opinions_and_orders/opinions/')  # gets the opinions site.
+    res = requests.get('https://www.courts.state.hi.us/opinions_and_orders/opinions')  # gets the opinions site.
     courtOpinions = bs4.BeautifulSoup(res.text, 'html.parser')  # parses the html on the site.
     courtList = courtOpinions.find('tbody', {'class': 'row-hover'})  # finds the table body that houses all the opinion information.
     caseName = courtList.find('td', {'class': 'column-4'})  # this and the subsequent .find('td) functions get the individual opinion information from the table.
