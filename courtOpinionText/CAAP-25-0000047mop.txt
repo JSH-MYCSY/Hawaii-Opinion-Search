@@ -1,0 +1,723 @@
+ 
+ 
+  
+ 
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+    NOT FOR PUBLICATION IN WEST'S HAWAIʻI  REPORTS AND PACIFIC REPORTER  
+Electronically Filed 
+Intermediate Court of Appeals CAAP-25-0000047 29-JUN-2026 08:01 AM Dkt. 124 MO 
+NO. CAAP-25-0000047 
+IN THE INTERMEDIATE COURT OF APPEALS 
+ 
+OF THE STATE OF HAWAIʻ I 
+STATE OF HAWAIʻ I, Plaintiff-Appellee, v. 
+PAUL BANASHIHAN JR., Defendant-Appellant 
+APPEAL FROM THE CIRCUIT COURT OF THE THIRD CIRCUIT 
+(CASE NO. 3CPC-18-0000366) 
+MEMORANDUM OPINION 
+(By: Leonard, Presiding Judge, Wadsworth and Gluck, JJ.) 
+Defendant-Appellant Paul Banashihan, Jr. (Banashihan) 
+appeals from the September 30, 2024 Judgment of Conviction and 
+Sentence (Judgment) entered by the Circuit Court of the Third Circuit (Circuit Court).
+   On appeal, Banashihan raises five 
+points of error: (1) the Circuit Court erred in failing to 
+conduct an inquiry pursuant to State v. Harter, 134 1
+Hawaiʻi 308, 
+340 P.3d 440 (2014), regarding Banashihan's dissatisfaction with 
+counsel (Harter inquiry) and failed to continue the trial; (2) the Circuit Court improperly prohibited questioning of a witness; (3) prosecutorial misconduct; (4) defective indictment; and (5) ineffective assistance of counsel. Upon review of the record on appeal and relevant legal authorities, giving due 
+1 The Honorable Henry T. Nakamoto presided.   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+  
+  
+ consideration to the issues raised and arguments advanced by the 
+parties, we conclude that the Circuit Court erred in failing to conduct a Harter inquiry. Therefore, we vacate the Judgment and remand to the Circuit Court. 
+Although Banashihan requests that we remand for a new 
+trial, that is not the proper remedy for failure to conduct a Harter inquiry. Instead, we remand to the Circuit Court to 
+conduct the Harter inquiry. If the Circuit Court finds that 
+Banashihan should have been permitted to discharge his attorney and proceed with new counsel, Banashihan will be entitled to a new trial. If the Circuit Court finds that there was no breakdown in communication or irreconcilable difference between Banashihan and his counsel, then the Judgment can be re-entered, with one change: Counts 2 and 9 are duplicative, and on remand, the State must dismiss one of the two or re-try these counts with a merger instruction. 
+I. BACKGROUND 
+On May 10, 2018, Banashihan was charged via indictment 
+with six counts of sexual assault in the second degree and five counts of sexual assault in the fourth degree. The incidents 
+that gave rise to the eleven counts were alleged to have 
+occurred while Banashihan "was contemporaneously acting in a professional capacity to instruct, advise, or supervise" minors 
+while he was a "cadre"
+2 at the Hawai‘ i Youth Challenge Program 
+(Youth Challenge). Nine of these counts concerned an alleged 
+incident between Banashihan and a minor, S.Q., and the two remaining counts concerned separate conduct between Banashihan and two other minors. 
+Following the indictment, Banashihan hired private 
+counsel, H. Victor Conde (
+Conde), who agreed to represent 
+2 This is the term used for adults in Banashihan's position who 
+supervised cadets in the program. 
+2   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+   
+   
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+   
+  
+ 
+ 
+  
+ Banashihan pro bono. However, Conde admitted that he was "not 
+very experienced in criminal law and particularly criminal jury trials" and thus could only represent Banashihan if aided by a competent criminal trial attorney. The Circuit Court therefore granted a motion for California attorney Ricardo A. Nicol (Nicol) to appear pro hac vice; Nicol, in turn, enlisted the assistance of attorney Jennifer A. Wharton (Wharton). 
+On November 1, 2022, Wharton filed a Motion to 
+Withdraw as Counsel on behalf of herself, Nicol, and Conde. Wharton indicated that Banashihan was insolvent, leaving him unable to pay attorneys' fees or retain experts for trial, as well as the fact that "[c]ooperation and communication with [Banashihan] and present counsel has been unproductive and sporadic[.]" The Circuit Court granted the motion. The Office of the Public Defender was unable to represent Banashihan due to a conflict; therefore, the Circuit Court appointed Aaron K. Wills (Wills) as counsel for Banashihan on March 15, 2023. On June 14, 2023, the parties appeared for a hearing on motions in limine and trial setting (June 14 Hearing), in anticipation of the trial set to commence on June 19. The following discussion 
+took place: 
+THE COURT: Good morning. 
+And you [sic] ready to proceed? 
+MR. WILLS: Well, your Honor, for the record, I am 
+ready to proceed. Um, we have -- I have prepared for this 
+trial the best that I can. 
+Unfortunately due to the last hearing that we had, 
+um, and what was put on the record, um, I did tell my 
+client that the best decision for him at that time, you 
+know, would just be put the no contest plea in. He chose 
+not to do. So we set for trial. 
+I --I'm prepared for trial and ready to go and start 
+on Monday, your Honor. However, my client has something he 
+wishes to say to the Court. 
+THE COURT: Mr. Banashihan, you want to say 
+something? 
+3   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+  
+   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+   
+ 
+ 
+  
+ 
+  
+   
+ 
+ 
+  
+ 
+ 
+  
+ 
+   
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+   
+ 
+ 
+ 
+ THE DEFENDANT: Yes, your Honor. I -- Aaron Wills did 
+his best. But also [sic] I also felt a little bit that he 
+wasn't really representing me a hundred percent when I say 
+that I'm not guilty. 
+And, um, I talked to my old lawyers and they said 
+they're willing to jump back on board if I could make this 
+payment to them. And I was wondering if -- if that could --
+could rehappen at this point in time in court. 
+THE COURT: So, Mr. Banashihan, I appointed Mr. 
+Wills. I know he is a good attorney. I know he's -- I've 
+seen him in trial before me. Um, I have no qualms about 
+him. 
+But what you're saying is you want time to get 
+another attorney? 
+THE DEFENDANT: Um, well, my old lawyers, um, Mr. 
+Vicker -- Victor Conde and, um, Jennifer, um, I forget her 
+last name. Well, they -- they -- they gave me another offer 
+that -- that is less than what they -- they -- they 
+previously offered me. So I could make that payment. So I 
+was just wondering if I could be allowed to do that. 
+THE COURT: And cuz you know you applied for 
+assistance, right, for the Court to appoint Mr. Wills for 
+you no – 
+THE DEFENDANT: Yes, your Honor. 
+THE COURT: -- no charge. So you saying you can 
+afford an attorney now given the new proposal from them? 
+THE DEFENDANT: Yes, your Honor. THE COURT: Okay. Mr. Wills, you have any position 
+regarding that? I know you are ready to go. I've seen you 
+in trial. I know you're very competent, but I -- I mean. 
+MR. WILLS: Yeah, you know, my position is, um, after 
+the last hearing I was texted the former attorneys' number. 
+I have called them twice. There is no return phone calls. 
+When we first started this case I asked for Mr. 
+Banashihan to, you know, please give me any information 
+from your old attorneys, any files, any stuff that you had 
+so I could prepare your case. 
+Um, that never happened. And so I prepared the case 
+with, you know, the evidence that I've -- and discovery 
+I've received from the State. Um, we're ready to go 
+despite, you know, ah, not receiving anything from the old 
+attorney. 
+4   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+  
+ 
+  
+ 
+ 
+  
+ And I don't have any duty, your Honor, to actually 
+meet and confer with the old attorney because some of the 
+stuff they may have done might be considered work product 
+and might not want to hand it over to me.  
+But regardless, if Mr. Banashihan made the request 
+for that to happen he should have received his old file and 
+I could have reviewed it. 
+However, that never happened. But on the eve of trial 
+he's making the request that he now wants to go back to his 
+private attorneys. Um, out of the abundance of caution, 
+your Honor, this was an offer.  
+He hasn't made them a payment. If the payment's not 
+made, and then it comes back in another month saying I 
+couldn't make the payment, where would we be then? Would I 
+just be now the stand by court- appointed attorney until he 
+can confer whether or not he can hire private counsel or not?  
+THE COURT: Hmm, that's a good question. 
+[Prosecutor], you have any position? [PROSECUTOR]: Your Honor, the State is objecting to 
+the defense request. He -- it's clear that the defendant 
+does not have new counsel at this point. . . .  
+  
+ . . . . 
+. . . I think until he actually has new counsel that 
+is standing here before the Court we should proceed with 
+his attorney who he does have.  
+ 
+ THE COURT:  Okay. So, Counsel, I agree with what both 
+of you're saying because we don't have anyone here and we 
+ 
+-- I don't want to take off the trial at this point 
+because, ah, Mr. Banashihan, we don't have anybody here, 
+you know, saying that they've been retained and they're 
+ready to go and ready to represent you or they want to continue. I don't have anything.  
+ 
+ So based on that I'm going to deny the request for 
+you to continue this to retain new counsel. 
+ 
+(Emphases added.) The case proceeded to trial. After the 
+prosecution rested, the Circuit Court dismissed Count 10. During deliberations, the Jury sent the following communication to the Circuit Court: "We noticed that Counts [sic] 2 and [C]ount 9 are exactly the same. . . . We are talking about element 1 for both Counts. Is this correct, or are we 
+5   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+  
+  
+ 
+  
+ 
+ 
+ mistaken?" The Circuit Court responded, "This is correct." The 
+Jury found Banashihan guilty on Counts 1 through 9 and not guilty on Count 11. The Circuit Court entered its Judgment as to Counts 1 through 9 on September 30, 2023. This appeal followed. 
+II. STANDARDS OF REVIEW 
+Substitution of Counsel 
+This court "review[s] a lower court's denial of a 
+motion to substitute court-appointed counsel for abuse of 
+discretion." State v. Walter, 156 Hawaiʻ i 65, 73, 569 P.3d 1249, 
+1257 (2025). "The trial court's decision will not be overturned 
+on appeal unless there was an abuse of discretion that prejudiced the defendant by amounting to an unconstitutional denial of the right to effective assistance of counsel." Id.
+(cleaned up). 
+Hawaiʻi Rule of E
+vidence (HRE) Rule 608(b) 
+[A]dmissibility of evidence under HRE Rule 608(b) involves 
+a two-step inquiry: (1) whether the specific conduct 
+evidence proffered for the " purpose of attacking the 
+witness' [s] credibility" is "probative of untruthfulness," 
+and, if so, (2) whether the probative value of the specific 
+conduct is substantially outweighed by the danger of unfair 
+prejudice, confusion of the issues, or misleading the jury, or by considerations of undue delay, waste of time, or 
+needless presentation of cumulative evidence pursuant to 
+HRE Rule 403. An appellate court reviews the trial court's 
+two-step admissibility determination under the right/wrong 
+standard as to the first step, and under the abuse of 
+discretion standard as to the second step. 
+State v. Su, 147 Hawaiʻ i 272, 274, 465 P.3d 719, 721 (2020), as 
+amended (June 23, 2020) (alteration in original). 
+Hearsay 
+"Where the admissibility of evidence is determined by 
+application of the hearsay rule, there can be only one correct 
+result, and the appropriate standard for appellate review is the 
+right/wrong standard." State v. Abrigo
+, 144 Hawai‘i 491, 497, 
+445 P.3d 72, 78 (2019) (cleaned up). 
+6   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+  
+ 
+ Prosecutorial Misconduct 
+"Allegations of prosecutorial misconduct are reviewed 
+under the harmless beyond a reasonable doubt standard, which 
+requires an examination of the record and a determination of whether there is a reasonable possibility that the error complained of might have contributed to the conviction." State
+v. Klinge, 92 Hawaiʻ i
+ 577, 584, 994 P.2d 509, 516 (2000) 
+(citations and internal quotation signals omitted). "Factors to 
+consider are: (1) the nature of the conduct; (2) the promptness of a curative instruction; and (3) the strength or weakness of the evidence against the defendant." Id. (citations and internal quotation signals omitted). 
+Plain Error 
+An appellate court may review an error "even though it 
+was not brought to the attention of the trial court" if the error constitutes a plain error that affects a party's 
+substantial rights. State v. Miller
+, 122 Hawaiʻ i 92, 100, 223 
+P.3d 157, 165 (2010) (quoting State v. Sanchez, 82 Hawai‘ i 517, 
+524–25, 923 P.2d 934, 941–42 (App. 1996)). This standard is 
+applied "to correct errors which seriously affect the fairness, integrity, or public reputation of judicial proceedings, to serve the ends of justice, and to prevent the denial of fundamental rights." Id.(emphasis removed). 
+Defective Indictment 
+While indictments can be challenged at any point during the 
+proceeding, different standards apply to post- conviction 
+challenges. . . . [W]e will not reverse a conviction based upon a defective indictment unless the defendant can show 
+prejudice or that the indictment cannot within reason be 
+construed to charge a crime. The liberal construction standard essentially prescribes a presumption of validity 
+on indictments that are challenged subsequent to a 
+conviction. 
+State v. Tran, 154 Hawaiʻ i 211, 224, 549 P.3d 296, 309 (2024) 
+(cleaned up). 
+7   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  Merger of Counts 
+Where there exists a "reasonable possibility that the 
+jury's verdict led to two convictions for 'the same conduct,' 
+. . . the circuit court's failure to charge the jury with respect to merger contravened HRS § 701–109(1)(e) and was not harmless beyond a reasonable doubt." State v. Frisbee, 114 
+Hawaiʻi 76, 84, 156 P.3d 1182, 1190 (2007). 
+Ineffective Assistance of Counsel 
+When reviewing a claim of ineffective assistance of 
+counsel, this court looks at whether defense counsel's 
+assistance was within the range of competence demanded of 
+attorneys in criminal cases. The defendant has the burden 
+of establishing ineffective assistance of counsel and must meet the following two- part test: 1) that there were 
+specific errors or omissions reflecting counsel's lack of skill, judgment, or diligence; and 2) that such errors or 
+omissions resulted in either the withdrawal or substantial 
+impairment of a potentially meritorious defense. To 
+satisfy this second prong, the defendant needs to show a 
+possible impairment, rather than a probable impairment, of 
+a potentially meritorious defense. A defendant need not 
+prove actual prejudice. 
+State v. DeLeon, 131 Hawaiʻ i 463, 478-79, 319 P.3d 382, 397–98 
+(2014) (quoting State v. Wakisaka, 102 Hawaiʻ i 504, 513–14, 78 
+P.3d 317, 326–27 (2003)). "Matters presumably within the 
+judgment of counsel, like trial strategy, will rarely be second-guessed by judicial hindsight." Id.
+ at 479, 319 P.3d at 398 
+(cleaned up). 
+III. DISCUSSION 
+A. The Circuit Court erred in failing to conduct a 
+Harter 
+inquiry. 
+Banashihan's principal argument is that the Circuit 
+Court erred in failing to conduct a Harter inquiry. We agree. 
+Criminal defendants have a constitutional right to 
+effective assistance of counsel. See Haw. Const. art. I, § 14; 
+State v. Tetu
+, 139 Hawaiʻi 207, 215, 386 P.3d 844, 852 (2016).  
+"[T]he attorney-client relationship involves the highest degree 
+8   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+   of trust and confidence." Harter, 134 Hawaiʻ i at 328, 340 P.3d 
+at 460 (cleaned up). As such, "'when an indigent defendant 
+requests that appointed counsel be replaced, the trial court has a duty to conduct a penetrating and comprehensive examination of the defendant on the record, in order to ascertain the bases for 
+the defendant's request.'" State v. Walter, 156 
+Hawaiʻi 65, 77, 
+569 P.3d 1249, 1261 (2025) (quoting Harter, 134 Hawaiʻ i at 323, 
+340 P.3d at 455)); accord State v. Kane, 52 Haw. 484, 487, 479 
+P.2d 207, 209 (1971). "This inquiry is not only required for the trial court to make an informed decision, but it also should seek to ease the defendant's dissatisfaction, distrust, and 
+concern." Harter, 134 Hawaiʻ i at 329, 340 P.3d at 461 (cleaned 
+up). 
+"Whether there is 'good cause' requiring substitution 
+of counsel will depend on the facts of the case. Typically, 
+'good cause' exists when there is a conflict of interest on the part of defense counsel, a complete breakdown in communication between the attorney and client, or an irreconcilable difference 
+between the attorney and client." Id. at 323–24, 340 P.3d at 
+455–56. 
+Additionally, "[a] trial court may consider the delay 
+or inconvenience that would result from a substitution of 
+counsel in addition to its consideration of the status and quality of the attorney-client relationship." Id. at 330, 340 
+P.3d at 462. 
+Here, Banashihan expressed a potential breakdown in 
+communication and/or an irreconcilable difference with his appointed counsel at the June 14 Hearing by noting his concern that Wills "wasn't really representing [him] a hundred percent[.]" 
+He then expressly requested a change in counsel by 
+asking the Circuit Court to give him an opportunity to re-retain his previous counsel. This conversation constituted a request 
+by Banashihan to replace his court-appointed counsel and thus 
+9   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+  
+  
+  
+ 
+ 
+  
+ 
+   
+ 
+ triggered the need for a Harter inquiry. See Harter, 134 Hawaiʻ i 
+at 329-30, 340 P.3d at 461-62. 
+The remedy for failing to conduct a Harter inquiry, 
+however, is not an automatic retrial. Instead, we vacate the 
+Judgment and remand to the Circuit Court to conduct the Harter inquiry. If the Circuit Court finds that Banashihan's breakdown 
+in communication with his counsel was sufficiently severe to 
+violate his constitutional right to counsel, then a new trial is 
+warranted. See In re I Child., 153 Hawaiʻ i 223, 225, 529 P.3d 
+701, 703 (App. 2023) ("Because the required examination did not 
+occur, we remand these cases to the Family Court for a hearing on the basis of Father's request for new counsel and a determination as to whether Father's claim of ineffective assistance of counsel has merit. The outcome of this hearing should determine whether the further remedy of a new trial is necessary." (citing 
+Kane, 52 Haw. at 488, 479 P.2d at 210)). 
+If a new trial is not warranted, then the Circuit Court may re-enter judgment (consistent with this court's ruling on the merger of Counts 2 and 9, discussed 
+infra at section III(E)(i)).3 
+B. The Circuit Court did not err in disallowing hearsay 
+testimony from witness Vanesa Gorospe. 
+Banashihan argues that the Circuit Court erred by 
+prohibiting witness Vanesa Gorospe from testifying as to specific instances of S.Q. lying. He frames this argument three 
+3 Given our disposition of the Harter question, we need not address 
+Banashihan's arguments regarding the denial of his request for a continuance 
+or his claim of ineffective assistance of counsel relating to the request for 
+a continuance. 
+10   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ different ways, arguing that the Circuit Court violated HRE 
+Rule 608(b),  HRE Rule 609.1,  and the confrontation clause of 
+the 5
+Hawaiʻi Constitution (Haw. Const. art. I, § 14).  We hold 
+that the Circuit Court did not err in excluding this testimony. 4
+During trial, the State agreed that Banashihan could 
+ask Gorospe about S.Q.'s character of truthfulness, and the 
+Circuit Court allowed the testimony. Banashihan's counsel, 
+however, wanted to ask Gorospe about specific instances of S.Q.'s alleged untruthfulness, but – during voir dire – it was clear that Gorospe's knowledge was based solely on what Gorospe had heard from the director of Youth Challenge about S.Q. The Circuit Court prohibited these questions because Gorospe lacked 
+4 HRE Rule 608, entitled "Evidence of character and conduct of 
+witness," provides in relevant part: 
+(a) Opinion and reputation evidence of character. The 
+credibility of a witness may be attacked or supported by 
+evidence in the form of opinion or reputation. . . . 
+(b) Specific instances of conduct. Specific instances 
+of the conduct of a witness, for the purpose of attacking 
+the witness' credibility, if probative of untruthfulness, 
+may be inquired into on cross- examination of the witness 
+and, in the discretion of the court, may be proved by 
+extrinsic evidence. When a witness testifies to the 
+character of another witness under subsection (a), relevant specific instances of the other witness' conduct may be 
+inquired into on cross- examination but may not be proved by 
+extrinsic evidence. 
+(Emphasis added.) 
+5 HRE Rule 609.1, entitled "Evidence of bias, interest, or motive," 
+provides: 
+(a) General rule. The credibility of a witness may 
+be attacked by evidence of bias, interest, or motive. 
+(b) Extrinsic evidence of bias, interest, or motive. 
+Extrinsic evidence of a witness' bias, interest, or motive is not admissible unless, on cross- examination, the matter 
+is brought to the attention of the witness and the witness is afforded an opportunity to explain or deny the matter. 
+11   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+  
+     
+  
+ first-hand knowledge and therefore, the statements constituted 
+hearsay. 
+The Circuit Court's ruling was consistent with HRE 
+Rule 608(b) and State v. Su, 147 Hawaiʻ i at 274, 465 P.3d at 721, 
+which sets forth a two-step process for determining admissibility under HRE Rule 608(b). The Circuit Court allowed 
+the parties to voir dire Gorospe; once the Circuit Court 
+determined that Gorospe lacked first-hand knowledge about specific instances of S.Q.'s alleged dishonesty, the Circuit Court correctly prohibited further questions on the topic. The Circuit Court did not abuse its discretion in so doing.
+6 See 
+also United States v. Dvorkin, 799 F.3d 867, 883 (7th Cir. 2015) ("Rule 608(b) leaves the trial judge with broad discretion to limit . . . questioning, stating only that prior instances of conduct 'may' be inquired of, if probative of truthfulness or untruthfulness. Put differently, such questioning often will be
+subject to exclusion on other grounds, such as hearsay or Rule 403.") (emphasis added; cleaned up)); see also HRE Rule 608 cmt. (1980) (explaining that HRE Rule 608 contains additional 
+language compared to Fed. R. Evid. 608, but that this additional 
+language is not intended to modify "the intended effect of Fed. R. Evid. 608"). 
+Banashihan also cites HRE Rule 609.1, but this Rule is 
+inapplicable here. Banashihan was not asking Gorospe to testify about her own credibility, but rather sought to have Gorospe testify about S.Q.'s credibility – and not just general character evidence, but specific instances of lying for which Gorospe lacked any personal knowledge. Rule 609.1 simply does 
+6 Su provides that the second step of an HRE Rule 608(b) 
+determination is subject to review for abuse of discretion. Even if we were 
+to review the hearsay ruling de novo, however (see, e.g., State v. Austin, 
+143 Hawaiʻi 18, 28, 422 P.3d 18, 28 (2018) (hearsay rulings are reviewed de 
+novo
+)), we would still find no error because the proffered testimony was 
+inadmissible hearsay. 
+12   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+  
+ 
+ 
+ 
+ 
+  not apply in this situation. See generally Coyle v. Compton, 85 
+Hawai‘i 197, 210, 940 P.2d 404, 417 (App. 1997) (disallowing 
+witness testimony under HRE Rule 609.1(b) where the witness 
+testimony was introduced to impeach a plaintiff who had not been cross-examined on the subject matter of the testimony); see also HRE Rule 609.1(b) cmt. (stating "that before any bias of a 
+witness can be introduced, a foundation must first be laid by 
+cross-examining the witness regarding the facts which assertedly prove the bias" because this "gives the witness a fair opportunity to explain statements or equivocal facts" and "lends expediency to trials, for if the facts showing bias are admitted by the witness, the introduction of extrinsic evidence becomes unnecessary."). Similarly, although Banashihan contends there was a confrontation clause violation, he was able to cross-examine both S.Q. and Gorospe – he was prohibited only from asking Gorospe about inadmissible hearsay. The Circuit Court did not err. 
+C. The State did not commit misconduct during closing 
+arguments. 
+i. "[A]buse of power, abuse of authority, and abuse of 
+trust." 
+Banashihan argues that the prosecution committed 
+misconduct for multiple statements made during closing arguments. He first argues that the State's references to abuse of power, trust, and authority were prejudicial and that they "improperly appealed to the jury's emotions." No objection was made at trial. As such, we review for plain error, and we conclude that the Circuit Court did not plainly err. 
+Prosecutors should refrain from using "arguments 
+calculated to inflame the passions or prejudices of the jury." 
+State v. Pasene, 144 Hawaiʻ i 339, 370, 439 P.3d 864, 895 (2019) 
+(cleaned up). 
+However, arguments are generally permissible 
+13   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+  
+  
+ when, analyzed in context, they have a "fundamental bearing on 
+the primary issues in th[e] case." State v. Bruce, 141 Hawaiʻ i 
+397, 407, 411 P.3d 300, 310 (2017). 
+Here, the prosecutor's arguments regarding 
+Banashihan's abuse of power, trust, and authority were directly 
+related to the allegations that Banashihan sexually assaulted 
+three minors while the "Defendant was contemporaneously acting 
+in a professional capacity to instruct, advise, or supervise [the minors] . . . ." (Emphasis added.) The prosecutor's arguments regarding abuse of power, trust, and authority had a fundamental bearing on the alleged crimes: the prosecutor argued that Banashihan's position as a cadre, where he was charged to discipline, monitor, and mentor the minors, imbued him with the authority and opportunity to commit the assaults. At trial, the State made a point of establishing that Banashihan used his position as cadre to pull S.Q. out of class with no questions asked. The State also established that S.Q. was afraid to refuse Banashihan's sexual requests because of his position. The Circuit Court did not plainly err here. 
+ii. The acts comprising each count. 
+Banashihan argues that the State committed misconduct 
+when the prosecutor stated that multiple different acts could comprise Count 1. Again, no objection was made at trial; again, we conclude that the Circuit Court did not plainly err. 
+In her closing argument, the prosecutor said the words 
+"count 1" before describing the acts comprising count 1, and she said "count 5" before describing the acts comprising count 5. Banashihan argues that because the prosecutor did not state the words "count three" and "count four" before describing the relevant acts comprising each of those counts, the State misstated the law and confused the jury. We find no plain error here, particularly because the Circuit Court's instructions to 
+14   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+  
+ the jury were clear as to the elements of each count. See State
+v. Klinge, 92 Hawai‘ i 577, 596, 994 P.2d 509, 528 (2000) (holding 
+that a misstatement of law was not reversible error when any 
+potential harm to the defendant was negated by proper court instruction). 
+iii. New evidence. 
+Banashihan argues that the State improperly introduced 
+new evidence at closing arguments when the prosecutor made the inference that the fact that Banashihan's DNA "could not be excluded one in eight trillion" meant that this was Banashihan's DNA. Additionally, Banashihan argues that the State misstated that "[Banashihan's] DNA cannot be excluded from the vaginal swabs" discussed at trial. Again, no objection was made at trial, and again, we find no plain error. 
+"[P]rosecutors are afforded wide latitude in closing 
+to discuss the evidence, and may state, discuss, and comment on the evidence as well as to draw all reasonable inferences from 
+the evidence." State v. Udo, 145 Hawai‘ i 519, 536, 454 P.3d 460, 
+477 (2019) (citation and internal quotation signals omitted). 
+At trial, Orimoto testified that he was able to do a 
+differential extraction on the vaginal swabs which separated the skin cells found on the sample from the "possible sperms cells." The results of the testing on the possible sperm cells (the sperm fraction) showed that Banashihan "can not [sic] be excluded as a possible contributor to the partial foreign DNA profile obtained from that sample" and that the frequency estimate of this occurrence was "one in greater than eight trillion." 
+Therefore, the State's closing argument made 
+reasonable inferences based on the evidence and did not misstate evidence. The Circuit Court did not plainly err. 
+15
+   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ D. The Indictment and Bill of Particulars were sufficient. 
+Banashihan argues that the indictment was defective 
+because it failed to define the elements of the offense within 
+reason. Pursuant to article I, section 14 of the Hawaiʻ i 
+Constitution, criminal defendants have the right "to be informed 
+of the nature and cause of the accusation" against them. When 
+reviewing whether a defendant's right to be informed has been 
+violated, the court "must look to all of the information supplied to him or her by the State to the point where the court passes upon the contention that the right has been violated." 
+State v. Israel, 78 Hawai
+ʻi 66, 70, 890 P.2d 303, 307 (1995) 
+(cleaned up). 
+The May 28, 2020 bill of particulars provided to 
+Banashihan included definitions of the terms complained of and 
+specified each particular act that constituted the charged crimes. Banashihan has not presented a colorable argument to suggest that the indictment "cannot within reason be construed 
+to charge a crime." State v. Tran, 154 Hawaiʻ i 211, 224, 549 
+P.3d 296, 309 (2024) (citation and internal quotation signals 
+omitted). We find no error here. 
+E. Banashihan's other claims of ineffective assistance of 
+counsel are without merit. 
+Banashihan presents five arguments as to why he was 
+denied effective assistance of counsel: 
+[i.] Counsel failed to moved [sic] to dismiss the defective 
+indictment or request merger or dismissal of some counts 
+based on the convictions; 
+[ii.] Counsel failed to cross examine S.Q. as to prior 
+specific instances of misconduct/untruthfulness under HRE 
+608 and 609.1; 
+[iii.] Counsel failed to abide by his client’s wishes when 
+the client's [sic] sought a continuance and instead asked 
+the court to proceed with the case; 
+[iv.] Counsel failed to object at closing argument; 
+16   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+  
+ 
+ 
+ 
+  [v.] Counsel failed to object to Adam Orimoto being 
+qualified as an expert before the jury. 
+"To succeed on [a] claim of ineffective assistance of 
+counsel, [the defendant] must show that there were specific 
+errors or omissions reflecting counsel's lack of skill, judgment, or diligence and that such errors or omissions resulted in either the withdrawal or substantial impairment of a 
+potentially meritorious defense." State v. DeLeon, 131 Hawaiʻ i 
+463, 480, 319 P.3d 382, 399 (2014) (citation and internal 
+quotation signals omitted). "Defense counsel's tactical decisions at trial normally will not be questioned by a 
+reviewing court. Lawyers are permitted broad latitude to make 
+on-the-spot strategic choices in the course of trying a case." State v. Onishi, 64 Haw. 62, 63, 636 P.2d 742, 743 (1981) (internal citations omitted). 
+We need not address issue iii given our disposition of 
+the 
+Harter question. We likewise need not address issue iv: 
+having found that there was no prosecutorial misconduct during closing arguments, Wills was not required to object. 
+The 
+remaining issues – i, ii, and v – are discussed below. 
+i. Counsel's failure to request a merger of the 
+duplicative counts constituted ineffective assistance of counsel. 
+Banashihan argues that he was improperly convicted of 
+two identical counts (Counts 2 and 9). We agree. 
+During closing argument, the prosecutor stated that 
+Count 2 involved allegations of Banashihan "touching the vaginal 
+area of Ms. S.Q. with his hands" and that Count 9 was based on 
+allegations of Banashihan "rubbing the outside vagina or vaginal 
+area of Ms. S.Q." During deliberations, the Jury expressly asked if "counts 2 and count 9 are exactly the same," and the Circuit Court responded, "This is correct." It is unclear, then, as to why both counts were presented to the Jury. As 
+17   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+  
+ such, on remand, if Banashihan's Harter inquiry is unsuccessful, 
+the State must dismiss either Count 2 or Count 9 before the Circuit Court enters judgment; alternatively, the State may choose to retry Banashihan on both counts with an appropriate 
+merger instruction. See State v. Padilla, 114 Hawaiʻ i 507, 518, 
+164 P.3d 765, 776 (App. 2007), (remanding for dismissal or re-
+trial with merger instruction). 
+ii. Counsel did not provide ineffective assistance of 
+counsel during his cross-examination of S.Q. 
+Banashihan argues that his court-appointed counsel, 
+Wills, provided ineffective assistance of counsel because he did 
+not cross-examine complaining witness S.Q. regarding prior instances of her misconduct/untruthfulness. We disagree. 
+Banashihan has not presented a cognizable argument 
+that Wills committed a specific error or omission reflecting his 
+lack of skill, judgment, or diligence. See DeLeon, 131 Hawai‘ i 
+at 480, 319 P.3d at 399. The record shows that Wills cross-
+examined S.Q. regarding prior instances of misconduct. 
+He 
+specifically asked her, "[h]ow many times were you disciplined 
+while you were at Youth Challenge Acadamy [sic]" and then asked 
+her about the time she was disciplined. Wills also specifically alluded to the fact that S.Q. may be lying about Banashihan's conduct on cross-examination. 
+Regarding any cross-examination which might have 
+showed S.Q.'s desire to leave the Youth Challenge, Wills may have decided that this line of questioning would be unwise. S.Q. testified at trial that she listened to Banashihan's commands because she did not want to have to leave Youth Challenge.   
+Additionally, after the alleged sexual assault, S.Q. 
+did continue with, and graduate from, Youth Challenge. 
+Regarding S.Q.'s credibility, S.Q.'s testimony was 
+backed up by DNA evidence and the testimony of Gorospe, who was 
+18   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+  
+ 
+  
+  
+  
+ 
+ allowed to testify that S.Q. had a reputation for untruthfulness. Wills may have decided that any cross-examination regarding S.Q. "getting bullied," "stuff that happened to her in the past, why she's in Youth Challenge," and needing to take care of "a baby at home" would possibly make her a more sympathetic witness. He may have also found it ineffective to attack S.Q.'s story about the sexual assault, 
+especially where S.Q. could have simply explained or denied 
+these statements. 
+In short, Banashihan has not pointed to specific 
+errors or omissions reflecting a lack of skill, judgment, or diligence. His claim of ineffective assistance of counsel is therefore without merit. 
+v. Counsel did not provide ineffective assistance in 
+failing to object to the State's expert. 
+Banashihan seems to argue that Wills was under an 
+obligation to object to two things: (1) Orimoto being qualified 
+as an expert, and (2) use of the word "expert." Neither argument has merit. As to the first argument, the record shows that the State established Orimoto's "knowledge, skill, 
+experience, training, or education" in the areas of forensic DNA 
+analysis and testing and identification" and "population statistics." See generally HRE Rule 702 (1980). Additionally, 
+on appeal, Banashihan does not challenge Orimoto's credentials. 
+As to the second, although the Hawaiʻ i Supreme Court has 
+discussed use of the word "expert," see State v. Metcalfe, 129 Hawaiʻi 206, 225–26, 297 P.3d 1062, 1081–82 (2013) ("there are 
+judges that have advocated for the elimination of the use of the 
+term 'expert' from jury proceedings"), no source of law 
+19   
+ 
+   
+ 
+ 
+  
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+prohibits the use of that term. There was no ineffective 
+assistance of counsel as to either point. 
+IV. CONCLUSION 
+For the foregoing reasons, we vacate the September 30, 
+2024 Judgment and remand for further proceedings consistent with this memorandum opinion. 
+DATED: Honolulu, Hawai i, June 29, 2026. 
+On  the  briefs:  
+ 
+Audrey L. Stanley  
+for Defendant-Appellant. 
+ 
+Nathan A. Wersal,  
+Deputy Prosecuting Attorney,  
+County of Hawai
+ʻi,  
+for Plaintiff-Appellee. /s/  Katherine G. Leonard 
+Presiding Judge 
+/s/ 
+Clyde J. Wadsworth 
+Associate Judge 
+/s/ Daniel M. Gluck    
+Associate Judge 
+20 
