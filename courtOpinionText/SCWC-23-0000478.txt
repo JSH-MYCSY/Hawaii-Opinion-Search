@@ -1,0 +1,1125 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+ ** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER**  
+Electronically Filed 
+Supreme Court SCWC-23-0000478 13-JUL-2026 09:31 AM Dkt. 23 OP 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ʻI  
+ 
+ ________________________________________________________________  ---o0o---
+STATE OF 
+HAWAIʻI,  
+Respondent/Plaintiff-Appellant,  
+ 
+vs.  
+ 
+BASIL WOODY,  
+Petitioner/Defendant-Appellee. 
+ ________________________________________________________________ 
+SCWC-23-0000478  
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS  
+(CAAP-23-0000478; CASE NO. 3DTA-23-00311)  
+ 
+July 13, 2026  
+ 
+DEVENS, C.J., McKENNA, EDDINS, AND GINOZA, JJ., AND CIRCUIT 
+JUDGE ASHFORD, ASSIGNED BY REASON OF VACANCY  
+OPINION OF THE COURT BY M cKENNA, J. 
+I. Introduction 
+This case requires this court to determine the standard 
+governing a State motion to continue due to witness 
+unavailability . 
+According to Officer Alexis Molina (“Officer Molina”) , on 
+February 12, 2023, he saw Defendant Basil Woody (“ Woody”) commit  ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+    
+  
+ 
+  
+  
+  
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+    several traffic offenses . Although he t ried to pull Woody over, 
+she drove at least a mile to her own house before stopping . He 
+noticed indicia of alcohol intoxication and arrested Woody. 
+After an intoxilyzer test at the police station, Woody was 
+charged with operating a vehicle under the influence of an 
+intoxicant as a highly intoxicated driver . On April 10, 2023, 
+Woody filed a motion to suppress the fruits of her warrantless 
+seizure and arrest. 
+The hearing on Woody’s motion was originally scheduled to 
+take place on April 24, 2023 . At the hearing, Woody requested a 
+continuance as discovery had not been provided, and the hearing 
+was rescheduled to take place fifty-three days later , on June 
+16, 2023 . 
+Nine days before the rescheduled hearing, t he State issued 
+a subpoena for Officer Molina. Four days before the hearing, 
+Officer Molina informed the State that he could not appear due 
+to weekend military reservist training . Two days before the 
+hearing, t he State filed a motion to continue. 
+At the rescheduled hearing, the District Court of the Third 
+Circuit1 (“district court”) found the State had not exercised due 
+diligence to secure Officer Molina’s availability and denied the 
+State’s motion to continue. After t he State conceded it had 
+1The Honorable J oanna E. Sokolow presided. 
+2   ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+ conducted a warrantless seizure and had no other available 
+witnesses, and after finding that the State also failed to 
+establish good cause to continue the hearing, the district court 
+granted Woody’s  motion to suppress  in its entirety  and scheduled 
+trial for August 15, 2023. But the grant of the suppression motion in its entirety essentially meant the State lacked 
+evidence to present at trial.   
+On August 14,  2023,  the State filed  an appeal to the 
+Intermediate Court of Appeals (“ICA”), arguing it had exercised due diligence and would otherwise be  unable to argue the merits 
+of its case  if the suppression  order was not vacated.   
+The ICA applied  its “Lee  test” from State v. Lee, 9 Haw. 
+App. 600, 604, 856 P.2d 1279, 1282  (App. 1993),  as the test 
+governing  its review of the  State’s  motion to continue.  State 
+v. Woody, No. CAAP-23-0000478, 2025 WL 2092848, at *2 (Haw.  App. 
+July 25, 2025)  (SDO). The ICA had initially adopted the Lee  
+test to address a defense motion to continue based on witness 
+unavailability. Lee, 9 Haw. App. at  604, 856 P.2d at  1282.   The 
+test  required a defendant to show that (1) the defendant acted 
+with due diligence to obtain the attendance of the witness; (2) 
+the witness would provide substantial favorable evidence for the 
+defendant; (3) the witness is available and willing to testify; 
+and (4) the denial of the continuance would result in material 
+prejudice to the defendant. Id.    
+3  ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+    
+   
+ 
+  
+  
+ 
+ 
+  
+   
+   
+  
+ 
+   
+ 
+ 
+ 
+ 
+ In State v. Williander , 142 Hawaiʻi 155, 163, 415 P.3d 897 , 
+905 (2018), this court rejected the Lee test as the standard 
+governing defense motions to continue as violative of a 
+defendant’s constitutional right to compulsory process . While 
+acknowledging Williander , the ICA applied the Lee test to the 
+State’s motion to continue . Woody, 2025 WL 2092848 , at *2 n.2. 
+The ICA then ruled that the State had exercised due diligence 
+and otherwise satisfied the test and ordered that the 
+suppression order be set aside. 
+On certiorari, Woody argues the ICA erred by applying the 
+Lee test, which has never been adopted by this court, and by 
+determining the district court abused its discretion by finding 
+the State did not act with due diligence. 
+We hold that the ICA erred by applying the Lee test to the 
+State as it is also unworkable and un just even as applied to the 
+State. We therefore now reject the Lee test in its entirety . 
+We also hold that t he ICA erred by overruling the district 
+court’s due diligence ruling. 
+But we do not reinstate the district court’s order granting 
+the suppression motion. 
+Instead, we further hold as follows. A State motion to 
+continue based on witness unavailability is to first be analyzed 
+for Hawaiʻi Rules of Penal Procedure (“HRPP”) Rule 48 (eff. 2000) 
+excludability based on HRPP Rule 48 (c)(4)(i)’s due diligence 
+4  ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+   
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ standard.  If the State fails to establish due diligence, State 
+v. Gillis, 63 Hawaiʻi  285, 288, 626 P.2d 190, 193 (1981),  
+precludes a court from excluding a continuance period under HRPP 
+Rule 48(c)(8)’s good cause  standard. But  if the Rule 48 
+deadline has yet to expire, the court is to analyze whether a continuance should be granted based on the common law good cause 
+standard.   
+Under the common law good cause analysis, to determine 
+whether a continuance should still be granted, the court is to 
+consider t he totality of circumstances , which include, but are 
+not limited to : (1) whether the circumstances that caused the 
+witness to be unavailable were unanticipated or not reasonably 
+foreseeable; ( 2) whether the witness is anticipated to provide 
+relevant and material testimony that benefits the State; and (3) 
+prejudice to the State or to the defendant based on the denial 
+or the grant of a continuance. 
+Here, the State indicated at the June 16, 2023 hearing that 
+the six-month deadline under HRPP Rule 48 for trial commencement 
+would not expire until October 2023. As the district court did 
+not err in finding a lack of due diligence, we therefore apply 
+this new totality of circumstances standard . We hold that good 
+cause existed to grant the State a reasonable continuance to 
+obtain Officer Molina’s testimony for the suppression hearing . 
+5  ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+    
+  
+ 
+   
+   
+ 
+   
+   
+ 
+  
+   
+   
+   
+    
+     
+  
+ 
+   
+  
+ 
+ 
+    
+   Hence, w e remand to the district court for further 
+proceedings consistent with this opinion. 
+II. Background 
+A. District court proceedings2 
+1. Factual background 
+According to Officer Molina, o n February 12, 2023 , at 
+approximately 1:30 AM, he observed Woody’s vehicle traveling 
+over the speed limit and cross ing traffic lines. He turned on 
+his siren and tried to pull Woody over, but she drove more than 
+one mile before stopping at her house . 
+According to Woody, w hen she pulled over into the driveway 
+of her home, Officer Molina asked her to step out of the 
+vehicle. According to Officer Molina , Woody voluntarily exited 
+her vehicle and showed indicia of intoxicat ion, including red, 
+watery, and glassy eyes, breath smell ing strongly of alcohol , 
+and being argumentative . Officer Molina also reported that she 
+tried to push past him and flee into her residence. 
+Officer Molina arrested Woody and transported her to the 
+police s tation, where she apparently blew a blood alcohol level 
+of over 0.15 . She was released from custody later that day. 
+On February 21, 2023, Woody was charged with operating a 
+vehicle while under the influence of alcohol based on a blood 
+2The facts remain disputed and are based on the State’s and Woody’s 
+allegations. 
+6   ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+  
+ 
+  alcohol level of at least 0.15,  in violation of Hawaiʻi  Revised 
+Statutes (“HRS”)  §  291E-61(a)(1) and/or (a)(3) and (b)(4)  (Supp. 
+2021).   On March 16,  2023,  she  entered a not guilty plea.   3
+2. Motion to suppress 
+On April 10, 2023, Woody filed a motion to suppress,  
+alleging three  “warrantless constitutional breaches”: (1) the 
+3HRS § 291E-61 provides in relevant part: 
+(a) A person commits the offense of operating a vehicle 
+under the influence of an intoxicant if the person operates 
+or assumes actual physical control of a vehicle: 
+(1) While under the influence of alcohol in an amount 
+sufficient to impair the person ’s normal mental faculties 
+or ability to care for the person and guard against 
+casualty; 
+ . . . . 
+(3) With .08 or more grams of alcohol per two hundred ten 
+liters of breath [.] 
+ . . . . 
+(b) A person committing the offense of operating a vehicle 
+under the influence of an intoxicant shall be sentenced 
+without possibility of probation or suspension of sentence 
+as follows: 
+ . . . . 
+(4) In addition to a sentence imposed under paragraph (1), 
+for a first offense under this section, or an offense not 
+preceded within a ten -year period by a conviction for an 
+offense, any person who is convicted under this section and 
+was a highly intoxicated driver at the time of the subject 
+incident shall be sentenced to an additional mandatory term 
+of imprisonment for forty -eight consecutive hours and an 
+additional mandatory revocation period of six months; 
+provided that the total term of imprisonment for a person 
+convicted under this paragraph shall not exceed the maximum 
+term of imprisonment provided in paragraph (1). 
+Notwithstanding paragraph (1), the revocation period for a 
+person sentenced under this paragraph shall be no less than 
+eighteen months [.] 
+7  ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+  
+   
+   
+ 
+    
+   
+   
+ 
+    
+ 
+ 
+ initial seizure of Woody’s vehicle ; (2) the request for Woody to 
+exit her vehicle; and (3) the warrantless arrest of Woody and 
+transport to the station. She argued that the credi bility and 
+quality of Officer Molina’s observations required an evidentiary 
+hearing. She requested that the following be suppressed: (1) 
+her identity as the driver of the vehicle; (2) observations of 
+her; (3) observations of her demeanor and physical appearance; 
+and (4) the fruits of the poisonous tree to include any 
+statements, observations at the police station, and results of a 
+blood alcohol or breathalyzer test . 
+The motion was originally scheduled to be heard on April 
+24, 2023. On that day , Woody requested a continuance to receive 
+discovery , and the evidentiary hearing was continued to June 16, 
+2023, fifty-three days late r. 
+On June 7, 2023, nine days before the rescheduled hearing, 
+the State issued a subpoena for Officer Molina , but it is 
+unclear on the existing record whether it was ever served . On 
+June 12, 2023, four days before the hearing, Officer Molina 
+informed the State that he was a military reservist and would 
+not be available to testify . 
+On June 14, 2023, two days before the reschedule d hearing, 
+the State filed its opposition to Woody’s motion to suppress, 
+arguing warrantless seizures are generally permissible when 
+supported by reasonable suspicion, such as Woody’s alleged 
+8  ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+  
+ 
+ 
+    
+ 
+  
+ 
+ 
+  
+    
+ 
+   
+  
+ 
+  traffic violations. The State further argued probable cause was 
+established after Woody exited her vehicle, attempted to flee 
+into her house, exhibited indicia of intoxication, and refused 
+to participate in standardized field sobriety tests. 
+On the same da y, the State also filed a motion to continue 
+the hearing on the grounds Officer Molina was unavailable to 
+testify on June 16, 2023 due to a weekend military training 
+assignment . The State also indicated Molina had an extended 
+military service from July 3, 2023 through August 8, 2023 . 
+On Friday, June 16, 2023 , the district court began the 
+rescheduled hearing on the motion to suppress. The State orally 
+repeated its request for a continuance on the grounds Officer 
+Molina was not available. The State also represented that the 
+six-month deadline under HRPP Rule 48(b) would not expire until 
+October 2023. 
+The district court expressed concern regarding the State’s 
+lack of due diligence in waiting so long to ascertain Officer 
+Molina’s availability and not issu ing a subpoena until nine days 
+before the hearin g. The district court then orally denied the 
+State’s motion to continue . As Officer Molina was the only 
+witness that could have testified regarding the possible 
+reasonable suspicion to justify the warrantless seizure, the 
+State had no evidence to counter the defense motion. The 
+9  ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+   
+   
+  
+ 
+  
+ 
+  
+  
+  
+ 
+ 
+   
+ 
+  
+    
+  district court then granted the motion to suppress and set trial 
+for August 15, 2023 . 
+On July 28, 2023, the district court entered its written 
+order granting the motion to suppress. On August 1, 2023, t he 
+district court also entered an order denying the State’s motion 
+to continue , ruling there was no good cause based on the 
+timeline of events . The district court noted that if the State 
+had attempted to contact Officer Molina earlier, the State could 
+have sought to advance the hearing to accommodate the officer’s 
+schedule. The district court ordered Woody to return to court 
+on August 15, 2023 , for trial. 
+On August 14, 2023, the State appealed , arguing the 
+district cour t erred by denying the motion to continue and then 
+granting the motion to suppress . 
+B. ICA proceedings 
+The ICA vacated the district court’s order granting the 
+motion to suppress. Woody, 2025 WL 2092848 , at *3. 
+In doing so, t he ICA applied its Lee test, which required a 
+defendant to show that (1) the defendant acted with due 
+diligence to obtain the attendance of the witness; (2) the 
+witness would provide substantial favorable evidence for the 
+defendant ; (3) the witness is available and willing to testify; 
+and (4) the denial of the continuance would result in material 
+10  
+ ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+    
+   
+ 
+   
+  
+ 
+     
+  
+     
+   
+ 
+   
+   
+ 
+   
+ prejudice to the defendant. Woody, 2025 WL 2092848 , at *2-3 
+(citing Lee, 9 Haw. App. at 604, 856 P.2d at 1282). 
+The ICA acknowledged that in Williander, this court 
+overruled Lee  as the  test governing  defense  motions to continue 
+trial  as  violative of  a defendant’s constitutional right  to 
+compulsory process. Woody,  2025 WL 2092848, at *2 n.2. The ICA 
+reasoned  that  Lee  still applies, however,  when the State  moves  
+to continue. Id.    
+According to the ICA, at issue here was the first factor, 
+due diligence. Woody, 2025 WL 2092848 , at *3. The ICA noted 
+“the subpoena for Officer Molina was issued on June 7, 2023; the 
+assigned prosecutor did not receive the file until June 9, 2023, 
+[the] ‘last Friday ’ before the June 16, 2023 hearing; and the 
+prosecutor was in communication with the officer regarding his 
+availability[.]” Id. 
+The ICA found due diligence to exist , concluding that 
+“while not prompt, these efforts were reasonable and established 
+sufficient diligence under the circumstances.” Id. 
+The ICA ruled the Lee test was otherwise met and then held 
+the district court abused its discretion by denying the State’s 
+motion to continue the suppression hearing . Id. 
+C. Certiorari proceedings 
+On certiorari, Woody assert s the ICA erred by overturning 
+the district court ’s order granting the motion to suppress. In 
+11  ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+  
+   
+   
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+   
+  
+ 
+     
+ 
+  
+     
+ 
+ 
+    summary, she argues that the State’s efforts in securing the 
+attendance of Officer Molina were not diligent . She also 
+asserts that this court has never adopted the Lee test. 
+III. Standards of Review 
+A. Decision on m otion to continue 
+A motion for continuance is addressed to the sound 
+discretion of the trial court, and the court ’s ruling will 
+not be disturbed on appeal absent a showing of abuse of 
+that discretion. Generally, to constitute an abuse, it 
+must appear that the court clearly exceeded the bounds of 
+reason or disregarded rules or principles of law or 
+practice to the substantial detriment of a party litigant. 
+Williander, 142 Hawai‘i  at 162, 415 P.3d  at 904  (cleaned 
+up).  
+B. Mixed questions of fact and law 
+We review conclusions of law presenting mixed questions of 
+fact and law under the clearly erroneous standard because the 
+conclusion is dependent upon the facts and circumstances of the 
+particular case. Matter of Kuamoo, 142 Hawaiʻi 492, 496, 421 
+P.3d 1262, 1266 (2018) . 
+IV. Discussion 
+A. The ICA erred by applying its Lee test, which we now reject 
+in its entirety 
+The ICA applied the test it adopted in Lee to this State 
+motion to continue the hearing on a defense suppression motion . 
+Woody, 2025 WL 2092848 , at *2-3. The Lee test required a 
+defendant to show that (1) the defendant acted with due 
+diligence to obtain the witness’s attendance; (2) the witness 
+12  ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+    
+    
+  
+  
+ 
+   would provide substantial favorable evidence for the defendant; 
+(3) the witness was  available and willing to testify; and (4) 
+the denial of the continuance would result in material prejudice to the defendant.   9 Haw. App. at 604, 856 P.2d at 1282.  
+The Lee test was adopted by the ICA from a federal Fifth 
+Circuit Court of Appeals opinion. Id. (citing United States v. 
+Walker, 621 F.2d 163, 168 (5th Cir. 1980)). In Lee, the ICA 
+applied the same four factors from the federal test to uphold 
+the trial court’s denial of a defense motion to continue because 
+the defendant had not been diligent and had waited until the day 
+of trial to secure the witness, did not show that the witness 
+even existed, and failed to prove the testimony would bear 
+directly upon the issue of guilt and not merely impeachment. 
+Id. 
+Woody correctly argues that this court has never  adopted 
+the Lee  test.  See  State v. Villiarimo, 132 Hawai‘i 209, 223, 320 
+P.3d 874, 888  (2014)  (Nakayama, J., concurring). In Williander,  
+this court  rejected the Lee  test  in the context of a defense 
+motion to continue.  142 Hawai ‘i  at 163, 415 P.3d  at 905. This 
+court  held that the circuit court violated the defendant’s 
+constitutional right to compulsory process under the United 
+States  and Hawai ʻi constitutions by denying his motion to 
+continue.   Id.   In rejecting the Lee  test, this court  held it 
+“goes too far in limiting the right to compulsory process, thus 
+13  ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+  
+   
+  
+ 
+  
+   
+ 
+   
+   
+ 
+   
+ 
+  
+    
+  
+  
+    creating unnecessary burdens on defendants who wish to exercise 
+this right.” Id. This court instead held th at the factors 
+relevant to a defendant’s request to continue trial based on 
+witness unavailability are: “(1) whether counsel exercised due 
+diligence in seeking to obtain the attendance of the witness; 
+and (2) whether the witness provides relevant and material 
+testimony that benefits the defendant.” Id. 
+The ICA deemed Williander inapplicable here because it 
+addressed a defendant’s motion to continue based on witness 
+unavailability , which implicat ed a defendant’s constitutional 
+rights. Woody, 2025 WL 2092848 , at *2 n.2. The ICA held that 
+“because the State was moving to continue, the Lee test still 
+applies.” Id. 
+In applying the Lee test here, the ICA cited its own 
+summary disposition order that described the test in terms of a 
+movant’s burden instead of a defendant’s burden . Woody, 2025 WL 
+2092848, at *2 (citing State v. O’Donnell , No. 29730 , 2009 WL 
+5116359, at *2 (Haw. App. Dec. 29, 2009) (SDO) (citation 
+omitted)). But both Lee and O’Donnell addressed defense motions 
+to continue based on witness unavailability. Id. And this 
+court rejected t he Lee test in Williander for defense motions to 
+continue. Williander , 142 Hawai‘i at 163, 415 P.3d at 905. 
+14  ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+   
+  
+    
+   
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+  
+ We now also reject the Lee test in its entirety, including 
+for State motion s to continue based on witness unavailability , 
+because its rigidity is unworkable and fundamentally unfair. 
+First, under the Lee test, if due diligence is not 
+establish ed under its first prong , the State is not able to 
+obtain a continuance even when time remains under HRPP Rule 48. 
+If there is no due diligence and testimony from the unavailable 
+witness is required to prosecute the State’s case, then, a 
+dismissal could result, even for extremely serious charges. For 
+example, here, after Officer Molina’s testimony was suppressed, 
+if the State had appeared for trial on August 15, 2023, with no 
+evidence to present, it most likely would have move d to dismiss 
+the charge so that jeopardy would not attach, then hope for a 
+dismissal without prejudice so that it could refile the charge. 
+But if that request was denied, the prosecution would end. 
+Hence, strict application of th e Lee test could result in a 
+pretrial dismissal o f a serious charge despite there being 
+significant time remaining on the HRPP Rule 48 deadline if a 
+prosecutor fail s to exercise due diligence to secure t he 
+presence of a critical witness . 
+But Hawaiʻi appellate case law generally favors sanctions 
+less severe than dismissa l. For example, i n State v. Dowsett , 
+10 Haw. App. 491, 494 -96, 878 P.2d 739, 741 -42 (App. 1994), the 
+ICA held that courts should consider “measures less severe than 
+15  ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+       
+ 
+  
+ 
+ 
+  
+  
+  
+  
+  dismissal ” where the State had violated its discovery 
+obligations by failing to hand over key documents to the 
+defendant under HRPP Rule 16 and the trial court sanctioned the 
+State through dismissal. The ICA held that “before the court 
+orders dismissal of a case b ecause of the State’s violation of 
+HRPP Rule 16, it must consider whether less severe measures 
+would rectify prejudice caused to the defendant by the 
+violation.” 10 Haw. App. at 495, 878 P.2d at 742. 
+In addition , the Lee test would require the State to 
+establish “that the witness is available and willing to 
+testify.” 9 Haw. App. at 604, 856 P.2d at 1282. But there are 
+many prosecutions in which State witnesses are actually quite 
+reluctant to testify. 
+Thus, the Lee test is unworkable and unfair , even when 
+applied to a State motion to continue. 
+Hawaiʻi state courts need not adopt federal tests , 
+especially those that create rigid, un just standards. 
+We now hold the Lee test does not govern motions to 
+continue for witness unavailability in Hawaiʻi state courts. 
+16  ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ B. A State motion to continue based on witness unavailability 
+is to be analyzed for “due diligence” under HRPP Rule 
+48(c)(4)(i) and even if due diligence does not exist, 
+rendering a State requested continuance inexcludable under 
+Rule 48, if time remains under Rule 48, the request is to 
+be analyzed under the common law good cause standard under 
+the totality of circumstances 
+Having rejected the Lee test, we must determine how courts 
+should address a State motion to continue due to witness 
+unavailability . Here, the district court found due diligence 
+lacking at the hearing. Then, in its written order, it also 
+found good cause lacking based on the lack of due diligence. 
+1. A court is to first address whether the State has 
+shown “due diligence” under HRPP Rule 48 (c)(4)(i) 
+In analyzing due diligence, t he district court may have 
+been considering HRPP Rule 48 (c)(4)(i). HRPP Rule 48 is 
+intended to ensure the accused a speedy trial, separate and 
+distinct from the constitutional protection to a speedy trial. 
+State v. Estencion , 63 Haw. 264, 268, 625 P.2d 1040, 1043 
+(1981). Rule 48(b) requires that trials commence within six 
+months of certain triggering dates. Rule 48(c) then provides 
+for exclusion of designated categories of time from the six -
+month deadline. 
+Subsection (c)(4)(i) of HRPP Rule 48 specifically allows 
+for exclusion based on the unavailability of a State witness as 
+long as the State exercised due diligence . Subsection (c)(8) 
+17  ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ then seemingly generally allows for exclusion based on good 
+cause: 
+ . . . . 
+(b) By court . Except in the case of traffic offenses that 
+are not punishable by imprisonment, the court shall, on 
+motion of the defendant, dismiss the charge, with or 
+without prejudice in its discretion, if trial is not 
+commenced within 6 months: 
+ . . . . 
+(c) Excluded periods . The following periods shall be 
+excluded in computing the time for trial commencement: 
+ . . . . 
+(4) periods that delay the commencement of trial and are 
+caused by a continuance granted at the request of the 
+prosecutor if: 
+(i) the continuance is granted because of the 
+unavailability of evidence material to the 
+prosecution’s case, when the prosecutor has exercised 
+due diligence to obtain such evidence and there are 
+reasonable grounds to believe that such evidence will 
+be available at a later date [.] 
+ . . . . 
+(8) other periods of delay for good cause. 
+HRPP Rule 48.  
+When the State moves to continue a hearing or trial based 
+on witness unavailability, a court is to first address due 
+diligence under HRPP Rule 48(c)(4)(i). The district court did  
+so  and found due diligence lacking. The ICA reversed.   But we 
+agree with Woody that the ICA erred by overruling the district court’s due diligence determination.  
+After the original hearing date on the motion to suppress 
+was continued for fifty-three  days,  until June 16, 2023, the 
+State waited until nine days before the continued hearing to 
+18  ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+  
+  
+    
+ 
+ attempt to subpoena Officer Molina. The State did not learn 
+until four days before the hearing that he would not be 
+available, then filed its motion to continue two days before the 
+hearing date. If the State had acted diligently, it would have 
+known well in advance that Officer Molina would not be available 
+on June 16, 2023. As the district court indicated, t he State 
+could have then moved to advance or continue the hearing, which 
+could have been decided without Woody needing to appear for the 
+continued hearing. The ICA therefore erred by overruling the 
+district court’s due diligence determination. 
+2. If due diligence does not exist under HRPP Rule 
+48(c)(4)(i), then “good cause” under Rule 48(c)(8) 
+cannot be considered 
+In its written order, the district court also found good 
+cause lacking based on the timeline — the same facts on which i t 
+determined due diligence did not exist . It does not appear the 
+district court was referring to the good cause exclusion under 
+HRPP Rule 48 (c)(8), as this court has held that if a Rule 48 
+exclusion is not available under Rule 48 (c)(4)(i) for the 
+State’s failure to exercise due diligence, then the good cause 
+exclusion under the HRPP is also not available. See Gillis, 63 
+Haw. at 288, 626 P.2d at 193 (“[HRPP] Rule 48(c)(8) is not to be 
+used to excuse a lack of diligence on the part of the government 
+to comply with Rule 48[(c)(4)].”) . Therefore, we assume the 
+district court was referring to the common law good cause 
+19  ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+   
+ 
+ 
+  
+  
+ 
+  
+    
+ 
+   
+ 
+ 
+ standard for continuance s when it also determined good cause to 
+be lacking . 
+3. If the State fails to exercise due diligence but time 
+still remains under HRPP Rule 48, then the common law 
+“good cause ” standard applies 
+We assume the district court was attempting to apply the 
+common law good cause standard because , separate and apart f rom 
+the good cause standard under HRPP Rule 48 (c)((8), this court 
+has applied the common law good cause standard to motions to 
+continue based on witness unavailability . For example, i n 
+Villiarimo , this court applied the good cause standard to 
+analyze whether a continuance should have been granted for a 
+defendant to secure expert testimony in a probation modification 
+or revocation hearing context. 132 Hawai‘i at 218, 320 P.3d at 
+883. 
+Other state supreme courts have applied a good cause 
+standard to prosecution requests to continue suppression motion 
+hearings based on State witness unavailability. 
+In People v. Bakari , 780 P.2d 1089 , 1091-92 (Colo. 1989) , 
+the Colorado Supreme Court addressed a trial court’s denial of a 
+State requested continuance for lack of “good cause” and 
+granting of a defendant’s motion to suppress after the State 
+lacked witnesses to testify. In overruling the lower court, the 
+Colorado Supreme Court ruled that denying the motion to continue 
+was tantamount to granting a motion to dismiss and that “the 
+20  ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+  
+ 
+ 
+ 
+ 
+ 
+   district court should have considered the harsh consequences of 
+dismissal, the public interest in prompt disposition of the 
+case, and the available alternatives.” 780 P.2d at 1092 -93. It 
+emphasized that there was no reason for the district court to 
+insist, upon pain of dismissal, that it hear the suppression 
+motion when continuance would not result in delay of the trial 
+or prejudice the defendant. 780 P.2d at 10 93. 
+In People v. Brown , 525 P.3d 1036 , 1038 (Cal. 2023) , the 
+California Supreme Court addressed a trial court’s denial of the 
+State’s motion to continue a suppression hearing based on the 
+absence of “good cause,” which led to the suppression of key 
+evidence and prevented the State from prosecuting its case . The 
+California Supreme Court held that in determin ing whether denial 
+of the State motion for continuance was inappropriate, courts 
+should consider the totality of extant circumstances, which 
+include whether denial of the continuance will result in a 
+dismissal of charges: 
+In determining whether the denial of a continuance will 
+make it reasonably foreseeable that a case will be 
+dismissed, the court must consider the totality of the 
+extant circumstances. One of the factors to be considered 
+is the People’s representation that they will be unable to 
+proceed without the challenged evidence . . . . In the 
+final analysis, the burden is on the People to make this 
+showing. If that showing falls short, the court is free to 
+deny the continuance and proceed with the suppression 
+hearing. 
+Brown, 525 P.3d at 1049 -50. Granted, Brown noted California’s 
+legislative intent that “courts may not dismiss a case due to a 
+21  ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+  
+  
+ 
+  
+  
+ 
+ 
+   failure to meet the good cause requirements for a continuance 
+before the statutory period had expired.” 525 P.3d at 1045 
+(cleaned up). This differs from our HRPP Rule 48 analysis based 
+on Gillis discussed above. But Brown did apply the “good cause” 
+standard. 
+Thus, we hold that if the State fails to establish due 
+diligence when it seeks a continuance based on witness 
+unavailability, but time still remains under HRPP Rule 48, then 
+the court is to address whether a continuance should be granted 
+under the common law good cause standard , even if the time 
+period for a continuance cannot be exclud ed under Gillis based 
+on HRPP Rule 48 (c)(8). 
+This court has held that “good cause” depends on the 
+circumstances of the individual case, and a finding of its 
+existence will lie largely in the court’s discretion.  Doe v. 
+Doe, 98 Hawaiʻi 144, 154, 44 P.3d 1085, 1095 (2002).  Here, the 
+district court found good cause lacking based on the timeline 
+indicating a lack of due diligence.  
+But this court has said it is not possible to provide one 
+definition of good cause, as standards governing whether good 
+cause exists depends upon the circumstances of the individual 
+case. Chen v. Mah , 146 Hawaiʻi 157, 178, 457 P.3d 796, 817 
+(2020). And although , based on Gillis, the good cause exclusion 
+of Rule 48 (c)(8) cannot exclude time for a continuance due to 
+22  ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ State witness unavailability when due diligence under HRPP Rule 
+48(c)(4)(i)  is lacking, in discussing what constitutes good 
+cause under HRPP Rule 48(c)(8), this court has stated:  
+This court has defined good cause to mean a substantial 
+reason which affords a legal excuse, and has held that the 
+good cause provision is provided to take care of 
+unanticipated circumstances . Additionally, a period is 
+excludable as good cause under HRPP Rule 48(c)(8) if the 
+events causing the delay are unanticipated and not 
+reasonably foreseeable. Most importantly, this court has 
+said that whether a period of time is excludable as good 
+cause under HRPP Rule 48(c)(8) is dependent on the facts of 
+each case . 
+State  v.  Choy  Foo, 142 Hawaiʻi  65, 76, 414 P.3d 117, 128 (2018)  
+(cleaned up).  
+Also, although we have rejected a strict application of the 
+Lee  test,  as we said in Villiarimo, we have considered its 
+factors:  
+This court has not explicitly adopted the  Lee  test.   
+However, we have often applied some combination of these 
+factors in evaluating a motion for a continuance to obtain 
+the testimony of an unavailable witness at trial.  In  
+State v. Valmo ja, 56 Haw. 452, 540 P.2d 63 (1975), we held 
+that the trial court abused its discretion in denying a motion for a continuance where the defendant exercised due 
+diligence in attempting to obtain the testimony of the 
+absent witness and the materiality of the witness ’s 
+evidence was apparent.   56 Haw. at 454, 540 P.2d at 64.  
+In  State v. Mara, 98 
+Hawaiʻi 1, 41 P.3d 157 (2002), we 
+concluded that the circuit court did not abuse its discretion in denying the defendant ’s request for a 
+continuance where the defendant failed to show that he was 
+materially prejudiced by his inability to present the 
+unidentified witness ’s testimony.   98 Hawai ʻi at 14- 15, 41 
+P.3d at 170 -71.  
+Villiarimo, 132 Hawaiʻi at 223, 320 P.3d at 888  (Nakayama, J., 
+concurring).    
+23  ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+  
+ 
+   
+ 
+  
+  
+  
+ 
+   
+ 
+ Estencion  also discusses possible factors in the context of 
+determining whether a case should be dismissed with or without 
+prejudice for a HRPP Rule 48  violation:  
+In determining whether to dismiss the case with or without 
+prejudice, the court shall consider, among others, each of 
+the following factors: the seriousness of the offense; the 
+facts and the circumstances of the case which led to the 
+dismissal; and the imp act of a reprosecution on the 
+administration of this chapter and on the administration of 
+justice. 
+63 Haw. at 269, 625 P.2d at 1044 (citation omitted). 
+Estencion also discusses additional HRPP Rule 48 policy 
+considerations relevant to the administration of justice, which 
+are to relieve congestion in the trial court, to promptly 
+process all cases reaching the courts, and to advance the 
+efficiency of the criminal justice process. 63 Haw. at 268, 625 
+P.2d at 1043. 
+But the existence of good cause depends on the 
+circumstances of each individual case, and not all possible 
+factors may be relevant in a particular case. We therefore hold 
+that when the State requests a continuance based on witness 
+unavailability and fails to establish due diligence under HRPP 
+Rule 48(c)(4)(i), but the HRPP Rule 48 deadline has yet to 
+expire, in determining whether to grant a State request for 
+continuance to obtain a witness’s presence, a court is to 
+consider the totality of circumstance s, which include, but are 
+not limited to : (1) whether the circumstances that caused the 
+witness to be unavailable were unanticipated or not reasonably 
+24  ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+   
+   
+  
+ 
+ foreseeable; ( 2) whether the witness is anticipated to provide 
+relevant and material testimony that benefits the State; and (3) 
+prejudice to the State or to the defendant based on the denial 
+or the grant of a continuance. 
+C. Here, under the totality of circumstances, the State 
+established “good cause” 
+As noted, the district court did not err by finding a lack 
+of due diligence. Hence, if the district court had granted the 
+State’s requested continuance to obtain Officer Molina’s 
+presence, based on Gillis, the time period of the continuance 
+would not have been excludable for HRPP Rule 48 purposes under 
+both HRPP Rule 48 (c)(4)(i)’s due diligence exception and 
+48(c)(8)’s good cause exception. 
+After the district court determined there was no due 
+diligence, it also found good cause lacking but referred only to 
+the due diligence timeline . We assume the district court was 
+attempting to apply the common law good cause standard , but this 
+court had yet to establish the totality of circumstances 
+framework set out in this opinion. 
+We therefore now apply the framework to this case.  
+Although the State did not exercise due diligence, Officer 
+Molina’s unavailability was not anticipated and arguably was not 
+reasonably foreseeable.  Officer Molina’s testimony was clearly 
+25  ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+   
+ 
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+ 
+ 
+  relevant and material to the State’s opposition to Woody’s 
+motion to suppress. 
+With respect to prejudice to the State, we have ruled that 
+despite Operating a Vehicle Under the Influence of an Intoxicant 
+(“OVUII”) being a petty misdemeanor, it can be considered a 
+serious offense. State v. Fukuoka , 141 Hawai‘i 48, 59-60, 404 
+P.3d 314, 325 -26 (2017) . And the charge here was the even more 
+serious one of OVUII as a high ly intoxicated driver. Further, 
+it was foreseeable here that denial of the State’s motion to 
+continue would result in the grant of the motion to suppress and 
+a dismissal of the charge. Also, it was highly likely that 
+Officer Molina would have been available after a continu ance. 
+Granted, Woody would have been prejudiced as the denial of 
+the continuance would have almost undoubtedly led to the result 
+here – a grant of the motion to suppress and the inability of 
+the State to present its percipient witness testimony. But 
+there was n o prejudice to Woody based on unavailability of 
+witnesses she might need if a continuance was granted. 
+We hold that, on balance, based on the totality of 
+circumstances, there was good cause for a reasonable 
+continuance. It appears Officer Molina may have been available 
+after his weekend reserve training , which presumably ended on 
+Sunday, June 18, 2023. His extended military service was not to 
+begin until J uly 3, 2023 . The original hearing was scheduled to 
+26  ** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+ 
+ 
+  
+  
+  
+ 
+   
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ take place two weeks from its filing ; if the same timing were to 
+apply, it appears the hearing could have taken place on or by 
+Friday, June 30 , 2023. If the district court ’s schedule did not 
+allow a hearing by that date or if Woody or counsel were not 
+available, Officer Molina’s training was only through August 8, 
+2023, and the hearing could have taken place after that. Even 
+if the continuance period was not excludable for HRPP Rule 48 
+purposes, t he HRPP Rule 48 deadline apparently would not have 
+expired until October 2023. 
+Hence, a s good cause existed, we remand the case to the 
+district court for further proceedings consistent with this 
+opinion. 
+V. Conclusion 
+Based on the reasons above, w e therefore affirm the ICA’s 
+August 25, 2025 judgment on appeal vacating the district court’s 
+July 28, 2023 “Order Granting Defendant’s First Pretrial Motion: 
+Motion to Suppress Fruits of Warrantless Seizure ”, but for the 
+reasons stated in this opinion. We remand this case to the 
+district court for further proceedings consistent with this 
+opinion. 
+Eli N. Bowman,    
+for petitioner    
+     
+Matthew P. Woodward,  
+for respondent    /s/ Vladimir P. Devens  
+/s/ Sabrina S. McKenna  
+/s/ Todd W. Eddins  
+/s/ Lisa M. Ginoza  
+/s/ James H. Ashford  
+27 
