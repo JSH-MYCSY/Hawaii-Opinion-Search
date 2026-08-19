@@ -1,0 +1,891 @@
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+ 
+  
+ 
+ **FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER**  
+Electronically Filed 
+Supreme Court SCWC-22-0000441 07-AUG-2026 08:20 AM Dkt. 61 OP 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ʻI  
+ 
+ ________________________________________________________________ ---o0o---
+ BOOKING.COM B.V.,  
+Petitioner/Plaintiff-Appellant,  
+ 
+vs.  
+ 
+GARY S. SUGANUMA, in his official capacity as the Director  
+of Taxation, and STATE OF 
+HAWAIʻI Department of Taxation, 
+Respondents/Defendants-Appellees.  
+ ________________________________________________________________ 
+SCWC-22-0000441  
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS  
+(CAAP-22-0000441; CASE NO. 1CC191000107)  
+ 
+August  7, 2026  
+ 
+DEVENS, C.J., McKENNA,  EDDINS,  AND GINOZA,  JJ., AND  CIRCUIT 
+JUDGE  CASTAGNETTI, IN PLACE OF RECKTENWALD, C.J., RECUSED  
+OPINION OF THE COURT BY McKENNA, J. 
+I. Introduction and Summary 
+Hawaiʻi Revised Statutes (“ HRS”) § 91-7 (Supp. 2015)1 allows 
+any interested person to seek declaratory relief regarding the 
+HRS § 91-7 (Supp. 2015) , “Declaratory judgment on validity of rules,” 
+provides in relevant part: 1 
+ (continued . . .)  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+    
+  
+  
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+   
+ 
+ validity of administrative rules. We address whether this 
+includes challenges to the validity of tax administrative rules . 
+The Department of Tax (“DoTax”) says no, because HRS § 632-1 
+(2016),2 the general declaratory judgment statute, provides that 
+declaratory relief may not be obtained in any controversy with 
+respect to taxes . However, HRS § 91 -7 contains no such 
+restriction. 
+In 2018, DoTax promulgated Hawaiʻi Administrative Rule 
+(“HAR”) § 18-237-29.53-10(a)(3) (the “Rule”)3 to clarify when 
+ (. . . continued) 
+(a) Any interested person may obtain a judicial declaration 
+as to the validity of an agency rule as provided in 
+subsection (b) by bringing a n action against the agency 
+in the circuit court [] of the county in which the 
+petitioner resides or has its principal place of 
+business. The action may be maintained whether or not 
+the petitioner has first requested the agency to pass 
+upon the validity of the rule in question. 
+(b) The court shall declare the rule invalid if it finds 
+that it violates constitutional or statutory 
+provisions, or exceeds the statutory authority of the 
+agency, or was adopted without compliance with 
+statutory rulemaking procedures. 
+2 HRS § 632-1(a) (2016), “Jurisdiction; controversies subject to,” 
+provides in relevant part : 
+[(a)] In cases of actual controversy, courts of record, 
+within the scope of their respective jurisdictions, shall 
+have power to make binding adjudications of right, whether 
+or not consequential relief is, or at the time could be, 
+claimed, and no action or proceeding shall be open to 
+objection on the ground that a judgment or order merely 
+declaratory of right is prayed for; provided that 
+declaratory relief may n ot be obtained [] in any 
+controversy with respect to taxes [.] 
+3 HAR § 18 -237-29.53-10, “Services performed by commissioned agents, ” 
+provides in relevant part: 
+ (continued . . .) 
+2  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+  
+  
+ 
+   
+ 
+ 
+     
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ certain services are considered “used or consumed” in Hawaiʻi and 
+thereby subject to general excise taxes (“GET”) . The new Rule 
+said that income is used or consumed where the transient 
+accommodation or travel-related booking is located , not where a 
+booking agent is situated when making the reservation . The Rule 
+clearly subjected Booking.com  B.V. (“Booking.com”) , an online 
+accommodation reservation platform based in Amsterdam, 
+Netherlands , to GET on fees collected for Hawaiʻi-based bookings . 
+In 2019, Booking.com  sought declaratory relief under HRS § 
+91-7 in the Circuit Court of the First Circuit (“circuit court”) 
+to declare the Rule invalid based on the federal Internet Tax 
+Free Act (“ITFA”) and the U.S. Constitution’s Com merce and 
+Supremacy Clauses. 
+In late 2021 , DoTax issued a GET assessment of more than 
+$19 million to Booking.com for tax years 2010 to 2020 . 
+Booking.com appealed the assessment to the tax appeal court. 
+ (. . . continued) 
+(a) Except as provided in section 18 -237-29.53-04, services 
+performed by a commissioned agent are used or consumed 
+where the agent is located at the time the agent’s services 
+are performed; provided that:  
+ . . . 
+(3) when transient accommodations or travel -related 
+bookings are sold, purchased, or arranged online through a 
+commissioned agent, the ag ent’s service is used or consumed 
+where the transient accommodation or travel -related booking 
+is located. 
+ 3  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+    
+ 
+  
+    
+    
+  In 2022, DoTax filed a motion to dismiss the HRS § 91-7 
+declaratory relief action alleging a l ack of subject matter 
+jurisdiction . It argued the separate tax assessment a ppeal 
+rendered the HRS § 91-7 lawsuit a “controversy with respect to 
+taxes” precluded by HRS § 632 -1. 
+The circuit court granted the motion to dismiss based on 
+its understanding that the merits of the Rule would be addressed 
+through the tax appeal court case. 
+The Intermediate Court of Appeals (“ICA”)  affirmed  the  
+dismissal,  holding that (1) Booking.com lacked standing under 
+HRS §  91-7 and (2) declaratory relief was unavailable under HRS 
+§ 91-7 as this lawsuit  involves  a “controversy with respect to 
+taxes.” Booking.com B.V. v. Suganuma, CAAP-22-0000441, 2025 WL 
+1322630, at *3  (Haw. App. May 7, 2025)  (SDO).  Booking.com 
+challenges these rulings  on certiorari.   
+Preliminar ily, we address subject matter jurisdiction and 
+mootness. 
+First, subject matter jurisdiction.  HRS § 91-7 says an 
+interested person may file a  lawsuit  regarding the validity of 
+an agency rule “in the circuit court [] of the county in which 
+the petitioner resides or has its principal place of business. ”   
+At oral argument, Booking.com raised this court’s holding in 
+Hawaii Home Infusion Associates v. Befitel, 114 Hawaiʻi 87, 157 
+P.3d 526 (2007). In Befitel, this court dismissed a lawsuit 
+4  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+  
+  
+ 
+   
+ 
+ 
+  
+  
+ 
+ 
+  
+    
+  
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 4 filed in the First Circuit court in Honolulu, where the agency 
+was located, holding that HRS § 91-7 limited subject matter 
+jurisdiction to the Fifth Circuit court because the plaintiff 
+entity had its principal place of business on Kauai. 114 Hawaiʻi 
+at 93, 157 P.3d at 532 . Under Befitel, neither Booking.com nor 
+any out-of-state plaintiff would be able seek HRS § 91 -7 relief 
+in Hawaiʻi. 
+We overrule Befitel. For reasons further expla ined below, 
+we hold that t he pertinent language in HRS § 91 -7 concerns 
+venue, not subject matter jurisdiction. Pursuant to the general 
+civil venue statute, HRS § 603 -36(5) (2016),4 out-of-state 
+plaintiffs can therefor e file an HRS § 91-7 lawsuit where the 
+agency is located, like Booking.com did here. 
+Second, mootness. While this appeal was pending before the 
+ICA, the tax appeal court held the Rule invalid and void as a 
+matter of la w. DoTax argues that this case has therefore become 
+moot. 
+HRS § 603 -36 (2016) , “Actions and proceedings, where to be brought,” 
+provides in relevant part: 
+Actions and proceedings of a civil nature within the 
+jurisdiction of the circuit courts shall be brought as 
+follows: 
+. . . . 
+(5) Actions other than those specified in paragraphs (1) 
+to (4) shall be brought in the circuit where the claim for 
+relief arose or w here the defendant is domiciled [.] 
+ 5  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+   
+  
+ 
+ 
+ 
+ 
+  
+  
+ 
+   This case is not moot . The issue is whether HRS § 632 -1’s 
+prohibition on declaratory judgments regarding tax controversies 
+prohibits a HRS § 91 -7 declaratory relief action challenging the 
+validity of a tax administrative rule. That issue is still 
+alive and squarely be fore this court. In any event, the public 
+interest exception to the mootness doctrine would apply . 
+Turning to the ICA’s holdings , we respectfully disagree. 
+We hold that Booking.com  has standing as an “interested person.” 
+We also hold that HRS § 632 -1’s prohibition on declaratory 
+judgments for controversies with respect to taxes does not 
+prohibit a HRS § 91 -7 action for declaratory relief regarding 
+the validity of a tax administrative rule . 
+Hence, we vacate the ICA’s June 4, 2025 judgment on appeal 
+and the circuit court’s January 24, 2023 final judgment and we 
+remand this matter to the circuit court for further proceedings 
+consistent with this opinion . 
+II. Background 
+A. Circuit court proceedings 
+HAR § 18-237-29.53-10(a) preliminarily states that 
+“services performed by a commissioned agent are used or consumed 
+where the agent is located at the time the agent’s services are 
+performed[.]” But in March 2018, DoTax promulgated the Rule, 
+which changed how certain services are considered “used or 
+consumed” in Hawaiʻi. For online bookings , the Rule said income 
+ 6  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+    
+ 
+ 
+ 
+  
+ 
+  
+ is used or consumed where the transient accommodation or travel 
+related booking  is located, not where the booking agent 
+performed the booking services. This clearly subjected  
+Booking.com (and other online reservation accommodation 
+platforms) to GET on fees collected for Hawaiʻi bookings.   See  
+Tax Information Release No. 2018-06, Dep’t of Tax  (June 25, 
+2018).    5
+On January 18, 2019 , Booking.com filed a HRS § 97 -1 
+complaint in the circuit court (of the First Cir cuit) seeking to 
+declare the Rule invalid and void based on the ITFA and the U.S. 
+Constitution’s Commerce and Supremacy Clause. 
+On February 25, 2019, DoTax filed a motion to dismiss, 
+basically arguing that the circuit court lacked subject matter 
+jurisdic tion and was prohibited from granting declaratory relief 
+in any case or controversy involving taxes based on HRS § 632-1, 
+the general declaratory judgment statute . HRS § 632 -1 provides 
+that declaratory relief may not be obtained in any controversy 
+with respect to taxes . 
+According to DoTax,  the HRS § 632-1 exception  for tax 
+controversies is based on the federal Declaratory Judgment Act  
+(“DJA”)’s prohibition against  declaratory relief “with respect 
+to Federal taxes[.]”  See  28 U.S.C. § 2201(a).  
+5https://files.hawaii.gov/tax/legal/tir/tir18 -06.pdf 
+[https://perma.cc/L7D7 -5FAW].  
+ 7  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+  
+    
+   
+  
+ 
+ 
+  
+  
+   
+ 
+  
+  In opposin g DoTax’s motion, Booking.com  argued that HRS § 
+91-7 applies independent ly of HRS § 632-1 and allows any 
+interested petitioner to challeng e the validity of a n agency 
+rule, including a tax rule, even when there is no actual 
+controversy as required by HRS § 632 -1. DoTax countered that 
+HRS § 91-7 did not create subject matter jurisdiction, but only 
+liberalized standing. Furthermore , even if HRS § 91-7 was 
+deemed an independent basis for subject matter jurisdiction, 
+DoTax contended that HRS § 632-1’s restrict ion on declaratory 
+relief for tax controversies should be read in pari materia with 
+and applied to HRS § 91-7. 
+The circuit court rejected DoTax’s motion to dismiss , 
+deeming HRS § 91-7 a proper basis to challenge the Rule. 
+Then, on November 10, 2021, DoTax served Booking.com with a 
+“Notice of Final Assessment of General Excise and/or Use Tax” 
+assessing a total of $19,737,315.28 in GET against Booking.com 
+for tax years 2010 through 2020.  The amount of $9,464,106.71 
+was the principal  allegedly due, while $5,678,463.95 was for  
+penalties and $4,594,744.62 was for  accrued interest.    
+On December 9, 2021, Booking.com filed a notice of appeal 
+from the assessment to the tax appeal court, arguing it did not file tax returns because before the Rule was implemented, it did 
+not have income subject to 
+Hawaiʻi tax. As in its HRS § 91-7  
+action, it contended that the Rule  violated federal law by 
+ 8  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+  
+ 
+ 
+    
+  
+   
+ 
+   
+  
+  
+   
+ 
+    treating Booking.com’s online activity different ly from other 
+types of services. 
+On March 14, 2022, in the HRS § 91 -7 action , DoTax filed a 
+renewed motion to dismiss, arguing that Booking.com’s tax appeal 
+meant that the declaratory relief action would restrain 
+assessment and collection of taxes in violation of HRS § 632 -1. 
+On May 10, 2022, the circuit court expressed it s 
+inclination to grant the motion to dismiss , not based on DoTax’s 
+arguments , but on the grounds Booking.com  could challenge the 
+Rule’s constitutionality in tax appeal court. On June 13, 2022, 
+the circuit court filed an order granting the motion to dismiss 
+without prejudice , stating that it was relying upon 
+representation s that the Rule’s validity was implicated in the 
+tax appeal , but inviting Booking.com  to reopen the HRS 91 -7 
+lawsuit if the Rule’s validity was not implicated in the tax 
+appeal.6 
+Booking.com appealed the circuit court’s decision  to the 
+ICA.   While the appeal was pending before the ICA, on July 7, 
+2022, Booking.com filed a motion with the tax appeal court for 
+partial summary judgment seeking a ruling that the Rule is  
+invalid and void. On May 8,  2023, the tax appeal court granted 
+partial summary judgment for Booking.com, deeming  the Rule 
+invalid and void as a matter of law.    
+6See n.7 infra.  
+ 9  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+   
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+  
+ 
+     B. ICA proceedings 
+The ICA affirmed the circuit court ’s dismissal, holding 
+that Booking.com was not “any interested person ”  entitled to 
+seek relief under HRS § 91-7  because it did not seek any ruling 
+regarding application  of the Rule  to itself. Booking.com, 2025 
+WL 1322630, at *3. In addition, the ICA  ruled  that 
+Booking.com’s  request to declare the Rule was invalid was 
+prohibited by  HRS § 632-1,  as it would restrain and interfere 
+with the assessment or collection of taxes. Id.    
+C. Certiorari proceedings and oral argument 
+Before this court, the parties largely repeat their 
+arguments below. DoTax also argues that this case is moot 
+because the tax appeal court has already de emed the Rule 
+invalid. 
+At oral argument, Booking.com brought up a subject matter 
+jurisdiction issue based on Befitel, 114 Hawaiʻi 87, 157 P.3d 
+526, which is discussed below. After oral argument, we ordered 
+supplemental briefing, including as to whether Befitel should be 
+overruled. 
+III. Standards of Review 
+A. Subject matter jurisdiction 
+The existence of jurisdiction is a question of law that we 
+review de novo under the right/wrong standard. Tax Found ation 
+v. State, 144 Hawaiʻi 175, 185, 439 P.3d 127, 137 (2019) (cleaned 
+10  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+   
+    
+  
+  
+ 
+  
+  
+ 
+              
+  
+ 
+ 
+   
+ 
+ 
+ up). Furthermore, lack of subject ma tter jurisdiction can never 
+be waived and can be raised at any time. Koga Eng ’g & Const., 
+Inc. v. State , 122 Hawaiʻi 60, 84, 222 P.3d 979 , 1003 (2010). 
+B. Mootness 
+“Mootness is a question of law, which this court reviews de 
+novo.” Kiaʻi  Wai  O  Waiʻaleʻale  v.  Bd.  of  Land  &  Nat.  Res., 157 
+Hawaiʻi 303, 314, 576 P.3d 816, 827 (2025)  (cleaned up).  
+C. Standing 
+“The issue of standing is reviewed de novo on appeal .” Tax 
+Found., 144 Hawaiʻi at 185, 439 P.3d at 137 (cleaned up) . 
+D. Statutory interpretation 
+The interpretation of a statute is a question of law 
+reviewable de novo. In re Doe, 95 Hawaiʻi 183, 190, 20 P.3d 616, 
+623 (2001). 
+In interpreting a statute, we are guided by the following 
+principles: 
+Our foremost obligation is to ascertain and give effect to 
+the intention of the legislature, which is to be obtained 
+primarily from the language contained in  the statute itself.   
+And we must read statutory language in the context of the entire statute and construe it in a manner consistent with 
+its purpose.  
+Castro v. Melchor , 142 Hawaiʻi 1, 11, 414 P.3d 53, 63 (2018) 
+(cleaned up). 
+11  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+   
+  
+ 
+ 
+  
+ 
+ 
+   
+ 
+ 
+   
+  IV. Discussi on 
+A. Subject matter jurisdiction exists 
+1. Overruling Hawaii Home Infusion Associates v. Befitel , 
+we hold that HRS § 91 -7(a) contains optional venue 
+language , not mandatory subject matter jurisdiction 
+language 
+At oral argument, Booking.com  raised the question of 
+whether subject matter jurisdiction exists based on Befitel, 114 
+Hawaiʻi 87, 157 P.3d 526 , which addressed in which circuit court 
+a HRS § 91 -7 declaratory relief action can be filed. HRS § 91 -
+7(a) provides that any interested person can obtain a judicial 
+declaration regarding the validity of an agency rule by bringing 
+a lawsuit against an agency in the circuit court of the county 
+in which the interested person resides or has its principal 
+place of business. 
+The petitioner  in Befitel, Hawaii Home Infusion Associates  
+(“HHIA”), a supplier of medical goods and services, sued the 
+Hawaiʻi Department of Labor and Industrial Relations (“DLIR”) 
+under HRS § 91-7, challenging an agency rule precluding appeals from billing decisions. 114 
+Hawaiʻi at 88-89, 157 P.3d at 527-
+28.  HHIA  filed the lawsuit in the First Circuit Court of the 
+City & County  of Honolulu, where DLIR was based, instead of in 
+the Fifth Circuit Court of Kaua ʻi County, where HHIA  had its 
+principal place of business.  114 Hawaiʻ i at 89, 157 P.3d at 28. 
+12  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+    
+  
+ 
+ 
+    
+ 
+ 
+   
+   
+ 
+  
+     This court held that because the plaintiff had its 
+principal place of busin ess in Kaua ‘i County , HRS § 91 -7(a) 
+required the lawsuit to be filed in the Fifth Circuit . Id. 
+This court deemed this portion of HRS § 91 -7(a) to implicate 
+mandatory subject matter jurisdiction , requiring filing of an 
+action in the county in which the pe titioner resides or has its 
+principal place of business . 114 Hawaiʻi at 93, 157 P.3d at 532. 
+We ordered post -oral argument briefing on this subject 
+matter jurisdiction issue. 
+Applying rules of statutory interpretation , we now hold 
+that Befitel was incorrectly decided. We do not overrule 
+precedent unless the most cog ent reasons and inescapable logic 
+require it. Ahn v. Liberty Mut. Fire Ins. Co. , 126 Hawai‘i 1, 
+10, 265 P.3d 470, 479 (2011). But here, cogent reasons an d 
+inescapable logic compel us to do so. 
+First, in interpreting a statute, “[o]ur foremost 
+obligation is to ascertain and give effect to the intention of 
+the legislature, which is to be obtained primarily from the 
+language contained in the statute itself. And we must read 
+statutory language in the context of the entire statute and 
+construe it in a manner consistent with its purpose.” Castro, 
+142 Hawaiʻi at 11, 414 P.3d at 63 (cleaned up). 
+The language of HRS § 91-7 does not refer to jurisdiction.  
+The legislature says “jurisdiction” when it means jurisdiction. 
+13  
+  
+  
+  
+  
+ 
+    
+ 
+   
+   
+   **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+See, e.g., HRS § 92F -15(e) (2012) (“ The circuit court in the 
+judicial circuit in which the request for the record is made, 
+where the requested record is maintained, or where the agency ’s 
+headquarters are located shall have jurisdiction over an action 
+brought under this section. ”) & HRS § 412:1 -108 (2025) (“For all 
+matters requiring or permitting judicial action or remedy in 
+this chapter, jurisdiction is conferred upon the circuit court 
+of the judicial circuit in which the principal office in this 
+State of the affected financial institution is located. ”). 
+Next, the language of HRS § 91 -7 says a petitioner “may” 
+bring a HRS § 91 -7 lawsuit where the petitioner resides or has 
+its principal place of business. It does n’t say “shall.” 
+And “[t]he term ‘may’ is generally construed to render 
+optional, perm issive, or discretionary the provision in which it 
+is embodied; this is so at least when there is nothing in the 
+wording, sense, or policy of the provision demanding an unusual 
+interpretation.” State v. Kahawai , 103 Hawai‘i 462, 465, 83 P.3d 
+725, 728 (2004) (cleaned up ). In Befitel, this court conceded 
+that the legislature could have drafted the statute using 
+“shall” instead of “may,” but said that the legislature had not 
+“intended to bestow an extra benefit upon HRS § 91 –7 plaintiffs 
+that they ‘may’ igno re if they prefer to sue outside of their 
+own domiciles.” 114 Hawaiʻi at 92, 157 P.3d at 531. 
+14  
+    
+  
+   
+    
+   
+  
+  
+ 
+    
+  
+       
+   
+ 
+  
+  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+But the legislative intent of HRS § 91-7 was actually to 
+expand the court’s authority and to liberalize standing in order 
+to allow “any interested person” to bring a declaratory action 
+challenging the validity of an agency rule. Asato v. 
+Procurement Policy Board , 132 Hawaiʻi 333, 343 -44, 322 P.3d 228, 
+238-39 (2014) (citing H. Stand. Comm. Rep. No. 8 in 1961 House 
+Journal, at 658). The legislature did not express an intent to 
+prevent a plaintiff from filing where the defendant a gency is 
+located based on the general venue statute , HRS § 603 –36(5). By 
+prohibiting HHIA from bringing the lawsuit in the First Circuit , 
+Befitel appears to have contradicted legislative intent . 
+Other rules of statutory interpretation also favor and 
+support overruling Befitel. 
+The in pari materia canon of statutory interpretation 
+provides that when a law is ambiguous, statutes on the same 
+subject matter can be construed with reference to each other. 
+Alpha, Inc. v. Bd. of Water Supply, 154 Hawaiʻi 486, 494, 555 
+P.3d 173, 181 (2024) ; see also HRS § 1-16 (2009) (“Laws in pari 
+materia, or upon the same subject matter, shall be construed 
+with reference to each other. What is clear in one statute may 
+be called in aid to explain what is doubtful in an other.”). 
+In this regard, to the extent the relevant language of HRS 
+§ 91-7(a) is purportedly ambiguous with respect to whether it 
+concerns venue or subject matter jurisdiction, HRS § 603 -36(5) 
+15  
+    
+ 
+  
+   
+  
+  
+  
+ 
+ 
+  
+ 
+  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+and HRS § 91 –7(a) can be read with each another. HRS § 603 -
+36(5) is the general civil venue statute, which allows actions 
+to be brought in the circuit “where the claim for relief arose 
+or where the defendant is domiciled [.]” Before HRS § 91 -7(a) 
+was promulgated in 1961, neighbor island plaintiffs challenging 
+an agency rule would have been required t o file in Honolulu ’s 
+First Circuit Court . 
+But Befitel recognized that HRS § 91 –7(a) is for the 
+“convenience of the plaintiff” and now allows plaintiff s to file 
+in the circuit of their d omicile, even if the claim for relief 
+did not arise or the defendant is not domiciled in that circuit . 
+114 Hawaiʻi at 92, 157 P.3d at 531. Therefore, r eading HRS § 
+603-36(5) and HRS § 91 –7(a) together, the second sentence of HRS 
+§ 91–7(a) is more logically read as expanding venue so that 
+petitioners can file in the circuit in which they live or have 
+their principal place of business, and not be required to file 
+in the circuit where the claim for relief arose or where the 
+defendant is domiciled. Yet, it could be more convenient for a 
+plaintiff to file in the defendant agency’s circuit, whether due 
+to the availabilit y of witnesses, evidence, or specialized 
+attorneys. 
+Further, a nother rule of statutory interpretation is that 
+courts should avoid absurd results inconsistent with statutory 
+intent. See Nordic PCL Construction Inc. v. LPIHGC, LLC, 156 
+16  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+   
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Hawaiʻi 325, 333 -34, 574 P.3d 1273, 1281 -82 (2025); see also HRS 
+§ 1-15(3) (“Every construction which leads to an absurdity shall 
+be rejected.”) 
+HRS § 91-7 was intended to expand the court’s authority and 
+to liberalize standing. Booking.com is a foreign corporation 
+and its principal place of business is not in Hawai ʻi.   Under 
+Befitel, no court in Hawaiʻi would have subject matter 
+jurisdiction over a HRS § 91-7 action filed by Booking.com or 
+other similarly situated plaintiffs.  Such a result is absurd 
+and inconsistent with legislative intent.  
+For these reasons, we overrule Befitel and hold that HRS § 
+91–7(a) is an optional venue statute that expands venue beyond 
+HRS § 603 -36(5). Pursuant to the latter, o ut-of-state 
+plaintiffs can seek declaratory relief rega rding validity of an 
+agency rule in the circuit where the claim for relief arose or 
+where the defendant is domiciled. Here, as DoTax is domiciled 
+in Honolulu in the First Circuit, the First Circuit Court had 
+subject matter jurisdiction over Booking.com’s declaratory 
+relief action . Therefore, so did the ICA, and now, so does this 
+court. 
+B. The issue of the availability of HRS § 91 -7 declaratory 
+relief for tax administrative rules is not moot 
+Next, DoTax argues this case is moot, because the tax 
+appeal cou rt has already invalidated the disputed rule. On May 
+17  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+  
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  8, 2023, the tax appeal court granted Booking.com’s motion for 
+partial summary judgment, ruling that the Rule is invalid and 
+void in violation of the ITFA.     7
+A  case is moot if it has lost its character as a present, 
+live controversy of the kind that must exist if courts are to 
+avoid advisory opinions on abstract propositions of law; a case 
+is moot if the reviewing court can no longer grant effective 
+relief.  Kahoʻohanohano  v. State, 114 Hawaiʻ i 302, 332, 162 P.3d 
+696, 726 (2007)  (cleaned up).    
+Here, the issue on certiorari is not the merits of the 
+Rule’s validity . The issue is whether the language of HRS § 
+632-1 prohibiting declaratory relief for tax controversies 
+prohibits a HRS § 91 -7 declaratory relief lawsuit challeng ing 
+the validity of a tax administrative rule . So, the case is not 
+moot. 
+But even if it was, the public interest exception to the 
+mootness doctrine applies when an issue “affects the public 
+interest and an authoritative determination is desirable for the 
+ 
+7The tax appeal court also has subject matter jurisdiction to rule on 
+the validity of a tax administrative rule pursuant to HRS § 232 -12 (2017), 
+“Powers when hearing appeals,” which gives it the powers and authority of a 
+circuit court when hearing tax appeals: 
+The tax appeal court when hearing appeals, shall, in . . . 
+otherwise carrying out its duties and functions, ha ve all 
+the powers and authority of a circuit court. 
+HRS § 91 -7 was not cited in the briefing regarding the motion and opposition. 
+18  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+  
+  
+ 
+  
+  
+ 
+    guidance of public officials.”  Kaho‘ohanohano , 114 Hawai ‘i at 
+333, 162 P.3d at 727  (citation omitted).   Factors include (1) 
+“the public or private nature of the question presented”; (2) 
+“the desirability of an authoritative determination for the 
+future guidance of public officers”; and (3) “the likelihood of future recurrence of the question.” Id.  (cleaned up).  
+Here, all three factors are met. T he question before this 
+court is clearly of a public nature , because HRS § 91-7 
+declarat ory relief is available to the public and implicates all 
+taxpayers. Second, adjudication on the merits by this court is 
+desirable, because it would provide guidance to the public and 
+to DoTax. Third, t his issue is also likely to reoccu r. 
+Therefore, even if this case was moot, the public interest 
+exception would apply. 
+C. Booking.com  does have standing 
+The ICA held that Booking.com  lacks standing. HRS § 91-
+7(a) provides that “[a]ny interested person may obtain a 
+judicial declaration as to the validity o f an agency rule [.]” 
+To have standing under HRS § 91-7(a), “any interested person” 
+does not require an “actual case or controversy” and includes 
+any plaintiff who has interests that “may have been adversely 
+affected.” Asato, 132 Hawaiʻi at 343-44, 322 P. 3d at 238-39. In 
+Asato, this court ruled a taxpayer plaintiff qualified as an 
+“interested person,” because a taxpayer challenging a specific 
+19  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+  
+ 
+     bidding procedure may be “adversely affected” by the validity of 
+a regulation allegedly allowing an illegal expenditure of public 
+funds. 132 Hawaiʻi at 343, 322 P.3d at 238.  
+The ICA ruled Booking.com  lacks standing based on language 
+in its briefing that it “does not seek any ruling regarding the 
+application of the Rule to [ Booking.com ] in this action .” 
+Booking.com , 2025 WL 1322630 , at *3. The ICA therefore h eld 
+that “[i] f Booking.com  doesn’t seek a ruling that HAR § 18 -237-
+29.53-10(a)(3) does not apply to it, it is not ‘any interested 
+person’ entitled to declaratory relief under HRS § 91 -7.” Id. 
+But in its initial filing at circuit court, Booking.com 
+pled it “may have been adversely impacted” by the Rule. 
+Booking.com argued it had standing because,  as an online 
+accommodations platform based in the Netherlands,  it would 
+likely be and,  as shown by the subsequent tax assessment,  was 
+impacted by the  Rule.  Booking.com’s briefing before the ICA 
+merely expressed  its position that it was not challenging the 
+application of the Rule to it under HRS § 91-7; rather, it challenges the Rule’s  validity.   See  Puana v. Sunn, 69 Haw. 187, 
+189, 737 P.2d 867, 869  (1987)  (“Although HRS § 91 –7 does not 
+give the circuit court jurisdiction to hear a challenge to the application of a rule, it clearly does provide for attacks on a 
+rule’s validity.”).  
+20  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+   
+ 
+    
+ Booking.com , as a business wh ich facilitates bookings in 
+Hawaiʻi, is obviously an “interested person” with respect to the 
+validity of the Rule. Therefore, the ICA erred by ruling 
+Booking.com  does not have standing . 
+D. HRS § 632 -1’s prohibition on declaratory judgments for 
+controversies with respect to taxes does no t prohibit a HRS 
+§ 91-7 action for declaratory relief regarding the validity 
+of a tax administrative rule 
+When construing a statute, our foremost obligation is to 
+ascertain and give effect to the intention of the legislature, 
+which is to be obtained primar ily from the language contained in 
+the statute itself. 
+Nothing in the language of HRS § 91 -7 says declaratory 
+relief cannot be granted regarding the validity of a tax 
+administrative rule. DoTax argu es that HRS § 632 -1’s 
+prohibition on declaratory judgments in tax controversies should 
+be read in pari materia and superimposed to also govern HRS § 
+91-7. This argument is without merit. 
+The in pari materia doctrine applies when a statute is 
+ambiguous. Earlier, we construed HRS §§ 91-7(a) and 603-36(5) 
+in pari materia because Befitel deemed language in the former 
+ambiguous with respect to whether it concerned venue or subject 
+matter jurisdiction. But HRS § 91 -7 is not ambiguous with 
+respect to whether a tax administrative rule can be challenged. 
+It contains no language prohibiting such a challenge. 
+21  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+  
+ 
+ 
+ 
+ 
+  HRS § 632 -1(b) actually says that where a statute provides 
+a special form of remedy for a specific type of case, that 
+statutory remedy is to be followed. Thus, an action seeking 
+declaratory relief regarding the validity of an agency rule is 
+to be brought under HRS § 91 -7, not HRS § 632 -1. 
+HRS § 632 -1 and HRS § 91-7 are separate, independent 
+statutes. HRS § 632 -1’s tax controversy prohibition does not 
+apply to a HRS § 91 -7 lawsuit bringing a facial challenge to 
+invalidate a tax administrative rule. 
+The ICA held that the circuit court lacked jurisdiction 
+over Booking.com’s lawsuit as it would restrain and interfere 
+with the assessment or collection of taxes. Booking.com, 2025 
+WL 1322630, at *3. It cited this co urt’s opinion in Ocean 
+Resort Villas Vacation Owners Ass’n v. Cnty. of Maui , 147 Hawai‘i 
+544, 465 P.3d 991  (2020), which held that a circuit court lacked 
+jurisdiction over a taxpayer lawsuit seeking declaratory relief regarding the legality and constitutio nality of Maui County’s 
+timeshare real property tax classification.  147 Hawaiʻ i at 547, 
+465 P.3d at 994. The ICA said that the “proper recourse is 
+through the tax appeal procedures .” Booking.com, 2025 WL 
+1322630, at *3 n.6.  
+But Ocean Resorts was a HRS § 632-1 action challenging a 
+county ordinance, not a HRS § 91 -7 action seeking declaratory 
+relief regarding an agency rule. Further, HRS § 91 -7 only 
+22  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+  
+  
+  
+  
+ 
+ allows challenges to the validity of an administrative rule, not 
+to its application. Puana, 69 Haw. at 189, 737 P.2d at 869. 
+Hence, Ocean Resorts is inapposite. 
+This case is a prime example of why a “proper recourse” 
+should not be limited to tax appeal procedures.  DoTax argues 
+that Booking.com should not have challenged the Rule under HRS § 
+91-7, but should have waited until DoTax assessed taxes against 
+it and appealed to tax appeal court. Before the Rule, 
+Booking.com did not file Hawaiʻi tax returns based on its belief 
+that it had no income taxable by  Hawaiʻi. DoTax’s eventual GET 
+assessment was for the previous ten years, totaling over $19 
+million, half of which was for penalties and accrued interest.  
+Booking.com and other taxpayers should be able to facially 
+challenge the validity of tax administrative rules, even if they 
+cannot challenge its application to them.  
+Based on the plain language of HRS § 91 -7, HRS § 632 -1’s 
+prohibition on declaratory judgments for controversies with 
+respect to taxes does not prohibit a HRS § 91 -7 action for 
+declaratory relief regarding the validity of a tax 
+administrative rule . 
+V. Conclusion 
+For the foregoing reasons, we vacate the ICA’s June 4, 
+2025, judgment on appeal as well as the circuit court’s January 
+23  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER** 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+  
+         24, 2023 final judgment and remand to the circuit court for 
+further proceedings consistent with this opinion. 
+Nathaniel Higa    
+for petitioner    
+     
+Lauren Chun  
+for respondent    
+ 
+Thomas Yamachika   
+for amicus curiae   
+Tax Foundation of Hawai ‘i  /s/ Vladimir P. Devens  
+   /s/ Sabrina S. McKenna   
+/s/ Todd W. Eddins  
+/s/ Lisa M. Ginoza   
+    
+/s/ Jeannette H. Castagnetti  
+24 

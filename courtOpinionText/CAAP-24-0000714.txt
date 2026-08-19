@@ -1,0 +1,620 @@
+FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+NO. CAAP-24-0000714 
+ 
+ 
+IN THE INTERMEDIATE COURT OF APPEALS
+ 
+ 
+OF THE STATE OF HAWAIʻI 
+ 
+---o0o--- 
+ 
+OSCAR HILLS IV,
+ Plaintiff-Appellant, 
+v. 
+MATCH GROUP, INC., PLENTY OF FISH, TINDER, BERNARD KIM, et al., 
+Defendants-Appellees. 
+  
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT 
+(CASE NO. 1CCV-24-0000866) 
+ 
+ 
+AUGUST 10, 2026 
+ 
+ 
+WADSWORTH, PRESIDING JUDGE, MCCULLEN AND GUIDRY, JJ. 
+ 
+ 
+OPINION OF THE COURT BY MCCULLEN, J. 
+ 
+Self-represented Plaintiff-Appellant Oscar Hills IV 
+appeals from the Circuit Court of the First Circuit's1 
+November 25, 2024 "Order Granting in Part and Denying in Part 
+ 
+1  The Honorable Shirley M. Kawamura presided until September 30, 2024, 
+when the case was assigned to the Honorable Jordon J. Kimura. Electronically Filed
+Intermediate Court of Appeals
+CAAP-24-0000714
+10-AUG-2026
+08:02 AM
+Dkt. 36 OPFOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+2 Defendant[-Appellee] Match Group, Inc.'s [(Match Group)] Motion 
+to Stay the Action Pending Arbitration" (Stay Order), staying proceedings and compelling arbitration consistent with a mandatory arbitration clause contained in the Terms of Use 
+governing the dispute. 
+We hold that the appealability of the Stay Order is 
+governed by the Terms of Use's valid choice-of-law provision.  
+Because the Terms of Use selects Texas substantive law and the Federal Arbitration Act (FAA), 9 U.S.C. §§ 1 et. seq., under which an order staying proceedings and compelling arbitration is not an appealable order, Hills may not seek interlocutory review of the Stay Order.  Accordingly, we dismiss this appeal for lack 
+of appellate jurisdiction. 
+I. BACKGROUND 
+Hills joined Plenty of Fish, an online dating platform 
+owned by Match Group, in March 2021.  In order to create an 
+account, Hills was required to accept Plenty of Fish's Terms of Use.  At the time of the account creation, the Terms of Use contained a "Dispute Resolution" provision that included mandatory arbitration and choice-of-law provisions:
+2   
+ 
+2  The "Dispute Resolution" provision also included a venue provision 
+designating the state and federal courts of Dallas County, Texas: 
+(continued . . .) 
+ FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+3 15.  DISPUTE RESOLUTION  
+In the unlikely event that we have a legal dispute, here is 
+what you need to know.  
+If you are dissatisfied with our Services for any reason, 
+please contact POF Customer Service first so that we can try to resolve your concerns without the need of outside assistance.  If you choose to pursue a claim against POF, 
+these terms will apply. 
+15a.  ARBITRATION, CLASS- ACTION WAIVER, AND JURY WAIVER  
+If you pursue a legal claim against POF, you agree to 
+arbitration (with limited exceptions). 
+Except for users residing within the EU or European 
+Economic Area, and where prohibited by law:  
+1. The exclusive means of resolving any dispute or claim 
+arising out of or relating to this Agreement 
+(including any alleged breach thereof) or our Services shall be BINDING ARBITRATION administered by 
+JAMS under the JAMS Streamlined Arbitration Rules & 
+Procedures, except as modified by our Arbitration 
+Procedures.  The one exception to the exclusivity of 
+arbitration is that either party has the right to 
+ 
+(. . . continued) 
+15c. VENUE 
+ 
+Any claims that are not submitted to arbitration for any reason must be litigated in Dallas County, Texas (except 
+for claims brought in small claims court, and in the EU or 
+where prohibited by law). 
+Except for users residing in the EU or European Economic Area, who may bring claims in their country of residence in accordance with applicable law, and except for claims that 
+may be properly brought in a small claims court of 
+competent jurisdiction in the county or other jurisdiction 
+in which you reside or in Dallas County, Texas, all claims arising out of or relating to this Agreement, to our Services, or to your relationship with POF that for 
+whatever reason are not submitted to arbitration will be 
+litigated exclusively in the federal or state courts of 
+Dallas County, Texas, U.S.A.  You and POF consent to the 
+exercise of personal jurisdiction of courts in the State of 
+Texas and waive any claim that such courts constitute an 
+inconvenient forum. 
+(Underlined emphasis added.) 
+However, venue was not an issue raised below or before this court.
+ FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+4 bring an individual claim against the other in a 
+small-claims court of competent jurisdiction, or, if 
+filed in arbitration, the responding party may request that the dispute proceed in small claims court if the party's claim is within the jurisdiction of the small claims court.  If the responding party 
+requests to proceed in small claims court before the 
+appointment of the arbitrator, the arbitration shall 
+be administratively closed, and if requested after the appointment of the arbitrator, the arbitrator shall determine if the dispute should be decided in arbitration or if the arbitration should be 
+administratively closed and decided in small claims 
+court.  Whether you choose arbitration or small-
+claims court, you may not under any circumstances commence or maintain against the Company any class action, class arbitration, or other representative action or proceeding.  
+2. By using our Services in any manner, you agree to the above arbitration agreement.  In doing so, YOU GIVE 
+UP YOUR RIGHT TO GO TO COURT to assert or defend any claims between you and the Company (except for 
+matters that may be taken to small- claims court).  
+YOU ALSO GIVE UP YOUR RIGHT TO PARTICIPATE IN A CLASS 
+ACTION OR OTHER CLASS PROCEEDING.  Your rights will 
+be determined by a NEUTRAL ARBITRATOR, NOT A JUDGE OR JURY, and the arbitrator shall determine all issues 
+regarding the arbitrability of the dispute.  You are 
+entitled to a fair hearing before the arbitrator.  The arbitrator can grant any relief that a court can, but you should note that arbitration proceedings are usually simpler and more streamlined than trials and 
+other judicial proceedings.  Decisions by the 
+arbitrator are enforceable in court and may be 
+overturned by a court only for very limited reasons.  For details on the arbitration process, see our Arbitration Procedures. 
+3.
+ Any proceeding to enforce this arbitration agreement, including any proceeding to confirm, modify, or vacate an arbitration award, may be commenced in any court of competent jurisdiction.  In the event that 
+this arbitration agreement is for any reason held to 
+be unenforceable, any litigation against the Company 
+(except for small- claims court actions) may be 
+commenced only in the federal or state courts located in Dallas County, Texas.  You hereby irrevocably 
+consent to the jurisdiction of those courts for such purposes.  
+4. The online dispute settlement platform of the European Commission is available under http://ec.europa.eu/odr.  POF does not take part in 
+dispute settlement procedures in front of a consumer arbitration entity for users residing in the EU or European Economic Area.  FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+5 15b.  GOVERNING LAW  
+Texas law and the Federal Arbitration Act will apply if 
+there is a dispute (except in the EU and where prohibited 
+by law).  
+Except for users residing in the EU or European Economic 
+Area or elsewhere where our arbitration agreement is prohibited by law, the laws of Texas, U.S.A., excluding 
+Texas's conflict of laws rules, will apply to any disputes 
+arising out of or relating to this Agreement or our Services.  Notwithstanding the foregoing, the Arbitration Agreement in Section 15a above shall be governed by the Federal Arbitration Act
+.  For the avoidance of doubt, the 
+choice of Texas governing law shall not supersede any mandatory consumer protection legislation in such jurisdictions.  
+(Underlined emphases added.) 
+In July 2024, Hills filed a civil complaint in Hawaiʻi 
+circuit court, asserting various claims and alleging that he was 
+wrongfully banned from Plenty of Fish and other Match Group online dating platforms following allegations of sexual assault by another user.  No criminal charges appear to have been filed against Hills as a result of those allegations. 
+Match Group responded by moving to stay the 
+proceedings and compel arbitration (
+Motion to Compel 
+Arbitration), arguing that, because Hills's claims arose from his alleged ban from the Plenty of Fish online dating platform, his claims were subject to the Terms of Use's mandatory arbitration provision. 
+Hills opposed the Motion to Compel Arbitration but 
+made no discernible argument as to why his claims were not 
+governed by the Terms of Use's mandatory arbitration provision. FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+6 After an October 23, 2024 hearing,3 the circuit court 
+entered a minute order granting in part and denying in part 
+Match Group's Motion to Compel Arbitration.  The circuit court 
+concluded that under both Hawaiʻ i and Texas law, Hills and Match 
+Group "are compelled to arbitrate this matter" because neither 
+party contested the existence of a valid arbitration agreement and because, under the terms of that arbitration agreement, the 
+determination of arbitrability was expressly reserved to the 
+arbitrator.  Therefore, the circuit court stayed the action pending completion of the arbitration. 
+The circuit court entered its written Stay Order, and 
+Hills timely appealed. 
+On appeal, Hills raises two points of error:  
+(1) whether the provision mandating arbitration between Hills and Match Group was voidable at Hills's election under the 
+Ending Forced Arbitration of Sexual Assault and Sexual 
+Harassment Act (
+EFAA), 9 U.S.C. § 402(a), and (2) whether Match 
+ 
+3  No transcript of the October 23, 2024 hearing on Match Group's Motion 
+to Compel Arbitration appears in the record. 
+Hawaiʻi Rules of Appellate Procedure ( HRAP) Rule 10(b) requires an 
+appellant to request transcripts of court proceedings " [w]hen an appellant 
+desires to raise any point on appeal that requires consideration of the oral 
+proceedings before the court appealed from." 
+HRAP Rule 11(a) requires " each appellant to provide a record, as 
+defined in Rule 10 of these Rules and the Hawaiʻ i Court Records Rules, that is 
+sufficient to review the points asserted and to pursue appropriate proceedings in the court or agency appealed from to correct any omission." FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+7 Group's Motion to Compel Arbitration amounted to abuse of 
+process.4 
+Match Group challenges this court's jurisdiction.  As 
+discussed below, we lack jurisdiction over this appeal.
+ 
+II. DISCUSSION 
+In his Opening Brief, Hills contends this court has 
+jurisdiction, because "[u]nder  law, a circuit court order 
+compelling arbitration and staying proceedings is an appealable 
+order over which our appellate courts have jurisdiction."  Hills 
+relies on:  Gabriel v. Island Pacific Academy, Inc., 140
+325, 400 P.3d 526 (2017); County of  v. UNIDEV, LLC, 129 Hawaiʻi Hawaiʻi Hawaiʻi
+ 
+4  Hills's points of error, as stated in the Opening Brief, are: 
+A.
+ Did the Court err in granting Defendants- Appellees' 
+Motion to Stay the Action Pending Arbitration in a 
+case involving a sexual assault claim? . . . . 
+ 
+B. Whether Defendant- Appellees' malicious abuse of 
+process, aimed at avoiding liability, effectively 
+voided the court's jurisdiction over a claim 
+involving sexual assault, in violation of the 
+applicable laws governing the enforceability of arbitration agreements and the court's authority to hear such claims. 
+ (Formatting altered.) 
+It appears that Hills raises his argument under the EFAA for the 
+first time on appeal.  Hills did not raise the argument that the arbitration agreement was voidable under the EFAA in his opposition to Match Group's Motion to Compel Arbitration.  Neither the minutes from 
+the October 23, 2024 hearing on the Motion to Compel Arbitration nor 
+the circuit court's Minute Order show Hills raised an argument under the EFAA at the hearing, and no transcript of the hearing appears in the record.  See HRAP Rules 10(b), 11(a).  "Legal issues not raised in 
+the trial court are ordinarily deemed waived on appeal."  Ass'n of 
+Apartment Owners of Wailea Elua v. Wailea Resort Co., 100 
+Hawaiʻi 97, 
+107, 58 P.3d 608, 618 (2002). FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+8 Hawaiʻi 378, 301 P.3d 588 (2013); and Association of Owners of 
+Kukui Plaza v. Swinerton & Walberg Co. (Kukui Plaza), 68 Haw. 
+98, 705 P.2d 28 (1985). 
+In its Answering Brief, Match Group argues this court 
+lacks jurisdiction, because Texas law and the FAA govern — not 
+Hawai
+ʻi law.5  Match Group asserts that under 9 U.S.C. § 16 and 
+Texas Civil Practice and Remedial Code § 51.016, an order 
+staying proceedings and compelling arbitration is not a final, appealable order. 
+"A court always has jurisdiction to determine whether 
+it has jurisdiction over a particular case.  Appellate courts have an independent obligation to ensure they have jurisdiction to hear and determine each case."  Nordic PCL Constr., Inc. v. 
+LPIHGC, LLC, 156 Hawaiʻ i 325, 333, 574 P.3d 1273, 1281 (2025) 
+(citations omitted). 
+ 
+5  Match Group also contested jurisdiction in its Counterstatement of 
+Jurisdiction, arguing that "there is significant case law suggesting that, in 
+the absence of a final judgment, there is no right to appeal."  Match Group cited five unpublished appellate orders dismissing appeals from orders 
+compelling arbitration for lack of jurisdiction:  In re Hawaii Government 
+Employees Association, AFSCME, Local 152, AFL- CIO ex rel. Jolly, No. 29661, 
+2009 WL 1879223 (App. June 29, 2009); Shelton v. Kaiser Foundation Health 
+Plan, Inc., No. 29754, 2009 WL 1805047 (App. June 23, 2009); Clever 
+Construction, Inc. v. Alcone, No. 29320, 2008 WL 5049906 (App. Nov. 21, 
+2008); Williams v. State, Department of Land & Natural Resources, No. 29209, 
+2008 WL 4649397 (App. Oct. 17, 2008); and Brown v. Hawaii Medical Service 
+Association, No. 29117, 2008 WL 3148577 (App. Aug. 1, 2008).  The orders 
+cited by Match Group lack precedential value pursuant to HRAP Rule 35(c), 
+and, as discussed below, are inconsistent with subsequent binding precedent 
+expressly holding the contrary.  E .g., UNIDEV, 129 Hawaiʻ i at 392, 301 P.3d at 
+602. FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+9 We first address the appealability of an order staying 
+proceedings and compelling arbitration under Hawaiʻ i law, Texas 
+law, and the FAA, before turning to what effect the Terms of 
+Use's choice-of-law provision has on the selection of controlling law. A. Appealability 
+The Stay Order is an appealable order only if this 
+dispute is governed by Hawaiʻ i procedural law.  See Gabriel, 140 
+Hawaii at 333-34, 400 P.3d at 534-35.  If the FAA or Texas law governs the dispute, the Stay Order is not appealable, and this court would lack jurisdiction to entertain the appeal.  See 
+Johnson v. Consumerinfo.com, Inc., 745 F.3d 1019, 1020 (9th Cir. 
+2014); Gathe v. Cigna Healthplan of Tex., Inc., 879 S.W.2d 360, 
+362 (Tex. App. 1994). 
+1. Hawaiʻi Law 
+"There is no common law right to appeal.  'The right 
+to appeal is purely statutory, and exists only when given by some constitutional or statutory provision.'"  Greer v. Baker, 
+137 Hawaiʻ i 249, 252, 369 P.3d 832, 835 (2016) (quoting Lingle v.  
+Hawaiʻi Gov't Emps. Ass'n, 107 
+Hawaiʻi 178, 184, 111 P.3d 587, 
+593 (2005)). 
+In 2001, Hawaiʻi adopted the Uniform Arbitration Act 
+(UAA) as chapter 658A of the Hawaiʻ i Revised Statutes (HRS).  
+2001 Haw. Sess. Laws Act 265, § 1 at 810-19.  Under the UAA, an FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+10 order granting stay and compelling arbitration is not 
+appealable.  See HRS § 658A-28 (2016).6  However, the Hawaiʻ i 
+Supreme Court held that "after Hawaiʻ i's adoption of HRS § 658A-
+28, orders compelling arbitration remain appealable under 
+ final judgment statute, HRS § 641-1."  UNIDEV, 129 Hawaiʻi's
+Hawaiʻi at 392, 301 P.3d at 602. 
+HRS § 641-1(a) (2016) provides for appeals "in civil 
+matters from all final judgments, orders, or decrees of circuit 
+and district courts and the land court to the intermediate 
+appellate court, subject to chapter 602."  It is well-settled law that "orders granting stays and compelling arbitration are appealable" under HRS § 641-1(a).  Kukui Plaza, 68 Haw. at 107, 
+ 
+6  HRS § 658A-28, "Appeals," provides: 
+(a)
+ An appeal may be taken from: 
+(1)
+ An order denying a motion to compel 
+arbitration; 
+(2)
+ An order granting a motion to stay arbitration; 
+(3)
+ An order confirming or denying confirmation of an award; 
+(4)
+ An order modifying or correcting an award; 
+(5)
+ An order vacating an award without directing a rehearing; or 
+(6)
+ A final judgment entered pursuant to this chapter. 
+(b)
+ An appeal under this section shall be taken as 
+from an order or a judgment in a civil action.  FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+11 705 P.2d at 35 (overruling Pfaeltzer v. Patterson, 49 Haw. 59, 
+60, 410 P.2d 974, 974 (1966)).7 
+Based on the foregoing, if Hawaiʻ i procedural law 
+controls, the Stay Order is appealable, and this court has jurisdiction to consider the merits of the appeal. 
+2. The Federal Arbitration Act 
+"It is well established that § 16(b) [of the FAA] bars 
+appeals of interlocutory orders compelling arbitration and 
+staying judicial proceedings."  Johnson, 745 F.3d at 1021 (citing Green Tree Fin. Corp.–Ala. v. Randolph, 531 U.S. 79, 86–88 & n.2 (2000) ("contrasting a dismissal with prejudice, appealable under § 16(a)(3), with a stay that 'would not be 
+appealable'")). 
+Indeed, under the express terms of the FAA, appeals 
+may not be taken from interlocutory orders granting a stay and 
+compelling arbitration:   
+ 
+7  In Kukui Plaza, the Hawaiʻ i Supreme Court held that an order denying 
+a motion to compel arbitration fell "in that small class which finally 
+determine claims of right separable from, and collateral to, rights asserted 
+in the action, too important to be denied review and too independent of the 
+cause itself to require that appellate consideration be deferred until the 
+whole case is adjudicated."  68 Haw. at 105- 06, 705 P.2d at 34 (quoting Coen 
+v. Beneficial Indus. Loan Corp., 337 U.S. 541, 546 (1949)).  The court 
+further stated in dicta, "By the same token, orders granting stays and 
+compelling arbitration are appealable too[.]"  Id. at 107, 705 P.2d at 35.  
+As discussed, that dicta has subsequently been affirmed by the Hawaiʻ i Supreme 
+Court.  E.g., 
+UNIDEV, 129 Hawaiʻ i at 392, 301 P.3d at 602.  FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+12
+ [A]n appeal may not be taken from an interlocutory 
+order-- 
+(1) granting a stay of any action under section 3 
+of this title; [or] 
+. . . 
+(3)
+ compelling arbitration under section 206 of 
+this title[.] 
+9 U.S.C. § 16(b) (formatting altered). 
+Based on the foregoing, if the FAA controls, the Stay 
+Order is not appealable, and this court lacks jurisdiction to 
+consider the merits of the appeal. 
+3. Texas Law 
+Although the FAA governs the dispute, "federal 
+procedure does not apply in Texas courts, even when Texas 
+courts apply the [FAA]."  Jack B. Anglin Co., Inc. v. 
+Tipps, 842 S.W.2d 266, 272 (Tex. 1992) (orig. proceeding).  
+Because appellate jurisdiction is procedural, we look to 
+Texas procedural law to determine whether the court of 
+appeals has jurisdiction over the interlocutory appeal in this case. 
+Bison Bldg. Materials, Ltd. v. Aldridge, 422 S.W.3d 582, 585 
+(Tex. 2012). 
+"Unless specifically authorized by statute, Texas 
+appellate courts only have jurisdiction to review final 
+judgments."  Id. (citing Tex. Civ. Prac. & Rem. Code § 51.014 
+(2012)).  Texas courts "strictly construe statutes authorizing 
+interlocutory appeals because they are a narrow exception to the general rule that interlocutory orders are not immediately appealable."  SK Plymouth, LLC v. Simmons, 605 S.W.3d 706, 713 FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+13 (Tex. App. 2020) (citing CMH Homes v. Perez, 340 S.W.3d 444, 447 
+(Tex. 2011)). 
+An order granting stay and compelling arbitration is 
+not an independently appealable order under the Texas statute 
+authorizing interlocutory appeals.  See Tex. Civ. Prac. & Rem. 
+Code § 51.014 (2023) (listing seventeen independent grounds for interlocutory appeal).  Nor is such an order appealable under the Texas General Arbitration Act (TAA).  See Tex. Civ. Prac. & Rem. Code § 171.098 (1997).
+8 
+Instead, Texas courts have recognized that although 
+Texas law permits an interlocutory appeal from an order denying a motion to compel arbitration, there is no statutory authority 
+permitting an interlocutory appeal from an order staying 
+ 
+8  The 1997 version of section 171.098 of the TAA, "Appeal," provided: 
+(a) A party may appeal a judgment or decree entered 
+under this chapter or an order: 
+(1) denying an application to compel arbitration 
+made under Section 171.021; 
+(2) granting an application to stay arbitration made under Section 171.023; 
+(3) confirming or denying confirmation of an award; 
+(4) modifying or correcting an award; or 
+(5) vacating an award without directing a rehearing. 
+(b) The appeal shall be taken in the manner and to 
+the same extent as an appeal from an order or judgment in a civil action.
+ FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+14 proceedings and compelling arbitration.  See, e.g., Chambers v. 
+O'Quinn, 242 S.W.3d 30, 31-32 (Tex. 2007) ("Under the TAA, a party can appeal an order or judgment that either:  (1) denies an application to compel arbitration made under section 171.021, 
+or (2) grants an application to stay arbitration under section 
+171.023.  Tex. Civ. Prac. & Rem. Code § 171.098(a)(1), (2).  The Act is one-sided, allowing interlocutory appeals solely from orders that deny arbitration.  Similarly, the [FAA] makes no provision for an interlocutory appeal from an order compelling arbitration.  9 U.S.C. § 16.").
+9 
+This is consistent with Texas Civil Practice and 
+Remedies Code § 51.016 (2009), which makes the appealability of 
+an interlocutory order subject to the FAA coextensive with the 
+FAA: 
+In a matter subject to the Federal Arbitration Act 
+(9 U.S.C. Section 1 et seq.), a person may take an appeal 
+or writ of error to the court of appeals from the judgment 
+or interlocutory order of a district court, county court at law, or county court under the same circumstances that an 
+appeal from a federal district court's order or decision would be permitted by 9 U.S.C. Section 16. 
+Based on the foregoing, if Texas law controls, the 
+Stay Order is not appealable, and this court lacks jurisdiction 
+to consider the merits of the appeal. 
+ 
+9  The Texas Supreme Court stated in Anglin, 842 S.W.2d at 271- 72 & 
+n.10, "Both the Texas and Federal Acts permit a party to appeal from an 
+interlocutory order granting or denying a request to compel arbitration."  
+Subsequent Texas appellate courts addressing the appealability of orders compelling arbitration have rejected Anglin as dicta.  E.g., Gathe, 879 
+S.W.2d at 362.   FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+15 B. Choice of Law 
+We now turn to what effect the Terms of Use's choice
+-
+of-law provision has on the selection of procedural law 
+governing the appealability of the Stay Order. 
+"When the arbitration clause is clear and unambiguous 
+its interpretation is a question of law which may be made by the appellate court.  Consequently, we are free to interpret the arbitration clause and apply the correct law to its 
+enforcement."  Brown v. KFC Nat'l Mgmt. Co., 82 
+Hawaiʻi 226, 244, 
+921 P.2d 146, 164 (1996) (citation modified). 
+Choice-of-law provisions are generally enforceable in 
+Hawaiʻi courts, provided "the chosen law has some nexus with the 
+parties or the contract."  Airgo, Inc. v. Horizon Cargo Transp., Inc., 66 Haw. 590, 595, 670 P.2d 1277, 1281 (1983).  
+Hawaiʻi 
+courts have held that the domicile of a contracting party is a 
+sufficient nexus for enforcement of a choice-of-law provision selecting the domicile state's substantive law and that it is error to not give effect to the parties' justified expectations.  
+Id. ("We conclude that in accordance with the parties' 
+expectations, the substantive law of Texas should have been applied in the present case."). 
+Here, t
+he Terms of Use's "Governing Law" provision 
+contained two choice-of-law clauses.  The first choice-of-law clause designated Texas substantive law to govern disputes FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+16
+ arising from the Terms of Use or from Plenty of Fish's services:  
+"[T]he laws of Texas, U.S.A., excluding Texas's conflict of laws rules, will apply to any disputes arising out of or relating to this Agreement or our Services."  The second choice-of-law 
+clause designated the FAA to govern the mandatory arbitration 
+agreement provided for in the Terms of Use:  "Notwithstanding the foregoing, the Arbitration Agreement in Section 15a above shall be governed by the Federal Arbitration Act." 
+Match Group is a Delaware corporation with its 
+principal executive offices in Dallas, Texas.  Thus, there is "some nexus" between the chosen law and the parties to the contract.  See id.  The Terms of Use's choice-of-law provision 
+is therefore enforceable consistent with the contracting parties' justified expectations.  See id. 
+Application of the contracting parties' choice of 
+state law is consistent with controlling precedent.  For example, in Volt Information Sciences, Inc. v. Board of Trustees 
+of Leland Stanford Junior University, 489 U.S. 468, 470-72 
+(1989), the United States Supreme Court upheld a California court's order staying arbitration under California law pending 
+resolution of litigation involving third parties not bound by 
+the arbitration agreement when such a stay was not provided for under the FAA.  The Volt majority held that "application of the 
+California statute is not pre-empted by the [FAA] in a case FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+17 where the parties have agreed that their arbitration agreement 
+will be governed by the law of California."  Id. at 470. 
+In reaching its conclusion, the Court rejected the 
+argument that the FAA requires a preference for federal 
+procedure: 
+There is no federal policy favoring arbitration under a 
+certain set of procedural rules; the federal policy is 
+simply to ensure the enforceability, according to their 
+terms, of private agreements to arbitrate.  Interpreting a 
+choice-of-law clause to make applicable state rules 
+governing the conduct of arbitration--rules which are 
+manifestly designed to encourage resort to the arbitral 
+process--simply does not offend the rule of liberal construction set forth in Moses H. Cone[ Memorial Hospital 
+v. Mercury Construction Corporation, 460 U.S. 1 (1983)
+10], 
+nor does it offend any other policy embodied in the FAA. 
+Id. at 476. 
+The Court concluded that "[t]he FAA contains no 
+express pre-emptive provision, nor does it reflect a 
+congressional intent to occupy the entire field of arbitration," and application of the California statute would not "undermine the goals and policies of the FAA."  Id. at 477-78.  The Court 
+explained that although state laws requiring a judicial forum for claims the parties contracted to arbitrate were preempted by 
+ 
+10  The U.S. Supreme Court held in Moses H. Cone: 
+The Arbitration Act establishes that, as a matter of 
+federal law, any doubts concerning the scope of arbitrable 
+issues should be resolved in favor of arbitration, whether 
+the problem at hand is the construction of the contract 
+language itself or an allegation of waiver, delay, or a 
+like defense to arbitrability. 
+460 U.S. at 24- 25.
+ FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+18 the FAA, Southland Corp. v. Keating, 465 U.S. 1, 10 (1984), "it 
+does not follow that the FAA prevents the enforcement of 
+agreements to arbitrate under different rules than those set forth in the [FAA] itself," Volt, 489 U.S. at 478-79.  Instead, 
+the Court recognized that "parties are generally free to 
+structure their arbitration agreements as they see fit," including by "specify[ing] by contract the rules under which that arbitration will be conducted."  Volt, 489 U.S. at 479.  Accordingly, the U.S. Supreme Court concluded in Volt that 
+enforcing a choice-of-law provision in an arbitration agreement is "fully consistent" with the FAA: 
+Where, as here, the parties have agreed to abide by state 
+rules of arbitration, enforcing those rules according to 
+the terms of the agreement is fully consistent with the 
+goals of the FAA, even if the result is that arbitration is 
+stayed where the [FAA] would otherwise permit it to go 
+forward. 
+Id. 
+Similarly, in Gabriel, the Hawaiʻi Supreme Court held 
+that an appeal from an order granting a motion to compel arbitration was an appealable order, "consistent with the parties' expectations under the arbitration agreement," because 
+the parties had selected 
+Hawaiʻi law to govern the arbitration.  
+140 Hawaiʻ i at 331-33, 400 P.3d at 532-34. 
+Relying on the U.S. Supreme Court's opinion in Volt, 
+the Gabriel court explained that "[t]he FAA's purpose is simply 
+to require courts to enforce privately negotiated agreements to FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+19 arbitrate, like other contracts, in accordance with their terms" 
+and that "[s]o long as the state procedural rule does not 'stand as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress' in enacting the FAA, it 
+does not conflict with the FAA, and the FAA will not preempt 
+it."  Gabriel, 140 Hawaiʻ i at 334, 400 P.3d at 535 (first 
+quotation modified) (quoting Volt, 489 U.S. at 478, 477). 
+The Hawaiʻi Supreme Court further noted that the 
+majority of jurisdictions that had examined the issue had found 
+that state procedural law is not preempted by the FAA: 
+For those jurisdictions that have examined whether 
+the FAA's appeal provisions preempt state appeal provisions 
+(where those state appeal provisions are based on the Uniform Arbitration Act, as Hawaii's arbitration appeal provisions are), a majority rule has emerged:  the FAA's 
+appeal provisions do not preempt state appeal provisions 
+because (1) state appeal provisions are procedural rather 
+than substantive; (2) procedural provisions should not be 
+preempted unless they stand as an obstacle to the full purposes and objectives of the FAA; and (3) the state 
+procedural rules do not impede the FAA's objective of ensuring the enforceability of arbitration agreements in private contracts. 
+Id. (citing Morgan Keegan & Co. v. Smythe, 401 S.W.3d 595, 606 
+(Tenn. 2013) (collecting cases)). 
+Accordingly, 
+the court determined that because Hawaiʻ i 
+procedural law was not preempted by the FAA and the application 
+of Hawaiʻi law was "consistent with the parties' expectations 
+under the arbitration agreement," the order was an appealable 
+order and, thus, the court had jurisdiction to reach the merits of the case.  Id. at 333-34, 400 P.3d at 534-35. FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+20 We note that, after recognizing that the underlying 
+order in Gabriel would not have been appealable under 9 U.S.C. 
+§ 16(b) had it been issued by a federal district court, the 
+Hawaiʻi Supreme Court stated, "This order, however, was issued in 
+our state circuit court.  Under Hawai
+ʻi law, a circuit court 
+order compelling arbitration and staying proceedings is an 
+appealable final order over which our appellate courts have jurisdiction."  Id. at 333, 400 P.3d at 534 (first citing Kukui Plaza, 68 Haw. at 107, 705 P.2d at 35; then citing UNIDEV, 129 
+Hawaiʻi at 392, 301 P.3d at 602). 
+However, reading this statement in context of the 
+Hawaiʻi Supreme Court's reasoning and holding, we do not 
+interpret Gabriel as standing for the proposition that Hawai
+ʻi 
+courts will apply Hawaiʻ i procedural law merely because the case 
+was brought in a Hawaiʻ i circuit court.  Instead, as discussed 
+above, we conclude that the court's rationale for applying Hawaiʻi procedural law turned on enforcing the parties' justified 
+expectations under the terms of the governing arbitration 
+agreement.  See id. at 333-34, 400 P.3d at 534-35.  This interpretation of Gabriel is consistent with Volt and the public 
+policy animating the FAA.  See Volt, 489 U.S. at 478 
+(recognizing "Congress' principal purpose" in enacting the FAA FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+21 as "ensuring that private arbitration agreements are enforced 
+according to their terms"). 
+In sum, the Gabriel court applied Hawaiʻi law 
+"consistent with the parties' expectations under the arbitration agreement" because the arbitration agreement contained a choice-
+of-law provision selecting 
+Hawaiʻi law.  140 Hawaiʻ i at 333-34, 
+400 P.3d at 534-35.  In this regard, Gabriel is distinguishable 
+from the instant case; here, the Terms of Use provide for application of Texas law and the FAA, not
+ Hawaiʻi law.  See id.   
+In providing for the application of Texas law and the 
+FAA, the parties selected Texas law to "apply to any disputes 
+arising out of or relating to this Agreement or our Services," except that "the Arbitration Agreement in Section 15a . . . 
+shall be governed by the [FAA]."  There is no mention of 
+Hawaiʻi 
+law as governing either the Terms of Use or the arbitration.  
+See id. 
+"[N]ormally the designation of a locale will be 
+considered to be consent to the procedural law of the state, and in particular its arbitration statute; an important exception to this rule occurs when arbitration is held pursuant to the [FAA]."  1 Domke on Commercial Arbitration § 20:1, at 616 
+(Jay E. Grenig ed., 2025). 
+For example, in Ercevik v. Don Wood Hyundai LLC, 265 
+N.E.3d 644, 646 (Ohio Ct. App. 2025), the Court of Appeals of FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+22 Ohio considered whether it had jurisdiction over an appeal from 
+a state trial court's order staying proceedings and compelling arbitration.  The order at issue in Ercevik was not appealable 
+under the FAA, 9 U.S.C. § 16(b), but would have been appealable 
+under state law, Ohio Rev. Code § 2711.02(C) (2000) ("[A]n order 
+. . . that grants or denies a stay of a trial of any action pending arbitration . . . is a final order and may be reviewed, affirmed, modified, or reversed on appeal."). 
+Relying on state law, the Court of Appeals of Ohio 
+explained that "[a]n arbitration clause in a contract is generally viewed as an expression that the parties agree to arbitrate disagreements within the scope of the arbitration 
+clause, and, with limited exceptions, an arbitration clause is 
+to be upheld just as any other provision in a contract should be respected."  Ercevik, 265 N.E.3d at 648 (citation omitted).   
+There, the parties had agreed that the FAA, and not state law, would govern the mandatory arbitration.  Id. at 647.  Indeed, 
+the parties expressly contracted that appealability was governed by the FAA:  "The arbitrator's decision is final and binding, except for any right of appeal provided by the [FAA]. . . .  
+This Arbitration Clause is governed by the FAA and not by any 
+state arbitration law."  Id. at 647. 
+The Ercevik court then distinguished cases where "the 
+parties have either made no specific choice of law or have FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+23 specified that a state law governs their arbitration," 
+explaining that "[i]n those cases, courts generally hold that the appealability of an order compelling arbitration is governed by state law, not the [FAA]."  Id. at 650 (citing Wells v. Chevy 
+Chase Bank, F.S.B., 768 A.2d 620 (Md. 2001)).   
+Ultimately, the court concluded that "where the 
+parties have agreed to have the [FAA] govern their arbitration, the federal preemption doctrine has no application and the appealability of an arbitration order is governed by 9 U.S.C. § 16."  Id. at 651.  Accordingly, the appeal was dismissed for 
+lack of jurisdiction.  Id. 
+Turning back to the instant case, we conclude that 
+giving full effect to Hills and Match Group's justified expectations under the Terms of Use is consistent with Volt, Gabriel, and Ercevik, as well as the legislative intent and public policy animating the FAA.  See Volt, 489 U.S. at 479; 
+Gabriel, 140 
+Hawaiʻi at 333, 400 P.3d at 534; Ercevik, 265 N.E.3d 
+at 651.  Under the Terms of Use, Texas law and the FAA 
+exclusively govern any disputes arising between the parties, including with regard to the appealability of the Stay Order.  See Airgo, 66 Haw. at 595, 670 P.2d at 1281.   
+Despite the apparent contradiction created by Texas 
+law's refusal to apply federal procedure when the FAA governs a 
+dispute, see Bison Bldg. Materials, 422 S.W.3d at 585 (quoting FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER  
+ 
+24 Anglin, 842 S.W.2d at 272), and the Terms of Use's exclusion of 
+Texas's conflict of laws rules when adopting Texas substantive 
+law to govern disputes arising from the Terms of Use and Plenty of Fish's services, we need not conclusively decide whether the 
+FAA or Texas law governs the appealability of the Stay Order 
+because the FAA and Texas law are coextensive in that regard.  See 9 U.S.C. § 16(b); Tex. Civ. Prac. & Rem. Code § 51.016.  In either case, whether Texas law or the FAA provides the procedural law governing this dispute is immaterial as the outcome is the same:  interlocutory appeal may not be taken from an order staying proceedings and compelling arbitration.  See 
+Johnson, 745 F.3d at 1020; Gathe, 879 S.W.2d at 362. 
+III. CONCLUSION 
+For the foregoing reasons, the Stay Order is not an 
+appealable order.  Accordingly, we dismiss the appeal for lack of appellate jurisdiction.  No judgment will be entered in this case. On the briefs: 
+ 
+Oscar Hills IV, 
+Self-represented 
+Plaintiff-Appellant.  
+Scott I. Batterman, 
+(Clay Iwamura Pulice & 
+Nervell), 
+for Defendant-Appellee. /s/ Clyde J. Wadsworth 
+Presiding Judge 
+ 
+/s/ Sonja M.P. McCullen 
+Associate Judge  
+/s/ Kimbery T. Guidry 
+Associate Judge  
