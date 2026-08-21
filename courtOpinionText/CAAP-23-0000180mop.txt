@@ -1,0 +1,827 @@
+      NOT FOR PUBLICATION IN WEST'S HAWAI ʻ I REPORTS AND PACIFIC REPORTER  
+ 
+ Electronically Filed 
+Intermediate Court of Appeals CAAP-23-0000180 19-AUG-2026 08:47 AM Dkt. 120 MO 
+NOS. CAAP-23-0000180, CAAP-23-0000465,
+CAAP-24-0000025 AND CAAP-24-0000374 
+IN THE INTERMEDIATE COURT OF APPEALS 
+OF THE STATE OF HAWAI ‘
+I 
+JARED KAWAOKA MURAYAMA, Individually and as Co-Trustees of the 
+JARED 
+AND DONNA MURAYAMA 1997 TRUST dated January 8, 1997,
+ET AL., Plaintiffs/Counterclaim Defendants-Appellants, 
+v. 
+KALANI CONSTRUCTION INCORPORATED, a Hawai‘i corporation;
+ET AL.; Defendants/Counterclaimants-Appellees 
+APPEAL FROM THE CIRCUIT COURT OF THE FIFTH CIRCUIT 
+(CIVIL NO. 5CC191000062) 
+MEMORANDUM OPINION 
+(By: Nakasone, Chief Judge, Wadsworth and Guidry, JJ.) 
+This consolidated appeal  arises out of a dispute 
+between a construction contractor and the appellant for whom the 1
+1 On February 26, 2025, this court consolidated the appeals in
+CAAP-23-0000180, CAAP-23-0000465, CAAP-24-0000025, and CAAP-24-0000374 under
+CAAP-23-0000180. CAAP-23-0000180 involves sanctions for a motion for interlocutory appeal ( Interlocutory Appeal Sanction ). CAAP-23-0000465 
+involves sanctions for a motion in limine ( MIL) violation ( MIL Violation 
+Sanction). CAAP-24-0000025 is the appeal arising out of the trial.CAAP-24-0000374 involves attorneys' fees to the prevailing party.  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+  
+ 
+ 
+  
+ 
+   
+ contractor built a warehouse, and their claims against each 
+other regarding whether they had a partnership agreement to construct the warehouse, how much the contractor was owed for construction of the warehouse, and the ownership of equipment 
+the appellant paid for that was used by the contractor in the 
+warehouse's construction. After the appellant's complaint was dismissed on summary judgment, an eight-day jury trial was held in April 2023 on the contractor's counterclaim, and the contractor prevailed. This appeal challenges two sanction orders, various summary judgment, discovery, and evidentiary 
+rulings, the special verdict form, the judgment, and the 
+attorneys' fees awarded to the contractor. We affirm in part, vacate in part, and remand for a new trial on the complaint and the counterclaim. We reverse the two sanction orders.   Plaintiff/Counterclaim Defendant-Appellant Jared Kawaoka Murayama ( Jared), individually and in his capacity as 
+trustee of the Jared and Donna Murayama 1997 Trust ( Trust), and 
+Jared's spouse, Counterclaim Defendant-Appellant Donna Moi Linn Murayama in her trustee capacity ( Donna), appeal from the 
+Circuit Court of the Fifth Circuit's ( Circuit Court )
+2 January 12, 
+2024 Final Judgment ( Judgment ) in favor of Defendants/ 
+Counterclaimants-Appellees Randal K. Miyashiro, Sr. ( Randal) and 
+Kalani Construction Incorporated ( KCI), and from various orders. 
+This court also separately resolved another related appeal
+arising out of the same underlying case, in a 2024 summary disposition order
+reversing a $6,887.43 sanction against the same appellant. See Murayama v.Kalani Construction Inc., No. CAAP-21-0000399, 2024 WL 4647904 (Haw. App.Nov. 1, 2024) (SDO). 
+2 The Honorable Kathleen N.A. Watanabe presided. 
+2  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+   
+ 
+  
+  
+  
+  Jared and Donna collectively raise the following 
+seventeen points of error ( POEs) on appeal,  contending that the 
+Circuit Court erred in: (1) 
+denying Jared's motion for partial 
+summary judgment ( MPSJ)  as to the formation of a partnership 
+contract ( Partnership MPSJ Order ); (2) dismissing all claims 
+against Defendant-Appellee Samuel K. Thronas Construction, Inc. 
+(Thronas ) on summary judgment ( Thronas MSJ Order );3
+  (3) 
+dismissing Jared's Complaint on summary judgment on the basis that it should have been brought in Jared's trustee capacity (Complaint MSJ Order ); (4) denying Jared's motion to compel 
+discovery or impose sanctions due to KCI's untimely acknowledgment of deleted evidence and discovery production; (5) issuing the Interlocutory Appeal Sanction of $8,968.58 against Jared for filing a motion for leave to file an interlocutory appeal; (6) issuing the MIL Violation Sanction for 
+a question asked by Donna's counsel, finding that the question violated an in limine ruling, and awarding Randal and KCI 
+$329,763.18 in attorneys' fees and costs as the sanction; 
+(7) excluding evidence, including expert witness testimony, regarding the value of certain equipment Jared had purchased for KCI's use to construct the warehouse (the Equipment ), 
+effectively dismissing Jared and Donna's affirmative defense of offset; prohibiting Jared from cross-examining Randal about the 
+money Randal received from selling the Equipment; admitting 
+evidence of the value of the warehouse; and excluding evidence that Randal wanted his spouse and KCI co-director, Defendant-Appellee Hildegarde Miyashiro ( Hildegarde ), to sell Randal her 4
+3 We have consolidated, restated, and renumbered the POEs for
+clarity and conciseness. 
+4 Though not identified as a POE, Jared claims the Circuit Court
+erred in dismissing all claims in the Complaint as to Thronas. 
+3  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+   50% share of KCI so that Randal could then sell it to Jared; 
+(8) ordering Jared and Donna to remove trial exhibits concerning the Equipment and denying Jared an opportunity to file an offer of proof concerning the defense of offset; (9) denying Jared and 
+Donna's pre-verdict motions for judgment as a matter of law (JMOL); (10) giving the jury incorrect and incomplete instructions; (11) sending the jury a defective Special Verdict 
+Form; (12) entering a Judgment that awards duplicative damages 
+on counts 1, 3, and 5; (13) awarding prejudgment interest for 
+amounts allegedly owed for future rents; (14) denying Donna's 
+motion to amend the trial exhibit list; (15) denying Donna's 
+renewed motion for JMOL or for new trial; (16) entering a 
+defective Judgment that incorrectly states the First Amended Counterclaim ( FACC) was amended to conform to the evidence 
+presented at trial as to the respective parties' liability on each count and that improperly awarded both legal and equitable damages when they are alternative forms of relief; (17) awarding 
+attorneys' fees on equitable counts that are in excess of the statutory threshold, failing to apportion the fees, not identifying the grounds for the fee awards, awarding the fees jointly and severally, and failing to find that the attorneys' fees and costs were reasonable. 
+As POE 3's challenge to the Complaint MSJ Order is 
+dispositive, we focus our review in this opinion to the summary judgment rulings in POEs 1, 2, and 3; the denial of the motion to compel discovery or impose sanctions in POE 4; and the Interlocutory Appeal Sanction and the MIL Violation Sanction in POEs 5 and 6. Because we conclude that Jared's Complaint was erroneously dismissed by the Complaint MSJ Order, and the 
+factually intertwined Complaint and FACC should have been tried 
+together, we vacate the Judgment and the derivative award of 
+4
+  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+    
+  
+ 
+  
+ 
+  attorneys' fees. Because we remand for a new trial on the 
+Complaint and the FACC, and the trial record will develop differently after remand, we do not address the remaining trial-related and judgment-related POEs. We do, however, briefly 
+address certain errors related to the Special Verdict Form to 
+provide guidance on remand.
+5 
+I. BACKGROUND 
+On April 25, 2019, Jared filed a Complaint alleging 
+that in May 2014, Jared engaged KCI as a general contractor to develop a lot owned by the Trust ( project). Jared purchased the 
+Equipment for KCI's use on the project. The Complaint alleged that in 2017, Jared demanded KCI return the Equipment, but KCI did not, and Jared filed a theft report with the police. Jared's Complaint was filed against Randal, KCI, Hildegarde, and other parties who allegedly purchased the Equipment from KCI, including Thronas. The Complaint included claims for: conversion of the Equipment in Count 1, civil conspiracy in the 
+commission of conversion in Count 2, declaratory judgment that 
+Jared had valid title to the Equipment in Count 3, injunctive relief enjoining further transfer of the Equipment in Count 4, and punitive damages. 
+On March 11, 2021, Randal and KCI filed their FACC 
+against Jared individually, and against Jared and Donna in their 
+trustee capacities as to two counts. The FACC alleged that in 
+May of 2014, Jared, "individually and as Co-trustee of the Trust," engaged Randal to form a partnership to develop a lot owned by the Trust through construction of a warehouse; that an oral partnership agreement ( Partnership Agreement ) was formed 
+with Jared but the "specific terms of the Partnership 
+5 The judge who presided over these proceedings has retired, and a
+different judge will preside on remand. 
+5  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+  
+   [Agreement] were not memorialized in writing"; that the 
+partnership ultimately obtained favorable pricing on materials; that Randal and KCI declined other jobs to work on the project; that Randal and KCI did not receive fair market value ( FMV) for 
+their work on the project; and that Jared breached the Partnership Agreement by failing to share profits obtained from the project. The FACC brought claims for: Count 1, Declaratory Ruling, seeking a declaratory judgment that a partnership was formed, that the Equipment was a partnership asset, and that Jared owed Randal monies; Count 2, Breach of Duty of Good Faith 
+and Fair Dealing; Count 3, Breach of Contract, for breach of the 
+Partnership Agreement; Count 4, Misrepresentation; Count 5, Unjust Enrichment; Count 6, Civil Conspiracy; Count 7, Fraudulent Inducement; and Count 8, Violation of Hawaii Revised Statutes ( HRS) § 480-2, for an unfair method of competition. As 
+pleaded, all claims in the FACC were brought against Jared in his individual capacity, except for Count 5 (Unjust Enrichment) 
+against "Jared and the Trust" and Count 6 (Civil Conspiracy) 
+against "Jared and Donna."
+6 The FACC also alleged that Jared and 
+Randal's mutual understanding of the Partnership Agreement was that: Jared would provide financing to purchase materials and Equipment for the project; KCI and Randal would perform work as general contractor and manager for the project; Jared and Randal 
+"would hold themselves out as partners to assist in securing 
+favorable pricing" for the materials, Equipment, and subcontractor work; and Randal and Jared would "share in the reasonable profits and/or losses" in the project. The FACC 
+6 Count 5, Unjust Enrichment, pled that if no partnership was
+found, Randal and KCI "are entitled to compensation because Jared and the
+Trust would be unjustly enriched"; and "[t]o prevent injustice, Jared and the
+Trust should be ordered to compensate [KCI] and Randal in amounts to be
+proven at trial." (Emphases added.) The allegations in Count 6, CivilConspiracy, paragraphs 64 to 68, were pled against "Jared and Donna." 
+6  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+   
+  
+  
+ 
+ alleged that the Equipment was in KCI's name, and KCI later sold 
+the Equipment to "recoup a small amount of the monies owed by Jared under the terms of the Partnership [Agreement]." 
+The following abbreviated procedural history is 
+pertinent to the POEs we address. The Circuit Court denied Jared's Partnership MPSJ, which argued that a partnership had not formed because there was no meeting of the minds, and that in any event Randal and KCI's claims were barred by the statute of frauds ( SOF). The Circuit Court granted the Thronas MSJ on 
+all claims against Thronas in the Complaint, on the basis that 
+there was no evidence Thronas conspired to convert the 
+Equipment. The Circuit Court granted Randal and KCI's Complaint MSJ as to all claims in the Complaint on the basis that the real party in interest was "the Trust" and not Jared individually. 
+The Circuit Court denied Jared's motion to compel 
+discovery or impose sanctions, in which Jared had requested relief due to Randal and KCI's counsel's eleventh-hour admission 
+that KCI's business records pertaining to the costs of the 
+project, which were not produced, did indeed exist at one point, but had been deleted prior to litigation. 
+The Circuit Court issued the $8,968.58 Interlocutory 
+Appeal Sanction against Jared based on "bad faith" arguments he raised in his motion for leave to file an interlocutory appeal 
+of the Complaint MSJ Order that dismissed his Complaint. 
+During trial, the Circuit Court issued the MIL 
+Violation Sanction against Jared and Donna when Donna's counsel 
+asked Randal if it was true that he filed the FACC only because Jared first filed the Complaint, which the Circuit Court concluded was a violation of an in limine ruling. 
+At the conclusion of trial, the claims for Declaratory 
+Relief (Count 1), Breach of Contract (Count 3), Unjust 
+7  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+   
+  
+  
+  Enrichment (Count 5), Misrepresentation (Count 4), and a 
+punitive damages interrogatory were included on the Special Verdict Form. The jury's completed Special Verdict Form awarded Randal and KCI $2,323,000.00 for Declaratory Relief (Count 1), 
+$1,440,000.00 for Breach of Contract (Count 3), $7,000,000.00 
+for Unjust Enrichment (Count 5), $1.00 for Misrepresentation (Count 4), and denied punitive damages. All of the damage awards in the Special Verdict Form were against Jared in both his trustee and individual capacities and Donna in her trustee capacity. The Circuit Court affirmed the awards in the Final 
+Judgment.  
+II. STANDARDS OF REVIEW 
+Summary Judgment 
+The court reviews the grant of summary judgment de 
+novo. Thomas v. Kidani, 126 Hawai ʻi 125, 127-28, 267 P.3d 1230, 
+1232-33 (2011). 
+Discovery Motions 
+Trial court rulings limiting the scope of discovery 
+are reviewed for abuse of discretion. Fisher v. Grove Farm Co., 
+123 Hawaiʻ i 82, 94, 230 P.3d 382, 394 (App. 2009). 
+Sanctions 
+"Regardless of whether sanctions are imposed pursuant 
+to statute, circuit court rule, or the trial court's inherent 
+powers, such awards are reviewed for an abuse of discretion." 
+Kaina v. Gellman, 119 Hawai ʻi 324, 329, 197 P.3d 776, 781 (App. 
+2008) (citation omitted). 
+Verdict Form 
+"In analyzing alleged errors in special verdict forms, 
+the instructions and the interrogatories on the verdict form are considered as a whole." Montalvo v. Lapez, 77 Hawai ʻi 282, 292, 
+884 P.2d 345, 355 (1994) (citation omitted). See also Makila
+8
+  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+   
+  
+  
+ 
+   
+ Land Co. v. Heirs or Assigns of Apaa (k), 146 Hawai ʻi 600, 616, 
+463 P.3d 1257, 1273 (App. 2020) (applying the same standard of 
+review as Montalvo and the standard of review for jury 
+instructions to verdict forms). On appellate review of civil 
+trial jury instructions, we review "to determine whether, considered as a whole, the instructions were prejudicially insufficient, erroneous, inconsistent, or misleading." Foresman
+v. Foresman, 156 Hawai ʻi 128, 135, 570 P.3d 1095, 1102 (2025) 
+(citation omitted). 
+III. DISCUSSION 
+A. The denial of Jared's Partnership MPSJ was not
+erroneous (POE 1). 
+Jared contends his July 23, 2020 Partnership MPSJ on 
+the contract claims in the FACC should have been granted because 
+the "alleged contract lacked material terms" where "KCI and Randal never offered evidence of the terms of payment or the duration of the alleged contract[,]" and the contract claims were subject to the SOF, which required the alleged agreement 
+between the parties to be in writing.
+7 
+The record reflects the Circuit Court denied the 
+motion at a September 1, 2020 hearing, concluding that there 
+7 The SOF, HRS § 656-1 (2016), requires contracts concerning the
+sale of lands or any interest that cannot be performed within one year to be
+in writing, as follows: 
+No action shall be brought and maintained in any of the
+following cases: . . . (4) Upon any contract for the sale
+of lands, tenements, or hereditaments, or of any interestin or concerning them; (5) Upon any agreement that is notto be performed within one year from the making thereof;. . . unless the promise, contract, or agreement, upon
+which the action is brought, or some memorandum or note
+thereof, is in writing, and is signed by the party to becharged therewith[.] 
+9  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+   
+  
+ 
+  "are genuine issues of material facts" as to whether an alleged 
+agreement or partnership was formed. 
+Summary judgment is appropriate if the evidence in the 
+record shows no genuine issue as to any material fact and that 
+the moving party is entitled to judgment as a matter of law; a 
+fact is material if proof of that fact would have the effect of establishing or refuting one of the essential elements of a 
+cause of action. Ralston v. Yim, 129 Hawai ‘i 46, 55-56, 292 P.3d 
+1276, 1285-86 (2013). 
+Once the moving party satisfies its 
+initial burden of production, the burden shifts to the nonmoving 
+party to demonstrate specific facts, as opposed to general allegations, that present a genuine issue worthy of trial. Id.
+at 56-57, 292 P.3d at 1286-87. 
+We address Jared's first argument regarding the lack 
+of material terms precluding contract formation. KCI and 
+Randal's Answering Brief asserts that Jared did not make the 
+Opening Brief's "broad arguments relating to a contract generally" in the MPSJ record below, and these arguments should be waived. 
+Jared's Opening Brief argument in this regard is set 
+forth in half a page, without pointing to where in the relevant 
+record of the Partnership MPSJ  that the argument raised on 
+appeal was made below. Instead, Jared points to testimony from the 2023 trial to support his argument that the Circuit Court erroneously denied the Partnership MPSJ because "[t]here was no contract, as a matter of law." The trial record is not the correct record upon which this court may review a pre-trial summary judgment ruling. Jared's challenge to the denial of the 
+Partnership MPSJ on this ground lacks merit. 
+Jared's second argument, that the SOF barred the 
+contract claim, is also set forth in half a page of the Opening 
+Brief. Jared claims the SOF applied to the alleged contract, 
+10
+  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+   
+  
+ 
+  citing evidence supplied with his May 6, 2021 second motion for 
+reconsideration of the denial of the Partnership MPSJ and other unspecified evidence "at trial and the verdict" that purportedly showed the existence of a rent-splitting agreement, which "is a 
+contract of or concerning an interest in land" that "would take 
+over a year to perform." Jared does not point to evidence in the relevant record of the Partnership MPSJ litigated in 2020 to support this argument on appeal. Jared's challenge to the denial of the Partnership MPSJ on this ground also lacks merit. 
+B. The grant of the Thronas MSJ was not erroneous
+   (POE 2). 
+While not identified as a POE, Jared argues that the 
+Thronas MSJ was erroneously granted because "[b]ut for Thronas' 
+own declaration, neither he nor any of the Appellees offered 
+evidence  that Thronas paid FMV for the Fecon Head [equipment]." 
+In support of this argument, Jared cites to purported evidence in the record for which inadequate or no citation is provided. In the Argument section's single paragraph devoted to the contention that the Circuit Court clearly erred by finding 
+"there was no dispute that Thronas was a [bona fide purchaser 
+(BFP)] who paid FMV" and that summary judgment for Thronas "should be reversed," Jared provides no legal analysis or 
+authority. These arguments are waived. See Hawai ʻi Rules of 
+Appellate Procedure ( HRAP
+) Rule 28(b)(7). We affirm the Circuit 
+Court's grant of the Thronas MSJ as to Thronas. 
+C. The grant of Randal and KCI's Complaint MSJ was
+erroneous (POE 3). 
+Jared argues the Circuit Court erred by dismissing 
+Jared's Complaint "after finding that the Trust owned the 
+equipment" and that therefore the "wrong Plaintiff" had brought the Complaint, and by disregarding KCI and Randal's long delay 
+11
+  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+   
+  
+ 
+  
+ 
+ 
+  before challenging the Complaint under Hawai i ʻ Rules of Civil 
+Procedure ( HRCP) Rule 17(a).8 The record reflects that Randal 
+and KCI's Complaint MSJ was filed August 29, 2022, three years 
+after the April 25, 2019 Complaint was filed and less than two 
+months before the then-scheduled trial date. The Complaint MSJ argued, inter alia , that the Trust owned the Equipment, not 
+Jared, and therefore Jared in his individual capacity was not the "real party in interest" under HRCP Rule 17. In opposing the Complaint MSJ, Jared argued that under the Trust's terms, he was entitled to use Trust funds for any personal purchases, 
+including luxuries, and that those purchases do not become 
+property of the Trust. Jared also submitted a September 30, 2022 Assignment of Claims, in which Jared and Donna, in their trustee capacities, assigned to Jared all rights, title, and interest in and to the claims asserted in the Complaint. Jared further argued that Randal and KCI's real party in interest 
+objection was untimely, and in any event, Jared was entitled to 
+a reasonable time to substitute himself in his trustee capacity as plaintiff. The Circuit Court rejected Jared's arguments and granted summary judgment to dismiss the Complaint. 
+The not-the-real-party-in-interest defense under HRCP 
+Rule 17 "is not jurisdictional and may be waived if not timely 
+raised." Dacanay v. Liberty Mut. Ins. Co., 108 
+Hawai ‘i 393, 
+8 HRCP Rule 17(a) states in relevant part: 
+Every action shall be prosecuted in the name of the
+real party in interest. . . . No action shall be dismissed
+on the ground that it is not prosecuted in the name of the
+real party in interest until a reasonable time has beenallowed after objection for ratification of commencement ofthe action by, or joinder or substitution of, the realparty in interest . . . . 
+(Emphases added.) 
+12  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+  
+ 
+ 
+ 
+  399-400, 120 P.3d 1128, 1134-35 (App. 2005) (citations omitted). 
+HRCP Rule 17(a) "should be applied only to cases in which substitution of the real party in interest is necessary to avoid 
+injustice." Fujimoto v. Au, 95 Hawai ‘i 116, 143, 19 P.3d 699, 
+726 (2001) (citation omitted). 
+Moreover, "modern rules of 
+procedure are intended to allow the court to reach the merits," 
+and HRCP Rule 17(a) "is designed to expedite litigation, not to allow narrow constructions or technicalities to interfere with 
+the merits of a legitimate controversy." Id. (citation and 
+internal quotation marks omitted). In Lagondino v. Maldonado, 7 Haw. App. 591, 596, 789 P.2d 1129, 1132 (1990), this court found a two-year-and-five-month delay for a real party in interest objection was untimely, and explained that the purpose of HRCP Rule 17 is 
+ 
+to protect the defendant from a multiplicity of suits, to
+allow defendant to present all his defenses, to protectdefendant from multiple liability. 
+Since a real party in
+interest objection under Rule 17(a) is for the benefit of adefendant, it should be raised in a timely fashion or it 
+may be deemed waived. 
+. . . [W]hatever vehicle is utilized to present the
+objection, it should be done with reasonable promptness.Otherwise, the court may conclude that the point has been
+waived by the delay. 
+Here, the [defendants] raised their HRCP Rule 17(a)
+objection by a motion for summary judgment almost two years
+and five months after [plaintiff] filed his complaint.
+. . . Clearly, the [defendants'] motion for summary
+judgment raising an objection under HRCP Rule 17(a) wasuntimely. 
+(citation modified) (emphases added). 
+Here, the record reflects that Jared, individually, is 
+the real party in interest. The Trust states that Trust funds 
+may be used for the benefit of Jared or Donna, including luxuries, and it does not state that purchases made or 
+reimbursed with Trust funds remain the property of the Trust. 
+13
+  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+   
+  Even assuming arguendo the Complaint should have been filed by 
+Jared and Donna in their trustee capacities, the Complaint MSJ was filed over three years into the litigation and did not constitute an objection lodged "with reasonable promptness." 
+See id. (concluding a two-year-and-five-month delay in raising 
+an HRCP Rule 17(a) objection was untimely). In addition, nothing in the record or the Complaint MSJ Order suggests Randal or KCI were in danger of duplicate suits by Jared in his separate capacities, and assuming arguendo such danger existed, it would have been cured by the Assignment of Claims. The jury 
+trial that followed on Randal and KCI's FACC, without the 
+intertwined claims in Jared's Complaint that also dealt with the parties' May 2014 arrangement or agreement for construction of the warehouse and the equipment dispute that followed, did not reach the merits of the claims brought by both sides. The Circuit Court's MSJ ruling was a narrow and technical 
+misapplication of Rule 17(a). See Fujimoto, 95 Hawai ʻi at 143, 
+19 P.3d at 726. We conclude the Circuit Court erred in granting 
+the Complaint MSJ and dismissing Jared's Complaint. See
+Ralston, 129 
+Hawaiʻi at 55-56, 292 P.3d at 1285-86. 
+D. The denial of Jared's request for any discovery
+relief in his motion to compel was outside the
+permissible scope of the Circuit Court's
+discretion (POE 4). 
+Regarding the denial of the motion to compel 
+discovery, Jared argues that he was substantially prejudiced by 
+KCI's failure to timely produce relevant documents and by the Circuit Court's failure to allow Jared to depose KCI regarding 
+the deleted business records or to impeach Randal when he 
+testified at trial that no records were deleted. 
+The record reflects that Jared had sought discovery 
+from KCI and Randal as to their alleged money damages, including 
+14  
+       
+ 
+ 
+  
+   
+ NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+bookkeeping records supporting KCI's position that it worked at 
+cost for the benefit of the alleged Partnership rather than for profit. Randal testified at deposition that he kept no records of costs and labor on the project, and Hildegarde testified that 
+KCI typically kept records of income and expenses, but she did 
+not know the form of those records, or where they were kept. KCI's former supervisor Liliane Corpuz ( Corpuz) later testified 
+at deposition that KCI did in fact keep records for the project, and that Hildegarde knew the records were kept on Quickbooks. Jared requested a meet and confer. One day after the close of 
+discovery, KCI's counsel sent a letter to Jared ( Deleted Records 
+Letter) representing that bookkeeping records for the project 
+had indeed been created and were originally saved on KCI's 
+computer, but prior to litigation, they had already been deleted pursuant to Hildegarde's "routine practice" of deleting files once a job is completed, and that some new records had been found which would be turned over. Jared filed a motion to 
+compel discovery or impose sanctions, seeking,  inter alia , an 
+extension of time to conduct discovery, an HRCP Rule 30(b)(6)
+9 
+deposition of KCI to obtain sworn testimony about the alleged 
+routine practice of deleting files, and a jury instruction mandating an "adverse inference to any KCI testimony about how the [project] affected its finances, profits, and/or alleged 
+losses[.]" The Circuit Court denied the motion. At trial, 
+Randal denied that any records related to the project were deleted, and the Circuit Court denied Jared's request to use the Deleted Records Letter to impeach Randal. 
+9 HRCP Rule 30(b)(6) provides for the deposition of an entity or
+organization which "shall designate one or more officers, directors, or
+managing agents, or other persons who consent to testify on its behalf[.]" 
+15  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+   
+ 
+  The following factors are relevant in determining 
+whether a discovery sanction is appropriate: 
+(1) the offending party's culpability, if any, in
+destroying or withholding discoverable evidence that theopposing party had formally requested through discovery;(2) whether the opposing party suffered any resultingprejudice as a result of the offending party's destroyingor withholding the discoverable evidence; and (3) the
+inequity that would occur in allowing the offending party
+to accrue a benefit from its conduct. 
+ 
+Stender v. Vincent, 92 Hawai ʻi 355, 363, 992 P.2d 50, 58 (2000) 
+(citation omitted). In Dahlager v. Jack's Diving Locker, No. 
+CAAP-17-0000663, 2023 WL 4174552, at *7-8 (Haw. App. June 26, 
+2023) (mem. op.), this court held that the circuit court did not abuse its discretion in granting discovery sanctions for "failing to preserve [an item of physical evidence] and withholding . . . reports.". 
+Here, while the record does not clearly indicate 
+whether KCI intentionally deleted or withheld discoverable evidence, it nonetheless suggests that Jared may have been misled as to whether KCI had kept certain bookkeeping records for the project in the first place. 
+It appears that Hildegarde 
+and Corpuz gave conflicting responses in discovery regarding the creation and deletion of KCI's records pertaining to the 
+project. Specifically, KCI did not admit the existence and 
+deletion of such records until after discovery closed, KCI made 
+this admission in the Deleted Records Letter from counsel rather than in a sworn discovery response, and the Circuit Court denied the requested relief of further remedial discovery or an adverse inference instruction. 
+These circumstances reflect that Jared 
+was prejudiced by the denial of any of the various avenues for relief presented in the motion, in the face of KCI's culpable 
+conduct. See Vincent, 92 Hawai ʻi at 363, 992 P.2d at 58. The 
+record also reflects that inequity resulted when Jared was not 
+16  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+  
+ 
+  
+  permitted to impeach Randal's credibility at trial, where Randal 
+denied that any project records were deleted, which allowed Randal and KCI to "accrue a benefit" from KCI's misleading discovery responses. See id. On this record, we conclude the 
+Circuit Court's denial of any form of discovery relief that Jared requested in the motion was outside the permissible scope 
+of its discretion. See Fisher, 123 Hawai ʻi at 94, 230 P.3d at 
+394. 
+E. The Interlocutory Appeal Sanction against Jared
+was outside the Circuit Court's permissible scope
+of its discretion (POE 5). 
+Jared argues, inter alia , that the Circuit Court's 
+"bad faith" findings in the Interlocutory Appeal Sanction Order 
+lack specificity and support in the record. Jared claims that 
+his characterization of the pleadings was within the bounds of 
+legitimate advocacy, and the Circuit Court failed to make a specific finding of bad faith. 
+The relevant record preceding the Interlocutory Appeal 
+Sanction reflects that after the Circuit Court's October 11, 2022 oral ruling granting the Complaint MSJ, trial was continued to April 3, 2023. On December 20, 2022, Jared moved for leave 
+to file an interlocutory appeal from the Complaint MSJ Order 
+dismissing the Complaint, arguing that such an appeal would more speedily resolve the action and prevent the possibility of inconsistent verdicts on the Complaint and FACC. The Circuit Court denied the motion, finding that Jared had not "established that the standard" for an interlocutory appeal had been met. 
+Further, citing its inherent powers under HRS § 603-21.9(6) 
+(2016), the Circuit Court sanctioned Jared $8,968.58 for his "bad faith" argument that the Complaint and the FACC did not "mirror" each other, and for his "constant and continual 
+17
+  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  movement in position" on whether he acted in his individual or 
+trustee capacity, reasoning as follows: 
+2. The Court also finds, contrary to [Jared]'s
+arguments, that the claims in the Complaint, filed April
+25, 2019 and First Amended Counterclaim, filed March 11,2021 do not "mirror" each other. 
+3. The Court further notes the constant and continual 
+movement in position on [Jared]'s part as Plaintiff withrespect to his references to the Jared and Donna Murayama1997 Trust dated January 8, 1997 ("Trust") versus hisindividual capacity in this case, including his positionsin the Motion and filing of the Joinder. 
+4. . . . Specifically, the Court finds that [Jared]'s
+arguments are in bad faith based on: (a) the findings inparagraphs 2 and 3, above; (b) the reasons set forth in[Randal and KCI]'s Memorandum in Opposition to the Motion,
+filed January 24, 2023; (c) counsel's arguments made during
+the hearing on the Motion; and (d) the record in this case.Thus, the Court is awarding reasonable attorneys' fees andcosts to Defendants/Counterclaimants for defending againstthe Motion in the amount of $8,968.58. 
+(Emphases added.) 
+A court may order a party or its attorney to pay an 
+opposing party's attorney's fees and costs as a sanction for 
+abusive litigation practices, but it is required to make a specific finding of bad faith. Kukui Nuts of Haw. Inc. v. R.Baird & Co., 7 Haw. App. 598, 624, 789 P.2d 501, 517 (App. 1990) 
+(citation omitted). "'Bad faith' is defined as 'actual or 
+constructive fraud or a neglect or refusal to fulfill some duty . . . not prompted by an honest mistake as to one's rights or duties, but by some interested or sinister motive.'" Sandomire
+v. Brown, 144 
+Hawai ‘i 314, 331, 439 P.3d 266, 283 (App. 2019) 
+(citations omitted). The record must show "clear evidence that 
+the challenged actions [were] entirely without color, and [were] taken for reasons of harassment or delay or for other improper 
+purposes." Enos v. Pac. Transfer & Warehouse, Inc., 79 Hawai ʻi 
+452, 458, 903 P.2d 1273, 1279 (1995) (citations omitted). The 
+18  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+   
+  perceived misconduct must be described in findings "with 
+reasonable specificity," and "[f]or purposes of appellate review, a distinction must be made between 'zealous advocacy and plain pettifoggery[.]'" Id. at 459, 903 P.2d at 1280 (citations 
+omitted). 
+Here, nothing about Jared's motion for interlocutory 
+appeal, and no findings in the order issuing the Interlocutory 
+Appeal Sanction, indicate that the motion was prompted by an interested or sinister motive, or that it was filed as an abusive tactic or for any improper purpose. In our view, it is 
+not evident how the two specific grounds set forth in the order 
+-- regarding whether the Complaint and FACC "mirror" each other, and Jared's interchanging references to his individual and trustee capacity -- rise to the level of sanctionable misconduct. See id. We conclude the Interlocutory Appeal 
+Sanction was outside the permissible scope of the Circuit 
+Court's discretion, and we reverse. See Kaina, 119 Hawai ʻi at 
+329, 197 P.3d at 781. 
+F. The MIL Violation Sanction was outside the 
+permissible scope of the Circuit Court's
+discretion (POE 6). 
+Jared and Donna argue, inter alia , that the question 
+for which the MIL Violation Sanction was imposed did not invite 
+a narrative response that would violate the Equipment MIL Order; 
+the MIL Violation Sanction lacked "a high degree of specificity in the factual findings"; sanctioning both Donna and Jared for a question asked by Donna's counsel constituted an abuse of discretion; and the controlling standard for awarding attorneys' fees as a sanction is that the conduct in question must have resulted in the unnecessary incurrence of attorneys' fees, which 
+did not occur. 
+19
+  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+   
+  
+  
+ The record reflects that the Circuit Court granted 
+Randal and KCI's request to exclude any evidence that the 
+proceeds from Randal's sale of the Equipment offset any amounts Jared may have owed him ( Equipment MIL Order ), because 
+presenting such evidence would be the functional equivalent of reasserting the claims in Jared's dismissed Complaint. The Circuit Court further "warned the parties and their counsel to . . . avoid asking questions . . . that would illicit narrative responses that could touch upon areas that the Court ruled were not to come in." At trial, Randal testified on direct 
+examination that the reason he did not immediately bring his 
+claim was because Jared had "millions of dollars" to defend himself, and because he needed time to find an attorney willing to take his case. On cross-examination, Donna's counsel asked Randal, "Isn't it true that you filed this case because [Jared] filed a claim against you first?" The Circuit Court excused the jury upon Randal's objection, and Randal orally moved for a 
+mistrial or sanctions on the basis that Donna's counsel violated 
+the Equipment MIL Order. The Circuit Court orally granted the motion for sanctions, sanctioning Jared and Donna, but not Donna's counsel, because it was "not convinced" the question posed by Donna's counsel "was intentional." It further gave the jury a curative instruction to disregard the question. 
+The Circuit Court's subsequently issued written MIL 
+Violation Sanction, however, contradicted its oral finding that the question was not "intentional," finding that "the question by [Donna's counsel]  . . . was in bad faith not only based on 
+the prior orders of the Court but also because of the numerous warnings given to Defendants' counsel during the trial to 
+abstain from going to areas that were barred by the Court's 
+prior orders." (Emphasis added.) The $329,763.18 sanction 
+20
+  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+   
+ 
+  against Jared and Donna as trustees and against Jared 
+individually, compensated KCI and Randal for all attorneys' fees incurred after the Complaint was dismissed. 
+When a trial court imposes payment of attorneys' fees 
+against a party as a sanction for bad faith conduct, it must find that the conduct "resulted in the unnecessary incurrence of 
+attorney's fees." Lester v. Rapp, 85 Hawaii ‘ 238, 242, 942 P.2d 
+502, 506 (1997) (citation omitted). In Canalez v. Bob's
+Appliance Serv. Ctr., Inc., 89 
+Hawai ‘i 292, 303, 972 P.2d 295, 
+306 (1999), a trial court's imposition of sanctions was held 
+improper where there was "insufficient evidence" to "conclude that the attorney's fees incurred by Defendants were 'directly and unavoidably' caused" by the improper conduct. 
+Here, the question regarding the responsive nature of 
+Randal's FACC to Jared's Complaint did not invite a narrative response, nor did it violate the Equipment MIL Order or the Circuit Court's further oral instructions, and it did not taint the jury with information about the Equipment. Randal's counsel objected before Randal could answer the question, and the 
+Circuit Court gave the jury a curative instruction. 
+No 
+attorneys' fees were incurred by KCI and Randal as a result of 
+the question. See Lester, 85 
+Hawai ‘i at 242, 942 P.2d at 506. 
+The "bad faith" finding in the written order was not supported 
+by "clear evidence" that the challenged action was "entirely 
+without color," because the finding was contradicted by the 
+Circuit Court's oral on-the-record finding that the question asked by Donna's counsel may not have been intentional. See
+Enos, 79 Hawaii ‘ at 458, 903 P.2d at 1279 (citation omitted). 
+Under these circumstances, the record does not reflect that the question itself, or the trial context within which it was asked, 
+21  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+  
+ 
+ 
+ 
+ rose to the level of "bad faith" sanctionable conduct. We 
+further conclude that the record does not support the imposition of sanctions against both Jared and Donna, as opposed to a sanction solely against Donna's counsel who asked the 
+purportedly offending question. Assuming arguendo Donna or her 
+counsel had an "interested or sinister motive" in asking the question, such motive cannot be ascribed to Jared. See
+Sandomire, 144 Hawai ‘i at 331, 439 P.3d at 283 (citations 
+omitted); cf. Enos, 79 Hawai ‘i at 457, 903 P.2d at 1278 
+("[B]ecause sanctions under HRCP Rule 11 are imposed only upon 
+'the person who signed' the 'pleading, motion, or other paper' and [plaintiffs' attorney] did not sign the motion for examination, HRCP Rule 11 is not applicable to him, and he 
+cannot be sanctioned thereunder."). 
+We conclude the MIL Violation Sanction was outside the 
+permissible scope of the Circuit Court's discretion, and we 
+reverse. See Kaina, 119 Hawai ʻi at 329, 197 P.3d at 781. 
+G. Errors related to the Special Verdict Form (POEs
+11, 12, 15, 16). 
+We briefly address the following issues related to the 
+Special Verdict Form to provide guidance for the new trial on 
+remand. 
+Jared and Donna argue, inter alia , that the Special 
+Verdict Form did not conform to the claims in the FACC, in which 
+only Count 5 was pleaded against the Trust and Counts 1, 3, and 4 were pleaded against Jared individually; the questions for 
+each claim in the Special Verdict Form did not distinguish between Jared individually versus Jared and Donna as trustees; 
+no damages are permissible for the Declaratory Relief claim; the 
+$
+2,323,000.00 award for Declaratory Relief and $1,440,000.00 
+award for Breach of Contract were conflicting where both 
+22  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+   
+ 
+ 
+ purported to compensate KCI and Randal for breach of contract 
+but awarded different amounts; and a jury may not award equitable relief on the Unjust Enrichment claim if it also awarded damages for the Breach of Contract claim. These 
+arguments have merit. 
+The Special Verdict Form identified Randal and KCI as 
+"Plaintiffs," and Jared individually and Jared and Donna as co-
+trustees as "Defendants." The Special Verdict Form reflected the following jury responses for Questions 1 and 2 for Declaratory Relief; Questions 3 and 4 for Breach of Contract; 
+and Questions 5, 6, and 7 for Unjust Enrichment: 
+Question No.1 
+Was there a Partnership formed between Plaintiffs and the
+Defendants related to the Puhi Lot Project? 
+✓ YES 
+__ NO 
+If your answer is "YES", proceed to answer Question No. 2. 
+If your answer is "NO", do not answer Question No. 2, but
+proceed to Question No. 3. 
+Question No.2 How much is owed to Plaintiffs? 
+$
+2,323,000 
+Proceed to Question No. 3 if you answered this Question. 
+BREACH OF CONTRACT 
+Question No.3 Did the Defendants breach a contract it had with 
+Plaintiffs? 
+✓ 
+YES 
+__ NO 
+If your answer is "Yes", proceed to answer Question No. 4. 
+If your answer is "No", do not answer Question No. 4, but
+proceed to Question No. 5. 
+Question No.4 
+23  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+  
+ How much is owed to Plaintiffs for the Defendants' breach 
+of contract? 
+Damages: $1,440,000 Proceed to Question No. 5. 
+UNJUST ENRICHMENT 
+Question No. 5 Did Plaintiffs confer a benefit upon the Defendants by
+building the Puhi Lot warehouse? 
+✓ YES 
+__ NO 
+If your answer is "YES", proceed to answer Question No. 6. If your answer is "NO", do not answer Question No. 6, but
+proceed to Question No. 8. 
+Question No. 6 Would it be unjust for the Defendants to retain that
+benefit without paying Plaintiffs? 
+✓ YES 
+__ NO 
+If your answer is "YES", proceed to answer Question No. 7. If your answer is "NO", do not answer Question No. 7, but
+proceed to Question No. 8. 
+Question No. 7 What is value [sic] of the benefit that Plaintiffs provided
+to the Defendants? 
+$7,000,000 Proceed to Question No. 8. 
+We conclude the Special Verdict Form contained the 
+following errors. The Special Verdict Form did not conform to 
+the claims pleaded in the FACC, because Counts 1, 3, and 4 were pleaded only against Jared individually; and the Special Verdict Form permitted the jury to award damages on each claim against 
+the undifferentiated "Defendants," which the Verdict Form 
+defined as Jared individually and Jared and Donna as co-trustees. While a complaint may be amended during and after 
+24  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+   
+  
+ 
+  
+ trial to conform to the evidence under HRCP Rule 15(b),10 the 
+record does not reflect a ruling on a motion regarding such 
+amendment by express or implied consent. The Special Verdict Form was erroneous to the extent it included the unpled claims, 
+and for its lack of specificity between Jared individually, and 
+Jared and Donna as co-trustees, for each claim. See Makila Land
+Co., 146 Hawai ʻi at 616, 463 P.3d at 1273. 
+Regarding the Declaratory Relief claim, the 
+"declaratory judgment statute provides a remedy but does not furnish a cause of action; the substantive law the plaintiff 
+seeks to enforce by way of a declaratory judgment must itself do 
+so." Org. of Police Officers v. City & Cnty. of Honolulu, 149 
+Hawai‘i 492, 505, 494 P.3d 1225, 1238 (2021). Because 
+declaratory judgment is not a cause of action, Question 2 in the 
+Special Verdict Form permitting an award of damages for 
+Declaratory Relief in Count 1, was error. See Makila Land Co., 
+146 Hawai ʻi at 616, 463 P.3d at 1273. 
+The erroneous inclusion of damages for Declaratory 
+Relief created an irreconcilable inconsistency in the Special 
+Verdict Form when the jury awarded different amounts for breach 
+of the same alleged agreement, of $2,323,000.00
+ as the amount 
+owed in Question 2 for Declaratory Relief, and $1,440,000.00 as 
+the amount owed in Question 4 for Breach of Contract. See Carr
+10 HRCP Rule 15(b)(1) provides for amendment of pleadings during and
+after trial by express or implied consent, as follows: 
+(b) Amendments during and after trial.
+(1) For Issues Tried by Consent . When issues not raised by the
+pleadings are tried by express or implied consent of the parties, they
+shall be treated in all respects as if they had been raised in thepleadings. Such amendment of the pleadings as may be necessary tocause them to conform to the evidence and to raise these issues may be
+made upon motion of any party at any time, even after judgment; but
+failure so to amend does not affect the result of the trial of these issues. 
+25  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+   
+ 
+  
+  v. Strode, 79 Hawai ʻi 475, 489, 904 P.2d 489, 503 (1995) ("A 
+conflict in the jury's answers to questions in a special verdict will warrant a new trial only if those answers are 
+irreconcilably inconsistent, and the verdict will not be 
+disturbed if the answers can be reconciled under any theory." (citation omitted)). 
+Regarding the equitable claim of Unjust Enrichment, 
+equitable remedies are only available if a remedy at law such as 
+breach of contract is unavailable. See Porter v. Hu, 116 Hawai ‘i 
+42, 55, 169 P.3d 994, 1007 (App. 2007) ("[E]quity has always 
+acted only when legal remedies were inadequate." (citation omitted)); see also AAA Haw., LLC v. Haw. Ins. Consultants, Ltd., No. CIV 08-00299DAE-BMK, 2008 WL 4907976, at *3 (D. Haw. Nov. 12, 2008) ("It is . . . well settled in federal courts that 
+equitable remedies are not available when an express contract 
+exists between the parties concerning the same subject matter. 
+Hawaii ‘ law has recently endorsed application of this principle 
+as well." (citations omitted)). The Special Verdict Form was 
+erroneous because it should have directed the jury to consider 
+the Unjust Enrichment claim in the alternative, only if it 
+rejected the Breach of Contract claim. 
+See Makila Land Co., 146 
+Hawaiʻi at 616, 463 P.3d at 1273. 
+H. Unchallenged orders 
+We affirm the non-trial-related orders that Jared 
+appeals from in CAAP-24-0000025, for which no arguments were made. See HRAP Rule 28(b)(7) (providing that contentions on appeal not supported by argument may be waived). These orders include the following: (1) April 20, 2022 "Order Denying 
+[Jared]'s Motion to Bifurcate Trial"; (2) April 20, 2022 "Order Denying [Jared]'s Motion to Compel Deposition and for 
+26  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+   
+  
+    Sanctions"; (3) June 4, 2021 "Order Denying [Jared]'s Second 
+Motion for Reconsideration of Denial of Motion for Partial Summary Judgment, or in the Alternative to Preclude [Randal and KCI] from Seeking or Obtaining any Interest in the Puhi Lot"; 
+(4) March 11, 2021 "Order Granting [Randal and KCI]'s Motion to 
+Amend Counterclaim"; and (5) October 28, 2021 "Order Denying [Donna]'s Motion to Dismiss." 
+IV. CONCLUSION 
+For the foregoing reasons, we resolve this 
+consolidated appeal from the Circuit Court of the Fifth Circuit as follows: 
+In CAAP-23-0000180, with respect to the February 21, 
+2023 Interlocutory Appeal Sanction Order, i.e., the "Order Denying [Jared]'s Motion for Leave to File an Interlocutory Appeal of the Order Granting [KCI and Randal]'s Motion for 
+Summary Judgment on Complaint," we reverse. 
+In CAAP-23-0000465, with respect to the July 7, 2023 
+MIL Violation Sanction Order, i.e., the "Findings of Fact, 
+Conclusions of Law, and Order Granting in Part and Denying in Part [KCI and Randal]'s Oral Motion for Mistrial and for Sanctions Against the Defendants," we reverse. 
+In CAAP-24-0000025, with respect to the (1) September 
+25, 2020 Partnership MPSJ Order, i.e., the "Order Denying [Jared]'s Motion for Partial Summary Judgment," and (2) August 15, 2022 Thronas MSJ Order, i.e., the "Order Granting Defendants' [sic] John Mundon and Samuel K. Thronas Construction, Inc.'s Motion for Summary Judgment," we affirm. With respect to the (1) November 29, 2022 Complaint MSJ Order, 
+i.e., the "Findings of Fact, Conclusions of Law, and Order 
+Granting [KCI and Randal]'s Motion for Summary Judgment on Complaint," (2) October 7, 2022 "Order Denying [Jared]'s Motion 
+27
+  
+       NOT FOR PUBLICATION IN WEST'S HAWAI ʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+   
+  
+ 
+ 
+ 
+ 
+  
+ 
+    to Compel Discovery and for Sanctions," (3) January 12, 2024 
+Final Judgment, and all of the remaining trial-related and judgment-related orders set forth in Jared and Donna's notices of appeal in CAAP-24-0000025 not specifically addressed herein, 
+we vacate and remand for a new trial consistent with this 
+memorandum opinion. 
+In CAAP-24-0000374, with respect to the April 25, 2024 
+"Judgment on (1) [KCI and Randal]'s Bill of Costs, and (2) Order Granting [KCI and Randal]'s Motion for Attorneys' Fees as the Prevailing Parties," we vacate and remand for further 
+proceedings consistent with this memorandum opinion. 
+DATED: Honolulu, Hawaii ‘, August 19, 2026. 
+On the briefs: 
+ 
+Daniel G. Hempey,
+Michelle Premeaux,
+for JARED K. MURAYAMA,
+Plaintiff-Counterclaim 
+Defendant-Appellant. 
+ 
+Darene K. Matsuoka,
+for DONNA MOI LINN MURAYAMA,
+as a Co-Trustee of the Jared and Donna Murayama 1997 Trust
+dated January 8, 1997,
+Plaintiff-Counterclaim 
+Defendant-Appellant. 
+ 
+Lanson K. Kupau,
+Sunny S. Lee,for KALANI CONSTRUCTION 
+INCORPORATED and RANDAL K. 
+MIYASHIRO, SR., Defendants-
+Counterclaimants-Appellees. /s/ Karen T. Nakasone
+Chief Judge 
+ 
+/s/ Clyde J. Wadsworth
+Associate Judge 
+ 
+/s/ Kimberly T. Guidry
+Associate Judge 
+28
+ 
