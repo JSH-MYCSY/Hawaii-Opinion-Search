@@ -1,0 +1,986 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  **FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER**  
+Electronically Filed 
+Supreme Court SCWC-24-0000706 24-AUG-2026 11:02 AM Dkt. 27 OP 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ʻI  
+ 
+ ________________________________________________________________
+ ---o0o---
+STATE OF HAWAIʻI,  
+Respondent/Plaintiff-Appellee,  
+ 
+vs.  
+ 
+MARIANO GARCES, JR.,  
+Petitioner/Defendant-Appellant. 
+ ________________________________________________________________  
+SCWC-24-0000706  
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS  
+(CAAP-24-0000706;  CASE NO. 2CPC-22-0000790)  
+ 
+August  24, 2026  
+ 
+DEVENS, C.J., McKENNA, EDDINS, AND GINOZA, JJ.,  
+AND CIRCUIT JUDGE KAWAMURA, ASSIGNED BY REASON OF VACANCY  
+OPINION OF THE COURT BY McKENNA, J.  
+I. Introduction & Summary 
+This is an appeal of a conviction for the murder of the 
+defendant’s girlfriend. The defendant asserts that his 
+statements should have been suppressed due to a violation of his 
+Miranda rights.  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+  
+ 
+ 
+  Specifically, Mariano Garces Jr. (“Garces”) challenges the 
+admissibility of statements made during custodial interrogation  
+on the grounds the  advisements provided to him pursuant to the 
+Maui Police Department’s (“MPD”) Miranda  waiver form  (“MPD Form 
+103”)  were constitutionally insufficient. Garces asserts that 
+his statements should have been suppressed because the MPD 
+failed to provide a fifth advisement, that he had the right to 
+terminate police questioning at any time  (“the fifth Miranda  
+right”).   
+In Miranda  v.  Arizona, 384 U.S. 436  (1966), the United 
+States  Supreme Court set out  four warnings that police officers 
+must provide to custodial suspects before interrogation may 
+begin, namely, that (1) a suspect has the right to remain 
+silent; (2) anything they say can and may be used against them 
+in a court of law; (3) they have the right to the presence of an 
+attorney; and (4) they have the right, if they cannot afford the 
+services of an attorney, to have one appointed for them, free of charge. 384 U.S. at 479.  
+This court has held that these four Miranda rights have an 
+independent source in the Hawaiʻi Constitution’s privilege 
+against self -incrimination. State v. Santiago , 53 Haw. 254 , 
+266, 492 P.2d 657, 664 (1971) . 
+But in Miranda, the Court also indicated that the four 
+warnings imply a fifth right : to cease question ing at any time. 
+2  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+  
+ 
+ 
+  See 384 U.S. at 474 (“ Without the right to cut off questioning, 
+the setting of in -custody interrogation operates on the 
+individual to overcome free choice in producing a statement 
+after the privilege has been once invoked. ”). And although 
+federal and state courts have recognized that the fifth Miranda 
+right is implied in the existing four Miranda warnings, no court 
+has required that the fifth warning also be given. But many 
+police departments, including the Honolulu Police Department 
+(“HPD”) and, more recently, the MPD, already advise suspects of 
+their right to cease questioning at any time, demonstrating a 
+clear an d growing consensus that suspects should be informed of 
+the fifth Miranda right. 
+Yet,  in the sixty years since Miranda  was decided, the 
+Court has retreated from constitutional protections it once 
+provided regarding custodial interrogations. Consistent with 
+the modern Court’s retrenchment from  previously recognized 
+constitutional rights, see  Granillo v. State, No. SCWC-22-
+0000740, 2026 WL 2085397, at *27-30 (Haw.  July 15, 2026), in 
+2022, the Court held that receiving Miranda  advisements was 
+never even a constitutional right under the Fifth Amendment right against self-incrimination. See  Vega v. Tekoh, 597 U.S. 
+134, 141-42  (2022). So a confession obtained in violation of 
+Miranda  is not enforceable through a lawsuit for damages 
+3  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+   
+ 
+ pursuant to 42 U.S.C. § 1983 as a violation of a federal 
+constitutional right . Id. 
+But the people of Hawaiʻi are also protected by the Hawai ʻi 
+Constitution. “We interpret the Hawaiʻi Constitution on its own 
+terms.” Granillo , 2026 WL 2085397, at *2 6. The United States 
+Supreme Court’s interpretation of the federal right against 
+self-incrimination does not limit protections that can and 
+should be provided by the Hawaiʻi Constitution’s right against 
+self-incrimination. 
+We therefore now hold that the Hawaiʻi Constitution’s 
+Article I, Section 10 privilege against self -incrimination 
+requires that law enforcement provide the fifth Miranda warning. 
+In addition to the traditional four Miranda advisements, law 
+enforcement must expressly inform custodial suspects that they 
+may cease answering questions at any time. And they must also 
+inform suspects that they have a right to request an attorney at 
+any time after questioning has begun . 
+We recognize that this is a new constitutional rule not 
+previously required by our precedent. In State v. Wallace , 105 
+Hawai‘i 131, 142-43, 94 P.3d 1275 , 1286-87 (2004), this court 
+held that a defendant knowingly, intelligently, and voluntarily 
+waived his Miranda rights based on the previous MPD Form 103, 
+which did not contain the fifth Miranda warning. Also, other 
+4  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+   opinions of this court have only required the traditional four 
+Miranda warnings. 
+But our Constitution’s right against self-incrimination 
+requires that a n inculpatory  statement flow from the defendant ’s 
+free and voluntary choice.   State  v.  Tolentino , 158 Hawai‘i  321, 
+335, 592 P.3d 209, 223  (2026).   Individual autonomy and human 
+dignity lie at the heart of that right.  158 Hawai‘i  at  344, 592 
+P.3d at 232.   The exclusionary rule for a Hawai ʻi Miranda  
+violation is one such safeguard protecting those interests. 
+Yet, as this is a new rule, our holding today will have purely 
+prospective effect. And in order to provide Hawai ʻi law 
+enforcement organizations 
+time to amend their forms and 
+appropriately instruct their officers, this  new rule will not 
+take effect until sixty days from the date of this opinion, or 
+on October 23, 2026.  
+Therefore, the new rule does not apply to Garces’s  
+interrogation. And reviewing the totality of the circumstances 
+surrounding his custodial interrogation, we hold that Garces 
+knowingly, intelligently, and voluntarily waived his  then-
+existing Miranda  rights,  despite his mental distress.   
+Therefore, we affirm the Circuit Court of the Second Circuit 
+(“circuit court”)’s September 26, 2024 judgment of conviction 
+and sentence, as well as the Intermediate Court of Appeals 
+(“ICA”)’s November 26, 2025 judgment on appeal.   
+5  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+   
+ 
+  
+ 
+ 
+  
+ 
+ 
+ II. Background 
+A. Factual background 
+As of November 19, 2022, Garces and Amie Kaholoa‘ a  
+(“Kaholoaʻ a”)  had been  in a  relationship for a little over a  
+year.   A week before her death, Kaholoa ‘a  had moved  back in  with  
+Garces.  
+On that day, Garces and Kaholoa ‘a were about to take a 
+shower together when they began arguing in the bathroom.   Garces 
+became enraged  and  began hitting Kaholoaʻ a  with a twenty-inch-
+long vacuum metal extension pipe. He hit her for more than 
+fifteen minutes, bruising her liver and causing deep bleeding in 
+the area between her brain and skull.   He also punched her face 
+and head  with his fist.   He then  suffocated  her by pressing a 
+shirt onto  her  mouth, fracturing  her vertebrae  and distorting 
+her face.   He  only stopped when  he realized she was no longer 
+breathing.    
+Hours later, Garces called 911 to say “I think I went kill 
+[Kaholoa‘ a]” and “I going up to the mountain to kill my — I going 
+up the mountain now. I going kill myself now.” The police 
+arrived at Garces ’s home, responding to what they believed was a 
+possible suicide in progress and found Kaholoa ‘a’s body. 
+After a night in the mountains , Garces returned to his 
+house and was detained. He told the arresting officer , among 
+6  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+    
+      
+  
+ 
+ 
+ 
+  
+  
+ 
+   
+   
+   
+  
+ 
+  
+ 
+  
+  
+ 
+ other things, that “ I gonna a run away. I gonna run away, brah. 
+Shoot me, brah. Shoot me, brah. Shoot me. ” Despite asking 
+repeatedly to be shot, he did not attempt to flee or otherwise 
+take any further action. 
+At around 7:00 AM, the police took Garces to the police 
+station, where he waited for almost four hours before Detective s 
+Kyle Bishaw-Juario ( “the Detective”) and Taylor Kamakawiwo‘ ole 
+began their custodial interrogation at 10:47 AM. While being 
+processed at the police station , Garces asked to speak to the 
+police. 
+The Detective reviewed MPD Form 103 with Garces before 
+beginning the custodial interrogation . MPD Form 103 did not 
+include an advisement that Garces could cease questioning and 
+ask for an attorney at any time. 
+During the custodial interrogation, Garces confessed to 
+murdering Kaholoa ‘a and described how it happened. Throughout 
+the interrogation , Garces answered all of the detectives’ 
+questions and never requested an attorney, expressed suicidal 
+statements, or showed any inclination that he wanted the 
+interview to stop. 
+B. Court proceedings 
+1. Circuit court 
+On November 25, 2022, Garces was indicted for second degree 
+murder in violation of Hawaiʻi Revised Statutes (“HRS”) §§ 707 -
+7  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+     
+  
+ 
+  
+   
+ 
+  
+ 
+ 
+ 
+  
+  701.5 (Supp. 2019) and 706-656 (2014).   The  criminal proceedings 
+were initially delayed to determine Garces’s  fitness  and penal 
+responsibility.   After determining Garces  was fit to proceed, 
+the circuit court resumed the proceedings.   1
+Garces then filed a motion requesting a voluntariness 
+hearing (tantamount to a motion to suppress) on any of his 
+statements that the State intended to use at trial.   The circuit 
+court held the hearing on June 13, 2024.    
+The State called t he Detective as their only witness. He 
+testified that he advised Garces of his Miranda rights and that 
+Garces f reely and voluntarily gave his statement without the use 
+of any threats, force, or other coercion . 
+Garces established through the Detective that MPD Form 103, 
+unlike the current MPD Form 103A, did not state “that if he 
+decides to answer questions without a lawyer present that he 
+still has the right to stop answering questions at any time [.]” 
+Garces also argued that because his 911 call and later 
+statements to the arresting officer indicated suicidal ideation 
+and severe mental distress, his statements at the scene and 
+during custodial interrogation were involuntary and should be 
+suppressed . 
+Pursuant to HRS § 707 -701.5, “a person commits the offense of murder in 
+the second degree if the person intentionally or knowingly causes the death 
+of another person[.]” “[P]ersons convicted of second degree murder and 
+attempted second degree murder shall be sentenced to life imprisonment with 
+possibility of parole. ” HRS § 706-656. 
+8 1  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+   
+  
+  
+   
+ 
+ 
+  
+ 
+   
+  
+   
+ 
+  
+ 
+  
+ But the circuit court found credible the Detective’s 
+testimony that Garces (1) requested to speak to the police; (2) 
+was calm, coherent, cooperative, and understood English; (3) did 
+not appear to be under the influence of substances; and (4) 
+acknowledged and waived his Miranda rights. 
+On June 18, 2024, the circuit court filed its findings of 
+fact, conclusions of law , and order denying suppression of 
+Garces’s statements . 
+At trial, along with other evidence, the State introduced 
+the 911 call and Garces’ s statements made both at the crime 
+scene and during the custodial interrogation. 
+The jury found Garces guilty o f second -degree murder. The 
+circuit court sentenced Garces to life imprisonment with the 
+possibility of parole. 
+2. Appellate proceedings 
+On appeal to the ICA , Garces argued that (1) the totality 
+of the circumstances demonstrated that he did not knowingly, 
+intelligently , and voluntarily waive his Miranda rights before 
+making his statements to the police ; and (2) the Miranda waiver 
+was constitutionally deficient, because the detectives did not 
+explicitly advise him that he could stop answering questions at 
+any time or that he did not have to answer questions at all. 
+Garces maintained that he was unable to effectively waive 
+his Miranda rights because he was in a severely distressed 
+9  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+   
+ 
+ 
+  
+ 
+  
+  
+ mental state before and during the police interrogation. He 
+also argued that the interrogation was coercive because he was 
+held in police custody for four  hours  while  severely mentally 
+distressed.  
+ Garces also contended  that the Miranda  waiver was 
+constitutionally deficient. He pointed out that the HPD has for many years advised  suspects of their  right to terminate 
+questioning at any time and stop answering questions  and that 
+the MPD had changed its form after his questioning to  also 
+include that advisement. He argued that the  fifth Miranda  
+warning was necessary for  him to make an informed decision as to  
+whether continuing with the custodial interrogation was in his 
+immediate and/or long-term interest. Garces argued that his 
+conviction should therefore be vacated and that he should get a 
+new trial.  
+The ICA affirmed the conviction, holding the State properly 
+demonstrated that Garces’ s statements were voluntary and that 
+his Miranda waiver was valid. State v. Garces , No. CAAP-24-
+0000706, 2025 WL 3002926 , at *3 (Haw. App. Oct. 27, 2025) (SDO). 
+The ICA held that despite Garces’s alleged suicidal ideation, 
+there was no evidence in the record that his statements were 
+made under conditions that would overbear his will and render 
+his statements involuntary. Id. at *2. The ICA also held that 
+the MPD’s Miranda waiver was constitutionally sufficient and 
+10  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+  
+     
+ 
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  satisfied the minimal safeguards required , despite the lack of 
+the fifth Miranda warning. Id. at *3. 
+On certiorari to this court, Garces r aises the same 
+arguments . 
+III. Standards of Review 
+A. Miranda rights 
+In discussing the constitutional protections afforded under 
+Miranda, we recently stated: 
+[T]he protections which the United States Supreme Court 
+enumerated in Miranda have an independent source in the 
+Hawai‘i Constitution’s privilege against self -incrimination. 
+In determining the admissibility of custodial statements, 
+the prosecutor must show that each accused was warned that 
+he had a right to remain silent, that anything said could 
+be used against him, that he had a right to the presence of 
+an attorney, and that if he could not afford an attorney 
+one would be appointed for him. If these minimal 
+safeguards are not satisfied, then statements made by the 
+accused may not be used either as direct evidence or to 
+impeach the defendant’s credibility. 
+Assuming, however, that the minimal safeguards are 
+observed, the accused may waive the right to counsel, 
+provided that such waiver is voluntarily and intelligently 
+undertaken. Moreover, once warned of his Miranda 
+protections, the suspect is free to exercise his own 
+volition in deciding whether or not to make a statement to 
+the authorities. 
+In determining whether a valid waiver of the right to 
+counsel and the right to silence occurred, we review 
+whether the purported waiver was knowing and 
+intelligent and found to be so under the totality of 
+the circumstances. 
+An explicit statement of waiver is not invariably necessary 
+to support a finding that the defendant waived the right to 
+remain silent or the right to counsel guaranteed by the 
+Miranda case. 
+State  v.  Spies, 157 Hawai‘i 75, 86-87, 575 P.3d 708, 719-20 
+(2025) (cleaned up).  
+11  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+   
+ 
+ 
+  
+  
+  
+    B. Voluntariness of waiver 
+We have applied a “clearly erroneous ”  standard of 
+review to the findings of fact made by the court in 
+connection with a voluntariness hearing to determine 
+whether to admit a confession into evidence at trial.  This 
+is based on the rationale that whether the defendant 
+invoked his right to counsel and whether he waived the 
+right are primarily questions of fact.  
+This court has also recognized that in a technical 
+sense, waiver is a question that requires application of 
+constitutional principles to the facts as found.   
+Accomplishing this task requires us to examine the entire 
+record and make an  independent determination of the 
+ultimate issue of voluntariness based upon that review and the totality of circumstances surrounding the defendant’s 
+statement.   Thus, we apply a de novo standard of appellate 
+review to the ultimate issue of the voluntariness of a 
+confession.  
+State v. Baker, 147 Hawai‘i 413,  422,  465 P.3d 860, 869  (2020)  
+(cleaned up).    
+IV. Discussion 
+A. We adopt a new constitutional rule requiring the fifth 
+Miranda warning 
+1. The fifth Miranda right 
+In 1966, Chief Justice Warren’s watershed opinion in 
+Miranda  sought to safeguard the Fifth Amendment right  against 
+self-incrimination during custodial interrogation.  
+The four consolidated cases the Court considered in Miranda  
+“share[d] salient features,” such as “incommunicado 
+interrogation of individuals in a police-dominated atmosphere, 
+resulting in self-incriminating statements without full warnings 
+of constitutional rights.” 384 U.S. at 445. Before Miranda, 
+the police commonly “resorted to physical brutality —  beatings, 
+12  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+  
+   
+ hanging, whipping — and to sustained and protracted questioning 
+incommunicado in order to extort confessions.” 384 U.S. at 446. 
+The Miranda court held that “[u]nless a proper limitation upon 
+custodial interrogation is achieved [,]” “there can be no 
+assurance that practices of this nature will be eradicated in 
+the foreseeable future.” 384 U.S. at 447 . 
+The Court therefore adopted the four Miranda  warnings well-
+recognized today to safeguard this constitutional right. 384 
+U.S. at 479. But Miranda  also implied the existence of a fifth 
+right: to cease answering questions. In discussing the right against self-incrimination, the Court said that “[w]ithout the 
+right to cut off questioning, the setting of in-custody 
+interrogation operates on the individual to overcome free choice 
+in producing a statement after the privilege has been once 
+invoked.” 384 U.S. at 474.  
+The fifth Miranda  right “encompasses four possible 
+trajectories: (1) reasserting a waiver, (2) reasserting an invocation, (3) switching from waiver to invocation, and (4) 
+switching from invocation to waiver.” Suraiya Shammi, The 
+Forgotten Fifth Prong: A Critical Review of Dynamic Miranda 
+Decision-Making during Interrogation, 41 J. of Police & Crim. 
+Psych.  255, 256  (2026)  (citation omitted). It assures custodial 
+suspects that their right to remain silent and to counsel is a 
+continuing constitutional privilege. But  the fifth Miranda  
+13  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+  
+   
+ 
+ 
+ 
+   
+ 
+ 
+    
+  
+  
+ 
+  
+  
+ 
+  
+ 
+  
+ 
+   right  has long been interpreted to be  embedded within the four 
+Miranda  warnings and not requiring  its  own separate advisement.    
+Federal courts have opined that a fifth Miranda  right 
+exists but have been reluctant  to adopt a fifth Miranda  warning  
+requirement on constitutional grounds.   State courts  have  
+similarly not required  a fifth Miranda  warning  even under their 
+respective state constitutions.     3 2
+Although  other courts, including the United States Supreme 
+Court,  have indicated that the right to cease questioning at any 
+2 See, e.g., Engle v. Lumpkin , 33 F.4th 783, 793 n.24 (5th Cir. 2022) 
+(concluding that “[w]hile we have never expressly recognized that Miranda 
+does not require the authorities to warn suspects of the right to cut off 
+questioning, Miranda itself arguably makes this clear . . . and other courts 
+have uniformly (and, in our view, rightly) read Miranda as requiring no such 
+warning.”); United States v. Crumpton , 824 F.3d 593, 611 (6th Cir. 2016) 
+(“Subsequent Supreme Court decisions have echoed these four — and only four — 
+required warnings . . . . We and the other circuits have made clear that ‘a 
+defendant need not be informed of a right to stop questioning after it has 
+begun.’”); United States v. Lares -Valdez, 939 F.2d 688, 690 (9th Cir. 1991) 
+(“The Court thus contemplated the right to cease questioning and declined to 
+include it among the warnings it deemed necessary to effect an accused’s 
+fifth and sixth amendment rights.”) . 
+3 See, e.g, Com. v. Silanskas , 746 N.E.2d 445, 457 n.11 (Mass. 2001) (“We 
+do not require that the defendant be informed of his right to terminate 
+questioning, a so -called ‘fifth ’ Miranda warning.”); State v. Mitchell , 482 
+N.W.2d 364, 37 1 (Wisc. 1992) ( holding Miranda does not mandate that a 
+defendant be warned o f the right to cease questioning ); State v. Nicholas S. , 
+444 A.2d 373 , 378 (Me. 1982) (“There may be no express requirement that the 
+police, prior to the commencement of interrogation, give the ‘fifth’ Miranda 
+warning, that is, inform the accused of his right to terminate questioning at 
+any time. ”); Gray v. State , 441 A.2d 209 , 217 (Del. 1981) (holding “that the 
+required Miranda warnings do not include express advice to the accused that 
+he has the right to discontinue his statement if he chooses to do so.”); 
+State v. McGhee , 280 N.W.2d 436 , 441 (Iowa 1979) (“We did not list the right 
+to have interrogation cease as a required warning, nor do we find any 
+indication in our case law to mandate such an inclusion. ”); State v. Cob bs, 
+324 A.2d 234 , 244 (Conn. 1973) (ruling “ a statement taken under circumstances 
+which show that the required Miranda warnings were given may not be held 
+inadmissible simply because the accused was not told that he could stop 
+answering questions at any time. ”). 
+14  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+  
+ 
+  
+  
+  
+    
+   
+ 
+   
+ 
+ 
+ time is implicit in  the right to remain silent, they also  have 
+praised police departments that inform suspects of such a right.  
+See  Berghuis v. Thompkins, 560 U.S. 370, 385-86, 388 (2010) 
+(“When the suspect knows that Miranda  rights can be invoked at 
+any time, [they have]  the opportunity to reassess [their]  long-
+term interests.”); United States v. DiGiacomo, 579 F.2d 1211, 1214  (10th Cir. 1978)  (“Although there may be no express 
+requirement to warn suspects of the right to terminate 
+questioning, the government’s failure to so warn is certainly an 
+important factor to be considered in determining the 
+voluntariness of any statements made.”).    
+But the lack of a constitutionally -required fifth Miranda 
+warning has led police departments to unevenly inform custodial 
+suspects of their constitutional rights.4 For example, the HPD 
+included the fifth Miranda warning since at least 1969, but the 
+MPD only recently followed sui t. See State v. Maluia , 56 Haw. 
+428, 431 n.5, 539 P.2d 1200, 1205 n.5 (1975). The record does 
+not indicate whether custodial suspects in Kauaʻi and Hawai ʻi 
+counties are advised of this right. Therefore, Miranda rights 
+4See Richard Rogers, et al ., The Language of Miranda Warnings in 
+American Jurisdictions: A Replication and Vocabulary Analysis , 32 L. Hum. 
+Behav. 124, 131 (2008) (“In 35 states (70%), [the fifth Miranda warning] was 
+unquestionably the norm ; its inclusion averaged 94.8% [with a range of 80 -
+100%]. In stark contrast, six mostly western states [Arizona, California, 
+North Carolina, Nevada, Oregon, and South Dakota] included the fifth prong 
+less than 50% of the time. Of these, California was an obvious outlier with 
+virtually no use (3.0%) of the fifth prong.”). 
+15   **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+ for custodial suspects  are not uniform throughout our counties.  
+Such uneven justice cannot continue.  
+2.  The Hawaiʻi Constitution requires the fifth Miranda  
+warning  
+The  Fifth Amendment of the United States  Constitution 
+states, in relevant part, that no person “shall be compelled in 
+any criminal case to be a witness against himself[.]”   Yet, in 
+the decades after Miranda, the Court has steadily narrowed its  
+protection  of this right. See,  e.g., Harris v. New York, 401 
+U.S. 222  (1971) (ruling confessions obtained in violation of 
+Miranda  could be used to impeach subjects); New York v. Quarles, 
+467 U.S. 649 (1984) (ruling there was a “public safety” 
+exception to the Miranda  warning requirement); Berghuis,  560  
+U.S. 370 (ruling that a suspect must explicitly invoke their right to remain silent; confessing, even after a prolonged 
+silence, was a valid waiver). As noted, most recently, the Court ruled that Miranda  warnings were not constitutional rights 
+but judicially crafted rules. Vega, 597 U.S. at  144.  
+But in deciding whether to require the fifth Miranda  
+warning, we look to  the state constitution first. “Only if the 
+Hawai‘i Constitution does not reach the minimum protection 
+provided by a parallel federal constitutional right should this court construe the federal analogue.” State v. Wilson, 154 
+Hawai‘i 8, 13, 543 P.3d 440, 445 (2024). And “[w]e have not 
+16  
+ 
+     
+   
+  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+hesitated to extend the protections of the Hawai [‘]i Bill of 
+Rights beyond those of textually parallel provisions in the 
+Federal Bill of Rights when logic and sound regard for the 
+purposes of those protections have so warranted.” State v. 
+Miyasaki , 62 Haw. 269, 280, 614 P.2d 915 , 922 (1980) (cleaned 
+up). 
+Article I, Section 10 of the Hawai‘ i Constitution provides 
+that “[n]o person shall . . . be compelled in any criminal case 
+to be a witness against oneself.”   This right is a reflection of 
+the Preamble of our Constitution, in which  “[w]e reserve the 
+right to control our destiny, to nurture the integrity of our 
+people and culture, and to preserve the quality of life that we 
+desire” and “reaffirm our belief in a government of the people, 
+by the people and for the people, and  with an understanding and 
+compassionate heart towards all the peoples of the earth[.]” 
+Haw. Const. pmbl.   We have held that individual autonomy and 
+human dignity underlie the right against self-incrimination.   
+Tolentino, 158 Hawai‘i  at  344, 592 P.3d at 232. Safeguards 
+enforcing that right protects those interests. Miranda’s 
+exclusionary rule does that work in Hawai‘i.  
+In addition, i n Hawai‘i, the Aloha Spirit inspires 
+constitutional interpretation. “When this court exercises power 
+on behalf of the people and in fulfillment of our 
+responsibilities, obligations, and service to the people we may 
+17  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+    
+   
+ 
+ contemplate and reside with the life force and give 
+consideration to the Aloha Spirit.” Wilson, 154 Hawai‘i at 27, 
+543 P.3d at 459 (cleaned up) ; see also Tolentino , 158 Hawai‘i at 
+339, 592 P.3d at 227 (“ Honoring our constitution means giving it 
+a reading shaped by Hawai‘i and the people who adopted it — not 
+through federal precedent about a different document .”). 
+Our  Constitution therefore requires  robust protection of 
+the dignity and rights of our people, including the right 
+against  self-incrimination for those subjected to custodial 
+interrogation.   In Hawai‘i, this  right has  long been an integral 
+part of our jurisprudence. See,  e.g., The King v. Paakaula, 3 
+Haw. 30, 38  (Haw. Kingdom 1867)  (“It is said to be improper to 
+dissuade a prisoner from making a confession if he really wishes 
+to do so, . . . equally improper would it be to persuade him to 
+make one.”); Republic of Hawaii v. Parsons, 10 Haw. 601, 605  
+(Haw. Terr. 1896)  (discussing a person’s privilege of refusing 
+to give testimony that would tend to incriminate her).  
+Our jurisprudence reflects these principles. From the 
+outset, this court has not only recognized “that the protections 
+which the United States Supreme Court enumerated in Miranda  have 
+an independent source  in the Hawai[ʻ]i Constitution’s privilege 
+against self-incrimination[,]” but has also afforded  greater 
+protections than the federal constitution. Santiago, 53 Haw. at  
+265-66, 492 P.2d at  664.  
+18  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+   
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+  
+   
+ In fact, t his court in Santiago deviated from the U nited 
+States S upreme Court’s decision in Harris, 401 U.S. 222, by 
+ruling that the Hawai‘i Constitution d oes not permit statements 
+obtained in violation of Miranda to be used to impeach a 
+defendant who takes the stand. 53 Haw. at 266-67, 492 P.2d at 
+664-65. This court emphasized that “the privilege against self -
+incrimination bestows on every accused the right to choose 
+whether or not to confess to the commission of a crime. In 
+order to protect th at freedom of choice, we believe that every 
+accused, must be informed of the fact that he has certain rights 
+under the Hawai[ʻ]i Constitution.” 53 Haw. at 266, 492 P.2d at 
+664. 
+In so ruling, we affirmed that “this court is the final 
+arbiter of the meaning of the provisions of the Hawai [‘]i 
+Constitution. Nothing prevents our constitutional drafters from 
+fashioning greater protections for criminal defendants than 
+those given by the United States Constitution.” 53 Haw. at 265, 
+492 P.2d at 664 (citation omitted ). 
+We have continued to reaffirm Santiago ’s ruling that the 
+Hawai‘i Constitution is only guided by rights set out in Miranda 
+and provides greater protections than the United States 
+Constitution. See State v. Russo , 67 Haw. 126, 133, 681 P.2d 
+553, 559 (1984) (“We reasoned that the rights fashioned by our 
+constitutional drafters were not necessarily circumscribed by 
+19  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+  
+ 
+   
+ 
+  
+    
+ 
+ 
+    
+ 
+   
+ 
+  
+    
+ 
+   
+ 
+  
+  the dictates of federal law . . . Consequently, when claims of 
+Miranda violations are advanced, we are constrained to seek 
+primary guidance from precepts enunciated in the seminal 
+decision . . . and our own cases[.] ”). 
+Although the United States Supreme Court has increasingly 
+cabined Miranda, we have continued to articulate the right 
+against self -incrimination under the Hawai‘i Constitution.  See, 
+e.g., Miyasaki , 62 Haw. at 282, 614 P.2d at 923 (holding 
+“transactional immunity” was part of the Hawai‘i Constitution’s 
+right against self -incrimination notwithstanding contrary 
+decisions under the United States Constitution); State v. Bowe , 
+77 Hawai‘i 51, 57, 881 P.2d 538 , 544 (1994) (declining to adopt 
+the United States Supreme Court’s decision in Colorado v. 
+Connelly , 479 U.S. 157 (1986), and ruling that the coercive 
+conduct of a private person may be sufficient to render a 
+defendant ’s confession involuntary ); State v. Hewitt, 153 Hawaiʻi 
+33, 44, 526 P.3d 558, 569 (2023) (reinstating case law re quiring 
+Miranda warnings when probable cause to arrest has developed ). 
+And, most recently, we adopted a new constitutional rule in 
+State v. Zuffante , 157 Hawai‘i 194, 198, 576 P.3d 243 , 247 
+(2025), requiring law enforcement officers to record all in-
+station custodial interrogations. Both Miranda and Zuffante 
+address concerns about the inherent coercive power of custodial 
+interrogations by police. Zuffante , 157 Hawai‘i at 202-04, 576 
+20  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+  
+  
+ 
+ P.3d at 251-53. In fact, recording custodial interrogations has 
+been advocated by some legal scholars as a way to enhance 
+Miranda’s underlying purpose. See,  e.g.,  Saul M. Kassin, et 
+al., Police-Induced  Confessions, 2.0: Risk Factors and 
+Recommendations, 49 L. Hum. Behav. 7, 32-33 (2025).  
+We therefore now hold that all Miranda  rights, including 
+the fifth right originally implied in the Miranda  opinion,  must 
+be explained so that custodial suspects can fully understand 
+their constitutional rights when facing custodial interrogation. 
+Without the  separate  fifth Miranda  warning, it is possible that 
+many custodial suspects may not fully understand and apply their rights at all stages of interrogation; they may not know that 
+they have a right to stop answering questions at any time. See  
+Saul M. Kassin, et al., Police Interviewing and Interrogation: A Self-Report Survey of Police Practices and Beliefs, 31 L. Hum. 
+Behav. 381, 389 (2007) (law officers estimate only 13% of 
+suspects who initially waived  their rights later change their 
+mind and invoke them).  
+Therefore, consistent with the principles underlying 
+Miranda and the greater protections we provide under the Hawaiʻi 
+Constitution, we hold that custodial suspects must explicitly be 
+informed that their right against self -incriminatio n is 
+continuous and can be reinvoked even if initially waived and 
+21  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+    
+   
+   
+ 
+ 
+ 
+  
+   
+    
+  
+ 
+ 
+ that they can request an attorney even after that right was 
+initially waived. 
+3. Our new rule has purely prospective effect 
+But we recognize that we announce a new constitutional rule 
+in this case. In Wallace, this court held that the defendant 
+“knowingly, intelligently, and voluntarily waived the privilege 
+against self -incrimination and the right to counsel ” based on 
+MPD Form 103 without the fifth Miranda warning. 105 Hawai ‘i at 
+142-43, 94 P.3d at 1286-87. Other opinions have also only 
+required the four traditional Miranda warnings. See Spies, 157 
+Hawai‘i at 86-87, 575 P.3d at 719-20. 
+When we announce a new rule, we consider whether it should 
+have retroactive effect or whether it sh ould be given 
+prospective effect only. We decide whether the new rule will 
+have: 
+(1) purely prospective effect, which means that the rule is 
+applied neither to the parties in the law -making decision 
+nor to those others against or by whom it might be applied 
+to conduct or events occurring before that decision; (2) 
+limited or pipeline re troactive effect, under which the 
+rule applies to the parties in the decision and all cases 
+that are on direct review or not yet final as of the date 
+of the decision; or (3) full retroactive effect, under 
+which the rule applies both to the parties before t he court 
+and to all others by and against whom claims may be 
+pressed. 
+State v. Jess, 117 Hawai‘i 381, 401, 184 P.3d 133, 153  (2008)  
+(cleaned up).  The “paradigm case” warranting a prospective -only 
+application of a new rule arises “when a court expressly 
+overrules a precedent upon which the contest would otherwise be 
+22  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+   
+ 
+   
+ 
+ 
+  
+ 
+   decided differently and by which the parties may previously have 
+regulated their conduct.” 117 Hawai‘i at 400, 184 P.3d at 152 
+(citation omitted). 
+Here, we are overruling “precedent upon which the contest 
+would otherwise be decided differently, which counsels in favor 
+of a prospective-only application.” State v. Auld, 136 Hawai‘i 
+244,  256,  361 P.3d 471, 483  (2015)  (cleaned up).  And although 
+the HPD incorporated the fifth Miranda  warning decades ago and 
+the MPD recently followed suit, law enforcement departments in Hawaiʻi have not previously been constitutionally required to 
+provide such a warning.   It is unclear whether other departments 
+have been giving the fifth Miranda  warning.  Therefore, before 
+this, the “parties may previously have regulated their conduct” 
+consistent with the rules set forth in Wallace  and other cases 
+that did not require the fifth Miranda  warning. Jess, 117 
+Hawai‘i at 400, 184 P.3d at 152  (citation omitted).  
+Hence, we hold that the new constitutional rule requiring a 
+fifth Miranda warning has purely prospective effect. And in 
+order to give time to law enforcement to update their forms and 
+provide appropriate instruction to officers , the new rule will 
+take effect sixty days from the date of this opinion , or on 
+October 23 , 2026. 
+Furthermore, w e decline to lay down a specific formula or 
+wording for the fifth Miranda warning. See California v. 
+23  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+  
+ 
+ 
+   
+   
+ 
+  
+ 
+  
+ 
+  
+  
+  
+ 
+  Prysock, 453 U.S. 355 , 359-60 (1981) (per curiam) (holding that 
+no talismanic incantation or verbatim recital is required to 
+satisfy Miranda). The fifth Miranda warning given must 
+substantively and adequately inform custodial suspects of their 
+right to cease answering questions and ask for an attorney at 
+any time. Under our case law, the crucial test is whether the 
+words in the context used, considering the age, background and 
+intelligence of the individual being interrogated, impart a 
+clear, understandable warning of all of their rights. Maluia, 
+56 Haw. at 432, 539 P.2d at 1205. 
+B. Here, under the totality of the circumstances, Garces 
+voluntarily waived his Miranda rights 
+As our new rule is prospective, we evaluate Garces’s 
+Miranda waiver under our currently existing law. We hold that 
+as Garces was informed of his four rights under Miranda and he 
+voluntarily, intelligently, and knowingly waived them, his 
+Miranda waiver was not invalid. Garces also argues he did not 
+voluntarily waive his Miranda rights under the totality of the 
+circumstances because of his suicidal ideation and severely 
+distressed mental state. After reviewing the record, we uphold 
+the circuit court’s conclusion that the custodial statement s 
+were voluntary. 
+As a general rule, “[o]ur law requires us to examine the 
+entire record and make an independent determination of the 
+24  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+   
+ 
+ 
+  
+ 
+ 
+    
+   voluntariness of [defendant’s] custodial statement to the 
+police.” Baker, 147 Hawai‘i at  424,  465  P.3d  at  871 (citation 
+omitted). We apply a de novo standard of appellate review to 
+the ultimate issue of the voluntariness of a confession. 147 
+Hawai‘i at  422,  465  P.3d at 869  (citation omitted).  
+“A defendant’s mental and physical condition can be part of 
+the ‘totality of the circumstances’ relevant to the issue of 
+voluntariness of his or her custodial statements.” State v. 
+Kelekolio , 74 Haw. 479, 503, 849 P.2d 58 , 69 (1993) (citation 
+omitted) . However, we have ruled that mental instability does 
+not, by itself, render a confession involuntary, holding “in the 
+absence of insanity or mental depletion, neither the voluntary 
+character nor the admissibility of a confession is affected by 
+the mental instability of the person making it.” 74 Haw. at 
+503, 849 P.2d at 70 (citation omitted). 
+Our ruling in State v. Edwards, 96 Hawai‘i 224, 30 P.3d 238, 
+(2001), is instructive. There, this court ruled that the 
+defendant’s emotional state, being “so fragile as to warrant 
+suicide watch,” was insufficient to hold her statements 
+involuntary. 96 Hawai‘i at 243, 30 P.3d at 257. In addition to 
+being emotionally fragile, the defendant was also incarcerated 
+for nearly eighteen hours and broke down in tears more than once 
+during the interrogation. Id. This court held that the 
+defendant’s fragile state was insufficient to prove that “such 
+25  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+    
+ 
+  
+    
+   
+  
+ 
+ 
+ 
+      
+ 
+  circumstances specifically affected the voluntariness of her 
+statements.” Id. Therefore, this court concluded that the 
+totality of circumstances demonstrated that the defendant’s 
+statements were voluntary. Id. 
+Here, the circuit court did not err in finding that 
+Garces’s custodial statements were voluntary despite his mental 
+state. Garces requested to speak with the detectives. There is 
+also no evidence to suggest that the three to four hours between 
+arriving at the police station and being interrogated overcame 
+his will . Both before and during the custodial interrogation, 
+his demeanor was clear and coherent. He did not appear under 
+the influence of any substances. Moreover, the detectives did 
+not use any threats, coercion, force, or promises to get him to 
+make the statement. 
+We do hold that the circuit court clearly err ed in its 
+conclusion of law that “Defendant’s statements of a suicidal 
+nature, absent evidence of action upon those statements, were 
+not credible.” Suicidal ideation does not require action. 
+Regardless, this error was harmless. Although it appears 
+Garces was suicidal, being suicidal in and of itself does not 
+mean that a person cannot knowingly, voluntarily, and 
+intelligently waive Miranda rights. Examining the totality of 
+the circumstances, the circuit court did not err in determining 
+26  **FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER* * 
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+      
+       that Garces knowingly, intelligently, and voluntarily waived his 
+rights.  
+V. Conclusion 
+For these reasons, w e affirm the circuit court’s September 
+26, 2024 judgment of conviction and sentence as well as the 
+ICA’s November 26 , 2025 judgment on appeal. T his opinion’s new 
+rule requiring a fifth Miranda warning becomes effective sixty 
+days after the issuance of this opinion. 
+Brandon M. Segal,   
+for petitioner    
+     
+Gerald K. Enriques,   
+for respondent    /s/ Vladimir P. Devens  
+ 
+/s/ Sabrina S. McKenna  
+ 
+/s/ Todd W. Eddins  
+/s/ Lisa M. Ginoza  
+     /s/ Shirley M. Kawamura 
+27 
