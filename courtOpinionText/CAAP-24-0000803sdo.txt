@@ -1,0 +1,470 @@
+ 
+ 
+ 
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+   
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS  AND P ACIFIC REPORTER  
+Electronically Filed 
+Intermediate Court of Appeals CAAP-24-0000803 27-AUG-2026 08:22 AM Dkt. 50 SO 
+NO. CAAP-24-0000803  
+IN THE INTERMEDIATE COURT OF APPEALS  
+ 
+OF THE STATE OF HAWAIʻ I  
+WELLS FARGO BANK, NATIONAL ASSOCIATION, AS TRUSTEE, 
+ON BEHALF OF THE HOLDERS OF THE STRUCTURED ASSET MORTGAGE 
+INVESTMENTS II INC., BEAR STEARNS MORTGAGE FUNDING TRUST 2007-
+AR1, MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2007-AR1, 
+Plaintiff-Appellee, 
+v. 
+BRYCE JARET ISHIMITSU, Defendant-Appellee, and 
+ASSOCIATION OF APARTMENT OWNERS OF HAVENS OF I
+ʻI VISTAS; 
+Defendant/Cross-Claimant-Appellee, 
+MILILANI TOWN ASSOCIATION; MARINER'S VILLAGE THREE COMMUNITY 
+ASSOCIATION, Defendants-Appellees, and 
+SEAN CHEUNG TONG, TRUSTEE OF THE UNRECORDED KOOLANI TRUST DATED 
+JANUARY 1, 2015, Defendant/Cross-Claim Defendant-Appellant, and 
+JOHN AND MARY DOES 1-20; DOE PARTNERSHIPS, 
+CORPORATIONS OR OTHER ENTITIES 1-20, Defendants. 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT 
+(CASE NO. 1CCV-23-0000210) 
+SUMMARY DISPOSITION ORDER 
+(By: Nakasone, Chief Judge, Hiraoka and McCullen, JJ.)  
+Defendant/Cross-Claim Defendant-Appellant Sean Cheung 
+Tong, Trustee of the Unrecorded Koolani Trust Dated January 1,  
+2015 (Tong), appeals from the Circuit Court of the First 
+Circuit's October 28, 2024 "Findings of Fact; Conclusions of     NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+   
+  
+ 
+ 
+   Law; Order Granting Plaintiff's Motion for Summary Judgment and 
+for Interlocutory Decree of Foreclosure Against All Parties, 
+Filed July 26, 2024" (Summary Judgment Order
+) and Judgment in 
+favor of Plaintiff-Appellee Wells Fargo Bank, National Association, as Trustee on Behalf of the Holders of the 
+Structured Asset Mortgage Investments II Inc., Bear Sterns 
+Mortgage Funding Trust 2007-AR1, Mortgage Pass-Through 
+Certificates, Series 2007-AR1 (Wells Fargo).
+1 
+On appeal, Tong raises seven points of error (  POE), 
+contending that the circuit court erred by:  (1) concluding Tong  
+lacked standing to challenge that notice of default was  
+provided; (2) concluding Tong's Answer to the Complaint admitted  
+that notice of default was provided by failing to deny it with 
+specificity and particularity; (3) finding the mortgagor was   
+provided notice of default via first class mail; (4) concluding  
+Wells Fargo provided admissible evidence of delivery of the 
+notice of default under the business records hearsay exception via testimony of knowledge of standard mailing practices; 
+(5)  denying Tong's request for a continuance to conduct further 
+discovery on the purported notice of default; (6) granting  
+summary judgment despite the foreclosure claim being barred 
+1 The Honorable James H. Ashford presided. 
+2   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+  
+   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+  
+  under the applicable six-year statute of limitations; and   
+(7)  concluding Wells Fargo established standing to foreclose.  
+Upon careful review of the record and the briefs 
+submitted by the parties, and having given due consideration to 
+the issues raised and the arguments advanced, we resolve this 
+appeal as discussed below and affirm. 
+In 2006, Defendant-Appellee Bryce Jaret Ishimitsu 
+(
+Ishimitsu) executed an Adjustable Rate Note (the Note) in favor 
+of Franklin Financial, a Corporation (Franklin Financial), 
+secured by a Mortgage (the Mortgage) in favor of Mortgage 
+Electronic Registration Systems, Inc., solely as nominee for 
+Franklin Financial, its successors and assigns, that encumbered 
+the property located at 95-1111 Koolani Drive #214, Mililani, 
+Hawaiʻi 96789 (the Property).  The Property was subsequently sold 
+to Defendant-Appellee Mililani Town Association via a quitclaim 
+deed recorded on May 27, 2014, and was later conveyed to Tong 
+via an apartment deed recorded in the Land Court on November 3, 
+2016. Ishimitsu defaulted on the Mortgage loan. 
+On February 15, 2023, Wells Fargo filed the underlying 
+Complaint for foreclosure. 
+Wells Fargo moved for summary 
+judgment and an interlocutory decree of foreclosure (First 
+Motion). Tong opposed, and the circuit court denied the First 
+Motion without prejudice. 
+3   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+    
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ On July 26, 2024, Wells Fargo again moved for summary  
+judgment and an interlocutory decree of foreclosure (  Second 
+Motion). Tong again opposed.   The circuit court granted the 
+Second Motion.  Tong appealed.  
+(1) We first address POE 7 regarding Wells Fargo's 
+standing to foreclose on the Property. Tong contends the 
+circuit court erroneously granted summary judgment in favor of 
+Wells Fargo because genuine issues of material fact remained with respect to Wells Fargo's standing to foreclose. 
+Specifically, Tong asserts that Wells Fargo failed to meet its 
+burden of establishing by admissible evidence (1) its capacity 
+as "a Trustee 'on behalf of the holders of the Structured Asset 
+Mortgage Investments II Inc., Bear Sterns Mortgage Funding Trust 
+2007-AR1, Mortgage Pass-Through Certificates, Series 2007-AR1'" 
+(
+2007-AR1 Trust); (2) the existence of a valid assignment of the 
+Mortgage to the 2007-AR1 Trust; or (3) whether the Note included a special indorsement to "Wells Fargo Bank, N.A., as Trustee," at the time it was received. 
+We review the grant or denial of summary judgment de 
+novo. Nationstar Mortg. LLC v. Kanahele, 144 Hawaiʻ i 394, 401, 
+443 P.3d 86, 93 (2019). 
+To establish its right to foreclose on a mortgage, a 
+foreclosing plaintiff must establish its standing, or entitlement to enforce the subject note, at the time the action 
+4   
+ 
+ 
+     
+   
+   
+   
+   
+ 
+     
+  
+  
+  
+ 
+  
+ 
+   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+was commenced. Bank of America, N.A. v. Reyes-Toledo, 139 
+Hawaiʻi 361, 367-71, 390 P.3d 1248, 1254-58 (2017). Standing may 
+be established through admissible evidence showing that the 
+foreclosing plaintiff was in possession of the note at the time 
+the complaint was filed. Id. at 368, 390 P.3d at 1255. This 
+requirement applies where the subject note is specially indorsed. E.g., U.S. Bank Nat'l Ass'n as Tr. for C-Bass Mortg. 
+Loan Asset-Backed Certificates, Series 2007-CB1 v. Jung Hoon 
+Kim, 144 Hawaiʻ i 383, 442 P.3d 446, 2019 WL 2205680, at *1 
+(App. May 22, 2019) (SDO). 
+[A] special indorsement occurs if the indorsement is made 
+by the holder of an instrument and the indorsement 
+identifies a person to whom it makes the instrument 
+payable. [Hawaiʻ i Revised Statutes (HRS)] § 490:3 -205(a) 
+[(2008)]. When an instrument is specially indorsed, it 
+becomes payable to the identified person and may be 
+negotiated only by the indorsement of that person. Id. 
+Reyes-Toledo , 139 Hawaiʻi at 370, 390 P.3d at 1257. 
+Here, the Second Motion was supported by the 
+declaration of Gari-Ann Wise (
+Wise), the custodian of records of 
+collateral files for Wells Fargo's counsel.  The Wise 
+declaration stated that the original wet ink indorsed Note was 
+received on November 9, 2017, and that Wise personally confirmed 
+possession of the Note on January 10, 2023. The Wise declaration further stated that had the Note left the firm's 
+possession, it would have been logged in the firm's document 
+management system. The "true and correct redacted copies of the 
+documents that were received and scanned within [the firm's] 
+5
+   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+    
+ 
+  
+   
+ 
+ 
+ 
+ 
+  record-keeping system" show that the Note was specially indorsed 
+to "Wells Fargo Bank, N.A., as Trustee." 
+Because Wells Fargo's counsel was in possession of the 
+Note as its bailee on February 15, 2023, when the foreclosure 
+complaint was filed, and the Note was specially indorsed to 
+Wells Fargo, Wells Fargo was entitled to enforce the Note. See 
+id. 
+Because Wells Fargo carried its burden of showing it 
+was in possession of the Note at the relevant time and had 
+standing to foreclose on the Property, the burden then shifted 
+to Tong to point to specific facts in evidence to show a 
+challenged fact was material and in genuine dispute. See U.S. 
+Bank N.A. v. Mattos, 140 Hawaiʻ i 26, 30, 398 P.3d 615, 619 (2017) 
+(quoting French v. Hawaii Pizza Hut, Inc., 105 Hawaiʻ i 462, 470, 
+99 P.3d 1046, 1054 (2004)). 
+Tong points to no such facts. See 
+id. 
+Wells Fargo was not separately required to establish 
+the validity of the assignment of the Mortgage because the 
+transfer of a promissory note also transfers the right to 
+enforce the mortgage. See HRS § 490:9-203(g) (2008) ("The 
+attachment of a security interest in a right to payment or performance secured by a security interest or other lien on 
+personal or real property is also attachment of a security interest in the security interest, mortgage, or other lien."); 
+6
+   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+  
+ 
+ 
+  
+   
+   
+   
+  
+ 
+ Reyes-Toledo, 139 Hawaiʻ i at 371 n.17, 390 P.3d at 1258 n.17 
+(stating that "the security follows the debt"). 
+Moreover, as a third party, Tong lacks "standing to 
+challenge the validity of an assignment of its loans because 
+they are not parties to the agreement." U.S. Bank Nat'l Ass'n  
+v. Salvacion, 134 
+Hawaiʻi 170, 175 , 338 P.3d 1185, 1190 (App. 
+2014).   While "
+Hawaiʻi courts may  recognize exceptions when a 
+challenge would deem the assignment void, not voidable," Tong  
+makes no such argument on appeal. Id.  
+Tong similarly lacks standing to challenge the 
+assignment of a mortgage to a securitized trust. See Bank of 
+New York Mellon v. Rumbawa, 137 Hawaiʻ i 206, 366 P.3d 1085, 2016 
+WL 482170, at *1-2 (App. Feb. 4, 2016) (SDO) ("Courts have 
+rejected the argument that before a party may foreclose on a 
+property, 'it must first prove the validity of every transfer in 
+the chain of title.'" (quoting Deutsche Bank Tr. Co. v. Beesley
+, 
+Civil No. 12-00067 SOM/KSC, 2012 WL 5383555, at *4 (D. Haw. Oct. 30, 2012)). Moreover, "noncompliance with a trust's 
+governing document is irrelevant to the assignee's standing to 
+foreclose," and it "does not render the assignment void." 
+Salvacion, 134 Hawaiʻ i at 175-76, 338 P.3d at 1190-91. 
+Accordingly, the circuit court did not err by 
+concluding Wells Fargo had standing to enforce the Note through 
+its foreclosure complaint. 
+7
+   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+    
+ 
+ 
+  
+ 
+   
+   
+ 
+ 
+ 
+ 
+  (2)  We now turn to POE 3 and 4, where Tong argues the 
+circuit court erroneously found Wells Fargo gave the requisite 
+notice of default in compliance with the terms of the Mortgage 
+because, Tong contends, delivery of the notice was not supported 
+by admissible evidence.  
+To establish entitlement to foreclose, the foreclosing 
+party must demonstrate (1) the existence of the agreement,   
+(2)  the terms of the agreement, (3) default under the terms of  
+the agreement, and (4) the giving of requisite notice.    Bank of 
+Honolulu, N.A. v. Anderson, 3 Haw. App. 545, 551, 654 P.2d 1370, 
+1375 (App. 1982).   
+Here, the Second Motion was supported by, among other 
+things, two Notices of Default, both dated August 24, 2021, and 
+addressed to Ishimitsu at the Property; the declaration of 
+Cynthia May (May
+), an officer for Wells Fargo's loan servicer; 
+and screenshots of the loan servicer's correspondence tracker and log. The Notices of Default and the correspondence tracker and log all show a code, "LR062," which, May averred, "indicates 
+that [the] notices were sent via first class mail," consistent 
+with the servicer's standard mailing practices. 
+Tong contends that May's declaration regarding the 
+meaning of the "LR062" code is inadmissible hearsay that cannot 
+support proof that notice was given: 
+8
+   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+  
+  
+   
+ 
+ 
+ To the extent Ms. May' s purported personal knowledge 
+as to the use by [the servicer]  and meaning  of the code 
+"LR062"  may have been based upon her review and knowledge 
+of things such as  [the servicer's]  written policies, 
+training guides, operation procedures, or  other similar 
+business records,  because those records were not identified 
+and produced, Ms. May' s allegation of having personal  
+knowledge if based thereon that the notices of Default were 
+mailed by first class mail on August  24, 2021, remains 
+inadmissible hearsay.  
+"Though hearsay is generally inadmissible, [ Hawaiʻi  
+Rules of Evidence (HRE)] Rule 803(b)(6) establishes a hearsay  
+exception for 'records of regularly conducted activity.'"  U.S.  
+Bank Tr., N.A. as Tr. for LSF9 Master Participation Tr. v.   
+Verhagen, 149 Hawaiʻ i 315, 325, 48 9 P.3d 419, 429 (2021).  HRE 
+Rule 803(b)(6) provides in relevant part:  
+The following are not excluded by the hearsay rule, 
+even though the declarant is available as a witness: 
+    . . . . 
+(b) Other exceptions. 
+    . . .. 
+(6) Records of regularly conducted activity. A 
+memorandum, report, 
+record, or data 
+compilation, in any form, of acts, events, 
+conditions, opinions, or diagnoses, made in the course of a regularly conducted activity, at or 
+near the time of the acts, events, conditions, 
+opinions, or diagnoses, as shown by the testimony of the custodian or other qualified 
+witness, or by certification that complies with rule 902(11) or a statute permitting 
+certification, unless the sources of 
+information or other circumstances indicate 
+lack of trustworthiness. 
+(Emphases added.) 
+A witness is qualified to provide the testimony 
+required under HRE Rule 803(b)(6) where they have "enough 
+familiarity with the record-keeping system of the business that 
+9   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+   
+ 
+   
+ 
+ 
+      
+ 
+  
+ 
+   
+    
+    
+ 
+ created the record to explain how the record was generated in 
+the ordinary course of business." Wells Fargo Bank, N.A. v. 
+Behrendt, 142 Hawaiʻ i 37, 45, 414 P.3d 89, 97 (2018) (citing 
+Mattos, 140 Hawaiʻ i at 32, 398 P.3d at 621 (quoting State v. 
+Fitzwater, 122 Hawaiʻ i 354, 365-66, 227 P.3d 520, 531-32 
+(2010))). 
+May was qualified to lay a foundation for the 
+admission of these records. See id.; HRE Rule 803(b)(6). The 
+May declaration stated, "[a]s an officer of [Wells Fargo's loan servicer], I am personally familiar with [the servicer]'s 
+standard mailing practices and procedures," because "I am 
+authorized and trained to access these records" and use the 
+relevant systems "on a regular basis as a routine function of my 
+employment." 
+Thus, Wells Fargo carried its burden of showing the 
+Notices of Default were mailed to Ishimitsu on or around 
+August 24, 2021. The burden then shifted to Tong to point to 
+specific facts in evidence to show a challenged fact was 
+material and in genuine dispute. See Mattos, 140 Hawaiʻ i at 30, 
+398 P.3d at 619 (quoting French, 105 Hawaiʻ i at 470, 99 P.3d at 
+1054). Tong points to no such facts. See id. 
+Accordingly, the circuit court did not err by granting 
+Wells Fargo's Second Motion. 
+10
+   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+  
+ 
+ 
+     (3)  As to POE 6, Tong contends the foreclosure action 
+was subject to a six-year statute of limitations.  After the 
+parties briefed the matters in this case, the Hawaiʻ i Supreme  
+Court held that "the statute of limitations for mortgage 
+foreclosure actions is twenty years per HRS § 657-31."   Bank of 
+New York Mellon as Tr. for Certificateholders of CWABS, Inc. 
+Asset-Backed Certificates, Series 2006-11 v. White, 156 Hawaiʻ i  
+246, 249, 573 P.3d 629, 632 (2025).  Thus, POE 6 fails.  
+(4)  Finally, we decline to reach Tong's remaining 
+points of error, contending the circuit court erred by  
+concluding Tong lacked standing to challenge that notice of  
+default was provided (POE 1); concluding Tong's Answer to the  
+Complaint admitted that notice of default was provided by 
+failing to deny it with specificity and particularity (POE 2);  
+and denying Tong's request for a continuance to conduct further 
+discovery on the purported notice of default (POE 5).   
+As discussed above, Wells Fargo established standing 
+and entitlement to bring its foreclosure action as a matter of 
+law.  Error, if any, in concluding Tong lacked standing to 
+challenge notice of default, concluding Tong failed to deny with 
+specificity, and denying Tong's continuance request to conduct 
+discovery would be harmless. See Salvacion, 134 Hawaiʻ i at 176, 
+338 P.3d at 1191 ("Further discovery would not have rebutted 
+11   NOT FOR PUBLICATION IN WEST'S HAWAIʻI REPORTS AND PACIFIC REPORTER 
+ 
+ 
+  
+  
+ USBNA's showing of absence of genuine issue of fact." (citation 
+modified)). 
+Based on the foregoing, we affirm the circuit court's 
+October 28, 2024 Summary Judgment Order and Judgment.   
+DATED: Honolulu, Hawaiʻ i, August 27, 2026.  
+On the briefs:  
+ 
+Frederick J. Arensmeyer,  
+for Defendant/Cross-
+ 
+Claim Defendant-Appellant.  
+ 
+Lansen H.G. Leu,  
+(Leu Okuda & Doi),  
+for Plaintiff-Appellee.  /s/ Karen T. Nakasone  
+Chief Judge  
+ 
+ /s/ Keith K. Hiraoka  
+Associate Judge  
+ /s/ Sonja M.P. McCullen  
+Associate Judge  
+12
+ 
