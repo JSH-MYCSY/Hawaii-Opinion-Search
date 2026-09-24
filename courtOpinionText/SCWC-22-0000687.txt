@@ -1,0 +1,1305 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER  ***  
+Electronically Filed 
+Supreme Court SCWC-22-0000687 21-SEP-2026 10:11 AM Dkt. 56 OP 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ʻI 
+ 
+ ________________________________________________________________
+ ---o0o---
+GERARDO DENNIS PATRICKSO
+N; BENIGNO TORRES HERNANDEZ;    
+FERNANDO JIMENEZ ARIAS; ALIRIO MANUEL MENDEZ; and  
+CARLOS HUMBERTO RIVERA, individually and on behalf of  
+others similarly situated,   
+Respondents/Plaintiffs-Appellants,   
+  
+vs.   
+  
+DOW  CHEMICAL COMPANY and DEL MONTE FRESH PRODUCE N.A., INC.,   
+Petitioners/Defendants-Appellees,   
+  
+and   
+  
+DOLE FOOD COMPANY, INC.; DOLE FRESH FRUIT COMPANY; SHELL OIL 
+COMPANY; OCCIDENTAL CHEMICAL CORPORATION (individually and as 
+successor to Occidental Chemical Company and Occidental Chemical 
+Agricultural Products, Inc., Hooker Chemical and Plastics, 
+Occidental Chemical Company of Texas, and Best Fertilizer 
+Company); STANDARD FRUIT COMPANY; STANDARD FRUIT AND STEAMSHIP 
+COMPANY; DEL MONTE FRESH PRODUCE ( HAWAI‘I), INC. (previously 
+incorrectly named as Del Monte Fresh Produce Hawai ‘i, Inc.),   
+Respondents/Defendants-Appellees.  
+ ________________________________________________________________  
+SCWC-22-0000687  
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS  
+(CAAP-22-0000687; CASE NO. 1CC071000047)  
+ 
+SEPTEMBER  21, 2026  
+ 
+DEVENS, C.J., McKENNA, EDDINS, AND GINOZA, JJ., AND  
+CIRCUIT JUDGE TOMASA, ASSIGNED BY REASON OF VACANCY    *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+   
+   
+ 
+   
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ OPINION OF THE COURT BY McKENNA, J.  
+I. Introduction 
+This is the second appeal in this two-decade-old toxic tort 
+case. 1 The lawsuit was brought by Central and South American 
+banana plantation workers alleging injuries caused by exposure 
+to the pesticide dibromochloropropane (“DBCP”) . Plaintiffs 
+Gerardo Dennis Patrickson, Benigno Torres Hernandez, Alirio 
+Manuel Mendez, Carlos Humberto Rivera , and Fernando Jimenez 
+Arias (“Arias”)2 (collectively , the “Plaintiffs”) were previously 
+employed by a subsidiary of Del Monte Fresh Produce N.A., Inc. 
+(“Del Monte ”), which used DBCP manufactured by Dow Chemical 
+Company ( “Dow”) in its banana plantations . 
+In this appeal, t he Intermediate Court of Appeals ( “ICA”) 
+made various rulings. Relevant to this certiorari proceeding, 
+the ICA vacated the Circuit Court of the First Circuit ’s 
+(“circuit court ”) orders granting: (1) Dow’s motion for summary 
+judgment on Plaintiffs ’ complaint ; (2) Dow’s motion in limine 
+excluding Plaintiffs’ expert witness, Michael J. DiBartolomeis , 
+Jr. (“DiBartolomeis”); and (3) Del Monte ’s joinders in Dow’s 
+motions. 
+1 See Patrickson v. Dole Food Co. , 137 Hawaiʻi 217, 368 P.3d 959 (2015) 
+with respect to the first appeal . 
+2 Arias is referenced in the parties’ briefs as “Jimenez,” “Jimenez 
+Arias,” and “Jimenez -Arias.” For consistency, we will refer to him as 
+“Arias.” 
+2   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+  
+  
+   
+ 
+  
+ 
+  
+ 
+ On certiorari, Dow and Del Monte (collectively , the 
+“Defendants”) challenge the ICA’s vacatur of summary judgment as 
+to Arias, maintain ing that the record does not reflect evidence 
+of Arias’s exposure to DBCP . They further contend that 
+DiBartol omeis’s expert opinions were properly excluded, 
+rendering summary judgment appropriate as to Arias. Defendants 
+also ask this court to determine if the ICA erroneously applied 
+the wrong standard of review in vacating the circuit court’s 
+order granting Dow’s motion in limine. 
+For the reasons discussed below, we affirm the ICA and 
+provide guidance on remand , including how to address causation 
+in mass toxic torts cases, like this one, in which many people 
+allege illness or injury caused by exposure to toxic substances. 
+Thirty-five years ago, in Smith v. Cutter Biological, Inc., 
+a Div. of Miles Inc., 72 Haw. 416, 823 P.2d 717 (1991), this 
+court recognized that the traditional “substantial factor” 
+causation test is unworkable in  mass toxic tort cases:    
+No longer can we apply traditional rules of 
+negligence, such as those used in individual and low level 
+negligence to mass tort cases, especially here, where we 
+are dealing with a pharmaceutical industry that dispenses 
+drugs on a wide scale that could cause massive injuries to 
+the public, and where fungibility makes the strict 
+requirements difficult to meet. The problem calls for adopting new rules of causation, for otherwise innocent 
+plaintiffs would be left without a remedy .  
+Smith, 72 Haw. at 428, 823 P.2d at 724 (emphasis added). In 
+Smith, the plaintiff was unable to establish which of four 
+manufacturers had caused his injury ; for that circumstance, this 
+3   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+   
+ 
+    
+  
+  
+  
+ court adopted “the alternative market share theory of recovery.”  
+Smith, 72 Haw. at 421, 823 P.2d at 721.  
+Here, it is undisputed that Dow manufactured the DBCP that 
+Del Monte ’s subsidiary applied at the banana plantations where 
+Plaintiffs were allegedly exposed. T he alternative market share 
+theory of recovery is therefore inapposite . The substantial 
+factor test fares no better because it may still leave 
+“otherwise innocent plaintiffs [] without a remedy.” Smith, 72 
+Haw. at 428, 823 P.2d at 724 . And the “ frequency, regularity, 
+and proximity” test used in asbestos litigation, which 
+Defendants urge this court to adopt, is merely a version of the 
+substantial factor test. 
+We therefore hold that the appropriate approach to 
+causation in toxic  tort  cases is the one set out in comment g to 
+section 26 of the Restatement  (Third)  of Torts  (“Third 
+Restatement”) . See  Restatement (Third) of Torts: Phys. & Emot. 
+Harm § 26, cmt. g.   In these types of cases, the Third 
+Restatement evaluates  causation based on  (1) general causation, 
+(2) specific causation, and (3) exposure to the agent:  
+In toxic -substances cases, the causal inquiry is modified 
+by the limits of and available forms of scientific 
+evidence. That inquiry often must address whether the agent 
+for which the actor is responsible is capable of causing  
+the disease from which another suffers (known as general 
+causation). In addition, the question whether the agent 
+caused the specific plaintiff’s disease (known as specific causation) is confronted. See  [Restatement (Third) of 
+Torts] § 28, [cmt.] c(3) and c(4). In addition, a person’s 
+exposure to the actor’s agent is another necessary aspect 
+for factual cause to exist. See  [Restatement (Third) of 
+4   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+  
+ 
+ 
+ 
+  
+  
+ 
+  
+ 
+ 
+   
+ 
+    Torts] § 28, [cmt.] c(2). Each of these distinct inquiries 
+is a component of the factual -cause inquiry. 
+Restatement (Third) of Torts: Phys. & Emot. Harm § 26, cmt. g.   
+We reorder this causation test to (1) exposure to the agent, (2) 
+general causation, and (3) specific causation. For if there was 
+no exposure, it is not necessary to address general or specific 
+causation.  
+With this and the other guidance provided in this opinion, 
+we affirm the ICA’s November 6, 2025 judgment on appeal. 
+II. Background 
+A. Factual background 
+The following fact ual background is primarily derived from 
+the deposition testimony of Arias and his wife, Vilma Julieta 
+Graham Mastiel (“Mastiel ”). 
+Shortly after getting married, Arias worked as a quality 
+fruit inspector for Bandeco from 1971 to 1973 . Bandeco is a 
+banana company based in Costa Rica and a subsidiary of Del 
+Monte. 
+Arias rotated on a weekly basis through eighteen banana 
+farms, fifteen of which were owned by Bandeco, and worked up to 
+seven days per week with little to no vacation days. He started 
+his day by inspecting the quality of bananas arriving from the 
+fields. The bananas were delivered to the patio of a packing 
+facility before being taken inside, where Arias inspected them. 
+5   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+  
+   
+  
+ 
+   
+  
+ 
+ 
+ 
+ Each packing facility was located on the farm where the bananas 
+were grown. 
+Arias worked as part of a team of two or three quality 
+inspectors assigned to a single packing facility. When an 
+assignment required overnight stays, they slept in a house on 
+the farm. At times, Arias remained on the farm for up to a week 
+due to the volume of bananas requiring inspection. 
+In addition to conducting quality inspections, Arias 
+occasionally accepted invitations from the farm administrator to 
+walk the fields to observe operations. This occurred every once 
+in a while at each farm where he worked while employed by 
+Bandeco. Field cutting typically concluded around midday, after 
+which Arias and the other quality inspectors entered the fields. 
+While in the fields, the administrator explained the farm’s 
+management and operational practices. 
+Arias never observed anyone applying pesticides during his 
+employment, although he knew individuals who applied them 
+without knowing what substances were being used . He neither 
+applied DBCP, 3 observed it being applied, nor handled it in any 
+6 3  For further discussion of DBCP, see Patrickson v. Dole Food Co., 251 
+F.3d 795 (9th Cir. 2001), Dole Food Co. v. Patrickson, 538 U.S. 468 (2003), 
+Patrickson v. Dole Food Co., Inc., No. 30700, 2014 WL 895186 (App. Mar. 7, 
+2014) (mem. op.), and Patrickson, 137 Hawaiʻi 217, 368 P.3d 959.    *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+     
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 4 way. DBCP is a powerful nemat icide that was manufactured by Dow 
+and used by Bandeco on its farms.4 
+When the field cutting ran late and the arrival of bananas 
+was delayed, or during periods of heavy rain , Arias and the 
+other quality inspectors went into warehouses where chemicals 
+used on the farms were stored and slept on or near sacks 
+containing those chemicals. They were unaware of any potential 
+dangers from inhalation or whether the chemicals were poi sonous. 
+Although Arias could not recall the specific chemicals stored 
+there, he knew they were chemicals because the warehouses were 
+used to store substances applied to the banana crops. When the 
+bananas arrived at the packing facility, or when it stopped 
+raining, they exited the warehouses. 
+Arias married Mastiel in 1968. From the time they were 
+married until Mastiel’s first pregnancy in 1971, Arias and his 
+wife attempted to have children, without success. During that 
+Del Monte confirmed in responses to Plaintiffs’ interrogatories that, 
+between 1970 and 1973, 
+Bandeco  applied DBCP at its own banana farms at a rate of 4 
+or 5 [cubic centimeters] per injection, 6 [to] 8 injections 
+per plant, [at a depth of 15 centimeters,] using a 50 
+[percent] diluted solution of DBCP. Each acre of banana 
+plants had approximately [1,400 to 1,800] plants. There were two applications per year. This calculates to between 
+3.6 and 7.7 gallons per year of DBCP per cultivated acre of 
+banana plants on Bandeco  owned or operated farms, depending 
+on the number of banana plants per acre and the number of [cubic centimeters] in each injection.  
+“The DBCP was generally applied in two separate cycles lasting 
+approximately two -months per cycle and was not applied monthly or more than 
+two times per plant per year.” 
+7   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+  
+ 
+  
+ 
+   
+   
+  
+ 
+   
+ 
+ period, they did not consult physicians due to financial 
+constraints. Their first biological child was born in April 
+1971 and passed away later that year from an illness.  
+They eventually had two children: one biological daughter 
+born in April 1975, and a second daughter who they adopted. 
+But between 1977 and 1983, Mastiel had three additional 
+pregnancies that ended in miscarriages a few months after 
+conception. Mastiel never used birth control or attempted to 
+avoid pregnancy. Mastiel never received an explanation from her 
+physicians regarding the cause of her miscarriages or any 
+treatment for her pregnancy complications. 
+Arias passed away in November 2023 during the course of 
+these proceedings. 
+C. Procedural background 
+1. Circuit court proceedings 
+In their operative second amended complaint, Plaintiffs 
+brought claims for negligence, conspiracy, and intentional tort 
+against Dow and Del Monte, among others, and sought compensatory 
+and punitive damages. Plaintiffs alleged that their health, 
+welfare, and lives were damaged due to their exposure to DBCP. 
+a. Michael DiBartolomeis ’s expert report and 
+testimony 
+  Plaintiffs’ toxicologist, DiBartolomeis, prepared an expert 
+report expressing his opinion that Arias’s health problems were 
+8   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+   
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ likely caused by his exposure to DBCP while working on Bandeco’s 
+banana farms. Despite not knowing the precise levels of DBCP 
+present in the farms, DiBartolomeis noted that “even short -term 
+exposures to relatively low[ ] concentrations of DBCP in the air 
+could be toxic to the male reproductive system.” DiBartolomeis 
+opined that Arias’s exposure to DBCP most likely occurred via 
+inhalation and potential dermal contact while working inside the 
+packing facilities, walking in the open fields beneath the 
+canopies of banana plants, and sleeping in the warehouse where 
+chemicals were stored. DiBartolomeis also observed that Arias’s 
+infertility and his wife’s miscarriages were “consistent with 
+the known toxic effects of DBCP exposure in humans .” 
+DiBartolomeis relied on several  human  studies that focused 
+on occupational exposure  to DBCP in  agricultural settings, 
+including one  by Martin Kharrazi, Gad Potashnik, and John R. 
+Goldsmith  that evaluated  the pregnancy outcomes of married women 
+whose husbands were employed as banana workers in Israel. 
+Martin Kharrazi, Gad Potashnik, and John R. Goldsmith, 
+Reproductive Effects of Dibromochloropropane, 16 Israel J. Med. 
+Sci. 403, at 404 (1980) (“Kharrazi Study”). The authors 
+interviewed  62 men, 56 of whom worked in direct contact with 
+DBCP, and found that,  
+[o]f 197 pregnancies reported for the total study group, 76 
+occurred before any contact with DBCP and 121, after the 
+initial exposure. Of the 76 pregnancies before DBCP 
+contact, 71 resulted in livebirths and 5 (6.6% of 
+9   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+  
+ 
+ 
+   
+ 
+  
+  
+ 
+ 
+  
+  pregnancies), in spontaneous abortion; of the 121 
+pregnancies after initial DBCP exposure, 97 resulted in 
+livebirths and 24 (19.8% of pregnancies), in spontaneous 
+abortion. 
+Reproductive Effects of Dibromochloropropane, 16 Israel J. Med. 
+Sci., at 404.   The authors cautioned that “[a]lthough the design 
+of this type of epidemiologic study can only point to associations and cannot prove a causal relationship,  it is 
+plausible that DBCP is causing an increased rate of spontaneous abortion in the exposed population through its effect on 
+spermatogenesis.” Reproductive Effects of Dibromochloropropane, 
+16 Israel J. Med. Sci ., at 405. Based on the Kharrazi Study and 
+others, DiBartolomeis “conclude[d] within a reasonable degree of 
+scientific probability that [Arias’s] exposure to DBCP . . . is 
+the most plausible explanation for [his] testicular injury, 
+oligospermia, and poor pregnancy outcomes.” 
+b. Dow’s motion for summary judgment 
+Dow moved for summary judgment on the operative complaint , 
+but only as to Arias . Del Monte filed a joinder. Dow disputed 
+the causation element of the negligence claim, contending 
+Plaintiffs offered no evidence that Arias had any contact with 
+DBCP. Dow relied on Arias’s admissions that he did not apply 
+DBCP, did not work in the areas where DBCP was applied, could 
+not identify a container of DBCP, and never witnessed its 
+application to argue that no genuine dispute of material fact 
+10   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+      
+    
+  
+   
+   
+   
+  
+      
+ 
+ 
+   
+ 
+  
+ 
+ 
+   
+  existed as to whether he was expos ed to DBCP and whether DBCP 
+caused his alleged infertility and his wife’s miscarriages. 
+Dow further asserted that DiBartolomeis ’s expert report and 
+testimony failed to create a genuine dispute that DBCP caused 
+Arias’s alleged injuries. Dow opposed DiBartolomeis’s reliance 
+on the Kharrazi Study , noting that, unlike the fifty-six married 
+banana workers, Arias admitted he had no direct contact with 
+DBCP. Dow argued that DiBartolomeis ’s opinion rested on a study 
+involving a population whose work history bore no resemblance to 
+Arias’s. 
+c. Dow’s motion in limine 
+Dow concurrently filed a motion in limine to preclude 
+DiBartolomeis’s expert report and testimony. Del Monte filed a 
+joinder. Dow argued that DiBartolomeis’s opinions were 
+speculative, unreliable, and unsupported by the facts because he 
+improperly assumed that Arias spent four hours in the fields 
+each afternoon, despite Arias’s testimony that he visited only 
+“once in a while,” and that Arias was exposed to DBCP via 
+inhalation on and immediately after application days, even 
+though Arias admitted he never observed any a pplications. Dow 
+also disputed DiBartolomeis’s opinion that DBCP was a 
+“substantial factor ” in causing Mastiel’s alleged miscarriages, 
+arguing that the opinion was based solely on the Kharrazi Study, 
+whose authors expressly stated could not prove causation . 
+11   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+    
+  
+ 
+ 
+ 
+  
+  
+  
+ 
+    
+  
+   
+    
+  
+   
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ d. Circuit court orders granting Dow’s motions 
+Following a hearing, the circuit court granted Dow’s 
+motions for summary judgment and in limine and Del Monte’s 
+joinders. The circuit court concluded that Arias failed to 
+establish a prima facie case of legal causation because the 
+record contained no evidence of his exposure to DBCP, and that 
+DiBartolomeis’s opinions thus lacked an evidentiary basis for 
+causation in fact. 
+3. ICA proceedings 
+The ICA vacated the circuit court’s order s granting Dow’s 
+motions for summary judgment and in limine . Patrickson v. Dole 
+Food Co., Inc. , No. CAAP -22-0000687, 2025 WL 2693624 , at *6 
+(Haw. App. Sept. 22, 2025) (mem. op.) . The ICA concluded that 
+Arias’s deposition testimony raises genuine issues of material 
+fact regarding his alleged exposure to DBCP and the adverse 
+effects such exposure had on his and his wife’s health . Id. 
+4. Certiorari proceedings 
+On certiorari, Defendants raise the following questions: 
+1. Toxic Tort Causation Standard . When the only evidence is 
+that Plaintiff, a fruit inspector, worked away from the 
+fields where the subject chemical (DBCP) was applied, never 
+saw DBCP being applied, and never worked with it himself, 
+is it sufficient for the plaintiff to proceed to trial when 
+he merely “must have [had] some exposure because he was on 
+the farm” where it was applied? 
+2. Appellate Standard of Review of the Trial Court’s 
+Gatekeeper Review of Expert Testimony . Did the ICA gravely 
+err when it used a summary judgment standard in evaluating 
+an expert’s causation testimony instead of evaluating the 
+testimony for reliability and relevancy, and when it 
+12   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+  
+  
+  
+ 
+ 
+ effectively applied a de novo review, rather than an abuse 
+of discretion standard?  
+Defendants essentially urge this court to adopt the 
+frequency, regularity, and proximity  test applied in asbestos 
+cases like  Fowler v. Akzo Nobel Chemicals, Inc., 251 N.J. 300, 
+334 (N.J. 2022),  as the standard governing causation in toxic 
+tort cases  and to require plaintiffs to prove  dosage  as part of 
+that showing.   They also ask this court to  decide  whether the 
+ICA erred in applying  the  summary judgment standard to  
+DiBartolomeis’s  causation testimony  rather than  evaluating the 
+testimony for reliability and relevancy  under an  abuse of 
+discretion standard.  
+II. Standard of Review 
+A. Motion for summary judgment 
+An appellate court reviews an award of summary judgment de 
+novo under the same standard applied by the circuit court. 
+Fujimoto v. Au, 95 Hawaiʻi 116, 136, 19 P.3d 699, 719 (2001) 
+(citation omitted). This court articulated the standard as 
+follows:  
+Summary judgment is appropriate if the pleadings, 
+depositions, answers to interrogatories, and admissions on 
+file, together with the affidavits, if any, show that there 
+is no genuine issue as to any material fact and that the 
+moving party is entitled to ju dgment as a matter of law. 
+Id. (citations omitted). We must review the evidence in the 
+light most favorable to the party opposing the motion for 
+13   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ summary judgment. 95 Hawaiʻi at 137, 19 P.3d at 720 (citations 
+omitted).  
+We have further explained the burdens of the moving and 
+non-moving parties on summary judgment as follows: 
+The burden is on the party moving for summary judgment 
+(moving party) to show the absence of any genuine issue as 
+to all material facts, which, under applicable principles 
+of substantive law, entitles the moving party to judgment 
+as a matter of law. This b urden has two components. 
+First, the moving party has the burden of producing support 
+for its claim that: (1) no genuine issue of material fact 
+exists with respect to the essential elements of the claim 
+or defense which the motion seeks to establish or which the 
+motion questions; a nd (2) based on the undisputed facts, it 
+is entitled to summary judgment as a matter of law. Only 
+when the moving party satisfies its initial burden of 
+production does the burden shift to the non -moving party to 
+respond to the motion for summary judgment a nd demonstrate 
+specific facts, as opposed to general allegations, that 
+present a genuine issue worthy of trial. 
+Second, the moving party bears the ultimate burden of 
+persuasion. This burden always remains with the moving 
+party and requires the moving party to convince the court 
+that no genuine issue of material fact exists and that the 
+moving part [y] is entitled to summary judgment as a matter 
+of law. 
+French v. Hawaii Pizza Hut, Inc., 105 Hawaiʻi  462, 470, 99 P.3d 
+1046,  1054  (2004)  (citation and emphasis omitted). This court 
+has prescribed detailed guidance regarding how a moving party 
+may satisfy its initial burden on a motion for summary judgment, 
+providing that:  
+a summary judgment movant may satisfy [their] initial 
+burden of production by either (1) producing admissible 
+evidence to show there was no genuine issue of material 
+fact, or (2) showing that the non -moving party cannot carry 
+[their] burden of proof at tri al.... [T]he movant generally 
+cannot support its initial burden of production by pointing 
+solely to the non -moving party’s lack of evidence if 
+discovery has not concluded. 
+14   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+       
+  
+   
+ Ralston v. Yim, 129 Hawaiʻi 46, 48, 292 P.3d 1276, 1278 (2013) 
+(citation omitted).  
+III. Discussion 
+A. Causation standard in toxic tort cases 
+This court  first  addressed  the  causation  element  in toxic  
+tort  cases in Smith, 72 Haw. 416, 823 P.2d 717. There, the 
+appellant was a hemophiliac who tested HIV-positive with the 
+AIDS virus and claimed  that his exposure to the virus occurred 
+through injections of the Antihemophilic Factor Concentrate 
+(AHF). Smith, 72 Haw. at 421-22, 823 P.2d at 721. Appellant 
+sued the four AHF manufacturers for negligence and strict 
+liability, and the manufacturers moved for summary judgment.  
+Smith, 72 Haw. at 422, 823 P.2d at 722. The United States 
+District Court for the District of Hawaiʻi  (“USDC-HI”)  granted 
+summary judgment in favor of the manufacturers, “holding that 
+appellant failed to prove specifically which manufacturer’s 
+product caused his infection.” Smith, 72 Haw. at 422-23, 823 
+P.2d at 722.  
+The case came before this court through certified questions 
+from the United States Court of Appeals for the Ninth Circuit, 
+one of which concern ed the causation factor in negligence cases: 
+3. Would Hawaii allow recovery in this case when the 
+identity of the actual tortfeasor cannot be proven? 
+If Hawaii would allow recovery, what theory (i.e. 
+burden-shifting, enterprise liability, market share 
+or other) would the Hawaiʻi Supreme Court adopt?  
+15   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+   
+ 
+  
+ 
+   . . . . In considering our response to the questions, we 
+note that the issue as to question[] . . . three concerns 
+the causation factor in negligence. The instant problem is 
+that the plaintiff cannot identify which particular 
+defendant caused his injury. 
+Smith, 72 Haw. at 4 19-20, 823 P.2d at 720. We responded “yes” 
+to question three and adopted “the alternative market share 
+theory of recovery.”5 Smith, 72 Haw. at 421, 823 P.2d at 721. 
+In considering the third question, we  explained  that we 
+would need to “ deviat[e]  from the traditional proof in a 
+negligence case, which . . . includes the factor of causation”  
+because in mass tort cases, plaintiffs might not be able to 
+identify the actual entity responsible for their injuries:  
+As discussed in the American Law Institute Enterprise 
+Responsibility for Personal Injuries —Reporter ’s Study 
+(1991) (ALI Study), the field of torts has now expanded to 
+include personal injury actions described in three tiers of 
+actions. . . . [T]he third tier includes “mass” torts where 
+toxic exposure to many plaintiffs may, many years later, 
+cause cancer or other illness. . . . It is this final tier 
+with which this case deals.  It necessitates considering how 
+to fairly deal with the plight of plaintiffs unable to identify, for no fault of their own, the person or entity 
+who should bear the liability for their injury.   
+Smith, 72 Haw. at 426, 428, 823 P.2d at 723, 724 (emphasis 
+added).  
+We then more generally recognized that new rules of 
+causation would need to be adopted for mass tort cases: 
+5The alternative market share theory of recovery is defined as follows: 
+Where the conduct of two or more actors is tortious, and it 
+is proved that harm has been caused to the plaintiff by 
+only one of them, but there is uncertainty as to which one 
+has caused it, the burden is upon each such actor to prove 
+that he has not caused the harm. 
+Restatement (Second) of Torts § 433B(3) (1965) (“Second Restatement”) . 
+16    *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+  
+ 
+   
+ No longer can we apply traditional rules of 
+negligence, such as those used in individual and low level 
+negligence to mass tort cases, especially here, where we 
+are dealing with a pharmaceutical industry that dispenses 
+drugs on a wide scale that could cause massive injuries to 
+the public, and where fungibility makes the strict requirements difficult to meet. The problem calls for 
+adopting new rules of causation, for otherwise innocent 
+plaintiffs would be left without a remedy .  
+Smith, 72 Haw. at 428, 823 P.2d at 724 (emphasis added). 
+Ultimately, this court adopted the alternative market share 
+theory of recovery but did not set forth a new rule of 
+causation . But this court explicitly recognized the need for 
+new approaches to causation in toxic tort cases. 
+More  recently, in Feindt  v. United States, CIV NO. 22-00397 
+LEK-KJM,  2025 WL 1348465, at *2  (D. Haw. May 7, 2025) , the USDC-
+HI  addressed a negligence action brought by  seventeen plaintiffs 
+who sustained personal injuries “from ingesting and being 
+exposed to drinking water that was contaminated by jet fuel.” 
+Recognizing that we have  not developed a test for causation in 
+toxic  tort  cases, the Feindt  court  predicted  how we would 
+resolve the issue. First, it anticipated  that we would require 
+expert testimony on the causation factor:  
+There is no controlling Hawaiʻi law specifically addressing 
+the test for legal causation in toxic tort cases.  The Court 
+must therefore predict how the Hawai ʻi Supreme Court will 
+decide the issue. See  Judd v. Weinstein, 967 F.3d 952, 955 – 
+56 (9th Cir. 2020). The Court predicts that the Hawai ʻi  
+Supreme Court would hold that the same test applied in 
+medical negligence cases would extend to toxic tort 
+actions. Namely, that expert testimony is required to determine causation.  
+17   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+      
+  
+  
+  
+ 
+ 
+ 
+ 
+  
+    
+ 
+ 6 Feindt, 2025 WL 1348465, at *4 (emphasis added).6 
+Second, the Feindt court applied the causation test in 
+Hanford, 292 F.3d at 1133, a toxic tort case involving thousands 
+of plaintiffs who were allegedly exposed to radioactive 
+emissions from a federal nuclear facility . In Hanford, the 
+Ninth Circuit analyzed causation in terms of general and 
+specific causation: 
+General, or “generic” causation has been defined by courts 
+to mean whether the substance at issue had the capacity to 
+cause the harm alleged, while [specific causation or] 
+“individual causation” refers to whether a particular 
+individual suffers from a particular ailment as a result of 
+exposure to a substance.  
+Feindt, 2025 WL 1348465, at *4. Applying this bifurcated test, 
+the Feindt  court  determined there was sufficient expert 
+testimony evidence to support a finding “that the chemicals 
+contained in the [jet fuel] had the capacity to cause the harm 
+alleged by [p]laintiffs” (general causation) and that certain 
+The requirement of expert testimony is one component of the causation 
+test in medical negligence cases, see Est. of Frey v. Mastroianni , 146 Hawaiʻi 
+540, 550–51, 463 P.3d 1197, 1207–08 (2020), and toxic tort cases, see In re 
+Hanford Nuclear Rsrv. Litig. , 292 F.3d 1124, 1133 (9th Cir. 2002) . 
+In Exotics Hawaii -Kona, Inc. v. E.I. Du Pont De Nemours & Co. , this 
+court stated the rationale for requiring expert testimony to prove causation 
+in medical negligence cases, reasoning that “‘lay jurors are ill prepared  to 
+evaluate complicated technical data for the purpose of determining whether 
+professional conduct conformed to a reasonable standard of care and whether 
+there is a causal relationship between the violation of a duty and an injury 
+to the patient.’” Exotics, 116 Hawaiʻi  277,  299-300, 172 P.3d 1021,  1043-44 
+(2007) (citation omitted); see  Craft  v. Peebles, 78 Hawaiʻi  287,  298, 893 P.2d  
+138,  149  (1995) (finding it well -settled in medical malpractice cases that 
+“the question of negligence must be decided by reference to relevant medical 
+standards of care for which the plaintiff carries the burden of proving 
+through expert medical testimony,” since  “a jury generally lacks the 
+requisite special knowledge, technical training, and background to be able to 
+determine the applicable standard without the assistance of an expert”).  
+18   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+  
+  
+ 
+    
+   
+ 
+ 
+ plaintiffs sustained injuries from their “exposure to the 
+chemicals contained in the [jet fuel]” (specific causation). 
+Feindt, 2025 WL 1348465, at *5. Moreover, upon finding “that 
+the actual and specific amount of jet fuel chemicals . . . released into the water supply . . . [wa]s not capable of being 
+reliably calculated,” it concluded that plaintiffs were not 
+required to specify “the actual dose to which each individual . 
+. . was exposed” to prove causation. Feindt, 2025 WL 1348465, 
+at *6.  
+Finally, in addition to applying general and specific 
+causation, the Feindt court also applied the substantial factor 
+test that this court adopted in Mitchell v. Branch , 45 Haw. 128, 
+132, 363 P.2d 969, 973 (1961) to ascertain “whether [the] 
+defendant’s conduct was ‘a substantial factor in bringing about 
+the [plaintiffs’] harm[s].’” Feindt, 2025 WL 1348465, at *8 
+(citing O’Grady v. State , 140 Hawaiʻi 36, 44, 398 P.3d 625, 633 
+(2017)), *7-30. 
+In Mitchell, 45 Haw. at 132, 363 P.2d at 973, we adopted 
+the Restatement (First) of Torts’ (“First Restatement”) test for legal cause, which reads:  
+The actor’s negligent conduct is a legal cause of harm to 
+another if  
+ 
+(a) his conduct is a substantial factor in bringing 
+about the harm, and 
+(b) there is no rule of law relieving the actor from 
+liability because of the manner in which his 
+negligence has resulted in the harm. 
+19   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+  
+  
+   
+ 
+ 
+ 
+ Restatement (First) of Torts § 431 (1934) (emphasis added) 
+(“Mitchell test”). 
+However, in Smith,  this court  recognized that  toxic  tort  
+cases require new rules of causation  and thus  rejected the 
+substantial factor test in favor of  the alternative market share 
+theory of recovery. Smith, 72 Haw. at 421, 428, 823 P.2d at 
+721, 724. But although Smith  did not cite Mitchell  directly, it 
+did reference Knodle v. Waikiki Gateway Hotel, Inc., which 
+reaffirmed the Mitchell  test as “‘[t]he best definition and the 
+most workable test of proximate or legal cause.’” Knodle, 69 
+Haw. 376, 390, 742 P.2d 377, 386 (1987) (citing Mitchell, 45 
+Haw. at 132, 363 P.2d at 973); see  Smith, 72 Haw. at 426, 823 
+P.2d at 723. Therefore, it is understandable why the Feindt  
+court predicted that this court would continue to rely on the substantial factor test.  
+Smith established that the substantial factor test was 
+unworkable in mass toxic tort cases because it could leave 
+innocent plaintiffs without a remedy. Smith, 72 Haw. at 428, 
+823 P.2d at 724. In fact, the Feindt court determined that 
+plaintiffs failed to meet this causation standard with respect 
+to at least some of the injuries alleged. Feindt, 2025 WL 
+1348465, at *8 . 
+20   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+  
+ 
+ 
+ 
+   
+   
+   
+ 
+ 
+   
+ And recognizing this court’s statement in Smith that mass 
+toxic tort cases require new rules of causation, Defendants urge 
+this court to adopt the frequency, regularity, and proximity 
+test used in asbestos litigation, citing Fowler, 251 N.J. 300 , 
+as an example. But as the New Jersey Supreme Court clarified in 
+Fowler, 251 N.J. at 336, “[t]he frequency, regularity, and 
+proximity test is merely an articulation of what constitutes a 
+substantial factor for purposes of determining proximate cause 
+in an occupational exposure setting.” In other words, the two 
+tests are func tionally equivalent. Federal caselaw cited by 
+Defendants support s this conclusion. See Menne v. Celotex 
+Corp., 861 F.2d 1453, 1464 (10th Cir. 1988) ; Lohrmann v. 
+Pittsburgh Corning Co rp., 782 F.2d 1156, 1162 (4th Cir. 1986) . 
+It is there fore time for this court to determine how 
+causation should be addressed in mass toxic tort cases. 
+In this regard, t his court has turned to the Restatement of 
+Torts on various occasions to determine how we should address 
+developing areas of tort law. See Bynum v. Mango , 106 Hawaiʻi 
+81, 86 n.12, 101 P.3d 1149, 1154 n.12 (2004) (noting this court 
+has relied on the American Law Institute’s restatements of torts 
+as persuasive authority); Guieb v. Guieb , 156 Hawaiʻi 162, 170 -
+71, 571 P.3d 382, 390 -91 (2025) (adopting new punitive damages 
+standard from Third Restatement of Torts: Phys. & Emot. Harm § 
+21   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+  
+ 
+ 39) Indeed, the Mitchell  test was based on the First 
+Restatement  of Torts.   
+We now adopt the causation test for toxic  tort  cases set 
+out in comment g to section 26 of the Third Restatement. See  
+Restatement (Third) of Torts: Phys. & Emot. Harm § 26, cmt. g.   
+In these types of cases, the Third Restatement defines causation 
+in terms of  (1) general causation, (2) specific causation, and 
+(3) exposure to the agent:  
+In toxic -substances cases, the causal inquiry is modified 
+by the limits of and available forms of scientific 
+evidence. That inquiry often must address whether the agent 
+for which the actor is responsible is capable of causing  
+the disease from which another suffers (known as general causation). In addition, the question whether the agent 
+caused the specific plaintiff’s disease (known as specific causation) is confronted. See  [Restatement (Third) of 
+Torts] § 28, [cmt.] c(3) and c(4). In addition, a person’s exposure to the actor’s agent is another necessary aspect 
+for factual cause to exist. See  [Restatement (Third) of 
+Torts] § 28, [cmt.] c(2). Each of these distinct inquiries 
+is a component of the factual -cause inquiry.  
+Restatement (Third) of Torts: Phys. & Emot. Harm § 26, cmt. g.   
+We reorder this causation test to (1) exposure to the agent, (2) 
+general causation, and (3) specific causation.   If there has 
+been no exposure, there is  no need to reach general or specific 
+causation.  
+We also adopt the Third Restatement’s explanations of 
+exposure, general causation, and specific causation:  
+(2). Exposure to the agent. In evaluating factual 
+causation, one issue that may arise is whether the 
+plaintiff was exposed to the substance. 
+ . . . . 
+(3). General causation. “General causation” exists when a 
+substance is capable of causing a given disease. 
+22  . . . .   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+  
+ 
+ 
+ 
+ 
+ (4). Specific causation. “Specific causation” exists when 
+exposure to an agent caused a particular plaintiff’s 
+disease.  
+Restatement (Third) of Torts: Phys. & Emot. Harm § 28, cmts. 
+c(2)-(4) (emphasis omitted). General and specific causation are 
+generally explained by the above, which are the first sentences 
+of comments (c)(3) and (4); these comments provide additional 
+information on issues relating to general and specific 
+causation. The first sentence of comment (c)(2) quoted above 
+merely states that questions of exposure arise; the first 
+paragraph of the comment generally explains how exposure might 
+occur: 
+(2).  Exposure  to  the  agent.  In  evaluating  factual  
+causation,  one  issue  that  may  arise  is  whether  the  
+plaintiff  was  exposed  to  the  substance.  Three  
+primary  means  of  exposure  to  toxic  substances  
+include  inhalation,  absorption,  and  ingestion,  but  
+others  exist,  such  as  injection  or  a  fetus's  
+transplacental  exposure  to  agents  in  the  mother's  
+body.  Often  the  method  of  exposure  is  critical  to  
+the  type  or  extent  of  risk.  
+Restatement (Third) of Torts: Phys. & Emot. Harm § 28, cmt. c( 2) 
+(emphasis added) . 
+We also note that the Third Restatement says these 
+categories “are not ‘elements’ of a plaintiff’s cause of action, 
+and in some cases may not require separate proof.” Restatement 
+(Third) of Torts: Phys. & Emot. Harm § 28, cmt. c(1) (2010). 
+According to the Third Restatement, they are merely meant to 
+“function as devices to organize a court’s analysis.” 
+23   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+  
+ 
+  
+ 
+ Restatement (Third) of Torts: Phys. & Emot. Harm § 28, cmt. c(1) 
+(2010). We agree that, in some cases, separate proof might not 
+be required for all three factors of causation. But to the 
+extent this comment suggests that plaintiffs need not establish 
+but-for causation by a preponderance of the evidence, we 
+disagree. In fact, as discussed in the following section, the 
+Third Restatement actually recognizes that plaintiffs continue 
+to carry the burden of establishing but -for causation by a 
+preponderance of the evidence. 
+B. Expert testimony is required in toxic tort cases 
+To provide further guidance,  we  agree with the Feindt  
+court’s prediction  that expert testimony should be required to 
+establish causation in toxic  tort  cases, just as in medical 
+negligence cases, given the special difficulty these cases 
+present in proving a connection between a toxic substance and 
+the development of a specific disease with a potentially 
+significant latency period. See  Feindt, 2025 WL 1348465, at *4; 
+Exotics Hawaii-Kona, Inc., 116 Hawaiʻi  at 300, 172 P.3d at 1044. 
+The Third Restatement concurs. See  Reporter’s Note to 
+Restatement (Third) of Torts: Phys. & Emot. Harm § 28, cmt. c(1) 
+(“Proof of causation often involves the admissibility of expert -
+witness opinions.”).  
+That said, Defendants ask this court to require plaintiffs 
+like Arias to provide expert testimony quantifying the exposure 
+24   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+     
+ 
+ 
+ 
+ level or dosage to meet their burden of production. We decline 
+to  adopt  such an approach.  
+The Third Restatement explains that the burden of 
+production in toxic tort cases is the same as in all civil 
+negligence actions: “[t]he plaintiff must prove by a 
+preponderance of the evidence that, but for  the defendant’s 
+tortious conduct with respect to the toxic substance, the 
+plaintiff would not have suffered harm.” Restatement (Third) of 
+Torts § 28, cmt. c(1). Eschewing a substantial factor analysis, 
+it also notes that “evidence about the causal connection between 
+toxic agents and disease is [often] derived from group-based 
+studies in which the incidence of disease for different groups 
+is compared to determine whether there is an increased incidence 
+of disease among those exposed to some dose of the [toxic] 
+agent.” Reporter’s Note to Restatement (Third) of Torts: Phys. 
+& Emot. Harm § 27, cmt. g; see  also  Restatement (Third) of 
+Torts: Phys. & Emot. Harm § 28, cmt c(1).  
+Some courts have embraced “the idea that a doubling of the 
+incidence of disease in group studies is sufficient [and 
+required] to support proof of specific causation.”7 See Bostic 
+The Third Restatement cautions that epidemiologists “do not seek to 
+understand causation at the individual level and do not use incidence rates 
+in group studies to determine the cause of an individual’s disease.” 
+Reporter’s Note to Restatement (Third) of Torts: Phys. & Emot. Harm § 2 8, 
+cmt. c(4). Indeed, the authors of the Kharrazi Study included a disclaimer 
+that “although the design of this type of epidemiologic study can only point 
+to associations and cannot prove a causal relationship, it is possible that 
+(continued . . .) 
+25 7   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+  
+  
+   v. Georgia-Pac. Corp., 439 S.W.3d 332,  340, 350  (Tex. 2014)  
+(requiring reliable expert testimony that plaintiff’s exposure 
+“more than doubled” his risk of disease, as a less demanding 
+standard would result in “industry -wide liability” and negate 
+plaintiff’s burden to prove causation by a preponderance of the evidence); Allison v. McGhan Med. Corp., 184 F.3d 1300, 1315 
+n.16 (11th Cir. 1999) (applying Georgia law) (breast-implant 
+case; relative risk of 2.0 is the threshold for an inference of 
+specific causation; relative risk of 1.24 is insufficient); but  
+see  In re Joint E. & S. Dist. Asbestos Litig., 52 F.3d 1124 (2d 
+Cir. 1995) (applying New York law) (holding that plaintiff could 
+provide sufficient evidence of causation without proving a 
+doubling in the incidence of disease); Miller v. Pfizer, Inc., 
+196 F.Supp.2d 1062, 1079 (D. Kan. 2002) (rejecting a threshold 
+of 2.0 for the relative risk and recognizing that even a 
+relative risk greater than 2.0 may be insufficient); see  also  
+Reporter’s Note to Restatement (Third) of Torts: Phys. & Emot. 
+Harm § 28, cmt. c(4) (collecting cases either accepting or 
+rejecting the doubling of risk requirement).  
+Some courts require plaintiffs who cannot submit direct 
+proof of specific causation to rule out other possible causes of 
+ (. . . continued) 
+DBCP is causing an increased rate of spontaneous abortion in the exposed 
+population through its effect on spermatogenesis.” Reproductive Effects of 
+Dibromochloropropane , 16 Israel J. Med. Sci ., at 405. 
+26   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+  
+ 
+ 
+ 
+ their disease to increase the probability that the toxic agent 
+at issue was responsible (also known as differential diagnosis). 
+See Restatement (Third) of Torts: Phys. & Emot. Harm § 28, cmt. 
+c(4) (collecting cases). 
+Other cases indicate that circumstantial evidence may be 
+independently sufficient to establish specific causation where 
+there is no direct proof or group -based studies. See Norris v. 
+Baxter Healthcare Corp. , 397 F.3d 878, 882 -883 (10th Cir. 2005) 
+(applying Colorado law) (acknowledging that epidemiology is not 
+required to prove causation but that when a substantial body of 
+exonerative epidemiologic evidence exists, it cannot be ignored, 
+and other evidence proffered to prove causation); Rider v. 
+Sandoz Pharms. Corp. , 295 F.3d 1194, 1198 (11th Cir. 2002) 
+(applying Georgia law) (“It is well -settled that while 
+epidemiological studies may be powerful evidence of causation, 
+the lack thereof is not fatal to a plaintiff’s case.”) 
+We decline to adopt any rigid test and instead hold that a 
+plaintiff should offer some evidence “that he or she was exposed 
+to the toxin at issue, including the estimated amount and 
+duration of exposure.” Lowery v. Enbridge Energy Ltd. P’ship, 
+500 Mich. 1034, 898 N.W.2d 906, 914–15 (Mich. 2017) 
+(concurrence, Markman, C.J.). Such circumstantial proof must 
+facilitate reasonable inferences of causation, not mere 
+speculation. See  Restatement (Third) of Torts: Phys. & Emot. 
+27   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ Harm § 28, cmt. b (“[A]ll causal determinations require 
+inferential reasoning.”). As we are unable to anticipate 
+factual circumstances of future cases, w e refuse to set hard and 
+fast rules regarding the level of exposure required. But trial 
+courts should exercise their gatekeeping function to ascertain 
+whether proposed expert testimony meets the touchstones of 
+relevance and reliability. State v. Vliet , 95 Hawaiʻi 94, 106, 
+19 P.3d 42, 54 (2001). 
+C. DiBartolomeis’s expert report and testimony is admissible 
+under State v. Kim 
+Turning to t he admissibility of DiBartolomeis’s expert 
+testimony, Defendants argue that the ICA improperly applied a de 
+novo summary judgment standard rather than the requisite abuse 
+of discretion standard. 
+The circuit court excluded DiBartolomeis ’s expert report 
+and testimony , saying: 
+His opinions are not based on any evidence of 
+causation in fact. And causation in fact is predicate evidence that Dr. Di Bartolomeis cannot 
+provide. That has to be provided through witnesses 
+in the case, and there is simply no evidence that 
+Mr. Arias was exposed.  
+The circuit court was requiring a certain level of exposure 
+when it so ruled. But we conclude that DiBartolomeis’s expert 
+testimony met the touchstone of relevance and reliability, and 
+that the ICA correctly held that the circuit court abused its 
+discretion by excluding that evidence . 
+28   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+  
+ 
+ 
+ 
+  
+ Here, the issue is not whether DiBartolomeis relied on a 
+novel methodology for which we must determine its general 
+acceptance. Rather, the issue is whether DiBartolomeis based 
+his opinions upon a sound factual foundation. In preparing his 
+expert report, DiBartolomeis relied, in part, on Arias’ s  
+deposition testimony and the Kharrazi Study to reach his 
+conclusion that, to “a reasonable degree of scientific 
+probability,” Arias’ s  exposure to DBCP was “a substantial factor 
+in causing” his infertility and his wife’s miscarriages. Because Arias’ s  deposition testimony and the Kharrazi Study do 
+provide circumstantial proof to facilitate a reasonable In State v. Kim , 64 Haw. 598, 604 -05, 645 P.2d 1330, 1336 
+(1982), this court set out the rule governing the admissibility 
+of expert testimony: 
+The critical inquiry with respect to expert testimony 
+. . . is whether such testimony ‘will assist the trier of fact to understand the evidence or determine 
+a fact in issue . . . . ” [HRE 702.] Generally, in 
+order to so assist the jury an expert must base his testimony upon a sound factual foundation; any 
+inferences or opinions must be the product of an explicable and reliable system of analysis; and such 
+opinions must add to the common understanding of the 
+jury. See  [HRE 703.]  
+[(Footnotes and citations omitted).] “Therefore, the 
+reliability prong of Kim  could include the Frye  test, but 
+Kim  is not necessarily limited to general acceptance in the 
+scientific community. Under the reliability prong of Kim, it is possible that a court could also consider the 
+scientific procedure itself, as well as other evidence of 
+the procedure’s reliability.”  
+See State v. Montalbo , 73 Haw. 130, 138, 828 P.2d 1274, 1280 
+(1992) (affirming the Kim test). 
+29   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ inference as to exposure and specific causation, both pieces of 
+evidence provide a reliable factual foundation for 
+DiBartolomeis’s expert opinion.  
+In addition, in summary judgment, we review the record de 
+novo to ascertain whether there were genuine issues of material 
+fact. See Fujimoto , 95 Hawaiʻi at 136, 19 P.3d at 719. 
+DiBartolomeis’s expert report notes that inhalation and 
+potential dermal contact with DBCP likely caused the infertility 
+issues alleged here. There was also ample evidence of 
+inhalation and potential dermal contact that the jury could 
+consider. Therefore, the circuit court exceeded its discretion 
+in refusing DiBartolomeis’s testimony. 
+D. Arias raises genuine disputes of material fact as to 
+whether he was exposed to DBCP and whether such exposure 
+adversely affected his health 
+In the proceedings below, Plaintiffs’ counsel did address 
+causation in terms of general and specific causation, stating at 
+the summary judgment and in limine hearing that the disputed 
+issue was specific causation, not general causation (“I don’t 
+think there’s any dispute that generally speaking on a general 
+causation level DBCP is capable of causing this kind of harm. 
+So we’re not arguing about general causation. We’re arguing 
+about specific causation.”) . Dow did not refute Plaintiffs’ 
+counsel’s terminology and used similar language in its cert 
+application (“In establishing specific causation, which is 
+30   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+             
+        
+  
+    whether the plaintiff was exposed to the toxic substance at a 
+level sufficient to cause the complained -of medical condition, 
+these courts require proof of dose.” (Citation omitted)) . 
+In its oral and written rulings, the circuit court focused 
+on whether Arias established a prima facie case of legal 
+causation and determined “there [wa]s no substantial evidence of 
+[Dow’s] negligence causing harm to [Arias].” It appears to have 
+determined any exposure was not a “substantial factor.” 
+The parties agree that the remaining issues in dispute are 
+exposure and specific causation: that is, whether Arias was 
+exposed to DBCP and whether such exposure caused his infertility 
+and his wife’s miscarriages. Arias must have presented reliable 
+expert testimony, grounded in scientific literature, to 
+establish specific causation by a preponderance of the evidence. 
+But we have ruled in the past that, 
+[w]hen causation of the injury is a medical issue, as it is 
+here, ‘[the] matter does not turn on the use of a 
+particular form of words by the physicians in giving their 
+testimony,’ since it is for the trier of facts, not the 
+medical witnesses, to make a legal determination of the question of causation. Hence, the failure of a medical 
+witness to testify positively as to what was the cause of 
+the injury, or his statement that the accident ‘might’ be 
+or ‘probably’ was the cause of the injury, is merely a 
+circumstance to be taken into consideration by the trier of 
+facts.  
+Dzurik v. Tamura, 44 Haw. 327, 330, 359 P.2d 164, 165-66 (1960). 
+We hold that Dzurik applies to expert testimony in toxic tort 
+cases as well. No “particular form of words” regarding 
+causation is required. Id. An expert’s statement that a toxic 
+31   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+    
+  
+ 
+ 
+  
+  
+ 
+ substance “ ‘might’ be or ‘probably’ was the cause of the injury, 
+is merely a circumstance to be taken into consideration by the 
+trier of facts” to determine whether causation has been 
+established. Id. 
+Reviewing the evidence presented at summary judgment, 
+Plaintiffs offered sufficient evidence of exposure and adequate 
+expert testimony on specific causation to overcome summary 
+judgment and proceed to trial. 
+During his deposition, Arias testified that he rotated 
+through eighteen farms, worked up to seven days a week over a 
+three-year period, took little to no vacation days, and often 
+accompanied the administrator into the fields to discuss farm 
+operations and management, where Plaintiffs argued he 
+potentially inhaled toxic fumes of DBCP. He also slept in 
+warehouses , where circumstantial evidence indicates DBCP was 
+stored. Equally significant are Del Monte’s admissions that 
+Bandeco injected a “50 [percent] diluted solution of DBCP” into 
+each plant, covering approximately 1,400 to 1,800 banana plants 
+per acre during two application cycles, each lasting two months. 
+The evidence therefore also indicates possible dermal exposure 
+and contact. 
+Because this appeal concerns a motion for summary judgment, 
+where all evidence must be construed and all reasonable 
+inferences drawn in favor of the non -moving party, Arias’ s 
+32   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+  deposition testimony and Del Monte’s admissions present enough 
+circumstantial evidence to raise a genuine dispute  that Arias 
+was exposed to DBCP. A juror could reasonably infer that, since Arias worked up to seven days a week with  little to no  vacation 
+days, it is more likely than not that he was present in the fields when DBCP was applied during the four-month period and 
+inhaled the toxic fumes. See  French, 105 
+Hawaiʻi at 466, 99 P.3d 
+at 1050; Durette v. Aloha Plastic Recycling, Inc., 105 Hawai ʻi 
+490, 501, 100 P.3d 60, 71 (2004). In addition, as noted above, 
+DiBartolomeis’s expert report mentions  that dermatological or 
+skin exposure causes the infertility issues alleged here.  
+As for specific causation, Plaintiffs’ counsel explained at 
+the summary judgment and in limine hearing that DiBartolomeis 
+would not offer “an ultimate finding of fact” on specific 
+causation. Instead, Plaintiffs’ counsel stated DiBartolomeis 
+would testify that, if Arias was exposed “to DBCP at excessive 
+levels” while in the fields, such exposure would “increase the 
+risk of injury and be sufficient to cause the kind[s] of 
+injur[ries]” Arias sustained, wit hout testifying that it 
+actually caused them. 
+In preparing his expert report, DiBartolomeis relied,  in 
+part,  on the Kharrazi Study. While acknowledging that the 
+Kharrazi Study was not “particularly robust,” DiBartolomeis 
+stated the presence of “a strongly significant correlation 
+33   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+   
+  
+ 
+ 
+ 
+ 
+ between paternal DBCP exposure and spontaneous abortion in a 
+small group of agricultural workers exposed for relatively short 
+time periods is important evidence that the toxic effects of 
+DBCP on the male reproductive system can be transferred to 
+conception and the viability of the fetus.” 
+What is significant about the Kharrazi Study is its finding 
+that the husbands’ exposure to DBCP more than doubled the risk 
+of spontaneous abortions among their  wives  (6.6 percent pre-DBCP 
+exposure versus 25.6 percent post-DBCP exposure). See  
+Reproductive Effects of Dibromochloropropane, 16 Israel J. Med. 
+Sci., at 404; Bostic, 439 S.W.3d at 349 –50; Restatement (Third) 
+of Torts: Phys. & Emot. Harm § 28, cmt. c(4).  
+While we decline to adopt a categorical rule requiring 
+plaintiffs in toxic tort cases to present group -based studies 
+demonstrating a doubling of the risk attributable to toxic 
+exposure in the absence of direct proof of specific causation, 
+in this case, both the Kharrazi Study and Arias’s deposition 
+testimony provided a sufficient factual and scientific basis to 
+support DiBartolomeis’s expert op inion to survive summary 
+judgment. Both pieces of evidence would aid the jury to 
+understand the evidence or determine a fact in issue, that is, 
+whether Arias’ exposure to DBCP more likely than not caused his 
+infertility and his wife’s miscarriages, such that there was 
+34   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+   
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+    
+ 
+      
+ 
+ specific causation.  Finally, pursuant to Dzurik, no particular 
+form  of words is required for causation.   
+IV. Conclusion 
+For all of these reasons, w e affirm the ICA’s November 6, 
+2025 judgment on appeal and remand to the circuit court for 
+further proceedings consistent with this opinion. 
+David W.H. Chee    
+for  petitioner  
+Del Monte  Fresh Produce 
+N.A., Inc.      
+      
+Steven L. Goto,  
+Michael L. Brem, and     
+George R. Diaz-Arrastia    
+for respondent         
+Dow Chemical  Company    
+Keith M. Kiuchi and    
+Scott M. Hendler   
+for respondent  
+Plaintiffs-Appellants  /s/ Vladimir P. Devens  
+/s/ Sabrina S. McKenna  
+/s/ Todd W. Eddins   
+/s/ Lisa M. Ginoza  
+    /s/ Taryn R. Tomasa  
+35 
