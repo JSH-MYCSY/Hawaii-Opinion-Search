@@ -1,0 +1,1292 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI‘I REPORTS AND PACIFIC REPORTER ***  
+Electronically Filed 
+Supreme Court SCWC-22-0000364 30-SEP-2026 08:01 AM Dkt. 40 OP 
+IN THE SUPREME COURT OF THE STATE OF HAWAI ʻI  
+ 
+ ________________________________________________________________ ---o0o---
+NAVATEK CAPITAL INC.,  individually and derivatively on  
+behalf of Nominal Defendant PacMar Technologies LLC,   
+fka Martin Defense Group, LLC, fka Navatek LLC,  
+Respondent/Plaintiff-Appellee,   
+  
+vs.   
+MARTIN KAO,   
+Petitioner/Defendant/Cross-Claim Defendant-Appellant,  
+ 
+and  
+ 
+PACMAR TECHNOLOGIES, LLC,  
+fka Martin Defense Group, LLC, fka Navatek LLC,  
+Respondent/Nominal Defendant/Cross-Claimant-Appellee.  
+ ________________________________________________________________ 
+SCWC-22-0000364  
+ 
+CERTIORARI TO THE INTERMEDIATE COURT OF APPEALS  
+(CAAP-22-0000364; CASE NO. 1CCV-20-1511)  
+ 
+SEPTEMBER 30, 2026  
+ 
+McKENNA,  ACTING C.J.,  EDDINS, AND GINOZA, JJ., AND  
+CIRCUIT JUDGE  COSTA, IN PLACE OF DEVENS, C.J., RECUSED, AND   
+CIRCUIT JUDGE COPELAND, ASSIGNED BY REASON OF VACANCY   *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+   
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+   
+ OPINION OF THE COURT BY McKENNA, ACTING C.J.  
+I. Introduction 
+In this appeal, we address whether a motion to vacate an 
+arbitration award should have been granted. Hawaiʻi Revised 
+Statutes (“HRS”) § 658A-23(a)(3) provides , in relevant part : 
+(a) Upon motion to the court by a party to an arbitration 
+proceeding, the court shall vacate an award in the 
+arbitration proceeding if: 
+ . . . . 
+(3) An arbitrator refused to postpone the hearing 
+upon showing of sufficient cause for postponement 
+. . . so as to prejudice substantially the rights 
+of a party to the arbitration proceeding[.] 
+ . . . . 
+Martin Kao (“Kao”) contends the a rbitrator refus ed to postpone 
+an arbitration proceeding despite the existence of “sufficient 
+cause for postponement ,” with the cause being the filing of 
+criminal charges against him. 
+The parties to the arbitration , the arbitrator, and the 
+lower courts all applied the test l aid out in Keating v. Office 
+of Thrift Supervision , 45 F.3d 322 (9th Cir. 1995) , to determine 
+whether there was “sufficient cause for postponement. ” Keating 
+says that in determining whether to stay a civil proceeding due 
+to pending criminal charges, a court is to consider the 
+following five factors: 
+(1) the interest of the plaintiffs in proceeding 
+expeditiously with this litigation or any particular aspect 
+of it, and the potential prejudice to plaintiffs of a 
+delay; (2) the burden which any particular aspect of the 
+proceedings may impose on defendants; (3) the convenience 
+of the court in the management of its cases, and the 
+efficient use of judicial resources; (4) the interests of 
+persons not parties to the civil litigation; and (5) the 
+2  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+  
+    
+ 
+ 
+ 
+ 
+  
+ 
+ 
+   
+ 
+  
+  
+ 
+  
+ 
+ interest of the public in the pending civil and criminal 
+litigation.  
+45 F.2d at 324  (citation omitted) (“ Keating  factors”).  
+But the Keating factors are based on federal 
+constitutional principles , which are much less protective of a 
+defendant ’s right against self -incrimination. We therefore 
+instead set out three factors grounded on Hawaiʻi constitutional 
+principles , more fully explained below, for courts to consider 
+in determining whether to stay a civil proceeding based on the 
+actual or anticipated institution of criminal charges : (1) 
+whether the constitutional risk to defendant is concrete and 
+imminent; (2) prejudice from a delay; and (3) whether there is a 
+less restrictive alternative. 
+Applying this new standard, we hold that “sufficient cause 
+for postponement” was still lacking under the circumstances . 
+Hence, there was no error in denying the motion for vacatur. We 
+also hold that there was no error in refusing to set aside the 
+arbitrator’s award of punitive damages. 
+Subject to the analysis in this opinion, w e therefore 
+affirm the Intermediate Court of Appeals ’ (“ICA”) August 29, 
+2025 judgment on appeal. 
+II. Background 
+A. Factual Background 
+Steven Loui (“Loui”) founded Navatek Ltd. in 1979 and led 
+it for approximately forty years. The majority of its business 
+3  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+   
+ 
+ 
+ stemmed from classified government contracts with the Defense 
+Advanced Research Projects Agency (“DARPA”) of  the United States 
+Department of Defense (“DOD”) as well as  other partners in 
+academia and scientific fields. Because the work involved 
+classified information, Navatek Ltd. was required to obtain a 
+facility security clearance (“FCL”) from the Defense 
+Counterintelligence and Security Agency (“DCSA”).   
+Kao joined Navatek Ltd. as its Chief Financial Officer in 
+2008 and later became its Chief Executive Officer (“ CEO”) in 
+2012. In June 2018, Loui formed Navatek Capital Inc. (“NCI”), 
+which became the sole owner of Navatek Ltd. In August 2018, 
+Navatek Ltd. converted to a limited liability company and its 
+corporate name changed to Navatek LLC (“Navatek”). NCI owned 
+one hundred percent of Navatek until August 31, 2018. Around 
+that time, Loui decided to step away from the company and 
+believed he had found a worthy successor in Kao. 
+On March 1, 2019, Loui, through NCI, transferred a ninety-
+nine percent interest in Navatek’s future profits and losses to Kao, while retaining a one  percent interest. Kao  paid no cash 
+for this interest. On the same day, NCI and Kao, as sole members of Navatek, executed an operating agreement (“Operating 
+Agreement”  or “Agreement” ), under  which Kao became sole manager 
+of Navatek from March 2019 through November 2020. Kao  was 
+advised to retain his own attorney during negotiations, but he 
+4  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+  falsely represented he was an attorney and held law degrees from 
+the University of California, Los Angeles  and New York 
+University.  
+Section 8 of the Operating Agreement is  a  “Covenant Not to 
+Breach” and lists consequences for violating that covenant, including disassociation and damages:  
+8.1 Covenant Not to Breach. Each Member hereby 
+covenants and agrees that the Members have entered into 
+this Agreement based on their mutual expectation that all 
+Members will continue as Members and carry out the duties 
+and obligations undertaken by them hereunder and that, 
+except with the consent of the Members, each member hereby 
+covenants and agrees as follows: 
+ . . . . 
+(e) Not to commit a breach of any material 
+covenant contained in this Agreement or default on any 
+material obligation provided for in this Agreement if such 
+breach or default continues for thirty (30) days after the 
+date such Member has been given notice of such breach or 
+default by the Management Committee or any other Member. 
+8.2  Consequences of Violation of Covenants.  If a 
+Member (a “Breaching Member”) attempts to take any or has 
+taken any action in breach of Section 8.1 (a “Breach”), the 
+Company shall continue and such Member shall be subjected 
+to this Section 8.2. In such an event, the following shall occur:  
+(a) The Breaching Member shall immediately be 
+disassociated and thereby cease to be a Member, shall have 
+no further power to act as a Member of the Company and 
+shall become an Assignee as if he were the recipient of a 
+prohibited Transfer of his Units under Section 7.3; 
+ . . . . 
+(c)  The Breaching Member shall be liable for 
+damages, without requirement of a prior accounting, to the Company for all costs and liabilities that the Company or 
+any Member may incur as a result of the Breach[.]  
+(Emphasis added. ) 
+Section 12.2 identifies the law govern ing the Agreement: 
+12.2 Governing Law.  This Agreement is intended to be 
+performed in the State of Hawai[‘]i and shall in all 
+respects be governed by and construed in accordance with, 
+the laws of the State of Hawai [‘]i, including as to all 
+matters of construction, validity, and performance but 
+5  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+  
+ 
+   
+ 
+ 
+   
+ 
+ 
+   
+ 
+ without giving the effect to the conflict of law provisions 
+thereof. 
+(Emphasis added. ) 
+Section 12.22 addresses mediation and arbitration: 
+12.22 Mediation and Arbitration.  The parties, at the 
+option of any party, to try in good faith to settle any 
+difference arising out of or relating to the terms or 
+conditions or subject matter of this Agreement by mediation 
+and that, if the agreement cannot be reached by mediation, to submit the difference to binding arbitration. Any 
+arbitration shall be conducted in accordance with the rules 
+for Arbitration of Disputes of the Dispute Prevention and 
+Resolution, Inc. (“DPR”) or its successor. The award of the 
+arbitration shall be final and binding, and judgment upon the award may be entered in any court having jurisdiction 
+thereof. This procedure shall be the exclusive means of 
+settling any dispute that may arise under this Agreement. 
+All fees and expenses of the arbitrator and all other 
+expenses of the arbitration, except for the fees and expenses of each party’s attorneys and witnesses, shall be 
+shared equally by the parties thereto. Notwithstanding 
+anything contained in the DPR’s Arbitration Rules, 
+Procedures and Protocols or in applicable  law or elsewhere, 
+and pursuant to the Uniform Arbitration Act, as codified in 
+Hawai[ʻ]i Revised Statutes § 658A, as amended, the parties 
+and arbitrator shall be bound by the following:  
+. . . . The arbitration shall be conducted in such a 
+manner that the decision will be rendered no more than one 
+hundred twenty (120) days after the submission of the 
+dispute to DPR .  
+(Emphasis added. ) 
+ In spring 2020, Kao fraudulently obtained more than $12.8 
+million in Paycheck Protection Program (“PPP”) funds on behalf 
+of Navatek and transferred approximately $2 million to himself.   
+After becoming aware of the PPP loans, Loui confronted Kao on 1
+The PPP was authorized by Congress in the Coronavirus Aid, Relief, and 
+Economic Security Act, Pub.L.No. 116-136, 134 Stat.281 (2020), to provide 
+emergency financial assistance to the millions of Americans who were 
+suffering from the economic effects caused by the COVID -19 pandemic through 
+forgivable loans to small businesses for job retention and other specified 
+resources. 
+6 1  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+   
+    
+ 
+ 
+ 
+ 
+   
+  July 23, 2020, and warned him that illegal activities by Navatek 
+executives could result in debarment from federal contract s and 
+invalidation of Navatek’s FCL. After Kao refused to turn over 
+the PPP loan applications, Loui, on advice of legal counsel, 
+reported the matter to the United States Department of Justice 
+(“DOJ”). 
+On July 27, 2020, Kao changed the name of the company from 
+Navatek to Martin Defense Group, LLC (“MDG”) .2 
+On August 6, 2020, federal investigators interviewed Loui. 
+Loui said he did not believe MDG was suffering financially as a 
+result of the COVID -19 pandemic and that the employee headcounts 
+Kao reported for Navatek were inaccurate. Federal investigators 
+also interviewed the former payroll and benefits manager at 
+Navatek, who confirmed that the number of employees Kao reported 
+as being employed by Navatek was overstated . 
+On September 29, 2020, the DOJ filed a criminal complaint 
+against Kao, charging him with two counts of bank fraud, in 
+violation of 18 U.S.C. § 1344(2), and five counts of money 
+laundering, in violation of 18 U.S.C. § 1957.3 
+2 MDG has undergone several name changes since the company’s formation. 
+For ease of reference, we will refer to the company as MDG throughout this 
+opinion. 
+3 The following additional offenses were also asserted : (1) directly and 
+indirectly making federal campaign contributions as a federal government 
+contractor, in violation of 52 U.S.C. § 30119; (2) making political 
+contributions in the name of other persons or entities, in violation of 52 
+(continued . . .) 
+7  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+    
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ B. Procedural Background 
+1. Initial Circuit Court Proceedings 
+In light of the federal criminal complaint, NCI, 
+individually and derivatively on behalf of nominal defendant 
+MDG, filed a civil complaint against Kao and MDG in the Circuit 
+Court of the First Circuit (“circuit court”) on November 9, 
+2020. The complaint sought Kao’s disassociat ion from NCI as 
+well as damages based on breach of fiduciary dut y, fraud, and 
+gross negligence . NCI also requested injunctive relief to 
+obtain access to the books and records of MDG and to compel 
+Kao’s disassociation as MDG’s controlling voting member pursuant 
+to section 8.2(a) of the Operating Agreement. 
+On November 18, 2020, an official from the U.S. Navy sent 
+MDG a letter advising that it would commence proceedings to 
+determine whether to suspend or debar MDG from contracting with 
+the federal government. 
+On November 20, 2020, NCI, MDG, and Kao stipulated that 
+Daniel Brunk (“Brunk”) would replace Kao as the CEO and sole 
+manager of MDG and that NCI would receive access to MDG’s books 
+and records. Short of complete disassociation, NCI and Kao 
+agreed not to exercise their ownership interests in MDG or 
+transfer their respective ownership interests in NCI and MDG. 
+U.S.C. (. . . continued ) 
+ § 30122; and (3) engaging in self -dealing by improperly using company 
+funds for personal gain. 
+8  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+    
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+  To enforce the stipulation and to protect MDG’s current and 
+possible future contracts with the federal government , on 
+December 31, 2020, MDG filed a motion for a Voting Trust 
+Agreement and an order compelling Kao to execute an Amended 
+Operating Agreement. On January 5, 2021, the circuit court 
+granted the motion to compel Kao to execute the Amended 
+Operating Agreement. The Amended Operating Agreement 
+memorialize d Kao’s resignation as CEO and sole manager of MDG 
+and designate d Brunk as the new CEO and sole manager but 
+did not modify sections 8, 12.2, and 12.22 of the initial 
+Operating Agreement. The Voting Trust Agreement , which Kao 
+signed, required Kao to relinquish control of voting rights 
+related to his ownership in MDG . 
+Despite MDG’s efforts to distance itself from Kao and 
+reduce his access and control over the company, the DCSA 
+invalidated MDG’s FCL on January 21, 2021, preventing it from 
+winning new government contracts. 
+On March 10, 2021, Kao filed a motion to dismiss or, in the 
+alternative, to compel arbitration and stay the civil case. 
+On March 16, 2021, the U.S. Navy issued a decision 
+declining to suspend MDG from working with the federal 
+government for the time being. 
+On March 25, 2021, NCI, MDG, and Kao executed an “Agreement 
+to Participate in Binding Arbitration” for an arbitrator to 
+9  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+  
+  
+ 
+ 
+  
+   
+ 
+ 
+  “determine all issues submitted to arbitration” and “grant any 
+and all remedies . . .  determine[d]  to be just and appropriate 
+under law.”   
+Attorney J erry M. Hiatt was selected as the arbitrator 
+(“Arbitrator”) . 
+2. Arbitration Proceedings 
+On May 6, 2021, a federal grand jury returned an indictment 
+charging Kao with three counts of wire fraud, in violation of 18 U.S.C. § 1343, and four counts of money laundering, in violation 
+of 18 U.S.C. § 1957.  
+Despite having earlier moved to compel arbitration, on May 
+24, 2021, Kao requested that the Arbitrator stay the arbitration 
+pending resolution of his criminal case. He argued that the 
+arbitration timeline and discovery process would cause him 
+significant prejudice, compromising his  rights  against self-
+incrimination  and to due process and a fair trial under the U.S.  
+and Hawaiʻi  Constitutions.   
+The parties cited Keating, 45 F.3d at 324, as controlling 
+whether Kao’s motion should be granted. The Arbitrator 
+conducted a remote hearing on Kao’s motion to stay on May 27, 
+2021. After hearing argument s, the Arbitrator orally denied the 
+motion. Kao’s counsel then suggested but did not request that 
+the Arbitrator consider bifurcating the arbitration proceedings 
+between liability and damages . The Arbitrator responded he was 
+10  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+  
+ 
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+   
+ open to considering bifurcation. On June 6, 2021, the 
+Arbitrator entered a written order denying Kao’s motion to stay , 
+citing Keating. 
+The parties then proceeded to arbitration. The Arbitrator 
+heard seven days of testimony from approximately fifteen 
+witnesses and received hundreds of exhibits. 
+On the first day of the arbitration hearing, the parties 
+stipulated to extend the deadlines for post -hearing briefs and 
+the final arbitration award beyond the 120 -day limit set forth 
+in section 12.22 of the Operating Agreement.4 
+On the second day , DCSA revalidated MDG’s FCL to active 
+status. But NCI’s expert witness, Steven Shaw, who had served 
+as the U.S. Air Force’s suspension and debarment official for 
+sixteen years, testified that a federal contractor like MDG 
+faces a significant risk of suspension or debarment if it fails 
+to oust a principal owner who is suspended or debarred, like 
+Kao. Shaw opined that the Voting Trust Agreement mitigated this 
+risk, but because Kao was still the principal owner and a 
+superseding indictment remained possible, MDG would still be 
+exposed to suspension or debarment, regardless of whether Kao 
+There were four stipulations and orders extend ing the pre-hearing and 
+post-hearing deadlines with the parties’ consent, including an agreement to 
+extend the deadline for the final arbitration award from September 1, 2021 to 
+November 29, 2021. 
+11 4  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+     
+  
+   was making the high -level decisions. Shaw opined that 
+disassociating Kao from MDG would put MDG in a better position. 
+On the third day, Brunk testified that the biggest threat 
+facing MDG when he joined was a possible suspension from 
+government contracting, which would eliminate MDG’s revenue and 
+render the company insolvent within two weeks. Although the 
+Navy had declined to suspend MDG on March 16, 2021, Brunk 
+explained that, unless Kao was disassociated, MDG still faced 
+the risk of suspension if new developments arose in his criminal 
+case. 
+On the fourth day , the parties disputed whether the 
+Arbitrator had the authority to determine MDG’s valuation and 
+Kao’s capital account for purposes of calculating monetary 
+damages. NCI indicated an expert report was necessary and 
+suggested a bifurcation to allow it additional time to obtain an 
+expert witness. But, departing from his earlier suggestion , Kao 
+opposed bifurcation . The Arbitrator then ruled the issues were 
+properly before him and within his authority to decide . 
+On the sixth da y, the Arbitrator raised the issue of 
+punitive damages sua sponte. 
+On the last day, the Arbitrator confirmed that Kao would 
+not be testifying based on his right against self -incrimination. 
+The Arbitrator indicated he would not draw any adverse 
+inferences based on Kao’s decision not to testify . 
+12  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+  
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Arbitrator issued his final arbitration award 
+(“Arbitration Award”) on November 23, 2021 , in favor of NCI and 
+MDG, and calculated the total amount of damages, plus attorneys’ 
+fees and costs, as follows: 
+CATEGORY AMOUNT 
+Special Damages $2,268,805.40 
+Punitive Damages $4,537,610.80 
+MDG Attorneys’ Fees and Costs $1,608,046.77 
+NCI Attorneys’ Fees and Costs $1,117,646.72 
+TOTAL FINAL AWARD $9,532,109.82 
+Less Present Value of Capital Account $(1,986,490.00) 
+Less Setoff Against Capital Account $(1,419,838.02) 
+Total Credits Against Final Award $(3,406,328.02) 
+TOTAL FINAL AWARD STILL DUE $6,125,781.80 
+Because of Kao’s pattern of misconduct and fraud, the Arbitrator 
+awarded prejudgment interest in favor of MDG at the statutory rate of ten percent on the $6,125,781.80 due.  
+In awarding punitive damages, the Arbitrator considered the 
+purpose of such damages, the facts of th e case, the harm done to 
+MDG and NCI, the harm done to MDG’s employees , “and the truly 
+shocking misuse of [federal] tax dollars . . . to fund . . . 
+Kao’s reckless fraud.” Citing Exxon Shipping Co . v. Baker , 554 
+U.S. 471, (2008), the Arbitrator determined the case had all of 
+the earmarks of exceptional blameworthiness, justify ing a 
+substantial award of punitive damages. The Arbitrator noted 
+Kao’s conduct was clearly egregious, intentional, and motivated 
+by greed. 
+In determining the amount of punitive damages, the 
+Arbitrator noted that Kao had personally valued his net worth at 
+13  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+   
+   
+  
+  
+ 
+  
+ 
+ 
+ 
+  $40,500,000.00  as of March 4, 2019,  and $77,936,764.00  as of 
+September 14, 2020,  in his own signed personal financial 
+statements. While recognizing that the financial  statements may 
+have been grossly exaggerated given Kao’s history of fraud, the 
+Arbitrator found they reflected Kao’s own valuation of his net 
+worth and were probative of how he personally valued the gains 
+he received from MDG.  
+3. Circuit Court Proceedings 
+On December 7, 2021 , NCI filed a motion with the circuit 
+court to confirm the Arbitration Award. MDG filed a joinder. 
+On February 18, 2022, Kao filed a motion to vacate the 
+arbitration award. A remote hearing on the motions took place 
+on April 1, 2022. 
+The parties disputed the meaning of “sufficient cause” “to 
+postpone.” NCI argued “sufficient ca use” was equivalent to 
+“good cause,” while Kao’s counsel argued it was a lower 
+standard. 
+With respect to Keating’s applicability, Kao conceded the 
+case was not controlling, because it was not decided under 
+Hawaiʻi law, but nevertheless argued it should apply because the 
+Arbitrator and the parties so stipulated. 
+As to punitive damages, NCI and MDG asserted that, under 
+the parties’ a greement to participate in binding arbitration, 
+14  
+ 
+ 
+   
+ 
+ 
+ 
+  
+  
+  
+ 
+  
+ 
+    
+ 
+ 
+ 
+  
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+DPR’s rules, and HRS § 658A -21(a),5 the Arbitrator had the 
+authority to decide all issues and award all remedies, including 
+punitive damages . They asserted punitive damages against Kao 
+were warranted based on the tort claims of fraud, breach of 
+fiduciary duty, and gross negligence. Citing HRS § 658A -21(e),6 
+Kao asserted the Arbitrator failed to specify the factual and 
+legal bas es justifying and authorizing the punitive damages 
+award and also that there was an abs ence of evidence of Kao’s 
+net worth. Kao also contended that the arbitration involved 
+only a breach of contract claim, for which punitive damages are 
+not permitted. 
+The circuit court orally denied Kao’s motion to vacate. It 
+concluded that the Arbitrator had adequate grounds to award 
+punitive damages and that Kao had not shown “sufficient cause ,” 
+which it deemed equivalent to “good cause ,” to vacate the 
+Arbitration Award. 
+5 HRS § 658A -21(a) (2016) provides: 
+(a) An arbitrator may award punitive damages or other 
+exemplary relief if such an award is authorized by law in a 
+civil action involving the same claim and the evidence 
+produced at the hearing justifies the award under the legal 
+standards otherwise applicable to the claim. 
+6 HRS § 658A -21(e) (2016) provides: 
+(e) If an arbitrator awards punitive damages or other 
+exemplary relief under subsection (a), the arbitrator shall 
+specify in the award the basis in fact justifying and the 
+basis in law authorizing the award and state separately the 
+amount of the punitive damages or other exemplary relief. 
+15  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+   
+ 
+ 
+  
+  
+   
+ 
+  
+ 
+ 
+    
+ 
+ On April 27, 2022, the circuit court entered a written 
+order denying Kao’s motion to vacate. On the same day, it also 
+entered its findings of fact, conclusions of law, and order 
+granting NCI’s motion to confirm the Arbitration Award as well 
+as MDG’s joinder. The circuit court entered its final judgment 
+on April 28, 2022. 
+4. ICA Proceedings 
+The ICA  vacated in part and affirmed in part the circuit 
+court’s final judgment. Navatek Cap. Inc. v. Kao, NO. CAAP-22-
+0000364, 2025 WL 2157693, at *3  (Hawaiʻi App. July 29, 2025) 
+(SDO). The ICA vacated because, with the exception of the 
+punitive damages issue, the circuit court had not addressed various bases on which Kao had moved to vacate the Arbitration 
+Award; these bases  are not at issue on certiorari.  
+But relevant to this certiorari proceeding, t he ICA 
+concluded that (1) the Arbitrator did not abuse his discretion 
+in denying Kao’s motion to stay; ( 2) the circuit court did not 
+err in deferring to the Arbitrator’s application of Keating; (3) 
+the circuit court’s denial of Kao’s motion to vacate did not 
+violate HRS § 658A -23(a)(3) ; and (4) the circuit court did not 
+err in finding that the Arbitrator did not exceed his authority 
+in awarding punitive damages . Id. at *2-3. 
+16  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 5. Certiorari Proceedings 
+We granted Kao’s certiorari application challenging the 
+Arbitrator’s denial of his motion to stay and to set aside the 
+punitive damages award . We also ordered supplemental briefing 
+on the following questions: 
+1. What constitutes “sufficient cause for postponement” 
+under HRS § 658A -23(a)(3)? 
+2. What factors should be considered in deciding whether a 
+civil proceeding in Hawai ʻi should be stayed due to 
+pending criminal charges based on Article I, Section 10 
+of the Hawaiʻi Constitution? 
+III. Standard of Review 
+A. Appellate Review of a Motion to Vacate Arbitration Award 
+Appellate review of a motion to vacate  [] does not 
+involve review of an arbitrator’s findings of fact or 
+conclusions of law. Rather, it involves review of a 
+circuit court’s factual findings and conclusions of law as 
+to whether the statutorily outlined grounds for vacatur 
+exist.  
+Nordic PCL Constr., Inc. v. LPIHGC, LLC, 136 Hawaiʻi 29, 42, 358 
+P.3d 1, 14 (2015).  
+B. Findings of Fact and Conclusions of Law 
+We review a trial court’s findings of fact under the 
+clearly erroneous standard.  
+A finding of fact is clearly erroneous when, despite 
+evidence to support the finding, the appellate court is 
+left with the definite and firm conviction in reviewing the 
+entire evidence that a mistake has been committed. A 
+finding of fact is also clearly erroneous when the record 
+lacks substantial evidence to support the finding. We have 
+defined ‘substantial evidence’ as credible evidence which is of sufficient quality and probative value to enable a 
+person of reasonable caution to support a conclusion.  
+Hawaiʻi appellate courts review conclusions of law de 
+novo, under the right/wrong standard. Under the 
+right/wrong standard, this court examines the facts and 
+17  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+  
+ 
+ answers the question without being required to give any 
+weight to the trial court’s answer to it.  
+Nordic, 136 Hawaiʻi at 41, 358 P.3d at 13 . 
+C. Judicial Review of Arbitration Awards 
+Where a party challenges an arbitration award, the 
+following precepts are applicable. First, because of the 
+legislative policy to encourage arbitration and thereby 
+discourage litigation, arbitrators have broad discretion in 
+resolving the dispute. Upon submission of an issue, the 
+arbitrator has authority to determine the entire question, including the legal construction of terms of a contract or 
+lease, as well as the disputed facts. In fact, where the 
+parties agree to arbitrate, they thereby assume all the 
+hazards of the arbitration process, including the risk that 
+the arbitrators may make mistakes in the application of law and in their findings of fact.  
+Second, correlatively, judicial review of an 
+arbitration award is confined to the strictest possible limits. An arbitration award may be vacated only on the [six] grounds specified in HRS § [658A –23] and modified and 
+corrected only on the three grounds specified in HRS § [658A–24]. Moreover, the courts have no business weighing 
+the merits of the award.  
+ Third, HRS §§ [658A –23 and - 24] also restrict the 
+authority of appellate courts to review judgments entered by circuit courts confirming or vacating the arbitration 
+awards.  
+Id. (cleaned up). 
+Judicial review of arbitration awards remains limited 
+to the statutory grounds for confirmation, vacatur, 
+modification, and correction. See  HRS § 658A –28(a)(3)– (5) 
+(Supp. 2010) (permitting appeal from an order confirming or 
+denying confirmation of an award, an order modifying or 
+correcting an award, or an order vacating an award).  
+ 
+. . . [I]n reviewing an arbitration award, [] courts 
+are powerless to correct an arbitrator’s findings of fact even if clearly erroneous, or an arbitrator’s rulings on 
+the law, even if wrong.  
+Nordic, 136 Hawaiʻi at 41-42, 358 P.3d at 13 -14 (cleaned up) . 
+18  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+   
+ 
+ 
+  
+    
+  
+ 
+ 
+ D. Statutory Interpretation 
+Our standard of review for statutory interpretation is 
+well-established. “The interpretation of a statute is a 
+question of law which [the appellate] court reviews de novo.” 
+Sierra Club v. Dep’t of Transp. , 120 Hawaiʻi  181, 197, 202 P.3d 
+1226, 1242 (2009) (cleaned up). Our construction of statutes is 
+guided by the following principles:  
+First, the fundamental starting point for statutory -
+interpretation is the language of the statute itself. 
+Second, where the statutory language is plain and 
+unambiguous, our sole duty is to give effect to its plain 
+and obvious meaning. Third, implicit in the task of statutory construction is our foremost obligation to 
+ascertain and give effect to the intention of the 
+legislature, which is to be obtained primarily from the 
+language contained in the statute itself. Fourth, when 
+there is doubt, doubleness of  meaning, or indistinctiveness 
+or uncertainty of an expression used in a statute, an 
+ambiguity exists.  
+When there is ambiguity in a statute, “the meaning of 
+the ambiguous words may be sought by examining the context 
+with which the ambiguous words, phrases, and sentences may be compared, in order to ascertain their true meaning.” 
+Moreover, the courts may resort to extrinsic aids in 
+determining legislative intent, such as legislative 
+history, or the reason and spirit of the law.  
+State v. Wheeler, 121 Hawaiʻi 383, 390, 219 P.3d 1170, 1177 
+(2009)  (cleaned up).  
+IV. Discussion 
+A. The circuit court correctly a dopted the “good cause” 
+standard to define “sufficient cause” in HRS § 658A -
+23(a)(3) , but wrongly deferred to the Arbitrator’s 
+application of Keating. 
+Kao argues the Arbitrator misapplied the Keating  factors in 
+denying his motion to stay, leaving him defenseless against 
+NCI’s and MDG’s claims and with no other option  but to invoke 
+19  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+  
+ 
+ 
+ 
+  
+    
+ his right against self -incrimination under the U.S. and Hawaiʻi 
+Constitutions. 
+Preliminarily, t he parties agreed that the Keating factors 
+controlled, both at the arbitration and throughout the judicial 
+proceedings below. Courts cannot review the legal conclusions 
+of arbitrators. Here, we review the circuit court’s conclusion 
+of law regarding whether “sufficient cause for postponement” 
+existed to require vacatur under HRS § 658A -23(a)(3) . 
+And party stipulations  as to questions  of law are  not 
+binding, and our courts are not relieved from the obligation to 
+review questions of law de novo.   Hawaiian Ass ’n  of Seventh-Day 
+Adventists v. Wong, 130 Hawaiʻi 36  at  46, 305 P.3d 452  at  462 
+(2013)  (cleaned up). So we are not bound by the parties’ 
+stipulation that Keating  controls  the analysis of whether there 
+was “sufficient cause for postponement” for a vacatur pursuant 
+to HRS § 658A-23(a)(3).  
+We therefore address what standard applies.  Here, neither 
+HRS § 658A-23(a)(3) nor HRS § 658A-1 defines “sufficient cause  
+for postponement.”  At the April 1, 2022 hearing on Kao’s motion 
+to vacate, the parties debated whether  the “good cause” standard 
+applies to  HRS § 658A-23(a)(3). NCI argued that the Arbitrator 
+correctly found no “good cause” to postpone the arbitration 
+proceeding  after applying the Keating  factors. Kao  countered 
+that “sufficient cause” is  a lower standard than “good cause,” 
+20  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+  
+   
+ 
+ 
+ 
+     
+ 
+ 
+    
+ which he claimed to have satisfied. In its oral ruling and in 
+its written order denying the motion to vacate, the circuit 
+court concluded there was an insufficient showing of “good 
+cause” to grant the motion for vacatur. 
+In statutory interpretation, “[w]hen a term is not 
+statutorily defined, this court may resort to legal or other 
+well-accepted dictionaries as one way to determine its ordinary 
+meaning.” Est. of Roxas v. Marcos, 121 Hawaiʻi 59, 66, 214 P.3d 
+598, 605 (2009)  (cleaned up).  
+One definition of “sufficient cause” in Black’s  Law  
+Dictionary  is “good cause.”  Black’s  Law  Dictionary  1739 (12th 
+ed. 2024). In turn, “good cause” is defined as:  
+A legally sufficient reason. Good cause is often the burden 
+placed on a litigant (usu. by court rule or order) to show 
+why a request should be granted or an action excused. The 
+term is also used in employment -termination cases. – Also 
+termed good cause shown ; just cause ; lawful cause ; 
+sufficient cause. 
+Black’s Law Dictionary 275 (12th ed. 2024) ( emphasis added). 
+In other words, the terms “sufficient cause” and “good 
+cause” are interchangeable. 
+HRS § 658A -15(c) (2016) also supports the interpretation 
+that “sufficient cause” in HRS § 658A -23(a)(3) is the same as 
+“good cause.” HRS § 658A -15(c) states that “for good cause 
+shown,” an “arbitrator may adjourn the hearing from time to time 
+as necessary but shall not postpone the hearing to a time later 
+than that fixed by the agreement to arbitrate” absent the 
+21 *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER ***  
+ 
+ 
+   
+  
+ 
+   
+  
+  
+ 
+  
+    
+ 
+       
+  
+    
+parties’ consent. Thus, HRS § 658A -15(c) is a statute on the 
+same subject matter as HRS § 658A -23(a)(3) that can be read in 
+pari materia with the latter. Hence, “sufficient cause” is 
+interchangeable with “good cause .” 
+For these reasons, the circuit court did not err in 
+applying the “good cause” standard to define “sufficient cause” 
+in  HRS § 658A-23(a)(3).  But the circuit court erred in 
+determining whether “good cause” existed by deferring to the 
+Arbitrator’s application of the Keating  factors.   Rather, the 
+circuit court was independently applying the requirements under 
+HRS § 658A-23(a)(3).     
+As noted, party sti pulation s as to question s of law are not 
+binding and our courts are not relieve d from the obligation to 
+review questions of law de novo . Wong, 130 Hawaiʻi at 46, 305 
+P.3d at 462. The five-factor test in Keating,45 F.3d at 324, 
+is grounded in an analysis of the Fifth Amendment to the United 
+States Constitution. But this court provide s criminal 
+defendants with greater protection s under the Hawaiʻi 
+Constitution’s article I, section 10 privilege against self -
+incrimination than federal courts do under the Fifth Amendment. 
+See State v. Garces , 158 Hawaiʻi 532 at 535, 595 P.3d 108 at 111 
+(2026). We therefore decline to adopt the Keating factors. 
+First, an explanation of Keating. The civil proceeding in 
+Keating involved an administrative law matter that resulted in 
+22  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+  
+ 
+ an order that banned  Charles Keating, Jr.,  from the federally 
+insured banking industry and directed him to pay restitution. 
+Keating, 45 F.3d at 324. Keating claimed his due process rights 
+were violated, in part, because “the pending criminal 
+proceedings forced him to invoke his Fifth Amendment privilege 
+during the . . . hearing, depriving him of an opportunity to 
+testify on his own behalf.” Keating, 45 F.3d at 324. The 
+timeline of the parallel proceedings was  summarized as follows:  
+The [Office of Thrift Supervision (“OTS”)] hearing began 
+eleven months after the notice of charges issued. The notice issued on August 9, 1990. The hearing took place in 
+Los Angeles from July 1 to 3 and July 8 to 12, 1991. On 
+July 12 the OTS hearing was suspended for nine months. The 
+state trial began on Aug. 4, 1991, resulting in conviction 
+on Dec. 4, 1991. Keating was then indicted on federal charges on Dec. 12, 1991. On March 24, 1992, two of the 
+four OTS charges were severed because they concerned the 
+transactions on which the federal indictment was based. The 
+OTS hearing on the remaining two charges resumed in 
+Phoenix, Arizona on April 27, 1992. The hearing concluded 
+on May 1, 1992. Keating ’s federal criminal trial began six 
+months later, on November 2, 1992.  
+Keating, 45 F.3d at 325. 
+The Ninth Circuit noted that after the federal indictment, 
+the OTS successfully moved to sever two of the four 
+administrative counts that overlapped with the federal 
+indictment. Keating, 45 F.3d at 325. But Keating claimed there 
+was still significant overlap between the subject matter of the 
+remaining administrative counts and the federal criminal trial, 
+23  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+   
+ 
+ 
+     
+   which made it necessary to invoke his Fifth Amendment privilege.7 
+Keating, 45 F.3d at 325. The administrative law judge (“ALJ”) 
+determined that any burden on Keating was far outweighed by the 
+public interest in a speedy resolution of the case. Keating, 45 
+F.3d at 325. 
+The Ninth Circuit affirmed, concluding that any remaining 
+overlap between the administrative and criminal proceedings did 
+not make the ALJ’s refusal to stay the administrative proceeding 
+an abuse of discretion. Keating, 45 F.3d at 325-26. According 
+to the Ninth Circuit, “[n]ot only is it permissible to conduct a 
+civil proceeding at the same time as a related criminal proceeding, even if that necessitates invocation of the Fifth 
+Amendment privilege, but  it is even permissible for the trier of 
+fact to draw adverse inferences from the invocation of the Fifth Amendment in a civil proceeding .” Keating, 45 F.3d at 326 
+(emphasis added) (citing Baxter v. Palmigiano, 425 U.S. 308, 318-19  (1976). The Ninth Circuit then ruled that despite the 
+potential implication of Keating’s Fifth Amendment rights,  the 
+ALJ did not abuse his discretion in deciding that the balance 
+favored proceeding with the hearing. Keating, 45 F.3d at 326.  
+ As can be seen, in Keating, the Ninth Circuit  embraced the 
+United States Supreme Court’s decision in Baxter, 425 U.S. 308.   
+The Ninth Circuit did not identify the federal criminal charges against 
+Keating. See Keating, 45 F.3d at 322. 
+24 7  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+  
+ 
+   
+    
+  
+   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 8 Baxter clearly holds that the Fifth Amendment does not forbid 
+adverse inferences against parties to civil actions who raise 
+the Fifth Amendment right against self -incrimination. 425 U.S. 
+at 318. 
+In direct contrast to Baxter and Keating is this court’s 
+opinion in Kaneshiro v. Belisario , 51 Haw. 649, 466 P.2d 452 
+(1970).8 In Belisario , this court expressly held that even in 
+civil cases, there can be no comment on or adverse inference 
+drawn against a party who asserts their right against self -
+incrimination; we grounded this holding in part on article I, 
+section 10 of the Hawaiʻi Constitution . 51 Haw. at 654, 466 P.2d 
+at 455. Therefore, in contrast with the United States Supreme 
+Court’s interpretation of the Fifth Amendment, this court holds 
+that Article I, Section 10 of the Hawaiʻi Constitution protects a 
+criminal defendant’s right against self -incrimination , even in 
+civil proceedings. 
+This principle against adverse inferences is also reflected in Rule 513 
+of the Hawaiʻi Rules of Evidence (“HRE”)(1980), which provides in relevant 
+part: 
+Comment upon or inference from claim of  
+privilege; instructions.   
+  
+(a) Comment or inference not permitted. The claim of a  
+privilege, whether in the present proceeding or upon a  
+prior occasion, is not a proper subject of comment by judge  
+or counsel. No inference may be drawn therefrom.  
+(Emphasis added.) 
+25  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+  This difference is probably why the five Keating  factors 
+actually show minimal concern for a criminal defendant’s right 
+against self-incrimination:  
+(1) the interest of the plaintiffs in proceeding 
+expeditiously with this litigation or any particular aspect 
+of it, and the potential prejudice to plaintiffs of a 
+delay; (2) the burden which any particular aspect of the 
+proceedings may impose on defendants; (3) the convenience 
+of the court in the management of its cases, and the 
+efficient use of judicial resources; (4) the interests of 
+persons not parties to the civil litigation; and (5) the 
+interest of the public in the pending civil and criminal 
+litigation. 
+Keating, 45 F.3d at 324. 
+Under Keating, the first consideration is the plaintiff ’s 
+interest in proceeding expeditiously and potential prejudice to 
+the plaintiff. The third factor focuses on the court’s 
+convenience . The fourth considers the interest s of those that 
+are not parties to the civil litigation. The fifth considers 
+the interest of the public. Only the second factor even touches 
+on a defendant’s right against self -incrimination. 
+We therefore reject Keating. In light of our robust 
+protection of the Article I, Section 10 right  against self-  
+incrimination, we hold that in addressing whether to stay a 
+civil proceeding pending the actual or anticipated institution 
+of criminal charges, Hawaiʻi courts should instead evaluate three 
+factors: (1) whether the constitutional risk to defendant is 
+concrete and imminent; (2) prejudice from  a delay; and (3) 
+whether there is a less restrictive alternative.  
+26  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+  
+ 
+ 
+ 
+   
+ 
+ 
+  
+ 
+     
+   
+ 
+ 
+ 
+ The first factor takes into account the extent to which the 
+privilege against self -incrimination is implicated, the degree 
+of factual overlap between the civil and criminal cases, and the 
+status of the criminal proceeding. 
+The second factor focuses on the hardship and expense of 
+the nonmovant due to postponement, whether the parties have 
+previously consented to postponement, whether postponement might 
+foreclose the nonmovant from presenting relevant evidence, and 
+the public’s interest in the prompt disposition of the case. 
+The third factor asks whether there is a more tailored 
+solution available, including a shorter delay or bifurcation of 
+the proceedings. 
+These considerations are non -exclusive and the second 
+factor allows consideration of “prejudice” t o those other than 
+the criminal defendant . But the second factor should not be 
+weighed heavily in favor of the interests of others in light of 
+the greater protections afforded to criminal defendants under 
+the Hawaiʻi Constitution . 
+B. Applying the new test, Kao failed to satisfy the 
+“sufficient cause for postponement” standard in HRS § 658A -
+23(a)(3) 
+Kao argues he was unable to testify in his own defense 
+during the arbitration because he feared his testimony could be 
+used against him in the parallel federal criminal trial arising 
+from the same underlying facts . He argues he was therefore 
+27  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+   
+  
+ 
+ forced to invoke his right against self-incrimination. Even 
+though the Arbitrator indicated he was not drawing adverse 
+inferences based on Kao’s refusal to testify, he contends that 
+he was unable to present his own testimony in his defense.  He 
+therefore asserts the circuit court erred by denying his motion for vacatur because the Arbitrator refused to stay the 
+proceedings despite this  “sufficient cause for postponement.”   
+We now apply the factors we have set out to address Kao’s 
+assertio ns. To repeat, the three factors are (1) whether the 
+constitutional risk to defendant is concrete and imminent; (2) 
+prejudice from a delay; and (3) whether there is a less 
+restrictive alternative. 
+The first factor weigh s in favor of Kao. As noted above, 
+the constitutional risk was concrete and imminent because Kao’s 
+civil and criminal cases ar ose from the same underlying facts . 
+The second factor weigh s in favor of NCI. The parties had 
+already stipulated to delay the arbitration proceedings four 
+times, and NCI and MDG pointed out many reasons why they would 
+have experienced hardship and expense if the arbitration 
+proceedings were postponed. 
+For example, b y May 27, 2021, MDG’s FCL had been 
+invalidated for about five months, despite the Amended Operating 
+Agreement and the Voting Trust Agreement, which removed Kao as 
+CEO and sole manager and reduced his access and control over the 
+28  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+   
+ company. Without an FCL, MDG could not win government 
+contracts, shutting off new revenue streams. 
+Although the Navy suspension and debarment official 
+declined to suspend MDG from government contracting on Ma rch 16, 
+2021, averting immediate insolvency, the decision was without 
+prejudice. Hence, MDG continued to face the risk of suspension 
+if new developments , such as a potential superseding indictment , 
+occurred during Kao’s federal criminal proceedings while he 
+remained principal owner of MDG. 
+Further, MDG was under financial pressure to repay about 
+$10 million in PPP loans, $2 million of which had already been 
+transferred to Kao’s personal bank account. Since NCI held a 
+one-percent interest in MDG’s future profits and losses, valued 
+at $2.5 million, it too faced financial loss if MDG defaulted on 
+the loans or became insolvent. 
+In addition, MDG had already lost ninety key employees from 
+a total workforce of 170. 
+For these reasons, NCI and MDG had extremely strong 
+interest s in proceeding expeditiously with arbitration to ensure 
+Kao’s disassociation from the company, stem the loss of 
+employees, and revalidate its FCL. In addition, the public’s 
+interest in the prompt disposition of the civil case was high, 
+due to the gravity of the allegations against Kao that involved 
+the public fisc. 
+29  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+  
+   
+  
+ 
+  
+ 
+  
+  The third factor also weighs  in favor of NCI. In terms of 
+less restrictive alternatives, although Kao  had earlier 
+suggested bifurcation, when NCI’s counsel later requested 
+bifurcation, Kao  sharply opposed it.      
+All in all, we hold that Kao failed to make a “showing of 
+sufficient cause for postponement ” under HRS § 658A -23(a)(3). 
+Therefore, the circuit court did not err by denying Kao’s motion 
+for vacatur. 
+C. The ICA did not err in affirming the circuit court’s order 
+confirming the Arbitrator’s punitive damages award. 
+Kao also argues on certiorari that HRS § 658A -21(e) limits 
+the Arbitrator’s authority to award punitive damages because 
+there was no l egal basis to authoriz e such an award. Kao’s 
+contention lacks merit . 
+Kao does not dispute that HRS § 658A-21(a) granted  the 
+Arbitrator discretion to award punitive damages. Nor does he 
+contest the validity of the Operating Agreement or the Agreement 
+to Participate in Binding Arbitration, which states that “the Arbitrator shall determine all issues . . . and may grant all 
+remedies that the Arbitrator determines to be just.” Kao claims 
+that the Arbitrator exceeded his authority by awarding punitive 
+damages because section 8.2(c) of the Operating Agreement does 
+not specially list  punitive damages as damages MDG “may incur.” 
+But as stated by the ICA, “[t]he Operating Agreement does not 
+30  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+   
+   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+  
+ 
+  
+ 
+    expressly limit the Arbitrator’s authority with respect to the 
+award and/or remedies it can issue.” Navatek, 2025 WL 2157693 , 
+at *1 n.4. 
+HRS § 658A -21(a) does not require arbitrators to award 
+punitive damages, but it grant s them discretion to do so. 
+Accordingly, the Arbitrator did not exceed his authority under 
+HRS § 658A -23(a)(4). 
+Kao also contends the Arbitrator lacked a factual basis to 
+award punitive damages under HRS § 658A -21(e), given the lack of 
+evidence regarding his net worth. This argument also lacks 
+merit. The Arbitrator did have evidence of Kao’s net worth from 
+his financial statements. 
+In any event, i n reviewing an arbitration award, a court 
+lacks authority to correct an arbitrator’s findings , even if 
+clearly erroneous, or an arbitrator’s conclusions of law , even 
+if wrong. See Nordic, 136 Hawaiʻi at 42, 358 P.3d at 14 
+(citations omitted). A court’s review is limited to whether 
+statutory grounds for vacatur exist under HRS § 658A -23(a). 
+Here, there was no ground for vacatur of the punitive damages 
+award. 
+V. Conclusion 
+For these reasons, w e affirm the ICA’s August 29, 2025 
+judgment on appeal , subject to the analysis in this opinion , and 
+31  *** FOR PUBLICATION IN WEST’S HAWAI ‘I REPORTS AND PACIFIC REPORTER *** 
+ 
+ 
+  
+ 
+ 
+     
+ 
+ 
+ 
+ 
+     remand to the circuit court for further proceedings consistent 
+with the ICA’s SDO and judgment on appeal . 
+Keith M. Kiuchi    
+for  petitioner  
+Martin Kao             
+     
+David M. Louie, Jessie   
+W. Schiel, Nicholas R.     
+Monlux, and Timothy  T.    
+Silvester  
+for respondent         
+Navatek Capital Inc.   /s/  Sabrina S. McKenna  
+/s/  Todd W. Eddins  
+/s/  Lisa M. Ginoza   
+/s/ Brian A. Costa  
+/s/ Rebecca A. Copeland  
+32 

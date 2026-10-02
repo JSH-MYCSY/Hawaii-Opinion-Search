@@ -1,0 +1,469 @@
+FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Electronically Filed 
+Intermediate Court of Appeals CAAP-24-0000278 30-SEP-2026 08:02 AM Dkt. 75 OP 
+IN THE INTERMEDIATE COURT OF APPEALS 
+OF THE STATE OF HAWAI# I 
+–––O0O––– 
+NO. CAAP-24-0000278 
+IN THE INTERMEDIATE COURT OF APPEALS 
+O
+F THE STATE OF HAWAI# I 
+In the Matter of the Arbitration Between 
+UNIVERSITY OF HAWAII PROFESSIONAL ASSEMBLY,
+Union/Petitioner-Appellee,
+and 
+BOARD OF REGENTS OF THE UNIVERSITY OF HAWAII,
+Employer/Respondent-Appellant. 
+APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT 
+(CASE NO. 1CSP-23-0000959) 
+SEPTEMBER 30, 2026 
+NAKASONE, CHIEF JUDGE, AND WADSWORTH AND McCULLEN, JJ. 
+O
+PINION OF THE COURT BY WADSWORTH, J. 
+This appeal arises out of a dispute concerning an 
+arbitration award, which was issued in favor of Petitioner-
+Appellee University of Hawai# i Professional Assembly (UHPA or 
+Union) and against Respondent-Appellant Board of Regents of the 
+University of 
+Hawai#i (University). UHPA and the University are   FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+parties to a collective bargaining agreement (CBA) under which 
+the University provides legal counsel to its faculty members 
+under certain conditions. UHPA filed grievances on behalf of a faculty member, Sarita Rai, Ph.D (Dr. Rai), alleging that the 
+University breached the CBA by denying Dr. Rai's request for 
+legal representation in connection with an investigation and later charges brought against her by the 
+Hawai#i Ethics 
+Commission (HEC). The grievances went to binding arbitration 
+under the CBA. Following an evidentiary hearing, the arbitrator 
+concluded that the University breached the CBA when it failed to provide counsel for Dr. Rai, and awarded UHPA the attorney's fees expended for representing her, in the HEC matters. 
+UHPA filed a motion to confirm the arbitrator's 
+decision and award (
+Motion to Confirm) in the Circuit Court of 
+the First Circuit (Circuit Court). 
+The University filed a 
+counter motion to vacate the decision and award (Counter Motion 
+to Vacate). After briefing and a hearing, the Circuit Court 
+granted the Motion to Confirm and denied the Counter Motion to 
+Vacate. 
+The University appeals from the Judgment entered in 
+favor of UHPA on March 11, 2024, by the Circuit Court.1/ The 
+University also challenges the Findings of Fact, Conclusions of Law, and Order Granting [UHPA's] Motion to Confirm Arbitration Decision Filed on October 16, 2023 (Order Granting Motion to
+Confirm) and the Findings of Fact, Conclusions of Law, and Order 
+Denying . . . the University['s] Counter Motion to Vacate 
+Arbitration Award Filed on November 7, 2023 (Order Denying
+Counter Motion to Vacate), both entered on January 16, 2024, by 
+the Circuit Court. 
+On appeal, the University contends that the Circuit 
+Court erred in granting the Motion to Confirm and denying the 
+Counter Motion to Vacate because: (1) "the arbitrator exceeded his authority under the CBA"; and (2) "the award was unenforceable under the public policy exception" to the general 
+1/ The Honorable Dean E. Ochiai presided. 
+2  
+  FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+deference given to arbitration awards.2/ 
+We hold that the Circuit Court did not err in 
+concluding that the arbitrator did not exceed his authority in 
+interpreting the CBA's legal representation clause. Specifically, the arbitrator did not exceed his authority: (1) in relying in part on extrinsic evidence such as dictionary definitions to interpret ambiguous language in the clause; and (2) in analyzing whether Dr. Rai's alleged acts were within the course and scope of her employment with the University, as prescribed in the clause. 
+We further hold that the Circuit Court did not err in 
+concluding that the University failed to establish: (1) an explicit, well-defined and dominant public policy that prohibits the use of public funds by a public employer such as the University to defend a public employee in matters before the HEC arising within the course and scope of their employment; and (2) that the arbitrator's decision and award clearly violates such a public policy. Therefore, the Circuit Court did not err in determining that the limited public policy exception to the general deference given to arbitration awards does not provide a basis to vacate the arbitrator's decision and award. 
+Accordingly, we affirm the Judgment. 
+I. Background 
+The following facts and procedural history are drawn 
+from the undisputed findings of fact in the Order Denying Counter Motion to Vacate, and the facts upon which the parties appear to agree based on their briefs and the underlying documents they cite, including the February 24, 2023 Decision and Award issued by Arbitrator Michael Anthony Marr (Arbitrator) and the 
+November 17, 2021 Resolution of Charge 2021-02 (Resolution of 
+Charge) issued by the HEC. 
+2/ We have reordered the University's points of error for purposes of
+analytical clarity. 
+3 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+A. The CBA and Legal Representation 
+UHPA and the University are parties to the 2021-2025 
+Agreement, referred to in this opinion as the CBA. The CBA 
+contains a three-step grievance procedure. "A grievance is a complaint by a Faculty Member or the Union concerning the interpretation and application of the express terms of [the CBA]." Under this procedure, a grievance may conclude at "Step 3. Arbitration." "No grievance may be arbitrated unless it involves an alleged violation of a specific term or provision of the [CBA]." The Arbitration provision further states, in relevant part: 
+2) If the [University] disputes the arbitrability of any
+grievance, the Arbitrator shall first determinewhether the Arbitrator has jurisdiction to act; and ifthe Arbitrator finds no such power, the grievanceshall be referred back to the parties without decisionor recommendation on the merits. . . . 
+3) The decision of the Arbitrator shall be final and binding upon the Union, its members, the FacultyMember(s) involved in the grievance, and the[University]. There shall be no appeal from theArbitrator's decision by either party, if suchdecision is within the scope of the Arbitrator'sauthority as described below. 
+a) The Arbitrator shall not have the power to add
+to, subtract from, disregard, alter, or modifyany of the terms of this Agreement. The Arbitrator's award must be consistent with the terms of this Agreement. 
+The CBA contains a legal representation clause 
+(Representation Clause or Clause) that provides legal counsel to 
+faculty members under certain conditions. The Clause provides: 
+D. LEGAL REPRESENTATION 
+1. The [University] shall provide legal counsel for
+a Faculty Member upon request to the Office ofthe Vice President for Legal Affairs andUniversity General Counsel when: 
+a. The Faculty Member is sued for actions
+taken by the Faculty Member in the courseof the Faculty Member's employment andwithin the scope of the Faculty Member'sduties and responsibilities; 
+b. The Faculty Member must appear as adefendant or is subpoenaed to appear incourt when sued for actions taken in the course of employment and within the scope 
+4 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+of the Faculty Member's duties and
+responsibilities; 
+c. The Faculty Member must appear as awitness or is subpoenaed to appear incourt on a matter arising in the course ofemployment and within the scope of theFaculty Member's duties andresponsibilities; and 
+d. The Faculty Member is required to givedeposition or answer interrogatories on amatter arising in the course of employmentand within the scope of the FacultyMember's duties and responsibilities. 
+2. If a judgment or court approved settlement ismade against a Faculty Member in a civil suitfor actions taken by the Faculty Member in thecourse of the Faculty Member's employment andwithin the scope of the Faculty Member's dutiesand responsibilities, the [University] agrees tono more than submit to the Legislature anyjudgment (or court approved settlement) againstthe Faculty Member, with the [University]retaining the discretion of recommending or notrecommending legislative approval. 
+The parties' dispute concerns the interpretation of the 
+Clause and whether it applies to Dr. Rai's grievance. 
+B. Dr. Rai's Grievance 
+Dr. Rai was at all relevant times employed by the 
+University as the Director of the Study Abroad Center (SAC).  Her 
+primary duties and responsibilities concern the development, 
+administration, and evaluation of academic programs at the University and evaluating programs offered at approximately thirty locations across Asia, Australia, Central and South America, Europe, and the Pacific. As part of her responsibilities, Dr. Rai directs fundraising and scholarships, negotiates bilateral agreements with overseas institutions, and manages a budget of approximately $1.5 million, generated from students participating in the study abroad program. 
+Prior to Dr. Rai becoming the SAC Director and 
+continuing until late 2018, the SAC offered an "International Student Identity Card" (ISIC) for purchase by students 
+participating in the study abroad program. The ISIC was produced 
+and distributed by the ISIC Association, a private non-profit organization, such that students could prove their official student status and access student discounts and offers worldwide. 
+5
+   FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Proceeds from the sale of the ISICs were deposited into an SAC 
+bank account maintained at First Hawaiian Bank (the FHB-ISIC 
+account),3/ which existed prior to Dr. Rai becoming the SAC 
+Director. Dr. Rai was informed and understood that the funds 
+generated from the sale of ISICs to participants were neither SAC funds nor University funds. The FHB-ISIC Account was a non-interest-bearing account to support SAC activities. 
+From 2015 to 2018, Dr. Rai and SAC Staff used FHB-ISIC 
+account funds for about two dozen expenditures on food and beverages, including alcohol, totaling $4,305.15. According to Dr. Rai, these expenditures were connected to SAC business, i.e., each expenditure supported an SAC-related event or a relationship with an individual at another university with which SAC interacts. Dr. Rai mistakenly believed that FHB-ISIC account funds were private funds that could be used for these purchases. 
+In 2018, following a complaint by an anonymous 
+employee, the University began an investigation of the SAC expenditures. By letter dated December 13, 2019, Dean Nicholas B. Comerford, the investigator, found that Dr. Rai committed "numerous fiscal violations" and recommended a one-day suspension. By letter dated December 14, 2020, Provost Michael Bruno, the final decision-maker, agreed that Dr. Rai violated University policies in administering the FHB-ISIC account. However, Provost Bruno concluded: 
+I understand why Dean Comerford recommended the one-day
+suspension given that you do serve as a Program Head and youare responsible for ensuring compliance with policies andprocedures. However, I also recognize that you are afaculty member and you may not have received sufficienttraining on the specific budget and fiscal policies. You also indicated that no one has informed you that the[FHB-]ISIC account was not in compliance with UH fiscalpolicies. This could be, in part, due to the fact that SAChas successfully operated without the need for significantoversight, and management was not aware that such an accountexisted. 
+I also acknowledge that the collection of ISIC fees, fees
+for photos, etc. are done for the benefit and convenience of 
+3/ The per-card cost to the SAC, which purchased the ISICs in bulk,
+was $21.25. Students were charged $25.00 for the ISIC, leaving the SAC withexcess funds in the amount of $3.75 for each card sold. About 200 to 250 students participated in SAC programs each year, and most purchased an ISICthrough the SAC. 
+6 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+students participating in the Study Abroad Programs.
+Additionally, in reviewing the expenditures made from the[FHB-]ISIC account, the surplus funds were for gifts topartner institutions, to host lunches/dinners when partnerinstitutions visited, end of year parties, etc. These were,as you indicated, for SAC events and activities. There clearly was no personal gain in collecting such fees. 
+Finally, in considering the appropriate discipline for you,
+I did review your past record. This is the first time that you have been investigated for violating budget and fiscalpolicies. . . [.] 
+With the notion that discipline should be corrective rather
+than punitive, I am reducing your discipline from therecommended one-day suspension to a written reprimand. It is imperative that you know exactly why it is inappropriateto continue to utilize an external account. As an employeeof the University of Hawaii, you are expected to reflect thevalues and standards of the University. We have a responsibility to our community to comply with all budgetand fiscal policies so that they can be assured that thefunds are being used only for official University business. 
+Dr. Rai later testified that while she did not agree 
+with everything Provost Bruno said, she elected not to appeal his 
+decision. 
+On June 25, 2021, Dr. Rai was contacted by Daniel 
+Gluck, then the Executive Director of the HEC (Director). Dr. 
+Rai was informed by the Director that he had received an ethics 
+complaint against her, he wished to schedule a meeting, and she was "entitled to have an attorney and/or union representative present at your own expense." Dr. Rai was also provided with a "Notice of Rights and Responsibilities in Hawaii State Ethics Commission Investigation" form that advised her that "[a]t your own expense, you may have an attorney of your choosing with you during the investigative interview." The form further advised Dr. Rai that if she did not cooperate with the HEC, her employment could be terminated. 
+On June 30, 2021, Dr. Rai submitted a legal service 
+request to the University's Office of General Counsel. The request was denied on the basis that the CBA limited legal representation to court proceedings and litigation and not HEC investigations. The denial also indicated that the FHB-ISIC account, which was the subject of the alleged ethics violation, was not a University account and the University had already determined that Dr. Rai had violated University policies regarding controlling and utilizing the FHB-ISIC account. 
+7
+  FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+On July 20, 2021, UHPA filed a grievance under the CBA 
+on behalf of Dr. Rai. 
+On September 3, 2021, the HEC charged Dr. Rai with 
+violating the fair treatment law, Hawaii Revised Statutes (HRS) 
+§ 84-13, by using the FHB-ISIC account to provide herself and/or 
+others with unwarranted benefits identified as holiday parties, alcohol purchases, and gifts. Dr. Rai submitted a second legal service request to respond to the HEC charges. Dr. Rai did not receive a response to the second request, and UHPA filed an amended Step 1 grievance under the CBA on September 10, 2021. The University later denied the amended grievance at Step 1 and Step 2, and the matter was taken to Step 3 arbitration. 
+Meanwhile, on November 17, 2021, the HEC issued the 
+Resolution of Charge.  The HEC determined, in relevant part: 
+[Dr.] Rai admits that she violated the Fair Treatment
+law, HRS § 84-13(a), by using, and/or authorizing the use
+of, FHB-ISIC account funds on approximately two dozenoccasions between 2015 and 2018 to purchase food andalcohol, totaling $4,305.14, for herself and others. In short, the [FHB-ISIC] account funds belonged to theUniversity, and – as a general rule – state officials maynot use state funds on parties, holiday events, and/orsocial gatherings for themselves. Indeed, the University'sown policies are clear on this point. Of course, nothingprohibits the SAC staff from using personal funds for socialgatherings or to purchase alcohol to accompany a meal.However, [Dr.] Rai violated the Fair Treatment law by usingFHB-ISIC account funds – that is, money that came directlyfrom University students – to pay for SAC holiday luncheonsand alcohol. 
+The HEC resolved the charge by issuing the Resolution 
+of Charge and requiring Dr. Rai to pay an administrative penalty 
+of $5,500 to the State. Dr. Rai paid this amount to the State. 
+C. The Arbitration 
+The University and UHPA selected the Arbitrator to 
+render a final and binding decision on Dr. Rai's grievance. The 
+parties stipulated, as follows: 
+The parties agreed that the first issue to be
+determined by the Arbitrator is whether the Rai Grievance
+was timely filed? If the grievance was timely filed, thesecond issue for the Arbitrator to decide is whether the University violated the CBA by failing to provide legalrepresentation to the Grievant, and if so, what is theappropriate remedy? In addition, the parties agreed that if 
+8   FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+the Rai Grievance was granted, the issue of the appropriate
+remedy would be set on a day after the arbitration hearing. 
+The arbitration hearing was held before the Arbitrator 
+on November 16 and 17, 2022. UHPA called two witnesses, 
+including Dr. Rai, and the University called one witness. Following the submission of closing briefs, the Arbitrator issued the Decision and Award on February 24, 2023. 
+As to the first stipulated issue, the Arbitrator 
+concluded that the grievance was timely and denied the University's motion to dismiss based on timeliness with prejudice. The timeliness issue is not part of the University's appeal. 
+As to the second stipulated issue, the Arbitrator 
+concluded that Dr. Rai was entitled to legal representation in the HEC matters under Article III.D.1. of the CBA, and the University violated the CBA by denying Dr. Rai's requests for such representation. 
+The Arbitrator addressed the appropriate remedy in his 
+Remedy and Final Decision and Award (Final Decision and Award) 
+issued on September 5, 2023. The Final Decision and Award 
+granted UHPA the attorneys' fees expended for representing Dr. Rai in the HEC matters. 
+In determining that Dr. Rai was entitled to legal 
+representation in the HEC matters, the Arbitrator reasoned in part: The Representation Clause provides legal representation to faculty members in four scenarios, provided the faculty member's actions were in the course of employment and within the scope of their duties and responsibilities. The first issue to be determined is whether the Clause, which refers in part to a faculty member who must appear in "court," applies only to court proceedings or other litigation matters, as the University urged, or also to HEC matters, as UHPA contended. In this circumstance, "legal dictionaries and well accepted dictionaries" may be used to determine the ordinary meaning of the term. Black's Law Dictionary (11th ed. 2019) (Black's) defines "court" to include 
+"a tribunal constituted to administer justice; esp., a 
+governmental body organized for public administration of justice 
+9
+   
+  FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+at the time and place prescribed by law, 
+usu. consisting of one 
+or more judges who sit to adjudicate disputes . . . ." Black's 
+definition of "court," which recognizes that a governmental body organized for public administration of justice might have a presiding official who is not a judge, "clearly includes the HEC[.]" This conclusion is also consistent with the definitions of "court" in the Merriam-Webster Dictionary (2022 ed.) (Merriam's) and Webster's Encyclopedic Unabridged Dictionary 
+(1993 ed.) (Webster's). The Clause therefore applies to HEC 
+matters when one of the four scenarios is met. 
+The Arbitrator then concluded that all four scenarios 
+were met, as follows: (1) under Article III.D.1.a, and based on 
+Merriam's definition of "sue,"
+4/ Dr. Rai "was sued by the HEC when 
+it filed a formal charge against her on September 3, 2021"; (2) under Article III.D.1.b, Dr. Rai "was a defendant once the HEC filed a formal charge against her"; (3) under Article III.D.1.c, Dr. Rai "was coerced to appear before the HEC[,]" i.e, the court, "as a witness against herself under threat of termination from her position"; and (4) under Article III.D.1.d, and based on Black's definition of "deposition,"
+5/ Dr. Rai was required to give 
+a deposition when she was sworn in as a witness and asked questions by HEC staff during the "interview" or "meeting" held on July 13, 2021, and her testimony was later reduced to a formal transcript. 
+Lastly, the Arbitrator found that Dr. Rai's acts were 
+"within the course of her employment and within the scope of her duties and responsibilities as a Faculty Member and Director of the SAC[.]" The Arbitrator reached this conclusion guided by the "course and scope" test in Henderson v. Prof. Coatings Corp., 72 Haw. 387, 392, 819 P.2d 84, 88 (1991), discussed below, and based on the following "totality of circumstances": 
+4/ The Arbitrator noted that " Merriam's definition of 'sue' is '2. To 
+seek justice or right by bringing legal action <sued by the company>.'" 
+5/ The Arbitrator stated that " Black's defines 'deposition' as: '1.
+A witness's out-of-court testimony that is reduced to writing, (usu. by a
+court-reporter) for later use in court o[r] for discovery purposes.'"(Formatting altered.) 
+10   FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+1. As acknowledged by Provost Bruno, [Dr. Rai] inherited
+the [FHB-]ISIC account and there was little oversightof her department, and she may not have gotten properfiscal training (while operating the account for thebenefit of the SAC). 
+2. The beneficiaries of ISIC expenditures in the form ofomiyage,
+6/ meals, and alcohol were University and SAC
+guests and visitors. 
+3. The beneficiaries of the ISIC expenditures during theyear-end holiday party included faculty and were madeas a gesture by [Dr. Rai] as a "thank you" forsupporting the SAC. 
+4. Many of the events, particularly the year-end holidayparty[,] were on the campus of the University. It appears that SAC partners were invited, but the partywas open to the entire University. 
+5. As stated by [Dr. Rai] and acknowledged by ProvostBruno, all ISIC expenditures were for the benefit ofthe University and the SAC. 
+6. The University's standing with institutions of higherlearning, particularly universities, were mostcertainly enhanced [by Dr. Rai's] use of the[FHB-]ISIC account by providing meals, sometimes withalcohol. 
+7. While not part of the record, more likely than not,reasonable inferences from the testimony and numerousexhibits indicates [sic] that lunches, with or withoutalcohol, were provided during working hours, and ifdinner, gratis time by [Dr. Rai] and/or SAC employeesentertaining them on behalf of the SAC. 
+8. SAC partners and guests were accompanied by [Dr. Rai]and/or SAC staff during meals and other forms ofomiyage. The Rai Grievance has nothing to do withomiyage being offered in the form of a bribe or otherserious misconduct. 
+9. The University was most certainly a beneficiary ofISIC expenditures. 
+10. As acknowledged by Provost Bruno, [Dr. Rai] receivedno personal gain from the [FHB-]ISIC accountexpenditures. 
+11. [Dr. Rai's] actions were based upon negligence andlack of training regarding fiscal policies. She did not have any wrongful, fraudulent, or deceitful intentto harm the University or violate University policy. 
+6/ In Japanese culture, "omiyage" refers to a gift or local
+specialty, often edible, that a traveler brings back from a trip to give tofamily, friends and coworkers. See Grace Maeda, 
+Ono Omiyage: Hawai #i's Sweet 
+Gift-Giving Tradition , Hawai #i Magazine, Apr. 8, 2026. This tradition,
+brought to Hawai #i in the mid-1800s by Japanese immigrants, has evolved into a
+distinct local practice, in which omiyage is a way of showing appreciation,expressing aloha, and strengthening connections with family, friends, andcolleagues, typically by giving and sharing local treats and delicacies. 
+See 
+id. 
+11 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+(Footnote added.) 
+D. Circuit Court Proceedings 
+On October 16, 2023, UHPA filed the Motion to Confirm 
+in the Circuit Court. On November 7, 2023, the University filed 
+the Counter Motion to Vacate, contending that: (1) the Arbitrator exceeded his authority as granted in the CBA in interpreting the Clause; and (2) the Decision and Award violates public policy on state ethics under the Hawai# i Constitution and HRS Chapter 84. 
+On December 1, 2023, UHPA filed a memorandum in opposition to the Counter Motion to Vacate, and on December 6, 2023, the University filed a reply. 
+Following a hearing on December 11, 2023, the Circuit 
+Court entered its Order Granting Motion to Confirm and Order Denying Counter Motion to Vacate on January 16, 2024. The court concluded, first, the Decision and Award "could have rested on an interpretation and application of the agreement[,]" i.e.
+, the CBA 
+(quoting In re Haw. State Tchrs. Ass'n (HSTA), 140 Hawai# i 381, 
+401, 400 P.3d 582, 601 (2017)) and, therefore, the Arbitrator did not exceed his authority in interpreting the Clause. 
+The court 
+concluded, second, the University "fails to establish an explicit, well-defined and dominant public policy that prohibits the use of public funds by a public employer to defend a public employee in matters before the State Ethics Commission"; the University "fails to establish that the Arbitrator's Decision and Award clearly violates [such a] public policy"; and, therefore, "the limited public policy exception to the general deference given to arbitration awards does not provide a basis to vacate the Arbitrator's Decision and Award." 
+The Circuit Court subsequently granted UHPA's motion 
+for attorney's fees and costs pursuant to HRS § 658A-25 in the amount of $13,426.06
+, and entered the Judgment. 
+II. Standards of Review 
+We review the Circuit Court's ruling on an arbitration 
+award de novo. Tatibouet v. Ellsworth
+, 99 Hawai#i 226, 233, 54 
+P.3d 397, 404 (2002). 
+12 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+"Judicial review of an arbitration award is confined to 
+'the strictest possible limits,' and a court may only vacate an 
+award on the grounds specified in HRS § 658A-23 and modify or correct on the grounds specified in HRS § 658A-24." HSTA, 140 
+Hawai#i at 391, 400 P.3d at 592 (brackets omitted) (quoting State 
+of Haw. Org. of Police Officers (SHOPO) v. Cnty. of Kaua# i, 135 
+Hawai#i 456, 461, 353 P.3d 998, 1003 (2015)). "[C]ourts have no 
+business weighing the merits of the award." Id. at 392, 400 P.3d 
+at 593 (quoting Schmidt v. Pac. Benefit Servs., Inc., 113 Hawai# i
+ 
+161, 165-66, 150 P.3d 810, 814-15 (2006)). Parties who agree to arbitrate assume all hazards of the process, including the risk the arbitrator "may make mistakes in the application of law and in their findings of fact." Tatibouet, 99 Hawai# i
+ at 233, 54 
+P.3d at 404 (quoting Wayland Lum Constr., Inc. v. Kaneshige, 90 Hawai#i 417, 422, 978 P.2d 855, 860 (1999)). 
+III. Discussion 
+With these principles in mind, we first address the 
+University's contention that the Arbitrator exceeded his authority under the CBA, followed by its contention that enforcing the award violates public policy. 
+A. The Arbitrator's Authority 
+The University contends that the Circuit Court erred in 
+denying the Counter Motion to Vacate pursuant to HRS § 658A-23-
+(a)(4), "as the arbitrator exceeded his authority under the CBA." More specifically, the University contends that the Arbitrator exceed his authority "by relying on extrinsic evidence to give meaning to unambiguous language in the [CBA]" and "by considering irrelevant factors in whether Dr. Rai's acts were within the course and scope of her employment." (Capitalization altered.) 
+Although "[j]udicial review of an arbitration award is 
+confined to the 'strictest possible limits,'" HSTA, 140 Hawai# i 
+at 396, 400 P.3d at 597 (quoting SHOPO, 135 Hawaii # at 461, 353 
+P.3d at 1003), an arbitration award must be vacated where "[a]n arbitrator exceeded the arbitrator's powers." 
+HRS § 658A-
+23(a)(4) (2016). 
+"In determining whether an arbitrator has 
+13 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+exceeded his or her authority under the agreement, 'there should 
+be no second guessing by the court of the arbitrator's interpretation of his or her authority so long as the arbitrator's interpretation 'could have rested on an interpretation and application of the agreement.'" HSTA, 140 
+Hawai#i at 396, 400 P.3d at 597 (quoting SHOPO, 135 Hawai# i at 
+463, 353 P.3d at 1005). 
+1. Reliance Upon "Dictionary Definitions" 
+The University first argues that the Arbitrator 
+exceeded his authority "when he relied upon dictionary definitions for unambiguous language in the [L]egal [R]epresentation [C]lause." To recap, the Clause states that the University shall provide legal counsel, provided that the faculty member's actions were in the course of employment and within the scope of their duties and responsibilities, when (a) "[t]he Faculty Member is sued[,]" (b) "[t]he Faculty Member must appear as a defendant or is subpoenaed to appear in court[,]" (c) "[t]he Faculty Member must appear as a witness or is subpoenaed to appear in court[,]" and (d) "[t]he Faculty Member is required to give deposition or answer interrogatories[.]" The University contends that the Clause unambiguously applies only to "court" proceedings, not matters before the HEC, and the Arbitrator therefore could not resort to "dictionary definitions" to construe the Clause's terms. 
+In this regard, the University 
+argues that the Arbitrator improperly relied on: (a) Black's to determine that the word "court" can mean "a governmental body organized for public administration of justice," such that "court" includes the HEC; (b) Merriam's to determine that the word "sue" can mean "[t]o seek justice or right by bringing legal action[,]" such that "sue" includes the HEC's filing of a formal charge against Dr. Rai; and (c) Black's to determine that the word "deposition" can mean "[a] witness's out-of-court testimony that is reduced to writing . . . for later use in court o[r] for discovery purposes[,]" such that "deposition" includes the interview or meeting before the HEC held on July 13, 2021. The University argues that "the arbitrator deviated from the CBA by 
+14
+ FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+finding that the terms had the opposite meaning of what was 
+written" and the arbitration award "effectively modifies the contractual terms agreed upon by the parties . . . ." 
+UHPA, on the other hand, contends that the Clause 
+applies to matters before the HEC. UHPA points out that the words "court," "sued," and "deposition" are not defined in the CBA, thereby leaving the meaning of these terms subject to more than one interpretation – a matter that was within the authority of the Arbitrator to resolve. UHPA also points out that the University itself urged the Arbitrator to define certain terms in the Clause based on their "legal definition[s]" as stated in Black's. 
+The CBA is a contract. "The construction and legal 
+effect to be given a contract is a question of law . . . ." Hawaiian Ass'n of Seventh-Day Adventists v. Wong, 130 Hawai# i 36, 
+45, 305 P.3d 452, 461 (2013) (brackets omitted) (quoting Brown v. KFC Nat'l Mgmt. Co., 82 Hawai# i 226, 239, 921 P.2d 146, 159 
+(1996)). 
+The Hawai# i Supreme Court has set out the relevant 
+rules of interpretation as follows: 
+Contract terms are interpreted according to their
+plain, ordinary, and accepted sense in common speech. Cho 
+Mark Oriental Food v. K & K Intern., 73 Haw. 509, 520, 836P.2d 1057, 1064 (1992). The court's objective is "toascertain and effectuate the intention of the parties asmanifested by the contract in its entirety." Brown, 82Hawaii # at 240, 921 P.2d at 160 (citation and internal
+quotation marks omitted). 
+A contract is ambiguous when its terms are reasonably
+susceptible to more than one meaning. 
+Airgo v. Horizon
+Cargo Transp., 66 Haw. 590, 594, 670 P.2d 1277, 1280 (1983).As a general rule, the court will look no further than thefour corners of the contract to determine whether an ambiguity exists. State Farm Fire & Cas. Co. v. Pac. Rent–All, 90 Hawai #i 315, 324, 978 P.2d 753, 762 (1999)
+(noting that the parties' disagreement as to the meaning ofa contract does not render it ambiguous). The parolevidence rule "precludes the use of extrinsic evidence tovary or contradict the terms of an unambiguous andintegrated contract." Pancakes of Hawai #i v. Pomare Props.
+Corp., 85 Hawai #i 300, 310, 944 P.2d 97, 107 (App. 1997)
+(citation omitted). This rule, however, is subject toexceptions that permit the court to consider extrinsicevidence when the writing in question is ambiguous orincomplete. Id. Where there is any doubt or controversy asto the meaning of the language, the court is permitted toconsider parol evidence to explain the intent of the partiesand the circumstances under which the agreement wasexecuted. Hokama v. Relinc Corp., 57 Haw. 470, 476, 559P.2d 279, 283 (1977). 
+15 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Id. at 45-46, 305 P.3d at 461-62; see also Moloaa Farms LLC v. 
+Green Energy Team LLC, 157 Hawai# i 175, 189, 575 P.3d 808, 822 
+(2025) ("[W]hen an ambiguity exists so that there is some doubt as to the intent of the parties, intent is a question for the trier of fact." (quoting Found. Int'l, Inc. v. E.T. Ige Constr., Inc., 102 Hawai# i 487, 497, 78 P.3d 23, 33 (2003))). 
+The terms "court," "sued," and "deposition" are not 
+defined in the CBA. Although the University asserts that each of these terms has just one meaning, it does not persuasively argue that their context in the Clause necessarily excludes the meaning advanced by UHPA. In short, the terms are reasonably susceptible to more than one meaning and the Arbitrator did not exceed his authority in making that determination or in using the referenced dictionaries to determine the meaning. Indeed, the CBA expressly provides for the arbitration of a faculty member's complaint about the interpretation and application of the CBA's terms. And there was no dispute that the Arbitrator was within his authority to interpret the terms of the Clause – so as to determine whether Dr. Rai was entitled to legal representation in the HEC matters – until after the decision was made and the University concluded the Arbitrator's interpretation was mistaken. Even if wrong, the Arbitrator's interpretation was one of the "hazards of the arbitration process" that the University assumed, "including the risk that the arbitrator[] may make mistakes in the application of law . . . ." Tatibouet, 99 Hawai# i at 233, 54 P.3d at 404 
+(quoting Wayland Lum Constr., 90 Hawai# i at 422, 978 P.2d at 
+860). "A misinterpretation of law does not amount to exceeding enumerated powers . . . ." Id. at 235, 54 P.3d at 406. 
+In sum, the Arbitrator's interpretation of his 
+authority to construe the terms of the Clause "could have rested on an interpretation and application of the [CBA]." See HSTA, 
+140 Hawai# i at 396, 400 P.3d at 597 (quoting SHOPO
+, 135 Hawai#i at 
+463, 353 P.3d at 1005). The Circuit Court did not err in concluding that the Arbitrator did not exceed his authority in relying on extrinsic evidence such as dictionary definitions to interpret ambiguous language in the Clause. 
+16 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+2. Consideration of "Irrelevant Factors" 
+The University next contends that the Arbitrator 
+exceeded his authority "by considering irrelevant factors in 
+whether Dr. Rai's acts were within the course and scope of her employment." (Capitalization altered.) In support of this contention, the University first asserts that the applicable legal test for determining course and scope was set forth by the supreme court in Henderson, as follows: 
+(1) Conduct of a servant is within the scope of
+employment if, but only if: 
+(a) it is of the kind he is employed to perform; 
+(b) it occurs substantially within the
+authorized time and space limits; [and] 
+(c) it is actuated, at least in part, by a
+purpose to serve the master, . . . . [. . . .] (2) Conduct of a servant is not within the scope of
+employment if it is different in kind from that authorized,
+far beyond the authorized time or space limits, or toolittle actuated by a purpose to serve the master. 
+72 Haw. at 392, 819 P.2d at 88 (quoting Kang v. Charles Pankow 
+Assocs., 5 Haw. App. 1, 8, 675 P.2d 803, 808 (1984) (quoting Restatement (Second) of Agency § 228 (1958))). 
+The University then asserts that in applying this test, 
+the Arbitrator improperly considered whether Dr Rai's conduct was negligent or otherwise serious, and whether Dr. Rai "personally gained" from her conduct, as follows: 
+8. SAC partners and guests were accompanied by [Dr. Rai]
+and/or SAC staff during meals and other forms ofomiyage. The Rai Grievance has nothing to do withomiyage being offered in the form of a bribe or otherserious misconduct. 
+. . . . 
+10. As acknowledged by Provost Bruno, [Dr. Rai] received
+no personal gain from the ISIC account expenditures. 
+11. [Dr. Rai's] actions were based upon negligence andlack of training regarding fiscal policies. She did not have any wrongful, fraudulent, or deceitful intentto harm the University or violate University policy. 
+17 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+The University further argues that the following 
+findings were "not supported by the record and were made by the 
+arbitrator's own inferences": 
+6. The University's standing with institutions of higher
+learning, particularly universities, were mostcertainly enhanced [by Dr. Rai's] use of the[FHB-]ISIC account by providing meals, sometimes withalcohol. 
+7. While not part of the record, more likely than not,reasonable inferences from the testimony and numerousexhibits indicates that lunches, with or withoutalcohol, were provided during working hours, and ifdinner, gratis time by [Dr. Rai] and/or SAC employeesentertaining them on behalf of the SAC. 
+Notably, the University does not directly argue that 
+the Arbitrator erred in concluding that Dr. Rai's alleged acts 
+were within the course and scope of her employment, presumably because such an argument would not support vacating the award. See Tatibouet, 99 Hawai# i at 233, 54 P.3d 397 at 404. Instead, 
+the University challenges selected components of the Arbitrator's reasoning in an effort to shoehorn its dissatisfaction with the result into an argument about the Arbitrator's authority. 
+This 
+effort — based on alleged mistakes by the Arbitrator in applying the law and determining the relevant facts — similarly fails. See id.
+Again, the CBA expressly provides for the arbitration 
+of disputes regarding the interpretation and application of the CBA's terms. There can be no real dispute here that the Arbitrator was within his authority to interpret the phrase, "in the course of employment and within the scope of the Faculty Member's duties and responsibilities" (
+course and scope element), 
+as used in the Clause — so as to determine whether Dr. Rai was entitled to legal representation in the HEC matters. The Arbitrator's interpretation of his authority to construe the course and scope element "could have rested" on an interpretation and application of the CBA. HSTA
+, 140 Hawai#i at 396, 400 P.3d 
+at 597 (quoting 
+SHOPO
+, 135 Hawai#i at 463, 353 P.3d at 1005). 
+The Circuit Court did not err in concluding that the Arbitrator did not exceed his authority in analyzing and interpreting the course and scope element. 
+18 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+B. Public Policy Exception 
+The University argued below that public policy 
+prohibits it from using public funds to defend a public employee 
+accused of violating the State Ethics Code, HRS chapter 84. The University makes essentially the same blanket argument on appeal, meaning, in the case of Dr. Rai, public policy would purportedly prohibit it from funding her defense even though her actions were found to be within the course and scope of her employment — a determination that withstands this appeal. See supra. In 
+support of its argument, the University points to "multiple explicit and well-defined public policies, including (1) standards of ethical conduct come from the personal integrity of each individual in government, as stated in the 
+Hawai#i 
+Constitution, and applies [sic] solely to the individual, as stated in [HRS §] 84-2 . . . ; (2) public employees who come before the [HEC] may hire an attorney at their own expense . . . ; [and] (3) the use of taxpayer funds to provide legal representation to employees who is [sic] sued for actions performed beyond their duties and responsibilities does not benefit the public . . . ." 
+"Hawai#i recognizes a 'limited public policy exception 
+to the general deference given arbitration awards.'" HSTA, 140 
+Hawai#i at 400, 400 P.3d at 601 (quoting Inlandboatmen's Union of 
+the Pac. v. Sause Bros., 77 Hawai# i 187, 194, 881 P.2d 1255, 1262 
+(App. 1994)). The public policy exception applies "only in cases where enforcing an arbitration award or contract would involve illegality or violate public policy." Id.
+ (citing SHOPO
+, 135 
+Hawai#i at 465-67, 353 P.3d at 1007-09). 
+Hawai#i courts review public policy claims under the 
+following framework: 
+First, the court must determine whether there is an
+explicit, well defined, and dominant public policy that isascertained by reference to the laws and legal precedentsand not from general considerations of supposed publicinterests. Second, the court must determine whether thearbitration award itself is clearly shown to be contrary tothe explicit, well-defined, and dominant public policy. 
+SHOPO, 135 Hawai# i at 465, 353 P.3d at 1007 (internal quotation 
+19 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+marks and citations omitted; emphases added). 
+The University first argues that the Hawai# i 
+Constitution and the State Ethics Code set forth an explicit, 
+well-defined, and dominant public policy that "public officers and employees must exhibit the highest standards of ethical conduct and that these standards come from the personal integrity of each individual in government." 
+(Emphasis omitted.) Indeed, 
+the Hawai# i Constitution states in relevant part: 
+The people of Hawaii believe that public officers and
+employees must exhibit the highest standards of ethical
+conduct and that these standards come from the personalintegrity of each individual in government. To keep faithwith this belief, the legislature, each politicalsubdivision and the constitutional convention shall adopt acode of ethics which shall apply to appointed and electedofficers and employees of the State or the politicalsubdivision, respectively, including members of the boards,commissions and other bodies. 
+Haw. Const. Art. XIV. In turn, HRS § 84-2 generally provides 
+that the State Ethics Code "shall apply to every nominated, appointed, or elected officer, employee, and candidate to elected office of the State . . . ." And the fair treatment law, HRS § 84-13, states in relevant part: "No legislator or employee shall use or attempt to use the legislator's or employee's official position to secure or grant unwarranted privileges, exemptions, advantages, contracts, or treatment, for oneself or others[.]" 
+The University does not explain, however, how these 
+important principles translate into an explicit, well-defined, and dominant public policy that precludes the use of public funds by a public employer to defend a public employee in matters before the HEC arising within the course and scope of their employment. The principles the University relies on are certainly not explicit in that regard. Rather, the University appears to be concerned that "[i]f the public employer is required to provide and defend the employee's violation of the State Ethics Code, . . . the government is then required to fight itself on both ends — between the [HEC] and public employer — to establish whether an ethics violation occurred." 
+20
+ FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+This argument is difficult to discern. To the extent 
+the University may be concerned about a potential conflict of 
+interest in defending an employee accused of ethical violations, this concern does not necessarily preclude, in appropriate circumstances, providing independent counsel to represent the employee. 
+In any event, the University points to no explicit 
+provision of the Constitution or HRS chapter 84 that prohibits the use of public funds by a public employer to defend a public employee in matters before the HEC arising within the course and scope of their employment. 
+The University next points to an HEC administrative 
+rule that states: "A party, at the party's own expense, may be represented by legal counsel at any stage of the proceeding before the commission or hearing officer." Haw. Admin. R. § 21-5-2.5(a). From this, the University infers a "well-defined and dominant" public policy that requires "public employees to pay for their own representation before the [HEC]." 
+This is, at best, a strained and unsupported leap of 
+logic. UHPA offers a more reasonable explanation: the HEC's rule "is simply a reflection of the fact that a contested hearing before the [HEC] is a civil adjudication and not a criminal one[, and the HEC] does not provide public defenders or attorneys for a party appearing before the [HEC] . . . ." In any event, the rule does not express an explicit, well-defined, and dominant public policy that bars public employers from using public funds to defend a public employee in matters before the HEC arising within the course and scope of their employment. 
+Finally, the University relies on the supreme court's 
+decision in City & Cnty. of Honolulu v. Honolulu Police Comm'n, 152 Hawai# i 268, 526 P.3d 245 (2023), from which the University 
+derives "a well-defined and dominant policy to refrain from using taxpayer dollars to fund public employees' legal representation, when the acts for which they are being 'sued' are outside the performance of their duties." (Emphasis added.) In Honolulu Police Comm'n, the supreme court ruled in part that pursuant to the plain language of HRS § 52D-8, a police officer is entitled to publicly funded legal representation only "for acts done in 
+21 FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+the performance of the officer's duty as a police officer," and 
+then-Chief of Police Louis Kealoha did not meet his burden of establishing entitlement to such representation. Id. at 272, 526 
+P.3d at 249. 
+In the opinion's conclusion, the supreme court 
+observed: "Taxpayer-funded representation for officers whose acts are in the performance of their duties as police officers benefit the public. Taxpayer-funded representation for officers whose acts are not in the performance of their duties as police officers do not." Id. at 281, 526 P.3d at 258. Based on this 
+language, the University argues: "Violations of the State Ethics Code are never within the duties and responsibilities of any state officer or employee, as such actions may result in termination. . . . As the Arbitration Award found that the University should have granted Dr. Rai's request for legal representation and use public funds for her defense before the [HEC], the Arbitration Award violates the public policy set forth in Honolulu Police Comm[']n." (Emphasis added.) 
+Not so. Honolulu Police Comm'n does not apply here for 
+multiple reasons. That case did not express a public policy precluding public employers such as the University from agreeing to provide their employees representation in matters before the HEC under conditions such as those prescribed in the CBA; it did not involve a duty that was contractual in nature, determined by the language of the CBA; it did not involve parties who agreed to have an arbitrator render a final and binding decision interpreting the terms of their contract. Rather, Honolulu Police Comm'n involved a county's statutory obligation to defend a police officer, as determined by the language of HRS § 52D-8, whose ultimate arbiter is the supreme court. 
+More fundamentally, the University's argument based on 
+Honolulu Police Comm'n appears to be built on the unstated premise that Dr. Rai's alleged actions were necessarily outside the course and scope of her employment. The Arbitrator concluded otherwise, based in part on the University's own judgment, expressed through Provost Bruno, that the expenditures made from the FHB-ISIC account were for the benefit of the University and the SAC. The University has not successfully challenged the 
+22
+ FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+Arbitrator's conclusion on appeal. See supra. 
+It cannot escape 
+that conclusion with a vague, categorical pronouncement that 
+ethics violations are "never" within the duties and responsibilities of "any state . . . employee." The Arbitrator's contrary interpretation of the Clause's course and scope element was one of the "hazards of the arbitration process" that the University assumed. See supra. 
+Nor does it matter for representation purposes that Dr. 
+Rai eventually admitted, in order to resolve the HEC's charges, that she violated the fair treatment law in her use of FHB-ISIC account funds for SAC events. As the Arbitrator concluded: 
+With the exception of a "course and scope" review,
+which protects the University from [a] Faculty Member's
+misconduct, there is no language in Article III.D [of theCBA] that makes legal representation contingent upon themerits of a Faculty Member's defense to allegations ofmisconduct, if the Faculty Member's actions fall within oneof the 4 scenarios. This is the agreement the partiesreached at the bargaining table and the Arbitrator mustfollow their negotiated agreement. 
+Indeed, a right to defense would have little meaning if it were 
+contingent on the merit of the accusation or the defense. The University identifies no explicit, well-defined, and dominant public policy that prohibits the University from agreeing to the Representation Clause and protecting itself via the course and scope element. 
+The Circuit Court did not err in concluding that the 
+University failed to establish: (1) an explicit, well-defined, and dominant public policy that prohibits the use of public funds by a public employer to defend a public employee in matters before the HEC arising within the course and scope of their employment; and (2) that the Arbitrator's Decision and Award clearly violates such a public policy. Therefore, the Circuit Court did not err in determining that the limited public policy exception to the general deference given to arbitration awards does not provide a basis to vacate the Arbitrator's Decision and Award. 
+23
+ FOR PUBLICATION IN WEST'S HAWAI #I REPORTS AND PACIFIC REPORTER 
+IV.
+ Conclusion 
+For these reasons, the March 11, 2024 Judgment is 
+affirmed. 
+On the briefs: 
+Carrie K.S. Okinaga,
+University General Counsel,and Elisabeth A.K. Contrades and Justin M. Luney,Associate General Counsels,for Employer/Respondent-Appellant 
+Wade C. Zukeran 
+for Union/Petitioner-Appellee 
+Kaliko#onâlani D. Fernandes,
+Solicitor General of Hawai# i, and
+Thomas J. Hughes,
+Deputy Solicitor General,for Amicus Curiae Hawai#i State Ethics Commission 
+Keani Alapa,Natasha Baldauf, andManta Dircks (Alapa & Otake, LLLC)for Amicus Curiae Hawai#i State Teachers Association 
+James E.T. Koshiba and Jonathan E. Spiker(Koshiba & Price)for Amicus Curiae Hawaii Government EmployeesAssociation, AFSCME Local 152,AFL-CIO /s/ Karen T. NakasoneChief Judge 
+/s/ Clyde J. Wadsworth
+Associate Judge 
+/s/ Sonja M.P. McCullen
+Associate Judge 
+24
+ 
