@@ -1,0 +1,2632 @@
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ *** FOR PUBLICATION IN WEST’S HAWAIʻI REPORTS AND PACIFIC REPORTER ***  
+Electronically Filed 
+Supreme Court SCAP-23-0000277 09-OCT-2026 10:44 AM Dkt. 42 OP 
+IN THE SUPREME COURT OF THE STATE OF HAWAIʻI  
+ 
+ ________________________________________________________________ ---o0o---
+R.H., Individually and as Guardian Ad Litem for A.H.,  
+an Incompetent Adult,  
+Plaintiff-Appellant/Cross-Appellee,  
+ 
+vs.  
+ 
+KEITH T. HAYASHI,  in his official capacity as  
+Superintendent of the Hawaiʻi Department of Education and  
+STATE OF HAWAI ʻI DEPARTMENT OF EDUCATION,   
+Defendants-Crossclaimants-Crossclaim Defendants-Appellees/Cross-
+Appellees,  
+ 
+and  
+ 
+STATE OF HAWAI ʻI,  
+Defendant-Crossclaimant-Crossclaim Defendant- 
+Appellee/Cross-Appellant,  
+ 
+and  
+ 
+CHRIS NAKAGAWA and ANTHONY JONES,  
+Defendants-Crossclaimants-Crossclaim Defendants- 
+Appellees/Cross-Appellees,  
+ 
+and  
+ 
+LANAKILA PACIFIC, a non-profit organization,  
+Defendant-Crossclaim Defendant-Crossclaimant- 
+Appellee/Cross-Appellee.  
+ ________________________________________________________________ 
+SCAP-23-0000277   *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+ 
+  
+  
+  
+   
+ 
+  
+ 
+   
+ 
+   
+  
+ 
+ APPEAL FROM THE CIRCUIT COURT OF THE FIRST CIRCUIT  
+(CAAP-23-0000277; CIV. NO. 1CC121003327)  
+ 
+OCTOBER 9, 2026  
+ 
+DEVENS, C.J., McKENNA, EDDINS, AND GINOZA, JJ.,  
+AND CIRCUIT JUDGE REMIGIO, ASSIGNED BY REASON OF VACANCY  
+OPINION OF THE COURT BY McKENNA, J.  
+I. Introduction 
+Both the plaintiffs and defendants appeal a circuit court 
+final judgment in this transfer case. 
+A.H. (pseudonym “Amy”) has severe cognitive disabilities 
+and lacks capacity to consent to sex. While a student at 
+McKinley High School (“McKinley”) , Amy was sexually abused by 
+male students . The abuse eventually caused her to suffer a 
+psychotic breakdown and sustain serious, continuing 
+psychological injur ies. 
+Amy’s mother (“Mother”) filed this negligence lawsuit on 
+behalf of Amy and herself ( collectively , “Plaintiffs”) in the 
+Circuit Court of the First Circuit (“circuit court”) . The State 
+of Hawai ‘i, its Department of Education (“DOE”), and DOE 
+employees (collectively , “the State”) were named as defendants . 
+Plaintiffs alleged that the State negligently failed to protect 
+Amy from repeated sexual abuse while she attended McKinley. 
+The circuit court presided over a sixty -six-day bench 
+trial. There was extensive evidence that school personnel knew 
+2  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+  
+ 
+ 
+  
+  
+   
+    
+ 
+  
+   
+   
+ 
+ 
+ 
+ 
+ 
+  of Amy’s significant cognitive disabilities, recognized her 
+extraordinary vulnerability to sexual exploitation, were 
+repeatedly confronted with warning signs that she was being 
+sexually abused, but failed to take reasonable measures to 
+prevent it. 
+The circuit court concluded that the State negligently 
+failed to protect Amy. It determined that Plaintiffs ’ injuries 
+and requisite treatment merited a total damages award of more 
+than $14 million , more than half for special damages . But 
+without any request from the State that it do so, in its written 
+decision, the circuit court apportioned 30% of the fault to the 
+male students and reduced Plaintiffs’ damages award by that 
+percentage. 
+This sua sponte apportionment is the main issue on appeal . 
+The circuit court cited Hawai‘i Revised Statutes (“HRS”) § 
+663-10.5 (Supp. 2017) as the basis for this apportionment. That 
+statute provides in relevant part: 
+§663-10.5 Government entity as a tortfeasor; abolition of 
+joint and several liability. (a) Any other law to the 
+contrary notwithstanding, . . . in any case where a 
+government entity is determined to be a tortfeasor along 
+with one or more other tortfeasors, the government entity 
+shall be liable for no more than that percentage share of 
+the damages attributable to the government entity [.] 
+(b) For purposes of this section, the liability of a 
+government entity shall include its vicarious liability 
+for the acts or omissions of its officers and 
+employees. 
+(c) For purposes of this section, “government entity” means 
+any unit of government in this State, including: 
+(1) The State[.] 
+3  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+  
+  
+ 
+ 
+  
+   
+  
+  
+ 
+ Plaintiffs contend the circuit court improperly reduced 
+their recovery when the State never pursued apportionment of 
+liability to the male students . The State pled HRS § 663 -10.5 
+as a defense in its answer but never argued that the male 
+students should bear a portion of liability. Rather, in its 
+closing argument and proposed findings and conclusions, the 
+State briefly argued that if the State was found liable, then 
+part of the liability should be apportioned to Mother. 
+Specifically, t he State asked the circuit court to reduce 
+the Plaintiffs’ damages by Mother’s alleged negligen ce in 
+failing to provide more information to the school. The circuit 
+court rejected this argument but then, on its own accord, 
+allocated liability to the male students . 
+On Plaintiffs ’ points of error on appeal , we hold that the 
+circuit court’s sua sponte allocation of fault to the male 
+students violated Plaintiffs’ Hawaiʻi constitutional due process 
+rights. Plaintiffs were deprived of notice and an opportunity 
+to be heard on whether the boys were actually “other 
+tortfeasors ” under HRS § 663 -10.5 and, if so, what percentage, 
+if any, should be allocated to them. We set out what steps due 
+process requires for an “other tortfeasor” determination. 
+We also hold that there was insufficient evidence that the 
+male students qualified as “other tortfeasors” under HRS § 663 -
+10.5, especially because the circuit court explicitly found 
+4  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+   
+  
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  little to no evidence the boys knew any details about Amy’s 
+cognitive disabilities or that they were aware or should have 
+been aware that Amy lacked capacity to consent to sex.  
+We further hold that apportionment of liability under HRS § 
+663-10.5 is an affirmative defense for which the State did not 
+meet its burden of proof. 
+Finally, based on these holdings, we also hold that the 
+circuit court erred by denying Plaintiffs ’ motion to amend the 
+judgment to reverse its apportionment decision. 
+On cross -appeal, the State argues that the circuit court 
+abused its discretion by limiting Amy’s deposition , refusing to 
+order a Hawaiʻi Rules of Civil Procedure (“HRCP”) Rule 351 
+medical examination of Amy, and awarding excessive damages. 
+These arguments are without merit . The circuit court acted 
+within its discretion by denying additional discovery based on 
+the extensive evidence indicating that further examination of 
+1HRCP Rule 35 states, in relevant part: 
+Rule 35. Physical and Mental Examination of Persons. (a) 
+Order for Examination. When the mental or physical 
+condition . . . of a party, or of a person in the custody 
+or under the legal control of a party, is in controversy, 
+the court in which the action is pending may order the 
+party to submit to a physical or mental examination by a 
+suitably licensed or certified examiner or to produce for 
+examination the person in the party's custody or legal 
+control. The order may be made only on motion for good 
+cause shown and upon notice to the person to be examined 
+and to all parties and shall specify the time, place, 
+manner, conditions, and scope of the examination and the 
+person or persons by whom it is to be made. 
+5  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+   
+ 
+  
+ 
+   Amy, whether through a continued deposition or a HRCP Rule 35 
+examination, would likely cause her significant psychological 
+harm. Finally, the damages awarded by the circuit court were 
+supported by the record. 
+We therefore affirm the circuit court’s findings, 
+conclusions, and judgment except for its allocation of 30% of 
+the liability to the male students . We remand to the circuit 
+court for entry of an amended judgment consistent with this 
+opinion. 
+II. Background 
+A. Factual Background 
+This factual background is derived from the circuit court’s 
+findings of fact.  
+Amy was a special education student with serious cognitive 
+impairments. She was identified as a special education student 
+in the third grade and since then had Individualized Education 
+Plans (“IEP”) that identified her educational needs. 
+Amy had no obvious physical manifestations of her cognitive 
+disability. But her impairments were severe , and she was 
+functioning far below her chronological age and appearance. 
+When Amy entered McKinley High School in 2008, she functioned at 
+the level of a five -year-old, or even younger. Amy’s disability 
+was consistently affirmed during multiple cognitive assessments, 
+including testing that showed a n IQ score of 40. 
+6  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+   
+ 
+  
+  
+ 
+  
+  
+ 
+ 
+  
+   
+ 
+  
+ 
+ A chronology of relevant events follows. 
+August 2008 : Amy began ninth grade at McKinley. McKinley 
+received her eighth-grade IEP and was aware she was a 
+particularly low -functioning special education student who 
+required monitoring. Amy’s eighth-grade IEP recommended that 
+she not be placed with general education students , particularly 
+due to a history of bullying. 
+Fall 2008 : Despite this recommendation , Amy was initially 
+placed in two pre -algebra classes with significantly higher -
+functioning students. The teacher, Mr. Choy (“Choy”), 
+immediately determined that his class was not suitable for Amy. 
+Choy was also aware of incidents in which other children in his 
+class teased Amy. 
+He also heard that students were talking about Amy 
+performing oral sex on a higher -functioning boy. The only step 
+Choy took regarding this was to d iscuss the allegation with the 
+boy, who denied it. There is no record of the school 
+administration or of Mother being informed . Choy did recommend, 
+however, that Amy be placed in a non -diploma track program that 
+teaches simple workplace skills such as cooking, how to be on 
+time, and how to make change. In November 2008, Mother also 
+requested that Amy be moved into th is non-diploma track program. 
+Despite the recommendation, Amy was kept in her assigned 
+classes. 
+7  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+  
+  
+  
+ 
+ 
+ 
+  
+  February 2009 : By February 2009, multiple additional 
+teachers had become aware that Amy was reportedly giving oral 
+sex to several different boys. For instance, Ms. Folger 
+(“Folger”) had heard Amy mentioning that she was giving oral sex 
+to boys at school. Folger reported this information to Mr. 
+Greenland (“Greenland”), Amy’s care coordinator , and Maile 
+French, the Special Education Department Chair. 
+There is no evidence that this information was further 
+reported to school administrators or to Mother, or that the 
+report was investigated. 
+Also during her freshman year, Amy left campus unnoticed 
+with a senior and went to Ala Moana Beach Park, where he 
+apparently raped her orally, vaginally, and anally in a public 
+bathroom. Th is incident was not reported or investigated at the 
+time. 
+November 2009 : When Amy was in tenth grade, Greenland 
+called Mother and informed her that Amy was performing oral sex 
+on various boys. But around the same time, Greenland also sent 
+Mother inappropriate personal text messages, including calling 
+her “beautiful” and offering to “bring her some soup.” Mother 
+renewed her request that Amy be transferred to the non -diploma 
+track program. 
+Mother began seeing a therapist to get advice on how to 
+speak with Amy about sex and about what was going on. 
+8  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ Spring 2010 : In spring 2010, Amy was moved to the non -
+diploma track program. She was moved into Mr. Nakagawa’s 
+(“Nakagawa”) class . Nakagawa also took over as her care 
+coordinator from Greenland. 
+In April 2010, various teachers reported to Nakagawa that 
+Amy “displays inappropriate conduct w/her male peers & this 
+needs to be addressed.” The report also noted that “she was 
+also caught in the closet a couple of times w/the same male 
+peer, after being told not to do so.” 
+Nakagawa did not act on the report, nor was Mother 
+notified. 
+August 2010 : In August 2010, another instructor submitted 
+a report documenting concerns about Amy’s interactions with male 
+students. The report was provided to Choy, who, in turn, 
+reported th e concerns to Nakagawa. Although Choy understood 
+that Amy’s cognitive disabilities could be contributing to her 
+interactions with male peers and recognized that she sought 
+attention, both Choy and Nakagawa minimized the reported 
+concerns by characterizing Amy as “boy crazy.” 
+Mother was not notified of the se reported concerns. 
+Fall 2010 : Amy’s Fall 2010 IEP reflected Nakagawa ’s concern 
+that peers might take advantage of Amy. But the record does not 
+indicate that Nakagawa further reported these concerns, informed 
+Mother, or that any steps were taken to address them. 
+9  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+     
+ 
+  
+ 
+  Mr. Price (“Price”), Amy’s art teacher, was told by two 
+girls that Amy “performed oral sex on a boy at school.” Price 
+confirmed that he had previously heard similar rumors about Amy 
+and sex. 
+Price did not act upon the information until after the 
+additional January 2011 incident next described . At that time, 
+he did not inform Amy’s care coordinato r, any school 
+administrator, or Mother. 
+January 2011 : On January 4, 2011, Amy and a boy both asked 
+Price if they could go to the bathroom. Price allowed them to 
+go to the bathroom at the same time. Another student reported 
+she saw the boy with Amy in the boys ’ bathroom. Price took both 
+Amy and the boy to the office of Vice-Principal Jones (“VP 
+Jones”). 
+Although the boy was in the same class as Amy and had a 
+specific learning disability , he was not severely cognitively 
+disabled like Amy. Without any investigation, the school 
+determined that the sexual conduct was consensual. The school 
+then suspended both Amy and the boy. 
+Before deciding to suspend Amy, VP Jones did not review 
+Amy’s IEP or speak with Mother. After deciding to suspend Amy, 
+VP Jones met with Mother but would not identify the boy 
+involved. The school did not review Amy’s IEP to determine 
+whether her cognitive disabilities affected her ability to 
+10  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+   
+   
+ 
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ consent, nor did it ask whether the boy knew Amy was cognitively 
+disabled. The incident was not reported to the police. 
+February 2011 : In February 2011, Mother reported to the 
+school by email that a boy wrote a note to Amy asking her to 
+meet out of view of the cameras to “hug.” Mother also 
+discovered that the boy had arranged to have phone sex with Amy. 
+There is no evidence the school took any action after 
+receiving this email. 
+March 2011 : Worried about Amy’s safety, Mother had Amy 
+examined by Dr. Tyson, a licensed psychologist. Dr. Tyson 
+assessed Amy and wrote a report delivered to the school in March 
+2011 stating that Amy “should not ever be unsupervised while on 
+school grounds.” 
+One-on-one supervision was a fairly standard service for a 
+student with severe cognitive disabilities. In fact, Nakagawa 
+had never previously had to recommend one -on-one supervision 
+because most non -diploma students already had a n assigned one-
+on-one aide. Yet, Amy was still not assigned a one -on-one aide. 
+April 2011 : Amy started seeing therapist Karlene Perez 
+(“Perez”). Amy told Perez about the January 4, 2011 incident 
+and that “she didn’t want to do it and that she was scared.” 
+Also, another student reported to Choy that Amy touched the 
+crotch of a male student. Choy spoke with Amy about the 
+11  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  incident. Amy cried and told Choy she was afraid that the boy 
+would not like her “if she did not do it.”  
+There is no evidence that Choy reported the incident to 
+anyone. 
+Becoming increasingly concerned for Amy’s safety, Mother 
+again informed the school she urgently believed Amy needed one -
+on-one supervision. The record does not reflect that McKinley 
+ever provided such supervision. A few days later, Mother sent 
+an email to the school reporting that a boy had stuck a note to 
+Amy’s back that said “kick me” and that another student hit Amy 
+hard enough to leave a mark. 
+There is no evidence that the school acted in response to 
+these concerns. 
+On April 15, 2011, a behavioral assessment in school 
+records concluded that, “whenever unsupervised and a peer asks 
+[Amy] for something, [ Amy] has given in to peer persuasion, 
+including sex acts, to gain peer attention and friendship.” The 
+record does not identify who prepared the assessment or explain 
+the circumstances under which it was conducted. Based on that 
+assessment, the school created a Behavioral Support Plan 
+requiring that any future incidents be reported to Mother and 
+the vice -principal. 
+May 2011 : Mother sent an other email to school 
+administra tors reporting that Amy had again been pressured by a 
+12  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+   
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+  boy who wanted her to go to a specific building to “do bad 
+things.” Amy  reported that the boy said, “come here, suck my d -
+-.”  
+Mother again demanded that the school provide increased 
+supervision. The school did not do so. 
+August 2011 : Shortly after beginning twelfth grade, after 
+years of repeated sexual assaults, Amy experienced a 
+catastrophic psychotic breakdown. Within a week of starting her 
+senior year at McKinley, she displayed a marked change in 
+behavior and became increasingly agitated. She reported feeling 
+“scared” and that “she couldn’t feel her heart.” She had to 
+come home early from a church event due to this fear. Amy told 
+a school employee that “everyone was looking at her.” She also 
+said an adult female neighbor wanted to have sex with her. 
+Within a few days, Amy was clearly hallucina ting and was 
+not lucid. She was hospitalized on August 8, 2011, and remained 
+so for three months. 
+Amy was provided with medication and started to feel safer 
+by the end of August, when she was able to speak about what was 
+causing her to feel scared. Amy described repeated sexual abuse 
+by students at McKinley. She was diagnosed with post-traumatic 
+stress disorder (“ PTSD”) stemming from the sexual abuse. 
+13  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+   
+   
+  
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  
+  
+ PTSD is typically treated with cognitive behavioral 
+therapy. But cognitive behavioral therapy does not work for Amy  
+due to her cognitive disability.  
+November 2011 : Amy was discharged from the hospital on 
+November 2, 2011. A typical stay for a child at an inpatient 
+center is about seven to ten days; Amy’s hospitaliz ation lasted 
+three months. 
+Her doctors recommended that she not return to McKinley. 
+She was then transferred to Variety School. 
+In 2013, Amy began seeing psychiatrist Angela King, M.D. 
+(“Dr. King”). Dr. King confirmed that sexual abuse at McKinley 
+was a cause of Amy’s PTSD, and that Amy could not benefit from 
+the best available treatment, cognitive behavioral therapy, 
+because of her cognitive def icits. Dr. King opined that Amy 
+would need treatment for the rest of her life resulting from the 
+events at McKinley. 
+In 2014, Mother also sought treatment from Dr. King. Dr. 
+King diagnosed Mother with panic disorder and major depressive 
+disorder, and opined that Amy’s abuse and PTSD w ere substantial 
+factors in her diagnosis. 
+In 2015, Dr. Tyson assess ed Amy and concluded that she had 
+PTSD due to the history of sexual assault and that she should 
+stay at Variety School because of the close supervision 
+available. 
+14  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+   
+ 
+ 
+  
+  
+ 
+ 
+   
+  
+  
+ 
+ 
+  By the time the circuit court made its findings, Amy was 
+twenty-seven years old. Her PTSD remained persistent and 
+untreatable. 
+B. Circuit Court Proceedings 
+1. Complaint and Pre-Trial Discovery Issues 
+On February 14, 2014, Plaintiffs filed their first amended 
+complaint. Plaintiffs asserted claims against the State arising 
+from its failure to protect Amy from repeated sexual abuse while 
+she attended McKinley and sought damages for the severe 
+physical, psychiatric, psychological, and emotional injuries 
+that followed . 
+Before trial, the parties engaged in extensive discovery 
+concerning Amy’s condition . Issues arose from the State’s 
+discovery efforts. The circuit court appointed a discovery 
+master on June 4, 2015 . 
+The State sought to depose Amy, and Plaintiffs moved for a 
+protective order seeking to prohibit or limit the deposition. 
+Two psychiatrists and two psychologists provided medical 
+opinions that Amy was incompetent to testify and that subjecting 
+her to a deposition “would subject her to a substantial risk of 
+harm and re -victimization based on her medical history, 
+hospitalization and diagnosis of PTSD, and her subsequent 
+treatment.” Some excerpts from these reports are as follows: 
+Dr. King, Amy’s psychiatrist, reported : 
+15  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ Due to these symptoms along with her intellectual 
+disability  it is unlikely that she will ever be able to 
+benefit from the gold standard of trauma therapy, specifically Trauma Focused Cognitive Behavioral Therapy, 
+since it has a higher chance of re -traumatizing her. 
+Similarly, being placed in any situation that will cause 
+her to discuss her past trauma experiences, including going 
+through deposition will likely retrigger her trauma 
+symptoms and may even lead to re -hospitalization since she 
+does not have the ability to be able to process the trauma due to her intellectual disability.  
+ 
+Therefore, it is not medically recommended to place her in 
+an anxiety inducing setting which could trigger her PTSD 
+symptoms and risk hospitalization.  
+Dr. Anthony Urquiza (“Dr. Urquiza”),  a psychologist who 
+specializes in treating victims of sexual molestation, wrote:  
+It is common for victims of sexual assault to experience 
+trauma symptoms that are sustained for many years after 
+their victimization. Thoughts and images of being sexually 
+victimized can trigger intense and de -stabilizing mental 
+health symptoms. [ Amy] has a multi -year history of serious 
+mental health symptoms associated with her prior sexual 
+victimization, has had a prior inpatient psychiatric 
+hospitalization due to psychotic behavior, and is currently 
+taking several types of psychiatric medication (i.e., an 
+antidepressant, an antipsychotic, and medication to 
+decrease agitation). Asking [A my] a series of questions 
+about her prior sexual victimization may trigger thoughts 
+and feelings that are likely to increase her trauma -based 
+symptoms. Given the severity of her past symptoms (e.g., 
+self-mutilation, severe psychosis, prior inpatient 
+psychiat ric hospitalization), direct questioning of [ Amy] 
+on this topic could result in a resumption of these 
+problems or other devastating consequences. 
+ . . . . 
+Given the high potential for a severely negative traumatic 
+response to being questioned, participating in a deposition 
+or court proceeding is an unsafe proposal that would 
+endanger [A my’s] mental health. The presence of a ‘third 
+person’ to oversee the experience of [A my] being a witness 
+would not decrease the risks associated with responding to 
+such questions. 
+After additional briefing and a hearing on January 19, 
+2016, the circuit court denied Plaintiffs’ request for a blanket 
+prohibition on Amy’s deposition, indicating  that the State had a 
+16  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+   
+ 
+ legitimate interest in preparing for trial. But the circuit 
+court found good cause to impose protective measures to 
+“minimize any anxiety -inducing situation and to protect [Amy] 
+from emotional distress or risk of harm to her psychological well-being.”   The circuit court also reserved deciding on Amy ’s 
+competency to testify,  ruling that questions regarding whether 
+the deposition testimony would be admissible at  trial would not 
+preclude the State from taking Amy’s deposition.   
+The circuit court (1) ordered that Amy’s deposition occur 
+at the Children’s Justice Center or another child -friendly 
+location, (2) limited questioning to ninety -minute sessions and 
+seven hours total, (3) required the discovery master to observe 
+the deposition through a one -way mirror , with authority to 
+recess or terminate the deposition if Amy became distressed, (4) 
+permitted Amy's therapist to monitor the proceedings, and (5) 
+authorized the discovery master to implement any additional 
+protective measures deemed necessary. 
+Amy’s first ninety -minute deposition session took place on 
+March 31, 2016. Amy’s treating psychiatrist, Dr. King, attended 
+the deposition, during which Amy exhibited significant anxiety. 
+After examining Amy, Dr. King concluded that the deposition had 
+caused substantial emotional deterioration and that no 
+additional deposition could be conducted safely because Amy’s 
+17  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ chronic PTSD and intellectual disability prevented meaningful 
+recovery. Dr. King explained:  
+My significant concern is that [ Amy] reported being scared, 
+worried and uncomfortable and the bulk of the most 
+difficult and serious material, including [ Amy]’s 
+victimization, is likely to be raised in the next session. 
+My clinical impression is that [ Amy]’s fear combined with 
+any questions about sexual victimization together with her 
+preoccupation that [the attorney conducting the deposition 
+question ing] knows where she lives will trigger her complex 
+PTSD and a resumption of her psychotic symptoms, requiring 
+hospitalization. 
+She also stated in an additional declaration that: 
+As provided in the treatment records and as I testified at 
+my deposition, multiple attempts have been made to treat 
+[Amy] with the PTSD specific intervention of trauma -focused 
+cognitive behavior therapies. These attempts have not been 
+successful because [ Amy] lacks the intellectual capacity to 
+retain and maintain the necessary coping strategies that 
+must be in place to engage in and receive the benefit of 
+this therapy. 
+In a third declaration, she wrote: 
+I opined that there is no set amount of time when it may be 
+safe to put [ Amy] through a deposition since chronic PTSD 
+can be a lifelong condition and because of [ her] 
+intellectual disability she is unable to benefit from 
+treatment. When we discussed the harms outweighing the 
+benefits, I identified the harms of a deposition as the 
+risk of re -hospitalization and the likelihood of her 
+becoming acutely unstable again. I identified the benefits 
+as her testimony and since that may not be reliable or 
+accurate because of her intellectual disability, then the 
+benefits do not outweigh the harms. 
+Dr. Urquiza also reviewed the video recording of Amy’s 
+deposition and observed symptoms consistent with her PTSD diagnosis, including anxiety, hypervigilance, and avoidance.   
+Dr. Urquiza warned that requiring Amy  to confront the 
+circumstances of her trauma through further deposition questioning would likely retraumatize her. Dr. Urquiza wrote:  
+18  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+ 
+ 
+ 
+ I understand that in the next session of [Amy]’s 
+deposition, she will be confronted with facts surrounding 
+her trauma and prior -victimization. It is medically 
+contraindicated to confront [Amy] with such questions in a 
+deposition setting because forcing [Amy] to do so will 
+likely result in re -traumatizing her resulting in more 
+severe symptoms than she exhibited during and after the 
+first session of her deposition. As I indicated in my 
+report dated July 17, 2015, it was reasonably expected 
+[Amy] might persist in a deposition even though distressed 
+and have a delayed negative response to the deposition. The 
+reports of Dr. Angela King subsequent to the first session 
+of [Amy]’s deposition, demonstrating that presented with 
+evidence of anxiety and paranoia is consistent with my 
+expressed concerns. 
+The first deposition also illustrated concerns regarding 
+the reliability of Amy’s testimony. During the session, Amy  
+gave inaccurate responses regarding basic aspects of her 
+personal history, including testifying (1) that she rode a 
+Roberts Hawaiʻi school bus during her freshman year,  even though 
+that did not happen until she began attending Variety School, 
+and (2) that she owned a “German Shepherd ,” despite not having  
+one. Plaintiffs argued that these examples demonstrated Amy ’s 
+confusion regarding time periods and susceptibility to leading 
+questions, concerns that were echoed by multiple medical 
+professionals. For example,  Dr. Urquiza wrote:  
+I observed in the video that [ Amy] exhibited symptoms 
+consistent with her PTSD diagnosis, including anxiety, 
+hyper-vigilance, reassurance from adults and avoidance. I 
+observed that the questioning of [ Amy] was not designed to 
+ensure that she understood the questions that she was 
+answering and, in fact, demonstrated how suggest ible she 
+was based on the leading manner in which she was asked 
+questions. An example of such testimony was with respect to 
+whether she understood the difference between fiction and 
+non-fiction. All of this evidences the fact that she is not 
+competent to te stify at a deposition or trial. 
+19  
+  
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ . . ..  
+ *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+Based on these concerns, Plaintiffs again moved to 
+terminate Amy’s deposition. After considering the discovery 
+master’s report and medical evidence , the circuit court found 
+Amy competent to testify and ordered that her remaining 
+deposition sessions proceed under the existing protective order 
+conditions . 
+On September 29, 2016 , Amy participated in a second ninety -
+minute deposition. During that session, questioning focused 
+extensively on the sexual abuse Amy experienced while a student 
+at McKinley. 
+After the second deposition, Amy’s condition deteriorated 
+significantly. Dr. King reported that Amy exhibited increased 
+fear, anxiety, depression, nervousness, tearfulness, and 
+sleeplessness. Dr. King wrote: 
+During the September 29, 201 6 deposition session, [ Amy] was 
+asked numerous questions regarding her sexual assaults 
+including her rape by [a student]. [Amy] exhibited symptoms 
+of distress. This became particularly evident to me during 
+a break at the 1 -hour mark of the deposition when I had an 
+opportunity to personally observe [ Amy] in an adjoining 
+conference room. At that time, [ Amy] was crying and 
+anxious[.] 
+After the session held on September 29, 2016, I saw [ Amy] 
+in my office on an emergent basis the following day. [ Amy] 
+presented with heightened anxiety, fear, inability to 
+sleep, and tearfulness. 
+ 
+I saw [Amy] again in my office on October 5, 2016. I 
+observed that [ Amy]’s condition had worsened . . . While 
+alone in my office, she cried, appeared fearful and 
+reported being scared. She is afraid of being alone and has 
+been experiencing more anxiety attacks. She has been fairly 
+stable up to this point during our sessions, but I have 
+definitely seen an increase in symptoms, including 
+20  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+ 
+ 
+ 
+ depression, fear, and anxiety since she went through the 
+most recent deposition. She is being asked questions that 
+are traumatic in nature and ordinarily in therapy, these 
+questions would not be asked when the patient is not able 
+to apply relaxation skills . They are also not asked when 
+the patient is unable to safely process past trauma as 
+[Amy]'s current symptoms demonstrate. Forcibly asking these 
+questions can lead to further trauma, increasing symptoms, 
+and possible re -hospitalization. It is my firm opinion that 
+[Amy]’s increased symptomology is a result of her 
+experience at her depositions recounting the trauma that 
+she experienced at school. 
+It continues to be my clinical opinion that the deposition 
+of [Amy] [is] harmful and should be terminated. This 
+opinion is reinforced by my witnessing [ Amy] exhibiting 
+distress and harm during the deposition sessions and the 
+increased symptoms and instability she is exhibiting in 
+their aftermath. 
+Dr. King increased Amy’s psychiatric medication to address 
+her worsening symptoms and to minimize the risk of another 
+psychotic episode. When Dr. King examined Amy  again on October 
+5, 2016, she remained fearful, cried throughout the visit, and 
+appeared to be in worse condition, despite the increased 
+medication.  
+Dr. Urquiza also submitted a supplemental declaration 
+noting that “there is significant concern about [ Amy]’s current 
+level of distress, and risk of additional harm.” He stated :  
+It should be clear that [ Amy] has been harmed by her 
+involvement in her second deposition session and continued 
+involvement in the third portion of her deposition will 
+likely result in additional harm. 
+Dr. Barry Carlton, one of Amy’s treating psychiatrists ,  
+likewise stated:   
+[C]onsidering the severity of the symptoms which the 
+patient presented, as well as the severity of her cognitive 
+impairment, and the incomplete nature of her treatment, if 
+she were to attempt to re -create what happened in an 
+unprotected, deposition environment, it woul d pose a risk 
+21  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+   
+ 
+ 
+  
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ of exacerbation of symptoms, return of anxiety, and an 
+increase in anxiety from which it might prove to be 
+difficult for the patient to recover. 
+Her treating therapist, Perez, also reported that Amy’s 
+presentation and “intense fear” were “very similar” to what she 
+had observed immediately before Amy’s psychotic break in 2011. 
+Despite these reports, t he discovery master recommended 
+denying Plaintiffs’ motion to terminat e Amy’s deposition and 
+permitting the deposition to continue under the imposed 
+protections. Plaintiffs appealed this discovery master order to 
+the circuit court. After hearings, the circuit court denied 
+Plaintiffs’ appeal and ordered “ the third deposition session of 
+[Amy]” to proceed. 
+The State agreed , however, that Amy’s deposition should be 
+postponed. On March 6, 2017, the State moved to continue the 
+trial, acknowledging that Amy should not undergo a further 
+deposition while her condition remained unstable. The State 
+indicated that “[a] fair trial requires that the Defendants 
+finish [ Amy]’s deposition only when [ Amy] is emotionally well” 
+and request ed that trial be reset once [ Amy] was “stable enough 
+to present reliable testimony.” The State later clarified that 
+it would consider Amy “stable” only when her medication had been 
+reduced and her symptoms had returned to the level they were at 
+before the September 29, 2016 deposition. 
+22  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+  
+ 
+ The State’s retained expert, Dr. Tanya D’Avanzo (“Dr. 
+D’Avanzo”), similarly recommended suspending Amy’s scheduled 
+HRCP Rule 35 examination  after learning of her condition after 
+the deposition.   The State reported as follows to the circuit 
+court:  
+Appraised of [Amy]’s condition as reported recently by Mr. 
+Ferrer, Dr. D’Avanzo recommended and the State by  
+this communication suspends the [examination]  of [Amy] 
+scheduled for February 17, 2017. In Dr. D'Avanzo’s opinion, the medication taken by [Amy], now at twice the dosage as 
+when [Amy] was observed in September of 2016, can have a 
+sedating effect on any patient and which effect could 
+impair [Amy]’s clarity during the interview portion of Dr. 
+D’Avanzo’s assessment. Because the State also noticed the deposition of [Mother] for February 22, 2017 to follow the 
+last examination session with [Amy], the State will suspend 
+the deposition of [Mother] to a date which follows the 
+final deposition session of [Amy].  
+The State’s motion to continue was granted . 
+The circuit court then granted Plaintiffs’ request for a 
+limited HRCP Rule 35 examination for the sole purpose of 
+determining whether Amy  could safely undergo any further 
+deposition questioning  and, if not, when the issue should be 
+revisited. The court appointed Dr. Barbara Higa-Rogers (“Dr. Higa-Rogers”) as its neutral expert psychologist. After 
+reviewing Amy ’s medical records, observing the videotaped 
+deposition sessions, and conducting her own clinical evaluation, Dr. Higa-Rogers issued her report on December 13, 2018.   She 
+opined against allowing any further depositions of Amy:  
+[I]t is my professional opinion, the potential benefits of 
+[Amy] testifying for a two hour period or less, do not 
+outweigh the risk to her emotional state, and is therefore 
+not supported . 
+23  
+  
+  . . .. 
+ 
+ 
+ 
+ 
+ 
+ 
+   *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+Given the severity  of  [Amy]’s intellectual disability, 
+which is pervasive in nature, there is no expected 
+improvement expected in her ability to comprehend the legal process or be able to engage in gold standards of treatment 
+to assist her in navigating her prior experiences. 
+Therefore, change is unlikely. As noted, [Amy] also has 
+significant trauma related sequalae and the prior 
+depositions lead to an increase in her symptoms and 
+required an increase in her medications to address her 
+nightmares, startle response and fears of seeing the 
+state’s attorney. The benefits of pursuing a third 
+deposition do not outweigh the potential risks  to [Amy]’s 
+mental health, limited coping and is unlikely to yield any 
+significant additional information now or in the 
+foreseeable future.  
+Dr. Higa -Rogers further opined that, if the circuit court 
+nevertheless required additional questioning, protective 
+measures should be implemented to reduce the risk of harm, 
+including allowing Amy to control breaks, imposing strict time 
+limits, permitting questioning through her treating providers 
+where possible, limiting repetitive questioning, and allowing 
+counsel to observe from a separate room. 
+After Dr. Higa -Rogers’ report, Plaintiffs again moved for a 
+protective order terminating any further deposition testimony. 
+The circuit court denied the motion without prejudice but 
+ordered that no further deposition of Amy could occur without 
+prior court approval. 
+More than a year later, the State moved to resume Amy’s 
+deposition and separately moved for a HRCP Rule 35 examination. 
+As to the deposition, the State argued that (1) additional 
+testimony was necessary to satisfy pretrial deadlines , (2) Amy 
+24  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ had received sufficient therapy since her prior deposition , (3) 
+questioning would be limited to events occurring after July 
+2011, and (4) further discovery was necessary to develop its 
+alternative causation defense. 
+As to the proposed HRCP Rule 35 examination, the State 
+sought an eight -hour examination consisting of four hours of 
+interviews and four hours of testing . The State asserted that 
+good cause existed for the examination because the causes of 
+Amy’s August 2011 psychotic break had “never been fully 
+established or evaluated.” 
+Plaintiffs opposed both motions, relying on updated 
+opinions from Amy’s treating providers that her condition 
+remained substantially unchanged and that additional questioning 
+or examination continued to pose a significant risk of 
+psychological harm. Dr. King reported that Amy continued to 
+suffer from PTSD symptoms, including nightmares, anxiety, fear, 
+hypervigilance, and the risk of potential psychosis. She agreed 
+with Dr. Higa -Rogers’ earlier opinion that additional 
+questioning would likely retraumatize Amy without providing 
+meaningful benefit. 
+After a hearing on March 10, 2020, the circuit court denied 
+without prejudice the State’s motion to resume Amy’s deposition, 
+explaining that it was “very concerned about ordering something 
+25  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ that could cause this young woman further harm” but said it was 
+“not saying she can never be deposed.” 
+With respect to the proposed HRCP Rule 35 examination, the 
+court declined to rule pending a  further  assessment from its 
+neutral expert, Dr. Higa-Rogers. The court expressed  concerns 
+regarding the potential adversarial nature of HRCP Rule 35 
+examinations and sought  assurances  that any examiner would 
+exercise  independent medical judgment rather than conduct a 
+purely forensic examination.   The circuit court explained that 
+it would consider allowing a  HRCP Rule 35 examination if it 
+could be conducted safely. The circuit court requested further information concerning the proposed examination, including Dr. 
+D’Avanzo’s medical judgment regarding its safety.  
+Dr. Higa-Rogers issued her supplemental report on July 15, 
+2020. She opined:  
+As previously noted in my December 2018 report, given the 
+severity [ Amy]’s intellectual disability, which is 
+pervasive in nature, she is not expected to show 
+significant improvements in her ability to comprehend the 
+legal process or complex questions, and is more likely to 
+agree when a yes/no question is asked of her and to a ssent 
+when a suggestion is made to her. Furthermore, there is 
+documentation that following prior d epositions [ Amy] 
+experienced an increase in her symptoms and required an 
+increase in her medications to address her nightmares, 
+startle response and fears. The benefits of pursuing 
+further questioning/testing do not appear to outweigh the 
+potential risks to [ Amy]’s mental health, limited coping, 
+and is unlikely to yield significant additional 
+information. 
+26  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+  
+   
+ 
+ Dr. Higa -Rogers opined that if the court nevertheless ordered an 
+examination , protective measures should be implemented to reduce 
+the risk of harm . 
+On August 20, 2020, the circuit court denied the State’s 
+motion for a HRCP Rule 35 examination , concluding that the 
+proposed examination presented a significant risk to Amy’s 
+mental health. The State then sought another trial continuance, 
+arguing that it lacked essential discovery because it had been 
+unable to complete Amy’s deposition or conduct a HRCP Rule 35 
+examination. The circuit court continued the trial and reset it 
+for March 1, 2021. The State’s deposition of Amy was never 
+resumed, and the case proceeded to trial . 
+2. The State’s Pre-Trial References to Apportionment 
+Before trial, the State made several brief and nonspecific 
+references to apportionment. 
+The fifteenth defense in the State’s answer to the first 
+amended complaint says: “The liability, if any, of the DOE, 
+Nakagawa and Jones, any of them or collectively, is limited 
+under HRS §663-10.5.” 
+The State’s cross -claim against a previous co-defendant 
+similarly stated, without further elaboration, that 
+“[a]pportionment  of fault is determined pursuant to Section 663-
+10.5 of the Hawai‘i Revised Statutes.”  Neither filing identified 
+the male students, characterized them as “other tortfeasors,” or 
+27  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+  
+ 
+  
+ 
+  
+   
+     indicated that the State sought to reduce Plaintiffs’ recovery 
+by allocating fault to the students . The State also did not 
+implead any of the male students. 
+The State later referenced HRS § 663-10.5 in a pre-trial 
+motion to continue trial. The State argued it was “not jointly 
+and severally liable with the person(s) responsible” for events 
+surrounding Amy ’s 2011 psychotic break and quoted  HRS § 663-
+10.5. The State asserted  that the boys did not cause Amy’s 
+psychotic break in August 2011, but instead suggested that something happened at home that had caused the psychotic break.  
+3. Trial 
+The case proceeded to a bench trial over the course of 
+sixty-six days in March through September 2021 . The court 
+identified the principal issues as (1) whether Amy had the 
+cognitive ability to consent to sex; (2) whether the State 
+breached duties owed to Amy and Mother while Amy was a special 
+education student at McKinley; (3) whether the State’s acts and 
+omissions were a substantial factor in causing harm to 
+Plaintiffs; (4) what harms were proximately caused by the 
+State’s conduct; and (5) damages. 
+The court heard testimony from more than thirty witnesses 
+and received numerous documents and photographs in evidence . 
+Although liability and damages were heavily contested at 
+trial, the State's closing argument consistently maintained that 
+28  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ the boys were not responsible for Amy's injuries. Throughout 
+closing argument, the State maintained that the alleged assaults 
+by the boys either were not proven to have occurred, were 
+consensual, or otherwise could not be attributed to any 
+negligence by the DOE. 
+For instance, with respect to the alleged Ala Moana 
+incident, the State argued that the evidence did not support 
+Plaintiffs’ account that Amy left school to go to Ala Moana and 
+that, even if an incident occurred there, it could not be 
+attributed to any negligence by the DOE. 
+Likewise, w ith respect to the January 4, 2011 incident, the 
+State argued that the evidence established a consensual 
+encounter . 
+The State further argued that Plaintiffs failed to prove 
+that any additional sexual assaults occurring at school caused 
+Amy's injuries. 
+Consistent with th ese positions and the State’s trial 
+strategy , the State’s discussion of responsibility for Amy’s 
+injuries focused on two theories, neither of which sought to 
+allocate fault to the boys. 
+First, the State argued that Plaintiffs had overlooked 
+other events unrelated to the DOE, including Amy’s statements 
+regarding a “neighbor lady” and her belief that Mother was her 
+29  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ “lesbian lover,” as alternative explanations for Amy’s mental 
+health crisis.  
+Second, with respect to HRS § 663-10.5, the State argued 
+that any reduction in the DOE's liability should be based on 
+Mother's role in failing to disclose information to the school. 
+The State argued:  
+8 Also, plaintiff did not address Hawai‘i  
+9 Revised Statute 663 -10.5 which unequivocally states  
+10 that the State can only be responsible for its share of  
+11 damages.  
+12 Now, again, it gets into this area of [Mother’s]  
+13 role. Now, [Mother] had no duty. The DOE -- or no duty  
+14 under the IDEA, and the Department of Education has no  
+15 counterclaim against [Mother] for negligence.  But she 
+had  
+16 a role in what happened to [Amy]. That is undeniable.  
+17 She had information that for whatever reason , whether  
+18 it was shame or a personality disorder as described by  
+19 Dr. D'Avanzo, she didn't -- she chose not to share this  
+20 information . And even absent a duty, this decision  
+21 impacted the DOE’s ability to reasonably develop an IEP  
+22 plan.  
+23 And whatever damages may exist, which in this  
+24 case, obviously the State feels there's no duty,  
+25 breach, or causation, or these damages, but even if the  
+1 court were to disagree, the State can only be  
+2 responsible for that portion of its damages, or of the  
+3 total damages, and plaintiff did not address that.  
+After  trial, the parties submitted proposed findings of 
+fact and conclusions of law. In two paragraphs of its 127-page submission, the State proposed the following conclusions of law:  
+74. The State of Hawai [‘]i, as a government entity, is 
+liable for no more than the percentage share of damages 
+attributable to the government entity. HRS § 663 -10.5 
+75. Even assuming, without finding, that Plaintiff had 
+established any damages to a reasonable degree of 
+certainty, Plaintiff would still not be entitled to recover 
+the vast majority of those damages from the State. The 
+State of Hawai [‘]i, as a government entity, is liable for no 
+more than the percentage share of damages attributable to 
+the government entity. Hawai [‘]i Revised Statutes § 663 -
+10.5. 
+30  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+   
+ 
+   
+  
+ The State then made clear that its reference  to HRS § 663-
+10.5  was to request an apportionment of liability aimed at  
+Mother, not the male students.  In its proposed conclusion of 
+law  76,  the State argued that “the primary reason that allowed 
+those alleged events to happen was [Mother’s] willful non -
+disclosure of information that was necessary for the DOE to form  
+[sic]  provide more appropriate educational and behavioral 
+supports.”  
+Thus, the State never requested that the male students be 
+determined to be “other tortfeasors ” to whom liability should be 
+apportioned under HRS § 663 -10.5. 
+The court then resolved each liability issue in Plaintiffs’ 
+favor. It found that Amy lacked the cognitive ability to 
+consent to sex, the State breached its duties, and the State’s 
+conduct was a substantial factor in causing multiple sexual 
+assaults, mental illness, and emotional distress. 
+In reaching those findings, the court credited the 
+testimony of Amy’s treating and retained experts. It rejected 
+opinions of the State’s expert, Dr.  D’Avanzo, as not reliable 
+and not adequately supported by the record. The circuit court noted that the relationship between cognitive disability and 
+sexual victimization was core to this case but that Dr. D’Avanzo 
+rarely treated children and could not recall having a single 
+child patient who was cognitively disabled.  
+31  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+   The circuit court also heard extensive evidence concerning 
+Plaintiffs’ damages. The court credited the testimony of 
+Plaintiffs’ treating and retained experts and found that Amy 
+suffered chronic PTSD, obsessive behaviors, psychotic episodes, 
+and an increas ed risk of future psychosis requiring lifelong 
+psychiatric treatment, monitoring, medication, periodic 
+hospitalization, and one -on-one supervision. Amy’s life -care 
+plan reflected costs that medical experts opined were 
+reasonable, necessary, and caused by the sexual assaults and 
+PTSD. The court further found that Mother suffered major 
+depressive and panic disorders as a result of th e harm to Amy. 
+In assessing Amy’s general damages, the court acknowledged 
+that “[i ]t is more than difficult to place a monetary value on 
+sexual assault of an impaired child,” but explained that it had 
+made a “serious effort to balance all the issues” in determining 
+reasonable compensation. In assessing Mother’s general damages, 
+the court similarly observed that, “[g]iven what happened to 
+[Amy], the court cannot think of anything more distressing to a 
+parent generally or [Mother] in particular, short of a child’s 
+death.” 
+Based on these findings, the circuit court awarded 
+Plaintiffs a total of $ 14,167,354.81 in damages: $190,986.78 in 
+past medical expenses, $7.87 million in future care, and $4 
+million in general damages to Amy; and $ 26,368.03 in past 
+32  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+   
+ 
+ 
+ 
+   
+ 
+  
+ 
+   
+ medical expenses, $ 80,000.00 in future medical expenses, and $2 
+million in general damages to Mother. 
+Then, the court sua sponte addressed apportionment of 
+liability to the male students . It noted HRS § 663 -10.5 says 
+“where a government entity is determined to be a tortfeasor 
+along with one or more other tortfeasors, the government entity 
+shall be liable for no more than that percentage share of the 
+damages attributable to the government entity [.] The circuit 
+court said that, here, the “one or more other tortfeasors” 
+“would be the boys who engaged in sex with [Amy].” 
+The circuit court noted that the statute had been “briefly 
+mentioned” in the State’s proposed conclusions and that 
+Plaintiffs “did not cover the issue in any depth, if at all.” 
+But it indicated its belief that because the State had raised 
+the issue, it had to be addressed. 
+The circuit court said that the interplay between Hawai ʻi 
+case law, some of which is discussed below, and the statute was 
+not easy and straightforward under the circumstances of this 
+case. 
+The circuit court then determi ned that the State should be 
+held liable for only 70% of the damages . It ruled that HRS § 
+663-10.5 did not require it to assign specific percentages of 
+liability between various actors, but that it could assign 30% 
+to all the boys who sexually abused Amy. 
+33  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+   
+ 
+  
+ 
+   
+ 
+ 
+ 
+  The circuit court also determined , however, that there was 
+little to no evidence the boys involved knew any particulars 
+about Amy’s cognitive disabilities , and that w ith the possible 
+exception of the boy who assaulted Amy at Ala Moana, to the 
+boys, Amy was likely a peer special education student. The 
+court also specifically found that there was little to no 
+evidence the boys were aware or should have been aware that Amy 
+lacked ability to consent to sex. 
+But the circuit court concluded that “all persons who 
+abused [ Amy] sexually during the relevant time period” 
+constituted “other tortfeasors” under HRS § 663 -10.5 and 
+collectively allocated 30% of the fault to th em and 70% to the 
+State. 
+The court then reduced Plaintiffs’ $ 14,167,354.81  damages 
+award by 30%, or $4,250,206.44 , and entered judgment against the 
+State for $ 9,917,148.37. 
+4. Post-Judgment Proceedings 
+Plaintiffs then filed an HRCP Rule 59(e) motion to amend 
+the judgment, challenging the circuit court’s apportionment of 
+30% of the fault to the unidentified persons who sexually abused 
+Amy. Plaintiffs argued that this apportionment is an affirmative defense, that the State had never provided notice 
+that it intended to seek apportionment based on the conduct of 
+the male students,  and that it had not presented or litigated 
+34  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+   
+ 
+  
+ 
+ 
+  
+  
+    such an apportionment claim at trial. Plaintiffs further 
+contended that the court’s post -trial allocation of fault 
+deprived them of a meaningful opportunity to address whether there “should be any apportionment at all” or the “proper 
+percentage of culpabi lity between tortfeasors.”  
+In opposition, the State disputed that apportionment under 
+HRS § 663 -10.5 is an affirmative defense. The State argued that 
+the statute “operates not as an affirmative defense but rather a 
+limitation on the liability of governmental entities as a 
+tortfeaso r” and asserted that governmental entities “cannot be 
+held liable for more than [their] fair share of damages.” The 
+State also argued that HRS § 663 -10.5 does not require it to 
+file claims against other tortfeasors for an apportionment of 
+liability to occur. 
+Plaintiffs filed a reply with no new arguments . The 
+circuit court denied the motion to amend. 
+C. Appeals and Transfer 
+Plaintiffs filed a notice of appeal, and the State filed a 
+notice of cross -appeal. This court then granted Plaintiffs’ 
+application for transfer and entered a notice of no oral 
+argument . 
+D. Questions on Appeal 
+1. Plaintiffs’ Appeal 
+Plaintiffs raise four points of error on appeal : 
+35  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 1. The Court Erred by Apportioning Damages to Alleged 
+Tortfeasors Not Identified by the State, Violating 
+Plaintiffs' Due Process Rights. 
+2. The Court Erred in Determining that the Male Students 
+Were Tortfeasors as There Was Insufficient Evidence in the 
+Record of Their Tortfeasor Status or Degree of Fault. 
+3. The Court Erroneously Shifted the Burden of Proof on 
+Apportionment from the State to the Plaintiffs. 
+4. The Court Erred in Denying Plaintiffs' Motion to Amend 
+the Judgment to Reverse its Apportionment Decision. 
+2. The State’s Cross-Appeal 
+The State raises three points of error on cross -appeal: 
+1.  The trial court  abused  its discretion  by  denying the  
+State’s request to conduct a Rule 35 examination of [Amy]  
+2.  The trial court abused  its discretion  by  precluding  the  
+State from completing [Amy]’s deposition.  
+3. The trial court’s damages award was grossly excessive .  
+For the reasons discussed below, we agree with Plaintiffs ’ 
+points of error and disagree with the State’s points of error. 
+III. Standards of Review 
+A. Findings of Fact 
+HRCP Rule 52(a) provides that, in a bench trial, 
+“[f]indings of fact shall not be set aside unless clearly 
+erroneous, and due regard shall be given to the opportunity of 
+the trial court to judge of the credibility of the witnesses.” 
+HRCP Rule 52(a). A finding of fact is clearly erroneous when 
+“(1) the record lack s substantial evidence to support the 
+finding, or (2) despite substantial evidence in support of the 
+finding, the appellate court is nonetheless left with a definite 
+and firm conviction that a mistake has been made.” Klink v. 
+36  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+   
+  State, 113  Hawai‘i 332, 351, 152 P.3d 504, 523 (2007). 
+“‘Substantial evidence’ . . . is credible evidence which is of 
+sufficient quality and probative value to enable a person of reasonable caution to support a conclusion.” Id.  (cleaned up).  
+B. Conclusions of Law 
+“This court ‘may freely review conclusions of law and the 
+applicable standard of review is the right/wrong test.’” State 
+v. Levi, 102 Hawai‘i 282, 285, 75 P.3d 1173, 1176 (2003). As 
+such, a conclusion of law is not binding upon an appellate court 
+and such findings can be “freely review[ed]” for its 
+correctness. Dan v. State, 76 Hawaiʻ i  423, 425, 879 P.2d 528, 
+530 (1994). Questions of statutory interpretation and 
+constitutional law are likewise questions of law reviewed de 
+novo. Levi, 102 Hawai ‘i at 285, 75 P.3d at 1176.  
+C. Statutory Interpretation 
+“The fundamental starting point for statutory 
+interpretation is the language of the statute itself.” Peterson 
+v. Haw. Elec. Light Co., 85 Hawai‘i 322, 327, 944 P.2d 1265, 1270 
+(1997), superseded on other grounds by  HRS § 269-15.5 (Supp. 
+1999) (cleaned up).  “[W]here the statutory language is plain 
+and unambiguous, the court’s sole duty is to give effect to its 
+plain and obvious meaning.” Id.  (cleaned up ). “[I]mplicit  in 
+the task of statutory construction is the court’s foremost obligation to ascertain and give effect to the intention of the 
+37  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+ 
+  legislature, which is to be obtained primarily from the language 
+contained in the statute itself.” Id. (citation omitted). 
+“[W]hen there is doubt, doubleness of meaning, or 
+indistinctiveness or uncertainty of an expression used in a 
+statute, an ambiguity exists.” 85 Hawai‘i 322 at 327-28, 944 
+P.2d at 1270 -71 (cleaned up ). 
+When a statute is ambiguous, “the meaning of the ambiguous 
+words may be sought by examining the context, with which the 
+ambiguous words, phrases, and sentences may be compared, in 
+order to ascertain their true meaning.” Citizens Against 
+Reckless Dev. v. Zoning Bd. of Appeals , 114 Hawai‘i 184, 194, 159 
+P.3d 143, 153 (2007) (quoting HRS § 1 -15(1) (1993)). Courts may 
+also “resort to extrinsic aids in determining legislative 
+intent, such as legislative history, or the reason and spirit of 
+the law.” Id. 
+D. Discovery Rulings 
+The extent to which discovery is permitted under Rule 26 
+(as well as under Rules 33 and 34) is subject to considerable 
+latitude and discretio n. Appeal of Goodfader , 45 Haw. 317, 335, 
+367 P.2d 472, 483 (1961) . Accordingly, “the trial court may not 
+be reversed by an appellate court unless the trial court has 
+clearly exceeded the bounds of reason or disregarded rules or 
+principles of law or practice to the substantial detriment of a 
+party litigant.” Kealoha v. Cnty. of Haw. , 74 Haw. 308, 318, 
+38  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+   
+ 
+  
+ 
+   
+ 844 P.2d 670, 675 (1993)  (cleaned up). Under that standard,  
+different trial judges may, on the same facts, arrive at 
+opposite rulings “without any of them being reversible on 
+appeal.” State v. Rabe, 5 Haw. App. 251, 260-61, 687 P.2d 554, 
+561 (App. 1984).  
+To the extent this issue requires review of the circuit 
+court’s factual findings regarding Plaintiffs’  medical condition 
+and ability to participate in discovery, those findings are “reviewed on appeal under the clearly erroneous standard.” 
+Birano v. State, 143 
+Hawai‘i 163, 181, 426 P.3d 387, 405 (2018) 
+(cleaned up).  
+E. Damages Awards 
+Hawai‘i law has long recognized that the assessment of 
+damages lies primarily within the province of the factfinder, 
+and appellate review is correspondingly limited. See Kang v. 
+Harrington , 59 Haw. 652, 663, 587 P.2d 285, 292 (1978). Most 
+recently, this court reaffirmed these longstanding principles in 
+Kekona v. Bornemann and explained: 
+On appeal, the courts analyze whether the damages awarded 
+by the jury were palpably not supported by the evidence, or 
+so excessive and outrageous when considered with the 
+circumstances of the case as to demonstrate that the jury 
+in assessing damages acted against rules of law or suffered 
+their passions or prejudices to mislead them. 
+135 Hawaiʻi 254, 257, 349 P.3d 361, 364 (2015). 
+This court has further explained that “[a] similar test is 
+used in a jury-waived case,” where “the inquiry on review is 
+39  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+  
+ 
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+   
+ limited to whether, ‘upon the evidence adduced, reasonable 
+[people] could have come to the same conclusion as the jury, or 
+the trial court in a jury-waived case.’”   Kang, 59 Haw. at 663, 
+587 P.2d at 292 (cleaned up).  
+IV. Discussion 
+A. Plaintiffs’ Appeal 
+1. The circuit court erred by apportioning liability to 
+tortfeasors not identified or pursued by the State and 
+violated Plaintiffs’ due process rights . 
+In their first point of error on appeal, Plaintiffs allege 
+that the circuit court erred by apportioning damages to alleged 
+tortfeasors not identified by the state, violating their due 
+process rights. For the reasons that follow, w e agree. 
+a. Hawai‘i law generally only permits apportionment 
+of liability to nonparties in limited 
+circumstances . 
+Here, the circuit court apportioned 30% of the fault to the 
+male students who abused Amy. The male students were never 
+named as parties. 
+Preliminarily, t he State argues that this court “expressly 
+held in Cummings v. State  that the plain language of HRS § 663-
+10.5 does not require the State to file a claim against [another tortfeasor] to have liability apportioned to them[,]”  citing to 
+a December 29, 2006 summary disposition order of this court.   
+Cummings v. State, No. 26975, 2006 WL 3834309 (SDO)  (Haw.  Dec. 
+29, 2006). But 
+Hawaiʻi Rules of Appellate Procedure  (“HRAP”) , 
+40  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+ 
+ 
+  Rule 35(c)(1)  explicitly provides that, unless certain 
+exceptions apply,  “[a] memorandum opinion or unpublished 
+dispositional order filed before July 1, 2008 shall not be cited 
+in any other action or proceeding[.] ” The exceptions in HRCP 
+Rule 35(c)(1) are not applicable here,  and thus, the State 
+improperly cites to an uncitable unpublished dispositional 
+order.   We assume this was an unintentional error but note that 
+it is highly improper to cite uncitable dispositions.     
+Turning to governing law, HRS § 663 -10.5 was enacted to 
+prevent government entities from being held jointly and 
+severally liable for damages disproportionate to their 
+responsibility. See Conf. Comm. Rep. No. 48, in 1994 House 
+Journal, at 803; Conf. Comm. Rep. No. 48, in 1994 Senate 
+Journal, at 718 (“The government entity shall be liable for no 
+more than that percentage share of the damages attributable to 
+the government entity.”). The conference committee further 
+explained that the measure was necessary to promote “fairness 
+and equity for government entities” that, because of their 
+perceived “deep pockets,” might otherwise be required to pay 
+more than their fair share when determined to be joint 
+tortfeasors . Id. 
+HRS § 663 -10.5 provides , in relevant part, that it is only 
+if “a government entity is determined to be a tortfeasor along 
+with one or more ‘other tortfeasors ’,” then “the government 
+41  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+  
+   
+  
+   
+  
+  
+    
+ 
+  
+  
+ 
+   
+  entity shall be liable for no more than th at percentage share of 
+the damages attributable to [it][.]” The circuit court 
+determined sua sponte that the male students were such “other 
+tortfeasors. ” 
+With respect to whether the male students are “other 
+tortfeasor s” under HRS § 663 -10.5, Black’s Law Dictionary (12th 
+Ed. 2024) defines “tortfeasor” as “[s]omeone who commits a tort; 
+a wrongdoer.” Tortfeasor , Black’s Law Dictionary (12th Ed. 
+2024). It further generally defines “tort” as “[a] civil wrong; 
+other than breach of contract, for which a remedy may be 
+obtained, usu. in the form of damages; a breach of a duty that 
+the law imposes on persons who stand in a particular relation to 
+one another.” Tort, Black’s Law Dictionary (12th Ed. 2024) . 
+If they breached a duty to Amy, the male students would 
+seemingly qualify as “other tortfeasors.” But, as argued by the 
+Plaintiffs, h ere, the circuit court determin ed them to be “other 
+tortfeasors ” without any notice to the m or to the Plaintiffs. 
+We therefore address whether this was p ermissible. 
+We note that c ases construing contribution among joint 
+tortfeasors under the Uniform Contribution Among Tortfeasors 
+Act, codified at HRS §§ 663 -11 through – 17 (“UCATA”) , do not 
+control this analysis. HRS § 663 -10.5 explicitly provides that 
+the statute controls notwithstanding any other law to the 
+42  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+  
+  
+ 
+   
+   
+ contrary, including UCATA. But UCATA cases can still provide 
+some guidance. 
+Gump v. Wal -Mart Stores, Inc. , 93 Hawai‘i 417, 5 P.3d 407 
+(2000), addressed whether an identified nonparty joint 
+tortfeasor can be included on a special verdict form . There, 
+the plaintiff sued both Wal -Mart and McDonald's after slipping 
+on a French fry inside a Wal -Mart store, but later settled with 
+and dismissed McDonald's. 93 Hawaiʻi at 419, 5 P.3d at 409.  
+Wal-Mart did not file a cross -claim against McDonald's but 
+sought to have McDonald's included on the special verdict form. 
+Id. This court held that non-parties may be considered joint 
+tortfeasors under UCATA. Id. This court further held that 
+nonparties may, “in the trial court’s sound discretion,” be 
+included on a special verdict form “under appropriate 
+circumstances.” Id. 
+But this court concluded that it was inappropriate to 
+include McDonald’s on the special verdict form under the 
+circumstances of that case.  93 Hawai‘i at 423, 5 P.3d at 413.  
+This court noted that Wal-Mart chose not to file a cross-claim 
+against McDonald’s.  Id.   Although this court acknowledged that 
+“there are tactical reasons to choose not to file a cross -
+claim,” it explained that “one of the risks that accompanies 
+such a decision is the risk that McDonald’s would settle, which 
+could prevent Wal-Mart from establishing the pro rata share of 
+43  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+   
+ 
+ 
+   
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ fault between the two.” Id. This concern is not at issue here 
+because HRS § 663 -10.5 does not allow joint liability against 
+governmental entities. But this court did note the relevance of 
+Wal-Mart’s decision not to file a cross -claim against 
+McDonald’s. 
+Then in Moyle v. Y & Y Hyup Shin Corp. , 118 Hawai‘i 385, 191 
+P.3d 1062 (2008) , this court clarified Gump’s statement that a 
+trial court has “sound discretion” to include a nonparty on a 
+special verdict form under “appropriate circumstances.” 118 
+Hawai‘i at 397-98, 191 P.3d at 1074-75. In Moyle, the defendants 
+sought to allocate fault to an identified nonparty who had 
+assaulted the plaintiff. 118 Hawaiʻi at 390, 191 P.3d at 1067. 
+Four months before trial, the defendants moved to implead the 
+nonparty, but the circuit court denied the motion as untimely. 
+118 Hawai ʻi at 399, 191 P.3d at 10 76. Nevertheless, the circuit 
+court included the nonparty on the special verdict form, and the 
+jury allocated 95% of the fault to him. 118 Hawai ʻi at 390, 191 
+P.3d at 1067. 
+This court clarified that Gump did not create unfettered 
+discretion to place nonparties on a special verdict form. 
+Moyle, 118 Hawaiʻi at 398, 191 P.3d at 1075. Rather, this court 
+indicated that Gump’s reference to “appropriate circumstances” 
+under which nonparties could be included on special verdict 
+forms was limited to narrow situations such as where a nonparty 
+44  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+   
+  
+ was, “(1) dismissed because their participation would destroy 
+jurisdiction, (2) not named because of a bankruptcy stay that 
+was effective throughout the course of the proceedings, or (3) 
+released from the case through settlement, but included on the 
+special verdict pursuant to terms of the release.” Moyle,  118 
+Hawaiʻi  at 398, 191 P.3d at 1075 (citations omitted).  
+Moyle explained: 
+Although a trial court has “discretion”  to include, or to 
+decline to include, a non -party on a special verdict form, 
+it does not, as a matter of law, have the authority to 
+include a non -party who has not been brought into the case 
+by pleading pursuant to HRS §§ 663 -12 and 663 -17(c).  
+118 Hawaiʻi at 398, 191 P.3d at 1075.  
+Further, this court said that “exclusion is mandated when a 
+party fails to protect its rights.” Id.   Because the defendants 
+waited until four months before trial to seek to implead the 
+nonparty, the nonparty  “could not have been included on the 
+special verdict form as a matter of law.”   118 Hawaiʻi  at 399, 
+191 P.3d at 1076.   This court emphasized that the discretion 
+recognized in Gump  is confined to narrow circumstances and does 
+not permit defendants to assert a contribution claim at the 
+“eleventh hour” after choosing not to pursue contribution during 
+the preceding two years of litigation. Id.   
+Moyle also distinguished between presenting evidence of a 
+nonparty’s conduct and allocating fault to that nonparty. 118 
+Hawaiʻi at 402, 191 P.3d at 1079.  It explained that evidence of 
+45  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+    
+ 
+ 
+  
+  
+  
+  
+ 
+   
+ 
+  
+  the nonparty's conduct remained admissible where relevant to the 
+defendants’ liability, but “it does not follow that the nonparty 
+should be included on the special verdict.”   Id.  2
+Again, HRS § 663 -10.5 specifically provides that the 
+language of that statute governs notwithstanding other laws, 
+including UCATA, HRS §§ 663 -11 through -17. And Gump and Moyle 
+are UCATA cases involv ing different considerations from joint 
+and several liability issues. HRS § 663 -10.5 explicitly 
+eliminates joint and several liability for government entities 
+in the circumstances of this case . So UCATA cases arguably do 
+not control. And the language of HRS § 663 -10.5 does not appear 
+to preclude an allocati on of fault to nonparties. 
+But Gump and Moyle are not only based on the language of 
+the UCATA statutes and other principles of joint and several 
+liability . Their holding s also reflect principles of 
+fundamental fairness . They say that a defendant cannot seek 
+2This court applied these principles in Doe Parents No. 1 v. State, 
+Dep’t of Educ., 100 Hawaiʻi 34, 73-74, 58 P.3d 545, 584 -85 (2002). After the 
+plaintiffs settled with and dismissed a defendant with prejudice, the 
+Department argued that the dismissed defendant nevertheless remained an 
+“other tortfeasor” whose fault should reduce its liability under HRS chapter 663. Id.   This court rejected that argument. Id.   It  reiterated that “[a] 
+party is liable within the meaning of HRS § 663 -11 if the injured person 
+could have recovered damages in a direct action against that party, had the 
+injured person chosen to pursue such an action.” Id.   Because the dismissed 
+defendant could no longer be sued, he was “not an ‘other tortfeasor’ within 
+the meaning of HRS § 663 -11,” and his fault could not be considered in 
+reducing the remaining defendant’s liability. Id.    
+46  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+  
+   
+ 
+ allocation of fault at the “eleventh hour.” In other words, 
+they are also fundamentally grounded in due process principles. 
+b.  Due process requires notice and a meaningful 
+opportunity to be heard before a plaintiff’s 
+recovery may be reduced based on the percentage 
+of liability of nonparties.  
+Article I, Section 5 of the Hawaiʻi Constitution provides 
+that “[n]o person shall be deprived of life, liberty or property 
+without due process of law.” Haw. Const. Art. I, § 5. 
+Procedural due process “protect[s] individuals against the 
+State’s arbitrary deprivation of life, liberty, or property.” 
+Brown v. Thompson, 91 Hawaiʻ i 1, 11, 979 P.2d 586, 596 (1999).   
+Plaintiffs contend the circuit court reduced their damages 
+award  in violation of their due process rights “without notice 
+or an opportunity to be heard.”  
+We agree. 
+i. Plaintiffs have a property interest . 
+In a due process analysis, Hawai‘i courts first ask whether 
+the particular interest which the claimant seeks to protect is 
+“‘property’ within the meaning of the due process clauses.” 91 
+Hawaiʻi at 10, 979 P.2d at 595 ( cleaned up ). “[A] benefit which 
+one is entitled to receive by statute constitutes a 
+constitutionally -protected property interest.” 91 Hawaiʻi at 10-
+11, 979 P.2d at 595-96 (cleaned up ). The United States Supreme 
+Court has recognized that a state -law cause of action is a 
+47  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ protected property interest for purposes of the federal Due 
+Process Clause. See  Logan v. Zimmerman Brush Co., 455 U.S. 422, 
+428 (1982)  (citing Martinez v. California, 444 U.S. 277, 281-82 
+(1980) (observing that a state tort claim is a “species of 
+‘property’ protected by the Due Process Clause”)).    
+We hold that Plaintiffs also have a due process property 
+interest under Article I, Section 5 in their cause of action as 
+well as in their damages award. The circuit court determined 
+that Plaintiffs were entitled to $ 14,167,354.81  in damages. The 
+circuit court then reduced that recovery by 30%, depriving 
+Plaintiffs of $ 4,250,206.44 . Because that ruling extinguished a 
+portion of Plaintiffs’ adjudicated recovery, it implicated a 
+protected property interest that could not be taken without 
+constitutionally adequate procedures. 
+ii. Hawai‘i’s due process clause requires 
+procedures that are fundamentally fair 
+before a protected property interest may be 
+deprived . 
+Because Plaintiffs possess a protected property interest in 
+their damages award , this court must determine what procedures 
+were constitutionally “required to protect it.” Brown, 91 
+Hawai‘i at 10, 979 P.2d at 595.  Procedural due process is not “a 
+fixed concept requiring a specific procedural course in every 
+situation.” Id. (cleaned up ). Rather, “due process is flexible 
+and calls for such procedural protections as the particular 
+48  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+  
+ 
+ 
+ 
+ 
+   
+    
+ situation demands.” Id. (cleaned up ). Nevertheless, “[t]he 
+basic elements of procedural due process of law require notice 
+and an opportunity to be heard at a meaningful time and in a 
+meaningful manner.” Id. (cleaned up ). 
+The legislative history of HRS § 663 -10.5 said that the 
+measure was necessary to promote “fairness and equity for 
+government entities” that, because of their perceived “deep 
+pockets,” might otherwise be required to pay more than their 
+fair share when determined to be joint tortfeasors. It can be 
+inferred that the Legislature sought due process for 
+governmental entities. But , as noted, Plaintiffs are also 
+entitled to due process. 
+To determine the specific procedures required to satisfy 
+due process, Hawai ʻi applies a balancing of several factors 
+including (1) the private interest that will be affected; (2) 
+the risk of an erroneous deprivation of that interest through 
+the procedures actually used, and the probable value, if any, of 
+additional or alternative procedural safeguards; and (3) the 
+governmental interest, including the burden that additional 
+procedural safeguards would entail. Id. 
+First, the private interest affected was significant: the 
+$4.25 million reduction in Plaintiffs’ damages award . 
+Second, there was a significant risk of an erroneous 
+deprivation of that interest through the procedure used , which 
+49  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+  
+ 
+  was to not require any notice or opportunity to be heard at all. 
+The procedure used would have resulted in an absolute 
+deprivation of the damages awarded, but for this judicial 
+review. But due process requires appropriate process at the 
+trial or hearing level. 
+The probable value of additional procedural safeguards is 
+substantial. Timely notice that the State intended to seek 
+nonparty apportionment would have permitted Plaintiffs to 
+investigate the proposed nonparty tortfeasors, conduct 
+meaningful discovery, and, where appropriate, seek joinder so 
+that liability, apportionment, and damages could be resolved in 
+a single proceeding. Requiring identification of the proposed 
+nonparties with sufficient particularity would also have enabled 
+the parties and the circuit court to determine whether each 
+individual qualified as an “other tortfeasor” under HRS § 663 -
+10.5 before Plaintiffs’ recovery was reduced.  
+Third, t he governmental interest likewise favors additional 
+procedural safeguards. HRS § 663 -10.5 reflects the 
+legislature’s determination that governmental entities generally 
+should be liable only for their proportionate share of fault. 
+Plaintiffs do not challe nge that legislative objective. Rather, 
+Plaintiffs seek procedures that ensure fault is allocated 
+accurately before a plaintiff’s recovery is reduced. Not 
+50  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+ 
+  
+ requiring such procedures diminishes public confidence in the 
+justice system, which does not serve the governmental interest. 
+In addition, requiring a ppropriate procedures impose s a 
+burden appropriate to the circumstances . Timely notice, 
+identification of the proposed nonparty tortfeasors, allocation 
+of the burden of proof to the party seeking apportionment, and 
+findings supporting the allocation call for orderly litigation 
+of issues underl ying any request for nonparty apportionment. 
+Indeed, such timely notice and appropriate litigation measures 
+might even reduce the overall burden on the parties and the 
+courts by permitting joinder of the proposed tortfeasors and 
+resolution of all issues of liability and damages in a single 
+proceeding at the trial level, and not necessitate a lengthy 
+appeals process. Accordingly, the governmental interest does 
+not outweigh Plaintiffs’ substantial property interest or the 
+significant risk of erroneous deprivation. 
+In summary, in balancing the substantial property interests  
+at stake, the significant risk of erroneous deprivation created 
+by the procedures employed, the considerable value of additional 
+safeguards, and the minimal burden those safeguards impose upon 
+the State, we hold that due process requires, at a minimum, the 
+following procedural protections before a plaintiff’s recovery 
+can be reduced through the allocation of fault to nonparties 
+under HRS § 663-10.5:  
+51  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1. Timely notice , through the pleadings or a prompt 
+amendment thereto, that a party intends to seek allocation 
+of fault to a n identified nonparty, sufficiently in advance 
+of trial to permit meaningful discovery and, where 
+appropriate, joinder of the alleged tortfeasor; 
+2. Identification of each proposed nonparty tortfeasor with 
+sufficient particularity to permit the parties and the 
+court to determine whether the proposed nonparty is legally 
+liable to the plaintiff and otherwise qualifies as an 
+“other tortfeasor” under HRS § 663 -10.5; 
+3. Placement of the burden on the party seeking 
+apportionment (as further discussed in Section IV.A.3 
+below) to establish the legal and factual basis for 
+allocating fault to each proposed nonparty, including that 
+the person qualifies as an “other tortfeasor” under HRS § 
+663-10.5, and the percentage of fault attributable to that 
+person; and 
+4. Findings by the trial court establishing that each 
+identified nonparty qualifies as an “other tortfeasor” 
+under HRS § 663 -10.5 and the percentage of fault 
+attributable to that nonparty before the plaintiff’s recovery is reduced.  
+These procedures would not eliminate nonparty apportionment  
+under HRS § 663-10.5. They would simply ensure that a 
+plaintiff’s adjudicated recovery is reduced only after the legal 
+and factual basis for doing so has been meaningfully litigated 
+and established.   
+Here, those safeguards were absent. Accordingly, the 
+procedures employed here were constitutionally inadequate.   
+Therefore, the circuit court’s apportionment must be  vacated.  
+We also specifically note that the reputation of nonparties 
+could be affected by a finding that they are “other tortfeasors.” Therefore, although we are not requiring impleader of nonparties at this time  for a finding of “other 
+tortfeasor” liability under HRS § 663 -10.5, courts should 
+52  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+ 
+ 
+  consider whether, under the circumstances of a particular case, 
+impleader of nonparties should be required. Although, without 
+an opportunity to litigate, there could be no res judicata 
+effect on a nonparty based on a n “other tortfeasor” 
+determination, n onparties also have a due process right to their 
+reputation al interests. 
+2. The circuit court erred in determining that the male 
+students were tortfeasors because there was 
+insufficient evidence of their tortfeasor status or 
+degree of fault. 
+In their second point of error on appeal, Plaintiffs allege 
+the circuit court erred by determining that the male students 
+were tortfeasors because there was insufficient evidence in the 
+record of their tortfeasor status or degree of fault. We agree. 
+HRS § 663 -10.5 permits allocation of fault only to those 
+who qualify as “ other tortfeasors.” A person is “liable” as a 
+tortfeasor when “the injured person could have recovered damages 
+in a direct action against that party, had the injured person 
+chosen to pursue such an action.” Doe Parents No. 1 v. State, 
+Dep’t of Educ., 100 Hawai‘i 34, 73, 58 P.3d 545, 584 (2002). 
+In Doe Parents, this court held a dismissed defendant could 
+not be treated as an “other tortfeasor” because his dismissal 
+with prejudice meant the plaintiffs could no longer maintain an 
+action against him.   100 Hawaiʻi  at 73-74, 58 P.3d at 584-85.  As 
+such, whether another person contributed to the plaintiff’s 
+53  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+   injury and whether that person qualifies as an “other 
+tortfeasor” are distinct inquiries; the latter requires that the 
+person be legally subject to liability to the plaintiff.  
+Here, the circuit court did not determine whether any 
+particular male student was legally liable to Plaintiffs. 
+Instead, it stated that “[t]here were a number of different 
+sexual abuses at different points of time by different 
+individuals,” but concluded that HRS § 663 -10.5 did not require 
+it “to assign specific percentages of liability between all the 
+various actors.” It therefore attributed 30% of the fault 
+collectively to “all the other tortfeasors combined (meaning all 
+persons who abused [A my] sexually during the relevant time 
+period).” 
+But the circuit court also noted that there was little to 
+no evidence the boys involved knew any particulars about Amy’s cognitive  disabilities. The circuit court also found that with 
+the possible exception of the boy who assaulted Amy at Ala 
+Moana, Amy was likely a peer special education student  to the 
+boys. The court further found that there was little to no 
+evidence the boys were aware or should have been aware that Amy 
+lacked ability to consent to sex. These findings indicate there 
+was insufficient evidence that the male students qualified as 
+“other  tortfeasors. ”    
+54  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+ In addition, the circuit court concluded that “all persons 
+who abused [Amy] sexually during the relevant time period” 
+constituted “other tortfeasors” under HRS § 663 -10.5 and 
+collectively allocated 30% of the fault to them and 70% to the 
+State. That collective finding was also insufficient. 
+The record contained evidence of different conduct by 
+different male students at different times . The circuit court 
+did not determine that any specific male student committed an 
+actionable tort against Amy or was someone from whom Plaintiffs 
+could have recovered damages in a direct action . Without those 
+determinations, the re was insufficient evidence that any of the 
+male students were “other tortfeasor s” within the meaning of HRS 
+§ 663-10.5. 
+3. The circuit court erroneously shifted the burden of 
+proof on apportionment from the State to Plaintiffs . 
+In their third point of error, Plaintiffs allege that the 
+circuit court erroneously shifted the burden of proof on 
+apportionment from the State to them. For the following 
+reasons, w e also agree with this point of error. 
+a. Apportionment of liability to a non -party “other 
+tortfeasor” under HRS § 663 -10.5 is an 
+affirmative defense . 
+Preliminarily, Plaintiffs assert that HRS § 663-10.5 
+creates an affirmative defense. The State disagrees.  This 
+court has not addressed whether or not HRS § 663-10.5 is an 
+affirmative defense for a government entity asserting “other 
+55  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ tortfeasor” liability . This is a question affecting pleading 
+and proof burdens. 
+HRCP Rule 8(c) requires that “[i ]n pleading to a preceding 
+pleading, a party shall set forth affirmatively” numerous 
+enumerated defenses, including contributory negligence, release, 
+waiver, and the statute of limitations, “and any other matter 
+constituting an avoidance or affirmative def ense.” The 
+affirmative defenses listed in the rule are not exclusive.  Rule 
+8(c) expressly provides that “‘any other matters constituting an avoidance or affirmative defense’ must also be pleaded 
+affirmatively.” Touche Ross, Ltd. v. Filipek, 7 Haw. App. 473,  
+487  778 P.2d 721, 730  (App. 1989).  
+Generally, an affirmative defense is one that defeats or 
+bars an otherwise valid claim. Bhakta v. Cnty . of Maui, 109 
+Hawai‘i 198, 211, 124 P.3d 943, 956 (2005). But affirmative 
+defenses are not limited to defenses that completely bar 
+recovery. 
+For example, HRCP Rule 8(c) identifies “payment” as an 
+affirmative defense. Black’s Law Dictionary  defines “payment” 
+as “[p]erformance  of an obligation by the delivery of money or 
+some other valuable thing accepted in partial or full discharge of the obligation.” Payment, Black’s Law Dictionary  (12th ed. 
+2024).   So partial payment is an affirmative defense.  
+56  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+   
+ 
+ 
+ 
+ 
+ Likewise, HRCP Rule 8(c) identifies contributory negligence 
+as an affirmative defense. Under Hawai ‘i law, contributory 
+negligence is no longer a complete bar to recovery and has been 
+replaced by comparative negligence, which reduces a plaintiff’s 
+recovery when the plaintiff’s negligence is not greater than the 
+combined negligence of the defendants. HRS § 663-31(c). Both 
+contributory and comparative negligence are affirmative 
+defenses. 
+The State contends that HRS § 663 -10.5 is not an 
+affirmative defense and is merely a limitation on liability. It 
+cites no authority for that proposition and does not explain why 
+HRS § 663 -10.5 should be treated differently from the numerous 
+affirmative defenses that limit or reduce liability. 
+Also, the State appears to have recognized HRS § 663 -10.5 
+is an affirmative defense because it pled it as such. The 
+fifteenth defense in the State’s answer to the first amended 
+complaint says: “The liability, if any, of the DOE, Nakagawa and 
+Jones, any of them or collectively, is limited under HRS §663 -
+10.5.” The fourteenth defense preceding this defense alleges 
+that Plaintiffs’ claims are barred by the equitable doctrines of 
+estoppel, collateral estoppel, res judicata, laches, and unclean 
+hands, which are affirmative defenses. 
+Other jurisdictions addressing nonparty apportionment 
+generally recognize that reducing a defendant’s liability by 
+57  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ attributing fault to a nonparty constitutes an affirmative 
+defense.  Courts have therefore required defendants to provide 
+timely notice and bear the burden of proving the nonparty’s 
+fault.  
+For example, in Hardin v. Manitowoc-Forsythe Corp., 691 
+F.2d 449, 453 (10th Cir. 1982), the Tenth Circuit addressed 
+whether fault could be allocated to “phantom parties” under 
+Kansas law. In discussing the procedural effect of the 
+defendants’ failure to plead phantom -party fault, the court 
+explained that  “[t]he policy behind Rule 8(c) is to put 
+plaintiff on notice well in advance of trial that defendant 
+intends to present a defense in the nature of an avoidance.”   
+691 F.2d at 458. It then characterized phantom-party fault as 
+such a defense, stating that “[t]he defense that a phantom party 
+contributed to the plaintiff’s injuries is in the nature of an 
+avoidance and normally would be required to be pleaded 
+affirmatively in the answer.” Id.   
+Likewise, in McGraw v. Sanders Co. Plumbing & Heating , 
+Inc., 667 P.2d 289, 295-96 (Kan. 1983), the Kansas Supreme Court 
+held that a defendant seeking to reduce its percentage of fault 
+by attributing fault to another occupies the same burden as the 
+defendant who claims the plaintiff was partially or entirely at 
+fault. 667 P.2d at 295.   The court reasoned that the defense 
+that a “‘phantom party’ contributed to the plaintiff’s injuries 
+58  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ is arguably a ‘matter constituting an avoidance’” and therefore 
+places the defendant “in the same position as if he were 
+claiming the plaintiff was negligent.” Id.  
+The Florida Supreme Court adopted the same approach in Nash 
+v. Wells Fargo Guard Serv .’s, Inc., 678 So. 2d 1262, 1264-65 
+(Fla. 1996), holding that “the defendant must plead as an affirmative defense the negligence of the nonparty and 
+specifically identify the nonparty.” The court explained that 
+pretrial notice is essential because the assertion that 
+noneconomic damages should be apportioned against a nonparty 
+“may affect both the presentation of the case and the trial 
+court’s rulings on evidentiary issues.” 678 So. 2d at 1264.  
+Thus, we hold that where “a government entity is determined 
+to be a tortfeasor” but seeks a determination that it is “liable 
+for no more than that percentage share of the damages 
+attributable to the government entity” due to the alleged 
+liability of a nonp arty “other tortfeasor,” it is asserting an 
+affirmative defense. 
+b. A defendant asserting an affirmative defense 
+bears the burden of pleading and proving the 
+defense. 
+Generally, the defendant has the burden of proof on all 
+affirmative defenses, which includes the burden of proving facts which are essential to the asserted defense.   State ex rel. 
+Shikada v. Bristol-Myers Squibb Co., 152 
+Hawai‘i 418, 526 P.3d 
+59  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ 395  (2023) (accord and satisfaction is an affirmative defense, 
+and the party asserting it bears the burden of proof).   And, 
+generally, a plaintiff is not required to disprove affirmative 
+defenses.  U.S.  Bank  Nat’l  Ass’n  v.  Castro, 131 Hawaiʻi  28, 41, 
+313 P.3d 717, 730 (2013).  
+Courts addressing nonparty apportionment have applied the 
+same principle.   In McGraw, the Kansas Supreme Court explained 
+that a defendant seeking to reduce its percentage of fault by 
+attributing fault to another  “would have the burden to plead and 
+prove his claims,” relying on the general rule that “the burden of proof on any point is upon the party asserting it.” 667 P.2d 
+at 295.   It ultimately held that “a defendant who seeks to 
+reduce his percentage of fault by comparing the fault of a party 
+joined pursuant to K.S.A. 60-258a(c) has the burden of proving 
+the joined party's fault by a preponderance of the evidence.” 
+Id.  
+Similarly, in Nash, the Florida Supreme Court held that  
+“the defendant has the burden of presenting at trial that the 
+nonparty’s fault contributed to the accident” in order to 
+include the nonparty on the verdict form. 678 So. 2d at 1265.  
+This court’s approach to liability apportionment is 
+consistent with HRS § 663 -10.5 being an affirmative defense. In 
+Collins v. Greenstein , 61 Haw. 26, 41 n.10, 595 P.2d 275, 284 
+60  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ n.10 (1979), this court quoted the Restatement (Second) of Torts 
+§ 433B(2), which states:  
+Where the tortious conduct of two or more actors has 
+combined to bring about harm to the plaintiff, and one or 
+more of the actors seeks to limit his liability on the 
+ground that the harm is capable of apportionment among 
+them, the burden of proof as to the apportionment is upon 
+each such actor. 
+Although this statement appeared in a footnote, it reflects 
+the same allocation of the burden applicable to affirmative 
+defenses generally: when an actor seeks to limit their  own 
+liability on the ground that the plaintiff’s harm is capable of 
+apportionment, that actor bears the burden of proving the 
+apportionment .   Thus, the burden is on the party seeking to 
+reduce their  liability through apportionment, rather than 
+requiring the plaintiff to disprove apportionment.  
+Here, the State sought to limit and reduce its liability . 
+The circuit court determined that the State was liable for 
+Plaintiffs’ damages , but reduced the State’s share of liability 
+by 30% based on the purported fault of other tortfeasors. 
+Because the State sought to limit its liability through 
+apportionment, it bore the burden of properly pleading and 
+proving the facts necessary to support that reduction. 
+61  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+   
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+ 
+ 
+ c. The State failed to carry its burden and waived 
+any apportionment to the male students . 
+The State generally ple d HRS § 663 -10.5 as an affirmative 
+defense. But it never specifically asserted that it was seeking 
+to allocate fault to the boys under that statute. 
+The circuit court’s apportionment under th e circumstances 
+of this case effectively shifted the State’s burden to 
+Plaintiffs. The State never identified the male students as the 
+alleged “other tortfeasors” upon whom its affirmative defense 
+depended . It was not Plaintiffs’ burden to prove that 
+unidentified nonparties were not tortfeasors. 
+Nor did the State make any attempt to establish a 
+percentage o f fault attributable to the male students. The 
+State did not identify the students whose fault it sought to 
+allocate, present evidence directed toward establishing their 
+status as “other tortfeasors” (or their respective 
+responsibilit ies), or propose any percentage of fault 
+attributable to them in its closing argument or proposed 
+findings . 
+By concluding  that “all persons who abused [Amy] sexually 
+during the relevant time period” were “other tortfeasors” and 
+collectively allocating  30% of the fault to them, the circuit 
+court relieved the State of its burden to establish both the 
+62  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ tortfeasor status of the persons upon whom its affirmative 
+defense depended , and the degree of fault attributable to them. 
+Because the State did not attempt to carry its burden, it 
+waived any argument that its liability should be reduced based 
+on the male students’ alleged fault. Therefore, the circuit 
+court erred in apportioning 30% of the fault to the male 
+students. 
+Properly p lacing the burden on the party seeking 
+apportionment to establish the legal and factual basis for 
+allocating fault to a nonparty ensures that a plaintiff’s 
+recovery is not diminished in violation of due process, as 
+occurred here. 
+4. The circuit court erred in denying Plaintiffs’ motion 
+to amend the judgment. 
+Plaintiffs’ fourth point of error challenges the circuit 
+court’s denial of their HRCP Rule 59(e) motion to amend the 
+judgment. In that motion, Plaintiffs asked the circuit court to 
+reverse its apportionment of 30% of the fault to the male 
+students and to amend the judgment accordingly. 
+For the reasons discussed above, Plaintiffs’ motion should 
+have been granted. The State did not assert that the male 
+students were “other tortfeasors” under HRS § 663 -10.5, did not 
+meet its burden of establishing their tortfeasor status or 
+degree of fault, and the circuit court could not shift that 
+63  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+   
+  
+   
+  
+ 
+ 
+ 
+  
+ 
+ burden to Plaintiffs and sua sponte apportion 30% of the fault 
+to the students . The resulting judgment therefore improperly 
+reduced Plaintiffs’ damages by 30%, or $4,250,206.44. 
+Accordingly, the circuit court erred in denying Plaintiffs’ 
+motion to amend the judgment.  
+B. The State’s Cross -Appeal 
+The State raises three points of error on cross -appeal. 
+The first two concern pretrial orders that denied a HRCP Rule 35 
+examination and a further deposition of Amy, which we address in 
+reverse order. The third alleges the circuit court’s damages 
+award was grossly excessive. None of the points of error have 
+merit. 
+1. The circuit court did not abuse its discretion 
+by denying a further deposition of Amy. 
+The State alleges that the circuit court abused its 
+discretion by denying its request to complete Amy’s deposition.  
+Discovery rulings are reviewed for abuse of discretion.   
+Kealoha, 74 Haw. at  319, 844 P.2d at  676. Under this standard, 
+we address whether the circuit court clearly exceeded the bounds 
+of reason or disregarded rules or principles of law to the 
+substantial detriment of the State.  Id.   In general, this court 
+has  recognized that discovery rules reflect a policy favoring 
+broad disclosure of relevant information and that “the 
+deposition-discovery rules are to be accorded a broad and 
+64  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ liberal treatment.” Appeal of Goodfader, 45 Haw. at  336,  367 
+P.2d at 472 (citation omitted). HRCP Rule 30 generally permits 
+parties to obtain testimony through oral depositions. HRCP Rule 
+30.   HRCP Rule 30 provides that “[a]fter commencement of the 
+action, any party may take the testimony of any person, including a party, by deposition upon oral examination.”  
+That right, however, is not absolute  or without parameters. 
+“[D]iscovery, like all matters of procedure, has ultimate and necessary boundaries.” Appeal of Goodfader, 45 Haw. at 336, 367 
+P.2d at 483  (quoting Hickman v. Taylor, 329 U.S. 495, 507 
+(1947)).  For example, HRCP Rule 26  generally allows  courts to 
+limit discovery where the discovery sought is “unreasonably cumulative or duplicative, or is obtainable from some other 
+source that is more convenient, less burdensome, or less 
+expensive”;  where the requesting party has already had ample 
+opportunity to obtain the information sought, or where “the burden or expense of the proposed discovery outweighs its likely benefit.” HRCP Rule 26 (eff. 2022).  
+HRCP Rule 26 also authorizes courts to issue protective 
+orders to “protect a party or person from annoyance, 
+embarrassment, oppression, or undue burden or expense.”  
+Further, HRCP Rule 30  specifically allows for oral depositions 
+to be limited “when it can be shown that the examination is 
+being conducted in bad faith or in such a manner as to annoy, 
+65  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+   
+ embarrass or oppress the person subject to the inquiry.” HRCP 
+Rule 30(d). 
+This court has repeatedly recognized that trial courts  have 
+considerable  latitude and discretion  over discovery  requests. 
+Kilakila  ʻO  Haleakala   v.  Bd.  of  Land  &  Nat.  Res., 138 Hawaiʻ i  
+383, 401, 382 P.3d 195, 213 (2016).  And in exercising that 
+discretion, courts may consider “all factors, including the 
+effect the inquiry might have on the person to be interrogated.” 
+Appeal of Goodfader, 45 Haw. at 335, 367 P.2d at 483.  
+Hawaiʻi courts have not articulated a specific framework 
+governing when a trial court may limit further testimony from a 
+medically or psychologically vulnerable witness. 
+However, Hawaiʻi courts have recognized a close relationship 
+between HRCP Rule 26 and its federal counterpart. See  Brende v. 
+Hara, 113 Hawai ʻi 424, 431, 153 P.3d 1109, 1116 (2007) (observing 
+that HRCP Rule 26(c) is “patterned after Federal Rules of Civil 
+Procedure Rule 26(c) ” and “[i]n instances where Hawai ʻi case law 
+and statutes are silent, this court can look to parallel federal 
+law for guidance.”).  We have also said that where a Hawaiʻ i 
+civil procedure rule is identical to the federal  rule, federal  
+court  interpretations of the rule  can be highly persuasive.   
+Carvalho  v.  AIG  Hawai'i  Ins.  Co.,  150 Hawaiʻ i  381, 386, 502 P.3d 
+482, 487 (2022).   
+66  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ Several jurisdictions characterize the complete prohibition 
+of a deposition as requiring “extraordinary circumstances .”  See  
+Salter v. Upjohn Co., 593 F.2d 649, 651 (5th Cir. 1979) 
+(observing that an order completely prohibiting a deposition is 
+“very unusual” and, absent extraordinary circumstances, would 
+likely constitute error); Dunford v. Rolly Marine Serv. Co., 233 
+F.R.D. 635, 636 (S.D. Fla. 2005) (recognizing that protective 
+orders prohibiting depositions are “rarely granted absent 
+extraordinary circumstances” and require a heavy showing of good 
+cause); In re McCorhill Publ’g, Inc. , 91 B.R. 223, 225 (Bankr. 
+S.D.N.Y. 1988) (explaining that prohibiting an oral deposition is “a very unusual procedure” and that the movant bears a heavy 
+burden of demonstrating good cause).   
+Some courts have found extraordinary circumstances where 
+the proposed deposition posed a substantial risk of life-
+threatening physical harm. See  Dunford, 233 F.R.D. at  636 
+(granting a protective order where a treating neurologist 
+attested that the witness suffered from a potentially life-
+threatening brain disorder); In re McCorhill  Publ’g, Inc., 91 
+B.R. at  225 (granting a protective order where a treating 
+physician testified that an oral deposition could threaten the 
+witness’s life because of his medical condition).  
+Courts have recognized that sufficiently supported 
+psychological harm may likewise justify prohibiting a 
+67  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+ deposition. See  Campos v. Webb Cnty., 288 F.R.D. 134, 135-36 
+(S.D. Tex. 2012) (recognizing that competent medical evidence of 
+severe psychological harm may warrant prohibiting a deposition, 
+while concluding that the plaintiff had not yet made the 
+requisite showing).  
+But courts have required that a request to prohibit a 
+deposition be supported by competent, specific, and documented 
+medical evidence demonstrating that the proposed deposition 
+poses a substantial risk of serious harm. See  Anderson v. 
+Cryovac, Inc., 805 F.2d 1, 7 (1st Cir. 1986) (holding that good cause must rest on “a particular factual demonstration of 
+potential harm”);  Medlin v. Andrew, 113 F.R.D. 650, 653 
+(M.D.N.C. 1987) (requiring a “specific and documented factual 
+showing” that a deposition would be dangerous to the deponent's 
+health); Schorr v. Briarwood Estates Ltd. P’ship , 178 F.R.D. 
+488, 492 (N.D. Ohio 1998) (finding good cause where the plaintiff supported the request with specific documentation from a PTSD expert); Campos, 288 F.R.D. at 136-38 (requiring detailed 
+medical evidence explaining how and why the deposition would 
+cause the predicted harm); Estate of Chen v. Lingting Ye, 208 
+A.3d 1168, 1176-77 (R.I. 2019) (holding that conclusory 
+predictions of harm are insufficient absent a particularized 
+factual showing).  
+68  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+ 
+  Cases also hold that where such a showing has been made, 
+trial courts should ordinarily consider whether reasonable 
+accommodations adequately mitigate the identified risk before 
+determining whether further examination should proceed. See 
+Schorr, 178 F.R.D. at 492 (permitting the deposition subject to 
+extensive conditions governing its manner and scope); Estate of 
+Chen, 208 A.3d at 1178 -79 (recognizing the trial court’s 
+authority to impose reasonable restrictions on depositions); 
+Arcaris v. Superior Court , 160 Ariz. 533 (Ariz. Ct. App. 1989) 
+(approving protective measures designed to facilitate accurate 
+testimony while minimizing harm to a child witness); Ceron v. 
+Belilovsky , 92 A.D.3d 714, 715 (2012) (upholding a protective 
+order prohibiting an oral deposition where expert evidence 
+established that testifying under oath would be detrimental to 
+the child’s health, while permitting written interrogatories 
+instead). 
+Accordingly, we hold that, in general, a party seeking to 
+prohibit a deposition on medical or psychological grounds must 
+present competent, specific, and documented evidence 
+demonstrating that the proposed deposition poses a substantial 
+risk of serious harm. Generalized concerns, conclusory med ical 
+opinions, or speculative predictions of future injury are 
+insufficient. Upon such a showing, trial court s should consider 
+whether reasonable accommodations would adequately mitigate the 
+69  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+ 
+   
+   identified risk while preserving meaningful discovery. If the 
+court determines that appropriate accommodations will 
+sufficiently reduce the risk of harm, it may permit the 
+deposition subject to those conditions. If, however, the court 
+concludes that the demonstrated risk cannot be adequately 
+mitigated through reasonable accommodations, it may limit or 
+prohibit further examination in the exercise of its discretion 
+under HRCP Rule 26. 
+Here, the circuit court did not abuse its discretion by 
+prohibiting the further deposition of Amy. The State completed 
+two depositions of Amy, one on March 31, 2016 , and the second on 
+September 29, 2016. The State successfully completed these two 
+depositions under a protective order that set measures designed 
+to minimize psychological harm. Despite those measures, Amy’s 
+symptoms worsened following the depositions, requiring increased 
+medication and raising concerns regarding a potential psychotic 
+episode. 
+Due to t hese concerns, the circuit court took the step of 
+appointing a neutral expert psychologist to assess Amy’s ability 
+to proceed with the deposition . After an exhaustive review of 
+Amy’s medical records and the recordings of Amy’s previous 
+depositions, as well as her own clinical examination of Amy, Dr. 
+Higa-Rogers agreed that Amy could not safely undergo further 
+deposition sessions. Only then did the circuit court rule that 
+70  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+     
+  
+ 
+Therefore, the circuit court was presented with 
+substantive,  specific evidence of actual harm that had already 
+befallen Amy  as well as the likelihood of further harm if a 
+further deposition was allowed to take place.  The circuit court 
+denied a third and final deposition session only because of 
+consistent medical evidence from multiple treating 
+professionals, a court-appointed neutral evaluator, and the 
+State’s own retained expert expressing serious concerns 
+regarding Amy’s ability to safely participate in a further 
+examination.  The experts opined that Amy’s chronic PTSD, severe no further deposition of Amy could proceed without court 
+approval. 
+Then, in January 2020, the State again filed a motion to 
+depose Amy. In response, the court ordered Dr. Higa -Rogers to 
+again opine whether Amy could be deposed and if she could 
+undergo a HRCP Rule 35 examination . In July 2020, Dr. Higa -
+Rogers opined: 
+As previously noted in my December 2018 report, given the 
+severity [Amy]’s intellectual disability, which is 
+pervasive in nature, she is not expected to show 
+significant improvements in her ability to comprehend the 
+legal process or complex questions, and is more likely to 
+agree when a yes/no question is asked of her and to assent when a suggestion is made to her. Furthermore, there is 
+documentation that following prior depositions [sic]  [Amy] 
+experienced an increase in her symptoms and required an increase in her medications to address her nightmares, 
+startle response and fears. The benefits of pursuing further questioning/testing do not appear to outweigh the 
+potential risks to [Amy]'s  mental health, limited coping, 
+and is unlikely to yield significant additional information.  
+71  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+   
+  
+  
+ 
+ 
+ 
+ 
+ 
+   intellectual disability, psychotic symptoms, and inability to 
+develop effective coping mechanisms rendered an additional 
+examination likely to cause further serious psychological 
+injury. 
+The record also supports the circuit court’s conclusion 
+that the likely benefit of additional examination was minimal. 
+Medical experts explained that additional questioning was 
+unlikely to be productive . Any information Amy provided might 
+not be reliable because of her disability , which rendered her 
+highly suggestible. 
+In addition, the State remained free to pursue information 
+from other sources. Although the State argu es it required 
+additional testimony regarding Amy’s interactions with her 
+neighbor, the record does not reflect that it attempted to 
+depose the neighbor directly. Nor does the record reflect that 
+the State sought testimony from other identified witnesses or 
+pursued less intrusive means of obtaining the information it 
+sought. 
+Under the circumstances, the circuit court did not abuse 
+its discretion by ruling that the marginal benefit of additional 
+examination did not justify the substantial identified risk and 
+that the risk would not dissipate with time. 
+72  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+ 
+ 2.  The circuit court did not abuse its discretion by 
+denying the State’s request for a HRCP Rule 35 
+examination.  
+The State also alleges that the circuit court abused its 
+discretion by denying its request to conduct a HRCP Rule 35 
+examination of Amy. 
+HRCP Rule 35(a) provides , in relevant part, “[w]hen the 
+mental or physical condition . . . of a party . . . is in 
+controversy, the court . . . may order the party to submit to a 
+physical or mental examination.” HRCP Rule 35(a). The rule 
+further provides that such an order “may be made only on mot ion 
+for good cause shown.” HRCP Rule 35(a). The ICA has recognized 
+that a Rule 35 motion must “adequately demonstrate the existence 
+of the Rule’s requirements of ‘in controversy’ and ‘good 
+cause,’” and that “[t]he movant must produce sufficient 
+informati on, by whatever means, so that the [trial] judge can 
+fulfill [the] function mandated by the Rule.” Glover v. Grace 
+Pac. Corp., 86 Hawai‘i 154, 160, 948 P.2d 575, 581 (App. 1997) 
+(citation omitted). 
+HRCP Rule 35 is almost identical to Rule 35 of the Federal 
+Rules of Civil Procedure.   In Schlagenhauf v. Holder, 379 U.S. 
+104, 118 (1964), the U.S. Supreme Court explained that the “in 
+controversy” and “good cause” requirements are “plainly 
+expressed limitations on the use of the Rule” and “are not met 
+by mere conclusory allegations of the pleadings, nor by mere 
+73  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+  
+ 
+ 
+ 
+ relevance to the case.” Instead, each “require[s] an 
+affirmative showing by the movant.” Id. 
+Here, Amy’s psychological condition was clearly in 
+controversy. And there was good cause for a HRCP Rule 35 
+examination. 
+But satisfaction of HRCP Rule 35’s threshold requirements 
+does not end the inquiry. Once the moving party establishes the 
+“in controversy” and “good cause” requirements , HRCP Rule 35 
+provides only that the court may order the requested 
+examination. HRCP Rule 35(a). The rule therefore authorizes , 
+but does not require, an examination. 
+Here, the circuit court did not abuse its discretion by 
+denying the HRCP Rule 35 examination . By the time the State 
+sought the examination, the court had spent years attempting to 
+address issues regarding Amy’s continued deposition, as 
+discussed above. The circuit court was well aware of 
+significant concerns regarding the effect of litigation -related 
+questioning on Amy’s mental health. 
+Most significantly, Dr. Higa -Rogers, the court -appointed 
+neutral medical expert, also recommended that the HRCP Rule 35 
+exam not proceed due to the risks to Amy’s health. Dr. Higa -
+Rogers opined that “the benefits of pursuing further 
+questioning/testing do not appear to outweigh the potential 
+74  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ risks to [Amy]’s mental health, limited coping, and is unlikely 
+to yield significant additional information.” 
+The circuit court denied the requested examination after 
+receiving this information, concluding that it posed a 
+“significant risk to [Amy]’s mental health.” The circuit court 
+did not err by concluding that the anticipated benefits of a 
+HRCP Rule 35 examination did not justify the risks identified by 
+the medical evidence. It therefore did not abuse its discretion 
+by denying the HRCP Rule 35 examination requested by the State. 
+Moreover, the denial of the HRCP Rule 35 examination did 
+not result in substantial prejudice to the State . 
+First, the State was not deprived of information concerning 
+Amy’s mental condition . The State had Amy’s extensive medical 
+records and reports. Second, the State does not specify what 
+type of otherwise unavailable information a HRCP Rule 35 
+examination was likely to produce . Finally, the State has not 
+demonstrated that denial of the HRCP Rule 35 examination 
+substantially prejudiced its defense. The State had completed 
+two depositions of Amy before seeking the examination. In 
+addition , the medical evidence consistently established that 
+Amy’s severe intellectual disability rendered her highly 
+suggestible and that any additional information obtained through 
+a HRCP Rule 35 examination might also not be reliable. 
+75  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+  
+ 
+ 
+ 
+  
+ 
+ Under these circumstances, the circuit court did not abuse 
+its discretion by denying the State’s request for a HRCP Rule 35 
+examination. 
+3. The damages award was not excessive . 
+Finally, t he State ask s this court to reverse the circuit 
+court's damages award, contending that the amount was grossly 
+excessive. 
+Appellate review of a damages award is highly deferential 
+because the assessment of damages lies primarily within the 
+province of the factfinder. See Kang, 59 Haw. at 663, 587 P.2d 
+at 292. A damages award will not be disturbed unless it is 
+“palpably not supported by the evidence” or is “so excessive and 
+outrageous” as to demonstrate that the factfinder acted against 
+the rules of law or was misled by passio n or prejudice. Kekona, 
+135 Hawaiʻi at 257, 349 P.3d at 364. In a jury -waived case, the 
+inquiry is limited to whether, “upon the evidence adduced, 
+reasonable [people] could have come to the same conclusion as 
+the . . . trial court.” Kang, 59 Haw. at 663, 587 P.2d at 292 
+(citation omitted). 
+Here, the record contains substantial evidence supporting 
+the award. The court conducted a sixty -six-day bench trial, 
+heard testimony from more than thirty witnesses, and made 
+extensive findings regarding both liability and damages. The 
+record amply supp orts the damages awar ds. 
+76  *** FOR PUBLICATION IN WEST’S HAWAI ʻI REPORTS AND PACIFIC REPORTER *** 
+  
+ 
+ 
+ 
+ 
+ 
+ Thus, the damages award ed are not excessive. 
+V. Conclusion 
+For these reasons, w e vacate the November 28, 2022 final 
+judgment to the extent it allocated 30% of the fault to 
+nonparties and reduced Plaintiffs’ damages. We remand this case 
+to the circuit for entry of an amended final judgment awarding 
+Plaintiffs the entirety of the damages found by the circuit 
+court. We affirm in all other respects. 
+Anne E. Lopez      
+Skyler G. Cruz  
+Jennifer H. Crum     
+for appellee/cross-appellant,  
+State of Hawai ʻi     
+ 
+Eric G. Ferrer      
+Susan K. Dorsey  
+William Meheula     
+for appellants/cross-appellees,  
+R.H. and A.H.  /s/ Vladimir P. Devens  
+/s/ Sabrina S. McKenna  
+/s/ Todd W. Eddins  
+/s/ Lisa M. Ginoza  
+/s/ Catherine H. Remigio  
+  77
